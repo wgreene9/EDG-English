@@ -1,0 +1,22 @@
+1434.1.1 = {
+  monarch = {
+    name = "拉希德"  # Rashid
+    dynasty = "札刺亦儿"  # al-Mughamis
+    birth_date = 1400.2.22
+    death_date = 1505.10.27
+    adm = 2
+    dip = 1
+    mil = 0
+  }
+}
+1444.1.1 = {
+  heir = {
+    name = "Ali"  # Ali Pasha
+    dynasty = "札刺亦儿"  # al-Mughamis
+    birth_date = 1440.2.22
+    death_date = 1505.10.27
+    adm = 5
+    dip = 3
+    mil = 2
+  }
+}

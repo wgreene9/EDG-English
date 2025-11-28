@@ -1,0 +1,42 @@
+1397.1.1 = {
+	monarch = {
+		name = "Giacomo I"
+		dynasty = "Crispo"
+		birth_date = 1382.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+1418.1.1 = {
+	monarch = {
+		name = "Giovanni II"
+		dynasty = "Crispo"
+		birth_date = 1388.1.1
+		adm = 2
+		dip = 3
+		mil = 0
+	}
+}
+1433.1.1 = {
+	monarch = {
+		name = "Giacomo II"
+		dynasty = "Crispo"
+		birth_date = 1426.1.1
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+	clear_scripted_personalities = yes
+	add_ruler_personality = intricate_web_weaver_personality
+}
+1447.1.1 = {
+	monarch = {
+		name = "Gian Giacomo"
+		dynasty = "Crispo"
+		birth_date = 1446.1.1
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+}

@@ -1,0 +1,490 @@
+﻿l_english:
+EDG_entry_DIPLO_PAP:0 "是教宗"
+EDG_entry_DIPLO_free_city:0 "是自由市"
+EDG_NOT_is_great_power_TOOLTIP:0 "我们必须是§Y列强§!"
+DIPLO_OPPINION_100_base:0 "基础的意愿"
+
+
+ EDG_catharism_vassal_dip_action_alert_tooltip:0 "邀请加入清洁派联盟"
+ EDG_catharism_vassal_dip_action_entry_1:0 "态度"
+AI_TOTAL_DEVELOPMENT_AEL_more_than_100:0 "超过100的发展度"
+
+EDG_Latin_Province_vassal_annex_dip_action:0 "整合行省"
+EDG_Latin_Province_vassal_annex_dip_action_title:0 "整合行省"
+EDG_Latin_Province_vassal_annex_dip_action_desc:0 "对方是我们的一个§M拉丁行省§!，作为他们的宗主国，我们可以要求撤销该行省，将他们的土地纳入我们的直辖之下。"
+EDG_Latin_Province_vassal_annex_dip_action_tooltip:0 "对方是我们的一个§M拉丁行省§!，作为他们的宗主国，我们可以要求撤销该行省，将他们的土地纳入我们的直辖之下。"
+EDG_Latin_Province_vassal_annex_dip_action_alert_tooltip:0 "整合行省"
+EDG_Latin_Province_vassal_annex_dip_action_dialog:0 "我们是对方的一个§M拉丁行省§!，作为我们的宗主国，他们可以要求撤销该行省，将我们的土地纳入他们的直辖之下。"
+
+ 
+EDG_HRE_Request_to_become_Holy_Roman_vassal_State:0 "要求成为神圣罗马陪臣国"
+EDG_HRE_Request_to_become_Holy_Roman_vassal_State_title:0 "要求成为神圣罗马陪臣国"
+EDG_HRE_Request_to_become_Holy_Roman_vassal_State_desc:0 "由于我们都属于§Y神圣罗马帝国§!的成员，且我们拥有对应的政府能力机制，我们可以要求对方成为我们的§M神罗罗马陪臣国§!。对方将成为我们的属国，向我们上缴贡赋并提供额外的军队上限。§M神罗罗马陪臣国§!不会主动加入宗主国的战争，但可以通过花费人情要求加入战争。"
+EDG_HRE_Request_to_become_Holy_Roman_vassal_State_tooltip:0 "他们将成为我们的属国，向他们上缴贡赋并提供额外的军队上限。§M神罗罗马陪臣国§!不会主动加入宗主国的战争，但可以通过花费人情要求加入战争。"
+EDG_HRE_Request_to_become_Holy_Roman_vassal_State_alert_tooltip:0 "要求成为神圣罗马陪臣国"
+
+EDG_HRE_Request_to_become_Holy_Roman_vassal_State_dialog:0 "对方要求我们成为他们的§M神罗罗马陪臣国§!。我们将成为对方的属国，向对方上缴贡赋并提供额外的军队上限。§M神罗罗马陪臣国§!不会主动加入宗主国的战争，但可以通过花费人情要求加入战争。"
+
+
+EDG_entry_DIPLO_DIG_HRE_COUNTRY:0 "是发展度高于50的帝国诸侯"
+EDG_entry_DIPLO_DIG_HRE_COUNTRY_elector:0 "是选帝侯"
+AI_TOTAL_DEVELOPMENT_HRE_more_than_25:0 "是发展度高于25的帝国诸侯"
+EDG_already_has_HRE_vassal_1_entry:0 "同类型属国的数量达到1"
+EDG_already_has_HRE_vassal_2_entry:0 "同类型属国的数量达到2"
+EDG_already_has_HRE_vassal_3_entry:0 "同类型属国的数量达到3"
+EDG_already_has_HRE_vassal_4_entry:0 "同类型属国的数量达到4"
+EDG_already_has_HRE_vassal_5_entry:0 "同类型属国的数量达到5"
+
+
+
+EDG_HRE_Request_to_become_Holy_Roman_imperial_territory_action:0 "£icon_EDG_icon_hre_emperor£要求成为帝国直辖领地"
+EDG_HRE_Request_to_become_Holy_Roman_imperial_territory_action_title:0 "£icon_EDG_icon_hre_emperor£要求成为帝国直辖领地"
+EDG_HRE_Request_to_become_Holy_Roman_imperial_territory_action_desc:0 "由于我们是§Y神圣罗马帝国§!的§Y皇帝§!，我们可以要求其他帝国成员成为§M帝国直辖领地§!。§M帝国直辖领地§!仅效忠于皇帝，若我们不再是皇帝，则对方将成为新任皇帝的属国。§M帝国直辖领地§!不会宗主国的战争，但会提供一定的税金。"
+EDG_HRE_Request_to_become_Holy_Roman_imperial_territory_action_tooltip:0 "由于我们是§Y神圣罗马帝国§!的§Y皇帝§!，我们可以要求其他帝国成员成为§M帝国直辖领地§!。§M帝国直辖领地§!仅效忠于皇帝，若我们不再是皇帝，则对方将成为新任皇帝的属国。§M帝国直辖领地§!不会宗主国的战争，但会提供一定的税金。"
+EDG_HRE_Request_to_become_Holy_Roman_imperial_territory_action_alert_tooltip:0 "要求成为帝国直辖领地"
+EDG_HRE_Request_to_become_Holy_Roman_imperial_territory_action_dialog:0 "由于他们是§Y神圣罗马帝国§!的§Y皇帝§!，他们要求我们成为§M帝国直辖领地§!。§M帝国直辖领地§!仅效忠于皇帝，若他们不再是皇帝，则我们将成为新任皇帝的属国。§M帝国直辖领地§!不会宗主国的战争，但会提供一定的税金。"
+
+
+
+EDG_FRA_Request_to_become_FRA_vassal_State:0 "要求成为法兰西保护国"
+EDG_FRA_Request_to_become_FRA_vassal_State_title:0 "要求成为法兰西保护国"
+EDG_FRA_Request_to_become_FRA_vassal_State_desc:0 "由于我们是§Y法兰西之王§!，我们可以要求对方成为我们的§M法兰西保护国§!。对方将成为我们的属国，向我们上缴贡赋并提供额外的军队上限。§M法兰西保护国§!会主动加入宗主国的战争，且拥有更低的独立倾向。"
+EDG_FRA_Request_to_become_FRA_vassal_State_tooltip:0 "由于我们是§Y法兰西之王§!，我们可以要求对方成为我们的§M法兰西保护国§!。对方将成为我们的属国，向我们上缴贡赋并提供额外的军队上限。§M法兰西保护国§!会主动加入宗主国的战争，且拥有更低的独立倾向。"
+EDG_FRA_Request_to_become_FRA_vassal_State_alert_tooltip:0 "要求成为法兰西保护国"
+EDG_FRA_Request_to_become_FRA_vassal_State_dialog:0 "由于他们是§Y法兰西之王§!，他们可以要求我们成为§M法兰西保护国§!。我们将成为对方的属国，向他们上缴贡赋并提供额外的军队上限。§M法兰西保护国§!会主动加入宗主国的战争，且拥有更低的独立倾向。"
+
+
+
+
+call_EDG_vassal_into_wars:0 "召唤属国参战"
+call_EDG_vassal_into_wars_title:0 "召唤属国参战"
+call_EDG_vassal_into_wars_desc:0 "花费§R20§!人情召唤§Y[From.GetName]§!加入§Y[Root.GetAdjective]§!的全部战争。如果我们只召唤§Y[From.GetName]§!加入防御战争，花费将减少§Y10§!。"
+call_EDG_vassal_into_wars_tooltip:0 "利用我们对目标国家的人情，以便将他们召唤到我们的战争中。"
+call_EDG_vassal_into_wars_dialog:0 "他们花费§R20§!人情召唤我们加入他们的全部战争。如果他们只召唤我们加入防御战争，花费将减少§Y10§!。"
+
+
+call_EDG_Chinese_vassal_into_wars:0 "召唤藩镇参战"
+call_EDG_Chinese_vassal_into_wars_title:0 "召唤藩镇参战"
+call_EDG_Chinese_vassal_into_wars_desc:0 "花费§R20§!人情召唤§Y[From.GetName]§!加入§Y[Root.GetAdjective]§!的全部战争。如果我们只召唤§Y[From.GetName]§!加入防御战争，花费将减少§Y10§!。并且无论如何，他们将增加§R20§!点独立倾向。"
+call_EDG_Chinese_vassal_into_wars_tooltip:0 "利用我们对目标国家的人情，以便将他们召唤到我们的战争中，并增加他们的独立倾向。"
+call_EDG_Chinese_vassal_into_wars_dialog:0 "他们花费§R20§!人情召唤我们加入他们的全部战争。如果他们只召唤我们加入防御战争，花费将减少§Y10§!。并且无论如何，我们将增加§R20§!点独立倾向。"
+
+
+
+call_EDG_disobedient_vassal_into_wars:0 "召唤属国参战"
+call_EDG_disobedient_vassal_into_wars_title:0 "召唤属国参战"
+call_EDG_disobedient_vassal_into_wars_desc:0 "花费§R20§!人情召唤§Y[From.GetName]§!加入§Y[Root.GetAdjective]§!的全部战争。如果我们只召唤§Y[From.GetName]§!加入防御战争，花费将减少§Y10§!。并且无论如何，他们将增加§R20§!点独立倾向。"
+call_EDG_disobedient_vassal_into_wars_tooltip:0 "利用我们对目标国家的人情，以便将他们召唤到我们的战争中，并增加他们的独立倾向。"
+call_EDG_disobedient_vassal_into_wars_dialog:0 "他们花费§R20§!人情召唤我们加入他们的全部战争。如果他们只召唤我们加入防御战争，花费将减少§Y10§!。并且无论如何，我们将增加§R20§!点独立倾向。"
+
+
+
+
+EDG_Mafia_privilege_4_effect_dip_action:0 "走私活动"
+EDG_Mafia_privilege_4_effect_dip_action_title:0 "走私活动"
+EDG_Mafia_privilege_4_effect_dip_action_desc:0 "我们将在他们的国内进行走私活动，这将让对方在未来的十年内获得如下修正：\n贸易效率: §R-10%§!\n国内贸易竞争力: §R-10%§!\n§M禁运效率§!: §R-50%§!"
+EDG_Mafia_privilege_4_effect_dip_action_tooltip:0 "我们将在他们的国内进行走私活动，这将让对方在未来的十年内获得负面修正。"
+EDG_Mafia_privilege_4_effect_dip_action_modifier:0 "黑手党走私活动"
+
+EDG_Mafia_privilege_7_effect_dip_action:0 "暗杀统治者"
+EDG_Mafia_privilege_7_effect_dip_action_title:0 "暗杀统治者"
+EDG_Mafia_privilege_7_effect_dip_action_desc:0 "我们将对他们的统治者进行一次暗杀活动，我将有§Y25%§!的概率直接成功暗杀对方的君主。若暗杀失败，则将让对方在未来的十年内获得如下修正：\n君主寿命: §R-50%§!"
+EDG_Mafia_privilege_7_effect_dip_action_tooltip:0 "我们将对他们的统治者进行一次暗杀活动，可能直接成功，也可能失败。若暗杀失败，则将让对方获得十年的君主寿命负面修正。"
+EDG_Mafia_privilege_7_effect_dip_action_modifier:0 "君主遭遇暗杀风险"
+
+
+
+
+EDG_Mafia_dip_action_1:0 "犯罪渗透"
+EDG_Mafia_dip_action_1_title:0 "犯罪渗透"
+EDG_Mafia_dip_action_1_desc:0 "我们将对他们进行犯罪渗透，让对方在未来的十年内获得如下修正：\n全国叛乱§!: §R+2§!\n提升稳定度所需行政点§!: §R+20%§!"
+EDG_Mafia_dip_action_1_tooltip:0 "我们将对他们进行犯罪渗透，让对方获得十年的负面修正。"
+EDG_Mafia_dip_action_1_modifier:0 "犯罪渗透"
+
+EDG_Mafia_dip_action_2:0 "煽动不忠"
+EDG_Mafia_dip_action_2_title:0 "煽动不忠"
+EDG_Mafia_dip_action_2_desc:0 "我们将对他们进行煽动不忠，让对方在未来的十年内获得如下修正：\n 所有阶层忠诚度: §R-20%§!\n 顾问花费: §R+20%§!"
+EDG_Mafia_dip_action_2_tooltip:0 "我们将对他们进行煽动不忠，让对方获得十年的负面修正。"
+EDG_Mafia_dip_action_2_modifier:0 "煽动不忠"
+
+
+#帝国
+EDG_HRE_total_Appoint_variable:0 "作为皇帝时所任命的帝国官僚总数"
+DIPLO_EDG_flavorHAB_mission_18_a_tt_flag_OPPINION:0 "驱散阴影"
+
+EDG_EMP_Confer_title_Marquis_action:0 "£icon_EDG_icon_hre_emperor£授予帝国侯爵头衔"
+EDG_EMP_Confer_title_Marquis_action_title:0 "£icon_EDG_icon_hre_emperor£授予帝国侯爵头衔"
+EDG_EMP_Confer_title_Marquis_action_desc:0 "£icon_EDG_icon_hre_emperor£我们将向他们提议，授予他们帝国侯爵的称号。如果他们§Y接受§!，这将为他们带来一定的增益，并提高他们对我们的好感，我们将失去§Y5§!点帝国权威。"
+EDG_EMP_Confer_title_Marquis_action_tooltip:0 "£icon_EDG_icon_hre_emperor£我们将向他们提议，授予他们帝国侯爵的称号。"
+EDG_EMP_Confer_title_Marquis_action_dialogc:0 "£icon_EDG_icon_hre_emperor£他们将向我们提议，授予我们帝国侯爵的称号。如果我们§Y接受§!，这将为我们带来一定的增益，并提高我们对他们的好感，他们将失去§Y5§!点帝国权威。"
+
+
+EDG_EMP_Confer_title_Markgraf_action:0 "£icon_EDG_icon_hre_emperor£授予藩候特权"
+EDG_EMP_Confer_title_Markgraf_action_title:0 "£icon_EDG_icon_hre_emperor£授予藩候特权"
+EDG_EMP_Confer_title_Markgraf_action_desc:0 "£icon_EDG_icon_hre_emperor£我们将向他们提议，授予他们藩候特权。如果他们§Y接受§!，他们的一级政府改革将变为§Y藩候国§!，并提高他们对我们的好感，我们将失去§Y2§!点帝国权威。"
+EDG_EMP_Confer_title_Markgraf_action_tooltip:0 "£icon_EDG_icon_hre_emperor£我们将向他们提议，授予他们帝国藩候特权。"
+EDG_EMP_Confer_title_Markgraf_action_dialog:0 "£icon_EDG_icon_hre_emperor£他们将向我们提议，授予我们藩候特权。如果我们§Y接受§!，我们的一级政府改革将变为§Y藩候国§!，并提高我们对他们的好感，他们将失去§Y2§!点帝国权威。"
+
+
+
+EDG_EMP_Grant_Mint_Privilege_action:0 "£icon_EDG_icon_hre_emperor£授予铸币特权"
+EDG_EMP_Grant_Mint_Privilege_action_title:0 "£icon_EDG_icon_hre_emperor£授予铸币特权"
+EDG_EMP_Grant_Mint_Privilege_action_desc:0 "£icon_EDG_icon_hre_emperor£我们将向他们提议，授予他们铸币特权。如果他们§Y接受§!，他们将会获得经济上的增益，并提高他们对我们的好感，我们将失去§Y2§!点帝国权威。"
+EDG_EMP_Grant_Mint_Privilege_action_tooltip:0 "£icon_EDG_icon_hre_emperor£我们将向他们提议，授予他们铸币特权。"
+EDG_EMP_Grant_Mint_Privilege_action_dialog:0 "£icon_EDG_icon_hre_emperor£他们将向我们提议，授予我们铸币特权。如果我们§Y接受§!，我们将会获得经济上的增益，并提高我们对他们的好感，他们将失去§Y2§!点帝国权威。"
+
+
+
+EDG_EMP_Revoke_Mint_Privilege_action:0 "£icon_EDG_icon_hre_emperor£撤销铸币特权"
+EDG_EMP_Revoke_Mint_Privilege_action_title:0 "£icon_EDG_icon_hre_emperor£撤销铸币特权"
+EDG_EMP_Revoke_Mint_Privilege_action_desc:0 "£icon_EDG_icon_hre_emperor£我们将撤销他们的铸币特权。这将降低他们对我们的好感，并剥夺他们的经济增益。"
+EDG_EMP_Revoke_Mint_Privilege_action_tooltip:0 "£icon_EDG_icon_hre_emperor£我们将剥夺他们的铸币特权。"
+
+EDG_EMP_Appoint_Generalissimo_action:0 "£icon_EDG_icon_hre_emperor£委任帝国大元帅"
+EDG_EMP_Appoint_Generalissimo_action_title:0 "£icon_EDG_icon_hre_emperor£委任帝国大元帅"
+EDG_EMP_Appoint_Generalissimo_action_desc:0 "£icon_EDG_icon_hre_emperor£我们将向他们提议，委任他们的统治者为帝国大元帅。如果他们§Y接受§!，他们将会获得军事上的增益，并提高他们对我们的好感，我们将失去§Y5§!点帝国权威。"
+EDG_EMP_Appoint_Generalissimo_action_tooltip:0 "£icon_EDG_icon_hre_emperor£我们将向他们提议，委任他们的统治者为帝国大元帅。"
+EDG_EMP_Appoint_Generalissimo_action_dialog:0 "£icon_EDG_icon_hre_emperor£他们将向我们提议，委任我们的统治者为帝国大元帅。如果我们§Y接受§!，我们将会获得军事上的增益，并提高我们对他们的好感，他们将失去§Y5§!点帝国权威。"
+
+
+EDG_EMP_Revoke_Generalissimo_action:0 "£icon_EDG_icon_hre_emperor£撤职帝国大元帅"
+EDG_EMP_Revoke_Generalissimo_action_title:0 "£icon_EDG_icon_hre_emperor£撤职帝国大元帅"
+EDG_EMP_Revoke_Generalissimo_action_desc:0 "£icon_EDG_icon_hre_emperor£我们将不再委任他们作为我们的帝国大元帅。这将降低他们对我们的好感，并剥夺他们的军事增益。"
+EDG_EMP_Revoke_Generalissimo_action_tooltip:0 "£icon_EDG_icon_hre_emperor£他们将不再是我们的帝国大元帅。"
+
+EDG_EMP_Appoint_Marquis_Imperial_Circle_action:0 "£icon_EDG_icon_hre_emperor£委任帝国圈长官"
+EDG_EMP_Appoint_Marquis_Imperial_Circle_action_title:0 "£icon_EDG_icon_hre_emperor£委任帝国圈长官"
+EDG_EMP_Appoint_Marquis_Imperial_Circle_action_desc:0 "£icon_EDG_icon_hre_emperor£我们将向他们提议，委任他们的统治者为帝国圈长官。如果他们§Y接受§!，他们将会获得外交上的增益，并提高他们对我们的好感。"
+EDG_EMP_Appoint_Marquis_Imperial_Circle_action_tooltip:0 "£icon_EDG_icon_hre_emperor£我们将向他们提议，委任他们的统治者为帝国圈长官。"
+EDG_EMP_Appoint_Marquis_Imperial_Circle_action_dialog:0 "£icon_EDG_icon_hre_emperor£他们向我们提议，委任我们的统治者为帝国圈长官。如果我们§Y接受§!，我们将会获得外交上的增益，并提高我们对他们的好感。"
+
+
+EDG_EMP_Revoke_Marquis_Imperial_Circle_action:0 "£icon_EDG_icon_hre_emperor£撤职帝国圈长官"
+EDG_EMP_Revoke_Marquis_Imperial_Circle_action_title:0 "£icon_EDG_icon_hre_emperor£撤职帝国圈长官"
+EDG_EMP_Revoke_Marquis_Imperial_Circle_action_desc:0 "£icon_EDG_icon_hre_emperor£我们将不再委任他们作为我们的帝国圈长官。这将降低他们对我们的好感，并剥夺他们的外交增益。"
+EDG_EMP_Revoke_Marquis_Imperial_Circle_action_tooltip:0 "£icon_EDG_icon_hre_emperor£他们将不再是我们的帝国圈长官。"
+Appoint_Marquis_Imperial_Circle_tt_yes:0 "£icon_yes£不存在其他§Y[From.Culture.GetName]§!文化的§Y帝国成员§!是§Y帝国圈长官§!"
+Appoint_Marquis_Imperial_Circle_tt_no:0 "£icon_no£不存在其他§Y[From.Culture.GetName]§!文化的§Y帝国成员§!是§Y帝国圈长官§!"
+
+
+DIPLO_EDG_HRE_recently_Appoint_variable_OPPINION:0 "近期委派的帝国官僚"
+EDG_EMP_Appoint_order_officer_action:0 "£icon_EDG_icon_hre_member£委派帝国秩序长官"
+EDG_EMP_Appoint_order_officer_action_title:0 "£icon_EDG_icon_hre_member£委派帝国秩序长官"
+EDG_EMP_Appoint_order_officer_action_desc:0 "£icon_EDG_icon_hre_member£我们将向他们委派帝国秩序长官，若他们同意，我们将会获得§Y1§!点帝国权威。他们将在未来20年内获得如下修正：\n月度自治度: §R+0.05%§!\n全国叛乱: §G-1%§!\n"
+EDG_EMP_Appoint_order_officer_action_tooltip:0 "£icon_EDG_icon_hre_member£我们将向他们委派帝国秩序长官。"
+EDG_EMP_Appoint_order_officer_action_alert_tooltip:0 "£icon_EDG_icon_hre_member£委派帝国秩序长官"
+EDG_EMP_Appoint_order_officer_action_dialog:0 "£icon_EDG_icon_hre_member£他们将向我们委派帝国秩序长官，若我们同意，他们将会获得§Y1§!点帝国权威。我们将在未来20年内获得如下修正：\n月度自治度: §R+0.05%§!\n全国叛乱: §G-1%§!\n"
+
+
+
+EDG_EMP_Appoint_Castle_Manager_action:0 "£icon_EDG_icon_hre_member£委派城堡总管"
+EDG_EMP_Appoint_Castle_Manager_action_title:0 "£icon_EDG_icon_hre_member£委派城堡总管"
+EDG_EMP_Appoint_Castle_Manager_action_desc:0 "£icon_EDG_icon_hre_member£我们将向他们委派城堡总管，若他们同意，我们将会获得§Y1§!点帝国权威。他们将在未来20年内获得如下修正：\n要塞维护费: §G-10%§!\n年度陆军传统: §R-0.5§!\n"
+EDG_EMP_Appoint_Castle_Manager_action_tooltip:0 "£icon_EDG_icon_hre_member£我们将向他们委派城堡总管。"
+EDG_EMP_Appoint_Castle_Manager_action_alert_tooltip:0 "£icon_EDG_icon_hre_member£委派城堡总管"
+EDG_HRE_do_not_have_influencing_fort_TT:0 "国内不存在有效的要塞"
+EDG_EMP_Appoint_Castle_Manager_action_dialog:0 "£icon_EDG_icon_hre_member£他们将向我们委派城堡总管，若我们同意，他们将会获得§Y1§!点帝国权威。我们将在未来20年内获得如下修正：\n要塞维护费: §G-10%§!\n年度陆军传统: §R-0.5§!\n"
+
+
+EDG_EMP_Appoint_salt_Manager_action:0 "£icon_EDG_icon_hre_member£委派司盐总管"
+EDG_EMP_Appoint_salt_Manager_action_title:0 "£icon_EDG_icon_hre_member£委派司盐总管"
+EDG_EMP_Appoint_salt_Manager_action_desc:0 "£icon_EDG_icon_hre_member£我们将向他们委派司盐总管，若他们同意，我们将会获得§Y1§!点帝国权威。他们将在未来20年内获得如下修正：\n生产效率: §R-10%§!\n商品产出: §G+10%§!\n"
+EDG_EMP_Appoint_salt_Manager_action_tooltip:0 "£icon_EDG_icon_hre_member£我们将向他们委派司盐总管。"
+EDG_EMP_Appoint_salt_Manager_action_alert_tooltip:0 "£icon_EDG_icon_hre_member£委派司盐总管"
+DIPLO_production_income_percentage_TT:0 "他们的生产收入占比"
+EDG_EMP_Appoint_salt_Manager_action_dialog:0 "£icon_EDG_icon_hre_member£他们将向我们委派司盐总管，若我们同意，他们将会获得§Y1§!点帝国权威。我们将在未来20年内获得如下修正：\n生产效率: §R-10%§!\n商品产出: §G+10%§!\n"
+
+
+EDG_EMP_Appoint_forest_Manager_action:0 "£icon_EDG_icon_hre_member£委派森林总管"
+EDG_EMP_Appoint_forest_Manager_action_title:0 "£icon_EDG_icon_hre_member£委派森林总管"
+EDG_EMP_Appoint_forest_Manager_action_desc:0 "£icon_EDG_icon_hre_member£我们将向他们委派森林总管，若他们同意，我们将会获得§Y1§!点帝国权威。他们将在未来20年内获得如下修正：\n国家税收: §R-10%§!\n发展成本: §G-10%§!\n"
+EDG_EMP_Appoint_forest_Manager_action_tooltip:0 "£icon_EDG_icon_hre_member£我们将向他们委派森林总管。"
+EDG_EMP_Appoint_forest_Manager_action_alert_tooltip:0 "£icon_EDG_icon_hre_member£委派森林总管"
+DIPLO_tax_income_percentage_TT:0 "他们的税收收入占比"
+EDG_EMP_Appoint_forest_Manager_action_dialog:0 "£icon_EDG_icon_hre_member£他们将向我们委派森林总管，若我们同意，他们将会获得§Y1§!点帝国权威。我们将在未来20年内获得如下修正：\n国家税收: §R-10%§!\n发展成本: §G-10%§!\n"
+
+
+EDG_EMP_Appoint_dam_Manager_action:0 "£icon_EDG_icon_hre_member£委派堤坝总管"
+EDG_EMP_Appoint_dam_Manager_action_title:0 "£icon_EDG_icon_hre_member£委派堤坝总管"
+EDG_EMP_Appoint_dam_Manager_action_desc:0 "£icon_EDG_icon_hre_member£我们将向他们委派堤坝总管，若他们同意，我们将会获得§Y1§!点帝国权威。他们将在未来20年内获得如下修正：\n主流文化省份人力: §R-10%§!\n建筑花费: §G-10%§!\n"
+EDG_EMP_Appoint_dam_Manager_action_tooltip:0 "£icon_EDG_icon_hre_member£我们将向他们委派堤坝总管。"
+EDG_EMP_Appoint_dam_Manager_action_alert_tooltip:0 "£icon_EDG_icon_hre_member£委派堤坝总管"
+DIPLO_treasury_TT:0 "他们的国库"
+DIPLO_manpower_percentage_TT:0 "他们的人力"
+EDG_EMP_Appoint_dam_Manager_action_dialog:0 "£icon_EDG_icon_hre_member£他们将向他们委派堤坝总管，若我们同意，他们将会获得§Y1§!点帝国权威。我们将在未来20年内获得如下修正：\n主流文化省份人力: §R-10%§!\n建筑花费: §G-10%§!\n"
+
+
+EDG_EMP_Appoint_trade_Manager_action:0 "£icon_EDG_icon_hre_member£委派商贸总管"
+EDG_EMP_Appoint_trade_Manager_action_title:0 "£icon_EDG_icon_hre_member£委派商贸总管"
+EDG_EMP_Appoint_trade_Manager_action_desc:0 "£icon_EDG_icon_hre_member£我们将向他们委派商贸总管，若他们同意，我们将会获得§Y1§!点帝国权威。他们将在未来20年内获得如下修正：\n省份贸易竞争力: §R-10%§!\n贸易效率: §G+10%§!\n"
+EDG_EMP_Appoint_trade_Manager_action_tooltip:0 "£icon_EDG_icon_hre_member£我们将向他们委派商贸总管。"
+EDG_EMP_Appoint_trade_Manager_action_alert_tooltip:0 "£icon_EDG_icon_hre_member£委派商贸总管"
+DIPLO_trade_income_percentage_TT:0 "他们的贸易收入占比"
+EDG_EMP_Appoint_trade_Manager_action_dialog:0 "£icon_EDG_icon_hre_member£他们将向我们委派商贸总管，若我们同意，他们将会获得§Y1§!点帝国权威。我们将在未来20年内获得如下修正：\n省份贸易竞争力: §R-10%§!\n贸易效率: §G+10%§!\n"
+
+
+EDG_EMP_Return_of_small_territories_action_modifier:0 "被要求归还帝国直辖领地"
+DIPLO_EDG_recently_Imperial_centralization_activities_variable_OPPINION:0 "近期进行的帝国集权活动"
+EDG_EMP_Return_of_small_territories_action:0 "£icon_EDG_icon_hre_member£要求归还帝国直辖领地"
+EDG_EMP_Return_of_small_territories_action_title:0 "£icon_EDG_icon_hre_member£要求归还帝国直辖领地"
+EDG_EMP_Return_of_small_territories_action_desc:0 "£icon_EDG_icon_hre_member£由于他们选择了§M政府改革§!「§Y吞并帝国直辖领地§!」，我们将有权要求他们停止自己对帝国的非法行为。若他们同意，他们对我们的好感将会降低，我们将会获得§Y1§!点帝国权威。他们将在未来20年内获得如下修正：\n国家税收: §R-20%§!\n月度自治度: §R+0.1§!\n"
+EDG_EMP_Return_of_small_territories_action_tooltip:0 "£icon_EDG_icon_hre_member£由于他们选择了§M政府改革§!「§Y吞并帝国直辖领地§!」，我们将有权要求他们停止自己对帝国的非法行为。"
+EDG_EMP_Return_of_small_territories_action_alert_tooltip:0 "£icon_EDG_icon_hre_member£要求归还帝国直辖领地"
+EDG_EMP_ask_to_Return_of_small_territories_action_10_years:0 "十年内被要求过归还帝国直辖领地"
+EDG_EMP_Return_of_small_territories_action_dialog:0 "£icon_EDG_icon_hre_member£由于我们选择了§M政府改革§!「§Y吞并帝国直辖领地§!」，他们将有权要求我们停止对帝国的非法行为。若我们同意，我们对他们的好感将会降低，他们将会获得§Y1§!点帝国权威。我们将在未来20年内获得如下修正：\n国家税收: §R-20%§!\n月度自治度: §R+0.1§!\n"
+
+
+EDG_EMP_Request_to_eliminate_heresy_action_modifier:0 "被要求肃清异端"
+EDG_EMP_Request_to_eliminate_heresy_action:0 "£icon_EDG_icon_hre_member£要求肃清异端"
+EDG_EMP_Request_to_eliminate_heresy_action_title:0 "£icon_EDG_icon_hre_member£要求肃清异端"
+EDG_EMP_Request_to_eliminate_heresy_action_desc:0 "£icon_EDG_icon_hre_member£由于他们国内存在大量的异端，我们将有权要求他们肃清国内的异端。若他们同意，他们对我们的好感将会降低，我们将会获得§Y1§!点帝国权威。他们将在未来20年内获得如下修正：\n异端容忍: §R-3§!\n对异端传教强度: §G+3§!\n"
+EDG_EMP_Request_to_eliminate_heresy_action_tooltip:0 "£icon_EDG_icon_hre_member£由于他们国内存在大量的异端，我们将有权要求他们肃清国内的异端。"
+EDG_EMP_Request_to_eliminate_heresy_action_alert_tooltip:0 "£icon_EDG_icon_hre_member£要求肃清异端"
+EDG_EMP_ask_to_Request_to_eliminate_heresy_action_10_years:0 "十年内被要求过肃清异端"
+EDG_EMP_Request_to_eliminate_heresy_action_dialog:0 "£icon_EDG_icon_hre_member£由于我们国内存在大量的异端，皇帝有权要求我们肃清国内的异端。若我们同意，我们对他们的好感将会降低，他们将会获得§Y1§!点帝国权威。我们将在未来20年内获得如下修正：\n异端容忍: §R-3§!\n对异端传教强度: §G+3§!"
+
+
+EDG_Transforming_into_vassal_state_action:0 "转变为附庸国"
+EDG_Transforming_into_vassal_state_action_title:0 "转变为附庸国"
+EDG_Transforming_into_vassal_state_action_desc:0 "我们将会改变他们的义务，将他们转变为我们的附庸国。"
+EDG_Transforming_into_vassal_state_action_tooltip:0 "我们将会改变他们的义务，将他们转变为我们的附庸国。"
+EDG_Transforming_into_vassal_state_action_alert_tooltip:0 "转变为附庸国"
+EDG_Transforming_into_vassal_state_action_dialog:0 "他们将会改变我们的义务，将我们转变为他们的附庸国。"
+
+
+EDG_EMP_Imperial_Prohibition_action:0 "£icon_EDG_icon_hre_member£颁布帝国禁令"
+EDG_EMP_Imperial_Prohibition_action_title:0 "£icon_EDG_icon_hre_member£颁布帝国禁令"
+EDG_EMP_Imperial_Prohibition_action_desc:0 "我们将对他们颁布帝国禁令，令其受到外交方面的惩罚，同时其他帝国成员将会获得针对他们的宣战理由。"
+EDG_EMP_Imperial_Prohibition_action_tooltip:0 "我们将对他们颁布帝国禁令，令其受到外交方面的惩罚，同时其他帝国成员将会获得针对他们的宣战理由。"
+EDG_EMP_Imperial_Prohibition_action_alert_tooltip:0 "£icon_EDG_icon_hre_member£颁布帝国禁令"
+
+
+EDG_Purchase_artwork_action_enable_flag_tt:0 "我们将解锁外交行动 §Y购买艺术品§!"
+EDG_Purchase_artwork_action:0 "请求购买艺术品"
+EDG_Purchase_artwork_action_title:0 "请求购买艺术品"
+EDG_Purchase_artwork_action_desc:0 "我们将会花费他们§Y年收入§!的§M10%§!，向他们换取§M5§!点威望，§M10§!点£adm£、£dip£和£mil£。"
+EDG_Purchase_artwork_action_tooltip:0 "这是一次用金钱兑换威望和点数的外交活动，购买者会花费年收入的10%换取点数和威望。"
+EDG_Purchase_artwork_action_alert_tooltip:0 "请求购买艺术品"
+EDG_Purchase_artwork_action_dialog:0 "他们将会花费我们§Y年收入§!的§M10%§!，向我们换取§M5§!点威望，§M10§!点£adm£、£dip£和£mil£。"
+
+
+
+EDG_Transforming_into_EDG_PER_vassal_action:0 "要求成为瓦利领"
+EDG_Transforming_into_EDG_PER_vassal_action_title:0 "要求成为瓦利领"
+EDG_Transforming_into_EDG_PER_vassal_action_desc:0 "由于我们拥有对应的政府能力机制，我们可以要求对方成为我们的§Y瓦利领§!。对方将成为我们的瓦利领，向我们上缴贡赋并提供额外的军队上限。\n§Y瓦利领§!会主动加入宗主国的战争，但只提供较少的贡赋和军队上限。\n§Y瓦利领§!会拥有较高的初始独立倾向，但其自身的发展度只会提供少量的独立倾向。\n每个§Y瓦利领§!会造成我们每年失去§M0.5§!的§Y正统度§!。\n每个同我们拥有相同§Y文化§!的发展度达到§M300§!的§Y瓦利领§!会为我们提供§M0.1§!的§Y月度波斯影响力§!。"
+EDG_Transforming_into_EDG_PER_vassal_action_tooltip:0 "他们将成为我们的瓦利领，向我们上缴贡赋并提供额外的军队上限。§Y瓦利领§!会主动加入宗主国的战争，但上缴更少的贡赋和军队。若我们拥有§Y波斯影响力§!政府能力，当他们的发展度达到300时，将会为我们提供每月§Y波斯影响力§!§G+0.1§!的修正。"
+EDG_Transforming_into_EDG_PER_vassal_action_alert_tooltip:0 "要求成为瓦利领"
+EDG_Transforming_into_EDG_PER_vassal_action_dialog:0 "我们将成为他们的瓦利领，向他们上缴贡赋并提供额外的军队上限。§Y瓦利领§!会主动加入宗主国的战争，但上缴更少的贡赋和军队。"
+
+
+
+EDG_Prohibition_order_action:0 "颁布禁教令"
+EDG_Prohibition_order_action_title:0 "颁布禁教令"
+EDG_Prohibition_order_action_desc:0 "我们将对对方颁布§Y禁教令§!。对方将承受一定的负面修正，但可能通过各种渠道消除这一影响。\n若我们是§Y教宗§!，将花费我们§M100§!点外交点。否则将花费我们§M50§!点教廷影响力。"
+EDG_Prohibition_order_action_tooltip:0 "我们将对对方颁布§Y禁教令§!。对方将承受一定的负面修正，但可能通过各种渠道消除这一影响。\n若我们是§Y教宗§!，将花费我们§M100§!点外交点。否则将花费我们§M50§!点教廷影响力。"
+
+
+EDG_Transforming_into_SAX_march_state_action:0 "转变为§Y帝国军事采邑§!"
+EDG_Transforming_into_SAX_march_state_action_title:0 "转变为§Y帝国军事采邑§!"
+EDG_Transforming_into_SAX_march_state_action_desc:0 "我们将会改变他们的义务，将他们转变为我们的§Y帝国军事采邑§!。\n该属国将§Y占用外交关系§!，但可以通过对§Y附庸国§!和§Y神圣罗马陪臣国§!采取特定的§M外交行动§!获取，其特性与§Y卫戍国§!一致，但每个§Y帝国军事采邑§!将会额外为我们提供§M1%§!的§Y训练度§!和§M0.02§!的月度§Y帝国军事领袖§!点数。"
+EDG_Transforming_into_SAX_march_state_action_tooltip:0 "我们将会改变他们的义务，将他们转变为我们的§Y帝国军事采邑§!。\n该属国将§Y占用外交关系§!，但可以通过对§Y附庸国§!和§Y神圣罗马陪臣国§!采取特定的§M外交行动§!获取，其特性与§Y卫戍国§!一致，但每个§Y帝国军事采邑§!将会额外为我们提供§M1%§!的§Y训练度§!和§M0.02§!的月度§Y帝国军事领袖§!点数。"
+EDG_Transforming_into_SAX_march_state_action_alert_tooltip:0 "转变为§Y帝国军事采邑§!"
+EDG_Transforming_into_SAX_march_state_action_dialog:0 "他们将会改变我们的义务，将我们转变为他们的§Y帝国军事采邑§!。"
+
+
+EDG_LIT_mission_Attracting_immigrants_action:0 "请求接纳移民"
+EDG_LIT_mission_Attracting_immigrants_action_title:0 "请求接纳移民"
+EDG_LIT_mission_Attracting_immigrants_action_desc:0 "由于我们解锁了相应的机制，我们可以请求对方向我们输出§Y移民§!，这将让我们触发事件§Y请求垦殖的外来移民§!，该事件将会将我们的治下的非§Y本文化组§!的省份转变为§G移民者的母国§!的文化，并改变相应的宗教。\n这将消耗我们§M1§!点§Y联邦团结度§!。"
+EDG_LIT_mission_Attracting_immigrants_action_tooltip:0 "由于我们解锁了相应的机制，我们可以请求对方向我们输出§Y移民§!，这将让我们触发事件§Y请求垦殖的外来移民§!，该事件将会将我们的治下的非§Y本文化组§!的省份转变为§G移民者的母国§!的文化，并改变相应的宗教。\n这将消耗我们§M1§!点§Y联邦团结度§!。"
+EDG_LIT_mission_Attracting_immigrants_action_alert_tooltip:0 "请求接纳移民"
+EDG_LIT_mission_Attracting_immigrants_action_dialog:0 "我们将触发事件，让某一省份损失发展度，若该省份不信仰我们的国教，那么将其转变为我们的国教。而他们将会触发一个事件，以获取文化和宗教移民。"
+
+
+
+EDG_FYM_Purchase_slaves_action:0 "请求购买奴隶"
+EDG_FYM_Purchase_slaves_action_title:0 "请求购买奴隶"
+EDG_FYM_Purchase_slaves_action_desc:0 "由于我们解锁了相应的机制，我们可以向对方§Y购买奴隶§!。\n我们将支付对方§M一年的收入§!以换取§Y可用的奴隶§!。\n对方的每个产物为§Y奴隶§!的省份将会为我们提供§M3§!单位的§Y可用的奴隶§!。\n§Y部落制§!的国家将会更倾向于接受我们的请求。"
+EDG_FYM_Purchase_slaves_action_tooltip:0 "由于我们解锁了相应的机制，我们可以向对方§Y购买奴隶§!。\n我们将支付对方§M一年的收入§!以换取§Y可用的奴隶§!。\n对方的每个产物为§Y奴隶§!的省份将会为我们提供§M3§!单位的§Y可用的奴隶§!。\n§Y部落制§!的国家将会更倾向于接受我们的请求。"
+EDG_FYM_Purchase_slaves_action_alert_tooltip:0 "请求购买奴隶"
+EDG_FYM_Purchase_slaves_action_dialog:0 "他们将用我们一年的收入换取一部分奴隶，以满足他们的政治需要。"
+
+AI_india_25_entry:0 "是印度国家"
+AI_Tribal_50_entry:0 "是部落制国家"
+
+EDG_sunni_Caliph_condemns_action:0 "逊尼派哈里发制裁"
+EDG_sunni_Caliph_condemns_action_title:0 "逊尼派哈里发制裁"
+EDG_sunni_Caliph_condemns_action_desc:0 "由于我们解锁了相应的机制，我们可以向对方发动§Y逊尼派哈里发制裁§!。\n我们将花费§M100§!点外交点，使他们蒙受§M10§!年的负面修正。\n该制裁§M10§!年仅可发动一次。\n我们仅能针对信仰§Y逊尼派§!的国家发动该制裁。"
+EDG_sunni_Caliph_condemns_action_tooltip:0 "由于我们解锁了相应的机制，我们可以向对方发动§Y逊尼派哈里发制裁§!。\n我们将花费§M100§!点外交点，使他们蒙受§M10§!年的负面修正。\n该制裁§M10§!年仅可发动一次。\n我们仅能针对信仰§Y逊尼派§!的国家发动该制裁。"
+EDG_sunni_Caliph_condemns_action_alert_tooltip:0 "逊尼派哈里发制裁"
+EDG_sunni_Caliph_condemns_action_dialog:0 "他们将对我们发动逊尼派哈里发制裁。"
+
+
+EDG_shiite_Caliph_condemns_action:0 "什叶派哈里发制裁"
+EDG_shiite_Caliph_condemns_action_title:0 "什叶派哈里发制裁"
+EDG_shiite_Caliph_condemns_action_desc:0 "由于我们解锁了相应的机制，我们可以向对方发动§Y什叶派哈里发制裁§!。\n我们将花费§M100§!点外交点，使他们蒙受§M10§!年的负面修正。\n该制裁§M10§!年仅可发动一次。\n我们仅能针对信仰§Y什叶派§!的国家发动该制裁。"
+EDG_shiite_Caliph_condemns_action_tooltip:0 "由于我们解锁了相应的机制，我们可以向对方发动§Y什叶派哈里发制裁§!。\n我们将花费§M100§!点外交点，使他们蒙受§M10§!年的负面修正。\n该制裁§M10§!年仅可发动一次。\n我们仅能针对信仰§Y什叶派§!的国家发动该制裁。"
+EDG_shiite_Caliph_condemns_action_alert_tooltip:0 "什叶派哈里发制裁"
+EDG_shiite_Caliph_condemns_action_dialog:0 "他们将对我们发动什叶派哈里发制裁。"
+
+
+EDG_Caliph_Jihad_action:0 "发动吉哈德"
+EDG_Caliph_Jihad_action_title:0 "发动吉哈德"
+EDG_Caliph_Jihad_action_desc:0 "由于我们解锁了相应的机制，我们可以向对方发动§Y吉哈德§!。\n我们将花费§M100§!点外交点，包括我们自己在内的与他们接壤的信仰[Root.Religion.GetName]的国家将获得针对他们的§Y圣战§!宣战理由。\n我们每隔§M10§!年仅可发动一次吉哈德。\n若我们控制§Y阿拔斯哈里发§!，那么与他们接壤的所有§Y逊尼派§!的国家也将获得针对他们的§Y圣战§!宣战理由。\n若我们控制§Y法蒂玛哈里发§!，那么与他们接壤的所有§Y什叶派§!的国家也将获得针对他们的§Y圣战§!宣战理由。"
+EDG_Caliph_Jihad_action_tooltip:0 "由于我们解锁了相应的机制，我们可以向对方发动§Y吉哈德§!。\n我们将花费§M100§!点外交点，包括我们自己在内的与他们接壤的信仰[Root.Religion.GetName]的国家将获得针对他们的§Y圣战§!宣战理由。\n我们每隔§M10§!年仅可发动一次吉哈德。\n若我们控制§Y阿拔斯哈里发§!，那么与他们接壤的所有§Y逊尼派§!的国家也将获得针对他们的§Y圣战§!宣战理由。\n若我们控制§Y法蒂玛哈里发§!，那么与他们接壤的所有§Y什叶派§!的国家也将获得针对他们的§Y圣战§!宣战理由。"
+EDG_Caliph_Jihad_action_alert_tooltip:0 "发动吉哈德"
+EDG_Caliph_Jihad_action_dialog:0 "他们将对我们发动吉哈德。"
+
+
+
+EDG_Transforming_into_EDG_FYM_slave_vassal_state_action:0 "要求成为蓄奴省"
+EDG_Transforming_into_EDG_FYM_slave_vassal_state_action_title:0 "要求成为蓄奴省"
+EDG_Transforming_into_EDG_FYM_slave_vassal_state_action_desc:0 "由于我们拥有对应的政府能力机制，我们可以要求对方成为我们的§Y蓄奴省§!。对方将成为我们的蓄奴省，向我们上缴贡赋并提供额外的军队上限。§Y蓄奴省§!不会加入宗主国的战争，并§Y占用外交关系§!，且不会跟随宗主进入战争，但会为宗主提供额外的税收、人力和军队上限，并向宗主转移贸易竞争力。若宗主被允许在特定省份设立奴隶产地，那么将可以在蓄奴省的省份上设立奴隶产地。"
+EDG_Transforming_into_EDG_FYM_slave_vassal_state_action_tooltip:0 "他们将成为我们的蓄奴省，向我们上缴贡赋并提供额外的军队上限。§Y蓄奴省§!不会加入宗主国的战争，并§Y占用外交关系§!，且不会跟随宗主进入战争，但会为宗主提供额外的税收、人力和军队上限，并向宗主转移贸易竞争力。若宗主被允许在特定省份设立奴隶产地，那么将可以在蓄奴省的省份上设立奴隶产地。"
+EDG_Transforming_into_EDG_FYM_slave_vassal_state_action_alert_tooltip:0 "要求成为蓄奴省"
+EDG_Transforming_into_EDG_FYM_slave_vassal_state_action_dialog:0 "我们将成为他们的蓄奴省，向他们上缴贡赋并提供额外的军队上限。§Y蓄奴省§!不会加入宗主国的战争，并§Y不占用外交关系§!，且不会跟随宗主进入战争，但会为宗主提供额外的税收、人力和军队上限，并向宗主转移贸易竞争力。若宗主被允许在特定省份设立奴隶产地，那么将可以在蓄奴省的省份上设立奴隶产地。"
+
+
+EDG_Transforming_into_EDG_FYM_Agha_adm_vassal_state_action:0 "要求成为持节瓦利行省"
+EDG_Transforming_into_EDG_FYM_Agha_adm_vassal_state_action_title:0 "要求成为持节瓦利行省"
+EDG_Transforming_into_EDG_FYM_Agha_adm_vassal_state_action_desc:0 "由于我们拥有对应的政府能力机制，我们可以要求对方成为我们的§Y持节瓦利行省§!。\n持节瓦利行省§Y不占用外交关系§!，且不会跟随我们进入战争，会为我们提供大量的税收并向我们转移贸易竞争力，但会减少我们的陆军上限。此外，每个持节瓦利行省会给我们造成如下修正：\n行政容量: §G+100§!\n稳定度提升花费: §G-5%§!\n陆军上限: §R-5§!\n年度陆军传统: §R-0.5§!"
+EDG_Transforming_into_EDG_FYM_Agha_adm_vassal_state_action_tooltip:0 "他们将成为我们的持节瓦利行省，向我们上缴贡赋并提供额外的军队上限。\n持节瓦利行省§Y不占用外交关系§!，且不会跟随我们进入战争，会为我们提供大量的税收并向我们转移贸易竞争力，但会减少我们的陆军上限。此外，每个持节瓦利行省会给我们造成如下修正：\n行政容量: §G+100§!\n稳定度提升花费: §G-5%§!\n陆军上限: §R-5§!\n年度陆军传统: §R-0.5§!"
+EDG_Transforming_into_EDG_FYM_Agha_adm_vassal_state_action_alert_tooltip:0 "要求成为持节瓦利行省"
+EDG_Transforming_into_EDG_FYM_Agha_adm_vassal_state_action_dialog:0 "我们将成为他们的持节瓦利行省，向他们上缴贡赋并提供额外的军队上限。\n持节瓦利行省§Y不占用外交关系§!，且不会跟随我们进入战争，会为我们提供大量的税收并向我们转移贸易竞争力，但会减少我们的陆军上限。此外，每个持节瓦利行省会给我们造成如下修正：\n行政容量: §G+100§!\n稳定度提升花费: §G-5%§!\n陆军上限: §R-5§!\n年度陆军传统: §R-0.5§!"
+
+EDG_Transforming_into_EDG_FYM_Agha_dip_vassal_state_action:0 "要求成为副苏丹行省"
+EDG_Transforming_into_EDG_FYM_Agha_dip_vassal_state_action_title:0 "要求成为副苏丹行省"
+EDG_Transforming_into_EDG_FYM_Agha_dip_vassal_state_action_desc:0 "由于我们拥有对应的政府能力机制，我们可以要求对方成为我们的§Y副苏丹行省§!。\n副苏丹行省§Y占用外交关系§!，且不会跟随我们进入战争，会为我们提供大量的税收和军队上限，并向我们转移贸易竞争力。每设立一个副苏丹行省，将会增加§M2§!个我们能够设立的§Y持节瓦利行省§!或§Y执剑阿迦行省§!的数量。"
+EDG_Transforming_into_EDG_FYM_Agha_dip_vassal_state_action_tooltip:0 "他们将成为我们的副苏丹行省，向我们上缴贡赋并提供额外的军队上限。\n副苏丹行省§Y占用外交关系§!，且不会跟随我们进入战争，会为我们提供大量的税收和军队上限，并向我们转移贸易竞争力。每设立一个副苏丹行省，将会增加§M2§!个我们能够设立的§Y持节瓦利行省§!或§Y执剑阿迦行省§!的数量。"
+EDG_Transforming_into_EDG_FYM_Agha_dip_vassal_state_action_alert_tooltip:0 "要求成为副苏丹行省"
+EDG_Transforming_into_EDG_FYM_Agha_dip_vassal_state_action_dialog:0 "我们将成为他们的副苏丹行省，向他们上缴贡赋并提供额外的军队上限。\n副苏丹行省§Y占用外交关系§!，且不会跟随我们进入战争，会为我们提供大量的税收和军队上限，并向我们转移贸易竞争力。每设立一个副苏丹行省，将会增加§M2§!个我们能够设立的§Y持节瓦利行省§!或§Y执剑阿迦行省§!的数量。"
+
+EDG_Transforming_into_EDG_FYM_Agha_mil_vassal_state_action:0 "要求成为执剑阿迦行省"
+EDG_Transforming_into_EDG_FYM_Agha_mil_vassal_state_action_title:0 "要求成为执剑阿迦行省"
+EDG_Transforming_into_EDG_FYM_Agha_mil_vassal_state_action_desc:0 "由于我们拥有对应的政府能力机制，我们可以要求对方成为我们的§Y执剑阿迦行省§!。\n执剑阿迦行省§Y不占用外交关系§!，会跟随我们进入战争，会为我们提供大量的军队并向我们转移贸易竞争力，但会需要我们花费税收进行维持。此外，每个执剑阿迦行省会给我们造成如下修正：\n行政容量: §R-100§!\n稳定度提升花费: §R+5%§!\n陆军上限: §G+5§!\n年度陆军传统: §G+0.5§!"
+EDG_Transforming_into_EDG_FYM_Agha_mil_vassal_state_action_tooltip:0 "他们将成为我们的执剑阿迦行省，向我们上缴贡赋并提供额外的军队上限。\n执剑阿迦行省§Y不占用外交关系§!，会跟随我们进入战争，会为我们提供大量的军队并向我们转移贸易竞争力，但会需要我们花费税收进行维持。此外，每个执剑阿迦行省会给我们造成如下修正：\n行政容量: §R-100§!\n稳定度提升花费: §R+5%§!\n陆军上限: §G+5§!\n年度陆军传统: §G+0.5§!"
+EDG_Transforming_into_EDG_FYM_Agha_mil_vassal_state_action_alert_tooltip:0 "要求成为执剑阿迦行省"
+EDG_Transforming_into_EDG_FYM_Agha_mil_vassal_state_action_dialog:0 "我们将成为他们的执剑阿迦行省，向他们上缴贡赋并提供额外的军队上限。\n执剑阿迦行省§Y不占用外交关系§!，会跟随我们进入战争，会为我们提供大量的军队并向我们转移贸易竞争力，但会需要我们花费税收进行维持。此外，每个执剑阿迦行省会给我们造成如下修正：\n行政容量: §R-100§!\n稳定度提升花费: §R+5%§!\n陆军上限: §G+5§!\n年度陆军传统: §G+0.5§!"
+
+EDG_FYM_Agha_vassal_government_1_change_action:0 "改变行省权力结构"
+EDG_FYM_Agha_vassal_government_1_change_action_title:0 "改变行省权力结构"
+EDG_FYM_Agha_vassal_government_1_change_action_desc:0 "由于我们拥有对应的政府能力机制，我们可以要求改变他们的权力结构，这将花费我们§M10§!点§Y政府改革§!进度。"
+EDG_FYM_Agha_vassal_government_1_change_action_tooltip:0 "由于我们拥有对应的政府能力机制，我们可以要求改变他们的权力结构，这将花费我们§M10§!点§Y政府改革§!进度。"
+EDG_FYM_Agha_vassal_government_1_change_action_alert_tooltip:0 "改变行省权力结构"
+EDG_FYM_Agha_vassal_government_1_change_action_dialog:0 "我们的权力结构将被改变。"
+
+EDG_FYM_Agha_vassal_government_2_change_action:0 "改变行省国家重心"
+EDG_FYM_Agha_vassal_government_2_change_action_title:0 "改变行省国家重心"
+EDG_FYM_Agha_vassal_government_2_change_action_desc:0 "由于我们拥有对应的政府能力机制，我们可以要求改变他们的国家重心，这将花费我们§M10§!点§Y政府改革§!进度。"
+EDG_FYM_Agha_vassal_government_2_change_action_tooltip:0 "由于我们拥有对应的政府能力机制，我们可以要求改变他们的国家重心，这将花费我们§M10§!点§Y政府改革§!进度。"
+EDG_FYM_Agha_vassal_government_2_change_action_alert_tooltip:0 "改变行省国家重心"
+EDG_FYM_Agha_vassal_government_2_change_action_dialog:0 "我们的国家重心将被改变。"
+
+
+EDG_Request_General_action:0 "向属国索取将军"
+EDG_Request_General_action_title:0 "向属国索取将军"
+EDG_Request_General_action_desc:0 "由于宗主拥有对应的政府能力机制，可以向属国索取将军"，并为宗主提供一个将军。\n该属国的§Y陆军传统§!达到§G25§!/§G50§!/§G75§!，宗主获得的基础§Y陆军传统§!为§G50§!/§G75§!/§G100§!的陆军将领。\n属国将失去§R25%§!点§Y陆军传统§!，并增加§R25%§!点§Y独立倾向§!"
+EDG_Request_General_action_tooltip:0 "由于宗主拥有对应的政府能力机制，可以向属国索取将军"，并为宗主提供一个将军。\n该属国的§Y陆军传统§!达到§G25§!/§G50§!/§G75§!，宗主获得的基础§Y陆军传统§!为§G50§!/§G75§!/§G100§!的陆军将领。\n属国将失去§R25%§!点§Y陆军传统§!，并增加§R25%§!点§Y独立倾向§!"
+EDG_Request_General_action_alert_tooltip:0 "向属国索取将军"
+EDG_Request_General_action_dialog:0 "我们将被索取一个将军。"
+
+
+
+ EDG_release_subject_action:0 "准许属国独立"
+ EDG_release_subject_action_title:0 "准许属国独立"
+ EDG_release_subject_action_desc:0 "对方是我们的属国，我们将可以自主放弃同对方的宗主关系，这将花费我们§M10§!点§Y威望§!。\n对方将获得§Y独立§!，并与我们形成§Y停战协议§!。"
+ EDG_release_subject_action_tooltip:0 "对方是我们的属国，我们将可以自主放弃同对方的宗主关系，这将花费我们§M10§!点§Y威望§!。\n对方将获得§Y独立§!，并与我们形成§Y停战协议§!。"
+ EDG_release_subject_action_dialog:0 "我们是他们的属国，我们将获得§Y独立§!，并与他们形成§Y停战协议§!。"
+
+
+EDG_Transforming_into_EDG_GSR_mil_vassal_state_action:0 "要求成为蒂玛尔领地"
+EDG_Transforming_into_EDG_GSR_mil_vassal_state_action_title:0 "要求成为蒂玛尔领地"
+EDG_Transforming_into_EDG_GSR_mil_vassal_state_action_desc:0 "由于我们拥有对应的政府能力机制，我们可以要求对方成为我们的§Y蒂玛尔领地§!。\n蒂玛尔领地§Y占用外交关系§!，会跟随我们进入战争，会为我们提供一定的税收和军队上限。此外，每个蒂玛尔领地会给我们造成如下修正：\n行政容量: §R-50§!\n骑兵作战能力: §G+5%§!\n骑兵比例: §G+2%§!"
+EDG_Transforming_into_EDG_GSR_mil_vassal_state_action_tooltip:0 "由于我们拥有对应的政府能力机制，我们可以要求对方成为我们的§Y蒂玛尔领地§!。\n蒂玛尔领地§Y占用外交关系§!，会跟随我们进入战争，会为我们提供一定的税收和军队上限。此外，每个蒂玛尔领地会给我们造成如下修正：\n行政容量: §R-50§!\n骑兵作战能力: §G+5%§!\n骑兵比例: §G+2%§!"
+EDG_Transforming_into_EDG_GSR_mil_vassal_state_action_alert_tooltip:0 "要求成为蒂玛尔领地"
+EDG_Transforming_into_EDG_GSR_mil_vassal_state_action_dialog:0 "他们要求我们成为他们的§Y蒂玛尔领地§!。\n蒂玛尔领地§Y占用外交关系§!，会跟随他们进入战争，会为他们提供一定的税收和军队上限。此外，每个蒂玛尔领地会给他们造成如下修正：\n行政容量: §R-50§!\n骑兵作战能力: §G+5%§!\n骑兵比例: §G+2%§!"
+
+EDG_tribute_to_horde_state_action:0 "向游牧朝贡"
+EDG_tribute_to_horde_state_action_title:0 "向游牧朝贡"
+EDG_tribute_to_horde_state_action_desc:0 "由于他们是强大的游牧部族，我们请求成为他们的§Y朝贡国§!。"
+EDG_tribute_to_horde_state_action_tooltip:0 "由于他们是强大的游牧部族，我们请求成为他们的§Y朝贡国§!。"
+EDG_tribute_to_horde_state_action_alert_tooltip:0 "向游牧朝贡"
+EDG_tribute_to_horde_state_action_dialog:0 "由于我们是强大的游牧部族，他们请求成为我们的§Y朝贡国§!。"
+
+
+EDG_HZB_great_conquer_diplomatic_action:0 "筹划大入侵"
+EDG_HZB_great_conquer_diplomatic_action_title:0 "筹划大入侵"
+EDG_HZB_great_conquer_diplomatic_action_desc:0 "我们将开始筹划针对他们的§Y大入侵§!，并将于两个月后以§Y大入侵§!的宣战理由对其宣战，无视停战条约，也不会因此丧失稳定度。这将花费我们§Y35§!点§Y波斯影响力§!。"
+EDG_HZB_great_conquer_diplomatic_action_tooltip:0 "我们将开始筹划针对他们的§Y大入侵§!，并将于两个月后以§Y大入侵§!的宣战理由对其宣战，无视停战条约，也不会因此丧失稳定度。这将花费我们§Y35§!点§Y波斯影响力§!。"
+EDG_HZB_great_conquer_diplomatic_action_alert_tooltip:0 "筹划大入侵"
+EDG_HZB_great_conquer_diplomatic_action_dialog:0 "他们将开始筹划针对我们的§Y大入侵§!，并将于两个月后以§Y大入侵§!的宣战理由对我们宣战，无视停战条约，也不会因此丧失稳定度。"
+
+
+EDG_Transforming_tributary_state_into_cultural_sphere_of_influence_subject_state_action:0 "将朝贡国转变为文化影响国"
+EDG_Transforming_tributary_state_into_cultural_sphere_of_influence_subject_state_action_title:0 "将朝贡国转变为文化影响国"
+EDG_Transforming_tributary_state_into_cultural_sphere_of_influence_subject_state_action_desc:0 "我们会将他们转变为我们的§Y文化影响国§!。"
+EDG_Transforming_tributary_state_into_cultural_sphere_of_influence_subject_state_action_tooltip:0 "我们会将他们转变为我们的§Y文化影响国§!。"
+EDG_Transforming_tributary_state_into_cultural_sphere_of_influence_subject_state_action_alert_tooltip:0 "将朝贡国转变为文化影响国"
+EDG_Transforming_tributary_state_into_cultural_sphere_of_influence_subject_state_action_dialog:0 "他们请求将我们转变为他们的§Y文化影响国§!。"
+
+
+
+EDG_Transforming_cultural_sphere_of_influence_subject_state_into_tributary_state_action:0 "将文化影响国转变为朝贡国"
+EDG_Transforming_cultural_sphere_of_influence_subject_state_into_tributary_state_action_title:0 "将文化影响国转变为朝贡国"
+EDG_Transforming_cultural_sphere_of_influence_subject_state_into_tributary_state_action_desc:0 "我们会将他们转变为我们的§Y朝贡国§!。"
+EDG_Transforming_cultural_sphere_of_influence_subject_state_into_tributary_state_action_tooltip:0 "我们会将他们转变为我们的§Y朝贡国§!。"
+EDG_Transforming_cultural_sphere_of_influence_subject_state_into_tributary_state_action_alert_tooltip:0 "将文化影响国转变为朝贡国"
+EDG_Transforming_cultural_sphere_of_influence_subject_state_into_tributary_state_action_dialog:0 "他们请求将我们转变为他们的§Y朝贡国§!。"
+
+EDG_HZB_set_mongol_brother_realm_action:0 "册封宗王领地"
+EDG_HZB_set_mongol_brother_realm_action_title:0 "册封宗王领地"
+EDG_HZB_set_mongol_brother_realm_action_desc:0 "我们会将他们转变为我们的§Y宗王领地§!，这将花费我们§M100§!点§Y波斯影响力§!。"
+EDG_HZB_set_mongol_brother_realm_action_tooltip:0 "我们会将他们转变为我们的§Y宗王领地§!，这将花费我们§M100§!点§Y波斯影响力§!。"
+EDG_HZB_set_mongol_brother_realm_action_alert_tooltip:0 "册封宗王领地"
+EDG_HZB_set_mongol_brother_realm_action_dialog:0 "他们请求将我们转变为他们的§Y宗王领地§!，这将花费我们§M100§!点§Y波斯影响力§!。"
+
+
+
+
+EDG_TUR_make_great_vizier_action:0 "任命大维齐尔"
+EDG_TUR_make_great_vizier_action_title:0 "任命大维齐尔"
+EDG_TUR_make_great_vizier_action_desc:0 "我们会将他们任命为我们的§Y大维齐尔§!，我们将需要如下花费：\n失去§M2.5§!点§Y帝国行政化§!\n失去§M2.5§!点§Y军事集权化§!\n获得§M2.5§!点§Y腐化度§!\n被委任为§Y大维齐尔§!的国家将获得如下修正：\n§M月度行政点§!:§G+1§!\n§M独立倾向§!:§G-50%§!\n我们将根据被任命为§Y大维齐尔§!的国家的§M统治者§!的§Y君主行政能力§!获得修正，大维齐尔的行政能力越高，我们获得的加成越多。"
+EDG_TUR_make_great_vizier_action_tooltip:0 "我们会将他们任命为我们的§Y大维齐尔§!，我们将需要如下花费：\n失去§M2.5§!点§Y帝国行政化§!\n失去§M2.5§!点§Y军事集权化§!\n获得§M2.5§!点§Y腐化度§!\n被委任为§Y大维齐尔§!的国家将获得如下修正：\n§M月度行政点§!:§G+1§!\n§M独立倾向§!:§G-50%§!\n我们将根据被任命为§Y大维齐尔§!的国家的§M统治者§!的§Y君主行政能力§!获得修正，大维齐尔的行政能力越高，我们获得的加成越多。"
+EDG_TUR_make_great_vizier_action_alert_tooltip:0 "任命大维齐尔"
+EDG_TUR_make_great_vizier_action_dialog:0 "他们将我们任命为他们的§Y大维齐尔§!。"
+
+
+EDG_TUR_remove_great_vizier_action:0 "免除大维齐尔"
+EDG_TUR_remove_great_vizier_action_title:0 "免除大维齐尔"
+EDG_TUR_remove_great_vizier_action_desc:0 "我们将免除他们§Y大维齐尔§!的身份，我们将可以委任其他国家为§Y大维齐尔§!。"
+EDG_TUR_remove_great_vizier_action_tooltip:0 "我们将免除他们§Y大维齐尔§!的身份，我们将可以委任其他国家为§Y大维齐尔§!。"
+EDG_TUR_remove_great_vizier_action_alert_tooltip:0 "免除大维齐尔"
+EDG_TUR_remove_great_vizier_action_dialog:0 "他们不再将我们视为他们的§Y大维齐尔§!。"
+
+
+EDG_Transforming_into_crown_territory_state_action:0 "转变为§Y王冠领地§!"
+EDG_Transforming_into_crown_territory_state_action_title:0 "转变为§Y王冠领地§!"
+EDG_Transforming_into_crown_territory_state_action_desc:0 "我们将会改变他们的义务，将他们转变为我们的§Y王冠领地§!。\n§Y王冠领地§!提供更多的赋税、陆军上限、海军上限和人力，但§M占用外交关系§!。\n-我们每§M50§!年才可设立一个§Y王冠领地§!\n-将§Y王冠领地§!转变为§Y附庸国§!将可以消除冷却时间\n-通过§G任务§!和§G决议§!设立王冠领地不受冷却时间限制"
+EDG_Transforming_into_crown_territory_state_action_tooltip:0 "我们将会改变他们的义务，将他们转变为我们的§Y王冠领地§!。\n§Y王冠领地§!提供更多的赋税、陆军上限、海军上限和人力，但§M占用外交关系§!。\n-我们每§M50§!年才可设立一个§Y王冠领地§!\n-将§Y王冠领地§!转变为§Y附庸国§!将可以消除冷却时间\n-通过§G任务§!和§G决议§!设立王冠领地不受冷却时间限制"
+EDG_Transforming_into_crown_territory_state_action_alert_tooltip:0 "转变为§Y王冠领地§!"
+EDG_Transforming_into_crown_territory_state_action_dialog:0 "他们将会改变我们的义务，将我们转变为他们的§Y王冠领地§!。\n§Y王冠领地§!提供更多的赋税、陆军上限、海军上限和人力，但§M占用外交关系§!。"
+EDG_Transforming_into_crown_territory_state_action_enable_flag_tt:0 "解锁§Y外交行动§!：「转变为§Y王冠领地§!」\n该外交行动将允许我们将§Y附庸国§!、§!卫戍国§!和§Y战区§!转变为§Y王冠领地§!。\n§Y王冠领地§!提供更多的赋税、陆军上限、海军上限和人力，但§M占用外交关系§!。\n-我们每§M50§!年才可设立一个§Y王冠领地§!\n-将§Y王冠领地§!转变为§Y附庸国§!将可以消除冷却时间\n-通过§G任务§!和§G决议§!设立王冠领地不受冷却时间限制"
+
+EDG_Transforming_vassal_state_into_EDG_catharism_vassal_action:0 "转变为清洁派联盟成员"
+EDG_Transforming_vassal_state_into_EDG_catharism_vassal_action_title:0 "转变为清洁派联盟成员"
+EDG_Transforming_vassal_state_into_EDG_catharism_vassal_action_desc:0 "作为清洁派世界的领袖，我们能够将其他清洁派§M属国§!邀请加入我们的清洁派联盟之中，我们将庇护和领导其他清洁派§M属国§!作为我们的首要义务，并将其他清洁派力量团结入我们的体系之中。\n\n将该国邀请加入我们的清洁派联盟后，该国将成为我们的§Y清洁派联盟成员国§!。§Y清洁派联盟成员国§!属于由宗主国领导的清洁派联盟，必须跟随它们的宗主国加入战争，不能采取特定的外交行动，且不会上交它们的收入给其宗主国。\n\n将§Y附庸国§!和§Y卫戍国§!转变为清洁派联盟成员国，将花费我们§R100§!点§Y外交点§!"
+EDG_Transforming_vassal_state_into_EDG_catharism_vassal_action_tooltip:0 "作为清洁派世界的领袖，我们能够将其他清洁派§M属国§!邀请加入我们的清洁派联盟之中，我们将庇护和领导其他清洁派§M属国§!作为我们的首要义务，并将其他清洁派力量团结入我们的体系之中。\n\n将该国邀请加入我们的清洁派联盟后，该国将成为我们的§Y清洁派联盟成员国§!。§Y清洁派联盟成员国§!属于由宗主国领导的清洁派联盟，必须跟随它们的宗主国加入战争，不能采取特定的外交行动，且不会上交它们的收入给其宗主国。\n\n将§Y附庸国§!和§Y卫戍国§!转变为清洁派联盟成员国，将花费我们§R100§!点§Y外交点§!"
+EDG_Transforming_vassal_state_into_EDG_catharism_vassal_action_alert_tooltip:0 "转变为清洁派联盟成员"
+EDG_Transforming_vassal_state_into_EDG_catharism_vassal_action_dialog:0 "他们将会改变我们的义务，将我们转变为他们的§Y清洁派联盟成员§!。\n§Y清洁派联盟成员§!必须跟随它们的宗主国加入战争，不能采取特定的外交行动，且不会上交它们的收入给其宗主国。"
+
+
+ EDG_catharism_vassal_dip_action_title:0 "邀请加入清洁派联盟"
+ EDG_catharism_vassal_dip_action_desc:0 "作为清洁派世界的领袖，我们能够将其他清洁派§M盟友§!邀请加入我们的清洁派联盟之中，我们将庇护和领导其他清洁派§M盟友§!作为我们的首要义务，并将其他清洁派力量团结入我们的体系之中。\n\n将该国邀请加入我们的清洁派联盟后，该国将成为我们的§Y清洁派联盟成员国§!。§Y清洁派联盟成员国§!属于由宗主国领导的清洁派联盟，必须跟随它们的宗主国加入战争，不能采取特定的外交行动，且不会上交它们的收入给其宗主国。\n\n我们可以无代价将§M盟友§!邀请入清洁派联盟。
+ EDG_catharism_vassal_dip_action_tooltip:0 "作为清洁派世界的领袖，我们能够将其他清洁派国家邀请加入我们的清洁派联盟之中。"
+ EDG_catharism_vassal_dip_action_dialog:0 "对方邀请我们加入他们的清洁派联盟，我们将成为他们的属国，并向他们履行军事义务，追随他们的军事行动。"
+
+
+
+EDG_Prohibition_order_TO_HRE_MEMBERS_action:0 "对帝国诸侯颁布禁教令"
+EDG_Prohibition_order_TO_HRE_MEMBERS_action_title:0 "对帝国诸侯颁布禁教令"
+EDG_Prohibition_order_TO_HRE_MEMBERS_action_desc:0 "我们将对对方颁布§Y禁教令§!。对方将承受一定的负面修正，但可能通过各种渠道消除这一影响。\n若我们是§Y教宗§!，将花费我们§M100§!点外交点。否则将花费我们§M50§!点教廷影响力。"
+EDG_Prohibition_order_TO_HRE_MEMBERS_action_tooltip:0 "我们将对对方颁布§Y禁教令§!。对方将承受一定的负面修正，但可能通过各种渠道消除这一影响。\n若我们是§Y教宗§!，将花费我们§M100§!点外交点。否则将花费我们§M50§!点教廷影响力。"

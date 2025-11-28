@@ -1,0 +1,319 @@
+
+EDG_flavor_LOT_flavor_13_A_name_effect = {
+	define_advisor = {
+	  type = army_reformer
+	  culture = turkish
+	  religion = sunni
+	  name = "易卜拉欣「土耳其人」"
+	  skill = 2
+	  cost_multiplier = 0.5
+	}
+}
+EDG_flavor_LOT_flavor_15_a_name_effect = {
+	define_general = {
+	  name = "穆斯塔法 伊斯麦特"
+	  fire = 3
+	  shock = 4
+	  manuever = 4
+	  siege = 2
+	  trait = edg_bulgarian_avanced_tactical_master_personality
+	}
+}
+EDG_flavor_LOT_mission_38_a_name_effect = {
+	define_general = {
+	  name = "卡尔 阿埃尔"
+	  fire = 2
+	  shock = 5
+	  manuever = 3
+	  siege = 0
+	}
+}
+
+EDG_flavor_LOT_mission_38_c_name_effect = {
+	define_advisor = {
+	  type = army_reformer
+	  name = "卡尔 德 巴尔"
+	  skill = 2
+	  cost_multiplier = 0.5
+	}
+}
+EDG_mission_LOT_2_15_name_effect = {
+	1272 = { change_province_name = "洛塔林吉亚海峡" }
+	1269 = { change_province_name = "贝尔娜黛特海岸" }
+}
+EDG_flavor_LOT_flavor_35_a_name_effect = {
+	define_consort = {
+		name = "卡洛斯 I"
+    	dynasty = "德 埃诺"  # de Valois
+		culture = wallonian
+		adm = 2
+		dip = 5
+		mil = 6
+		age = 16
+	}
+	add_queen_personality = bold_fighter_personality
+	define_heir = {
+		name = "路德维希"
+		claim = 100       
+		dynasty = ROOT
+		age = 1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+
+}
+EDG_LOT_disaster_marriage_14_a_name_effect = {
+	define_general = {
+	  name = "威廉 冯 于利希-贝格"
+	  fire = 4
+	  shock = 5
+	  manuever = 4
+	  siege = 2
+	}
+}
+EDG_LOT_disaster_marriage_15_a_name_effect = {
+	define_advisor = {
+	  type = treasurer
+	  culture = hessian
+	  name = "威廉 冯 于利希-贝格"
+	  skill = 3
+	  cost_multiplier = 0.25
+	}
+}
+EDG_LOT_disaster_marriage_11_a_name_effect = {
+	hidden_effect = {
+		if = {
+			limit = {
+				BRG = {
+					is_subject_of = root
+				}
+			}
+			BRG = {
+				kill_heir = {}
+				define_heir = {
+					name = "威廉"
+					monarch_name = "威廉 III" 	# Wilhelm III
+					claim = 100       
+					age = 25
+					adm = 3
+					dip = 6
+					mil = 5
+				}
+				kill_ruler = yes
+			}
+		}
+	}
+}
+EDG_LOT_disaster_marriage_35_A_name_effect = {
+	define_consort = {
+		name = "卡洛斯 I 「奥德赛」"
+    	dynasty = "德 埃诺"  # de Valois
+		culture = wallonian
+		adm = 2
+		dip = 5
+		mil = 6
+		age = 43
+	}
+	add_queen_personality = legendary_conqueror_personality
+	define_heir = {
+		name = "加布里埃尔"
+    	monarch_name = "加布里埃尔 I 「狼心」"  # Louis Xl
+		claim = 100       
+		dynasty = ROOT
+		age = 19
+		adm = 3
+		dip = 5
+		mil = 4
+	}
+}
+EDG_LOT_disaster_frank_5_a_name_effect = {
+	define_ruler = {
+		name = "阿德里安 I 「太阳」"
+		claim = 100       
+		dynasty = ROOT
+		age = 25
+		adm = 4
+		dip = 5
+		mil = 6
+	}
+    add_ruler_personality = strict_personality
+}
+
+EDG_LOT_disaster_frank_1_GER_EFFECT = {
+	every_province = {
+		limit = {
+			or = {
+				region = south_german_region
+				region = north_german_region
+			}
+			not = { culture = root }
+			not = { area = lower_rhineland_area }
+		}
+		add_core = GER
+		if = {
+			limit = { exists = GER }
+			cede_province = GER
+		}
+		else = {
+			cede_province = ROOT
+		}
+	}
+	if = {
+		limit = { exists = GER }
+	}
+	else = {
+		release = GER
+	}
+	GER = {
+		add_government_reform = EDG_LOT_the_frank_war_monarchy
+		every_owned_province = {
+			limit = { not = { is_core = root } }
+			GER = {
+				add_government_power = {
+					mechanic_type = EDG_LOT_the_frank_war_monarchy_ability
+					power_type = EDG_LOT_the_frank_war_monarchy_power
+					value = 1
+				}
+			}
+		}
+		set_in_empire = no
+		add_stability = 3
+		set_government_rank = 3
+		add_adm_power = 600
+		add_dip_power = 600
+		add_treasury = 5000
+		add_manpower = 300
+		add_prestige = 100
+		add_prestige = 100
+		define_ruler = {
+			name = "伯恩哈德 I 「阿喀琉斯」"
+			dynasty = "冯 维特尔斯巴赫"
+			adm = 2
+			dip = 5
+			mil = 6
+			age = 45
+			claim = 95
+		}
+		define_ruler_to_general = {
+			fire = 5
+			shock = 5
+			manuever = 4
+			siege = 0
+			death_date = 1590.11.24
+		}
+		for = {
+			amount = 200
+			effect = "
+				capital_scope = {
+					infantry = GER
+				}
+			"
+		}
+	}
+
+      declare_war_with_cb = {
+        who = GER
+        casus_belli = cb_EDG_LOT_drank_war
+      }
+}
+
+
+
+
+EDG_LOT_disaster_frank_1_ITA_EFFECT = {
+	every_province = {
+		limit = {
+			region = italy_region
+			not = { owned_by = PAP }
+			not = { culture = root }
+			not = { area = lower_rhineland_area }
+		}
+		add_core = ITA
+		if = {
+			limit = { exists = ITA }
+			cede_province = ITA
+		}
+		else = {
+			cede_province = ROOT
+		}
+	}
+	if = {
+		limit = { exists = ITA }
+	}
+	else = {
+		release = ITA
+	}
+	if = {
+		limit = {
+			PAP = { is_subject_of = root }
+		}
+		ITA = {
+			create_subject = {
+				subject_type = march
+				subject = PAP
+			}
+		}
+	}
+	ITA = {
+		add_government_reform = EDG_LOT_the_frank_war_monarchy
+		every_owned_province = {
+			limit = { not = { is_core = root } }
+			ITA = {
+				add_government_power = {
+					mechanic_type = EDG_LOT_the_frank_war_monarchy_ability
+					power_type = EDG_LOT_the_frank_war_monarchy_power
+					value = 1
+				}
+			}
+		}
+		add_stability = 3
+		set_government_rank = 3
+		add_adm_power = 600
+		add_dip_power = 600
+		add_treasury = 5000
+		add_manpower = 300
+		add_prestige = 100
+		add_prestige = 100
+		define_ruler = {
+			name = "亚历山德罗 I 「拒受赐福者」"
+			dynasty = "迪 美帝奇"
+			adm = 4
+			dip = 6
+			mil = 4
+			age = 30
+			claim = 95
+		}
+		define_ruler_to_general = {
+			fire = 6
+			shock = 5
+			manuever = 2
+			siege = 4
+			death_date = 1590.11.24
+		}
+		for = {
+			amount = 200
+			effect = "
+				capital_scope = {
+					infantry = ITA
+				}
+			"
+		}
+	}
+
+      declare_war_with_cb = {
+        who = ITA
+        casus_belli = cb_EDG_LOT_drank_war
+      }
+}
+EDG_LOT_disaster_marriage_21_a_name_effect = {
+	define_ruler = {
+		name = "亨利 III"
+		claim = 100       
+		dynasty = "德 吕西尼昂"
+		age = 25
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}

@@ -1,0 +1,69 @@
+graphical_culture = westerngfx
+color = {
+  0
+  156
+  70
+}
+
+revolutionary_colors = {
+  213
+  39
+  25
+}
+historical_idea_groups = {
+  defensive_ideas
+  offensive_ideas
+  economic_ideas
+  exploration_ideas
+  administrative_ideas
+  maritime_ideas
+  quality_ideas
+  innovativeness_ideas
+}
+historical_units = {
+  western_medieval_infantry
+  chevauchee
+  western_men_at_arms
+  swiss_landsknechten
+  dutch_maurician
+  french_caracolle
+  anglofrench_line
+  french_dragoon
+  french_bluecoat
+  french_cuirassier
+  french_impulse
+  mixed_order_infantry
+  open_order_cavalry
+  napoleonic_square
+  napoleonic_lancers
+}
+monarch_names = {
+  "路易 #10" = 160  # Louis #10
+  "查尔斯 #5" = 80  # Charles #5
+  "亨利 #1" = 60  # Henri #1
+  "弗朗索瓦 #0" = 40  # 
+  "菲利普 #6" = 10  # Philippe #6
+
+}
+leader_names = {
+  "伯努维"  # de Bonneuil
+  "博斯克"  # du Bosquet
+  "布立吞"  # 
+  "勃热"  # de Broglie
+}
+ship_names = {
+  "比斯开海军上将"  # Amiral de Biscaye
+  "马琳骑兵"  # Cheval Marin
+  "波尔多权威"  # Commerce de Bordeaux
+}
+army_names = {
+  "皇家"  # royale
+  "法兰德"  # des Flandres
+  "诺德"  # du Nord
+  "勒埃"  # de l'Est
+  "热拉"  #  du Jura
+}
+fleet_names = {
+  "第一舰队"  # Escadre de la Manche
+  "大西洋舰队"  # Escadre de l'Atlantique
+}

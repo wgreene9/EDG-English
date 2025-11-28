@@ -1,0 +1,190 @@
+﻿l_english:
+ EDG_HSA_mission_3_1_title:0 "鹰旗高扬"
+ EDG_HSA_mission_3_1_desc:0 "汉萨同盟制定的征募制度征召了全联盟所有健壮的农民子弟。为了保护共和国、保护加盟邦、保护国境内的人民，吕贝克的小伙子们，前进！"
+ 
+ EDG_HSA_mission_3_1.effect.tt:0 "每个§T贸易联盟成员§!将会给予我们§Y10§!¤与§Y10§!£adm££dip££mil£\n"
+ EDG_HSA_mission_3_1.get_claim.effect.tt:0 "获得所有位于§Y吕贝克§!、§Y波罗的§!、§Y诺夫哥罗德§!§T贸易区§!拥有§Y河口§!、§Y贸易中心§!且为§T沿海省份§!的§Y永久宣称§!\n"
+ EDG_HSA_mission_3_1.add_modifier.effect.tt:0 "下述§Y修正§!将会根据§T贸易联盟成员§!数量而§Y加强§!，在§T贸易联盟§!拥有§Y6§!个成员时获得§Y最终奖励§!\n"
+ EDG_HSA_mission_3_1.get_modifier.effect.tt:0 "当我们是§T贸易联盟§!§Y领袖§!时，将会获得一个§Y修正§!以及§Y其他奖励§!。\n\n该§Y修正§!将会根据§T贸易联盟成员§!数量而§Y加强§!，并在§T贸易联盟§!拥有§Y6§!个成员时获得§Y最终奖励§!\n"
+
+ EDG_HSA_mission_3_4_title:0 "普鲁士公约"
+ EDG_HSA_mission_3_4_desc:0 "普鲁士公国已失宠于上帝。曾经趾高气扬的天主教修会如今已成为其无能领导层和邻国君主的傀儡。插手将他们的人民从暴政统治中拯救出来方是智举。"
+ EDG_HSA_mission_3_4.effect.tt:0 "根据§Y完成任务§!的§T方式§!来决定§Y任务奖励§!"
+
+ EDG_HSA_mission_3_5_title:0 "拓展军事武装"
+ EDG_HSA_mission_3_5_desc:0 "作战方式已发生改变。过去参战的部队主要由训练不足的民兵和那些装备不良临时征召的农民所组成，现今已被训练有素的武装力量和常备军所取代。为了解决国家在军事问题上的担忧，我们必须任命一位陆军大臣，来领导一支现代化的军队。"
+ EDG_HSA_mission_3_5.effect.tt:0 "提高§T汉萨城市§!的§Y陆军上限§!；每个§T汉萨城市§!将提供额外§G2§!§Y陆军上限§!\n"
+
+ EDG_HSA_mission_3_6_title:0 "帝国之内"
+ EDG_HSA_mission_3_6_desc:0 "在这个独特的联盟议会中我们正处在非常主要的位置上面对皇帝。在外交和战争问题上，具有「帝国直属地位」的帝国成员能直接与皇帝接触。我们必须利用这种影响力，对荷尔斯泰因地区和帝国的北部地区提出要求。"
+
+ EDG_HSA_mission_3_7_title:0 "端正位置"
+ EDG_HSA_mission_3_7_desc:0 "征服石勒苏益格和荷尔斯泰因公国绝非易事。我们要在神圣罗马帝国内施加帝国影响力，安全地占领这些土地，免受这些领土被皇帝自己侵吞的风险。"
+ EDG_HSA_mission_3_7.effect.tt:0 "如果§Y神圣罗马帝国皇帝§!对我们拥有至少§Y100§!好感度，省份§Y[1775.GetName]§!将被§T割让§!给我们，且我们获得该省份的§T核心§!\n"
+
+ EDG_HSA_mission_3_8_title:0 "自由市宪章"
+ EDG_HSA_mission_3_8_desc:0 "随着我们影响力不断的在帝国内部扩张，帝国的各个自由市也逐渐的想要加入汉萨同盟以换取更高的利润，而我们也应该利用这一点继续建设我们的商业帝国。"
+ EDG_HSA_mission_3_8.effect.tt:0 "帝国当中所有§T自由市§!§Y首都§!都将获得修正§Y§T汉萨同盟§!商贸站§!\n"
+
+ EDG_HSA_mission_3_9_title:0 "商业海军"
+ EDG_HSA_mission_3_9_desc:0 "对于一个渴望主导欧洲海上力量的共和国来说，当务之急必然是要有一支合适的海军。我们现在将投资扩大我们的海上船队来保护我们的贸易。"
+ EDG_HSA_mission_3_9.effect.tt:0 "每个§T汉萨城市§!将提供额外§G5%§!§Y贸易效率§!\n"
+
+ EDG_HSA_mission_3_10_title:0 "复式记账法"
+ EDG_HSA_mission_3_10_desc:0 "意大利半岛的财富急剧增长，这证明了他们在商贸领域作出的各项进步是有价值的。如果我们要跟上竞争步伐，就应该采纳这些明智的方法。"
+ EDG_HSA_mission_3_10.effect.tt:0 "每个§T汉萨城市§!将提供额外§G5%§!§Y生产效率§!\n"
+
+ EDG_HSA_mission_3_11_title:0 "推行吕贝克法典"
+ EDG_HSA_mission_3_11_desc:0 "吕贝克的法律规定了地方政府的自主管理权，但在吕贝克的条例里并不否认本地与宗主的从属关系，无论其是主教、公爵、国王还是皇帝。相反它允许城市在立法、司法和行政事务中拥有一定程度的自治权和独立性。为了确保我们贸易联盟成员之间的合作顺利，我们必须尊重他们的自由和自治。"
+ EDG_HSA_mission_3_11.effect.tt:0 "根据任务§Y完成方式§!给予§G不同奖励§!，所有§T汉萨同盟§!成员会获得§Y同样奖励§!\n"
+
+ EDG_HSA_mission_3_12_title:0 "汉萨女王"
+ EDG_HSA_mission_3_12_desc:0 "在北欧的每一个贸易中心，没有一个国家比我们拥有更多的权力、影响力和金钱。现在是集中汉萨同盟并迎接贸易和外交新时代的时候了，因为我们正在走向伟大的未来。"
+ EDG_HSA_mission_3_12.flag.effect.tt:0 "每个§T汉萨城市§!将提供额外§G1§!§Y外交关系§!\n\n§T汉萨城市§!现在不再降低§O团结度§!\n"
+ EDG_HSA_mission_3_12.vassal.effect.tt:0 "所有§Y贸易联盟§!成员都会成为我们的§T汉萨城市§!并获得§G-50%§!独立倾向\n"
+
+ EDG_HSA_mission_3_13_title:0 "重启汉萨商栈"
+ EDG_HSA_mission_3_13_desc:0 "我们各处的商栈都已经由于各种原因被关闭了，不过我们先做有信心重拾这些已经废弃的商栈，继续将我们的商业计划进行下去"
+ EDG_HSA_mission_3_13_effect.tt:0 "根据任务§Y完成方式§!给予§G不同奖励§!\n"
+
+ EDG_HSA_mission_2_13_title:0 "走向繁荣"
+ EDG_HSA_mission_2_13_desc:0 "将所有财富都留给自己并不是增加我们对各贸易节点控制权的唯一方法。无论我们是决定分散资金来资助联盟成员的发展，还是决定致富自己，通往荣耀和权力的道路都需要付出金钱的代价。"
+ EDG_HSA_mission_2_13.effect.tt:0 "所有§T汉萨同盟§!成员都会获得首都§Y繁荣度§!并对我们提高§G25§!信任度\n"
+
+ EDG_HSA_mission_4_13_title:0 "扩张商业城市"
+ EDG_HSA_mission_4_13_desc:0 "驶出卡特加特海峡便是北海，欧洲各国与世界各地船只的通衢。垄断北海贸易将使我们能够加强对国内市场贸易的控制与引导，也能够使得我们更好的扩张来自新世界的商业。"
+
+ EDG_HSA_mission_3_15_title:0 "垄断英吉利"
+ EDG_HSA_mission_3_15_desc:0 ""
+
+ EDG_HSA_mission_3_14_title:0 "商贸帝国"
+ EDG_HSA_mission_3_14_desc:0 "利益至上！"
+
+ EDG_HSA_mission_1_2_title:0 "捍卫盐道"
+ EDG_HSA_mission_1_2_desc:0 "跨越厄勒海峡和丹麦半岛的鱼类贸易确实很重要。但确保我们南部边境的盐业生产，并与汉堡合作，则将产生更大的回报。"
+ EDG_HSA_mission_1_2.sax.condition.tt:0 "通过§Y改善关系§!至少获得了与@SAX§Y[SAX.GetName]§!§G75§!的关系提升"
+ EDG_HSA_mission_1_2.hsa.condition.tt:0 "通过§Y改善关系§!至少获得了与@HSA§Y[HSA.GetName]§!§G75§!的关系提升"
+ EDG_HSA_mission_1_2.event.effect.tt:0 "当我们通过§Y外交手段§!完成任务时，将会触发事件§T「劳恩堡协定」§!\n"
+ EDG_HSA_mission_1_2.effect.tt:0 "如果我们完成该任务时@HAM§Y汉堡§!对我们至少有§Y160§!好感度，所有§T贸易联盟成员§!将会根据§Y成员数量§!获得§G发展成本减免§!的奖励，在§T贸易联盟§!拥有§Y6§!个成员时获得§Y最终奖励§!\n"
+
+ EDG_HSA_mission_1_4_title:0 "贸易流动"
+ EDG_HSA_mission_1_4_desc:0 "在我们西部，威悉河谷周围的领土处于薄弱的治理之下。让我们干预当地的政治，把人民从他们无能和低效的统治中拯救出来。"
+ EDG_HSA_mission_1_4.add_center.effect.tt:0 "当@BRE§Y[BRE.GetName]§!是§T汉萨同盟§!成员并拥有省份§Y[1874.GetName]§!，则升级位于§Y[1874.GetName]§!的§Y贸易中心§!，并添加修正§Y「§T汉萨同盟§!商贸站」§!\n"
+ EDG_HSA_mission_1_4.add_modifier.effect.tt:0 "当@FRN§Y[FRN.GetName]§!是§T汉萨同盟§!成员并拥有省份§Y[1876.GetName]§!，则§Y[1876.GetName]§!将获得修正§T「汉萨重要商业据点」§!\n"
+
+ EDG_HSA_mission_2_6_title:0 "纸与笔"
+ EDG_HSA_mission_2_6_desc:0 "有些事情并不需要一味的用暴力来解决，纸上能够处理的就无需耗费更多资源。"
+ EDG_HSA_mission_2_6.effect.tt:0 "每个§Y激活§!的§Y「§T汉萨同盟§!商贸站」§!都将在年初给予我们§G48§!¤"
+ EDG_HSA_mission_2_6.condition.tt:0 "不是§Y神圣罗马帝国§!的成员"
+
+ EDG_HSA_mission_1_7_title:0 "扩张老城区"
+ EDG_HSA_mission_1_7_desc:0 "吕贝克已经不再是当初的农业小镇了，城市的一部分为了方便来往来欧洲各地的大量商人而进行了特别开发。建立一个合适的市场和扩大老城肯定会改善我们对吕贝克贸易本埠的控制。"
+
+ EDG_HSA_mission_1_9_title:0 "建造霍尔斯滕门"
+ EDG_HSA_mission_1_9_desc:0 "构建一个庞大的贸易网络必将为我们带来巨大的财富和影响力。可这也意味着我们不可避免地在该领域的市场上与竞争者发生摩擦。为了保护我们的人民和我们的利益，我们必须保卫汉萨的心脏！"
+
+ EDG_HSA_mission_1_11_title:0 "女王厅"
+ EDG_HSA_mission_1_11_desc:0 "裁决要事与管理同盟不是简单的事情。对此我们应该投入资金创立一个中央法庭，以此来处理汉萨同盟及其加盟邦的日常事务。"
+
+ EDG_HSA_mission_1_13_title:0 "行会督察员"
+ EDG_HSA_mission_1_13_desc:0 "在境外乃至全欧洲设置商栈只是恢复我们声誉的第一步。我们需要在这些地方派遣贵人与督察员对其进行监督，以保证驻外商栈的正常工作。"
+ EDG_HSA_mission_1_13.effect.tt:0 "所有§T汉萨同盟§!成员都会获得§Y相同奖励§!\n"
+
+ EDG_HSA_mission_1_15_title:0 "北海贸易权"
+ EDG_HSA_mission_1_15_desc:0 ""
+
+ EDG_HSA_mission_2_2_title:0 "收复梅伦克堡"
+ EDG_HSA_mission_2_2_desc:0 "长久以来梅克伦堡地区被各个诸侯所瓜分，为了保证我们自己安全并拓展汉萨同盟的影响力，我们必须占领城市东部的这些海岸地带。"
+ EDG_HSA_mission_2_2.effect.tt:0 "如果我们已经完成了任务§T「推行吕贝克法典」§!，则在每个位于§Y梅克伦堡§!区域内的省份获得更多§Y增益§!\n"
+
+ EDG_HSA_mission_2_3_title:0 "顺着海岸线"
+ EDG_HSA_mission_2_3_desc:0 "沿着波美拉尼亚的海岸，许多臭名昭著的私掠者都找到了容纳他们非法活动的避风港。我们不能让这些害虫继续穿越波罗的海来掠夺我们来之不易的财富。"
+ EDG_HSA_mission_2_3.effect.tt:0 "如果§Y完成任务§!时我们在§Y吕贝克§!贸易节点内至少有§Y50%§!的§T贸易竞争力§!，则下述修正变为§T永久修正§!\n"
+ EDG_HSA_mission_2_3.add_modifier.effect.tt:0 "如果我们通过外交手段§Y完成任务§!时，省份§Y[47.GetName]§!与§Y[1858.GetName]§!均获得修正§Y「§T汉萨同盟§!商贸站」§!\n"
+
+ EDG_HSA_mission_1_5_title:0 "安全保障"
+ EDG_HSA_mission_1_5_desc:0 "汉萨同盟现在还不够强大，我们必须寻找到可靠的盟友并拓展汉萨同盟的城市，这样才能够保护整个同盟的安全得到有效保障。"
+ EDG_HSA_mission_1_5.effect.tt:0 "每个§T汉萨城市§!将提供额外§G5%§!§Y改善关系效率§!\n"
+
+ EDG_HSA_mission_2_8_title:0 "造船工会"
+ EDG_HSA_mission_2_8_desc:0 "是什么让我们的母港成为全北欧最著名的造船之乡？当然是我们的造船厂。还有什么比投资造船工业更能用来讴歌我们专业的造船技术与独特的船只设计呢？"
+
+ EDG_HSA_mission_2_10_title:0 "全新贸易体系"
+ EDG_HSA_mission_2_10_desc:0 "让我们对所有没有盖上汉萨同盟印章的竞争商人施加规则和条例，并间接增加我们商人的实力。"
+
+ EDG_HSA_mission_1_12_title:0 "召集汉萨议会"
+ EDG_HSA_mission_1_12_desc:0 "在汉萨同盟的鼎盛时期，它在德意志和波罗的海地区拥有数以百计的商团、行会与成员，其成员最远可到达诺夫哥罗德与伦敦。虽然我们的风光已经一时不再，但我们必须维持与提高我们的行政效率，使我们同盟的成员始终保持井然有序。"
+ EDG_HSA_mission_1_12.effect.tt:0 "根据任务§Y完成方式§!给予§G不同奖励§!\n"
+ EDG_HSA_mission_1_12.subject.effect.tt:0 "所有§T汉萨同盟§!成员都会获得§Y100§!£adm£并对我们提升§G50§!好感度\n"
+
+ EDG_HSA_mission_1_14_title:0 "沃尔丁堡和约"
+ EDG_HSA_mission_1_14_desc:0 "丹麦国王在1435年被迫将市场的垄断权交给了来自吕贝克的德意志商人。重申这些条约将是明智之举，但是当然要以我们认为合适的方式。"
+ EDG_HSA_mission_1_14.effect.tt:0 "根据任务§Y完成方式§!给予§G不同奖励§!\n"
+
+ EDG_HSA_mission_2_15_title:0 "确保吕贝克"
+ EDG_HSA_mission_2_15_desc:0 ""
+
+ EDG_HSA_mission_4_2_title:0 "收复维斯比"
+ EDG_HSA_mission_4_2_desc:0 "哥得兰岛，原名维斯比，过去坐落着汉萨同盟重要的办事处。重新宣称这片土地将对我们在波罗的海的贸易竞争力产生积极影响。"
+ EDG_HSA_mission_4_2.efffect.tt:0 "当@GOT§Y[GOT.GetName]§!存在且在我们的§T贸易联盟中§!时，将会触发事件§T「维斯比的汉萨城镇」§!\n"
+
+ EDG_HSA_mission_4_3_title:0 "接收但泽港口"
+ EDG_HSA_mission_4_3_desc:0 "但泽或许是波罗的海东部最重要的城市。我国的商人曾在其银行中拥有海量的财富，在那里重新站稳脚跟肯定会改善我们的财政状况。"
+ EDG_HSA_mission_4_3.effect.tt:0 "当@DNZ§Y[DNZ.GetName]§!不存在且在我们拥有省份§Y[43.GetName]§!时，将会触发事件§T「但泽的普鲁士联盟」§!\n"
+
+ EDG_HSA_mission_5_5_title:0 "保障安全"
+ EDG_HSA_mission_5_5_desc:0 "如果说外交是我们的安全保障，那么唯一能够保障我没安全的只剩下我们自己的军队了。"
+
+ EDG_HSA_mission_4_8_title:0 "远洋之帆"
+ EDG_HSA_mission_4_8_desc:0 ""
+
+ EDG_HSA_mission_4_10_title:0 "北美特许贸易区"
+ EDG_HSA_mission_4_10_desc:0 "大西洋以外的土地蕴藏着许多商业和盈利的机会！我们必须尽可能地去探索、绘制地图和利用它，以进一步增加我们从新文明和异国货物中获得的利润。"
+
+ EDG_HSA_mission_5_12_title:0 "行会融资"
+ EDG_HSA_mission_5_12_desc:0 "吕贝克行会是我们经济的命脉。我们必须做出必要的调整，以确保它们在整个贸易联盟中享有专属的资助。"
+ EDG_HSA_mission_5_12.effect.tt:0 "所有§T汉萨同盟§!成员都会获得§Y相同奖励§!\n"
+
+ EDG_HSA_mission_5_14_title:0 "鲱鱼迁徙"
+ EDG_HSA_mission_5_14_desc:0 "事实已经证明隆德的鱼类市场对我们的瑞典邻居而言是有利可图的。建立一个类似的跨厄勒海峡两岸的市场一定会带来更高的利益！"
+ EDG_HSA_mission_5_14.effect.tt:0 "根据任务§Y完成方式§!给予§G不同奖励§!\n"
+
+ EDG_HSA_mission_4_15_title:0 "引领波罗的"
+ EDG_HSA_mission_4_15_desc:0 ""
+
+ EDG_HSA_mission_5_2_title:0 "东方门户"
+ EDG_HSA_mission_5_2_desc:0 "里加城一直以来都是我们的合作伙伴。让我们以任何合理的手段加强我们的联系并扩展我们在波罗的海的影响范围。"
+ EDG_HSA_mission_5_2.opinion.tt:0 "当@RIG§Y[RIG.GetName]§!对我们有至少§Y125§!好感时，@RIG§Y[RIG.GetName]§!将成为我们的§T汉萨城市§!\n"
+ EDG_HSA_mission_5_2.effect.tt:0 "当@RIG§Y[RIG.GetName]§!存在且处于我们的§T贸易联盟§!时，我们将获得§T额外奖励§!\n"
+
+ EDG_HSA_mission_5_4_title:0 "圣彼得霍夫贸易站"
+ EDG_HSA_mission_5_4_desc:0 "在北欧的海洋上维持贸易霸权不是件容易的事。诺夫哥罗德的管理人们曾一度在我们强大的影响力面前低头，也许我们需要提醒他们一下为什么需要尊重我们。"
+ EDG_HSA_mission_5_4.event.effect.tt:0 "当我们通过§T结盟§!§Y[310.GetName]§!省份§Y所有者§!完成任务时，将会触发事件§T「诺夫哥罗德贸易站」§!\n"
+ EDG_HSA_mission_5_4.effect.tt:0 "所有§T汉萨同盟§!成员都会获得§Y相同奖励§!，并在其首都增加§Y1§!随机§T发展度§!\n"
+
+ EDG_HSA_mission_4_6_title:0 "刀与枪"
+ EDG_HSA_mission_4_6_desc:0 "随着时代的进步，战争形势也在不断的变化，我们必须跟上步伐，优化我们的军事理念。"
+ EDG_HSA_plutocracy_ideas_modifier.tt:0 "完成§Y财阀§!理念将使我们获得如下修正"
+ EDG_HSA_offensive_ideas_modifier.tt:0 "完成§Y进攻§!理念将使我们获得如下修正"
+ EDG_HSA_defensive_ideas_modifier.tt:0 "完成§Y防守§!理念将使我们获得如下修正"
+ EDG_HSA_quality_ideas_modifier.tt:0 "完成§Y质量§!理念将使我们获得如下修正"
+ EDG_HSA_mercenary_ideas_modifier.tt:0 "完成§Y佣兵§!理念将使我们获得如下修正"
+
+ EDG_HSA_mission_5_7_title:0 "护航编队"
+ EDG_HSA_mission_5_7_desc:0 "海洋控制权必须牢牢掌控在汉萨海军部手中。如果能够扩编一支更为强大的海军并且扩建吕贝克军港，那么我们将吸引更加雄才大略的提督来领导我们的舰队。"
+
+ EDG_HSA_mission_5_9_title:0 "领航舰队"
+ EDG_HSA_mission_5_9_desc:0 "航海绝非易事。为了确保我们的船只与货物尽可能安全，我们必须培养更为精良的海军将领与船长，即吕贝克「领航官」，来为我们的船只指引航线，并将它们完好无损地运送靠岸。"
+
+ EDG_HSA_mission_5_11_title:0 "吕贝克之鹰"
+ EDG_HSA_mission_5_11_desc:0 "让一艘巨型的旗舰为我们的海军打头阵吧，这样便能使我们的竞争者与敌人胆战心惊。是时候宣布我们的海军霸权了！"
+
+ EDG_HSA_mission_5_13_title:0 "矿产贸易"
+ EDG_HSA_mission_5_13_desc:0 "欧洲遭受了贵金属短缺的打击。黄金和白银的缺乏导致了包括我们在内的许多富商的衰落。为了缓解这一局面，我们必须与那些能够在欧洲获得价值不菲的国家结盟，吃下这批矿产为我们所用，或是帮助找到新的方法帮助戈斯拉尔，让老矿山恢复生机。"
+ EDG_HSA_mission_5_13.condition.tt:0 "必须满足以下条件之一：\n－拥有一个好感度至少为§Y150§!且拥有§Y金矿§!省份的盟友\n－拥有一个§Y5§!基础生产的§Y金矿§!省份\n－§Y[4742.GetName]§!的拥有者对我们至少有§Y150§!好感度，且是§T汉萨同盟§!成员或与之结盟"
+ EDG_HSA_mission_5_13.effect.tt:0 "根据任务§Y完成方式§!给予§G不同奖励§!\n"
+
+ EDG_HSA_mission_5_15_title:0 "东部出海口"
+ EDG_HSA_mission_5_15_desc:0 ""
+
+

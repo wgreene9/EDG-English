@@ -1,0 +1,36 @@
+﻿l_english:
+ EDG_MAZ_mission_1_1_title:0 "独木难支"
+ EDG_MAZ_mission_1_1_desc:0 "西斯拉夫的局势错综复杂，皮亚斯特家族在政治风暴中独木难支，我们必须寻找外部支援。"
+
+ EDG_MAZ_mission_1_3_title:0 "扩展庄园"
+ EDG_MAZ_mission_1_3_desc:0 "波兰广阔的土地不乏肥沃的农田，良好经营的庄园为国家提供充足的兵源与黄金，是时候着手恢复生产了。"
+ EDG_MAZ_mission_1_3.effect.tt:0 "§Y所有满足任务条件§!的省份均获得以下§G效果§!"
+
+ EDG_MAZ_mission_2_2_title:0 "叛离者的命运"
+ EDG_MAZ_mission_2_2_desc:0 "大波兰的公爵谢莫梅斯乌三世不甘心接受波兰国王的领导，妄图投靠德意志的皇帝换取自治的权力。我们将杀鸡儆猴，粉碎叛离者的野心。"
+
+ EDG_MAZ_mission_3_1_title:0 "瓦尔纳大劫"
+ EDG_MAZ_mission_3_1_desc:0 "瓦斯迪瓦夫的不幸殒命留下了离心离德的波兰，各方势力都对空悬的王位虎视眈眈。身处漩涡中的马佐夫舍已经不能独善其身，让我们接受命运的指引。"
+ EDG_MAZ_mission_3_1.trigger.tt:0 "我们已在§T事件§!「名不副实」中做出了我们的选择"
+ EDG_MAZ_mission_3_1.effect.tt:0 "根据我们在§T事件§!「名不副实」当中的选择获得§Y不同奖励§!"
+
+ EDG_MAZ_mission_3_2_title:0 "收复克拉科夫"
+ EDG_MAZ_mission_3_2_desc:0 "空白的王冠无人认领，克拉科夫的宫廷需要一位新的主人。让我们利用皮亚斯特家族的遗产，收复王国的权力中心。"
+
+ EDG_MAZ_mission_3_3_title:0 "名副其实"
+ EDG_MAZ_mission_3_3_desc:0 "皮亚斯特家族已经联合并领导了王国数个世纪，波兰的王冠将在马佐夫舍亲王的手中再现生机。我们将弥合分裂，终结继承危机。"
+ EDG_MAZ_mission_3_3.effect.tt:0 "§G移除§!我们治下所有§Y波兰§!地区省份§Y其他国家§!的§T核心§!"
+
+ EDG_MAZ_mission_3_4_title:0 "波兰王冠"
+ EDG_MAZ_mission_3_4_desc:0 "异端的威胁 叛党的阴谋\n\n都在国王的面前 烟消云散\n\n听啊 英勇的战士们\n\n敲响了战鼓\n\n只要我们一息尚存 波兰就绝不灭亡"
+
+ EDG_MAZ_mission_4_2_title:0 "不信者的末路"
+ EDG_MAZ_mission_4_2_desc:0 "小波兰的贵族们利用扬·胡斯的思想蛊惑人心，妄图依靠异端邪说在天主的土地作威作福。波兰神圣的传统不容亵渎，我们将审判不信者的罪行。"
+
+ EDG_MAZ_mission_5_1_title:0 "军事准备"
+ EDG_MAZ_mission_5_1_desc:0 "没有军队的政权无法赢得他人的尊重，惟有诉诸武力才能在群狼环伺中谋求一线生机。"
+
+ EDG_MAZ_mission_5_3_title:0 "贵族义务"
+ EDG_MAZ_mission_5_3_desc:0 "什拉赫塔在过去享受了国王的恩泽，效忠派们愿意在必要时履行军事义务。当此多事之秋，是时候向贵族要求援助了。"
+
+

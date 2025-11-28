@@ -1,0 +1,20 @@
+﻿l_english:
+ EDG_RGL_forge_ahead:0 "开拓进取"
+ desc_EDG_RGL_forge_ahead:0 ""
+ EDG_RGL_give_sermons:0 "宣讲教义"
+ desc_EDG_RGL_give_sermons:0 ""
+ EDG_RGL_concentrated_winemaking:0 "酿造葡萄酒"
+ desc_EDG_RGL_concentrated_winemaking:0 ""
+
+
+ ability_EDG_RGL_vanguard_spirit_mechanics:0 "启用政府能力§Y先锋精神§!"
+ EDG_RGL_vanguard_spirit:0 "§Y传教热枕§!"
+ EDG_RGL_vanguard_spirit_desc:0 ""
+ EDG_RGL_vanguard_spirit_gain_modifier:0 "§Y传教热枕§!提供的修正"
+ monthly_EDG_RGL_vanguard_spirit:0 "月度§Y传教热枕§!"
+ EDG_RGL_vanguard_spirit_interaction_1:0 "探索新世界"
+ EDG_RGL_vanguard_spirit_interaction_1_desc:0 ""
+ EDG_RGL_vanguard_spirit_interaction_2:0 ""
+ EDG_RGL_vanguard_spirit_interaction_2_desc:0 ""
+ EDG_RGL_vanguard_spirit_interaction_3:0 ""
+ EDG_RGL_vanguard_spirit_interaction_3_desc:0 ""

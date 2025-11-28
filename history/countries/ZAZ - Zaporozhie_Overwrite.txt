@@ -1,0 +1,9 @@
+1444.1.1 = {
+  monarch = {
+    name ="博罗夫斯克 "# Borysko
+	birth_date = 1410.1.1
+    adm = 4
+    dip = 3
+    mil = 5
+  }
+}

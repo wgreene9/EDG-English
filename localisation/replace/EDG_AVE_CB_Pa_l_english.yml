@@ -1,0 +1,14 @@
+﻿l_english:
+
+#宣战理由
+ war_goal_EDG_AVE_Plantagenet_Conquer:0 "§M金雀花征服§!"
+ war_goal_EDG_AVE_Plantagenet_Conquer_desc:0 "金雀花征服"
+ cb_EDG_AVE_Plantagenet_Conquer:0 "§M金雀花征服§!"
+ cb_EDG_AVE_Plantagenet_Conquer_desc:0 "§M金雀花征服§!理由允许我们将对方肢解，对方将释放所有可以释放的国家并释放其所有属国。对方、及其所有属国、及其所有被释放的国家都将成为我们的§M英属王室封邑§!"
+
+#和约
+ po_EDG_AVE_Plantagenet_Conquer:0 "§M金雀花征服§!"
+ PEACE_po_EDG_AVE_Plantagenet_Conquer:0 "§M金雀花征服§!"
+ CB_ALLOWED_po_EDG_AVE_Plantagenet_Conquer:0 "§M金雀花征服§!"
+ po_EDG_AVE_Plantagenet_Conquer_desc:0 "§M金雀花征服§!条款允许我们将对方肢解，对方将释放所有可以释放的国家并释放其所有属国。对方、及其所有属国、及其所有被释放的国家都将成为我们的§M英属王室封邑§!"
+ 

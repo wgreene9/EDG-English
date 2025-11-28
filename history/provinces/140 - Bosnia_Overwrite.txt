@@ -1,0 +1,1 @@
+capital = "Doboj" #or Srebrenik

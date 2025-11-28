@@ -1,0 +1,81 @@
+EDG_TAB_add_ruler = {
+    define_ruler = {
+        male = yes
+        dynasty = "巴文德"
+        name = "阿尔达希尔 I「归来者」"
+        claim = 100
+        age = 30
+        adm = 5
+        dip = 5
+        mil = 6
+        fixed = yes
+        religion = zoroastrian 
+    }
+    add_ruler_personality = EDG_personality_Backer
+    remove_heir = yes
+}
+EDG_ERS_add_heir_1 = {#阿尔达希尔活过了50岁且没有王配和继承人给
+    define_heir = {
+        male = yes
+        dynasty = "巴文德"
+        name = "贾姆希德「始皇」"
+        claim = 100
+        age = 10
+        adm = 6
+        dip = 4
+        mil = 6
+        religion = zoroastrian 
+    }
+    add_heir_personality = EDG_personality_first_emperor
+}
+EDG_ERS_add_ruler_2 = {#伊朗再分裂危机灾难给
+    define_ruler = {
+        male = yes
+        dynasty = "巴文德"
+        name = "伽尔沙斯布 I「英雄」"
+        claim = 100
+        age = 25
+        adm = 4
+        dip = 3
+        mil = 5
+        religion = zoroastrian 
+    }
+    add_ruler_personality = EDG_personality_hero
+}
+EDG_ERS_add_heir_3 = {#度过伊朗再分裂危机后，未过25岁的君主随机触发结婚事件给，倘若在伊朗再分裂战争中，伽尔沙斯布上位且活了下来，那么无视年龄条件
+    define_heir = {
+        male = yes
+        dynasty = "巴文德"
+        name = "鲁斯塔姆「预言之子」"
+        claim = 100
+        age = 0
+        adm = 6
+        dip = 6
+        mil = 6
+        religion = zoroastrian 
+    }
+    add_heir_personality = EDG_The_Son_of_Prophecy
+}
+mission_EDGTABmission_242_opinion_1_scripted_effect = {
+    2218 = {
+        add_base_production = 3
+        add_base_manpower = 3
+        add_base_tax = 3
+        add_permanent_province_modifier = {
+            name = new_TAB_buff_26
+            duration = -1
+            desc = new_TAB_buff_26_txt
+        }
+        add_province_triggered_modifier = EDG_TAB_Shiraz_revitalize
+        change_province_name = "波斯波利斯"
+    }
+}
+EDG_TAB_tribe_punishment = {
+    add_base_tax = -1
+    add_base_production = -1
+    add_base_manpower = -2
+    remove_loot = {
+        who = ROOT
+        amount = 10
+    }
+}

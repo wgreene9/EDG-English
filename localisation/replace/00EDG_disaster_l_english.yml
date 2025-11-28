@@ -1,0 +1,2315 @@
+﻿l_english:
+dark_arrive:0 "黑暗降临§R「惩罚性」§!"
+EDG_FOI_UCI_ember_war:0 "余烬§R「惩罚性」§!"
+
+#沃里尼亚
+
+    EDG_VOL_government_war:0 "失去对缙绅的控制"
+    EDG_VOL_government_war_title:0 "失去对缙绅的控制"
+    EDG_VOL_government_war_desc:0 "失去对缙绅的控制"
+ EDG_VOL_government_war.1.EVTNAME:0 "失去对缙绅的控制"
+ EDG_VOL_government_war.1.EVTDESC:0 "沃里尼亚的君权自古以来便显得十分弱小，波雅尔攫取了国家的权力，我们的缙绅议会与伊凡大帝所组建的缙绅议会同名，但在实践的过程中显然有所不同，我们的缙绅议会是强大的贵族向君主索取利益的场所。只有最为强大的君主才能驾驭狂傲不羁的贵族，强势的君主也一定会将国家推向改革的彼岸，但这必然会造成国家的动荡。但在沃里尼亚的伊凡二世驾崩后，我们的新任君主似乎没有足够的能力驾驭国内的贵族，君权与地方贵族之间的矛盾愈发激烈，最终导致了一场空前的叛乱。"
+ EDG_VOL_government_war.1.a:0 "祖宗之法不可变？"
+ EDG_VOL_government_war.2.EVTNAME:0 "重组缙绅议会"
+ EDG_VOL_government_war.2.EVTDESC:0 "曾经，沃里尼亚的君权自古以来便显得十分弱小，波雅尔攫取了国家的权力，并且造成了一场由国内贵族掀起的空前规模的叛乱。但如今，我们完成了国家改革，建立了等级君主制国家，缙绅议会成为了君主的工具而非枷锁，用以协助我们在东欧的土地上建立崭新的斯拉夫国家。"
+ EDG_VOL_government_war.2.a:0 "一个崭新的时代到来了"
+ 
+ 
+    EDG_IRE_government_war:0 "爱尔兰内战"
+    EDG_IRE_government_war_title:0 "爱尔兰内战"
+    EDG_IRE_government_war_desc:0 "爱尔兰内战"
+ EDG_IRE_government_war.1.EVTNAME:0 "爱尔兰内战"
+ EDG_IRE_government_war.1.EVTDESC:0 "在十二世纪，英王亨利二世入侵爱尔兰，并且成功统治了爱尔兰全境，自封为爱尔兰大公，在爱尔兰加强了封建体系，使得爱尔兰第一次拥有了中央机构，并最后将头衔传给了狮心王理查。理查死后，爱尔兰被理查的侄子亚瑟继承，但随着亚瑟被约翰杀害，爱尔兰进入了混乱，金雀花王朝彻底失去了对爱尔兰的控制，一位自称康马克·麦克·亚特后代的爱尔兰人将军，帕特里克·亚特，控制了爱尔兰大公国，并且自立为至高王。帕特里克对爱尔兰各地的封建领主做出妥协，给予地方贵族较大的自治权，换取了地方贵族的支持，但帕特里克建立的封建秩序极大限制了君权，如果不能改变这一现状，爱尔兰很可能将再次失去自由。"
+ EDG_IRE_government_war.1.a:0 "叛徒！"
+ EDG_IRE_government_war.2.EVTNAME:0 "和平之桌"
+ EDG_IRE_government_war.2.EVTDESC:0 " 帕特里克·亚特在爱尔兰建立的封建秩序给予地方极大的自治权，极大地限制了君主的权力，在经过斗争与内战后，至高王与国内贵族最终坐在了同一张桌前，界定国家的未来。"
+ EDG_IRE_government_war.2.a:0 "君权至上，不容置疑"
+ EDG_IRE_government_war.2.b:0 "至高王与贵族共治天下"
+ 
+ EDG_DLH_civil_war:0 "德里帝国的崩溃"
+ EDG_DLH_civil_war_title:0 "德里帝国的崩溃"
+ EDG_DLH_civil_war_desc:0 "德里帝国的崩溃"
+ EDG_DLH_civil_war.1.EVTNAME:0 "德里帝国的崩溃"
+ EDG_DLH_civil.war.1.EVTDESC:0 "德里苏丹国的图格鲁克王朝至今盘踞在印度次大陆上，在苏丹菲鲁兹沙去世后，他的孙子易卜拉欣继承苏丹大位，并统治至今，以78岁的身躯维持着摇摇欲坠的德里帝国。在菲鲁兹沙恢复扎吉尔制度后，掌管各地军事采邑的军政长官把握地方大权，尤其是四方大员，虽然仍然对远在德里的易卜拉欣表示效忠，但始终蠢蠢欲动，渴望脱离德里苏丹的统治。如今随着强力统治者的去世，全国的官员以及我们的附庸都认为独立的时机到了，国内叛乱四起，当地旧势力认为复国的时机到了，"
+ EDG_DLH_civil_war.1.a:0 "安拉保佑！"
+ EDG_DLH_civil_war.2.EVTNAME:0 "尚存一息"
+ EDG_DLH_civil_war.2.EVTDESC:0 "在我们英明的前任统治者去世后，全国的官员以及我们的附庸都认为独立的时机到了，国内叛乱四起，当地旧势力认为复国的时机到了，国内陷入一片混乱，但如今，灾厄都结束了，德里苏丹国再次恢复了秩序。"
+ EDG_DLH_civil_war.2.a:0 "我们仍有东山再起的机会。"
+ 
+ EDG_DLH_civil_war.11.t:0 "印度土邦叛乱"
+ EDG_DLH_civil_war.11.d:0 "印度是一个民族成分十分复杂的地区，我们统治者广袤的印度领土，统治着形形色色的民族，这本就容易产生大量的矛盾，而有一些当地的反动势力一直在尝试掀起分离主义的叛乱，如今，又一股叛乱在我们的土地上爆发了。" 
+ EDG_DLH_civil_war.11.a:0 "小小的困难。"
+ 
+ EDG_DLH_civil_war.3.t:0 "离心离德的总督"
+ EDG_DLH_civil_war.3.d:0 "随着德里帝国陷入混乱，各地的反叛势力都蠢蠢欲动。在扎吉尔制度下，我们任命了许多阿富汗人和波斯人作为我们的总督，在和平年代，这些地方大员对中央尚且保持名义上的尊敬，但如今我们深陷泥潭，我们的地方总督便渴求向我们索取高度自治的特权，谋求实质上的独立，这毫无疑问是对国家权威的践踏。" 
+ EDG_DLH_civil_war.3.a:0 "吊死这些叛国贼！"
+ EDG_DLH_civil_war.3.b:0 "时也，命也，运也，非吾之所能"
+ 
+ 
+ EDG_generic_civil_war.1.t:0 "地方叛乱的爆发"
+ EDG_generic_civil_war.1.d:0 "近期我们的国家陷入了混乱之中，而有一些地方的保守反动势力一直在尝试蛊惑人心，试图唤起当地人心中的恶念，发动分离主义的叛乱，不得不说，在这样的非常时期，这些叛徒很好地利用了平民的紧张和对政府的不信任，他们又点燃了一场反对政府的叛乱。" 
+ EDG_generic_civil_war.1.a:0 "这些螳臂当车的歹徒是在搬起石头砸自己的脚。"
+ EDG_generic_civil_war.1.b:0 "他们只是想要一点好处。"
+ 
+ EDG_generic_civil_war.2.t:0 "投机者暴动"
+ EDG_generic_civil_war.2.d:0 "总有人能够在混乱时期捞一杯羹，这些人罔顾国家和民族的利益，仗着自己的小聪明，向政府索取好处。如今，又一批为非作歹的投机分子集结了武装力量，向中央政府索取更多的权力，如果他们不能满意，将会掀起更大规模的动乱。" 
+ EDG_generic_civil_war.2.a:0 "举武扬威，并匡社稷，处以重拳。"
+ EDG_generic_civil_war.2.b:0 "软硬兼施，分化瓦解。"
+ EDG_generic_civil_war.2.c:0 "他们也是人民的一部分。"
+ 
+ #土耳其
+ had_EDG_TUR_competely_reform:0 "实施了完整的改革"
+  EDG_TUR_decline:0 "土耳其帝国的崩溃§R「惩罚性」§!"
+  
+  EDG_TUR_decline.1.t:0 "土耳其帝国的衰弱"
+  EDG_TUR_decline.1.d:0 "在17世纪至19世纪间，土耳其人的帝国持续衰弱，陷入长期的滞止，甚至被历史学家称为是陷入了失败的时代。在这一时期内，土耳其的科技长期处于落后状态，帝国堕入腐败和阶级固化的泥潭，地方权力持续膨胀，国内矛盾日益尖锐。帝国国内的矛盾终于在今日全面显露，土耳其帝国强大的表象被撕裂，国内所有阶层和国外所有势力都意识到了帝国衰弱的事实，这造成了更大的负面影响，军队彻底意识到了国家和军官的无能，各地长官放心地选择无视中央的命令。除非进行有效的改革，否则帝国的衰落在国内矛盾爆发后将不可逆转。"
+  EDG_TUR_decline.1.a:0 "我们的辉煌时代彻底结束了"
+ 
+  EDG_TUR_decline.2.t:0 "末日余波"
+  EDG_TUR_decline.2.d:0 "在帝国衰弱的事实暴露出来后，帝国内部经历了一段长久的混乱，帝国内部发生了前所未有的大规模暴乱，各地长官无视中央权威，民族主义者试图分裂国家。如今随着帝国中央政府的努力，灾厄的高潮终于结束了，但除非进行有效的改革，否则帝国的衰落依然不可逆转。"
+  EDG_TUR_decline.2.a:0 "我们的未来仍不可知"
+ 
+  EDG_TUR_decline.10.t:0 "埃及意识"
+  EDG_TUR_decline.10.d:0 "随着近代思想的发展，民族主义的思潮产生了，“埃及人”的文化认同出现在了许多人的思想中，这是一种不同于过去王朝认同的思想。"
+  EDG_TUR_decline.10.a:0 "有趣又很有害"
+ 
+  EDG_TUR_decline.11.t:0 "埃及谋求独立"
+  EDG_TUR_decline.11.d:0 "虽然土耳其人早在很久以前便击败了马穆鲁克王朝，但马穆鲁克一直把持着整个埃及的实际权力，如今土耳其人陷入了衰败，埃及的马穆鲁克便谋生了自立的念头，他们早已开始私会，讨论着如何推翻土耳其人的统治，并且已经成功开展了他们的反叛计划。"
+  EDG_TUR_decline.11.a:0 "我们应该早点撤销他们的特权！"
+ 
+    EDG_TUR_decline.12.t:0 "帝国新政的完成"
+    EDG_TUR_decline.12.d:0 "在经历了长久的改革后，我们终于实现了现代化，帝国的经济基础和上层建筑都焕然一新，西方国家与我们的差距不再像以往那样巨大，我们仿佛回到了十五到十六世纪之间的黄金时代。"
+    EDG_TUR_decline.12.a:0 "我们将重回世界的顶点。"
+ 
+ #波斯
+ EDG_PER_disaster_Shah_insane:0 "血狮时代"
+ EDG_PER_disaster_throne_war:0 "奇兹尔巴什权力膨胀"
+ 
+ 
+ EDG_PER_disaster_throne_war.1.t:0 "奇兹尔巴什权利膨胀"
+ EDG_PER_disaster_throne_war.1.d:0 "在长期的征战中，奇兹尔巴什对[Root.Monarch.GetTitle]的效忠建立在[Root.Monarch.GetTitle]在征战中接连不断的胜利之上，唯有胜利与战利品能够安抚狂热且好战的奇兹尔巴什。如今，随着帝国规模的扩大，国内利益集团的势力不断蚕食国家的权力，无论[Root.Monarch.GetTitle][Root.Monarch.GetName]如何将国内的精力转向对外战争中，奇兹尔巴什对国家权力的侵蚀和[Root.GetAdjective]的内部斗争都已经无法避免。虽然按照传统，奇兹尔巴什应该继续追寻[Root.Monarch.GetTitle]，但现如今，在共同利益从查尔迪兰滑落以后，部落们开始看向了对方的牧地。在无法对外获得新牧场之后，抢夺对方的牧场便成为了生存的必要。大维齐尔米尔扎·沙·胡马雍已经被刺杀，铭记这位可怜人，他的死亡预示着黑暗的到来。"
+ EDG_PER_disaster_throne_war.1.a:0 "我们应当维护[Root.Monarch.GetTitle]的统治！"
+ 
+ EDG_PER_disaster_throne_war.2.t:0 "尘埃落定"
+ EDG_PER_disaster_throne_war.2.d:0 ""由于奇兹尔巴什对国家权力的侵蚀，[Root.Monarch.GetTitle]失去了控制国家的能力，红头部落接连不断地开展对内部敌对部落的战争，让[Root.GetAdjective]陷入了长时间的混乱，帝国常年被战争的烈火折磨，但如今一切终究尘埃落定，[Root.Monarch.GetTitle]重新控制了奇兹尔巴什，并加强了对国家的控制。""
+ EDG_PER_disaster_throne_war.2.a:0 "[Root.Monarch.GetTitle][Root.Monarch.GetName]万岁！"
+ 
+ EDG_PER_disaster_throne_war.3.t:0 "奇兹尔巴什要求更多权利"
+ EDG_PER_disaster_throne_war.3.d:0 "由于帝国庞大到了[Root.Monarch.GetTitle]无法全面控制帝国的程度，奇兹尔巴什不断侵蚀国家权力，并最终带来了混乱局面。如今，一支奇兹尔巴什部落向[Root.Monarch.GetTitle]索取更多的权力，宣称如若[Root.Monarch.GetTitle]拒绝，他们将通过暴力手段达成目标。"
+ EDG_PER_disaster_throne_war.3.a:0 "他们别想得逞！"
+ EDG_PER_disaster_throne_war.3.b:0 "向他们进行妥协。"
+ 
+ EDG_PER_disaster_throne_war.4.t:0 "削弱奇兹尔巴什权力"
+ EDG_PER_disaster_throne_war.4.d:0 "近年来奇兹尔巴什权力的膨胀在国内造成了大量的混乱，[Root.Monarch.GetTitle][Root.Monarch.GetName]及其内阁决定削弱奇兹尔巴什的权力，由此引发了大量的反抗，许多奇兹尔巴什决定举起武器抗拒[Root.Monarch.GetTitle]的政策。"
+ EDG_PER_disaster_throne_war.4.a:0 "[Root.Monarch.GetTitle]的意志必须得到贯彻。"
+ EDG_PER_disaster_throne_war.4.b:0 "我们可以妥协。"
+
+ EDG_PER_disaster_throne_war.5.t:0 "奇兹尔巴什总督索取权力"
+ EDG_PER_disaster_throne_war.5.d:0 "又一名奇兹尔巴什总督背叛了帝国，他拥兵自重，并向[Root.Monarch.GetTitle]送来了一封信，要求[Root.Monarch.GetTitle]给予他更多的权力。他宣称，若自己的合法权益得不到满足，他将扶持一位新的沙阿。"
+ EDG_PER_disaster_throne_war.5.a:0 "他怎敢如此？"
+ EDG_PER_disaster_throne_war.5.b:0 "这是他应得的。"
+
+ EDG_PER_disaster_throne_war.6.t:0 ""
+ EDG_PER_disaster_throne_war.6.d:0 ""
+ EDG_PER_disaster_throne_war.6.a:0 ""
+ EDG_PER_disaster_throne_war.6.b:0 ""
+
+EDG_PER_disaster_Shah_insane_value_hard_effect_tt:0 "我们将在§T对抗§!中表现得§Y强硬§!。"
+EDG_PER_disaster_Shah_insane_value_weak_effect_tt:0 "我们将在§T对抗§!中表现得§R软弱§!。"
+EDG_PER_disaster_Shah_insane_war_value:0 "§Y中央集权风暴§!"
+
+ EDG_PER_disaster_Shah_insane_qizilbash_unrest_modifier:0 "反对中央集权"
+EDG_PER_disaster_Shah_insane_qizilbash_unrest_modifier_remove_all_tt:0 "移出我们治下的所有省份的§Y反对中央集权§!省份修正。"
+
+EDG_PER_disaster_Shah_insane.1.t:0 "血狮时代"
+EDG_PER_disaster_Shah_insane.1.d:0 "[Root.Monarch.GetTitle][Root.Monarch.GetName]威严的外表下一直隐藏着高度的紧张。很显然，[Root.Monarch.GetTitle][Root.Monarch.GetName]的早年经历并不美好，[Root.Monarch.GetName]经历了太多的政治风波和危险，兄弟姐妹、地方首领和奇兹尔巴什都随时可能威胁到自己的统治甚至是生命，因而[Root.Monarch.GetTitle]长期处于压抑状态下。\n\n很早之前就有仆人怀疑[Root.Monarch.GetTitle][Root.Monarch.GetName]患有严重的被害妄想症，许多[Root.GetAdjective]地方官员也认为自己的[Root.Monarch.GetTitle]总是保持高度的警惕和对一切事物的怀疑。而如今，[Root.Monarch.GetTitle]的精神状态不佳已然是公认的事实。[Root.Monarch.GetTitle]整日饮酒，并从离不开鸦片与大麻，更重要的是，[Root.Monarch.GetTitle]日益频繁地虐待自己的仆从，并可观地走向了偏向于处决部下的道路——[Root.Monarch.GetName]于不久前将一名作战不力的奇兹尔巴什军官凌迟处死，又活剥了另一名埃米尔的皮，将尸体丢到荒野中喂食野狗。就连[Root.Monarch.GetTitle]的亲族也无法避免灾厄，许多王室成员被勒死在了床上，[Root.Monarch.GetTitle]的兄弟姐妹一个个地被迫饮下毒酒或自缢于牢房。最高统治者的喜怒无常和暴虐逐渐引起了越来越多人的不满，大量教士和军官开始密谋推翻[Root.Monarch.GetName]的统治，这一消息很快就不再是一个秘密了，大量的地方权贵举起了叛旗，要求推翻[Root.Monarch.GetName]，大量图谋不轨的阴谋家也将利用这一时期的混乱展开自己的活动，地方势力趁机向中央索取权力，国内的分离主义势力也趁机抬头，[Root.GetName]即将堕入混乱的时代。"
+EDG_PER_disaster_Shah_insane.1.a:0 "没有人能够违背[Root.Monarch.GetName]！"
+
+EDG_PER_disaster_Shah_insane.2.t:0 "终结血狮"
+EDG_PER_disaster_Shah_insane.2.d:0 "由于[Root.Monarch.GetTitle]的中央集权政策，[Root.GetName]经历了长时间的动荡，在这一时期内，大量的权贵打着各种各样的旗号，在国内掀起了一场又一场破坏国家统一和君主权威的活动。但最终，随着[Root.Monarch.GetTitle][Root.Monarch.GetName]对国家权力的整合与掌握，[Root.GetName]恢复了稳定。尽管[Root.Monarch.GetName]的执政依然始终伴随着腥风血雨，但其颁布的诸多政策极大地削弱了奇兹尔巴什和诸多旧权贵的权力，[Root.Monarch.GetTitle]的权力得到了巩固，[Root.GetName]的皇冠重新象征着无上的权威，而波斯雄狮也成为[Root.GetName]的国家象征，在这场被后人称为「血狮时代」的日子里，帝国终于实现了真正的中央集权。"
+EDG_PER_disaster_Shah_insane.2.a:0 "向伟大的[Root.Monarch.GetName]致敬。"
+ 
+ EDG_PER_disaster_Shah_insane.3.t:0 "奇兹尔巴什要求[Root.Monarch.GetTitle]退位"
+ EDG_PER_disaster_Shah_insane.3.d:0 "[Root.Monarch.GetTitle][Root.Monarch.GetName]的精神状态和满心猜忌让人恐惧，其严厉的集权主义政策更是让奇兹尔巴什无法忍受，他们迎立了一位新的[Root.Monarch.GetTitle]，并要求[Root.Monarch.GetName]退位。"
+ EDG_PER_disaster_Shah_insane.3.a:0 "叛国者！"
+ EDG_PER_disaster_Shah_insane.3.b:0 "时也命也。"
+ 
+ EDG_PER_disaster_Shah_insane.4.t:0 "满城风雨"
+ EDG_PER_disaster_Shah_insane.4.d:0 "[Root.Monarch.GetTitle]疯狂的集权主义政策为国家带来了长久的混乱，各地的官员和奇兹尔巴什对中央保持高度的猜忌，他们不信任自己的君主和同僚，以至于对每一道来自首都的信件和命令都满心猜疑，这又进一步加剧了[Root.Monarch.GetTitle][Root.Monarch.GetName]的不满和疑虑。[Root.Monarch.GetTitle][Root.Monarch.GetName]的精神状况每况愈下，并带来了严重的负面影响，更多的大臣被弓弦勒死，王室成员也逐一被软禁，许多红头部落提出声明，[Root.Monarch.GetTitle][Root.Monarch.GetName]必须停止自己疯狂的行为，否则就将通过武力反抗[Root.Monarch.GetTitle][Root.Monarch.GetName]的暴政。"
+ EDG_PER_disaster_Shah_insane.4.a:0 "把他们也处死！"
+ EDG_PER_disaster_Shah_insane.4.b:0 "我们是应该好好冷静一下。"
+ 
+ EDG_PER_disaster_Shah_insane.5.t:0 "默罕默德一世及其支持者"
+ EDG_PER_disaster_Shah_insane.5.d:0 "在利用各种方法加强自己的合法性之时，[Root.Monarch.GetName]也没有忘记解决王室内部的问题。可能是童年经历的缘故，[Root.Monarch.GetName]对亲情看得很淡，甚至可以说是冷酷。对于任何可能威胁到他的统治的人，他都会毫不留情地使用暴力解决掉。默罕默德一世在退位之后仍旧居住在王宫之中，两人的关系原本还算良好。但由于萨法维教团的逆反行为，这种关系迅速破裂，默罕默德一世被[Root.Monarch.GetName]幽禁。他的两个弟弟，阿布·塔勒卜和塔赫马斯普，以及侄子伊斯迈尔都被弄瞎了双眼，关进了阿拉穆特的监狱，而部分红头埃米尔试图利用他们发起了叛乱。"
+ EDG_PER_disaster_Shah_insane.5.a:0 "亲族也不可信任。"
+ EDG_PER_disaster_Shah_insane.5.b:0 ""
+
+ EDG_PER_disaster_Shah_insane.6.t:0 "导师的反叛"
+ EDG_PER_disaster_Shah_insane.6.d:0 "按照萨法维王朝的传统，每一个王子出生之后都会挑选一名红头埃米尔作为他的导师，教授战争和统治的学问。王子们在得到锻炼的同时，他们本身的野心以及导师的权力欲望也会将国家带入混乱的旋涡。在继位之初，[Root.Monarch.GetName]也按照传统将自己的两个儿子外派去外省，长子萨非·米尔扎去往哈马丹，次子哈桑·米尔扎去往马什哈德。但在1589年，哈桑的导师马什哈德总督发起了叛乱试图推翻阿巴斯。"
+ EDG_PER_disaster_Shah_insane.6.a:0 "真是忘恩负义之徒。"
+ EDG_PER_disaster_Shah_insane.6.b:0 ""
+
+ EDG_PER_disaster_Shah_insane.7.t:0 "集权主义改革与古拉姆新军"
+ EDG_PER_disaster_Shah_insane.7.d:0 "对[Root.Monarch.GetTitle][Root.Monarch.GetName]而言,如何遏制奇兹尔巴什军队力量的膨胀,是其执政后面临的首要问题。格鲁吉亚和高加索地区的伊斯兰教皈依者,恰好成为军队中平衡奇兹尔巴什的一股力量。1601年,为缓解奥斯曼帝国对欧洲的进攻,詹姆斯六世写信给[Root.Monarch.GetName]，鼓动萨法维王朝采取更多军事行动对抗奥斯曼土耳其,并称欧洲愿意助其组建军队。在欧洲人的援助下，[Root.Monarch.GetName]利用新式武器装备新军,使其成为遏制部落力量的基柱。[Root.Monarch.GetName]统治时期,新的常备军是由高加索人组成的古拉姆皇家军团,主要包括炮兵、洋枪兵和步兵。其中,步兵每军12000人,骑兵每军10000人,皆装备火枪;炮兵人数达 12000人,配备有500门铜炮。除了建立新式的正规部队外，[Root.Monarch.GetName]还扩充王室近卫军规模,使其人数达到了3000 人。近卫军职责是保卫沙阿和王室成员的安全,随时听从沙阿的调遣。军事改革不仅加强了部队战斗力,使其能够更好地保卫国家政权抵御外部侵犯,同时将军队中奇兹尔巴什的数量由原来的6～8万裁减至3万,扭转了土库曼部落贵族拥兵自重的局面,降低了奇兹尔巴什在军队中的影响力。"
+ EDG_PER_disaster_Shah_insane.7.a:0 "我们必须加强古拉姆的作用。"
+ EDG_PER_disaster_Shah_insane.7.b:0 "古拉姆如今的地位已足够重要。"
+
+ EDG_PER_disaster_Shah_insane.8.t:0 "社会政治革新"
+ EDG_PER_disaster_Shah_insane.8.d:0 "[Root.Monarch.GetName]统治时期,中央设立了最高会议﹐由游牧部落军事首领、波斯高级官僚和什叶派僧侣组成,负责处理一些国家日常事物。地方上总督由沙阿委派,并只对沙阿负责。[Root.Monarch.GetName]将最高司法权收归中央,由迪万·贝格行使;地方法官由选举产生,但须经沙阿认可。[Root.Monarch.GetName]通过强制性迁移政策,强化了对奇兹尔巴什人的限制﹐使得国家社会政治中土地所有权发生了改变﹐加速了社会各阶层之间的流动。实际上,通过这种社会流动性,[Root.Monarch.GetName]摧毁了传统的贵族政治模式,并宣称在萨法维王朝不应存在世袭贵族。[Root.Monarch.GetName]统治时期,将法治贯穿于改革的全过程﹐受权各地目贝对达律执行情况进行严格检查﹐并对违法者处以严惩。利用社会流动性因素,[Root.Monarch.GetName]完成了各万制侧的目标,并建立了一个新的精英阶层﹐以高加索人和波斯人取代奇兹尔巴什人,进一步削弱了土库曼部落贵族的势力。[Root.Monarch.GetName]统治时期是萨法维王朝最为重要的时期,它标志着传统部落管理方式正逐渐向专制统治转变。"
+ EDG_PER_disaster_Shah_insane.8.a:0 "很好的改革，使我们的帝国强大。"
+ EDG_PER_disaster_Shah_insane.8.b:0 "我们还是必须依赖土库曼贵族。"
+
+ EDG_PER_disaster_Shah_insane.9.t:0 "圣裔贵族的骚动"
+ EDG_PER_disaster_Shah_insane.9.d:0 "[Root.Monarch.GetName]的集权政策威胁到了圣裔贵族的地位，他们的传统权利遭遇了挑战。为此，一部分激进的圣裔贵族开始向[Root.Monarch.GetName]提出抗议，他们要求[Root.Monarch.GetTitle]停止对国内旧势力的清洗，否则将会拿起武器反抗[Root.Monarch.GetTitle]。"
+ EDG_PER_disaster_Shah_insane.9.a:0 "他们应该重新审视自己的位置。"
+ EDG_PER_disaster_Shah_insane.9.b:0 "我们离不开他们。"
+
+ EDG_PER_disaster_Shah_insane.10.t:0 "扩大库尔奇"
+ EDG_PER_disaster_Shah_insane.10.d:0 "库尔奇禁卫军是从奇兹尔巴什部落之中进行挑选出的忠于沙阿的精锐战士，这些人也被称为沙希万（Shahsevan），意为“沙阿的密友”，未经沙阿允许，库尔奇中的士兵是不能结婚的。自从库尔奇禁卫军建立以来，库尔奇原本的数量一直在1000-5000之间上下浮动，但[Root.Monarch.GetName]将其数量扩充至12000人以上，大大提高了库尔奇禁卫军的影响力，并制衡了外省的奇兹尔巴什的权力。尽管这必然引起一些奇兹尔巴什的不满，但这终究是一种较为温和的削藩手段，若我们继续扩大我们的库尔奇禁卫军，我们或许能够进一步降低国内军事贵族的实力。"
+ EDG_PER_disaster_Shah_insane.10.a:0 "这是好方法。"
+ EDG_PER_disaster_Shah_insane.10.b:0 "我们应该对奇兹尔巴什开诚布公。"
+
+ EDG_PER_disaster_Shah_insane.11.t:0 "扩张王室领地"
+ EDG_PER_disaster_Shah_insane.11.d:0 "为了应对国内外的危机，[Root.Monarch.GetName]急需扩大自己的财源。他首先决定增加王室行省的数量，在新的总督都是沙希万出身。几年之后，待局势基本稳定，[Root.Monarch.GetName]将克尔曼交给了库尔德人甘吉·阿里汗（Ganj Ali Khan），他也是[Root.Monarch.GetName]在赫拉特一起长大的“童年玩伴”之一。阿拉维迪汗调任帕尔斯总督，他是萨法维王朝历史上第一个成为行省总督的古拉姆。这也是阿巴斯的新政策，红头部落虽然保留了各自的采邑，但负责管理他们的总督却不再像以前一样从本部落中挑选，而是直接由沙阿进行任命，他可能是来自于其他的红头部落的沙希万，甚至有可能是古拉姆。[Root.Monarch.GetName]的这一集权改革损害到了许多人的利益，尤其是奇兹尔巴什部落的利益，他们对[Root.Monarch.GetName]表示不满，并要求恢复旧有特权。"
+ EDG_PER_disaster_Shah_insane.11.a:0 "难道帝国不都是沙阿的吗？"
+ EDG_PER_disaster_Shah_insane.11.b:0 "我们并不急于求成。"
+
+ EDG_PER_disaster_Shah_insane.12.t:0 "反集权主义骚乱"
+ EDG_PER_disaster_Shah_insane.12.d:0 "由于不满中央的集权主义政策，又一批外省派发动了叛乱，他们认为即便是沙汗沙阿也不能要求伊朗的所有土地都成为王室领地，要求[Root.Monarch.GetName]恢复当地的自治权力。"
+ EDG_PER_disaster_Shah_insane.12.a:0 "和这群虫豸在一起，怎么才能治理好国家？"
+ EDG_PER_disaster_Shah_insane.12.b:0 "我们可以分而治之……"
+ EDG_PER_disaster_Shah_insane.12.c:0 "尽可能地安抚他们。"
+
+ EDG_PER_disaster_Shah_insane.13.t:0 "盘剥"
+ EDG_PER_disaster_Shah_insane.13.d:0 "帝国的集权主义政策带来了腐败和压迫的问题，这是国家发展的道路上不可能避免的。但一些短视的农民将这一切归结于[Root.Monarch.GetName]，他们将[Root.Monarch.GetName]视为剥削与压迫的根源，并准备拿去武器对抗中央。"
+ EDG_PER_disaster_Shah_insane.13.a:0 "再苦一苦[Root.GetName]的农民。"
+ EDG_PER_disaster_Shah_insane.13.b:0 "降低当地的税赋。"
+
+ EDG_PER_disaster_Shah_insane.14.t:0 ""
+ EDG_PER_disaster_Shah_insane.14.d:0 ""
+ EDG_PER_disaster_Shah_insane.14.a:0 ""
+ EDG_PER_disaster_Shah_insane.14.b:0 ""
+
+EDG_PER_disaster_throne_war_power:0 "已安抚的§Y奇兹尔巴什§!"
+EDG_PER_disaster_throne_war_decision_1_title:0 "安抚奇兹尔巴什@PER§Y巴伊博特鲁§!"
+EDG_PER_disaster_throne_war_decision_2_title:0 "安抚奇兹尔巴什@PER§Y乌斯塔吉§!"
+EDG_PER_disaster_throne_war_decision_3_title:0 "安抚奇兹尔巴什@PER§Y沙姆鲁§!"
+EDG_PER_disaster_throne_war_decision_4_title:0 "安抚奇兹尔巴什@PER§Y罗姆鲁§!"
+EDG_PER_disaster_throne_war_decision_5_title:0 "安抚奇兹尔巴什@PER§Y塔卡鲁§!"
+EDG_PER_disaster_throne_war_decision_6_title:0 "安抚奇兹尔巴什@PER§Y祖尔卡达尔§!"
+EDG_PER_disaster_throne_war_decision_7_title:0 "安抚奇兹尔巴什@PER§Y阿夫沙尔§!"
+EDG_PER_disaster_throne_war_decision_8_title:0 "安抚奇兹尔巴什@PER§Y恺加§!"
+EDG_PER_disaster_throne_war_decision_9_title:0 "安抚奇兹尔巴什@PER§Y瓦萨克§!"
+
+EDG_PER_disaster_throne_war_decision_reform_1_title:0 "削弱导师制度"
+EDG_PER_disaster_throne_war_decision_reform_1_desc:0 "根据王朝的传统，我们会为每个王子安排一名奇兹尔巴什导师。奇兹尔巴什导师会为王子提供教育和支持，他们会成为帝国的可能的继承人的支持者，但他们的野心也可能引起动荡。"
+EDG_PER_disaster_throne_war_decision_reform_1_tt:0 "一些特定的§R灾难事件§!将不再会触发。"
+
+EDG_PER_disaster_throne_war_decision_reform_2_title:0 "奇兹尔巴什内部平衡"
+EDG_PER_disaster_throne_war_decision_reform_2_desc:0 "我们笼络了许多奇兹尔巴什部族，如今他们团结在王权之下争权夺利，这为维护君主专制提供了机会。"
+
+ #明
+ EDG_CSH_raise_modifier:0 "李自成起义"
+ 
+ EDG_disaster_ming_crisis.3.t:0 "反矿监运动"
+ EDG_disaster_ming_crisis.3.d:0 "[Root.Monarch.GetTitle][Root.Monarch.GetName]贪婪成性。为了满足自己穷奢极侈的生活耗费和积攒金银财货，他竟然“生财有道”，以开矿征税为名，派出大批太监充任矿监税使，去往全国各地搜括民财。这些矿监税使所到之处：不论地有与无，有包矿包税之苦；不论民愿与否，有派矿派税之苦。指其屋而挟之曰：“彼有矿！”则家立破矣。指其货而吓之曰：“彼漏税！”则橐立倾矣。以无可稽查之数，用无所顾畏之人，行无天理无王法之事。大略以十分为率，入于内帑者一，尅于中使者二，瓜分于参随者三，指骗于土棍者四。而地方之供应，岁时之馈遗，驿递之骚扰，与夫不才官吏指以为市者，皆不与焉。这实际上是打着皇帝的旗号在地方上公然劫夺。矿监税使和他们的爪牙无恶不作，激起了许多城镇人民的反抗，在一连串连锁反应下，引发了一场规模巨大的工商业者叛乱。"
+ EDG_disaster_ming_crisis.3.a:0 "螳臂当车的暴徒！"
+ 
+ EDG_disaster_ming_crisis.4.t:0 "$YEAR$年农民大起义"
+ EDG_disaster_ming_crisis.4.d:0 "[Root.GetAdjective]王朝的勋戚和太监自很久以前便开始在畿辅地区疯狂侵占大量田地。他们依靠同皇帝的亲近关系，通过请乞等手段攫取大片土地建立庄田。一般的官僚地主即所谓缙绅之家，也利用他们在政治上的优越地位，巧取豪夺，兼并大片土地。在官绅地主的疯狂兼并下，[Root.GetAdjective]末期土地高度集中，绝大多数农民被剥夺了土地，变成官绅地主的佃仆，或者被迫四处流亡。沉重的赋税使农民不堪负荷，大批地逃亡。地方官却不顾农民的死活，用严刑峻法追比钱粮，甚至责令现在的农户代纳逃户的粮税。每逢官府开征的时候，追呼敲朴，惨绝人寰。万历年间就有人说过，“饥羸之夫，腹无半菽，而手足犹絷于桁杨”。在几年前，陕西临潼县知县许中泽，“催科过严，每比较日，什排浴温泉，泉水为赤”。一名官员在其所著书中说：“予尝过恩县，见乙榜令催比钱粮，血流盈阶，可叹！”[Root.GetAdjective]王朝高度的土地兼并以及朝廷无度的征税极大地加剧了农民的负担，并引发了规模巨大的叛乱。"
+ EDG_disaster_ming_crisis.4.a:0 "不作安安饿殍，效尤奋臂螳螂？"
+ 
+ EDG_disaster_ming_crisis.5.t:0 "哀鸿遍野"
+ EDG_disaster_ming_crisis.5.d:0 "$YEAR$年，山东诸城县举人陈其猷进京会试，依据亲身见闻绘了一份《饥民图》伏阙上疏，其序略云：\n\n臣自正月离家北上，出境二十里，见道旁刮人肉者如屠猪狗，不少避人，人视之亦不为怪。于是毛骨懔懔。又行半日，见老妪持一死儿，且烹且哭。因问曰：“既欲食之，何必哭？”妪曰：“此吾儿，弃之且为人食，故宁自充腹耳。”臣因此数日饮食不能甘，此时苟有济于死亡，直不顾顶踵矣。乃入京之初，恶状犹横胸臆间。越二三日，朋俦相聚，杯酌相呼，前事若忆若忘。既而声歌诱耳，繁华夺目，昨日之痛心酸鼻者，竟漠然不相关矣。呜呼，臣饥人也，饥之情、饥之味皆其习见而亲尝者，犹且以渐远渐隔而忘之。乃欲九天之上、万里之遥，以从来未见之情形，冀其不告而知、无因而痛，不其难乎？\n\n大规模的饥荒让大量的百姓流离失所，变成了流民，成为了社会上的一股极具不稳定性的力量。这些流民没有财产和生产资料，却依然被官府强迫缴纳贡赋，否则就要接受严酷的惩罚。朝廷的一系列暴政最终引发了大规模的农民起义。"
+ EDG_disaster_ming_crisis.5.a:0 "老百姓没有饭吃为什么不饿死呢？"
+ 
+ 
+ #阿尔勒
+ EDG_War_of_Perfection:0 "完人战争"
+ 
+ EDG_War_of_Perfection.1.t:0 "完人战争"
+ EDG_War_of_Perfection.1.d:0 "长期以来，清洁派的信徒分为“完人”与信徒两种，“完人”必须要全体都遵守斋戒、节欲、不说谎、不发誓等条规。一般的信徒在禁欲的清规上是不用遵守的，只需要接受灵洗，过一般人的生活，没有义务遵守严格的教规。但是要完全尊重“完人”，“完人”的命令要完全的遵守。\n\n“完人”是真正的教徒，在经过长期的考验后接受受洗即借按手分赐圣灵的仪式。完人除了主持礼拜、讲道外也从事施舍救济和教育工作如成立学校等。完人如果后来不能够维持受灵洗者的水平，则必须接受圣灵的重洗，即自愿了结，借饥饿或窒息造成强迫性的死亡。\n\n“我们的最高统治者长期被塑造为典型的“完人”，即便国内有反对派认为我们的统治者达不到“完人”的标准，他们的意见也会随着暴力手段而消失。但随着宗教改革的开始，过去的高压政策逐渐失效，越来越多的人开始怀疑统治者的权威，他们宣称[Root.Monarch.GetTitle][Root.Monarch.GetName]不过是个普通信徒，这对[Root.Monarch.GetTitle]的权威产生了很大的冲击。近期，一场有组织的暴动被煽动，许多信徒高举叛旗，宣称要恢复真正的清洁派。"
+ EDG_War_of_Perfection.1.a:0 "没有人能质疑[Root.Monarch.GetTitle]的地位！"
+ 
+ EDG_War_of_Perfection.2.t:0 "《完人法案》"
+ EDG_War_of_Perfection.2.d:0 "这场由宗教引发的内乱最终得到终结，狂热的清洁派原教旨主义者的力量在无休止的斗争中被消磨殆尽，[Root.Monarch.GetTitle][Root.Monarch.GetName]获得了最终的胜利。为了防止有可能的又一次大规模宗教战争，[Root.Monarch.GetTitle][Root.Monarch.GetName]颁布了《完人法案》，对相关教义进行了规定，并加强了国家对宗教的控制。"
+ EDG_War_of_Perfection.2.a:0 "完人立于世。"
+ 
+ 
+ #保加利亚灰军掌权
+ EDG_BUL_empire_decline:0 "灰军掌权"
+EDG_BUL_empire_decline_end_flag:0 "灰军掌权已经结束"
+ 
+ EDG_BUL_empire_decline.1.t:0 "灰军掌权"
+ EDG_BUL_empire_decline.1.d:0 "保加利亚灰军是由保加利亚沙皇建立的一支由纯净虔信的保加利亚东正教徒组建的军队，后沙皇扩大了灰军的征兵规模，让其他民族的虔信东正教徒也能加入到灰军中，这些战士将在战争中表现出圣战的热情。\n\n灰军拥有强大的军事素养，在长期的军事行动中为帝国立下了汗马功劳。保加利亚皇帝为制衡国内的其他政治势力，也逐步扩大灰军的权力，灰军也因而拥有愈来愈大的影响力。在$YEAR$年，[Root.Monarch.GetTitle][Root.Monarch.GetName]在回到行宫的途中，被灰军的军官们拦下，灰军们要求更多的经济特权和政治权力，双方爆发冲突。\n\n灰军对[Root.Monarch.GetTitle][Root.Monarch.GetName]的不满最终爆发，灰军的领袖杀死了[Root.Monarch.GetTitle][Root.Monarch.GetName]，并要求新[Root.Monarch.GetTitle]给予灰军更多的权力。灰军弑君并夺取政权的丑闻迅速传播至全国，国内的大批机会主义者和反动分子都抓住了这个机会，以各种各样的理由，打着护国为民的旗号，发动了大规模的叛乱行动。"
+ EDG_BUL_empire_decline.1.a:0 "我们应该怎么办？"
+ 
+ EDG_BUL_empire_decline.2.t:0 "狮眠"
+ EDG_BUL_empire_decline.2.d:0 "随着国内外冲突的最终结束，帝国内部已经没有有生力量可以继续消耗，灰军也在长期的混乱中失去了猖獗的政治经济基础，[Root.Monarch.GetTitle]最终重新掌握了大权，皇权的重立让国内的不安因素最终平息。"
+ EDG_BUL_empire_decline.2.a:0 "我们能恢复长久的稳定吗？"
+ 
+ EDG_BUL_empire_decline.3.t:0 "新保加利亚王国"
+ EDG_BUL_empire_decline.3.d:0 "自从保加利亚定都君士坦丁堡以来，帝国的制度愈发罗马化，这自然引起了一些保守势力的不满。索菲亚的索菲亚-阿森家族在宫廷内有大量的支持者，他们掌握巴尔干半岛的大片土地，灰军之中也有许多军官更拥护阿森家族。在$YEAR$年，鲍里斯·阿森在索菲亚宣布建立独立的保加利亚王国，要求推翻大保加利亚的皇帝，并重建国家秩序。"
+ EDG_BUL_empire_decline.3.a:0 "按而不表。"
+ EDG_BUL_empire_decline.3.b:0 "杀贼！"
+ 
+ EDG_BUL_empire_decline.4.t:0 "外省派的背叛"
+ EDG_BUL_empire_decline.4.d:0 "随着大保加利亚帝国陷入动荡，各地势力也都蠢蠢欲动。$YEAR$年，灰军外省派领袖，博戈里斯·捷尔捷尔在帝国于东方的领地团结了大部分的官员、军官和领主，并宣布独立。"
+ EDG_BUL_empire_decline.4.a:0 "让他们去吧。"
+ EDG_BUL_empire_decline.4.b:0 "吊死所有叛徒！"
+ 
+ EDG_BUL_empire_decline.5.t:0 "整合保加利亚政权"
+ EDG_BUL_empire_decline.5.d:0 "我们击败了另一个保加利亚政权，并接管了他们的政府。"
+ EDG_BUL_empire_decline.5.a:0 "昭昭天命。"
+ 
+#保加利亚黑暗时代
+EDG_BUL_empire_Alexandria:0 "黑暗时代"
+EDG_flavor_BUL_9_a_modifier:0 "黑暗时代的祸根"
+EDG_BUL_empire_Alexandria_end_modifier:0 "根除旧军事集团"
+EDG_flavor_BUL_8_a_modifier:0 "亚历山大沙皇"
+EDG_BUL_empire_Alexandria_end_flag:0 "黑暗时代已经结束"
+EDG_BUL_empire_Alexandria_back_or_not_flag:0 "亚历山大王子"
+
+EDG_BUL_empire_Alexandria.1.t:0 "黑暗时代"
+EDG_BUL_empire_Alexandria.1.d:0 "自从格奥尔基篡夺了帝国的权力以来，帝国内部的矛盾便愈发变得不可调和，帝国在全国范围内推行的高压政治与中央不可言说的正统性产生了巨大的矛盾，这造成了帝国的中央与地方的离心离德，以及皇帝位改善这一局面而不得不进行的饮鸩止渴。帝国的政治权威日益衰退，各地总督不认可来自沙皇格勒的敕令，灰军也开始蠢蠢欲动。\n\n保加利亚帝国境内的混乱愈演愈烈，愈发暴戾的统治遭到了底层民众的激烈反弹，领主们龟缩在自己的城堡当中期望能在混乱当中独善其身，索菲亚城外的农民们拿起草叉举起锄头攻击前来收税的肥头大耳的税官，撕烂为税官开脱的教士的法袍。\n\n在过去的二十年内一直不可明言的有关皇帝格奥尔基一世的阴谋传言逐渐流传开来，人们都说是他杀害了先帝的王子亚历山大——但又有传言宣称，亚历山大王子被老臣救下，并活了下来，命中注定将拯救帝国。同时，有关亚历山大流传民间的传闻也逐渐被传播开了，许多人正在期待一个名为「亚历山大」的先皇太子重现人间，改变帝国分裂与衰退的现状。"
+EDG_BUL_empire_Alexandria.1.a:0 "作恶，为王所憎恶，因国位是靠公义坚立。——《旧约-箴言》"
+EDG_BUL_empire_Alexandria.1.b:0 ""
+
+EDG_BUL_empire_Alexandria.2.t:0 "血染夕阳"
+EDG_BUL_empire_Alexandria.2.d:0 "皇帝站在城楼极目远眺，西方残阳如血。他的两个相互冲突的身份代表着一位对立统一的皇帝。他需要回应这些对他投来殷切目光的普罗大众，但他也无法彻底撤下他身上的皇袍。依附于恶毒的篡位者格奥尔基的家族被打倒，在他们的尸首之上将有其他的家族。他允诺了农民拥有战争中所夺取的土地的所有权，但是在百年之后，这些手持草叉和锄头的人群的人的某些后代，又会成为一方诸侯与千百人的领主。皇帝愿意治理一个开明的帝国，但帝国不会永远在皇帝的掌控之中……但至少，今夜是值得庆贺的。"
+EDG_BUL_empire_Alexandria.2.a:0 "现在全地得安息、享平静，人皆发声欢呼。——《旧约-以赛亚书》"
+EDG_BUL_empire_Alexandria.2.b:0 ""
+
+EDG_BUL_empire_Alexandria.3.t:0 "沙皇亲征"
+EDG_BUL_empire_Alexandria.3.d:0 "[Root.Monarch.GetTitle][Root.Monarch.GetName]的部队于所到之处对平民秋毫无犯，许多反叛的权贵曾不断试图击败这个年轻的君主，却无一不是最终灰溜溜的逃回属地，并乞求皇帝的宽恕。在平息尼西亚总督的叛乱时，[Root.Monarch.GetTitle][Root.Monarch.GetName]再一次展现了自己的军事才能，他的指挥比有史以来的所有征服者更加滴水不漏。孤立无援的尼西亚城已经无力支撑他浮肿的躯壳，城内的秩序已经陷入混乱，宝座上的王位宣称者身着华服，凝望着四处起火的尼西亚城，无力的摊倒在宝座之上，从衣袋当中摸出一瓶药酒一饮而尽，体面的死去对他而言已经是最大的仁慈。"
+EDG_BUL_empire_Alexandria.3.a:0 "[Root.Monarch.GetName]，上帝的利刃。"
+EDG_BUL_empire_Alexandria.3.b:0 "这是我们的胜利。"
+
+EDG_BUL_empire_Alexandria.4.t:0 "帝国稳定的恢复"
+EDG_BUL_empire_Alexandria.4.d:0 "[Root.Monarch.GetTitle][Root.Monarch.GetName]的登基称为了帝国黑暗时代即将结束的标志，他的统治强劲有力，并逐步挽回了帝国的混乱局面。"
+EDG_BUL_empire_Alexandria.4.a:0 "耶和华祝福他。"
+EDG_BUL_empire_Alexandria.4.b:0 ""
+ 
+ #斯摩棱斯克
+ EDG_offici_under_harbourage_tooltip:0 "近期成功抨击"
+ EDG_offici_under_diatribe_tooltip:0 "近期遭受抨击"
+ #二次起义
+ EDG_SMO_disasters_1:0 "二次起义"
+ had_EDG_SMO_disasters_1_flag:0 "二次起义"
+ 
+ #宗教大革命
+ EDG_SMO_disasters_2_event_end_modifier_1:0 "宗教大革命的遗产"
+ EDG_SMO_disasters_2_event_end_modifier_2:0 "拨乱反正"
+ 
+ had_EDG_SMO_disasters_2_eng_flag:0 "宗教大革命的结束"
+ EDG_SMO_disasters_2:0 "宗教大革命"
+ 
+ EDG_SMO_disasters_2_event.1.t:0 "宗教大革命"
+ EDG_SMO_disasters_2_event.1.d:0 "长期以来，以农民为主导的平等理念一直是共和国的主流思想。但不知从什么时候起，虽然共和国在国家层面总是强调平等与革命，但国内却有越来越多的权贵变得奢靡腐化。特权阶级对社会资源进行了垄断，少数富有和有权势的人享有着优越待遇，而普通民众则处于劣势地位，有权有势的权贵把持了国家的经济命脉，垄断了政治权力和话语权，对底层百姓极度漠视，进行随意鱼肉，这引起了大量的不满和反抗。这一现象也被[ROOT.Monarch.GetTitle][ROOT.Monarch.GetName]察觉。[ROOT.Monarch.GetTitle][ROOT.Monarch.GetName]经由正当选举产生，认可共和国主导的平等理念，在一次会议上，[ROOT.Monarch.GetTitle][ROOT.Monarch.GetName]目睹了一名代表对国内某些官僚奢靡腐化作风的猛烈抨击，并在数个礼拜后得知了该代表自杀的死讯。此后的很长一段时间内，[ROOT.Monarch.GetName]茶饭不思，不断地思考为什么共和国会变成如今的样子。终于，在$YEAR$年，[ROOT.Monarch.GetName]在议会上宣布开展宗教大革命，号召国民根据国教的教义和共和国的传统主流理念，对不符合教义与包括平等思想在内的主流思想的所有人进行抨击和打击，势必要将共和国的腐化风气彻底消灭！"
+ EDG_SMO_disasters_2_event.1.a:0 "消灭一切剥削与压迫！"
+ 
+ EDG_SMO_disasters_2_event.2.t:0 "宗教大革命的遗产"
+ EDG_SMO_disasters_2_event.2.d:0 "在宗教大革命的过程中，我们见证了无数纯洁而勇敢的灵魂，看到了那些真正为了革命事业奋斗的人们，他们愿意为了信仰和理想而付出一切，哪怕是挑战最具有权势的那一批人。在无数同胞的奋斗下，宗教大革命最终取得了决定性的胜利，我们打败了官僚阶层，并巩固了共和国平等的理念！"
+ EDG_SMO_disasters_2_event.2.a:0 "宗教大革命万岁！"
+ 
+ EDG_SMO_disasters_2_event.3.t:0 "补偏救弊"
+ EDG_SMO_disasters_2_event.3.d:0 "宗教大革命无疑带来了无数的痛苦和矛盾，那些饱含热情、信仰和理想的年轻人，他们在为革命事业奋斗的同时，也常常失去了自我，变得盲目和极端。许多人受到迫害，他们的财产被抢走，他们的家庭被摧毁，无数盲目而愚昧的人使用暴力手段欺压其他人。许多人被错误地定为“反动分子”，他们的生命和家庭遭受了毁灭性的打击，造成了社会的不稳定和混乱。无论如何，宗教大革命最终结束了，共和国的最高层完成了对全社会稳定的巩固，我们的社会重回正规。"
+ EDG_SMO_disasters_2_event.3.a:0 "宗教大革命终于结束了。"
+ 
+ EDG_SMO_disasters_2_event.4.t:0 "拨乱反动官僚"
+ EDG_SMO_disasters_2_event.4.d:0 "近期，群众对已然暴露的或潜在的反动分子进行了大量的抨击，其中一起事件引起了轩然大波，一些官僚提出，我们不应该矫枉过正。"
+ EDG_SMO_disasters_2_event.4.a:0 "矫枉过正？对敌人的仁慈就是对自己的残忍！"
+ EDG_SMO_disasters_2_event.4.b:0 "群众总是不知轻重。"
+ 
+ EDG_SMO_disasters_2_event.5.t:0 "拨乱反动顾问"
+ EDG_SMO_disasters_2_event.5.d:0 "有人举报中央政府中有一名顾问是反动派，该顾问不仅不尊重我们国教的教义，还暗示过自己否认人人平等，认为在中央工作的人理应高人一等，不少人举证了此人生活的不检点与奢靡腐化。"
+ EDG_SMO_disasters_2_event.5.a:0 "高官犯法与庶民同罪！"
+ EDG_SMO_disasters_2_event.5.b:0 "嘘，他可是我们的大官。"
+ 
+ EDG_SMO_disasters_2_event.6.t:0 "拨乱反动将领"
+ EDG_SMO_disasters_2_event.6.d:0 "共和国内有一名将领是一个不折不扣的反动派，许多国民都指认该将领存在不法行为，在军队中以不符合规定的严酷手段对待自己的下属，并且漠视平等，有十足浓厚的反动倾向。"
+ EDG_SMO_disasters_2_event.6.a:0 "手握武器之人更需要严格处理！"
+ EDG_SMO_disasters_2_event.6.b:0 "我们不应该继续扩大事态。"
+ 
+ EDG_SMO_disasters_2_event.7.t:0 "新外交政策"
+ EDG_SMO_disasters_2_event.7.d:0 "我们从封闭中走了出来，开始向整个世界张开双臂。现在外国的商人可以自由地在我们国内活动，这也为过去死气沉沉的共和国注入了活力。毫无疑问，过去那些死脑筋和不识礼数的乡巴佬害苦了我们，他们甚至不对自己犯下的错反省。我们将扭转这一情况，把他国看作平等的伙伴，而非咄咄逼人地要消灭他们。"
+ EDG_SMO_disasters_2_event.7.a:0 "我们的政策终于不会被愚昧的农民拖后腿了。"
+ EDG_SMO_disasters_2_event.7.b:0 ""
+ 
+ EDG_SMO_disasters_2_event.8.t:0 "所有人都满意的国家"
+ EDG_SMO_disasters_2_event.8.d:0 "在近期，我们的官僚进行了一次全国性的调查，我们意外地发现，几乎所有人都可以在共和国安居乐业，尽管我们的街头还有大量的乞丐和伤残人士，还有一些流民毫不知耻地躺在政府的门口要求救助，但他们都是共和国的敌人而非人民，因而我们不将其纳入统计。所以，我们可以骄傲地宣布，共和国令所有人都满意！"
+ EDG_SMO_disasters_2_event.8.a:0 "太平盛世！"
+ EDG_SMO_disasters_2_event.8.b:0 ""
+ 
+ EDG_SMO_disasters_2_event.9.t:0 "调停人"
+ EDG_SMO_disasters_2_event.9.d:0 "通过相关法律法规的建设和制度的不断改革。我们国内的矛盾趋于缓和，外国人也终于有了稳定的投资和商谈环境，他国对我们的封锁也逐渐放松，让我们得以更灵活地施加影响力。"
+ EDG_SMO_disasters_2_event.9.a:0 "社会需要稳定而非斗争！"
+ EDG_SMO_disasters_2_event.9.b:0 "我们不应该抛弃我们的根。"
+ 
+ EDG_SMO_disasters_2_event.10.t:0 "新经济体制改革"
+ EDG_SMO_disasters_2_event.10.d:0 "一些官员提出，我们应当进行经济改革，以改变如今日益僵化的经济体制，通过将市场这一重要因素重新整合进国家的经济，引入外国的资本和生产组织形式，让我们发展国内的生产。当然，也有议员反应，这一系列政策将会导致许多自耕农和手工业者破产，让他们被迫接受极低的薪资，成为城市中的被剥削者。"
+ EDG_SMO_disasters_2_event.10.a:0 "我们不能损害老百姓的利益。"
+ EDG_SMO_disasters_2_event.10.b:0 "我们相信鸡尾酒效应。"
+ 
+ EDG_SMO_disasters_2_event.11.t:0 "治安法改革"
+ EDG_SMO_disasters_2_event.11.d:0 "我们发现，一些地区已经开始让当地的驻军镇压本地的游行和示威了，这一现象引起了中央的注意。或许其他国家还在为维护内部稳定而头疼，不妨来看看我们的方案——在全国范围内设立有限武装的队伍，并通过不断的宣传和训练，让他们将武器对准国内的肇事者，用军事手段否认他们的投票权和其他权利。"
+ EDG_SMO_disasters_2_event.11.a:0 "军队怎么能对准国民？"
+ EDG_SMO_disasters_2_event.11.b:0 "非常时期，非常手段。"
+ 
+ EDG_SMO_disasters_2_event.12.t:0 ""
+ EDG_SMO_disasters_2_event.12.d:0 ""
+ EDG_SMO_disasters_2_event.12.a:0 ""
+ EDG_SMO_disasters_2_event.12.b:0 ""
+ 
+ EDG_SMO_disasters_2_event.13.t:0 ""
+ EDG_SMO_disasters_2_event.13.d:0 ""
+ EDG_SMO_disasters_2_event.13.a:0 ""
+ EDG_SMO_disasters_2_event.13.b:0 ""
+ #灰鼠战争
+ EDG_SMO_disasters_3_event_end_modifier_1:0 "灰鼠战争的结束"
+ EDG_SMO_disasters_3:0 "灰鼠战争§R「惩罚性」§!"
+ 
+ EDG_SMO_disasters_3_event.1.t:0 "灰鼠战争"
+ EDG_SMO_disasters_3_event.1.d:0 "近些年来，共和国的经济持续增长，但令人困惑的是，绝大部分的国民的收入却没有增长，各地村庄遭受着严重的经济危机，物价飞涨，粮食的价格也居高不下，这在尤里军政府倒台后都从未见过。集体农庄制度在很早以前就名存实亡，大量的农民重新变回贫雇农，却又有大量的官僚凭借对资源的垄断而购置上万亩的田地，许多流浪汉讽刺道，在里面放个标牌，写上‘集体农场’四个字，不一会大半老鼠都会饿死，剩下的都逃之夭夭了。\n\n政府派发的救济物资并没有解决任何问题，许多官僚会在派发物资时将场所封闭，禁止穷人入内。大量的穷苦人依然每天都活在饿死的边缘，救济物资几乎没有流入底层人手中的，反而让富人过得越来越滋润，穷人们只能通过捡权贵门口的烂肉以求生存。巨大的贫富差距让社会矛盾日益尖锐，许多人开始认为自己在共和国内的地位真的和老鼠一样低贱，官僚们在踩死自己的同时甚至不愿意低头看自己一眼。\n\n许多官僚并没有意识到来自底层的不满会引起什么样的变动。在$YEAR$年，一场规模巨大的起义发生了，叛军们衣衫褴褛，却愤怒不已，他们痛斥权贵将自己视作灰鼠，并将这次起义命名为“灰鼠战争”。"
+ EDG_SMO_disasters_3_event.1.a:0 "我们需要消灭害虫了。"
+ 
+ EDG_SMO_disasters_3_event.2.t:0 "屠尽灰鼠"
+ EDG_SMO_disasters_3_event.2.d:0 "“灰鼠战争”浩浩荡荡地持续了许多年，大量的穷人横死街头，哪怕在首都$CAPITAL$的街道上，也很难找到一个不穿丝绸的活人。政府军的军官常常对着战犯的尸体啐唾沫，嘲笑道：“如果你们当年更努力一些，还会落到今天的下场吗？”共和国的行政和司法系统用尽所有的力量抹杀了一切反对势力，并为这个国家的所有人留下了深刻的印象。"
+ EDG_SMO_disasters_3_event.2.a:0 "他们为什么就是不肯努力呢？"
+
+
+#选王制的崩溃:0 ""
+had_EDG_BTA_civil_war_flag:0 "选王制的崩溃"
+EDG_BTA_civil_war:0 "选王制的崩溃"
+EDG_BTA_civil_war.1.t:0 "王位的圣三一，选王制的崩溃"
+EDG_BTA_civil_war.2.t:0 "$YEAR$王位继承法"
+EDG_BTA_civil_war.3.t:0 "选王议会的骚乱"
+EDG_BTA_civil_war.4.t:0 "投机主义贵族"
+EDG_BTA_civil_war.5.t:0 "罗伯特 巴里奥尔"
+EDG_BTA_civil_war.6.t:0 "詹姆士 布鲁斯"
+EDG_BTA_civil_war.7.t:0 "约翰 华莱士"
+EDG_BTA_civil_war.8.t:0 "亨利 德 乌姆弗拉维尔"
+EDG_BTA_civil_war.9.t:0 "查理 斯图亚特"
+EDG_BTA_civil_war.10.t:0 "王位觊觎者"
+EDG_BTA_civil_war.11.t:0 "$YEAR$爱尔兰动荡"
+EDG_BTA_civil_war.12.t:0 "英吉利分离主义"
+
+EDG_BTA_civil_war.1.d:0 "以布鲁斯、巴利奥尔和的·乌姆弗拉维尔三大家族为首的选王会议已经成为了深深的烙印在了不列颠尼亚的每一寸国土，在过去，这种制度被苏格兰诗人热情的称为：“最谦卑和最平衡的制度”，来自全国各地的领主和主教聚集在爱丁堡，从三位当中选择最能领导苏格兰的一位君王，每一位国王都来自选王会议的推举，每一位国王都正当壮年，每一位国王都年富力强，每一位国王都是柏拉图笔下的哲人王，更有甚者，将这段时期比作罗马的五贤帝时期——五位养子皇帝统治着永恒美好的国度，但罗马的纪功柱难免隳于日积月累的风化，沦为令人垂吊的遗迹。\n\n而时至今日，苏格兰的选王会议身上的鎏金已经脱落殆尽，争吵和猜疑的阴云阴翳在不列颠尼亚上空，三大家族之间的共识逐渐为日间增长的分歧所代替，他们都想把斯昆石据为己有，不容许他人染指，世袭召集人斯图亚特家族的族长努力的维持三方之间的平衡和团结，但不列颠尼亚三巨头早已是同床异梦，所剩的唯有表面的一点和谐。\n\n不列颠尼亚之主——[Root.Monarch.GetTitle][Root.Monarch.GetName]的面前摆着一份大胆的计划，将不列颠尼亚的王位世袭化，他的王位将传给他的儿子罗塞西公爵，罗塞西公爵将传给新的一位罗塞西公爵……但这个计划同时也是危险的，这意味着他将互相猜忌的另外两家强行绑上了同一辆战车，一场内战在所难免，这是一场以家族为赌注的放手一搏，胜者拥有一切，败者一无所有。"
+EDG_BTA_civil_war.2.d:0 "不列颠尼亚的政治局势在三大家族的纷争中愈加复杂，每个家族都拥有自己的忠诚支持者和足以对抗其他家族的军队。另外两大家族除了以“捍卫传统”为名号直指首都之外，还一直在试图通过建立盟友来扩大他们的影响力，但无论是什么方式，最终的目的都是争夺国家政权。\n\n这种情况下，[Root.Monarch.GetTitle][Root.Monarch.GetName]的王座岌岌可危。两大派别的军队接连不断地进行着军事冲突，烧杀抢掠的场景在城市中不断上演，人民的生命财产遭到了巨大的威胁。这样的局面已经不是一般的动荡，而是近乎失控的状态，像是一只失去了掌控的野兽正在肆虐着整个不列颠尼亚。\n\n当王宫最后陷落于叛军之手之际，[Root.Monarch.GetTitle][Root.Monarch.GetName]坐在王椅上，身穿正装，头佩王冠，膝上放着权杖，泰然而坐，面对着闯入宫殿的士兵。这些士兵手中拿着泛着寒光残有血痕的长枪，但是国王毫不畏惧，神态从容镇定，仿佛他已经没有什么可害怕的，也没有什么可以失去了，[Root.Monarch.GetName]从袖中拿出一个小瓶服下。当士兵想要斩下[Root.Monarch.GetName]的项上人头之际，却发现[Root.Monarch.GetName]已经服毒自尽。这个事实让所有人都十分震惊，因为[Root.Monarch.GetTitle][Root.Monarch.GetName]本可以选择其他的逃难方式，却选择了服毒，用自己的方式逃脱了命运的樊笼，向炼狱昂首而去宣誓对于自己命运的掌控权，与对命运的嘲弄。在国家政治陷入更加深重的困境后，他选择了一条孤独的路。\n\n不列颠尼亚的内战已经带来了太多的苦难，无数的生命化为亡魂，大片的沃野化为焦土，这场灾难应该结束，无论是时间的流逝还是王冠的力量。"
+EDG_BTA_civil_war_2_d_2:0 "不列颠尼亚的政治局势在三大家族的纷争中愈加复杂，每个家族都拥有自己的忠诚支持者和足以对抗其他家族的军队。另外两大家族除了以“捍卫传统”为名号直指首都之外，还一直在试图通过建立盟友来扩大他们的影响力，但无论是什么方式，最终的目的都是争夺国家政权。两大派别的军队接连不断地进行着军事冲突，烧杀抢掠的场景在城市中不断上演，人民的生命财产遭到了巨大的威胁。这样的局面已经不是一般的动荡，而是近乎失控的状态，像是一只失去了掌控的野兽正在肆虐着整个不列颠尼亚。但自从[Root.Monarch.GetTitle][Root.Monarch.GetName]入主王位后，其敏锐的政治洞察力和智慧终究是令其选择维护王国的传统，即选王制的权威。\n\n当位于伦敦的叛军最后被彻底清缴时，[Root.Monarch.GetTitle][Root.Monarch.GetName]亲自攻入王宫，并亲眼看见自己的竞争对手，「伪王」查理·斯图亚特坐在王椅上，身穿正装，头佩王冠，膝上放着权杖，泰然而坐，面对着闯入宫殿的士兵。这些士兵手中拿着泛着寒光残有血痕的长枪，但是「伪王」毫不畏惧，神态从容镇定，仿佛他已经没有什么可害怕的，也没有什么可以失去了，「伪王」查理从袖中拿出一个小瓶服下。当士兵想要斩下「伪王」查理的项上人头之际，却发现「伪王」查理已经服毒自尽。这个事实让所有人都十分震惊，「伪王」查理本可以选择其他的逃难方式，却选择了服毒，用自己的方式逃脱了命运的樊笼，向炼狱昂首而去宣誓对于自己命运的掌控权，与对命运的嘲弄。在国家政治陷入更加深重的困境后，他选择了一条孤独的路。\n\n不列颠尼亚的内战已经带来了太多的苦难，无数的生命化为亡魂，大片的沃野化为焦土，这场灾难应该结束，无论是时间的流逝还是王冠的力量。"
+EDG_BTA_civil_war.3.d:0 "在$YEAR$年，由于近期爆发的一系列骚乱，选王议会陷入了群龙无首的混乱局面，提案中出现了愈来愈多的无理取闹的要求，仿佛代表们是一群没有头脑的呆子。许多代表要求给予他们更多的特权，以求在国内的动荡中得以自保。"
+EDG_BTA_civil_war.4.d:0 "国内的混乱带来的是众多投机主义分子的活跃，他们将国家利益抛在脑后，趁着议会无暇他顾之际要求议会给予自己更多特权。"
+EDG_BTA_civil_war.5.d:0 "巴里奥尔家族的罗伯特在选王议会中长期享有崇高声望，他拥有敏锐的政治头脑，性格温和且温文尔雅，在诸多贵族之中都有坚定的支持者，许多人认为他本就有可能成为下一任不列颠尼亚的君王，如果不列颠尼亚长期处于和平之中，那么罗伯特一定会选择尊重选王议会的一切决定。但可悲的是，我们如今处于混乱之中，哪怕是罗伯特这样循规蹈矩之人也开始考虑在违背法律的情况下，以暴力手段达成自己的目的，他在议会上，用谦卑冷静的语气，要求选王议会接受他的要求——成为不列颠尼亚的国王。"
+EDG_BTA_civil_war.6.d:0 "自从罗伯特一世领导苏格兰抵抗英格兰后，布鲁斯家族的成员也被视为民族英雄的后代，而在亚历山大四世改革苏格兰王国制度并实现了对英格兰的征服后，布鲁斯王朝便享有了更高的威望，布鲁斯仿佛就是胜利和繁荣的同义词。詹姆斯·布鲁斯是布鲁斯家族内一位勇敢好斗的贵族，他精明能干，却因继承顺位问题而无缘继承家族的政治遗产，为此他独立自主、艰苦奋斗，并靠自己的力量在不列颠尼亚议会中建立了自己的阵地。詹姆斯·布鲁斯对不列颠尼亚王位的渴望是众所周知的，在$YEAR$年的一个夜晚，他向选王议会宣布，自己要求成为国王。"
+EDG_BTA_civil_war.7.d:0 "华莱士家族在苏格兰抵抗英格兰人入侵的历史中扮演了重要的角色，许多人将威廉·华莱士视作苏格兰的民族英雄，该家族也在苏格兰王国之中享有崇高的声望。但华莱士家族长期与不列颠尼亚的王冠无缘，这引起了华莱士家族积压已久的不满。约翰·华莱士曾作为洛锡安枢密院的首席军事顾问，为国王提供宝贵的军事建议，但即便忠诚如约翰，也在这场王位争夺战中暴露了自己的野心，他宣称不列颠尼亚如今需要一个英雄才能整肃秩序，并让凯尔特民族再度复兴。"
+EDG_BTA_civil_war.8.d:0 "早期参与选王的只有布鲁斯和巴利奥尔两个家族，但随着诺森伯兰的德·乌姆弗拉维尔家族逐渐在北英格兰立足，这个家族也逐渐成为了苏格兰王位的潜在继承人，并一直在选王议会中享有不凡的影响力。德·乌姆弗拉维尔家族的亨利是一个雄心勃勃的野心家，他毕生都在追求国家王座，渴望践祚并建立伟业，在这样的一个动荡时代，缺乏耐心的亨利也举起了自己的长剑，要求成为不列颠的君主。"
+EDG_BTA_civil_war.9.d:0 "斯图亚特家族长期把持着选王议会议长的职位，他们在国内长期享有极高的影响力。斯图亚特家族的查理是一个富有思想的年轻人，他聪慧且健谈，总是在选王议会中上下其手、翻云覆雨，许多人认为他是坚定的传统派，将誓死捍卫选王制度，但即便是查理也无法抵抗对权力的渴望，$YEAR$年，向选王议会索取王位，否则他就将掀起新的叛乱。"
+EDG_BTA_civil_war.10.d:0 "自从选王制遭到挑战之后，我们的国家陷入了长久的动荡之中，诸多反叛势力渴望夺取王位，将选王法律视若无物。如今，又一位觊觎王位的贵族向选王议会发出了挑战，试图索取[Root.GetAdjective]的王位。"
+EDG_BTA_civil_war.11.d:0 "尽管我们将爱尔兰诸部统一在了自己的旗帜之下，但他们依然长期保持着一定的独特的民族认同，在国家危难之际，一群爱尔兰贵族要求扩大他们的特权，否则就将通过暴力手段实现自己的目的。"
+EDG_BTA_civil_war.12.d:0 "自从英格兰地区被我们征服以来，英格兰人就不断地接受我们的同化，但这也引起了许多保守的反对派的反抗，如今他们要求政府给予他们更多的特权，否则就将高举独立的大旗。"
+
+EDG_BTA_civil_war.1.a:0 "选王制不容挑战。"
+EDG_BTA_civil_war.2.a:0 "选王议会获得了最后的胜利。"
+EDG_BTA_civil_war.3.a:0 "他们不就是想要贿赂吗？"
+EDG_BTA_civil_war.4.a:0 "承认他们的特权。"
+EDG_BTA_civil_war.5.a:0 "恭迎巴里奥尔家族的公子。"
+EDG_BTA_civil_war.6.a:0 "布鲁斯家族永远是最好的选择。"
+EDG_BTA_civil_war.7.a:0 "我们需要英雄。"
+EDG_BTA_civil_war.8.a:0 "只有他才能拯救我们。"
+EDG_BTA_civil_war.9.a:0 "为斯图亚特王朝三呼万岁！"
+EDG_BTA_civil_war.10.a:0 "他会是不错的君主。"
+EDG_BTA_civil_war.11.a:0 "息事宁人。"
+EDG_BTA_civil_war.12.a:0 "给予他们渴望的特权。"
+
+
+EDG_BTA_civil_war.1.b:0 "[Root.Monarch.GetTitle][Root.Monarch.GetName]拥有世袭统治的权力。"
+EDG_BTA_civil_war.2.b:0 "[Root.Monarch.GetTitle]虽死，旧法已逝，[Root.Monarch.GetTitle][Root.Monarch.GetName]陛下万岁！"
+EDG_BTA_civil_war.3.b:0 "朽木枯株，百无一用。"
+EDG_BTA_civil_war.4.b:0 "和这群虫豸在一起，怎么才能治理好国家？"
+EDG_BTA_civil_war.5.b:0 "他这是在挑战选王议会！"
+EDG_BTA_civil_war.6.b:0 "即便是他也必须遵守法律！"
+EDG_BTA_civil_war.7.b:0 "大人，时代变了。"
+EDG_BTA_civil_war.8.b:0 "他不过是喋喋不休的小丑。"
+EDG_BTA_civil_war.9.b:0 "知法犯法，其罪难恕！"
+EDG_BTA_civil_war.10.b:0 "尔等庸人也敢觊觎神器？"
+EDG_BTA_civil_war.11.b:0 "我们不能容忍这样的叛国罪行。"
+EDG_BTA_civil_war.12.b:0 "英吉利自古以来就是我们不可分割的一部分！"
+
+
+
+#黑洛熙战争
+had_EDG_BTA_War_of_heresy_flag:0 "黑洛熙战争"
+EDG_BTA_War_of_heresy:0 "黑洛熙战争"
+
+EDG_BTA_War_of_heresy.1.t:0 "黑洛熙战争"
+EDG_BTA_War_of_heresy.2.t:0 "黑洛熙战争的尾声"
+EDG_BTA_War_of_heresy.3.t:0 "宗教动荡"
+
+EDG_BTA_War_of_heresy.1.d:0 "起初，没有人意识到这是一场内战，这只不过是一次失败的布道，是一位被冲击的大凯尔宗司铎，是一群被异端思想裹胁的愤怒的农民，直到这次灾难与我们息息相关。大凯尔宗是不列颠尼亚和罗马一刀两段的产物，将更多的凯尔特元素融入教仪当中，将凯尔特十字架悬挂在教堂中央，用苏格兰高地盖尔语和吟唱圣经，但与此同时，凯尔宗依然保留着很多来自天主教元素，包括坎特伯雷大主教的独尊地位和教阶制度。在不列颠三岛的农民眼中，只不过是从一群说拉丁语的教士变成了一群只会说凯尔特语不说拉丁语的教士罢了。最终，一批被称为“清洁凯尔宗”的教派脱颖而出，主张将凯尔宗的基本原理和清洁派的教义结合，主张教士应该保持清贫，清退教产，否认被腐化的神职人员的神圣地位，破坏大凯尔宗所遗留的一切教职、教阶、破坏一切圣像，拒绝参加一切圣礼，这群危险分子在不列颠尼亚的乡间游走，煽动农民冲击教堂和神职人员。最终，达摩克里斯之剑掉落了下来，由于一位教士在处理案件时偏袒了地主的占地，愤怒的农民烧毁了教堂并私刑处决了那名教士，一个村庄落入了清洁凯尔宗的掌控之下，随即，半个郡的农村都被这股反叛的火苗点燃，这群“异端”分子在不列颠尼亚掀起了一场内战，在后世的历史上也被称为黑洛熙战争。"
+EDG_BTA_War_of_heresy.2.d:0 "在西米德兰和萨塞克斯的郊野上遍地可以看见由于黑洛熙战争的影响而被抛荒的土地，杂草代替了昔日油光饱满的麦粒，在少些还得到精心呵护的土地之上，劳作的也是平日里更擅长于纺织的妇女和母亲身边瘦弱的孩童，他们的丈夫或者是父亲或许已经埋在了百里以外的兰开斯特与康沃尔的战场。在士兵的护送下，狼狈逃走的大凯尔宗神父回到了他们的教区，却只见教堂已经化为一片瓦砾，圣堂的鎏金也已经被掠夺一空，黑洛熙战争是结束了，但是抚平这场战争所带来的伤痕，显然需要更久的时间。[Root.Monarch.GetTitle][Root.Monarch.GetName]和及其首席大臣正骑着马，与二十名仆从一起从前线返回他最舒适的王宫，坎特伯雷大主教已经准备好为[Root.Monarch.GetTitle]接风洗尘，唱诗班也在排练全新的颂歌，称颂[Root.Monarch.GetTitle][Root.Monarch.GetName]又一次战胜了强敌，哪怕这次的强敌来自自己的臣民。\n\n“异端真的安静下来了？”\n\n“陛下，我想他们或许有一天会重新走上这条道路。一位新的瓦特·泰勒会接过他们的衣钵，他们被打败了，但是并不意味着他们有朝一日不会卷土重来。但陛下，我敢相信经过这样一次灾难之后，他们宣泄怒火之前肯定会被陛下的宝剑所震慑。”"
+EDG_BTA_War_of_heresy.3.d:0 "对教义有不同理解的信众为表达自己的不满和愤怒，在相关利益集团的教唆与怂恿之下失去了自己的理智，举起了武器并杀死了地方长官，他们高呼着原教旨主义的旗号，要求官方改变宗教态度，并掀起了武装暴动，若不满足他们的要求，他们决不罢休。"
+
+EDG_BTA_War_of_heresy.1.a:0 "瓦特·泰勒的怨灵从坟墓中爬出了。"
+EDG_BTA_War_of_heresy.2.a:0 "“那朕会用宝剑再斩断一次他们的头颅。”"
+EDG_BTA_War_of_heresy.3.a:0 "他们必须回归正途！"
+
+EDG_BTA_War_of_heresy.1.b:0 ""
+EDG_BTA_War_of_heresy.2.b:0 ""
+EDG_BTA_War_of_heresy.3.b:0 "满足他们的要求。"
+
+#失控的圈地运动
+had_EDG_BTA_economic_problem_1_flag:0 "失控的圈地运动"
+EDG_BTA_economic_problem_1:0 "失控的圈地运动"
+
+EDG_BTA_economic_problem_1.1.t:0 "失控的圈地运动"
+EDG_BTA_economic_problem_1.1.d:0 "15世纪中叶，由于呢绒产品需求猛增，英国主要的出口商品呢绒原料在欧洲市场上供不应求，造成羊毛货俏价高的局面。同时在百年战争期间，英国改变了自身的羊毛用途，对羊毛进行限制出口，以保证国内市场对羊毛的需求。\n\n羊毛价格的上涨，直接推动着养羊业的发展。农村中小地主采取各种手段，侵占公地，掠夺农民土地，大力从事牧羊业。这些新贵族按照资本主义方式，大规模经营养羊业，竭力追逐高额利润。不仅养羊业成本低于种植业，而且从事养羊业，既没有过多的“劳动力浪费”，又可以较低的工资雇到工人。他们还通过降低管理费用，弥补土地因战乱、天灾人祸和商品经济发展所造成的损失。于是，村庄和田地逐渐变成了牧场。\n\n封建地主、新贵族和新兴的资产阶级，首先强占古代农村公社残余下来的牧场、原始森林以及沼泽。他们强行用栅栏、围墙、壕沟围圈起来作为牧场，大牧羊主雇佣少量工人经营牧羊群。这些土地原本是农民祖辈开垦出来的，同时又是他们数百年来的生活基础。\n\n在欧洲“价格革命”的时代里，中小贵族受到的冲击最大，他们的收入不多，由于货币贬值，生活费用猛涨，造成他们的生活低下。在破产的威胁下，中小贵族便去强占农民的公用地，而大贵族更是领着大群的兵痞公开抢夺农民公用地。\n\n圈地运动为小农带来了无尽的苦难，绵羊本来是很驯服的，所欲无多，现在它们却变得很贪婪和凶狠，甚至要把人吃掉，它们要踏平我们的田野、住宅和城市。许多独立的小农土地所有者的土地、公有地和国有地也被大租地农场主所掠夺，几乎所有被圈的新领地都变成了牧场，成群的农民被赶到城镇中寻找职业。城市的手工业工场一时无力吸收，失地农民流离失所。"
+EDG_BTA_economic_problem_1.1.a:0 "再苦一苦百姓。"
+
+EDG_BTA_economic_problem_1.2.t:0 "圈地运动的结束"
+EDG_BTA_economic_problem_1.2.d:0 "失控的圈地运动最终得到了控制，尽管圈地运动对农民来说无疑是一场灾难。在圈地运动中，无数农民倾家荡产，流离失所。而政府又颁布血腥法令，不允许这些失去土地的人流浪。从这个角度说，圈地运动是一场明显的“羊吃人”的运动。然而，尽管圈地运动牺牲了农民的利益，积累了原始资本，为资本主义提供了廉价的雇佣劳动力和国内市场，为英国发展成为资本主义强国奠定了基础。"
+EDG_BTA_economic_problem_1.2.a:0 "转型阵痛终于结束。"
+
+#货币危机
+had_EDG_BTA_economic_problem_2_flag:0 "货币危机"
+EDG_BTA_economic_problem_2:0 "货币危机"
+
+EDG_BTA_economic_problem_2.1.t:0 "货币危机"
+EDG_BTA_economic_problem_2.1.d:0 "$YEAR$年，由于[Root.GetAdjective]过度的贸易扩张，本国生产能力跟不上金银流入的速度，导致货币大幅度贬值，社会经济发展变化的速度远远跟不上财富流入的速度，于是$YEAR$年[Root.GetAdjective]商业和货币危机席卷了整个[Root.GetAdjective]地区，[Root.GetAdjective]产生了明显的经济衰退，史学家甚至把本世纪称为“黑暗的一个世纪”。[Root.GetAdjective]的人口也陷入了增长停滞状态，人口的变化，毫无疑问是经济发展的指向标，当然也与多次瘟疫爆发有很大的关联。"
+EDG_BTA_economic_problem_2.1.a:0 "黑暗的一个世纪。"
+
+EDG_BTA_economic_problem_2.2.t:0 "货币危机的结束"
+EDG_BTA_economic_problem_2.2.d:0 "经济问题带来的灾难最终结束了，[Root.GetAdjective]最终回归了稳定。"
+EDG_BTA_economic_problem_2.2.a:0 "我们的经济没有问题。"
+
+
+#哈沃夫战争:0 ""
+EDG_TVE_civil_war:0 "哈沃夫战争"
+
+EDG_TVE_civil_war.1.t:0 "哈沃弗战争"
+EDG_TVE_civil_war.1.d:0 "不伦时代如何变迁，留里克的子孙后代依然是罗斯之地最有权势的家族。诸留里克维奇几乎统治着罗斯每一寸宣称的土地，他们镇守一方，保护商贸往来，和波雅尔们一道维护统治，同别国的统治者联姻……在每个留里克维奇之城邦都不可避免地变成独立的国家后，只有一点却没有改变：那就是基辅在罗斯至高的地位。\n\n也许其他罗斯王公依然同意维持基辅的表面权威，但是弗拉基米尔大公——亦即特维尔[Root.Monarch.GetTitle][Root.Monarch.GetName]不会再等下去了。因为罗斯不能再守着破败的基辅在内战中消亡，罗斯需要新的统治方式，而不是古老的传统。\n\n[Root.Monarch.GetTitle][Root.Monarch.GetName]知道这会是一场导火索，平日里被打压的大波雅尔，留里克家族支系，新征服地区的异见者……都可能会借这个由头向他发难。这将会是一场大战，但只要赢得这场战争，那么一切反对者的反对，都将无效！"
+EDG_TVE_civil_war.1.a:0 "罗斯兴废，在此一役！"
+
+EDG_TVE_civil_war.2.t:0 "弗拉基米尔王权法"
+EDG_TVE_civil_war.2.d:0 "战争又一次给这片饱受蹂躏的土地带来创伤，这是战争的代价。\n\n罗斯人早已习惯王公之间频繁的战争，但这一次不同于往次，因为王公林立的时代将要过去了。无论其余王公们如何挣扎，他们都不得不痛苦地面对这样一个事实——东北罗斯不再是当初匍匐在基辅脚下的林后之地，而将成为新的罗斯权力中心，弗拉基米尔公国的继承人将带领罗斯走向新的时代，再次将罗斯人团结在同一面旗帜之下:翻越乌拉尔，无数的软黄金等着我们去猎取；进入内亚，繁荣的丝绸之路的静候着我们的参与；波罗的海会承载罗斯的野心，黑海和黑海尽头那座世界渴望之城则将再一次成为罗斯财富之源……\n\n先祖留里克只是一位白手起家的雇佣兵，而他的后代统一了整个罗斯，现在，我们将能重拾祖先的荣耀，去征服，去统治这个世界。"
+EDG_TVE_civil_war.2.a:0 "罗斯之地，万言归一！"
+EDG_TVE_civil_war_end_modifier:0 "弗拉基米尔王权法"
+
+EDG_TVE_civil_war.3.t:0 "暴动的波雅尔贵族"
+EDG_TVE_civil_war.3.d:0 "又一批不满集权化改革的反动派波雅尔贵族宣布反抗我们的统治，他们不约而同地高举叛旗，要求废除此前的改革，并归还属于他们的传统特权。"
+EDG_TVE_civil_war.3.a:0 "消灭这些叛徒！"
+
+
+EDG_TVE_civil_war.4.t:0 "反叛的王公"
+EDG_TVE_civil_war.4.d:0 "又有一名本宣誓效忠我们的王公举起了叛旗，不知是由于他的短智和愚昧，还是由于听信了小人的谗言，如今我们又多了一位敌人。"
+EDG_TVE_civil_war.4.a:0 "将他绞死啊！"
+
+EDG_TVE_civil_war.5.t:0 "亚历山大的孽种"
+EDG_TVE_civil_war.5.d:0 "米哈伊尔·亚历山大·留里克是我们在莫斯科内战中击溃的亚历山大大公的后代，他长期在国外游荡，并招募了一大批追随者。如今，趁着[Root.GetAdjective]陷入了混乱之中，米哈伊尔高举叛旗，要求推翻[Root.Monarch.GetTitle][Root.Monarch.GetName]，并索取[Root.GetAdjective]的王位。"
+EDG_TVE_civil_war.5.a:0 "我们就应该斩草除根！"
+
+#哈布斯堡
+EDG_FKN_disasters_1:0 "法兰克尼亚继承危机"
+opinion_EDG_FKN_vassal_to_HAB:0 "法兰克尼亚继承问题"
+
+
+#罗马尼亚独立战争.
+EDG_Romanian_War_of_Independence:0 "罗马尼亚独立战争"
+had_EDG_Romanian_War_of_Independence_flag:0 "米哈伊起义已经发生"
+EDG_Romanian_War_of_Independence.1.t:0 "米哈伊起义"
+EDG_Romanian_War_of_Independence.1.d:0 "米哈伊生于一个叫帕特拉斯库的家族，关于他的童年和成人早期的记载很少，历史学家们经常为他是否是瓦拉几亚大公「好人」帕特拉斯库的私生子而争论。帕特拉斯库是巴萨拉布家族德拉库勒斯提一脉的后人，弗拉德一系亦出于此。一些人认为这是米哈伊为了证明自己统治的合法性而如此宣称。其母特奥多拉·坎塔库济诺，是坎塔库济诺家族成员，为瓦拉几亚与摩尔达维亚的贵族家族，据说是东罗马皇帝约翰·康特泽努斯六世的后裔。\n\n米哈伊是瓦拉几亚的克拉约瓦巴恩，他或许出生并不高贵，但他却拥有坚定、勇敢的品质，出众的才华和一颗赤诚的爱国之心。彼时米哈伊的主人，大公亚历山德鲁效忠于[Root.GetAdjective]，对其宗主阿谀奉承、谄媚迎合，为了满足[Root.GetAdjective]的需要，而对罗马尼亚的人民进行残酷的压迫，彼时的罗马尼亚民不聊生，百姓易子而食。米哈伊对自己的主人，大公亚历山德鲁极度厌恶。$YEAR$年，米哈伊杀死了大公亚历山德鲁，并高举义旗，要求推翻罗马尼亚的[Root.GetAdjective]统治者，实现民族的独立。"
+EDG_Romanian_War_of_Independence.1.a:0 "将他们扼杀在摇篮里。"
+
+EDG_Romanian_War_of_Independence.2.t:0 "罗马尼亚人反抗[Root.GetAdjective]"
+EDG_Romanian_War_of_Independence.2.d:0 "随着米哈伊掀起了浩浩荡荡的罗马尼亚独立运动，罗马尼亚人不断地要求获取独立，并掀起了一场叛乱！"
+EDG_Romanian_War_of_Independence.2.a:0 "杀光他们！"
+
+EDG_Romanian_War_of_Independence.3.t:0 "[Root.GetAdjective][Root.Monarch.GetTitle][Root.Monarch.GetName]"
+EDG_Romanian_War_of_Independence.3.d:0 "[Root.Monarch.GetName]的统治打破了入侵者在罗马尼亚的支配，同时也使一些欧罗巴强国与之关系紧张。在[Root.Monarch.GetName]统治下的三国被认为是现代罗马尼亚的雏形，同时也使得分裂的罗马尼亚走向统一这一理念的勃兴。对罗马尼亚的浪漫民族主义者而言，[Root.Monarch.GetName]被认为是罗马尼亚最伟大的民族英雄之一。\n\n[Root.Monarch.GetName]成功地于$YEAR$年为罗马尼亚获取了独立，并为形成罗马尼亚民族打下了坚实的基础，罗马尼亚这一全新民族的形成同基督教世界的思想关系密切，征服者[Root.Monarch.GetName]的雄心同样作为驱使其前进的动力而频繁出现。无论如何，罗马尼亚作为一个全新的民族获取了独立。"
+EDG_Romanian_War_of_Independence.3.a:0 "[Root.Monarch.GetTitle][Root.Monarch.GetName]万岁！"
+
+EDG_Romanian_War_of_Independence.4.t:0 "罗马尼亚独立运动的结束"
+EDG_Romanian_War_of_Independence.4.d:0 "尽管米哈伊掀起了浩浩荡荡的罗马尼亚独立运动，但列强的铁拳终究粉碎了罗马尼亚人妄图获取独立的幻想。罗马尼亚独立运动不仅为罗马尼亚人的宗主带来了冲击，也为罗马尼亚人民带来了沉重的打击。无论如何，罗马尼亚独立运动最终结束了。"
+EDG_Romanian_War_of_Independence.4.a:0 "他们终于消停了。"
+
+
+EDG_Romanian_War_of_Independence_great_modifier:0 "独立的罗马尼亚"
+
+#奥地利王位继承战争
+EDG_War_of_Austrian_Succession_event_1_a_tt:0 "所有§Y奥地利§!文化的省份，将会获得如下修正："
+EDG_War_of_Austrian_Succession:0 "奥地利王位继承战争§R「惩罚性」§!"
+EDG_War_of_Austrian_Succession_event.1.t:0 "奥地利王位继承战争"
+EDG_War_of_Austrian_Succession_event.1.d:0 "没有人会欢迎不明来历的不速之客，特别是当这位非亲非故的故人想要在你家里大展拳脚的一刻之时。当哈布斯堡家族失去家族故地鹰堡之时，他们断然不会预想到今天多瑙河的明珠维也纳已成为他们的囊中之物。但奥地利本地的贵族对这位与摇身一变而成为了他们所效忠的领主的符滕堡伯爵产生了警惕的心理，哈布斯堡王朝仅仅依靠一纸婚约便颠覆了奥地利的秩序，这让奥地利的许多大族感到恐惧。从维也纳到林茨的贵族都对他们的新领主颇有微词，一方面哈布斯堡王朝的到来打破了奥地利数百年来之不易的政治平衡，来自施瓦本的力量势必对奥地利贵族在本地的权势发起冲击，另一方面则是对腓特烈三世的各种造谣中伤，无论是治国还是私德方面，这些风言风语中的新公爵都毫无疑问呈现出不正面的倾向。而在他们当中，某些野心勃勃的领主已经打算在这段空窗期内用武力告诫这位伯爵谁才是奥地利的真正主人了。"
+EDG_War_of_Austrian_Succession_event.1.a:0 "胜利终将属于我们。"
+
+EDG_War_of_Austrian_Succession_event.2.t:0 "尘埃落定"
+EDG_War_of_Austrian_Succession_event.2.d:0 "奥地利——东部藩国，这个名字代表着他是守望者神圣罗马帝国东侧的边疆，维也纳是奥地利最灼热的心脏，永不停息的多瑙河是他流动的血管，但今天边疆被从帝国内部的外人所占据了，奥地利贵族们所发起的抵抗哈布斯堡王朝的努力最终功亏一篑，他们的领袖——林茨伯爵带领贵族的代表，向哈布斯堡王朝献上了维也纳城的钥匙，尽管这是他应得之物。奥地利的庄园成为了来自施瓦本的腓特烈三世自由支配的财产，参与叛乱而拒不投降的家族的领地将被褫夺，土地连同佃农将会被赐予在这次战争中的功臣宿老。[Root.Monarch.GetTitle][Root.Monarch.GetName]本人自然获益最大，多瑙河的航运税收将在将来填其钱袋，北去德意志腹地，东往君士坦丁堡的商旅也不得不上贡足额的税金。当然对于奥地利的普通人而言，这里只不过换了一位新的业主。"
+EDG_War_of_Austrian_Succession_event.2.a:0 "「一颗熟透的苹果被从枝头摘下。」"
+
+EDG_War_of_Austrian_Succession_event.3.t:0 "奥地利的宣称者"
+EDG_War_of_Austrian_Succession_event.3.d:0 "自从奥地利陷入王位继承战争的泥潭之后，国内外的许多与巴本堡有血缘关系的贵族都陆续宣称自己拥有奥地利的继承权，要求向我们索取奥地利的王位。"
+EDG_War_of_Austrian_Succession_event.3.a:0 "击溃他们！"
+
+EDG_War_of_Austrian_Succession_event.4.t:0 "奥地利贵族索要特权"
+EDG_War_of_Austrian_Succession_event.4.d:0 "由于哈布斯堡王朝来自施瓦本，奥地利境内的许多贵族都对我们存在十分强烈的抵触心理，他们不愿意相信这个生于瑞士、长于施瓦本的外来王朝，并以继承问题为理由，向我们索要更多的贵族特权。"
+EDG_War_of_Austrian_Succession_event.4.a:0 "这些卖水鬻薪之徒不足为惧。"
+EDG_War_of_Austrian_Succession_event.3.b:0 "将他们想要的都给他们。"
+
+
+#哈布斯堡君主国的分裂:0 ""
+EDG_HAB_Empire_division:0 "哈布斯堡君主国的分裂§R「惩罚性」§!"
+EDG_HAB_Empire_division_defeat_value:0 "击败的哈布斯堡君主国分裂者"
+EDG_HAB_Empire_division_2_a_1_tt:0 "由于我们通过§Y强硬§!手段实现了对君主国的控制，我们将获得如下修正："
+EDG_HAB_Empire_division_2_a_2_tt:0 "由于我们在君主国的分裂中选择了§Y妥协§!，我们将无法获得相关增益。"
+EDG_HAB_Empire_division_success_modifier:0 "统一的哈布斯堡帝国"
+EDG_HAB_Empire_division_1_tt:0 "我们可以通过击败足够数量的§R叛军§!以实现对君主国的巩固，也可以选择§R妥协§!，这将引导我们走入不同的结局。"
+
+EDG_HAB_Empire_division.1.t:0 "哈布斯堡君主国的分裂"
+EDG_HAB_Empire_division.1.d:0 "哈布斯堡帝国过于庞大，以至于没有人能够永远平衡她广袤领地上的所有势力。帝国的诸多属国始终保持一定的分离主义倾向，诸国的贵族各怀鬼胎，希望能够获得实质性的独立。于是，浩劫开始了，我们原本被妥善地安置在一起的众多王冠如今面临莫大的挑战，我们必须警惕各国的分裂者从我们帝国的肌体上撕下血肉。"
+EDG_HAB_Empire_division.1.a:0 "我们还有机会。"
+
+EDG_HAB_Empire_division.2.t:0 "哈布斯堡君主国的未来"
+EDG_HAB_Empire_division.2.d:0 "哈布斯堡帝国拥有辽阔的领地，这让哈布斯堡王朝显赫一时，但广袤的土地带来了盘根错节的利益关系和各怀鬼胎的利益集团，很难有人能够驯服如此众多的野兽。在经历了君主国的分类危机后，哈布斯堡君主国必然能够迎来更为辉煌的明天。"
+EDG_HAB_Empire_division.2.a:0 "我们不会倒下。"
+
+EDG_HAB_Empire_division.3.t:0 "分裂者"
+EDG_HAB_Empire_division.3.d:0 "在我们的属国中，并不缺乏野心勃勃的贵族，他们看到了哈布斯堡君主国强大外表下潜藏的隐患，渴望获得实质上的独立。"
+EDG_HAB_Empire_division.3.a:0 "击溃他们！"
+EDG_HAB_Empire_division.3.b:0 "天要下雨，任他们去吧。"
+
+
+
+#匈牙利王位继承战争:0 ""
+EDG_War_of_Hungary_Succession_end_flag:0 "匈牙利王位继承战争已经结束"
+EDG_War_of_Hungary_Succession:0 "匈牙利王位继承战争§R「惩罚性」§!"
+
+EDG_War_of_Hungary_Succession_event.1.t:0 "匈牙利王位继承战争"
+EDG_War_of_Hungary_Succession_event.1.d:0 "在西吉斯蒙德大帝去世后，哈布斯堡王朝最终继承了西吉斯蒙德大帝的这份遗产，神圣罗马帝国的影响力扩大到了匈牙利王国境内。正在崛起中的哈布斯堡王朝试图扩大自身对匈牙利的控制力，而这引发了许多匈牙利大贵族的不满，尤其是当大量的匈牙利大贵族领地被收归王室直辖后，匈牙利贵族与哈布斯堡王朝所在的中央愈来愈离心离德。最终，一名匈牙利贵族在匈牙利大贵族议会公然攻击哈布斯堡王朝在匈牙利的主权，否定哈布斯堡王朝的合法性，并获取了大量反对哈布斯堡王朝的匈牙利贵族的支持，这些匈牙利贵族回到自己的领地，组织起军队，并拥立自己所支持的国王——毫无疑问，一场新的王位继承战争就要爆发了。"
+EDG_War_of_Hungary_Succession_event.1.a:0 "胜利终将属于我们。"
+EDG_War_of_Hungary_Succession_event_1_a_tt:0 "§R匈牙利王位继承战争§!将爆发，将持续§Y5§!年或直到@HUN匈牙利获得独立。"
+
+EDG_War_of_Hungary_Succession_event.2.t:0 "唯一的国王"
+EDG_War_of_Hungary_Succession_event_2_d_1:0 "一切都结束了，硝烟散尽。随着多年的战事推进，匈牙利人民历尽艰辛，最终获得了战争的胜利。匈牙利和哈布斯堡长达数年的争斗如今在匈牙利王室大军的进逼下结束了，奥地利的哈布斯堡统治者被迫耻辱地放弃了他们的宣称，匈牙利王国内部怀有二心的贵族也被[Root.GetAdjective][Root.Monarch.GetTitle][Root.Monarch.GetName]借机铲除。没有了这些贵族的重重阻碍，[Root.Monarch.GetName]可以借此机会实行自己梦寐以求的集权化和军队职业化改革了。匈牙利王国真正站了起来。"
+EDG_War_of_Hungary_Succession_event_2_d_2:0 "一切都结束了，硝烟散尽。随着多年的战事推进，从一开始两边势力的公开对垒，到势如破竹，一切发生的相当快。匈牙利和哈布斯堡长达数年的争斗终于在大军进驻布达佩斯的那一刻结束了。毫无疑问，匈牙利王国的正统继承人通过这场战争真正确立了自己的地位。匈牙利王国内部怀有二心的贵族也被王室借机铲除。没有了这些贵族的重重阻碍，王室可以借此机会实行自己梦寐以求的集权化和军队职业化改革了。匈牙利王国真正被牢牢把控在他们的主人手中。"
+EDG_War_of_Hungary_Succession_event.2.a:0 "[Root.Monarch.GetTitle][Root.Monarch.GetName]万岁！"
+
+
+#波西米亚王位继承战争
+EDG_War_of_Bohemian_Succession:0 "波西米亚王位继承战争§R「惩罚性」§!"
+EDG_War_of_Bohemian_Succession_event.1.t:0 "波西米亚王位继承战争"
+EDG_War_of_Bohemian_Succession_event.1.d:0 "波西米亚的胡斯派经过帝国的多次镇压，已经渐渐失去了气候，但是这种极端异端思想仍然被某些高层贵族所秘密信奉。这些贵族暗中使用自己的影响力干涉波西米亚的朝政，企图使波西米亚胡斯派卷土重来。其中最为臭名昭著的莫过于波杰布拉德的伊日。其在皇位空虚时就趁机成为摄政，把持朝政，并最终成为非法的波西米亚国王。如今，一个新的当地贵族家族已经买通了大部分波西米亚贵族，并企图成为第二个波杰布拉德的伊日，掀起一场波西米亚的贵族大叛乱，以动摇哈布斯堡的统治，成为波西米亚的主人。这对哈布斯堡王朝无疑是一个巨大的挑战。"
+EDG_War_of_Bohemian_Succession_event.1.a:0 "我们的未来何去何从？"
+EDG_War_of_Bohemian_Succession_event_1_a_tt:0 "§R波西米亚王位继承战争§!将爆发，将持续§Y5§!年或直到@BOH波西米亚获得独立。"
+
+EDG_War_of_Bohemian_Succession_event.2.t:0 "波西米亚和西里西亚的唯一君主"
+EDG_War_of_Bohemian_Succession_event.2.d:0 "波西米亚胡斯派叛乱经过长期的拉锯战，以及当地贵族的反复倒戈，进行地十分艰难。最终，战争在双方一定程度上的妥协下结束了。在复杂的地缘政治的影响之下，[Root.Monarch.GetTitle][Root.Monarch.GetName]获得了最终的胜利，波西米亚依然被留在帝国内，王室一定程度上允许部分贵族信奉异端信仰。当然，所有人都清楚的是，王国境内的根本矛盾并不会随着这场战争而彻底结束，至于何时是卷土重来之际，就是未知的定数了……至少现在，我们和平了。波西米亚终于迎来了相对和平的一段时间，王国可以根据自己的需要自由地改造国家，和建立一个忠诚于自己的教会了——一个忠于[Root.Monarch.GetTitle][Root.Monarch.GetName]的教会。"
+EDG_War_of_Bohemian_Succession_event.2.a:0 "上帝保佑[Root.Monarch.GetTitle][Root.Monarch.GetName]。"
+
+
+
+#
+EDG_MRK_civil_war_1:0 "落日战争"
+EDG_MRK_civil_war_1_event.1.t:0 "日落之战"
+EDG_MRK_civil_war_1_event.1.d:0 "穆瓦希德派的捷报频传并没有得到帝国内所有臣民的期望，恰恰相反，在帝国走向胜利的过程中，马格里布的其他民族却在一步步跌入谷底，我们的柏柏尔至上主义引起了马格里布诸民族的反抗，如今他们纷纷举起武器，要求推翻我们的统治，这些异族人称这场叛乱为「日落之战」。\n\n对于[Root.GetAdjective]的反对派而言，穆瓦希德派的拥趸是残酷而专断的，而这片日落之地上的诸民族志信奉的向来只有弯刀、权力和自由，他们对穆瓦希德派的教义和马赫迪深感不满，对他们而言，一位地上的君王妄自将救世主的名号加诸于自己是对安拉和伊斯兰教的亵渎。诸多反对派不满[Root.GetAdjective]将活生生的君王凌驾于最虔诚的信徒之上，并因而染指政治权谋——诚然，这些反对派是罔顾国家利益的叛徒，是只追求自身的权力和利益的蠹虫，而我们将会击溃他们。"
+EDG_MRK_civil_war_1_event.1.a:0 "胜利终将属于我们。"
+EDG_MRK_civil_war_1_event.1.b:0 ""
+EDG_MRK_civil_war_1_event_1_a_tt:0 "所有非§Y柏柏尔§!文化的§Y马格里布§!文化组的省份将会获得如下修正："
+
+EDG_MRK_civil_war_1_event_2_flag:0 "「日落之战」的终结"
+EDG_MRK_civil_war_1_event.2.t:0 "「日落之战」的终结"
+EDG_MRK_civil_war_1_event.2.d:0 "旷日持久的「日落之战」终于落下了帷幕，那群自诩为真正的摩洛哥人的正统派扶持一个新的马林家族的努力已经化为泡影，柏柏尔人向这群自命不凡的正统派宣告了什么是秩序在世间的代言人。经此一役，柏柏尔人在海岸的城市间劫掠，仿佛是进入了无人看管的牧场的狼群，只要亮出雪亮的弯刀，主人只能双手奉上自己的财富，以求在柏柏尔人面前换得一线生机。穆瓦希德王朝的高层对于劫掠属于自己的城市的行为并没有做出太多的劝阻，甚至某些高级军官也享受着劫掠带来的快感，仿佛在告诫这座城市，与马赫迪为敌之人不会有什么好下场——野火在暗处滋长，但是不再会有如此干燥的深秋了。"
+EDG_MRK_civil_war_1_event.2.a:0 "我们的反对派能迎来的只有无尽的寒冬。"
+EDG_MRK_civil_war_2_event.2.b:0 ""
+
+EDG_MRK_civil_war_1_event.3.t:0 "暴乱"
+EDG_MRK_civil_war_1_event.3.d:0 "别有用心的人刻意在国家的危难之际煽动叛乱，渴望让我们的国家在分裂与内乱之中走向毁灭，他们再度掀起了一场叛乱。"
+EDG_MRK_civil_war_1_event.3.a:0 "击溃他们！"
+EDG_MRK_civil_war_1_event.3.b:0 ""
+
+EDG_MRK_civil_war_1_event.4.t:0 "地方总督索要特权"
+EDG_MRK_civil_war_1_event.4.d:0 "国难时期是地方大员向中央索取特权的大好时机，又一名地方总督向[Root.Monarch.GetTitle][Root.Monarch.GetName]索取更多的特权，并宣称若自己的要求得不到满足，便会宣布自己所管辖的区域脱离我们的统治。"
+EDG_MRK_civil_war_1_event.4.a:0 "难道他们忘了马赫迪的恩惠了吗？"
+EDG_MRK_civil_war_1_event.4.b:0 "我们不得不同意他们的请求。"
+
+EDG_MRK_civil_war_1_event.5.t:0 "瓦塔斯叛乱"
+EDG_MRK_civil_war_1_event.5.d:0 "在突尼斯行省，瓦塔斯家族具有巨大的影响力，他们世受马赫迪的皇恩，在突尼斯地区长期担任总督头衔。但随着国内叛乱的愈演愈烈，瓦塔斯家族也走上了离经叛道的道路上，他们联合其他反对派势力，招募支持者，并储备了大量武器和资金，秘密策划反叛。\n\n瓦塔斯家族的阿布·阿卜杜拉·加伊姆宣布自己为脱离[Root.GetAdjective]统治的突尼斯苏丹，突尼斯行省的叛乱在整个地区迅速蔓延，其速度之快超出了[Root.GetAdjective]中央的预期。"
+EDG_MRK_civil_war_1_event.5.a:0 "瓦塔斯人不可信任！"
+EDG_MRK_civil_war_1_event.5.b:0 "我们鞭长莫及。"
+
+EDG_MRK_civil_war_1_event.6.t:0 "穆罕默德·萨阿迪"
+EDG_MRK_civil_war_1_event.6.d:0 "萨阿迪亚人是一个谢里夫家族，其家族姓氏的意思是幸福或救赎，于 14 世纪首先在德拉山谷定居，然后在下个世纪迁移或扩展到苏斯山谷的蒂西，并统治着塔菲拉勒特。在这里，他们与宣扬贾祖利教义的苏菲派教师和隐士一起生活，他们声称自己是伊斯兰先知穆罕默德的后裔，拥有阿里·本·阿比·塔利布和法蒂玛·扎赫拉的血统。长期以来，萨阿迪家族一直是我们的助手，他们在军事和宗教领域都有不俗的影响力，但随着[Root.GetAdjective]的柏柏尔主义政策遭到愈来愈多的激烈反对，萨阿迪家族也率领了一批摩洛哥人反抗我们的统治，他们掀起叛乱并要求建立一个摩洛哥苏丹国。"
+EDG_MRK_civil_war_1_event.6.a:0 "萨阿迪家族辜负了我们！"
+EDG_MRK_civil_war_1_event.6.b:0 "任他们去吧。"
+
+EDG_MRK_civil_war_1_event_2_tt:0 "我们对§Y马格里布§!的§Y柏柏尔§!同化速度将§M加快§!。"
+EDG_flavorMRK_mission_7_b_tt_FLAG:0 "我们停止了对马格里布的同化"
+
+
+#
+EDG_MRK_civil_war_inherit_tt:0 "由于§R灾难§!而被释放的§Y总督§!国家，在被我们打入§Y75§!的战争分数后，他们的领土和军队都将会被我们收回。"
+EDG_MRK_civil_war_2:0 "七马赫迪之战"
+EDG_MRK_civil_war_2_event.1.t:0 "七马赫迪之战"
+EDG_MRK_civil_war_2_event.1.d:0 "苏丹陛下做了一个噩梦。他梦见自己独自一人身处于无边无际的原野，身旁有七头不同颜色小牛正围着什么东西，苏丹接近一看，七头小牛正在不停的争相吮吸一头已经倒地的身披华美丝绸的母牛的乳汁，苏丹陛下刚想后退，七头小牛便抬起头像苏丹陛下追来，苏丹奋力的奔跑，小牛在后方紧追不舍，就在牛角即将顶到苏丹的那一刻，苏丹脚下一空坠入万丈深渊，苏丹惊醒，背后满是冷汗。\n\n第二天天一亮，苏丹便请来帝国内的第一智者，将自己的梦告诉智者，智者听完故事久久无言。苏丹急忙问智者：“我将会如同古兰经中所说的那样遇到七个荒年吗？”“不是，陛下”“那这将预示着我将七年处于战争，或是被七个敌人所攻击。”“臣下认为梦中的陛下并不是陛下，真正的陛下是那头倒地的母牛，七位继承者将试图瓜分你的帝国，帝国将遇到一场大劫难。”穆瓦希德的胜利背后是无限的隐患，宗教的分歧与社会的冲突正在帝国酝酿新的风暴，遥远的马拉喀什对这庞大的领土完全鞭长莫及，被授予全权的总督将是帝国最大的叛贼，他们不会听从马拉喀什的命令，他们只尊奉自己为马赫迪。"
+EDG_MRK_civil_war_2_event.1.a:0 "“一位马赫迪将拯救世界，七位马赫迪将毁灭世界。”"
+EDG_MRK_civil_war_2_event.1.b:0 ""
+
+EDG_MRK_civil_war_2_event.2.t:0 "马赫迪之战的尾声"
+EDG_MRK_civil_war_2_event_2_d1:0 "席卷整个帝国的叛乱最终被证明只是一场乌合之众的闹剧，各地总督临时拼凑的缺乏训练和武器的军队在帝国的铁蹄面前烟消云散。原本的总督职位已经被证明其庞大的疆域和自行其是的管理模式为帝国留下了多大的隐患，以至于这群目无一切之人竟敢自称为马赫迪。帝国拆分了原有的为扩大控制区而采用的粗放式的总督区，将之前庞大的埃米尔国拆分为较小的贝伊国，并且兴建诸多不受贝伊的军事要塞，贝伊本人的行政权也大大缩水，并且不再拥有募集兵源的权力。穆瓦希德王朝急切的想证明，哪怕身处马拉喀什也能令呼罗珊的长官对帝国言听计从。一个真理被证明了，马赫迪是救世主，他第一个拯救的是自己。马赫迪只有一个，只有一个马赫迪获得了胜利。"
+EDG_MRK_civil_war_2_event_2_d2:0 "席卷整个帝国的叛乱在维持了多年后最终迎来了无奈的尾声，尽管[Root.GetAdjective]的[Root.Monarch.GetTitle]厉兵秣马，但无尽的叛乱最终撕裂了整个帝国。马赫迪不再是战无不胜的征服者和至高无上的救世主了，所有人都看清了马赫迪的真面目，他连自己的救不了。"
+EDG_MRK_civil_war_2_event.2.a:0 "除了马赫迪，世间不允许第二位征服者。"
+EDG_MRK_civil_war_2_event.2.b:0 "至少我们仍是马赫迪。"
+EDG_MRK_civil_war_2_event_2_tt:0 "我们的所有省份都将获得如下修正："
+
+EDG_MRK_civil_war_2_event.3.t:0 "波斯总督叛乱"
+EDG_MRK_civil_war_2_event.3.d:0 "又一名总督背叛了我们，他依仗其强大的封建私人军队和残暴的手段，掌控了他所管辖的省份，宣布从[Root.GetAdjective]帝国中独立，无视[Root.GetAdjective]的法律和规定，无情地剥夺人民的财富，压榨他们的劳动力，以满足自己的私欲和野心。更怖人的是，他宣称自己是真正的马赫迪，并要求索取[Root.GetAdjective]的最高统治地位。这些总督煽动各省之间的族裔和宗教矛盾，造成了巨大的社会动荡，将人们分化成敌对的派系，不仅撕裂了国家在政治上的统一，更进一步破坏了新生的马赫迪-哈里发国的稳定和宗教统一。"
+EDG_MRK_civil_war_2_event.3.a:0 "该死的波斯人！"
+EDG_MRK_civil_war_2_event.3.b:0 "马赫迪的权威不能永远明亮。"
+
+EDG_MRK_civil_war_2_event.4.t:0 "阿拉伯总督叛乱"
+EDG_MRK_civil_war_2_event.4.d:0 ""
+EDG_MRK_civil_war_2_event.4.a:0 "这些不知好歹的贝都因人！"
+EDG_MRK_civil_war_2_event.4.b:0 ""
+
+EDG_MRK_civil_war_2_event.5.t:0 "密昔尔总督叛乱"
+EDG_MRK_civil_war_2_event.5.d:0 ""
+EDG_MRK_civil_war_2_event.5.a:0 "埃及人总是两面三刀！"
+EDG_MRK_civil_war_2_event.5.b:0 ""
+
+EDG_MRK_civil_war_2_event.6.t:0 "安达卢斯总督叛乱"
+EDG_MRK_civil_war_2_event.6.d:0 ""
+EDG_MRK_civil_war_2_event.6.a:0 "他们竟然也背叛了我们！"
+EDG_MRK_civil_war_2_event.6.b:0 ""
+
+EDG_MRK_civil_war_2_event.7.t:0 "罗姆总督叛乱"
+EDG_MRK_civil_war_2_event.7.d:0 ""
+EDG_MRK_civil_war_2_event.7.a:0 "忘恩负义的突厥人！"
+EDG_MRK_civil_war_2_event.7.b:0 ""
+
+EDG_MRK_civil_war_2_event.8.t:0 "叙利亚与马什里克总督叛乱"
+EDG_MRK_civil_war_2_event.8.d:0 ""
+EDG_MRK_civil_war_2_event.8.a:0 "他们会付出代价！"
+EDG_MRK_civil_war_2_event.8.b:0 ""
+
+
+EDG_MRK_civil_war_2_event.100.t:0 "马赫迪击败了我们"
+EDG_MRK_civil_war_2_event.100.d:0 "我们的起义失败了，那位独一的马赫迪重新将权威凌驾于我们的土地之上。"
+EDG_MRK_civil_war_2_event.100.a:0 "我们的故事结束了"
+
+EDG_MRK_civil_war_2_event.101.t:0 "平息[From.GetAdjective]叛乱"
+EDG_MRK_civil_war_2_event.101.d:0 "英勇的[Root.Monarch.GetTitle][Root.Monarch.GetName]蒙受安拉的庇护，[From.GetAdjective]的叛徒总督最终被我们击败，独一的马赫迪重新将权威凌驾于这片土地之上。"
+EDG_MRK_civil_war_2_event.101.a:0 "他们的故事结束了。"
+
+EDG_MRK_civil_war_2_M01_insurgency_flag:0 "波斯总督叛乱"
+EDG_MRK_civil_war_2_M02_insurgency_flag:0 "阿拉伯总督叛乱"
+EDG_MRK_civil_war_2_M03_insurgency_flag:0 "密昔尔总督叛乱"
+EDG_MRK_civil_war_2_M04_insurgency_flag:0 "安达卢斯总督叛乱"
+EDG_MRK_civil_war_2_M05_insurgency_flag:0 "罗姆总督叛乱"
+EDG_MRK_civil_war_2_M06_insurgency_flag:0 "忘恩负义的突厥人！"
+
+
+
+#伦巴第
+
+ ambrosian_republic.1.t:0 "又一抹金色的晨曦"
+ ambrosian_republic.1.d:0 "安布罗斯共和国，这个由哲人所领导的“理想国”，在他横空出世之际，所有的欧陆君主国都对这个新生的国家报以敌意，在这群君主的眼中，一群低贱的商人窃取了菲利波公爵的遗产。\n\n觊觎米兰而真正付诸实践的的斯福尔扎如同海中的塞壬一样引诱着伦巴第这座大船之上的人们对他俯首称臣，但哲人会议依靠他们强大的经济实力作为后台捍卫了他们的权威，一次又一次的挫败了斯福尔扎篡夺米兰的阴谋，最终斯福尔扎从搅动米兰城的搅局者逐渐变为无力违抗行会的一名平平无奇的雇佣兵领袖。在这个由贵族统治的欧罗巴，商人第一次站在了比自治城市更大的舞台。\n\n金色安布罗斯共和国的建立并不是一帆风顺的，但自由最终取得了胜利。我们既没有沉沦于黑暗的封建主义，也没有被军事暴政所支配。和平、公正和自由统治着[Root.GetName]。"
+ ambrosian_republic.1.d2:0 "安布罗斯共和国，这个由哲人所领导的“理想国”，在他横空出世之际，所有的欧陆君主国都对这个新生的国家报以敌意，在这群君主的眼中，一群低贱的商人窃取了菲利波公爵的遗产。觊觎米兰而真正付诸实践的的斯福尔扎如同海中的塞壬一样引诱着伦巴第这座大船之上的人们对他俯首称臣，他做到了，他在米兰城中无人能档，哲人会议的权威一落千丈，头脑机敏的商人已经抛弃了行会成员之间的契约，向雇佣兵们献上他们的礼物。哲人会议随着财源的枯竭和威望的下降，从固定开会的固定议会变为了只有零散几人参与的旧日孑遗。毕竟就凭一群手无缚鸡之力的“哲人”，真能胜过斯福尔扎手中的长枪吗？无论如何，在绝望之中，我们最终抛弃了自由的理念并将权利集中于我们的将军手中。愿[Root.Monarch.GetName]保卫我们在未来一段时间享受和平。"
+ ambrosian_republic.1.d3:0 "金色安布罗斯共和国是一次注定失败的实验。事实证明创立共和制的人们怀揣的崇高理念完全是不切实际的，人民正呼吁着一位公爵的回归。[Root.Monarch.GetTitle][Root.Monarch.GetName]已经夺取了权力并恢复了[Root.GetName]的秩序。"
+ ambrosian_republic.1.d4:0 "金色安布罗斯共和国是一次注定失败的实验。在公爵之位空缺无主的情况下，精明的[Root.Overlord.GetName]领主把握住了这一机会，为自己宣称了[Root.GetName]的大位。愿[Root.Monarch.GetName]能以智慧和耐心引领我们。"
+ ambrosian_republic.1.a:0 "「日升日落，自然之理。」"
+ ambrosian_republic.2.t:0 "伦巴第公国的继承权"
+ ambrosian_republic.2.d:1 "[Root.GetName]正处于空位期，法兰西[FRA.Monarch.GetTitle]和神圣罗马帝国皇帝开始公开论及他们对公国的宣称。法国的宣称来自于他们与先前的维斯孔蒂王朝的联姻。尽管法国人的宣称并不是十分有力，但它对意大利已经有着长久的觊觎，而且并没有多少人能阻挡法国[FRA.Monarch.GetTitle]。皇帝则宣称按照帝国法令，在没有明确继承人的时候，皇帝有权收回公爵头衔。"
+ ambrosian_republic.2.a:0 "我们必须准备好捍卫我们的自由。"
+ ambrosian_republic.3.d:0 "伦巴第已陷入政治混乱。公爵之位空缺，仓促建立的共和国无力重建秩序。基于我们和现已绝嗣的维斯孔蒂家族之间的联姻，这将是我们宣称伦巴第公国的绝好时机。"
+ ambrosian_republic.3.a:0 "宝座属于我们！"
+ ambrosian_republic.3.b:0 "我们对伦巴第毫无兴趣。"
+ ambrosian_republic.4.d:1 "阿尔卑斯山是一条横亘于神圣罗马帝国境内的分界线，将帝国分为拉丁人和日耳曼人两个部分，尽管神圣罗马帝国皇帝依然持有勃艮第国王和意大利国王这两个头衔，但是皇位上的德意志人对山南的控制随着神罗皇位的一并虚化而减弱。皇帝不得不任命一位最为忠诚可靠的意大利诸侯担任帝国在意大利的全权代表，换言之也就是“意大利王副”，在维斯孔蒂王朝的统治下，无论是谁都不能否认伦巴第领主，米兰和摩德纳公爵是当之无愧的意大利第一诸侯。\n\n但自从维斯孔蒂王朝的意大利王副死后，伦巴第已陷入政治混乱。意大利王副已死，公爵之位空缺，仓促建立的共和国无力重建秩序。根据帝国法律，当公爵家族消亡时，头衔应回到皇帝本人手中。如果我们希望强行实施这项法律并为自己宣称伦巴第公国，我们必须尽快取缔所谓的金色安布罗斯共和国。"
+ ambrosian_republic.5.t:0 "给斯福尔扎的提议"
+ ambrosian_republic.5.d:1 "弗朗切斯科·斯福尔扎是我们时代最伟大的军事统帅之一，也是一名杰出的佣兵指挥官。很不幸的是，在我们与威尼斯的战争当中，他站在我们的对手一边。斯福尔扎在伦巴第人当中有着崇高的声望，甚至对权位也有着宣称。\n\n政府当中的一个派系向斯福尔扎提出了一个慷慨的提议，如果他放弃对敌人的效忠加入我们，米兰将把[sforza_promised_province.GetName]省份授予他，并任命他为领袖守护者中的一员。斯福尔扎是共和国的宝贵财富，但许多人怀疑他对伦巴第的忠诚是否能压制住他的雄心壮志。"
+ ambrosian_republic.5.d2:1 "弗朗切斯科·斯福尔扎是我们时代最伟大的军事统帅之一，也是一名杰出的佣兵指挥官。很不幸的是，在我们与[sforza_origin_country.GetName]的战争当中，他站在我们的对手一边。斯福尔扎在伦巴第人当中有着崇高的声望，甚至对权位也有着宣称。\n\n政府当中的一个派系向斯福尔扎提出了一个慷慨的提议，如果他放弃对敌人的效忠加入我们，伦巴第将把[sforza_promised_province.GetName]省份授予他，并任命他为领袖守护者中的一员。斯福尔扎是共和国的宝贵财富，但许多人怀疑他对伦巴第的忠诚是否能压制住他的雄心壮志。"
+ ambrosian_republic.5.d3:1 "弗朗切斯科·斯福尔扎是我们时代最伟大的军事统帅之一，也是一名杰出的佣兵指挥官。很不幸的是，在我们对叛军的镇压过程中，他站在我们的对手一边。斯福尔扎在伦巴第人当中有着崇高的声望，甚至对权位也有着宣称。\n\n政府当中的一个派系向斯福尔扎提出了一个慷慨的提议，如果他放弃对敌人的效忠加入我们，伦巴第将把[sforza_promised_province.GetName]省份授予他，并任命他为领袖守护者中的一员。斯福尔扎是共和国的宝贵财富，但许多人怀疑他对伦巴第的忠诚是否能压制住他的雄心壮志。"
+ ambrosian_republic.5.a:0 "我们应当任命他为我们军队的指挥官。"
+ ambrosian_republic.5.b:0 "我们不需要斯福尔扎。"
+ ambrosian_republic.6.t:0 "炙手可热"
+ ambrosian_republic.6.d:0 "斯福尔扎和他的雇佣兵入驻米兰已经有些时日，哲人议会中的许多成员随着时间的转移放下了对他的成见，认为就算他和老公爵之间有那么一些姻亲关系，也并不会危害到伦巴第共和国的安危，特别是在他们参加了由斯福尔扎夫人比安卡主持的奢华晚宴和上流沙龙之后。斯福尔扎的府邸正门出入的都是装饰华丽的载有达官显贵的马车，而在府邸的后门偶尔出入的则是听命于斯福尔扎的密探。\n\n在哲人议会的内部，一批有着旧贵族背景的成员开始鼓吹应该由斯福尔扎担任全伦巴第的军事指挥官。他们引经据典，试图向议会证明雇佣军和常备军是需要掌握在同一指挥体系，就像柏拉图所说的那样，斯福尔扎的军事才能理应让他获得这个职位。随着哲人议会通过这项决议，接受过斯福尔扎金钱贿赂和私下拉拢的议员纷纷喜笑颜开……\n\n但安布罗斯共和国内部的许多自由派发现，这一法案将会让斯福尔扎及其腐败的党羽成为伦巴第公国真正的最高统治者。他们在哲人会议上弹劾斯福尔扎，要求将其驱逐出境，这引起了整个共和国的震动，对斯福尔扎问题的处置成为了整个伦巴第的焦点。愤怒的斯福尔扎向哲人议会提出了一份最后通牒：要么接受他的军事专制统治，要么准备再一次在战场上面对他，哲人议会的自由派迎来了反噬，而哲人议会的选择会是……"
+ ambrosian_republic.6.a:0 "有谁比他更适合统治伦巴第呢？"
+ ambrosian_republic.6.b:0 "反抗斯福尔扎暴政！我们为自由而战！"
+ ambrosian_republic.7.t:0 "有冕之王？"
+ ambrosian_republic.7.d:0 "斯福尔扎，斯福尔扎，万事万物都离不开斯福尔扎，知道现在哲人议会才明白了请神容易送神难的道理，斯福尔扎的府邸俨然成为了第二座旧王宫，他的金钱在米兰城中畅行无阻，而他的钱除了一部分来自于举债，大部分来自于哲人议会的拨款！他的行事方式已经越来越像他的丈人老公爵菲利波，哲人议会倘若继续按照这样的轨道，将会再一次从实权地位跌落回原有的咨询性质的顾问团。\n\n正因如此，斯福尔扎在金色安布罗斯共和国内树立了许多敌人，建立了共和国的理想主义政治家们怀疑他觊觎共和国的权位。哲人会议俨然已经分裂为两派，自由派认为斯福尔扎已经是伦巴第共和国最大的威胁，他们需要尽可能的打压他的势力，减除他的羽翼和密探，捍卫哲人会议至高无上的地位和共和国的延续，如果能将他礼送出境就再好不过；而保守派则认为斯福尔扎作为菲利波公爵的女婿，本身就是老公爵遗产的最佳继承人，哪怕他的妻子是私生女，但由于菲利波公爵没有合法的继承人，基于血缘关系他就理应成为下一任公爵，而他依然会保持对哲人议会和伦巴第行会的尊重，并抨击金色安布罗斯共和国是一次注定失败的实验，事实证明创立共和制的人们怀揣的崇高理念完全是不切实际的，人民正呼吁着一位公爵的回归，而[Root.Monarch.GetTitle][Root.Monarch.GetName]完全有资格掌握公权力并恢复[Root.GetName]的秩序。两派争吵不下，从历史辩论到哲学，从政治学辩论到伦理学，以决定伦巴第的王冠究竟是应当被粉碎，还是戴在斯福尔扎的头上。"
+ ambrosian_republic.7.a:0 "蒙上帝洪福，最正统最尊贵的伦巴第公爵！"
+ ambrosian_republic.7.b:0 "伦巴第必须有一个保护者，但绝不是斯福尔扎。"
+ ambrosian_republic.7.c:0 "在座的衮衮诸公，请为拯救共和国做最后一搏！"
+ ambrosian_republic.8.t:0 "斯福尔扎之死"
+ ambrosian_republic.8.d:0 "大团长斯福尔扎已经意外身亡，曾经的稳固统治是基于他的人望和对米兰的政治控制之上的，而如今政府当中的不同派系正在以他们各自的角度为未来而争斗。\n乔治奥·兰普尼亚诺的派系希望对我们共和国的理念进行革新，恢复民主并终结军事统治。与之针锋相对的雅可布·皮奇尼诺一派，则宣称只有一名强有力的将军才能统治共和国并抵抗它的敌人。"
+ ambrosian_republic.8.a:0 "新的将军万岁！"
+ ambrosian_republic.8.b:0 "追随创建者的意愿重建共和国。"
+
+ambrosian_republic_disaster:0 "金色灾难"
+
+ flavor_mlo.1.t:0 "金色灾难"
+ flavor_mlo.1.d:0 "后世口中的“伦巴第国王”，米兰与摩德纳公爵，维罗纳共和国的保护人，意大利王副菲利波·维斯康蒂公爵溘然长逝。他将他父亲濒临崩溃的领地撮合到一起，击败了试图彻底击溃米兰的包围网，成为了真正的意大利之主和实际意义上的选帝侯，甚至让皇帝为笼络意大利诸侯，将美因茨大主教的选帝侯职位移交给了世代由维斯康蒂家族所控制的米兰大主教。他的辉煌成就离不开意大利行会阶级对他真金白银的支持，一枚枚杜卡特流入菲利波的腰包，菲利波就赐予商人们其殷切的参政权。在欧陆的其他地方，商人和行会从未有过如伦巴第那般深刻的参与一个真正的王国而非一个小小的自治城市的政治。资产阶级通过他们的喉舌来与公爵对话，这些被视为喉舌的人都是名噪一时的雄辩家、帕维亚大学的学者与思想深刻的思想家，在伦巴第，他们被统称为“哲人”，而由他们组成的咨询性质的会议也被称为“哲人会议”。尽管哲人会议本身并没有法律上的实权，但基于行会的鼎力支持和哲人本身在伦巴第的巨大声望，菲利波公爵总是会尊重哲人议会所得出的集体意见，伦巴第的资本主义发展的比任何意大利国家都要迅速，伦巴第的政治在意大利也最为开明，这套机制看似可以长久的运转下去。但，菲利波·维斯康蒂驾崩了，他没有留下任何得到广泛承认的继承人，伦巴第群龙无首，而各国的君王正忙着翻阅自己的族谱，希望能够从伦巴第的继承危机当中分得一杯羹。\n\n哲人议会从咨询性质的议会顷刻之间变为了伦巴第人的实权议会，因为只有他们拥有号令全伦巴第的威望。保守派的愿望是从外国请一位君主来结束伦巴第的混乱局面，但许多商人担心一位来自外国的君主不会尊重伦巴第本地的商人与哲人，就在会议陷入僵持之时一批激进的帕维亚大学的学者们站了出来，他们声称要按照柏拉图所留下的方针，建立一个“由哲人统治的理想国度”而非由公爵统治的国家，只有最贤能的人才能领导伦巴第，他们竭力描绘一个哲人治理之下国家的美好，激烈的讨论从正午一直持续到了午夜，但是哲人会议的成员们久久没有离去，因为他们知道这一个晚上将会决定伦巴第的命运，他们在激烈的交锋当中忘记了时间与疲倦，最终激进派的意见得到了绝大多数参与者的支持。公爵撒手人寰，伦巴第也抛弃了王位。哲人会议在圣安布罗斯面前宣誓，将守护伦巴第的荣光。会议结束之时，金色的朝阳已悬在米兰城的东方，和煦的阳光宛若圣像上圣安布罗斯的微笑。一个共和国成立了，公爵之位的宣称人被逐出城市。新共和国被命名为金色安布罗斯共和国，源自4世纪的米兰主教。"
+ flavor_mlo.1.a:0 "为了圣安布罗斯！"
+ flavor_mlo.1.b:0 "我们还是需要一位公爵！"
+ flavor_mlo.2.t:0 "圭尔夫派和吉伯林派在米兰的斗争"
+ flavor_mlo.2.d:0 "米兰内部的意见分歧尤为突出。大众分裂为两派，彼此难以调和。圭尔夫派权贵的当选人数超过了吉伯林派，这使得共和国的根基更为羸弱，而且越来越缺乏民主的元素，但不能因此放任国家混乱下去！"
+ flavor_mlo.2.a:0 "站在圭尔夫派那边"
+ flavor_mlo.2.b:0 "赞成吉伯林派"
+
+EDG_MLO_disasters_1_event.1.t:0 "见微知著"
+EDG_MLO_disasters_1_event.1.d:0 "自从斯福尔扎进入米兰城以来，属于他的影响力在米兰城越来越大，已经有和哲人议会分庭抗礼之势，如果说哲人议会所依靠的是来自行会源源不断的资金和崇高的威望，那斯福尔扎背后的军阵就是他背后的最大依靠。虽然哲人议会依然握有财权，但是斯福尔扎依然试图从他们手中再多索要一杜卡特。经过一次日常会议的激烈讨论……"
+EDG_MLO_disasters_1_event.1.a:0 "有谁比他更适合统治伦巴第？"
+EDG_MLO_disasters_1_event.1.b:0 "我们必须削弱斯福尔扎的影响力。"
+
+EDG_MLO_disasters_1_event.2.t:0 "见微知著"
+EDG_MLO_disasters_1_event.2.d:0 "弗朗切斯科·斯福尔扎作为一名声名显赫的意大利雇佣兵队长，其的职业生涯可以被概括为意大利最活跃的搅局者，他生于托斯卡纳，却先后为教宗国和那不勒斯诸国效力，他的一生都在意大利游走，寻找陷入战乱而充满财富气息的雇主，从他们手中将杜卡特装入自己的腰包，而现在斯福尔扎准备做他一生当中最大的一笔交易，他的收购目标是整个伦巴第。\n\n斯福尔扎的夫人比安卡·玛丽亚·维斯康蒂是菲利波公爵的私生女，因为膝下无子，菲利波公爵对自己的这位女儿极为宠爱，除了没有继承权外，她与真正的公爵之女并无太大区别。她于五岁那年年与比自己年长20余岁的斯福尔扎订婚，并于1441年以真正的公爵之女的礼仪于克雷莫纳的圣西吉斯蒙多修道院缔结婚姻。在米兰公爵空缺之时，正是她极力鼓励自己的丈夫去夺回父亲的宝座。\n\n当然斯福尔扎深知自己不可能徒劳无功地挑战米兰城高耸的城墙，想要击溃那群洋洋得意的商人和他们所豢养的被称为哲人的那群乌合之众，只能从米兰城内部击溃他们。依靠妻子在米兰城中所积累下的名望和关系网，斯福尔扎成功笼络了一批愿意支持他继承维斯孔蒂遗产的失意贵族和见钱眼开的哲人，他们将力图推动哲人议会向斯福尔扎提供更多权力，以确保其通过其妻子，即前任公爵的私生女，获得伦巴第的公爵爵位。"
+EDG_MLO_disasters_1_event.2.a:0 "「猎手进入了牢笼，牢笼之外，皆是猎物。」"
+
+EDG_MLO_disasters_1_event.3.t:0 "反共和主义的蔓延"
+EDG_MLO_disasters_1_event.3.d:0 "自从斯福尔扎受雇于伦巴第共和国以来，他便逐渐扩大自己的影响力，在迎娶了维斯孔蒂公爵的私生女后，愈来愈多的权贵认为斯福尔扎将有权成为伦巴第的公爵——这是费拉拉伯爵和其他伦巴第的附庸所觊觎的头衔，伦巴第的附庸们始终认为他们将有机会被伦巴第内部的君主主义者迎入城中，戴上伦巴第的铁王冠，他们从来没有想到一个外来的雇佣兵领袖能够取代自己的地位，费拉拉乃至整个整个伦巴第的贵族都担忧这件事会成为一个可怕的先例——那群商人希望用效忠于金钱的部队取代效忠于骑士准则和封建秩序的部队，进而逐步废除贵族在伦巴第所享有的特权，成为彻底的商人之国。费拉拉的统治者为阻止共和主义的蔓延，聚集起了就的军队，向我们索取伦巴第的统治权。"
+EDG_MLO_disasters_1_event.3.a:0 "暴力镇压反动派的叛乱。"
+EDG_MLO_disasters_1_event.3.b:0 "向他做出让步。"
+EDG_MLO_disasters_1_event.3.c:0 "让他们去吧。"
+
+EDG_MLO_Sforza_influence_rank:0 "§Y斯福尔扎§!影响力"
+ambrosian_republic_edg_6_a_tt:0 "由于§Y斯福尔扎§!影响力达到§M5§!，我们将不会损失稳定度，并将额外获得§M1§!点稳定，§M100§!点£adm£、£dip£和£mil£。"
+EDG_MLO_Filippo_FLAG:0 "菲利波 玛利亚 Ⅰ 尚未去世"
+ambrosian_republic_resolved_tt:0 "§Y伦巴第§!的政府将会被巩固。"
+ambrosian_republic_disaster_resolved_tt:0 "已经通过§Y斯福尔扎§!事件链巩固了政府。"
+
+
+#卡佩王朝危机
+EDG_FRA_civil_war_2_end_flag:0 "卡佩王朝危机已经结束"
+EDG_FRA_civil_war:0 "卡佩王朝危机"
+
+EDG_FRA_civil_war.1.t:0 "卡佩王朝危机"
+EDG_FRA_civil_war.1.d:0 "自圣荆棘冠被圣路易王带到法兰西以来，颇为具有讽刺意义的是法兰西王国就犹如那受难的耶稣一般陷入各种争斗当中，其中既有王室领主和骑士领主之间的争斗，也有来自英格兰和洛塔林吉亚的搅局者。于格七世在父亲签下丧权辱国的《卡昂协议》临危受命，一位名叫让娜·达克的农家少女率领终于王室的军队抵挡了洛塔林吉亚旨在进军兰斯加冕为王的部队，在数年的战争当中，让娜作为于格七世的护卫，和于格七世一道击溃了洛塔林吉亚和英格兰的联军和阿尔勒人的趁火打劫，击碎了洛塔林吉亚国王路德维希七世篡夺法兰西王位的美梦，利用主场优势，中心开花，使三方军队首尾不能相顾，最终经过长期的拉锯战终于得到洛塔林吉亚属下德意志诸侯的叛乱的消息，于格七世成功守护了他的王冠，他被法国民间视为与“世界的光复者”奥勒良皇帝齐名，被称为“胜利王”。\n\n但是胜利王的治下犹是暗潮汹涌，尽管法王的集权主义政策如燎原烈火，但受限于时代，法兰西的王权依然必须依赖于各地的封臣，法兰西王国走在了集权主义和封建主义的十字路口，中央与地方的矛盾一日日显，其中一点便体现在各个王室诸侯对巴黎宝座的觊觎之上，这些卡佩王朝的支系早就对王位垂涎三尺，跃跃欲试，只等于格国王驾崩，他们都将争先恐后的宣告自己的宣称，而那些非宗室领主们虽然由于血缘的原因被排除在继承序列之外，但是他们在这场战乱之中绝非袖手旁观之人，他们渴望在法兰西的旧秩序土崩瓦解之时，建立属于自己的王朝。"
+EDG_FRA_civil_war.1.a:0 "胜利王，你的灵柩将是整个法兰西。"
+
+EDG_FRA_civil_war.2.t:0 "法兰西王位继承法"
+EDG_FRA_civil_war.2.d:0 "在「胜利王」于格七世死后，法兰西陷入了长久的混乱。这是自四国战争之后，法兰西所面临的最大的一场政治危机，巴黎的权威在这场旷日持久的王位继承冲突中遭受了多次冲击，卡佩王朝的血缘纽带在政治利益的烈火的焚烧下荡然无存。查理曼的子孙，卡佩王朝的主支和旁支，这些心脏中流淌着同一先祖之血的领主和君王，为了自己的利益，不惜对同宗兄弟刀剑相向，让法兰西的大地满目疮痍。随着[Root.Monarch.GetTitle][Root.Monarch.GetName]对王国的控制的加强，巴黎的权威再一次让破碎的法兰西团结起来，法国人民终于脱离了苦海，而基于萨利克法的，法兰西王国全新的王位继承法得以确立，愿卡佩王朝永世长存。"
+EDG_FRA_civil_war.2.a:0 "愿卡佩王朝永世长存。"
+
+EDG_FRA_civil_war.3.t:0 "卡佩王朝的叛徒"
+EDG_FRA_civil_war.3.d:0 "在这场旷日持久的王位继承战争中，我们那些同属于卡佩王朝的族亲一直与我们渐行渐远，他们趁机向我们索要更多的的政治权利。"
+EDG_FRA_civil_war.3.a:0 "他们休想！"
+EDG_FRA_civil_war.3.b:0 "承认他们的权益。"
+
+
+#圣礼战争
+had_EDG_PIT_War_of_reform_flag:0 "圣礼战争"
+EDG_PIT_War_of_reform:0 "圣礼战争"
+
+EDG_PIT_War_of_reform.1.t:0 "圣礼战争"
+EDG_PIT_War_of_reform.1.d:0 "在这群皮埃蒙特的山民统治这片半岛之前，没人能想到清洁派的势力在罗马教廷的老巢意大利能有如此的进展。但是统一整个意大利对于共和国而言并非完全的好事一桩。威尼托的地主还在和皇帝暗通款曲，卡拉布里亚的天主教徒和西西里岛的希腊人的后裔对共和国仿佛生来就具有敌意，虽然教廷名义上已经离开了罗马，但是大量的天主教徒只是转入了地下继续领导对共和国的破坏行动。共和国的机构陷入空转，在丧失了封建体系和天主教会这两大统治工具之后，新生的共和国骤然发现自己甚至无力统领意大利，各种政治问题和经济问题层出不穷。共和国的民众因为连年的兵变已经失去了宗教革命的热情，共和国的征召兵因为长期的欠饷已经迈入了哗变的边缘，而结余的资金也只能将将满足阿尔勒的雇佣军的要求。更糟糕的是，共和国泛滥的民主程序导致了极为骇人听闻的行政效率，这导致了水利失修、市政僵化，这使得意大利人对共和国行政效率的低下深恶痛绝。而教会的自治原则导致各地的名门望族将财产隐匿在教会的名义下，他们隐匿了大量的土地、财富和人口，共和国的税基和兵源被掩盖在了乌云治下。在最糟糕的地区，市政府甚至只能依靠清洁派教士以维持最基本的社会秩序。\n与此同时，尽管教会拥有大量的财富和莫大的影响力，他们却长期被排斥在政治核心之外，这又造成了巨大的社会不满和潜藏的风险。\n不少议员希望参考我们的友邻阿尔勒成为一个君主制国家，但这个提议由于没有人能做到完全服众而流产。在不久前，一群清洁派的教士带领来自阿尔勒的雇佣军冲入了议会，宣布解散议会，将由清洁派内部一群德高望重的教士——换言之就是“长老”——由他们执掌大权。不过这群教士声称自己只是被迫干涉世俗事务，只不过是为了维持清洁教派的稳定而已。但在事实上，一个相对扁平化的神权共和国已经取代了原来的共和国。"
+EDG_PIT_War_of_reform.1.a:0 "「寻道之人不见苍穹的光亮，但风吹过，天又发晴 。」"
+EDG_PIT_War_of_reform.1.b:0 ""
+
+EDG_PIT_War_of_reform.2.t:0 "圣礼战争的落幕"
+EDG_PIT_War_of_reform.2.d:0 "滥觞的民主和盲目的自治让共和国付出了惨痛的代价，清洁派教士阶层为重塑国家秩序付出了巨大的努力。教士们认为，如果要彻底净化共和国，就必须进行内部革命。教士们做出了一系列改革：建立又教徒所自主管理的清洁派公社、整合教徒组织和世俗机构、建立精锐部队护教军。最终，一个更为成熟的政府建立在了这片土地上，旧有的低效政体被取缔，一个由教士领导的崭新政权冉冉升起。"
+EDG_PIT_War_of_reform.2.a:0 "「已有之事后必再有，以行之事后必再行。」"
+EDG_PIT_War_of_reform.2.b:0 ""
+
+EDG_PIT_War_of_reform.3.t:0 "维罗纳公议会"
+EDG_PIT_War_of_reform.3.d:0 "长期以来，清洁派不认为耶稣是神，只视之为最高的受造者，他们认为耶稣来到这世上就是要带离他们脱离这物质的世界，解放他们脱离这可悲的循环，启示他们得救的真理。而基督是赐生命的灵，他在这尘世中只是一个形相，基督不是为女人所生，所以没有人的成分，其肉身不具实体，所以既没有死亡，也无升天。甚至连圣灵也只是受造者，只是众灵（包括天使和人的灵魂）之首。但随着清洁派势力的扩大，一些教士对此提出了异议——他们认为基督应当是更为神圣的，由此才能让教士更好地履行治理国家的职责。"
+EDG_PIT_War_of_reform.3.a:0 "必然如此。"
+EDG_PIT_War_of_reform.3.b:0 "我们最好维持旧有的观点。"
+
+EDG_PIT_War_of_reform.4.t:0 "帕维亚公议会"
+EDG_PIT_War_of_reform.4.d:0 "在帕维亚大教堂内，全意大利的清洁派主教济济一堂。他们神情严肃地望向正在进行雄辩的米兰大主教，他坚定地为「新教阶制度」进行辩护。\n米兰大主教认为，尽管清洁派长期抗拒教阶制度，但教阶制度实际上依然是维系教会的重要工具。例如在我们的国家内，依然有大主教、主教和神甫，这是无法否认的。神职人员为国家奉献颇多，拥有巨大影响力和崇高的威望，还有日益增长的经济实力，却一直被排除在政治权力的核心之外，这是不公平的，是必须要被改变的。\n米兰大主教宣称，我们依然可以否认教阶制度，但我们可以建立「新教阶制度」，这是一种不同于「旧教阶制度」的制度，并不影响我们的宗教理念，我们依然是虔诚的信徒。\n一些保守派的教士对此展开了抨击，他们认为这是教士干政的表现，是教会腐败的表现，是政治衰退的表现。"
+EDG_PIT_War_of_reform.4.a:0 "问题在金钱面前都会迎刃而解。"
+EDG_PIT_War_of_reform.4.b:0 "真是难解难分。"
+
+EDG_PIT_War_of_reform.5.t:0 "蒙费拉托会议"
+EDG_PIT_War_of_reform.5.d:0 "一场重要的会议在蒙费拉托召开了。蒙费拉托会议旨在加强教会的统一和纪律，讨论了多个议题，包括圣经权威、原罪、救赎、圣礼、教父传统等，还制定了《蒙费拉托会议教理》，以规范教会的职权。这些议题表面上是在讨论宗教问题，但实际上处处针对国家内部的地方势力，那些蜷缩在市政大厅内的世家大族一直在把控着共和国的税基，他们利用了选举共和、教会自治的原则，隐匿了大量的财富和人口，不断蚕食我们的经济根基。而蒙费拉托会议通过制定宗教规范，从多种途径否认了他们的行为的正当性。所有人都知道，紧随着这场宗教会议到来的，将会是接踵而至的政治经济打击。我们也知道，这一定会引起一些顽固分子的反抗。"
+EDG_PIT_War_of_reform.5.a:0 "我们不能容忍这些地头蛇！"
+EDG_PIT_War_of_reform.5.b:0 "建制派的势力盘根错节。"
+
+EDG_PIT_War_of_reform.6.t:0 "不满的蔓延"
+EDG_PIT_War_of_reform.6.d:0 "宗教人士掌控共和国政权已有一段时间。尽管在首都，他们保持精诚团结，但从威尼托和卡拉布里亚这些旧势力的巢窠中，天主教抵抗势力在暗中为清洁派神权国家制造了诸多困扰，依然坚持天主教的农民们操起草叉和镰刀如同秋日的野火一般挥之不去。教士们的嚣张气焰也遭到了无可置疑的打压，教士们是为了拯救共和国而来，但是意大利却陷入了新的漩涡当中。又一批目光短浅的农民和市民认为我们的国家改革侵害了他们的权益。他们认为教会自治原则和泛滥的选举是不可改变的，为此，他们宁愿举起武器反抗我们。"
+EDG_PIT_War_of_reform.6.a:0 "个人利益优先于国家利益。"
+EDG_PIT_War_of_reform.6.b:0 "国家利益优先于个人利益。"
+
+EDG_PIT_War_of_reform.7.t:0 "七月暴动"
+EDG_PIT_War_of_reform.7.d:0 "在$YEAR$年的[Root.GetAdjective]，发生了一场名为七月暴动的叛乱。这场暴动被称为“烈日暴动”（Fervore Riots），因为，据说它最初发生在一个炎热的夏日午后。一位名叫马可的年轻画家，对共和国低下的行政效率和泛滥的民主程序感到不满。他决创作了一幅画作，将其命名为《神圣的懒猪》，以极具讽刺意味的方式描绘了共和国高官的怠政行为。这幅画作在一家当地画廊中展出，引起了广泛关注。这幅画作同时也激起了一群保守派清洁牌教徒的愤怒。他们认为马可的作品是对民主制度的亵渎和侮辱。在一次酷暑的七月午后，抗议者聚集在画廊门外，高喊口号，要求撤下这幅被视为亵渎的画作。暴动很快升级，人群开始投掷石块和砸碎展览品。局势迅速失控，官方不得不出动军队以维持秩序。但抗议者们团结起来，他们的怒火无法平息。"
+EDG_PIT_War_of_reform.7.a:0 "镇压他们！"
+EDG_PIT_War_of_reform.7.b:0 "他们说得不无道理。"
+
+EDG_PIT_War_of_reform.8.t:0 "卢卡之夜"
+EDG_PIT_War_of_reform.8.d:0 "在$YEAR$年的卢卡，当地的保守势力为了维护自己的特权，开展了大规模的叛乱。保守派势力派出了大批手持火把和武器的士兵，他们突袭了改革派的聚集地。夜幕下的卢卡充满了混乱和恐慌。激烈的战斗在城市的街道上展开，呼喊声和枪炮声此起彼伏。后来的人们称之为「卢卡之夜」。"
+EDG_PIT_War_of_reform.8.a:0 "这是整个国家的灾难。"
+EDG_PIT_War_of_reform.8.b:0 ""
+
+
+EDG_PIT_War_of_reform_3_flag:0 "维罗纳公议会"
+EDG_PIT_War_of_reform_4_flag:0 "帕维亚公议会"
+EDG_PIT_War_of_reform_5_flag:0 "蒙费拉托会议"
+EDG_PIT_War_of_reform_7_flag:0 "七月暴动"
+
+#立陶宛
+EDG_LIT_civil_war:0 "破碎的王冠"
+EDG_LIT_civil_war.1.t:0 "破碎的王冠"
+EDG_LIT_civil_war.1.d:0 "立陶宛大公国，这个曾经强大的国家，如今正面临着前所未有的挑战。高等公爵们，他们曾经是这个国家的支柱，如今却成为了地方分离主义势力的代言人，试图将立陶宛分割成一个个独立的公国，成为了大公国内部长久无法根治的顽疾。在首都的宫廷内，[Root.Monarch.GetName]无法入眠，国家的财源正在逐渐枯竭。那些曾经忠诚于[Root.Monarch.GetTitle]的高等公爵们，现在却拒绝提供税赋和兵员，地方的抗命现象愈演愈烈。[Root.Monarch.GetTitle]知道，如果不能采取行动，立陶宛的未来将会是一片黑暗。\n在这个关键时刻，一起地方法律纠纷为统治者提供了转机。一位贫穷的商人来到首都，他控告自己的领主反复收取过路费和商业税，这让商人的生意受到了严重的影响。而高等公爵们则认为，其领地的税收完全由自己掌控，商人的控诉是无稽之谈。然而，出乎所有人意料的是，[Root.Monarch.GetName]亲自率领亲卫队闯入了一位高等公爵的府邸，将其逮捕并下狱，随后在当地颁布敕令，要求高等公爵收取的所有商业税都必须上缴中央。\n这一消息震惊了整个立陶宛。这是这个国家自建立以来，第一次有大公试图从高等公爵们的手中夺取税金。这一举动无疑是对高等公爵们的挑衅，他们感到惴惴不安，担心自己的权力和利益将受到威胁。然而，[Root.Monarch.GetName]却坚信，只有将税金收归中央，才能确保国家的稳定和发展。高等公爵们正厉兵秣马，试图教会[Root.Monarch.GetName]应该摆好自己的位置。这场抗税纠纷，成为了立陶宛历史上一个重要的转折点。"
+EDG_LIT_civil_war.1.a:0 "沙上之屋，隳于一瞬."
+
+EDG_LIT_civil_war.2.t:0 "高等公爵的废除"
+EDG_LIT_civil_war.2.d:0 "[Root.Monarch.GetTitle]看着面前溃散的联军不禁百感交集，其权力曾被高等公爵们逐渐蚕食。这些公爵们以各种名义拒绝向大公提供税赋和兵员，导致国家的财源日益枯竭。而现在这场抗税纠纷更是让大公意识到，他必须采取行动来维护自己的至高无上和国家的长治久安。他知道倘若要想实现自己从炼狱当中拯救立陶宛的目标将会遇到多么剧烈的反弹。但是大公并未轻言放弃。他坚信自己的决策是正确的，相信上帝庇佑着他和立陶宛。[Root.Monarch.GetTitle]派出特使在各国宫廷中四处奔走，试图寻求对他的支持。他也向军队保证，将会提供更多的酬恤，让士兵能够为他而战。在这个过程中大公经历了无数的挫折和困难，但是并没有被声势浩大的反叛联军打倒，大公本人也成为了人民心中的英雄。他曾经担心这些高等公爵们会组成强大的反抗力量，威胁到他的统治。然而事实证明，这些所谓的联军只是一群各怀鬼胎的乌合之众，缺乏真正的支柱和信仰。他们在猜忌和攻讦中土崩瓦解。然而，这并不意味着大公和立陶宛的道路将一帆风顺。他深知立陶宛面临着许多深层次的问题和挑战。高等公爵们的权力网依然根深蒂固，尽管高等公爵制度已被废除，但他们背后的家族势力不会轻易推出历史舞台，地方上零星的抗命现象也依然存在，需要花费大量的时间和精力去解决这些盘根错节的根须……但是他终于可以卸下自己的盔甲，重新治理这个遭受兵燹之苦的国家。"
+EDG_LIT_civil_war.2.a:0 "但最高的山已经越过，最桀骜不驯的叛徒已经伏法。"
+
+EDG_LIT_civil_war.3.t:0 "高等公爵的反扑"
+EDG_LIT_civil_war.3.d:0 "我们试图废除高等公爵特权的努力获得了一定的成效。也正因如此，高等公爵们掀起了一场浩大的叛乱，他们要求恢复旧有特权，甚至要求[Root.Monarch.GetTitle]下台"
+EDG_LIT_civil_war.3.a:0 "他们注定失败！"
+
+
+#游牧政权的分裂
+EDG_Nomadic_division:0 "游牧政权的分裂§R「惩罚性」§!"
+
+#印度帝国的崩溃
+EDG_India_division:0 "印度帝国的崩溃"
+EDG_DLH_civil_war.12.t:0 "[Root.GetAdjective][Root.GovernmentName]的崩溃"
+EDG_DLH_civil_war.12.d:0 "在过去的数十年间，尽管[Root.GetAdjective]的历任统治者能征善战，且精于治国，但[Root.GetAdjective]国内始终弥漫着分裂的气息。在印度，不同民族和不同宗教的群体始终不可能在本土政权的统治下团结一致，最终，[Root.GetAdjective][Root.GovernmentName]陷入了彻底的崩溃，各地总督宣布独立，[Root.GovernmentName]中央无力维持局面。这一切不禁令我们叹息，印度似乎永远不可能统一。"
+EDG_DLH_civil_war.12.a:0 "或许这就是[Root.GetAdjective]的命运。"
+
+ #马利克之战
+ EDG_FYM_civil_war:0 "马利克战争"
+
+EDG_FYM_civil_war_18_b_tt:0 "@COP科普特将获得我们治下所有信仰§Y科普特教§!省份的§Y核心§!。"
+ 
+EDG_FYM_civil_war.29.title:0 "贝都因联盟"
+EDG_FYM_civil_war.29.desc:0 "我们对贝都因诸部族的控制十分不稳固，当地的诸多谢赫受到了纳迪尔一世的羁縻，他们仅需要向位于的[Root.Capital.GetName]缴纳极少的贡赋，并象征性地履行军事义务，即可获得[Root.Monarch.GetTitle]的庇护。在马利克战争中，这些贝都因谢赫将其不忠与短视暴露得淋漓尽致。当[Root.Monarch.GetTitle][Root.Monarch.GetName]向内志的统治者要求履行其封建义务时，这位傲慢的谢赫竟毫不掩饰地与[Root.Monarch.GetName]公开叫嚣，将[Root.Monarch.GetName]的信使拖到营帐外拦腰斩断，并将其头颅砍下喂狗。即便[Root.Monarch.GetName]可以容忍这份莫大的羞辱，帝国失去对贝都因的控制已然是不言自明的事实。诸多贝都因谢赫相互勾结，自诩自由之师，加入叛军的行列之中，杀死[Root.Monarch.GetName]委任的埃米尔，并劫掠帝国在东部的边疆。"
+EDG_FYM_civil_war.29.aa:0 "他们这是自取灭亡！"
+EDG_FYM_civil_war.29.bb:0 "我们留不住他们的。"
+
+EDG_FYM_civil_war.30.title:0 "王者归来否？"
+EDG_FYM_civil_war.30.desc:0 "萨哈达王朝正在经历一场灾难，一场在人类已知历史上最残暴和血腥的灾难。老苏丹萨法尔一世在王位上孤独的含恨而终，他没能见到马利克战争的终结，更没能见到他日思夜想的次子——被他流放的扎伊德王子。萨法尔一世直到临终前都在后悔自己没能保住自己的次子，没有再看到他最看好和器重的儿子扎伊德并将这个摇摇欲坠的帝国交到他的手中，他多次对外声称这是他毕生最后的遗憾，也是最大的遗憾。\n\n老苏丹的灵柩被遗忘在了深宫当中足足四十七天之久，最后还是由来自王宫的守卫凑足了金币，将老苏丹安葬在深宫内的一颗椰枣树旁。随着萨法尔一世的驾崩，帝国内部原本就蠢蠢欲动的皇室成员都站到了舞台的中央，大批手握大权的旁系权臣都在争相窥伺着如此庞大帝国的宝座。经过无数的阴谋、暗杀和联盟、背叛之后，活到最后的幸运儿登上了帝国的宝座，但[Root.Monarch.GetName]的胜出并不意味着他掌控了帝国，[Root.Monarch.GetName]的政令不出$CAPITAL$；各地的埃米尔各行其是，对首都散布的政令置若罔闻，显然他们并没有受到来自新马利克的恩惠，也并不愿意为这位马利克立刻献上忠诚。\n\n就在这个时候，被流放多年但素有贤名的扎伊德王子在边境吹响了归来的号角。他带领自己从波斯带来的精锐佣兵团抵达了帝国的旧都萨哈达，并争取到了汉志和也门的埃米尔的支持，征募了一批忠于自己的士卒，浩浩荡荡地开赴开罗。部分马穆鲁克已经转头向扎伊德献殷勤，并劝说——甚至是威胁——[Root.Monarch.GetName]放弃王位，让萨法尔一世的次子扎伊德继位。但很显然，[Root.Monarch.GetName]并不准备束手待毙，他率领一支精锐马穆鲁克，出城迎战。"
+EDG_FYM_civil_war.30.aa:0 "「逆贼败亡之，为猎户所擒，献之扎伊德。」"
+EDG_FYM_civil_war.30.bb:0 "「扎伊德败绩，王师追亡逐北二百里截杀之。」"
+
+EDG_FYM_civil_war.31.title:0 "击败亚历山大马穆鲁克"
+EDG_FYM_civil_war.31.desc:0 "谋害萨法尔一世的巴赫里在阴谋诡计中获得了胜利，但他在战场上的表现却不尽如人意。当他的军团全面溃败，其本人也被[Root.Monarch.GetTitle]的宫殿后，他被五花大绑，押到了[Root.Monarch.GetTitle]王座下的台阶旁。此刻，位于高高的王座之上的，正是[Root.Monarch.GetTitle][Root.Monarch.GetName]本人。[Root.Monarch.GetName]命令最高检察官宣读了巴赫里的罪状，宣读时间长达整整十三分钟，直到巴赫里的头脑完全从袭击中清醒过来时，他被驾到了一旁装满了沸水的大锅前。尽管穆罕默德·巴赫里苦苦哀求，乞求[Root.Monarch.GetName]饶恕自己，哪怕将自己贬为奴。\n但随着[Root.Monarch.GetTitle]一声令下，巴赫里在大堂上被砍去了四肢，并用小刀砍去了舌头，其鲜血逐渐染红了大殿金碧辉煌的地面，其惨叫声环绕在宫廷宽阔的空间内久久不散。为防止巴赫里因失血过多而死，[Root.Monarch.GetTitle]的施刑奴隶用融化的铜汁浇灌在他被砍下四肢的关节上，并用两根细长的铁棒刺穿了巴赫里的两肩，再用铁链将其吊起，使其被吊在沸水上，遭到滚烫水汽的一阵阵扑面侵袭。[Root.Monarch.GetTitle]心满意足地喝起了葡萄酒，并令下人将穆罕默德·巴赫里刚刚被割下的舌头丢去喂给了自己的爱犬。待巴赫里几乎失去意识后，[Root.Monarch.GetTitle]也失去了兴致，令其没入了滚烫的沸水中。\n宫廷内最后只萦绕着巴赫里撕心裂肺的惨叫。"
+EDG_FYM_civil_war.31.aa:0 "「毒蝎自会落入猫鼬之口。」"
+EDG_FYM_civil_war.31.bb:0 ""
+
+EDG_FYM_civil_war.32.title:0 "击败开罗马穆鲁克"
+EDG_FYM_civil_war.32.desc:0 "以贾科马克·布尔吉率领开罗派系的马穆鲁克发动了一场规模浩大的叛乱，在被击溃后，他被扭送到[Root.Monarch.GetName]的脚下。此时，宫殿上还架有两头已经被烧得炙热的铜牛，正当布尔吉困惑不已时，[Root.Monarch.GetName]命奴隶打开了铜牛，只见被装在铜牛内的是两具被烧得通红的尸体。\n布尔吉见状，迅速匍匐在[Root.Monarch.GetName]的脚下，发誓自己没有参与到这群逆贼的任何阴谋之中，乞求[Root.Monarch.GetName]公正地审理此案，并提出自己愿意告老还乡，去远离开罗的地方，甚至是去也门做一名看门卫兵。"
+EDG_FYM_civil_war.32.aa:0 "我们必须将他当众处死！"
+EDG_FYM_civil_war.32.bb:0 ""
+
+EDG_FYM_civil_war.33.title:0 "罗塞塔的陨落"
+EDG_FYM_civil_war.33.desc:0 "艾哈迈德·罗塞塔一度获取了萨法尔一世的信任，但他亲自背弃了这一珍贵的信任。如今的罗塞塔匍匐于[Root.Monarch.GetName]的脚下，乞求宽恕。"
+EDG_FYM_civil_war.33.aa:0 "他没有选择。"
+EDG_FYM_civil_war.33.bb:0 ""
+
+EDG_FYM_civil_war.34.title:0 ""
+EDG_FYM_civil_war.34.desc:0 ""
+EDG_FYM_civil_war.34.aa:0 ""
+EDG_FYM_civil_war.34.bb:0 ""
+
+#阿拔斯归来
+EDG_FYM_malik_end_for_20_years_tooltip:0 "灾难§Y马利克战争§!已经结束了§Y20§!年。"
+EDG_FYM_Caliph_war:0 "阿拔斯归来"
+
+EDG_FYM_civil_war_abs_son_alive_flag_trigger_tt:0 "§Y哈伦·拉希德§!并未被杀死"
+
+EDG_FYM_Caliph_war.1.title:0 "逊尼派革命"
+EDG_FYM_Caliph_war.1.desc:0 "「在沙尘暴肆虐的埃及大地上，当阿拔斯哈里发的征途以惨痛的失败告终，风云变幻，命运的轮盘旋转至不堪承受的地步，淹没于滔滔尼罗河中的不仅是他的生命，还有那段曾经辉煌、充满激情的梦。星空下，传来了他被钉入古老法老金棺的悲鸣，那是亡灵对权力的无尽哀叹与绝望的呐喊。当金棺缓缓沉入静谧的尼罗河，那片水面似乎也因其沉没而变得更加阴郁，暗潮涌动，窥探着这一切的命运。哈里发的去世如同北风卷过燃烧的草地，带来了无法遏制的动荡与分裂，逊尼派信徒们如同愤怒的雄狮，失去了王者的引领，心中燃烧着滔天的愤怒与复仇的渴望，他们的信念如烈火般炽热，在这片古老的土地上蔓延。于是，各地的信徒化作隐秘的幽影，以独狼式的形式掀起了暴风骤雨般的袭击，直指那些征税官员与什叶派教士，手中的剑刃在夜色中闪烁着寒光，仿佛在为曾失去的荣耀复仇。那些胥吏在狐假虎威的高昂着头颅，却不知深入绝境的信徒们已经如饥狼般悄然逼近。刺耳的刀刃划破夜空，激情与信仰交织着，宛如呐喊的风暴，席卷着一切无辜的躯体。他们的心中涌动着的不仅是对阿拔斯哈里发悲惨命运的哀悼，更是对信仰与尊严的坚持，化作行动的动力，燃烧着每一个无畏的灵魂。在狂风的掩护下，一群群身至黑暗的信徒披风而行，如同夜空中盘旋的秃鹫，疾速而又致命。他们的袭击毫无征兆，灵巧而致命，如同尼罗河岸边的暗流，突袭而出，让刚刚打算松口气的官员们猝不及防。每一个夜晚，红色的血液浸染了白色的沙土，低沉的哀嚎回荡在古老的金字塔间，悲怆而绝望，似乎是在为过去的每一位战士鸣冤。什叶派教士们也在风暴的席卷下成为无辜的牺牲品，那些迷信与狂热的信徒围绕着他们，手中挥舞着的则是他们对权威的挑战与对信仰的渴望。深埋在历史尘埃中的争斗再度复苏，如同古代的法老复生，操控着这一切。他们的理想与信念仿佛通过斗争的火焰得到洗礼继而愈发坚定而执着。」\n\n当这篇文章的复制品被传到[Root.Monarch.GetName]时，开罗和伊斯坎达利亚的大街小巷已经被贴满了这一段为骈文实为檄文的文字——逊尼派在埃及发起了一场前所未闻的运动，堪比当年倭马亚王朝在波斯面临的阿拔斯革命——但如今，阿拔斯哈里发领导的力量从什叶派变成了逊尼派。许多逊尼派狂信徒将当地的什叶派长官拖出官邸，并将其虐杀致死，全国各地都能见到被四分五裂、剥皮抽筋后挂在城门口的什叶派乌理玛。由于我们在许多地方委任的官员实际上信仰逊尼派，他们对这些暴行不闻不问，甚至在暗中煽风点火。毫无疑问，尽管在过去，萨哈达帝国中的什叶派与逊尼派达成了脆弱的平衡，但这一平衡终究被打破了，逊尼派发起了一场前所未见的「革命」。"
+EDG_FYM_Caliph_war.1.a:0 "我们才是真主在大地上的影子！"
+EDG_FYM_Caliph_war.1.b:0 ""
+EDG_FYM_Caliph_war_1_a_tt:0 "我们将解锁一个特殊灾难§Y逊尼派运动§!，该灾难将在§Y阿拔斯归来§!灾难期间内§R反复触发§!。每当该灾难触发时，我们将面临更多的§R叛军§!和§R惩罚§!\n我们需要通过各种方法§G消弭§!逊尼派信徒的反抗情绪，以避免§Y逊尼派运动§!的触发。"
+
+EDG_FYM_Caliph_war.2.title:0 "真主在大地上的影子"
+EDG_FYM_Caliph_war.2.desc:0 "埃及广袤的沙漠中，黑暗潜伏，暗杀者如同隐藏的幽灵，四处游荡，令这片古老的土地笼罩在恐惧的阴影之下。正当人民沉浸在绝望和骚乱中，[Root.Monarch.GetName]挺身而出，成为了人们心中希望的火焰。他高大的身影在晨光中显得格外雄伟，他本人则时刻握紧宝剑，目光如鹰隼般锐利而坚定，闪耀着斗志的光辉。在他的号召下，众战士们齐声响应，精神焕发，仿佛在这片沙砾之上，重燃起了久违的斗志。他们的信仰与勇气汇聚，化作一股无形的力量，奔向前方。他们披上铠甲，手握刀剑，像一把锋利的利刃，直面潜伏在黑暗中的敌人。[Root.Monarch.GetName]清楚地感知到暗杀者们的阴险狡诈。他们藏匿在阴影之中，企图利用夜色的掩护展开致命的攻击。然而，[Root.Monarch.GetName]并没有被恐惧所吞噬，反而以超凡的直觉洞察了敌人的动向，迅速制定出周密的战术。他的战术如同大海中的风暴，迅捷而无情，指引着战士们冲锋向前，仿佛是自然的力量在呼应着他们的行动。在气势如虹的较量中，[Root.Monarch.GetName]的剑划破敌人的防线，直抵敌首的心脏，黑暗的火焰被胜利的光辉驱散。敌首应声倒下，暗杀者的阴谋彻底瓦解。战士们欢呼如潮，庆祝这场胜利，他们的激情与勇气在[Root.Monarch.GetName]的引领下如火焰般绽放，重燃了对家庭与信仰的热爱。在胜利的余辉中，沙漠里回荡着战士们的欢呼声，埃及、也门和阿拉伯的星空下，这片土地终于重新焕发生机。[Root.Monarch.GetName]静静地凝望着远方，心中明白，这不仅是一场战争的胜利，更是对人类精神与信仰的礼赞。他的故事，将如同流星般璀璨。"
+EDG_FYM_Caliph_war.2.a:0 "「唯有最血腥的手段才能创造最虔诚的国度。」"
+EDG_FYM_Caliph_war.2.b:0 ""
+
+EDG_FYM_Caliph_war.3.title:0 "阿拔斯归来"
+EDG_FYM_Caliph_war.3.desc:0 "[Root.GetNameEDG_FYM_Caliph_war_3_desc]"
+GetNameEDG_FYM_Caliph_war_3_desc_1:0 "尽管逊尼派们此前在帝国境内发动的暴乱此起彼伏，但终究没能动摇帝国的根基，但当哈伦·拉希德抵达埃及时，一切都显得不同了。\n\n名为哈伦·拉希德，与阿拔斯王朝的第三位哈里发同名，是哈里发穆斯塔科菲·阿拔斯的儿子，在马利克之战中劫后余生，并被忠于穆斯塔科菲的马穆鲁克护带离了埃及，抵达了遥远的伊斯法罕，并在此地建立了小型的教团。在伊斯法罕，能征善战的马穆鲁克，勇猛且博学的阿布·易卜拉欣成为了他的保护人，而另有十一名深谙伊斯兰教法的长老陪伴他成长，他们共同教育哈伦·拉希德，自幼告知他的使命，将他当做一名神加以教育和训练。而他们在伊斯法罕建立的教团也吸引了无数饱受伊朗战火摧残的逊尼派信徒前来朝拜，他们声称，自己宁愿在伊斯法罕朝拜一名活人，而非去麦加朝拜一名死人。极端主义的教法思想和宗教崇拜，让哈伦·拉希德也自认为一名无所不能、战无不胜的神，他坚信自己有朝一日能够重返埃及，重建阿拔斯帝国。\n\n在马穆鲁克与其他诸多前来投奔的逊尼派军事家的教导下，哈伦·拉希德最终成为了一名武艺高强、深谙军事的野心家，他在17岁那年亲手近距离射杀了一头熊，并将其熊皮剥下，制成披风，这条披风至今仍在伊斯法罕的某座清真寺高高悬挂，作为哈伦·拉希德留下的圣物接受崇拜。\n\n随着萨哈达帝国境内逊尼派运动的逐渐高涨，哈伦·拉希德察觉到了完美的时机，他事先秘密地笼络萨哈达帝国境内各地的逊尼派教徒，收买帝国的总督和乌理玛，逐渐建立起了一个完整的联络体系，并最终在前不久亲临埃及。当他出现在公众的视野中时，无数的逊尼派教徒对他顶礼膜拜，为他的到来欢呼雀跃，他们痛恨萨哈达帝国的暴政，并渴望哈伦·拉希德作为阿拔斯的继承者，以安拉的名义重新统治这片古老的土地。"
+GetNameEDG_FYM_Caliph_war_3_desc_2:0 "尽管逊尼派们此前在帝国境内发动的暴乱此起彼伏，但终究没能动摇帝国的根基，但当阿拔斯哈里发本人逃离大马利克的掌控，并高举反旗后，一切都显得不同了。随着萨哈达帝国境内逊尼派运动的逐渐高涨，阿拔斯哈里发察觉到了完美的时机，他事先秘密地笼络萨哈达帝国境内各地的逊尼派教徒，收买帝国的总督和乌理玛，逐渐建立起了一个完整的联络体系，并最终在前不久逃离帝国的首都。当他出现在公众的视野中时，无数的逊尼派教徒对他顶礼膜拜，为他的到来欢呼雀跃，他们痛恨萨哈达帝国的暴政，并渴望哈里发作为阿拔斯的继承者，以安拉的名义重新统治这片古老的土地。"
+EDG_FYM_Caliph_war.3.a:0 "让我们看看谁才是真主在人间的代表！"
+EDG_FYM_Caliph_war.3.b:0 ""
+EDG_FYM_Caliph_war_3_a_tt:0 "若您是初次游玩@FYM萨哈达且不知道流程，请将此提示截图下来，并保存/发送到你可以查阅的地方。\n\n在该灾难中使用控制台请使用「winwars」，不要「integrate」，§R后者会出bug§!\n\n@ABS阿拔斯§Y哈里发§!已经被§Y逊尼派§!拥立！以下效果已经发生：\n-我们和我们属国拥有的所有§M逊尼派§!已经§R归降§!了@ABS阿拔斯§Y哈里发§!\n-@ABS阿拔斯已经重获新生，他们将成为独立的§Y阿拔斯哈里发§!，我们将§R无法§!再使用§Y阿拔斯哈里发§!机制\n-@ABS阿拔斯已经与我们§R交战§!！\n-当我们对@ABS阿拔斯的战争分数达到§M60分§!或阿拔斯不存在，我们将触发结局事件§M「月之至明不过晨曦」§!"
+EDG_FYM_Caliph_war_3_a_son_tt:0 "-由于扎伊德没有杀死§Y哈伦·拉希德§!，哈伦·拉希德已经成为了@ABS阿拔斯的领导者，他为@ABS阿拔斯带来了强大的增益修正。"
+EDG_FYM_Caliph_war_3_a_son_tt_great_conquer:0 "-由于我们开启了§Y伟大征服者§!模式，哈伦·拉希德已经成为了§R伟大征服者§!。"
+EDG_FYM_Caliph_war_3_a_son_tt_mythical_conquer:0 "-由于我们开启了§Y神话征服者§!模式，哈伦·拉希德已经成为了§R神话征服者§!。"
+EDG_FYM_Caliph_war_3_a_son_tt_hehe:0 "\n\n人是你放的，征服者是你开的，如果你实在是打不过，也请不要说什么太难打了或者能不能给一条支线避免和哈伦·拉希德对峙，这种小事可以自己控制台把阿拔斯的哈伦·拉希德给「kill」了，这样阿拔斯就没什么buff了（还打不过建议「winwars」，但请不要「integrate」，后者会出bug）。"
+
+EDG_FYM_Caliph_war.4.title:0 "虫豸"
+EDG_FYM_Caliph_war.4.desc:0 "在[Root.GetAdjective]国内，伊斯兰教法的解释权长期被早已结成利益集团的乌理玛们掌握，多任毛拉将其个人意志贯彻于各种解经活动之中。他们罔顾合理的思辨方法和社会实情，肆意将自己的看法比附古兰经，并将那些与其观点不合的伊斯兰学者阻拦在神学学术领域之外。在这样的环境之中，正确的、合乎逻辑的、贴近生产实际的解经方法总是被学识不精却颇具权势的乌理玛们任意否定、疯狂抨击，导致我们的宗教系统内充斥着只懂得阿谀奉承、党同伐异的无能之辈，而缺少富有才学的能够真正发展伊斯兰学术的人才。\n\n在数日前，一场发生于$CAPITAL$的宗教辩论暴露了这一问题。一名优秀的年轻学者引用了古兰经的原句：「不要让任何人使你偏离真主，因为真主是全知、全能的。」而现场的大毛拉却没看出其引用的经文直接来自于古兰经，对其进行了毫不留情的攻击：「现在的年轻学者都这么狂热吗？」这位大毛拉认为这名年轻学者是在否认哈里发的权威，并将其逐出了现场。这一事件又在伊斯兰学界掀起了一股热浪，逊尼派、什叶派和阿拉维派的学者都嘲笑这名连古兰经都没熟读的大毛拉，耻笑其刚愎自用和不学无术，并借以讽刺[Root.GetAdjective][Root.GovernmentName]宗教体系的腐败无能，竟然让这样的「虫豸」长期把握大毛拉的职位，也难怪当今的逊尼派对帝国是如此不满，以至于发动了数量巨大的暴乱。\n\n这一消息很快流入了[Root.Monarch.GetName]的耳中，令其勃然大怒。这位毛拉不仅不学无术，还将哈里发至于古兰经之上——甚至无形地将哈里发至于了[Root.Monarch.GetName]本人之上。这名大毛拉的思想已经严重威胁到了[Root.Monarch.GetTitle]的权威，必须将其处以极刑。[Root.Monarch.GetTitle]的大臣提议，应当将先这名大毛拉处以腰斩，再钉于十字架上，最后趁其留有最后一口气时处以桩刑，让铁木桩从其残破不堪的肉体下端刺入，最后从嘴巴穿出，让他像一个异教徒一样惨死街头后，再暴尸一个月，让秃鹫和蚂蚁啃食他的尸体，展现帝国对这些罔顾真理的虫豸的铁腕。"
+EDG_FYM_Caliph_war.4.a:0 "他们假借安拉的名义荼毒真理！"
+EDG_FYM_Caliph_war.4.b:0 "但他们很好地规训了我们的百姓。"
+EDG_FYM_Caliph_war.4.c:0 "不能将学术问题上升为政治问题……"
+EDG_FYM_Caliph_war.4.d:0 "毛拉能坐到这个位置上，自然有他的过人之处。"
+EDG_FYM_Caliph_war.4.e:0 "只要大毛拉够自信，想怎么解释都可以。"
+EDG_FYM_Caliph_war.4.f:0 "是谁在以卑犯尊？"
+
+EDG_FYM_Caliph_war.5.title:0 "圣城的灾火"
+EDG_FYM_Caliph_war.5.desc:0 "$YEAR$年，逊尼派信徒在[Root.Capital.GetName]聚集起来，他们杀死了市场的管理人员，并用用私藏的大炮轰击了马利克的宫墙。不仅如此，这群异端还将大手伸向了耶路撒冷、麦加和麦地那组织了规模巨大的叛乱，他们相约在$YEAR$年的开斋节在城市内制造火灾，并杀死当地的行政长官。据称，他们将萨哈达王朝委任的乌理玛全部开膛破肚，将他们拦腹斩成两截后，将脖子挂在马车后拖行一条街，让内脏和鲜血流满整条街道，整个街道上都是乌理玛的鲜血和肠子。更有甚者，将饿了三天的大型犬放到街道上，让这群畜生肆意啃食乌理玛的器官，以玷污什叶派的信仰。"
+EDG_FYM_Caliph_war.5.a:0 "你们在做什么？！"
+EDG_FYM_Caliph_war.5.b:0 ""
+
+EDG_FYM_Caliph_war.6.title:0 "军队中的叛逃者"
+EDG_FYM_Caliph_war.6.desc:0 "我们与阿拔斯王朝的哈里发进行着激烈的交战，但我们军队中的那些逊尼派教徒对我们并不完全忠诚。他们逃离了我们的军队，并投奔到哈里发帐下。"
+EDG_FYM_Caliph_war.6.a:0 "如此愚昧！"
+EDG_FYM_Caliph_war.6.b:0 ""
+
+EDG_FYM_Caliph_war.7.title:0 "政府中的叛徒"
+EDG_FYM_Caliph_war.7.desc:0 "我们的政府中并不全是忠诚之徒，一些政府官员暗中与阿拔斯王朝的哈里发勾结，他们将我们的金钱和资源偷偷转移给哈里发，并暗中弹冠相庆。"
+EDG_FYM_Caliph_war.7.a:0 "将他们当众车裂！"
+EDG_FYM_Caliph_war.7.b:0 ""
+
+EDG_FYM_Caliph_war.8.title:0 "哈里发攻陷$CAPITAL$"
+EDG_FYM_Caliph_war.8.desc:0 "与[ABS.Monarch.GetTitle][ABS.Monarch.GetName]的残暴之众相比，就连安纳托利亚的突厥佣兵都显得军纪严明。尊贵的阿拔斯哈里发，他所纠集起来的军队中挤满了残暴而狂热的暴徒，当他们撞开首都大门的那一刻，$CAPITAL$的命运便已经被决定下来了。这些狂热的逊尼派信徒如脱缰的野狗般在城市里四散而开，他们迫不及待地冲进宫殿寻找大马利克留下的珍宝，将沿街能见到的所有市民全部乱刀砍死，甚至导致后来跟进的马车被街道上的尸体挡住了前往宝库道路。在尽数劫掠了$CAPITAL$的财富后，贪婪成性的哈里发军又将屠刀伸向了没有来得及卷走细软的贫民。他们冲进宅院里，挨家挨户屠戮非逊尼派信徒，无论老幼妇孺一律格杀勿论，杀人的速度只取决于挥刀的速度，如不宰杀被捆住的绵羊一般。对于年轻貌美的女子，在取她们性命之前便要玷污她们的贞洁，并美其名为「什叶派税」。道路上几乎已经没有容脚的空地；每当骑兵驱马而过，就会有一具具尸体的胸腔被踏破；鲜血从街头流到街尾还没有干涸,直到尼罗河水也泛起血色。相传，某些具有独特癖好的人会把男子反绑在树上，再强奸他们的妻子或者女儿以获得最大的爽感，最后为了掩盖自己的不理智行为，将整片的居民区化为灰烬。$CAPITAL$的大火燃烧了整整三日方才熄灭，昔日繁华的街道十不存一。而阿拔斯的[ABS.Monarch.GetTitle]，[ABS.Monarch.GetName]，面对这一人间惨剧时，只是淡淡一笑。"
+EDG_FYM_Caliph_war.8.a:0 "我们会加倍奉还！"
+EDG_FYM_Caliph_war.8.b:0 ""
+
+EDG_FYM_Caliph_war.9.title:0 "罗塞塔会议"
+EDG_FYM_Caliph_war.9.desc:0 "逊尼派运动带来的恶果是肉眼可见的，面临着国内逊尼派不断升级的暴动，[Root.Monarch.GetName]在罗塞塔召集了一次紧急会议。会议的主要议题集中在如何处理国内的逊尼派暴动，以及如何恢复国家的稳定和统一。\n\n最极端和最神秘主义的乌理玛和毛拉都抵达了现场，他们是帝国内最重要的宗教理论。各方就如何缓和教派紧张关系提出了不同的建议。温和派的学者主张通过对话和宗教宽容政策来减少宗派间的摩擦，而保守派则坚持必须严厉镇压以维护国家安全和什叶派的统治地位。"
+EDG_FYM_Caliph_war.9.a:0 "我们必须釜底抽薪。"
+EDG_FYM_Caliph_war.9.b:0 "这是因为他们的权利受到了损害。"
+
+EDG_FYM_Caliph_war.10.title:0 "阿卜杜勒-瓦哈卜 「矮子」"
+EDG_FYM_Caliph_war.10.desc:0 "阿卜杜勒-瓦哈卜出身也门的埃米尔世家，他的祖辈在纳迪尔一世入侵埃及时便立下了汗马功劳。阿卜杜勒-瓦哈卜很早便加入了军队，因其矮小的身材而获得了「矮子」的绰号。尽管身高不占优势，但他以非凡的勇气和精妙的战术闻名于世。在军事上的天赋和领导力使他在多次战役中取得了辉煌的胜利，甚至赢得了百战百胜的美誉。\n\n在萨哈达王朝与阿拔斯哈里发的权力斗争中，阿卜杜勒-瓦哈卜扮演了关键角色。他不仅在战场上展现了卓越的指挥能力，而且对[Root.Monarch.GetName]忠心耿耿。"
+EDG_FYM_Caliph_war.10.a:0 "让他统领我们的军队。"
+EDG_FYM_Caliph_war.10.b:0 "让他驻守我们的首都。"
+
+EDG_FYM_Caliph_war.11.title:0 "尼扎尔·库屈克"
+EDG_FYM_Caliph_war.11.desc:0 "库屈克是15世纪末的著名萨哈达将领，他出生于鲁塞尼亚，作为奴隶被贩卖至萨哈达的宫廷，以马穆鲁克的身份接受训练，自幼受到严格的武术和战略训练。尼扎尔·库屈克不仅在战场上勇猛无比，而且在文学和艺术上也有着深厚的造诣，这使他在马穆鲁克军中独树一帜，享有极高的声誉。\n\n在军事领域，尼扎尔·库屈克以其卓越的指挥能力和创新的战术而著称。他擅长根据不同的战场环境调整军队布局，能够有效地调动骑兵和步兵，使之协同作战。他还特别注重军队的日常操练，强调纪律和团队协作，这使得他领导的部队在多次战役中取得了辉煌的胜利。\n\n长久以来，尼扎尔·库屈克的领导力和军事才能在马穆鲁克军中得到了广泛认可，他的名字和事迹在当时广为流传，成为了后来军事家和历史学家研究的对象。"
+EDG_FYM_Caliph_war.11.a:0 "他应当率军征战。"
+EDG_FYM_Caliph_war.11.b:0 "让他操练马穆鲁克。"
+EDG_FYM_Caliph_war_11_b_tt:0 "我们将有机会推进§Y马穆鲁克§!的训练。"
+
+EDG_FYM_Caliph_war.12.title:0 "马穆鲁克训练永久化"
+EDG_FYM_Caliph_war.12.desc:0 "尼扎尔的训练方法十分有效，一些马穆鲁克军官提议，应当将他的训练方法保留下来，使之永久化。"
+EDG_FYM_Caliph_war.12.a:0 "我们应该保留这一模式。"
+EDG_FYM_Caliph_war.12.b:0 "太花钱了。"
+
+EDG_FYM_Caliph_war.13.title:0 "[Root.GetAdjective]苏菲派"
+EDG_FYM_Caliph_war.13.desc:0 "苏菲派是伊斯兰教中非常注重精神世界和神秘主义的派别，隔绝尘世的欲望与烦恼，专注于和安拉的交流，在埃及和也门地区都有广泛的影响力。[Root.GetAdjective]国内的许多穆斯林选择信奉苏菲派，并加入了各地的苏菲派教团，这虽然与我们的什叶派主流教义有所区别，但仍然为我们所接受。在逊尼派不断高涨的暴动的威胁下，[Root.GetAdjective]的官僚和乌理玛们试图寻求苏菲派的支持。[Root.Monarch.GetName]的大维齐尔通过将苏菲派的哲学与思想与帝国法律结合，将其与安拉联系起来从而使其成为正统法律。但是，这部法律需要得到[Root.Monarch.GetTitle]的签名才能正式生效……"
+EDG_FYM_Caliph_war.13.a:0 "我们需要苏菲派的支持。"
+EDG_FYM_Caliph_war.13.b:0 "这是胡闹！"
+
+EDG_FYM_Caliph_war.14.title:0 "不信任逊尼派军队"
+EDG_FYM_Caliph_war.14.desc:0 "逊尼派运动造就了国内不同宗教派系的高度不信任。由于哈里发军队在国内发动了一场又一场的叛乱和屠戮，我们军队中的什叶派信徒对逊尼派表现出了极大的恶意，什叶派的军官和士兵拒绝与逊尼派的同僚一同战斗，甚至对自己的逊尼派战友发动攻击。"
+EDG_FYM_Caliph_war.14.a:0 "我们不需要逊尼派信徒作为我们的军队来源。"
+EDG_FYM_Caliph_war.14.b:0 "驱虎吞狼，让异端攻杀异端岂不是更好？"
+EDG_FYM_Caliph_war_14_a_tt:0 "我们治下的所有§Y逊尼派§!省份将会获得如下修正："
+
+EDG_FYM_Caliph_war.15.title:0 "命定之战"
+EDG_FYM_Caliph_war.15.desc:0 "当[ABS.Monarch.GetTitle][ABS.Monarch.GetName]的军队抵达阵前时，双方的士卒均士气正盛。[ABS.Monarch.GetTitle][ABS.Monarch.GetName]一人一马，手持长刀，来到了我军阵前。他如同传闻中一般高大威猛、器宇轩昂，若非我们的敌人，他必然能收获无尽的赞美，被认为是命中注定将成就伟业的伟大人物。但如今的[ABS.Monarch.GetName]，毫无疑问与我们势同水火。[ABS.Monarch.GetTitle]在我们的阵前叫骂，他和他的侍从将[Root.Monarch.GetName]形容为阴沟里爬出来的魔鬼，信仰什叶派的母猪，赤裸下体的无头之人，咒骂[Root.Monarch.GetName]没有尊奉伊斯兰的教法，已然被真主抛弃。\n\n我们的继承人不堪欺辱，请求出战，向[Root.Monarch.GetName]发誓，自己定当斩下[ABS.Monarch.GetName]的头颅，结束这场旷日持久的战争。当然，毫无疑问，[Root.Monarch.GetName]更想亲自解决这一切。"
+EDG_FYM_Caliph_war.15.a:0 "只有懦夫才会逃避！"
+EDG_FYM_Caliph_war.15.b:0 "我们不会中了他的诡计。"
+EDG_FYM_Caliph_war_a_15_tt_1:0 "§Y[Root.Heir.GetName]§!将会亲自与§Y[ABS.Monarch.GetTitle][ABS.Monarch.GetName]§!一较高下！"
+EDG_FYM_Caliph_war_a_15_tt_2:0 "§Y[Root.Monarch.GetName]§!将会亲自与§Y[ABS.Monarch.GetTitle][ABS.Monarch.GetName]§!一较高下！"
+
+EDG_FYM_Caliph_war.16.title:0 "[Root.Heir.GetName]的冲锋"
+EDG_FYM_Caliph_war.16.desc:0 "在[Root.Monarch.GetTitle][Root.Monarch.GetName]的授意下，[Root.Heir.GetName]举起长枪，向[ABS.Monarch.GetTitle][ABS.Monarch.GetName]发动了冲锋。\n\n[Root.Heir.GetName]的攻势宛如雷霆，在金黄色的沙漠中掀起了一道凶猛的浪潮，他挥舞着长枪，意图刺向[ABS.Monarch.GetName]的头颅，却被其一刀拨开。在此时，[Root.Monarch.GetTitle]心头一颤。\n\n大事不妙！\n\n随后，两人展开了一段时间的拉锯。尽管自幼接受最优秀的马穆鲁克导师的教导，但在哈里发的进攻下，[Root.Heir.GetName]已然显得力不从心，他的长枪迅猛如沙漠中夜行的蟒蛇，而[ABS.Monarch.GetName]凭借一把长刀，却总是能轻松地挡下自己的攻击，并屡屡砍向他的盔甲。当我们的继承人已经伤痕累累、精疲力竭时，才逐渐意识到，[ABS.Monarch.GetName]正在玩弄自己，如同野猫残忍地玩弄鲜血淋漓的老鼠。\n\n[Root.Monarch.GetName]本人几乎压制不住自己冲锋向前的欲望，他的将领也无不感到惊慌，为[ABS.Monarch.GetName]的强大力量而替[Root.Heir.GetName]感到担忧。数名将[Root.Monarch.GetName]训练长大的精锐马穆鲁克在获得允许后，快马加鞭，奔赴向前，意图从[ABS.Monarch.GetName]的手中救回[Root.Heir.GetName]。看着马穆鲁克们飞驰的身影，[Root.Monarch.GetName]才终于回过神来，擦了把冷汗。\n\n但事情并没有结束。\n\n尽管[Root.Heir.GetName]迅速调转马头，马穆鲁克们也竭尽全力，但[ABS.Monarch.GetTitle]依然在阵前，将前来护卫的马穆鲁克尽数斩首——一个，两个，三个……他的马刀仿佛真的蒙受安拉的祝福，将马穆鲁克最精良的盔甲轻松斩断。马穆鲁克们壮烈牺牲，但他们成功将哈里发与[Root.Heir.GetName]的距离拉开。[Root.Monarch.GetName]悬着的心终于落下。\n\n在这场关乎生命和帝国未来的角逐中，[ABS.Monarch.GetTitle]在最后举起短弓，将[Root.Heir.GetName]射落马下！他践踏过数名马穆鲁克的尸体，并用长刀砍下[Root.Heir.GetName]的头颅，向双方的军队高高举起，在逊尼派军队前引起一阵狂热的战吼，却令我军陷入了深冬般的死寂。"
+EDG_FYM_Caliph_war.16.a:0 "他会付出代价的！"
+EDG_FYM_Caliph_war.16.b:0 "不！"
+
+EDG_FYM_Caliph_war.17.title:0 "命中注定"
+EDG_FYM_Caliph_war.17.desc:0 "[ABS.Monarch.GetName]的暴行令上苍震怒，安拉决不允许这样的事情发生！\n\n[Root.Monarch.GetName]早已久经沙场，他绝不惧怕所谓的战神，也绝不可能认输。面对意气风发的[ABS.Monarch.GetTitle]，[Root.Monarch.GetTitle]强忍掩藏在心中的无尽愤怒，迅速下令进军，帝国的骑兵如离弦之箭，冲锋之势浩如潮水。两军迅速混战在一起。[Root.Monarch.GetName]率领他最精锐的马穆鲁克，寻找[ABS.Monarch.GetTitle][ABS.Monarch.GetName]的踪迹。钢铁的碰撞声震耳欲聋，战马的嘶吼响彻天际，祷告声与尖叫声充斥了整个战场，阴云密布的战场上方又间歇性地传来骇人的雷鸣。\n\n就在一片混乱之时，命运总是在拨弄她的琴弦——无论何时何处。在黄昏时分，[ABS.Monarch.GetTitle]与他的亲卫队也找到了[Root.Monarch.GetName]，双方迅速交战在一起，[Root.Monarch.GetTitle]最精锐的马穆鲁克与埃米尔，同陪伴阿拔斯哈里发长大的狂热护卫者的长刀猛烈相撞。\n\n在雷鸣与怒吼中，[Root.Monarch.GetName]发现了正朝他冲锋而来的[ABS.Monarch.GetName]，对方的战马与本人一样高大，身上同样披着常人难以承受的沉重铠甲，却动作迅猛——[ABS.Monarch.GetName]的长刀如疾驰的猎豹，当冰冷的刀刃挥舞到半空中时，[Root.Monarch.GetName]才猛然反应过来。\n\n「当——」\n\n长刀碰撞产生的火花点缀了已经昏暗的世界，纵使强壮如[Root.Monarch.GetName]，也几乎难以承受对方的力量，他艰难地承受着，满眼都是那个男人的笑容，那个如天使般美丽，又如魔鬼般令人憎恨的笑容——下一秒，他就已经什么也看不见了。\n\n「轰——」\n\n天穹之上，安拉又唤起一阵电闪雷鸣，当新的一阵惊雷传到战场上时，又激发起了新的一轮恐慌与惊叫。\n\n「马利克战死了！」\n「[Root.Monarch.GetName]战死了！」"
+EDG_FYM_Caliph_war.17.a:0 "不！"
+EDG_FYM_Caliph_war.17.b:0 ""
+EDG_FYM_Caliph_war_17_a_flag_tt:0 "[ABS.Monarch.GetTitle][ABS.Monarch.GetName]杀死了§Y[Root.Monarch.GetTitle][Root.Monarch.GetName]§!，这使我们的国家陷入了混乱，令我们的军队陷入了恐慌，我们需要一位强大的领袖才能重新振作起来。"
+
+EDG_FYM_Caliph_war.18.title:0 "伊德里斯·海伊斯·萨哈达"
+EDG_FYM_Caliph_war.18.desc:0 "尽管萨哈达帝国的疆土辽阔无垠，但并非每一位萨哈达王子的都能够幸运地成为帝国的继承人。萨哈达的大马利克和土耳其的帕迪沙们一样，拥有庞大而美丽的后宫，以及其血脉枝繁叶茂的常态。每一个稍有能力的王子都会被大马利克委任至帝国的各个行省，在那里担任王子总督，以锻炼他们的执政能力并培植自己的亲信。但大多数萨哈达王子都命中注定无法成为帝国至高无上的大马利克，并且很有可能在其兄弟继位后成为政治斗争的牺牲品。\n\n伊德里斯·海伊斯出身于皇室边缘，他的父亲是扎伊德的第七子，在扎伊德苏丹在位期间被委任为也门总督，而伊德里斯本人在扎伊德的宫廷内接受最好的教育，诺姆希腊佣兵和马穆鲁克对其产生了莫大的影响，他不擅长撰写优美的波斯语诗歌，厌恶那些虚情假意、舞文弄墨的文官，而对南征北战的埃米尔们万般崇拜，并逐渐显露出崇尚暴力和铁腕的倾向。伊德里斯自幼便对大马利克至高无上的权力痴迷无比，将其祖父扎伊德苏丹视为效仿的对象。在伊德里斯成年后，被短暂地任命为了麦地那的埃米尔，他励精图治，且时常组织狩猎与操练活动，在其治理麦地那期间，与哈希姆家族以及内志的沙特家族的许多埃米尔均结下了良好的关系，这为其在当地建立稳固的权力基础奠定了良好的条件。\n\n尽管伊德里斯能力出众，但其继承顺位极度靠后，他的未来似乎注定是远离王位的荣耀。然而，真主和纳迪尔一世的英灵终究没有放弃他。帝国在大马利克之战后并没有获得永久的稳定，阿拔斯哈里发带来的内战打破了帝国的宁静，在阿拔斯哈里发阵斩了前大马利克后，各地军阀再一次对中央的命令阳奉阴违，马利克之战的阴霾重现于帝国的穹庐之上。\n\n伊德里斯原本无意涉足这场权力游戏，但他的智慧和勇气逐渐被身边的顾问和忠诚的追随者所认可。他们说服伊德里斯，作为皇室血脉，他有责任保护国家免受分裂和外敌的侵扰。在率领亲兵多次击退哈里发军后，伊德里斯获得了莫大的威望，他在战场上的英姿令无数人回忆起其祖父扎伊德，而他的政治手段同样高明，他巧妙地联合了军队和地方贵族，逐步削弱了其他竞争对手的力量，并逐步获得了帝国的最高权力，同时兼任了帝国的执剑埃米尔和大维齐尔。\n\n伊德里斯的掌权恢复了帝国的秩序，萨哈达的军队再次成为了战无不胜的常胜之师。与此同时，伊德里斯的权势已经开始威胁到了[Root.Monarch.GetName]，许多埃米尔和马穆鲁克开始讨论让伊德里斯取缔[Root.Monarch.GetName]，成为帝国的统治者。"
+EDG_FYM_Caliph_war.18.a:0 "帝国需要他！"
+EDG_FYM_Caliph_war.18.b:0 "[Root.Monarch.GetName]不会允许他夺取权力。"
+
+EDG_FYM_Caliph_war.19.title:0 "处决乌理玛"
+EDG_FYM_Caliph_war.19.desc:0 "国内的一些乌理玛并不支持我们的政策，他们抨击我们的什叶派信仰，并对逊尼派表示了同情，引发了国内部分地区的惊愕与不安。"
+EDG_FYM_Caliph_war.19.a:0 "将他们处死！"
+EDG_FYM_Caliph_war.19.b:0 "这太极端了。"
+
+EDG_FYM_Caliph_war.20.title:0 "伊德里斯·海伊斯·萨哈达"
+EDG_FYM_Caliph_war.20.desc:0 "尽管萨哈达帝国的疆土辽阔无垠，但并非每一位萨哈达王子的都能够幸运地成为帝国的继承人。萨哈达的大马利克和土耳其的帕迪沙们一样，拥有庞大而美丽的后宫，以及其血脉枝繁叶茂的常态。每一个稍有能力的王子都会被大马利克委任至帝国的各个行省，在那里担任王子总督，以锻炼他们的执政能力并培植自己的亲信。但大多数萨哈达王子都命中注定无法成为帝国至高无上的大马利克，并且很有可能在其兄弟继位后成为政治斗争的牺牲品。\n\n伊德里斯·海伊斯出身于皇室边缘，他的父亲是扎伊德的第七子，在扎伊德苏丹在位期间被委任为也门总督，而伊德里斯本人在扎伊德的宫廷内接受最好的教育，诺姆希腊佣兵和马穆鲁克对其产生了莫大的影响，他不擅长撰写优美的波斯语诗歌，厌恶那些虚情假意、舞文弄墨的文官，而对南征北战的埃米尔们万般崇拜，并逐渐显露出崇尚暴力和铁腕的倾向。伊德里斯自幼便对大马利克至高无上的权力痴迷无比，将其祖父扎伊德苏丹视为效仿的对象。在伊德里斯成年后，被短暂地任命为了麦地那的埃米尔，他励精图治，且时常组织狩猎与操练活动，在其治理麦地那期间，与哈希姆家族以及内志的沙特家族的许多埃米尔均结下了良好的关系，这为其在当地建立稳固的权力基础奠定了良好的条件。\n\n尽管伊德里斯能力出众，但其继承顺位极度靠后，他的未来似乎注定是远离王位的荣耀。然而，真主和纳迪尔一世的英灵终究没有放弃他。帝国在大马利克之战后并没有获得永久的稳定，阿拔斯哈里发带来的内战打破了帝国的宁静，帝国境内的各个势力都有了登上历史舞台的机会。\n\n伊德里斯原本无意涉足这场权力游戏，但他的智慧和勇气逐渐被身边的顾问和忠诚的追随者所认可。他们说服伊德里斯，作为皇室血脉，他有责任保护国家免受分裂和外敌的侵扰。在率领亲兵多次击退哈里发军后，伊德里斯获得了莫大的威望，他在战场上的英姿令无数人回忆起其祖父扎伊德，而他的政治手段同样高明，他巧妙地联合了军队和地方贵族，逐步削弱了其他竞争对手的力量，并逐步接近了帝国的最高权力，如今的他已经同时兼任了帝国的执剑埃米尔和大维齐尔。\n\n在对抗阿拔斯哈里发的战争中，伊德里斯在帝国军队中积累了莫大的影响力，以至于其权势已经开始威胁到了[Root.Monarch.GetName]，许多埃米尔和马穆鲁克开始讨论让伊德里斯成为帝国的继承人……甚至统治者。富有权势的叔叔或伯伯接管帝国的最高权力，这在帝国的历史上并非没有出现过，伊德里斯很有可能在[Root.Monarch.GetName]去世后夺取最高权力——如果他没有在[Root.Monarch.GetName]在位的时候就这么做。而伊德里斯并没有接受军官们的意见，他表示效忠[Root.Monarch.GetName]，但没有否认自己对帝国最高统治地位的权力。[Root.Monarch.GetName]必须正视这一现状，向伊德里斯妥协，或是与其决裂。"
+EDG_FYM_Caliph_war.20.a:0 "他毕竟是萨哈达家族最优秀的后裔之一。"
+EDG_FYM_Caliph_war.20.b:0 "[Root.Monarch.GetName]绝不妥协！"
+
+EDG_FYM_Caliph_war.21.title:0 "月之至明不过晨曦"
+EDG_FYM_Caliph_war.21.desc:0 "在无尽的沙丘与苍穹之间，历史仿佛在酝酿着一场伟大的交响，有如千古传唱的诗篇。此时，安静的夜空下，闪烁的繁星宛如过去辉煌的记忆，正映衬着阿拉伯大地上即将到来的风暴。萨哈达王朝的部队，披着苍鹰和狼狈的战袍，如洪流般向北涌动，意图重新塑造阿拉伯世界的命运。\n\n那些曾经宣誓再度效忠于哈里发的城镇，如今在萨哈达王朝部队的凌厉进攻下纷纷告破。原本骄傲的城墙在他们铁骑的怒吼中颤抖，似乎无论是高耸的城楼，还是坚固的城门，都无法抵挡那如同风暴般的征伐在一个个曾经倒戈的城镇之中，越来越多的百姓开始窃窃私语，心中自有潮水般的敬畏与归属，铭记着先祖的血脉传承，感受到萨哈达王朝所承载的不仅仅是武力，更是对昔日荣耀的复兴。那些曾经抵抗的士兵面对着犹如马利德和伊芙利特一般可怕的的骑士们之时纷纷跪倒，归还了他们的权柄。\n\n而在这宛若诸神之战的弦乐背景下，阿拔斯王朝的哈里发，倦怠而疲惫的身影犹如孤舟，在焚热的风中摇曳。他的内心如同狂风怒吼，承载着失去的荣耀与无尽的绝望。他知道——他再也无法挽回这场命运的更迭。哈里发[ABS.Monarch.GetName]在宫廷内踱步良久，最后带领自己的妻子儿女集体自焚。阿拔斯哈里发国的支系继承人则主动迈向萨哈达的营地，去迎接那正庆贺又一场大胜的[Root.Monarch.GetName]。在一片低垂的夜色中，哈里发的步伐缓慢而坚定，他的内心充满了无奈与悲情。然而，透过那双浑浊的目光，依然可以看见昔日的坚定与勇气。于星空之下，哈里发的身影显得格外渺小，他提着那面属于先知穆罕默德的军旗，犹如一颗流星划过黑暗的夜空，充满。终于，他站在了萨哈达王朝的军帐前，深吸一口气，向那[Root.Monarch.GetName]俯首叩拜，宣布自己的投降。\n\n而当[Root.Monarch.GetName]抵达阿拔斯的宫殿时，那个为帝国和什叶派带来无穷苦难的恶魔，[ABS.Monarch.GetName]，他的尸骸已经难以辨认。那一刻，仿佛整片大地都陷入了沉寂，连夜风也驻足聆听。"
+EDG_FYM_Caliph_war.21.aa:0 "哈里发将只能是[Root.Monarch.GetName]座下的刍狗。"
+
+EDG_FYM_Caliph_war_21_a_flag_trigger_tooltip:0 "我们已经在§Y阿拔斯归来§!事件组中击败了§Y阿拔斯哈里发§!，触发了事件§M「月之至明不过晨曦」§!"
+EDG_FYM_Caliph_war_21_a_flag_tt:0 "我们已经击败了§Y阿拔斯哈里发§!，只要我们的§Y稳定度§!达到§M1§!，我们就能§Y结束灾难「阿拔斯归来」§!。"
+
+#逊尼派运动
+EDG_FYM_Caliph_war_2:0 "逊尼派运动"
+
+EDG_FYM_Caliph_war_2.1.title:0 "逊尼派运动的再度爆发"
+EDG_FYM_Caliph_war_2.1.desc:0 "国内的逊尼派对我们的不满日益加剧，他们又发动了一场规模浩大的叛乱，企图推翻我们的统治！"
+EDG_FYM_Caliph_war_2.1.a:0 "我们才是真主在大地上的影子！"
+
+#圣子降临
+EDG_FYM_copt_war_can_end_flag_trggier_tt:0 "我们已经终结了全部的§M12§!名§Y使徒§!"
+EDG_FYM_copt_war:0 "圣子降临"
+
+EDG_FYM_copt_war.1.title:0 "圣子降临"
+EDG_FYM_copt_war.1.desc:0 "尽管科普特教会与[Root.Monarch.GetTitle]之间的共生关系被公教会和正教会称为亵渎行径，但从长久的历史来看，这一国家内部的渎圣同盟十分成功。当信仰让位于利益时，人间的国便得以壮大。先是伊斯坎达尔，然后是安塔基亚；今天是耶路撒冷，明天就是七丘之城。萨哈达的国如同洪水般席卷了人间，但这一切并非没有代价。当信仰屈从于利益时，虔诚的人便得了灾难的源头。\n\n在苏十年前，一名名为以撒的科普特学者在伊斯坎达尔大教堂前发表了一场声势浩大的演说，这位名为以撒的科普特学者在学界享有盛誉，相传就连伊斯坎达尔大主教本人都对他的学说赞不绝口。在过去的十年间，他争取到了成千上万的科普特人的支持，许多人将其奉为宗教界的权威和风向标。以撒在帝国的大部分地区都有过传教活动，他为人慷慨，频繁地资助各地的科普特商会和教会，赢得了莫大的美名和影响力，许多教堂都以他的名字命名，他几乎成为了科普特教中的一名新圣徒，许多人亲眼见到他跳入沸腾的油锅中却毫发无伤，甚至有传闻声称，他让身患绝症的信徒恢复健康，让不孕的中年妇人重新生育。。当然，在事发之前，除了拥有巨大的名气和狂热的布道风格外，这位以撒并没有十分独特，他和其他科普特教士一样往来于教会之间，对帝国的官僚毕恭毕敬，保持着紧密的合作关系，许多帝国内部的官僚——无论是什叶派还是科普特教徒——都十分尊敬以撒。\n\n但就在不久之前，这位科普特教士在伊斯坎达尔掀起了一阵疯狂的浪潮。\n\n他自称为「弥赛亚」，号召信徒们反抗[Root.GetName]和[Root.Monarch.GetName]——这在整个埃及和帝国的其他广大地区掀起了一阵科普特狂热的浪潮——毫无疑问，这位以撒在过去的数十年间都在联络科普特的其他教士乃至主教，他们在帝国的阴影下织出了一张庞大的、锋利的叛乱之网，这张大网由科普特教会维系，被用于分裂整个帝国。\n\n尽管以撒很快被逮捕，并在伊斯坎达尔当地处以极刑——行刑官先在他身上刮了五百刀，又用长满尖刺的铁鞭将其抽打至鲜血淋漓，再挖去其耳目鼻舌后，挂上十字架，在最后施加火刑。伊斯坎达尔的治安官想借此震慑整个帝国的科普特教徒，但此举却引来了科普特教徒们的极度悲愤，甚至有许多狂热的科普特信徒，声称以撒将会如基督一般在七天后复活！愤怒的教法官下令在刑场就地开展措施，在公众的眼下，将以撒的尸骸大卸八块，用水轮碾成了肉渣，铺在了刑场的地上，并派遣了上百名护卫看守此地。"
+EDG_FYM_copt_war.1.a:0 "若他是耶稣再世，就让他复活给我们看看！"
+
+EDG_FYM_copt_war.2.title:0 "「审判日」"
+EDG_FYM_copt_war.2.desc:0 "弥赛亚的闹剧最终落幕了。\n\n我们花了三十枚银币，收买了一名皈依科普特教的犹太人，此人为我们透露了这场浩大叛乱的真相。\n\n在过去的许多年来，以撒都在暗中收买各地的官员，并笼络各地的科普特教士，他逐渐渗透了半个萨哈达政府和整个科普特教会。他凭借手中巨大的影响力，换取了众多民众的支持，并向他们宣扬千禧年主义和其它宗教狂热思想。更重要的是，他还有个双胞胎弟弟，这个弟弟与他的样貌别无二致。\n\n科普特人算准了伊斯坎达尔会起雾的日子，并收买我们的卡迪，将处死以撒的日子放在了这一天的七天后。他们又收买了我们巡哨的士兵和负责管理现场的马穆鲁克，让他们将以撒的残骸藏在行刑架的下面，待一切准备就绪后，方才通知伊斯坎达尔的总督。\n\n待总督与其他人确认以撒尸骸的失踪后，以撒的那名双胞胎弟弟，又在高塔上现身，而早就谋划好的科普特人会将这一消息传遍整个帝国！\n\n这位犹太人还为我们提供了科普特人的其他情报，包括以撒的这位弟弟的所在地，以及科普特人接下来的计划。多亏我们多年来对科普特人的全面清洗，如今已经没有成建制的科普特人可以对抗我们的大军，我们轻而易举地抓捕了这位「弟弟」，并将其押至伊斯坎达尔，以与以撒同样的方式处死——同样的，行刑官先在他身上刮了五百刀，又用长满尖刺的铁鞭将其抽打至鲜血淋漓，再挖去其耳目鼻舌后，挂上十字架，在最后施加火刑，并最后将其尸骸大卸八块，用水轮碾成了肉渣，铺在了刑场的地上。而我们都知道，这位「弥赛亚」不可能再复活了。科普特人口中的「审判日」来临了，甚至已经结束了——从今以后，[Root.Monarch.GetTitle]才是科普特人的弥赛亚，掌握所有科普特人的生杀大权。"
+EDG_FYM_copt_war.2.a:0 "[Root.Monarch.GetName]即是审判。"
+EDG_FYM_copt_war_2_a_tt:0 "我们的§Y科普特§!阶层特权「科普特人自治」将额外获得如下效果：\n§M异教容忍度§!:§G+1§!\n§M最大异教容忍度§!:§G+1§!\n§M全局商品产出修正§!:§G+10%§!\n§M科普特人忠诚度§!:§G+10%§!\n\n我们和我们的属国治下的所有§Y科普特教§!省份将获得如下修正："
+
+
+EDG_FYM_copt_war.3.title:0 "「死而复生」"
+EDG_FYM_copt_war.3.desc:0 "七天过去了。\n\n在当天的上午，处死以撒的行刑场还保持着原状——除了以撒那已经被碾成肉渣与骨渣的已经难以称为「尸骸」的残留部分已经开始招来蚊虫，并开始发臭之外，整个场所与七天前别无二致。\n\n但到了下午，伊斯坎达尔却逐渐扬起一团雾气，这股雾气弄得吓人，从未有埃及人在伊斯坎达尔见过如此浓厚的雾气。行刑场是最后一个被雾气彻底笼罩的地方，因为当地的总督下令点燃了许多的火把，以图保持现场的明亮与视野的通透。\n\n到了晚上，又下起了一场雨，小雨淅淅沥沥，现场的士兵发现，无论自己如何努力，都无法再次点燃手中的火把。\n\n当一名巡逻的士兵靠近行刑场那原本用于陈设以撒的「尸骸」的地方时，不禁大叫起来。\n\n「他不见了！肉沫和骨渣都不见了！」\n\n行刑官和司法官问询赶来，甚至就连总督也亲自前来确认——以撒的尸骸确实不见了——地面整洁得如同什么也没发生过一样！\n\n「这不可能！我们巡逻的士兵里一定有奸细，我们的队伍里出了该死的叛徒！」总督阿里痛斥负责看守此地的马穆鲁克，并对其发出严厉的警告，「快命人仔细搜查，那些科普特人不可能将这个异教徒的尸骸冲进尼罗河里，他们一定是见尸骸藏了起来，保存在某处——把它找出来！」\n\n总督话音未落，行刑场不远处的一座高塔上却亮起了一盏明灯，只见一个男子站在塔顶，将灯盏高高举起。\n\n「我如约回来了，科普特人们！你们的弥赛亚回来了！」"
+EDG_FYM_copt_war.3.a:0 "他根本不是弥赛亚，他分明是撒旦本人！"
+EDG_FYM_every_copt_province_get_modifier_tt:0 "我们和我们的§M非科普特教§!属国治下的所有§Y科普特教§!省份，将会获得如下修正："
+EDG_FYM_copt_war_1_a_tt:0 "我们治下的§Y科普特§!省份将会不断地爆发叛乱。"
+EDG_FYM_copt_war_variable:0 "已经出现的§M门徒§!"
+EDG_FYM_copt_war_variable_tt:0 "这是第§M[Root.EDG_FYM_copt_war_variable.GetValue]§!个出现的§M门徒§!"
+
+EDG_FYM_copt_war.4.title:0 "「牧羊人」"
+EDG_FYM_copt_war.4.desc:0 "「彼得罗斯是第一个牺牲的！」 \n\n他不过是地主家管理羊圈的，一个小小的科普特信徒又如何独自掀起滔天巨浪？\n\n但所谓「弥赛亚」以撒的到来，唤醒了他内心的渴望，他没有严谨丰富的神学知识，却凭借着底层生活的经历，成为了当地最富有影响力的布道士和演说家。好人，贤者，朋友……彼得罗斯唤起了一批又一批狂热的科普特信徒，呼吁他们反抗[Root.Monarch.GetName]。\n\n当彼得罗斯拿出钥匙，轻轻扭开家门的铁锁时，无端的屠刀由暴民砍下。是谁指派的杀手，是谁憎恨着他？当无辜的彼得罗斯倒在血泊中时，真相已不再重要。\n\n或许[Root.Monarch.GetTitle]并没有打算肃清势力愈加壮大的科普特教会，而科普特教会或许也并没有向敌基督挥剑的意图，但名为“误会”的毒蛇已经在不经意间灼伤了孩子。\n\n顷刻间，伊斯坎达尔便被野火点燃。积攒已久的怨恨顺着毒蛇咬伤的伤口喷泻而出，无辜者的鲜血染红了尼罗河两岸，腥臭味在数个月内都难以抹除。教堂被砸毁，清真寺被推倒，名为「冲突」的地狱降临了。"
+EDG_FYM_copt_war.4.a:0 "无数人将因此蒙难……但那又怎么样？"
+
+EDG_FYM_copt_war.5.title:0 "「铁匠」"
+EDG_FYM_copt_war.5.desc:0 "罗塞塔省的沙滩上，安德烈亚斯刚刚从昏迷中醒来。\n\n他不记得自己到底昏厥了多久，也不记得是谁打晕了自己。在他失去意识的前一刻，安德烈亚斯唯一记得的便是妇女的惨叫与滔天的烈焰。他不愿去回忆，但隐隐作痛的太阳穴还是不断地将那段灰暗记忆塞入他的大脑。\n\n他本是一名虔诚的科普特铁匠，尽管他力大无穷，终日与火焰作伴，却一生战战兢兢、遵纪守法，从未想过挑战任何权威。但直到乌理玛注意到了他。当他和他的家人在祷告完毕后，意见准备入睡时，萨哈达士兵们破门而入，摧毁了一切。穆斯林将他的母亲推进了火炉里，将她的脸摁在炙热的火焰上，直到整张脸都在火舌的舔舐下逐渐融化。他们又奸淫他的妻子和女儿，并当着他的面将他刚满八岁、试图保护家人的小儿子用长矛贯穿，任凭其肠子洒落一地。他被萨哈达的士兵用大锤打断了腿，捆在柱子上目睹了全过程。\n\n他认识那名领头的阿迦，在当天的白天，这名阿迦还与科普特教会的教士互称兄弟，如今却在目睹着一切惨状时露出了残忍的笑容。当他的所有家人都已经停止了呼吸后，阿迦又下令，将安德烈亚斯反捆双手，丢进河里。\n\n但所有人都没想到的是，他竟然活了下来。\n\n暴力染红了漆黑的夜晚，孩子们刺耳的尖叫声在海畔久久不能散去。太阳刚刚升起，安德烈亚斯在朝日前缓缓起身，他伤痕累累，甚至堪称半身不遂。但他知道自己命中注定将踏上的道路是何模样了。"
+EDG_FYM_copt_war.5.a:0 "螳臂当车罢了。"
+
+EDG_FYM_copt_war.6.title:0 "「主教」"
+EDG_FYM_copt_war.6.desc:0 "乌理玛与科普特教士之间的矛盾已经被摆在了明面上。距离第一起谋杀不过数天，萨哈达的旗帜便已经因苦难而染红。\n\n在冲突爆发的前几天，毫无准备的科普特人几乎是被一边倒地推向了死亡的深渊。然而随着基督徒们逐渐缓过神来，天平也逐渐开始倾斜。以耶稣基督之名，东部省的地区主教雅库布迅速组织起了自己的队伍，将那些逃难而来的科普特人尽数纳入麾下，并且公开宣布了萨哈达之主的敌基督本性。\n\n勇猛暴躁的雅库布将那些试图侵犯基督徒的穆斯林们尽数斩首，累积的尸体多到甚至能够让城墙垮塌。反叛者的堡垒坚不可摧，他们砍下萨哈达的旗帜，誓要与敌基督抗争到底，直到那尼罗河水干涸。\n\n然而可悲的是，当雅库布召集信徒准备起义之时，那些逃难而来的犹太人却当了懦夫。信仰被小人当作是追求利益的梯子，只需假意改信便可欺瞒众人。而如今，队伍中的犹太人便再一次出卖了朋友。情报被卖出，雅库布也在乱军之中被生擒。\n\n然而更讽刺的是，处决雅库布的，并不是那穆斯林，反倒是那些曾经被他救助过的犹太人，那些假意改信基督之人。"
+EDG_FYM_copt_war.6.a:0 "他们知道自己在为谁而战吗？"
+
+EDG_FYM_copt_war.7.title:0 "「官僚」"
+EDG_FYM_copt_war.7.desc:0 "当雅库布的死讯传到居住在开罗的弟弟约翰内斯那里时，萨哈达国内的科普特人已经和穆斯林开始了全面战争。与个人无关，他们只是以信仰之名，对信仰着伪神的敌人展开杀戮。但对于约翰内斯而言，他现在只想复仇。\n\n当燃烧的愤怒之火彻底占据头脑后，那么一切信条都将归于沉寂。作为萨哈达国内重要的科普特行政长官，约翰内斯很轻易地便拉起了一支足以让红海颤抖的起义军。\n\n「以上帝之名！」\n\n科普特人的起义军所到之处，看不到任何活着的穆斯林；正如穆斯林大军所到之处，看不到任何活着的基督徒一样。\n\n高举十字架的砍着高呼真主的，高呼真主的砍着高举十字架的，和平遥遥无期。绵延的战火与复仇的信念混合在一起，将萨哈达的辉煌彻底碾碎。城市一座接一座地沦陷，教堂一座接一座地倒塌。安塔基亚除了尸体，什么也不剩了。耶路撒冷的圣路上，也见不到一个人。\n\n约翰内斯的叛乱摧毁了一切，燃烧了他所到之处的一切，直到最后将自己也焚烧殆尽。\n\n佩特拉古城内，一切归于沉寂，正如千百年来的风沙那般，最后什么也没剩下。"
+EDG_FYM_copt_war.7.a:0 "我们打算比谁失去的更多吗？"
+
+EDG_FYM_copt_war.8.title:0 "「商人」"
+EDG_FYM_copt_war.8.desc:0 "菲利普习惯于伊斯坎达尔的海风，他会在每年的第五月驾驶娜扎尼尔号前往西地中海，将萨哈达从红海进口的货物转手卖给西欧的商人。他每次都会赚的盆满钵满，金币与信仰一同进行着交换，最终为他在科普特人社群中赢得不小的声誉。在穆斯林与科普特的内战爆发后，他兢兢业业地为科普特军运送物资。他对手下的每名水手都极为信赖，每次行动都极为保密，而他的路线不可能被萨哈达那拙劣的由希腊人指挥的海军发现——当然，如果他的水手中有叛徒，情况可能会大不一样——但迄今为止，这样的情况并没有发生。\n\n当娜扎尼尔号如往常驶入伊斯坎达尔后，菲利普从腥咸的海风中嗅到了一丝不同往常的气息。来自西西里，法兰西，伊比利亚和马格里布的商船队安静地停靠在海湜中，但却没有任何一艘船只驶出，海湜内此刻也寂静的吓人，就连码头上也见不到几个工人。然而就在菲利普疑惑之时，桅杆上的船员突然高声喊道：\n\n「右舷，那是什么——？！」\n\n大家纷纷往右边的大灯塔处望去，只见那塔顶正燃烧着熊熊烈火，失去控制的火势让船员们感到了一丝不安。平静的海面上倒映着缓慢的娜扎尼尔号，而倒影上似乎还漂浮着一层流体……那是血液和油脂的混合物，只要一丝火星便能够点燃。\n\n忽然，高昂的号角声打破了空中的寂静，传入了菲利普的耳中。他十分清楚这是穆斯林军队的号角声，他在萨哈达征服的过程中听了无数次，但这次他却发现，自己站在了号角声的对面。他猛地意识到了什么，然后高喊着让大副加速驶离湜口，但为时已晚。\n\n不知从哪里冒出的战舰已经将退路堵死，在码头内躲藏的军队蜂拥而出，释放出的火焰点燃了海上的油脂。一瞬间，海面上燃起了熊熊烈火。\n\n船员们痛苦地尖叫着，迅速蔓延的火势将他们灼烧，破空的箭矢射断了他们的脖子，折断的桅杆彻底断送了希望。菲利普在被烈火烧死前，唯一知道的一件事便是：\n\n他被背叛了。"
+EDG_FYM_copt_war.8.a:0 "看见海面上倒映着的是什么了吗？那是杀戮与背叛。"
+
+EDG_FYM_copt_war.9.title:0 "「税务官」"
+EDG_FYM_copt_war.9.desc:0 "作为雅法当地的税务官，马修斯虽然以科普特人自居，但他本人十分清楚，这个「科普特人」的身份不过是他用来吸引纳税人的幌子罢了。而对于当地的穆斯林而言，这个满脑子都是金钱的税务官更是可恨。\n\n当萨哈达之祸开始时，雅法的科普特人纷纷前来寻求马修斯的庇护，以一些金钱为代价换取安全。一开始，马修斯仍然像过去那样虚情假意地接受基督徒们的金币，但随着战火越烧越烈，马修斯的罩袍下开始聚集越来越多的受害者时，政务官的内心开始了动摇。\n\n母亲为了孩子而死，父亲为了家庭而死，人性的光辉与丑恶在祸乱之时展现地淋漓尽致。马修斯可以用金钱利益欺骗自己，但他无法欺骗自己的感情。他曾假借耶稣基督之名欺瞒大众，但真的当基督徒愿意为信仰而死，甚至愿意为他那不到四岁的儿子而殉难时，马修斯第一次走进了残破的礼拜堂。\n\n雅法在燃烧，科普特人的队伍被火舌吞没。这是马修斯第一次虔诚的祷告，也是最后一次。\n\n穆斯林军队将「不信仰真神」的马修斯摁在地上，将金币塞满了他的嘴巴，直至下颚脱臼，直至他被自己征收来的金币活活噎死。在他临死前的最后一刻，不义的马修斯才真正成了一个皈依了主的罪人。"
+EDG_FYM_copt_war.9.a:0 "「我来这里不是为了召义人，而是召那罪人。」"
+
+EDG_FYM_copt_war.10.title:0 "「工程师」"
+EDG_FYM_copt_war.10.desc:0 "古典时期的希腊殖民时代为东地中海留下的众多遗产中，数量最多的便是希腊式石柱建筑。这些曾被用于供奉奥林匹斯众神的神殿在随后的岁月中被改建，希腊诸神的雕像被推倒，取而代之的则是十字架与新月。\n\n然而，这些历经了无数风雨日夜的柱石，最终却没能躲过冲突。当萨哈达之祸席卷四海之时，教区首席工程师詹姆斯仍然在工作岗位上辛勤地工作着。许多建筑师与艺术家无论宗教信仰，纷纷选择追随这位才华横溢的科普特大师，但在绝对的暴力面前，刀剑胜于书。\n\n为了表示对马利克屠杀行径的反对，詹姆斯选择用雕刻的艺术来作为武器，他在艺术界的号召力更是鼓舞了科普特人拿起武器反抗的勇气。然而可惜的是，想要扑灭抵抗之火的难度似乎远比想象中的要简单。\n\n当穆斯林军队用简易炸药毁坏了拥有数千年历史的希腊神殿后，仍然留在里面的詹姆斯根本来不及逃跑，最后的下场便是化成了黏在石柱上的一滩碎屑。"
+EDG_FYM_copt_war.10.a:0 "哪怕只有海风长存，也没有永世长存的异教神殿。"
+
+EDG_FYM_copt_war.11.title:0 "「圣徒」"
+EDG_FYM_copt_war.11.desc:0 "他们说，老好人达多是个“圣徒”，主曾亲自降下光辉，只为让达多继续在这世间行善，传播祂那福音。\n\n很多人都相信了，基督徒，穆斯林，哪怕是更加遥远之地的异教徒，在抵达了这商贾聚集之地后，都会被这所赡养院打动。在这物欲横流的罪恶之地，仍然有着这么一处不讲回报，唯以善行的地界。正是因为这十年如一日的无私奉献，达多才会被冠以“圣人”之名。\n\n但他从不这样认为。\n\n他不过是一个普通人，一个尽自己所能去帮助他人的普通人，无论对方是异端还是异教徒，也无论富贵与否。只要有需要，他便会出现。\n\n他或许是在行驶主的意志，但无论别人怎么想，达多并不在乎。他只希望看到那女孩嘴角的笑容，保护那抹微笑不被黑暗的利爪所伤害。\n\n自萨哈达之祸开始，“圣徒”之名已是亵渎之姿，胆敢冠以次称呼的人，定时那罪该万死的“赌徒，骗子，背叛者与强盗”。\n\n于是他便被倒吊了起来，一连七天七夜。那离了他身体的是血色，如同酒水般清澈，与街坊邻里的赤色一起，流过街道，汇入了尼罗河。\n\n如果有人问瞎子，尼罗河水是什么颜色？那瞎子肯定会说："
+EDG_FYM_copt_war.11.a:0 "「我宁愿自己是聋子。」"
+
+EDG_FYM_copt_war.12.title:0 "「女人」"
+EDG_FYM_copt_war.12.desc:0 "西蒙娜是东部边区起义的科普特人领袖，也是马利克的眼中钉，肉中刺。\n\n当马利克选择让马刀砍下那基督徒的脖子时，他自然也应该料到来自科普特人的匕首会刺入穆斯林的咽喉。冤冤相报何时了，同态复仇如今已霍乱了整片大地。\n\n然而对于西蒙娜的起义军来说，他们想做的只是活下去罢了。\n\n为了活下去，又是何等的困难？这责难起于无端，这战争绝非他们率先挑起，然而从天而降的灾祸却毁了一切。\n\n活下去！\n\n她的丈夫在临死前对她最后说道。\n\n当西蒙娜最后被带上行刑台时，在场的穆斯林没有料到，这个他们一直的梦魇，他们一直试图抓捕的起义军头子，居然是个……女子。"
+EDG_FYM_copt_war.12.a:0 "那又怎样？往她的嘴里灌水银！"
+
+EDG_FYM_copt_war.13.title:0 "「死人」"
+EDG_FYM_copt_war.13.desc:0 "「当你读到这段话时，说明我已经远离了这是非之地」\n\n「他们说我是疯子，说我是亵渎的异端，我想他们是对的。包头巾的家伙们在今天上午已经进了村子，哪怕是隔着房门我也能听见他们在外面的喊叫声。」\n\n「你可能会说，我活该，因为我的的确确写了许多看上去十分亵渎的话语，但我可以以性命起誓，我是一个真正的基督徒，任何人都无法改变这一点，即便大家都会认为我是一个叛徒。我不在乎，尽管这已经伤透了我的心。但如果我真的在乎，我为什么又选择在这时离开？」\n\n「智者向内寻求力量，但我的内心空无一物，那惊骇的屠杀让我夜不能寐，哪怕是短暂的闭眼也会让血色涌入我的大脑。锈铁的味道仿佛还在嘴角回荡，我无法遏制那冲动，更无法鼓起勇气喊出语言。」\n\n「是非与否，就让后人去说吧。我可能会被认为是一个叛徒，一个逃兵……」"
+EDG_FYM_copt_war.13.a:0 "「但至少我能见证后世，而那些留下了的，便是永远留下了。」"
+
+EDG_FYM_copt_war.14.title:0 "「司法官」"
+EDG_FYM_copt_war.14.desc:0 "萨哈达帝国对过去的所有镇压起义都取得了良好的成功，科普特人的人头堆叠成了一个又一个金字塔，一座座城市的科普特人被屠戮殆尽，这起到了十足的正面那效果——科普特人似乎逐渐安静了下来。但帝国对科普特人的迫害和屠戮仍然令所有科普特人都感到恐惧和不满，就连一向为帝国服务的科普特官僚都无法忍受。\n\n在帝国的旧都法尤姆，一名名为米海尔的司法官笼络了当地的科普特教会，并收买了当地的逊尼派长官，成功地发动了一场规模浩大的科普特起义！他杀死了当地的也门埃米尔，这一事件点燃了科普特人对帝国统治的反抗怒火。起义迅速蔓延至全国，科普特人团结起来，反对萨哈达帝国的压迫和剥削。米海尔成为起义的象征，他的行动再次激发了科普特人争取自由和宗教信仰自由的决心。"
+EDG_FYM_copt_war.14.a:0 "那又如何？我们会再次粉碎他们！"
+
+EDG_FYM_copt_war.15.title:0 "「弥赛亚」"
+EDG_FYM_copt_war.15.desc:0 "「弥赛亚回来了！」\n\n所谓的名为以撒的科普特大主教终于现身了，他再次回到了伊斯坎达尔，并在附近的一个科普特社区内发动了一场规模浩大的叛乱，当地的科普特人高呼弥赛亚的头衔，渴望推翻我们的统治。但当伊斯坎达尔的科普特人喊出这个口号时，他们忘了自己已经在过去的十年中流干了血，在那些时候，他们所谓的弥赛亚又在哪？\n\n叛乱在伊斯坎达尔迅速蔓延，以撒利用自己的宗教影响力，再度组织起了一支由信徒和激进分子组成的武装力量。他们攻占了城市的关键设施，并与帝国在当地的驻军发生了激烈的冲突。尽管他们声势浩大，但毫无疑问，他们实际上已经穷途末路了。"
+EDG_FYM_copt_war.15.a:0 "这场闹剧很快就要结束了。"
+EDG_FYM_copt_war_15_a_tt:0 "只要我们达成了结束§Y圣子降临§!的条件，即国内没有§R叛军§!且没有省份被叛军§R占领§!，那么我们将结束这场灾难。"
+
+EDG_FYM_copt_war.16.title:0 ""
+EDG_FYM_copt_war.16.desc:0 ""
+EDG_FYM_copt_war.16.a:0 ""
+
+EDG_FYM_copt_war.17.title:0 ""
+EDG_FYM_copt_war.17.desc:0 ""
+EDG_FYM_copt_war.17.a:0 ""
+
+EDG_FYM_copt_war.18.title:0 ""
+EDG_FYM_copt_war.18.desc:0 ""
+EDG_FYM_copt_war.18.a:0 ""
+
+EDG_FYM_copt_war.19.title:0 ""
+EDG_FYM_copt_war.19.desc:0 ""
+EDG_FYM_copt_war.19.a:0 ""
+
+#行省体系崩溃
+EDG_FYM_vassal_war:0 "行省体系崩溃"
+
+EDG_FYM_vassal_war.1.title:0 "行省体系崩溃"
+EDG_FYM_vassal_war.1.desc:0 "位于朝圣重要道路上的阿卡驿站站长易卜拉欣安坐于尘土飞扬公路旁的一座简朴木屋中，穿着一身朴素的服装，岁月的磨砺在他脸上刻下了深深的皱纹。他的眼神深邃且警觉，如同一名历经沧桑的战士，尽管身份平凡，却在这熙熙攘攘的驿站中肩负着重要的责任。在这条连接帝国的道路上，他是交汇的纽带，是来往旅客与驱赶风尘的故事的倾听者。\n\n虽然他地位卑微，但心中的热情与责任感常常促使他去关心驿站与旅客的每一个细节。他努力保持驿站的整洁，确保来往的人们可以在此暂时栖息，喝上一杯热茶，享受片刻的安眠。在他的心里，这不仅仅是职责所在，更多的是对这片土地与人民的深切热爱。每当黄昏降临，易卜拉欣便会站在门口，目送一队队马车驶过，车轮与地面的摩擦声在空气中回响。他的心中明白，路上的行人不仅仅承载着个人的旅途，更承载着各地纷繁复杂的权力游戏。那些高高在上的总督们，往往视他如同一块无足轻重的石子，然而，他却拥有着独特的视角，目睹着权力如何在这片辽阔新疆域中悄然变迁。随着时间的推移，驿站站长渐渐意识到，中央的权威在这片土地上逐渐消弱，为地方总督们的崛起提供了松散的土壤。每当一位总督与他周围飞扬跋扈的随从威风凛凛地走进驿站，站长心中便会浮现出一丝不安。地方总督的权力网开始如坚韧的藤蔓，悄然攀附于四面八方的土壤，滋养起一片片自成一体的势力。虽然他微不足道，但在这即将到来的风暴中，他却能感受到即将改变的不仅仅是帝国的命运，也是他自身的生活。\n\n站长在每一个深夜，孤独地坐在驿站后院的木凳上，望着远处的星空，心中思索着未来的变数，伴随着远处马蹄声的回响，似乎预示着即将来临的动乱。他知道，在这片土地上，或许他无法改变历史的走向，但他会用自己的方式继续守护驿站，守护那些迷失的旅人和即将到来的风。\n\n第二天，驿站收到了新的消息——\n\n帝国最强大的总督举起了反旗。\n\n很快，令人忧心的讯息也传至[Root.Monarch.GetName]宫中。[Root.GetUsableName]地方行政的核心所在——各个行省，已经开始公开违抗[Root.Monarch.GetTitle]。「连[Root.Monarch.GetHerHis][Root.Capital.GetName]寝宫都无法掌控的苏丹不配对行省作威作福」，瓦利和阿迦已经宣布脱离[Root.GetName]、事实独立，不再听命于他人。"
+EDG_FYM_vassal_war.1.aa:0 "大的穹顶难免垮塌，辽阔的帝国难免离心。"
+EDG_FYM_vassal_war.1.bb:0 ""
+EDG_FYM_vassal_war.1.bb:0 ""
+
+EDG_FYM_vassal_war.2.title:0 "行省叛乱的终结"
+EDG_FYM_vassal_war.2.desc:0 "随着号角声的响起，帝国军队如破晓晨光，撕裂了地方割据的黑暗，带着无畏的气势向敌对势力发起进攻。那些曾经威风凛凛的总督，在这汹涌而至的铁骑面前，犹如风中草芥，被瞬间吞噬于血雨腥风之中。他们的士卒作鸟兽散，昔日的总督府化作被遗忘的瓦砾。\n\n尽管烈日鞭笞，沙尘蔽日，但[Root.Monarch.GetName]与他的禁军始终在漫天的沙尘中前进。最终他们抵达了碧波荡漾的约旦河。当日的决战规模浩大，其惨烈程度足以让最理性的诗人都慷慨激昂。但是当波斯的总督跪在[Root.Monarch.GetTitle]脚下后，时间将会证明帝国是永不崩溃的。"
+EDG_FYM_vassal_war.2.aa:0 "萨哈达的国土没有尽头。"
+EDG_FYM_vassal_war.2.bb:0 ""
+
+EDG_FYM_vassal_war.3.title:0 "行省谋求独立"
+EDG_FYM_vassal_war.3.desc:0 "[Root.Monarch.GetName]得到了一个不好的消息，我们在[EDG_FYM_vassal_war_3_target_country.GetName]委任的总督希望谋求独立，脱离我们的统治。但如果我们能适当地给予他们想要的东西，他们或许愿意在一段时间内放弃自己的诉求……"
+EDG_FYM_vassal_war.3.aa:0 "我们必须安抚他们。"
+EDG_FYM_vassal_war.3.bb:0 "让他们用剑来拿！"
+
+EDG_FYM_vassal_war.4.title:0 "总督被篡权！"
+EDG_FYM_vassal_war.4.desc:0 "我们在[EDG_FYM_vassal_war_3_target_country.GetName]委任的总督遭到了谋杀！一个名为[EDG_FYM_vassal_war_3_target_country.Monarch.GetName]的地方官篡夺了前任总督的权力，并自称[EDG_FYM_vassal_war_3_target_country.GetName]的[EDG_FYM_vassal_war_3_target_country.Monarch.GetTitle]。我们的其他属国对这一行径感到极为不满，若我们不能惩罚这个篡权者，其它的属国很可能会因此背离我们！"
+EDG_FYM_vassal_war.4.aa:0 "只要他愿意承认我们的宗主权。"
+EDG_FYM_vassal_war.4.bb:0 "我们拒绝承认他们的谋逆行为。"
+
+EDG_FYM_vassal_war.5.title:0 "成功镇压叛乱"
+EDG_FYM_vassal_war.5.desc:0 "我们不忠诚的藩属发动了独立战争，但随着帝国铁蹄的介入，他们的一切幻想都华为了泡影。"
+EDG_FYM_vassal_war.5.aa:0 "[Root.GetName]笑到最后！"
+EDG_FYM_vassal_war.5.bb:0 ""
+
+EDG_FYM_vassal_war.6.title:0 "动荡的帝国与仁慈的法赫达"
+EDG_FYM_vassal_war.6.desc:0 "[Root.Monarch.GetName]有一位名叫法赫达的王子，他以其卓越的智慧和果断的手腕，将自己在阿达尔行省的封地治理得井井有条。他的封地成为了帝国的经济中心之一，阿达尔的诸多城市蓬勃发展，吸引了大量的商人和投资者。同时，他也积极推动军事改革，提高了所在行省军队的战斗力，使得阿达尔在地方南方的影响力不断扩大。\n\n令人出奇并津津乐道的是，法赫达并没有继承[Root.Monarch.GetName]和历任大马利克的残暴性格，对于那些不服从他的官员，他会毫不留情地进行惩罚，但很少虐杀自己的下属。也正是因为他的仁慈与悲悯，他在朝廷中的影响力日益增强，许多大臣，尤其是位高权重的大毛拉和马穆鲁克都对他寄予了厚望。\n\n法赫达的政治成就和对帝国的忠诚，使得[Root.Monarch.GetName]的许多近臣支持他，并提议让他成为帝国的储君，取缔一向被认为过于残暴的[Root.Heir.GetName]。鉴于帝国在行省叛乱后面临的动荡不安、人心思变的局面，他们认为法赫达的统治能力和仁慈将能够带领[Root.GetName]走向更加辉煌的未来。"
+EDG_FYM_vassal_war.6.aa:0 "一位仁君？……"
+EDG_FYM_vassal_war.6.bb:0 "我们有别的选择。"
+
+EDG_FYM_vassal_war.7.title:0 "动荡的帝国与仁慈的法赫达"
+EDG_FYM_vassal_war.7.desc:0 "[Root.Monarch.GetName]有一位名叫法赫达的王子，他以其卓越的智慧和果断的手腕，将自己在阿达尔行省的封地治理得井井有条。他的封地成为了帝国的经济中心之一，阿达尔的诸多城市蓬勃发展，吸引了大量的商人和投资者。同时，他也积极推动军事改革，提高了所在行省军队的战斗力，使得阿达尔在地方南方的影响力不断扩大。\n\n令人出奇并津津乐道的是，法赫达并没有继承[Root.Monarch.GetName]和历任大马利克的残暴性格，对于那些不服从他的官员，他会毫不留情地进行惩罚，但很少虐杀自己的下属。也正是因为他的仁慈与悲悯，他在朝廷中的影响力日益增强，许多大臣，尤其是位高权重的大毛拉和马穆鲁克都对他寄予了厚望。\n\n法赫达的政治成就和对帝国的忠诚，使得[Root.Monarch.GetName]的许多近臣支持他。眼下，帝国恰好没有储君，许多大臣都提议让法赫达成为帝国的储君。鉴于帝国在行省叛乱后面临的动荡不安、人心思变的局面，他们认为法赫达的统治能力和仁慈将能够带领[Root.GetName]走向更加辉煌的未来。"
+EDG_FYM_vassal_war.7.aa:0 ""
+EDG_FYM_vassal_war.7.bb:0 ""
+
+EDG_FYM_vassal_war.8.title:0 ""
+EDG_FYM_vassal_war.8.desc:0 ""
+EDG_FYM_vassal_war.8.aa:0 ""
+EDG_FYM_vassal_war.8.bb:0 ""
+
+EDG_FYM_vassal_war.9.title:0 ""
+EDG_FYM_vassal_war.9.desc:0 ""
+EDG_FYM_vassal_war.9.aa:0 ""
+EDG_FYM_vassal_war.9.bb:0 ""
+
+EDG_FYM_vassal_war.10.title:0 ""
+EDG_FYM_vassal_war.10.desc:0 ""
+EDG_FYM_vassal_war.10.aa:0 ""
+EDG_FYM_vassal_war.10.bb:0 ""
+
+EDG_FYM_vassal_war.11.title:0 ""
+EDG_FYM_vassal_war.11.desc:0 ""
+EDG_FYM_vassal_war.11.aa:0 ""
+EDG_FYM_vassal_war.11.bb:0 ""
+
+EDG_FYM_vassal_war_when_we_win_tt:0 "只要我们在该§Y灾难§!中，当我们对属国的战争分数达到§M75§!分后，我们将达成§Y无条件和平§!，对方将依然是我们的§Y属国§!，并降低§M100§!点独立倾向。被击败过的属国将不会再触发灾难事件。"
+
+EDG_FYM_vassal_war_4_a_opinion_modifier:0 "不能维护我们的权益"
+
+ EDG_FYM_eyalet_rebellion_events.3.t:0 "[angry_eyalet.GetName]拒绝服从！"
+ EDG_FYM_eyalet_rebellion_events.3.desc:0 "多年的自治让[angry_eyalet.GetName]的[angry_eyalet.Monarch.GetTitle]相信[angry_eyalet.Monarch.GetSheHe]是一位独立的马利克。[angry_eyalet.Monarch.GetSheHeCap]与[angry_eyalet.Monarch.GetHerHis][angry_eyalet.GetAdjective]的臣民常常抗拒[Root.Monarch.GetTitle][Root.Monarch.Getname]的命令。"
+ EDG_FYM_eyalet_rebellion_events.3.a:0 "砍了[angry_eyalet.Monarch.GetHerHisCap]脑袋！"
+ EDG_FYM_eyalet_rebellion_events.4.t:0 "[angry_eyalet.GetName]逃税"
+ EDG_FYM_eyalet_rebellion_events.4.desc:0 "行省是我们帝国的行政区划，因此应该与马利克本人持有的核心领土或省份没有什么区别。然而，由于帝国的广袤，实际上并非如此，因此一个行省必须由马利克的代表来统治。\n不幸的是，[angry_eyalet.GetName]的[angry_eyalet.Monarch.GetTitle]不按照行省的惯例纳税。如果我们容忍[angry_eyalet.Monarch.GetHerHim]的这种反抗，其他臣属领土也会有类似的想法……"
+ EDG_FYM_eyalet_rebellion_events.4.a:0 "行省少缴税，我们一样过日子。"
+ EDG_FYM_eyalet_rebellion_events.4.b:0 "我们不能向我们的属国示弱。收回这笔税款！"
+ EDG_FYM_eyalet_rebellion_events.5.t:0 "宗亲造反！"
+ EDG_FYM_eyalet_rebellion_events.5.desc.son:0 "[angry_eyalet.GetName]的重大讯息已经传至[Root.Monarch.GetName]耳畔。[Root.Monarch.GetHerHisCap]亲生骨肉已经厌倦了等待，乘机在[angry_eyalet.GetName]集结起叛军，反抗自己的亲生[Root.Monarch.GetMotherFather]！显然他已经等不及登上大位。"
+ EDG_FYM_eyalet_rebellion_events.5.desc.brother:1 "[angry_eyalet.GetName]的重大讯息已经传至[Root.Monarch.GetName]耳畔。[Root.Monarch.GetHerHisCap]同胞血亲已经厌倦了等待，乘机在[angry_eyalet.GetName]集结起叛军，反抗自己的至亲[Root.Monarch.GetSisterBrother]！他对先父指定[Root.Monarch.GetName]为继承者的决定心怀不满，企图在[angry_eyalet.GetName]自立门户。"
+ EDG_FYM_eyalet_rebellion_events.5.a:0 "这不仅是背叛了我，更是背叛了整个萨哈达家族！"
+
+ EDG_FYM_eyalet_rebellion_events.tt:0 "§Y独立叛军§!将代表§Y[angry_eyalet.GetName]§!发动§Y独立战争§!以强制满足其要求。"
+EDG_FYM_eyalet_rebellion_events.6.a:0 "他们真的有自认为的那么伟大吗？"
+EDG_FYM_eyalet_rebellion_events.6.b:0 "那我们会将他们杀得人头滚滚。"
+
+ EDG_FYM_eyalet_rebellion_events.7.t:0 "埃及要求更多自治权"
+ EDG_FYM_eyalet_rebellion_events.7.desc:0 "埃及行省向[Root.Monarch.GetTitle]发出了最后通牒：他们要求更多的自主权，否则他们会对我们发动独立战争！"
+ EDG_FYM_eyalet_rebellion_events.7.a:0 "为你们的独立来送死吧！"
+ EDG_FYM_eyalet_rebellion_events.7.b:0 "[angry_eyalet.GetName]只会给我们添麻烦。让他们独立。"
+ EDG_FYM_eyalet_rebellion_events.7.c:0 "好吧。我们会给他们自主权。"
+ EDG_FYM_eyalet_rebellion_events.8.t:0 "波斯叛乱"
+ EDG_FYM_eyalet_rebellion_events.8.desc:1 "自我们征服波斯地区开始，这里就一直是[Root.Monarch.GetTitle]的眼中钉。尽管曾经强大的帖木儿王朝、伊尔汗国和萨法维王朝已不复存在，但[angry_eyalet.GetName]和[Root.GetUsableName]臣民之间的宗教和文化差异仍然引起了许多冲突。\n不难料想[angry_eyalet.Monarch.GetTitle][angry_eyalet.Monarch.GetName]会以[angry_eyalet.Monarch.GetHerHis]实际行动来反抗我们，除非我们授予[angry_eyalet.GetName]更多的自主权。"
+ EDG_FYM_eyalet_rebellion_events.9.t:0 "波斯要求更多自治权"
+ EDG_FYM_eyalet_rebellion_events.9.desc:0 "波斯行省向[Root.Monarch.GetTitle]发出了最后通牒：他们要求更多的自主权，否则他们会对我们发动独立战争！"
+ EDG_FYM_eyalet_rebellion_events.10.t:0 "欧洲叛乱"
+ EDG_FYM_eyalet_rebellion_events.6.c:0 "我们会晓之以利害。"
+ EDG_FYM_eyalet_rebellion_events.10.desc:0 "巴尔干半岛以外的欧洲领土由我们最信任的行省管辖。然而，他们的忠诚并没有像希望的那样得到保证。[angry_eyalet.GetName]公开反抗我们并要求更多的自主权。"
+ EDG_FYM_eyalet_rebellion_events.11.t:0 "欧洲要求更多自治权"
+ EDG_FYM_eyalet_rebellion_events.11.desc:0 "[angry_eyalet.GetName]向[Root.Monarch.GetTitle]发出了最后通牒：他们要求更多的自主权，否则他们会对我们发动独立战争！"
+ EDG_FYM_eyalet_rebellion_events.12.t:0 "[tur_revolter_province.GetName]的分离主义者叛乱"
+ EDG_FYM_eyalet_rebellion_events.12.desc:1 "[tur_revolter_province.GetName]的波斯臣民对我们在波斯的统治表示不满，他们怀念萨法维王朝的虔诚，甚至怀念伊尔汗国的时代。由于[tur_revolter_province.Culture.GetName]和[Root.Culture.GetName]之间的宗教和文化差异，他们渴望萨法维王朝统治的日子，并蔑视整个萨哈达家族。"
+ EDG_FYM_eyalet_rebellion_events.12.a:0 "消灭这些叛军。"
+ EDG_FYM_eyalet_rebellion_events.13.t:0 "[tur_revolter_province.GetName]的分离主义者叛乱"
+ EDG_FYM_eyalet_rebellion_events.13.desc:2 "[tur_revolter_province.GetName]的埃及臣民对我们对埃及的统治表示不满。他们怀念马穆鲁克马利克国时代，希望建立一个埃及民族国家。"
+ EDG_FYM_eyalet_rebellion_events.14.t:0 "[tur_revolter_province.GetName]的分离主义者叛乱"
+ EDG_FYM_eyalet_rebellion_events.14.desc:0 "[tur_revolter_province.GetName]的欧洲臣民对我们对欧洲领土的统治表示不满。他们希望回到一个遵循基督教价值观的基督教国家统治下。\n我们对他们的无知感到惊讶。"
+
+#阿里之子
+EDG_FYM_Shiite_war_can_end_flag_trggier_tt:0 "我们在灾难§R阿里之子§!中击败了§Y萨法维§!或者§Y法蒂玛§!"
+EDG_FYM_Shiite_war:0 "阿里之子"
+
+EDG_FYM_Shiite_war.1.title:0 "艾哈迈德案"
+EDG_FYM_Shiite_war.1.desc:0 "帝国的宗教系统并不能让所有人满意，行政系统更是如此。在前不久，一场严重的腐败案件掀起了一场舆论的巨浪，涉案的官员之多、地位之高，令[Root.Monarch.GetTitle]都不得不为之汗颜，这场腐败案的主角名为易卜拉欣·艾哈迈德，该案件被后来的史学家称为「艾哈迈德大案」。\n\n一位名叫艾哈迈德的穆斯林学者，他因揭露了一位高级官员的腐败行为而遭到了陷害。艾哈迈德掌握了大毛拉与外国势力勾结，走私国家财富的证据。为了消除威胁，大毛拉设计了一个阴谋，诬陷艾哈迈德是异端，并在一场宗教审判中将他判处死刑。相传，艾哈迈德在被处决前，向一位忠诚的学生托梦，告诉他自己的冤屈和藏有证据的地点。学生在艾哈迈德死后，秘密地找到了这些证据，将这些罪证悄悄代入首都，并亲手递交给了帝国的最高司法官。\n\n这一腐败案件牵涉到了尤其多的乌理玛，为首的大毛拉正是什叶派的大毛拉。大量的什叶派教徒对帝国的宗教体系尤其是什叶派管理失望透顶，各地都出现了萨哈达不再有资格统治什叶派教徒的传言，他们认为唯有阿里的继承人，才能代表安拉……而萨哈达王朝的统治者，并没有阿里的血脉。"
+EDG_FYM_Shiite_war.1.a:0 "还能有别人可以代表安拉？"
+EDG_FYM_Shiite_war.1.b:0 ""
+EDG_FYM_Shiite_war_1_a_tt:0 "我们信仰§Y什叶派§!的§M省份§!和§M行省§!将会发动叛乱。"
+
+EDG_FYM_Shiite_war.2.title:0 "阿里的继承者"
+EDG_FYM_Shiite_war.2.desc:0 "随着我们粉碎了什叶派所支持的「阿里的继承者」的反叛，帝国再度恢复了和平。事实证明，所谓的「阿里之子」根本无法继承安拉的意志，萨哈达王朝的统治才是符合安拉意愿，并为历史所证明的。尽管这场规模空前的什叶派叛乱为我们带来了极大的混乱和重大的损失，但我们也借此血洗了整个什叶派宗教系统，并屠戮了哪些潜藏于各个行省的叛国者。\n\n无论如何，这场叛乱，这场大屠杀，终将成为帝国历史上浓墨重彩的一笔。从此之后，世人都将明白，[Root.Monarch.GetTitle]才是真主的唯一代表。"
+EDG_FYM_Shiite_war.2.a:0 "唯有[Root.Monarch.GetTitle]与安拉永恒。"
+EDG_FYM_Shiite_war.2.b:0 ""
+
+EDG_FYM_Shiite_war.3.title:0 "伪哈里发"
+EDG_FYM_Shiite_war.3.desc:0 "[Root.Monarch.GetTitle]对马格里布急如奔马的征服征服自然为人们所津津乐道，但快速的征服所带来的隐患也相当明显。随着帝国的版图西抵安达卢斯，东达里海之时，马格里布的「柏柏尔」战士和什叶派社群的不满也已到了迸发的边缘。\n凭什么埃及的马穆鲁克可以趾高气扬的对自己发号施令？为何开罗的教法学者对本地长老毫无尊敬之心？又为什么，他们要穷尽自己的财富、拼尽自己的血液来为一个也门的贱种卖命？\n而法蒂玛王朝的统治至少会为诸部族带来稳定和特权，马格里布的诸多部族，尤其是崇尚自由的柏柏尔人怀念法蒂玛时代，并试图联络当地的什叶派乌理玛，希望获取各种形式上的正当性。\n\n不仅如此，青色野心之火同样撩动着其它的什叶派叛逆者们，他们厌倦了萨哈达王朝对行省的巨大束缚，希望能够从新主人的特许状中获得更多的特权——有什么比阿里与法蒂玛之裔、埃及曾经的统治者，什叶派的伊玛目——长者阿卜杜拉的后裔更合适的旗帜呢？\n现在，这位伪「哈里发」已然宣告马格里布地区的独立，并向更多的什叶派行省发出了邀请，呼召马格里布和什叶派对萨哈达马利克发动其所谓的「吉哈德」"
+EDG_FYM_Shiite_war.3.a:0 "这帮易卜劣斯的走狗！"
+EDG_FYM_Shiite_war.3.b:0 ""
+EDG_FYM_Shiite_war_3_a_tt:0 "若您是初次游玩@FYM萨哈达且不知道流程，请将此提示截图下来，并保存/发送到你可以查阅的地方。\n\n在该灾难中使用控制台请使用「winwars」，不要「integrate」，§R后者会出bug§!\n\n@FDM法蒂玛§Y哈里发§!已经被§Y什叶派§!拥立！以下效果已经发生：\n-我们和我们属国拥有的所有位于§M马格里布§!的省份和信仰§Y什叶派§!的行省已经§R归降§!了@FDM法蒂玛§Y哈里发§!\n-@FDM法蒂玛已经重获新生，他们将成为独立的§Y法蒂玛哈里发§!，我们将§R无法§!再使用§Y法蒂玛哈里发§!机制\n-@FDM法蒂玛已经与我们§R交战§!！\n-当我们对@FDM法蒂玛的战争分数达到§M60分§!或法蒂玛不存在，我们将触发结局事件§M「法蒂玛的匍匐」§!"
+
+
+EDG_FYM_Shiite_war.4.title:0 "萨法维之祸"
+EDG_FYM_Shiite_war.4.desc:0 "伊朗人有着深入骨髓的傲慢，他们从不愿意接受马利克的权威。这不仅是因为我们称这些不通阿拉伯语的人为阿贾姆（哑巴），也不仅因为我们更偏好使用奴隶而非自由人作为高官，更在于他们离经叛道的宗教态度和过度的苏菲主义。\n\n在这里，文盲士兵与最博学的乌理玛一样热衷于参与这种神秘而模糊不清的交流。马利克必须在充满符号——预兆、奇异的宇宙观和所谓隐秘力量——的政治环境中运筹帷幄。这些符号在伊朗的土地上比任何准则、理想或法律传统都更加普遍和真实。\n\n然而，马利克根本不可能也无法做到这点——这种统治要求君主消耗其大量的时间和精力找到那些以分散的形式存在于整个广泛的文化领域中的文化场所并展示出与之互动的能力——萨哈达国家政治结构决定了马利克不可能采取这种方式施行统治。\n\n而这就导致了那些中间群体——如圣人、苏菲、说书人、占星家和医生等群体——在地方权力及影响的急速膨胀。阿尔达比勒的萨法维耶正是这其中的佼佼者，萨法维教团的领袖[ARL.Monarch.GetName]，在波斯的地位如此显赫，以至于有无数的谢赫和毛拉前去拜访他，对他说：「我们与库特布——即世界中心的轴心人物——有联系。他称你为‘真主之狮’（Hizibrullah），你将征服埃及的萨哈达人。」\n\n而今，萨法维的谢赫狂妄自大的后人已经自称阿里的化身举起叛逆的旗帜，他麾下狂热的土库曼人戴着作为他虚妄信条之奴隶象征的「海达尔之冠」向我们宣战。"
+EDG_FYM_Shiite_war.4.a:0 "我要抽出他的脊椎！掘开萨法维丁的圣陵！"
+EDG_FYM_Shiite_war.4.b:0 ""
+EDG_FYM_Shiite_war_4_a_tt:0 "若您是初次游玩@FYM萨哈达且不知道流程，请将此提示截图下来，并保存/发送到你可以查阅的地方。\n\n在该灾难中使用控制台请使用「winwars」，不要「integrate」，§R后者会出bug§!\n\n@ARL萨法维已经被§Y波斯§!拥立！以下效果已经发生：\n-我们和我们属国拥有的所有位于§M波斯布§!的省份已经§R归降§!了@ARL萨法维\n-@ARL萨法维已经与我们§R交战§!！\n-当我们对@ARL萨法维的战争分数达到§M60分§!或萨法维不存在，我们将触发结局事件§M「萨法维的覆灭」§!\n-若§Y伊斯玛仪§!尚未崛起，他将成为我们的敌人。"
+
+
+EDG_FYM_Shiite_war.5.title:0 "法蒂玛的匍匐"
+EDG_FYM_Shiite_war.5.desc:0 "随着法蒂玛叛军逐渐陷入下风，马格里布的什叶派长老们便又动了投降的心思，当他们的代表走到班加西时正是聚礼日，他们便先停下准备做了礼拜再继续前行。\n然而萨哈达的马利克突然出现在等待聚礼的长老们面前。他揭开蒙在头上的围巾登上讲台说：「我的祖先曾拨云雾而登高，入开罗而治天下，揭开头巾你们就看清我的真实面貌。」\n他边示意卫士将这些反复无常的小人拖下去，边接着说对他们说：「我确信，我看见许多头颅已经成熟，而我就是收割的人。我仿佛看到许多头巾与下颌之间流动着的鲜血。你们动辄暴乱……指主发誓，我要像剥树皮那样剥去你们的皮，我要像捆细枝条那样捆绑你们，我要像鞭笞脱离正道的骆驼那样抽打你们」"
+EDG_FYM_Shiite_war.5.aa:0 "「我应许的，就一定办到。」"
+EDG_FYM_Shiite_war.5.b:0 ""
+
+EDG_FYM_Shiite_war.6.title:0 "萨法维的覆灭"
+EDG_FYM_Shiite_war.6.desc:0 "波斯人将其叛逆的期望寄托于萨法维谢赫的子嗣身上，他们将阿里的佐勒卡菲尔纹在胸前、脖子上戴着项圈，头上顶着犹如驴子尾巴般丑陋的红帽，这使得他们充斥着无畏的勇敢.......\n但他们似乎忘了一件事，如果萨法维谢赫的所谓阿里血统为真，其子黑衣阿里对帖木儿做出的预言为何没有实现？如果萨法维耶的力量比萨哈达的马利克还要强大，为什么他们起兵前要受马利克的统治？如果......如果他们真有天命，为何现在胜利的确是我们？为何阿塞拜疆道路两侧挂满了萨法维叛逆的头颅！这些波斯人，天生卑贱，不知敬畏，不识明主，合该尽数戮之。"
+EDG_FYM_Shiite_war.6.aa:0 "哪怕是阿里本人，也必须向[Root.Monarch.GetName]跪下！"
+EDG_FYM_Shiite_war.6.bb:0 ""
+
+
+#萨哈达通用
+
+ EDG_FYM_disaster_CivilWar_EVTNAME3092:0 "寻求支持"
+ EDG_FYM_disaster_CivilWar_EVTDESC3092:2 "[Root.GetAdjective]的内部战争愈发激烈，埃及的官僚、也门的埃米尔，他们都在试图在混乱中捞一杯羹。如今，反对$MONARCH$的力量不断在阴影中积攒力量，他们抛弃了古兰经中所赞扬的每一种美德，反对[Root.GetAdjective]的统治者。与此同时，宫廷中的瓦哈比无意间让$MONARCH$意识到，我们可以向$COUNTRY$的盟友[ally_country.GetUsableName]请求援助。"
+ EDG_FYM_disaster_CivilWar_EVTOPTA3092:0 "向[ally_country.GetName]请求援助。"
+ EDG_FYM_disaster_CivilWar_EVTOPTB3092:1 "萨哈达的子嗣不需要外人帮助！"
+
+ EDG_FYM_disaster_CivilWar_EVTNAME3093:0 "外戚作乱"
+ EDG_FYM_disaster_CivilWar_EVTDESC3093:1 "王室联姻本是喜事，萨哈达王朝与诸多贝都因部族的谢赫都有联姻，但有鉴于[Root.GetAdjective]的[Root.Monarch.GetTitle]和地方势力之间的激烈冲突造成贫弱的环境下，这不啻是一个诅咒。一些外戚假借[Root.Monarch.GetTitle]的威名，乘机扩大其在我国的影响力，并试图在地方掠去更大的权力。他们已把目光投向了[inlaws_province.GetName]。除非我们采取行动，否则[Root.Monarch.GetTitle]在此地的权威会大大减少。"
+ EDG_FYM_disaster_CivilWar_EVTOPTA3093:0 "他们必须人头落地！"
+ EDG_FYM_disaster_CivilWar_EVTOPTB3093:0 "仁慈是必须的……"
+
+ EDG_FYM_disaster_CivilWar_EVTNAME3094:1 "[Root.GetCapitalName]陷落"
+ EDG_FYM_disaster_CivilWar_EVTDESC3094:1 "$PROVINCENAME$的大部分已经陷入叛军之手，[Root.GetAdjective]的权威已经不在此地闪耀了。尽管[Root.GetAdjective]的军队仍然战无不胜，但在这里，我们的军队不得不撤退，我们的支持者不得不躲藏。只有[Root.GetCapitalName]仍在坚守。但随着我们在当地任命的埃米尔的叛逃，整个省份的陷落只是时间问题。"
+ EDG_FYM_disaster_CivilWar_EVTOPTA3094:0 "我们誓要将那些叛匪分尸！"
+ EDG_FYM_disaster_CivilWar_EVTOPTB3094:0 "我们别无他法。"
+
+ EDG_FYM_disaster_CivilWar_EVTNAME3095:0 "士兵溃逃"
+ EDG_FYM_disaster_CivilWar_EVTDESC3095:1 "尽管我们的马穆鲁克和埃米尔们十分优秀，但帝国长期的动荡让部队中的普通军士士气低落。大批逃兵甚至加入叛乱队伍。如果这种现象长期持续下去，我们很快就会发现我们无力阻止叛军接管我们的国家。一些马穆鲁克已经开始采取将逃兵剥皮示众的方式警告军队中的剩余成员，但似乎这并不能激起普通士兵的热情。一些埃米尔提议，如果我们能犒赏有功的军士，或许事情能有转机。"
+ EDG_FYM_disaster_CivilWar_EVTOPTA3095:0 "犒赏有功之人，将逃兵剥皮示众。"
+ EDG_FYM_disaster_CivilWar_EVTOPTB3095:0 "为帝国征战是他们不可推卸的义务。"
+
+ EDG_FYM_disaster_CivilWar_EVTNAME6018:0 "帝国秩序的瓦解"
+ EDG_FYM_disaster_CivilWar_EVTDESC6018:1 "内战使我们的国家陷入了长久的痛苦。尽管萨哈达帝国多次面临巨大的危机，帝国内的许多人并未忘却马利克战争的伤痛，但近期的混乱仍然消耗了我们的精力，使我们变得脆弱且易受外敌侵略。我们需要采取大规模的措施以恢复我们国家的荣耀并在一切都变得太晚之前终止内斗。"
+ EDG_FYM_disaster_CivilWar_EVTOPTA6018:0 "我们什么都做不了。"
+ EDG_FYM_disaster_CivilWar_EVTOPTB6018:1 "我们连马利克战争都湎过了，没有什么能击垮我们。"
+ EDG_FYM_disaster_CivilWar_EVTOPTC6018:1 "我们肯定有机会收买一些对手。"
+
+ EDG_FYM_disaster_CivilWar_EVTNAME6019:1 "马穆鲁克要求特权"
+ EDG_FYM_disaster_CivilWar_EVTDESC6019:1 "国内的动荡似乎毫无止境！哪怕是在[Root.Capital.GetName]，我们最忠诚的马穆鲁克也都跳出来威胁我们，声称如果不能改变做法、遵从他们的要求，他们就将抛弃我们——尽管他们的要求是如此无理，完全就是趁着混乱谋取私利，注定将帝国拖向腐败的深渊。[Root.Capital.GetName]无法容忍这一切，我们必须尽快采取措施，以免[Root.GetUsableName]的混乱脱离控制。"
+ EDG_FYM_disaster_CivilWar_EVTOPTA6019:1 "你们也想被凌迟示众吗？"
+ EDG_FYM_disaster_CivilWar_EVTOPTB6019:1 "做出让步吧，我们担不起失去他们支持的风险。"
+
+ EDG_FYM_disaster_CivilWar_EVTNAME6020:1 "[Root.Get黑人宦官Name]的盘剥"
+ EDG_FYM_disaster_CivilWar_EVTDESC6020:1 "[Root.Get黑人宦官Name]是在[Root.Monarch.GetTitle]宫廷内的黑人宦官，他们脱离任何阶层，以[Root.Monarch.GetTitle]家奴的身份为[Root.Monarch.GetTitle]服务。在正在持续的混乱中，小而有力的政治派系纷纷涌现，它们之中的每一个都在试图通过争取我们宫廷中举足轻重的[Root.Monarch.GetTitle]对他们的支持来取得优势，为此，他们不惜花费大笔钱财进行行贿。面对帝国暴露于外的腐败现象，有些人强烈反对，但[Root.Monarch.GetTitle]对此不闻不问。直到近期，一群地方官向[Root.Monarch.GetTitle]举报了其名下的[Root.Get黑人宦官Name]对他们和他们的管辖地所施加的盘剥和敲诈。这些地方官表示，因为那些宦官的盘剥，自己所在的省份已经没有可供政府运行的资金了，若[Root.Monarch.GetTitle]不能伸以援手，当地可能很快就要爆发叛乱。"
+ EDG_FYM_disaster_CivilWar_EVTOPTA6020:0 "严惩这些[Root.Get黑人宦官Name]，并为我们的官员拨款。"
+ EDG_FYM_disaster_CivilWar_EVTOPTB6020:0 "[Root.Monarch.GetTitle]心里装的是九州万方。"
+
+ EDG_FYM_disaster_CivilWar_EVTNAME6021:0 "埃米尔请求增派军饷"
+ EDG_FYM_disaster_CivilWar_EVTDESC6021:1 "一位对我们保持效忠的埃米尔向我们送来了求助信，他们现在缺乏用于战胜叛军的资金，并因此遇到了军事困境。他们向我们请求经济支持以继续作战并帮我们结束这场混乱，并向[Root.Monarch.GetTitle]尽忠。"
+ EDG_FYM_disaster_CivilWar_EVTOPTA6021:0 "他们不愧是帝国的柱石！"
+ EDG_FYM_disaster_CivilWar_EVTOPTB6021:0 "若他们真的忠诚，就不会向我们索要钱财。"
+
+ EDG_FYM_disaster_CivilWar_EVTNAME6022:1 "马穆鲁克中的异议"
+ EDG_FYM_disaster_CivilWar_EVTDESC6022:1 "我们麾下的马穆鲁克中出现了一些和平的声音。他们当中并非所有人都支持与[Root.Monarch.GetTitle]的交易。一个[rebel_province.Culture.GetName]人已经在派系当中获得了可观的影响力，并为他的人民要求更多的自治权。他威胁如果我们拒绝他的要求，他将会加入叛军。"
+ EDG_FYM_disaster_CivilWar_EVTOPTA6022:1 "他们会领悟萨哈达家族的残忍。"
+ EDG_FYM_disaster_CivilWar_EVTOPTB6022:0 "支持其中一个派系。"
+ EDG_FYM_disaster_CivilWar_EVTOPTC6022:1 "仁慈是最危险的毒药，但我们答应他的条件。"
+
+ EDG_FYM_disaster_CivilWar_EVTNAME6023:1 "马穆鲁克集团的叛离"
+ EDG_FYM_disaster_CivilWar_EVTDESC6023:1 "[Root.Monarch.GetTitle]在马穆鲁克中的支持派与反对派之间最初看上去微不足道的冲突，现在已经变成了彻头彻尾的骚乱，竟有不服从我们的马穆鲁克举起了武器并掀起了叛乱。除非我们迅速扭转局面，否则我们的国家很可能在眼前分崩离析。"
+ EDG_FYM_disaster_CivilWar_EVTOPTA6023:0 "不必为奴隶的叛离而悲伤。"
+ EDG_FYM_disaster_CivilWar_EVTOPTB6023:0 "我们会将他们生吞活剥。"
+
+
+ EDG_FYM_disaster_CivilWar_EVTNAME6026:1 "最强有力的马穆鲁克派系出现"
+ EDG_FYM_disaster_CivilWar_EVTDESC6026:1 "在冲突中已发生了一个最让人预料不到的情况。在过去的几个星期里，马穆鲁克中的一支小反对派已极大的增强了他的实力和影响。如果不小心处理，他们将会造成严重的威胁。"
+ EDG_FYM_disaster_CivilWar_EVTOPTA6026:1 "和他们战斗到底！"
+ EDG_FYM_disaster_CivilWar_EVTOPTB6026:0 "在所有大派系之间达成妥协。"
+
+
+#汗廷震动
+EDG_HZB_succession_critic:0 "汗廷震动"
+EDG_HZB_succession_critic_end_flag_trigger_tooltip:0 "灾难§Y汗廷震动§!已经结束。"
+
+EDG_HZB_succession_critic.1.title:0 "汗廷震动"
+EDG_HZB_succession_critic.1.desc:0 "哈扎拉比王朝系库尔德人建立的王朝，曾作为伊尔汗国的洛雷斯坦总督统治者洛雷斯坦地区，哈扎拉比的统治者以“千马”为号，在伊尔汗国时期逐渐扩大了自己的权势。当大汗们忘记了自己在马背上驰骋的传统，而沉醉于苏丹尼耶的温柔乡当中时，只有掌握马鞭的人才能在1335年帝国的总崩溃当中独善其身。几位继承人在伊尔汗国的大汗的王座尚未坐热就交给了后来人。当然，在掌控西北的泰赤乌部的丘拜尼王朝和掌握了膏腴之地的札剌亦儿部面前，蜷曲于山区的哈拉达比王朝显然很难有与之相抗衡的力量。\n\n但哈拉达比人的敏锐嗅觉发现了能够提高自我正统性的手段。在金帐汗国的大军攻破大不里士城之后，所谓的伊尔汗国君主，来历不明的努失儿完在战火当中不知所踪。哈拉达比人秘密迎立被赶下台的前前大汗撒迪别女大汗即位。在是否需要迎立一名女性君主方面，这群库尔德人经过了激烈的内部讨论，但是为了提高的正统性，一群伪装成商人的库尔德人最终选择将这位完者都的女儿藏在一卷波斯地毯当中带出了城，撒迪别在阿米尔·丘拜尼、阿尔巴汗和苏莱曼汗的婚姻之后第四次喜结连理。随着各方的宣称者不是死于非命就是因病而亡，1330年，撒迪别女大汗成为了唯一的正统继承人，各方势力很不情愿的承认这位傀儡女大汗的正统性，1345年撒迪别汗过世，其子苏尔干和他的子孙继承傀儡汗位至今。\n\n尽管哈扎拉比的统治者以「柱国」的身份实际控制着伊尔汗国的最高权力，但哈扎拉比都并非伊尔汗国名义上的正统统治者，历代「柱国」的统治合法性都不断遭受质疑，反对哈扎拉比家族领袖的浪潮从未停止，而这一切到$YEAR$年抵达了高峰。\n\n就在几天前，我们控制的伊尔汗逃出了$CAPITAL$，并在寻找到了愿意支持其重掌大权的埃米尔，并在国内掀起了一场针对[Root.Monarch.GetTitle]的偌大叛乱。"
+EDG_HZB_succession_critic.1.aa:0 "陛下何故谋反？"
+EDG_HZB_succession_critic.1.bb:0 ""
+
+EDG_HZB_succession_critic.2.title:0 "汗廷正统性得到肯定"
+EDG_HZB_succession_critic.2.desc:0 "随着[Root.Monarch.GetTitle][Root.Monarch.GetName]终结了汗国内部的叛乱，并重新将伊尔汗接驾回$CAPITAL$，汗国终于重新回归了稳定。经过这场震动全国的内乱，$CAPITAL$的权威得到了高度的肯定，[Root.Monarch.GetName]砍下了数位不服从中央命令的总督的头颅，将其尸体剁成数块，送往全汗国示众，令汗国内部的其他总督不敢造次。毫无疑问，中央的权威再度得到了加强，更重要的是，[Root.Monarch.GetName]领导的哈扎拉比家族在汗国内的权势得到了进一步的巩固。"
+EDG_HZB_succession_critic.2.aa:0 "以成吉思汗的名义！"
+EDG_HZB_succession_critic.2.bb:0 ""
+
+EDG_HZB_succession_critic.3.title:0 "伊尔汗的折返"
+EDG_HZB_succession_critic.3.desc:0 "随着我们剿灭了伊尔汗支持者的军事力量，伊尔汗被迫重新回到了我们的身边。伊尔汗返回$CAPITAL$的时候，城内举行了盛大的欢迎仪式，人们祝贺伊尔汗逃离了叛军的挟持，并回到了忠心耿耿的[Root.Monarch.GetTitle][Root.Monarch.GetName]身边。在这场典礼上，伊尔汗被[Root.Monarch.GetName]的忠诚与赤诚感动得声泪俱下，这为伊尔汗国留下了又一段伊尔汗与哈扎拉比柱国的君臣嘉话。"
+EDG_HZB_succession_critic.3.aa:0 "他终于认识到了我们的不可或缺性。"
+EDG_HZB_succession_critic.3.bb:0 ""
+EDG_HZB_succession_critic_3_flag_trigger_tooltip:0 "事件§Y伊尔汗的折返§!已经发生"
+
+EDG_HZB_succession_critic.4.title:0 "无能的汗廷"
+EDG_HZB_succession_critic.4.desc:0 "随着伊尔汗的出逃和国内叛乱的加剧，[Root.Monarch.GetName]被认为不配执掌伊尔汗的国玺，民间更是流传出传闻，声称哈扎拉比家族蒙受诅咒！"
+EDG_HZB_succession_critic.4.aa:0 "这一切很快会结束的！"
+EDG_HZB_succession_critic.4.bb:0 ""
+
+
+#埃兰革命
+EDG_HZB_Persian_critic:0 "埃兰革命"
+
+#穆罕默德
+EDG_TUR_Muhammad_Authority:0 "统治合法性受质疑"
+EDG_TUR_Muhammad_Authority.1.title:0 "统治合法性受质疑"
+EDG_TUR_Muhammad_Authority.1.desc:0 "在[Root.Monarch.GetName]即位后的短短三个月内，埃迪尔内即成为一系列灾难与危机之中心：\n君士坦丁堡的泰法就像他们往昔做的那样，迅速释放了一位奥斯曼王子，试图利用其身份挑起叛乱。这一举动不仅在边界激起不安，还让东部的卡拉曼贝伊蠢蠢欲动，试图趁乱夺取领地。\n与此同时的国家内部也因宗教问题而风起云涌。一场突如其来的宗教暴动席卷埃迪尔内，部分地区甚至出现异端分子对穆斯林的屠杀行径；而暴动尚未平息，埃迪尔内便遭遇一场毁灭性大火。这场火灾不仅焚毁了大量房屋和仓库，还摧毁了城市的经济命脉，进一步激化了民众的不满。\n而在此紧要关头，年轻的苏丹穆罕默德为应对外部危机决定将银币贬值五分之一。但这一缺乏经验的行为让财政收入增加的同时也产生了难以预期的困境，即领薪的卡皮库鲁们虽然领和过去一样多的钱币，但钱币的银含量减少，实际上的收入便也跟着减少了。\n企图操控苏丹的大维齐尔钱达尔勒便开始鼓噪卡皮库鲁们起来反对苏丹，事实上，他们现在要求苏丹交出统治权而仅作为一个耳不能听、口不能言的橡皮图章存在，[Root.Monarch.GetName]的统治合法性受到了严重的挑战。"
+EDG_TUR_Muhammad_Authority.1.a:0 "他们会尝到背叛的代价！"
+EDG_TUR_Muhammad_Authority.1.b:0 ""
+
+EDG_TUR_Muhammad_Authority.2.title:0 "巩固权威"
+EDG_TUR_Muhammad_Authority.2.desc:0 "一个帝国的崛起必然伴随另一个帝国的衰亡，对于急于证明奥斯曼国家已在其手中重新崛起为世界霸权的穆罕默德二世来说，这意味着君士坦丁堡的陷落和罗马帝国的终结。\n即使这座曾经的帝国中心已开始衰败、被奥斯曼统治的领土包围且作为主要贸易中心的地位已被奥斯曼人的城市而取代。征服这一“死帝国的死中心”仍对奥斯曼人具备巨大意义：实现先知穆罕默德对穆斯林摘下这一红苹果之预言。\n君士坦丁堡的泰法当然想尽办法阻止，他们威胁、谩骂、求饶，向拉丁人不住地祈求着十字军，但这一切都毫无作用。\n穆罕默德二世早已和周边诸国签署了停战条约，教宗的十字军呼求无人理会，而他们派来求和的使者？只得到了如此的回复：『如果你愿意承认失败并和平撤退，我将把伯罗奔尼撒和其他省份交给你作为封地，我们将成为朋友。如果你坚持拒绝让我和平进入这座城市，我将强行进入，杀死你和你的所有贵族；我将屠杀所有幸存者并允许我的军队随意掠夺。这座城市是我唯一想要的[东西]，即使空的也行。』在冬季初期，奥斯曼帝国在西部和东部的每个省份颁布了命令和号召，要求准备数之不尽的石匠和与石匠数量相应的工人、石灰烧制工及各种施工和运输所需的物资。这些都需要在春天做好准备，用于在博斯普鲁斯海峡和君士坦丁堡上侧建造一座割开罗马人咽喉的要塞。\n当罗马人听闻这一噩耗时，无论居住在君士坦丁堡又或色雷斯的基督徒都感到深深的痛苦并陷入震惊。他们之间没有其他谈论的话题或表达，只有悲叹：\n『君士坦丁堡的末日近了；现在是我们民族灭亡的钟声敲响之时；现在是敌基督时代到来的日子；我们该何去何从？主啊，愿你夺去我们的生命，不要让你的仆人眼睁睁地目睹君士坦丁堡的毁灭。主啊，保护它的圣徒在哪里？』\n不仅君士坦丁堡的居民发出了这样的哀叹，散居在东部、岛屿乃至于西部的拉丁基督徒也都发出了同样的哭号。而不为所动的穆罕默德仍在实施他的计划。"
+EDG_TUR_Muhammad_Authority.2.a:0 "『要么我拿下这座城市，要么它要了我的命』。"
+EDG_TUR_Muhammad_Authority.2.b:0 ""
+EDG_MISSION_TUR_ban_declare_war_modifier:0 "统治合法性受质疑"
+EDG_TUR_Muhammad_Authority_end_flag_trigger_tt:0 "灾难§R统治合法性受质疑§!已经结束"
+
+EDG_TUR_Muhammad_Authority.3.title:0 "文官的质疑"
+EDG_TUR_Muhammad_Authority.3.desc:0 "我们国内的文官集团对[Root.Monarch.GetName]感到不满，他们向[Root.Monarch.GetName]索求更多的利益。"
+EDG_TUR_Muhammad_Authority.3.a:0 "贿赂他们。"
+EDG_TUR_Muhammad_Authority.3.b:0 "消灭他们！"
+
+EDG_TUR_Muhammad_Authority.4.title:0 "埃米尔的质疑"
+EDG_TUR_Muhammad_Authority.4.desc:0 "许多埃米尔不认可[Root.Monarch.GetName]的功绩，他们认为[Root.Monarch.GetName]并没有军功，不配做他们的统治者。"
+EDG_TUR_Muhammad_Authority.4.a:0 "我们不能得罪我们的埃米尔。"
+EDG_TUR_Muhammad_Authority.4.b:0 "我们决不允许不忠诚的人作为我们的埃米尔！"
+
+EDG_TUR_Muhammad_Authority.5.title:0 "商人的质疑"
+EDG_TUR_Muhammad_Authority.5.desc:0 "一些吃里扒外的商人公开表达了对[Root.Monarch.GetName]执政合法性的质疑，他们利用自己的影响力大肆宣扬他们的观点，这为我们带来了不好的影响。"
+EDG_TUR_Muhammad_Authority.5.a:0 "只需要一点金钱就能让他们闭嘴。"
+EDG_TUR_Muhammad_Authority.5.b:0 "抄了他们的家！"
+
+EDG_TUR_Muhammad_Authority.6.title:0 "挑战者"
+EDG_TUR_Muhammad_Authority.6.desc:0 "在重重危机之下，即便是我们的亲属也不能被相信。一名奥斯曼奥卢的家族成员被从我们的宿敌手中释放回国，他召集了一批军队，试图取缔[Root.Monarch.GetName]。"
+EDG_TUR_Muhammad_Authority.6.a:0 "[Root.Monarch.GetName]会让他们后悔！"
+EDG_TUR_Muhammad_Authority.6.b:0 "他们会得到他们想要的。"
+
+EDG_TUR_Muhammad_Authority.7.title:0 "加强权力"
+EDG_TUR_Muhammad_Authority.7.desc:0 "[Root.Monarch.GetName]一直在尝试集中国家的权力，他的行为被认为是对其他既得利益者的侵犯。但[Root.Monarch.GetName]认为自己有必要这么做。"
+EDG_TUR_Muhammad_Authority.7.a:0 "我们应当实施这项改革。"
+EDG_TUR_Muhammad_Authority.7.b:0 "没有这个必要。"
+
+EDG_TUR_Muhammad_Authority.8.title:0 "犒赏耶尼切里"
+EDG_TUR_Muhammad_Authority.8.desc:0 "在这场混乱的灾难之中，我们的耶尼切里一直尽忠职守，为[Root.Monarch.GetName]肃清所有敌人。但即便是最忠诚的耶尼切里，也不可能在如此巨大的压力之下无所需求。我们的耶尼切里向[Root.Monarch.GetName]提出请求，希望[Root.Monarch.GetName]能够给予他们更多的奖赏，以激励他们继续战斗。"
+EDG_TUR_Muhammad_Authority.8.a:0 "他们应当得到奖赏。"
+EDG_TUR_Muhammad_Authority.8.b:0 "这是他们的职责。"
+
+EDG_TUR_Muhammad_Authority.9.title:0 ""
+EDG_TUR_Muhammad_Authority.9.desc:0 ""
+EDG_TUR_Muhammad_Authority.9.a:0 ""
+EDG_TUR_Muhammad_Authority.9.b:0 ""
+#赛利姆
+EDG_Mehmed_second_flag:0 "「征服者」穆罕默德二世"
+EDG_TUR_Salim_disaster:0 "奥斯曼王位继承危机"
+
+EDG_TUR_Salim_disaster.1.title:0 "奥斯曼王位继承危机"
+EDG_TUR_Salim_disaster.1.desc:0 "在奥斯曼帝国的历史长河中，[Root.Monarch.GetName]的统治末期宛如一场混乱的闹剧。[Root.Monarch.GetName]曾经或许有过辉煌的时刻，但岁月和权力的侵蚀渐渐消磨了他的刚强。\n\n[Root.Monarch.GetName]的软弱在统治末期愈发明显，这就像一座大厦的根基开始动摇。耶尼切里，这个在帝国中拥有强大军事力量的群体，他们习惯了强有力的领导者，对于软弱的[Root.Monarch.GetName]渐渐心生不满。他们渴望着一个能带领他们继续征战、获取更多荣耀与财富的君主。\n\n而帝国的权贵们，各自心怀鬼胎，他们看到了[Root.Monarch.GetName]的无力掌控。于是，他们纷纷支持不同的王子，就像在棋盘上布下自己的棋子，希望能在未来的权力更迭中获取最大的利益。这些王子们，被权贵和耶尼切里背后的势力推动着，在各个行省展开了残酷的互相攻伐。\n\n艾哈迈德王子或许在小亚细亚的某个行省招兵买马，他得到了当地权贵的支持，他们给他提供粮草和武器。而塞利姆王子则在巴尔干半岛的行省里厉兵秣马，背后有着耶尼切里部分势力的撑腰。两个王子之间，为了那至高无上的苏丹宝座，开始了激烈的争斗。\n\n各个行省变成了他们的战场，村庄被烧毁，百姓们流离失所。曾经繁荣的贸易路线被切断，商人们不敢出行，帝国的经济也受到了极大的冲击。[Root.Monarch.GetName]站在伊斯坦布尔的宫殿里，望着帝国陷入这样的混乱，他试图调停。他派出使者去各个王子那里，可是使者不是被拒绝就是被杀害。他的诏令在各个行省也变得如同废纸，没有王子愿意听从他这个软弱的父亲的话。\n\n整个奥斯曼帝国在这场王子们的争斗中摇摇欲坠，朝野上下一片混乱。大臣们分成不同的派别，支持不同的王子，朝廷内部争吵不断。而耶尼切里在这场纷争中更加肆意妄为，他们有时候甚至抢夺行省的物资，声称是为了支持他们所拥护的王子。在这一片混乱之中，奥斯曼帝国的未来变得迷茫而又危险，仿佛一艘在暴风雨中失去了航向的巨轮，随时可能沉没。而在这场莫大的纷争中，被成为「冷酷者」的赛利姆王子被视为是做可能获胜的黑马。"
+EDG_TUR_Salim_disaster.1.a:0 "我的孩子们，不！"
+EDG_TUR_Salim_disaster.1.b:0 ""
+
+EDG_TUR_Salim_disaster.2.title:0 "无可争议的帕迪沙"
+EDG_TUR_Salim_disaster.2.desc:0 "在众多角逐者中，[Root.Monarch.GetName]崭露头角。他深知这场斗争的残酷性，明白只有展现出无比的坚毅和果敢，才能在这场混战中脱颖而出。[Root.Monarch.GetName]自幼便展现出与众不同的气质，他目光冷峻，行事果断，从不畏惧艰难险阻。\n\n起初，[Root.Monarch.GetName]的势力并不占绝对优势。但他凭借着卓越的领导才能和敏锐的政治洞察力，逐渐吸引了一批忠诚的追随者。在与其他王子的争斗中，[Root.Monarch.GetName]毫不留情，他巧妙地利用各方矛盾，分化敌人的阵营。对于那些企图阻挡他前进道路的对手，他总是以雷霆之势予以打击。无论是在战场上还是在政治阴谋中，他都能游刃有余地应对，让敌人防不胜防。\n\n随着时间的推移，[Root.Monarch.GetName]的势力如滚雪球般不断壮大。他陆续击败了一个又一个竞争对手，逐渐统一了各方力量。在这个过程中，他的冷酷无情让敌人闻风丧胆，但也正是这种特质，让他在这场残酷的权力斗争中得以生存和发展。\n\n终于，在经历了无数次的战斗和政治博弈后，[Root.Monarch.GetName]成为了最终的赢家。他登上了帝国的最高宝座，成为了奥斯曼帝国的统治者。在他的统治下，奥斯曼帝国迎来了新的篇章，他以铁腕手段巩固了自己的政权，开启了一段属于自己的辉煌时代。"
+EDG_TUR_Salim_disaster.2.a:0 "[Root.Monarch.GetName]万岁！"
+EDG_TUR_Salim_disaster.2.b:0 ""
+EDG_TUR_Salim_disaster_end_flag_trigger_tt:0 "灾难§R奥斯曼王位继承危机§!已经结束"
+
+EDG_TUR_Salim_disaster.3.title:0 "「冷酷者」赛利姆"
+EDG_TUR_Salim_disaster.3.desc:0 "『冷酷者』塞利姆约于1470年在其父担任阿马西亚总督期间出生，他的童年也在那里度过。塞利姆会阿拉伯语、波斯语等多门优美而高贵的语言。此外还从多位指导者那里接受了骑马、射击和剑术等实践训练。于前些年被任命为帝国东北边境的行军贝伊。\n\n与奥斯曼帝国于比提尼亚地区崛起时环境颇为相似的东北边境塑造了『刚毅者』的性格，亦为其积累了丰富的军事经验，与他的王位竞争对手相比，他们所在的内陆桑贾克缺乏前述地区的战略和经验优势。[Root.Monarch.GetName]本指望任命诸子镇压叛军会为他们提供类似的机会，但他们对此并未表现出兴趣。镇压叛军中害死大维齐尔的长子反倒因此被指责为软弱无能，次子则因放弃安塔利亚桑贾克而被视为叛乱的罪魁祸首。此外，在阿马西亚的长子似与法尔斯统治者势力亲近，甚至其子也对什叶派产生了一些令乌理玛们腹诽的兴趣。而对此事处理果断而毫不留情的塞利姆便赢得了卡皮库鲁军团的青睐。\n\n这位塞利姆长兄的最后一次机会是[Root.Monarch.GetName]说出的一句话：“我将从我的孩子中选择长子为继承人并将王位交给他”。听闻此事的塞利姆在冲动之下率军三万进军君士坦丁堡，却被其父[Root.Monarch.GetName]亲率四万将其彻底击溃，迫使塞利姆出逃黑海。\n\n趁胜的[Root.Monarch.GetName]召长子前往帝都。他于夜间被秘密引入宫中，准备在一种既成事实的情况下登基。自以安然无虞的他沉湎于享乐、音乐与美酒而被卡皮库鲁们彻底厌弃。他们向[Root.Monarch.GetName]送呈了一封从高门递交的信件，要求将支持其长子的国家官员驱逐出城，并命其返回原处，否则将采取严厉行动。别无选择的他只能返回安纳托利亚，在那里他可以从当地召集额外的军队。正是因为他深深的失望和愤怒，这位[Root.Monarch.GetName]的长子犯下更甚于塞利姆之谬误：他围攻科尼亚并用武力夺取了它。\n\n这愚蠢透顶的做法使其陷于悖逆之子的位置。塞利姆在君士坦丁堡之支持者借此大作文章，以此叛逆之罪名为由，迫使[Root.Monarch.GetName]承认塞利姆继位之正当性。最终，[Root.Monarch.GetName]不得不放弃对其愚蠢长子的支持，并召唤塞利姆前往君士坦丁堡即位。"
+EDG_TUR_Salim_disaster.3.a:0 "他必须成为苏丹！"
+EDG_TUR_Salim_disaster.3.b:0 "将他秘密处死！"
+
+EDG_TUR_Salim_disaster.4.title:0 "赛利姆的请求"
+EDG_TUR_Salim_disaster.4.desc:0 "我们的王子，赛利姆，向我们送来了一封信，他在信中言辞恳切：「长久以来，我都无缘见到您仁慈的面容，而看望至亲是每个人都必须重视的义务。我已经十年没有见过我的父亲，我衷心希望能够朝见父皇，亲吻您的手，祭拜母亲的花园，请您恩准。」但赛利姆带来的不止是诚恳的话语，还有一支规模庞大的军队，他正领着这支军队向位于君士坦丁堡的国家王座前进。\n\n在看到信的那一刻，[Root.Monarch.GetName]一时恍惚，他似乎在赛利姆的身上看见了自己的父亲穆罕默德二世的影子，但他依然下令，让赛利姆带着自己的军队返回自己的封地。而赛利姆王子将这道诏令焚毁，继续向着君士坦丁堡前进。"
+EDG_TUR_Salim_disaster.4.a:0 "他怎敢如此忤逆？"
+EDG_TUR_Salim_disaster.4.b:0 ""
+
+EDG_TUR_Salim_disaster.5.title:0 "艾哈迈德的叛乱"
+EDG_TUR_Salim_disaster.5.desc:0 "[Root.Monarch.GetName]的仁慈并没有换来艾哈迈德的醒悟，后者仍然坚持认为帝国应该属于自己，并率领自己的亲信起兵反抗。"
+EDG_TUR_Salim_disaster.5.a:0 "我会让他知道，他为什么最终失败。"
+EDG_TUR_Salim_disaster.5.b:0 "他才应该成为帕迪沙。"
+
+EDG_TUR_Salim_disaster.6.title:0 "处置科尔库德"
+EDG_TUR_Salim_disaster.6.desc:0 "科尔库德是先皇的小儿子，[Root.Monarch.GetName]的弟弟。科尔库德没有卓越的军事才能，但他在神学上颇有造诣，获得了宗教力量的支持。他曾经宣称，如果安拉要让他成为帕迪沙，那么他一定会成为帕迪沙。在[Root.Monarch.GetName]继位后，科尔库德一直反对[Root.Monarch.GetName]的统治，而这个忤逆兄长的弟弟必须被处理。"
+EDG_TUR_Salim_disaster.6.a:0 "我们必须用弓弦将其勒死。"
+EDG_TUR_Salim_disaster.6.b:0 "放了他吧。"
+EDG_TUR_Salim_disaster.6.c:0 "他受安拉眷顾。"
+EDG_TUR_Salim_disaster_6_b_tt:0 "这可能会导致§R严重§!的后果。"
+
+EDG_TUR_Salim_disaster.7.title:0 "耶尼切里要求更多特权"
+EDG_TUR_Salim_disaster.7.desc:0 "在这场继承战争中，耶尼切里发挥着重要的作用，但他们也恃宠而骄，向[Root.Monarch.GetName]索取更多的特权。"
+EDG_TUR_Salim_disaster.7.a:0 "他们只不过是我们的奴仆！"
+EDG_TUR_Salim_disaster.7.b:0 "我们必须争取耶尼切里的支持。"
+
+EDG_TUR_Salim_disaster.8.title:0 "抵抗什叶派法令"
+EDG_TUR_Salim_disaster.8.desc:0 "自从[Root.Monarch.GetName]继位以来，东方的萨法维教团不断扩大什叶派的影响力，并将奇兹尔巴什派往罗姆地区，这极大地影响了奥斯曼帝国对于东方边境的掌控力，[Root.Monarch.GetName]意识到了什叶派教团带来的威胁，并寻找抵制的方法。"
+EDG_TUR_Salim_disaster.8.a:0 "我们必须抵抗这种侵蚀！"
+EDG_TUR_Salim_disaster.8.b:0 "随他们去吧。"
+EDG_TUR_Salim_disaster.8.c:0 "我们应该追随阿里的脚步。"
+
+EDG_TUR_Salim_disaster.9.title:0 "耶尼切里的支持"
+EDG_TUR_Salim_disaster.9.desc:0 "[Root.Monarch.GetName]篡夺父皇巴耶济德二世皇位这一事件在当时的奥斯曼帝国引起了巨大的波澜。而耶尼切里对[Root.Monarch.GetName]表示出巨大的支持有着多方面的原因。首先，从军事力量的考量上，耶尼切里作为帝国的精锐军事力量，他们渴望跟随一个强有力且具有军事野心的领导者。[Root.Monarch.GetName]展现出了这样的特质，他有着对外扩张、开疆拓土的强烈欲望。耶尼切里明白在他的统治下，自己有更多机会参与军事征战，获取战利品和荣誉。从政治局势来看，巴耶济德二世统治后期可能面临一些内部的政治矛盾和权力的分散情况。而[Root.Monarch.GetName]在争位过程中，或许向耶尼切里许以了更多的政治特权和资源倾斜。耶尼切里看到了在新政权下自身政治地位提升的可能性。[Root.Monarch.GetName]的个人魅力和手段也起到了作用。他可能善于与耶尼切里的将领们沟通，拉拢人心。他果断的行事风格让耶尼切里相信他能够带领奥斯曼帝国走向新的辉煌。耶尼切里支持[Root.Monarch.GetName]，这将为[Root.Monarch.GetName]赢得最终的胜利提供莫大的保障！"
+EDG_TUR_Salim_disaster.9.a:0 "[Root.Monarch.GetName]万岁！"
+EDG_TUR_Salim_disaster.9.b:0 ""
+
+EDG_TUR_Salim_disaster.10.title:0 "科尔库德的叛乱"
+EDG_TUR_Salim_disaster.10.desc:0 "当日，[Root.Monarch.GetName]正与自己最宠爱的幼子一同在科斯坦丁尼耶的御花园内散步，他最欣赏的神学家跟随在他的身后，同他探讨伊斯兰教法。但这份纯粹的快乐很快烟消云散，[Root.Monarch.GetName]的大维齐尔带来了一封书信，其内容是赛利姆的弟弟科尔库德在安纳托利亚的诸行省发动了规模巨大的叛乱，他们声称科尔库德蒙受安拉的眷顾，要求赛利姆退位。\n「我当初真应该用弓弦勒死他！」赛利姆啐了一口，将书信踩在脚下，「这些愚蠢的教法学家和贝伊，他们居然会被我的书呆子弟弟蛊惑！」"
+EDG_TUR_Salim_disaster.10.a:0 "他真的以为自己代表安拉？"
+EDG_TUR_Salim_disaster.10.b:0 ""
+EDG_TUR_Salim_disaster_keerwande_end_flag:0 "科尔库德已经得到最终处理"
+EDG_TUR_Salim_disaster_aihamaide_end_flag:0 "艾哈迈德已经得到最终处理"
+EDG_TUR_Salim_disaster_11_A_flag:0 "赛利姆已清洗耶尼切里高层"
+EDG_TUR_Salim_disaster_3_a_ruler_flag:0 "统治者是「冷酷者」赛利姆一世"
+
+EDG_TUR_Salim_disaster.11.title:0 "清洗耶尼切里高层"
+EDG_TUR_Salim_disaster.11.desc:0 "塞利姆在耶尼切里军团的帮助下成为了苏丹，但他继位后做的第一件事，不是感谢该军团的军官们，而是清除他们，换上自己信任的班底。在那一天，君士坦丁堡的广场上枪声不决，许多曾经位居高位的耶尼切里军官排着队被枪决，并在枪决后枭首示众。新任的耶尼切里对伟大的赛利姆忠心耿耿，而活下来的耶尼切里也将赛利姆视作不可侵犯的死神。"
+EDG_TUR_Salim_disaster.11.a:0 "[Root.Monarch.GetName]万岁！"
+EDG_TUR_Salim_disaster.11.b:0 ""
+
+EDG_TUR_Salim_disaster.12.title:0 "锡尔特的丧钟"
+EDG_TUR_Salim_disaster.12.desc:0 "赛利姆连年征战，将帝国的疆土扩大了整整一倍，但这份功绩并非没有重量的，他的身体每况愈下，他最宠爱的犹太人医生认为帕迪沙感染了炭疽，并不断给他服用一些不被穆斯林医师认可的药物。尽管这些药物在某些情况下有些成效，但帕迪沙的身体依然每况愈下，甚至因此染上了皮肤病。\n\n在$YEAR$年，[Root.Monarch.GetName]乘坐着帕迪沙的龙辇，从伊斯坦布尔的大门出发，准备前往帝国的旧都埃迪尔内。没有人知道他此行的目的，就连他最信任的大维齐尔也不明白帕迪沙此行的目的是什么，一些侍从在暗中推断他应该是要准备进军匈牙利或者塞浦路斯、罗德岛。\n几天后，他进入一个叫锡尔特的小村。在赛利姆抵达前，锡尔特烈日当空，但当他到达时，锡尔特却突然间变得阴云密布。「我将死矣。」不知为何，赛利姆对他的侍从如是说道。\n\n当天夜晚，赛利姆的病情骤然恶化，并于当天凌晨驾崩，锡尔特的村长敲响了村内唯一的一口大钟，丧钟的钟声顷刻间从锡尔特传到了位于伊斯坦布尔的高门，随后传遍了整个帝国。"
+EDG_TUR_Salim_disaster.12.a:0 "「一张地毯足够两个苏菲派信徒栖身，这个世界却小得容不下两位国王。」"
+EDG_TUR_Salim_disaster.12.b:0 ""
+
+EDG_TUR_Salim_disaster.13.title:0 "艾哈迈德皇子"
+EDG_TUR_Salim_disaster.13.desc:0 "在[Root.Monarch.GetName]夺取国家王座以前，艾哈迈德一直是先皇最为宠爱的皇子，并被认为是继承国家王座的第一人选。由于受到帕迪沙的宠爱，艾哈迈德将皇位视为他自出生以来便理所应当获得的囊中之物，从此日益放纵，他沉迷酒色、逐渐肥胖，整日只顾享乐和争夺父亲的宠爱。在[Root.Monarch.GetName]成为帕迪沙后，艾哈迈德无法接受这一现实，他声称赛利姆的皇位来路不正，并宣称自己才应该登上国家王座。"
+EDG_TUR_Salim_disaster.13.a:0 "他不足为惧。"
+EDG_TUR_Salim_disaster.13.b:0 "秘密将他暗杀。"
+EDG_TUR_Salim_disaster_13_a_tt:0 "我们可以免受处死兄弟的骂名，但艾哈迈德皇子可能会发动一场§R叛乱§!。"
+
+EDG_TUR_Salim_disaster.14.title:0 ""
+EDG_TUR_Salim_disaster.14.desc:0 ""
+EDG_TUR_Salim_disaster.14.a:0 ""
+EDG_TUR_Salim_disaster.14.b:0 ""
+
+EDG_TUR_Salim_disaster.15.title:0 ""
+EDG_TUR_Salim_disaster.15.desc:0 ""
+EDG_TUR_Salim_disaster.15.a:0 ""
+EDG_TUR_Salim_disaster.15.b:0 ""
+
+
+#内部权力斗争
+#艾哈迈德一世→穆斯塔法一世→奥斯曼二世→穆斯塔法一世→穆拉德
+EDG_TUR_original_disaster.1.title:0 "艾哈迈德"
+EDG_TUR_original_disaster.1.desc:0 "尽管如今的[Root.GetName]仍是世界上最强大的国家之一，但帝国内部已经弊病丛生，利益集团盘根错节，政治腐败问题严重，军队战斗力有所下滑，就连耶尼切里都不再勇猛。这一切似乎都预示着[Root.GetName]的衰落——尽管国内外有许多人都这么认为，但我们认为安拉并没有抛弃我们。\n\n[Root.Monarch.GetName]有一个名为艾哈迈德的儿子，他天资聪颖、举止成熟，似乎是一个天生的王者。\n\n在历史上，艾哈迈德一世上任时年仅14岁，但他却表现出了天才和智慧，表现得就像一个成年人、理智的苏丹。尽管奥斯曼帝国有每个苏丹在掌权后都会杀死他的兄弟的习俗，但他下令饶了他的弟弟穆斯塔法一命。艾哈迈德一世还反对妇女干涉政务，将在国家有很大影响力的祖母流放到旧王宫。他以力大无穷、能熟练使用各种武器以及高超的骑马能力而闻名，并摒弃了前任苏丹们不出席朝廷会议并将所有事务留给大臣们的习惯，因此他继续亲自出席会议。"
+EDG_TUR_original_disaster.1.a:0 "他的天资聪颖能让帝国再度复兴。"
+EDG_TUR_original_disaster.1.b:0 ""
+
+EDG_TUR_original_disaster.2.title:0 "穆斯塔法「疯子」"
+EDG_TUR_original_disaster.2.desc:0 "没有人会忘记那一天，[Root.Monarch.GetName]驾崩了，他留有子嗣，但这名继承人并非由皇后所生，而大维齐尔和苏丹娜也并不打算让他坐上国家王座。但国家王座上必须有一位帕迪沙，因此，大维齐尔和皇后必须为空悬的国家王座选择一个合适的继承人。\n\n[Root.Monarch.GetName]在登基时并没有杀死他的所有兄弟——或者说，唯一的兄弟。[Root.Monarch.GetName]仅有一名存活的兄弟，名为穆斯塔法，由于他们是奥斯曼奥卢家族仅存的血脉，帕迪沙没有像他的父祖一样处决自己的兄弟，而是将他囚禁在了名为禁宫的黄金鸟笼内。当大维齐尔和皇后将穆斯塔法带到托普卡帕宫时，许多廷臣惊讶地发现穆斯塔法已经神志不清。但大维齐尔和皇后宣称，他们已经为穆斯塔法找到了最好的医生，而他的病将很快好起来，尽管廷臣惴惴不安，而且穆斯塔法也一再拒绝成为帕迪沙，但大维齐尔仍然将穆斯塔法拉上了国家王座，并代替他赏赐了耶尼切里。"
+EDG_TUR_original_disaster.2.a:0 "他们怎敢？！"
+EDG_TUR_original_disaster.2.b:0 ""
+EDG_TUR_original_disaster_2_a_tt:0 "§Y托普卡帕宫§!将拥立[Root.Monarch.GetName]的弟弟§Y穆斯塔法§!成为帕迪沙，他是个无力治理帝国的疯子。"
+
+EDG_TUR_original_disaster.3.title:0 "奥斯曼王子"
+EDG_TUR_original_disaster.3.desc:0 "尽管大维齐尔和前皇后声称穆斯塔法的疯病很快就将痊愈，但群臣没能看见一丁点希望。穆斯塔法智力低下、举止异常，他成日研究一些莫名其妙的玩意——尽管耶尼切里和工程师很乐意陪他玩耍。穆斯塔法热衷于赏赐，他将黄金箭头赏赐给耶尼切里，而耶尼切里将其作为莫大的荣耀，这激起了穆斯塔法更大的好奇心——既然人人都喜欢金币，那宫廷里的猫儿和池塘里的鱼儿一定也喜欢金币！于是，他带领着一批仆从，往池塘中扔下了许多金币，砸死了许多金鱼。就连禁宫中美丽的妃子们也无法让穆斯塔法成为男人，她们无法让穆斯塔法履行帕迪沙的职责延续皇室血脉，只能以保护的身份保护穆斯塔法。这一切的一切终于引起了朝野的不满，就连拥立穆斯塔法继位的大维齐尔和皇后也无法容忍「疯帝」穆斯塔法的行为，他们废除了穆斯塔法，并扶持先帝的儿子奥斯曼成为帝国的帕迪沙——尽管在三个月前，他们正是为了阻碍奥斯曼继位才扶持了穆斯塔法。\n\n奥斯曼王子自小得父母关心教育，后来成为一位有名的诗人，并通晓多种语言，包括阿拉伯语、波斯语、希腊语、拉丁语及意大利语，虽然年纪尚小，但奥斯曼显示了作为一国之君的能力，许多人对此抱有很大的期待，希望他能结束帝国如今的混乱局面。"
+EDG_TUR_original_disaster.3.a:0 "希望他能重新振兴帝国，"
+EDG_TUR_original_disaster.3.b:0 ""
+EDG_TUR_original_disaster_3_a_tt:0 "我们可以通过任务树进行一系列对§Y政府§!和§Y军队§!的改革，这将提升§Y奥斯曼王子§!或其他实施了该改革的统治者的属性。\n但若他没能结束帝国的§R内部权力斗争§!灾难，那么§Y耶尼切里§!将发动§R反叛§!。"
+
+EDG_TUR_original_disaster.4.title:0 "弑君"
+EDG_TUR_original_disaster.4.desc:0 "[Root.Monarch.GetName]的改革触及到了耶尼切里和许多权贵的利益，他们早就开始谋划政变推翻[Root.Monarch.GetName]的统治。在前不久，[Root.Monarch.GetName]御驾亲征却无功而返，在其班师回朝后，又拒绝了耶尼切里的要求。耶尼切里们将吃饭用的大锅倒扣在地上，表示对支付薪资的帕迪沙的不满，并开始闹事，最终闯入了托普卡帕宫，抓住了[Root.Monarch.GetName]，脱光了他的衣服，对他进行疯狂的侮辱和折磨，直到[Root.Monarch.GetName]承认自己的错误。\n\n「我是一个犯下错误的年轻人，你们还想要我怎样？昨天我还是至高无上的帕迪沙，而现在的我连蔽体的衣物都没有。」尽管[Root.Monarch.GetName]苦苦哀求，耶尼切里们却丝毫没有放过他的意思。这些本该保卫帕迪沙的耶尼切里将[Root.Monarch.GetName]绑在马背上游街示众，并将他带到了关押政治犯的七塔监狱，在关押许久后，用弓弦勒死了他。兴奋的耶尼切里闯入帝国的国库，劫掠走了他们能看见的一切东西。一些精明的耶尼切里阿迦则跪在了苏丹皇太后的面前，希望皇太后可以为这次叛乱提供合法性，并迎立新的帕迪沙。"
+EDG_TUR_original_disaster.4.a:0 "多么令人震惊！"
+EDG_TUR_original_disaster.4.b:0 ""
+EDG_TUR_original_disaster_4_a_tt:0 "由于[Root.Monarch.GetName]实行针对§Y军队§!和§Y政府§!改革，但没能成功结束帝国的§R内部权力斗争§!，利益受损的§Y耶尼切里§!发动§R叛乱§!杀死了[Root.Monarch.GetName]，而皇太后迎立了他的幼子§Y穆拉德§!作为新的§M帕迪沙§!。"
+
+EDG_TUR_original_disaster.5.title:0 "裁撤冗余耶尼切里"
+EDG_TUR_original_disaster.5.desc:0 "如今的耶尼切里已经与奥斯曼帝国建立之时的耶尼切里有了很大的不同，曾经的耶尼切里是战场上最精锐的力量，而现在的耶尼切里已经腐化到了奥斯曼先皇们认不出的地步。禁卫军内存在大量的冗官冗员，耶尼切里的职位可以世袭，且耶尼切里们经常在市井之中如普通市民一样从事商业活动和手工业活动，至于操练和其他军事训练，对于他们而言已经过于遥远。现在的耶尼切里已经扛不起军事支柱的作用，我们必须改变这一局面，而要做出改变，必须从裁撤耶尼切里冗员开始。"
+EDG_TUR_original_disaster.5.a:0 "让我们开始改革。"
+EDG_TUR_original_disaster.5.b:0 "罢了吧……"
+EDG_TUR_original_disaster_5_A_TT:0 "§Y耶尼切里§!会感到§R不满§!，他们可能会发起§R反叛§!。"
+EDG_TUR_original_disaster_5_A_TT_2:0 "我们将可以推行更多有关§Y耶尼切里§!的改革。"
+
+EDG_TUR_original_disaster.6.title:0 "禁止耶尼切里从事副业"
+EDG_TUR_original_disaster.6.desc:0 "许多耶尼切里不进行操练，而整日躲在市井中从事商业和手工业活动，这大大降低了耶尼切里的战斗力。若要恢复耶尼切里的力量，我们必须禁止耶尼切里从事副业。"
+EDG_TUR_original_disaster.6.a:0 "军队怎么能从商？"
+EDG_TUR_original_disaster.6.b:0 "他们已经很愤怒了。"
+
+EDG_TUR_original_disaster.7.title:0 "耶尼切里言论管制"
+EDG_TUR_original_disaster.7.desc:0 "耶尼切里们时常在咖啡馆和酒馆内对时政高谈阔论，并且时不时出现一些好事者传播对于高门和帕迪沙不利的言论，将其广泛传播并制造舆论风暴，随即而来的往往是耶尼切里上街闹事，乃至打到帕迪沙的皇宫前。这种行为必须得到禁止，我们必须管控耶尼切里的言论，从禁止他们踏入咖啡馆和酒馆开始。"
+EDG_TUR_original_disaster.7.a:0 "他们是军人，而非市民。"
+EDG_TUR_original_disaster.7.b:0 "人总有一张嘴。"
+
+EDG_TUR_original_disaster.8.title:0 "清洗耶尼切里阿迦"
+EDG_TUR_original_disaster.8.desc:0 "耶尼切里的阿迦们并不完全忠诚于帕迪沙，如今的阿迦们总是有自己的利益，他们自成一派、各行其是，以至于耶尼切里变成了政治斗争的工具。在一场宴会中，[Root.Monarch.GetName]召集了所有的耶尼切里阿迦，并让自己的亲兵准备好将他们全部逮捕。"
+EDG_TUR_original_disaster.8.a:0 "时代变了。"
+EDG_TUR_original_disaster.8.b:0 "我们万万不敢。"
+
+EDG_TUR_original_disaster.9.title:0 "耶尼切里反叛"
+EDG_TUR_original_disaster.9.desc:0 "出于对我们的改革的不满，一大批耶尼切里发动了叛乱，他们要求提高薪俸并撤销我们的改革。"
+EDG_TUR_original_disaster.9.a:0 "把他们全部处死！"
+EDG_TUR_original_disaster.9.b:0 "他们的诉求是合理的。"
+estate_janissaries_Executed_estate_influence_modifier:0 "被削弱的耶尼切里"
+
+EDG_TUR_original_disaster.10.title:0 "膨胀的耶尼切里"
+EDG_TUR_original_disaster.10.desc:0 "到了16世纪，奥斯曼帝国的耶尼切里出现了一定程度的膨胀，大量的冗官冗员聚集在耶尼切里的体系内，他们像市民一样从事生产而非操练，这极大降低了耶尼切里的战斗力。"
+EDG_TUR_original_disaster.10.a:0 "我们应该尽早实行改革。"
+EDG_TUR_original_disaster.10.b:0 ""
+EDG_TUR_original_disaster_10_a_tt:0 "我们可以在§R灾难§!§Y内部权力斗争§!中消除这一负面修正。"
+
+EDG_TUR_original_disaster.11.title:0 "削弱耶尼切里"
+EDG_TUR_original_disaster.11.desc:0 "耶尼切里阿迦日益显示出桀骜不驯的本性，他们已经不是帝国建立之初为帕迪沙征战沙场的忠诚奴仆了。在帝国的混乱时期，耶尼切里阿迦们更是玩弄权柄，成为了帝国中一个莫大的肿瘤。"
+EDG_TUR_original_disaster.11.a:0 "我们必须削弱阿迦们的势力。"
+EDG_TUR_original_disaster.11.b:0 "绝对不能惹怒他们……"
+
+EDG_TUR_original_disaster.12.title:0 ""
+EDG_TUR_original_disaster.12.desc:0 ""
+EDG_TUR_original_disaster.12.a:0 ""
+EDG_TUR_original_disaster.12.b:0 ""
+
+EDG_TUR_original_disaster.13.title:0 ""
+EDG_TUR_original_disaster.13.desc:0 ""
+EDG_TUR_original_disaster.13.a:0 ""
+EDG_TUR_original_disaster.13.b:0 ""
+
+EDG_TUR_original_disaster.14.title:0 ""
+EDG_TUR_original_disaster.14.desc:0 ""
+EDG_TUR_original_disaster.14.a:0 ""
+EDG_TUR_original_disaster.14.b:0 ""
+
+#奥斯曼哈里发地位受质疑
+EDG_TUR_disaster_caliph:0 "哈里发地位受质疑"
+EDG_TUR_disaster_caliph.1.title:0 "哈里发合法性受质疑"
+EDG_TUR_disaster_caliph.1.desc:0 "赛利姆一世夺取了阿拔斯哈里发的哈里发头衔，并自立为哈里发。这一举措本是他试图进一步巩固帝国宗教权威、凝聚广大穆斯林臣民的重要一步，然而，却未曾料到，此举如同投入平静湖面的巨石，激起千层浪，引来了无数质疑的涟漪。\n\n奥斯曼帕迪沙的哈里发头衔在帝国内外的逊尼派信徒中引发了深深的疑虑。在他们心中，哈里发的传承有着严格且神圣的脉络，赛利姆一世的突然介入打破了这份传统认知。一些虔诚的逊尼派学者认为，这种未经正统认可的头衔获取，是对宗教秩序的公然挑战。这些质疑声起初在民间私下流传，随后逐渐汇聚成一股暗流，在帝国的各个角落涌动。\n\n而帝国内外那些一直对奥斯曼帝国虎视眈眈的反奥斯曼势力敏锐地捕捉到了这一机会。他们如同嗅到血腥味的鲨鱼，开始暗中煽动和利用民众的不满情绪。这些势力通过各种隐蔽渠道，传播着对奥斯曼帕迪沙哈里发地位的负面言论，将赛利姆一世描绘成一个亵渎宗教传统的篡位者，使得原本就不稳定的局势愈发紧张。\n\n终于，一场看似偶然却又在意料之中的事件成为了这场危机爆发的导火索。一日，一名年轻的穆斯林儿童竟在埋葬着征服者穆罕默德二世的法提赫清真寺前自焚，以表示对哈里发的不满。这个令人痛心疾首的场景瞬间引起了轩然大波。反奥斯曼势力迅速行动起来，他们四处宣扬这是奥斯曼帕迪沙不当宗教政策的恶果，声称是哈里发头衔的不正当获取导致了神灵的愤怒，使得无辜的孩子遭受如此厄运。\n\n民众的情绪被彻底点燃，一场浩大的叛乱如燎原之火般迅速蔓延开来。城市的街道上，愤怒的人群手持武器，高呼着反对奥斯曼帕迪沙的口号。帝国军队不得不匆忙应对，然而由于事发突然，且叛乱范围迅速扩大，局势一度陷入失控。"
+EDG_TUR_disaster_caliph.1.a:0 "我们才是安拉在大地上的影子。"
+EDG_TUR_disaster_caliph.1.b:0 ""
+
+EDG_TUR_disaster_caliph.2.title:0 "安拉在大地上的影子"
+EDG_TUR_disaster_caliph.2.desc:0 "叛乱者们打着维护正统信仰的旗号，在帝国境内四处起事，城市陷入混乱，乡村也不得安宁。叛军与卡皮库鲁在各个战略要地展开激烈交锋，一时间，帝国大地硝烟弥漫。\n\n[Root.Monarch.GetName]迅速调集精锐部队，采取果断而强硬的措施进行镇压。久经沙场的奥斯曼将领们运用巧妙的战术，逐步瓦解叛军的防线。经过数月艰苦卓绝的战斗，叛乱终于被成功平息。\n\n为了避免类似危机再次发生，奥斯曼帝国加强了对国内宗教团体的严格控制。帕迪沙设立了专门的宗教管理机构，任命忠诚可靠的宗教学者担任要职，确保宗教教义的阐释和传播符合帝国的利益与统治需求。奥斯曼帕迪沙采用了“真主在大地上的影子”这一头衔。这个新头衔不仅彰显了帕迪沙在世俗权力上的至高无上，更试图从宗教层面强化其统治的神圣性，向信徒们表明帕迪沙的统治是真主意志在人间的体现。"
+EDG_TUR_disaster_caliph.2.a:0 "[Root.Monarch.GetName]万岁！"
+EDG_TUR_disaster_caliph.2.b:0 ""
+
+EDG_TUR_disaster_caliph.3.title:0 "乌理玛反叛"
+EDG_TUR_disaster_caliph.3.desc:0 "一批乌理玛反对我们的宗教理念，并攻击我们的政策，他们认为哈里发的头衔是神圣的，不应该被篡夺，而帝国的宗教政策已经从根本上违背了伊斯兰教法。"
+EDG_TUR_disaster_caliph.3.a:0 "不尊奉[Root.Monarch.GetName]就是不尊奉安拉。"
+EDG_TUR_disaster_caliph.3.b:0 "向他们做出妥协。"
+
+EDG_TUR_disaster_caliph.4.title:0 "什叶派动乱"
+EDG_TUR_disaster_caliph.4.desc:0 "什叶派发动了一场规模浩大的叛乱，他们高呼着阿里的名字，咒骂着逊尼派哈里发，并宣称马赫迪即将降世。"
+EDG_TUR_disaster_caliph.4.a:0 "杀死这些异端！"
+EDG_TUR_disaster_caliph.4.b:0 "答应他们的请求。"
+
+EDG_TUR_disaster_caliph.5.title:0 "帕夏自治运动"
+EDG_TUR_disaster_caliph.5.desc:0 "一名帕夏受到了分离主义势力的蛊惑，他听信了那些反对中央和哈里发的乌理玛的谗言，并举起叛旗，要求我们低头。"
+EDG_TUR_disaster_caliph.5.a:0 "朕是帕迪沙！"
+EDG_TUR_disaster_caliph.5.b:0 "他们的要求是合理的……"
+
+EDG_TUR_disaster_caliph.6.title:0 "希腊人叛乱"
+EDG_TUR_disaster_caliph.6.desc:0 "尽管我们优待了希腊人，但仍有许多希腊旧贵族怀念拜占庭帝国，他们举起了叛旗，要求光复罗马。"
+EDG_TUR_disaster_caliph.6.a:0 "两面三刀的希腊人！"
+EDG_TUR_disaster_caliph.6.b:0 "历史已经证明我们不能杀光所有希腊人。"
+
+EDG_TUR_disaster_caliph.7.title:0 "普世牧首的煽动"
+EDG_TUR_disaster_caliph.7.desc:0 "在一个静谧的夜晚，普世牧首秘密召集了教会中的核心成员。烛光摇曳中，他神情凝重地诉说着奥斯曼帝国的种种恶行，号召众人发动一场反对穆斯林统治者的叛乱。这些教会骨干纷纷响应牧首的号召。消息在东正教信徒中悄然传开，如同星星之火，迅速点燃了人们心中压抑已久的怒火。工匠们放下手中的工具，农民们拿起简陋的农具，他们怀着对信仰的忠诚和对自由的渴望，聚集在牧首的旗帜之下。"
+EDG_TUR_disaster_caliph.7.a:0 "我们需要换一个普世牧首。"
+EDG_TUR_disaster_caliph.7.b:0 "我们不能惹怒普世牧首……"
+
+EDG_TUR_disaster_caliph.8.title:0 "萨法维教团的渗透"
+EDG_TUR_disaster_caliph.8.desc:0 "萨法维教团，原本只是一个在宗教领域默默耕耘的神秘组织，然而随着其影响力逐渐扩大，野心也开始膨胀。彼时，奥斯曼帝国幅员辽阔，境内宗教信仰多元，其中什叶派信徒占据一定比例。萨法维教团将目光投向了这些什叶派信众，企图利用他们来达成自己不可告人的目的。\n\n在阴暗的角落里，萨法维教团的使者们秘密潜入奥斯曼帝国。他们乔装打扮，穿梭于各个城市与乡村，与当地的什叶派领袖暗中会面。这些使者带来了蛊惑人心的言论，声称奥斯曼帝国对什叶派的统治充满不公，只有在萨法维教团的引领下，什叶派才能真正获得自由与尊严。\n\n为了煽动叛乱，萨法维教团精心编造各种谣言。他们宣称奥斯曼帕迪沙即将对什叶派展开大规模的迫害，会剥夺他们的财产、破坏他们的清真寺。这些谣言如野火般在奥斯曼帝国境内的什叶派群体中迅速蔓延，民众心中的恐惧与愤怒被不断点燃。"
+EDG_TUR_disaster_caliph.8.a:0 "该死的波斯人！"
+EDG_TUR_disaster_caliph.8.b:0 ""
+
+EDG_TUR_disaster_caliph.9.title:0 "马穆鲁克叛乱"
+EDG_TUR_disaster_caliph.9.desc:0 "随着时间推移，马穆鲁克的野心开始膨胀。他们觉得奥斯曼帝国的遥控统治不过如此，自己完全可以摆脱束缚，获得更大的权力。一些激进的马穆鲁克首领暗中联络各方势力，谋划叛乱。基于帝国近期出现的混乱局面，马穆鲁克们认为独立的时机已到，袭击了奥斯曼帝国在埃及的少量驻军和行政机构。他们公然宣称要结束对奥斯曼帝国的臣属关系，要求完全自治，甚至妄图恢复昔日马穆鲁克王朝的辉煌。"
+EDG_TUR_disaster_caliph.9.a:0 "他们就是不能学乖。"
+EDG_TUR_disaster_caliph.9.b:0 "允许他们自治。"
+
+EDG_TUR_disaster_caliph.10.title:0 "伪阿拔斯哈里发"
+EDG_TUR_disaster_caliph.10.desc:0 "处于对奥斯曼哈里发的叛离和对阿拔斯哈里发的推崇，一些地区出现了自称阿拔斯哈里发的叛匪，他们笼络人心、发动叛乱。\n\n在帝国东部边境的库尔德斯坦地区，群山环绕间，部落众多。一位名叫哈基姆的野心家，听闻了奥斯曼帝国内部因哈里发头衔引发的动荡后，觉得有机可乘。他宣称自己找到了阿拔斯王朝皇室的血脉传承证据，摇身一变自称阿拔斯哈里发。\n\n在帝国南部靠近阿拉伯半岛的希贾兹地区，这里是伊斯兰教圣地麦加和麦地那的所在地，宗教氛围浓厚。一个叫萨利赫的人也自称阿拔斯哈里发。他利用当地民众对宗教传统的尊崇，指责奥斯曼帝国对圣地管理不善，亵渎了宗教圣地的神圣性。萨利赫在麦加的集市、清真寺等地，向过往的信徒们诉说奥斯曼统治者的“罪行”，声称只有恢复阿拔斯哈里发的统治，才能真正维护伊斯兰教的纯洁与尊严。他还拿出所谓的“圣物”作为自己正统身份的证明，迷惑了大批虔诚的信徒。很快，他身边聚集了大量追随者，他们手持简陋武器，在希贾兹地区发动叛乱，袭击奥斯曼帝国的驻军据点和行政机构。\n\n在帝国西部的安纳托利亚高原部分地区，叛匪头目卡里姆同样自称阿拔斯哈里发。他利用当地与中央政府长期存在的矛盾，煽动民众对奥斯曼统治的不满。卡里姆组织起武装力量，占领了一些城镇和乡村，建立起自己的势力范围，不断扩充队伍，准备与奥斯曼帝国军队展开长期对抗，妄图颠覆帝国统治，实现自己的野心。"
+EDG_TUR_disaster_caliph.10.a:0 "一个地毯能容纳两个苏菲派教徒，但一个世界容不下两个哈里发。"
+EDG_TUR_disaster_caliph.10.b:0 ""
+EDG_TUR_disaster_caliph_10_a_tt:0 "我们国内的§Y团体§!中存在叛离者，我们将需要一定时间反复§R肃清§!国内的这些叛徒。"
+
+EDG_TUR_disaster_caliph.11.title:0 "肃清叛离者"
+EDG_TUR_disaster_caliph.11.desc:0 "我们已经做好准备进行新一轮的肃清和审查，志在将国内诸多团体中反对哈里发的势力尽数消灭。\n\n该事件会反复触发，直到肃清了所有的团体。"
+EDG_TUR_disaster_caliph.11.a:0 "乌理玛"
+EDG_TUR_disaster_caliph.11.b:0 "帕夏"
+EDG_TUR_disaster_caliph.11.c:0 "希腊人"
+EDG_TUR_disaster_caliph.11.d:0 "马穆鲁克"
+EDG_TUR_disaster_caliph.11.e:0 "什叶派"
+EDG_TUR_disaster_caliph_11_a_flag:0 "已肃清乌理玛"
+EDG_TUR_disaster_caliph_11_b_flag:0 "已肃清帕夏"
+EDG_TUR_disaster_caliph_11_c_flag:0 "已肃清希腊人"
+EDG_TUR_disaster_caliph_11_d_flag:0 "已肃清马穆鲁克"
+EDG_TUR_disaster_caliph_11_e_flag:0 "已肃清什叶派"
+EDG_TUR_disaster_caliph_11_a_flag_tt:0 "灾难事件§R乌理玛反叛§!将不会再发生。"
+EDG_TUR_disaster_caliph_11_b_flag_tt:0 "灾难事件§R帕夏自治运动§!将不会再发生。"
+EDG_TUR_disaster_caliph_11_c_flag_tt:0 "灾难事件§R希腊人叛乱§!将不会再发生。"
+EDG_TUR_disaster_caliph_11_d_flag_tt:0 "灾难事件§R马穆鲁克叛乱§!将不会再发生。"
+EDG_TUR_disaster_caliph_11_e_flag_tt:0 "灾难事件§R什叶派动乱§!将不会再发生。但只要@ARL萨法维或@PER波斯存在且信仰什叶派，事件§R萨法维教团的渗透§!仍然会发生。"
+
+EDG_TUR_disaster_caliph.12.title:0 ""
+EDG_TUR_disaster_caliph.12.desc:0 ""
+EDG_TUR_disaster_caliph.12.a:0 ""
+EDG_TUR_disaster_caliph.12.b:0 ""
+
+EDG_TUR_disaster_caliph.13.title:0 ""
+EDG_TUR_disaster_caliph.13.desc:0 ""
+EDG_TUR_disaster_caliph.13.a:0 ""
+EDG_TUR_disaster_caliph.13.b:0 ""
+
+EDG_TUR_disaster_caliph.14.title:0 ""
+EDG_TUR_disaster_caliph.14.desc:0 ""
+EDG_TUR_disaster_caliph.14.a:0 ""
+EDG_TUR_disaster_caliph.14.b:0 ""
+
+EDG_TUR_disaster_caliph.15.title:0 ""
+EDG_TUR_disaster_caliph.15.desc:0 ""
+EDG_TUR_disaster_caliph.15.a:0 ""
+EDG_TUR_disaster_caliph.15.b:0 ""
+
+EDG_TUR_disaster_caliph.16.title:0 ""
+EDG_TUR_disaster_caliph.16.desc:0 ""
+EDG_TUR_disaster_caliph.16.a:0 ""
+EDG_TUR_disaster_caliph.16.b:0 ""
+
+EDG_TUR_disaster_caliph.17.title:0 ""
+EDG_TUR_disaster_caliph.17.desc:0 ""
+EDG_TUR_disaster_caliph.17.a:0 ""
+EDG_TUR_disaster_caliph.17.b:0 ""
+
+EDG_TUR_disaster_caliph.18.title:0 ""
+EDG_TUR_disaster_caliph.18.desc:0 ""
+EDG_TUR_disaster_caliph.18.a:0 ""
+EDG_TUR_disaster_caliph.18.b:0 ""
+
+EDG_TUR_disaster_caliph.19.title:0 ""
+EDG_TUR_disaster_caliph.19.desc:0 ""
+EDG_TUR_disaster_caliph.19.a:0 ""
+EDG_TUR_disaster_caliph.19.b:0 ""
+
+#洛塔林吉亚继承危机
+EDG_LOT_ludeweixi_ruler_flag:0 "路德维希七世"
+EDG_LOT_War_of_Succession:0 "洛塔林吉亚继承危机"
+EDG_LOT_War_of_Succession_end_flag:0 "洛塔林吉亚继承危机已结束"
+EDG_LOT_War_of_Succession_end_flag_trigger_tt:0 "§Y洛塔林吉亚继承危机§!已结束"
+
+EDG_LOT_War_of_Succession.0.title:0 "£icon_EDG_EVENT_PICTURE_LOT_disaster_1£"
+EDG_LOT_War_of_Succession.0.desc:0 ""
+EDG_LOT_War_of_Succession.0.a:0 "我们无愧先祖，我们是加洛林，我们是欧罗巴与世界之王！"
+EDG_LOT_War_of_Succession_0_a_tt:0 "@LOT§Y洛塔林吉亚§!的内容至此结束，感谢您的游玩！"
+
+EDG_LOT_War_of_Succession.1.title:0 "洛塔林吉亚的未来"
+EDG_LOT_War_of_Succession.1.desc:0 "那慕尔的宫廷在这一年的春天终于恢复了往日的秩序，然而空气中依旧残留着血与火的气息。经过漫长的岁月，洛塔林吉亚王国的旗帜再一次在德意志的城墙上飘扬。王都的市民在广场上高呼女王的名字，而[Root.Monarch.GetName]则站在阳台上，以沉默回应人群的热情。「经过无数场血腥的叛乱与镇压，」[Root.Monarch.GetName]在向王庭的宣告中说道，「我们终于迎来了和平。法兰西的贵族以忠诚回报了王国的庇护，德意志的诸侯则在铁与血之下屈服。」\n\n然而，胜利的荣耀并不能掩盖现实的隐忧。尽管德意志诸侯被逮捕、审讯、屠戮，我们剥夺了许多德意志贵族的贵族头衔，却没有力量继续没收他们的领地，德意志的城堡被攻陷，叛乱的军队被驱散，首领们在刑场上走向终结——但他们的土地依旧在德意志人的掌控之中。根据旧有的继承法，失去头衔的诸侯之子、之侄，甚至是远房亲族，纷纷继承了他们的领地——一言以蔽之，德意志领地依然被其他德意志贵族统治。\n\n此外，神圣罗马帝国和我们的敌人依旧在资助这些德意志贵族，他们的领地及其领地上的人民依然是德国人，我们击败了德意志贵族的军队，却无法根除他们的影响。德意志人依旧说着德语，保留着他们的习俗和节日，听从神圣罗马帝国的传教士布道。他们在表面上承认洛塔林吉亚的统治，却在内心向奥格斯堡、纽伦堡，甚至是维也纳寄托希望。我们有理由相信，这些德意志人不会放弃反对我们，尤其是贝格公爵格哈德·于利希-贝格，那个在科隆城中聚集兵甲、依附科隆大主教的顽固公爵——依旧是最大的威胁。王国的密探报告称，他暗中与帝国的使节会晤，收取来自莱茵河以东的金银，用以训练新的雇佣军。\n\n「我们击败了他们的军队，却未能摧毁他们的根基。这片土地的德意志之心，依旧在为复仇跳动。」但无论如何，和平仍是来之不易的馈赠。那慕尔的街道重新繁华，商旅往来不绝，法兰西诸侯纷纷在宫廷宴会上宣誓效忠。贝尔娜黛特公主正在宫中接受最严谨的教育，学习法兰西与德意志的语言，熟读历史与兵法。宫廷中的人们低声谈论，这位年幼的继承人拥有她父亲的勇气与她母亲的智慧。「只要她成年，」摄政在夜色中对最亲信的顾问说道，「洛塔林吉亚必将在她的领导下重现伟大。」\n\n在北方的莱茵河畔，教堂的钟声依旧为另一种信念敲响。和平不过是下一场风暴来临前的短暂宁静。"
+EDG_LOT_War_of_Succession.1.a:0 "[Root.GetName]永不灭亡！"
+EDG_LOT_War_of_Succession.1.b:0 ""
+EDG_LOT_War_of_Succession.1.c:0 ""
+
+EDG_LOT_War_of_Succession_3_b_modifier_yes_tt:0 "由于我们在事件§Y「德意志宗教条例」§!中选择了妥协"
+EDG_LOT_War_of_Succession_6_b_modifier_yes_tt:0 "由于我们在事件§Y「德意志贸易特权」§!中选择了妥协"
+EDG_LOT_War_of_Succession_7_b_modifier_yes_tt:0 "由于我们在事件§Y「德意志司法专断权」§!中选择了妥协"
+EDG_LOT_War_of_Succession_8_b_modifier_yes_tt:0 "由于我们在事件§Y「德意志自由法案」§!中选择了妥协"
+
+EDG_LOT_War_of_Succession.2.title:0 "德意志运动"
+EDG_LOT_War_of_Succession.2.desc:0 "路德维希的死为王国带来了动荡，许多被他削弱了权利的地方诸侯蠢蠢欲动起来。起初，一些法兰西的贵族骚动不安，但他们并没有掀起大的波澜；真正令洛塔林吉亚王国陷入困境的是来自东部的德意志诸侯。洛塔林吉亚王国在地图上横跨法兰西与德意志边境，其在德意志领土上建立的统治并不稳固，德意志诸侯时刻渴望着回归神圣罗马帝国。在路德维希七世仍健在时，尽管德意志诸侯戏谑地称其为「乞丐王」，但他们无法忽视路德维希七世的军事实力和军事天赋，面对路德维希加强中央集权的改革，他们也只能默不作声。但在他死后，德意志诸侯立刻嗅到机会，开始计划向摄政议会施压，要求恢复甚至扩大地方权力。这一过程必定是逐步进行的，德意志诸侯势必在未来不断向他们索取更多的权力。"
+EDG_LOT_War_of_Succession.2.a:0 "无论他们想要什么，我们都不能给他们。"
+EDG_LOT_War_of_Succession.2.b:0 ""
+EDG_LOT_War_of_Succession.2.c:0 ""
+EDG_LOT_War_of_Succession_2_a_tt:0 "§Y德意志人§!会不断向我们§R索取权利§!\n-若我们§M不接受§!他们的要求，他们将会发动§R叛乱§!\n-若我们§M接受§!他们的要求，他们将在短时间内配合我们的行动，但当我们结束灾难的混乱后，我们必定将承受§R更沉重的代价§!"
+
+EDG_LOT_War_of_Succession.3.title:0 "德意志宗教条例"
+EDG_LOT_War_of_Succession.3.desc:0 "在路德维希七世驾崩后的第二个冬天，洛塔林吉亚王国的寒风不仅吹遍了莱茵河与摩泽尔河之间的丘陵，也刮进了王宫的长廊。幼小的女王贝尔娜黛特仍被安置在宫廷深处，由摄政议会代为处理政务。然而，议会的成员之间分歧日深，尤其在德意志地区的事务上，已呈火山将喷之势。\n\n在这一年的早春，科隆大主教格哈德与特里尔大主教安塞尔姆结伴抵达梅斯，随行的还有数十位身披紫袍的教士与修院长老。他们浩浩荡荡进入王城，不是来祝贺新年，而是带来一份沉甸甸的联名请愿书。请愿书上，用庄严的拉丁文写明他们的诉求：「德意志地区之教会，应得其自治与独立，免受王庭俗务干预。」\n\n格哈德大主教在议会厅中朗声陈述：「陛下尚幼，政务由诸位大人操持，然神的事务应归神之子民掌管。德意志的教会应自行裁决教规、任命主教，并管理教产，而不必将每一项事务送往梅斯批准。」 他的话像铁锤敲在议员们心头。支持者主要是德意志诸侯与一些同情教会的贵族，他们认为这可减轻王国财政的负担，也能换取教会在地方上的安抚力量。然而反对者则看得更远——一旦给予德意志教会完全自治，便等于在王国领土内承认一个平行的权力体系，而这个体系很可能在德意志诸侯的支持下，反过来挑战王权。\n\n特里尔大主教安塞尔姆更加直白：「王国疆域广阔，德意志信徒众多，若每一桩婚姻、继承与地产之事都要越过莱茵河送到梅斯，岂不迟滞民生？陛下年幼，我们愿以教会的力量守护德意志的稳定，直到陛下亲政之日。」 他将「守护」二字说得意味深长。\n\n摄政议会陷入了长达三日的辩论。法兰西裔的贵族们坚决反对，称这是削弱中央的前兆；部分中立的伯爵则犹豫不决，他们担心若拒绝，教会可能煽动信徒反对王庭。与此同时，德意志的修道院与主教座堂中，牧师们已经在讲坛上暗示信众：梅斯的贵族并不关心他们的灵魂。\n\n到了第四日的清晨，梅斯的街头传来消息——在科隆与特里尔，一些民众开始围绕王庭驻地集会，高呼「让我们的牧者自由」。虽然这些集会尚无暴力，但已让摄政议会感到一股暗潮正在滋长。"
+EDG_LOT_War_of_Succession.3.a:0 "主教必须位居国王之下！"
+EDG_LOT_War_of_Succession.3.b:0 "基督的王国容不下两顶冠冕。"
+EDG_LOT_War_of_Succession.3.c:0 ""
+EDG_LOT_War_of_Succession_3_b_tt:0 "我们向德意志人§G妥协§!了，向他们赋予了这项权利，我们将在日后承受§R相应的代价§!。"
+EDG_LOT_War_of_Succession_modifier_until_end_tooltip:0 "持续§Y20年§!或直到§Y洛塔林吉亚继承危机§!结束"
+EDG_LOT_War_of_Succession_3_b_modifier:0 "德意志宗教条例"
+EDG_LOT_War_of_Succession_3_b_modifier_punish:0 "德意志宗教条例"
+
+EDG_LOT_War_of_Succession.4.title:0 "德意志贵族人身权利"
+EDG_LOT_War_of_Succession.4.desc:0 "在路德维希七世去世后的第二个年头，洛塔林吉亚王国的权力斗争已从暗流汹涌转为明火执仗。那慕尔的王宫中，摄政[Root.Monarch.GetName]不得不面对一个极为棘手的问题——如何在不彻底激怒德意志诸侯的情况下，削弱他们几乎无法触碰的特权。自查理曼时代起，德意志与法兰克的贵族便享有一种被称为「贵族人身不可侵犯权」的古老特权。按照这一传统，君主不得随意逮捕贵族，更不得施以刑讯逼供，哪怕他们被指控犯下谋反、叛国等重罪，也必须由同等级的贵族组成的特别法庭审判。这一制度在统一的帝国时期尚能运作，但在如今分裂与对立的局面中，却成了中央政府的束缚。\n\n[Root.Monarch.GetName]在议会中直言：「诸位，王国的敌人并非总是披着异国旗帜，有时，他们就坐在我们身旁。若他们身披贵族的名义，便能免于问罪，这不仅是王权的羞辱，更是王国的伤口。」此言一出，法兰西裔的主教与伯爵纷纷赞同，认为应撤销或至少削弱这一特权，以便对德意志反叛的贵族进行有效制裁。\n\n然而，消息一经传到莱茵河畔，德意志的诸侯们几乎在一夜之间形成了统一战线。格哈德·于利希-贝格在科隆的大教堂中召集亲王与大主教，向聚集的听众高声宣告：「自查理曼以来，我们的荣誉与自由由神与剑所赐，不是那慕尔的议会能夺走的！今日他们废除人身特权，明日便可随意囚禁你我，再用刑讯逼我们屈膝。德意志绝不能答应！」科隆大主教在弥撒时更是暗示信众：「一个连贵族都不能保护的王国，迟早会将你们的自由也一并剥夺。」此类言论迅速在亚琛、特里尔、美因茨等地传开，甚至被印在传单上散布于集市与酒馆。为了表明立场，德意志诸侯在科隆签署了一份《德意志贵族自由誓约》，誓言任何地方若有贵族因王庭命令被逮捕，其他诸侯将集结武装，强行将其救出。亚琛的行会甚至提出出资雇佣雇佣兵，以防那慕尔派兵进入德意志领地执行逮捕令。"
+EDG_LOT_War_of_Succession.4.a:0 "他们的特权已经是过去式了。"
+EDG_LOT_War_of_Succession.4.b:0 "我们不能触怒他们。"
+EDG_LOT_War_of_Succession.4.c:0 ""
+EDG_LOT_War_of_Succession_4_b_tt:0 "我们将必须依靠§M常规手段§!剥夺贵族的这一§R负面特权§!，这将是§R十分困难§!的。\n\n§R作者不推荐此选项§!"
+
+EDG_LOT_War_of_Succession.5.title:0 "德意志贵族减免兵役"
+EDG_LOT_War_of_Succession.5.desc:0 "路德维希七世生前，面对德意志地区频繁的边境冲突与诸侯争权，他不得不作出妥协——为德意志贵族减免兵役义务，以换取他们在战时的有限支持。此举虽在短期内稳定了莱茵以东的局势，却埋下了王权衰弱的隐患。在国王去世、年幼的贝尔娜黛特继位之后，这项特权逐渐成为德意志诸侯的护身符，他们既不出兵支援王国的征战，也不听命于那慕尔的调度，反而暗中积蓄实力，与境外势力往来频繁。王庭的财政官在会议上痛陈利害：「德意志诸侯不履行兵役，却依旧享受王国的庇护与贸易特权，这等于让他们用我们的财富壮大反叛的力量。」\n\n「王国不能养虎为患。若兵役义务得不到恢复，我们将永远无法掌握莱茵河的咽喉，也不能对叛乱者施以惩戒。」于是，王庭宣布将在下一个王国议会上正式提出废除德意志贵族免役的法令。此消息传到科隆，格哈德·于利希-贝格勃然大怒，在科隆城堡召集德意志的亲王与主教。他高声说道：「洛塔林吉亚的王庭试图让我们像农夫那样服役于他们的军队，这是对我们祖先荣誉的侮辱！我们的剑应为德意志而举，不该为那慕尔的摄政流血。」科隆大主教随即在圣母大教堂的讲道中暗示信徒：「凡企图夺走我们自由的人，便是违背上帝旨意的人。」"
+EDG_LOT_War_of_Succession.5.a:0 "他们也必须服兵役。"
+EDG_LOT_War_of_Succession.5.b:0 "让他们继续吃空饷吧。"
+EDG_LOT_War_of_Succession.5.c:0 ""
+
+EDG_LOT_War_of_Succession.6.title:0 "德意志贸易特权"
+EDG_LOT_War_of_Succession.6.desc:0 "年幼的女王贝尔娜黛特依旧居于那慕尔的宫廷，而摄政[Root.Monarch.GetName]则不得不日夜应对接踵而至的挑战。此时，最棘手的局面来自城市——那些本该依赖王权保护的商业中心，开始公开要求削弱中央的权威。科隆的局势早已在贝格公爵格哈德·于利希-贝格的操控下脱离王庭掌握，他与顺从其意的大主教联手，在莱茵河下游塑造出一个事实上的自治权力中心。受其影响，德意志各大城市的行会与商会也逐渐意识到，若能摆脱那慕尔的关税与商业监管，他们将获得更为丰厚的利润与更自由的贸易空间。\n\n$YEAR$年春，来自亚琛、法兰克福、纽伦堡、吕贝克等城的商会代表齐聚科隆，在格哈德的暗中安排下召开了一次“贸易自由大会”。在会议上，亚琛的代表——一位名为康拉德·冯·布吕尔的布商——提出了一份措辞激烈的请愿书，要求王庭对德意志商贸城市赋予免税特权。请愿书中写道：「德意志的黄金不应被那慕尔的无尽税吏吞噬，我们的市场应为我们的市民服务，而非遥远的宫廷。」\n\n康拉德在发言时更是直言：「我们行会的马车若要从亚琛驶向瓦隆尼亚腹地，需在一路上缴纳七种税。国王已逝，新女王尚幼，我们为何还要为陌生的贵族供养他们的宴席与狩猎？免税，不是请求，而是权利。」他的言辞立刻引来全场的喝彩。不久之后，亚琛便爆发了有史以来规模最大的市民集会。成千上万的工匠、商人、学徒聚集在市政厅前，高举写有「免税即自由」的旗帜，要求市议会立即向那慕尔递交请愿。集会持续了整整三日，市政厅的钟声在夜晚依旧不断敲响，仿佛在向全德意志宣告一场新的自治运动已经开始。\n\n当请愿书送达那慕尔时，王宫议事厅内的气氛凝重无比。法兰西裔的贵族们一致认为此举是对王权的公开挑衅，若一旦答应，将失去对德意志经济的最后掌控权。而[Root.Monarch.GetName]则深知，若拒绝，格哈德势必借此激化不满，将更多城市推入反叛阵营。"
+EDG_LOT_War_of_Succession.6.a:0 "我们不会容许这些窃国大盗的存在。"
+EDG_LOT_War_of_Succession.6.b:0 "少收点税而已。"
+EDG_LOT_War_of_Succession.6.c:0 ""
+EDG_LOT_War_of_Succession_6_A_opinion:0 "反德意志自治运动"
+EDG_LOT_War_of_Succession_6_a_tt:0 "亚琛将被迫向§Y洛塔林吉亚§!支付§G数额为200§!的§Y金钱§!"
+
+EDG_LOT_War_of_Succession.7.title:0 "德意志司法专断权"
+EDG_LOT_War_of_Succession.7.desc:0 "来自东部德意志地区的压力正不断加剧，尤其是那位桀骜不驯的贝格公爵——格哈德·于利希-贝格，他已成为反对中央权威的旗手。格哈德又提出了一项法案，该法案要求德意志地区的全部司法权力由当地诸侯与教会共同掌握，王庭不得派遣法官、不得干涉审判，也无权对判决提出复核。\n\n格哈德在会中直言：「我们不反对那慕尔的王冠，但王冠必须承认——德意志的法律属于德意志人。外来的法官，不懂我们的习俗，不懂我们的荣誉，只会为梅斯和那慕尔的利益裁决案件。这种屈辱，必须结束。」科隆大主教随即附和：「神的法与地方的法同样神圣，不容俗世的贪婪之手触碰。」\n\n数周后，德意志代表团携带这份「司法自治条款」进入那慕尔的王宫议事厅。高窗透入的春日阳光照在长桌之上，条款的文字工整而冷峻——它不仅要求王庭放弃干涉德意志的司法，还规定王庭官员不得在德意志地区从事任何法律相关事务，违者将被视为侵犯领地权。议会内，法兰西裔的贵族们群情激愤。尚贝里侯爵拍案而起：「这分明是将德意志变成一个独立王国！」梅斯的主教则更为直接：「若此案通过，王庭在东部将再无一寸权威。」\n\n消息很快传遍德意志各城。市政广场上出现了支持司法自治的传单，行会与商会也公开表态，认为地方审判可以节省时间与金钱，并避免王庭法官的贪腐与偏袒。部分城市甚至开始拒绝配合王庭派遣的司法使节，迫使他们在城门外折返。拒绝条款，可能引发德意志诸侯的联合叛乱；若同意，则等于亲手切断王国的神经。那慕尔的夜空下，王宫的灯火整夜未熄，摄政与议会在长桌前不断争论——而远在莱茵河畔的格哈德·于利希-贝格，已开始筹划下一步，将司法自治的火焰烧向更广阔的领域。"
+EDG_LOT_War_of_Succession.7.a:0 "他们休想！"
+EDG_LOT_War_of_Succession.7.b:0 "他们应该享有司法专断权。"
+EDG_LOT_War_of_Succession.7.c:0 ""
+EDG_LOT_War_of_Succession_7_a_tt:0 "我们所拥有的所有§Y日耳曼§!文化组的省份，将会失去§G25§!点§M自治度§!和§G10§!点§M分离主义§!"
+
+EDG_LOT_War_of_Succession.8.title:0 "德意志自由法案"
+EDG_LOT_War_of_Succession.8.desc:0 "在路德维希七世驾崩后的第四个年头，洛塔林吉亚王国的政局依然摇摇欲坠。年幼的女王贝尔娜黛特居于那慕尔的王宫之中，而真正握有权力的是摄政与王国议会。然而，来自东部的德意志诸侯并未因时间推移而平息不满，相反，他们的要求愈加直白且激进。\n\n这一年的初春，在莱茵河畔的美因茨城，十余位德意志伯爵与自由城邦代表秘密聚会。会上，科隆的贝格公爵格哈德·于利希-贝格首先提出了一项大胆的议案——「自由法案」。此法案宣称，德意志贵族的行动应完全独立于王庭的监管，他们有权「随意进出国境，与任何外国势力往来，而无需事先告知或获得许可」。\n\n「我们是帝国的支柱，而非锁链上的囚徒。若连出访友邦、会见商贾都要仰仗那慕尔的同意，那么德意志的荣誉何在？」此言引起一片附和。科隆大主教也补充道：「教会的使节往返罗马与维也纳，本就不应受世俗权力掣肘。『自由法案』不仅是贵族的自由，也是信仰的自由。」法案很快被送至那慕尔，由德意志的代表团在王国议会上正式提出。王宫的大理石厅堂内，气氛骤然紧张。支持者强调，此举能促进与周边邦国的贸易与文化交流，甚至能为王国带来更多外交空间。反对者则怒斥，这实际上是在为诸侯与外国结盟、背叛王权铺路。\n\n[Root.Monarch.GetName]在听取双方辩论后，沉声说道：「诸位，王国疆域广阔，边境并非虚设。若贵族之行踪全无约束，王权将沦为虚影，边防亦将名存实亡。」然而，德意志代表毫不退让，贝格公爵冷笑着回应：「虚影的是王权，真实的是我们的土地与剑。」\n\n消息传出，德意志各地的城镇迅速出现了支持「自由法案」的标语。莱茵河沿岸的集市上，商贩和旅人开始公开议论王庭的「专横」。在科隆与特维尔，大教堂的钟声在礼拜日格外悠长，暗示着对法案的支持。为了施压，德意志诸侯甚至宣布，若王庭拒绝通过「自由法案」，他们将集体拒绝向那慕尔缴纳本年度的关税与军事捐。此举立刻引发了财政上的震动——洛塔林吉亚的东部关税收入在短短两个月内锐减三成。在那慕尔的夜色中，摄政府的烛火通明，关于「自由法案」的讨论仍在继续。王国的未来，仿佛悬在莱茵河的水面上——稍有波动，便可能被分裂的激流吞没。"
+EDG_LOT_War_of_Succession.8.a:0 "你们以为我不知道你们想干什么吗？"
+EDG_LOT_War_of_Succession.8.b:0 "他们当然可以来去自如。"
+EDG_LOT_War_of_Succession.8.c:0 ""
+EDG_LOT_War_of_Succession_8_tt:0 "该事件是§Y「德意志自治运动」§!事件链的最后一个事件。\n在消灭所有§R叛军§!后，灾难将会结束。"
+
+EDG_LOT_War_of_Succession.9.title:0 "科隆大游行"
+EDG_LOT_War_of_Succession.9.desc:0 "科隆——这座莱茵河畔的富庶都市，虽然大部分周边土地被王庭牢牢掌控，但城池本身与大主教的权力却被贝格公爵威廉牢牢攥在手中。在洛塔林吉亚如今的混乱时期，贝格公爵格哈德悄然推动一场政治风暴。他暗中教唆大主教在教堂讲坛上含蓄而频繁地提及「神赐予城市的自由」，而贝格公爵本人则通过行会、商会和市政议会不断渲染王庭「剥削科隆财富」的说法，激起民众的不满。\n\n很快，科隆街头出现了第一批自发聚集的市民——他们举着写有「科隆的黄金应留在科隆」的木牌，要求削减向王庭缴纳的税赋。起初只是几十人围在市政厅前呼喊，但在贝格公爵资助下，工匠、商人乃至一些雇佣兵混迹其中，游行规模一日比一日庞大。大主教以教会的名义，为这些集会提供安全空间，甚至在城外的修道院为民兵组织训练。贝格公爵则暗地向周边诸侯传递信号——科隆若能脱离洛塔林吉亚，将成为德意志自治运动的旗帜，并高调地宣称：「从今日起，科隆应当自行管理事务，不再受洛塔林吉亚干涉。我们的誓言是守护这片土地与信仰的纯洁，直到自由永固。」\n\n广场上爆发出震耳欲聋的欢呼，钟声在莱茵河畔久久回荡。消息如疾风般传遍德意志诸邦，许多反对洛塔林吉亚的诸侯暗中派人前来联络，意图借科隆之势掀起更大规模的分裂浪潮。"
+EDG_LOT_War_of_Succession.9.a:0 "奸贼，逆贼，恶贼！"
+EDG_LOT_War_of_Succession.9.b:0 "将它还给贝格公爵吧。"
+EDG_LOT_War_of_Succession.9.c:0 "让科隆大主教回归帝国吧。"
+EDG_LOT_War_of_Succession_9_b_tt:0 "我们仍需要§Y拥有§!§M科隆§!才能完成§Y任务树§!，此举将会延缓我们完成任务树的速度。"
+
+EDG_LOT_War_of_Succession.10.title:0 "圣骑士的援助"
+EDG_LOT_War_of_Succession.10.desc:0 "圣骑士，其词根来源于Palatinus，Palatinus则意为「属于帕拉丁山的」，这个拉丁语单词在古罗马时代是意指与帕拉丁山相关的高官贵族，由于此山是罗马皇宫的所在地，所以Palatinus通常也用来指代那些侍奉于罗马皇帝并为其处理军政事务的宫廷朝臣。进入中世纪之后，查理大帝麾下十二名最杰出的骑士被称作为Twelve Peers，意指「十二近侍」，表示他们是侍奉于皇帝的心腹死党。在加洛林王朝后期，尤其是在洛塔林吉亚王国境内，「圣骑士」的数量不断扩大，其规模不再局限于十二人，也不再是权臣的代名词，而成为了一个类似于骑士团的组织。「圣骑士」的身份由加洛林君主授予，同时需要经过教会认可，因此圣骑士既是军事贵族，也是神职人员——但关于圣骑士是否应当秉持独身主义的论断始终没有停止过。圣骑士的选拔标准十分严格，被授予圣骑士头衔的人必须是贵族，接受过严格的军事训练和宗教学习，且对皇室保有忠诚——也正因此，圣骑士成为了我们国内一支强大且可以依赖的力量。在$YEAR$年，[Root.GetAdjective]面临灾难般的困境，忠诚的圣骑士则向[Root.Monarch.GetName]提出，他们可以为我们提供支持，以解决如今面临的困境。"
+EDG_LOT_War_of_Succession.10.a:0 "一点钱即可。"
+EDG_LOT_War_of_Succession.10.b:0 "我们需要更多人力。"
+EDG_LOT_War_of_Succession.10.c:0 "我们需要更多步兵。"
+EDG_LOT_War_of_Succession.10.d:0 "我们需要更多骑兵。"
+EDG_LOT_War_of_Succession.10.e:0 "我们需要更多名望。"
+EDG_LOT_War_of_Succession.10.f:0 "我们需要更多行政支持。"
+EDG_LOT_War_of_Succession.10.g:0 "我们需要更多外交支持。"
+EDG_LOT_War_of_Succession.10.h:0 "我们需要更多军事支持。"
+EDG_LOT_War_of_Succession_10_c_tt:0 "我们将在§Y首都§!获得一定数量的§M步兵§!，直到§G补满§!我们的§Y陆军上限§!。"
+EDG_LOT_War_of_Succession_10_tt:0 "该选项只能选择§Y一次§!\n在§Y「圣骑士」§!阶层的忠诚度高于§G50§!点时，该事件会§Y反复触发§!（每个月有概率触发，纯看运气），直到§G灾难结束§!或我们将所有选项都选择过一遍。"
+
+EDG_LOT_War_of_Succession.11.title:0 "法兰西贵族的援助"
+EDG_LOT_War_of_Succession.11.desc:0 "我们在德意志的领地不断爆发新的叛乱，但法兰西的贵族始终支持我们的统治。如今的加洛林王朝早已完成了高度的法兰西化，与这些法兰西贵族说着同样的语言、尊崇同样的传统，一同将查理曼视作自己伟大的祖先。这些法兰西贵族希望洛塔林吉亚的王庭能够保护他们免受法兰西国王和神圣罗马皇帝的侵略，而这就需要洛塔林吉亚能够存活下来。"
+EDG_LOT_War_of_Succession.11.a:0 "王国会铭记他们的忠诚。"
+EDG_LOT_War_of_Succession.11.b:0 "我们不需要他们的帮助。"
+EDG_LOT_War_of_Succession.11.c:0 ""
+
+EDG_LOT_War_of_Succession.12.title:0 "法兰西教士的援助"
+EDG_LOT_War_of_Succession.12.desc:0 "洛塔林吉亚王国一直被认为是「最虔信基督教的王国」，许多人认为洛塔林吉亚才应该是「天主教的长女」，法兰西是篡夺了这一头衔。毫无疑问，基督教教士在洛塔林吉亚扮演着重要的角色，洛塔林吉亚的历任国王都对教会颇有恩泽。尽管德意志地区的教会一直对我们恩将仇报，但法兰西地区的教会始终对我们保持忠诚。法兰西的教会害怕被法王控制，沦为兰斯大主教的下属，他们相信，只有洛塔林吉亚国王才能保护他们，真正振兴基督教。因此，他们选择在这一混乱时期，为我们提供帮助。"
+EDG_LOT_War_of_Succession.12.a:0 "王国会铭记他们的忠诚。"
+EDG_LOT_War_of_Succession.12.b:0 "我们不需要他们的帮助。"
+EDG_LOT_War_of_Succession.12.c:0 ""
+
+EDG_LOT_War_of_Succession.13.title:0 "法兰西和尼德兰市民的援助"
+EDG_LOT_War_of_Succession.13.desc:0 "洛塔林吉亚位于西欧与东欧的交界地带，是法兰西、神圣罗马帝国和尼德兰三大贸易区之间桥梁。由于我们为商贾提供了许多贸易特权和便利政策，许多城市的行会和商会支持我们——当然，德意志商人痛恨我们，但法兰西和尼德兰的商人与市民希望我们能挺过这场危机。"
+EDG_LOT_War_of_Succession.13.a:0 "王国会铭记他们的忠诚。"
+EDG_LOT_War_of_Succession.13.b:0 "我们不需要他们的帮助。"
+EDG_LOT_War_of_Succession.13.c:0 ""
+EDG_LOT_War_of_Succession_13_a_loan_tt:0 "我们将获得§Y「市民」§!阶层的一笔§G无利息§!贷款"
+
+EDG_LOT_War_of_Succession.14.title:0 ""
+EDG_LOT_War_of_Succession.14.desc:0 ""
+EDG_LOT_War_of_Succession.14.a:0 ""
+EDG_LOT_War_of_Succession.14.b:0 ""
+EDG_LOT_War_of_Succession.14.c:0 ""
+
+EDG_LOT_War_of_Succession.15.title:0 ""
+EDG_LOT_War_of_Succession.15.desc:0 ""
+EDG_LOT_War_of_Succession.15.a:0 ""
+EDG_LOT_War_of_Succession.15.b:0 ""
+EDG_LOT_War_of_Succession.15.c:0 ""
+
+EDG_LOT_War_of_Succession.16.title:0 ""
+EDG_LOT_War_of_Succession.16.desc:0 ""
+EDG_LOT_War_of_Succession.16.a:0 ""
+EDG_LOT_War_of_Succession.16.b:0 ""
+EDG_LOT_War_of_Succession.16.c:0 ""
+
+EDG_LOT_War_of_Succession.17.title:0 ""
+EDG_LOT_War_of_Succession.17.desc:0 ""
+EDG_LOT_War_of_Succession.17.a:0 ""
+EDG_LOT_War_of_Succession.17.b:0 ""
+EDG_LOT_War_of_Succession.17.c:0 ""
+
+EDG_LOT_War_of_Succession.18.title:0 ""
+EDG_LOT_War_of_Succession.18.desc:0 ""
+EDG_LOT_War_of_Succession.18.a:0 ""
+EDG_LOT_War_of_Succession.18.b:0 ""
+EDG_LOT_War_of_Succession.18.c:0 ""
+
+EDG_LOT_War_of_Succession.19.title:0 ""
+EDG_LOT_War_of_Succession.19.desc:0 ""
+EDG_LOT_War_of_Succession.19.a:0 ""
+EDG_LOT_War_of_Succession.19.b:0 ""
+EDG_LOT_War_of_Succession.19.c:0 ""
+
+
+#荆棘宫廷
+EDG_LOT_disaster_marriage:0 "被荆棘束缚的宫廷"
+
+EDG_LOT_disaster_marriage.1.title:0 "从土伦港出发"
+EDG_LOT_disaster_marriage.1.desc:0 "亲爱的贝尔娜黛特：\n\n我已平安抵达土伦港。此处虽属阿尔勒王国，而阿尔勒人信奉清洁派，并不遵从我们天主教的圣律。但愿你放心——土伦的官员并未刁难我与随行的弟兄们。他虽对我们有所监视，却并无恶意，甚至亲自出面，帮助我们雇得一支船队——当然，他可能只是希望我们这个大麻烦尽早离开。这支舰队的主人是一个天主教信徒，载我们向着耶路撒冷启航。依照海路，我们将途经意大利一些港口，那里或许仍能寻得忠于圣座的勇士，与我一同持剑前行。我愿尽一切努力，使我们的军势更为壮盛，也好更有把握完成上主与我儿路德维希的夙愿——解放耶路撒冷，护佑加布里埃尔免遭恶魔侵扰。\n\n尽管并没有离开很久，但我已经开始想你和加布里埃尔了。愿上帝保佑你与加布里埃尔平安健康，直到我凯旋归来之日。\n\n——你的卡洛斯"
+EDG_LOT_disaster_marriage.1.a:0 "「我也想你，亲爱的。」"
+EDG_LOT_disaster_marriage.1.b:0 ""
+EDG_LOT_disaster_marriage.1.c:0 ""
+
+EDG_LOT_disaster_marriage.2.title:0 ""
+EDG_LOT_disaster_marriage.2.desc:0 ""
+EDG_LOT_disaster_marriage.2.a:0 ""
+EDG_LOT_disaster_marriage.2.b:0 ""
+EDG_LOT_disaster_marriage.2.c:0 ""
+
+EDG_LOT_disaster_marriage.3.title:0 "抵达卡拉布里亚"
+EDG_LOT_disaster_marriage.3.desc:0 "亲爱的贝尔娜黛特：\n\n我已抵达卡拉布里亚，位于亚平宁半岛的南端。这里的风光虽异于故土，却同样令人振奋。经过多日的努力，我们在此成功征募到了一批忠诚的天主教徒，他们愿意为圣地的解放挥剑献身。\n\n此外，我们还雇佣了一支来自西西里岛的希腊移民军队。虽说他们信奉东正教，与我们信仰有所不同，但凭借足够的报酬，他们已同意加入我们的远征。信仰或许有别，然而共同的目标使我们团结。\n\n接下来，我们将先前往塞浦路斯，吕西尼昂家族的领袖亲自写信给我，期待我们的到来，他或许是希望我们能够让他的家族重新统治耶路撒冷王国。\n\n愿主保佑你与加布里埃尔，愿我的脚步越走越近，早日重返[Root.Capital.GetName]，与你共守这片土地。\n\n——你的卡洛斯"
+EDG_LOT_disaster_marriage.3.a:0 "希望这些希腊人真的听从指挥。"
+EDG_LOT_disaster_marriage.3.b:0 ""
+EDG_LOT_disaster_marriage.3.c:0 ""
+
+EDG_LOT_disaster_marriage.4.title:0 "吕西尼昂的提议"
+EDG_LOT_disaster_marriage.4.desc:0 "亲爱的贝尔娜黛特：\n\n我已抵达塞浦路斯，这片土地如今由吕西尼昂家族统治。他们曾经是耶路撒冷的王者，昔日的荣耀依旧在他们心中燃烧。\n\n吕西尼昂家族表示愿意支持我们的远征，协助攻取耶路撒冷。但他们提出了一个条件——希望能重新加冕为耶路撒冷的国王。\n\n我心中充满疑虑与纠结，这关系着我们的远征是否能获得他们的全力支持，也牵动着我们王室的尊严与未来的政治格局。\n\n望你能赐予我指引，告诉我你的心意。无论如何，我愿为你和洛塔林吉亚，为我们的儿子们，竭尽全力。\n\n愿上帝庇护你与加布里埃尔。\n\n——你的卡洛斯"
+EDG_LOT_disaster_marriage.4.a:0 "我们需要他们的帮助。"
+EDG_LOT_disaster_marriage.4.b:0 "他们真是狮子大开口。"
+EDG_LOT_disaster_marriage.4.c:0 ""
+EDG_LOT_disaster_marriage_4_a_flag_tt:0 "我们将获得§Y吕西尼昂§!家族的支持，如果我们成功夺取了耶路撒冷，他们将统治耶路撒冷。"
+EDG_LOT_disaster_marriage_4_b_flag_tt:0 "我们将不能获得§Y吕西尼昂§!家族的支持。"
+
+EDG_LOT_disaster_marriage.5.title:0 "踏上巴勒斯坦"
+EDG_LOT_disaster_marriage.5.desc:0 "亲爱的贝尔娜黛特：\n\n我们已抵达黎巴嫩的海岸。此地统治者对[379.owner.GetName]的统治者存有深深疑虑。我们写信离间了当地总督与[379.owner.GetName]之间的关系。幸得总督默许，我们得以秘密登陆，无声无息地展开行动。\n\n依照约定，我们未对黎巴嫩诸城发动攻击，舰队稳守海岸，随陆军步伐缓缓推进。叙利亚由马穆鲁克统治，然其领袖昏庸无能，萨哈达王朝内战余波未平，国内局势混乱不堪。\n\n基于此形势，我们计划采取缓进急战之策，稳步向耶路撒冷挺进，方能保全军力，确保圣城得以解放。\n\n——你的卡洛斯"
+EDG_LOT_disaster_marriage.5.a:0 "天呐，传言是真的，愿上帝庇佑他们！"
+EDG_LOT_disaster_marriage.5.b:0 ""
+EDG_LOT_disaster_marriage.5.c:0 ""
+
+EDG_LOT_disaster_marriage.6.title:0 "一支法兰克军队登录我们的海岸"
+EDG_LOT_disaster_marriage.6.desc:0 "黎巴嫩得知一支来自西方的舰队停泊在近海，领袖名为卡洛斯，此人是洛塔林吉亚的王配，带领了一批十字军，准备前往耶路撒冷。卡洛斯派来使者，承诺不攻击黎巴嫩城市，只需在沿海登陆，并愿在未来给予回报。黎巴嫩人清楚叙利亚局势混乱，[379.owner.Monarch.GetName]昏庸，马利克之战的余波尚未平息。权衡之下，黎巴嫩决定默许西方军队在偏僻港口登陆。很快，一支基督教军队抵达了黎巴嫩，并浩浩荡荡地向着耶路撒冷前进。"
+EDG_LOT_disaster_marriage.6.a:0 "这对[379.owner.GetName]而言可不是好事。"
+
+EDG_LOT_disaster_marriage.7.title:0 "围攻耶路撒冷"
+EDG_LOT_disaster_marriage.7.desc:0 "亲爱的贝尔娜黛特：\n\n我们已经在耶路撒冷城外安营扎寨，战旗在晨风中猎猎作响。高墙与厚门如同沉睡的巨兽，守军的抵抗异常顽固，每一次试探都被箭矢与滚石迎回。我深知，这场围攻不会是短暂的，我们或许要在烈日与尘土中消磨许多时日，才能让圣城重新归于十字旗下。\n\n我祈求上主保佑，让穆斯林的大军不要过早抵达，在我们夺下城门之前，给我们留出足够的时间。军心依旧坚定，但长久的围攻考验着每个人的意志。我会竭尽全力，不让任何牺牲白费。\n\n请替我亲吻加布里埃尔的额头，告诉他，父亲正在为他守护一个再无恶魔骚扰的未来。\n\n——你的卡洛斯"
+EDG_LOT_disaster_marriage.7.a:0 "「愿上帝祝你一臂之力！」"
+EDG_LOT_disaster_marriage.7.b:0 ""
+EDG_LOT_disaster_marriage.7.c:0 ""
+
+EDG_LOT_disaster_marriage.8.title:0 "击败十字军"
+EDG_LOT_disaster_marriage.8.desc:0 "在这片古老而神圣的土地上，异教徒的旗帜曾在我们城外摇曳多日。洛塔林吉亚人与他们的意大利同盟，誓欲夺回这座上帝的圣城。然而，他们的傲慢不过是沙中的楼阁——当我们的马穆鲁克骑兵如雷霆般自城门倾泻而出，敌阵顷刻崩裂。长矛与弯刀在阳光下闪耀，如同审判之火。许多敌人被击落马下，百余名俘虏在烈焰与刑架中迎来他们的末日，皮被剥下，高悬城门，以警示世人：圣城不可轻犯。\n\n然而，奇事随之而来——敌之首领卡洛斯既不在阵中被斩，亦不在俘虏之列。他的尸首未现，他的踪迹无从寻觅。有人说他已化作尘土，被战火吞没；有人说他已如夜影般遁走，谋划重来。无论真相如何，洛塔林吉亚的骄傲已在圣地折断，而耶路撒冷，依旧屹立在上天的注视之下。"
+EDG_LOT_disaster_marriage.8.a:0 "胜利的是真主。"
+EDG_LOT_disaster_marriage.8.b:0 ""
+EDG_LOT_disaster_marriage.8.c:0 ""
+
+EDG_LOT_disaster_marriage.9.title:0 "卡洛斯的失踪"
+EDG_LOT_disaster_marriage.9.desc:0 "在洛塔林吉亚那幽暗而高拱的宫廷之中，悲声骤然传来——如冬日的冷风，刺破了大理石的静寂。信使踉跄入殿，尘土沾满他的衣衫，眼中满是战火的阴影。他双膝跪地，将一封自东方而来的急报呈上。其上言辞如毒蛇之牙——耶路撒冷城外，洛塔林吉亚大军溃败，意大利同盟覆灭，马穆鲁克的铁蹄踏碎了十字军的荣耀。贝尔娜黛特女王尚未听尽信使之语，面色已如蜡白，血色尽退。她颤抖如风中残叶，双手捂住胸口，仿佛心脏已被无形之手攫住。下一瞬，她如断线的珠子般倾倒在御座之前，侍女们惊呼而至，将她抬回寝宫。\n\n她醒来时，阳光已黯，烛影摇曳如哭泣的灵魂。怀中紧紧搂着小小的加布里埃尔，仿佛唯有这稚嫩的生命，才能将她与这冰冷的世间相连。泪水如春潮般汹涌，从她的面颊滑落，滴在婴儿柔软的额上。她的哭声在寝宫的长廊中回荡，犹如钟声在空谷中回响。\n\n「你是被大地吞没，还是被风带走？你是化作圣徒的灵魂升天，还是仍在荒野中流浪？」\n\n然而，宫廷之外，另一股暗潮已然涌动。德意志诸侯犹如久候时机的秃鹫，嗅到了血与衰败的气息。贝格公爵格哈德，身披狐皮，手执银杖，立于莱茵河畔的议会厅前，对同僚低声道：「女王沉溺于悲恸，宫廷沉于静默——此乃诸侯取回旧权之时。」在烛火照耀的密室中，格哈德召集了一批渴望权柄的领主。他们的言辞如蛇般蜿蜒，毒意藏于礼貌之中。\n\n权力的阴谋悄然滋生，如同夜色中的野草，悄无声息，却日渐繁盛。而在宫墙之内，一位年轻的母亲依旧将幼子抱在怀中，祈求上天能将她失落的爱人归还。她不知，在这祈祷的静夜里，王国的命运，已开始在另一只无情的手中转动。"
+EDG_LOT_disaster_marriage.9.a:0 "我们该怎么办？"
+EDG_LOT_disaster_marriage.9.b:0 ""
+EDG_LOT_disaster_marriage.9.c:0 ""
+EDG_LOT_disaster_marriage_9_a_tt:0 "§Y德意志人§!将会再次试图夺取权力"
+
+EDG_LOT_disaster_marriage.10.title:0 "暗流涌动"
+EDG_LOT_disaster_marriage.10.desc:0 "风雨如晦，夜色深沉，笼罩着洛塔林吉亚那座昔日辉煌的首都[Root.Capital.GetName]。卡洛斯战败的消息如寒风骤至，撕裂了宫廷的寂静，也吹散了昔日王朝那脆弱的和平面纱。「卡洛斯失败了！」这句话在宫廷内外的耳语中回响，像一把无形的刀割裂了众人的信心。女王贝尔娜黛特的脸色日益苍白，昔日那份沉稳渐渐消散，她的双眸充满了无尽的忧虑，仿佛见证着一场无可避免的灾难降临。\n\n然而，远离王座的诸侯们却未曾为国王的哀伤而黯然神伤。反之，他们的眼中燃起了野心的火焰。德意志诸侯们，一个个沉默的巨兽，隐忍着，等待着吞噬这一切的时刻。于利希-贝格公爵格哈德站在莱茵河畔，他的眼神如同冰冷的钢铁，映照着流淌的暗流。卡洛斯的失利正是他等待已久的契机，「洛塔林吉亚的王权如同夕阳西下，终将归于我等手中。」他喃喃自语，声音低沉却坚决。\n\n格哈德召集了他的同盟，众多诸侯聚集在古老的城堡大厅，火光摇曳，映照着每一张充满算计与欲望的面孔。「女王只顾为她那战死于黄沙的丈夫流泪，她的力量终将被我们蚕食。」格哈德的声音如同冬日的寒风，刺骨而清晰。「是时候夺回属于我们的权利，让帝国的铁血重塑秩序！」格哈德的阴谋如同黑夜的毒蛇，盘踞不散。他和他的追随者密谋策划，誓要推翻这位年轻的女王，夺取那逐渐消逝的王冠。权力的游戏开始了，血与火的序章正缓缓拉开。"
+EDG_LOT_disaster_marriage.10.a:0 "太阳下总有阴影。"
+EDG_LOT_disaster_marriage.10.b:0 ""
+EDG_LOT_disaster_marriage.10.c:0 ""
+EDG_LOT_disaster_marriage_10_a_tt:0 "我们尚不知道格哈德正在谋划什么阴谋。"
+
+EDG_LOT_disaster_marriage.11.title:0 "意料之外的支持者"
+EDG_LOT_disaster_marriage.11.desc:0 "晨曦透过[Root.Capital.GetName]厚重的窗棂，斑驳地洒在王座厅那冷硬的石壁上。贝尔娜黛特端坐于王座之上，心头却如被乌云压抑，沉甸甸地难以呼吸。来自德意志的消息如寒风般袭来——格哈德死了。\n\n是的，格哈德死了，那个领导过德意志自治运动，并自始至终反对王庭的贝格公爵，已经死了！\n\n他的儿子威廉继承了贝格公国的爵位，是为贝格的威廉三世。这位威廉三世与科隆大主教联袂发布声明，呼吁所有德意志诸侯向女王表忠。初闻此言，她的心曾燃起一丝暖意，似乎那破碎的王国还有人愿意为她效力。但理智迅速驱散了这盏微光。她明白，其中掩盖的可能是潜藏的野心和不可测的阴谋。"
+EDG_LOT_disaster_marriage.11.a:0 "他的儿子就能做忠臣了吗？"
+EDG_LOT_disaster_marriage.11.b:0 ""
+EDG_LOT_disaster_marriage.11.c:0 ""
+
+EDG_LOT_disaster_marriage.12.title:0 "德意志人希望威廉入阁"
+EDG_LOT_disaster_marriage.12.desc:0 "[Root.Capital.GetName]的街头，晨光尚浅，却已涌动着躁动的潮水。德裔市民们扛起自制的旗帜，口中齐声高喊着诉求：他们渴望德意志人的声音，渴望那熟悉的语言和文化在王国的内阁中占据一席之地。那是对身份的呼唤，是对未来的焦虑，也是对变革的渴望。游行队伍从广场缓缓推移，沿着石铺的街道，波浪般涌向宫廷。王庭也向德意志诸侯采纳了意见，他们自然不愿意让太忠诚的德意志人作为德意志的代言人入阁，但女王也不可能让一个像格哈德一样的反对派进入内阁。\n\n随着谈判过程的推进，一个有趣的提议出现了——让格哈德的儿子，威廉·冯·于利希-贝格进入内阁。他是格哈德的儿子，德意志诸侯愿意相信他；同时，他也是目前唯一一个公开表示支持女王的诸侯。"
+EDG_LOT_disaster_marriage.12.a:0 "没有比他更合适的人选了。"
+EDG_LOT_disaster_marriage.12.b:0 ""
+EDG_LOT_disaster_marriage.12.c:0 ""
+
+EDG_LOT_disaster_marriage.13.title:0 "一位新忠臣"
+EDG_LOT_disaster_marriage.13.desc:0 "[Root.Capital.GetName]的宫廷，如同一座古老的剧场，幕布缓缓拉开，舞台上演绎着权力的博弈与民族的抉择。威廉·于利希-贝格公爵以一场戏剧般的登场，搅动了这座城市沉睡已久的血脉。他的笑声豪迈而温润，仿佛春风拂过冰封的湖面，融化了那些冰冷的敌意，也掀起了暗涌的波涛。\n\n「公爵的手笔阔绰，」人们在阴影与光明交织的走廊低声议论，「他的幽默，如同刀刃上的舞步，既锋利又迷人。」确实，威廉用他的才智和慷慨，编织了一张无形的网，将那些激进的法兰西派贵族一一笼络。他的言辞如同蜜糖，又似烈酒，令对手难以自持，甚至愿意暂时搁置仇恨，共同守护这破碎的王国。法兰西派贵族中有一部分坚决反对他的存在，他们认为威廉不过是东境的威胁，是德意志自治运动的阴影重现，是王国不稳定的根源。每当他们在暗室中低语，便如同阴云密布的夜空，预示着风暴的来临。但更多的人看到了一个无法回避的事实：德意志是洛塔林吉亚王国不可分割的一部分，并在过去的时间里与王庭存在太大的分歧，而威廉可以很好地弥合这种分歧。正如河流无论曲折终将归海，王国的未来也必需包容这片多元的土地，威廉虽则是一剂稳固这复杂国家结构的良药。\n\n贝尔娜黛特静静地坐在王座之上，望着窗外渐渐明亮的天际。她的心如同这初升的曙光，她不知道威廉是否有阴谋，此时却只能静观其变。但到目前为止，她还是更愿意上演一出君臣佳话。"
+EDG_LOT_disaster_marriage.13.a:0 "我们离不开他，或许还应该信任他。"
+EDG_LOT_disaster_marriage.13.b:0 ""
+EDG_LOT_disaster_marriage.13.c:0 ""
+
+EDG_LOT_disaster_marriage.14.title:0 "让威廉领导军队？"
+EDG_LOT_disaster_marriage.14.desc:0 "殿门缓缓开启，威廉公爵走了进来。他的脚步不急不缓，带着德意志特有的稳重与寒意，却并无一丝喧嚣的傲气。他行至女王几步之外，低下头，语气谦恭如一名侍从，却掩不住言辞背后的分量。「陛下，我们现在的战况并不是很理想。」他缓缓开口，「臣斗胆请求，让我率领您的军队。」\n\n贝尔娜黛特微微一怔，目光落在这位贝格公爵的面庞上。他没有夸耀自己的功绩，也没有摆出功臣的姿态，只是将双手背在身后，静静等待。壁炉里的火光映在他的铠甲上，那些暗金的光泽并非来自宫廷的奢华，而是千里征途上的尘与雪。「你已是王国的栋梁，」女王缓声道，「为何还要涉足军权？」\n\n威廉微微低首，语气温和却笃定，「陛下，臣不求权势，但我毕生的愿望，就是在父亲的阴影之外，为王国开辟另一条稳固的道路。北方的风雪与边境的烽火，臣都亲眼见过，若有一日敌人越过莱茵，臣愿做第一个挡在前面的人——不是为臣自己，而是为陛下的王冠，为[Root.Capital.GetName]的灯火。」\n\n他没有多言德意志的贡赋，也没有提及贵族的拥护，只轻轻将一只手摊在地图上，指尖落在边境的虚线处。「这里，若防御迟疑一刻，便会陷全境于险。臣愿将这颗心和这把剑，都置于您的命令之下。」\n\n女王的目光在他脸上停留许久。她看不出贪婪，看不出野心，甚至连那种居功自傲的锋芒都没有。威廉的姿态就像一块历经风霜却不改本色的石头，沉稳、坚固，却并不逼人。窗外，晚钟在暮色中敲响，低沉的回声仿佛在为这场对话作见证。贝尔娜黛特缓缓点头，语气中透出一种罕见的柔和：「威廉公爵，若我将军队交托于你，你可愿向我立誓，剑锋永不偏离王冠与王国？」\n\n威廉单膝跪地，右手执剑，额头微触剑柄。「臣以性命起誓。」"
+EDG_LOT_disaster_marriage.14.a:0 "疑人不用，用人不疑，我们需要他的才能。"
+EDG_LOT_disaster_marriage.14.b:0 "我不可能信任他。"
+EDG_LOT_disaster_marriage.14.c:0 ""
+
+EDG_LOT_disaster_marriage.15.title:0 "让威廉管理财政？"
+EDG_LOT_disaster_marriage.15.desc:0 "贝尔娜黛特女王立在高台之上，目光凝在那口古老的橡木棺上。她记得格哈德的笑声，那种温和而不失锋利的幽默，也记得他在朝堂上从容的答辩。如今，这一切都归于沉寂。不久，朝堂迎来了新的面孔——威廉，格哈德唯一的儿子，年仅二十七岁，却继承了父亲的爵位与庄园。他的眉目间，有着父亲那种沉稳的影子，却多了一分年轻人特有的锐气。\n\n一天清晨，宫廷的长廊上，威廉向女王呈上一封奏折。他恭敬地俯身行礼，声音平静而清晰：「陛下，臣愿为王国效力。倘若您允准，臣愿执掌财政大臣之职。」\n\n贝尔娜黛特抬眼看着他，眼神中有疑虑，也有探究。「威廉，」她缓缓道，「管理财政……那是全王国的命脉，你可知其艰？」\n\n威廉没有立刻回答。他展开那封奏折，上面并非空洞的承诺，而是一页页密密的账目和税收图表——港口税率、边境贸易、谷物储备、铸币成本。他指着其中一处：「陛下，这是去年冬季南方粮价上涨时，德意志商队在北境港口缴纳的税额。若重新设定关税，既可平衡物价，又能增加国库储银。」\n\n他的语气并不急切，甚至带着一丝谨慎。「臣无意聚敛财富，只愿在父亲的阴影之外，为王国开辟另一条稳固的道路。」长廊的尽头，阳光透过彩绘玻璃，落在威廉的侧脸上。那一刻，贝尔娜黛特仿佛看见了一位怀着单纯愿望的年轻人。\n\n她没有立刻答应，也没有拒绝，只在心底默默权衡。外面的钟声再一次响起，仿佛在提醒她：一个时代已终结，另一个时代正在敲门。"
+EDG_LOT_disaster_marriage.15.a:0 "让他管管钱没什么不好的。"
+EDG_LOT_disaster_marriage.15.b:0 "还是太危险了。"
+EDG_LOT_disaster_marriage.15.c:0 ""
+
+EDG_LOT_disaster_marriage.16.title:0 "自我怀疑"
+EDG_LOT_disaster_marriage.16.desc:0 "[Root.Capital.GetName]的灰色天空逐渐明朗，风中夹杂着一丝久违的温暖。然而，这温暖并非来自和煦的春阳，而是权力流转间那隐秘的火焰。威廉·于利希-贝格公爵，在这座古老王国的心脏中渐渐扩展他的势力，仿佛一匹黑色的骏马，奔腾在德意志的大地上，无人能阻。他用他的手腕和智慧，让纷繁复杂的德意志诸侯顺从于王权，也让这王国的裂痕得以暂时抚平。他是那么忠诚，请求为女王分忧，愿意马踏塞北，愿意埋头理财，而他却说，自己只不过想替父亲赎罪。\n\n昔日那些关于德意志叛逆的阴影，在现在看来，也如同雾霭般被时间的阳光缓缓驱散。在威廉的协调下，来自德意志的贡金源源不断地涌入国库，财富如河流般汇入宫廷的深井，滋养着这摇摇欲坠的王权根基。昔日的叛逆者，转身成了王权的支柱；昔日的抵抗，化作了服从的礼赞。\n\n至少从表面上看，是这样的。\n\n贝尔娜黛特凝视着窗外渐渐染上金色的天际，心中涌动着复杂的情感——既有对威廉的信赖，也有对未来的隐忧。洛塔林吉亚的命运，正被这位德意志公爵的双手紧紧握住，而这条路，既可能通往光明，也可能滑向深渊。她在内心深处一直在等待威廉反叛……或者向她伸手索要更多权力。但威廉自始至终都只是履行自己的职责而已。\n\n这一切都让贝尔娜黛特开始思考，自己真的应该根据一位父亲的所作所为，去评价他的儿子吗？格哈德是反对派，但威廉毕竟不是格哈德。她前往教堂祈祷，在祈祷的过程中思考。\n\n她祈祷了又祈祷，思考了又思考，自问询问了一遍又一遍，照明用的蜡烛熄灭了一根又一根。\n\n当她的彻夜祈祷结束后，儿子不是父亲，威廉不是格哈德。"
+EDG_LOT_disaster_marriage.16.a:0 "每个人都需要一个证明自己的机会。"
+EDG_LOT_disaster_marriage.16.b:0 ""
+EDG_LOT_disaster_marriage.16.c:0 ""
+
+EDG_LOT_disaster_marriage.17.title:0 "真情表露"
+EDG_LOT_disaster_marriage.17.desc:0 "在一次御前会议结束后，威廉单独留了下来，说有重要的事情要向贝尔娜黛特陈述。御前会议的长廊上，最后一位大臣的脚步声消失在石拱门外，厚重的橡木门缓缓合上。殿内只剩下女王与威廉，冬日的夕阳透过高窗，染红了大理石地面，也映照着空气中微微浮动的尘埃。威廉没有立刻开口，他的呼吸似乎在与心跳争夺节奏。贝尔娜黛特正要离席，他却忽然上前一步，单膝跪下。\n\n「陛下，」他的声音低沉而稳，却带着一种不可回避的颤抖，「臣有一言……不吐不快。」\n贝尔娜黛特微微皱眉，示意他继续。\n\n「在您与卡洛斯殿下成婚之日，臣就在场。」他的眼睛在光影间闪烁，「那一刻，臣见到您，如同见到初春第一缕阳光落在积雪之上——陡然明亮，无法移开视线。」\n贝尔娜黛特沉默，手指轻轻扣着座椅的扶手。\n「在亚琛的日子里，」威廉继续道，「无论是盛大的舞会，还是宫廷的花园，臣总是远远地注视着您。臣记得每一场音乐会的曲目，记得您低声与侍女交谈的每一个词。那时，臣就知道——臣已经无可救药地爱上了您。」\n他的语气并不急促，而是像在缓缓剥开一封被尘封多年的信。\n「回到贝格的领地后，臣以为时光会磨去这份情感，可是……每一次闭上眼睛，臣看到的仍是您在烛光下的笑容。然而，臣的父亲——格哈德公爵——始终反对洛塔林吉亚的王庭。而且您已经有王配了。所以，臣不敢，也不能，将这份情感说出口。」\n他停顿了一下，像是在克服最后的犹豫。\n「但……请原谅我的冒犯，在卡洛斯下落不明后，我顿时看到了希望。父亲去世后，臣迫不及待地撇清与他的隔阂，向您宣誓效忠，不只是为了臣的家族，更是为了……能靠近您一步。臣不知您是否信任臣，但臣不想再等。臣宁愿在此刻被拒绝，也不愿带着沉默度过余生。」\n\n殿外，晚钟的低鸣缓缓传来，如同命运在远方回响。贝尔娜黛特望着跪在面前的年轻公爵，那双眼睛中没有父辈的算计，只有燃烧得炽烈的光。"
+EDG_LOT_disaster_marriage.17.a:0 "「你的意思是……」"
+EDG_LOT_disaster_marriage.17.b:0 ""
+EDG_LOT_disaster_marriage.17.c:0 ""
+
+EDG_LOT_disaster_marriage.18.title:0 "答复"
+EDG_LOT_disaster_marriage.18.desc:0 "殿内烛影摇曳，金色的光在壁上流动，如同无声的波涛。御前会议早已散去，只剩威廉与贝尔娜黛特相对而立。威廉依旧单膝跪着，头微仰，眼中燃烧着不该属于我子的光。「贝尔娜黛特，」他低声而急促地开口，「我此刻所言，或许是狂妄，或许是亵渎，但我已无法再沉默。我爱你——不是封臣对君主的敬爱，而是男人对女人的爱。」\n\n贝尔娜黛特的眉心微蹙，却未出声。\n\n「我对你的爱，不是偶然的冲动，而是长久的折磨。自从在[Root.Capital.GetName]的宫廷第一次见到你，我便觉得——你并非只是女王，而是我心中唯一的光。你是寒冬中的炉火，是狂风中的海港。」\n\n威廉缓缓站起，逼近一步，声音低沉而坚定：「格哈德的死，给了我唯一的自由。我不必再背负父亲的仇怨，不必再与王庭为敌。我撇清一切，只为走近你。」他顿了顿，目光紧锁着她，「贝尔娜黛特，我不愿再只是你的臣子。我想做你的伴侣，你的夫君。」\n\n贝尔娜黛特的唇微微动了一下，似乎要拒绝，但威廉忽然伸出手，捧住她的手指，几乎是祈求般地贴在唇边。「放弃卡洛斯吧，」他的声音仿佛从胸腔深处挤出，「那段婚姻是政治的枷锁，而非心灵的契约。他给不了你热望、陪伴、理解……这些，我都愿意给。我愿以整个家族、整个生命，甚至整个德意志，换取你的爱。」\n\n贝尔娜黛特抽回手，走向窗前。窗外，夜幕沉沉，[Root.Capital.GetName]的灯火在雾气中若隐若现，犹如无数微弱的星辰。她望向星空，看见的却不是繁星，而是她的儿子——小路德维希，还有加布里埃尔——以及他们的父亲，她的丈夫，卡洛斯。她背对着威廉，肩膀轻微起伏，却没有回应。\n\n「贝尔娜黛特，」威廉的声音在背后响起，近乎固执，「答应我，做我的妻子。我会是你的盾，也是你的剑。无论是敌国的威胁，还是宫廷的暗潮，我都站在你之前。我别无他求，只希望你给卑微的我一个答案。」"
+EDG_LOT_disaster_marriage.18.a:0 "「对不起，我不能。」"
+EDG_LOT_disaster_marriage.18.b:0 ""
+EDG_LOT_disaster_marriage.18.c:0 ""
+
+EDG_LOT_disaster_marriage.19.title:0 "爱的枷锁"
+EDG_LOT_disaster_marriage.19.desc:0 "贝尔娜黛特没有转身。她的手在窗棂上握紧，指节泛白。\n\n威廉没有再逼问，只是深深鞠躬，留下一句：「臣明白了，陛下。谢谢您的答复。」然后，他缓缓退入阴影，烛光将他的背影拉得很长，直至消失。"
+EDG_LOT_disaster_marriage.19.a:0 "我们都有自己的路要走。"
+EDG_LOT_disaster_marriage.19.b:0 ""
+EDG_LOT_disaster_marriage.19.c:0 ""
+
+EDG_LOT_disaster_marriage.20.title:0 "奇迹"
+EDG_LOT_disaster_marriage.20.desc:0 "那日清晨，[Root.Capital.GetName]的天空笼罩着一层铅色的云，仿佛暴雨在远方酝酿。宫廷的走廊寂静无声，贝尔娜黛特正与自己仅存的幼子，加布里埃尔，一起阅读最新的战报。加布里埃尔已经十五岁，成为了一个结实的男子汉，在他的这个年纪，贝尔娜黛特已经和卡洛斯成婚了。加布里埃尔和他的父亲一样英俊，尽管他不如卡洛斯那样强壮勇武，但也在几次骑士大赛中崭露头角。\n\n母子儿子相处融洽，直到一名满身尘土的骑士踉跄着闯入御前厅，他执意要立刻将一封信亲手交给贝尔娜黛特。\n\n「陛下……」他跪倒在地，手中紧握着一封染着暗褐色斑点的信。那血早已干涸，但仍散发着铁锈般的气味。\n\n贝尔娜黛特接过信，指尖触到那凝固的血痕时，心中一阵莫名的寒意。她拆开信封，看到字迹的那一刻，她无比震惊——那是她所爱之人的字迹，那是她最熟悉的字迹：\n\n「贝尔娜黛特：\n我还活着。请原谅我这么多年未曾给你写信，也未曾暴露我的行踪。在上一次战败于耶路撒冷后，我们将部队撤到了塞浦路斯，秘密修养，并且继续募兵。我们正在进行的工作无比艰难，我们要在敌人的土地上秘密联络士兵、组织旧部，我们不能走漏一点风声。\n我的伤已愈，心却未冷。我已召回旧部，并与塞浦路斯的吕西尼昂家族结盟，他们愿为我举剑。很快，我便可聚集一批精兵，再次直取耶路撒冷。\n城内，我已找到盟友——扎伊德，他自称是萨哈达王朝的王子。你或许未听过此名，但在波斯与两河之间，他是令人畏惧的雇佣兵之王。他是个心地善良的人，见过民间疾苦，对基督徒和贫苦人十分友好。扎伊德愿意协助我攻下耶路撒冷，甚至同意让我们建立耶路撒冷王国，只要求能手刃耶路撒冷的总督——一个巴赫里家族的马穆鲁克，据说当年亲手配药毒死萨哈达苏丹萨法尔的正是此人——他说自己的寿命马上要抵达尽头了，只剩下这么一个愿望。近日，他被总督雇佣驻守耶路撒冷，尽管他的手中只有几百人，但足够协助我了。我们已定下计策，里应外合，攻下耶路撒冷。\n我已经离开家十年了，但我很快就会回来了。吾爱，等我，等我凯旋归来——\n你的卡洛斯」\n\n信末的墨迹因血水晕开，最后几个字几乎化为模糊的黑色阴影。\n\n读完的那一刻，贝尔娜黛特潸然泪下。加布里埃尔也接过信件，随后潸然泪下，母子二人相拥而泣。"
+EDG_LOT_disaster_marriage.20.a:0 "「我会等你的，吾爱，我会等你的，哪怕再过十个十年。」"
+EDG_LOT_disaster_marriage.20.b:0 ""
+EDG_LOT_disaster_marriage.20.c:0 ""
+
+EDG_LOT_disaster_marriage.21.title:0 "耶路撒冷王国"
+EDG_LOT_disaster_marriage.21.desc:0 "来自古德斯的信使在黎明时分抵达大马士革。他所带来的消息，使朝堂上所有人都静默不语。\n\n据报，数日前，法兰克人卡洛斯率领军队登录了加沙。他的军队有上万人，其中包括来自西欧的法兰克人，还有意大利人和希腊人，甚至还有北非十字军逃亡出来的残部。他们的秘密工作做得极好，好到令人发指，我们竟从不知道塞浦路斯上聚集了规模如此巨大的军队。他们的情报工作也令人震惊，他们提前得知我们的舰队被派往西方，星夜袭往加沙，并且得到了当地阿拉维派的帮助，这使得他们的行动秘密而迅速。\n\n古德斯总督提前雇佣了一批来自波斯的雇佣兵首领阿巴斯驻守西城，但我们现在知道，此人是萨哈达王朝的王子扎伊德。扎伊德自城内发动起事，与城外军队会合，最终耶路撒冷陷落。\n\n在城破之后，扎伊德俘获了古德斯的总督。此人出身于巴赫里家族麾下的马穆鲁克军官，据传当年曾亲手在萨法尔的药中下毒，致使萨哈达的马利克——萨法尔殒命。扎伊德未作审讯，直接处以刑罚。据目击者称，总督先被逐节斩去手指与脚趾，继而肢体各处被斩断；伤口上泼以热油，令其痛苦难支。之后，扎伊德下令将其凌迟，直至气绝，最后以桩刑处死，并将尸首悬挂于古德斯的城门口，向来往之人示众。\n\n攻城当日，城内的基督徒民众在街巷中高呼欢呼，教堂钟声昼夜不息。塞浦路斯的吕西尼昂家族随即向卡洛斯提出要求，宣称依照旧约与血缘，他们应继承古德斯的王位。"
+EDG_LOT_disaster_marriage.21.a:0 "该死的天主教徒！"
+EDG_LOT_disaster_marriage.21.b:0 ""
+EDG_LOT_disaster_marriage.21.c:0 ""
+
+EDG_LOT_disaster_marriage.22.title:0 "归来"
+EDG_LOT_disaster_marriage.22.desc:0 "那天清晨，[Root.Capital.GetName]的天空阴沉，城外的秋风吹得王宫的旗帜猎猎作响。侍从急步穿过长廊，将一封带有异域香料气息的信呈到女王贝尔娜黛特的御案上。信封外，蜡封印着卡洛斯的印记。她拆开信封，纸张上还带着海风的咸味与港口的烟尘。卡洛斯的字迹依旧稳健，笔锋中透出一种征战者的自信：\n\n「贝尔娜黛特：\n当你读到这封信时，我已离开耶路撒冷的尘土与血迹，登上停泊在加沙的船。叙利亚的海岸在我身后渐渐隐去，海鸥在桅杆之上盘旋。数日之内，我便会抵达[Root.Capital.GetName]。\n我知，这一去一回，时光已将我们之间隔开多年。但如今，我带着胜利而归。耶路撒冷已被我与扎伊德拿下——关于扎伊德，我不知道他如此爱恨分明，他对穷苦人真的很好，但不知道为何如此喜欢折磨仇人。似乎是因为心愿已经了解，在我离开前，扎伊德已经卧床不起了。至于塞浦路斯人。他们要求获得王位，而我——我只要见你。\n我不知你在我离开后经历了多少风雨，也不知在那些漫长的夜晚，你是否想过我。贝尔娜黛特，我回来了，不是以逃亡者的身份，而是以夺城的王者归来。等我，站在王宫的阶前等我——我马上就来。」\n\n贝尔娜黛特将信缓缓放下，目光中闪烁着无法分辨的情绪。宫廷中的侍女与大臣并不知信中写了什么，只看到女王久久望向窗外，那里是灰色的天与远方的海——那片海，正将一个人送回这里。"
+EDG_LOT_disaster_marriage.22.a:0 "「我会等你的，吾爱，我会等你的！」"
+EDG_LOT_disaster_marriage.22.b:0 ""
+EDG_LOT_disaster_marriage.22.c:0 ""
+
+EDG_LOT_disaster_marriage.23.title:0 "晴天霹雳"
+EDG_LOT_disaster_marriage.23.desc:0 "一则消息传到了宫廷中，令女王悲痛欲绝——消息如同突如其来的寒霜般蔓延：卡洛斯的船队在风暴中全军覆没，沉没于无情的海底，女王几乎是最后一个知道这件事的人，甚至是她和卡洛斯的儿子，加布里埃尔告诉她的。\n\n在悲伤的同时，贝尔娜黛特也意识到了一个重要的问题——他们的消息来源被封锁了。\n\n那么，是谁干的呢？"
+EDG_LOT_disaster_marriage.23.a:0 "我们很危险了。"
+EDG_LOT_disaster_marriage.23.b:0 ""
+EDG_LOT_disaster_marriage.23.c:0 ""
+
+EDG_LOT_disaster_marriage.24.title:0 "求婚，还是威胁？"
+EDG_LOT_disaster_marriage.24.desc:0 "[Root.Capital.GetName]的黄昏笼罩在一层淡淡的紫色迷雾中，宫廷内的灯火摇曳，映照出贝尔娜黛特那因忧虑而微微颤抖的身影，她和卡洛斯的儿子，加布里埃尔陪伴着她。她看着加布里埃尔的脸庞，一股伤感油然而生——他长得多么像他的父亲卡洛斯，甚至是一样的温柔。\n\n突然，卫兵报告有人来访，此人是威廉。威廉缓缓推门进屋，手中带着那份他已准备多时的戒指盒，眼中流露出一抹难以言说的坚定。他单膝跪地，语气温柔，却带着不容置疑的冷静：「贝尔娜黛特，卡洛斯已然沉没于无尽的海底，他的影子将不再掠过这世间的光芒。如今，只剩我，愿与你共守这摇摇欲坠的王国。」\n\n他的声音低沉，似乎每一句话都敲击着空气中的阴影，「放下过去的幽灵，选择我，选择这唯一的庇护。」此刻的他，已经不再是那个痴情的男人了，他已经在贝尔娜黛特未曾察觉的情况下，成为了王庭中最大的权臣，甚至可以封锁她的消息来源。\n\n然而，贝尔娜黛特的眼中闪过一丝决然，她摇了摇头。\n\n空气中弥漫着紧绷的气息，威廉面无表情，起身离去，仿佛留下了无声的警告。那一刻，贝尔娜黛特感到王座背后的风暴正在聚集。她闭上眼，紧握着加布里埃尔的手，心底的不安如暗流般涌动，预示着未来的风暴正悄然临近。"
+EDG_LOT_disaster_marriage.24.a:0 "「我想你，卡洛斯。」"
+EDG_LOT_disaster_marriage.24.b:0 ""
+EDG_LOT_disaster_marriage.24.c:0 ""
+
+EDG_LOT_disaster_marriage.25.title:0 "纷至沓来"
+EDG_LOT_disaster_marriage.25.desc:0 "不止威廉。\n在这几天内，贝尔娜黛特收到了大量的求婚信，她看了一封又一封，不禁感到害怕——这绝对不是偶然的事件。\n当她看完全部的九十九封信时，她猛然意识到，这些信都是军队中的德意志贵族写给她的。\n\n「威廉·冯·于利希-贝格。」\n\n她不禁感到背后发凉，这一定是他的手笔，这个人想成为洛塔林吉亚的新王！\n她也迅速意识到，曾经宫廷里会有法兰西、德意志和圣骑士轮岗守卫，但近期，她逐渐无法在宫廷里看见熟悉的西方面孔，而更多是德意志的东方面孔。她也猛然意识到，近期御前会议人员的频繁缺席并非因为公务繁忙，而且威廉有意在隔绝自己与外界的关系——她被架空了，如今身处险地。\n\n次日，女王发布了新的诏令，她短时间内不能再度择偶，因为她必须为自己的丈夫亲自织丧衣——在丧衣完成后，她会做出选择。\n这一消息安抚了很多德意志贵族，这些贵族看见女王昼夜不停地织衣，他们相信女王很快就会兑现承诺。但他们并不知道，贝尔娜黛特在白天织衣，在晚上拆线。"
+EDG_LOT_disaster_marriage.25.a:0 "「我必须继续坚持，我相信卡洛斯一定能回来。」"
+EDG_LOT_disaster_marriage.25.b:0 ""
+EDG_LOT_disaster_marriage.25.c:0 ""
+
+EDG_LOT_disaster_marriage.26.title:0 "挑衅"
+EDG_LOT_disaster_marriage.26.desc:0 "[Root.Capital.GetName]宫廷内，灯火辉煌，众贵族衣袂飘飘，欢声笑语交织成一场盛大宴席。唯独女王贝尔娜黛特缺席。代替母亲出席的是她与卡洛斯的幼子，加布里埃尔，年少的面庞虽稚嫩，却肩负重任。宴席之上，加布里埃尔目光扫过众多军事大臣，发现大多是德意志贵族，心中不由一阵寒意，冷汗渗出——这些人在不久前，扎堆给她的母亲写了大量的求婚信。他极力用礼仪和笑容掩饰内心的不安，努力与各方周旋，但威廉的目光如寒刃般刺入他的眼帘。\n\n「嘿，小子！」威廉的脚夹在桌上，手握酒杯，「你那荡妇母亲准备什么时候选她的新丈夫？」\n「你说什么？」加布里埃尔怀疑自己听错了，威廉管自己的母亲、他的女王——叫什么？\n「你为什么不打开她的房门，让我们好好地和她享受乐趣？」威廉高高举起酒杯，向周围的德意志人致敬，收获了一大片的笑声和回敬。\n「收回你的话，不然你会付出代价的！」加布里埃尔想拔剑，但佩剑在餐前被统一暂存在屋外。\n「我就是说了，那又怎样？」威廉缓缓站起身，将酒杯丢在地上，红色的酒顺着地砖流淌，流到了加布里埃尔的脚下，「你准备做什么呢，小王子？」\n那一刻，一股恐惧涌上加布里埃尔的心头——眼前的男人比他高大得多，此人身经百战，在多次骑士竞技大赛上取得了冠军。此刻，加布里埃尔多么想念他的父亲，他的父亲身高两米、壮硕如狮，不仅在骑士大赛中百战百胜，而且还解放了圣地……自己作为他的儿子，此刻却如此狼狈，被臣子羞辱却什么也做不到。他多么希望有一个人能站出来，告诉他，他应该怎么对抗眼前的恶魔。\n他找不到……他真的找不到……\n…………\n…………\n找不到吗？\n你还算卡洛斯的儿子吗？\n他心中燃起一团勇气之火。\n所有人都看见了接下来的一幕。"
+EDG_LOT_disaster_marriage.26.a:0 "加布里埃尔冲了上去，给了威廉一拳。"
+EDG_LOT_disaster_marriage.26.b:0 ""
+EDG_LOT_disaster_marriage.26.c:0 ""
+
+EDG_LOT_disaster_marriage.27.title:0 "战斗"
+EDG_LOT_disaster_marriage.27.desc:0 "威廉踉跄地向后退了一步。\n「哈哈……哈哈……」他轻蔑地笑了两声，「好啊，好啊！来啊，小狮子，来啊！让我看看你的能耐！来，战斗！」\n「战斗！战斗！」宴会厅内的人们高喊起来。\n「来啊，想让我感受到一点乐趣吗？你会知道怎么做一个男人的。」威廉戏谑地笑了起来，攥紧了拳头，摆出准备作战的姿势，「来啊，来啊！进攻啊！」\n「进攻！进攻！」\n\n加布里埃尔再次挥了一拳上去。\n这一拳却被威廉轻松挡下。威廉反手又给了他一拳，这一拳直接将加布里埃尔击倒在地。小王子迅速爬起来，继续进攻。\n一拳，一拳，一拳。\n但是，每一拳都被威廉轻松挡下，而威廉也挥来一拳又一拳。\n每一拳都如同钢锤一般，将加布里埃尔一次次击倒在地，在加布里埃尔的脸上留下一道又一道伤痕。\n加布里埃尔一次又一次进攻，起初，他还能看清威廉那狰狞的脸，听见人群的呼喊声。但很快，他既看不清对方的脸，又听不清声音了——他眼前只有血，他耳中只有嗡嗡声\n\n他站不起来了，气喘吁吁，满面淤青，倒地不起。\n「你以为我们看不透你母亲的把戏吗？」威廉向地上啐了一口，「告诉你的母亲，如果她再补不择木而栖，我们会带来鲜血与泪水！」\n随后，众人离去，留下加布里埃尔颤颤巍巍地站了起来。"
+EDG_LOT_disaster_marriage.27.a:0 "「父亲，我也想像你一样强大。」"
+EDG_LOT_disaster_marriage.27.b:0 ""
+EDG_LOT_disaster_marriage.27.c:0 ""
+
+EDG_LOT_disaster_marriage.28.title:0 "机遇"
+EDG_LOT_disaster_marriage.28.desc:0 "威廉满怀自信，这蒙蔽了他的判断力。\n他自认为在控制了朝臣和宫廷禁卫后，自己已经可以高枕无忧，可以肆意羞辱王子和女王——他们要做什么，才能击败他呢？他控制了[Root.Capital.GetName]，只要女王被留在这里，被层层军队包围，他就能立于不败之地。至于加布里埃尔，他不过是一个孱弱的王子，自幼在母亲的羽翼下长大，没有任何威胁。\n\n也正因如此，当来自意大利的使节团来到[Root.Capital.GetName]的使馆，请求与女王见面时，威廉拒绝了；但当使节团请求与王子见面时，他同意了。\n他绝对想不到，这成为了他灭亡的前兆。\n\n当加布里埃尔来到使馆时，意大利人与他假模假样地攀谈了一阵。随后，使节团的负责人将其带入自己的私人房间。在这个小房间内，加布里埃尔看见了一个高大的人——此人身高两米，身材魁梧，金发浓密，面庞英俊又沧桑——更重要的是，他们长得几乎一模一样。\n「父亲？」加布里埃尔几乎无法相信自己的眼睛，「真的是你吗？」他几乎激动地说不出话来。\n「是的，是我，我的孩子！」卡洛斯将他揽入怀中。两人相拥而泣。「很抱歉，我没办法暴露我的行踪——威廉一直在派人追杀我，当我从耶路撒冷出发时，就已经有刺客跟上我的船了。」在两人的哭声渐息后，卡洛斯让儿子坐下，自己先开口解释，「在那个风暴之夜，刺客准备在混乱中刺杀我，他险些就得手了——说起来很奇怪，但幸运的是，船先沉了，所以他没有得手。更幸运的是，我们在近海遇险，而我被热那亚的一条渔船捞了起来。我刚见到热那亚的总督，他就让我一定不能暴露自己的行踪，他知道有人正不留余力地想杀我。\n「于是，总督派遣了一支使节团和护卫，护送我来到了[Root.Capital.GetName]。所以，现在，我回来了，我终于回来了！」卡洛斯也几乎抑制不住自己的激动，「当然，现在还不是高兴的时候。威廉控制了内阁和德意志的军队，皇宫也被他拿捏在手里。只靠我一个人是没办法攻下皇宫的，我们需要让威廉和他其他求婚者到一个能被我们袭击的地方。」"
+EDG_LOT_disaster_marriage.28.a:0 "「我有一个计划，父亲。」"
+EDG_LOT_disaster_marriage.28.b:0 ""
+EDG_LOT_disaster_marriage.28.c:0 ""
+
+EDG_LOT_disaster_marriage.29.title:0 "比武大会"
+EDG_LOT_disaster_marriage.29.desc:0 "那一日，女王发布了消息，通知了每一个求婚者。\n所有人前往亚琛郊外的一座行宫。在傍晚，女王将在那里举办比武大会——获胜者将有资格迎娶女王。女王也在通知信中写上了一些细枝末节的规定，例如必须谨记贵族礼仪，不得高声喧哗；参与比武大会者应当佩戴十字架前来，但在入场前应当脱下十字架，以免鲜血染上十字架；比赛的失败者应当提前离场，不得在比武场内逗留，以防失败者聚集闹事；所有人不准携带武器和护甲，武器由女王统一提供；所有人不得带护卫，以免挤满行宫和发生武装冲突；在比武大会开始前，会组织一场弥撒，由教会和圣骑士一起领导，以确保比赛的神圣性和合法性。\n当天傍晚，一百辆马车驶向行宫。威廉提前进行了安排，确保女王是在他信任的宫廷禁卫的护送下抵达现场，防止女王提前逃跑。威廉觉得比武大会另有蹊跷，于是在外套下藏了小型胸甲和一把锋利的匕首。此外，尽管女王通知不能带护卫，威廉还是带上了十个全副武装的甲士。当威廉抵达行宫时，他觉得自己已经稳操胜券，但他的德意志同僚成为了他的第一个阻碍——他们都遵守了规定，没有带护卫，凭什么威廉带了十个全副武装的甲士？\n「这场求婚风波是你领导的，你却带头不遵守规矩，这是何意？」平日里最敬仰他的一位年轻贵族跳出来指责他，其他人纷纷附和。尽管对被忤逆感到不满，但威廉也知道，自己对这群德意志人的控制力并没有多强，他不能因为一场闹剧就失去了他们的信任。于是，威廉让自己的护卫留在行宫外，自己带着剩下的九十九人进入了行宫的大厅。"
+EDG_LOT_disaster_marriage.29.a:0 "我们要比什么呢？"
+EDG_LOT_disaster_marriage.29.b:0 ""
+EDG_LOT_disaster_marriage.29.c:0 ""
+
+
+EDG_LOT_disaster_marriage.30.title:0 "比赛内容"
+EDG_LOT_disaster_marriage.30.desc:0 "众人鱼贯而入，将大厅挤满了一半。大厅中央一一座一米高的圆形高台，高台的四方各有一座水池，水池上方各挂着一个吊灯，这四个吊灯成为了行宫大厅内仅有的光源。大厅入口大门的对面，有一个挑廊，女王站在挑廊上，俯视着下面的德意志贵族们。大厅的空气闷热而压抑。吊灯的火焰映照在水面上，反射出摇曳的光影，让大厅看起来像笼罩在一层液态的光之牢笼中。贵族们的低语声此起彼伏，却又刻意压低音量，生怕在此刻显得失礼。女王身着一袭洁白的礼服，胸前绣着金线十字纹，如同他与卡洛斯成婚那天一般——威廉看楞了一会，随后心底又生出一股厌恶，那是因爱而生的憎恨。贝尔娜黛特的目光扫过威廉时，略微停顿了一瞬，那一瞬间既像是在衡量，又像是在无声地挑衅。\n「诸位，」女王的声音清晰地传遍整个大厅，「感谢你们应邀前来。今日的比武，不仅关乎我的婚姻，也关乎王国未来的荣誉。」\n「瞧瞧她，她好像在挑选骑士，而不是挑选她的丈夫。」威廉戏谑地对自己身边的人嘲讽道。\n女王命侍从搬来一箱钝剑，让所有参赛者上前抽签。\n大厅里的空气像一面紧绷的鼓皮，灯光在铠甲上闪着冷光，铁靴踩在石地上的声音，像远方的雷声一点点滚近。\n抽签结束后，德意志的贵族们依次上场较量。木剑交击的声音清脆又沉重，像斧头劈在湿木上；喘息、呐喊、铠甲的摩擦声在穹顶下回荡。第一轮还没结束，就有一半的人被淘汰，他们扶着墙退到角落，脸色发白，盔甲像被雨水浸过一样挂着汗。\n威廉是第一轮最后一个上场的。他赢了，干脆利落，但在落剑的那一刻，他心里就明白——照这样打下去，等到决赛，剩下的人只会筋疲力尽，连举剑的力气都没有。\n于是，他直接把木剑一丢，转身面对所有人，声音像刀子一样劈开空气：\n「喂！各位！这算什么比试？打到天黑也分不出个屁来！要是真有本事，就换个能立刻见分晓的办法！」人群立刻沸腾起来。有人大笑，有人呼喊「换！」有人用剑敲击盾牌，发出低沉的节奏。威廉见势，得意地笑了笑，抬着下巴对女王吼道：「陛下！别让我们像孩子一样用木棍玩闹！给我们真正的挑战！让最强的人现在、马上、当众站出来！」\n女王站在二层的挑廊上，安静地看着。她抬起一只手，所有声音像潮水一样退去。她缓缓地笑了——那笑容里有玩味，也有审视：「既然你们想要更换比试方式，那就如你们所愿。」她挥手，两个侍从抬上来一张古老的长弓。弓身是深色的老木，像经过无数风霜的骨骼，弓背雕着海浪与狮首，弓弦紧绷得像寒冬的钢丝，似乎轻轻一拨就会发出冰冷的颤音。\n女王的手指沿着弓背缓缓滑过。「这是我丈夫卡洛斯的战弓，陪他征战十年，从未失手。今天，只要有人能拉开它，不论是谁，我都会把我的手和王冠一起给他。」\n随后，女王转身离开。大厅一瞬间安静下来，所有目光都被那张弓牢牢吸住。它像一条沉睡的巨龙，正等着有人唤醒它——而唤醒它的代价，可能是王位，也可能是折断的手臂和破碎的尊严。"
+EDG_LOT_disaster_marriage.30.a:0 "来吧，来吧。"
+
+EDG_LOT_disaster_marriage.31.title:0 "箭在弦上"
+EDG_LOT_disaster_marriage.31.desc:0 "所有人轮番上阵去拉那张旧弓，一个接一个地失败了。弓弦依旧紧绷着，像在嘲笑他们的徒劳。威廉在一旁看得很仔细，他盯着每一双手、每一个动作，像一只在暗处等猎物失误的狼。可他并没有立刻上前，而是懒洋洋地靠在柱子上，任由别人筋疲力尽。\n终于，轮到他了。威廉走到弓前，嘴角带着挑衅的笑。他深吸一口气，双臂的肌肉鼓了起来，青筋像蛇一样爬上手臂。他咬紧牙关，把全部力气倾注在弓弦上。弓身颤抖了——可它依然没有被拉开分毫。威廉的笑容僵在脸上，取而代之的是怒火。他猛地松手，那弓几乎被他当作武器般甩向大厅的角落，发出沉闷的撞击声。他转过身，像个战场上的军官一样踏上高台，目光扫过人群，声音像雷一样劈下来：\n「你们没发现吗？！他们在戏耍我们！」\n「先是比剑，再是拉弓，拖啊拖啊，就是不让我们分出个结果！你们还真信，这场闹剧能选出女王的丈夫？」\n「他们想拖延时间，让我们逐渐精疲力尽，让我们逐渐老去，让王座逐渐冰凉，让加布里埃尔逐渐长大，让王冠等待他的主人！」\n他的语气愈发急躁，脚步在高台上踱来踱去，手势像是在下达军令。\n「此时此刻，就是机会！不是等到明天，不是等到下一个比赛项目！现在，我们就能掌握主动！」\n「去他妈的这些破规矩！烧了它，毁了它！你们心里那团火，还在不在？！你们还是不是骄傲的德意志人？为何要听凭一个妇人戏耍你们？！」\n他的声音洪亮无比，像在揭露秘密：「你们注意到了吗？那位小王子，可不在场啊……我们的女王在等什么，她无非在等着她的儿子成年、长大——将我们全杀了！」\n「别再发呆了！今天，我们能让[Root.GetName]换个主人！今天，我们能夺走一切——王座，荣耀，连同她的心！」\n「让我们杀掉加布里埃尔」\n「杀了他！杀了他！」德意志人们高呼起来。\n「让我们抓住女王！」\n「抓住女王！抓住女王！」\n「让我们冲进她的卧室！让我们好好品尝她！」\n「品尝她！品尝她！」\n「让我们统治洛塔林吉亚！让我们！——」"
+EDG_LOT_disaster_marriage.31.a:0 "赫然间，一支箭从后方刺穿了威廉的脖子。"
+
+EDG_LOT_disaster_marriage.32.title:0 "卡洛斯"
+EDG_LOT_disaster_marriage.32.desc:0 "威廉的声音还在大厅的穹顶回荡，那支箭已冷冷地贯穿了他的咽喉。箭尖从颈后透出，带着暗红的血珠，像一颗凝固的露水，在火光映照下闪着阴森的光。他瞪大眼睛，嘴唇张开，却只能发出呛咳的、破裂的气音，血泡在唇间翻涌。他捂着脖子，手指在箭杆上颤抖，像抓着一条毒蛇。鲜血顺着指缝喷涌而出，溅到他胸口的徽章上，染成一片刺目的黑红。他踉跄两步，跪倒在地，双膝磕在石板上发出沉闷的响声，呼吸急促得像一头垂死的野兽。他想说话，却只发出「呜——咯——」的断音，一股温热的血从鼻孔和嘴角同时涌出，顺着下巴滴落。他的双眼开始泛白，瞳孔涣散，像在寻找什么最后的光。威廉的身体猛地抽搐了几下，双手在空中无力地划了两圈，便扑倒在石板上，发出一声低沉的撞击声。血水沿着地面的缝隙蜿蜒开来，触到旁边人的靴尖，那人下意识地后退了一步。\n\n一片死寂。\n\n众人齐齐望向箭矢飞来的方向——在大厅阴影的尽头，一个高大的身影缓缓从黑暗中走出。他披着厚重的披风，长长的兜帽遮住了面容，从一开始就像一块石头一样潜伏在那里。没人注意到他，也没人听见他的脚步。那人停下，抬手摘下兜帽——是的，射杀威廉的人，正是卡洛斯。他握着的，正是方才被威廉愤怒甩开的那张旧弓。所有人记得，没有一个人能将它拉开分毫，可此刻，它安静地握在卡洛斯手中，弓弦仍在微微颤动，仿佛还在回味刚才那致命的一击。卡洛斯的眼神像寒铁一样，声音却低沉而清晰，在寂静的大厅里回荡：\n\n「在过去的十五年里，我在遥远的另一个世界发动圣战，我在践行基督的意志，但无数痛苦和悲伤折磨我。」\n「我的战友死去，我的精神崩溃，我的身体饱受摧残——但我相信，我所做的一切是值得的，不仅是为了上帝，更是为了我的家人。」\n「但当我再次亲眼看见我的土地时，我发现我的宫殿被亵渎，像耶路撒冷一样破败，最令人无法容忍的是，我发现你们准备伤害我的儿子，强暴我的妻子！」\n\n卡洛斯的目光如同燃烧的火焰，从平静的悲伤一步步走向滔天的暴怒：\n\n「我在耶路撒冷结识了一位好友，他告诉我，他的族语是——仁慈是最危险的毒药——我已经忍受够了。而你，你们——」\n\n他抬起弓，弦上又一次搭上了箭，眼神如判官般冷酷："
+EDG_LOT_disaster_marriage.32.a:0 "「我要你们全部横尸于此！」"
+EDG_LOT_disaster_marriage.32.b:0 "「我原谅你们，回家去吧，德意志人。」"
+
+EDG_LOT_disaster_marriage.33.title:0 "洛塔林吉亚的王"
+EDG_LOT_disaster_marriage.33.desc:0 "卡洛斯的最后一个音节落下时，弓弦猛然绷响。第一支箭如雷霆般射出，贯穿了最近一名德意志人的眼眶，箭尖从后脑飞溅着白色与红色的混合物，带着一段颅骨碎片钉进石柱，整个人像被钉死的蝙蝠一样悬挂在那。\n\n他没有停，左手疾如风，弓弦接连颤动，箭矢划出一道道炽白的轨迹。有人喉咙被射穿，血雾喷洒到旁人脸上，热得像刚从铁锅里溅出的油；有人腹部中箭，整段肠子从伤口汩汩涌出，垂到地面，被自己踩住而摔倒；还有人双膝被箭断筋，跪倒时正好让另一支箭从下巴贯穿口腔，顶破颅顶，钉入天花板。\n\n短短几息，十余人已经化作倒地的尸山。卡洛斯的步伐稳如巨兽，每一步都溅起一朵血花。\n\n「杀了他！不杀了他，我们都活不了！」有人高呼起来，剩下的人迅速行动，有的准备赤手空拳进行冲锋，一些能拿到钝剑的就拿钝剑，不能的就拿起能找到的一切武器。\n\n只见卡洛斯举起弓，抬手将将大厅唯一的光源——四个吊灯的绳索一一射断——四个吊灯分别落入下方的水池中，火光顿时全部消失，整个大厅陷入一片黑暗。\n\n一些贵族惊慌失措地逃跑，却发现大门早已被锁死；另一些人举起手中仅有的钝剑，冲向卡洛斯，希望拼死换取一线生机。他丢下弓，拔出两把长剑——每一把剑都是双手剑，但他单手足矣——剑身因久经圣战而布满缺口，却在火光中反射出致命的光辉。剑光一闪，离他最近的两人上半身被整齐削去，残躯膝盖一软，跪在血水中喷出最后一口气。另一人举起试图反击，卡洛斯反手斩断他的胳膊，剑刃又顺势劈入肩颈，将他从锁骨到肋骨整个劈开，热气腾腾的肺叶在空气中翻滚。\n\n卡洛斯如同狮王扑入羊群，剑法毫无花哨，只有沉重、精确与毁灭。有人被他一剑钉在墙上，身体抽搐时血水顺着石缝蜿蜒成溪；有人被他捏住头颅，硬生生扭断脖子，颈骨爆裂声在寂静中清晰如雷。一个年轻的叛军试图从侧面偷袭，卡洛斯反手抓住他的手腕，将长剑没入他的腹中，然后缓缓上挑，直至整个人被从腹部到锁骨剖开，五脏如倾盆的污水般泻下，带着呛鼻的腥甜。\n\n鲜血的腥味在大厅中弥漫，空气沉重得仿佛凝固。众叛军的残余颤抖着，从地上挣扎起身，其中一位德意志贵族踉跄着步履，脚下踩着那些倒地的同伴鲜血，缓缓攀上高台。他握紧拳头，面色苍白却充满恳求的坚决，振臂高呼：「我们的王啊！你已经杀死了我们的领导者，你已经斩断了毒蛇的头颅，我们这些人不过是乌合之众，我们不成威胁——恳求您放过我们吧，不要让洛塔林吉亚流更多的血了，让我们离开，我们会对您无比忠诚！——」"
+EDG_LOT_disaster_marriage.33.a:0 "大厅里一片死寂，只有他的声音在回荡。"
+
+EDG_LOT_disaster_marriage.34.title:0 "王者的答复。"
+EDG_LOT_disaster_marriage.34.desc:0 "大厅里一片死寂，只有他的声音在回荡，仿佛回声在时间的深渊里被无数灵魂倾听。卡洛斯轻轻吐出一个字，声音低沉且冷冽，如冰雪融化时的第一声碎裂：「不。」就在那贵族的身后，黑暗如潮水般涌动。卡洛斯悄无声息地出现，锋利的剑刃毫不留情地落在那贵族脖颈上。鲜红的血液如喷泉般喷溅，头颅在利刃的猛力一击下斩断，鲜血四溅，头颅飞射出去，重重撞击在大厅的石墙上，溅射出暗红色的斑点。那血色飞溅的瞬间，仿佛凝固了时间，众人心中掀起一阵凛冽的寒风。\n\n卡洛斯目光冷峻，在黑暗中目视着面前尚存的敌人。他的剑挥动如雷霆，斩开了前方的黑暗。\n\n剑刃交织的声音此起彼伏，锋利的铁光在火光中闪耀，斩断了那些妄图逃生者的生命线。有人嘶吼，有人哭喊，但声音在死亡的阴影下迅速消散。一柄长剑扫过脖颈，又一名贵族的头颅滚落至脚下，血液如火焰般喷涌。另一柄利刃刺入心脏，染红了宽袍。更多的鲜血浸润了石地，滴落成一片猩红的湖泊。\n\n最终，五十具尸体铺成一条血色的道路，鲜血从伤口涌出，染红了冷硬的石板。卡洛斯步步登高，践踏德意志人的尸体，最终站在高台之上。他的披风在战火余烬的光辉下缓缓飘动，仿佛王者的旗帜。双手高举，肌肉紧绷却又释放出一股无与伦比的力量与解脱。那一刻，时间仿佛停滞，只有血液与荣耀的气息在空气中震颤。\n\N卡洛斯的眼神穿透这片被鲜血洗礼的大厅，像审判者般俯视着他用铁血重塑的王权。\n\n他的脑中不断有声音浮现，那声音清澈而神圣，仿佛上帝的声音，他只听见——"
+EDG_LOT_disaster_marriage.34.a:0 "「卡洛斯，卡洛斯。」"
+
+EDG_LOT_disaster_marriage.35.title:0 "重逢"
+EDG_LOT_disaster_marriage.35.desc:0 "洛塔林吉亚王宫那厚重的铁门，在硝烟与鲜血的洗礼后缓缓开启，发出沉闷而庄重的响声，仿佛大地本身也在屏息，聆听这久违的声音。门扉之后，初夏的阳光透进灰暗的大厅，像一道穿透黑暗的光芒，带来久违的温暖与希望。打开大门的，是加布里埃尔，后面跟着女王贝尔娜黛特，再后面是一些圣骑士，还有刚刚被释放的、此前被威廉关押的法兰西大臣。\n\n「父亲！」加布里埃尔飞奔过来，扑在了卡洛斯的怀中。\n贝尔娜黛特缓缓走来，她已经控制不住自己的泪水。\n「卡洛斯。」\n卡洛斯一言不发，伸出双手，将贝尔娜黛特拥入怀中，他把这多年的痛苦与等待一同压在心底，如今终于可以亲自对她说出那句话："
+EDG_LOT_disaster_marriage.35.a:0 "「我回来了，贝尔娜黛特。」"
+
+
+EDG_LOT_disaster_marriage.36.title:0 "莫大的仁慈"
+EDG_LOT_disaster_marriage.36.desc:0 "[Root.Capital.GetName]的阴云未散，血腥的气息还未完全消退，卡洛斯那冰冷的身影如一柄利剑，在黑暗中划开了威廉的喉咙，却又令人意外地收回了杀戮的利刃。他没有让血液在大厅中继续流淌，没有将仇恨扩散至那些还未曾落败的德意志贵族。「滚吧！回到你们自己的领地上，再也不要回来！」卡洛斯怒斥道，说罢就要离开大厅。当他走到大门前时，一把匕首插入了他的后颈——一名德意志人从威廉的尸体下找到了为威廉藏在外套下的匕首，将他扔向了卡洛斯。卡洛斯震怒地转过头，但他再也无力握住他的剑，甚至再也无力站起来了。\n\n第二天，洛塔林吉亚的宫廷内传出消息，王配卡洛斯死在了行宫中，德意志贵族们将小王子加布里埃尔剁成了碎片，将他的鲜血和碎肉涂抹在了行宫大厅中，又放狗进来舔舐这些血肉。而贝尔娜黛特女王，据说她被关进了行宫的另一间大厅内，剩下的九十九个德意志人轮流——甚至有几个是结伴成行——进入了她的房间。进入女王房间的，不止有男人，还有各种棍棒和刀刃，甚至有屎尿。没有人知道贝尔娜黛特女王经历了什么，但当仆人第二天进入房间时，只看到了破碎的头发和不堪入目的尸体，以及满屋子的鲜血。\n\n尽管威廉已经死了，但德意志人继续控制亚琛，他们扶持了一个德国人做国王，但法兰西人并不买账——但这也无所谓，因为德国人也没有想过统治一个统一的国家，如果洛塔林吉亚分裂了，德意志人的目的不也实现了吗？"
+EDG_LOT_disaster_marriage.36.a:0 "「卡洛斯，你仁慈的代价是整个洛塔林吉亚」"
+
+EDG_LOT_disaster_marriage_35_A_tt:0 "灾难§R「被荆棘束缚的宫廷」§!将会结束。\n\n感谢您游玩本灾难的专属内容，剧情灵感取自荷马的「奥德赛」，情节以娱乐为主，切莫过度较真。"
+EDG_LOT_disaster_marriage_36_a_tt:0 "对你而言，游戏已经§R结束§!了"
+
+
+EDG_LOT_War_of_Succession_end_flag_trigger_tooltip:0 "灾难§Y「洛塔林吉亚王位继承危机」§!已经结束"
+EDG_LOT_disaster_marriage_end_flag_trigger_tooltip:0 "灾难§Y「被荆棘束缚的宫廷」§!已经结束"
+
+EDG_LOT_disaster_marriage_can_end_flag_trigger_tooltip:0 "§Y卡洛斯§!已经§M回归§!"
+
+#大殇歌
+EDG_LOT_disaster_frank:0 "大殇歌"
+
+EDG_LOT_disaster_frank.0.title:0 ""
+EDG_LOT_disaster_frank.0.desc:0 ""
+EDG_LOT_disaster_frank.0.a:0 ""
+EDG_LOT_disaster_frank.0.b:0 ""
+EDG_LOT_disaster_frank.0.c:0 ""
+
+EDG_LOT_disaster_frank.1.title:0 "大殇歌"
+EDG_LOT_disaster_frank.1.desc:0 "当洛塔林吉亚皇帝的诏令如冬日的寒霜般降下，命令莱茵河畔的农夫用陌生的法语诵读圣经，命令托斯卡纳的诗人以巴黎的韵律歌唱时，帝国的裂痕终于化作喷涌的鲜血。亚历山德罗·美蒂奇——佛罗伦萨的雄狮，在圣母百花大教堂的阴影下高举染血的十字架，怒吼道：「他们不只是要我们说法语，而是要我们的子孙忘记自己的祖先！」当洛塔林吉亚的主教手持镀金圣油逼近时，他折断权杖的声音比圣歌更嘹亮。「你们的祝福是毒药，」他对着颤抖的教士们冷笑，「就像你们的法语——甜蜜的谎言包裹着征服的刀剑！」在领主广场上，他点燃了皇家语言学院的典籍，灰烬中升起的不是烟雾，而是成千上万操着托斯卡纳方言的农夫高举的战旗。「他们想让法语成为波河的领主？」他跨上战马，剑指米兰，「那我便让意大利语成为他们的丧钟！」\n\n而在北方的黑森林深处，伯恩哈德·维特尔斯巴赫的狼嚎回荡在每一座城堡的雉堞之间：「巴黎的廷臣们已经在丈量莱茵河两岸的麦田，下一个被夺走的，会是你们的女儿，还是你们的坟墓？」亚历山德罗从未跪伏。伯恩哈德的铠甲上刻着古老的符咒——不是拉丁文，而是先祖流传的日耳曼卢恩文字。当皇帝的税务官用生硬的法语宣读新赋税的诏命时，他割下对方的舌头塞进诏书卷轴。「听见了吗？」他对聚集的诸侯举起血淋淋的战斧，「这就是巴黎人想要的——我们的土地用他们的语言书写地契，我们的法律任他们而操弄！」在皇帝大教堂的阴影里，他放任士兵用德语的战吼震碎彩窗："莱茵河永远流淌德意志的啤酒香味，而非法兰西的引人堕落的葡萄酒！"\n\n当两股力量在阿尔卑斯山口交汇时，叛军的刀剑上宛若同时映出第勒尼安海的落日与北海的晨光。亚历山德罗的旗帜绣着但丁的诗句，伯恩哈德的号角吹响尼伯龙根的旋律，而连接他们的，是对同一句诅咒的千万种方言诠释：「宁可让故乡成为焦土，也绝不让它沦为异语者的花园！」编年史家们颤抖着记录下这场暴动——它没有官方名称，只因幸存者们传唱的歌谣太过悲伤，后世只称它为——大殇歌。"
+EDG_LOT_disaster_frank.1.a:0 "查理曼的帝国又一次被掷为三块"
+EDG_LOT_disaster_frank.1.b:0 ""
+EDG_LOT_disaster_frank.1.c:0 ""
+EDG_LOT_disaster_frank_1_a_tt:0 "在对§Y德意志§!的战争分数达到§Y80§!后，我们将§G吞并§!§Y德意志§!。\n在对§Y意大利§!的战争分数达到§Y80§!后，我们将§G吞并§!§Y意大利§!。\n\n我们在§Y德意志§!和§Y意大利§!每缺少一个二级核心省份，都会让我们的敌人§R更强大§!。\n每一个被割让给德意志和意大利的、我们没有§G核心§!的省份，将会为叛乱者提供如下加成：\n-§Y陆军士气§!:§G+1%§!\n-§Y训练度§!:§G+0.25%§!\n-§Y国家税收修正§!:§G+1%§!\n-§Y国家人力修正§!:§G+1%§!\n-§Y国家人力恢复速度§!:§G+1%§!\n-§Y陆军规模上限§!:§G+3§!\n-§Y陆军征召花费§!:§G-0.5%§!"
+
+EDG_LOT_disaster_frank.2.title:0 "曲终"
+EDG_LOT_disaster_frank.2.desc:0 "当亚历山德罗的银甲在勃艮第的秋雾中锈蚀，当伯恩哈德的战旗被遗失在阴翳的黑森林，[Root.Monarch.GetName]的王座终于摆脱了最后一道阴影。他的胜利不是雷霆的轰鸣，而是晨露渗透土壤的寂静——贵族们的剑鞘一个接一个地匍匐在凡尔纳伊宫的玫瑰窗下，像被驯服的狼群舔舐着新主人的靴尖。[Root.Monarch.GetName]的笔比他的剑更锋利。他颁布的《语言敕令》不是羊皮纸上的墨水，而是一把熔化的金勺，强迫每个贵族张口接住这滚烫的荣耀。\n\n「说法语，否则说遗言。」宫廷诗人德·巴拉格在日记里戏谑地记录。很快，斯特拉斯堡的日耳曼老伯爵们开始用巴黎腔调谈论葡萄酒的年份，米兰的官吏在宣读公文时艰难的压住意大利语的颤音——仿佛他们的母语是某种需要忏悔的原罪。德语被称为野蛮人的语言，他的死亡也宛若昭示这德意志的概念就和汪达尔和哥特一样被扫入历史的尘埃。意大利语则死得更体面些：它宛若被装入，摆在佛罗伦萨的沙龙里供人观赏。\n\n或许在数个世纪后，当后世的军队在乌尔姆发现一座刻有德语的石碑之际时，随军学者轻蔑地掸去封面的灰尘：「看啊，这就是被法兰西的太阳晒死的语言化石。」而[Root.Monarch.GetName]的雕像始终矗立在洛林十字广场，他手中的法典并非拉丁文，也非加洛林时代的残章，而是用最纯粹的法语镌刻着一行字：「我给予你们的，不仅是统治，而是存在本身。」"
+EDG_LOT_disaster_frank.2.a:0 "真正的死亡是被遗忘，而法兰克将永垂不朽。"
+EDG_LOT_disaster_frank.2.b:0 ""
+EDG_LOT_disaster_frank.2.c:0 ""
+
+EDG_LOT_disaster_frank.3.title:0 "敌人内部的亲法派"
+EDG_LOT_disaster_frank.3.desc:0 "我们的敌人内部并非铁板一块，[Root.GetName]的同化政策在德意志和意大利都颇有成效，德意志和意大利内部那些讲法语的亲法派愿意在暗中支持我们，并破坏叛军的内部团结。"
+EDG_LOT_disaster_frank.3.a:0 "支持他们的活动！"
+EDG_LOT_disaster_frank.3.b:0 "我们没有那个资金……"
+EDG_LOT_disaster_frank.3.c:0 "向这些亲法派敲诈一笔！"
+EDG_LOT_disaster_frank_3_A_tt:0 "我们激化了§Y德意志§!和§Y意大利§!的国内矛盾，他们的反抗力量将会被削弱，具体体现为：\n-§Y陆军士气§!:§G-5%§!\n-§Y训练度§!:§G-1.25%§!\n-§Y国家税收修正§!:§G-5%§!\n-§Y国家人力修正§!:§G-5%§!\n-§Y国家人力恢复速度§!:§G-5%§!\n-§Y陆军规模上限§!:§G-15§!\n-§Y陆军征召花费§!:§G+2.5%§!"
+EDG_LOT_disaster_frank_3_C_tt:0 "我们让亲法派失望了，使得§Y德意志§!和§Y意大利§!更加团结，他们的反抗力量将会被增加，具体体现为：\n-§Y陆军士气§!:§G+5%§!\n-§Y训练度§!:§G+1.25%§!\n-§Y国家税收修正§!:§G+5%§!\n-§Y国家人力修正§!:§G+5%§!\n-§Y国家人力恢复速度§!:§G+5%§!\n-§Y陆军规模上限§!:§G+15§!\n-§Y陆军征召花费§!:§G-2.5%§!"
+
+EDG_LOT_disaster_frank.4.title:0 "阿德里安"
+EDG_LOT_disaster_frank.4.desc:0 "阿德里安是贝尔娜黛特和卡洛斯最年幼的儿子，他的年纪太小，几乎可以当加布里埃尔的儿子。但到了今天，他已经不是一个年幼的稚子了。阿德里安自幼接受了良好的教育，也对自己的父亲，卡洛斯「奥德赛」的故事十分熟悉——堪称耳濡目染。他尊崇贝尔娜黛特，崇拜卡洛斯，甚至到了痴迷的地步。他认为自己就是新的卡洛斯，是一个注定成为王者的人，当然，时至今日，他还只是在内阁中担任大臣。但令人忧虑的是，在「大殇歌」战争爆发后，阿德里安与军官们愈走愈近，并领导了几场大型的战役，在军队中的威望越来越高。他正在成为一个万众瞩目的政治明星。"
+EDG_LOT_disaster_frank.4.a:0 "他的野心有多大？"
+EDG_LOT_disaster_frank.4.b:0 ""
+EDG_LOT_disaster_frank.4.c:0 ""
+
+EDG_LOT_disaster_frank.5.title:0 "阿德里安政变"
+EDG_LOT_disaster_frank.5.desc:0 "当帝国双头鹰的旗帜在阿尔卑斯山口第三次折断，当「大殇歌」的哀鸣从米兰的废墟蔓延至维也纳的宫墙，阿德里安皇子站在军事地图前，指尖划过一道道溃败的红色箭头——疲惫不堪的军队正在恐惧中向西逃窜，而此刻，地图上干涸的血渍正浸透他的指节。「这不是叛乱，」他对沉默的军官们低语，「叛乱只属于失败者」。\n\n在斯特拉斯堡地窖的烛光下，十二把佩剑的主人团坐在圆桌面前。阿德里安解下总理大臣的金链，掷于桌面：「链子拴得住狗，但拴不住命运。」来自莱茵军团的少将献上军团鹰徽，那慕尔大主教的密函藏在圣经夹页，连宫廷诗人都在传唱新词：铁与血的时代，需要一双未被紫袍腐蚀的手。\n\n「皇帝在兰斯大教堂前检阅残兵时，秘密效忠阿德里安的大臣已截杀所有对外联络的信使。当夜，本应护卫皇帝的卫队纷纷为阿德里安而欢呼——他们倒戈的瞬间，阿德里安正单膝跪在教堂，任由铁手套被圣油浸透。「您背叛了家族！」[Root.Monarch.GetName]嘶吼着被拖下台阶。」\n「不，」阿德里安凝视满目垂怜之象圣母像，"我无法背叛会毁于你手的加洛林王朝」。\n\n加冕礼在亚琛大教堂的炮声中举行，而阿德里安一世执剑抵住《黄金诏书》：「今日之后，洛塔林吉亚人只敬畏两种事物：上帝，与胜利。」当斥候报告敌军因内讧撤退时，民众看见他们的皇帝笑了——那笑容让老人想起查理曼的雕像，让青年想起传说中屠龙的圣乔治。"
+EDG_LOT_disaster_frank.5.a:0 "新日总会升起。"
+EDG_LOT_disaster_frank.5.b:0 "谁也不能背叛[Root.Monarch.GetName]！"
+EDG_LOT_disaster_frank.5.c:0 "帝国需要一个新的奥古斯都，但不会是他！"
+
+EDG_LOT_disaster_frank.6.title:0 "日耳曼的失败"
+EDG_LOT_disaster_frank.6.desc:0 "在莱茵河的雾气中，伯恩哈德·维特尔斯巴赫的呐喊曾如雷霆般震撼诸侯的心灵，他的斧刃曾劈开无数税吏的头颅，他的战旗曾让整个黑森林燃烧。然而，当[Root.Monarch.GetTitle] [Root.Monarch.GetName]的铁骑自[Root.Capital.GetName]出征，帝国的秩序便如洪水般席卷了德意志的群山与平原。日耳曼人的盔甲，在火炮的轰鸣下粉碎；古老的德语战歌，在圣骑士的铁甲踏击中被碾压。那些曾割下税务官舌头的手臂，如今被锁链捆缚，悬挂在城门上作为战利品。伯恩哈德的嚎叫在最后一战中回荡在莱茵河畔，他挥动血斧试图阻挡如暴风般席卷的军团，但铁骑的洪流将他的军队淹没。雪地被鲜血浸透，尸体成堆，犹如一座用死者之骨铸成的堤坝，却依旧无法阻挡[Root.Monarch.GetName]的进军。\n\n法兰克福成为审判的刑场。叛军的首领被押上广场，他们的德语诅咒在烈火中消散，被迫聆听法语的圣歌。伯恩哈德被战斧劈裂的双手钉在耻辱的柱石上，他的头颅被悬挂在莱茵河桥上，注视着他未能守护的土地。城中的民众被迫以陌生的法语祷告，那些敢于再低声吟唱祖先歌谣的舌头，被刀锋割去，掷入灰烬。\n\n「他们试图守护自己的语言，但语言不能挡住长矛；他们试图捍卫祖先的风俗，但风俗不能抵御火炮。最终，莱茵河不再回荡德意志的战歌，而是回荡[Root.GetName]的凯旋。」编年史如是写道。\n\n尸横遍野的原野上，胜利者的旗帜如烈火般飘扬。德意志的骑士被覆灭，诸侯的城堡化为灰烬。卢恩符文被抹去，取而代之的是镀金的圣书。大殇歌的最后一节不再由反叛者吟唱，而由洛塔林吉亚的胜利所铭刻。"
+EDG_LOT_disaster_frank.6.a:0 "德意志人面临了他们的命运。"
+EDG_LOT_disaster_frank.6.b:0 ""
+EDG_LOT_disaster_frank.6.c:0 ""
+
+EDG_LOT_disaster_frank.7.title:0 "拉丁的失败"
+EDG_LOT_disaster_frank.7.desc:0 "在亚平宁山麓，亚历山德罗·美第奇曾高举染血的十字架，以托斯卡纳的方言召唤农夫，以佛罗伦萨的骄傲点燃烈火。他折断过主教的权杖，他焚烧过法语典籍，他让米兰的街道响彻但丁的诗句。但当[Root.Monarch.GetTitle] [Root.Monarch.GetName]的铁骑跨越阿尔卑斯，当[Root.Capital.GetName]的旗帜插上亚平宁的山口，这一切骄傲便如残叶般被秋风卷去。\n\n托斯卡纳的歌声在炮火轰鸣中沉没，意大利的方言在法语圣歌的回声里窒息。亚历山德罗在圣母百花大教堂前集结最后的军队，他的剑锋曾劈开教皇的祝圣，他的怒吼曾压过圣歌，但当火炮撕裂石墙，当骑士的长枪穿透诗人的胸膛，他的旗帜坠落在鲜血与灰烬之中。佛罗伦萨的天空被火焰点亮，广场上的典籍化为灰烬，而那灰烬在风中飞舞，却拼不出任何意大利的诗行，只能拼出[Root.GetName]的法语祷文。那些敢于在密室低语但丁诗句的舌头，被扯下，抛在神坛前。农夫们被迫在田野上以陌生的语言祷告，诗人们的韵律被迫改写为亚琛的节奏。\n\n亚历山德罗最终被俘。他被拖入圣母百花大教堂，在那座他曾宣誓捍卫的祭坛前，胜利者命人以血水灌满石缸。那血水是叛军与平民的尸体淌下的洪流，混合着圣油与灰烬，腥臭而炽烈。他被投入其中，挣扎着呼喊「意大利」的名字，但血水灌满了他的肺腑，他的声音化作一连串破碎的气泡，消失在殷红的液体深处。他死在自己信仰的圣所，被鲜血溺毙，成为帝国凯旋的祭品。"
+EDG_LOT_disaster_frank.7.a:0 "伦巴第再度败给了法兰克。"
+EDG_LOT_disaster_frank.7.b:0 ""
+EDG_LOT_disaster_frank.7.c:0 ""
+
+EDG_LOT_disaster_frank.8.title:0 ""
+EDG_LOT_disaster_frank.8.desc:0 ""
+EDG_LOT_disaster_frank.8.a:0 ""
+EDG_LOT_disaster_frank.8.b:0 ""
+EDG_LOT_disaster_frank.8.c:0 ""
+
+EDG_LOT_disaster_frank.9.title:0 ""
+EDG_LOT_disaster_frank.9.desc:0 ""
+EDG_LOT_disaster_frank.9.a:0 ""
+EDG_LOT_disaster_frank.9.b:0 ""
+EDG_LOT_disaster_frank.9.c:0 ""
+
+
+EDG_LOT_disaster_frank.10.title:0 ""
+EDG_LOT_disaster_frank.10.desc:0 ""
+EDG_LOT_disaster_frank.10.a:0 ""
+EDG_LOT_disaster_frank.10.b:0 ""
+EDG_LOT_disaster_frank.10.c:0 ""
+
+EDG_LOT_disaster_frank.11.title:0 ""
+EDG_LOT_disaster_frank.11.desc:0 ""
+EDG_LOT_disaster_frank.11.a:0 ""
+EDG_LOT_disaster_frank.11.b:0 ""
+EDG_LOT_disaster_frank.11.c:0 ""
+
+EDG_LOT_disaster_frank.12.title:0 ""
+EDG_LOT_disaster_frank.12.desc:0 ""
+EDG_LOT_disaster_frank.12.a:0 ""
+EDG_LOT_disaster_frank.12.b:0 ""
+EDG_LOT_disaster_frank.12.c:0 ""
+
+EDG_LOT_disaster_frank.13.title:0 ""
+EDG_LOT_disaster_frank.13.desc:0 ""
+EDG_LOT_disaster_frank.13.a:0 ""
+EDG_LOT_disaster_frank.13.b:0 ""
+EDG_LOT_disaster_frank.13.c:0 ""
+
+EDG_LOT_disaster_frank.14.title:0 ""
+EDG_LOT_disaster_frank.14.desc:0 ""
+EDG_LOT_disaster_frank.14.a:0 ""
+EDG_LOT_disaster_frank.14.b:0 ""
+EDG_LOT_disaster_frank.14.c:0 ""
+
+EDG_LOT_disaster_frank.15.title:0 ""
+EDG_LOT_disaster_frank.15.desc:0 ""
+EDG_LOT_disaster_frank.15.a:0 ""
+EDG_LOT_disaster_frank.15.b:0 ""
+EDG_LOT_disaster_frank.15.c:0 ""
+
+EDG_LOT_disaster_frank.16.title:0 ""
+EDG_LOT_disaster_frank.16.desc:0 ""
+EDG_LOT_disaster_frank.16.a:0 ""
+EDG_LOT_disaster_frank.16.b:0 ""
+EDG_LOT_disaster_frank.16.c:0 ""
+
+EDG_LOT_disaster_frank.17.title:0 ""
+EDG_LOT_disaster_frank.17.desc:0 ""
+EDG_LOT_disaster_frank.17.a:0 ""
+EDG_LOT_disaster_frank.17.b:0 ""
+EDG_LOT_disaster_frank.17.c:0 ""
+
+EDG_LOT_disaster_frank.18.title:0 ""
+EDG_LOT_disaster_frank.18.desc:0 ""
+EDG_LOT_disaster_frank.18.a:0 ""
+EDG_LOT_disaster_frank.18.b:0 ""
+EDG_LOT_disaster_frank.18.c:0 ""
+
+EDG_LOT_disaster_frank.19.title:0 ""
+EDG_LOT_disaster_frank.19.desc:0 ""
+EDG_LOT_disaster_frank.19.a:0 ""
+EDG_LOT_disaster_frank.19.b:0 ""
+EDG_LOT_disaster_frank.19.c:0 ""
+
+
+
+#圣血的四旬斋
+EDG_LOT_disaster_religion:0 "圣血的四旬斋"
+
+EDG_LOT_disaster_religion.1.title:0 "圣血的四旬斋"
+EDG_LOT_disaster_religion.1.desc:0 "在贝尔娜黛特的葬礼钟声尚未在[Root.Capital.GetName]的石墙间散尽回响之时，马丁·路德的呼声便如一阵狂风，吹过德意志的山谷与集市，撕开了教会的披风，也吹散了无数人灵魂中的旧香。德意志的诸城、河谷、丘陵上，涌现出一批新教徒——他们抛弃祭坛、亵渎圣像，将祖先的信仰掷入炉火。他们自称是为了真理，实则是为了反抗那位在王座上被称为「最虔信的基督教国王」的[Root.Monarch.GetTitle]，反抗[Root.GetName]那如铁一般的天主教秩序。他们在夜里点燃篝火，不是为了祈祷，而是烧毁主的十字；他们在街头集会，不是为了唱诗，而是用粗鄙的言辞诅咒圣母。德意志的风土，本来属于修士的钟声与教堂的彩窗，如今却充满了喧嚣与亵渎。叛乱如瘟疫般蔓延，每一座钟楼都可能被推倒，每一幅圣画都可能被撕碎。他们自称信仰新教，实则是用经文掩盖屠刀。巴伐利亚的修道院被洗劫一空，祭器被熔成金币；莱茵河畔的天主教城镇被焚毁殆尽，连婴儿的哭声也被掩埋在坍塌的屋瓦之下。更有叛军将神父的尸体悬挂于城门，以此向[Root.GetName]示威。\n\n王庭的镇压不带任何犹豫，火光在夜空中升起，如献给上帝的火祭，直冲云霄，照亮了十字架的影子。在维尔茨堡，圣骑士用圣坛作刑台，让那亵渎圣物的手在剑锋下归于寂静；在纽伦堡，叛乱的市政厅被点燃，火舌舔舐着刻有新教标记的旗帜；在莱茵渡口，被俘的异端被迫在水中跪向十字架，然后沉入冰冷的河底。异端的集市被扫荡，连带那潜伏在阴影中的笑声也一同消失；教堂重归圣像，彩色玻璃上重现圣徒的目光。血流入河，河水便成了洗礼；尸体卧在雪中，雪地便成了祭坛。这是净化，这是真正的四旬斋——不是禁食，而是以鲜血代替酒，以剑锋代替面包，奉献给上帝。\n\n在[Root.Capital.GetName]的大教堂中，[Root.Monarch.GetTitle]亲手在圣坛前点燃长烛，火光映着王冠的黄金，也映着洛塔林吉亚的威望。\n\n腥风并未止步于德意志。南方的阿尔勒，清洁派的教义悄然复苏，他们在阴暗的小巷中聚会，互称「纯洁的选民」，誓要驱逐一切罗马的象征；不列颠的群山间，古老的凯尔特祭坛重新竖起，德鲁伊的咒语与风声混合，传入渔村与要塞；北海之滨，尼德兰的加尔文宗在港口密谋，商贾与传教士一同在灯火下策划着对抗天主教的联邦。"
+EDG_LOT_disaster_religion.1.a:0 "「唯有[Root.GetName]能将混乱与异端碾为尘土。」"
+EDG_LOT_disaster_religion.1.b:0 ""
+EDG_LOT_disaster_religion.1.c:0 ""
+
+EDG_LOT_disaster_religion_2_modifier_kill_tt:0 "由于我们在灾难中选择§Y激进§!主义，我们将获得如下奖励："
+EDG_LOT_disaster_religion_2_modifier_tolerance_tt:0 "由于我们在灾难中选择§Y容忍§!主义，我们将获得如下奖励："
+EDG_LOT_disaster_religion_2_modifier_fall_tt:0 "由于我们在灾难中试图保持中立，因此§Y没能§!争取到任何一方的支持，§M我们不会获得任何修正奖励§!"
+
+EDG_LOT_disaster_religion_kill_value:0 "§Y反宗教改革激进主义§!"
+EDG_LOT_disaster_religion_kill_value_change_tt:0 "§R较高§!（正数）或§M较低§!（负数）的§Y反宗教改革激进主义§!都有助于我们结束灾难，并让我们获得对应的灾难奖励结算，但保持§M中立§!将会得罪所有人。"
+
+EDG_LOT_disaster_religion.2.title:0 "冠与十字的净化"
+EDG_LOT_disaster_religion.2.desc:0 "[Root.GetName]的土地曾被血与火洗礼，德意志的新教徒、阿尔勒的清洁派、大凯尔特的叛乱者，曾以信仰为旗，试图撕裂这片古老的疆域。他们的呼喊在晨雾中回荡，混杂着希望与绝望，仿佛预示着一场浩劫的到来。圣骑士们冲入街巷，每一次挥剑，每一次火光腾起，都是秩序与混乱的碰撞，是生与死的较量。街道被烈焰吞噬，尖叫回响在瓦砾之间，倒下的人群像海浪般铺展，带着末日般的沉重。\n\n阿尔勒的废墟上，清洁派的教徒在废墟之间挣扎，试图以信念抵抗无法抗拒的钢铁洪流。高耸的塔楼被烈焰吞噬，城墙在火光下龟裂坍塌。圣骑士们的身影如暗夜中猛兽，每一次冲锋都是对生者的审判，对亡者的哀鸣。长剑劈裂夜空，火光映照下，倒下的身影在残阳余晖中拉长，成为悲壮的剪影。\n北方的凯尔特村庄，曾经宁静的河谷与林地，被叛乱者和圣骑士的冲突撕裂成血色的荒原。火把点燃了干草屋，尖利的号角声与人声尖叫交织成哀歌。大凯尔特教士在废墟上呼喊自由，而钢铁与烈焰让他们的呼声瞬间化作沉默。风吹过残破的村道，卷起尘土与灰烬，带着血腥的气息，像是为死亡谱写的哀歌。\n德意志境内，曾经的城市广场、街巷和庭院，都是血的画布。新教徒、清洁派和反叛贵族在抵抗中倒下，他们的尸体在烈日下曝晒，最终被圣骑士的铁蹄和长矛彻底碾碎。城墙上，残破的旗帜低垂，风声在瓦砾中低吟，仿佛在叙说一段悲壮的史诗。山谷间回荡着人声的哀嚎，城镇上空的烟雾如幽灵般缠绕，每一条街道都铭刻着死亡的节奏。\n\n历经长夜与惨烈的屠戮，叛乱终于平息。幸存的土地静默无声，残阳下的城市像被血和灰烬雕刻的墓碑。风穿过废墟，携带着哭声与余灰，仿佛在为死去的信徒和叛徒合奏一曲无法终结的挽歌。每一座城堡、每一片田野都笼罩在悲壮的肃穆中，无言地诉说着烈火、鲜血与绝望交织的历史。"
+EDG_LOT_disaster_religion.2.a:0 "「血染的土地保持静默，地下的亡者唱响哀歌。」"
+EDG_LOT_disaster_religion.2.b:0 ""
+EDG_LOT_disaster_religion.2.c:0 ""
+
+EDG_LOT_change_religion_to_protestant_tt:0 "其中§Y日耳曼§!文化组的省份将转变为§M新教§!"
+EDG_LOT_change_religion_to_reformed_tt:0 "其中§Y法兰西§!文化组的省份将转变为§M改革宗§!"
+EDG_LOT_change_religion_to_EDG_Great_Celtic_Church_tt:0 "其中§Y凯尔特§!文化组的省份将转变为§M大凯尔宗§!"
+EDG_LOT_change_religion_to_EDG_catharism_tt:0 "其中§Y阿尔勒§!的核心省份将转变为§M清洁派§!"
+
+EDG_LOT_disaster_religion.3.title:0 "德意志人皈依新教"
+EDG_LOT_disaster_religion.3.desc:0 "德意志的寒风中，教堂的钟声渐渐沉寂，取而代之的是集市与田野间的私语。又一批德意志人抛弃了罗马的十字，转向路德的讲坛。他们焚毁圣像，将圣徒的遗骨弃于尘土，宣称唯有经文才是救赎之路。曾在天主教弥撒中合唱的歌声，如今在谷仓与酒馆中被改为新教的赞歌。村庄的神父被驱逐，修道院的门被铁锁封死。叛乱的火苗再一次在莱茵河的支流边升起，仿佛要将[Root.GetName]的疆土从北到南烧得通红。"
+EDG_LOT_disaster_religion.3.a:0 "该死！"
+EDG_LOT_disaster_religion.3.b:0 ""
+EDG_LOT_disaster_religion.3.c:0 ""
+
+EDG_LOT_disaster_religion.4.title:0 "胡格诺派"
+EDG_LOT_disaster_religion.4.desc:0 "在法兰西的葡萄园与石砌小镇间，胡格诺派的诗篇悄然传入人心。又一批法兰西人离开了祭坛前的圣母像，转而在隐秘的聚会中聆听加尔文的教义。他们的圣餐不再是金杯中的圣血，而是木桌上的面包与清水；他们的祈祷不再以拉丁吟诵，而是用母语低声呼唤上帝之名。曾经装饰着玫瑰窗的教堂被关闭，取而代之的是简陋的祈祷所。骑士与商贾、农夫与书吏，一同背离罗马的怀抱，在阴影中构筑属于胡格诺派的堡垒，暗流正向[Root.GetName]的心脏涌动。"
+EDG_LOT_disaster_religion.4.a:0 "该死！"
+EDG_LOT_disaster_religion.4.b:0 ""
+EDG_LOT_disaster_religion.4.c:0 ""
+
+EDG_LOT_disaster_religion.5.title:0 "宗教改革者叛乱"
+EDG_LOT_disaster_religion.5.desc:0 "宗教改革者在暮色中举起火炬与刀剑，冲入教堂与修道院，圣像被劈碎，圣坛被掀翻，神父与修士在长矛下哀号殒命。天主教的钟声尚未停息，圣骑士的铁蹄已踏碎夜色，披着银甲的复仇者挥动长剑，将叛乱者逐一斩杀。街道上燃烧着屋舍，血水与雨水在鹅卵石间汇成溪流，尸体横陈于十字路口，空气中弥漫着焚木与血肉的气息。当地的圣骑士组织在第一时间内就包围了宗教改革者，双方爆发了激烈的冲突。"
+EDG_LOT_disaster_religion.5.a:0 "把他们全部杀光！"
+EDG_LOT_disaster_religion.5.b:0 "向他们许诺宗教自由。"
+EDG_LOT_disaster_religion.5.c:0 "拖一拖先……"
+
+EDG_LOT_disaster_religion.6.title:0 "大凯尔特主义"
+EDG_LOT_disaster_religion.6.desc:0 "大凯尔主义是一种以凯尔特民族独立为核心的政治与文化思潮，其源流可追溯至古代德鲁伊传说与部落王国的残影。在宗教改革的烈焰中，这一思潮披上了宗教的外衣，演化为「大凯尔宗」——一种以凯尔特传统为核心、拒绝承认罗马教宗权威的信仰体系。大凯尔宗的信徒认为，凯尔特人是上帝选民，岛屿与高地是赐予他们的圣土。宗教战争爆发后，凯尔特地区的村庄、城镇和修道院纷纷成为这一信仰的传声筒，教士们在石造教堂与悬崖祭坛上高呼独立与自治，呼唤信徒摆脱[Root.GetName]的羁绊。许多青年以信仰之名举起长矛，他们既是民族主义者，又是宗教改革的战士，将大凯尔特主义视作政治与灵魂的双重解放之路。"
+EDG_LOT_disaster_religion.6.a:0 "禁止传播这些异端邪说！"
+EDG_LOT_disaster_religion.6.b:0 "容许他们传播异端思想。"
+EDG_LOT_disaster_religion.6.c:0 ""
+
+EDG_LOT_disaster_religion.7.title:0 "清洁派的死灰复燃"
+EDG_LOT_disaster_religion.7.desc:0 "图卢兹人和加斯科涅人不仅怀念阿尔勒的昔日王权，更将清洁派视作重塑秩序的象征，试图在信仰与行动中重建一个脱离[Root.GetName]掌控的自由王国。在这样的期盼下，清洁派再度在法兰西南部传播开来。"
+EDG_LOT_disaster_religion.7.a:0 "别以为我不知道他们想做什么！"
+EDG_LOT_disaster_religion.7.b:0 "清洁派成不了气候的。"
+EDG_LOT_disaster_religion.7.c:0 ""
+
+EDG_LOT_disaster_religion.8.title:0 "异端贵族叛乱"
+EDG_LOT_disaster_religion.8.desc:0 "一群信仰异端思想的贵族发动了叛乱，向我们索取权力和金钱。"
+EDG_LOT_disaster_religion.8.a:0 "把他们全部吊死！"
+EDG_LOT_disaster_religion.8.b:0 "他们不过是想要自治权而已。"
+EDG_LOT_disaster_religion.8.c:0 "给他们一点好处。"
+
+EDG_LOT_disaster_religion.9.title:0 "圣骑士的屠戮引起不满"
+EDG_LOT_disaster_religion.9.desc:0 "圣骑士对天主教的忠诚如同钢铁般坚不可摧，但这份忠诚也意味着狂热——他们对异端的镇压愈发无情，血腥的屠杀如同烈焰席卷城镇与乡村。每一座教堂前的广场，都染上了异端者的鲜血；每一次审判，都是对人性与恐惧的双重践踏。这种无差别的残酷，引起了民间与地方贵族的恐慌与愤怒。曾经平静的德意志乡镇、阿尔勒故土、不列颠凯尔特地区，以及尼德兰城堡，都燃起了叛乱的火光。异端在惨烈的血影中哀号，却又被迫握紧武器反抗。"
+EDG_LOT_disaster_religion.9.a:0 "杀得好！"
+EDG_LOT_disaster_religion.9.b:0 "责罚这些圣骑士。"
+EDG_LOT_disaster_religion.9.c:0 "都是雇佣兵干的。"
+
+
+EDG_LOT_disaster_religion.10.title:0 "天主教会的援助"
+EDG_LOT_disaster_religion.10.desc:0 "天主教会对我们的支持是可见的，教宗亲自派遣大使抵达我国，向我们捐献了一批物资，以帮助我们解决异端的叛乱。"
+EDG_LOT_disaster_religion.10.a:0 "我们太需要这些了。"
+EDG_LOT_disaster_religion.10.b:0 "告诉圣座，我们能处理好内乱。"
+EDG_LOT_disaster_religion.10.c:0 "将大使羞辱一番。"
+
+EDG_LOT_disaster_religion.11.title:0 "孔代亲王的叛乱"
+EDG_LOT_disaster_religion.11.desc:0 "在[Root.GetName]的宗教战争中，波旁家族的路易·德·波旁——孔代亲王，是胡格诺派教徒叛乱的主要领袖之一。在这片血与火的世纪，孔代亲王的名字并非荣耀，而是叛逆的回响。他本是王室血脉，却背弃祖先的坟茔，背弃了上帝的祭坛。他在德意志的阴影与尼德兰的风暴中汲取毒液，将新教徒的呼声化作兵戈与背叛的号角。在1562年的瓦西惨案之后，孔代亲王以「保护信仰与自由」为名，于奥尔良举兵叛乱，将这座城市作为胡格诺派的根据地。随后，他迅速扩大势力，控制了法国南部和西部的若干要地，如鲁昂和蒙彼利埃，并将这些城市改造成新教徒的军事堡垒。在此期间，孔代甚至与德意志人达成秘密协定，以换取资金和军队的援助，这一行为在当时被视为严重的背叛与出卖祖国。"
+EDG_LOT_disaster_religion.11.a:0 "「孔代的名字自此镌刻在耻辱的碑石上。」"
+EDG_LOT_disaster_religion.11.b:0 ""
+EDG_LOT_disaster_religion.11.c:0 ""
+
+EDG_LOT_disaster_religion.12.title:0 "《昂布瓦兹敕令》"
+EDG_LOT_disaster_religion.12.desc:0 "旷日持久的流血与动乱之后，[Root.Monarch.GetTitle] [Root.Monarch.GetName]为恢复[Root.GetName]的和平与秩序，于[Root.Capital.GetName]议政厅颁布《昂布瓦兹敕令》。此敕令以王权与教会之名，既维护天主教信仰之正统，又给予部分异端以有限的宽宥，意在平息叛乱，制止杀戮，恢复国家之安宁。\n\n在敕令中，天主教仍为[Root.GetName]唯一合法的国教，所有官员、军队与公共机构必须信奉罗马教廷所承认之信条；皈依新教者在指定领地与私宅内，可有限度地聚会与礼拜，但不得在[Root.Capital.GetName]及任何大城市城墙之内公开宣讲；参与叛乱的新教徒贵族，若放下武器并向王庭宣誓效忠，可获赦免其死罪，但其封地与城堡将由王庭严密监管；一切以宗教为名义的私人武装与结社皆被禁止，违者将以叛国论处；圣骑士团与天主教教会仍保有监督与裁决异端的权力，但须遵守王庭所颁布的节制之律。"
+EDG_LOT_disaster_religion.12.a:0 "我们绝不妥协！"
+EDG_LOT_disaster_religion.12.b:0 "我们需要和平。"
+EDG_LOT_disaster_religion.12.c:0 ""
+
+EDG_LOT_disaster_religion.13.title:0 "《[Root.GetName]圣日耳曼敕令》"
+EDG_LOT_disaster_religion.13.desc:0 "在连年叛乱与镇压之后，德意志的土地已被鲜血浸透，农庄荒芜，教堂残破，民众困于恐惧与饥馑之中。为求[Root.GetName]的安宁与统一，[Root.Monarch.GetTitle] [Root.Monarch.GetName]与王庭大臣、教会与贵族议政，最终于[Root.Capital.GetName]颁布《圣日耳曼敕令》。此敕令虽以天主教为国教之正统，然为防再度爆发叛乱，特赐予德意志新教徒若干宗教自由。\n\n天主教仍为国教，[Root.Monarch.GetTitle]与王庭保留「最虔信的基督徒国王」之称号，国家祭祀、朝廷礼仪与官方事务均必须遵循罗马教廷的正统信条；德意志新教徒可在其领地或指定城镇之外自由聚会、讲道与施行圣礼，惟禁止在[Root.Capital.GetName]及王国直属大城墙内传教；贵族若信奉新教，得以在其私宅及领地范围内设立礼拜堂，但不得公开攻击天主教，也不得庇护被通缉的异端；新教徒可获得一定的司法保障，不因信仰而被剥夺生命与财产，然若参与叛乱或拒绝向王庭效忠，则敕令不予保护；圣骑士团与天主教会须遵守此敕令，不得擅自对新教徒发动武力行动，但在发现其有煽动叛乱之举时，仍有权向王庭申诉，要求镇压。"
+EDG_LOT_disaster_religion.13.a:0 "这太荒谬了，我们不会签署这样的敕令！"
+EDG_LOT_disaster_religion.13.b:0 "王庭在鲜血与火焰中赐下的「胜利者的施舍」。"
+EDG_LOT_disaster_religion.13.c:0 ""
+
+EDG_LOT_disaster_religion.14.title:0 "血染[Root.Capital.GetName]"
+EDG_LOT_disaster_religion.14.desc:0 "[Root.Capital.GetName]，这座曾经加冕帝王、钟声与圣歌回荡的城池，在那个血色的黄昏，却化作了炼狱。天主教的钟楼还在敲响祈祷的节律，但街道上，火焰已将信仰的石柱吞没。德意志的新教徒用铁锤击碎圣像，用烈火焚毁圣坛。他们涌入圣母大教堂的穹顶之下，随后，长矛在神职者的胸膛里扎根，鲜血在圣水池中蔓延。他们高喊「唯信仰而自由」，却以刀剑将婴孩的哭声掩埋在血泊之中。那一夜，火焰照亮莱茵的天际，钟声在血海之上敲响。"
+EDG_LOT_disaster_religion.14.a:0 "「在血泊中沉沦。」"
+EDG_LOT_disaster_religion.14.b:0 ""
+EDG_LOT_disaster_religion.14.c:0 ""
+
+EDG_LOT_disaster_religion.15.title:0 "[EDG_LOT_disaster_religion_15_province.GetName]的暴行"
+EDG_LOT_disaster_religion.15.desc:0 "在[EDG_LOT_disaster_religion_15_province.GetName]，圣骑士们披上白衣金十字的铠甲，对异端发动了大屠杀。在狂热的圣骑士眼中，这些异端与魔鬼无异，天主的使者不问怜悯，魔鬼的猎手只知毁灭。很快，[EDG_LOT_disaster_religion_15_province.GetName]的街巷化作血河，尸体堆积如山。"
+EDG_LOT_disaster_religion.15.a:0 "事已至此。"
+EDG_LOT_disaster_religion.15.b:0 ""
+EDG_LOT_disaster_religion.15.c:0 ""
+
+EDG_LOT_disaster_religion.16.title:0 ""
+EDG_LOT_disaster_religion.16.desc:0 ""
+EDG_LOT_disaster_religion.16.a:0 ""
+EDG_LOT_disaster_religion.16.b:0 ""
+EDG_LOT_disaster_religion.16.c:0 ""
+
+EDG_LOT_disaster_religion.17.title:0 ""
+EDG_LOT_disaster_religion.17.desc:0 ""
+EDG_LOT_disaster_religion.17.a:0 ""
+EDG_LOT_disaster_religion.17.b:0 ""
+EDG_LOT_disaster_religion.17.c:0 ""
+
+EDG_LOT_disaster_religion.18.title:0 ""
+EDG_LOT_disaster_religion.18.desc:0 ""
+EDG_LOT_disaster_religion.18.a:0 ""
+EDG_LOT_disaster_religion.18.b:0 ""
+EDG_LOT_disaster_religion.18.c:0 ""
+
+EDG_LOT_disaster_religion.19.title:0 ""
+EDG_LOT_disaster_religion.19.desc:0 ""
+EDG_LOT_disaster_religion.19.a:0 ""
+EDG_LOT_disaster_religion.19.b:0 ""
+EDG_LOT_disaster_religion.19.c:0 ""
+
+EDG_LOT_disaster_marriage_1_A_tt:0 "§R灾难§!§Y「被荆棘束缚的宫廷」§!，不会通过事件刷新任何§R叛军§!，你可以照常扩张。"

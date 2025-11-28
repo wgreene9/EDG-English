@@ -1,0 +1,17 @@
+name = "巴赫曼尼叛乱"
+war_goal = {
+  type = defend_capital_independence
+  casus_belli = cb_independence_war
+  tag = BAH
+}
+1444.1.1 = {
+  add_attacker = DLH
+  add_attacker = JNP
+  add_attacker = MUL
+  add_attacker = SND
+  add_attacker = SRH
+  add_defender = BAH
+  add_defender = TLG
+  add_defender = GUJ
+  add_defender = KHD
+}

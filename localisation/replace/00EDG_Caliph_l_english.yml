@@ -1,0 +1,453 @@
+﻿l_english:
+Caliph_GUI_off_button:0 "关闭§Y哈里发§!界面"
+Caliph_GUI_on_button:0 "打开§Y哈里发§!界面"
+Caliph_GUI_off_button_tt:0 "关闭§Y哈里发§!界面"
+Caliph_GUI_on_button_tt:0 "打开§Y哈里发§!界面"
+
+EDG_Caliph_decree_button_1_a_province_modiffier:0 "允许塔基亚"
+EDG_Caliph_decree_button_1_b_province_modiffier:0 "允许塔基亚"
+EDG_flavor_caliphate_4_a_modifier:0 "接受哈里发宣扬吉哈德"
+EDG_Caliph_decree_button_4_province_modifier:0 "提倡教派交流"
+EDG_flavor_caliphate_6_a_modifier:0 "修缮沙利亚法"
+EDG_Caliph_decree_button_5_b_province_modiffier:0 "修缮沙利亚法"
+EDG_flavor_caliphate_7_a_modifier:0 "接受哈里发鼓励宗教文学"
+EDG_flavor_caliphate_8_a_modifier:0 "接受哈里发笼络苏菲教团"
+EDG_flavor_caliphate_9_a_modifier:0 "接受哈里发呼吁保护齐米"
+
+EDG_Caliph_decree_1_tt:0 "§b允许塔基亚§!"
+EDG_Caliph_decree_2_tt:0 "§b宣扬吉哈德§!"
+EDG_Caliph_decree_3_tt:0 "§b钦定教法学派§!"
+EDG_Caliph_decree_4_tt:0 "§b提倡教派交流§!"
+EDG_Caliph_decree_5_tt:0 "§b修缮沙利亚法§!"
+EDG_Caliph_decree_6_tt:0 "§b鼓励宗教文学§!"
+EDG_Caliph_decree_7_tt:0 "§b笼络苏菲教团§!"
+EDG_Caliph_decree_8_tt:0 "§b呼吁保护齐米§!"
+EDG_Caliph_decree_9_tt:0 "§b举办游行盛典§!"
+EDG_Caliph_decree_10_tt:0 "§b授予神圣使命§!"
+
+EDG_Caliph_decree_tooltip_1_tt:0 "允许塔基亚"
+EDG_Caliph_decree_tooltip_2_tt:0 "宣扬吉哈德"
+EDG_Caliph_decree_tooltip_3_tt:0 "钦定教法学派"
+EDG_Caliph_decree_tooltip_4_tt:0 "提倡教派交流"
+EDG_Caliph_decree_tooltip_5_tt:0 "修缮沙利亚法"
+EDG_Caliph_decree_tooltip_6_tt:0 "鼓励宗教文学"
+EDG_Caliph_decree_tooltip_7_tt:0 "笼络苏菲教团"
+EDG_Caliph_decree_tooltip_8_tt:0 "呼吁保护齐米"
+EDG_Caliph_decree_tooltip_9_tt:0 "举办游行盛典"
+EDG_Caliph_decree_tooltip_10_tt:0 "授予神圣使命"
+
+EDG_Caliph_interaction_button_1_tooltip:0 "保护哈里发"
+EDG_Caliph_interaction_button_2_tooltip:0 "放逐哈里发"
+EDG_Caliph_interaction_button_3_tooltip:0 "废黜哈里发"
+EDG_Caliph_interaction_button_4_tooltip:0 "篡夺哈里发"
+EDG_Caliph_interaction_button_5_tooltip:0 "软禁哈里发"
+
+
+EDG_Caliph_decree_button_1_a_province_modiffier:0 "允许塔基亚"
+EDG_Caliph_decree_button_1_b_province_modiffier:0 "允许塔基亚"
+EDG_flavor_caliphate_4_a_modifier:0 "接受哈里发宣扬吉哈德"
+EDG_Caliph_decree_button_4_province_modifier:0 "提倡教派交流"
+
+
+EDG_FYM_religion_problem_modifier:0 "哈里发带来宗教困境"
+
+#逊尼派
+EDG_sunni_Caliph_decree_button_9_scriped_effect_a_modifier:0 "哈里发举办游行盛典"
+EDG_sunni_Caliph_decree_button_10_scriped_effect_a_modifier:0 "哈里发亲授神圣使命"
+
+EDG_sunni_Caliph_ability_trigger_tt:0 "是§Y逊尼派哈里发§!或控制了§Y逊尼派哈里发§!"
+EDG_sunni_Caliph_GUI_big_shield_tooltip:0 "[EDG_sunni_Caliph_target.GetNameEDG_sunni_Caliph_GUI_big_shield_tooltip]\n\n§Y逊尼派§!哈里发的权威增长将取决于我们和我们的非朝贡属国所拥有的§Y逊尼派§!省份的数量，每§M20§!个逊尼派省份将会为我们提供§M1§!点逊尼派哈里发权威，每年最多获得§M10§!点权威。根据我们和我们的属国现有的逊尼派省份，我们将获得如下效果："
+
+GetNameEDG_sunni_Caliph_GUI_big_shield_tooltip_self:0 "§Y[EDG_sunni_Caliph_target.Monarch.GetName]§!是§Y逊尼派哈里发§!"
+GetNameEDG_sunni_Caliph_GUI_big_shield_tooltip_regency:0 "§Y[EDG_sunni_Caliph_target.Monarch.GetName]§!控制着§Y逊尼派哈里发§!"
+GetNameEDG_sunni_Caliph_GUI_big_shield_tooltip_die:0 "§Y逊尼派哈里发§!已消亡\n\n-§Y逊尼派哈里发§!必须信仰§Y逊尼派§!\n-若你信仰§Y逊尼派§!，你可以通过完成§Y任务§!或§Y「一主一国」决议§!获得§M「伊教统一」§!修正，成为§Y逊尼派哈里发§!。\n-若§Y阿拔斯哈里发国§!存在且信仰§Y逊尼派§!，他们将优先成为§Y逊尼派哈里发§!。\n-绝大多数国家都没有办法通过其它方法复兴§Y逊尼派哈里发§!。"
+
+
+
+EDG_sunni_Caliph_authority_var:0 "§Y哈里发权威§!"
+EDG_sunni_Caliph_authority_bg_tt:0 "当前的§Y哈里发权威§!为§Y[EDG_sunni_Caliph_target.EDG_sunni_Caliph_authority_var.GetValue]§!"
+EDG_sunni_Caliph_authority_title_bg:0 "哈里发权威"
+EDG_sunni_Caliph_authority_bg:0 "[EDG_sunni_Caliph_target.EDG_sunni_Caliph_authority_var.GetValue]"
+EDG_sunni_Caliph_authority_bg_tt:0 "[EDG_sunni_Caliph_target.EDG_sunni_Caliph_authority_var.GetValue]"
+EDG_sunni_Caliph_trigger_tt:0 "§R控制或成为§!§Y逊尼派哈里发§!"
+EDG_sunni_Caliph_target:0 "§Y逊尼派哈里发§!"
+
+EDG_sunni_Caliph_decree_in_10_years_tt_1:0 "我们在§M10§!年内未曾颁布过§Y逊尼派哈里发§!法特瓦。"
+EDG_sunni_Caliph_decree_cost_effect_tt:0 "我们将花费§M20§!点§Y逊尼派哈里发§!权威"
+
+EDG_sunni_Caliph_decree_button_1:0 "§b允许塔基亚§!"
+EDG_sunni_Caliph_decree_button_2:0 "§b宣扬吉哈德§!"
+EDG_sunni_Caliph_decree_button_3:0 "§b钦定教法学派§!"
+EDG_sunni_Caliph_decree_button_4:0 "§b提倡教派交流§!"
+EDG_sunni_Caliph_decree_button_5:0 "§b修缮沙利亚法§!"
+EDG_sunni_Caliph_decree_button_6:0 "§b鼓励宗教文学§!"
+EDG_sunni_Caliph_decree_button_7:0 "§b笼络苏菲教团§!"
+EDG_sunni_Caliph_decree_button_8:0 "§b呼吁保护齐米§!"
+EDG_sunni_Caliph_decree_button_9:0 "§b举办游行盛典§!"
+EDG_sunni_Caliph_decree_button_10:0 "§b授予神圣使命§!"
+
+EDG_sunni_Caliph_decree_in_10_years_modifier:0 "十年内颁布过逊尼派哈里发法特瓦"
+
+EDG_sunni_Caliph_decree_button_yes:0 "£yes£若§Y[EDG_sunni_Caliph_target.GetName]§!信仰§Y逊尼派§!"
+EDG_NOT_sunni_Caliph_decree_button_no:0 "£no£若§Y[EDG_sunni_Caliph_target.GetName]§!不信仰§Y逊尼派§!"
+
+EDG_sunni_Caliph_decree_button_no:0 "£no£若§Y[EDG_sunni_Caliph_target.GetName]§!信仰§Y逊尼派§!"
+EDG_NOT_sunni_Caliph_decree_button_yes:0 "£yes£若§Y[EDG_sunni_Caliph_target.GetName]§!不信仰§Y逊尼派§!"
+
+EDG_sunni_Caliph_decree_button_1_a_tt:0 "所有的§Y逊尼派§!省份将会获得如下修正："
+EDG_sunni_Caliph_decree_button_1_b_tt:0 "本国治下所有的§Y逊尼派§!省份将会获得如下修正："
+EDG_sunni_Caliph_decree_every_sunni_country_a_tt:0 "所有§Y逊尼派§!国家将触发该事件，若他们服从哈里发的意愿，那么将产生如下效果（§Y[EDG_sunni_Caliph_target.GetName]§!将直接生效此效果）："
+EDG_sunni_Caliph_decree_3_every_sunni_country_a_tt:0 "所有与我们拥有§Y相同教派§!的§Y逊尼派§!国家将触发该事件，若他们服从哈里发的意愿，那么将产生如下效果："
+EDG_sunni_Caliph_decree_4_every_sunni_country_a_tt:0 "所有与我们拥有§Y不同教派§!的§Y逊尼派§!国家将触发该事件，若他们服从哈里发的意愿，那么将产生如下效果："
+EDG_sunni_Caliph_decree_button_3_tt:0 "与§Y[EDG_sunni_Caliph_target.GetName]§!互相增加§G50§!点好感。\n若是§Y[EDG_sunni_Caliph_target.GetName]§!的盟友或属国，那么还将增加§G5§!点信任。"
+EDG_sunni_Caliph_decree_button_4_tt:0 "与§Y[EDG_sunni_Caliph_target.GetName]§!互相增加§G50§!点好感。\n若是§Y[EDG_sunni_Caliph_target.GetName]§!的盟友或属国，那么还将增加§G5§!点信任。"
+EDG_flavor_caliphate_5_opinion_modifier:0 "哈里发教派交流"
+EDG_sunni_Caliph_decree_button_9_b_tt:0 "我们的所有§Y逊尼派§!属国将会产生如下效果："
+EDG_sunni_Caliph_interaction_button_5_effect_opinion_modifier:0 "软禁哈里发"
+EDG_sunni_Caliph_interaction_button_5_effect_modifier:0 "软禁逊尼派哈里发"
+
+EDG_sunni_Caliph_interaction_button_1_effect_tt:0 "我们会将§Y逊尼派哈里发§!转移到我们的首都。"
+EDG_sunni_Caliph_interaction_button_2_effect_tt:0 "我们会将§Y逊尼派哈里发§!逐出我们的国土，若我们与其他穆斯林国家接壤，他们可能会流落到其他穆斯林国家。"
+EDG_sunni_Caliph_interaction_button_3_effect_tt:0 "我们会将§Y逊尼派哈里发§!废黜，此后任何人都将无法解锁与哈里发有关的互动。"
+EDG_sunni_Caliph_interaction_button_4_effect_tt:0 "我们会篡夺§Y逊尼派哈里发§!的哈里发头衔，我们将终结§Y阿拔斯哈里发§!机制，并将获得§Y逊尼派哈里发§!的如下增益。"
+EDG_sunni_Caliph_interaction_button_5_effect_tt:0 "我们会将§Y逊尼派哈里发§!软禁，他们将不可能§R叛乱§!，但我们将蒙受一定的惩罚。"
+
+EDG_sunni_Caliph_interaction_button_2_effect_tt_no_possible:0 "由于没有满足条件的穆斯林国家可以接纳哈里发，我们只能将其废除。"
+EDG_sunni_Caliph_moving_global_flag_trigger_tt:0 "没有正在进行的逊尼派哈里发互动"
+
+EDG_sunni_Caliph_decree_use_times:0 "颁布的§Y逊尼派哈里发§!诏书次数"
+
+#什叶派
+EDG_shiite_Caliph_decree_button_9_scriped_effect_a_modifier:0 "哈里发举办游行盛典"
+EDG_shiite_Caliph_decree_button_10_scriped_effect_a_modifier:0 "哈里发亲授神圣使命"
+
+EDG_shiite_Caliph_ability_trigger_tt:0 "是§Y什叶派哈里发§!或控制了§Y什叶派哈里发§!"
+EDG_shiite_Caliph_GUI_big_shield_tooltip:0 "[EDG_shiite_Caliph_target.GetNameEDG_shiite_Caliph_GUI_big_shield_tooltip]\n\n§Y什叶派§!哈里发的权威增长将取决于我们和我们的非朝贡属国所拥有的§Y什叶派§!省份的数量，每§M20§!个什叶派省份将会为我们提供§M1§!点什叶派哈里发权威，每年最多获得§M10§!点权威。根据我们和我们的属国现有的什叶派省份，我们将获得如下效果："
+
+GetNameEDG_shiite_Caliph_GUI_big_shield_tooltip_self:0 "§Y[EDG_shiite_Caliph_target.Monarch.GetName]§!是§Y什叶派哈里发§!"
+GetNameEDG_shiite_Caliph_GUI_big_shield_tooltip_regency:0 "§Y[EDG_shiite_Caliph_target.Monarch.GetName]§!控制着§Y什叶派哈里发§!"
+GetNameEDG_shiite_Caliph_GUI_big_shield_tooltip_die:0 "§Y什叶派哈里发§!已消亡\n\n-§Y什叶派哈里发§!必须信仰§Y什叶派§!\n-若你信仰§Y什叶派§!，你可以通过完成§Y任务§!或§Y「一主一国」决议§!获得§M「伊教统一」§!修正，成为§Y什叶派哈里发§!。\n-若§Y法蒂玛哈里发国§!存在且信仰§Y什叶派§!，他们将优先成为§Y什叶派哈里发§!。\n-绝大多数国家都没有办法通过其它方法复兴§Y什叶派哈里发§!。\n-§Y法蒂玛哈里发§!在大多数游戏进行的情况下都会消亡，属于设计之内的情况，请不要随意尝试保留法蒂玛哈里发。"
+
+EDG_shiite_Caliph_authority_var:0 "§Y哈里发权威§!"
+EDG_shiite_Caliph_authority_bg_tt:0 "当前的§Y哈里发权威§!为§Y[EDG_shiite_Caliph_target.EDG_shiite_Caliph_authority_var.GetValue]§!"
+EDG_shiite_Caliph_authority_title_bg:0 "哈里发权威"
+EDG_shiite_Caliph_authority_bg:0 "[EDG_shiite_Caliph_target.EDG_shiite_Caliph_authority_var.GetValue]"
+EDG_shiite_Caliph_authority_bg_tt:0 "[EDG_shiite_Caliph_target.EDG_shiite_Caliph_authority_var.GetValue]"
+EDG_shiite_Caliph_trigger_tt:0 "§R控制或成为§!§Y什叶派哈里发§!"
+EDG_shiite_Caliph_target:0 "§Y什叶派哈里发§!"
+
+EDG_shiite_Caliph_decree_in_10_years_tt_1:0 "我们在§M10§!年内未曾颁布过§Y什叶派哈里发§!法特瓦。"
+EDG_shiite_Caliph_decree_cost_effect_tt:0 "我们将花费§M20§!点§Y什叶派哈里发§!权威"
+
+EDG_shiite_Caliph_decree_button_1:0 "§b允许塔基亚§!"
+EDG_shiite_Caliph_decree_button_2:0 "§b宣扬吉哈德§!"
+EDG_shiite_Caliph_decree_button_3:0 "§b钦定教法学派§!"
+EDG_shiite_Caliph_decree_button_4:0 "§b提倡教派交流§!"
+EDG_shiite_Caliph_decree_button_5:0 "§b修缮沙利亚法§!"
+EDG_shiite_Caliph_decree_button_6:0 "§b鼓励宗教文学§!"
+EDG_shiite_Caliph_decree_button_7:0 "§b笼络苏菲教团§!"
+EDG_shiite_Caliph_decree_button_8:0 "§b呼吁保护齐米§!"
+EDG_shiite_Caliph_decree_button_9:0 "§b举办游行盛典§!"
+EDG_shiite_Caliph_decree_button_10:0 "§b授予神圣使命§!"
+
+EDG_shiite_Caliph_decree_in_10_years_modifier:0 "十年内颁布过什叶派哈里发法特瓦"
+
+EDG_shiite_Caliph_decree_button_yes:0 "£yes£若§Y[EDG_shiite_Caliph_target.GetName]§!信仰§Y什叶派§!"
+EDG_NOT_shiite_Caliph_decree_button_no:0 "£no£若§Y[EDG_shiite_Caliph_target.GetName]§!不信仰§Y什叶派§!"
+
+EDG_shiite_Caliph_decree_button_no:0 "£no£若§Y[EDG_shiite_Caliph_target.GetName]§!信仰§Y什叶派§!"
+EDG_NOT_shiite_Caliph_decree_button_yes:0 "£yes£若§Y[EDG_shiite_Caliph_target.GetName]§!不信仰§Y什叶派§!"
+
+EDG_shiite_Caliph_decree_button_1_a_tt:0 "所有的§Y什叶派§!省份将会获得如下修正："
+EDG_shiite_Caliph_decree_button_1_b_tt:0 "本国治下所有的§Y什叶派§!省份将会获得如下修正："
+EDG_shiite_Caliph_decree_every_shiite_country_a_tt:0 "所有§Y什叶派§!国家将触发该事件，若他们服从哈里发的意愿，那么将产生如下效果（§Y[EDG_shiite_Caliph_target.GetName]§!将直接生效此效果）："
+EDG_shiite_Caliph_decree_3_every_shiite_country_a_tt:0 "所有与我们拥有§Y相同教派§!的§Y什叶派§!国家将触发该事件，若他们服从哈里发的意愿，那么将产生如下效果："
+EDG_shiite_Caliph_decree_4_every_shiite_country_a_tt:0 "所有与我们拥有§Y不同教派§!的§Y什叶派§!国家将触发该事件，若他们服从哈里发的意愿，那么将产生如下效果："
+EDG_shiite_Caliph_decree_button_3_tt:0 "与§Y[EDG_shiite_Caliph_target.GetName]§!互相增加§G50§!点好感。\n若是§Y[EDG_shiite_Caliph_target.GetName]§!的盟友或属国，那么还将增加§G5§!点信任。"
+EDG_shiite_Caliph_decree_button_4_tt:0 "与§Y[EDG_shiite_Caliph_target.GetName]§!互相增加§G50§!点好感。\n若是§Y[EDG_shiite_Caliph_target.GetName]§!的盟友或属国，那么还将增加§G5§!点信任。"
+EDG_flavor_caliphate_5_opinion_modifier:0 "哈里发教派交流"
+EDG_shiite_Caliph_decree_button_9_b_tt:0 "我们的所有§Y什叶派§!属国将会产生如下效果："
+EDG_shiite_Caliph_interaction_button_5_effect_opinion_modifier:0 "软禁哈里发"
+EDG_shiite_Caliph_interaction_button_5_effect_modifier:0 "软禁什叶派哈里发"
+EDG_shiite_Caliph_interaction_button_5_effect_modifier:0 "软禁什叶派哈里发"
+EDG_shiite_Caliph_interaction_button_5_effect_modifier:0 "软禁什叶派哈里发"
+
+EDG_shiite_Caliph_interaction_button_1_effect_tt:0 "我们会将§Y什叶派哈里发§!转移到我们的首都。"
+EDG_shiite_Caliph_interaction_button_2_effect_tt:0 "我们会将§Y什叶派哈里发§!逐出我们的国土，若我们与其他穆斯林国家接壤，他们可能会流落到其他穆斯林国家。"
+EDG_shiite_Caliph_interaction_button_3_effect_tt:0 "我们会将§Y什叶派哈里发§!废黜，此后任何人都将无法解锁与哈里发有关的互动。"
+EDG_shiite_Caliph_interaction_button_4_effect_tt:0 "我们会篡夺§Y什叶派哈里发§!的哈里发头衔，我们将终结该§Y哈里发§!机制，并将获得§Y什叶派哈里发§!的如下增益。"
+EDG_shiite_Caliph_interaction_button_5_effect_tt:0 "我们会将§Y什叶派哈里发§!软禁，他们将不可能§R叛乱§!，但我们将蒙受一定的惩罚。"
+
+EDG_shiite_Caliph_interaction_button_2_effect_tt_no_possible:0 "由于没有满足条件的穆斯林国家可以接纳哈里发，我们只能将其废除。"
+EDG_shiite_Caliph_moving_global_flag_trigger_tt:0 "没有正在进行的什叶派哈里发互动"
+
+EDG_shiite_Caliph_decree_use_times:0 "颁布的§Y什叶派哈里发§!诏书次数"
+
+
+
+#阿拉维派
+EDG_EDG_Alawite_Caliph_decree_button_9_scriped_effect_a_modifier:0 "哈里发举办游行盛典"
+EDG_EDG_Alawite_Caliph_decree_button_10_scriped_effect_a_modifier:0 "哈里发亲授神圣使命"
+
+EDG_EDG_Alawite_Caliph_ability_trigger_tt:0 "是§Y阿拉维派哈里发§!或控制了§Y阿拉维派哈里发§!"
+EDG_EDG_Alawite_Caliph_GUI_big_shield_tooltip:0 "[EDG_EDG_Alawite_Caliph_target.GetNameEDG_EDG_Alawite_Caliph_GUI_big_shield_tooltip]"
+GetNameEDG_EDG_Alawite_Caliph_GUI_big_shield_tooltip_self:0 "§Y[EDG_EDG_Alawite_Caliph_target.Monarch.GetName]§!是§Y阿拉维派哈里发§!"
+GetNameEDG_EDG_Alawite_Caliph_GUI_big_shield_tooltip_regency:0 "§Y[EDG_EDG_Alawite_Caliph_target.Monarch.GetName]§!控制着§Y阿拉维派哈里发§!"
+GetNameEDG_EDG_Alawite_Caliph_GUI_big_shield_tooltip_die:0 "§Y阿拉维派哈里发§!已消亡"
+
+EDG_EDG_Alawite_Caliph_authority_var:0 "§Y哈里发权威§!"
+EDG_EDG_Alawite_Caliph_authority_bg_tt:0 "当前的§Y哈里发权威§!为§Y[EDG_EDG_Alawite_Caliph_target.EDG_EDG_Alawite_Caliph_authority_var.GetValue]§!"
+EDG_EDG_Alawite_Caliph_authority_title_bg:0 "哈里发权威"
+EDG_EDG_Alawite_Caliph_authority_bg:0 "[EDG_EDG_Alawite_Caliph_target.EDG_EDG_Alawite_Caliph_authority_var.GetValue]"
+EDG_EDG_Alawite_Caliph_authority_bg_tt:0 "[EDG_EDG_Alawite_Caliph_target.EDG_EDG_Alawite_Caliph_authority_var.GetValue]"
+EDG_EDG_Alawite_Caliph_trigger_tt:0 "§R控制或成为§!§Y阿拉维派哈里发§!"
+EDG_EDG_Alawite_Caliph_target:0 "§Y阿拉维派哈里发§!"
+
+EDG_EDG_Alawite_Caliph_decree_in_10_years_tt_1:0 "我们在§M10§!年内未曾颁布过§Y阿拉维派哈里发§!法特瓦。"
+EDG_EDG_Alawite_Caliph_decree_cost_effect_tt:0 "我们将花费§M20§!点§Y阿拉维派哈里发§!权威"
+
+EDG_EDG_Alawite_Caliph_decree_button_1:0 "§b允许塔基亚§!"
+EDG_EDG_Alawite_Caliph_decree_button_2:0 "§b宣扬吉哈德§!"
+EDG_EDG_Alawite_Caliph_decree_button_3:0 "§b钦定教法学派§!"
+EDG_EDG_Alawite_Caliph_decree_button_4:0 "§b提倡教派交流§!"
+EDG_EDG_Alawite_Caliph_decree_button_5:0 "§b修缮沙利亚法§!"
+EDG_EDG_Alawite_Caliph_decree_button_6:0 "§b鼓励宗教文学§!"
+EDG_EDG_Alawite_Caliph_decree_button_7:0 "§b笼络苏菲教团§!"
+EDG_EDG_Alawite_Caliph_decree_button_8:0 "§b呼吁保护齐米§!"
+EDG_EDG_Alawite_Caliph_decree_button_9:0 "§b举办游行盛典§!"
+EDG_EDG_Alawite_Caliph_decree_button_10:0 "§b授予神圣使命§!"
+
+EDG_EDG_Alawite_Caliph_decree_in_10_years_modifier:0 "十年内颁布过阿拉维派哈里发法特瓦"
+
+EDG_EDG_Alawite_Caliph_decree_button_yes:0 "£yes£若§Y[EDG_EDG_Alawite_Caliph_target.GetName]§!信仰§Y阿拉维派§!"
+EDG_NOT_EDG_Alawite_Caliph_decree_button_no:0 "£no£若§Y[EDG_EDG_Alawite_Caliph_target.GetName]§!不信仰§Y阿拉维派§!"
+
+EDG_EDG_Alawite_Caliph_decree_button_no:0 "£no£若§Y[EDG_EDG_Alawite_Caliph_target.GetName]§!信仰§Y阿拉维派§!"
+EDG_NOT_EDG_Alawite_Caliph_decree_button_yes:0 "£yes£若§Y[EDG_EDG_Alawite_Caliph_target.GetName]§!不信仰§Y阿拉维派§!"
+
+EDG_EDG_Alawite_Caliph_decree_button_1_a_tt:0 "所有的§Y阿拉维派§!省份将会获得如下修正："
+EDG_EDG_Alawite_Caliph_decree_button_1_b_tt:0 "本国治下所有的§Y阿拉维派§!省份将会获得如下修正："
+EDG_EDG_Alawite_Caliph_decree_every_EDG_Alawite_country_a_tt:0 "所有§Y阿拉维派§!国家将触发该事件，若他们服从哈里发的意愿，那么将产生如下效果（§Y[EDG_EDG_Alawite_Caliph_target.GetName]§!将直接生效此效果）："
+EDG_EDG_Alawite_Caliph_decree_3_every_EDG_Alawite_country_a_tt:0 "所有与我们拥有§Y相同教派§!的§Y阿拉维派§!国家将触发该事件，若他们服从哈里发的意愿，那么将产生如下效果："
+EDG_EDG_Alawite_Caliph_decree_4_every_EDG_Alawite_country_a_tt:0 "所有与我们拥有§Y不同教派§!的§Y阿拉维派§!国家将触发该事件，若他们服从哈里发的意愿，那么将产生如下效果："
+EDG_EDG_Alawite_Caliph_decree_button_3_tt:0 "与§Y[EDG_EDG_Alawite_Caliph_target.GetName]§!互相增加§G50§!点好感。\n若是§Y[EDG_EDG_Alawite_Caliph_target.GetName]§!的盟友或属国，那么还将增加§G5§!点信任。"
+EDG_EDG_Alawite_Caliph_decree_button_4_tt:0 "与§Y[EDG_EDG_Alawite_Caliph_target.GetName]§!互相增加§G50§!点好感。\n若是§Y[EDG_EDG_Alawite_Caliph_target.GetName]§!的盟友或属国，那么还将增加§G5§!点信任。"
+EDG_flavor_caliphate_5_opinion_modifier:0 "哈里发教派交流"
+EDG_EDG_Alawite_Caliph_decree_button_9_b_tt:0 "我们的所有§Y阿拉维派§!属国将会产生如下效果："
+EDG_EDG_Alawite_Caliph_interaction_button_5_effect_opinion_modifier:0 "软禁哈里发"
+EDG_EDG_Alawite_Caliph_interaction_button_5_effect_modifier:0 "软禁阿拉维派哈里发"
+EDG_EDG_Alawite_Caliph_interaction_button_5_effect_modifier:0 "软禁阿拉维派哈里发"
+EDG_EDG_Alawite_Caliph_interaction_button_5_effect_modifier:0 "软禁阿拉维派哈里发"
+
+EDG_EDG_Alawite_Caliph_interaction_button_1_effect_tt:0 "我们会将§Y阿拉维派哈里发§!转移到我们的首都。"
+EDG_EDG_Alawite_Caliph_interaction_button_2_effect_tt:0 "我们会将§Y阿拉维派哈里发§!逐出我们的国土，若我们与其他穆斯林国家接壤，他们可能会流落到其他穆斯林国家。"
+EDG_EDG_Alawite_Caliph_interaction_button_3_effect_tt:0 "我们会将§Y阿拉维派哈里发§!废黜，此后任何人都将无法解锁与哈里发有关的互动。"
+EDG_EDG_Alawite_Caliph_interaction_button_4_effect_tt:0 "我们会篡夺§Y阿拉维派哈里发§!的哈里发头衔，我们将终结该§Y哈里发§!机制，并将获得§Y阿拉维派哈里发§!的如下增益。"
+EDG_EDG_Alawite_Caliph_interaction_button_5_effect_tt:0 "我们会将§Y阿拉维派哈里发§!软禁，他们将不可能§R叛乱§!，但我们将蒙受一定的惩罚。"
+
+EDG_EDG_Alawite_Caliph_interaction_button_2_effect_tt_no_possible:0 "由于没有满足条件的穆斯林国家可以接纳哈里发，我们只能将其废除。"
+EDG_EDG_Alawite_Caliph_moving_global_flag_trigger_tt:0 "没有正在进行的阿拉维派哈里发互动"
+
+EDG_EDG_Alawite_Caliph_decree_use_times:0 "颁布的§Y阿拉维派哈里发§!诏书次数"
+
+
+
+
+
+#事件
+
+EDG_flavor_caliphate.1.tt:0 "[From.GetName]对我们发动哈里发制裁"
+EDG_flavor_caliphate.1.desc:0 "[Root.EDG_flavor_caliphate_1_desc_tt]"
+EDG_flavor_caliphate.1.aa:0 "他们才是无耻之徒！"
+EDG_flavor_caliphate.1.bb:0 ""
+EDG_flavor_caliphate_1_opinion_modifier:0 "对我们发动哈里发制裁"
+EDG_flavor_caliphate_1_opinion_modifier_2:0 "被哈里发制裁"
+
+EDG_flavor_caliphate_1_desc_tt_unified_islam:0 "[From.GetName]以统一哈里发的名义向我们发动了制裁！他们发布哈里发的诏书，谴责我们在诸多领域的不清真，并试图指责我们是魔鬼，是穆斯林中的叛徒，是魔鬼的门徒，甚至企图将我们解释为异教徒，这在我们的[Root.Religion.GetName]信徒中引起了莫大的恐慌，且让我们的[Root.Religion.GetName]邻国对我们感到不满。"
+EDG_flavor_caliphate_1_desc_tt_sunni:0 "[From.GetName]控制了[Root.Religion.GetName]的法蒂玛哈里发，他们在开罗操纵着哈里发，并以哈里发的名义向我们发动了制裁！他们发布哈里发的诏书，谴责我们在诸多领域的不清真，并试图指责我们是魔鬼，是穆斯林中的叛徒，是魔鬼的门徒，甚至企图将我们解释为异教徒，这在我们的[Root.Religion.GetName]信徒中引起了莫大的恐慌，且让我们的[Root.Religion.GetName]邻国对我们感到不满。"
+EDG_flavor_caliphate_1_desc_tt_shiite:0 "[From.GetName]控制了[Root.Religion.GetName]的法蒂玛哈里发，他们操纵着阿里的子嗣，并以哈里发的名义向我们发动了制裁！他们发布哈里发的诏书，谴责我们在诸多领域的不清真，并试图指责我们是魔鬼，是穆斯林中的叛徒，是魔鬼的门徒，甚至企图将我们解释为异教徒，这在我们的[Root.Religion.GetName]信徒中引起了莫大的恐慌，且让我们的[Root.Religion.GetName]邻国对我们感到不满。"
+EDG_flavor_caliphate_1_desc_tt_others:0 "[From.GetName]以哈里发的名义向我们发动了制裁！他们发布哈里发的诏书，谴责我们在诸多领域的不清真，并试图指责我们是魔鬼，是穆斯林中的叛徒，是魔鬼的门徒，甚至企图将我们解释为异教徒，这在我们的[Root.Religion.GetName]信徒中引起了莫大的恐慌，且让我们的[Root.Religion.GetName]邻国对我们感到不满。"
+
+EDG_Caliph_condemns_action_in_10_years_modifier:0 "哈里发制裁"
+EDG_Caliph_condemns_action_in_10_years_modifier_desc:0 "我们被普遍认可的哈里发制裁了，这让我们的教士感到不满，让我们同宗的兄弟对我们感到厌恶。"
+EDG_did_Caliph_condemns_action_in_10_years_modifier:0 "在10年内发动过哈里发制裁"
+
+EDG_flavor_caliphate.2.tt:0 "[From.GetName]向我们发动吉哈德"
+EDG_flavor_caliphate.2.desc:0 "邪恶的[From.GetName]以哈里发的名义向我们发动了吉哈德，这将让我们的[From.Religion.GetName]邻居们与我们敌对，我们很可能将会被相邻的[From.Religion.GetName]国家以吉哈德的宣战理由发动战争。"
+EDG_flavor_caliphate.2.aa:0 "这些邪恶的异教徒！"
+EDG_flavor_caliphate.2.bb:0 ""
+EDG_flavor_caliphate_2_opinion_modifier:0 "对我们发动吉哈德"
+
+EDG_flavor_caliphate.3.tt:0 "哈里发颁布法特瓦"
+EDG_flavor_caliphate.3.desc:0 "[From.GetName]以哈里发的名义颁布了哈里发法特瓦，哈里发的名义让他们能够在整个[Root.Religion.GetName]世界内产生影响。"
+EDG_flavor_caliphate.3.aa:0 "好吧。"
+EDG_flavor_caliphate.3.bb:0 ""
+
+EDG_flavor_caliphate.4.tt:0 "哈里发颁布法特瓦"
+EDG_flavor_caliphate.4.desc:0 "[From.GetName]以哈里发的名义颁布了哈里发法特瓦，哈里发的名义让他们能够在整个[Root.Religion.GetName]世界内产生影响。尽管如此，他们的诏书依然必须经过我们的同意才能在我们的领地上生效。"
+EDG_flavor_caliphate.4.aa:0 "我们愿意认可哈里发的法特瓦。"
+EDG_flavor_caliphate.4.bb:0 "哈里发远在天边。"
+
+EDG_sunni_Caliph_interaction_button_3_effect_opinion_modifier:0 "废黜哈里发"
+EDG_sunni_Caliph_interaction_button_4_effect_opinion_modifier:0 "篡夺哈里发"
+EDG_flavor_caliphate_kill_opinion_modifier:0 "杀死哈里发"
+
+EDG_DO_NOTHING_TT:0 "返回"
+
+
+
+
+#逊尼派哈里发互动
+EDG_caliphate_decision_sunni_total_title:0 "£icon_EDG_caliphate£§Y哈里发互动§! - 阿拔斯哈里发"
+EDG_caliphate_decision_sunni_total_desc:0 "我们控制了阿拔斯哈里发，我们可以借助其地位对逊尼派世界产生影响。"
+
+EDG_flavor_caliphate_sunni.100.tt:0 "阿拔斯哈里发"
+EDG_flavor_caliphate_sunni.100.desc:0 "我们控制了阿拔斯哈里发，我们可以借助其地位对逊尼派世界产生影响。"
+
+EDG_flavor_caliphate_sunni.101.tt:0 "哈里发来到我们的国土"
+EDG_flavor_caliphate_sunni.101.desc:0 "逊尼派的阿拔斯哈里发被[From.GetName]驱逐，并且来到了我们的国土上，他请求我们收留他。如果我们控制阿拔斯哈里发，或许我们可以利用他在逊尼派世界的影响力。"
+EDG_flavor_caliphate_sunni.101.aa:0 "我们不欢迎他。"
+EDG_flavor_caliphate_sunni.101.bb:0 "快请哈里发留下！"
+EDG_flavor_caliphate_sunni.101.cc:0 "废黜这条流浪狗。"
+EDG_flavor_caliphate_sunni.101.dd:0 "把他送到宗座的阶下。"
+EDG_flavor_caliphate_sunni.101.ee:0 "我们不在乎什么哈里发，处死他。"
+
+EDG_flavor_caliphate_sunni.102.tt:0 "掌握哈里发"
+EDG_flavor_caliphate_sunni.102.desc:0 "我们将阿拔斯哈里发从他的前任控制者手中夺取了过来，伟大的阿拔斯哈里发如今沦为了我们的战利品，我们应当如何处理他？"
+EDG_flavor_caliphate_sunni.102.aa:0 ""
+EDG_flavor_caliphate_sunni.102.bb:0 ""
+EDG_flavor_caliphate_sunni.102.cc:0 ""
+EDG_flavor_caliphate_sunni.102.dd:0 ""
+EDG_flavor_caliphate_sunni.102.ee:0 ""
+
+EDG_flavor_caliphate_sunni.103.tt:0 "朝觐哈里发"
+EDG_flavor_caliphate_sunni.103.desc:0 "我们是哈里发的控制者，我们麾下的穆斯林领土也是哈里发权威的所在地。我们的国土蔓延到哪里，哈里发的权威便延伸到哪里，五湖四海的穆斯林都来到我们的国土以求朝觐哈里发。"
+EDG_flavor_caliphate_sunni.103.aa:0 "如同日升日落。"
+EDG_flavor_caliphate_sunni.103.bb:0 "不再显示该事件。"
+
+EDG_flavor_caliphate_sunni_authority_var_tt:0 "§Y逊尼派§!哈里发的权威增长将取决于我们和我们的非朝贡属国所拥有的§Y逊尼派§!省份的数量，每§M20§!个逊尼派省份将会为我们提供§M1§!点逊尼派哈里发权威，每年最多获得§M10§!点权威。根据我们和我们的属国现有的逊尼派省份，我们将获得如下效果："
+
+EDG_Caliph_sunni_decree_button_1_modifier_a:0 "十年内控制逊尼派哈里发允许塔基亚"
+EDG_Caliph_sunni_decree_button_2_modifier_a:0 "十年内控制逊尼派哈里发宣扬吉哈德"
+EDG_Caliph_sunni_decree_button_3_modifier_a:0 "十年内控制逊尼派哈里发钦定教法学派"
+EDG_Caliph_sunni_decree_button_4_modifier_a:0 "十年内控制逊尼派哈里发提倡教派交流"
+EDG_Caliph_sunni_decree_button_5_modifier_a:0 "十年内控制逊尼派哈里发修缮沙利亚法"
+EDG_Caliph_sunni_decree_button_6_modifier_a:0 "十年内控制逊尼派哈里发鼓励宗教文学"
+EDG_Caliph_sunni_decree_button_7_modifier_a:0 "十年内控制逊尼派哈里发笼络苏菲教团"
+EDG_Caliph_sunni_decree_button_8_modifier_a:0 "十年内控制逊尼派哈里发呼吁保护齐米"
+EDG_Caliph_sunni_decree_button_9_modifier_a:0 "十年内控制逊尼派哈里发举办游行盛典"
+EDG_Caliph_sunni_decree_button_10_modifier_a:0 "十年内控制逊尼派哈里发授予神圣使命"
+EDG_Caliph_sunni_decree_button_1_modifier_b:0 "十年内控制逊尼派哈里发允许塔基亚"
+EDG_Caliph_sunni_decree_button_2_modifier_b:0 "十年内控制逊尼派哈里发宣扬吉哈德"
+EDG_Caliph_sunni_decree_button_3_modifier_b:0 "十年内控制逊尼派哈里发钦定教法学派"
+EDG_Caliph_sunni_decree_button_4_modifier_b:0 "十年内控制逊尼派哈里发提倡教派交流"
+EDG_Caliph_sunni_decree_button_5_modifier_b:0 "十年内控制逊尼派哈里发修缮沙利亚法"
+EDG_Caliph_sunni_decree_button_6_modifier_b:0 "十年内控制逊尼派哈里发鼓励宗教文学"
+EDG_Caliph_sunni_decree_button_7_modifier_b:0 "十年内控制逊尼派哈里发笼络苏菲教团"
+EDG_Caliph_sunni_decree_button_8_modifier_b:0 "十年内控制逊尼派哈里发呼吁保护齐米"
+EDG_Caliph_sunni_decree_button_9_modifier_b:0 "十年内控制逊尼派哈里发举办游行盛典"
+EDG_Caliph_sunni_decree_button_10_modifier_b:0 "十年内控制逊尼派哈里发授予神圣使命"
+
+#什叶派哈里发互动
+EDG_caliphate_decision_shiite_total_title:0 "£icon_EDG_caliphate£§Y哈里发互动§! - 法蒂玛哈里发"
+EDG_caliphate_decision_shiite_total_desc:0 "我们控制了法蒂玛哈里发，我们可以借助其地位对什叶派世界产生影响。"
+
+EDG_flavor_caliphate_shiite.100.tt:0 "法蒂玛哈里发"
+EDG_flavor_caliphate_shiite.100.desc:0 "我们控制了法蒂玛哈里发，我们可以借助其地位对什叶派世界产生影响。"
+
+EDG_flavor_caliphate_shiite.101.tt:0 "哈里发来到我们的国土"
+EDG_flavor_caliphate_shiite.101.desc:0 "什叶派的法蒂玛哈里发被[From.GetName]驱逐，并且来到了我们的国土上，他请求我们收留他。如果我们控制法蒂玛哈里发，或许我们可以利用他在什叶派世界的影响力。"
+EDG_flavor_caliphate_shiite.101.aa:0 "我们不欢迎他。"
+EDG_flavor_caliphate_shiite.101.bb:0 "快请哈里发留下！"
+EDG_flavor_caliphate_shiite.101.cc:0 "废黜这条流浪狗。"
+EDG_flavor_caliphate_shiite.101.dd:0 "把他送到宗座的阶下。"
+EDG_flavor_caliphate_shiite.101.ee:0 "我们不在乎什么哈里发，处死他。"
+
+EDG_flavor_caliphate_shiite.102.tt:0 "掌握哈里发"
+EDG_flavor_caliphate_shiite.102.desc:0 "我们将法蒂玛哈里发从他的前任控制者手中夺取了过来，伟大的法蒂玛哈里发如今沦为了我们的战利品，我们应当如何处理他？"
+EDG_flavor_caliphate_shiite.102.aa:0 ""
+EDG_flavor_caliphate_shiite.102.bb:0 ""
+EDG_flavor_caliphate_shiite.102.cc:0 ""
+EDG_flavor_caliphate_shiite.102.dd:0 ""
+EDG_flavor_caliphate_shiite.102.ee:0 ""
+
+EDG_flavor_caliphate_shiite.103.tt:0 "朝觐哈里发"
+EDG_flavor_caliphate_shiite.103.desc:0 "我们是哈里发的控制者，我们麾下的穆斯林领土也是哈里发权威的所在地。我们的国土蔓延到哪里，哈里发的权威便延伸到哪里，五湖四海的穆斯林都来到我们的国土以求朝觐哈里发。"
+EDG_flavor_caliphate_shiite.103.aa:0 "如同日升日落。"
+
+EDG_flavor_caliphate_shiite_authority_var_tt:0 "§Y什叶派§!哈里发的权威增长将取决于我们和我们的非朝贡属国所拥有的§Y什叶派§!省份的数量，每§M20§!个什叶派省份将会为我们提供§M1§!点什叶派哈里发权威，每年最多获得§M10§!点权威。根据我们和我们的属国现有的什叶派省份，我们将获得如下效果："
+
+
+EDG_Caliph_shiite_decree_button_1_modifier_a:0 "十年内控制什叶派哈里发允许塔基亚"
+EDG_Caliph_shiite_decree_button_2_modifier_a:0 "十年内控制什叶派哈里发宣扬吉哈德"
+EDG_Caliph_shiite_decree_button_3_modifier_a:0 "十年内控制什叶派哈里发钦定教法学派"
+EDG_Caliph_shiite_decree_button_4_modifier_a:0 "十年内控制什叶派哈里发提倡教派交流"
+EDG_Caliph_shiite_decree_button_5_modifier_a:0 "十年内控制什叶派哈里发修缮沙利亚法"
+EDG_Caliph_shiite_decree_button_6_modifier_a:0 "十年内控制什叶派哈里发鼓励宗教文学"
+EDG_Caliph_shiite_decree_button_7_modifier_a:0 "十年内控制什叶派哈里发笼络苏菲教团"
+EDG_Caliph_shiite_decree_button_8_modifier_a:0 "十年内控制什叶派哈里发呼吁保护齐米"
+EDG_Caliph_shiite_decree_button_9_modifier_a:0 "十年内控制什叶派哈里发举办游行盛典"
+EDG_Caliph_shiite_decree_button_10_modifier_a:0 "十年内控制什叶派哈里发授予神圣使命"
+EDG_Caliph_shiite_decree_button_1_modifier_b:0 "十年内控制什叶派哈里发允许塔基亚"
+EDG_Caliph_shiite_decree_button_2_modifier_b:0 "十年内控制什叶派哈里发宣扬吉哈德"
+EDG_Caliph_shiite_decree_button_3_modifier_b:0 "十年内控制什叶派哈里发钦定教法学派"
+EDG_Caliph_shiite_decree_button_4_modifier_b:0 "十年内控制什叶派哈里发提倡教派交流"
+EDG_Caliph_shiite_decree_button_5_modifier_b:0 "十年内控制什叶派哈里发修缮沙利亚法"
+EDG_Caliph_shiite_decree_button_6_modifier_b:0 "十年内控制什叶派哈里发鼓励宗教文学"
+EDG_Caliph_shiite_decree_button_7_modifier_b:0 "十年内控制什叶派哈里发笼络苏菲教团"
+EDG_Caliph_shiite_decree_button_8_modifier_b:0 "十年内控制什叶派哈里发呼吁保护齐米"
+EDG_Caliph_shiite_decree_button_9_modifier_b:0 "十年内控制什叶派哈里发举办游行盛典"
+EDG_Caliph_shiite_decree_button_10_modifier_b:0 "十年内控制什叶派哈里发授予神圣使命"
+
+
+
+#阿拉维派哈里发互动
+EDG_caliphate_decision_EDG_Alawite_total_title:0 "£icon_EDG_caliphate£§Y哈里发互动§! - [Root.Monarch.Dynasty.GetName]阿拉维派哈里发"
+EDG_caliphate_decision_EDG_Alawite_total_desc:0 "我们是阿拉维派哈里发，我们可以借助其地位对阿拉维派世界产生影响。"
+
+EDG_flavor_caliphate_EDG_Alawite.100.tt:0 "[Root.Monarch.Dynasty.GetName]阿拉维派哈里发"
+EDG_flavor_caliphate_EDG_Alawite.100.desc:0 "我们是[Root.Monarch.Dynasty.GetName]阿拉维派哈里发，我们可以借助其地位对阿拉维派世界产生影响。"
+
+EDG_flavor_caliphate_EDG_Alawite.101.tt:0 "哈里发来到我们的国土"
+EDG_flavor_caliphate_EDG_Alawite.101.desc:0 "阿拉维派的哈里发被[From.GetName]驱逐，并且来到了我们的国土上，他请求我们收留他。如果我们控制阿拉维派哈里发，或许我们可以利用他在阿拉维派世界的影响力。"
+EDG_flavor_caliphate_EDG_Alawite.101.aa:0 "我们不欢迎他。"
+EDG_flavor_caliphate_EDG_Alawite.101.bb:0 "快请哈里发留下！"
+EDG_flavor_caliphate_EDG_Alawite.101.cc:0 "废黜这条流浪狗。"
+EDG_flavor_caliphate_EDG_Alawite.101.dd:0 "把他送到宗座的阶下。"
+EDG_flavor_caliphate_EDG_Alawite.101.ee:0 "我们不在乎什么哈里发，处死他。"
+
+EDG_flavor_caliphate_EDG_Alawite.102.tt:0 "掌握哈里发"
+EDG_flavor_caliphate_EDG_Alawite.102.desc:0 "我们将[Root.Monarch.Dynasty.GetName]阿拉维派哈里发从他的前任控制者手中夺取了过来，伟大的[Root.Monarch.Dynasty.GetName]阿拉维派哈里发如今沦为了我们的战利品，我们应当如何处理他？"
+EDG_flavor_caliphate_EDG_Alawite.102.aa:0 ""
+EDG_flavor_caliphate_EDG_Alawite.102.bb:0 ""
+EDG_flavor_caliphate_EDG_Alawite.102.cc:0 ""
+EDG_flavor_caliphate_EDG_Alawite.102.dd:0 ""
+EDG_flavor_caliphate_EDG_Alawite.102.ee:0 ""
+
+EDG_flavor_caliphate_EDG_Alawite.103.tt:0 "朝觐哈里发"
+EDG_flavor_caliphate_EDG_Alawite.103.desc:0 "我们是哈里发的控制者，我们麾下的穆斯林领土也是哈里发权威的所在地。我们的国土蔓延到哪里，哈里发的权威便延伸到哪里，五湖四海的穆斯林都来到我们的国土以求朝觐哈里发。"
+EDG_flavor_caliphate_EDG_Alawite.103.aa:0 "如同日升日落。"
+
+EDG_flavor_caliphate_EDG_Alawite_authority_var_tt:0 "§Y阿拉维派§!哈里发的权威增长将取决于我们和我们的非朝贡属国所拥有的§Y阿拉维派§!省份的数量，每§M20§!个阿拉维派省份将会为我们提供§M1§!点阿拉维派哈里发权威，每年最多获得§M10§!点权威。根据我们和我们的属国现有的阿拉维派省份，我们将获得如下效果："
+
+
+EDG_Caliph_EDG_Alawite_decree_button_1_modifier_a:0 "十年内控制阿拉维派哈里发允许塔基亚"
+EDG_Caliph_EDG_Alawite_decree_button_2_modifier_a:0 "十年内控制阿拉维派哈里发宣扬吉哈德"
+EDG_Caliph_EDG_Alawite_decree_button_3_modifier_a:0 "十年内控制阿拉维派哈里发钦定教法学派"
+EDG_Caliph_EDG_Alawite_decree_button_4_modifier_a:0 "十年内控制阿拉维派哈里发提倡教派交流"
+EDG_Caliph_EDG_Alawite_decree_button_5_modifier_a:0 "十年内控制阿拉维派哈里发修缮沙利亚法"
+EDG_Caliph_EDG_Alawite_decree_button_6_modifier_a:0 "十年内控制阿拉维派哈里发鼓励宗教文学"
+EDG_Caliph_EDG_Alawite_decree_button_7_modifier_a:0 "十年内控制阿拉维派哈里发笼络苏菲教团"
+EDG_Caliph_EDG_Alawite_decree_button_8_modifier_a:0 "十年内控制阿拉维派哈里发呼吁保护齐米"
+EDG_Caliph_EDG_Alawite_decree_button_9_modifier_a:0 "十年内控制阿拉维派哈里发举办游行盛典"
+EDG_Caliph_EDG_Alawite_decree_button_10_modifier_a:0 "十年内控制阿拉维派哈里发授予神圣使命"
+EDG_Caliph_EDG_Alawite_decree_button_1_modifier_b:0 "十年内控制阿拉维派哈里发允许塔基亚"
+EDG_Caliph_EDG_Alawite_decree_button_2_modifier_b:0 "十年内控制阿拉维派哈里发宣扬吉哈德"
+EDG_Caliph_EDG_Alawite_decree_button_3_modifier_b:0 "十年内控制阿拉维派哈里发钦定教法学派"
+EDG_Caliph_EDG_Alawite_decree_button_4_modifier_b:0 "十年内控制阿拉维派哈里发提倡教派交流"
+EDG_Caliph_EDG_Alawite_decree_button_5_modifier_b:0 "十年内控制阿拉维派哈里发修缮沙利亚法"
+EDG_Caliph_EDG_Alawite_decree_button_6_modifier_b:0 "十年内控制阿拉维派哈里发鼓励宗教文学"
+EDG_Caliph_EDG_Alawite_decree_button_7_modifier_b:0 "十年内控制阿拉维派哈里发笼络苏菲教团"
+EDG_Caliph_EDG_Alawite_decree_button_8_modifier_b:0 "十年内控制阿拉维派哈里发呼吁保护齐米"
+EDG_Caliph_EDG_Alawite_decree_button_9_modifier_b:0 "十年内控制阿拉维派哈里发举办游行盛典"
+EDG_Caliph_EDG_Alawite_decree_button_10_modifier_b:0 "十年内控制阿拉维派哈里发授予神圣使命"

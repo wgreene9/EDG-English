@@ -1,0 +1,21 @@
+1444.1.1 = {
+  monarch = {
+    name = "詹姆斯 III"
+    dynasty = "德 乌姆弗拉维尔"
+    birth_date = 1401.1.1
+    ADM = 4
+    DIP = 6
+    MIL = 4
+  }
+}
+1444.1.1 = {
+  heir = {
+    name = "贝尔"
+    dynasty = "德 乌姆弗拉维尔"
+    birth_date = 1430.1.1
+    claim = 95
+    ADM = 2
+    DIP = 4
+    MIL = 3
+  }
+}

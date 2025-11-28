@@ -1,0 +1,33 @@
+1440.11.1 = {
+    monarch = {
+        name = "吉勒 I 「蓝胡子」"
+        dynasty = "德 蒙莫朗西-雷斯"
+        birth_date = 1405.12.24
+        adm = 3
+        dip = 3
+        mil = 5
+		leader = {
+			name = "吉勒 I 「蓝胡子」"
+			type = general
+			fire = 4
+			shock = 4
+			manuever = 3
+			siege = 3
+		}
+    }
+    add_ruler_personality = strict_personality
+    add_ruler_personality = edg_linguist_personality
+    add_ruler_personality = edg_skillful_in_warfare_personality
+    set_ruler_flag = EDG_BRI_jile_de_leisi_ruler_flag
+    # queen = {
+    #     country_of_origin = FRA
+    #     name = "Jeanne"
+    #     dynasty = "de Valois"
+    #     birth_date = 1391.1.24
+    #     death_date = 1433.9.27
+    #     female = yes
+    #     adm = 2
+    #     dip = 2
+    #     mil = 2
+    # }
+}

@@ -1,0 +1,78 @@
+1436.4.15 = {
+  monarch = {
+    name = "恩内斯特"  # Ernestu
+    adm = 0
+    dip = 2
+    mil = 5
+    birth_date = 1399.1.1
+    leader = {
+      name = "恩内斯特" # Ernestu
+      type = general
+      fire = 1
+      shock = 4
+      manuever = 2
+      siege = 2
+      birth_date = 1399.1.1
+    }
+  }
+}
+1423.9.1 = {
+  leader = {
+    name ="㼿S㼝尼"  # Albertini
+    type = general
+    fire = 3
+    shock = 1
+    manuever = 4
+    siege = 1
+  }
+}
+1553.1.1 = {
+  leader = {
+    name = "桑皮耶罗 科尔索"  # Sampierro Corso
+    type = general
+    fire = 2
+    shock = 3
+    manuever = 4
+    siege = 0
+    death_date = 1567.1.17
+  }
+}
+1736.4.15 = {
+  monarch = {
+    name = "㽿eY多 I"  # Tiadoru I
+    dynasty = "冯 诺伊㼍+Y"  # von Neuhoff
+    adm = 5
+    dip = 1
+    mil = 1
+    leader = {
+      name = "㽿eY多 德 诺伊㼍+Y"  # Théodore de Neuhoff
+      type = general
+      fire = 3
+      shock = 3
+      manuever = 2
+      siege = 1
+    }
+  }
+}
+1736.4.16 = {
+  set_legacy_government = administrative_monarchy
+}
+1753.10.1 = {
+  set_legacy_government = administrative_republic
+}
+1753.10.1 = {
+  monarch = {
+    name = "克莱门特 巴奥里"  # Clemente Paoli
+    adm = 1
+    dip = 2
+    mil = 0
+  }
+}
+1755.7.16 = {
+  monarch = {
+    name = "帕斯卡尔 巴奥里"  # Pasquale Paoli
+    adm = 3
+    dip = 4
+    mil = 5
+  }
+}

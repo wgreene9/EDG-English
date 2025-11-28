@@ -1,0 +1,12 @@
+1441.1.1 = {
+  monarch = {
+    name = "正丰"  # Zhengfeng
+    dynasty = "楠木"  # Nanmu
+    birth_date = 1420.3.20
+    adm = 5
+    dip = 4
+    mil = 6
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = conqueror_personality
+}

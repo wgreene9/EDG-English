@@ -1,0 +1,429 @@
+﻿# graphical_culture = easterngfx
+# color = {
+#   98
+#   235
+#   255
+# }
+# revolutionary_colors = {
+#   8
+#   13
+#   0
+# }
+# historical_idea_groups = {
+#   administrative_ideas
+#   plutocracy_ideas
+#   trade_ideas
+#   religious_ideas
+#   offensive_ideas
+#   maritime_ideas
+#   economic_ideas
+#   quality_ideas
+# }
+# historical_units = {
+#   bardiche_infantry
+#   eastern_knights
+#   slavic_stradioti
+#   eastern_militia
+#   muscovite_musketeer
+#   muscovite_caracolle
+#   muscovite_soldaty
+#   muscovite_cossack
+#   russian_petrine
+#   russian_lancer
+#   russian_green_coat
+#   russian_cuirassier
+#   eastern_skirmisher
+#   eastern_uhlan
+#   eastern_carabinier
+#   russian_mass
+# }
+# monarch_names = {
+#   "æ¯ç»´äºææ¯æå¤« #7" = 20  # Svyatoslav #7
+#   "éç½æ¯æå¤« #6" = 20  # Yaroslav #6
+#   "ç½å­£æ¯æå¤« #4" = 20  # Rotislav #4
+#   "å¾·ç±³ç¹é #3" = 20  # Dmitriy #3
+#   "å¼è°¢æ²æ´å¾· #3" = 20  # Vsevolod #3
+#   "ç¦è¥¿é #2" = 20  # Vasiliy #2
+#   "å°¤é #2" = 20  # Yuriy #2
+#   "äºåå±±å¤§ #1" = 20  # Aleksandr #1
+#   "å®å¾·ç #1" = 20  # Andrei #1
+#   "è´¹å¥¥å¤å° #1" = 20  # Fyodor #1
+#   "ç±³åä¼å° #1" = 20  # Mikhail #1
+#   "å§æ¯å­£æ¯æå¤« #6" = 15  # Mstislav #6
+#   "äºç½æ³¢å°å #3" = 15  # Yaropolk #3
+#   "ç½æ¼ #2" = 15  # Roman #2
+#   "çéå #2" = 15  # Rurik #2
+#   "åº·æ¯å¦ä¸ #1" = 15  # Konstantin #1
+#   "å¤§å« #2" = 10  # David #2
+#   "é¿æ³çº³è¥¿ #0" = 0  # Afanasiy #0
+#   "é¿åºå§ #0" = 0  # Akim #0
+#   "é¿ååè°¢ #0" = 0  # Alexei #0
+#   "å®çº³æå© #0" = 0  # Anatoliy #0
+#   "é¿å°å¡å­£ #0" = 0  # Arkadiy #0
+#   "é²éæ¯ #0" = 0  # Boris #0
+#   "ä¸¹å°¼å° #0" = 0  # Daniil #0
+#   "å¤ç½è´¹ #0" = 0  # Dorofey #0
+#   "è´¹å¥¥å¤è¥¿ #0" = 0  # Feodosiy #0
+#   "å å¼éå #0" = 0  # Gavriil #0
+#   "çº¦çå¤« #0" = 0  # Iosif #0
+#   "ä¼å¡ #0" = 0  # Ivan #0
+#   "é©¬ç¹æ #0" = 0  # Matveiy #0
+#   "çº³æé #0" = 0  # Nazariy #0
+#   "å°¼åºä½å° #0" = 0  # Nikifor #0
+#   "å¥¥åæ ¼ #0" = 0  # Oleg #0
+#   "æ®ç½æ¯æ¯ #0" = 0  # Prokopiy #0
+#   "æå¤ç±³å° #0" = 0  # Radomir #0
+#   "è¨ç»´é #0" = 0  # Saveliy #0
+#   "è°¢è #0" = 0  # Semen #0
+#   "è°¢å°ç #0" = 0  # Sergei #0
+#   "ç¦åé #0" = 0  # Valeriy #0
+#   "éå¤«çå°¼ #0" = 0  # Yevgeniy #0
+#   "å®å¨æ¯å¡è¥¿å¨ #0" = -1  # Anastasiya #0
+#   "å¹æå¡ #0" = -1  # Zlata #0
+#   "é©¬å°æ³ #0" = -1  # Marfa #0
+# }
+# leader_names = {
+#   "æ¥å¹è¯ºç±³å°"  # Zhiznomir
+#   "ç±³åºæ"  # Mikula
+#   "æ³¢å¡å°¼äº"  # Posenya
+#   "å·´éäºäº¬æ¯åº"  # Baryatinsky
+#   "å«åå¤«æ¯åº"  # Belevsky
+#   "æ²å°åº·æ¯åº"  # Volkonsky
+#   "æ²æ´ç»æ¯åº"  # Vorotynsky
+#   "æè¿æ¯åº"  # Gorensky
+#   "å¥å°æ¥ç§å¤«"  # Gorchakov
+#   "å¤å°æé²ç§å¤«"  # Dolgorukov
+#   "å¶åè¨åº"  # Yeletsky
+#   "çæ"  # Ryumin
+#   "å·´ææå¤«"  # Barashev
+#   "æ¯ç®äºå¥"  # Spyachy
+#   "è°¢æ¯æå¤«"  # Shestov
+#   "å¹æä½å¤«"  # Zventsov
+#   "æåé©¬ç§å¤«"  # Tokmakov
+#   "è¯ºå¹å¾·åç¦å­£"  # Nozdrevaty
+#   "å¡ç³"  # Kashin
+#   "é©¬è¨åæ¯åº"  # Massalski
+#   "ç§æ³½åæ¯åº"  # Kozelsky
+#   "ç§å®æ¯åº"  # Koninsky
+#   "åºå°ééæ°å¤«"  # Kurlyatev
+#   "é·ç§å¤«"  # Lykov
+#   "å¥¥åè¿æ¯åº"  # Obolensky
+#   "æ¯ç¹é»é"  # Strigin
+#   "çº³åè¶"  # Nagiye
+#   "æ¯å¸ä»æ¯åº"  # Spashsky
+#   "æé²æ¯åº"  # Torussky
+#   "ææ¯æ»æ¯åº"  # Trostensky
+#   "å¾åå®"  # Turenin
+#   "ç¹è²äºé"  # Tufyakin
+#   "éæ³°æå¤«æ¯åº"  # Khotetovsky
+# }
+# ship_names = {
+#   "å¤§å°åç±³åä¼å°"  # Archistratig Michail
+#   "å¤§å¤©ä½¿å ç¾å"  # Arkhangel Gavriil
+#   "å¤§å¤©ä½¿ç±³è¿¦å"  # Arkhangel Mikhail
+#   "å¤§å¤©ä½¿ææå°"  # Arkhangel Rafail
+#   "å¤§å¤©ä½¿ä¹åå°"  # Arkhangel Uriil
+#   "ä¸»æ¾å£å®¹è"  # Bogoiavlenie Gospodne
+#   "å£é²éæ¯åæ ¼åå"  # Boris i Gleb
+#   "ç¥æ"  # Bozhiye Predvideniye
+#   "å£æ"  # Cvet Vojny
+#   "å¾·ç±³ç¹éÂ·é¡¿æ¯ç§ä¼"  # Dimitrii Donskoi
+#   "å¥¥æ®æ¯ç¹ç½å¤«æè°"  # Dvenadtsat Apostolov
+#   "ä¼å¨Â·è¾ç³è¯ºæ"  # Evva Elenora
+#   "ä¼å¨Â·å¡å¡ç³å¨"  # Evva Katerina
+#   "ä¿ç½æ¯å¤§åå¸"  # Generalissimus Rossiiskaia
+#   "é¿å°æ±æ ¼å°æ¯åå"  # Gorod Arkhangelsk
+#   "å¤©å½"  # Goto Predestinatsia
+#   "å¥¥å°æ´å¤«ä¼¯çµ"  # Graf Orlov
+#   "å®å¨å¥³ç"  # Imperatritsa Anna
+#   "éå£çº¦ç¿°ä¸ä¸"  # Ioann Zlatoust Pervyi
+#   "ä¼è¨åÂ·ç»´å¤å©äº"  # Isaak Viktoriia
+#   "ä¼ä¸å¥ç½å¾·"  # Ivan Gorod
+#   "å£äºåå±±å¤§éªå£«"  # Kavaler Sviatoi Aleksandr
+#   "å£å®å¾·çéªå£«"  # Kavaler Sviatoi Andrei
+#   "åå±±å£æ¯"  # Kazanskaya Bogoroditsa
+#   "åºå° ç½å°"  # Kir Ioann
+#   "åºéå° å«æ´æ³½æ¯åº"  # Kiriil Belozerskiy
+#   "ç¬¬ä¸æ¹å¤§æççä¸½äº"  # Mariia Magdalina Pervaia
+#   "ç¬¬äºæ¹å¤§æççä¸½äº"  # Mariia Magdalina Vtoraja
+#   "æ¹å¤§æççä¸½äº"  # Mariia Magdalina
+#   "å£é©¬å¤ª"  # Matvei Evangelist
+#   "å¹³å®å¸æ"  # Nadezhda Blagopoluchiia
+#   "å«ç¢°æ"  # Ne Tron Menia
+#   "åæ¹éé¹°"  # Nord Adler
+#   "æ°å¸æ"  # Novaia Nadezhada
+#   "é¡ºéä¹åº"  # Osnovanie Blagopoluchiia
+#   "é¿èéé¹°"  # Out Adler
+#   "èæ©¡æ "  # Out Eketbom
+#   "å°¤æ¯å¡æ¯ä¹çºªå¿µ"  # Pamiat Evstafii
+#   "å¸çº³è´¾ é¿æ³¢ç½åºé"  # Panagiia Aporogrilli
+#   "å¸çº³è´¾ é¿æ³¢å¾é¨å è¯º"  # Panagiia Apotumengano
+#   "å¸çº³è´¾ å¡å©å è"  # Panagiia Kaligati
+#   "å¸çº³è´¾ æ³¢æ½è¿ª"  # Panagiia Popandi
+#   "èå©å£æ½æ·åä¼è"  # Panteleimon Viktoriia
+#   "å½¼å¾ä¸ä¸ä¸äºä¸"  # Piotr I i II
+#   "ä¿ç½æ¯ç»æ²»è"  # Pravitelnitsa Rossiiskaia
+#   "å°¤éçå­"  # Prints Evgenii
+#   "å¤æ¯å¡å¤«çå­"  # Prints Gustav
+#   "å®å¨å¬ä¸»"  # Printsessa Anna
+#   "éç«"  # Razzhyonnoe Zhelezo
+#   "åºç£éç"  # Rozhdestrvo Khristovo
+#   "å£ç±³æµ·å°"  # Sankt Michail
+#   "å£çº¦é¿åºå§"  # Sant Iakim
+#   "åæ¹éé¹°"  # Severnyj Oryol
+#   "å¶å¡ç¹ç³å¨è£å"  # Slava Ekateriny
+#   "ä¿ç½æ¯è£å"  # Slava Rossii
+#   "ç¡ç®"  # Spiashchii Lev
+#   "èæ©¡æ "  # Staryi Dub
+#   "èé¹°"  # Staryi Oryol
+#   "å£å®å¨"  # Sviataia Anna
+#   "å£ç¦å°ç¦æ"  # Sviataia Velikomuchenitsa Varvara
+#   "å£çµ"  # Sviatogo Dukha
+#   "å£äºåå±±å¤§Â·æ¶å¤«æ¯åº"  # Sviatoi Aleksandr Nevskij
+#   "å£äºåå±±å¤§"  # Sviatoi Aleksandr
+#   "ä½¿å¾å£å®å¾·ç"  # Sviatoi Andrei Pervozvannii
+#   "å£å®å¾·ç"  # Sviatoi Andrei
+#   "å£å®ä¸å°¼"  # Sviatoi Antonii
+#   "å£å¾·ç±³ç¹éÂ·ç½æ¯æå¤«æ¯åº"  # Sviatoi Dmitrii Rostovskii
+#   "å£å°¤æ¯å¡æ¯Â·æ®æåºææ¯"  # Sviatoi Evstafii Plakida
+#   "å£è´¹å¥¥å¤"  # Sviatoi Fyodor
+#   "ä½¿å¾å£ä¹æ²»"  # Sviatoi Georgii Pobedonosets
+#   "å£ä¹æ²»"  # Sviatoi Georgii
+#   "å£éå"  # Sviatoi Iakov
+#   "å£ç­ç½å§"  # Sviatoi Ieronim
+#   "å£ä¼èé"  # Sviatoi Ilia
+#   "å£ä»¥æ"  # Sviatoi Isakii
+#   "å£éåªé¿"  # Sviatoi Januarii
+#   "ç½é©¬ä¸»æå£åè±é¨"  # Sviatoi Kliment Papa Rimskii
+#   "å£å°¼å¤æ"  # Sviatoi Nikolai
+#   "å£æ½æ·åä¼è"  # Sviatoi Panteleimon
+#   "å£ä¿ç½"  # Sviatoi Pavel
+#   "å£å½¼å¾"  # Sviatoi Piotr
+#   "å£è°¢å°ç"  # Sviatoi Sergii
+#   "å£ä¼è¥¿å¤å°"  # Sviatoi Velikomuchenik Isidor
+#   "å£å¡ç¹ç³å¨"  # Svietaia Ekaterina
+#   "å£çä¸½"  # Svietaia Mariia
+#   "ä¼å¤§çè¥¿ç´¢ä¼"  # Sysoi Velikii
+#   "å¾æå£æ¯"  # Tolskaya Bogoroditsa
+#   "ä¸ä¸»æ"  # Trekh Ierarkhov
+#   "ä¸å£å¾"  # Trekh Sviatitelei
+#   "æ²çåº·æ¯å¦ä¸"  # Tsar Konstantin
+#   "æäºè²å½©"  # Tsvet Voiny
+#   "è¡èæ"  # Vinogradnaia Vetv
+#   "è¶ç¨£åå¤©è"  # Voznesenie Gospodne
+#   "ä¼æèç½ æè¿¦å©äºä¸ä¸"  # Zakharii i Elisavet
+#   "å¤©é¹åº§å®æ¤è"  # Zhuravl Steregushchii
+#   "éæ"  # Zolotaia Zvezda
+#   "éè¹æ"  # Zolotoe Iaboloko
+#   "é¿éå©å "  # Afrika
+#   "é¹³"  # Aist
+#   "é¿ç©å°"  # Amur
+#   "é¿æ³¢ç½"  # Apollo
+#   "ç¾¤å²"  # Arkhipelag
+#   "é¿å°èç¹"  # Armont
+#   "é¿ä¼¦å¾·å°"  # Arondel
+#   "é¿æ¯ç¹æç½"  # Astrakhan
+#   "äºç»äº"  # Aziia
+#   "äºé"  # Azov
+#   "å¤©æ "  # Blagodat
+#   "å¹³å®"  # Blagopoluchie
+#   "ä¸åé¢ "  # Britanniia
+#   "å¸æå¸é²å"  # Bulinbrok
+#   "è¿æ"  # Bystraia
+#   "ä¹é¾"  # Cherepakha
+#   "è"  # Chesma
+#   "æ­£ç´"  # Chestnaia
+#   "è±å"  # Degas
+#   "ç±ä¹æ¡å "  # Dekrondelivde
+#   "æµ·è±"  # Delfin
+#   "ææ´"  # Delos
+#   "æ°å°å®¾ç¹"  # Derbent
+#   "å¤å°å¸ç¹"  # Derpt
+#   "å¾·æé¡"  # Devonshir
+#   "æ´å®å¨"  # Diana
+#   "å¤§å"  # Dobraia
+#   "é¹é³"  # Donder
+#   "åæ¤é¡¶"  # Drumkrakht
+#   "ä¸æ¤é¡¶"  # Dumkrat
+#   "ç¬è§å½"  # Eingorn
+#   "å¶è¿å¨"  # Elena
+#   "å¨æ"  # Emgeiten
+#   "åé©¬çº½ä¼å°"  # Emmanuil
+#   "åè°"  # Endrakht
+#   "å¸æ"  # Esperans
+#   "åç¹çº³"  # Etna
+#   "æ¬§ç½å·´"  # Evropa
+#   "æ³å°å"  # Falk
+#   "æäºº"  # Favoritka
+#   "å¤å°"  # Feniks
+#   "æå¸"  # Flag
+#   "ç¦å°å¾å¨"  # Fortuna
+#   "èç¹çæ½å¡ç¹"  # Fredrikhshtadt
+#   "è°åè"  # Fridemaker
+#   "è´¹å¥¥å¤å°"  # Fyodor
+#   "æ±å ¡"  # Gamburg
+#   "çå¤ç¹"  # Gangut
+#   "èµ«åæè³"  # Gektor
+#   "é·é¸£"  # Gremiashchii
+#   "æ ¼éé«å©"  # Grigorii
+#   "åé·"  # Grom
+#   "è¶è°·è¿ªä¼å°"  # Iagudiil
+#   "æ¬å ¡"  # Iamburg
+#   "éç½æ¯æå¤«"  # Iaroslav
+#   "éè¥¿"  # Iassy
+#   "ä»¥è¥¿ç»"  # Iezekiil
+#   "è±æ ¼æ¼å°"  # Ingermanland
+#   "ç½å°"  # Ioann
+#   "æ±åºç¹"  # Iupiter
+#   "ç£ç³"  # Kamen
+#   "ç®æ¶"  # Khobot
+#   "éäº¬"  # Khotin
+#   "åèµè"  # Khvalnaia
+#   "é²¸"  # Kit
+#   "åº·æ¯å¦ä¸"  # Konstantin
+#   "ç§æ³¢éè¶"  # Kopore
+#   "çå "  # Korona
+#   "å·¡æ´è°"  # Kreiser
+#   "å ¡å"  # Krepost
+#   "åæä»æ´ç¹"  # Kronshlot
+#   "åçæ½å¡å¾"  # Kronshtadt
+#   "åé²ä¼æ¯"  # Kruis
+#   "åéæ¨"  # Krym
+#   "å°æ"  # Landsdou
+#   "äº²å"  # Laskovaia
+#   "ææ¯ç¹å¡"  # Lastka
+#   "ååº"  # Leferm
+#   "è½»å¿«"  # Legkii
+#   "æ£®æ"  # Lesnoye
+#   "åå¤«"  # Lev
+#   "ç¾å"  # Liliia
+#   "èå¡ç¹"  # Lizet
+#   "ä¼¦æ¦"  # London
+#   "å±±ç«"  # Luks
+#   "é©¬å°å ¡"  # Marlburg
+#   "å¢¨ä¸å©"  # Merkurii
+#   "ç"  # Miach
+#   "ç±³ç½"  # Milo
+#   "å¼¥æ¶è³ç¦"  # Minerva
+#   "ç±³é¶"  # Mittau
+#   "è«ä¸"  # Modon
+#   "éªçµ"  # Molniia
+#   "èè´è¯"  # Monbekend
+#   "æçè£å¹¸"  # Monplezir
+#   "æ©éäº"  # Moreia
+#   "è«éæ¯"  # Moris
+#   "è«æ¯ç§"  # Moskva
+#   "æçå¿è"  # Munker
+#   "å¸æ"  # Nadezhda
+#   "çº³åè¥¿äº"  # Naktsiia
+#   "çº³å°ç¦"  # Narva
+#   "çº³å¡å©äº"  # Natalia
+#   "æ¿æå"  # Nazaret
+#   "æ æ"  # Nepobedimaia
+#   "æ¶æ®é¡¿"  # Neptunus
+#   "å°¼ä»å¡ç¹"  # Nishtadt
+#   "æ°å·´æ®æ´å¤«æ¯å"  # Novopavlovsk
+#   "çæ´¥"  # Oksford
+#   "å¥¥å°å "  # Olga
+#   "å¥¥å©ä¸ç¹"  # Olifant
+#   "ä¿è³ç«æ¯"  # Orfei
+#   "é¹°é¼"  # Oryol
+#   "å¸æ³ç½æ¯"  # Palyulos
+#   "å·´é»"  # Parizh
+#   "å¸ç½æ¯"  # Paros
+#   "å¸ç¹éåå©"  # Patriklii
+#   "çç "  # Perl
+#   "ä½©å°è¯ºå¤«"  # Pernov
+#   "åé"  # Pervyi
+#   "å½¼å¾å ¡"  # Peterburg
+#   "å½¼å¾"  # Piotr
+#   "å½¼å¾"  # Piotr
+#   II
+#   "ææå¾"  # Plato
+#   "èå©"  # Pobeda
+#   "é®å·®"  # Pochtalon
+#   "æ³¢å°å¡ç¦"  # Poltava
+#   "æ³¢ååæ¯"  # Poluks
+#   "å¸®æ"  # Pomoshchnyi
+#   "æ´æ¬¡èæ¯"  # Portsmut
+#   "æ¥å"  # Pospeshnyi
+#   "å¥³å£«"  # Prevoskhoditeinaia
+#   "å¬ä¸»"  # Printsessa
+#   "åå¥½"  # Priyatelnaya
+#   "æ®ç½éå°"  # Prokhor
+#   "ææ·"  # Provornyi
+#   "ææå°"  # Rafail
+#   "é¾è¾"  # Rak
+#   "å°éå¤«"  # Randolf
+#   "ææº"  # Razumnaia
+#   "é·ç»´å"  # Revel
+#   "éå "  # Riga
+#   "ä¿ç½æ¯"  # Rossia
+#   "ç½æ¯å­£æ¯æå¤«"  # Rostislav
+#   "ç«ç°"  # Roza
+#   "çç"  # Rys
+#   "ç«è¥è´"  # Salamandra
+#   "åå­"  # Samson
+#   "è¨ææå¤«"  # Saratov
+#   "å¹¸ç¦"  # Schastie
+#   "å¿«ä¹"  # Schastlivyi
+#   "å¡ææ³å°"  # Selafail
+#   "çµé¾"  # Shkhelpol
+#   "æ½å©å¡å°å ¡"  # Shlisselburg
+#   "é¿å"  # Shpaga
+#   "åæ"  # Shtandart
+#   "è£ç¼"  # Shval
+#   "å¥³å¬çµ"  # Siiatelnaia
+#   "é¡å®"  # Sion
+#   "åç±"  # Sklonnaia
+#   "å¤©è"  # Skorpion
+#   "æ¯åªå"  # Snuk
+#   "ç¬"  # Sobaka
+#   "éé¹°"  # Sokol
+#   "éæ"  # Starn
+#   "æ¯å¦å "  # Stein
+#   "æ¯ç¹æç¦å¾·"  # Straford
+#   "ææ§"  # Strakh
+#   "ç®­"  # Strela
+#   "æ¯ç¹é²æ¯"  # Strus
+#   "æ æª"  # Sulitsa
+#   "æ¯ç»´äºææ¯æå¤«"  # Sviatoslav
+#   "å¶æ"  # Svirepaia
+#   "å¡çç½æ ¼"  # Taganrog
+#   "æ³°é©¬æå°"  # Taimalar
+#   "å¿åçç§æ¯"  # Telemakus
+#   "èå¿"  # Terpelivaia
+#   "æè¯º"  # Tino
+#   "ç¹ç»´å°"  # Tver
+#   "åå¼º"  # Tvyordyi
+#   "åå¦å®¤"  # Ubornaia
+#   "è°¦æ­"  # Uchtivaia
+#   "å°¤å©è¥¿æ¯"  # Uliss
+#   "ä¹å°éåè°·"  # Ulriksdal
+#   "ææ"  # Upovanie
+#   "ä¹åå°"  # Uriil
+#   "ç¦èµ«ç¹è¿æ¯ç¹"  # Vakhmeister
+#   "ç¦æå¸ä¼å°"  # Varakhail
+#   "ç»´è¾¾å©äº"  # Vedraia
+#   "éæ"  # Venera
+#   "æå"  # Venker
+#   "ç»´çº³æ¯"  # Venus
+#   "ä¼ ä»¤åµ"  # Vestovoi
+#   "ç»´èå¨"  # Vesuvii
+#   "ç»´äºåæ¯æå¤«"  # Viacheslav
+#   "ç»´å¤å©äº"  # Viktoriia
+#   "æªæ¬"  # Vinkelgak
+#   "æå£«"  # Voin
+#   "æ²ç½æ¶æ¥"  # Voronez
+#   "å¼è°¢æ²æ´å¾·"  # Vsevolod
+#   "ç¬¬äº"  # Vtoroi
+#   "ç»´å ¡"  # Vyborg
+#   "æ°´ç­"  # Vydra
+#   "éåªæ¯"  # Yanos
+#   "è°æ"  # Zabavnaia
+#   "å¥½æ"  # Zadornaia
+#   "çç "  # Zhemchug
+#   "ä¹å°ä¹"  # Zhurzha
+#   "æ¯è"  # Zmeia
+#   "æè¾°"  # Zvezda
+# }

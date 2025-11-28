@@ -1,0 +1,9 @@
+1441.9.17 = {
+	monarch = {
+		name = "约翰 本 福斯特"
+		birth_date = 1410.12.6
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}

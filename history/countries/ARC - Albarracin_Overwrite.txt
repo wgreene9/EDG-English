@@ -1,0 +1,9 @@
+1436.5.19 = {
+  monarch = {
+    name = "佩雷 路易斯 德 伊哈尔"  # d'Aragó
+	  birth_date = 1401.1.1
+    adm = 3
+    dip = 4
+    mil = 2
+  }
+}

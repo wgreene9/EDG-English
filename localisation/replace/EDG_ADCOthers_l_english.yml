@@ -1,0 +1,49 @@
+﻿l_english:
+ EDG_ADC_well_fed:0 "粮草充足"
+ desc_EDG_ADC_well_fed:0 ""
+ EDG_ADC_candidate:0 "待选者"
+ desc_EDG_ADC_candidate:0 ""
+ EDG_ADC_full_of_troops:0 "兵员充沛"
+ desc_EDG_ADC_full_of_troops:0 ""
+ EDG_ADC_chosen:0 "获选者"
+ desc_EDG_ADC_chosen:0 ""
+ EDG_ADC_pilgrimage_road:0 "朝圣之路"
+ desc_EDG_ADC_pilgrimage_road:0 ""
+ EDG_ADC_integrative_order:0 "整合修会"
+ desc_EDG_ADC_integrative_order:0 ""
+
+
+
+
+
+
+
+
+ opionion_FOI_apostasy_same:0 "皈依真信"
+ opionion_FOI_apostasy:0 "变节"
+
+ ADC_ideas:0 "摩尔斯科理念"
+ ADC_ideas_bonus:0 "摩尔斯科传统"
+ ADC_ideas_start:0 "摩尔斯科野心"
+ ADC_ideas_1:0 "圣雅各伯之剑"
+ ADC_ideas_1_desc:0 ""
+ ADC_ideas_2:0 "皈依者狂热"
+ ADC_ideas_2_desc:0 ""
+ ADC_ideas_3:0 "朝圣大道"
+ ADC_ideas_3_desc:0 ""
+ ADC_ideas_4:0 "军事传统"
+ ADC_ideas_4_desc:0 ""
+ ADC_ideas_5:0 "远洋宣讲"
+ ADC_ideas_5_desc:0 ""
+ ADC_ideas_6:0 "修会改革"
+ ADC_ideas_6_desc:0 ""
+ ADC_ideas_7:0 "战争热诚"
+ ADC_ideas_7_desc:0 ""
+
+ SJS:0 "圣雅各伯之剑"
+ SJS_ADJ:0 "圣雅各伯之剑"
+
+ FOI_ADC_judicial_system:0 "圣裁体制"
+ FOI_ADC_judicial_system_desc:0 ""
+ FOI_SJS_order_of_st_james:0 "圣雅各伯骑士团"
+ FOI_SJS_order_of_st_james_desc:0 ""

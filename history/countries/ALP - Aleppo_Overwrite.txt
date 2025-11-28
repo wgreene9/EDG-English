@@ -1,0 +1,10 @@
+1444.11.11 = {
+  monarch = {
+    name = "阿夫扎勒 II" 
+	dynasty = "赞吉"
+    birth_date = 1417.11.10
+    adm = 2
+    dip = 4
+    mil = 4
+  }
+}

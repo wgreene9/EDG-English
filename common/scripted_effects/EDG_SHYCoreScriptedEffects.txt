@@ -1,0 +1,14 @@
+EDG_SHY_Sibanihan = {
+	define_ruler = {
+		name = "穆罕默德 V 昔班尼"
+		dynasty = "月即别"
+		age = 17
+		adm = 3
+		dip = 5
+		mil = 6
+		religion = sunni
+	}
+	hidden_effect = {
+		add_ruler_personality = strict_personality
+	}
+}

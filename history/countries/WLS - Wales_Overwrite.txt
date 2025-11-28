@@ -1,0 +1,35 @@
+1402.11.11 = {
+  monarch = {
+    name = "欧文"
+	  dynasty = "格兰道尔"
+    birth_date = 1359.1.1
+    death_date = 1442.8.3
+    adm = 3
+    dip = 3
+    mil = 5
+  }
+}
+1443.12.24 = {
+  leader = {
+    name = "奥佛恩 佩恩"  # Archibald Douglas
+    type = general
+    fire = 2
+    shock = 3
+    manuever = 4
+    siege = 2
+    birth_date = 1414.8.17
+    death_date = 1460.8.3
+  }
+}
+1444.1.1 = {
+  monarch = {
+    name = "阿梅尔"
+    dynasty = "格兰道尔"
+    birth_date = 1399.1.1
+    death_date = 1460.8.3
+    claim = 90
+    adm = 3
+    dip = 4
+    mil = 4
+  }
+}

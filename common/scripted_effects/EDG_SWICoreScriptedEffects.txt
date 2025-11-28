@@ -1,0 +1,17 @@
+EDG_SWI_define_siw_ruler = {
+	define_ruler = {
+		name = "诺亚·胡·马库斯"
+		age = 25
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+	set_ruler_flag = EDG_SWI_noah_hu_marcus
+	define_advisor = {
+		name = "胡天意"
+		skill = 1
+		culture = jianghuai
+		type = reformer
+		cost_multiplier = 0.25
+	}
+}

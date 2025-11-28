@@ -1,0 +1,401 @@
+﻿l_english:
+
+BAH_1_ideas:0 "巴赫曼尼理念"
+BAH_1_ideas_start:0 "巴赫曼尼传统"
+BAH_1_ideas_bonus:0 "巴赫曼尼野心"
+1_gharbians:0 "西方来客"
+1_legacy_of_gisu_daraz:0 "基苏·达拉兹的遗产" 
+1_dakani_language:0 "德干语"
+1_karimis:0 "穆斯林商人"
+1_takht_e_firoza:0 "绿松石王座"
+1_bahmani_primogeniture:0 "巴赫曼尼长子继承制"
+1_madrasa_of_mahmud_gawan:0 "德干宗教学院"
+
+1_gharbians_desc:0 "一百年前从德里独立虽然让我们获得自由，但是也切断了我们同北方穆斯林的物资人员技术交流。由于缺少穆斯林贵族的帮助，我们受到南方印度教贵族的威胁。\n幸好，名声救了我们。德干的富饶在穆斯林中流传，吸引着许多海外淘金者前来。招募这些西方人充实军队，为我们提供建议。"
+1_legacy_of_gisu_daraz_desc:0 "印度和巴赫曼尼苏丹国流行苏菲派信仰。苏丹们努力招募苏菲教长们，比如伟大的基苏达拉兹，突显我国教会和国王实力强大。\n推行苏菲派信仰，崇尚精神主权和包容，使我们能够融合西方人和德干土著的信仰，使其不再冲突。" 
+1_dakani_language_desc:0 "德干地区有许多不同的语言和文化。这里有伊朗人，都兰人，阿富汗人和阿拉伯人。虽然我们的祖先说波斯语，但是在阿拉伯语混合后产生了一种新语言，德干语。它得到了广泛使用，成为标准语言。"
+1_karimis_desc:0 "几个世纪以来，印度和西亚的贸易都是由阿拉伯人垄断的。这些穆斯林商人十分富有和强大。他们的贸易帝国包括泰米尔的海边和斯瓦希里的城市到埃及的港口，当中有亚丁湾、各个苏丹国、大大小小的贵族和普通人，以及无数的外国商品和资金。\n这个团体对我们十分友好，我们也应该同它发展关系。"
+1_takht_e_firoza_desc:0 "任何来访的使者来到宫殿中觐见我们的苏丹时，最先注意到的一定是我们王朝的传家至宝——绿松石王座。这件珍宝是泰卢固罗阇尼雅伽战败后进献给我们的。精美而独特的王座是德干财富的象征，也是德干多民族文化的符号。"
+1_bahmani_primogeniture_desc:0 "我国曾经并不实行长子继承制，即王位由国王最年长的儿子继承。摄政王和一些贵族常常利用这一点发动政变。现在，随着我们正式实行长子继承制，这种事情基本消失了，王位过度十分平稳。"
+1_madrasa_of_mahmud_gawan_desc:0 "多年来，我们从广大的穆斯林国家吸引了大批学者，同时也充分利用了本地最好的人才。这些创造了一个富裕的城市——德干，这里融合了波斯、阿拉伯、马拉塔、泰卢固及卡纳达文化。在首都建立一所大学将能满足未来德干研究的开展，并且让世人了解我们伟大的国家。"
+
+DEC_1_ideas:0 "德干帝国理念 "
+DEC_1_ideas_start:0 "德干帝国传统"
+DEC_1_ideas_bonus:0 "德干帝国野心"
+2_dakani_language:0 "德干语"
+1_dec_diwan_funding:0 "资助底万"
+1_dec_foreign_trade_privileges:0 "外国商人特权"
+1_dec_empower_paigah:0 "赋予派加家族权力"
+1_dec_modernize_the_sarf_e_khas:0 "军队现代化" 
+1_dec_jewels_of_the_nizams:0 "尼萨姆的珠宝"
+1_dec_encourage_industries:0 "鼓励工业发展"
+
+2_dakani_language_desc:0 "德干地区有许多不同的语言和文化。这里有伊朗人，都兰人，阿富汗人和阿拉伯人。虽然我们的祖先说波斯语，但是在阿拉伯语混合后产生了一种新语言，德干语。它得到了广泛使用，成为标准语言。"
+1_dec_diwan_funding_desc:0 "让我们将土地分成三等份。第一份将归于国家自身，用以照顾我们的统治者以及国库；一份将属于贵族及其他掌权者；最后的三分之一应当致力于资助底万的需求。这样我们就能确保支付所有基础设施项目的费用，而不用对国家的其他收入进行征税。" 
+1_dec_foreign_trade_privileges_desc:0 "德干的港口吸引着世界各地的商人，而这些贸易正是我们的财富来源。对于那些定期在我国投资、分销商品的外国商人，我们应当竭力去保护。"
+1_dec_empower_paigah_desc:0 "有些家族比其他家族的贡献更大。我们必须奖励我们最热心的支持者，并允许他们在我们的国家内享有极大的自由。通过这种方式，我们将拥有一批坚定的支持者，而他们也将总是愿意为我们的事业做出贡献，这些人为我们的事业提供人才、军官和官员。"
+1_dec_modernize_the_sarf_e_khas_desc:0 "尽管我们的军队在军事上有着令人自豪，其传统可以追溯到14世纪，但是现在我们也必须开放、与时俱进。让我们邀请任何有点子的外国人来助我们的军队现代化。操练、纪律和迅速的行动是未来所在，也是我们在未来打败将要面对的敌人的唯一途径。" 
+1_dec_jewels_of_the_nizams_desc:0 "德干是一块富饶的土地，千百年以来，我们掌控着全世界最大的，也是唯一的钻石矿藏。让我们立志向世界展示这些财富，以便人们始终见证我们宫廷的辉煌。翡翠、珍珠、钻石、红宝石和所有其他类型的宝石很快就会成为我们名字的代名词。"
+1_dec_encourage_industries_desc:0 "我们的土地有着丰富的原材料，但没有像北方那样集中的制造业中心。让我们利用国家的资金来鼓励私营企业的发展，这样很快就能拥有一个属于我们自己的蓬勃发展的精制商品业，之后就可以在我们已经控制的大型贸易港口进行出口。"
+
+has_won_at_least_100_battles_1:2 "至少§Y赢得§!§G100§!战斗（目前:§Y[Root.num_of_battles_won_var.GetValue]§!）"
+EDG_BAH_D2_1_tool:0 " 完成任务后，如果对毗阇耶纳迦罗战争分有§G95§!时，且控制毗阇耶纳迦罗城，几天后触发事件毗阇耶纳迦罗王公的降伏"
+EDG_BAH_D2_1_tool_1:0 "§T事件前瞻：§!\n该事件可以让我们选择附庸§Y毗阇耶纳迦罗§!或者获得§Y科罗曼德地区§!的永久宣称"
+EDG_BAH_D2_1_tool_a_tt_yes:0 "£yes£§Y毗阇耶纳迦罗§!存在"
+EDG_BAH_D2_1_tool_a_tt_no:0 "£no£§Y毗阇耶纳迦罗§!存在"
+EDG_BAH_D2_1_tool_b_tt_yes:0 "£yes£§Y毗阇耶纳迦罗§!不存在"
+EDG_BAH_D2_1_tool_b_tt_no:0 "£no£§Y毗阇耶纳迦罗§!不存在"
+
+EDG_D2_2_event_1:0 "如果后续继续没收会获得关于§G造核§!的额外永久修正"
+EDG_D2_2_event_2:0 "如果后续继续不没收,会获得§G外交吞并§!的额外永久修正"
+EDG_BAH_D2_2_tool:0 "§T事件前瞻：§!\n该事件可以让我们改善§Y毗阇耶纳迦罗§!关系获取永久吞并修正，亦或者索取§Y毗阇耶纳迦罗§!核心领土"
+
+EDG_BAH_B2_4_tool_1:0 "至少有§G9.0§!异教容忍。"
+EDG_BAH_B2_4_tool:0 "完成任务将不会有印度宗教冲突"
+EDG_BAH_B2_3_tool:0 "如果开启了黄金时代则延长50年，如果黄金时代已经结束则重置黄金时代。"
+EDG_BAH_B1_2_tool_a_tt_yes:0 "£yes£如果我们控制德里城且有50战争分时，奖励替换为事件§Y德里之劫§!"
+EDG_BAH_B1_2_tool_a_tt_no:0 "£no£如果我们控制德里城且有50战争分时，奖励替换为事件§Y德里之劫§!"
+EDG_BAH_B1_2_tool_b_tt_yes:0 "£yes£如果过去50年赢得对§Y德里§!的战争"
+EDG_BAH_B1_2_tool_b_tt_no:0 "£no£如果过去50年赢得对§Y德里§!的战争"
+
+
+EDG_BAH_D2_4_tool:0 "启用决议§Y德干苏丹归来§!，此决议可以辅助我们成立德干。"
+EDG_BAH_B3_1_tool:0 "启用奇观升级决议，允许免费升级一级奇观。"
+EDG_BAH_C3_4_tooltip:0 "启用决议§Y印度霸主§!"
+EDG_BAH_C3_4_decisions_name:0 "达罗毗荼"
+EDG_BAH_C3_4_decisions_name_ADJ:0 "达罗毗荼"
+EDG_BAH_C3_4_decisions_1_great:0 "是§Y达罗毗荼§!"
+EDG_BAH_C3_4_decisions_tool:0 "成立§Y达罗毗荼§!。\n启用部分§Y印度教§!奇观"
+EDG_BAH_C4_1_tool:0 "如果我们的国家在未来发生了§Y动荡§!，这些§Y总督§!将会明白他们效忠的是谁。"
+EDG_BAH_A4_1_tool:0 "所有属于§Y艾哈迈德讷格尔§!核心的省份至少提升§G3§!次"
+EDG_BAH_B4_1_tool:0 "所有属于§Y比贾布尔§!核心的省份至少提升§G3§!次"
+EDG_BAH_C4_1_tool_1:0 "所有属于§Y贝拉尔§!核心的省份至少提升§G3§!次"
+EDG_BAH_D4_1_tool:0 "所有属于§Y戈尔孔达§!核心的省份至少提升§G3§!次。"
+EDG_BAH_C4_2_tooltip:0 "在事件§Y【来自总督反叛的流言】§!选择了§G绝对效忠§!的选项。"
+EDG_BAH_B2_4_flag:0 "宗教宽容"
+EDG_India_religion_conflict_modifier_1_tooltip:0 "是帝国且是印度教"
+EDG_BAH_B1_3_tooltip:0 "马蹄未踏过之处，印度的土地被逐渐统一。马上的艾哈迈德向远方望去，目光捕捉到了地平线的一抹光辉，那是属于自己的未来：「一个统一的印度，在烈日的照耀下闪闪发光」"
+EDG_BAH_A2_2_tooltip:0 "完成任务§Y德干大都会§!"
+EDG_BAH_C1_5_tooltip:0 "启用佣兵团§M皇家象骑兵卫队§!\n获得机制招募雇佣兵不消耗§Y职业度§!"
+EDG_BAH_C1_1_tooltip:0 "§Y艾哈迈德§!将会在§M三十§!年后迎来§R命定之死§!，但是如果完成了他的心愿或许所谓的§R命运§!也可以打破！"
+EDG_BAH_B1_2_tooltip_1:0 "启用佣兵团§M象骑兵卫队§!"
+EDG_BAH_C1_5_tooltip_1:0 "至少§Y赢得§!§G150§!战斗（目前:§Y[Root.num_of_battles_won_var.GetValue]§!）"
+EDG_BAH_B4_3_tooltip:0 "所有高亮省份基础生产至少为§G5§!，拥有§Y工坊§!或§Y会计室§!。"
+EDG_BAH_B4_3_tooltip_1:0 "所有高亮省份基础生产+§G1§!\n所有高亮省份:"
+EDG_BAH_D5_1_scripted_effects_tooltip:0 "所有§Y高亮§!省份:"
+EDG_BAH_D5_1_scripted_triggers_tooltip:0 "所有§Y高亮§!省份至少提升8次,拥有§Y工坊§!或§Y会计室§!。"
+EDG_BAH_C6_2_tooltip:0 "所有§Y高亮§!省份至少§G8§!生产,拥有§Y工坊§!或§Y会计室§!。"
+EDG_BAH_C7_1_tooltip:0 "所有§Y高亮§!省份至少§G10§!人力，且拥有§Y兵营§!或§Y训练营§!。"
+EDG_BAH_C7_3_tooltip:0 "§Y事件前瞻§!：\n根据选择的理念不同获得的奖励不同，即使多开理念也只能选择一个。\n§Y进攻§!：§G10%围城效率§!，§Y防守§!：§G10%士气§!，§Y质量§!：§G5%训§!，§Y数量§!：§G25%陆军规模§!"
+
+EDG_BAH_D6_1_tooltip:0 "如果§Y德干帝国的奔溃§!灾难未触发点击可以立刻触发灾难，如果灾难已经读条点击该任务可以加快读条速度。"
+EDG_BAH_D6_1_flag:0 "虚假的表面和平"
+EDG_BAH_D6_2_tooltip:0 "印度斯坦诸国宣布独立"
+EDG_BAH_D6_3_tooltip:0 "印度西部诸国宣布独立"
+EDG_BAH_D6_4_tooltip:0 "将结束§T德干帝国崩溃的现状§!。"
+EDG_BAH_D6_4_tooltip_1:0 "完成任务§Y印度终将统一§!"
+EDG_BAH_E6_1_tooltip:0 "孟加拉诸国宣布独立"
+EDG_BAH_C7_2_tooltip:0 "增强政府互动能力"
+EDG_BAH_E8_1_tooltip:0 "解锁拓荒能力的决议"
+EDG_BAH_C8_2_tooltip:0 "解锁决议§Y风卷残云§!"
+EDG_BAH_D8_2_tooltip:0 "该事件可以让我们获得§Y天命系统§!。"
+EDG_BAH_A7_1_tooltip:0 "至少§Y赢得§!§G350§!战斗（目前:§Y[Root.num_of_battles_won_var.GetValue]§!"
+EDG_BAH_C7_3_tooltip:0"至少§Y赢得§!§G600§!战斗（目前:§Y[Root.num_of_battles_won_var.GetValue]§!"
+EDG_BAH_D7_1_tooltip:0"至少§Y赢得§!§G500§!战斗（目前:§Y[Root.num_of_battles_won_var.GetValue]§!"
+EDG_BAH_A1_1_tool_a_tt_yes:0 "£yes£如果§Y德里不存在§!"
+EDG_BAH_A1_1_tool_a_tt_no:0 "£no£如果§Y德里不存在§!"
+EDG_BAH_A1_1_tool_b_tt_yes:0 "£yes£如果过去50年赢得对§Y德里§!的战争"
+EDG_BAH_A1_1_tool_b_tt_no:0 "£no£如果过去50年赢得对§Y德里§!的战争"
+EDG_BAH_A1_1_tool_c_tt_yes:0 "£yes£如果与§Y德里§!在战争中且战争分为35以上"
+EDG_BAH_A1_1_tool_c_tt_no:0 "£no£如果与§Y德里§!在战争中且战争分为35以上"
+EDG_BAH_A1_2_tool_a_tt_yes:0 "£yes£通过征服手段完成"
+EDG_BAH_A1_2_tool_a_tt_no:0 "£no£通过征服手段完成"
+EDG_BAH_A1_2_tool_b_tt_yes:0 "£yes£通过外交手段完成"
+EDG_BAH_A1_2_tool_b_tt_no:0 "£no£通过外交手段完成"
+EDG_BAH_D8_a_1_tooltip:0 "§Y警告：§!如果天命不存在或者消失了则无法获得天命。"
+EDG_BAH_exploison_1_A_flag_1_tt:0 "启用决议§Y降低后续灾难§!难度"
+
+EDG_BAH_exploison_1_A_title:0 "绥靖开拉迪诸王公"
+EDG_BAH_exploison_1_B_title:0 "清剿迈索尔残存势力"
+EDG_BAH_exploison_1_C_title:0 "镇压南方叛乱分子"
+EDG_BAH_exploison_1_A_desc:0 "§Y降低后续灾难§!难度"
+EDG_BAH_exploison_1_B_desc:0 "§Y降低后续灾难§!难度"
+EDG_BAH_exploison_1_C_desc:0 "§Y降低后续灾难§!难度"
+
+EDG_BAH_exploison_2_A_title:0 "拉拢德里贵族"
+EDG_BAH_exploison_2_B_title:0 "控制中印度反叛势力"
+EDG_BAH_exploison_2_C_title:0 "清除印度东部分离势力"
+EDG_BAH_exploison_2_A_desc:0 "§Y降低后续灾难§!难度"
+EDG_BAH_exploison_2_B_desc:0 "§Y降低后续灾难§!难度"
+EDG_BAH_exploison_2_C_desc:0 "§Y降低后续灾难§!难度"
+
+khajuraho_BAH:0 "德干大都会"
+khajuraho_BAH_title:0 "德干大都会"
+great_project_khajuraho_BAH:0 "德干大都会"
+
+falun_copper_mine_BAH:0 "戈尔孔达大钻矿"
+falun_copper_mine_BAH_title:0 "戈尔孔达大钻矿"
+great_project_falun_copper_mine_BAH:0 "戈尔孔达大钻矿"
+
+temple_BAH:0 "加万宗教学院"
+temple_BAH_title:0 "加万宗教学院"
+great_project_temple_BAH:0 "加万宗教学院"
+
+EDG_BAH_A1_1_modifiers:0 "统一战线的异端兄弟"
+EDG_BAH_A1_2_modifiers_1:0 "卫戍古吉拉特"
+EDG_BAH_A1_2_modifiers_2:0 "控制古吉拉特港口"
+EDG_BAH_B1_1_modifiers:0 "黎明前夕"
+EDG_BAH_B1_1_modifiers_1:0 "戈尔孔达总督心怀异心"
+EDG_BAH_B1_1_modifiers_2:0 "贝拉尔总督心怀异心"
+EDG_BAH_B1_1_modifiers_3:0 "比贾布尔总督心怀异心"
+EDG_BAH_B1_1_modifiers_4:0 "艾哈迈德总督心怀心"
+EDG_BAH_B1_1_modifiers_5:0 "松散的王国"
+EDG_BAH_B1_1_modifiers_6:0 "安抚总督"
+EDG_BAH_B1_3_modifiers:0 "德干苏丹归来"
+EGD_BAH_C1_1_modifiers:0 "羞辱懦夫"
+EDG_BAH_C1_2_modifiers:0 "利益与合作"
+EDG_BAH_D1_1_modifiers:0 "马拉塔封地"
+EDG_BAH_E1_1_modifiers:0 "贵族参与军官团"
+EDG_BAH_E1_1_modifiers_1:0 "来自贵族的支援"
+EDG_BAH_E1_2_modifiers:0 "新时代"
+EDG_BAH_E1_3_modifiers:0 "常胜将军"
+EDG_BAH_A2_1_modifiers:0 "大力发展比德尔"
+EDG_BAH_A2_2_modifiers:0 "德干大都会"
+EDG_BAH_A2_3_modifiers:0 "土地改革"
+EDG_BAH_A2_4_modifiers:0 "全国检地"
+EDG_BAH_B2_1_modifiers:0 "苏菲社区"
+EDG_BAH_B2_2_modifiers:0 "加万宗教学院"
+EDG_BAH_B2_3_modifiers:0 "我们的黄金时代"
+EDG_BAH_B2_4_modifiers_1:0 "宗教宽容"
+EDG_BAH_C2_1_modifiers_1:0 "收复失地"
+EDG_BAH_C2_1_modifiers_2:0 "发展核心城市"
+EDG_BAH_C2_2_modifiers:0 "香料流动"
+EDG_BAH_C2_3_modifiers_1:0 "马尔达夫亲善条约"
+EDG_BAH_C2_3_modifiers_2:0 "来自马尔达夫的贡品"
+EDG_BAH_C2_3_modifiers_3:0 "巴赫曼尼的资助"
+EDG_BAH_C2_4_modifiers_1:0 "掌控好望角"
+EDG_BAH_D2_1_modifiers:0 "胜利之城 "
+EDG_BAH_D2_2_modifiers:0 "索取开迪拉 "
+EDG_BAH_D2_3_modifiers_1:0 "合法征服"
+EDG_BAH_D2_3_modifiers_2:0 "受尊敬的宗主"
+EDG_BAH_D2_3_modifiers_3:0 "两面三刀 "
+EDG_BAH_D2_3_modifiers_4:0 "心狠手辣"
+EDG_BAH_D2_4_modifiers_1:0 "德干终将统一"
+EDG_BAH_D2_4_modifiers_2:0 "朱罗帝国的后继者"
+EDG_BAH_E2_1_modifiers:0 "发展安得拉"
+EDG_BAH_E2_2_modifiers:0 "奥里萨征服者 "
+
+EDG_BAH_A3_1_modifiers:0 "向沙漠进军"
+EDG_BAH_A3_2_modifiers_1:0 "垄断古吉拉特"
+EDG_BAH_A3_2_modifiers_2:0 "掌控古吉拉特贸易"
+EDG_BAH_B3_1_modifiers:0 "拉杰普特的臣服"
+EDG_BAH_B3_2_modifiers:0 "强制皈依"
+EDG_BAH_C3_1_modifiers:0 "北伐！北伐！"
+EDG_BAH_C3_2_modifiers:0 "推进战线"
+EDG_BAH_C3_3_modifiers:0 "德里纪念碑"
+EDG_BAH_C3_4_modifiers:0 "印度之主"
+EDG_BAH_C3_4_modifiers_1:0 "印度霸主"
+EDG_BAH_D3_1_modifiers:0 "这是恒河？"
+EDG_BAH_D3_2_modifiers:0 "恒河圣城"
+EDG_BAH_D3_2_modifiers_1:0 "菩提伽耶守护者"
+EDG_BAH_D3_2_modifiers_2:0 "瓦拉纳西守护者"
+EDG_BAH_E3_1_modifiers:0 "兵临孟加拉"
+EDG_BAH_E3_2_modifiers:0 "降伏孟加拉之虎"
+EDG_BAH_A4_1_modifiers:0 "忠诚的艾哈迈德纳格尔省"
+EDG_BAH_A4_2_modifiers:0 "建设康坎港口"
+EDG_BAH_A4_3_modifiers:0 "坚不可摧"
+EDG_BAH_A4_4_modifiers:0 "西方人"
+EDG_BAH_B4_1_modifiers:0 "忠诚的比贾布尔省"
+EDG_BAH_B4_2_modifiers:0 "扩大香料种植"
+EDG_BAH_B4_2_modifiers_1:0 "香料港"
+EDG_BAH_B4_3_modifiers:0 "继续扩大香料种植"
+EDG_BAH_B4_3_modifiers_1:0 "香料行宫"
+EDG_BAH_B4_3_modifiers_2:0 "香料大量流动"
+EDG_BAH_B4_4_modifiers:0 "西岸贸易"
+EDG_BAH_C4_1_modifiers:0 "忠诚的贝拉尔省"
+EDG_BAH_C4_2_modifiers:0 "绝对效忠"
+EDG_BAH_C4_2_modifiers_1:0 "稳固的四省联盟"
+EDG_BAH_C4_3_modifiers:0 "扩建布料生产"
+EDG_BAH_C4_5_modifiers:0 "扩大丝绸储备"
+EDG_BAH_C4_5_modifiers_1:0 "丝绸商人"
+EDG_BAH_C4_6_modifiers:0 "科罗曼德主宰者"
+EDG_BAH_D4_1_modifiers:0 "忠诚的戈尔孔达省"
+EDG_BAH_D4_2_modifiers:0 "安德拉宝石"
+EDG_BAH_D4_3_modifiers:0 "东岸贸易"
+EDG_BAH_E4_1_modifiers:0 "开采宝石矿"
+EDG_BAH_E4_2_modifiers:0 "马都拉宝石"
+EDG_BAH_exploison_1_event_9_modifier:0 "转轮圣王"
+EDG_BAH_exploison_1_event_10_modifier:0 "车怛罗波底"
+EDG_BAH_exploison_1_event_11_modifier:0 "德干主宰"
+EDG_BAH_exploison_1_modifier:0 "德干诸国的崛起"
+EDG_BAH_exploison_1_modifier_1:0 "修养生息"
+EDG_BAH_A1_3_modifiers:0 "保护贸易"
+EDG_BAH_A1_2_modifiers_1:0 "波斯军事顾问"
+EDG_BAH_C1_5_modifiers:0 "皇家精锐象骑兵"
+EDG_BAH_E1_3_modifiers_1:0 "所向披靡"
+
+EDG_BAH_A5_1_modifiers:0 "享受繁荣"
+EDG_BAH_A5_1_modifiers_1:0 "喜提上师"
+EDG_BAH_C5_1_modifiers:0 "发展基础设施"
+EDG_BAH_C5_2_modifiers:0 "大干道"
+EDG_BAH_C5_2_modifiers_1:0 "大干道建成"
+EDG_BAH_D5_1_modifiers:0 "疏通三角洲"
+EDG_BAH_A6_1_modifiers:0 "扩大行政体系"
+EDG_BAH_A6_2_modifiers:0 "印度企业"
+EDG_BAH_B6_1_modifiers:0 "加速行省城市化"
+EDG_BAH_B6_2_modifiers:0 "扩建棉花种植园"
+EDG_BAH_B6_3_modifiers:0 "印度转口港"
+EDG_BAH_C6_1_modifiers:0 "印度大染坊"
+EDG_BAH_C6_2_modifiers:0 "印度地毯"
+EDG_BAH_A7_1_modifiers:0 "操练铁军"
+EDG_BAH_A7_2_modifiers:0 "摧枯拉朽"
+EDG_BAH_A7_2_modifiers_1:0 "排山倒海"
+EDG_BAH_B7_2_modifiers_1:0 "印度军团"
+EDG_BAH_C7_1_modifiers_1:0 "印度粮仓"
+EDG_BAH_C7_1_modifiers_2:0 "全民动员"
+EDG_BAH_C7_3_modifiers_1:0 "旌旗蔽空"
+EDG_BAH_C7_3_modifiers_2:0 "进攻"
+EDG_BAH_C7_3_modifiers_3:0 "防守"
+EDG_BAH_C7_3_modifiers_4:0 "质量"
+EDG_BAH_C7_3_modifiers_5:0 "数量"
+EDG_BAH_D7_1_modifiers:0 "火力掩护"
+EDG_BAH_E7_1_modifiers:0 "强化军事训练"
+EDG_BAH_E7_2_modifiers:0 "优势火力"
+
+EDG_BAH_exploison_1_event_28_modifier:0 "印度终将统一"
+EDG_BAH_exploison_2_modifier:0 "印度诸国的崛起"
+EDG_BAH_D6_2_modifier:0 "镇压印度斯坦独立"
+EDG_BAH_D6_3_modifier:0 "镇压印度西部独立"
+EDG_BAH_D6_4_modifier:0 "打破宿命"
+EDG_BAH_E6_1_modifier:0 "镇压孟加拉独立"
+EDG_BAH_E6_2_modifier:0 "镇压中印度独立"
+EDG_BAH_missions_event_38_modifier:0 "绿松石王座之上"
+EDG_BAH_A8_1_modifier:0 "圣地守护者"
+EDG_BAH_B8_2_modifier:0 "欧洲的门户"
+EDG_BAH_E8_1_modifier:0 "大婆罗多认同I"
+EDG_BAH_E8_1_modifier_1:0 "大婆罗多认同II"
+EDG_BAH_C8_1_modifier:0 "亚洲霸主"
+EDG_BAH_C8_2_modifier:0 "目标是星辰大海"
+EDG_BAH_C8_2_modifier_1:0 "风卷残云"
+EDG_BAH_B8_a_1_modifier:0 "这是萝马"
+EDG_BAH_D8_a_1_modifier:0 "受命于天"
+EDG_BAH_missions_event_40_modifier:0 "大厦将倾"
+EDG_BAH_B1_1_modifiers_7:0 "封赏总督"
+
+
+
+
+
+
+
+
+BAH_mil_reform_modifier_1:0 "无畏冲锋"
+BAH_mil_reform_modifier_2:0 "优势火力"
+BAH_mil_reform_modifier_3:0 "血肉坚墙"
+BAH_mil_reform_modifier_4:0 "浴火奋战"
+BAH_mil_reform_modifier_5:0 "气吞山河"
+BAH_mil_reform_modifier_6:0 "临危不惧"
+
+BAH_infantry_1_modifier:0 "步兵强化I"
+BAH_infantry_1_modifier_1:0 "步兵强化II"
+BAH_cavalry_1_modifier:0 "骑兵强化I"
+BAH_cavalry_1_modifier_1:0 "骑兵强化II"
+BAH_artillery_1_modifier:0 "炮兵强化I"
+BAH_artillery_1_modifier_1:0 "炮兵强化II"
+
+EDG_BAH_B2_4_province_triggered_modifiers:0 "人文普世帝国"
+EDG_BAH_A2_4_province_triggered_modifiers:0 "全国检地"
+EDG_BAH_D2_3_province_triggered_modifiers:0 "坦焦尔圣地守护者"
+EDG_BAH_E2_3_province_triggered_modifiers:0 "斯里兰卡守护者"
+EDG_BAH_B1_3_province_triggered_modifiers:0 "一生印度"
+
+
+
+EDG_BAH_army_1:0 "§M精锐象骑兵§!"
+EDG_BAH_army_2:0 "§M象骑兵卫队§!"
+EDG_BAH_army_3:0 "§M皇家象骑兵卫队§!"
+EDG_BAH_army_4:0 "§M马拉塔近卫军§!"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

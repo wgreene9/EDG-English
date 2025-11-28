@@ -1,0 +1,226 @@
+
+EDG_flavorFRA_revolution_leader_1_effect = {
+	define_general = {
+	  	name = "路易斯 亚历山大 贝尔蒂埃"
+		shock = 5
+		fire = 5
+		manuever = 6
+		siege = 3
+	}
+}
+
+EDG_flavorFRA_revolution_leader_2_effect = {
+	define_general = {
+		name = "若阿尚 缪拉"  # Joachim Murat
+		fire = 6
+		shock = 6
+		manuever = 6
+		siege = 4
+	}
+}
+
+EDG_flavorFRA_revolution_leader_3_effect = {
+	define_general = {
+		name = "让 拉纳"  # Jean Lannes
+		fire = 6
+		shock = 6
+		manuever = 6
+		siege = 4
+	}
+}
+
+EDG_flavorFRA_revolution_leader_4_effect = {
+	define_general = {
+		name = "米歇尔 内伊"  # Michel Ney
+		fire = 5
+		shock = 5
+		manuever = 6
+		siege = 2
+	}
+}
+
+EDG_flavorFRA_revolution_leader_5_effect = {
+	define_general = {
+		name = "让-巴蒂斯特 贝尔纳多特"  # Jean-Baptiste Bernadotte
+		fire = 6
+		shock = 6
+		manuever = 5
+		siege = 2
+	}
+}
+
+EDG_flavorFRA_revolution_leader_6_effect = {
+	define_general = {
+	  	name = "让-德-迪厄 苏尔特埃"
+		shock = 5
+		fire = 5
+		manuever = 6
+		siege = 4
+	}
+}
+
+EDG_flavorFRA_revolution_leader_7_effect = {
+	define_general = {
+	  	name = "路易 尼古拉 达武"
+		shock = 5
+		fire = 6
+		manuever = 6
+		siege = 3
+	}
+}
+
+EDG_flavorFRA_revolution_leader_8_effect = {
+	define_general = {
+	  	name = "路易-加布里埃尔 絮歇"
+		shock = 6
+		fire = 6
+		manuever = 6
+		siege = 2
+	}
+}
+
+EDG_flavorFRA_revolution_leader_9_effect = {
+	define_general = {
+	  	name = "让-巴蒂斯特 贝西埃尔"
+		shock = 5
+		fire = 6
+		manuever = 6
+		siege = 2
+	}
+}
+
+EDG_flavorFRA_revolution_leader_10_effect = {
+	define_general = {
+		name = "奥古斯特-弗雷德里克-路易 维耶斯 德 马尔蒙"  # Auguste-Frédéric-Louis Viesse de Marmont
+		fire = 6
+		shock = 5
+		manuever = 4
+		siege = 4
+	}
+}
+EDG_flavorARL_1_a_effect = {
+	define_ruler = {
+	  name = "伊斯玛仪 I"
+	  dynasty = "萨法维"
+		claim = 95
+		adm = 6
+		dip = 5
+		mil = 6
+		age = 20
+	}
+}
+EDG_flavorARL_201_a_effect = {
+	define_heir = {
+		name = "阿巴斯"
+		monarch_name = "阿巴斯 I 「大帝」"
+		dynasty = ROOT
+		claim = 95
+		adm = 6
+		dip = 6
+		mil = 6
+		age = 1
+	}
+}
+EDG_flavorARL_202_a_effect = {
+	define_general = {
+	  	name = "阿拉维尔迪汗"
+		shock = 5
+		fire = 5
+		manuever = 5
+		siege = 2
+	}
+}
+EDG_flavorARL_202_b_effect = {
+	define_advisor = {
+		type = army_reformer
+		name = "阿拉维尔迪汗"
+		skill = 3
+		cost_multiplier = 0.25
+		culture = ROOT
+	}
+}
+EDG_flavorARL_203_a_effect = {
+	define_general = {
+	  	name = "米尔·纳吉姆·扎尔加·吉拉尼"
+		shock = 4
+		fire = 2
+		manuever = 4
+		siege = 0
+	}
+}
+EDG_flavorARL_203_b_effect = {
+	define_advisor = {
+		type = bailiff
+		name = "米尔·纳吉姆·扎尔加·吉拉尼"
+		skill = 3
+		cost_multiplier = 0.25
+		culture = ROOT
+	}
+}
+EDG_flavorARL_204_a_effect = {
+	define_general = {
+	  	name = "纳吉姆 萨尼"
+		shock = 4
+		fire = 3
+		manuever = 3
+		siege = 2
+	}
+}
+EDG_flavorARL_204_b_effect = {
+	define_advisor = {
+		type = cavalry_commander
+		name = "纳吉姆 萨尼"
+		skill = 3
+		cost_multiplier = 0.25
+		culture = ROOT
+	}
+}
+EDG_flavorARL_205_a_effect = {
+	define_general = {
+	  	name = "努尔·阿里·哈利法"
+		shock = 4
+		fire = 3
+		manuever = 4
+		siege = 1
+	}
+}
+EDG_flavorARL_205_b_effect = {
+	define_advisor = {
+		type = xungui
+		name = "努尔·阿里·哈利法"
+		skill = 3
+		cost_multiplier = 0.25
+		culture = ROOT
+	}
+}
+
+EDG_flavorSAX_109_a_effect = {
+	define_heir = {
+		name = "腓特烈"
+		monarch_name = "腓特烈 III 「智者」"
+		dynasty = ROOT
+		adm = 5
+		dip = 5
+		mil = 5
+		age = 1
+		claim = 95
+	}
+}
+EDG_flavorSAX_110_a_effect = {
+  define_advisor = {
+    type = army_reformer
+    name = "海因里希 「劳恩堡伯爵」"
+    skill = 3
+    cost_multiplier = 0.5
+    culture = ROOT
+  }
+}
+EDG_flavorSAX_110_b_effect = {
+  define_general = {
+    name = "海因里希 「劳恩堡伯爵」"
+    shock = 3
+    fire = 3
+    manuever = 2
+    siege = 2
+  }
+}

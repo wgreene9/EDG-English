@@ -1,0 +1,1 @@
+capital = "Korela" # initial Russian name

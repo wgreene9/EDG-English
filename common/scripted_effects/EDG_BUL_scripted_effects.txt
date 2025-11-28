@@ -1,0 +1,235 @@
+
+effect_EDG_BU2_raise = {
+	hidden_effect = {
+      every_owned_province = {
+        limit = {
+		  is_capital = no
+          OR = {
+            controlled_by = REB
+            controlled_by = ROOT
+          }
+          OR = {
+            region = balkan_region
+          }
+        }
+        add_core = BU2
+        clear_rebels = yes
+      }
+		release = BU2
+      every_owned_province = {
+        limit = {
+          OR = {
+            controlled_by = ROOT
+			is_core = ROOT
+          }
+        }
+        add_permanent_claim = BU2
+      }
+	}
+	hidden_effect = {
+		BU2 = {
+			capital_scope = {
+				infantry = BU2
+				infantry = BU2
+				infantry = BU2
+				infantry = BU2
+				infantry = BU2
+				infantry = BU2
+				infantry = BU2
+				infantry = BU2
+				infantry = BU2
+				infantry = BU2
+				infantry = BU2
+				infantry = BU2
+				infantry = BU2
+				infantry = BU2
+				infantry = BU2
+				infantry = BU2
+				infantry = BU2
+				infantry = BU2
+				infantry = BU2
+				infantry = BU2
+				infantry = BU2
+				infantry = BU2
+				infantry = BU2
+				infantry = BU2
+				infantry = BU2
+				infantry = BU2
+				infantry = BU2
+				infantry = BU2
+				infantry = BU2
+				infantry = BU2
+				infantry = BU2
+				infantry = BU2
+				infantry = BU2
+				infantry = BU2
+				infantry = BU2
+				infantry = BU2
+				infantry = BU2
+				infantry = BU2
+				infantry = BU2
+				infantry = BU2
+				infantry = BU2
+				infantry = BU2
+				cavalry = BU2
+				cavalry = BU2
+				cavalry = BU2
+				cavalry = BU2
+				cavalry = BU2
+				cavalry = BU2
+				cavalry = BU2
+				cavalry = BU2
+				cavalry = BU2
+				cavalry = BU2
+				cavalry = BU2
+				cavalry = BU2
+				cavalry = BU2
+				cavalry = BU2
+				cavalry = BU2
+				cavalry = BU2
+				cavalry = BU2
+				cavalry = BU2
+				cavalry = BU2
+				cavalry = BU2
+				cavalry = BU2
+			}
+			add_manpower = 100
+			add_treasury = 5000
+			add_army_tradition = 15
+			add_army_professionalism = 0.15
+			add_government_reform = autocracy_reform
+			define_ruler = {
+				name = "鲍里斯 I"  # Jaqmaq
+				dynasty = "阿森"  # Burji
+				adm = 3
+				dip = 2
+				mil = 5
+				age = 34
+				claim = 95
+			}
+			clear_scripted_personalities = yes
+			add_ruler_personality = inspiring_leader_personality
+			  every_owned_province = {
+				clear_rebels = yes
+			  }
+		}
+	}
+
+}
+effect_EDG_BU3_raise = {
+	hidden_effect = {
+      every_owned_province = {
+        limit = {
+		  is_capital = no
+          OR = {
+            controlled_by = REB
+            controlled_by = ROOT
+          }
+          OR = {
+            superregion = near_east_superregion
+          }
+        }
+        add_core = BU3
+        clear_rebels = yes
+      }
+		release = BU3
+      every_owned_province = {
+        limit = {
+          OR = {
+            controlled_by = ROOT
+			is_core = ROOT
+          }
+        }
+        add_permanent_claim = BU3
+      }
+	}
+	hidden_effect = {
+		BU3 = {
+			capital_scope = {
+				infantry = BU3
+				infantry = BU3
+				infantry = BU3
+				infantry = BU3
+				infantry = BU3
+				infantry = BU3
+				infantry = BU3
+				infantry = BU3
+				infantry = BU3
+				infantry = BU3
+				infantry = BU3
+				infantry = BU3
+				infantry = BU3
+				infantry = BU3
+				infantry = BU3
+				infantry = BU3
+				infantry = BU3
+				infantry = BU3
+				infantry = BU3
+				infantry = BU3
+				infantry = BU3
+				infantry = BU3
+				infantry = BU3
+				infantry = BU3
+				infantry = BU3
+				infantry = BU3
+				infantry = BU3
+				infantry = BU3
+				infantry = BU3
+				infantry = BU3
+				infantry = BU3
+				infantry = BU3
+				infantry = BU3
+				infantry = BU3
+				infantry = BU3
+				infantry = BU3
+				infantry = BU3
+				infantry = BU3
+				infantry = BU3
+				infantry = BU3
+				infantry = BU3
+				infantry = BU3
+				cavalry = BU3
+				cavalry = BU3
+				cavalry = BU3
+				cavalry = BU3
+				cavalry = BU3
+				cavalry = BU3
+				cavalry = BU3
+				cavalry = BU3
+				cavalry = BU3
+				cavalry = BU3
+				cavalry = BU3
+				cavalry = BU3
+				cavalry = BU3
+				cavalry = BU3
+				cavalry = BU3
+				cavalry = BU3
+				cavalry = BU3
+				cavalry = BU3
+				cavalry = BU3
+				cavalry = BU3
+				cavalry = BU3
+			}
+			add_manpower = 100
+			add_treasury = 5000
+			add_army_tradition = 15
+			add_army_professionalism = 0.15
+			add_government_reform = EDG_military_junta
+			define_ruler = {
+				name = "博戈里斯 I"  # Jaqmaq
+				dynasty = "捷尔捷尔"  # Burji
+				adm = 2
+				dip = 2
+				mil = 6
+				age = 44
+				claim = 95
+			}
+			clear_scripted_personalities = yes
+			add_ruler_personality = strict_personality
+			  every_owned_province = {
+				clear_rebels = yes
+			  }
+		}
+	}
+
+}

@@ -1,0 +1,50 @@
+1433.1.22 = {
+  monarch = {
+    name = "路德维希 VII"  # 
+    dynasty = "加洛林"  # de Valois
+    birth_date = 1390.2.22
+    adm = 2
+    dip = 2
+    mil = 5
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = bold_fighter_personality
+  add_ruler_personality = strict_personality
+  add_ruler_personality = naive_personality
+  set_ruler_flag = EDG_LOT_ludeweixi_ruler_flag
+}
+1433.1.22 = {
+  queen = {
+    name = "玛利亚"  # Marie
+    dynasty = "冯 霍亨斯陶芬"  # d'Anjou
+    birth_date = 1415.10.14
+    death_date = 1453.11.29
+    female = yes
+    adm = 4
+    dip = 1
+    mil = 0
+    culture = sicilian
+    religion = catholic
+
+  }
+}
+1443.7.3 = {
+  heir = {
+    name = "贝尔纳黛特"  # Louis
+    monarch_name = "贝尔纳黛特 I 「白玫瑰」"  # Louis Xl
+    dynasty = "加洛林"  # de Valois
+    birth_date = 1443.7.3
+    death_date = 1505.10.27
+	  female = yes
+    claim = 95
+    adm = 4
+    dip = 3
+    mil = 5
+  }
+	add_heir_personality = EDG_personality_beiernadaite
+  add_army_tradition = 10
+  set_estate_privilege = EDG_estate_Church_LOT_catholic_protector
+  set_estate_privilege = estate_edg_Paladin_privilege_14
+  set_estate_privilege = EDG_estate_noble_LOT_privilege_old_right
+  set_estate_privilege = EDG_estate_noble_LOT_privilege_exemption
+}

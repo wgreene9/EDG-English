@@ -1,0 +1,10 @@
+1444.1.1 = {
+  monarch = {
+    name = "Ò×²·À­ÐÀ III"
+    dynasty = "¼ÓµÄË¹"
+	birth_date = 1370.1.1
+    adm = 2
+    dip = 0
+    mil = 3
+  }
+}

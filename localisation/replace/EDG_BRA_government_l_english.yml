@@ -1,0 +1,58 @@
+﻿l_english:
+ EDG_BRA_Territory:0 "霍亨索伦家族领地"
+ EDG_BRA_Territory_desc:0 "霍亨索伦家族起源于士瓦本公国境内的黑欣根附近，其始祖布尔夏德一世在11世纪初叶受封为索伦伯爵。领地曾经在今上内卡河、施瓦本山和上多瑙河之间。索伦家族曾是神圣罗马帝国忠实的支持者，此后该家族在索伦前冠以“霍亨”字样，称为霍亨索伦家族。而霍亨索伦家族在几百年的时间里，通过对境内贵族反复的拉扯中，形成了对地方贵族强大的掌控力，以确保霍亨索伦家族的权力不容置疑。霍亨索伦家族因此获得了更好驾驭贵族的能力。"
+ EDG_BRA_Markgraf:0 "霍亨索伦边藩领"
+ EDG_BRA_Markgraf_desc:0 "霍亨索伦家族在法兰克尼亚、施瓦本地区周转了几百年未见太多成效，而家族之所以在后面重新获得了关注度，反而是因为曾经在北方血与火的历练中打出的赫赫威名。1440年，霍亨索伦在法兰克尼亚的继承危机中败北。经过了霍亨索伦家族在东方波兰地区的经验，家族回望过去。最终明悟了真理：“强权来源于剑锋之上”。霍亨索伦家族彻底放弃了沉浸在外交领域的斡旋，而是决心以武力捍卫权益。霍亨索伦凭借着对贵族超乎寻常的驾驭能力以及血与火的历练，重新登上舞台。"
+
+ mechanic_limited_strong_duchies_yes:0 "§Y强大公爵领§!特权不再给予影响力"
+ mechanic_EDG_BRA_vassal_ability_yes:0 "启用特殊属国类型：§Y边藩特许采邑§!"
+ mechanic_EDG_BRA_ban_annex_yes:0 "§R禁止§!§Y吞并附庸国§!或§Y合并联统国§!"
+
+ ability_EDG_BRA_Markgraf_ability:0 "§Y霍亨索伦军事权威§!"
+ ability_EDG_BRA_Markgraf_ability_yes:0 "§Y霍亨索伦军事权威§!"
+ EDG_BRA_Markgraf_ability:0 "§Y霍亨索伦军事权威§!"
+ EDG_BRA_Markgraf_ability_yes:0 "§Y霍亨索伦军事权威§!"
+ EDG_BRA_Markgraf_power:0 "§Y霍亨索伦军事权威§!"
+ EDG_BRA_Markgraf_power_desc:0 "月度§Y霍亨索伦军事权威§!点数受到以下因素的影响：\n—统治者是§Y霍亨索伦§!王朝：§G+0.1§!\n—100威望：§G+0.1§!\n—每1点外交声誉：§G+0.03§!\n—高于50正统性：§G+0.05§!\n—100陆军传统：§G+0.1§!\n—处于战争中：§G+0.075§!\n—每1点厌战度：§R-0.05§!\n—低于50正统性：§R-0.1§!\n—每1点腐败度：§R-0.1§!\n—每1点君主的军事能力：§G+0.08§!\n—每1个§Y边藩特许采邑§!：§G+0.02§!\n—君主行政能力低于3：§R-0.04§!\n—君主外交能力低于3：§R-0.04§!"
+ monthly_EDG_BRA_Markgraf_power:0 "月度§Y霍亨索伦军事权威§!"
+
+ ability_EDG_BRA_Markgraf_use_ability:0 "§Y霍亨索伦军事权威互动§!"
+ ability_EDG_BRA_Markgraf_use_ability_yes:0 "§Y霍亨索伦军事权威互动§!"
+ EDG_BRA_Markgraf_use_ability:0 "§Y霍亨索伦军事权威互动§!"
+ EDG_BRA_Markgraf_use_ability_yes:0 "§Y霍亨索伦军事权威互动§!"
+ EDG_BRA_Markgraf_use_power_1:0 "月度§Y强硬征兵可用进度§!"
+ EDG_BRA_Markgraf_use_power_2:0 "月度§Y强硬征税可用进度§!"
+ EDG_BRA_Markgraf_use_power_3:0 "月度§Y强硬合并可用进度§!"
+ monthly_EDG_BRA_Markgraf_use_power_1:0 "月度§Y强硬征兵可用进度§!"
+ monthly_EDG_BRA_Markgraf_use_power_1_desc:0 "月度§Y强硬征兵可用进度§!受到以下因素的影响：\n—基准增长：§G+0.1§!\n—每1点君主的军事能力：§G+0.082§!"
+ monthly_EDG_BRA_Markgraf_use_power_2:0 "月度§Y强硬征税可用进度§!"
+ monthly_EDG_BRA_Markgraf_use_power_2_desc:0 "月度§Y强硬征税可用进度§!受到以下因素的影响：\n—基准增长：§G+0.1§!\n—每1点君主的行政能力：§G+0.082§!"
+ monthly_EDG_BRA_Markgraf_use_power_3:0 "月度§Y强硬合并可用进度§!"
+ monthly_EDG_BRA_Markgraf_use_power_3_desc:0 "月度§Y强硬合并可用进度§!受到以下因素的影响：\n—基准增长：§G+0.1§!\n—每1点君主的外交能力：§G+0.082§!"
+ EDG_BRA_Markgraf_use_interaction_1:0 "向属国强硬征兵"
+ EDG_BRA_Markgraf_use_interaction_1_desc:0 "当§Y强硬征兵可用进度§!达到100时，我们可以向我们所有的§Y属国§!（包含附庸、卫戍、特许采邑、联统国及其他可能类型的属国）进行强硬征兵。\n该互动每次花费200点§Y军事点§!£mil£，从每个属国处获得其10%的人力£icon_manpower£，为此所有属国将会§R+10%§!§Y独立倾向§!。\n每次使用该互动会增加2点§Y霍亨索伦军事权威§!。\n该互动每10年可用一次\n————————————————\n"
+ EDG_BRA_Markgraf_use_interaction_2:0 "向属国强硬征税"
+ EDG_BRA_Markgraf_use_interaction_2_desc:0 "当§Y强硬征税可用进度§!达到100时，我们可以向我们所有的§Y属国§!（包含附庸、卫戍、特许采邑、联统国及其他可能类型的属国）进行强硬征税。\n该互动每次花费200点§Y行政点§!£adm£，从每个属国处获得其50%的收入¤，为此所有属国将会§R+10%§!§Y独立倾向§!。\n每次使用该互动会增加2点§Y霍亨索伦军事权威§!。\n该互动每10年可用一次\n————————————————\n"
+ EDG_BRA_Markgraf_use_interaction_3:0 "强硬合并属国"
+ EDG_BRA_Markgraf_use_interaction_3_desc:0 "当§Y强硬合并可用进度§!达到100时，我们可以向我们所有的§Y属国§!（包含附庸、卫戍、特许采邑、联统国及其他可能类型的属国）进行强硬合并。\n该互动每次花费200点§Y外交点§!£dip£，随机继承一个属国的遗产，为此所有其他属国将会§R+10%§!§Y独立倾向§!。\n每次使用该互动会增加2点§Y霍亨索伦军事权威§!。\n该互动每10年可用一次\n————————————————\n"
+ 
+ EDG_BRA_Markgraf_power_modifier_1:0 "霍亨索伦军事权威：统治者王朝是霍亨索伦"
+ EDG_BRA_Markgraf_power_modifier_2:0 "霍亨索伦军事权威：正统性高于50"
+ EDG_BRA_Markgraf_power_modifier_3:0 "霍亨索伦军事权威：处于战争中"
+ EDG_BRA_Markgraf_power_modifier_4:0 "霍亨索伦军事权威：正统性低于50"
+ EDG_BRA_Markgraf_power_modifier_5:0 "霍亨索伦军事权威：君主行政能力低于3"
+ EDG_BRA_Markgraf_power_modifier_6:0 "霍亨索伦军事权威：君主外交能力低于3" 
+
+ EDG_BRA_MARKGRAF_TT_1:0 "霍亨索伦边藩公国"
+ EDG_BRA_MARKGRAF_TT_2:0 "霍亨索伦边藩王国"
+ EDG_BRA_MARKGRAF_TT_3:0 "霍亨索伦帝国"
+ EDG_BRA_MARKGRAF_MALE_1:0 "霍亨索伦边藩公爵"
+ EDG_BRA_MARKGRAF_MALE_2:0 "霍亨索伦边藩王爵"
+ EDG_BRA_MARKGRAF_MALE_3:0 "霍亨索伦皇帝"
+ EDG_BRA_MARKGRAF_FEMALE_1:0 "霍亨索伦边藩女公爵"
+ EDG_BRA_MARKGRAF_FEMALE_2:0 "霍亨索伦边藩女王爵"
+ EDG_BRA_MARKGRAF_FEMALE_3:0 "霍亨索伦边藩女公爵"
+
+
+
+ 

@@ -1,0 +1,29 @@
+1443.10.31 = {
+  monarch = {
+    name = "安德罗尼卡 V"  # Konstantinos XI
+    dynasty = "巴列奥略"  # Palaiologos
+    birth_date = 1425.2.8
+    adm = 5
+    dip = 4
+    mil = 4
+    leader = {
+      name = "安德罗尼卡 V"  # Konstantinos XI
+      type = general
+      fire = 2
+      shock = 4
+      manuever = 4
+      siege = 2
+    }
+  }
+}
+1442.1.1 = {
+  leader = {
+    name = "乔瓦尼 朱斯蒂尼亚尼"  # Giovanni Giustiniani
+    type = general
+    fire = 2
+    shock = 2
+    manuever = 3
+    siege = 0
+    death_date = 1453.5.29
+  }
+}

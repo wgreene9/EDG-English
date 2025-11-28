@@ -1,0 +1,10 @@
+1429.11.6 = {
+  monarch = {
+    name = "约翰 V"
+    dynasty = "约克"  # Lancaster
+    birth_date = 1421.12.6
+    adm = 5
+    dip = 5
+    mil = 5
+  }
+}

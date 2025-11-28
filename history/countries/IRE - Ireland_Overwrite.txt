@@ -1,0 +1,14 @@
+1441.1.30 = {
+  monarch = {
+    name = "帕特里克 「统一者」"  
+    dynasty = "麦克·亚特"
+    birth_date = 1420.12.6
+    adm = 4
+    dip = 6
+    mil = 5
+  }
+  add_ruler_personality = charismatic_negotiator_personality
+  add_ruler_personality = industrious_personality
+  add_ruler_personality = righteous_personality
+  set_capital = 4121
+}

@@ -1,0 +1,641 @@
+effect_EDG_FYM_lose_core = {
+	hidden_effect = {
+		egypt_region = {
+			limit = { NOT = { owned_by = Root } }
+			remove_core = Root
+		}
+		maghreb_region = {
+			limit = { NOT = { owned_by = Root } }
+			remove_core = Root
+		}
+		mashriq_region = {
+			limit = { NOT = { owned_by = Root } }
+			remove_core = Root
+		}
+		horn_of_africa_region = {
+			limit = { NOT = { owned_by = Root } }
+			remove_core = Root
+		}
+	}
+}
+
+effect_EDG_FYM_ALX_vs_CIO = {
+	hidden_effect = {
+		CIO = {
+			capital_scope = {
+				infantry = CIO
+				infantry = CIO
+				infantry = CIO
+				infantry = CIO
+				infantry = CIO
+				infantry = CIO
+				infantry = CIO
+				infantry = CIO
+				infantry = CIO
+				infantry = CIO
+				cavalry = CIO
+				cavalry = CIO
+				cavalry = CIO
+				cavalry = CIO
+				cavalry = CIO
+				cavalry = CIO
+				cavalry = CIO
+				cavalry = CIO
+				cavalry = CIO
+				cavalry = CIO
+			}
+			add_manpower = 40
+			add_army_tradition = 25
+			create_general = { tradition = 65 add_shock = 1}
+			add_treasury = 1000
+			add_government_reform = mamluk_government
+			define_ruler = {
+				name = "贾科马克"  # Jaqmaq
+				dynasty = "布尔吉"  # Burji
+				culture = circassian
+				adm = 2
+				dip = 2
+				mil = 3
+				age = 72
+				claim = 95
+			}
+			clear_scripted_personalities = yes
+			add_ruler_personality = obsessive_perfectionist_personality
+			add_ruler_personality = strict_personality
+			add_piety = 0.5
+			  every_owned_province = {
+				clear_rebels = yes
+			  }
+		}
+		ALX = {
+			capital_scope = {
+				infantry = ALX
+				infantry = ALX
+				infantry = ALX
+				infantry = ALX
+				infantry = ALX
+				infantry = ALX
+				infantry = ALX
+				infantry = ALX
+				infantry = ALX
+				infantry = ALX
+				cavalry = ALX
+				cavalry = ALX
+				cavalry = ALX
+				cavalry = ALX
+				cavalry = ALX
+				cavalry = ALX
+				cavalry = ALX
+				cavalry = ALX
+				cavalry = ALX
+				cavalry = ALX
+			}
+			add_manpower = 40
+			add_army_tradition = 15
+			create_general = { tradition = 45 add_shock = 1}
+			add_treasury = 1000
+			add_government_reform = EDG_mamluk_government
+			define_ruler = {
+				name = "穆罕默德 IV"  
+				dynasty = "巴赫里"  
+				culture = mishary
+				adm = 4
+				dip = 4
+				mil = 0
+				age = 61
+				claim = 95
+			}
+			clear_scripted_personalities = yes
+			add_ruler_personality = silver_tongue_personality
+			add_ruler_personality = zealot_personality
+			define_heir = {
+				name = "贾科马克"  
+				dynasty = "巴赫里"  
+				culture = mishary
+				adm = 3
+				dip = 1
+				mil = 4
+				age = 45
+				claim = 95
+			}
+			add_piety = 0.5
+			  every_owned_province = {
+				clear_rebels = yes
+			  }
+		}
+	}
+}
+
+effect_EDG_FYM_RSD_raise = {
+	hidden_effect = {
+		RSD = {
+			capital_scope = {
+				infantry = RSD
+				infantry = RSD
+				infantry = RSD
+				infantry = RSD
+				infantry = RSD
+				infantry = RSD
+				infantry = RSD
+				infantry = RSD
+				infantry = RSD
+				infantry = RSD
+				infantry = RSD
+				infantry = RSD
+				infantry = RSD
+				cavalry = RSD
+				cavalry = RSD
+				cavalry = RSD
+				cavalry = RSD
+				cavalry = RSD
+				cavalry = RSD
+				cavalry = RSD
+				cavalry = RSD
+			}
+			add_manpower = 30
+			add_treasury = 500
+			add_government_reform = iqta
+			define_ruler = {
+				name = "艾哈迈德 I"  # Jaqmaq
+				dynasty = "罗赛塔"  # Burji
+				adm = 3
+				dip = 4
+				mil = 2
+				age = 62
+				claim = 95
+			}
+			define_heir = {
+				name = "穆罕默德"  
+				dynasty = "罗赛塔"  
+				adm = 2
+				dip = 1
+				mil = 2
+				age = 31
+				claim = 95
+			}
+			clear_scripted_personalities = yes
+			add_ruler_personality = scholar_personality
+			add_ruler_personality = well_advised_personality
+			add_piety = 1.0
+			  every_owned_province = {
+				clear_rebels = yes
+			  }
+		}
+	}
+
+}
+
+EDG_FYM_Caliph_war_3_effect = {
+	hidden_effect = {
+		if = {
+			limit = {
+				exists = ABS
+			}
+			every_province = {
+				limit = { country_or_non_sovereign_subject_holds = root religion = sunni }
+				add_core = ABS
+				cede_province = ABS
+			}
+		}
+		else = {
+			every_province = {
+				limit = { country_or_non_sovereign_subject_holds = root religion = sunni }
+				add_core = ABS
+				cede_province = root
+
+			}
+			release = ABS
+		}
+		ABS = {
+			grant_independence = yes
+			set_country_flag = formed_ABS_flag
+			add_government_reform = EDG_caliph_reform
+			add_stability = 3
+			set_government_rank = 3
+			add_adm_power = 600
+			add_dip_power = 600
+			add_mil_power = 600
+			add_treasury = 5000
+			add_manpower = 300
+			add_prestige = 100
+			add_prestige = 100
+			for = {
+				amount = 100
+				effect = "
+					capital_scope = {
+						infantry = ABS
+					}
+				"
+			}
+		}
+		if = {
+			limit = {
+				has_global_flag = EDG_FYM_civil_war_abs_son_died_global_flag
+			}
+			ABS = {
+				define_ruler = {
+					dynasty = "阿拔斯"  # abs
+					culture = al_misr_arabic
+					adm = 6
+					dip = 6
+					mil = 6
+					age = 50
+					claim = 95
+				}
+				define_ruler_to_general = {
+					fire = 4
+					shock = 6
+					manuever = 4
+					siege = 2
+					death_date = 1590.11.24
+				}
+				
+				if = {
+					limit = {
+						ai = yes
+						has_global_flag = EDG_great_conquer_enable_flag
+						NOT = { ruler_has_personality = EDG_great_conqueror_personality }
+						NOT = { ruler_has_personality = EDG_mythical_conqueror_personality }
+					}
+					add_ruler_personality = EDG_great_conqueror_personality
+					hidden_effect = {
+						set_ai_personality = {
+							personality = ai_militarist
+							locked = yes
+						}
+						set_country_flag = EDG_previous_ruler_was_great_conqueror_flag
+						add_ruler_modifier = {
+							name = EDG_great_conqueror_modifier
+							duration = -1
+						}
+						set_global_flag = EDG_great_conquer_NOW_flag
+						set_country_flag = EDG_great_conquer_NOW_country_flag
+					}
+				}
+			}
+		}
+		else = {
+			ABS = {
+				define_ruler = {
+					name = "哈伦·拉希德 I 「复仇者」"  # 
+					dynasty = "阿拔斯"  # abs
+					culture = al_misr_arabic
+					adm = 6
+					dip = 6
+					mil = 6
+					age = 30
+					claim = 95
+				}
+				define_ruler_to_general = {
+					fire = 6
+					shock = 6
+					manuever = 6
+					siege = 4
+					death_date = 1590.11.24
+				}
+				for = {
+					amount = 100
+					effect = "
+						capital_scope = {
+							infantry = ABS
+						}
+					"
+				}
+				add_ruler_modifier = {
+					name = EDG_FYM_disaster_lxd_avenger_ruler_modifier
+					duration = -1
+				}
+				if = {
+					limit = {
+						ai = yes
+						has_global_flag = EDG_great_conquer_enable_flag
+						NOT = { ruler_has_personality = EDG_great_conqueror_personality }
+						NOT = { ruler_has_personality = EDG_mythical_conqueror_personality }
+					}
+					if = {
+						limit = { has_global_flag = EDG_mythical_conquer_enable_flag }
+						add_ruler_personality = EDG_mythical_conqueror_personality
+						add_ruler_modifier = {
+							name = EDG_mythical_conqueror_modifier
+							duration = -1
+						}
+						set_global_flag = EDG_mythical_conquer_NOW_flag
+						set_country_flag = EDG_mythical_conquer_NOW_country_flag
+					}
+					else = {
+						add_ruler_personality = EDG_great_conqueror_personality
+						hidden_effect = {
+							set_ai_personality = {
+								personality = ai_militarist
+								locked = yes
+							}
+							set_country_flag = EDG_previous_ruler_was_great_conqueror_flag
+							add_ruler_modifier = {
+								name = EDG_great_conqueror_modifier
+								duration = -1
+							}
+							set_global_flag = EDG_great_conquer_NOW_flag
+							set_country_flag = EDG_great_conquer_NOW_country_flag
+						}
+					}
+				}
+			}
+		}
+	}
+}
+
+
+
+EDG_FYM_Shiite_war_3_effect = {
+	hidden_effect = {
+		if = {
+			limit = {
+				exists = FDM
+			}
+			every_province = {
+				limit = { country_or_non_sovereign_subject_holds = root region = maghreb_region }
+				add_core = FDM
+				cede_province = FDM
+			}
+		}
+		else = {
+			every_province = {
+				limit = { country_or_non_sovereign_subject_holds = root region = maghreb_region }
+				add_core = FDM
+				cede_province = root
+
+			}
+			release = FDM
+		}
+		FDM = {
+			grant_independence = yes
+			set_country_flag = formed_FDM_flag
+			add_government_reform = EDG_Fatima_caliph_reform
+			add_stability = 3
+			set_government_rank = 3
+			add_adm_power = 600
+			add_dip_power = 600
+			add_mil_power = 600
+			add_treasury = 5000
+			add_manpower = 300
+			add_prestige = 100
+			change_religion = shiite
+			add_prestige = 100
+			for = {
+				amount = 100
+				effect = "
+					capital_scope = {
+						infantry = FDM
+					}
+				"
+			}
+		}
+		if = {
+			limit = {
+				has_global_flag = EDG_FYM_civil_war_FDM_son_died_global_flag
+			}
+			FDM = {
+				define_ruler = {
+					dynasty = "法蒂玛"  # FDM
+					change_adm = 2
+					change_dip = 2
+					change_mil = 4
+					age = 45
+					claim = 95
+				}
+				define_ruler_to_general = {
+					fire = 5
+					shock = 5
+					manuever = 4
+					siege = 0
+					death_date = 1590.11.24
+				}
+				
+			}
+		}
+		else = {
+			FDM = {
+				define_ruler = {
+					name = "曼苏尔·尼扎尔 I 「阿里之剑」"  # 
+					dynasty = "法蒂玛"  # FDM
+					adm = 6
+					dip = 6
+					mil = 6
+					age = 25
+					claim = 95
+				}
+				define_ruler_to_general = {
+					fire = 5
+					shock = 5
+					manuever = 5
+					siege = 0
+					death_date = 1590.11.24
+				}
+				for = {
+					amount = 100
+					effect = "
+						capital_scope = {
+							infantry = FDM
+						}
+					"
+				}
+			}
+		}
+	}
+}
+
+
+
+EDG_FYM_Shiite_war_4_effect = {
+	hidden_effect = {
+		if = {
+			limit = {
+				exists = ARL
+			}
+			every_province = {
+				limit = { country_or_non_sovereign_subject_holds = root superregion = persia_superregion }
+				add_core = ARL
+				cede_province = ARL
+			}
+		}
+		else = {
+			every_province = {
+				limit = { country_or_non_sovereign_subject_holds = root superregion = persia_superregion }
+				add_core = ARL
+				cede_province = root
+			}
+			release = ARL
+		}
+		ARL = {
+			grant_independence = yes
+			set_country_flag = formed_ARL_flag
+			add_stability = 3
+			set_government_rank = 3
+			add_adm_power = 600
+			add_dip_power = 600
+			add_mil_power = 600
+			add_treasury = 5000
+			add_manpower = 300
+			change_religion = shiite
+			add_prestige = 100
+			add_prestige = 100
+			for = {
+				amount = 100
+				effect = "
+					capital_scope = {
+						infantry = ARL
+					}
+				"
+			}
+		}
+		if = {
+			limit = {
+				has_global_flag = EDG_EDG_flavorARL_1_flag
+				ARL = { not = { has_ruler_flag = EDG_ARL_Isma_ruler_flag } }
+			}
+			ARL = {
+				define_ruler = {
+					dynasty = "萨法维"  # ARL
+					change_adm = 2
+					change_dip = 2
+					change_mil = 4
+					age = 45
+					claim = 95
+				}
+				define_ruler_to_general = {
+					fire = 5
+					shock = 5
+					manuever = 4
+					siege = 0
+					death_date = 1590.11.24
+				}
+				
+				if = {
+					limit = {
+						ai = yes
+						has_global_flag = EDG_great_conquer_enable_flag
+						NOT = { ruler_has_personality = EDG_great_conqueror_personality }
+						NOT = { ruler_has_personality = EDG_mythical_conqueror_personality }
+					}
+					add_ruler_personality = EDG_great_conqueror_personality
+					hidden_effect = {
+						set_ai_personality = {
+							personality = ai_militarist
+							locked = yes
+						}
+						set_country_flag = EDG_previous_ruler_was_great_conqueror_flag
+						add_ruler_modifier = {
+							name = EDG_great_conqueror_modifier
+							duration = -1
+						}
+						set_global_flag = EDG_great_conquer_NOW_flag
+						set_country_flag = EDG_great_conquer_NOW_country_flag
+					}
+				}
+			}
+		}
+		else = {
+			if = {
+				limit = {
+					ARL = {
+						has_ruler_flag = EDG_ARL_Isma_ruler_flag
+					}
+				}
+				ARL = {
+					for = {
+						amount = 300
+						effect = "
+							capital_scope = {
+								infantry = ARL
+							}
+						"
+					}
+				}
+			}
+			else = {
+				ARL = {
+					define_ruler = {
+						name = "伊斯玛仪 I 「光复者」"  # 
+						dynasty = "萨法维"  # ARL
+						adm = 6
+						dip = 6
+						mil = 6
+						age = 16
+						claim = 95
+					}
+					set_ruler_flag = EDG_ARL_Isma_ruler_flag
+					add_ruler_modifier = {
+						name = EDG_flavorARL_1_modifier
+						duration = 7300
+					}
+					define_ruler_to_general = {
+						fire = 6
+						shock = 6
+						manuever = 6
+						siege = 4
+						death_date = 1590.11.24
+					}
+					for = {
+						amount = 300
+						effect = "
+							capital_scope = {
+								infantry = ARL
+							}
+						"
+					}
+					if = {
+						limit = {
+							ai = yes
+							has_global_flag = EDG_great_conquer_enable_flag
+							NOT = { ruler_has_personality = EDG_great_conqueror_personality }
+							NOT = { ruler_has_personality = EDG_mythical_conqueror_personality }
+						}
+						if = {
+							limit = { has_global_flag = EDG_mythical_conquer_enable_flag }
+							add_ruler_personality = EDG_mythical_conqueror_personality
+							add_ruler_modifier = {
+								name = EDG_mythical_conqueror_modifier
+								duration = -1
+							}
+							set_global_flag = EDG_mythical_conquer_NOW_flag
+							set_country_flag = EDG_mythical_conquer_NOW_country_flag
+						}
+						else = {
+							add_ruler_personality = EDG_great_conqueror_personality
+							hidden_effect = {
+								set_ai_personality = {
+									personality = ai_militarist
+									locked = yes
+								}
+								set_country_flag = EDG_previous_ruler_was_great_conqueror_flag
+								add_ruler_modifier = {
+									name = EDG_great_conqueror_modifier
+									duration = -1
+								}
+								set_global_flag = EDG_great_conquer_NOW_flag
+								set_country_flag = EDG_great_conquer_NOW_country_flag
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}
+
+
+EDG_flavorMAM_5_A_name_effect = {
+	define_ruler = {
+		dynasty = "罗赛塔"  # Burji
+		change_adm = 3
+		change_dip = 3
+		change_mil = 3
+		age = 30
+		claim = 95
+	}
+	define_heir = {
+		dynasty = "罗赛塔"  
+		age = 15
+		claim = 95
+	}
+}

@@ -1,0 +1,122 @@
+change_estate_land_share = {
+  estate = estate_nobles
+  share = 10
+}
+change_estate_land_share = {
+  estate = estate_church
+  share = -5
+}
+change_estate_land_share = {
+  estate = estate_burghers
+  share = -5
+}
+1393.10.22 = {
+  monarch = {
+    name = "于格 VI"  # 
+    dynasty = "卡佩"  # de Valois
+    birth_date = 1390.2.22
+    adm = 2
+    dip = 2
+    mil = 1
+    clear_scripted_personalities = yes
+	  add_ruler_personality = kind_hearted_personality
+  }
+}
+1432.10.22 = {
+  set_country_flag = formed_france_flag
+  set_country_flag = EDG_FRA_king_flag
+	set_variable = {
+		which = EDG_FRA_Renaissance_value
+		value = 0
+	}
+	set_variable = {
+		which = EDG_FRA_Religious_tolerance_value
+		value = 0
+	}
+  monarch = {
+    name = "于格 VII 「胜利王」"  # 
+    dynasty = "卡佩"  # de Valois
+    birth_date = 1411.2.22
+    adm = 4
+    dip = 4
+    mil = 5
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = calm_personality
+  add_ruler_personality = just_personality
+  queen = {
+    country_of_origin = BRI
+    name = "玛丽"  # Marie
+    dynasty = "德 德勒"  # d'Anjou
+    birth_date = 1417.10.14
+    death_date = 1453.11.29
+    female = yes
+    adm = 4
+    dip = 2
+    mil = 3
+  }
+  #clear_scripted_personalities = yes
+  add_queen_personality = well_advised_personality
+  set_ruler_flag = EDG_FRA_Hugh_ruler_flag
+  set_consort_flag = EDG_FRA_Hugh_Marie_consort_flag
+}
+1427.1.1 = {
+  leader = {
+    name = "让 德 迪努瓦"  # Jean de Dunois
+    type = general
+    fire = 4
+    shock = 3
+    manuever = 3
+    siege = 1
+    death_date = 1468.11.24
+  }
+}
+# 1429.1.1 = {
+#   leader = {
+#     name = "吉勒 德 雷"  # Gilles de Rais
+#     type = general
+#     fire = 5
+#     shock = 2
+#     manuever = 3
+#     siege = 4
+#   }
+# }
+1429.4.29 = {
+  leader = {
+    name = "贞德"  # Jeanne d'Arc
+    type = general
+    fire = 3
+    shock = 5
+    manuever = 4
+    siege = 0
+    female = yes
+  }
+}
+1439.1.1 = {
+  leader = {
+    name = "让 布罗"  # Jean Bureau
+    type = general
+    fire = 4
+    shock = 4
+    manuever = 1
+    siege = 3
+    death_date = 1463.7.5
+    personality = siege_specialist_personality
+  }
+}
+1443.7.3 = {
+  heir = {
+    name = "路易"  # Louis
+    monarch_name = "路易 Xl"  # Louis Xl
+    dynasty = "卡佩"  # de Valois
+    birth_date = 1443.7.3
+    death_date = 1505.10.27
+    claim = 25
+    adm = 1
+    dip = 1
+    mil = 0
+  }
+}
+1444.10.1 = {
+  set_estate_privilege = estate_nobles_french_strong_duchies
+}

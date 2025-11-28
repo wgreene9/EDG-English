@@ -1,0 +1,9 @@
+1443.1.1 = {
+  monarch = {
+    name = "安东尼奥"
+    birth_date = 1410.9.4
+    adm = 1
+    dip = 1
+    mil = 2
+  }
+}

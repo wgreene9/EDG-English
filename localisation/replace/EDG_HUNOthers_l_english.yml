@@ -1,0 +1,33 @@
+﻿l_english:
+ EDG_HUN_fire_faraway:0 "远方之火"
+ desc_EDG_HUN_fire_faraway:0 ""
+ EDG_HUN_mil_tradition:0 "军事传统"
+ desc_EDG_HUN_mil_tradition:0 ""
+ EDG_HUN_strong_government:0 "强力政府"
+ desc_EDG_HUN_strong_government:0 ""
+ EDG_HUN_recovery_of_estate:0 "收回遗产"
+ desc_EDG_HUN_recovery_of_estate:0 ""
+ EDG_HUN_wing_cavalry_tactics:0 "翼骑兵战术"
+ desc_EDG_HUN_wing_cavalry_tactics:0 ""
+ EDG_HUN_black_legion:0 "黑军"
+ desc_EDG_HUN_black_legion:0 ""
+ EDG_HUN_patrons_of_art:0 "繁荣发展的的文化艺术"
+ desc_EDG_HUN_patrons_of_art:0 ""
+ EDG_HUN_rule_the_balkans:0 "统治巴尔干"
+ desc_EDG_HUN_rule_the_balkans:0 ""
+
+ EDG_apostolic_kingdom:0 "使徒王国"
+ EDG_apostolic_kingdom_desc:0 ""
+ EDG_extend_the_crown:0 "扩展贵族领地"
+ EDG_extend_the_crown_desc:0 ""
+
+
+ ability_EDG_HUN_crown_prominence_mechanic:0 "§O王冠显赫度§!"
+ EDG_HUN_crown_prominence_mechanic:0 "§O王冠显赫度§!"
+ EDG_HUN_crown_prominence:0 "§O王冠显赫度§!"
+ EDG_HUN_crown_prominence_desc:0 "§O王冠显赫度§!将会由下方因素§G增加§!：\n§G+0.05§!—是§Y列强§!\n§G+0.05§!—处于§Y黄金时代§!\n§G+0.1§!—拥有§Y100§!点§Y力量投射§!\n§G+0.1§!—拥有§Y100§!点§Y威望§!\n§G+0.05§!—拥有§Y100§!点§Y正统性§!\n\n§O王冠显赫度§!将会由下方因素§R减少§!\n-§R高腐败§!\n-§R高省份自治度§!\n-§R超出行政容量§!\n-§R高通货膨胀§!\n\n此外，每一个§T属国§!都将给予我们0§Y.05§!的§O王冠显赫度§!加值，最高生效数量为§Y20§!。"
+ EDG_HUN_crown_prominence_gain_modifier:0 "§O王冠显赫度§!给予的修正"
+ monthly_EDG_HUN_crown_prominence:0 "月度§O王冠显赫度§!"
+
+ EDG_carpathian_slovakia:0 "斯洛伐克"
+

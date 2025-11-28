@@ -1,0 +1,11 @@
+{
+    monarch = 
+    {
+        name = "景光" #ä¹å©
+        dynasty = "最上" #æ°ç°
+        adm = 2
+        dip = 2
+        mil = 4
+        birth_date = 1423.6.12
+    }
+}

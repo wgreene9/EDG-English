@@ -1,0 +1,1 @@
+capital = "Sodankyl" #Uncertain if this existed at that point.

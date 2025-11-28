@@ -1,0 +1,12 @@
+﻿l_english:
+ EDG_DAN_danish_confederation:0 "丹麦邦联"
+ desc_EDG_DAN_danish_confederation:0 ""
+ EDG_DAN_dissolution_of_the_danish_federation_title:0 "解散丹麦邦联"
+ EDG_DAN_dissolution_of_the_danish_federation_desc:0 ""
+ EDG_DAN_dissolution_of_the_danish_federation.tt:0 "§Y丹麦邦联§!将会解散"
+
+
+ EDG_DAN_MEMBER_STATES_OF_DANISH_CALL:0 "§Y丹麦邦联§!成员国不能被召集加入战争！"
+ EDG_DAN_MEMBER_STATES_OF_DANISH_DECLARE_WAR:0 "§Y丹麦邦联§!成员国无法自由发动战争！"
+
+ 

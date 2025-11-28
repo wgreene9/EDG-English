@@ -1,0 +1,23 @@
+1435.9.18 = {
+  monarch = {
+    name = "斯蒂芬 III"  # 'Uthman
+    dynasty = "德 克鲁瓦"  # Hafsid
+    birth_date = 1410.9.18
+    adm = 4
+    dip = 3
+    mil = 4
+  }
+}
+1441.9.18 = {
+  heir = {
+    name = "阿尔布雷希特"  # Yahyâ
+    monarch_name = "阿尔布雷希特 II"  # Yahyâ III
+    dynasty = "德 克鲁瓦"  # Hafsid
+    birth_date = 1441.9.18
+    death_date = 1489.1.1
+    claim = 95
+    adm = 3
+    dip = 1
+    mil = 2
+  }
+}

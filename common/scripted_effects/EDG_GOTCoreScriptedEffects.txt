@@ -1,0 +1,19 @@
+EDG_GOT_define_klaus_stotbeck = {
+	define_ruler = {
+		name = "克劳斯·斯托特贝克"
+		age = 62
+		adm = 1
+		dip = 6
+		mil = 5
+	}
+	add_ruler_personality = legendary_pirate_personality
+	custom_tooltip = legendary_pirate_personality_at
+	add_ruler_personality = entrepreneur_personality
+	add_ruler_personality = navigator_personality
+}
+EDG_GOT_define_flagship_jackdaw = {
+	create_flagship = {
+		name = "寒鸦号"
+		type = light_ship
+	}
+}

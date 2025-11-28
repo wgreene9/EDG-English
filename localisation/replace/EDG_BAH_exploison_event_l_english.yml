@@ -1,0 +1,151 @@
+﻿l_english:
+
+EDG_BAH_exploison_1:0 "德干宗教动荡"
+desc_EDG_BAH_exploison_1:0 "表面上的宗教冲突已经结束，但是长期对德干印度教诸国的征伐所带来的宗教矛盾早已不可收拾，只是需要一个火星就能点燃火药桶。"
+
+
+EDG_BAH_exploison_1_event.2:0 "知晓了。"
+
+EDG_BAH_exploison_1_end_tool:0 "完成所有事件链，再次统一德干,且掌控各宗教代表，成为印度地区各宗教的庇护者。即可结束灾难"
+EDG_BAH_exploison_1_event_9_tooltip:0 "当我们成立达罗毗荼时，可以启用部分佛教奇观。"
+
+
+EDG_BAH_exploison_1_event.1.t:0 "德干宗教动荡"
+EDG_BAH_exploison_1_event.1.d:0 "德干爆发了严重的宗教动荡，我们需要准备清理叛军，还要安抚各地总督，南方被我们征服的地区还有分裂势力暗流涌动。表面上的宗教冲突已经结束，但是长期对德干印度教诸国的征伐所带来的宗教矛盾早已不可收拾，只是需要一个火星就能点燃火药桶。\n“尊敬的帕迪沙，南方诸地传出叛乱的流言，南方总督希望派兵支援，这可能是有预谋的叛乱。我们伟大的艾哈迈德帕迪沙以风卷残云之势席卷整个德干，将分离百年局面打破。但是快速扩张的代价就是无法平定各个势力的怒火，我们只有上层阶级是什叶派，而底层人民基本上是印度教徒和少量的佛教徒。他们对于我们的统治早已不满，我们应当尊重各个教派的习俗，控制各个教徒的有影响力的教士，乃至将伟大的帕迪沙塑造为各个宗教的圣人，这样可以让我们更好的控制各个宗教的人民。”"
+EDG_BAH_exploison_1_event.1.a:0 "德干爆发了严重的宗教动荡，她能否撑过这次危机呢？"
+
+EDG_BAH_exploison_1_event.2.t:0 "结束了？结束了！"
+EDG_BAH_exploison_1_event.2.d:0 "尊敬的帕迪沙，转轮圣王，车怛罗波底，现在各个宗教首脑已经被我们彻底掌控，现在您就是印度地区三种宗教势力的庇护者，守护者。\n德干的宗教动乱已经结束，反叛者已经斩首，曾经的德干诸国的王公已经彻底掌控，现在整个德干都是您一个人的了。"
+EDG_BAH_exploison_1_event.2.a:0 "终于结束了。"
+
+EDG_BAH_exploison_1_event.3.t:0 "南方诸国的反叛"
+EDG_BAH_exploison_1_event.3.d:0 "叛乱的流言已经成真，南方的分离势力早已联合到一起，南方诸地的总督区已经沦陷，帕迪沙我们应当镇压他们。并且有最新的传言，迈索尔甚至开拉迪总督区有叛军流动的踪迹，请帕迪沙派遣援军支援。"
+EDG_BAH_exploison_1_event.3.a:0 "先不用管他们"
+EDG_BAH_exploison_1_event.3.b:0 "全部镇压"
+
+EDG_BAH_exploison_1_event.4.t:0 "迈索尔残存势力起义"
+EDG_BAH_exploison_1_event.4.d:0 "在深山中还潜藏着过去的迈索尔贵族，他们联络当地分离份子打算掀起叛乱。"
+EDG_BAH_exploison_1_event.4.a:0 "我们无能为力"
+EDG_BAH_exploison_1_event.4.b:0 "全图了，恼！"
+
+EDG_BAH_exploison_1_event.5.t:0 "开拉迪总督反叛"
+EDG_BAH_exploison_1_event.5.d:0 "在不久前开拉迪总督归属与我，我授予他财富美人乃至土地，看来心慈手软是不可取的。"
+EDG_BAH_exploison_1_event.5.a:0 "可恶"
+EDG_BAH_exploison_1_event.5.b:0 "孽障，把他拖过来我要亲自斩首他。"
+
+EDG_BAH_exploison_1_event.6.t:0 "毗阇耶纳迦罗王公独立"
+EDG_BAH_exploison_1_event.6.d:0 "曾经降伏甚至清洗过的不少毗阇耶纳迦罗王公，看来清洗的不够多，现在他们有妄想重建往日荣光。"
+EDG_BAH_exploison_1_event.6.a:0 "你说什么"
+EDG_BAH_exploison_1_event.6.b:0 "看来还是心慈手软了"
+
+
+EDG_BAH_exploison_1_event.7.t:0 "大捷"
+EDG_BAH_exploison_1_event.7.d:0 "南方前线传来大捷，已经镇压一支叛军了。"
+
+EDG_BAH_exploison_1_event.7.a:0 "南方诸国已剿灭"
+EDG_BAH_exploison_1_event.7.b:0 "迈索尔反叛势力已被清洗"
+EDG_BAH_exploison_1_event.7.c:0 "开拉迪总督已经斩首"
+EDG_BAH_exploison_1_event.7.e:0 "毗阇耶纳迦罗已经成为历史"
+
+EDG_BAH_exploison_1_event.8.t:0 "来自总督反叛的流言"
+EDG_BAH_exploison_1_event.8.d:0 "听闻南方诸省掀起叛乱的风声，周围四省或许已经蠢蠢欲动，现在我们应当安抚各个总督，用以稳重当前的局面。"
+EDG_BAH_exploison_1_event.8.a:0 "赋予他们自治"
+EDG_BAH_exploison_1_event.8.b:0 "反了天了"
+EDG_BAH_exploison_1_event.8.c:0 "绝对效忠"
+
+EDG_BAH_exploison_1_event.9.t:0 "掌控佛教教徒"
+EDG_BAH_exploison_1_event.9.d:0 "我们应当掌控佛教的首脑，让他们为我效力，这样可以更好的控制底层佛教徒，并且将我拥为转轮圣王。"
+EDG_BAH_exploison_1_event.9.a:0 "我即是转轮圣王"
+
+EDG_BAH_exploison_1_event.10.t:0 "掌控印度教徒"
+EDG_BAH_exploison_1_event.10.d:0 "我们应当掌控印度教的首脑，让他们为我效力，这样可以更好的控制底层印度教徒，将我拥为车怛罗波底。"
+EDG_BAH_exploison_1_event.10.a:0 "我即是车怛罗波底"
+
+EDG_BAH_exploison_1_event.11.t:0 "权倾天下"
+EDG_BAH_exploison_1_event.11.d:0 "现在我们已经彻底掌控印度教首脑和佛教首脑，整个德干终将恢复和平。"
+EDG_BAH_exploison_1_event.11.a:0 "德干之主"
+
+EDG_BAH_exploison_1_event.12.t:0 "印度教叛军"
+EDG_BAH_exploison_1_event.12.d:0 "动荡中总有投机份子来寻找机会。"
+EDG_BAH_exploison_1_event.12.a:0 "镇压"
+
+EDG_BAH_exploison_1_event.13.t:0 "篡权叛军"
+EDG_BAH_exploison_1_event.13.d:0 "动荡中总有投机份子来寻找机会。"
+EDG_BAH_exploison_1_event.13.a:0 "镇压"
+
+EDG_BAH_exploison_1_event.14.t:0 "篡权叛军"
+EDG_BAH_exploison_1_event.14.d:0 "动荡中总有投机份子来寻找机会。"
+EDG_BAH_exploison_1_event.14.a:0 "镇压"
+
+EDG_BAH_exploison_1_event.15.t:0 "印度教叛军"
+EDG_BAH_exploison_1_event.15.d:0 "动荡中总有投机份子来寻找机会。"
+EDG_BAH_exploison_1_event.15.a:0 "镇压"
+
+EDG_BAH_exploison_1_event.16.t:0 "印度教叛军"
+EDG_BAH_exploison_1_event.16.d:0 "动荡中总有投机份子来寻找机会。"
+EDG_BAH_exploison_1_event.16.a:0 "镇压"
+
+EDG_BAH_exploison_1_event.17.t:0 "贵族叛军"
+EDG_BAH_exploison_1_event.17.d:0 "动荡中总有投机份子来寻找机会。"
+EDG_BAH_exploison_1_event.17.a:0 "镇压"
+
+EDG_BAH_exploison_1_event.18.t:0 "贵族叛军"
+EDG_BAH_exploison_1_event.18.d:0 "动荡中总有投机份子来寻找机会。"
+EDG_BAH_exploison_1_event.18.a:0 "镇压"
+
+EDG_BAH_exploison_1_event.19.t:0 "来自其他总督的支援"
+EDG_BAH_exploison_1_event.19.d:0 "在动荡中，忠诚的总督给予我们支援，帮助我们度过难关。"
+EDG_BAH_exploison_1_event.19.a:0 "援军来了"
+
+
+EDG_BAH_exploison_1_event.20.t:0 "南方诸国大捷"
+EDG_BAH_exploison_1_event.20.d:0 "最先叛乱的南方四省，现在已经被我们的军队剿灭了。"
+EDG_BAH_exploison_1_event.20.a:0 "南方诸国已剿灭"
+
+EDG_BAH_exploison_1_event.21.t:0 "迈索尔反叛大捷"
+EDG_BAH_exploison_1_event.21.d:0 "隐藏在山脉里的反叛势力，现在连山都进不去了。"
+EDG_BAH_exploison_1_event.21.a:0 "迈索尔反叛势力已被清洗"
+
+EDG_BAH_exploison_1_event.22.t:0 "开拉迪大捷"
+EDG_BAH_exploison_1_event.22.d:0 "曾经降伏的总督现在再次降伏，不过这次我要把他的首级挂在总督府上。"
+EDG_BAH_exploison_1_event.22.a:0 "开拉迪总督已经斩首"
+
+EDG_BAH_exploison_1_event.23.t:0 "毗阇耶纳迦罗大捷"
+EDG_BAH_exploison_1_event.23.d:0 "现在毗阇耶纳迦罗的王公贵族已经屠戮干净了，让他们拥有留在史书里吧。"
+EDG_BAH_exploison_1_event.23.a:0 "毗阇耶纳迦罗已经成为历史"
+
+
+
+
+EDG_BAH_exploison_2:0 "德干帝国的奔溃"
+desc_EDG_BAH_exploison_2:0 "从未有过任何一个国度完整的征服印度的每一寸土地，现在德干帝国她做到了，那么代价是什么？\n完成印度灾难相关任务即可结束灾难"
+
+EDG_BAH_exploison_1_event.24.t:0 "德干帝国的崩溃" 
+EDG_BAH_exploison_1_event.24.d:0 "从未有过任何一个国度完整的征服印度的每一寸土地，现在德干帝国她做到了，那么代价是什么？\n\n彷佛这就是命运，是上天给予的枷锁，让印度无法统一，这里是帝国的坟场，每一个尝试统一印度的国家终将分崩离析。那么你能打破这所谓的命运吗？\n\n印度民族数量众多复杂，他们之间的矛盾已经到达不可调和的地步，现在诸王并起，尝试建立自己的国度。\n\n完成印度灾难相关任务即可结束灾难." 
+EDG_BAH_exploison_1_event.24.a:0 "德干帝国的崩溃" 
+
+EDG_BAH_exploison_1_event.25.t:0 "印度斯坦诸国的独立"
+EDG_BAH_exploison_1_event.25.d:0 "印度斯坦地区早已被外来的突厥人，波斯人所征服，现在这次残存的旧势力纷纷挥起旗帜加入反叛的行列。"
+EDG_BAH_exploison_1_event.25.a:0 "算了"
+EDG_BAH_exploison_1_event.25.b:0 "什么，他们想干什么"
+
+EDG_BAH_exploison_1_event.26.t:0 "印度西部诸国独立" 
+EDG_BAH_exploison_1_event.26.d:0 "印度西部还留有不少拉杰普特贵族，他们假意归属与我们，现在国内反叛声音日渐高涨，他们已经拿起武器占领不少总督区了。\n\n信德叛乱份子被呼罗珊人煽动独立，已经联合往日的古吉拉特贵族一起起兵反抗了。"
+EDG_BAH_exploison_1_event.26.a:0 "我们无能为力"
+EDG_BAH_exploison_1_event.26.b:0 "怎么滴，你再说一遍"
+
+EDG_BAH_exploison_1_event.27.t:0 "孟加拉诸国独立"
+EDG_BAH_exploison_1_event.27.d:0 "奥里萨分离份子一直潜藏在雨林里，他们联合孟加拉王公一起叛乱，再更遥远的阿萨姆总督已经失去联系了，恐怕也已经被叛乱份子占领了。"
+EDG_BAH_exploison_1_event.27.a:0 "无动于衷"
+EDG_BAH_exploison_1_event.27.b:0 "是他们疯了，还是我疯了？" 
+
+EDG_BAH_exploison_1_event.28.t:0 "印度终将统一"
+EDG_BAH_exploison_1_event.28.d:0 "从未有过任何一个国度完整的征服印度的每一寸土地，现在德干帝国她再一次将印度置于掌控之下。这是德干的天命所归，那么沉睡已久的猛虎，苏醒了猎杀时刻。剑指远方，征服星辰与大海。"
+EDG_BAH_exploison_1_event.28.a:0 "印度终将统一"
+
+
+
+
+
+
+

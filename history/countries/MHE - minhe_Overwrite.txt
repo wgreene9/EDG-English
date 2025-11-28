@@ -1,0 +1,12 @@
+1442.7.21 = {
+  monarch = {
+    name = "利介"  # Lijie
+    dynasty = "名和"  # Minghe
+    birth_date = 1422.3.5
+    adm = 3
+    dip = 5
+    mil = 3
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = lawgiver_personality
+}

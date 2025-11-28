@@ -1,0 +1,77 @@
+﻿l_english:
+ EDG_ENG_earl_committee:0 "伯爵委员会"
+ EDG_ENG_earl_committee_desc:0 "伯爵委员会是英格兰连续三次伯爵战争带来的遗产。“失地王”约翰对英格兰的破坏并没有随着其高归于天堂别得到休止。一纸《大宪章》俨然成为了英格兰贵族的护身符，第一次诸侯战争的胜利更是为这份特权舔砖加瓦。公元1216年，约翰王在惊骇与叛乱中离世，其子亨利三世加冕为新王，但前来干涉的法国王太子路易与叛乱的诸侯一道，在百年前的黑斯廷斯古战场大败王军，年幼的亨利三世被迫签订颇具羞辱性的《肯特条约》，进一步扩大了地方贵族的势力。早在亨利三世即位的早期，年幼的国王就已经成为了任凭伯爵们摆布的棋子，伯爵们拥有了远超欧陆同行的自主权。第一次诸侯战争、第二次诸侯战争、第三次诸侯战争皆以王室的落败而告终，随着爱德华三世接过了沉重的王冠，英格兰真正的统治者是太后法兰西的伊莎贝拉、情夫马奇伯爵罗杰·莫蒂默以及其所领导的伯爵委员会。"
+ 
+ EDG_ENG_anglo_against_norman_nobles:0 "盎格鲁系VS诺曼系贵族军事院"
+ EDG_ENG_anglo_against_norman_nobles_desc:0 "长期以来，英格兰国内的贵族集团都可以被划分为两个差别明显的团体。尽管当初征服者威廉带领着大量诺曼军事集团完成了对海峡对岸的征服，并在随后进行了被誉为“末日审判”的土地分配，但是随着时间的推移，当初来到岛上的诺曼军事集团迅速入乡随俗，成为盎格鲁系贵族，而仍然留在大陆的贵族们则保留了原本的传统。在英格兰与法兰西进行的四国战争期间，大量的盎格鲁系贵族贪生怕死，为了让自己免服兵役，他们宁可掏出大价钱雇佣流浪的雇佣军团代替他们参军，这种佣兵作战形式逐渐形成了盎格鲁系贵族的传统。而与之相反，诺曼系贵族则更加强调组建并扩大常备王军，认为有地者有战力，只有职业化、常备化的贵族军队才值得信赖。如今英格兰国王将两派贵族共同聚集在一起，成立贵族军事院以供咨询。"
+ 
+ EDG_ENG_anglo_against_norman_nobles_ability:0 "§Y盎格鲁系佣兵贵族VS诺曼系王军贵族§!"
+ EDG_ENG_anglo_against_norman_nobles_ability_yes:0 "§Y盎格鲁系佣兵贵族VS诺曼系王军贵族§!"
+ ability_EDG_ENG_anglo_against_norman_nobles_ability:0 "§Y盎格鲁系佣兵贵族VS诺曼系王军贵族§!"
+ ability_EDG_ENG_anglo_against_norman_nobles_ability_yes:0 "§Y盎格鲁系佣兵贵族VS诺曼系王军贵族§!"
+ EDG_ENG_anglo_against_norman_nobles_power:0 "§Y盎格鲁系佣兵贵族影响力VS诺曼系王军贵族影响力§!"
+ monthly_EDG_ENG_anglo_against_norman_nobles_power:0 "月度§Y盎格鲁系佣兵贵族影响力VS诺曼系王军贵族影响力§!"
+ EDG_ENG_anglo_against_norman_nobles_power_desc:0 "§Y盎格鲁系佣兵贵族影响力VS诺曼系王军贵族影响力§!的增幅效果将在§G+100§!和§G-100§!时达到最大，而在0时不产生任何效果。\n——§Y正值§!绝对值表示当前§Y诺曼系王军贵族§!影响力（§Y王军倾向§!），进度达到§G+100§!对§Y常备军§!产生大量增幅。\n——§Y负值§!绝对值表示当前§Y盎格鲁系佣兵贵族§!影响力（§Y佣兵倾向§!），进度达到§G-100§!对§Y雇佣兵§!产生大量增幅。\n================\n§Y盎格鲁系佣兵贵族影响力VS诺曼系王军贵族影响力§!不会自然§G增长§!，但是会自然§R衰减§!，仅可以通过进度条下方的六个§Y互动§!来调整进度条数值。\n================\n§Y友情提示：§!受P社显示机制限制，§R仅能显示当前偏向在最大值的增益§!，§G并不代表相反偏向在最大值没有增益§!。但是你可以在§Y决议§!查询正负值最大值效果。\n================"
+
+ EDG_ENG_anglo_against_norman_nobles_interactions_1_tt_a:0 "失去等同于当前年收入的0.25倍的金币："
+ EDG_ENG_anglo_against_norman_nobles_interactions_1_tt_b:0 "将§Y盎格鲁系佣兵贵族影响力VS诺曼系王军贵族影响力§!的§Y负值（佣兵倾向）§!方向§G增加5§!。即："
+
+ EDG_ENG_anglo_against_norman_nobles_interactions_2_tt:0 "将§Y盎格鲁系佣兵贵族影响力VS诺曼系王军贵族影响力§!向中间值§Y0§!§R削减20§!。即："
+ EDG_ENG_anglo_against_norman_nobles_interactions_2_tt_a:0 "当§Y盎格鲁系佣兵贵族影响力VS诺曼系王军贵族影响力§!§G低于§!§Y-20§!(佣兵倾向超过§Y20§!)时，将§Y盎格鲁系采邑佣兵贵族影响力VS诺曼系常备王军贵族影响力§!§R+20§!。"
+ EDG_ENG_anglo_against_norman_nobles_interactions_2_tt_b:0 "当§Y盎格鲁系佣兵贵族影响力VS诺曼系王军贵族影响力§!§G高于§!§Y20§!(王军倾向超过§Y20§!)时，将§Y盎格鲁系采邑佣兵贵族影响力VS诺曼系常备王军贵族影响力§!§R-20§!。"
+ EDG_ENG_anglo_against_norman_nobles_interactions_2_tt_c:0 "平衡并同时压制两派贵族将会给予我们大量好处："
+ EDG_ENG_anglo_against_norman_nobles_interactions_2_tt_d:0 "获得等同于当前年收入的金币："
+ EDG_ENG_anglo_against_norman_nobles_interactions_2_tt_e:0 "获得等同于当前全年总人力增长的4倍的人力："
+
+ EDG_ENG_anglo_against_norman_nobles_interactions_3_tt_a:0 "失去等同于当前全年总人力增长的人力："
+ EDG_ENG_anglo_against_norman_nobles_interactions_3_tt_b:0 "将§Y盎格鲁系佣兵贵族影响力VS诺曼系王军贵族影响力§!的§Y正值（王军倾向）§!方向§G增加5§!。即："
+
+ EDG_ENG_anglo_against_norman_nobles_interactions_4_tt_a:0 "将§Y盎格鲁系佣兵贵族影响力VS诺曼系王军贵族影响力§!的§Y负值（佣兵倾向）§!方向§R削减5§!。即："
+
+ EDG_ENG_anglo_against_norman_nobles_interactions_5_tt:0 "将§Y盎格鲁系佣兵贵族影响力VS诺曼系王军贵族影响力§!直接逆转至相反方向的§Y50§!。即："
+ EDG_ENG_anglo_against_norman_nobles_interactions_5_tt_a:0 "当§Y盎格鲁系佣兵贵族影响力VS诺曼系王军贵族影响力§!§G低于§!§Y-50§!(佣兵倾向超过§Y50§!)时，将§Y盎格鲁系采邑佣兵贵族影响力VS诺曼系常备王军贵族影响力§!设置为§Y50§!（即王军倾向§Y50§!）。"
+ EDG_ENG_anglo_against_norman_nobles_interactions_5_tt_b:0 "当§Y盎格鲁系佣兵贵族影响力VS诺曼系王军贵族影响力§!§G高于§!§Y50§!(王军倾向超过§Y50§!)时，将§Y盎格鲁系采邑佣兵贵族影响力VS诺曼系常备王军贵族影响力§!设置为§Y-50§!（即佣兵倾向§Y50§!）。"
+
+ EDG_ENG_anglo_against_norman_nobles_interactions_6_tt_a:0 "将§Y盎格鲁系佣兵贵族影响力VS诺曼系王军贵族影响力§!的§Y正值（王军倾向）§!方向§R削减5§!。即："
+
+ EDG_ENG_anglo_against_norman_nobles_interactions_1:0 "在御前会议支持盎格鲁系贵族"
+ EDG_ENG_anglo_against_norman_nobles_interactions_1_desc:0 "付出等同于当前年收入的0.25倍的金币支持盎格鲁系贵族，§G立即增加§!§Y盎格鲁系佣兵贵族影响力VS诺曼系王军贵族影响力§!的§Y负值（佣兵倾向）§!，并在接下来的§Y5年§!内§G持续增加§!§Y负值（佣兵倾向）§!，并获得小幅增益。\n==================\n"
+ EDG_ENG_anglo_against_norman_nobles_interactions_2:0 "在御前会议平衡两派贵族"
+ EDG_ENG_anglo_against_norman_nobles_interactions_2_desc:0 "平衡并同时压制两派贵族，大幅度§R削减§!§Y盎格鲁系佣兵贵族影响力VS诺曼系王军贵族影响力§!，以换取大量增益。\n==================\n"
+ EDG_ENG_anglo_against_norman_nobles_interactions_3:0 "在御前会议支持诺曼系贵族"
+ EDG_ENG_anglo_against_norman_nobles_interactions_3_desc:0 "付出等同于当前全年总人力增长的人力支持诺曼系贵族，§G立即增加§!§Y盎格鲁系佣兵贵族影响力VS诺曼系王军贵族影响力§!的§Y正值（王军倾向）§!，并在接下来的§Y5年§!内§G持续增加§!§Y正值（王军倾向）§!，并获得小幅增益。\n==================\n"
+ EDG_ENG_anglo_against_norman_nobles_interactions_4:0 "要求盎格鲁系贵族支持战事"
+ EDG_ENG_anglo_against_norman_nobles_interactions_4_desc:0 "消耗§Y盎格鲁系佣兵贵族影响力VS诺曼系王军贵族影响力§!的§Y负值（佣兵倾向）§!，换取大幅增益。\n==================\n"
+ EDG_ENG_anglo_against_norman_nobles_interactions_5:0 "在御前会议一反常态"
+ EDG_ENG_anglo_against_norman_nobles_interactions_5_desc:0 "付出巨大的代价将§Y盎格鲁系佣兵贵族影响力VS诺曼系王军贵族影响力§!的倾向直接逆转。\n==================\n"
+ EDG_ENG_anglo_against_norman_nobles_interactions_6:0 "要求诺曼系贵族支援战事"
+ EDG_ENG_anglo_against_norman_nobles_interactions_6_desc:0 "消耗§Y盎格鲁系佣兵贵族影响力VS诺曼系王军贵族影响力§!的§Y正值（王军倾向）§!，换取大幅增益。\n==================\n"
+
+ EDG_ENG_anglo_against_norman_nobles_power_max_tt:0 "我们的§Y近卫军§!将获得一个为期§Y5年§!的§G强力增幅§!。"
+ EDG_ENG_anglo_against_norman_nobles_power_min_tt:0 "我们的§Y雇佣兵§!将获得一个为期§Y5年§!的§G强力增幅§!。"
+
+ EDG_ENG_royal_centralization_politics:0 "金雀花皇家集权政治"
+ EDG_ENG_royal_centralization_politics_desc:0 "金雀花皇家集权政治的概念来源于金雀花家族对于欧洲大陆上与自己隔海相望的法兰西王国的模仿。在经历了惨痛的四国战争的教训之后，有志于改革的英格兰国王将学习的目标投向了战胜了自己的对手，法兰西。此时，不论是英格兰、法兰西还是加洛林，都面临着严重的内部诸侯权力过大的困境。通过一系列精妙的权谋交易与铁血镇压，金雀花家族最终一雪前耻，将前三次诸侯战争的失败一扫而空，建立起了真正的中央集权政治体系。"
+ EDG_ENG_royal_centralization_politics_ability:0 "§Y金雀花皇家权威§!"
+ EDG_ENG_royal_centralization_politics_ability_yes:0 "§Y金雀花皇家权威§!"
+ ability_EDG_ENG_royal_centralization_politics_ability:0 "§Y金雀花皇家权威§!"
+ ability_EDG_ENG_royal_centralization_politics_ability_yes:0 "§Y金雀花皇家权威§!"
+ EDG_ENG_royal_centralization_politics_power:0 "§Y金雀花皇家权威§!"
+ monthly_EDG_ENG_royal_centralization_politics_power:0 "月度§Y金雀花皇家权威§!"
+ EDG_ENG_royal_centralization_politics_power_desc:0 "皇家集权需要依赖于君主个人能力和宫廷内的顾问们，在中央与地方对抗的集权化斗争中，宫廷内部的利益是高度一致的。因此我们需要尽可能提高君主的个人能力与顾问等级，以推动中央集权化的进行。\n================\n§Y金雀花皇家权威§!的月度变化受到以下因素影响：\n——自然衰减：§R-0.1§!\n——每个空缺的顾问职位：§R-0.05§!\n——每位1级顾问：§G+0.02§!\n——每位2级顾问：§G+0.04§!\n——每位3级顾问：§G+0.06§!\n——每位4级顾问：§G+0.08§!\n——每位5级顾问：§G+0.10§!\n——君主每一项个人能力每比3低一点：§R-0.03§!\n——君主每一项个人能力每比3高一点：§G+0.02§!\n================"
+
+ EDG_ENG_royal_centralization_politics_interactions_1:0 "整顿内阁吏治"
+ EDG_ENG_royal_centralization_politics_interactions_1_desc:0 "我们可以花费10点§Y金雀花皇家权威§!进行§Y整顿内阁吏治§!，为我们的宫廷体系带来许多好处：加快改革进度、降低腐败度、降低国内省份的自治度、降低顾问花费。"
+ EDG_ENG_royal_centralization_politics_interactions_2:0 "皇室公主出巡"
+ EDG_ENG_royal_centralization_politics_interactions_2_desc:0 "我们可以花费10点§Y金雀花皇家权威§!进行§Y皇室公主出巡§!，为我们的外省体系带来许多好处：增加辉煌点数、降低厌战度、降低国内省份的叛乱度、降低厌战度花费。"
+ EDG_ENG_royal_centralization_politics_interactions_3:0 "组建御前近卫"
+ EDG_ENG_royal_centralization_politics_interactions_3_desc:0 "我们可以花费10点§Y金雀花皇家权威§!进行§Y组建御前近卫§!，为我们的军队体系带来许多好处：增加陆军传统、增加陆军职业度、组建王家近卫骑兵军团。"
+
+ EDG_ENG_royal_centralization_politics_interactions_1_tt_a:0 "我们治下的所有省份都将§G-25%§!§Y自治度§!"
+ EDG_ENG_royal_centralization_politics_interactions_2_tt_a:0 "我们治下的所有省份都将§G-10§!§Y叛乱度§!"
+ EDG_ENG_royal_centralization_politics_interactions_3_tt_a:0 "一支完全由§Y骑兵§!组成的§Y近卫军§!将会出现在我们的首都，规模为我们陆军上限的10%（向下取整）"
+
+ EDG_ENG_anglican_vatican:0 "英格兰圣公宗教廷"
+ EDG_ENG_anglican_vatican_desc:0 "蒙主圣意，我国国教的领袖既由君主亲自出任，我等亦应正式组建教廷，以彰显天主之洪恩。圣公宗教廷将区别于腐朽堕落的罗马教廷，严格限制教士的权力，并将整个神职体系引导向正确的方向——贯彻上帝与君主的意志。圣公宗发源于英格兰，同时又是英格兰的国教，带有极其强烈的国家主义色彩，英格兰所建立的圣公宗教廷几乎完全是一个对内的管理机构，几乎不涉及与国外任何其他圣公宗国家的互动。"
+
+ mechanic_EDG_ENG_anglican_vatican_interaction_decisions_yes:0 "启用§Y圣公宗教廷互动§!决议"

@@ -1,0 +1,8 @@
+1424.1.1 = {
+  monarch = {
+    name = "西蒙 奥兰迪"  # Simone Orlandi
+    adm = 2
+    dip = 4
+    mil = 2
+  }
+}

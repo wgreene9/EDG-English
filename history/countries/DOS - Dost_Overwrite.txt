@@ -1,0 +1,12 @@
+1431.11.6 = {
+  monarch = {
+    name = "理查 VI"
+    dynasty = "波斯顿"  # Lancaster
+    birth_date = 1401.12.6
+    adm = 3
+    dip = 2
+    mil = 2
+  }
+  clear_scripted_personalities = yes
+  set_ruler_flag = henry_vi_lancaster
+}

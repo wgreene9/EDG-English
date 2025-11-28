@@ -1,0 +1,25 @@
+EDG_ETH_define_eth_mate ={
+	define_consort = {
+		name = "爱兰妮"
+		dynasty = "海伦"
+		adm = 5
+		dip = 5
+		mil = 4
+		age = 18
+		religion = root
+		culture = sidamo
+		female = yes
+	}
+	hidden_effect = {
+		add_queen_personality_ancestor = { key = righteous }
+		add_queen_personality = intricate_web_weaver_personality
+	}
+	set_consort_flag = EDG_ETH_Errani_flag
+}
+EDG_ETH_rename_1230 = {
+	change_province_name = "阿杜利斯"
+	rename_capital = "阿杜利斯"
+}
+EDG_ETH_rename_1213 = {
+	rename_capital = "德布瑞 贝尔翰"
+}

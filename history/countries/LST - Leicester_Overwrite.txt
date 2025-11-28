@@ -1,0 +1,10 @@
+1441.11.6 = {
+  monarch = {
+    name = "布列登"
+    dynasty = "莱斯特"  # Lancaster
+    birth_date = 1421.12.6
+    adm = 6
+    dip = 5
+    mil = 2
+  }
+}

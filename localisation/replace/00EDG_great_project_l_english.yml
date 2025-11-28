@@ -1,0 +1,300 @@
+﻿l_english:
+
+EDG_FRAs_SPA_culture_trigger_tt:0 "是§Y法兰西§!化的§Y伊比利亚§!文化"
+EDG_FRAs_GER_culture_trigger_tt:0 "是§Y法兰西§!化的§Y日耳曼§!文化"
+EDG_FRAs_ITA_culture_trigger_tt:0 "是§Y法兰西§!化的§Y拉丁§!文化"
+EDG_TURs_PER_culture_trigger_tt:0 "是§Y黎凡特§!化的§Y伊朗§!文化"
+
+ St_Andrew_Cathedral:0 "圣安德烈大教堂"
+ EDG_Daphne_Palace:0 "达夫纳宫"
+ EDG_Chrysotriclinium:0 "拉马尼奥尔宫"
+ EDG_Galata_Tower:0 "加拉太塔"
+ EDG_Ali_Qapu_Palace:0 "阿里卡普宫"
+ EDG_four_Garden_school:0 "四花园学校"
+ EDG_Blue_Mosque:0 "蓝色清真寺"
+ EDG_Arg_e_Alishah:0 "阿格阿利沙"
+ EDG_Tabriz_Bazaar:0 "大不里士集市"
+ EDG_Hanging_Garden:0 "空中花园"
+ EDG_Golden_Leaves_and_Silver_Branches_Palace:0 "金叶银枝树宫"
+ 
+ EDG_Ulugh_Beg_Observatory:0 "兀鲁伯天文台"
+ EDG_Lekistan_Seminary:0 "列基斯坦神学院"
+ EDG_Golestan_Palace:0 "戈勒斯坦皇宫"
+ EDG_Tehran_University:0 "德黑兰大学"
+ EDG_Palace_Nyawaran:0 "尼雅瓦朗皇宫"
+ EDG_Theodosian_Wall:0 "狄奥多西城墙"
+ 
+ EDG_Urmia_Fire_Temple:0 "乌尔米耶圣火庙"
+ EDG_Urmia_mosque:0 "阿迦清真寺"
+ EDG_Selimiye_mosque:0 "塞利米耶清真寺"
+ EDG_Sivas_Palace:0 "锡瓦斯皇宫"
+ EDG_Kara_Sellar:0 "卡拉·塞拉尔"
+ EDG_St_Mary_Syrian_Orthodox_Church:0 "圣玛利亚叙利亚正教堂"
+ EDG_Dajuli_Temple:0 "大聚礼寺"
+ EDG_Diyarbakir_Wall:0 "迪亚巴克尔城墙"
+ 
+ EDG_Hisn_Kayfa_Fortress:0 "哈桑凯伊夫要塞"
+ 
+ EDG_OrientalPalace:0 "东方宫"
+ EDG_MayorSquare:0 "马约尔广场"
+ EDG_tuoleiduo_temple:0 "托雷多大教堂"
+ EDG_Tornellias_Mosque:0 "托尔内利亚斯清真寺"
+ EDG_Badahos_Cathedral:0 "巴塔尔尧斯清真寺"
+ EDG_Abdul_Mosque:0 "阿卜拉杜清真寺"
+ EDG_Porto_Cathedral:0 "波尔图大教堂"
+ EDG_Porto_Port:0 "波尔图港"
+ EDG_OviedoPalace:0 "奥维耶多宫"
+ EDG_GaliciaPalace:0 "拉科鲁尼亚总督宫"
+ EDG_Hercules_Tower:0 "埃库莱斯塔"
+ EDG_Maria_Pita_Square:0 "玛丽亚·皮塔广场"
+ EDG_Saint_Anton_Castle:0 "圣安东城堡"
+ EDG_Queluz_palace:0 "阿方索宫"
+ EDG_Granada_University:0 "格拉纳达大学"
+ EDG_Granada_temple:0 "格拉纳达主座教堂"
+ EDG_Cordoba_cathedral:0 "科尔多瓦大教堂"
+ EDG_Cordoba_palace:0 "科尔多瓦王宫"
+ EDG_Cordoba_Kalaola:0 "卡拉欧拉之塔"
+ EDG_Almeria_Alcazaba:0 "阿尔卡萨瓦城堡"
+ EDG_Lisbon_Cathedral:0 "里斯本大教堂"
+ EDG_Lisbon_Palace:0 "格鲁兹宫"
+ EDG_Lisbon_Monastery:0 "圣哲罗姆派修道院"
+ EDG_Zaragoza_university:0 "萨拉戈萨大学"
+ EDG_Zaragoza_temple:0 "皮拉尔圣母圣殿主教座堂"
+ EDG_Valencia_Catedral:0 "瓦伦西亚大教堂"
+ EDG_Valencia_Torre:0 "米伽勒塔"
+ EDG_Barcelona_Cathedral:0 "巴塞罗那大教堂"
+ EDG_Barcelona_Amphitheatre:0 "塔拉戈那罗马圆形剧场"
+ EDG_Barcelona_Palau_Nacional:0 "国家宫"
+ EDG_Hativa_Castle:0 "哈蒂瓦城堡"
+ EDG_Teruel_Textile_mill:0 "特鲁埃尔大工坊"
+ EDG_Bilbao_port:0 "毕尔巴鄂港"
+ EDG_Sevilla_Cathedral:0 "塞维利亚大教堂"
+ EDG_Sevilla_palace:0 "塞维利亚王宫"
+ EDG_Sevilla_castle:0 "阿卡萨城堡"
+ EDG_Koka_Castle:0 "阿卡萨城堡"
+ 
+ EDG_Primatiale_St-Jean:0 "圣让首席大教堂"
+ EDG_St_Michels_Cathedral:0 "圣·米歇尔大教堂"
+ EDG_Palais_des_Papes:0 "清洁派教宗宫"
+ EDG_Aix_palace:0 "艾克斯王宫"
+ EDG_St_John_Cathedral:0 "圣约翰大教堂"
+ EDG_Merrana_Library:0 "梅冉纳图书馆"
+ EDG_Peyrou:0 "佩鲁门"
+ EDG_Nabona_Wine_Farm:0 "纳博讷葡萄酒农场"
+ EDG_Toulun_Commercial_Port:0 "土伦商港"
+ EDG_Francois_Textile_Factory:0 "弗朗索瓦纺织厂"
+ EDG_La_Cathedrale_Saint_Croix:0 "圣·十字大教堂"
+ EDG_Cathedrale_Saint-Andre:0 "圣安德鲁大教堂"
+ EDG_Palais_Jacque:0 "雅克科尔宫殿"
+ EDG_Carcassonne_castle:0 "卡尔卡松城堡"
+ EDG_Louvre:0 "卢浮宫"
+ EDG_Bulua_Castle:0 "布卢瓦城堡"
+ EDG_Chambord_Castle:0 "香堡"
+ EDG_Fontainebleau:0 "枫丹白露宫"
+ EDG_Mont_Saint_Michel:0 "圣米歇尔山"
+ #第戎 第戎圣母院
+ EDG_Notre_Dame_Dijon:0 "第戎圣母院"
+ #哥兰德圣母院
+ EDG_Notre_Dame_of_Goland:0 "哥兰德圣母院"
+#图卢兹 米迪运河
+EDG_Canal_du_Midi:0 "米迪运河"
+#图卢兹 苍红之城
+EDG_Episcopal_City_of_Albi:0 "苍红之城"
+#波尔多 月亮港
+EDG_Port_of_the_Moon:0 "月亮港"
+#弗朗什孔泰 符腾堡公爵城堡
+EDG_Duke_of_Wuertenburg_Castle:0 "符腾堡公爵城堡"
+#弗朗什孔泰 阿尔克-塞南皇家盐场
+EDG_Royal_Saltwork_of_Arc:0 "阿尔克-塞南皇家盐场"
+#里昂 祈福山
+EDG_Fourviere:0 "祈福山"
+#波尔多 科尔杜昂灯塔
+EDG_Cordouan_Lighthouse:0 "科尔杜昂灯塔"
+#曼恩 格拉巴托尔宫
+EDG_Palais_du_Grabatoire:0 "格拉巴托尔宫"
+#南特 圣皮埃尔与圣保罗大教堂
+EDG_cathedral_de_Nantes:0 "圣皮埃尔与圣保罗大教堂"
+#布雷斯特 唐居伊塔
+EDG_Tour_Tanguy:0 "唐居伊塔"
+
+
+#明斯克 米尔城堡
+EDG_Castle_Complex:0 "米尔城堡"
+#明斯克 古萨罗夫卡造纸厂
+EDG_Gusarovka_Paper_Mill:0 "古萨罗夫卡造纸厂"
+#诺夫哥罗德 雅罗斯拉夫宅邸
+EDG_Yaroslav_Residence:0 "雅罗斯拉夫宅邸"
+#诺夫哥罗德 大公市场
+EDG_Dagong_Market:0 "大公市场"
+#涅斯维日 拉济维乌家族城堡
+EDG_Complex_of_the_Radziwill_Fa:0 "拉济维乌家族城堡"
+#斯摩棱斯克 英雄广场
+EDG_Hero_Square:0 "英雄广场"
+#斯摩棱斯克 亚历山大元帅军事学院
+EDG_Alexander_Fortress:0 "亚历山大元帅军事学院"
+#斯摩棱斯克 斯摩棱斯克堡
+EDG_Smolensk_Castle:0 "斯摩棱斯克堡"
+#维亚济马 胜利大厅
+EDG_Victory_Hall:0 "胜利大厅"
+#维亚济马 维亚济马堡
+EDG_Viazima_Fort:0 "维亚济马堡"
+#布良斯克 布良斯克修道院
+EDG_Bryansk_Monastery:0 "布良斯克修道院"
+#沃罗涅日 沃罗涅日大教堂
+EDG_Voronezh_Monastery:0 "天使报喜大教堂"
+#沃里尼亚 沃里尼亚宫
+EDG_Volhynia_palace:0 "沃里尼亚宫"
+#沃里尼亚 缙绅大会堂
+EDG_Jingentry_Hall:0 "缙绅大会堂"
+#切尔尼戈夫 切尔尼戈夫王宫
+EDG_Chernigov_Palace:0 "切尔尼戈夫王宫"
+#佩列亚斯拉夫 佩列亚斯拉夫大教堂
+EDG_Pereyaslav_Temple:0 "佩列亚斯拉夫大教堂"
+#波德拉谢 波德拉谢猎场
+EDG_Podlasie_hunting_ground:0 "波德拉谢猎场"
+#雅罗斯拉夫尔 雅罗斯拉夫尔王宫
+EDG_Yaroslavl_Palace:0 "雅罗斯拉夫尔王宫"
+#沃洛格达 沃洛格达大桥
+EDG_Vologda_Bridge:0 "沃洛格达大桥"
+#斯摩棱斯克 斯摩棱斯克铸炮厂
+EDG_Smolensk_Factory:0 "斯摩棱斯克铸炮厂"
+#弗拉基米尔 弗拉基米尔王宫
+EDG_Vladimir_palace:0 "弗拉基米尔王宫"
+#弗拉基米尔 阿纳斯塔西娅大教堂
+EDG_Vladimir_temple:0 "阿纳斯塔西娅大教堂"
+#特维尔 特维尔议事厅
+EDG_Tver_assembly_hall:0 "特维尔议事厅"
+#苏兹达尔 集市广场
+EDG_Suzdar_Market_Square:0 "集市广场"
+#普斯科夫 普斯科夫大市场
+EDG_Pskov_market:0 "普斯科夫大市场"
+#波洛茨克 弗谢斯拉夫王座厅
+EDG_Polotsk_throne:0 "弗谢斯拉夫王座厅"
+#梁赞 菲多罗维奇大军营
+EDG_Ryazan_Camp:0 "菲多罗维奇大军营"
+#波多里亚 波多里亚军事基地
+EDG_Podolia_Camp:0 "波多里亚军事基地"
+#佩列亚斯拉夫 亚历山大-涅夫斯基大教堂
+EDG_Alexandria_Nevsky_Cathedral:0 "亚历山大-涅夫斯基大教堂"
+ #莫斯科 大彼得罗夫歌剧院
+EDG_Grand_Petrov_Theatre:0 "大彼得罗夫歌剧院"
+ #莫斯科 新圣女修道院
+EDG_New_Virgin_Monastery:0 "新圣女修道院"
+ #莫斯科 圣瓦西里圣天大教堂
+EDG_Saint_Vasili_Cathedral:0 "圣瓦西里圣天大教堂"
+ #圣彼得堡 涅瓦大街
+EDG_Nevsky_Prospect:0 "涅瓦大街"
+ #圣彼得堡 夏宫
+EDG_Summer_Palace:0 "夏宫"
+ #圣彼得堡 彼得要塞
+EDG_Petropavlovskaya_krepost:0 "彼得要塞"
+ #圣彼得堡 马林斯基剧院
+EDG_Mariinsky_Theater:0 "马林斯基剧院"
+
+#洛锡安 爱丁堡
+EDG_Edinburgh:0 "洛锡安宫"
+edinburgh_castle:0 "爱丁堡"
+#洛锡安 圣吉尔斯大教堂
+EDG_Elis_Cathedral:0 "圣吉尔斯大教堂"
+#洛锡安 荷里路德宫
+EDG_Holyrood_Palace:0 "荷里路德宫"
+#阿伯丁 阿伯丁大学
+EDG_University_of_Aberdeen:0 "阿伯丁大学"
+#伦敦 威斯敏斯特宫
+EDG_Palace_of_Westminster:0 "威斯敏斯特宫"
+#伦敦 伊丽莎白塔
+EDG_the_Elizabeth_Tower:0 "伊丽莎白塔"
+#伦敦 圣保罗大教堂
+EDG_St_Paul_Cathedral:0 "圣保罗大教堂"
+#伦敦 西敏寺
+EDG_Westminster_Abbey:0 "西敏寺"
+#伦敦 格林尼治天文台
+EDG_Royal_Greenwich_Observatory:0 "格林尼治天文台"
+#约克 约克大教堂
+EDG_York_Minster:0 "约克大教堂"
+#约克 霍华德庄园
+EDG_Castle_Howard:0 "霍华德庄园"
+#格洛斯特 格洛斯特大教堂
+EDG_Gloucester_Cathedral:0 "格洛斯特大教堂"
+#牛津 牛津大学
+EDG_Oxford_University:0 "牛津大学"
+#牛津 布莱尼姆宫
+EDG_Blenheim_Palace:0 "布莱尼姆宫"
+#汉普郡 海克利尔城堡
+EDG_Highclere_Castle:0 "海克利尔城堡"
+#格温内斯 康威城堡
+EDG_Conwy_Castle:0 "康威城堡"
+#格拉摩根 卡菲利城堡
+EDG_Caerphilly_Castle:0 "卡菲利城堡"
+#什里斯伯里 伍斯特大教堂
+EDG_Worcester_Cathedral:0 "伍斯特大教堂"
+#贝德福郡（赫特福德郡） 哈特菲尔德宫
+EDG_Hatfield_Palace:0 "哈特菲尔德宫"
+#肯特 多佛城堡
+EDG_Dover_Castle:0 "多佛城堡"
+#肯特 罗切斯特城堡
+EDG_Rochester_Castle:0 "罗切斯特城堡"
+#肯特 坎特伯雷大教堂
+EDG_Canterbury_Cathedral:0 "坎特伯雷大教堂"
+#切斯特 切斯特城堡
+EDG_Chester_Castle:0 "切斯特城堡"
+#诺森伯兰 哈德里安城堡
+EDG_Hadrian_Castle:0 "哈德里安城堡"
+#德比 查茨沃斯庄园
+EDG_Chatsworth_House:0 "查茨沃斯庄园"
+#莱斯特 莱切斯特大学
+EDG_University_Leicester:0 "莱切斯特大学"
+#埃塞克斯 埃塞克斯大学
+EDG_University_Essex:0 "埃塞克斯大学"
+#艾尔郡 艾尔皇家科学院
+EDG_Aier_Royal_Academy_of_Sciences:0 "艾尔皇家科学院"
+#格拉摩根 格拉摩根官邸
+EDG_Glamorgan_Mansion:0 "格拉摩根官邸"
+#伊法尔列（奥法利） 比尔城堡庄园
+EDG_Birr_Castle:0 "比尔城堡庄园"
+#康纳赫特 阿什福德城堡
+EDG_Ashford_Castle:0 "阿什福德城堡"
+#都柏林 路特尔斯顿城堡
+EDG_Luttrellstown_Castle:0 "路特尔斯顿城堡"
+#北物万 阿代尔庄园
+EDG_Adare_Manor:0 "阿代尔庄园"
+#都柏林 圣玛利亚临时主教座堂
+EDG_ArdeaglaisNaomhMuire:0 "圣玛利亚临时主教座堂"
+#奥蒙德 凯袖宫
+EDG_Rock_of_Cashel:0 "凯袖宫"
+#剑桥 剑桥大学
+EDG_Cambridge_University:0 "剑桥大学"
+ 
+ 
+ province_is_or_accepts_EDG_Bogomili_tt:0 "§Y[This.GetName]§!的宗教为§Y波格米勒派§!，且为拥有者的国教或相容信仰。"
+ province_is_or_accepts_EDG_catharism_tt:0 "§Y[This.GetName]§!的宗教为§Y清洁派§!，且为拥有者的国教或相容信仰。"
+ EDG_SPA_Great_projects_use_tt:0 "§Y[This.GetName]§!的宗教属于§Y基督教§!或§Y穆斯林§!宗教组中，且为省份所有者的国教或相容信仰。"
+
+
+ #波兰:0 ""
+EDG_Waclawa_w_Krakowie:0 "瓦维尔主教座堂"
+EDG_Castle_Square:0 "华沙城堡广场"
+EDG_Wilanow_Palace:0 "维拉努夫宫"
+EDG_Katedra_Sandomierz:0 "桑多梅日大教堂"
+EDG_Katedra_Poznan:0 "波兹南大教堂"
+
+
+#埃及
+EDG_Kataba_Palace:0 "卡特巴宫"
+EDG_Damietta_Krafata:0 "克拉法塔"
+hellas_build_canal_flag_trigger_tooltip:0 "通过§Y任务§!提前解锁了该奇观"
+
+
+#奥斯曼
+EDG_Topkapi_Sarayi_Muzesi:0 "托普卡帕宫"
+EDG_Grand_Sarakirio_Palace:0 "大萨拉基里奥宫"
+EDG_TUR_ven_doges_palace:0 "帕夏宫"
+
+
+palace_of_the_popes:0 "公教会教宗宫"
+
+
+#洛塔林吉亚
+EDG_Aachen_Lotharingia_Palace:0 "亚琛圣父大皇宫"
+EDG_Herrera_Governor_Palace:0 "海尔雷联省总督宫"
+EDG_Aachen_University:0 "亚琛大学"

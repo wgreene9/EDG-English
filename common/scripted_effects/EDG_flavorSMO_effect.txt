@@ -1,0 +1,51 @@
+EDG_flavorSMO_5_effect_a = {
+	define_general = {
+		name = "格拉西姆 马罗佐夫"
+		type = general
+		fire = 4
+		shock = 4
+		manuever = 2
+		siege = 2
+	}
+}
+EDG_flavorSMO_5_effect_b = {
+	define_advisor = {
+		name = "格拉西姆 马罗佐夫"
+		type = army_reformer
+		skill = 3
+		cost_multiplier = 0.25
+		culture = ROOT
+		religion = ROOT
+	}
+}
+
+EDG_flavorSMO_9_effect_a = {
+	
+	define_ruler = {
+		name = "马克西姆 萨卡洛夫"
+		claim = 95
+		adm = 5
+		dip = 5
+		mil = 6
+		age = 35
+	}
+	define_ruler_to_general = {
+		type = general
+		fire = 5
+		shock = 5
+		manuever = 4
+		siege = 2
+		death_date = 1590.11.24
+	}
+}
+EDG_flavorSMO_9_effect_b = {
+	
+	define_general = {
+		name = "马克西姆 萨卡洛夫"
+		type = general
+		fire = 5
+		shock = 5
+		manuever = 3
+		siege = 2
+	}
+}

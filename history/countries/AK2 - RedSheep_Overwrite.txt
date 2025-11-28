@@ -1,0 +1,11 @@
+1396.1.1 = {
+  monarch = {
+    name = "Alvand I"  # Qara Yülüq Osman
+    dynasty = "Qara Iskandar"  # Aq Qoyunlu
+    birth_date = 1403.1.1
+    adm = 4
+    dip = 2
+    mil = 5
+  }
+  add_piety = 0.3
+}

@@ -1,0 +1,98 @@
+﻿l_english:
+    EDG_issues_only_once_tooltip:0 "该法案只能通过一次"
+
+    EDG_Breda_Declaration_issues_1:0 "自由主义法案"
+    EDG_Breda_Declaration_issues_2:0 "重商主义法案"
+
+    EDG_Breda_Declaration_issues_1_desc:0 "我们将继续奉行自由主义，默许资产阶级发展壮大并建设我们的经济。"
+    EDG_Breda_Declaration_issues_2_desc:0 "重商主义是西欧封建制度向资本主义制度过渡时期，受到普遍推崇的一种经济哲学。"
+
+
+    EDG_SCO_mission_issues_1:0 "扩充枢密院法案"
+    unlock_issue_EDG_SCO_mission_issues_1_tt:0 "解锁§Y扩充枢密院法案§!议题"
+    has_enacted_EDG_SCO_mission_issues_1_tt:0 "已颁布议会议案§Y扩充枢密院法案§!"
+    EDG_SCO_mission_issues_1_desc:0 "枢密院是重要的权力机关，在国家治理中发挥着至关重要的作用，扩充枢密院可以帮助我们加强国家的治理水平。"
+
+    EDG_SCO_mission_issues_2:0 "扩大国家海军部"
+    unlock_issue_EDG_SCO_mission_issues_2_tt:0 "解锁§Y扩大国家海军部§!议题"
+    has_enacted_EDG_SCO_mission_issues_2_tt:0 "解锁§Y扩大国家海军部§!"
+    EDG_SCO_mission_issues_2_desc:0 "我们将扩大我们的国家海军部，提升我们的海军力量。"
+
+    EDG_SCO_mission_issues_3:0 "扩大海军军校"
+    unlock_issue_EDG_SCO_mission_issues_3_tt:0 "解锁§Y扩大海军军校§!议题"
+    has_enacted_EDG_SCO_mission_issues_3_tt:0 "解锁§Y扩大海军军校§!"
+    EDG_SCO_mission_issues_3_desc:0 "我们将扩大我们的海军军校，提升我们的海军力量。"
+
+    EDG_SCO_mission_issues_4:0 "加强海军军官培养"
+    unlock_issue_EDG_SCO_mission_issues_4_tt:0 "解锁§Y加强海军军官培养§!议题"
+    has_enacted_EDG_SCO_mission_issues_4_tt:0 "已颁布议会议案§Y加强海军军官培养§!"
+    EDG_SCO_mission_issues_4_desc:0 "加强对海军军官的培养可以提升我们的海军力量。"
+
+    EDG_SCO_mission_issues_5:0 "改善造船技术"
+    unlock_issue_EDG_SCO_mission_issues_5_tt:0 "解锁§Y改善造船技术§!议题"
+    has_enacted_EDG_SCO_mission_issues_5_tt:0 "已颁布议会议案§Y改善造船技术§!"
+    EDG_SCO_mission_issues_5_desc:0 "我们将改进船只建造的技术，让我们的舰队更为完美。"
+
+    EDG_SCO_mission_issues_6:0 "舰队贸易保护"
+    unlock_issue_EDG_SCO_mission_issues_6_tt:0 "解锁§Y舰队贸易保护§!议题"
+    has_enacted_EDG_SCO_mission_issues_6_tt:0 "已颁布议会议案§Y舰队贸易保护§!"
+    EDG_SCO_mission_issues_6_desc:0 "我们的舰队将对本国商人的贸易行为进行保护。"
+
+    EDG_SCO_mission_issues_7:0 "私掠法案"
+    unlock_issue_EDG_SCO_mission_issues_7_tt:0 "解锁§Y私掠法案§!议题"
+    has_enacted_EDG_SCO_mission_issues_7_tt:0 "已颁布议会议案§Y私掠法案§!"
+    EDG_SCO_mission_issues_7_desc:0 "国王的绅士冒险家将会维护我们的利益。"
+
+    EDG_SCO_mission_issues_8:0 "海军津贴法案"
+    unlock_issue_EDG_SCO_mission_issues_8_tt:0 "解锁§Y海军津贴法案§!议题"
+    has_enacted_EDG_SCO_mission_issues_8_tt:0 "已颁布议会议案§Y海军津贴法案§!"
+    EDG_SCO_mission_issues_8_desc:0 "我们将为优秀的海军士兵发放额外的津贴，提升他们的战斗热情。"
+
+    EDG_SCO_mission_issues_9:0 "木墙补贴法案"
+    unlock_issue_EDG_SCO_mission_issues_9_tt:0 "解锁§Y木墙补贴法案§!议题"
+    has_enacted_EDG_SCO_mission_issues_9_tt:0 "已颁布议会议案§Y木墙补贴法案§!"
+    EDG_SCO_mission_issues_9_desc:0 "我们将采用更为优质的材料打造我们的舰队。"
+
+    EDG_SCO_mission_issues_10:0 "海军陆战队特训法案"
+    unlock_issue_EDG_SCO_mission_issues_10_tt:0 "解锁§Y海军陆战队特训法案§!议题"
+    has_enacted_EDG_SCO_mission_issues_10_tt:0 "已颁布议会议案§Y海军陆战队特训法案§!"
+    EDG_SCO_mission_issues_10_desc:0 "我们将为海军陆战队展开加强训练，让他们成为我们的精英部队。"
+
+    EDG_SCO_mission_issues_11:0 "宣扬大凯尔特主义"
+    unlock_issue_EDG_SCO_mission_issues_11_tt:0 "解锁§Y宣扬大凯尔特主义§!议题"
+    has_enacted_EDG_SCO_mission_issues_11_tt:0 "已颁布议会议案§Y宣扬大凯尔特主义§!"
+    EDG_SCO_mission_issues_11_desc:0 "我们将在国内宣扬大凯尔特主义。"
+
+    EDG_SCO_mission_issues_12:0 "解除印刷业枷锁"
+has_EDG_SCO_mission_issues_12_country_flag:0 "已颁布议会议案§Y解除印刷业枷锁§!"
+    unlock_issue_EDG_SCO_mission_issues_12_tt:0 "解锁§Y解除印刷业枷锁§!议题"
+    has_enacted_EDG_SCO_mission_issues_12_tt:0 "已颁布议会议案§Y解除印刷业枷锁§!"
+    EDG_SCO_mission_issues_12_desc:0 "我们将减少对印刷行业的束缚与限制，推进国内的思想自由。"
+
+    EDG_SCO_mission_issues_13:0 "通过保释法案"
+has_EDG_SCO_mission_issues_13_country_flag:0 "已颁布议会议案§Y通过保释法案§!"
+    unlock_issue_EDG_SCO_mission_issues_13_tt:0 "解锁§Y通过保释法案§!议题"
+    has_enacted_EDG_SCO_mission_issues_13_tt:0 "已颁布议会议案§Y通过保释法案§!"
+    EDG_SCO_mission_issues_13_desc:0 "我们将在推动司法领域无罪推定原则、保释制度等方面发挥积极作用，建立一套完善的法律援助体系和保释制度。"
+
+    EDG_SCO_mission_issues_14:0 "建立皇家纹章院"
+has_EDG_SCO_mission_issues_14_country_flag:0 "已颁布议会议案§Y建立皇家纹章院§!"
+    unlock_issue_EDG_SCO_mission_issues_14_tt:0 "解锁§Y建立皇家纹章院§!议题"
+    has_enacted_EDG_SCO_mission_issues_14_tt:0 "已颁布议会议案§Y建立皇家纹章院§!"
+    EDG_SCO_mission_issues_14_desc:0 "开始时，纹章官类似依附于贵族之奴仆，地位相当于魔术师及吟游诗人。后来被当成比武会上的司仪，宣布比武项目及骑士名单。为识别骑士，必须对盾牌上之盾纹有所了解及认识，因而产生了纹章艺术的知识和技能。13世纪时，纹章官主要的工作是处理贵族事务。到了14世纪，纹章官之权力有所扩大。"
+
+    EDG_SCO_mission_issues_15:0 "推行教育运动"
+has_EDG_SCO_mission_issues_15_country_flag:0 "已颁布议会议案§Y推行教育运动§!"
+    unlock_issue_EDG_SCO_mission_issues_15_tt:0 "解锁§Y推行教育运动§!议题"
+    has_enacted_EDG_SCO_mission_issues_15_tt:0 "已颁布议会议案§Y推行教育运动§!"
+    EDG_SCO_mission_issues_15_desc:0 "我们将推行教育运动，保证科技和思想的发达。"
+
+    EDG_SCO_mission_issues_16:0 "为皇家科学院拨款"
+    unlock_issue_EDG_SCO_mission_issues_16_tt:0 "解锁§Y为皇家科学院拨款§!议题"
+    has_enacted_EDG_SCO_mission_issues_16_tt:0 "已颁布议会议案§Y为皇家科学院拨款§!"
+    EDG_SCO_mission_issues_16_desc:0 "我们将扩大为皇家科学院提供的拨款。"
+
+
+
+
+

@@ -1,0 +1,9 @@
+1444.1.1 = {
+  monarch = {
+    name = "卡姆巴尔"  # Kumbar
+    dynasty = "挲玛 古希斯坦"  # Mirwari
+    dip = 4
+    adm = 2
+    mil = 5
+  }
+}

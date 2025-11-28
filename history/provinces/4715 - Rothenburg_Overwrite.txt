@@ -1,0 +1,1 @@
+capital = "Rothenburg ob der Tauber"

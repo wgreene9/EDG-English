@@ -1,0 +1,11 @@
+{
+    monarch = 
+    {
+        name = "利氏" #ä¹å©
+        dynasty = "结城" #æ°ç°
+        adm = 5
+        dip = 4
+        mil = 2
+        birth_date = 1405.8.17
+    }
+}

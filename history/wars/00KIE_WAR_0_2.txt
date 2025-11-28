@@ -1,0 +1,9 @@
+name = "基辅罗斯内战"
+war_goal = {
+  type = EDG_WG_superiority_RUS_unification
+  casus_belli = cb_EDG_WG_superiority_RUS_unification
+}
+1443.12.1 = {
+  add_attacker = ZAZ
+  add_defender = KIE
+}

@@ -1,0 +1,10 @@
+1440.5.19 = {
+  monarch = {
+    name =   "安德烈 I"  # Andrei I
+    dynasty = "莫诺马霍维奇"  # Rurikovich
+	birth_date = 1389.12.1
+    adm = 1
+    dip = 0
+    mil = 0
+  }
+}

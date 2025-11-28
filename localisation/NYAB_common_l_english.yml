@@ -1,0 +1,177 @@
+﻿l_english:
+ NYAB_has_road_building_trigger_tooltip: "有建设§Y道路§!"
+ NYAB_has_temple_building_trigger_tooltip: "有建设§Y教堂§!"
+ NYAB_has_marketplace_building_trigger_tooltip: "有建设§Y集市§!"
+ NYAB_has_shipyard_building_trigger_tooltip: "有建设§Y造船厂§!"
+ NYAB_has_gongfang_building_trigger_tooltip: "有建设§Y工坊§!"
+ NYAB_has_matou_building_trigger_tooltip: "有建设§Y码头§!" 
+ NYAB_has_bingying_building_trigger_tooltip: "有建设§Y兵营§!"
+ NYAB_has_fayuan_building_trigger_tooltip: "有建设§Y法院§!"
+ NYAB_has_any_l2_trade_company_building_ttt: "有§Y二级及以上§!的贸易公司投资"
+ NYAB_has_road_building_trigger_tooltip2:"有建设§Y砾石道路§!及以上的道路建筑。"
+ NYAB_has_road_building_trigger_tooltip3:"有建设§Y皇家道路§!及以上的道路建筑。"
+ NYAB_has_road_building_trigger_tooltip4:"有建设§Y柏油道路§!及以上的道路建筑。"
+ NYAB_has_road_building_trigger_tooltip_newest:"有建设目前科技水平下最高级的道路建筑。"
+
+ cb_take_mandate_triggered_NYAB:"夺取天命"
+ cb_take_mandate_triggered_NYAB_desc:"我们必须向全世界证明自己是天命所归。"
+
+ NYAB_accept_two_chinese_culture_trigger_tooltip:"至少接纳了§G2§!种§Y中华§!文化组的文化。"
+
+ NYAB_add_center_of_trade_level_effect_tooltip: "如果没有§Y贸易中心§!，将会建立§G一级贸易中心§!，如果有且不到§Y3§!级，那么就会提升§G一级贸易中心等级§!，否则获得§G50§!外交点数"
+ NYAB_update_mission_title: "更新任务树"
+ NYAB_update_mission_desc: "有时候更新了，旧存档可能看不到新加的任务树。"
+
+ NYAB_expanded_award_tooltip: "§M战争前夜拓展§!的特殊奖励"
+ NYAB_TMG_recruit_tooltip: "是§Y帖木格§!，任务§Y招募女真族人§!已完成"
+ NYAB_SA_2tier_ttt: "大部分情况下，通过§M战争前夜拓展§!的获得特殊奖励只能将此伟大工程升级至§Y2§!"
+
+ NYAB_goverment_event_20_t: "大草原的遗产"
+ NYAB_goverment_event_20_d: "我们曾经在大草原上叱咤风云，那些定居者见到我们的骑兵无不闻风丧胆，望风而逃。尽管现在我们已经逐渐习惯了定居生活，也已经很久没有出去劫掠他人了。但隐隐约约总有一个声音在呼唤着我们，我们应该回归往昔的游牧生活吗？"
+ NYAB_goverment_event_20a: "我们从未忘记那些时光，[Root.GetName]必将再度崛起！"
+ NYAB_goverment_event_20b: "我们已经定居下来了，即使有过那样的生活，那也是过去了。"
+
+ YANSHENGGONGGUO: "衍圣公国"
+ YANSHENGGONG: "衍圣公"
+ SHIZI: "世子"
+ FUREN: "夫人"
+ ZHANGFU: "丈夫"
+ MIANSHOU: "面首"
+ HUANGHOU: "皇后"
+ ZHUHOU: "诸侯"
+ TIANCHAO: "天朝"
+ WANG: "王"
+ TIANZI: "天子"
+
+ G0RCUN: "村"
+ G0RXIAN: "县"
+ G0RSHI: "市"
+ G0RCUNZHANG: "村长"
+ G0RXIANZHANG: "县长"
+ G0RSHIZHANG: "市长"
+ G0RQINDINGCUNZHANG: "钦定村长"
+ G0RQINDINGXIANZHANG: "钦定县长"
+ G0RQINDINGSHIZHANG: "钦定市长"
+
+ NYAB_crusader_rp:"十字军战士"
+ NYAB_crusader_rp_desc:""
+
+ NYAB_riyuebei: "日月碑"
+ Caspian_canal: "伏尔加-顿河运河"
+ NYAB_babieta: "巴别塔"
+ NYAB_xianshenlou: "祆神楼"
+ NYAB_citonggang:"刺桐港"
+ NYAB_beijing_church:"北京基督教堂"
+ NYAB_beijing_church_desc:"北京基督教堂的历史可以追溯到元大都时期，来自欧洲的也里可温教传教士于1294年在北京修建了第一所基督教教堂，此后，基督教得到元朝皇帝的宽容，在北京建立了许多教堂。元代传入中国的基督教被称为也里可温教（即景教），在组织形态上借鉴了佛教的一些做法，这些景教教堂大多被称作寺，采用中土佛教建筑常用的建筑形式，其风格与欧洲本土的教堂迥异其趣。"
+ 
+ 
+ NYAB_babieta_tt: "在完成任务「§Y世界企业§!」之前，§Y巴别塔§!最多只能升至§G2§!级"
+
+ ab_can_spawn_renaissance: "可以产生§Y文艺复兴§!思潮"
+ NYAB_lock_zhiming_flag: "锁定了§Y殖民主义§!思潮"
+ NYAB_lock_quanqiumaoyi_flag: "锁定了§Y全球贸易§!思潮"
+
+ NYAB_extra_patriarch_when_consecrate_tt:"设立牧首区时额外获得§G3%§!牧首权威。\n"
+ NYAB_reduce_hegemons_xuqie_effect_tt:"§T宣称霸权的要求已经降低。§!\n"
+ NYAB_remove_steppe_terrain_debuff_tt:"§G移除§!§Y大草原§!地形的发展成本惩罚。\n"
+ NYAB_burN_city_give_church_power_tt:"§R焚掠§!§Y非国教§!省份时将会获得§G5.00§!教会力量。\n"
+ NYAB_raze_diff_religion_burn_church_tt:"焚掠§Y非国教§!省份时，若其有§Y教堂§!或§Y大教堂§!，§R摧毁§!之并增加§R10.00§!荒废度，获得其§G50.0%§!建造花费作为战利品。\n"
+ NYAB_enable_supplemental_development_tt:"提升发展度时有§G20.0%§!概率得到额外§G1§!点发展度。\n"
+ NYAB_raze_prov_rudesc_1_base_tax_lost_tt:"§R焚掠§!基础税收为2以上的省份时，有§G99.0%§!的概率返还§G1§!点基础税收。\n"
+ NYAB_battle_win_reduce_war_exhaustion_tt:"赢得一场战斗时，失去§G0.05§!厌战度。\n"
+ NYAB_raze_prov_reduce_war_exhaustion_tt:"§R焚掠§!省份时，失去§G0.05§!厌战度。\n"
+ NYAB_raze_prov_reduce_nationlism_tt:"§R焚掠§!省份时，以§R增加10.00§!荒废度为代价，省份失去§G2.5§!分离主义。\n"
+ NYAB_enable_slavic_icon_tt:"允许使用「§Y圣罗斯提斯拉夫圣像§!」。\n"
+ NYAB_allow_icon_rostislav_ttt:"已被允许使用「§Y圣罗斯提斯拉夫圣像§!」。"
+ 
+ 
+ ewai_reward_yes: "§G已经满足了额外奖励的要求§!\n"
+ ewai_reward_no: "§R尚未满足额外奖励的要求§!\n"
+
+ NYAB_complete_by_else_tt:"\n否则："
+ NYAB_complete_by_war_tt_yes:"£yes£如果我们通过§M战争§!完成任务："
+ NYAB_complete_by_war_tt_no:"£no£如果我们通过§M战争§!完成任务："
+ NYAB_complete_by_dip_tt_yes:"£yes£如果我们通过§M外交§!完成任务："
+ NYAB_complete_by_dip_tt_no:"£no£如果我们通过§M外交§!完成任务："
+ NYAB_complete_by_subject_tt_yes:"£yes£如果我们通过§M附庸国家§!完成任务："
+ NYAB_complete_by_subject_tt_no:"£no£如果我们通过§M附庸国家§!完成任务："
+ NYAB_complete_by_conquer_tt_yes:"£yes£如果我们通过§M征服省份§!完成任务："
+ NYAB_complete_by_conquer_tt_no:"£no£如果我们通过§M征服省份§!完成任务："
+ NYAB_complete_by_cover_religion_tt_yes:"£yes£如果我们通过§M传教§!完成任务："
+ NYAB_complete_by_cover_relgion_tt_no:"£no£如果我们通过§M传教§!完成任务："
+ NYAB_complete_by_transfer_culture_tt_yes:"£yes£如果我们通过§M转化文化§!完成任务："
+ NYAB_complete_by_transfer_culture_tt_no:"£no£如果我们通过§M转化文化§!完成任务："
+ NYAB_complete_by_accept_culture_tt_yes:"£yes£如果我们通过§M接纳文化§!完成任务："
+ NYAB_complete_by_accept_culture_tt_no:"£no£如果我们通过§M接纳文化§!完成任务："
+
+ NYAB_is_rujiao_ttyes:"£yes£如果我们信仰§M儒教§!："
+ NYAB_is_rujiao_ttno:"£no£如果我们信仰§M儒教§!："
+
+ NYAB_subject_modifier_desc_tt:"直到他们不再是我们的附属国"
+ NYAB_owns_province_get_tt:"治下满足条件的省份获得："
+ NYAB_modifier_affect_future_province_tt:"上述修正对未来获得的省份也生效。\n"
+ NYAB_event_will_give_tt:"\n§T事件将给予以下效果：§!"
+ NYAB_get_from_target_province:"从目标省份中"
+ NO_PREVIEM_MISSION_ttt:"没有在§M任务预览§!中"
+ 
+ NYAB_clear_war_yanzhan_tt:"§G立即清空厌战度。§!\n"
+ NYAB_add_army_tradition_or_mil_power_tt:"溢出的陆军传统将转化为£mil£。\n"
+ NYAB_add_fervor_or_power_tt:"溢出的热情点数将转化为£adm£。\n"
+ NYAB_add_harmonizd_religion_effect_tt:"如果已经和谐该宗教或者正在和谐该宗教，则改为获得三类点数£adm££dip££mil£各§G100§!。\n"
+ NYAB_add_harmony_or_power_tt:"溢出的和谐度将转为化三类点数£adm££dip££mil£。\n"
+ NYAB_add_patriarch_authority_tt:"溢出的牧首权威将转化为£adm£。\n"
+ NYAB_add_mandate_or_power_tt:"溢出的每§G1§!天命将转为化§G5§!点三类点数£adm££dip££mil£。\n"
+ NYAB_add_church_power_or_power_tt:"溢出的教会力量将随机转为化某种君主点数£adm££dip££mil£\n"
+ NYAB_half_unite_china_cost_age_ability_effect_tt:"选取时代能力「§Y分久必合§!」时§G退还50%花费§!。\n"
+
+ NYAB_raze_diff_religion_burn_church_tt:"在§Y大草原§!省份提升发展度时，§G50%§!概率获得额外1点发展度。\n"
+ 
+ NYAB_unlock_suyishi_effect_tt:"允许建造伟大工程「§Y苏伊士运河§!」。"
+ NYAB_unlock_shenghuomiao_effect_tt:"允许使用伟大工程「§Y巴库圣火庙§!」。"
+ NYAB_unlock_jiataiji_effect_tt:"允许使用伟大工程「§Y迦太基遗址§!」。"
+ NYAB_unlock_shunhua_effect_tt:"允许使用伟大工程「§Y顺化皇城§!」。"
+
+ NYAB_allow_war_against_heresy_cb_tt:"启用对§Y异端§!国家的宣战借口「§Y清除异端§!」。\n"
+ NYAB_allow_unite_balkan_cb_tt:"启用对§Y巴尔干§!国家的宣战借口「§Y统一巴尔干§!」。\n"
+ NYAB_allow_colony_or_derectly_control_new_world_tt:"£icon_colonial_growth£解锁了决议允许你直接控制§Y新大陆§!。\n"
+
+ NYAB_directly_control_new_world_de_title:"£icon_colonial_growth£直接控制新大陆"
+ NYAB_directly_control_new_world_de_desc:"多么富饶的殖民地啊，我们应该直接控制新大陆。"
+ NYAB_directly_control_new_world_de_tt:"§R温馨提示：不要反复点击这个决议，每次生成殖民领都会降低游戏性能，最后可能导致所有国家都无法建立殖民领了。§!\n\n§Y继承§!所有新大陆的殖民领。\n"
+ NYAB_colony_control_new_world_de_title:"£icon_colonial_growth£建立殖民领控制新大陆"
+ NYAB_colony_control_new_world_de_desc:"直接控制新大陆过于损耗我们的行政系统了，或许还是交由当地总督治理更为合适。"
+ NYAB_colony_control_new_world_de_tt:"我们又能够在新大陆建立殖民领了。\n"
+
+
+ mechanic_enables_estate_nobles_yes:"启用§Y贵族§!阶层"
+ mechanic_disables_estate_nobles_yes:"禁用§Y贵族§!阶层"
+ mechanic__yes:""
+ mechanic__yes:""
+
+ NYAB_2jidong_general_tt:"这个将军会有基础§G2§!机动。\n"
+
+ NYAB_remove_steppe_terrain_debuff_modfiier:"开发大草原"
+
+ NYAB_show_non_modifier_reward_title:"展示§T非修正§!类特殊奖励"
+ NYAB_show_non_modifier_reward_desc:"这个决议是用来显示你得到的非修正类奖励（如降低霸权要求等），在效果里显示。（前提是你有。）"
+
+ NYAB_KAZ_lajiepute_tt_tt:"-§R焚掠§!§Y印度§!次大陆的省份时，§G20.0%§!获得§G250§!£icon_manpower£。"
+ NYAB_KAZ_across_henhe_tt_tt:"-§R焚掠§!§Y印度§!次大陆有贸易中心的省份时，§G20.0%§!获得§G250§!£icon_gold£。"
+ NYAB_KAZ_hi_deccan_tt_tt:"-§R焚掠§!§Y印度§!次大陆的省份时，有§G50.0%§!概率获得§G自治领地核心§!。"
+ enable_upgrading_centers_of_trade_dev_tt:"§G升级§!§Y贸易中心§!时会获得§G1§!点基础生产。\n"
+ 
+ NYAB_lvsong_region_ttt:"属于§Y吕宋群岛§!省份组"
+ NYAB_poluozhou_region_ttt:"属于§Y婆罗洲§!省份组"
+ NYAB_java_region_ttt:"属于§Y爪哇§!省份组"
+ NYAB_sumendala_region_ttt:"属于§Y苏门答腊§!省份组"
+ NYAB_malaya_region_ttt:"属于§Y马来亚§!省份组"
+ NYAB_molucca_region_ttt:"属于§Y摩鹿加§!省份组"
+ NYAB_ireland_province_group_ttt:"属于§Y爱尔兰§!省份组"
+
+ patron_of_arts_personality_modifier:"艺术赞助者"
+
+ great_engineer_personality_modifier:"伟大工程师"
+ legendary_conqueror_personality:"传奇征服者"
+
+ 
+

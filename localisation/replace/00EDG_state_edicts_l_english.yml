@@ -1,0 +1,28 @@
+﻿l_english:
+    EDG_state_edicts_1_allow_tooltip:0 "允许采用直属州政策§Y高效动员§!"
+    EDG_state_edicts_2_allow_tooltip:0 "允许采用直属州政策§Y高效生产§!"
+    EDG_state_edicts_3_allow_tooltip:0 "允许采用直属州政策§Y高效税收§!"
+    EDG_state_edicts_4_allow_tooltip:0 "允许采用直属州政策§Y加强徭役§!"
+    EDG_state_edicts_5_allow_tooltip:0 "允许采用直属州政策§Y高效建造§!"
+    EDG_state_edicts_6_allow_tooltip:0 "允许采用直属州政策§Y高效征兵§!"
+    
+    EDG_state_edicts_1_allow_flag:0 "允许采用直属州政策§Y高效动员§!"
+    EDG_state_edicts_2_allow_flag:0 "允许采用直属州政策§Y高效生产§!"
+    EDG_state_edicts_3_allow_flag:0 "允许采用直属州政策§Y高效税收§!"
+    EDG_state_edicts_4_allow_flag:0 "允许采用直属州政策§Y加强徭役§!"
+    EDG_state_edicts_5_allow_flag:0 "允许采用直属州政策§Y高效建造§!"
+    EDG_state_edicts_6_allow_flag:0 "允许采用直属州政策§Y高效征兵§!"
+
+    EDG_state_edicts_1:0 "高效动员"
+    EDG_state_edicts_2:0 "高效生产"
+    EDG_state_edicts_3:0 "高效税收"
+    EDG_state_edicts_4:0 "加强徭役"
+    EDG_state_edicts_5:0 "高效建造"
+    EDG_state_edicts_6:0 "高效征兵"
+    
+    EDG_state_edicts_Apprentice_Act:0 "徒工法令"
+
+
+    EDG_state_edicts_7_allow_tooltip:0 "允许采用直属州政策§Y招募德里骑士§!"
+    EDG_state_edicts_7_allow_flag:0 "允许采用直属州政策§Y招募德里骑士§!"
+    EDG_state_edicts_7:0 "招募德里骑士"

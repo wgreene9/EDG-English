@@ -1,0 +1,227 @@
+﻿l_english:
+
+give_10_province_the_modifier_tooltip:0 "§Y10§!个符合条件的省份将会获得如下修正"
+give_all_province_the_modifier_tooltip:0 "§Y所有§!符合条件的省份将会获得如下修正"
+#贸易key
+EDG_KEY_Trade_expansion:0 "贸易扩大"
+
+EDG_AI_luck:0 "运气"
+EDG_AI_luck_desc:0 "国家崛起的路途上需要一些运气。"
+
+EDG_GREAT_POWER_IN_HLR:0 "帝国境内的列强"
+EDG_GREAT_POWER_IN_HLR_desc:0 "随着外部形势的日益恶化，帝国面临愈来愈多的威胁，法兰西的崛起和三十年战争带来的动荡都逼迫帝国选帝侯让更有实力的诸侯成为皇帝，否则自己将很容易被时代的浪潮吞没。"
+
+great_projects_local_discount_1:0 "规划伟大工程"
+great_projects_local_discount_1_desc:0 "当地有值得建设的伟大工程，在出色的建筑师和完善的规划下，我们能够节省大量成本。"
+great_projects_local_discount_2:0 "规划伟大工程"
+great_projects_local_discount_2_desc:0 "当地有值得建设的伟大工程，在出色的建筑师和完善的规划下，我们能够节省大量成本。"
+great_projects_local_discount_3:0 "规划伟大工程"
+great_projects_local_discount_3_desc:0 "当地有值得建设的伟大工程，在出色的建筑师和完善的规划下，我们能够节省大量成本。"
+
+ 
+EDG_City_Trade_modifier:0 "商贸中心"
+EDG_City_Trade_modifier_desc:0 "该城市是一个在当地举足轻重的商业中心，拥有繁荣的贸易和发达的城市。"
+EDG_City_Trade_2_modifier:0 "商贸公署"
+EDG_City_Trade_2_modifier_desc:0 "当地的商贸公署机构保证了商业行为的有序。"
+
+EDG_City_the_great:0 "伟大城市"
+EDG_City_the_great_desc:0 "这是一个伟大的城市，为它的持有者提供无上的威望和源源不断流入的各方人才。"
+EDG_capita_area_bloom:0 "地区繁荣"
+EDG_capita_area_bloom_desc:0 "该地区在优良的治理下得到了极大的发展潜力，产业和经济呈现出欣欣向荣之态。"
+EDG_capita_area_bloom_2:0 "地区发展"
+EDG_capita_area_bloom_2_desc:0 "该地区继续发展的条件得到了满足。"
+
+EDG_City_Tax_bloom:0 "高效税收"
+EDG_City_Tax_bloom_desc:0 "当地的经济环境因妥当的治理而变得十分优渥，政府可以从此地获得更为高昂的税收，却不引起任何负面效果。"
+EDG_City_Tax_place:0 "税基扩大"
+EDG_City_Tax_place_desc:0 "当地处于经济的繁荣期，当地政府能从中征收到更多的税款。"
+
+
+EDG_City_develop_1_modifier:0 "基础设施完善"
+EDG_City_develop_1_modifier_desc:0 "当地的基础设施得到了充分的发展，有更好的发展前景。"
+EDG_City_develop_2_modifier:0 "近代化城市设计"
+EDG_City_develop_2_modifier_desc:0 "当地在富有才华和远见的设计师的规划下，形成了一个完善的城市体系，拥有宽阔的街道和影响深远的交通枢纽，以及合理的市区规划。"
+EDG_City_develop_3_modifier:0 "先进城市化"
+EDG_City_develop_3_modifier_desc:0 "当地的城市化十分成功。"
+EDG_City_develop_4_modifier:0 "大型市镇"
+EDG_City_develop_5_modifier:0 "繁荣的市区"
+EDG_City_develop_6_modifier:0 "市镇繁荣"
+
+EDG_City_develop_build_and_product_modifier:0 "完善的工业体系"
+EDG_City_develop_build_and_product_modifier_desc:0 "当地有一套发达且完善的工业体系，在工业化的道路上有十足的潜力。"
+EDG_City_develop_farmland:0 "大农场庄园"
+EDG_City_develop_farmland_desc:0 "当地出现了许多的大农场和大庄园，这些农业经济组织保障了当地的就业和人口的增长。"
+EDG_City_develop_attractions:0 "古典之城"
+EDG_City_develop_attractions_desc:0 "当地存在大量名胜，吸引了许多艺术家和哲学家的关注，并引来大量富商和游客。"
+
+EDG_City_develop_shipyard_modifier:0 "造船业中心"
+EDG_City_develop_shipyard_modifier_desc:0 "当地的造船技术较周边地区更为先进，发达的造船业与高效的造船厂是当地的代名词。"
+
+
+
+EDG_City_Trade_1_modifier:0 "贸易重镇"
+EDG_City_Trade_1_modifier_desc:0 "该区域的贸易十分繁荣，形成了一个活跃的贸易中心。"
+EDG_City_production_bloom:0 "高效生产"
+EDG_City_production_bloom_desc:0 "该地区获得了某些有利的条件，因而经济变得更有活力，传统手工业和近代工场都有了更高的效率。"
+EDG_City_trade_goods_size_bloom:0 "生产中心"
+EDG_City_trade_goods_size_bloom_desc:0 "该地是一个手工业和制造业十分发达的地区，这里的产品有格外突出的竞争力。"
+EDG_City_trade_goods_size_bloom_2:0 "发达的市镇生产"
+EDG_City_trade_goods_size_bloom_3:0 "活跃的商品经济"
+
+EDG_City_sailors_bloom:0 "地方海军热潮"
+EDG_City_sailors_bloom_desc:0 "当地人踊跃地参加海军，为我们提供了许多的海员。"
+EDG_City_manpower_bloom:0 "高效征兵"
+EDG_City_manpower_bloom_desc:0 "本地的征兵效率得到了提高，我们可以从此地获得源源不断的兵力补充。"
+
+EDG_City_manpower_bloom_2:0 "当地军事传统"
+EDG_City_manpower_bloom_2_desc:0 "当地人民拥护我们的统治，并愿意为国家和军队贡献出自己的力量，这在当地形成了一种地区传统。"
+
+EDG_City_defensiveness_update:0 "加固城防"
+EDG_City_defensiveness_update_desc:0 "当地的城防系统得到了一定程度的加强，能够有效抵抗敌人的入侵。"
+EDG_City_fort_level_update:0 "前卫要塞设计"
+EDG_City_fort_level_update_desc:0 "当地的要塞设计十分前卫，超越了同时代的其他要塞，拥有更为强大的防御力。"
+
+EDG_City_goods_bloom:0 "市镇生产繁荣"
+EDG_City_goods_bloom_desc:0 "当地的生产进入了繁荣期，市民间的贸易和交换十分活跃，城市内外都被经济热潮影响。"
+
+EDG_Active_commodity_economy_modifier:0 "发达的商品经济"
+
+EDG_City_professoriate_support:0 "教团支持"
+EDG_City_professoriate_support_desc:0 "当地获得了宗教势力的支持和保护，社会运行更加稳定，且更易于利用外来资源。"
+
+EDG_City_professoriate_support_2:0 "加强宗教控制"
+
+EDG_City_holy_city:0 "宗教圣地"
+EDG_City_holy_city_desc:0 "当地是一个宗教圣地，吸引了大量来自外地的资源和人口。"
+
+EDG_AKK_province_modifier_416:0 "复兴大不里士城"
+EDG_AKK_province_modifier_416_desc:0 "大不里士饱受战火摧残，但如今终于再次复兴了。"
+
+EDG_AKK_province_modifier_410:0 "帝都巴格达"
+EDG_AKK_province_modifier_410_desc:0 "巴格达是我们的政治中心，享有崇高的地位，坐拥极其繁荣的经济基础。"
+
+EDG_per_mission_2_14_local_modifier:0 "波斯地区繁荣"
+EDG_per_mission_2_14_local_modifier_desc:0 "在合适的治理下，波斯地区进入了新一轮的繁荣。"
+
+EDG_per_mission_4_11_local_modifier:0 "波斯国家建设"
+EDG_per_mission_4_11_local_modifier_desc:0 "在正确政策的指导下，该地区的发展得到了提升和保障。"
+
+EDG_per_mission_5_12_local_modifier:0 "坎儿井体系"
+EDG_per_mission_5_12_local_modifier_desc:0 "该地区的坎儿井自成体系，保障了当地的经济稳定和发展。"
+
+
+
+EDG_IBR_MSL_Shadhili_invite_modifier:0 "『教团』任用沙兹里教团"
+EDG_IBR_MSL_Qadiri_invite_modifier:0 "『教团』任用卡迪里教团"
+EDG_IBR_MSL_Aissawa_invite_modifier:0 "『教团』任用艾沙瓦教团"
+EDG_IBR_MSL_Shadhili_invite_modifier_desc:0 "沙兹里教团是一个创立于摩洛哥的苏菲派教团，他们关注对智力成果的追求，包括创作文学作品和诗歌。"
+EDG_IBR_MSL_Qadiri_invite_modifier_desc:0 "卡迪里教团创立于伊朗，它是一个苏菲派的教团组织，传播比较广泛，因而在世界各地都有着不同的存在形式和组织。"
+EDG_IBR_MSL_Aissawa_invite_modifier_desc:0 "艾沙瓦教团是一个较为年轻的苏菲派教团，它遗留的诗篇和祷文发展成了伴有音乐和舞蹈的仪式形式。"
+
+EDG_CHINA_DYING_1_1:0 "军政体系僵化"
+EDG_CHINA_DYING_1_2:0 "匠户怠工"
+EDG_CHINA_DYING_1_3:0 "闭关锁国"
+EDG_CHINA_DYING_2_1:0 "腐儒控制文化"
+EDG_CHINA_DYING_2_2:0 "官僚机构膨胀"
+EDG_CHINA_DYING_2_3:0 "吏治腐败"
+EDG_CHINA_DYING_3_1:0 "严重的土地兼并"
+EDG_CHINA_DYING_1_1_desc:0 "地方僵化的军政制度已经丧失了活力，军队的操练松弛，军队中贪污和吃空饷的行为开始如病毒般蔓延开来。"
+EDG_CHINA_DYING_1_2_desc:0 "在匠籍制度下，轮班匠的劳动是无偿的，要受工官把头的管制盘剥，因而工匠常以怠工、隐冒、逃亡等方式进行反抗，而他们又承担了我们所需的大量技术性工作，这导致了我们国家建设的迟滞和低效。"
+EDG_CHINA_DYING_1_3_desc:0 ""
+EDG_CHINA_DYING_2_1_desc:0 ""
+EDG_CHINA_DYING_2_2_desc:0 ""
+EDG_CHINA_DYING_2_3_desc:0 ""
+EDG_CHINA_DYING_3_1_desc:0 ""
+
+
+adu_trigger_modifier_1:0 "圣地科尔多瓦"
+adu_trigger_modifier_1_desc:0 "在安达卢西亚帝国强大的宗教政治影响力下，该地成为了伊斯兰教的圣地之一。"
+
+EDG_India_religion_conflict_modifier:0 "印度宗教冲突"
+EDG_India_religion_conflict_modifier_desc:0 "整个印度的社会结构是以印度教为基础的，尤其是在广大乡村，没有印度教就无法维持统治，没有印度教就无法收税。对于广大印度农民来说，印度教是他们祖祖辈辈的宗教，虽然它有种姓制度等许多压迫人民的主张，但这些主张也已经渗透到印度人的骨髓里去了，是印度民族文化不可或缺的一部分；让印度人皈依伊斯兰教难度不小。这造成了众苏丹国内的巨大社会撕裂，这一撕裂在德里苏丹国衰落之前一直被穆斯林强大的军事实力所掩盖，但如今彻底暴露出来。"
+
+
+EDG_modifier_ADU_religion_proposition_1:0 "教条主义倾向"
+EDG_modifier_ADU_religion_proposition_2:0 "神秘主义倾向"
+EDG_modifier_ADU_religion_proposition_1_desc:0 "对信仰的解读是十分重要的，而我们已经做出了自己的选择。"
+EDG_modifier_ADU_religion_proposition_2_desc:0 "对信仰的解读是十分重要的，而我们已经做出了自己的选择。"
+
+EDG_EDG_Mozarabic_mission_tolerance_local_modifier:0 "穆扎赖卜派议会"
+EDG_EDG_Mozarabic_mission_tolerance_local_modifier_desc:0 "我们通过议会制度保障穆扎赖卜信徒权利，并推动了当地的经济发展。"
+
+
+EDG_Religious_piety_egy_shiite_modifier:0 "国教的支持者"
+EDG_Religious_piety_egy_shiite_modifier_desc:0 "当地存在大量的宗教少数派，其中有很大一部分的非主流信徒是我们国教的支持者，我们应当唤醒他们的宗教意识，并让埃及地区重归真理的怀抱。"
+
+
+#商品
+EDG_City_goods_product_glass_1:0 "精湛的玻璃生产工艺"
+EDG_City_goods_product_livestock_1:0 "畜牧业中心"
+EDG_City_goods_product_grain_1:0 "谷物生产中心"
+EDG_City_goods_product_grain_2:0 "发达的农耕业"
+EDG_City_goods_product_grain_3:0 "农业原料产地"
+
+EDG_City_goods_product_glass_1_desc:0 "当地有一整套完整的特定商品产业体系，且制作工艺十分精良，国内外的商人都对当地的产品趋之若鹜。"
+EDG_City_goods_product_livestock_1_desc:0 "当地的农业十分发达，供养了大量的廉价劳动力和人力资源。"
+EDG_City_goods_product_grain_1_desc:0 "当地的农业十分发达，供养了大量的廉价劳动力和人力资源。"
+
+
+EDG_Boutique_wine_goods_modifier:0 "精品葡萄酒"
+EDG_Large_wine_estates_goods_modifier:0 "大型葡萄酒庄园"
+EDG_Wine_industry_system_goods_modifier:0 "葡萄酒产业体系"
+EDG_Origin_of_high_quality_textiles_goods_modifier:0 "优质纺织品产地"
+EDG_Large_textile_workshop_goods_modifier:0 "大型纺织作坊"
+EDG_textile_industry_system_goods_modifier:0 "纺织业产业体系"
+EDG_iron_ore_industry_goods_modifier:0 "发达的铁矿产业"
+EDG_iron_industry_goods_modifier:0 "完善的冶铁工业"
+EDG_copper_ore_industry_goods_modifier:0 "发达的铜矿产业"
+EDG_gear_industry_goods_modifier:0 "成熟的船具制造技术"
+EDG_shipyard_modifier:0 "大造船厂"
+
+
+#阿尔勒
+EDG_AEL_mission_2_1_defense_system_modifier:0 "里昂-纳博讷防御体系"
+EDG_catharism_decision_Aix_modifier:0 "认同艾克斯公议会"
+
+#罗斯
+EDG_Moscow_River_modifier:0 "莫斯科河"
+EDG_Moscow_River_modifier_desc:0 "莫斯科河全长502公里，流经整个莫斯科约80公里，河宽一般200米，最宽1公里，沿途景色秀丽。美丽且富饶的莫斯科河为莫斯科地区带来了更多的活力和生机。"
+
+EDG_SMO_develop_farmland:0 "先进的农业生产关系"
+EDG_SMO_develop_farmland_desc:0 "该地区的农业采取先进的生产模式，农民的生产效率和劳动热情得到了空前的提高。"
+
+#英国:0 ""
+EDG_Thames_basin:0 "泰晤士河流域"
+EDG_Thames_basin_desc:0 "在伦敦上游，泰晤士河沿岸有许多名胜之地，诸如伊顿、牛津、亨利和温莎等。泰晤士河的入海口充满了英国的繁忙商船，然而其上游的河道则以其静态之美而著称于世。在英国历史上泰晤士河流域占有举足轻重的地位。"
+
+EDG_293_river_basin:0 "夏普奈斯运河与塞韦恩河河口"
+EDG_293_river_basin_desc:0 "控制住重要的夏普奈斯运河与塞韦恩河河口加强了我们在这一地区的贸易掌控力。"
+
+EDG_SCO_mission_1_2_province_modifier:0 "顺从的高地苏格兰人"
+EDG_flavorSCO_mission_3_a_modifier:0 "保留伯爵委员会特权"
+EDG_flavorSCO_mission_3_b_modifier:0 "王室直辖领地"
+EDG_SCO_mission_5_5_modifier:0 "凯尔特繁荣"
+EDG_SCO_mission_5_8_modifier_province:0 "大苏格兰主义浪潮"
+EDG_SCO_mission_5_9_modifier_province:0 "大凯尔特主义浪潮"
+EDG_SCO_mission_2_8_province_modifier:0 "经济恢复"
+EDG_SCO_mission_4_7_province_modifier:0 "威刑既肃"
+EDG_City_university:0 "名流大学"
+EDG_BTA_mission_1_36_province_modifier:0 "爱尔兰垦殖"
+EDG_British_bloom_province_modifier:0 "不列颠经济繁荣"
+EDG_colonial_region_goods_bloom_modifier:0 "殖民地生产繁荣"
+EDG_BTA_mission_3_22_province_modifier:0 "控制锡克人"
+
+
+MAM_mission_3_6_modifier:0 "努比亚马穆鲁克"
+MAM_mission_4_6_modifier:0 "在智慧宫中培植亲信"
+MAM_mission_2_6_modifier:0 "马利克威信的提高"
+MAM_mission_3_20_modifier:0 "扩大马穆鲁克货源"
+MAM_mission_3_21_modifier:0 "扩大马穆鲁克训练规模"
+
+EDG_flavorFrench_2_a_modifier:0 "完善的税务官制度"
+EDG_flavorFrench_4_b_modifier:0 "被武功歌赞颂的统治者"
+EDG_flavorFrench_5_b_modifier:0 "骑士精神热潮"
+
+
+
+

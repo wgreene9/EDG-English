@@ -1,0 +1,239 @@
+change_estate_land_share = {
+  estate = estate_church
+  share = -10
+}
+change_estate_land_share = {
+  estate = estate_burghers
+  share = 10
+}
+1399.1.1 = {
+  monarch = {
+    name = "çº³éå¿ æ³èµå"  # al-Nasr Faraj
+    dynasty = "å¸å°å"  # Burji
+    culture = circassian
+    adm = 2
+    dip = 2
+    mil = 3
+  }
+  add_piety = 0.5
+}
+1412.1.1 = {
+  monarch = {
+    name = "è°¢èµ« é©¬åèè¿ª"  # Shaikh al-Mahmudi
+    dynasty = "å¸å°å"  # Burji
+    culture = circassian
+    adm = 2
+    dip = 3
+    mil = 1
+  }
+}
+1421.1.1 = {
+  monarch = {
+    name = "ç©ç½é»å¾· IV"  # Muhammad IV
+    culture = circassian
+    dynasty = "å¸å°å"  # Burji
+    adm = 1
+    dip = 1
+    mil = 3
+  }
+}
+1422.1.1 = {
+  monarch = {
+    name = "å·´å°æ¯æ"  # Barsbai
+    dynasty = "å¸å°å"  # Burji
+    culture = circassian
+    adm = 2
+    dip = 3
+    mil = 1
+  }
+}
+1438.6.8 = {
+  monarch = {
+    name = "è´¾ç§é©¬å"  # Jaqmaq
+    birth_date = 1372.1.1
+    dynasty = "å¸å°å"  # Burji
+    culture = circassian
+    adm = 2
+    dip = 2
+    mil = 3
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = silver_tongue_personality
+  add_ruler_personality = obsessive_perfectionist_personality
+}
+1453.2.13 = {
+  monarch = {
+    name = "ä¼çº³å"  # InÃ¢l
+    dynasty = "å¸å°å"  # Burji
+    adm = 2
+    dip = 2
+    mil = 2
+  }
+}
+1461.2.25 = {
+  monarch = {
+    name = "è¡ä»çå¾·å§"  # KhÃ»shqadam
+    dynasty = "å¸å°å"  # Burji
+    adm = 1
+    dip = 1
+    mil = 2
+  }
+}
+1461.2.25 = {
+  heir = {
+    name = "å¡ç¹å·´ä¼"  # QÃ¢'itbay
+    monarch_name = "å¡ç¹å·´ä¼"  # QÃ¢'itbay
+    dynasty = "å¸å°å"  # Burji
+    birth_date = 1418.1.1
+    death_date = 1496.7.8
+    claim = 95
+    adm = 1
+    dip = 3
+    mil = 1
+  }
+}
+1467.10.10 = {
+  monarch = {
+    name = "å¡ç¹å·´ä¼"  # QÃ¢'itbay
+    dynasty = "å¸å°å"  # Burji
+    adm = 1
+    dip = 3
+    mil = 1
+  }
+}
+1496.7.8 = {
+  monarch = {
+    name = "ç©ç½é»å¾· II"  # Muhammad II
+    dynasty = "å¸å°å"  # Burji
+    adm = 2
+    dip = 0
+    mil = 1
+  }
+}
+1498.10.30 = {
+  monarch = {
+    name = "åè I"  # QÃ¢nsÃ»h I
+    dynasty = "å¸å°å"  # Burji
+    adm = 1
+    dip = 2
+    mil = 2
+  }
+}
+1500.6.29 = {
+  monarch = {
+    name = "è©¹å·´æç¹"  # JÃ¢nbalat
+    dynasty = "å¸å°å"  # Burji
+    adm = 0
+    dip = 1
+    mil = 1
+  }
+}
+1501.6.26 = {
+  monarch = {
+    name = "åè II"  # QÃ¢nsÃ»h II
+    dynasty = "å¸å°å"  # Burji
+    adm = 1
+    dip = 1
+    mil = 3
+    leader = {
+      name = "åèå°"  # Al Kansur
+      type = general
+      fire = 1
+      shock = 4
+      manuever = 5
+      siege = 0
+    }
+  }
+}
+1516.8.25 = {
+  monarch = {
+    name = "åæ¼ è´ä¼ II"  # TÃ»mÃ¢n Bay II
+    dynasty = "å¸å°å"  # Burji
+    adm = 0
+    dip = 0
+    mil = 2
+    leader = {
+      name = "åæ¼ è´ä¼ II"  # TÃ»mÃ¢n Bay II
+      type = general
+      fire = 3
+      shock = 3
+      manuever = 3
+      siege = 1
+    }
+  }
+}
+1768.1.1 = {
+  monarch = {
+    name = "é¿é å¡æ¯å°"  # AlÃ® l-KabÃ®r
+    dynasty = "è´æ ¼"  # Beg
+    adm = 3
+    dip = 3
+    mil = 2
+  }
+}
+1773.5.2 = {
+  monarch = {
+    name = "ç©ç½é»å¾·"  # Mehmed
+    dynasty = "è´æ ¼"  # Beg
+    adm = 4
+    dip = 1
+    mil = 1
+  }
+}
+1775.6.11 = {
+  monarch = {
+    name = "ç©æå¾·"  # Murad
+    dynasty = "è´æ ¼"  # Beg
+    adm = 2
+    dip = 3
+    mil = 3
+  }
+}
+1792.1.1 = {
+  leader = {
+    name = "æåææ¬£ è´ä¼"  # Ibrahim Bey
+    type = general
+    fire = 2
+    shock = 2
+    manuever = 4
+    siege = 0
+    death_date = 1804.3.14
+  }
+}
+1792.1.1 = {
+  leader = {
+    name = "ç©æå¾· è´ä¼"  # Murad Bey
+    type = general
+    fire = 1
+    shock = 3
+    manuever = 4
+    siege = 0
+    death_date = 1801.4.22
+  }
+}
+1801.4.23 = {
+  monarch = {
+    name = "å¥¥æ¯æ¼"  # Osman
+    dynasty = "å·´å°è¿ªè¥¿"  # Bardisi
+    adm = 0
+    dip = 1
+    mil = 0
+  }
+}
+1804.3.14 = {
+  monarch = {
+    name = "ç©ç½é»å¾· é¿é"  # Muhammad 'AlÃ®
+    dynasty = "ç©ç½é»å¾·"  # Muhammad
+    adm = 6
+    dip = 4
+    mil = 6
+    leader = {
+      name = "ç©ç½é»å¾· é¿é"  # Mehmet Ali
+      type = general
+      fire = 1
+      shock = 4
+      manuever = 5
+      siege = 0
+    }
+  }
+}

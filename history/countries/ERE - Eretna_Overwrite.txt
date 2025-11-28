@@ -1,0 +1,28 @@
+1444.1.1 = {
+  monarch = {
+    name = "赛利姆 II"
+    dynasty = "奥斯曼奥卢"
+    birth_date = 1415.7.8
+    adm = 5
+    dip = 2
+    mil = 3
+    leader = {
+      name = "赛利姆 II"
+      type = general
+      fire = 3
+      shock = 4
+      manuever = 5
+      siege = 1
+    }
+  }
+}
+1444.1.1 = {
+  leader = {
+    name = "Yûsuf 卡拉曼奥卢"
+    type = general
+    fire = 5
+    shock = 3
+    manuever = 1
+    siege = 2
+  }
+}

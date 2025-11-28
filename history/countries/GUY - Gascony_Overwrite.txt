@@ -1,0 +1,57 @@
+1444.1.6 = {
+  monarch = {
+    name = "腓力 V"
+    dynasty = "德 阿基坦"  # Lancaster
+    birth_date = 1411.12.6
+    adm = 6
+    dip = 3
+    mil = 2
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = infertile_personality
+  set_ruler_flag = henry_vi_lancaster
+}
+1444.1.11 = {
+  leader = {
+    name = "卡尔 冯 哈布斯堡"  # John Talbot
+    type = general
+    fire = 2
+    shock = 3
+    manuever = 3
+    siege = 2
+    death_date = 1453.7.17
+  }
+}
+1444.4.23 = {
+  queen = {
+    country_of_origin = PRO
+    name = "埃莉诺"  # Margaret
+    dynasty = "卡佩"  # d'Anjou
+    birth_date = 1420.3.23
+    death_date = 1471.4.11
+    female = yes
+    adm = 1
+    dip = 2
+    mil = 3
+  }
+}
+1444.11.6 = {
+  heir = {
+    name = "路易斯"
+    dynasty = "德 阿基坦"  # Lancaster
+    birth_date = 1444.11.6
+    death_date = 1471.4.11
+    adm = 4
+    dip = 3
+    mil = 6
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = infertile_personality
+  set_ruler_flag = henry_vi_lancaster
+}
+1515.1.1 = { government = monarchy
+add_government_reform = autocracy_reform }
+1560.1.1 = { religion = reformed }
+1589.8.3 = { set_legacy_government = administrative_monarchy }
+1661.3.9 = { government = monarchy
+add_government_reform = autocracy_reform }

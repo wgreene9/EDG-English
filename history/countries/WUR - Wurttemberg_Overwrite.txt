@@ -1,0 +1,79 @@
+  1395.8.29 = {
+    set_country_flag = EDG_HAB_flag
+	set_variable = {
+		which = EDG_HAB_Catholic_power
+		value = 0
+	}
+	monarch = {
+		name = "阿尔布雷希特 IV"  # Albrecht IV
+		dynasty = "冯 哈布斯堡"  # von Habsburg
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+  }
+  1397.8.10 = {
+	heir = {
+	  name = "阿尔布雷希特"  # Albrecht
+	  monarch_name = "阿尔布雷希特 V"  # Albrecht V
+	  dynasty = "冯 哈布斯堡"  # von Habsburg
+	  birth_date = 1397.8.10
+	  death_date = 1439.10.27
+	  claim = 95
+	  adm = 1
+	  dip = 1
+	  mil = 3
+	}
+  }
+  1404.9.14 = {
+	monarch = {
+	  name = "阿尔布雷希特 V"  # Albrecht V
+	  dynasty = "冯 哈布斯堡"  # von Habsburg
+	  birth_date = 1397.8.10
+	  adm = 1
+	  dip = 1
+	  mil = 3
+	}
+  }
+  1439.10.27 = {
+	monarch = {
+	  name = "腓特烈 III"  # Friedrich III
+	  dynasty = "冯 哈布斯堡"  # von Habsburg
+	  birth_date = 1415.9.21
+	  adm = 3
+	  dip = 5
+	  mil = 3
+	}
+	clear_scripted_personalities = yes
+	add_ruler_personality = silver_tongue_personality
+	add_ruler_personality = charismatic_negotiator_personality
+    add_ruler_modifier = {
+      name = "EDG_HAV_HRE_devote_modifier"
+      duration = -1
+    }
+	queen = {
+	  country_of_origin = H02
+	  name = "玛丽"  # Marie
+	  dynasty = "冯 巴本堡"  # d'Anjou
+	  birth_date = 1424.10.14
+	  death_date = 1453.11.29
+	  female = yes
+	  adm = 4
+	  dip = 2
+	  mil = 3
+	}
+  }
+  1444.11.1 = {
+	heir = {
+	  name = "拉迪斯劳斯 「遗腹子」"  # Ladislaus Postumus
+	  monarch_name = "拉迪斯劳斯 「遗腹子」"  # Ladislaus Postumus
+	  dynasty = "冯 哈布斯堡"  # von Habsburg
+	  birth_date = 1444.11.1
+	  death_date = 1457.11.24
+	  claim = 90
+	  adm = 3
+	  dip = 3
+	  mil = 2
+	}
+	set_country_flag = hab_ladislaus_postumus_heir
+  }

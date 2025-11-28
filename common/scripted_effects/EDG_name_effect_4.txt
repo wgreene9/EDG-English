@@ -1,0 +1,147 @@
+
+EDG_FYM_civil_war_9_a_effect = {
+	define_heir = {
+		name = "扎伊德"
+		monarch_name = "扎伊德 I 「拉迪-克拉法」"
+		dynasty = "萨哈达"
+		claim = 95
+		adm = 4
+		dip = 5
+		mil = 5
+		age = 22
+		
+	}
+	set_heir_flag = EDG_FYM_ruler_2_flag_heir
+	add_heir_personality = EDG_personality_zhayide
+	define_heir_to_general = {
+		type = general
+		fire = 4
+		shock = 4
+		manuever = 4
+		siege = 2
+		death_date = 1500.11.24
+		trait = edg_fym_sahada_great_conquer_personality
+	}
+}
+EDG_FYM_civil_war_30_a_effect = {
+	define_ruler = {
+		name = "扎伊德 I 「拉迪-克拉法」"
+		dynasty = "萨哈达"
+		claim = 95
+		adm = 4
+		dip = 5
+		mil = 5
+		age = 22
+		
+	}
+	add_ruler_personality = EDG_personality_zhayide
+	define_ruler_to_general = {
+		type = general
+		fire = 4
+		shock = 4
+		manuever = 4
+		siege = 2
+		death_date = 1500.11.24
+		trait = edg_fym_sahada_great_conquer_personality
+	}
+}
+EDG_FYM_Caliph_war_18_a_name_effect = {
+	define_ruler = {
+		name = "伊德里斯 海伊斯 I 「苏丹努斯-塞拉丁」"
+		dynasty = "萨哈达"
+		claim = 95
+		adm = 5
+		dip = 3
+		mil = 5
+		age = 21
+	}
+	add_ruler_personality = EDG_personality_yidelisi
+	define_ruler_to_general = {
+		type = general
+		fire = 5
+		shock = 4
+		manuever = 2
+		siege = 3
+		death_date = 1500.11.24
+		trait = edg_fym_sahada_great_conquer_personality
+	}
+	add_ruler_modifier = {
+		name = EDG_FYM_yidelisi_ruler_modifier
+		duration = 9125
+	}
+}
+EDG_FYM_Caliph_war_20_a_name_effect = {
+	define_heir = {
+		name = "伊德里斯 海伊斯"
+		monarch_name = "伊德里斯 海伊斯 I 「苏丹努斯-塞拉丁」"
+		dynasty = "萨哈达"
+		claim = 95
+		adm = 5
+		dip = 3
+		mil = 5
+		age = 21
+	}
+	add_heir_personality = EDG_personality_yidelisi
+	define_heir_to_general = {
+		type = general
+		fire = 5
+		shock = 4
+		manuever = 2
+		siege = 3
+		death_date = 1500.11.24
+		trait = edg_fym_sahada_great_conquer_personality
+	}
+	
+}
+EDG_mission_FYM_363_captial_decision_name_effect = {
+	change_province_name = "杜姆亚特-穆卡拉玛"
+	rename_capital = "杜姆亚特-穆卡拉玛"
+}
+EDG_flavor_FYM_211_c_name_effect = {
+    define_advisor = { 
+      name = "「猎手」 奥斯曼"
+      type = procurator
+      cost_multiplier = 0.25
+      skill = 3 
+    }
+}
+EDG_FYM_Caliph_war_10_a_name_effect = {
+	define_general = {
+	  name = "阿卜杜勒-瓦哈卜 「矮子」"
+	  shock = 3
+	  fire = 4
+	  manuever = 2
+	  siege = 3
+	}
+}
+EDG_FYM_Caliph_war_11_a_name_effect = {
+	define_general = {
+	  name = "尼扎尔 库屈克"
+	  shock = 4
+	  fire = 2
+	  manuever = 4
+	  siege = 2
+	}
+}
+EDG_FYM_vassal_war_6_a_effect = {
+	define_heir = {
+		name = "法赫达"
+		monarch_name = "法赫达 I 「沙阿-阿伊吉汗」"
+		dynasty = "萨哈达"
+		claim = 95
+		adm = 5
+		dip = 6
+		mil = 5
+		age = 30
+	}
+	add_heir_personality = EDG_personality_faheda
+	define_heir_to_general = {
+		type = general
+		fire = 5
+		shock = 6
+		manuever = 4
+		siege = 4
+		death_date = 1600.11.24
+		trait = edg_fym_sahada_great_conquer_personality
+	}
+}

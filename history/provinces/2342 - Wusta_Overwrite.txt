@@ -1,0 +1,1 @@
+capital = "Hasik" #Curia Muria Islands

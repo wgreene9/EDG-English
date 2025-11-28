@@ -1,0 +1,273 @@
+1562.1.1 = {
+  monarch = {
+    name = "雅甘纳斯"  # Jagganath
+    dynasty = "剌犀利"  # Raksel
+    ADM = 1
+    DIP = 2
+    MIL = 3
+  }
+}
+1562.1.1 = {
+  heir = {
+    name = "Garagnath"
+    monarch_name = "Garagnath"
+    dynasty = "剌犀利"  # Raksel
+    birth_date = 1555.1.1
+    death_Date = 1591.1.1
+    claim = 95
+    ADM = 1
+    DIP = 3
+    MIL = 2
+  }
+}
+1574.1.1 = {
+  monarch = {
+    name = "Garagnath"
+    dynasty = "剌犀利"  # Raksel
+    ADM = 1
+    DIP = 3
+    MIL = 2
+  }
+}
+1574.1.1 = {
+  heir = {
+    name = "Rupnath"
+    monarch_name = "Rupnath"
+    dynasty = "剌犀利"  # Raksel
+    birth_date = 1570.1.1
+    death_Date = 1602.1.1
+    claim = 95
+    ADM = 1
+    DIP = 2
+    MIL = 0
+  }
+}
+1591.1.1 = {
+  monarch = {
+    name = "罗钵那"  # Rupnath
+    dynasty = "剌犀利"  # Raksel
+    ADM = 1
+    DIP = 2
+    MIL = 0
+  }
+}
+1591.1.1 = {
+  heir = {
+    name = "Gannath"
+    monarch_name = "Gannath"
+    dynasty = "剌犀利"  # Raksel
+    birth_date = 1581.1.1
+    death_Date = 1621.1.1
+    claim = 95
+    ADM = 3
+    DIP = 2
+    MIL = 0
+  }
+}
+1602.1.1 = {
+  monarch = {
+    name = "Gannath"
+    dynasty = "剌犀利"  # Raksel
+    ADM = 3
+    DIP = 2
+    MIL = 0
+  }
+}
+1602.1.1 = {
+  heir = {
+    name = "Srabpal"
+    monarch_name = "Srabpal"
+    dynasty = "剌犀利"  # Raksel
+    birth_date = 1602.1.1
+    death_Date = 1633.1.1
+    claim = 95
+    ADM = 2
+    DIP = 1
+    MIL = 1
+  }
+}
+1621.1.1 = {
+  monarch = {
+    name = "Srabpal"
+    dynasty = "剌犀利"  # Raksel
+    ADM = 2
+    DIP = 1
+    MIL = 1
+  }
+}
+1621.1.1 = {
+  heir = {
+    name = "那连陀罗"  # Narendra
+    monarch_name = "那连陀罗"  # Narendra
+    dynasty = "剌犀利"  # Raksel
+    birth_date = 1621.1.1
+    death_Date = 1678.1.1
+    claim = 95
+    ADM = 3
+    DIP = 0
+    MIL = 1
+  }
+}
+1633.1.1 = {
+  monarch = {
+    name = "那连陀罗"  # Narendra
+    dynasty = "剌犀利"  # Raksel
+    ADM = 3
+    DIP = 0
+    MIL = 1
+  }
+}
+1633.1.1 = {
+  heir = {
+    name = "Baiha Dadu"
+    monarch_name = "Baiha Dadu"
+    dynasty = "剌犀利"  # Raksel
+    birth_date = 1633.1.1
+    death_Date = 1709.1.1
+    claim = 95
+    ADM = 3
+    DIP = 2
+    MIL = 3
+  }
+}
+1678.1.1 = {
+  monarch = {
+    name = "拜哈 达都"  # Baiha Dadu
+    dynasty = "剌犀利"  # Raksel
+    ADM = 3
+    DIP = 2
+    MIL = 3
+  }
+}
+1678.1.1 = {
+  heir = {
+    name = "波罗波陀罗"  # Balbhadra
+    monarch_name = "波罗波陀罗"  # Balbhadra
+    dynasty = "剌犀利"  # Raksel
+    birth_date = 1678.1.1
+    death_Date = 1728.1.1
+    claim = 95
+    ADM = 0
+    DIP = 2
+    MIL = 2
+  }
+}
+1709.1.1 = {
+  monarch = {
+    name = "波罗波陀罗"  # Balbhadra
+    dynasty = "剌犀利"  # Raksel
+    ADM = 0
+    DIP = 2
+    MIL = 2
+  }
+}
+1709.1.1 = {
+  heir = {
+    name = "Jaswant"
+    monarch_name = "Jaswant"
+    dynasty = "剌犀利"  # Raksel
+    birth_date = 1709.1.1
+    death_Date = 1749.1.1
+    claim = 95
+    ADM = 0
+    DIP = 0
+    MIL = 2
+  }
+}
+1728.1.1 = {
+  monarch = {
+    name = "加西万星"  # Jaswant
+    dynasty = "剌犀利"  # Raksel
+    ADM = 0
+    DIP = 0
+    MIL = 2
+  }
+}
+1728.1.1 = {
+  heir = {
+    name = "巴哈杜尔"  # Bahadur
+    monarch_name = "巴哈杜尔"  # Bahadur
+    dynasty = "剌犀利"  # Raksel
+    birth_date = 1728.1.1
+    death_Date = 1758.1.1
+    claim = 95
+    ADM = 1
+    DIP = 3
+    MIL = 3
+  }
+}
+1749.1.1 = {
+  monarch = {
+    name = "巴哈杜尔"  # Bahadur
+    dynasty = "剌犀利"  # Raksel
+    ADM = 1
+    DIP = 3
+    MIL = 3
+  }
+}
+1749.1.1 = {
+  heir = {
+    name = "Sheo"
+    monarch_name = "Sheo"
+    dynasty = "剌犀利"  # Raksel
+    birth_date = 1739.1.1
+    death_Date = 1792.1.1
+    claim = 95
+    ADM = 3
+    DIP = 1
+    MIL = 2
+  }
+}
+1758.1.1 = {
+  monarch = {
+    name = "室乌"  # Sheo
+    dynasty = "剌犀利"  # Raksel
+    ADM = 3
+    DIP = 1
+    MIL = 2
+  }
+}
+1758.1.1 = {
+  heir = {
+    name = "Ajit"
+    monarch_name = "Ajit"
+    dynasty = "剌犀利"  # Raksel
+    birth_date = 1758.1.1
+    death_Date = 1799.1.1
+    claim = 95
+    ADM = 1
+    DIP = 0
+    MIL = 0
+  }
+}
+1792.1.1 = {
+  monarch = {
+    name = "阿恃多"  # Ajit
+    dynasty = "剌犀利"  # Raksel
+    ADM = 1
+    DIP = 0
+    MIL = 0
+  }
+}
+1792.1.1 = {
+  heir = {
+    name = "波罗波陀罗"  # Balbhadra
+    monarch_name = "波罗波陀罗 II"  # Balbhadra II
+    dynasty = "剌犀利"  # Raksel
+    birth_date = 1792.1.1
+    death_Date = 1816.1.1
+    claim = 95
+    ADM = 3
+    DIP = 3
+    MIL = 0
+  }
+}
+1799.1.1 = {
+  monarch = {
+    name = "婆罗跋陀罗 II"  # Balbhadra II
+    dynasty = "剌犀利"  # Raksel
+    ADM = 3
+    DIP = 3
+    MIL = 0
+  }
+}

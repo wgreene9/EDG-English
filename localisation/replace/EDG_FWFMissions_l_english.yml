@@ -1,0 +1,132 @@
+﻿l_english:
+ EDG_FWF_mission_1_23_title:0 "西部战线"
+ EDG_FWF_mission_1_23_desc:0 ""
+ EDG_FWF_mission_1_23.effect_1.tt:0 "立刻在§Y[209.GetName]§!组建一支§O庞大§!的§Y主力舰队§!"
+ EDG_FWF_mission_1_23.effect_2.tt:0 "下述§Y修正§!持续期间，每当我们§T占领§!§Y不属于我们§!的§Y西欧§!次大陆省份时将会§G获得§!该省份的§T核心§!"
+
+ EDG_FWF_mission_1_27_title:0 "烈焰之赎"
+ EDG_FWF_mission_1_27_desc:0 ""
+ EDG_FWF_mission_1_27.effect.tt:0 "将§Y我们治下§!所有省份的全部§T基础税收§!转为§T基础生产§!，至少保留§Y1§!点§T基础税收§!\n\n从现在开始，被我们所解放的省份§T基础税收§!将§Y全部§!转为§T基础生产§!，至少保留§Y1§!点§T基础税收§!"
+
+ EDG_FWF_mission_1_30_title:0 "色欲"
+ EDG_FWF_mission_1_30_desc:0 "淫欲，即便不是七大罪之首，全世界也深受其害，人以最叛经离道的方式溺于性色彩极为浓重的活动之中。我们必须保持人民思想的纯洁性，打击封建主义与帝国的罪恶，但他们找到了其他渗透的方法。"
+
+ EDG_FWF_mission_1_31_title:0 "平权法案"
+ EDG_FWF_mission_1_31_desc:0 ""
+ EDG_FWF_mission_1_31.effect.tt:0 "解锁§T法令§!「平权法案」\n\n将至多§Y100§!个§Y满足任务条件§!的省份§Y教堂§!转为§T大学§!\n\n当我们在拥有法令§Y平权法案§!的省份建造§Y教堂§!时，如果该省份不存在§T大学§!建筑，那么将该§Y教堂§!替换为§T大学§!，§Y大教堂不受影响§!\n\n当我们§R撤销§!法令§Y平权法案§!的同时，也将摧毁当地的大学建筑"
+
+ EDG_FWF_mission_1_33_title:0 "治安法案"
+ EDG_FWF_mission_1_33_desc:0 ""
+ EDG_FWF_mission_1_33.effect.tt:0 "解锁§T法令§!「治安法案」\n\n实施法令§Y治安法案§!将§G增加§!该省份§Y1§!点§T基础人力§!\n\n当我们§R撤销§!法令§Y健康法案§!的同时，省份将会§R失去§!§Y1§!点§T基础人力§!"
+
+ EDG_FWF_mission_1_35_title:0 "衣"
+ EDG_FWF_mission_1_35_desc:0 ""
+
+ EDG_FWF_mission_2_24_title:0 "怒海横涛"
+ EDG_FWF_mission_2_24_desc:0 ""
+ EDG_FWF_mission_2_24.effect.tt:0 "我们治下§Y所有§!位于§Y西欧§!次大陆的省份§T分离主义§!归§G0§!\n\n将我们治下§Y所有§!位于§Y西欧§!次大陆的省份所有§T基础税收§!转为§T基础生产§!，至少保留§Y1§!点§T基础税收§!"
+
+ EDG_FWF_mission_2_26_title:0 "燥热之火"
+ EDG_FWF_mission_2_26_desc:0 ""
+ EDG_FWF_mission_2_26.effect.tt:0 "将§Y我们治下§!所有§T产物§!为§Y奴隶§!的省份产物进行§Y随机替换§!\n\n从现在开始，§Y随机替换§!所有被我们§Y解放§!的§T产物§!为§Y奴隶§!的省份的§T产物§!"
+
+ EDG_FWF_mission_2_30_title:0 "暴食"
+ EDG_FWF_mission_2_30_desc:0 "暴食，可以说是帝国主义的标签。不只是欧陆帝国会贪婪掠夺世界各处的资源，皇公贵族也在从真正有需求的人手中抢走财富与食物。他们就是以他人的苦痛为代价，塞满腰包、满足自己胃口。我们不能坐视如此坏疽侵蚀人民的灵魂，各类物品将按需分配，不多也不少，如果每个人都各取所需，暴食陋习也将不复存在。"
+
+ EDG_FWF_mission_2_31_title:0 "健康法案"
+ EDG_FWF_mission_2_31_desc:0 ""
+ EDG_FWF_mission_2_31.effect.tt:0 "解锁§T法令§!「健康法案」\n\n在产物为§T谷物§!的省份实施法令§Y健康法案§!，将会增加该省份§Y2§!点§T基础生产§!\n\n当我们§R撤销§!法令§Y健康法案§!的同时，也将减少对应省份§Y2§!点§T基础生产§!"
+
+ EDG_FWF_mission_2_32_title:0 "愤怒"
+ EDG_FWF_mission_2_32_desc:0 "虽然非常不想承认，但愤怒或许是七宗罪中最有用的一个。它是一种极为强大的情感，发泄过后留下满地残垣断壁。有时候，人们在经历了莫大的苦难之后还会继续投向愤怒，目的不过是填补内心的空虚，甚至可能只是想要有个目的。偶尔发火没什么问题，完全可以理解，但不能放任怒火摧毁一切。我们不会像对待其他坏疽一样摧毁愤怒，而是滤除杂念，控制其为己所用。和平时期，克己持重；战争时期，开闸泄愤。"
+
+ EDG_FWF_mission_2_34_title:0 "必要条件"
+ EDG_FWF_mission_2_34_desc:0 ""
+
+ EDG_FWF_mission_2_35_title:0 "食"
+ EDG_FWF_mission_2_35_desc:0 ""
+
+ EDG_FWF_mission_3_24_title:0 "烈火烹油"
+ EDG_FWF_mission_3_24_desc:0 ""
+
+ EDG_FWF_mission_3_25_title:0 "举旗定向"
+ EDG_FWF_mission_3_25_desc:0 ""
+ EDG_FWF_mission_3_25.effect.tt:0 "从现在开始，§Y每年年初§!将向我们的§T核心§!省份或拥有§Y鼓动民众§!修正的省份的§Y相邻§!省份§G实施§!一次§T省份互动§!「鼓动民众」\n\n获得所有§Y旧大陆§!省份的§Y永久宣称§!"
+
+ EDG_FWF_mission_3_27_title:0 "前进浪潮"
+ EDG_FWF_mission_3_27_desc:0 ""
+ EDG_FWF_mission_3_27.effect.tt:0 "从现在开始，被我们§Y解放§!的省份将§G失去§!全部§T分离主义§!\n\n从现在开始，每年年初将向§Y所有§!拥有§Y鼓动民众§!修正的省份§G实施§!一次§T省份互动§!「核心渗透」"
+
+ EDG_FWF_mission_3_28_title:0 "唯有战争..."
+ EDG_FWF_mission_3_28_desc:0 ""
+ EDG_FWF_mission_3_28.effect.tt:0 "§G获得§!所有§Y不属于我们§!的§T核心省份§!\n\n向所有§Y首都§!位于§Y旧大陆§!的国家§R宣战§!"
+
+ EDG_FWF_mission_3_29_title:0 "七重罪孽"
+ EDG_FWF_mission_3_29_desc:0 "色欲，滋生放荡与卖春，腐化我们的国家;暴食，导致人们过度索取，令他人挨饿;贪婪，是帝国主义的本质; 懒惰，让人自满、认为一切都应交予旁人处理;愤怒，只会催生犯罪与争斗，我们必须只打压那些威胁祖国的敌人;嫉妒，歧视与阶级偏见的源头;最后傲慢，致人看高自己的贡献。国家与人民深受这七宗罪之害，我们必须逐个解决之。"
+ EDG_FWF_mission_3_29.effect.tt:0 "为了实现那§T伟大的理想§!，我们§R必须清除所有的罪孽§!"
+ EDG_FWF_degenerate_var:0 "§R罪孽§!"
+
+ EDG_FWF_mission_3_31_title:0 "傲慢"
+ EDG_FWF_mission_3_31_desc:0 "傲慢之罪，如同许多其他的罪行一般，在人类历史进程中扮演着复杂的角色。每个人都对自己的生活感到一定程度的骄傲。这可以是他们对工作的骄傲，对成功的骄傲，或是为团结圆满的家庭而骄傲。庆祝自己取得的成就并对此感到自豪是完全合理、可以理解的。但我们不能允许其中有自负之人异军突起，在周围形成了个人崇拜的氛围。上到政治，下到个人，傲慢孕育着嫉妒，让不公不义发芽成长。所有人都可以为自己的成就骄傲，每个人都会得到公正的报酬。让我们把傲慢和妒忌的问题在萌芽中扼杀。"
+
+ EDG_FWF_mission_3_32_title:0 "公正法案"
+ EDG_FWF_mission_3_32_desc:0 ""
+ EDG_FWF_mission_3_32.effect.tt:0 "解锁§T法令§!「公正法案」\n\n实施法令§Y公正法案§!将会立刻§G减少§!该省份§Y20§!点§Y叛乱度§!\n\n当我们§R撤销§!法令§Y公正法案§!的同时，也将§R增加§!省份§Y10§!点§Y叛乱度§!"
+
+ EDG_FWF_mission_3_33_title:0 "生产资料"
+ EDG_FWF_mission_3_33_desc:0 ""
+ EDG_FWF_mission_3_33.effect.tt:0 "将§Y我们治下§!所有§T发展度§!小于§Y15§!的省份§T发展度§!提升至§Y15§!\n\n下述§Y修正§!持续期间，我们提升§T发展度§!时将会§G额外提升§!对应§Y1§!点§T发展度§!"
+
+ EDG_FWF_mission_3_36_title:0 "赤色乌托邦"
+ EDG_FWF_mission_3_36_desc:0 ""
+
+ EDG_FWF_mission_4_24_title:0 "高天密翳"
+ EDG_FWF_mission_4_24_desc:0 ""
+ EDG_FWF_mission_4_24.effect.tt:0 "我们治下§Y所有§!位于§Y东欧§!次大陆的省份§T分离主义§!归§G0§!\n\n将我们治下§Y所有§!位于§Y东欧§!次大陆的省份所有§T基础税收§!转为§T基础人力§!，至少保留§Y1§!点§T基础税收§!"
+
+ EDG_FWF_mission_4_26_title:0 "旷野之息"
+ EDG_FWF_mission_4_26_desc:0 ""
+ EDG_FWF_mission_4_26.effect.tt:0 "从现在开始，每当我们§Y占领§!敌人拥有§T要塞§!的省份时，立刻占领§Y相邻§!所有未拥有§T要塞§!建筑的省份"
+
+ EDG_FWF_mission_4_30_title:0 "贪婪"
+ EDG_FWF_mission_4_30_desc:0 "贪婪与暴食十分相似，是帝国主义思想的顽疾。从国家层面来说，贪婪即是领导人贪求权力、领土与人民不情愿的赞许。不过，地区层面的贪婪有过之而无不及。囤积金钱会导致阶级分化，进而就有了阶级歧视与贫富差距。贪婪致人抢夺他人所需之物，我们不能坐视不理。财产按需分配，消灭地主阶级，确保人人都能赚取自己需要的物料，防止财富囤积于一处。我们最大的敌人可能就是贪婪，必须加倍努力消灭之。"
+
+ EDG_FWF_mission_4_31_title:0 "均分法案"
+ EDG_FWF_mission_4_31_desc:0 ""
+ EDG_FWF_mission_4_30.effect.tt:0 "解锁§T法令§!「均分法案」\n\n实施法令§Y均分法案§!将立刻消去§Y除我们§!之外§Y其他国家§!在该省份的§T核心§!\n\n当我们§R撤销§!法令§Y均分法案§!的同时，我们将§R失去§!该省份的§T核心§!"
+
+ EDG_FWF_mission_4_32_title:0 "嫉妒"
+ EDG_FWF_mission_4_32_desc:0 "嫉妒，一直威胁着我们建立公正、平等社会的努力。若一个人与其他人拉开了莫大的差距，后者的心里就会滋生嫉妒。这不仅是一切革命的心理基础，还催生了仇恨与不公正。人们会嫉妒各种他人的优势，不论是主观认为的还是客观存在的，都是如此。我们不能让此等情绪造成社会分化，必须要建立一个公平公正、众人生而平等的社会。如果每个人的待遇都是一样的，何来嫉妒一说呢？"
+
+ EDG_FWF_mission_4_34_title:0 "主要条件"
+ EDG_FWF_mission_4_34_desc:0 ""
+
+ EDG_FWF_mission_4_35_title:0 "住"
+ EDG_FWF_mission_4_35_desc:0 ""
+
+ EDG_FWF_mission_5_23_title:0 "东部战线"
+ EDG_FWF_mission_5_23_desc:0 ""
+ EDG_FWF_mission_5_23.effect_1.tt:0 "下述§Y修正§!持续期间，每当我们§T占领§!§Y不属于我们§!的§Y东欧§!次大陆省份时将会§G获得§!该省份的§T核心§!"
+ EDG_FWF_mission_5_23.effect_2.tt:0 "一支§Y数量庞大§!的§Y革命卫队§!将在§T首都§!被组建"
+
+ EDG_FWF_mission_5_27_title:0 "深邃之影"
+ EDG_FWF_mission_5_27_desc:0 ""
+ EDG_FWF_mission_5_27.effect.tt:0 "从现在开始，被我们所§Y解放§!的省份将会§G随机增加§!§Y1§!点§Y发展度§!"
+
+ EDG_FWF_mission_5_30_title:0 "懒惰"
+ EDG_FWF_mission_5_30_desc:0 "懒惰，并非源自任何特定行为。相反，其是来自无动于衷，可谓是在七宗罪中独树一帜。我们必须要承认一个可悲的事实：先前被压迫的人民过上了更好的生活，有可能会因此而逐渐变得懒惰，坐吃时代红利，进而想着骄奢淫欲胡作非为，而非提升自我。在保证人民生活舒适的同时，我们也必须让他们摆脱惰性，使其有能力且会自发地为集体作出贡献。"
+
+ EDG_FWF_mission_5_31_title:0 "公社法案"
+ EDG_FWF_mission_5_31_desc:0 ""
+ EDG_FWF_mission_5_31.effect.tt:0 "解锁§T法令§!「公社法案」\n\n实施法令§Y公社法案§!将会立刻§G建造§!或§G升级§!省份的§Y生产建筑§!\n\n当我们§R撤销§!法令§Y公社法案§!的同时，也将§R拆除§!省份的§Y生产建筑§!"
+
+ EDG_FWF_mission_5_33_title:0 "解放法案"
+ EDG_FWF_mission_5_33_desc:0 ""
+ EDG_FWF_mission_5_33.effect.tt:0 "解锁§T法令§!「解放法案」\n\n实施法令§Y解放法案§!将会立刻§G减少§!省份§Y100§!§Y荒废度§!并进入§G享受繁荣§!状态\n\n当我们§R撤销§!法令§Y解放法案§!的时，省份将增加§R100§!荒废度并§R失去§!所有§Y繁荣进度§!"
+
+ EDG_FWF_mission_5_35_title:0 "行"
+ EDG_FWF_mission_5_35_desc:0 ""
+
+
+ EDG_FWF_end_battle_of_the_sun.tt:0 "§Y烈阳之战§!已结束"
+ EDG_FWF_mission_urpgrade_modifier.tt:0 "下述§Y修正§!可以通过§Y完成其他任务§!进行§G升级§!"

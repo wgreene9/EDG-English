@@ -1,0 +1,63 @@
+swe_conquest_of_novgorod_effect = {
+	310 = {
+		change_province_name = "霍姆加尔德"
+		rename_capital = "霍姆加尔德"
+		custom_tooltip = will_upgrade_center_of_trade_to_level_2_tt
+		hidden_effect = {
+			if = {
+				limit = {
+					NOT = { province_has_center_of_trade_of_level = 2 }
+				}
+				add_center_of_trade_level = 1
+			}
+		}
+		change_religion = ROOT
+	}
+}
+EDG_SWE_Gustav_Vasa = {
+	define_ruler = {
+		name = "古斯塔夫 I"
+		dynasty = "瓦萨"
+		age = 25
+		adm = 6
+		dip = 4
+		mil = 4
+	}
+	hidden_effect = {
+		set_ruler_flag = EDG_SWE_gustaf_I_flag
+		add_ruler_personality = lawgiver_personality
+		add_ruler_personality = industrious_personality
+	}
+}
+EDG_SWE_Gustav_Adolf = {
+	define_ruler = {
+		name = "古斯塔夫 II 阿道夫"
+		dynasty = "瓦萨"
+		age = 17
+		adm = 6
+		dip = 6
+		mil = 6
+		claim = 75
+	}
+	hidden_effect = {
+		set_ruler_flag = EDG_SWE_gustaf_II_flag
+	}
+}
+EDG_SWE_axel_gustafsson_oxenstierna = {
+	define_advisor = {
+		name = "阿克塞尔·奥克森谢尔纳"
+		type = bailiff
+		skill = 3
+		cost_multiplier = 0.1
+		culture = root
+		religion = root
+	}
+}
+EDG_SWE_helsinki_city = {
+	28 = {
+		change_province_name = "赫尔辛基"
+		add_base_tax = 2
+		add_base_production = 3
+		add_base_manpower = 2
+	}
+}

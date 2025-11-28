@@ -1,0 +1,214 @@
+﻿l_english:
+ EDG_BOH_mission_1_3_title:0 "安抚贵族"
+ EDG_BOH_mission_1_3_desc:0 ""
+ EDG_BOH_Sigismund_live.tt:0 "§Y西吉斯蒙德尚未驾崩§!"
+
+ EDG_BOH_mission_2_2_title:0 "战争余波"
+ EDG_BOH_mission_2_2_desc:0 ""
+
+ EDG_BOH_mission_3_1_title:0 "帝国迟暮"
+ EDG_BOH_mission_3_1_desc:0 ""
+
+ EDG_BOH_mission_3_3_title:0 "最后准备"
+ EDG_BOH_mission_3_3_desc:0 ""
+ EDG_BOH_mission_3_3.mei.tt:0 "若@MEI§Y[MEI.GetName]§!对我们至少有§Y190§!好感"
+ EDG_BOH_mission_3_3.mei.keep.tt:0 "@MEI§Y[MEI.GetName]§!在§Y西吉斯蒙德驾崩§!之后将§Y不会独立§!"
+ EDG_BOH_mission_3_3.h07.tt:0 "若@H07§Y[H07.GetName]§!对我们至少有§Y190§!好感"
+ EDG_BOH_mission_3_3.h07.keep.tt:0 "@H07§Y[H07.GetName]§!在§Y西吉斯蒙德驾崩§!之后将§Y不会独立§!"
+ EDG_BOH_mission_3_3.dip.tt:0 "若我们至少拥有§Y4§!的§T外交声誉§!"
+
+ EDG_BOH_mission_3_4_title:0 "临终圣礼"
+ EDG_BOH_mission_3_4_desc:0 ""
+ EDG_BOH_mission_3_4.effect.tt:0 "§R风暴正在酝酿...§!"
+
+ EDG_BOH_mission_4_2_title:0 "胡斯余烬"
+ EDG_BOH_mission_4_2_desc:0 ""
+
+ EDG_BOH_mission_5_5_title:0 "稳定国家"
+ EDG_BOH_mission_5_5_desc:0 ""
+ EDG_BOH_mission_5_5.effect.tt:0 "§Y西吉斯蒙德驾崩§!不再减少§Y稳定度§!"
+
+ EDG_BOH_mission_hussites_1_1_title:0 "掌控城市"
+ EDG_BOH_mission_hussites_1_1_desc:0 ""
+ EDG_BOH_mission_hussites_1_1.effect.tt:0 "所有§Y满足任务条件§!的省份获得下述修正与效果"
+
+ EDG_BOH_mission_hussites_1_2_title:0 "西斯拉夫边境"
+ EDG_BOH_mission_hussites_1_2_desc:0 ""
+
+ EDG_BOH_mission_hussites_1_3_title:0 "从克拉科夫"
+ EDG_BOH_mission_hussites_1_3_desc:0 ""
+
+ EDG_BOH_mission_hussites_1_7_title:0 "火药保障"
+ EDG_BOH_mission_hussites_1_7_desc:0 ""
+
+ EDG_BOH_mission_hussites_1_8_title:0 "铸炮产业"
+ EDG_BOH_mission_hussites_1_8_desc:0 ""
+
+ EDG_BOH_mission_hussites_1_10_title:0 "手工业发展"
+ EDG_BOH_mission_hussites_1_10_desc:0 ""
+
+ EDG_BOH_mission_hussites_1_11_title:0 "亚麻织造"
+ EDG_BOH_mission_hussites_1_11_desc:0 ""
+
+ EDG_BOH_mission_hussites_1_13_title:0 "行会改革"
+ EDG_BOH_mission_hussites_1_13_desc:0 ""
+
+ EDG_BOH_mission_hussites_1_15_title:0 "行政适应"
+ EDG_BOH_mission_hussites_1_15_desc:0 ""
+
+ EDG_BOH_mission_hussites_2_1_title:0 "解放西里西亚"
+ EDG_BOH_mission_hussites_2_1_desc:0 ""
+ EDG_BOH_mission_hussites_2_1.effect.tt:0 "获得§Y西里西亚§!地区宗教为§Y胡斯派§!省份的§T核心§!"
+
+ EDG_BOH_mission_hussites_2_3_title:0 "到施塔加德"
+ EDG_BOH_mission_hussites_2_3_desc:0 ""
+
+ EDG_BOH_mission_hussites_2_4_title:0 "克拉洛韦茨之光"
+ EDG_BOH_mission_hussites_2_4_desc:0 ""
+
+ EDG_BOH_mission_hussites_2_6_title:0 "接纳正统派"
+ EDG_BOH_mission_hussites_2_6_desc:0 ""
+
+ EDG_BOH_mission_hussites_2_8_title:0 "火铳训练"
+ EDG_BOH_mission_hussites_2_8_desc:0 ""
+
+ EDG_BOH_mission_hussites_2_9_title:0 "野战火炮"
+ EDG_BOH_mission_hussites_2_9_desc:0 ""
+
+ EDG_BOH_mission_hussites_2_11_title:0 "水晶之都"
+ EDG_BOH_mission_hussites_2_11_desc:0 ""
+
+ EDG_BOH_mission_hussites_2_12_title:0 "西里西亚工业区"
+ EDG_BOH_mission_hussites_2_12_desc:0 ""
+
+ EDG_BOH_mission_hussites_2_14_title:0 "民族叙事"
+ EDG_BOH_mission_hussites_2_14_desc:0 ""
+
+ EDG_BOH_mission_hussites_3_1_title:0 "战火再临"
+ EDG_BOH_mission_hussites_3_1_desc:0 ""
+
+ EDG_BOH_mission_hussites_3_4_title:0 "分歧点"
+ EDG_BOH_mission_hussites_3_4_desc:0 ""
+ EDG_BOH_mission_hussites_3_4.trigger.tt:0 "§Y塔波尔派§!已复兴"
+
+ EDG_BOH_mission_hussites_3_5_title:0 "归正大会"
+ EDG_BOH_mission_hussites_3_5_desc:0 ""
+
+ EDG_BOH_mission_hussites_3_6_title:0 "改革温和派"
+ EDG_BOH_mission_hussites_3_6_desc:0 ""
+
+ EDG_BOH_mission_hussites_3_7_title:0 "组织民兵"
+ EDG_BOH_mission_hussites_3_7_desc:0 ""
+
+ EDG_BOH_mission_hussites_3_10_title:0 "战争车垒"
+ EDG_BOH_mission_hussites_3_10_desc:0 ""
+
+ EDG_BOH_mission_hussites_3_11_title:0 "自给农业"
+ EDG_BOH_mission_hussites_3_11_desc:0 ""
+
+ EDG_BOH_mission_hussites_3_12_title:0 "捷克工业区"
+ EDG_BOH_mission_hussites_3_12_desc:0 ""
+
+ EDG_BOH_mission_hussites_3_13_title:0 "布拉格大学"
+ EDG_BOH_mission_hussites_3_13_desc:0 ""
+
+ EDG_BOH_mission_hussites_3_14_title:0 "教育普及"
+ EDG_BOH_mission_hussites_3_14_desc:0 ""
+
+ EDG_BOH_mission_hussites_3_15_title:0 "波西米亚狂想曲"
+ EDG_BOH_mission_hussites_3_15_desc:0 ""
+
+ EDG_BOH_mission_hussites_3_16_title:0 "地上天国"
+ EDG_BOH_mission_hussites_3_16_desc:0 ""
+
+ EDG_BOH_mission_hussites_4_1_title:0 "迎回摩拉维亚"
+ EDG_BOH_mission_hussites_4_1_desc:0 ""
+ EDG_BOH_mission_hussites_4_1.mva.tt:0 "如果@MVA§Y[MVA.GetName]§!存在且§Y是我们的属国§!"
+
+ EDG_BOH_mission_hussites_4_3_title:0 "自巴伐利亚"
+ EDG_BOH_mission_hussites_4_3_desc:0 ""
+
+ EDG_BOH_mission_hussites_4_4_title:0 "潘诺尼亚沃土"
+ EDG_BOH_mission_hussites_4_4_desc:0 ""
+
+ EDG_BOH_mission_hussites_4_6_title:0 "第三种选择"
+ EDG_BOH_mission_hussites_4_6_desc:0 ""
+
+ EDG_BOH_mission_hussites_4_8_title:0 "协同战术"
+ EDG_BOH_mission_hussites_4_8_desc:0 ""
+
+ EDG_BOH_mission_hussites_4_9_title:0 "移动城堡"
+ EDG_BOH_mission_hussites_4_9_desc:0 ""
+
+ EDG_BOH_mission_hussites_4_11_title:0 "黄金之城"
+ EDG_BOH_mission_hussites_4_11_desc:0 ""
+
+ EDG_BOH_mission_hussites_4_12_title:0 "斯洛伐克工业区"
+ EDG_BOH_mission_hussites_4_12_desc:0 ""
+
+ EDG_BOH_mission_hussites_4_14_title:0 "宗教职能"
+ EDG_BOH_mission_hussites_4_14_desc:0 ""
+
+ EDG_BOH_mission_hussites_5_1_title:0 "寻求支持"
+ EDG_BOH_mission_hussites_5_1_desc:0 ""
+ EDG_BOH_mission_hussites_5_1.nobles.tt:0 "如果§Y贵族§!忠诚度不低于§Y60§!"
+ EDG_BOH_mission_hussites_5_1.church.tt:0 "如果§Y教士§!忠诚度不低于§Y60§!"
+ EDG_BOH_mission_hussites_5_1.burghers.tt:0 "如果§Y商人§!忠诚度不低于§Y60§!"
+ EDG_BOH_mission_hussites_5_1.EDG_peasants.tt:0 "如果§Y农民§!忠诚度不低于§Y60§!"
+ EDG_BOH_mission_hussites_5_1.production_income.tt:0 "获得在§Y波西米亚§!和§Y厄尔士山脉§!地区省份§Y5§!年的§T生产收入§!"
+
+ EDG_BOH_mission_hussites_5_2_title:0 "卡帕提亚屏障"
+ EDG_BOH_mission_hussites_5_2_desc:0 ""
+
+ EDG_BOH_mission_hussites_5_3_title:0 "至斯洛伐克"
+ EDG_BOH_mission_hussites_5_3_desc:0 ""
+
+ EDG_BOH_mission_hussites_5_7_title:0 "军事工程"
+ EDG_BOH_mission_hussites_5_7_desc:0 ""
+
+ EDG_BOH_mission_hussites_5_8_title:0 "霍汀军令"
+ EDG_BOH_mission_hussites_5_8_desc:0 ""
+
+ EDG_BOH_mission_hussites_5_10_title:0 "贵金属矿业"
+ EDG_BOH_mission_hussites_5_10_desc:0 ""
+
+ EDG_BOH_mission_hussites_5_11_title:0 "铁铜开采"
+ EDG_BOH_mission_hussites_5_11_desc:0 ""
+
+ EDG_BOH_mission_hussites_5_13_title:0 "采矿法规"
+ EDG_BOH_mission_hussites_5_13_desc:0 ""
+
+ EDG_BOH_mission_hussites_5_15_title:0 "工农一体"
+ EDG_BOH_mission_hussites_5_15_desc:0 ""
+
+ EDG_BOH_mission_tapol_1_18_title:0 "多瑙之上"
+ EDG_BOH_mission_tapol_1_18_desc:0 ""
+
+ EDG_BOH_mission_tapol_1_20_title:0 "施瓦本审判"
+ EDG_BOH_mission_tapol_1_20_desc:0 ""
+
+ EDG_BOH_mission_hussites_2_19_title:0 "莱茵之心"
+ EDG_BOH_mission_hussites_2_19_desc:0 ""
+
+ EDG_BOH_mission_tapol_3_17_title:0 "圣杯战争"
+ EDG_BOH_mission_tapol_3_17_desc:0 ""
+
+ EDG_BOH_mission_tapol_3_18_title:0 "厄尔士之后"
+ EDG_BOH_mission_tapol_3_18_desc:0 ""
+
+ EDG_BOH_mission_tapol_3_20_title:0 "最后的拼图"
+ EDG_BOH_mission_tapol_3_20_desc:0 ""
+
+ EDG_BOH_mission_tapol_3_21_title:0 "千年王国"
+ EDG_BOH_mission_tapol_3_21_desc:0 ""
+
+ EDG_BOH_mission_tapol_4_19_title:0 "威悉之行"
+ EDG_BOH_mission_tapol_4_19_desc:0 ""
+
+ EDG_BOH_mission_tapol_5_18_title:0 "易北之下"
+ EDG_BOH_mission_tapol_5_18_desc:0 ""
+
+ EDG_BOH_mission_tapol_5_20_title:0 "弗兰德通牒"
+ EDG_BOH_mission_tapol_5_20_desc:0 ""
+
+

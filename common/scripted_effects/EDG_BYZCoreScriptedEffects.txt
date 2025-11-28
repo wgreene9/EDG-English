@@ -1,0 +1,12 @@
+EDG_BYZ_rename_2308 = {
+	change_province_name = "埃德萨"
+}
+EDG_BYZ_rename_334 = {
+	change_province_name = "廷吉斯"
+}
+EDG_BYZ_rename_221 = {
+	change_province_name = "斯巴达里亚迦太基"
+}
+EDG_BYZ_rename_104 = {
+	change_province_name = "梅迪奥拉努姆"
+}

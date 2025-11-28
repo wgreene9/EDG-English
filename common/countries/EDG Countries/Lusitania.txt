@@ -1,0 +1,763 @@
+graphical_culture = westerngfx
+color = {
+  63
+  139
+  166
+}
+historical_council = harsh
+revolutionary_colors = {
+  50
+  80
+  150
+}
+historical_score = 7400
+historical_idea_groups = {
+  exploration_ideas
+  religious_ideas
+  offensive_ideas
+  expansion_ideas
+  influence_ideas
+  maritime_ideas
+  quality_ideas
+  defensive_ideas
+}
+historical_units = {
+  western_medieval_infantry
+  western_medieval_knights
+  western_men_at_arms
+  spanish_tercio
+  austrian_tercio
+  austrian_grenzer
+  austrian_hussar
+  austrian_white_coat
+  austrian_jaeger
+  mixed_order_infantry
+  open_order_cavalry
+  napoleonic_square
+  napoleonic_lancers
+}
+monarch_names = {
+  "卡洛믅e #0" = 80  # Carlos #0
+  "숹利佩 #1" = 60  # Felipe #1
+  "숹尔南多 #5" = 40  # Fernando #5
+  "迄Â易믅e #0" = 20  # Luis #0
+  "何塞 #0" = 20  # JosÃ© #0
+  "귃Â戈 #0" = 15  # Diego #0
+  "뷃T尔塔숨 卡洛믅e #0" = 15  # Baltasar Carlos #0
+  "鋂R娜 #0" = -15  # Ana #0
+  "鯂s丽髂N 特貴Â軂Â #0" = -10  # MarÃ­a Teresa #0
+  "숿ꇅe索 #11" = 10  # Alfonso #11
+  "恩髄Â克 #4" = 10  # Enrique #4
+  "꫃w鋂R #2" = 10  # Juan #2
+  "伊軂Â숝尔 #1" = -10  # Isabel #1
+  "弗朗쉿믅e菅y #0" = 10  # Francisco #0
+  "托쉬믅e #0" = 10  # TomÃ¡s #0
+  "鋂R东尼奥 #0" = 10  # Antonio #0
+  "弗朗쉿믅e菅y #0 郋V 鷃O觃b" = 10  # Francisco #0 de Paula
+  "ꃂR布列尔 #0" = 10  # Gabriel #0
+  "桑乔 #4" = 5  # Sancho #4
+  "海藂h #2" = 5  # Jaime #2
+  "觃b米罗 #2" = 5  # Ramiro #2
+  "佩郋V罗 #1" = 5  # Pedro #1
+  "佩觃bꏅu #1" = 5  # Pelayo #1
+  "숿蛂Â索 #0" = 0  # Alonso #0
+  "뷃T尔塔숨 #0" = 0  # Baltasar #0
+  "뷃T托洛藂h #0" = 0  # BartolomÃ© #0
+  "克苅R駄Â奥 #0" = 0  # Claudio #0
+  "克髄Â믅e托뷃T尔 #0" = 0  # Cristobal #0
+  "多明戈 #0" = 0  # Domingo #0
+  "苄W米利奥 #0" = 0  # Emilio #0
+  "郅l郋V髄Â克 #0" = 0  # Fadrique #0
+  "迂y믅e托 #0" = 0  # Fausto #0
+  "ꃂR쉿髂N #0" = 0  # GarcÃ­a #0
+  "ꃂR믅e帕 #0" = 0  # Gaspar #0
+  "숡숨洛 #0" = 0  # Gonzalo #0
+  "吉列尔꓅Â #0" = 0  # Guillermo #0
+  "苄W藂h藂Q希尔多 #0" = 0  # Hermenegildo #0
+  "苄W尔南多 #0" = 0  # Hernando #0
+  "伊格诅u쉿奥 #0" = 0  # Ignacio #0
+  "쉪尔쉫 #0" = 0  # Jorge #0
+  "꫃w鋂R 包苂Â믅e塔 #0" = 0  # Juan Bautista #0
+  "꫃w鋂R 何塞 #0" = 0  # Juan JosÃ© #0
+  "藄Â奥ꋃl尔多 #0" = 0  # Leopoldo #0
+  "洛佩 #0" = 0  # Lope #0
+  "볃f黅R苄W尔 #0" = 0  # Manuel #0
+  "米格尔 #0" = 0  # Miguel #0
+  "罗郋V髄Â戈 #0" = 0  # Rodrigo #0
+  "塞뷃T믅e苂Â鋂R #0" = 0  # SebastiÃ¡n #0
+  "뷃u껃h特 #0" = 0  # Vicente #0
+  "MONARCH_NAME_RAMON" = 0  # MONARCH_NAME_RAMON
+}
+leader_names = {
+  "숿蟄t尔卡 郋V 博藄Â髂N"  # Abarca de Bolea
+  "郋V숿吉럃Â"  # de Aguirre
+  "郋V 숿觃b尔孔"  # de AlarcÃ³n
+  "숿尔蟄t럃Â믅e 郋V 托藄Â多"  # Ãlvarez de Toledo
+  "郋V 숿觃b숡"  # de AragÃ³n
+  "郋V 奥地利"  # de Austria
+  "郋V 숿髂N觃b"  # de Ayala
+  "郋V 뷃T쉞"  # de BazÃ¡n
+  "郋V 博駂Â特"  # de Beaumont
+  "郋V 숝诅u뷃u郋V믅e"  # de Benavides
+  "郋V ꋃl臃e"  # de BorbÃ³n
+  "郋V 博尔賄T"  # de Borja
+  "卡蟄Â숨 郋V 뷃T卡"  # Cabeza de Vaca
+  "卡希ꃂR尔 郋V觃b뷃uꃂR"  # Cagigal de la Vega
+  "坎ꋃl쉬藂Q믅e"  # Campomanes
+  "郋V 觃b塞尔뻅Â"  # de la Cerda
+  "뫄T伦布"  # ColÃ³n
+  "菅y罗诅u多"  # Coronado
+  "菅y尔特믅e"  # CortÃ©s
+  "뻅Â뷃u觃b"  # DÃ¡vila
+  "郋V 苄W格駂Â特"  # de Egmont
+  "苄W尔卡뫃Â"  # Elcano
+  "苄W卢髂N尔"  # Elhuyar
+  "郅l郋V髄Â克 郋V 托藄Â多"  # Fadrique de Toledo
+  "숹尔南郋V믅e 郋V 卡믅e特罗"  # FernÃ¡ndez de Castro
+  "숹尔南郋V믅e 郋V 菅y尔多蟄t"  # FernÃ¡ndez de CÃ³rdoba
+  "郋V 装Â格罗髂N"  # de Figueroa
+  "装Â숨 쉹蛄Y믅e"  # Fitz-James
+  "迂y尔奇 郋V 卡多诅u"  # Folch de Cardona
+  "丰塞卡"  # Fonseca
+  "ꃂR尔뷃u믅e"  # GÃ¡lvez
+  "戈髅Â믅e"  # GÃ³mez
+  "格觃b뷃u诅u"  # Gravina
+  "郋V 格髄Â賄T尔蟄t"  # de Grijalva
+  "格髄Â쉬尔駄Â"  # Grimaldi
+  "郋V ꓃S兹볃f"  # de GuzmÃ¡n
+  "郋V 숍蟄Â髂N뫃Â믅e"  # de Jovellanos
+  "郋V 럃Â蟄t"  # de Leiva
+  "洛佩 郋V 賄T罗"  # LÃ³pe de Haro
+  "볃f髄Â克 郋V 觃b쉊"  # Manrique de Lara
+  "볃f髄Â克 郋V 숝觃b믅e菅y"  # Manrique de Velasco
+  "郋V 跄Â多숨"  # de Mendoza
+  "郋V 駂Â特卡뻅Â"  # de Montcada
+  "黅R藂m믅e 郋V 뷃T尔ꋃl髂N"  # NuÅez de Balboa
+  "郋V 奥쉫뻅Â"  # de Ojeda
+  "奥럃Â利髂N诅u"  # Orellana
+  "奥索髄Â奥"  # Osorio
+  "帕觃b迂y克믅e"  # Palafox
+  "帕苂Â尼奥"  # PatiÅo
+  "뷅v跄Â特尔"  # Pimentel
+  "뷅v숨罗"  # Pizarro
+  "黂^塞 郋V 藄Â昂"  # Ponce de LeÃ³n
+  "ꋃl托卡럃Â罗"  # Portocarrero
+  "郋V 럃Â克껃h믅e"  # de Requesens
+  "郋V 髄Â佩尔뻅Â"  # de RipperdÃ¡
+  "郋V 罗賄T믅e"  # de Rojas
+  "숨믅e特럃Â"  # Sastre
+  "特列믅e-希駂Â"  # Tellez-GirÃ³n
+  "郋V觃b뷃uꃂR"  # de la Vega
+  "郋V 祖尼ꃂR"  # de ZÃºÅiga
+}
+ship_names = {
+  "숿杜诅u"  # Aduana
+  "쉰"  # Ãguila
+  "南特之쉰"  # Ãguila de Nantes
+  "讴Y鿅N何塞郅l"  # Amable Josefa
+  "讴Y鿅N꫃w鋂R娜"  # Amable Juana
+  "讴Y鿅N特貴Â軂Â"  # Amable Teresa
+  "髂N蛂S杭郋V罗一世"  # Alejandro I
+  "慎跃Â者"  # Alerta
+  "숿尔쉫쉿觃b믅e"  # Algeciras
+  "숿臂Â卡地髂N"  # Alucadia
+  "숿藂h利髂N"  # Amelia
+  "숿軂利ꃂR"  # AmÃ©rica
+  "軂洲"  # Americana
+  "鋂R装Â特髄Â郅V"  # AnfÃ­trite
+  "塔髄Â郅l海鯂Q大菄Â"  # Admiral del Tariffa
+  "숿米믅e塔郋V"  # Amistad
+  "爱뷃V者"  # Amor de la Patria
+  "鋂R装Â쉿恩"  # AnfiÃ³n
+  "鋂R娜 鯂s利髂N 吉普믅e夸"  # Ana MarÃ­a GuipÃºzcoa
+  "鋂R뻅Â卢쉿髂N"  # AndalucÃ­a
+  "鋂R뻅Â卢쉿髂N貴n"  # AndalucÃ­a Baia
+  "鋂R뻅Â卢쉿髂N鿅N"  # Andaluz
+  "天使釂R鮽b者"  # Ãngel de la Guarda
+  "郂ÂꯃX"  # AnÃ³nima
+  "髂諂"  # AntÃ­lope
+  "天쉰"  # Aquila
+  "ꋅÂ쉰"  # Aquila Volante
+  "숿뫃W髄Â믅e"  # Aquiles
+  "北ꇅe"  # AquilÃ³n
+  "貴g술"  # Ardilla
+  "숿럃ÂꏅV숨"  # Aretusa
+  "숿尔戈蓅Â蓃Â"  # Argonauta
+  "髂N尔꓃S"  # Argos
+  "蟃R敢者"  # Arrogante
+  "髂N迄u髂N"  # Asia
+  "星냂Â少女"  # Astrea
+  "星飅v"  # Astrolabio
+  "숿믅eꏅV髄Â髂N믅e"  # Asturias
+  "숿믅eꏅV숨觃b"  # Astuzzana
+  "升天"  # AsunciÃ³n
+  "숿特觃b믅e蓅g"  # Atlante
+  "숿托뫄g"  # Atocha
+  "鋂Q쉩"  # Atrevida
+  "欧뫄Â觃b"  # Aurora
+  "上主쉣光"  # Ave de Gracia
+  "鋂Q쉩者"  # Aventurero
+  "뷃T賄T쉬"  # Bahama
+  "鳃b伦"  # Bailen
+  "飋c索者"  # Baltidore
+  "包苂Â믅e塔"  # Bautista
+  "뷃T塔多尔"  # Batador
+  "숝觃bË卡洛琳娜"  # Bella Carolina
+  "駅S战女神"  # Bellona
+  "铃k믅e开"  # Viscaya
+  "蓅Â蟃R者"  # Bizarro
+  "ꋅÂ쉌者"  # Voladora
+  "圣鿅N耶稣"  # Buen JesÃºs
+  "布觃b干숨"  # Braganza
+  "布觃b蟄t"  # Brava
+  "光观Â"  # Brillante
+  "布髄Â髂N뫃Â"  # Brilliano
+  "指南裂Â"  # BrÃºjula
+  "蓂U숀"  # Buen Consejo
+  "幸迂y"  # Buena Dicha
+  "布兰丁"  # BurlandÃ­n
+  "讴v쉬"  # Caballo Blanco
+  "坎铃k"  # Cambi
+  "卡藂h觃b觃b"  # Camerara
+  "坎꿅W昂"  # CampeÃ³n
+  "坎塔布髄Â髂N"  # Cantabrina
+  "蟋^塔觃b"  # Cantara
+  "坎郋V觃b"  # Cantela
+  "坎塔夫罗"  # CÃ¡ntabro
+  "韃e숰"  # Capitana
+  "卡跄Â"  # Carmen
+  "卡跄Â 罗숨髄Â奥"  # Carmen del Rosario
+  "卡믅e苂Â利髂N"  # Castilla
+  "냃T合"  # Casualidad
+  "ꃂR釄l罗尼髂N鿅N"  # CatalÃ¡n
+  "迄Q跄Â"  # CaimÃ¡n
+  "猎鿅N"  # Cazador
+  "塞쉿观Â髂N"  # Cecilia
+  "鋂YꏄV"  # Celoso
+  "菅vꣃRꇂR"  # Censor
+  "跄T兵"  # Centinela
+  "刻瑞믅e"  # Ceres
+  "髅Â쉿髂N公民"  # CiudadanÃ­a de Mercia
+  "藂h藄Â쉿"  # Ciervo
+  "菅y奇觃b"  # Coccila
+  "뫄T伦布"  # ColÃ³n
+  "彗星"  # Cometa
+  "诃Y孕"  # ConcepciÃ³n
+  "奇坎伯爵"  # Conde de Chican
+  "럃Â吉髂N伯爵"  # Conde de Regia
+  "托洛숨伯爵"  # Conde de Tolosa
+  "諂V服者"  # Conquistador
+  "蟋^믅e坦特"  # Constante
+  "菅y尔藂Q观Â髂N"  # Cornelia
+  "菅y尔索"  # Corso
+  "菅y尔特믅e"  # CortÃ©s
+  "菅y臂Â藂m숨"  # CoruÅesa
+  "鏂^苄W尔菂l"  # Cuervo
+  "海숦"  # Cuervo Marino
+  "뻅Â駂Â뷅Y"  # Dafne
+  "뻅Â鯂s믅e"  # Damas
+  "唐 迄Â易믅e 숝尔特兰"  # Don Luis BeltrÃ¡n
+  "郋V髅Â 蟄t숨洛"  # De Bon Vassallo
+  "飄`鳂U"  # De repente Descubierta
+  "闅e냃V"  # Descuite
+  "坚ꏂR"  # Determinado
+  "戴鋂R娜"  # Diana
+  "幸迂y"  # Dichoso
+  "诂N蓄RꇂR"  # Diligencia
+  "꓃R觃R者"  # Diligente
+  "圣灵之书"  # Divina Pastora
+  "上天蟂^佑"  # Divina Providencia
+  "蟄Â냅u"  # Dolores
+  "菅Â头蟋Â"  # Dorada
+  "朋诃S之诃S"  # Dos Amigos
+  "恶駂Â"  # DragÃ³n
+  "大迄w者"  # El Atrevido
+  "苄W믅e佩塔釄l"  # El Espedarte
+  "藂h믅e托 觃b 索利뻅Â郋V"  # El Mestuo la Solidade
+  "尼普쉿"  # El Neptuno
+  "奥쉖利賂T三个讴Y朋诃S"  # El Orely y los Tres Amigos
+  "救世主"  # El Savador
+  "蟄Â迄R山圣跃k"  # Virgen del Carmen
+  "伊观Â兹"  # Elise
+  "伊丽軂Â讴v"  # Elizabet
+  "企业"  # Empresa
+  "쉔郅l师"  # Encantadora
+  "化꓅Â"  # EncarnaciÃ³n
+  "軃Â神"  # Eolo
+  "苄W믅e卡髄Â奥特"  # Escariotte
+  "祖跃kꋋu"  # Esmeralda
+  "钵R敞"  # Espaciosa
+  "쉿귃s牙"  # EspaÅa
+  "希望"  # Esperanza
+  "伊믅e瑞觃b"  # Estrella
+  "星之海"  # Estrella del Mar
+  "北臂g星"  # Estrella del Norte
+  "欧罗뷃T"  # Europa
+  "ꟂR賂Â"  # Experimento
+  "苄W믅e特럃Â쉬杜觃b"  # ExtremeÅa
+  "名望"  # Fama
+  "名扬"  # Fama Volante
+  "幸迂y"  # Felicidad
+  "숹利克믅e"  # FÃ©lix
+  "꓃Q釄Q"  # FÃ©nix
+  "坚뫃V"  # Ferme
+  "숹尔南多七世"  # Fernando VII
+  "숹罗觃b诅u"  # Ferrolana
+  "装Â郋V觃b"  # Fidela
+  "装Â尼믅e釄l尔"  # Finisterre
+  "坚ꏂR者"  # Firme
+  "稳健者"  # Firmeza
+  "뛂r头"  # Flecha
+  "佛洛觃b"  # Flora
+  "堡鋂W"  # Fuerte
+  "듃v布罗쉀堡鋂W"  # Fuerte de Gibraltar
+  "듂f怒"  # Furia
+  "쉿귃s牙桨帆숹"  # Galera de EspaÅa
+  "뷃u多利髂N桨帆숹"  # Galera Victoria
+  "ꃂR尔ꃂR"  # Galga
+  "鋂R뻅Â卢쉿髂N灵缇맅r"  # Galgo de AndalucÃ­a
+  "ꃂR利쉿髂N"  # Galicia
+  "温蟂e尔맄Â者"  # Gallardo
+  "ꃂR洛 印第鋂R뫃Â"  # Gallo Indiano
+  "ꃂR꓅Â"  # Gamo
+  "ꃂR佐塔"  # Garzota
+  "铅Â쉰"  # GavilÃ¡n
+  "捷뫃Â뷃u숨"  # Genovesa
+  "듃v布罗쉀"  # Gibraltar
+  "女雄T鿅N"  # Giganta
+  "吉藂Q托"  # Gineto
+  "吉卜쉛鿅N"  # Gitano
+  "쉣耀"  # Gloria
+  "观Â煌"  # Glorioso
+  "吞噬"  # Golondrina
+  "伟大蓂v天之公主"  # Gran Princesa de los Cielos
+  "格觃b诅u"  # Grana
+  "希쉊鿅N"  # Griega
+  "格럃Â罗"  # Guerrero
+  "吉普믅e夸"  # Guipuscoana
+  "숕쉫"  # Gusana
+  "蓃Â쉰"  # HalcÃ³n
+  "쉫克托"  # HÃ©ctor
+  "쉫觃b克蟅R믅e"  # HÃ©rcules
+  "쉫敏"  # Hermione
+  "軂丽蓂v鯂s丽髂N诅u"  # Hermosa Mariana
+  "蓅Â蓃Â"  # HÃ©roe
+  "駄Â苂Â"  # HurÃ³n
+  "九头蟃Â"  # Hidra
+  "伊铃k利髂N"  # Iberia
+  "来駄Â伊뷃u숨"  # Ibicenco
+  "伊装Â쉩藂m髂N"  # Ifigenia
+  "髂N蛂S山大蟂v帝"  # Emperador Alejandro
+  "希ꋃlꣂX藂m믅e"  # Impomenes
+  "火焰"  # Incendio
+  "所向꓅b쉡"  # Invencible
+  "뷃Â뫅R者"  # Indagadora
+  "쏄T业"  # Industria
+  "숿鯂s观Â娅公主"  # Infanta Amalia
+  "卡洛塔公主"  # Infanta Carlotta
+  "鯋N诂s"  # Infante
+  "唐Ë卡洛믅e鯋N诂s"  # Infante Don Carlos
+  "堂佩觃bꏅu鯋N诂s"  # Infante Don Pelayo
+  "闅e畏"  # IntrÃ©pido
+  "彩쉹女神"  # Iris
+  "伊軂Â숝尔"  # Isabel
+  "伊軂Â숝尔賂N世"  # Isabel II
+  "伊軂Â숝觃b"  # Isabela
+  "特髄Â同藄Â귃V"  # JardÃ­n de TritÃ³n
+  "伊숿铂R"  # JasÃ³n
+  "何塞"  # JosÃ©
+  "朱观Â鋂R娜"  # Juliana
+  "朱뫃Â"  # Juno
+  "朱蟂^特"  # JÃºpiter
+  "正义"  # Justica
+  "숾믅e苂Â娜"  # Justina
+  "孤鯄r灵쉂"  # La Ãnimas Sola
+  "公爵夫鿅N"  # La Duquesa
+  "坚ꏂR"  # La Ferme
+  "黅V髃Â"  # Lealtad
+  "猎맅r뺶^"  # Lebrel
+  "藄Â昂"  # LeÃ³n
+  "藄Â昂 菅y罗诅u多"  # LeÃ³n Coronado
+  "天꓃y뺶^"  # Libra
+  "天兔뺶^"  # Liebre
+  "覴Â捷"  # Ligera
+  "菅Â껃r"  # LeÃ³n de Oro
+  "两个숿扎럃Â鿅N"  # Los Dos Azares
+  "髅Â装T伦"  # Los Magalianes
+  "迄Â易軂Â"  # Luisa
+  "迄Â易軂Â숹尔南뻅Â"  # Luisa Fernanda
+  "鿅N民蓂v圣跃k"  # Ntra. Sra. Del Pueblo
+  "讴T郄Â女神"  # MÃ¡gica
+  "钵R꫅R"  # MagnÃ¡nimo
+  "쉬臃港"  # Mahonesa
+  "쉬略尔菅Â"  # MallorquÃ­n
+  "쉬耳雃N"  # Malta
+  "鯂s丽髂N"  # MarÃ­a
+  "鯂s丽髂N 弗朗쉿丝卡"  # MarÃ­a Francisca
+  "鯂s丽髂N 伊軂Â숝尔"  # MarÃ­a Isabel
+  "战神"  # Marte
+  "쉬鋂d藄Â多"  # Mazerredo
+  "軂蓃r髂N"  # Medea
+  "軂杜軂Â"  # Medusa
+  "ꣂX쉿뫄T鿅N"  # Mejicano
+  "藂h뫃Â卡鿅N"  # MenorquÃ­n
+  "怜믅`"  # Mercedes
+  "ꣂX丘利"  # Mercurio
+  "弥藂m耳蟄t"  # Minerva
+  "米뫃Â"  # Minno
+  "君诂s"  # Monarca
+  "駂Â塔藂Q믅e"  # Montanes
+  "穆尔쉿髂N"  # Murciano
+  "藂m普쉿"  # Neptuno
+  "藂m普쉿海洋之神"  # Neptuno Dios de Las Mares
+  "海껅N女"  # Nereida
+  "숿쉞利ꃂR圣跃k"  # Ntra. Sra. de Ãfrica
+  "숿兰숨軄Â圣跃k"  # Ntra. Sra. de AranzazÃº
+  "升天圣跃k"  # Ntra. Sra. de AsunciÃ³n
+  "숿托뫄g圣跃k"  # Ntra. Sra. de Atocha
+  "숝戈尼髂N圣跃k"  # Ntra. Sra. de Begonna
+  "숝伦圣跃k"  # Ntra. Sra. de BelÃ©n
+  "铃k格尼髂N圣跃k"  # Ntra. Sra. de Bignonia
+  "쉺軃Â圣跃k"  # Ntra. Sra. de los Buenos Aires
+  "布ꗂR뫃Â믅e貴Â利믅e賂T圣꫃w鋂R藂Qꋃl穆塞黅R圣跃k"  # Ntra. Sra. de Buenos Aires y San Juan Nepumeceno
+  "乔罗圣跃k"  # Ntra. Sra. de Choro
+  "洞鿂z圣跃k"  # Ntra. Sra. de Covadonga
+  "恩꧂R圣跃k"  # Ntra. Sra. de Gracia
+  "鳃t뻅Â卢佩圣跃k"  # Ntra. Sra. de Guadalupe
+  "숿穆郋V诅u圣跃k"  # Ntra. Sra. de la Almudena
+  "숿穆郋V诅u賂T圣卡耶塔뫃Â圣跃k"  # Ntra. Sra. de la Almudena y San Cayetano
+  "圣跃k蛂Â뷄b"  # Ntra. Sra. de la AnunciaciÃ³n
+  "觃b坎郋V觃b髄Â髂N圣跃k"  # Ntra. Sra. de la Candelaria
+  "慈鯋`圣跃k"  # Ntra. Sra. de la Caridad
+  "诃Y孕圣跃k"  # Ntra. Sra. de la ConcepciÃ³n
+  "圣灵诃Y孕圣跃k"  # Ntra. Sra. de la ConcepciÃ³n y las Ãnimas
+  "奴鯅Â蓂v圣跃k"  # Ntra. Sra. de la Esclavitud
+  "引숪圣跃k"  # Ntra. Sra. de la GuÃ­a
+  "期볃v圣跃k"  # Ntra. Sra. de la O
+  "賂T平圣跃k"  # Ntra. Sra. de la Paz
+  "쉔ꇃO圣跃k"  # Ntra. Sra. de la Piedad
+  "躶R鯋Â圣跃k"  # Ntra. Sra. de la PresentaciÃ³n
+  "孤鯄r圣跃k"  # Ntra. Sra. de la Soledad
+  "怜믅`圣跃k"  # Ntra. Sra. de las Mercedes
+  "쉡숄귃V蓂v圣跃k"  # Ntra. Sra. de las Vinas
+  "洛럃Â托圣跃k"  # Ntra. Sra. de Loreto
+  "七蟄Â圣跃k"  # Ntra. Sra. de los Dolores
+  "铂諂之圣跃k"  # Ntra. Sra. de l'Oves
+  "臃N慈圣跃k"  # Ntra. Sra. de Misericordia
+  "欧觃b尔圣跃k"  # Ntra. Sra. de Oilar
+  "럃Â吉髂N圣跃k"  # Ntra. Sra. de Regia
+  "蟄Â迄R山圣跃k"  # Ntra. Sra. del Carmen
+  "ꇃO评V蟄Â迄R山圣跃k"  # Ntra. Sra. del Carmen la Confianza
+  "卡跄Â賂T觃b믅e숿尼쉬믅e圣跃k"  # Ntra. Sra. del Carmen y las Ãnimas
+  "卡跄Â賂T圣鋂R东尼奥圣跃k"  # Ntra. Sra. del Carmen y San Antonio
+  "卡尔米뫃Â圣跃k"  # Ntra. Sra. del Carmino
+  "菅y럃Â觃b믅e圣跃k"  # Ntra. Sra. del Corlylas
+  "숦恭圣跃k"  # Ntra. Sra. de la Humildad
+  "臂h蓅g圣跃k"  # Ntra. Sra. del Pilar
+  "臂h蓅g賂T觃b믅e숿尼쉬믅e圣跃k"  # Ntra. Sra. del Pilar y Ãnimas
+  "ꋃl尔ꏅV圣布苄W诅u蟂eꏅV觃b蓂v圣跃k"  # Ntra. Sra.del Puerto San Buenaventura
+  "鿅N民蓂v圣跃k"  # Ntra. Sra. del Pueblo
+  "꓅s瑰圣跃k"  # Ntra. Sra. del Rosario
+  "圣何塞圣跃k"  # Ntra. Sra. y San JosÃ©
+  "냂e쉞洲"  # Nueva Ãfrica
+  "냂e쉿귃s牙"  # Nueva EspaÅa
+  "냂e闅e敌"  # Nuevo Invencible
+  "黅R볃f쉿髂N"  # Numancia
+  "东ꇅe"  # Oriente
+  "蓂S蟅R뫃W숍"  # Orquijo
+  "꓅R귂^契ꏅu"  # Pacto de Familia
+  "帕觃b믅e"  # Palas
+  "印髅^숽"  # Paloma India
+  "蓃Â숽"  # Palomo
+  "뷃T塔뫄T尼髂N"  # PatagÃ³n
+  "爱뷃V者"  # Patriota
+  "釂R鮽b神"  # Patrona
+  "賂T平"  # Paz
+  "냅u蟄Â"  # Pena
+  "佩尼髂N뻅Â"  # PeÅada
+  "朝圣者"  # Peregrina
+  "闂R軂"  # Perfecta
+  "跃s闅s"  # Perla
+  "铃k믅e开跃s闅s"  # Perla VizcaÃ­na
+  "쉿귃s牙明闅s"  # Perla de EspaÅa
+  "飅y臂Â"  # Peruano
+  "佩軄Â苄W觃b"  # Pezuela
+  "上쉲蓂v尖尾帆숹"  # Pinque Pintado
+  "ꋅÂ铃蓂v尖尾帆숹"  # Pinque Volante
+  "뷅v乌쉬"  # Piuma
+  "权鯂R"  # Poder
+  "强大"  # Poderoso
+  "菅y利港"  # Porto Coeli
+  "ꋃl믅e塔郋VꃂR觃bꃂR믅e"  # Posta de Caraccas
+  "쉿껅z쉬夫"  # Postillon
+  "强鯂R"  # Potencia
+  "軂丽"  # Preciosa
+  "賂T平公主"  # Princesa de la Paix
+  "鯋N诂s"  # Principe
+  "숿믅eꏅV髄Â髂N믅e鯋N诂s"  # Principe de Asturias
+  "賂T平之诂s"  # Principe de la Paz
+  "尤菅Â诂s子"  # Principe Eugenio
+  "맄Â捷"  # Pronta
+  "普洛塞蟂^藂m"  # Proserpina
+  "普罗뷃u覴v믅e"  # Providencia
+  "숨慎"  # Prudencia
+  "测郅Â"  # Prueba
+  "ꋃl多軃Â各鿅N"  # PuertorriqueÅo
+  "圣灵感孕"  # PurÃ­sima ConcepciÃ³n
+  "堂吉苄Â郋V"  # Quijote
+  "郄r駅r"  # Raposa
+  "光업u"  # Rayo
+  "蟂v꓅R卡洛믅e"  # Real Carlos
+  "蟂v꒽R"  # Real Familia
+  "蟂v꓅R숹利佩"  # Real Felipe
+  "蟂v꓅R不覴k숟"  # Real FÃ©nix
+  "蟂v꓅R쉪尔쉫"  # Real Jorge
+  "蟂v꓅R鯂s丽"  # Real Mari
+  "럃Â숝卡"  # Rebeca
+  "女诂s"  # Reina
+  "伊軂Â숝尔賂N世女诂s"  # Reina DoÅa Isabel II
+  "迄Â易軂Â女诂s"  # Reina Luisa
+  "鯂s丽髂N 克髄Â믅e苂Â娜女诂s"  # Reina MarÃ­a Cristina
+  "鯂s丽髂N 伊軂Â숝尔女诂s"  # Reina MarÃ­a Isabel
+  "苅Q评V"  # ResoluciÃ³n
+  "复鿂Â"  # RestauraciÃ³n
+  "쉙껃O"  # Retiro
+  "뷃V诂s弗朗쉿믅e菅y 郋V 숿쉿믅e"  # Rey Don Francisco de AsÃ­s
+  "丽塔"  # Ritta
+  "꓅s瑰韄u"  # Rosario
+  "ꇋuꛂR돃w"  # RubÃ­
+  "圣꓅R"  # Sacra Familia
+  "뛂rꋃw"  # Saeta
+  "숨尔蟄t多"  # Salvador
+  "世界救主"  # Salvador del Mundo
+  "圣髂N蛂S杭郋V罗"  # San Alejandro
+  "圣鋂R郋V列믅e"  # San AndrÃ©s
+  "圣鋂R东尼奥"  # San Antonio
+  "圣鋂R东尼奥郋V帕多蟄t"  # San Antonio de Padua
+  "圣鋂R东尼奥賂T숿尼쉬믅e"  # San Antonio y Ãnimas
+  "圣鋂R东尼奥賂T숿尼쉬믅e蓂v숢ꏄR"  # San Antonio y Ãnimas la Fortuna
+  "圣奥꓃S믅e丁"  # San AugustÃ­n
+  "圣숝尔诅u多"  # San Bernando
+  "圣布觃b믅e"  # San Blas
+  "圣布臂Â뫃Â"  # San Bruno
+  "圣卡洛믅e"  # San Carlos
+  "圣卡耶塔뫃Â"  # San Cayetano
+  "圣뫃W督"  # San Cristo
+  "圣克髄Â믅e托郋V尔帕尔多"  # San Cristo del Paldo
+  "圣뫃W督賂T跄Â户"  # San Cristo y Portal
+  "圣克髄Â믅e托夫"  # San Christophe
+  "圣克髄Â믅e托뷃T尔"  # San Cristobal
+  "圣뻅Â쉬索"  # San DÃ¡maso
+  "圣귃Â戈"  # San Diego
+  "圣駄Â鯂s믅e"  # San Dimas
+  "圣苄W尔꓅Â"  # San Elmo
+  "圣苄W洛伊"  # San Eloy
+  "圣苄W믅e特万"  # San Esteban
+  "圣苄W믅e特万돃w"  # San Esteban Apedrado
+  "圣欧ꣂN尼奥"  # San Eugenio
+  "圣숹利佩"  # San Felipe
+  "圣숹利佩숿ꋃl믅e托尔"  # San Felipe Apostol
+  "圣装Â尼克믅e郋V坎塔利奥"  # San FÃ©lix de Cantalicio
+  "圣装Â尼克믅e郋V卡믅e苂Â利髂N"  # San FÃ©lix de Castilla
+  "圣装Â尼克믅e郋V索菅y罗"  # San FÃ©lix de Socorro
+  "圣숹尔明"  # San FermÃ­n
+  "圣숹尔南多"  # San Fernando
+  "圣숹尔南多奇菅y"  # San Fernando el Chico
+  "圣郂e特"  # San Foit
+  "圣弗朗쉿믅e菅y"  # San Francisco
+  "髂N쉿쉿蓂v圣ꇅe济各"  # San Francisco de AsÃ­s
+  "圣弗朗쉿믅e菅y郋V博尔賄T"  # San Francisco de Borja
+  "圣弗朗쉿믅e菅y郋V鷃O觃b"  # San Francisco de Paula
+  "圣ꇅe济Ë駂l駋R略"  # San Francisco Javier
+  "圣弗朗쉿믅e菅y觃b潘觃b"  # San Francisco la Panla
+  "圣ꇅe济各駂l駋R略"  # San Francisco Xavier
+  "圣鋂R东尼奥郋V帕多蟄t"  # San Francisco y San Antonio de Padua
+  "圣ꏄR尔ꣂN쉿奥"  # San Fulgencio
+  "圣ꃂR夫列尔"  # San Gabriel
+  "圣귃p藂Q罗"  # San Genaro
+  "圣뫄e尔볃f"  # San GermÃ¡n
+  "圣吉铃k兰"  # San Gibilan
+  "圣乔蟄t尼"  # San Giovanni
+  "圣格럃Â戈髄Â奥"  # San Gregorio
+  "圣苄W尔藂h藂Q希尔多"  # San Hermenegildo
+  "圣伊郋Vꇅe索"  # San Idefonso
+  "圣伊格诅u쉿奥"  # San Ignacio
+  "圣伊쉿多罗"  # San Isidoro
+  "圣伊쉿郋V罗"  # San Isidro
+  "圣쉫诅u罗"  # San Jenaro
+  "圣쉫罗尼꓅Â"  # San JerÃ³nimo
+  "圣华菅Â"  # San Joaquin
+  "圣쉪尔쉫"  # San Jorge
+  "圣何塞"  # San JosÃ©
+  "쉞洲圣何塞"  # San JosÃ© el Ãfrica
+  "圣何塞"  # San JosÃ©
+  "圣何塞郋V뷃u多利髂N"  # San JosÃ© de Victoria
+  "圣何塞賂T숿尼쉬믅e"  # San JosÃ© y Ãnimas
+  "圣꫃w鋂R"  # San Juan
+  "圣꫃w鋂R包苂Â믅e塔"  # San Juan Bautista
+  "圣꫃w鋂R郋Vꋃl꓅Â숨诅u"  # San Juan de Pomosana
+  "圣꫃w鋂R奇菅y"  # San Juan el Chico
+  "圣꫃w鋂R苄W万쉫利믅e塔"  # San Juan Evangelista
+  "圣꫃w鋂R藂Qꋃl穆塞뫃Â"  # San Juan Nepomuceno
+  "圣朱利鋂R"  # San JuliÃ¡n
+  "圣꫃w믅e托"  # San Justo
+  "圣苅R伦"  # San Lauren
+  "圣藄Â鋂R郋V罗"  # San Leandro
+  "圣藄Â昂"  # San LeÃ³n
+  "圣利뫃Â"  # San Lino
+  "圣洛伦佐"  # San Lorenzo
+  "圣迄Â易믅e"  # San Luis
+  "圣迄Â易믅e숝尔特兰"  # San Luis BeltrÃ¡n
+  "圣迄Â易믅e숡숨ꃂR"  # San Luis Gonzaga
+  "圣쉬菅y믅e"  # San Marcos
+  "圣쉬丁"  # San MartÃ­n
+  "圣쉬特奥"  # San Mateo
+  "圣米格尔"  # San Miguel
+  "圣米格尔苄W尔弗洛诅u"  # San Miguel el Volante
+  "圣米格尔賂T숿坎多숿"  # San Miguel y Acandoa
+  "圣诅u쉿索"  # San Narciso
+  "圣尼꓃S觃b믅e"  # San NicolÃ¡s
+  "뷃T髄Â蓂v圣尼꓃S觃b믅e"  # San NicolÃ¡s de Bari
+  "圣뫃Â숝塔"  # San Noberta
+  "圣뷃T苄R罗"  # San Pablo
+  "圣帕菅y觃b"  # San Pacora
+  "圣뷃T믅e夸숝蛂Â"  # San Pascual BailÃ³n
+  "圣佩郋V罗"  # San Pedro
+  "圣佩郋V罗숿ꋃl믅e托尔"  # San Pedro Apostol
+  "숿尔坎塔觃b蓂v圣佩郋V罗"  # San Pedro de AlcÃ¡ntara
+  "圣佩郋V罗賂T숿尼쉬믅e"  # San Pedro y Ãnimas
+  "圣佩郋V罗賂T弗朗쉿믅e菅y"  # San Pedro y Fransisco
+  "圣郅k奥"  # San PÃ­o
+  "圣觃b郂e尔"  # San Rafael
+  "圣럃Â駂Â多"  # San Raymundo
+  "圣觃b駂Â"  # San RamÃ³n
+  "圣罗껃h多"  # San Rosendo
+  "圣숨尔蟄t托"  # San Salvator
+  "圣塞뷃T믅e苂Â鋂R"  # San SebastiÃ¡n
+  "圣塞뷃T믅e苂Â鋂R賂T숿尼쉬믅e"  # San SebastiÃ¡n y las Ãnimas
+  "圣特尔꓅Â"  # San Telmo
+  "圣三一賂T乔罗"  # San Trinidad y Joroe
+  "圣뷃u껃h特 숹럃Â尔"  # San Vicente Ferrer
+  "圣뷃u껃h特"  # San Vincente
+  "圣髂N戈乘貴Â"  # San Yago a Horcajadas
+  "圣塞鳂Q"  # San ZenÃ³n
+  "圣꫃w믅e塔臂Â装Â娜"  # Sancta Justa Rufina
+  "桑圭藂Q托"  # Sanguineto
+  "圣숿쉬利娅"  # Santa Amalia
+  "圣鋂R娜"  # Santa Ana
+  "圣뷃T뷃T觃b"  # Santa BÃ¡rbara
+  "圣铃k铃k鋂R诅u"  # Santa Bibiana
+  "圣布髄Â吉뻅Â"  # Santa Brigida
+  "圣卡쉿尔뻅Â"  # Santa Casilda
+  "圣卡塔利娜"  # Santa Catalina
+  "圣塞쉿观Â髂N"  # Santa Cecilia
+  "圣克觃b觃b"  # Santa Clara
+  "圣克臂Â믅e"  # Santa Cruz
+  "圣多罗特숿"  # Santa Dorotea
+  "圣苄W琳娜"  # Santa Elena
+  "圣学者"  # Santa EscolÃ¡stica
+  "圣꓅R軄e"  # Santa Familia
+  "圣弗洛伦苂Â娜"  # Santa Florentina
+  "圣쉫特臂Â駄Â믅e"  # Santa Gertrudis
+  "圣伊藂Q丝"  # Santa InÃ©s
+  "圣伊軂Â숝尔"  # Santa Isabel
+  "圣何塞与숝戈髂N圣跃k"  # Santa Jose y Ntra. Sra. de Begoyna
+  "圣꫃w믅e塔"  # Santa Justa
+  "圣藄Â奥卡駄Â髂N"  # Santa Leocadia
+  "圣塔利뷃u蟄t特賂T숿尼钵u蓂S蛄Y믅e"  # Santa Levivate y Aniiniums
+  "圣卢쉿髂N"  # Santa LucÃ­a
+  "圣鯂s格뻅Â藄Â娜"  # Santa Magdalena
+  "圣鯂s利ꃂR丽塔"  # Santa Margarita
+  "圣鯂s丽髂N"  # Santa MarÃ­a
+  "圣鯂s丽髂N觃b卡佩扎"  # Santa MarÃ­a de la Cabeza
+  "圣鯂s丽髂N郋V特扎뫃Â믅e賂T숿尼쉬믅e"  # Santa MarÃ­a de Tezanos y las Ãnimas
+  "圣鯂s利髂N 쉬格뻅Â藄Â诅u"  # Santa MarÃ­a Magdalena
+  "圣鯂s尔塔"  # Santa Marta
+  "圣鯂s苂Â尔뻅Â"  # Santa Matilda
+  "圣꓅Â尼卡"  # Santa MÃ³nica
+  "圣诅u塔利娅"  # Santa Natalia
+  "圣鷃O觃b"  # Santa Paula
+  "圣佩尔佩ꏅV숿"  # Santa Perpetua
+  "圣丽塔"  # Santa Rita
+  "圣罗숨"  # Santa Rosa
+  "圣罗숨观Â娅"  # Santa RosalÃ­a
+  "뷃T蟅R꓅Â蓂v圣罗숨观Â娅"  # Santa RosalÃ­a de Palermo
+  "圣罗숨观Â娅뫄T蛂Â利诅u"  # Santa RosalÃ­a Golondrina
+  "圣臂Â装Â娜"  # Santa Rufina
+  "圣鋂d铃k诅u"  # Santa Sabina
+  "圣軄Â飄s娜"  # Santa Susana
+  "圣特克觃b"  # Santa Tecla
+  "圣特貴Â軂Â"  # Santa Teresa
+  "圣特貴Â軂Â"  # Santa Teresa
+  "大郋V兰껃O女"  # Santa Teresa de JesÃºs
+  "薶Â不蟅R믅e蓂v圣特貴Â軂Â"  # Santa Teresa de NÃ¡poles
+  "圣뷃u多利髂N"  # Santa Victoria
+  "圣伊軂Â숝尔"  # Santa Isabel
+  "圣地髂N뫄T"  # Santiago
+  "使鯂V圣맄Â各"  # Santiago Apostol
+  "軂洲圣地髂N뫄T"  # Santiago de AmÃ©rica
+  "圣三一"  # SantÃ­sima Trinidad
+  "돃Â圣三一賂T蓂U闄u圣跃k"  # SantÃ­sima Trinidad y Ntra. Sra. del Buen Fin
+  "돃Â圣典礼"  # SantÃ­simo Sacramento
+  "圣罗쉬蓂v뫃W督"  # Cristo de San RomÃ¡n
+  "圣多明戈"  # Santo Domingo
+  "圣托쉬믅e"  # Santo TomÃ¡s
+  "꓅Â格罗蟄Â숍蓂v圣托髄Â铃k奥"  # Santo Toribio de Mogrobejo
+  "塞뷃T믅e苂Â鋂R娜"  # Sebastiana
+  "第賂N诃S숊"  # Segunda Amistad
+  "塞藄Â髂N믅e"  # Selerais
+  "숨觃b夫鿅N"  # SeÅora Sara
+  "北ꇅe"  # SeptentriÃ³n
+  "塞髄Â奥"  # Serio
+  "塞臂Â뷃T东"  # SerpadÃ³n
+  "塞蟂e蟅R뫃Â"  # Severno
+  "塞뷃u利髂N"  # Sevillana
+  "쉛丽娜"  # Sirena
+  "君主"  # Soberano
+  "蓂Â鯋P"  # Soberbio
+  "飄`鳂U"  # Sorpresa
+  "軄Â飄s娜"  # Susana
+  "特貴Â軂Â"  # Teresa
+  "貴p蓂S"  # Terrible
+  "郅V郄c믅e"  # Tetis
+  "쉎"  # Tigre
+  "托쉬믅e賂T鯂s丽髂N"  # TomÃ¡s y MarÃ­a
+  "鳃Â쉌"  # Travela
+  "三觃S戟"  # Tridente
+  "特诃z尼뻅Â"  # Trinidad
+  "ꗃw利"  # Triunfante
+  "迄Q诃e"  # Triunfo
+  "鯄r蟅Â讴Q"  # Unicornio
+  "뷃T伦쉿髂N"  # Valenciano
+  "蟃R敢"  # Valiente
+  "숝觃b믅e菅y"  # Velasco
+  "敏捷"  # Veloz
+  "敏捷숹员"  # Veloz Pasajero
+  "ꗃw利者"  # Vencendor
+  "复蟃N者"  # Vengador
+  "复蟃N"  # Venganza
+  "幸郄Â"  # Ventura
+  "뷃u诅u믅e"  # Venus
+  "뷃u多利髂N"  # Victoria
+  "ꗃw利"  # Victorioso
+  "机쉦"  # Vigilante
+  "郅k尔뷃T숂别藂X"  # Villa de Bilbao
+  "闅e苅Â숟"  # Vincejo
+  "七蟄Â圣跃k"  # Virgen de Soledad
+  "蟄Â迄R山圣跃k"  # Virgen del Carmen
+  "꓅s瑰圣跃k"  # Virgen del Rosario
+  "万諂S"  # Viva
+  "뷃u蟄t兹"  # VivÃ¡z
+  "生活"  # Vivo
+  "ꋅÂ쉌"  # Volador
+  "ꋅÂ铃"  # Volante
+  "菂l觃b髄Â奥"  # Volario
+}
+army_names = {
+  "蟂v꓅R卫숟"  # Guardia Real
+  "$PROVINCE$鯂Q"  # EjÃ©rcito de $PROVINCE$
+}
+fleet_names = {
+  "蟂v꓅R海鯂Q"  # Armada Real
+  "$PROVINCE$숰숟"  # Flota de $PROVINCE$
+}

@@ -1,0 +1,186 @@
+﻿l_english:
+EDG_TUR_gaomen_off_button:0 "关闭§Y高门§!界面"
+EDG_TUR_gaomen_on_button:0 "打开§Y高门§!界面"
+EDG_TUR_gaomen_on_button_tt:0 "关闭§Y高门§!界面"
+EDG_TUR_gaomen_off_button_tt:0 "打开§Y高门§!界面"
+
+EDG_TUR_gaomen_GUI_big_shield_tooltip:0 "[EDG_TUR_gaomen_target.GetNameEDG_TUR_gaomen_GUI_big_shield_tooltip]"
+GetNameEDG_TUR_gaomen_GUI_big_shield_tooltip_self:0 "§Y[EDG_TUR_gaomen_target.Monarch.GetName]§!是§Y帕迪沙§!"
+GetNameEDG_TUR_gaomen_GUI_big_shield_tooltip_regency:0 "§Y[EDG_TUR_gaomen_target.Monarch.GetName]§!是§Y帕迪沙摄政§!"
+
+EDG_TUR_gaomen_authority_bg:0 "[EDG_TUR_gaomen_target.EDG_TUR_gaomen_authority_var.GetValue]"
+EDG_TUR_gaomen_authority_bg_tt:0 "[EDG_TUR_gaomen_target.EDG_TUR_gaomen_authority_var.GetValue]"
+EDG_TUR_gaomen_trigger_tt:0 "§R是§!§Y帕迪沙§!"
+EDG_TUR_gaomen_target:0 "§Y帕迪沙§!"
+EDG_TUR_gaomen_GUI_big_shield_vizier_tooltip:0 "§Y[EDG_TUR_gaomen_vizier_target.Monarch.GetName]§!是§Y大维齐尔§!"
+EDG_TUR_gaomen_vizier_target_modifier:0 "大维齐尔"
+
+EDG_TUR_gaomen_the_tag_modifier:0 "是§Y帕迪沙§!"
+NOT_EDG_TUR_gaomen_trigger_tt:0 "不是§Y帕迪沙§!"
+
+EDG_TUR_gaomen_1_reform_title_bg:0 "行政政策"
+EDG_TUR_gaomen_2_reform_title_bg:0 "经济政策"
+EDG_TUR_gaomen_3_reform_title_bg:0 "行省政策"
+
+# 委任大维齐尔
+# 提拔文官亲信
+# 授予宦官特权
+# 允许卖官鬻爵
+# 优待本地贵族
+# 强化米利特制
+
+EDG_TUR_gaomen_1_1_reform_no_tt:0 "£no£委任大维齐尔"
+EDG_TUR_gaomen_1_2_reform_no_tt:0 "£no£提拔文官亲信"
+EDG_TUR_gaomen_1_3_reform_no_tt:0 "£no£授予宦官特权"
+EDG_TUR_gaomen_1_4_reform_no_tt:0 "£no£允许卖官鬻爵"
+EDG_TUR_gaomen_1_5_reform_no_tt:0 "£no£优待本地贵族"
+EDG_TUR_gaomen_1_6_reform_no_tt:0 "£no£强化米利特制"
+
+EDG_TUR_gaomen_1_1_reform_yes_tt:0 "£yes£委任大维齐尔"
+EDG_TUR_gaomen_1_2_reform_yes_tt:0 "£yes£提拔文官亲信"
+EDG_TUR_gaomen_1_3_reform_yes_tt:0 "£yes£授予宦官特权"
+EDG_TUR_gaomen_1_4_reform_yes_tt:0 "£yes£允许卖官鬻爵"
+EDG_TUR_gaomen_1_5_reform_yes_tt:0 "£yes£优待本地贵族"
+EDG_TUR_gaomen_1_6_reform_yes_tt:0 "£yes£强化米利特制"
+
+EDG_TUR_gaomen_1_1_reform_global_flag:0 "「行政政策」委任大维齐尔"
+EDG_TUR_gaomen_1_2_reform_global_flag:0 "「行政政策」提拔文官亲信"
+EDG_TUR_gaomen_1_3_reform_global_flag:0 "「行政政策」授予宦官特权"
+EDG_TUR_gaomen_1_4_reform_global_flag:0 "「行政政策」允许卖官鬻爵"
+EDG_TUR_gaomen_1_5_reform_global_flag:0 "「行政政策」优待本地贵族"
+EDG_TUR_gaomen_1_6_reform_global_flag:0 "「行政政策」强化米利特制"
+
+# 提高包税数额
+# 外派检察官员
+# 清查全国土地
+# 没收寺庙土地
+# 鼓励商业贸易
+# 扩大市民权力
+
+EDG_TUR_gaomen_2_1_reform_no_tt:0 "£no£提高包税数额"
+EDG_TUR_gaomen_2_2_reform_no_tt:0 "£no£外派检察官员"
+EDG_TUR_gaomen_2_3_reform_no_tt:0 "£no£清查全国土地"
+EDG_TUR_gaomen_2_4_reform_no_tt:0 "£no£没收寺庙土地"
+EDG_TUR_gaomen_2_5_reform_no_tt:0 "£no£鼓励商业贸易"
+EDG_TUR_gaomen_2_6_reform_no_tt:0 "£no£扩大市民权力"
+
+EDG_TUR_gaomen_2_1_reform_yes_tt:0 "£yes£提高包税数额"
+EDG_TUR_gaomen_2_2_reform_yes_tt:0 "£yes£外派检察官员"
+EDG_TUR_gaomen_2_3_reform_yes_tt:0 "£yes£清查全国土地"
+EDG_TUR_gaomen_2_4_reform_yes_tt:0 "£yes£没收寺庙土地"
+EDG_TUR_gaomen_2_5_reform_yes_tt:0 "£yes£鼓励商业贸易"
+EDG_TUR_gaomen_2_6_reform_yes_tt:0 "£yes£扩大市民权力"
+
+EDG_TUR_gaomen_2_1_reform_global_flag:0 "「经济政策」提高包税数额"
+EDG_TUR_gaomen_2_2_reform_global_flag:0 "「经济政策」外派检察官员"
+EDG_TUR_gaomen_2_3_reform_global_flag:0 "「经济政策」清查全国土地"
+EDG_TUR_gaomen_2_4_reform_global_flag:0 "「经济政策」没收寺庙土地"
+EDG_TUR_gaomen_2_5_reform_global_flag:0 "「经济政策」鼓励商业贸易"
+EDG_TUR_gaomen_2_6_reform_global_flag:0 "「经济政策」扩大市民权力"
+
+
+# 提高行省自治
+# 封赏行省总督
+# 增收行省赋税
+# 整合行省军队
+# 榨取行省兵源
+# 调遣行省水手
+
+EDG_TUR_gaomen_3_1_reform_no_tt:0 "£no£提高行省自治"
+EDG_TUR_gaomen_3_2_reform_no_tt:0 "£no£封赏行省总督"
+EDG_TUR_gaomen_3_3_reform_no_tt:0 "£no£增收行省赋税"
+EDG_TUR_gaomen_3_4_reform_no_tt:0 "£no£整合行省军队"
+EDG_TUR_gaomen_3_5_reform_no_tt:0 "£no£榨取行省兵源"
+EDG_TUR_gaomen_3_6_reform_no_tt:0 "£no£调遣行省水手"
+
+EDG_TUR_gaomen_3_1_reform_yes_tt:0 "£yes£提高行省自治"
+EDG_TUR_gaomen_3_2_reform_yes_tt:0 "£yes£封赏行省总督"
+EDG_TUR_gaomen_3_3_reform_yes_tt:0 "£yes£增收行省赋税"
+EDG_TUR_gaomen_3_4_reform_yes_tt:0 "£yes£整合行省军队"
+EDG_TUR_gaomen_3_5_reform_yes_tt:0 "£yes£榨取行省兵源"
+EDG_TUR_gaomen_3_6_reform_yes_tt:0 "£yes£调遣行省水手"
+
+EDG_TUR_gaomen_3_1_reform_global_flag:0 "「经济政策」提高行省自治"
+EDG_TUR_gaomen_3_2_reform_global_flag:0 "「经济政策」封赏行省总督"
+EDG_TUR_gaomen_3_3_reform_global_flag:0 "「经济政策」增收行省赋税"
+EDG_TUR_gaomen_3_4_reform_global_flag:0 "「经济政策」整合行省军队"
+EDG_TUR_gaomen_3_5_reform_global_flag:0 "「经济政策」榨取行省兵源"
+EDG_TUR_gaomen_3_6_reform_global_flag:0 "「经济政策」调遣行省水手"
+
+EDG_TUR_gaomen_decree_in_10_years_tt:0 "帕迪沙每§M10年§!可以免费颁布一次§Y「帝国改革」§!\n若在§M10年§!年已经颁布过国书，那么将消耗§M25§!点§Y波斯影响力§!\n获得§M10§!点§Y凯扬灵光§!。"
+EDG_TUR_gaomen_decree_in_10_years_tt_1:0 "由于我们在§M10年§!内颁布过§Y「帝国改革」§!，我们将额外消耗§M25§!点§Y波斯影响力§!以颁布国书。\n获得§M10§!点§Y凯扬灵光§!。"
+EDG_TUR_gaomen_decree_in_10_years_tt_2:0 "由于我们在§M10年§!内未颁布过§Y「帝国改革」§!，我们将可以免费颁布国书。\n获得§M10§!点§Y凯扬灵光§!。"
+
+EDG_TUR_gaomen_reform_effect_tt:0 "我们将§Y启用§!该政策。\n再次点击将§M取消§!该政策，但费用将不会退还。"
+
+
+EDG_TUR_gaomen_decree_button_1_tt:0 "               §b建立迪万议会§!"
+EDG_TUR_gaomen_decree_button_2_tt:0 "               §b设立苏丹之眼§!"
+EDG_TUR_gaomen_decree_button_3_tt:0 "               §b改革禁宫制度§!"
+EDG_TUR_gaomen_decree_button_4_tt:0 "               §b委任禁军阿迦§!"
+EDG_TUR_gaomen_decree_button_5_tt:0 "               §b削弱大维齐尔§!"
+EDG_TUR_gaomen_decree_button_6_tt:0 "               §b设立贝勒贝伊§!"
+EDG_TUR_gaomen_decree_button_7_tt:0 "               §b扩大蒂玛尔领§!"
+EDG_TUR_gaomen_decree_button_8_tt:0 "               §b包税制标准化§!"
+EDG_TUR_gaomen_decree_button_9_tt:0 "               §b强化米利特制§!"
+EDG_TUR_gaomen_decree_button_10_tt:0 "               §b改革商业税制§!"
+EDG_TUR_gaomen_decree_button_11_tt:0 "               §b推行宗教改革§!"
+EDG_TUR_gaomen_decree_button_12_tt:0 "               §b专制主义行政§!"
+EDG_TUR_gaomen_decree_button_13_tt:0 "               §b设立近代大学§!"
+
+EDG_TUR_gaomen_decree_1_tt:0 "「帝国改革」§Y建立迪万议会§!"
+EDG_TUR_gaomen_decree_2_tt:0 "「帝国改革」§Y设立苏丹之眼§!"
+EDG_TUR_gaomen_decree_3_tt:0 "「帝国改革」§Y改革禁宫制度§!"
+EDG_TUR_gaomen_decree_4_tt:0 "「帝国改革」§Y委任禁军阿迦§!"
+EDG_TUR_gaomen_decree_5_tt:0 "「帝国改革」§Y削弱大维齐尔§!"
+EDG_TUR_gaomen_decree_6_tt:0 "「帝国改革」§Y设立贝勒贝伊§!"
+EDG_TUR_gaomen_decree_7_tt:0 "「帝国改革」§Y扩大蒂玛尔领§!"
+EDG_TUR_gaomen_decree_8_tt:0 "「帝国改革」§Y推行税制改革§!"
+EDG_TUR_gaomen_decree_9_tt:0 "「帝国改革」§Y强化米利特制§!"
+EDG_TUR_gaomen_decree_10_tt:0 "「帝国改革」§Y改革商业税制§!"
+EDG_TUR_gaomen_decree_11_tt:0 "「帝国改革」§Y推行宗教改革§!"
+EDG_TUR_gaomen_decree_12_tt:0 "「帝国改革」§Y专制主义行政§!"
+EDG_TUR_gaomen_decree_13_tt:0 "「帝国改革」§Y设立近代大学§!"
+
+EDG_TUR_gaomen_decree_in_10_years_modifier:0 "十年内推行过「帝国改革」"
+EDG_TUR_gaomen_decree_button_1_modifier:0 "「帝国改革」建立迪万议会"
+EDG_TUR_gaomen_decree_button_2_modifier:0 "「帝国改革」设立苏丹之眼"
+EDG_TUR_gaomen_decree_button_3_modifier:0 "「帝国改革」改革禁宫制度"
+EDG_TUR_gaomen_decree_button_4_modifier:0 "「帝国改革」委任禁军阿迦"
+EDG_TUR_gaomen_decree_button_5_modifier:0 "「帝国改革」削弱大维齐尔"
+EDG_TUR_gaomen_decree_button_6_modifier:0 "「帝国改革」设立贝勒贝伊"
+EDG_TUR_gaomen_decree_button_7_modifier:0 "「帝国改革」扩大蒂玛尔领"
+EDG_TUR_gaomen_decree_button_8_modifier:0 "「帝国改革」推行税制改革"
+EDG_TUR_gaomen_decree_button_9_modifier:0 "「帝国改革」强化米利特制"
+EDG_TUR_gaomen_decree_button_10_modifier:0 "「帝国改革」改革商业税制"
+EDG_TUR_gaomen_decree_button_11_modifier:0 "「帝国改革」推行宗教改革"
+EDG_TUR_gaomen_decree_button_12_modifier:0 "「帝国改革」专制主义行政"
+EDG_TUR_gaomen_decree_button_13_modifier:0 "「帝国改革」设立近代大学"
+EDG_TUR_gaomen_1_1_reform_modifier:0 "「行政政策」委任大维齐尔"
+EDG_TUR_gaomen_1_2_reform_modifier:0 "「行政政策」提拔文官亲信"
+EDG_TUR_gaomen_1_3_reform_modifier:0 "「行政政策」授予宦官特权"
+EDG_TUR_gaomen_1_4_reform_modifier:0 "「行政政策」允许卖官鬻爵"
+EDG_TUR_gaomen_1_5_reform_modifier:0 "「行政政策」优待本地贵族"
+EDG_TUR_gaomen_1_6_reform_modifier:0 "「行政政策」强化米利特制"
+EDG_TUR_gaomen_2_1_reform_modifier:0 "「经济政策」提高包税数额"
+EDG_TUR_gaomen_2_2_reform_modifier:0 "「经济政策」外派检察官员"
+EDG_TUR_gaomen_2_3_reform_modifier:0 "「经济政策」清查全国土地"
+EDG_TUR_gaomen_2_4_reform_modifier:0 "「经济政策」没收寺庙土地"
+EDG_TUR_gaomen_2_5_reform_modifier:0 "「经济政策」鼓励商业贸易"
+EDG_TUR_gaomen_2_6_reform_modifier:0 "「经济政策」扩大市民权力"
+EDG_TUR_gaomen_3_1_reform_modifier:0 "「行省政策」提高行省自治"
+EDG_TUR_gaomen_3_2_reform_modifier:0 "「行省政策」封赏行省总督"
+EDG_TUR_gaomen_3_3_reform_modifier:0 "「行省政策」增收行省赋税"
+EDG_TUR_gaomen_3_4_reform_modifier:0 "「行省政策」整合行省军队"
+EDG_TUR_gaomen_3_5_reform_modifier:0 "「行省政策」榨取行省兵源"
+EDG_TUR_gaomen_3_6_reform_modifier:0 "「行省政策」调遣行省水手"
+
+
+EDG_TUR_make_great_vizier_action_opinion:0 "任命大维齐尔"
+EDG_TUR_remove_great_vizier_action_opinion:0 "免除大维齐尔"
+
+EDG_TUR_make_great_vizier_trigger_modifier_1:0 "不称职的维齐尔"
+EDG_TUR_make_great_vizier_trigger_modifier_3:0 "大维齐尔:I「称职」"
+EDG_TUR_make_great_vizier_trigger_modifier_4:0 "大维齐尔:II「优秀」"
+EDG_TUR_make_great_vizier_trigger_modifier_5:0 "大维齐尔:III「强势」"
+EDG_TUR_make_great_vizier_trigger_modifier_6:0 "大维齐尔:IV「权臣」"

@@ -1,0 +1,9 @@
+1405.6.25 = {
+  monarch = {
+    name = "㼿易"  # Charles I
+    dynasty = "德 瓦卢瓦"  # de Valois
+    adm = 5
+    dip = 1
+    mil = 2
+  }
+}

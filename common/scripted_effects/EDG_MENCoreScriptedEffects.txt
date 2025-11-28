@@ -1,0 +1,90 @@
+EDG_MEN_paul_men = {
+	define_heir = {
+		male = yes
+		dynasty = ROOT
+		name = "保罗 "
+		monarch_name = "保罗 I 「希腊人」"
+		adm = 3
+		dip = 4
+		mil = 4
+		age = 24
+		claim = 60		
+	}
+}
+EDG_MEN_Ibash_men = {
+	define_ruler = {
+		name = "伊巴什 I「奇迹行者」"
+		dynasty = "门泰谢奥卢"
+		adm = 6
+		dip = 6
+		mil = 6
+		age = 18
+		claim = 75	
+	}
+	hidden_effect = {
+		add_ruler_personality = careful_personality
+		add_ruler_personality = kind_hearted_personality
+		add_ruler_personality = legendary_conqueror_personality
+		add_country_modifier = {
+			name = EDG_MEN_ibashi_buhun_modifier
+			duration = -1			
+		}
+			every_country = {
+				limit = {
+					marriage_with = root
+				}
+				break_marriage = root
+			}
+			if = {
+				limit = {
+					has_heir = yes
+				}
+				kill_heir = {
+					allow_new_heir = no
+				}
+			}
+			if = {
+				limit = {
+					has_consort = yes
+				}
+				remove_consort = yes
+			}	
+	}			
+}
+EDG_MEN_Zoe_ba = {
+	define_consort = {
+		name = "佐伊"
+		culture = greek
+		dynasty = "巴列奥略"
+		adm = 6
+		dip = 6
+		mil = 3
+		age = 18
+		female = yes
+	}	
+	hidden_effect = {
+		add_queen_personality = fertile_personality	
+		if = {
+			limit = {
+				has_country_modifier = EDG_MEN_ibashi_buhun_modifier
+			}
+			remove_country_modifier = EDG_MEN_ibashi_buhun_modifier					
+		}			
+	}
+}
+EDG_MEN_cons_men = {
+	define_heir = {
+		male = yes
+		dynasty = ROOT
+		name = "君士坦丁"
+		monarch_name = "君士坦丁 XI 「雷霆」"
+		claim = 100
+		adm = 6
+		dip = 6
+		mil = 6
+		age = 0
+	}
+	hidden_effect = {
+		add_heir_personality = legendary_conqueror_personality	
+	}	
+}

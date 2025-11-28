@@ -1,0 +1,9 @@
+EDG_SUG_define_ruler = {
+	define_ruler = {
+		name = "塞里奥斯"
+		adm = 5
+		dip = 5
+		mil = 5
+		age = 25
+	}
+}

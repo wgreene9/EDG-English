@@ -1,0 +1,1 @@
+capital = "Koumbi" #Remnants of the Ghana empire. 

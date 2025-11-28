@@ -1,0 +1,12 @@
+1442.7.21 = {
+  monarch = {
+    name = "钦定"  # qingding
+    dynasty = "一条"  # yitiao
+    birth_date = 1422.3.5
+    adm = 1
+    dip = 3
+    mil = 1
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = greedy_personality
+}

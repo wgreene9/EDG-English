@@ -1,0 +1,33 @@
+1422.10.22 = {
+  monarch = {
+    name = "乎都鲁 I"  # 
+    dynasty = "孛儿只斤" 
+    birth_date = 1400.2.22
+    adm = 4
+    dip = 2
+    mil = 4
+  }
+}
+1437.1.1 = {
+  leader = {
+    name = "阿拉德 阿兀出" 
+    type = general
+    fire = 2
+    shock = 3
+    manuever = 3
+    siege = 1
+    death_date = 1468.11.24
+  }
+}
+1433.7.3 = {
+  heir = {
+    name = "安巴尔赤" 
+    dynasty = "孛儿只斤" 
+    birth_date = 1433.7.3
+    death_date = 1505.10.27
+    claim = 95
+    adm = 4
+    dip = 2
+    mil = 2
+  }
+}

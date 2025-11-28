@@ -1,0 +1,237 @@
+﻿l_english:
+EDG_BOH_regent_modifier:0 "摄政议会"
+EDG_BOH_regent_ruler:0 "摄政王"
+EDG_BOH_regent_ruler_consort:0 "摄政王配偶"
+
+ EDG_al-Wali_nation:0 "瓦利国"
+ EDG_al-Wali:0 "瓦利"
+ EDG_al-Wali_CONSORT:0 "瓦利配偶"
+ EDG_TAIFADenomination:0 "泰法国"
+ EDG_TAIFA:0 "泰法"
+ EDG_TAIFA_CONSORT:0 "泰法配偶"
+ EDG_Caliphate:0 "哈里发"
+ EDG_Caliphate_NATION:0 "哈里发国"
+ EDG_Caliphate_CONSORT:0 "哈里发配偶"
+ 
+ EDG_Shangbang:0 "商帮政权"
+ EDG_BigShangbang:0 "大商帮政权"
+ EDG_GrandShangbang:0 "大商帮政权"
+ 
+ EDG_DAREN:0 "大人"
+ EDG_GEXIA:0 "阁下"
+ EDG_ZHIZHENG:0 "执政"
+ EDG_DAREN_consort_male:0 "老爷"
+ EDG_DAREN_consort_female:0 "夫人"
+ 
+ 
+ EDG_CN_Xungui_republic_name_1:0 "勋贵政权"
+ EDG_CN_Xungui_republic_name_2:0 "勋贵封建割据"
+ EDG_CN_Xungui_republic_name_3:0 "军阀联合"
+ EDG_CN_Squire_republic_name_1:0 "乡绅政权"
+ EDG_CN_Squire_republic_name_2:0 "乡绅封建割据"
+ EDG_CN_Squire_republic_name_3:0 "中华民国"
+ EDG_Xungui_name_1:0 "勋阀"
+ EDG_Xungui_name_2:0 "大勋阀"
+ EDG_Xungui_name_3:0 "军阀领袖"
+ 
+ 
+ EDG_China_celestial_empire:0 "天朝"
+ EDG_China_celestial_emperor:0 "天子"
+ EDG_China_celestial_consort_male:0 "皇夫"
+ EDG_China_celestial_consort_female:0 "皇后"
+ EDG_China_celestial_prince:0 "太子"
+ EDG_China_celestial_princess:0 "太女"
+ 
+ 
+ EDG_NOV_KNIAZ:0 "千人长"
+ EDG_SMO_republic_1:0 "国民政权"
+ EDG_SMO_republic_2:0 "国民共和国"
+ EDG_SMO_republic_3:0 "国民国家"
+ EDG_marshal_title:0 "大元帅"
+ EDG_EDG_military_junta_republic:0 "独裁军政府"
+ 
+EDG_Markgraf_state_name:0 "边境伯国"
+EDG_Markgraf:0 "边境伯爵"
+EDG_Markgraf_female:0 "女边境伯爵"
+ #
+EDG_Landgraf_state_name:0 "领地伯国"
+EDG_Landgraf:0 "领地伯爵"
+EDG_Landgraf_female:0 "女领地伯爵"
+
+EDG_Marquis_state_name:0 "侯国"
+EDG_Marquis:0 "侯爵"
+EDG_Marquis_female:0 "女侯爵"
+
+EDG_Mahdi_rank_name:0 "马赫迪国"
+EDG_Mahdi_ruler_name:0 "马赫迪"
+EDG_Mahdi_ruler_consort_name:0 "马赫迪配偶"
+
+EDG_CN_Frontier_Command_republic_name:0 "都护府"
+EDG_CN_Frontier_Command_republic_ruler_name:0 "都护"
+EDG_CN_Frontier_Command_republic_consort_name:0 "都护配偶"
+
+EDG_Bulgaria_viceroyalty_government_name:0 "帝国总督区"
+EDG_Bulgaria_viceroyalty_government_ruler_name:0 "帝国总督"
+EDG_Bulgaria_viceroyalty_government_consort_name:0 "帝国总督配偶"
+
+EDG_philosopher_king_ruler_male_name_rank_1:0 "哲人公爵"
+EDG_philosopher_king_ruler_male_name_rank_2:0 "哲人王"
+EDG_philosopher_king_ruler_male_name_rank_3:0 "至高哲人王"
+
+EDG_philosopher_king_ruler_female_name_rank_1:0 "女哲人公爵"
+EDG_philosopher_king_ruler_female_name_rank_2:0 "女哲人王"
+EDG_philosopher_king_ruler_female_name_rank_3:0 "女至高哲人王"
+
+EDG_Ambrose_Philosopher_Council_ruler_name_rank_1:0 "首席哲人"
+EDG_Ambrose_Philosopher_Council_ruler_name_rank_2:0 "尊贵首席哲人"
+EDG_Ambrose_Philosopher_Council_ruler_name_rank_3:0 "伟大首席哲人"
+
+EDG_Military_Dictatorship_Philosopher_Council_rank_name_1:0 "军事独裁政府"
+EDG_Military_Dictatorship_Philosopher_Council_rank_name_2:0 "尊贵军事独裁政府"
+EDG_Military_Dictatorship_Philosopher_Council_rank_name_3:0 "伟大军事独裁政府"
+
+EDG_Military_Dictatorship_Philosopher_Council_ruler_name_rank_1:0 "哲人保护者"
+EDG_Military_Dictatorship_Philosopher_Council_ruler_name_rank_2:0 "尊贵哲人保护者"
+EDG_Military_Dictatorship_Philosopher_Council_ruler_name_rank_3:0 "伟大哲人保护者"
+
+
+EDG_ottoman_vassals_postscript_rank_name:0 "行省"
+EDG_ottoman_vassals_postscript_ruler_name:0 "行省总督"
+
+EDG_Shahanshah_rank_name:0 "沙汗沙阿国"
+EDG_Shahanshah_ruler_name:0 "沙汗沙阿"
+
+EDG_SAV_oligarchy_reform_name_1:0 "公社"
+EDG_SAV_oligarchy_reform_name_2:0 "大公社"
+EDG_SAV_oligarchy_reform_name_3:0 "公社联邦"
+
+EDG_SAV_oligarchy_reform_ruler_1:0 "委员长"
+EDG_SAV_oligarchy_reform_ruler_2:0 "大委员长"
+EDG_SAV_oligarchy_reform_ruler_3:0 "联邦委员长"
+
+
+
+EDG_Cathar_Church_reform_name_1:0 "圣庭"
+EDG_Cathar_Church_reform_name_2:0 "大圣庭"
+EDG_Cathar_Church_reform_name_3:0 "至上圣庭"
+
+EDG_Cathar_Church_reform_ruler_1:0 "长老"
+EDG_Cathar_Church_reform_ruler_2:0 "大长老"
+EDG_Cathar_Church_reform_ruler_3:0 "至上长老"
+
+EDG_Cathar_Church_reform_heir_male:0 "圣礼司铎"
+
+EDG_Lombardy_Philosopher_Council_name_king:0 "意大利王副"
+EDG_Lombardy_Philosopher_Council_name_Queen:0 "意大利女王副"
+EDG_Lombardy_Philosopher_Council_name_KINGDOM:0 "意大利王副领地"
+
+
+EDG_slovene_Markgraf_state_name_1:0 "亲王国"
+EDG_slovene_Markgraf_state_name_2:0 "王国"
+EDG_slovene_Markgraf_ruler_male_1:0 "亲王"
+EDG_slovene_Markgraf_ruler_female_1:0 "女亲王"
+EDG_slovene_Markgraf_ruler_male_2:0 "国王"
+EDG_slovene_Markgraf_ruler_female_2:0 "女王"
+
+EDG_Germanic_Archbishop_state_name:0 "总主教区"
+EDG_Germanic_Archbishop_state_name_ruler_1:0 "全日耳曼首席大主教"
+EDG_Germanic_Archbishop_state_name_ruler_2:0 "全日耳曼首席大主教兼帝国宰相"
+EDG_Germanic_Archbishop_state_name_ruler_3:0 "普世大主教"
+
+EDG_HRE_Generalissimo_state_name_1:0 "公国兼大元帅领地"
+EDG_HRE_Generalissimo_state_name_2:0 "大公国兼大元帅领地"
+EDG_HRE_Generalissimo_state_name_3:0 "帝国"
+EDG_HRE_Generalissimo_name_ruler_male_1:0 "公爵兼帝国大元帅"
+EDG_HRE_Generalissimo_name_ruler_male_2:0 "大公兼帝国大元帅"
+EDG_HRE_Generalissimo_name_ruler_male_3:0 "凯撒"
+EDG_HRE_Generalissimo_name_ruler_female_1:0 "女公爵兼帝国大元帅"
+EDG_HRE_Generalissimo_name_ruler_female_2:0 "女大公兼帝国大元帅"
+EDG_HRE_Generalissimo_name_ruler_female_3:0 "凯瑟琳"
+
+
+EDG_HRE_Generalissimo_state_elector_name_1:0 "选帝侯国兼大元帅领地"
+EDG_HRE_Generalissimo_state_elector_name_2:0 "选帝侯国兼大元帅领地"
+EDG_HRE_Generalissimo_state_elector_name_3:0 "帝国"
+EDG_HRE_Generalissimo_name_elector_ruler_male_1:0 "选帝侯兼帝国大元帅"
+EDG_HRE_Generalissimo_name_elector_ruler_male_2:0 "选帝侯兼帝国大元帅"
+EDG_HRE_Generalissimo_name_elector_ruler_male_3:0 "凯撒"
+EDG_HRE_Generalissimo_name_elector_ruler_female_1:0 "女选帝侯兼帝国大元帅"
+EDG_HRE_Generalissimo_name_elector_ruler_female_2:0 "女选帝侯兼帝国大元帅"
+EDG_HRE_Generalissimo_name_elector_ruler_female_3:0 "凯瑟琳"
+
+
+EDG_HRE_Archbishop_state_name:0 "总主教区"
+EDG_HRE_Archbishop_state_name_ruler_1:0 "总主教"
+EDG_HRE_Archbishop_state_name_ruler_2:0 "总主教"
+EDG_HRE_Archbishop_state_name_ruler_3:0 "总主教"
+
+EDG_HRE_elector_Archbishop_state_name:0 "选帝侯总主教区"
+EDG_HRE_elector_Archbishop_state_name_ruler_1:0 "总主教选帝侯"
+EDG_HRE_elector_Archbishop_state_name_ruler_2:0 "总主教选帝侯"
+EDG_HRE_elector_Archbishop_state_name_ruler_3:0 "总主教选帝侯"
+
+EDG_Italy_peasant_republic_rank_1:0 "自由领地"
+EDG_Italy_peasant_republic_rank_2:0 "大共和国"
+EDG_Italy_peasant_republic_rank_3:0 "最伟大共和国"
+
+EDG_Italy_peasant_republic_ruler_1:0 "领袖兼守护者"
+EDG_Italy_peasant_republic_ruler_2:0 "大执政官"
+EDG_Italy_peasant_republic_ruler_3:0 "大总统"
+EDG_German_peasant_republic_ruler_1:0 "议长"
+
+EDG_German_tiny_monastery_state_name_1:0 "修道院国"
+EDG_German_tiny_monastery_ruler_male_name_1:0 "修道院长"
+EDG_German_tiny_monastery_ruler_male_name_2:0 "大修道院长"
+EDG_German_tiny_monastery_ruler_male_name_3:0 "大修道院长"
+
+EDG_HSA_free_city_name_1:0 "大自由市"
+EDG_HSA_free_city_ruler_male_1:0 "参议长"
+
+EDG_DAN_Autonomous_City_name_1:0 "自治城市"
+EDG_DAN_Autonomous_City_name_2:0 "大自治城市"
+EDG_DAN_Autonomous_City_name_3:0 "自治城市联盟"
+EDG_DAN_Autonomous_City_ruler_name_1:0 "议长"
+EDG_DAN_Autonomous_City_ruler_name_2:0 "大议长"
+EDG_DAN_Autonomous_City_ruler_name_3:0 "联邦主席"
+
+
+EDG_zongdu_ruler_name:0 "总督"
+EDG_GPL_early_rank_name:0 "公国领地"
+
+
+EDG_Germany_Confessor_republic_1_name:0 "神权共和国"
+EDG_Germany_Confessor_republic_2_name:0 "大神权共和国"
+EDG_Germany_Confessor_republic_3_name:0 "神权联邦"
+EDG_Germany_Confessor_republic_ruler_1_name:0 "精修圣人"
+
+EDG_Fayoum_system_reform_name_1:0 "马利克国"
+EDG_Fayoum_system_reform_name_2:0 "大马利克国"
+EDG_Fayoum_system_reform_name_3:0 "尔泽姆马利克国"
+EDG_Fayoum_system_reform_name_3_2:0 "穆斯坦绥尔国"
+
+EDG_Fayoum_system_reform_name_ruler_1:0 "马利克"
+EDG_Fayoum_system_reform_name_ruler_2:0 "大马利克"
+EDG_Fayoum_system_reform_name_ruler_3:0 "尔泽姆马利克"
+EDG_Fayoum_system_reform_name_ruler_3_2:0 "埃尔法尔马利克"
+
+EDG_Fayoum_system_reform_name_HEIR:0 "瓦勒斯"
+EDG_Fayoum_system_reform_name_HEIR_3:0 "沃卡瓦勒斯"
+
+EDG_mamluks_reform_name_1:0 "军团"
+EDG_mamluks_reform_name_2:0 "马利克国"
+EDG_mamluks_reform_name_3:0 "大马利克国"
+
+EDG_mamluks_reform_name_ruler_1:0 "阿塔贝格"
+EDG_mamluks_reform_name_ruler_2:0 "马利克"
+EDG_mamluks_reform_name_ruler_3:0 "大马利克"
+
+EDG_mamluks_reform_name_heir_1:0 "阿斯塔特"
+EDG_mamluks_reform_name_heir_2:0 "阿斯塔特"
+EDG_mamluks_reform_name_heir_3:0 "阿斯塔特"
+
+
+EDG_Regent_of_Ilkhan_rank_name:0 "伊尔汗摄政政府"
+EDG_Regent_of_Ilkhan_ruler_name:0 "柱国"
+
+EDG_Ilkhan_reform_rank_name:0 "兀鲁思"
+EDG_Ilkhan_reform_ruler_name:0 "沙汗沙阿与成吉思汗"

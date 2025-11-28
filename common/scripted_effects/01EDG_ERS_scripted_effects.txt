@@ -1,0 +1,347 @@
+EDG_ERS_Taixifeng_effect = {
+    410 = {
+        set_province_flag = Taixi_Feng_Reborn_flag
+        move_capital_effect = yes
+        change_province_name = "泰西封"
+        rename_capital = "亚述斯坦"
+        add_permanent_province_modifier = {
+            name = EDG_ERS_buff_5
+            duration = -1
+        }
+    }
+}
+EDG_ERS_4118_effect = {
+    4118 = {
+        cede_province = ROOT
+        add_core = ROOT
+        add_province_modifier = {
+            name = mission_EDGERSmission_216_1_1_modifier
+            duration = -1
+        }
+        change_province_name = "科克坦丁堡"
+    }
+}
+EDG_ERS_disaters_ruler_2 = { #伊朗在分裂灾难的穆扎法尔君主
+    define_ruler = {
+        male = yes
+        name = "阿尔达班"
+        dynasty = "穆扎法尔"
+        adm = 6
+        dip = 6
+        mil = 6
+        age = 25
+        claim = 100
+    }
+    add_ruler_personality = EDG_great_conqueror_personality
+}
+EDG_ERS_disaters_ruler_3 = { #伊朗在分裂灾难的月即别君主
+    define_ruler = {
+        male = yes
+        name = "卜撒因"
+        dynasty = "帖木儿"
+        adm = 6
+        dip = 6
+        mil = 6
+        age = 30
+        claim = 100
+    }
+    add_ruler_personality = EDG_great_conqueror_personality
+}
+EDG_ERS_disaters_ruler_4 = {
+    define_ruler = {
+        male = yes
+        name = "路易"
+        dynasty = "德·瓦卢瓦"
+        adm = 6
+        dip = 6
+        mil = 6
+        age = 30
+        claim = 100
+    }
+    add_ruler_personality = EDG_mythical_conqueror_personality
+}
+EDG_ERS_mission_EDGERSmission_90_opinion_1 = {
+    define_advisor = {
+        type = artist
+        name = "贾汉吉尔 阿夫拉希亚卜"
+        skill = 4
+        cost_multiplier = 0.75
+        culture = mazandarani
+        religion = zoroastrian 
+    }
+}
+mission_EDGERSmission_187_1_effect = {
+    define_general = {
+        name = "卡斯蒂利亚"
+        shock = 6
+        fire = 6
+        manuever = 6
+        siege = 4
+    }
+}
+EDG_ERS_disaster_army_1 = {
+    capital_scope = {
+        infantry = PREV
+        infantry = PREV
+        infantry = PREV
+        infantry = PREV
+        infantry = PREV
+        infantry = PREV
+        infantry = PREV
+        infantry = PREV
+        infantry = PREV
+        infantry = PREV
+        infantry = PREV
+        infantry = PREV
+        infantry = PREV
+        infantry = PREV
+        infantry = PREV
+        infantry = PREV
+        infantry = PREV
+        infantry = PREV
+        infantry = PREV
+        infantry = PREV
+        infantry = PREV
+        infantry = PREV
+        infantry = PREV
+        infantry = PREV
+        infantry = PREV
+        infantry = PREV
+        infantry = PREV
+        infantry = PREV
+        infantry = PREV
+        infantry = PREV
+        infantry = PREV
+        infantry = PREV
+        infantry = PREV
+        infantry = PREV
+        infantry = PREV
+        infantry = PREV
+        infantry = PREV
+        infantry = PREV
+        infantry = PREV
+        infantry = PREV
+        infantry = PREV
+        infantry = PREV
+        infantry = PREV
+        infantry = PREV
+        infantry = PREV
+        infantry = PREV
+        infantry = PREV
+        infantry = PREV
+        infantry = PREV
+        infantry = PREV
+        infantry = PREV
+        infantry = PREV
+        infantry = PREV
+        infantry = PREV
+        infantry = PREV
+        infantry = PREV
+        infantry = PREV
+        infantry = PREV
+        infantry = PREV
+        infantry = PREV
+        infantry = PREV
+        infantry = PREV
+        infantry = PREV
+        infantry = PREV
+        infantry = PREV
+        infantry = PREV
+        infantry = PREV
+        infantry = PREV
+        infantry = PREV
+        infantry = PREV
+    }
+}
+EDG_ERS_disaster_army_2 = {
+    capital_scope = {
+        cavalry = PREV
+        cavalry = PREV
+        cavalry = PREV
+        cavalry = PREV
+        cavalry = PREV
+        cavalry = PREV
+        cavalry = PREV
+        cavalry = PREV
+        cavalry = PREV
+        cavalry = PREV
+        cavalry = PREV
+        cavalry = PREV
+        cavalry = PREV
+        cavalry = PREV
+        cavalry = PREV
+        cavalry = PREV
+        cavalry = PREV
+        cavalry = PREV
+        cavalry = PREV
+        cavalry = PREV
+        cavalry = PREV
+        cavalry = PREV
+        cavalry = PREV
+        cavalry = PREV
+        cavalry = PREV
+        cavalry = PREV
+        cavalry = PREV
+        cavalry = PREV
+        cavalry = PREV
+        cavalry = PREV
+        cavalry = PREV
+        cavalry = PREV
+        cavalry = PREV
+        cavalry = PREV
+        cavalry = PREV
+        cavalry = PREV
+        cavalry = PREV
+        cavalry = PREV
+        cavalry = PREV
+        cavalry = PREV
+        cavalry = PREV
+        cavalry = PREV
+        cavalry = PREV
+        cavalry = PREV
+        cavalry = PREV
+        cavalry = PREV
+        cavalry = PREV
+        cavalry = PREV
+        cavalry = PREV
+        cavalry = PREV
+        cavalry = PREV
+        cavalry = PREV
+        cavalry = PREV
+        cavalry = PREV
+        cavalry = PREV
+        cavalry = PREV
+        cavalry = PREV
+        cavalry = PREV
+        cavalry = PREV
+        cavalry = PREV
+        cavalry = PREV
+        cavalry = PREV
+        cavalry = PREV
+        cavalry = PREV
+        cavalry = PREV
+        cavalry = PREV
+        cavalry = PREV
+        cavalry = PREV
+        cavalry = PREV
+        cavalry = PREV
+    }
+}
+EDG_ERS_disaster_army_3 = {
+    artillery = ROOT
+	artillery = ROOT
+	artillery = ROOT
+	artillery = ROOT
+	artillery = ROOT
+    artillery = ROOT
+	artillery = ROOT
+	artillery = ROOT
+	artillery = ROOT
+	artillery = ROOT
+    artillery = ROOT
+	artillery = ROOT
+	artillery = ROOT
+	artillery = ROOT
+	artillery = ROOT
+    artillery = ROOT
+	artillery = ROOT
+	artillery = ROOT
+	artillery = ROOT
+	artillery = ROOT
+    artillery = ROOT
+	artillery = ROOT
+	artillery = ROOT
+	artillery = ROOT
+	artillery = ROOT
+    artillery = ROOT
+	artillery = ROOT
+	artillery = ROOT
+	artillery = ROOT
+	artillery = ROOT
+    artillery = ROOT
+	artillery = ROOT
+	artillery = ROOT
+	artillery = ROOT
+	artillery = ROOT
+    artillery = ROOT
+	artillery = ROOT
+	artillery = ROOT
+	artillery = ROOT
+	artillery = ROOT
+    artillery = ROOT
+	artillery = ROOT
+	artillery = ROOT
+	artillery = ROOT
+	artillery = ROOT
+    artillery = ROOT
+	artillery = ROOT
+	artillery = ROOT
+	artillery = ROOT
+	artillery = ROOT
+    artillery = ROOT
+	artillery = ROOT
+	artillery = ROOT
+	artillery = ROOT
+	artillery = ROOT
+    artillery = ROOT
+	artillery = ROOT
+	artillery = ROOT
+	artillery = ROOT
+	artillery = ROOT
+    artillery = ROOT
+	artillery = ROOT
+	artillery = ROOT
+	artillery = ROOT
+	artillery = ROOT
+    artillery = ROOT
+	artillery = ROOT
+	artillery = ROOT
+	artillery = ROOT
+	artillery = ROOT
+}
+EDG_ERS_vassal_decision_special_effect = {
+	add_liberty_desire = -50
+    add_historical_friend = ERS
+    set_government_rank = 3
+	add_trust = {
+		who = ROOT
+		value = 25
+		mutual = yes
+	}
+    hidden_effect = {
+		set_country_flag = change_country_color_EDG_flag
+		change_country_color = { country = ROOT }
+		if = {
+			limit = { NOT = { has_country_flag = EDG_ERS_vassal_decision_special_effect_flag } }
+			set_country_flag = EDG_ERS_vassal_decision_special_effect_flag
+			add_treasury = 500
+			add_years_of_income = 2.5
+			add_yearly_manpower = 10
+			add_yearly_sailors = 10
+			add_adm_power = 200
+			add_dip_power = 200
+			add_mil_power = 200
+			change_religion = ROOT
+		}
+	}
+}
+EDG_lose_ERS_region_core_effect = {
+	hidden_effect = {
+		every_province = {
+			limit = {
+				OR = {
+					superregion = persia_superregion
+				}
+				is_core = PREV
+			}
+			remove_core = PREV
+		}
+	}
+}
+EDG_ERS_india_effect = {
+    1616 = { change_province_name = "兴杜格-伊-阿贝本" }
+    1633 = { change_province_name = "瓦拉曼迪格-伊-阿贝本" }
+    1641 = { change_province_name = "兴杜格-伊-安达罗德" }
+    1624 = { change_province_name = "兴杜格-伊-安达罗德" }
+    1620 = { change_province_name = "瓦拉曼迪格-伊-阿贝本" }
+}

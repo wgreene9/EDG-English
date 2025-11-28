@@ -1,0 +1,1 @@
+capital = "Santo Antonio da Manga"

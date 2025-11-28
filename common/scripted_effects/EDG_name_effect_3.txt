@@ -1,0 +1,134 @@
+
+EDG_flavor_LIT_1_a_effect = {
+  define_general = {
+    name = "卡西米日 雅盖隆"
+    shock = 3
+    fire = 3
+    manuever = 3
+    siege = 1
+  }
+}
+EDG_flavor_LIT_1_c_effect = {
+	define_ruler = {
+    name = "卡西米日 IV"
+		dynasty = "雅盖隆"
+		adm = 3
+		dip = 3
+		mil = 5
+		age = 17
+		claim = 95
+	}
+}
+EDG_flavor_LIT_9_a_effect = {
+  define_advisor = {
+    type = treasurer
+    name = "阿尔吉达斯 拉齐维乌"
+    skill = 2
+    cost_multiplier = 0.25
+    culture = ROOT
+  }
+}
+EDG_flavor_LIT_9_c_effect = {
+	define_ruler = {
+    name = "阿尔吉达斯 I"
+		dynasty = "拉齐维乌"
+		adm = 3
+		dip = 5
+		mil = 2
+		age = 34
+		claim = 95
+	}
+}
+EDG_flavor_FYM_205_aa_effect = {
+	define_general = {
+	  name = "拜巴尔斯 「火焰」"
+	  shock = 3
+	  fire = 5
+	  manuever = 2
+	  siege = 2
+	}
+}
+EDG_flavor_FYM_205_bb_effect = {
+	define_advisor = {
+	  type = army_reformer
+	  name = "拜巴尔斯 「火焰」"
+	  skill = 3
+	  cost_multiplier = 0.25
+	  culture = ROOT
+	}
+}
+EDG_flavor_FYM_210_aa_effect = {
+	define_general = {
+	  name = "帖木儿塔什"
+	  shock = 3
+	  fire = 4
+	  manuever = 3
+	  siege = 2
+	}
+}
+EDG_flavor_FYM_210_bb_effect = {
+	define_advisor = {
+	  type = army_reformer
+	  name = "帖木儿塔什"
+	  skill = 3
+	  cost_multiplier = 0.25
+	  culture = ROOT
+	}
+}
+EDG_flavorSHY_1_a_effect = {
+	define_heir = {
+	  name = "穆罕默德 昔班尼"
+	  dynasty = ROOT
+		claim = 95
+		adm = 5
+		dip = 3
+		mil = 6
+		age = 17
+		
+	}
+}
+NYAB_KAZ_107_a_effect = {
+	define_heir = {
+		name = "纳兀鲁斯 帖木儿"
+		monarch_name = "纳兀鲁斯 帖木儿 I 「立法者」"
+		dynasty = ROOT
+		claim = 95
+		adm = 5
+		dip = 4
+		mil = 6
+		age = 7
+		
+	}
+}
+EDG_flavor_TBR_0_A_effect = {
+	define_ruler = {
+    	name = "贾汗 沙"
+		dynasty = "巴哈杜尔"
+		adm = 5
+		dip = 4
+		mil = 5
+		age = 24
+		claim = 95
+	}
+	add_ruler_personality = bold_fighter_personality
+}
+EDG_flavor_TBR_0_B_effect = {
+	define_ruler = {
+    	name = "贾汗 沙"
+		dynasty = "巴哈杜尔"
+		adm = 5
+		dip = 4
+		mil = 5
+		age = 24
+		claim = 95
+	}
+	add_ruler_personality = bold_fighter_personality
+	define_ruler_to_general = {
+		type = general
+		fire = 4
+		shock = 4
+		manuever = 4
+		siege = 2
+		death_date = 1500.11.24
+	}
+}

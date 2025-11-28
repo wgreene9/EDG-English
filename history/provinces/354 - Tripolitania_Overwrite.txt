@@ -1,0 +1,1 @@
+capital = "Tripoli" #Tripoli in the West.

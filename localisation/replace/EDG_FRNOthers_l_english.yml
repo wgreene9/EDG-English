@@ -1,0 +1,411 @@
+﻿l_english:
+ EDG_FRN_city_disarm:0 "解除武装"
+ desc_EDG_FRN_city_disarm:0 ""
+ EDG_FRN_free_city_rule:0 "自由市准则"
+ desc_EDG_FRN_free_city_rule:0 ""
+
+ EDG_FRN_urban_defense:0 "城市防卫"
+ desc_EDG_FRN_urban_defense:0 ""
+ EDG_FRN_materials_procurement_department:0 "建材采购部门"
+ desc_EDG_FRN_materials_procurement_department:0 ""
+ EDG_FRN_branch_1:0 "法兰西分部"
+ desc_EDG_FRN_branch_1:0 ""
+ EDG_FRN_branch_2:0 "意大利分部"
+ desc_EDG_FRN_branch_2:0 ""
+ EDG_FRN_branch_3:0 "东欧分部"
+ desc_EDG_FRN_branch_3:0 ""
+ EDG_FRN_engineer_corp:0 "交叉火力"
+ desc_EDG_FRN_engineer_corp:0 ""
+ EDG_FRN_pre_building_modifier:0 "工程准备"
+ desc_EDG_FRN_pre_building_modifier:0 ""
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ building_EDG_grand_church:0 "宏伟教堂"
+ building_EDG_guild:0 "行会"
+ building_EDG_station:0 "驻地"
+ building_EDG_arsenal:0 "兵工厂"
+ building_EDG_road_network:0 "道路网"
+ building_EDG_mini_square:0 "小型广场"
+ building_EDG_center_square:0 "中心广场"
+ building_EDG_big_square:0 "大型广场"
+ building_EDG_saw_mill:0 "锯木厂"
+ building_EDG_mine:0 "矿山"
+ building_EDG_quarry:0 "采石场"
+ building_EDG_brewhouse:0 "酿酒厂"
+ building_EDG_artillery_foundry:0 "火炮铸造厂"
+ building_EDG_military_base:0 "军事基地"
+ building_EDG_printing_house:0 "印刷厂"
+ building_EDG_fortress:0 "堡垒"
+ building_EDG_fortifications:0 "防御工事"
+ building_EDG_pasture:0 "牧场"
+ building_EDG_great_project_building_small:0 "小型工地"
+ building_EDG_great_project_building_medium:0 "中型工地"
+ building_EDG_great_project_building_large:0 "大型工地"
+
+ EDG_FRN_building_complete_tt:0 "当该建筑§T建造完成§!，我们将§G获得§!其§Y建造费用一半§!的¤与少量§Y威望§!"
+
+ EDG_FRN_building_1.tt:0 "税收序列"
+ EDG_FRN_building_2.tt:0 "生产序列"
+ EDG_FRN_building_3.tt:0 "兵营序列"
+ EDG_FRN_building_4.tt:0 "军营序列"
+ EDG_FRN_building_5.tt:0 "贸易序列"
+ EDG_FRN_building_6.tt:0 "城堡序列"
+ EDG_FRN_building_7.tt:0 "工场序列"
+ EDG_FRN_building_7.trigger.tt:0 "该地区§R无法建造§!工场序列！"
+ EDG_FRN_building_8.tt:0 "防卫序列"
+ EDG_FRN_building_9.tt:0 "广场序列"
+ EDG_FRN_building_10.tt:0 "基建序列"
+ EDG_FRN_building_11.tt:0 "工业序列：锯木厂"
+ EDG_FRN_building_12.tt:0 "工业序列：矿山"
+ EDG_FRN_building_13.tt:0 "工业序列：采石场"
+ EDG_FRN_building_14.tt:0 "工业序列：酿酒厂"
+ EDG_FRN_building_15.tt:0 "军事序列：火炮铸造厂"
+ EDG_FRN_building_16.tt:0 "工业序列：印刷厂"
+ EDG_FRN_building_17.tt:0 "军事序列：军事基地"
+ EDG_FRN_building_18.tt:0 "军事序列：堡垒"
+ EDG_FRN_building_19.tt:0 "军事序列：防御工事"
+ EDG_FRN_building_20.tt:0 "工业序列：牧场"
+ 
+ 
+ EDG_FRN_main_buildng_text:0 "主要序列"
+ EDG_FRN_minor_buildng_text:0 "额外序列"
+
+ EDG_FRN_can_build_trigger.tt:0 "§Y[This.GetName]§!的§Y建造列队§!为空闲"
+ EDG_RFN_next_page.tt:0 "下一页"
+ EDG_RFN_last_page.tt:0 "上一页"
+
+ EDG_FRN_construction_attainments_mechanic:0 "§G建筑造诣§!"
+ ability_EDG_FRN_construction_attainments_mechanic:0 "§G建筑造诣§!"
+ EDG_FRN_construction_attainments:0 "§O造诣§!"
+ EDG_FRN_construction_attainments_desc:0 "§O造诣§!体现了§Y工匠协会§!对各军民建筑的整体建造水平，越高的§O造诣§!也代表着§Y协会§!能够建造更加复杂多样的设施建筑，同时§G节约§!建筑所需的§Y时间§!与§Y金钱§!成本\n\n§Y工匠协会§!给我们带来了对于§Y建筑方面§!丰富的见解与知识，因此§O造诣§!将会提供以下基础效果：\n\n-无视§T科技等级§!建造更加§Y高级§!的建筑\n-允许§Y花费人力§!£icon_manpower£而非§Y杜卡特§!¤进行§T特定建筑§!的建造\n-允许在§Y其他国家省份§!实施省份互动§T施工§!\n\n§T施工§!是一种特殊的省份交互方式，§Y工匠协会§!的存在使得我们能够在§Y其他国家§!施工建设，通过§Y花费人力§!建造建筑的方式§G赚取§!杜卡特¤，随着§O造诣§!的提升，§T施工§!也将变的§G更加高效§!\n\n§O造诣§!只能通过进行§T施工§!互动或完成§Y特殊任务§!来进行获取，建造§Y花费越高§!、§Y时间越久§!的建筑将能够获取§G越多§!的§O造诣§!，随着§O造诣§!的提升，§Y工匠协会§!将能够§G解锁§!更多的§T高级建筑§!，这些建筑将给予省份§G丰富的加成§!，以下为§O造诣§!至少为特定值时所解锁的§Y建筑序列§!：\n\n-§G5§!：§Y工场序列§!\n-§G10§!：§Y防卫序列§!\n-§G15§!：§Y广场序列§!\n-§G20§!：§Y工业序列§!与§Y军事序列§!\n\n每个§Y序列§!都将§G解锁§!一套在§Y3-5§!之间数量不等的建筑，其中大部分§T高级建筑§!都需要其他§Y基础建筑§!作为§Y前置§!，因此建造§T高级建筑§!之后§R请勿拆除基础建筑§!\n\n此外，在启用§Y基建§!理念之后，允许建设§T十分重要§!的§Y基建序列§!，该§Y序列§!的建筑建设将贯穿§Y整个任务树§!\n\n§O造诣§!还将影响§T施工§!的效率以及范围，一开始§Y工匠协会§!仅能在§Y神圣罗马帝国§!境内进行§T施工§!，随着§O造诣§!的提升，我们能够缩短§T施工§!时间，以下为§O造诣§!至少为特定值时对§T施工§!的加成：\n\n-§G25§!：§T施工§!时间§G-25%§!\n-§G50§!：§T施工§!时间§G-25%§!\n-§G75§!：§T施工§!时间§G-75%§!\n\n每当§T施工§!完成，按照§Y建筑序列§!类型提供一定的§O造诣§!，具体数值如下：\n§G+0.25§!：§Y基建序列§!\n§G+0.1§!：§Y工业序列§!、§Y军事序列§!\n§G+0.05§!：§Y其他序列§!"
+ EDG_FRN_construction_attainments_gain_modifier:0 "§O造诣§!给予的修正"
+ monthly_EDG_FRN_construction_attainments:0 "月度§O造诣§!"
+
+ EDG_FRN_artisans_association:0 "工匠协会章程"
+ EDG_FRN_artisans_association_desc:0 ""
+ EDG_FRN_free_city:0 "法兰克福自由市"
+ EDG_FRN_free_city_desc:0 ""
+ EDG_FRN_architects_meeting:0 "建筑师议会"
+ EDG_FRN_architects_meeting_desc:0 ""
+ EDG_FRN_military_engineering:0 "军事工程"
+ EDG_FRN_military_engineering_desc:0 "工欲善其事，必先利其器。"
+ EDG_FRN_engineering_headquarters:0 "法兰克福工程总署"
+ EDG_FRN_engineering_headquarters_desc:0 ""
+ mechanic_EDG_FRN_enable_investment_yes:0 "启用§Y投资§!机制"
+ mechanic_EDG_disable_make_core_yes:0 "§R禁止§!§T核心化§!省份"
+ mechanic_EDG_disable_allian_yes:0 "§R禁止§!与其他国家§T结盟§!"
+ EDG_DISABLE_MAKE_CORE_FROM_ATTRIBUTE:0 "政体§R禁止§!核心化省份"
+ EDG_DISABLE_ALLIAN_FROM_ATTRIBUTE:0 "政体§R禁止§!与其他国家同盟"
+ EDG_DISABLE_ALLIAN_FROM_ATTRIBUTE_FROM:0 "对方政体禁止达成同盟"
+ EDG_FRN_CAN_NOT_ALLIAN_WITH_OTHER:0 "法兰克福自由市禁止结盟"
+
+ EDG_occupation_ideas:0 "职业理念"
+ EDG_occupation_ideas_bonus:0 "完成职业理念"
+ EDG_occupation_ideas_1:0 "职业素养"
+ EDG_occupation_ideas_1_desc:0 "不论是军人还是士兵，都必须要遵守一个准则，这样下达的命令才能够准确无误的进行执行。"
+ EDG_occupation_ideas_2:0 "正规训练"
+ EDG_occupation_ideas_2_desc:0 "熟能生巧，只有久经考验的士兵才能够发挥出最大的能力。"
+ EDG_occupation_ideas_3:0 "制度化征召"
+ EDG_occupation_ideas_3_desc:0 "通过制定一个统一的征募标准，能够有效的筛选我们所需的士兵并提高征募效率。"
+ EDG_occupation_ideas_4:0 "皆伐行军"
+ EDG_occupation_ideas_4_desc:0 "整齐划一的军队不仅能够震慑敌人，也能够提高士兵之间的协作配合。"
+ EDG_occupation_ideas_5:0 "精英军团"
+ EDG_occupation_ideas_5_desc:0 "如果说常规军团是战场的盾牌，而精锐军团则是我们的尖刀，突破僵局的利器。"
+ EDG_occupation_ideas_6:0 "随军号手"
+ EDG_occupation_ideas_6_desc:0 "通过为队列发配随军号手能够有效的提高士兵们的士气。"
+ EDG_occupation_ideas_7:0 "围攻专精"
+ EDG_occupation_ideas_7_desc:0 "战争中最为棘手的就是围城，通过开设军事工程学课程，能够有效的提高将军们对围攻的理解。"
+ EDG_occupation_with_religion:0 "规范宣讲"
+ desc_EDG_occupation_with_religion:0 ""
+ EDG_occupation_with_infrastructure:0 "专业建筑师"
+ desc_EDG_occupation_with_infrastructure:0 ""
+ EDG_occupation_with_economic:0 "康复法案"
+ desc_EDG_occupation_with_economic:0 ""
+ EDG_occupation_with_spy:0 "职业间谍法案"
+ desc_EDG_occupation_with_spy:0 ""
+ EDG_occupation_with_administrative:0 "行政规范法案"
+ desc_EDG_occupation_with_administrative:0 ""
+ EDG_occupation_with_innovativeness:0 "教育素养法案"
+ desc_EDG_occupation_with_innovativeness:0 ""
+ EDG_occupation_with_defensive:0 "坚壁法案"
+ desc_EDG_occupation_with_defensive:0 ""
+ EDG_occupation_with_offensive:0 "联合攻势"
+ desc_EDG_occupation_with_offensive:0 ""
+ EDG_occupation_with_quality:0 "尖刀法案"
+ desc_EDG_occupation_with_quality:0 ""
+ EDG_occupation_with_peasant:0 "燃薪法案"
+ desc_EDG_occupation_with_peasant:0 ""
+
+ enable_EDG_occupation_ideas_tt:0 "启用§Y职业§!理念组"
+ mechanic_enable_EDG_occupation_ideas_yes:0 "允许启用§Y职业§!理念组"
+ mechanic_EDG_FRN_enable_delegation_yes:0 "启用§T委托§!决议"
+
+
+
+
+
+
+
+ EDG_FRN_win_from_gp_title:0 "@[Root.GetTag] §V奇迹之所§!"
+ EDG_FRN_win_from_gp_desc:0 ""
+ EDG_FRN_delegation_control_title:0 "@[Root.GetTag] §T委托§!决议显示控制"
+ EDG_FRN_delegation_control_desc:0 ""
+ EDG_FRN_delegation_control.close.tt:0 "§R关闭§!§T委托§!决议显示，当前为§G开启§!"
+ EDG_FRN_delegation_control.open.tt:0 "§G开启§!§T委托§!决议显示，当前为§R关闭§!"
+ EDG_FRN_begin_build_great_project.tt:0 "当建筑建造完成后将提升§Y1§!级§T目标奇观§!，允许§R反复修建§!直到§T目标奇观§!满级\n\n当§T目标奇观§!未达到满级时，每次修建都将获得§Y少量§!的¤\n\n当§T目标奇观§!达到满级后，将根据§Y委托等级§!获取§Y大量§!的¤与§O造诣§!，同时§G结算委托§!\n\n§Y委托等级§!从低到高排序如下：\n§J翠绿§!\n§T天青§!\n§O黄金§!\n§V传奇§!"
+ EDG_FRN_delegation_EDG_Frankfur_Romanplatz_title:0 "@[Root.GetTag] §J翠绿§!委托：§Y法兰克福罗马广场§!"
+ EDG_FRN_delegation_EDG_Frankfur_Romanplatz_desc:0 ""
+ EDG_FRN_delegation_EDG_Chateau_Rheingau_title:0 "@[Root.GetTag] §J翠绿§!委托：§Y莱茵高葡萄酒农场§!"
+ EDG_FRN_delegation_EDG_Chateau_Rheingau_desc:0 ""
+ EDG_FRN_delegation_EDG_Mainz_StMartins_Cathedral_title:0 "@[Root.GetTag] §J翠绿§!委托：§Y美因茨圣玛尔定大教堂§!"
+ EDG_FRN_delegation_EDG_Mainz_StMartins_Cathedral_desc:0 ""
+ EDG_FRN_delegation_EDG_Heiligen_Geist_Hospital_title:0 "@[Root.GetTag] §J翠绿§!委托：§Y圣灵医院教堂§!"
+ EDG_FRN_delegation_EDG_Heiligen_Geist_Hospital_desc:0 ""
+ EDG_FRN_delegation_EDG_St_Cyprian_Cathedral_title:0 "@[Root.GetTag] §J翠绿§!委托：§Y圣西普里安大教堂§!"
+ EDG_FRN_delegation_EDG_St_Cyprian_Cathedral_desc:0 ""
+ EDG_FRN_delegation_notre_dame_cathedral_title:0 "@[Root.GetTag] §J翠绿§!委托：§Y巴黎圣母院§!"
+ EDG_FRN_delegation_notre_dame_cathedral_desc:0 ""
+ EDG_FRN_delegation_EDG_Max_Castle_title:0 "@[Root.GetTag] §J翠绿§!委托：§Y马克斯城堡§!"
+ EDG_FRN_delegation_EDG_Max_Castle_desc:0 ""
+ EDG_FRN_delegation_EDG_Eltz_Castle_title:0 "@[Root.GetTag] §J翠绿§!委托：§Y埃尔茨城堡§!"
+ EDG_FRN_delegation_EDG_Eltz_Castle_desc:0 ""
+
+
+
+ EDG_FRN_delegation_EDG_Frankfurt_Cathedral_title:0 "@[Root.GetTag] §T天青§!委托：§Y皇帝大教堂§!"
+ EDG_FRN_delegation_EDG_Frankfurt_Cathedral_desc:0 ""
+ EDG_FRN_delegation_EDG_Ethel_Palace_title:0 "@[Root.GetTag] §T天青§!委托：§Y艾瑟尔行宫§!"
+ EDG_FRN_delegation_EDG_Ethel_Palace_desc:0 ""
+ EDG_FRN_delegation_EDG_Westminster_Abbey_title:0 "@[Root.GetTag] §T天青§!委托：§Y西敏寺§!"
+ EDG_FRN_delegation_EDG_Westminster_Abbey_desc:0 ""
+ EDG_FRN_delegation_EDG_Mont_Saint_Michel_title:0 "@[Root.GetTag] §T天青§!委托：§Y圣米歇尔山§!"
+ EDG_FRN_delegation_EDG_Mont_Saint_Michel_desc:0 ""
+ EDG_FRN_delegation_EDG_Lichtenstein_Castle_title:0 "@[Root.GetTag] §T天青§!委托：§Y利希滕斯坦城堡§!"
+ EDG_FRN_delegation_EDG_Lichtenstein_Castle_desc:0 ""
+
+
+
+ EDG_FRN_delegation_cologne_cathedral_title:0 "@[Root.GetTag] §O黄金§!委托：§Y科隆大教堂§!"
+ EDG_FRN_delegation_cologne_cathedral_desc:0 ""
+ EDG_FRN_delegation_ulm_minster_great_project_title:0 "@[Root.GetTag] §O黄金§!委托：§Y乌尔姆大教堂§!"
+ EDG_FRN_delegation_ulm_minster_great_project_desc:0 ""
+ EDG_FRN_delegation_EDG_Aachener_Dom_title:0 "@[Root.GetTag] §O黄金§!委托：§Y亚琛大教堂§!"
+ EDG_FRN_delegation_EDG_Aachener_Dom_desc:0 ""
+ EDG_FRN_delegation_dutch_polders_title:0 "@[Root.GetTag] §O黄金§!委托：§Y荷兰圩田§!"
+ EDG_FRN_delegation_dutch_polders_desc:0 ""
+ EDG_FRN_delegation_parthenon_title:0 "@[Root.GetTag] §O黄金§!委托：§Y帕特农神庙§!"
+ EDG_FRN_delegation_parthenon_desc:0 ""
+ EDG_FRN_delegation_EDG_Fontainebleau_title:0 "@[Root.GetTag] §O黄金§!委托：§Y枫丹白露宫§!"
+ EDG_FRN_delegation_EDG_Fontainebleau_desc:0 ""
+
+
+
+ EDG_FRN_delegation_schonbrunn_palace_title:0 "@[Root.GetTag] §V传奇§!委托：§Y美泉宫§!"
+ EDG_FRN_delegation_schonbrunn_palace_desc:0 ""
+ EDG_FRN_delegation_duomo_milano_title:0 "@[Root.GetTag] §V传奇§!委托：§Y米兰主教座堂§!"
+ EDG_FRN_delegation_duomo_milano_desc:0 ""
+ EDG_FRN_delegation_EDG_Library_of_Alexandria_title:0 "@[Root.GetTag] §V传奇§!委托：§Y亚历山大里亚图书馆§!"
+ EDG_FRN_delegation_EDG_Library_of_Alexandria_desc:0 ""
+
+
+
+
+
+ EDG_FRN_delegation_EDG_Sanctus_Spiritus_Unitas_title:0 "@[Root.GetTag] §V传奇§!委托：§Y圣灵合一教堂§!"
+ EDG_FRN_delegation_EDG_Sanctus_Spiritus_Unitas_desc:0 ""
+ EDG_FRN_delegation_riga_world_city_title:0 "@[Root.GetTag] §V传奇§!委托：§Y里加普世城§!"
+ EDG_FRN_delegation_riga_world_city_desc:0 ""
+ EDG_FRN_delegation_EDG_Sieges_Maria_und_St_Michael_title:0 "@[Root.GetTag] §V传奇§!委托：§Y圣米勒加凯旋圣母教堂§!"
+ EDG_FRN_delegation_EDG_Sieges_Maria_und_St_Michael_desc:0 ""
+ EDG_FRN_delegation_EDG_Dreifaltigkeit_Dom_title:0 "@[Root.GetTag] §V传奇§!委托：§Y圣三一天顶大教堂§!"
+ EDG_FRN_delegation_EDG_Dreifaltigkeit_Dom_desc:0 ""
+
+
+ EDG_FRN_exploration_of_building_materials_tax_title:0 "@[Root.GetTag] £icon_tax_base£建材勘探：§Y促进就业§!"
+ EDG_FRN_exploration_of_building_materials_tax_desc:0 ""
+ EDG_FRN_exploration_of_building_materials_production_title:0 "@[Root.GetTag] £icon_production_efficiency£建材勘探：§Y投资建设§!"
+ EDG_FRN_exploration_of_building_materials_production_desc:0 ""
+ EDG_FRN_exploration_of_building_materials_manpower_title:0 "@[Root.GetTag] £icon_manpower£建材勘探：§Y发掘潜力§!"
+ EDG_FRN_exploration_of_building_materials_manpower_desc:0 ""
+ EDG_FRN_exploration_of_building_materials_get_golds.tt:0 "§R失去§!等同于目标省份§Y发展度§!的¤"
+ EDG_FRN_investment_manpower:0 "已投资§G人力§!"
+ EDG_FRN_investment_tax:0 "已投资§J税收§!"
+ EDG_FRN_materials_count_glass:0 "已开发建材单位：§V玻璃§!"
+ EDG_FRN_materials_count_copper:0 "已开发建材单位：§V石料黄铜§!"
+ EDG_FRN_materials_count_gems:0 "已开发建材单位：§V黄金宝石§!"
+ EDG_FRN_materials_count_woods:0 "已开发建材单位：§V木材§!"
+ EDG_FRN_materials_count_iron:0 "已开发建材单位：§V钢铁§!"
+ EDG_FRN_materials_total_glass:0 "总建材储备：§V玻璃§!"
+ EDG_FRN_materials_total_copper:0 "总建材储备：§V石料黄铜§!"
+ EDG_FRN_materials_total_gems:0 "总建材储备：§V金银珠宝§!"
+ EDG_FRN_materials_total_woods:0 "总建材储备：§V木材§!"
+ EDG_FRN_materials_total_iron:0 "总建材储备：§V钢铁§!"
+
+
+ EDG_FRN_expand_the_division_france_title:0 "@[Root.GetTag] 建立§Y法兰西§!分部"
+ EDG_FRN_expand_the_division_france_desc:0 ""
+ EDG_FRN_expand_the_division_france.effect.tt:0 "将§T施工§!范围扩大到§Y法兰西§!、§Y伊比利亚§!与§Y不列颠§!地区"
+ EDG_FRN_expand_the_division_italy_title:0 "@[Root.GetTag] 建立§Y意大利§!分部"
+ EDG_FRN_expand_the_division_italy_desc:0 ""
+ EDG_FRN_expand_the_division_italy.effect.tt:0 "将§T施工§!范围扩大到§Y意大利§!、§Y巴尔干§!与§Y马格里布§!地区"
+ EDG_FRN_expand_the_division_east_poland_title:0 "@[Root.GetTag] 建立§Y波兰§!分部"
+ EDG_FRN_expand_the_division_east_poland_desc:0 ""
+ EDG_FRN_expand_the_division_east_poland.effect.tt:0 "将§T施工§!范围扩大到§Y波兰§!、§Y喀尔巴阡§!与§Y波罗的§!地区"
+ EDG_FRN_check_information_title:0 "@[Root.GetTag] 检查§Y道路网§!与§Y投资信息§!"
+ EDG_FRN_check_information_desc:0 ""
+ EDG_FRN_check_information.effect.tt:0 "点击决议§T高亮§!来查看已建造§Y道路网§!的省份\n\n已投资§G人力§!：§Y[EDG_FRN_investment_manpower.GetValue]§!\n年度投资§Y人力§!收入：§G[EDG_FRN_investment_manpower_copy_use.GetValue]§!£icon_manpower£\n\n已投资§J税收§!：§Y[EDG_FRN_investment_tax.GetValue]§!\n年度投资§Y税收§!收入：§G[EDG_FRN_investment_tax_copy.GetValue]§!¤\n\n[EDG_FRN_materials_count_glass.GetName]：§Y[EDG_FRN_materials_count_glass.GetValue]§!\n[EDG_FRN_materials_count_copper.GetName]：§Y[EDG_FRN_materials_count_copper.GetValue]§!\n[EDG_FRN_materials_count_gems.GetName]：§Y[EDG_FRN_materials_count_gems.GetValue]§!\n[EDG_FRN_materials_count_woods.GetName]：§Y[EDG_FRN_materials_count_woods.GetValue]§!\n[EDG_FRN_materials_count_iron.GetName]：§Y[EDG_FRN_materials_count_iron.GetValue]§!\n\n[EDG_FRN_materials_total_glass.GetName]：§J[EDG_FRN_materials_total_glass.GetValue]§!\n[EDG_FRN_materials_total_copper.GetName]：§J[EDG_FRN_materials_total_copper.GetValue]§!\n[EDG_FRN_materials_total_gems.GetName]：§J[EDG_FRN_materials_total_gems.GetValue]§!\n[EDG_FRN_materials_total_woods.GetName]：§J[EDG_FRN_materials_total_woods.GetValue]§!\n[EDG_FRN_materials_total_iron.GetName]：§J[EDG_FRN_materials_total_iron.GetValue]§!\n\n§Y玻璃§!产出效率：§Y[EDG_FRN_building_materials_improve_efficiency_for_glass_copy.GetValue]%§!\n§Y石料黄铜§!产出效率：§Y[EDG_FRN_building_materials_improve_efficiency_for_copper_copy.GetValue]%§!\n§Y金银珠宝§!产出效率：§Y[EDG_FRN_building_materials_improve_efficiency_for_gems_copy.GetValue]%§!\n§Y木料§!产出效率：§Y[EDG_FRN_building_materials_improve_efficiency_for_woods_copy.GetValue]%§!\n§Y钢铁§!产出效率：§Y[EDG_FRN_building_materials_improve_efficiency_for_iron_copy.GetValue]%§!\n国家生产效率：§Y[EDG_FRN_production_efficiency_var_copy.GetValue]%§!\n\n年度§Y玻璃§!产出：§G[EDG_FRN_materials_count_glass_copy.GetValue]§!\n年度§Y石料黄铜§!产出：§G[EDG_FRN_materials_count_copper_copy.GetValue]§!\n年度§Y金银珠宝§!产出：§G[EDG_FRN_materials_count_gems_copy.GetValue]§!\n年度§Y木料§!产出：§G[EDG_FRN_materials_count_woods_copy.GetValue]§!\n年度§Y钢铁§!产出：§G[EDG_FRN_materials_count_iron_copy.GetValue]§!\n\n点击§Y刷新§!数据"
+
+
+
+ EDG_FRN_I_level_gp_build_count:0 "完成的§J翠绿§!委托数量"
+ EDG_FRN_II_level_gp_build_count:0 "完成的§T天青§!委托数量"
+ EDG_FRN_III_level_gp_build_count:0 "完成的§O黄金§!委托数量"
+ EDG_FRN_IV_level_gp_build_count:0 "完成的§V传奇§!委托数量"
+
+
+ EDG_FRN_material_glass_need_tt:0 "已取得§T委托§!所需材料：§Y玻璃§!"
+ EDG_FRN_material_iron_need_tt:0 "已取得§T委托§!所需材料：§Y钢铁§!"
+ EDG_FRN_material_gems_need_tt:0 "已取得§T委托§!所需材料：§Y珠宝§!"
+ EDG_FRN_material_woods_need_tt:0 "已取得§T委托§!所需材料：§Y木材§!"
+ EDG_FRN_material_copper_need_tt:0 "已取得§T委托§!所需材料：§Y黄铜§!"
+
+ merc_EDG_FRN_building_materials_exploration_team:0 "§J建材勘探队§!"
+ merc_EDG_FRN_building_materials_exploration_team_desc:0 "该佣兵团拥有§Y固定规模§!\n§J该佣兵团不占用陆军上限§!"
+ merc_EDG_FRN_frankfurt_engineering_corps:0 "§J法兰克福工兵团§!"
+
+ EDG_Sanctus_Spiritus_Unitas:0 "圣灵合一教堂"
+ EDG_Sieges_Maria_und_St_Michael:0 "圣米勒加凯旋圣母教堂"
+ EDG_Dreifaltigkeit_Dom:0 "圣三一天顶大教堂"
+
+
+
+
+ EDG_Chief_Engineer:0 "首席工程师"
+ EDG_Chief_Engineer_desc:0 "首席工程师"
+ EDG_building_engineer_adm:0 "工程师£adm£"
+ EDG_building_engineer_adm_desc:0 ""
+ EDG_building_engineer_dip:0 "工程师£dip£"
+ EDG_building_engineer_dip_desc:0 ""
+ EDG_building_engineer_mil:0 "工程师£mil£"
+ EDG_building_engineer_mil_desc:0 ""
+
+
+ EDG_FRN_upgrade_gp_tt:0 "该§Y伟大工程§!已经过§Y修缮§!"
+ EDG_FRN_will_upgrade_gp_tt:0 "§G完成§!该委托能够§Y强化§!目标§Y伟大工程§!"
+ EDG_Schloss_Schonbrunn_use_trigger:0 "§Y美泉宫§!已经过§Y修缮§!"
+
+ EDG_FRN_construction_attainments_interactions_1:0 "招募工人"
+ EDG_FRN_construction_attainments_interactions_1_desc:0 ""
+ EDG_FRN_construction_attainments_interactions_2:0 "聘请工程师"
+ EDG_FRN_construction_attainments_interactions_2_desc:0 ""
+ EDG_FRN_construction_attainments_interactions_3:0 "钻研技术"
+ EDG_FRN_construction_attainments_interactions_3_desc:0 ""
+ EDG_FRN_construction_attainments_interactions_3.effect_1.tt:0 "消耗§Y所有创新度§!，每消耗§Y1§!点创新度，则：\n+§Y3§!£adm£行政点\n+§Y3§!£dip£外交点\n+§Y3§!£mil£军事点\n+§Y0.1§!建筑§O造诣§!\n+§Y1§!威望"
+ EDG_FRN_construction_attainments_interactions_3.effect_2.tt:0 "+§Y0.05%§!陆军职业度"
+ EDG_FRN_construction_attainments_interactions:0 ""
+
+
+ estate_burgher_EDG_FRN_delegation_EDG_Frankfur_Romanplatz:0 "§J计划§!：美因河之珠"
+ estate_burgher_EDG_FRN_delegation_EDG_Frankfur_Romanplatz_desc:0 "一份位于[agenda_province.GetName]的奇观建设委托"
+ estate_nobles_EDG_FRN_delegation_EDG_Chateau_Rheingau:0 "§J计划§!：葡萄酒联盟"
+ estate_nobles_EDG_FRN_delegation_EDG_Chateau_Rheingau_desc:0 "一份位于[agenda_province.GetName]的奇观建设委托"
+ estate_church_EDG_FRN_delegation_EDG_Mainz_StMartins_Cathedral:0 "§J修复§!：美因斜塔"
+ estate_church_EDG_FRN_delegation_EDG_Mainz_StMartins_Cathedral_desc:0 "一份位于[agenda_province.GetName]的奇观建设委托"
+ estate_church_EDG_FRN_delegation_EDG_Heiligen_Geist_Hospital:0 "§J修复§!：朽木不腐"
+ estate_church_EDG_FRN_delegation_EDG_Heiligen_Geist_Hospital_desc:0 "一份位于[agenda_province.GetName]的奇观建设委托"
+ estate_church_EDG_FRN_delegation_EDG_St_Cyprian_Cathedral:0 "§J计划§!：白塔双星"
+ estate_church_EDG_FRN_delegation_EDG_St_Cyprian_Cathedral_desc:0 "一份位于[agenda_province.GetName]的奇观建设委托"
+ estate_nobles_EDG_FRN_delegation_notre_dame_cathedral:0 "§J扩建!：王室之翼"
+ estate_nobles_EDG_FRN_delegation_notre_dame_cathedral_desc:0 "一份位于[agenda_province.GetName]的奇观建设委托"
+ estate_nobles_EDG_FRN_delegation_EDG_Max_Castle:0 "马克斯城堡"
+ estate_nobles_EDG_FRN_delegation_EDG_Max_Castle_desc:0 ""
+ estate_nobles_EDG_FRN_delegation_EDG_Eltz_Castle:0 "埃尔茨城堡"
+ estate_nobles_EDG_FRN_delegation_EDG_Eltz_Castle_desc:0 ""
+
+
+ estate_church_EDG_FRN_delegation_EDG_Frankfurt_Cathedral:0 "§T计划§!：皇帝的新衣"
+ estate_church_EDG_FRN_delegation_EDG_Frankfurt_Cathedral_desc:0 "一份位于[agenda_province.GetName]的奇观建设委托"
+ estate_nobles_EDG_FRN_delegation_EDG_Ethel_Palace:0 "§T计划§!：湖畔舞台"
+ estate_nobles_EDG_FRN_delegation_EDG_Ethel_Palace_desc:0 "一份位于[agenda_province.GetName]的奇观建设委托"
+ estate_church_EDG_FRN_delegation_EDG_Westminster_Abbey:0 "西敏寺"
+ estate_church_EDG_FRN_delegation_EDG_Westminster_Abbey_desc:0 "一份位于[agenda_province.GetName]的奇观建设委托"
+ estate_church_EDG_FRN_delegation_EDG_Mont_Saint_Michel:0 "圣米歇尔山"
+ estate_church_EDG_FRN_delegation_EDG_Mont_Saint_Michel_desc:0 "一份位于[agenda_province.GetName]的奇观建设委托"
+ estate_nobles_EDG_FRN_delegation_EDG_Lichtenstein_Castle:0 "利希滕斯坦城堡"
+ estate_nobles_EDG_FRN_delegation_EDG_Lichtenstein_Castle_desc:0 "一份位于[agenda_province.GetName]的奇观建设委托"
+
+
+
+ estate_church_EDG_FRN_delegation_cologne_cathedral:0 "科隆大教堂"
+ estate_church_EDG_FRN_delegation_cologne_cathedral_desc:0 "一份位于[agenda_province.GetName]的奇观建设委托"
+ estate_church_EDG_FRN_delegation_ulm_minster_great_project:0 "乌尔姆大教堂"
+ estate_church_EDG_FRN_delegation_ulm_minster_great_project_desc:0 "一份位于[agenda_province.GetName]的奇观建设委托"
+ estate_church_EDG_FRN_delegation_EDG_Aachener_Dom:0 "亚琛大教堂"
+ estate_church_EDG_FRN_delegation_EDG_Aachener_Dom_desc:0 "一份位于[agenda_province.GetName]的奇观建设委托"
+ estate_burgher_EDG_FRN_delegation_dutch_polders:0 "荷兰圩田"
+ estate_burgher_EDG_FRN_delegation_dutch_polders_desc:0 "一份位于[agenda_province.GetName]的奇观建设委托"
+ estate_nobles_EDG_FRN_delegation_parthenon:0 "帕特农神庙"
+ estate_nobles_EDG_FRN_delegation_parthenon_desc:0 "一份位于[agenda_province.GetName]的奇观建设委托"
+ estate_nobles_EDG_FRN_delegation_EDG_Fontainebleau:0 "§O计划§!：新罗马愿景"
+ estate_nobles_EDG_FRN_delegation_EDG_Fontainebleau_desc:0 "一份位于[agenda_province.GetName]的奇观建设委托"
+
+
+ estate_nobles_EDG_FRN_delegation_schonbrunn_palace:0 "美泉宫"
+ estate_nobles_EDG_FRN_delegation_schonbrunn_palace_desc:0 "一份位于[agenda_province.GetName]的奇观建设委托"
+ estate_church_EDG_FRN_delegation_duomo_milano:0 "米兰主教座堂"
+ estate_church_EDG_FRN_delegation_duomo_milano_desc:0 "一份位于[agenda_province.GetName]的奇观建设委托"
+ estate_burgher_EDG_FRN_delegation_EDG_Library_of_Alexandria:0 "§V构想§!：亚历山大之光"
+ estate_burgher_EDG_FRN_delegation_EDG_Library_of_Alexandria_desc:0 "一份位于[agenda_province.GetName]的奇观建设委托"
+ 
+
+ estate_church_EDG_FRN_delegation_building_tax:0 "建筑委托：§Y税收序列§!"
+ estate_church_EDG_FRN_delegation_building_tax_desc:0 "教士们最近为我们在[agenda_province.GetName]接取了一份建筑委托。"
+ estate_nobles_EDG_FRN_delegation_building_manpower:0 "建筑委托：§Y兵营序列§!"
+ estate_nobles_EDG_FRN_delegation_building_manpower_desc:0 "贵族们最近为我们在[agenda_province.GetName]接取了一份建筑委托。"
+ estate_nobles_EDG_FRN_delegation_building_forcelimit:0 "建筑委托：§Y军营序列§!"
+ estate_nobles_EDG_FRN_delegation_building_forcelimit_desc:0 "贵族们最近为我们在[agenda_province.GetName]接取了一份建筑委托。"
+ estate_nobles_EDG_FRN_delegation_building_artillery_foundry:0 "建筑委托：§Y火炮铸造厂§!"
+ estate_nobles_EDG_FRN_delegation_building_artillery_foundry_desc:0 "贵族们最近为我们在[agenda_province.GetName]接取了一份建筑委托。"
+ estate_nobles_EDG_FRN_delegation_building_fortifications:0 "建筑委托：§Y防御工事§!"
+ estate_nobles_EDG_FRN_delegation_building_fortifications_desc:0 "贵族们最近为我们在[agenda_province.GetName]接取了一份建筑委托。"
+ estate_nobles_EDG_FRN_delegation_building_fortress:0 "建筑委托：§Y堡垒§!"
+ estate_nobles_EDG_FRN_delegation_building_fortress_desc:0 "贵族们最近为我们在[agenda_province.GetName]接取了一份建筑委托。"
+ estate_nobles_EDG_FRN_delegation_building_military_base:0 "建筑委托：§Y军事基地§!"
+ estate_nobles_EDG_FRN_delegation_building_military_base_desc:0 "贵族们最近为我们在[agenda_province.GetName]接取了一份建筑委托。"
+ estate_church_EDG_FRN_delegation_building_prodcution:0 "建筑委托：§Y生产序列§!"
+ estate_church_EDG_FRN_delegation_building_prodcution_desc:0 "商人行会最近为我们在[agenda_province.GetName]接取了一份建筑委托。"
+ estate_church_EDG_FRN_delegation_building_trade:0 "建筑委托：§Y贸易序列§!"
+ estate_church_EDG_FRN_delegation_building_trade_desc:0 "商人行会最近为我们在[agenda_province.GetName]接取了一份建筑委托。"
+ estate_burgher_EDG_FRN_delegation_building_saw_mill:0 "建筑委托：§Y锯木厂§!"
+ estate_burgher_EDG_FRN_delegation_building_saw_mill_desc:0 "商人行会最近为我们在[agenda_province.GetName]接取了一份建筑委托。"
+ estate_burgher_EDG_FRN_delegation_building_big_square:0 "建筑委托：§Y广场§!"
+ estate_burgher_EDG_FRN_delegation_building_big_square_desc:0 "商人行会最近为我们在[agenda_province.GetName]接取了一份建筑委托。"
+ estate_burgher_EDG_FRN_delegation_building_mine:0 "建筑委托：§Y矿山§!"
+ estate_burgher_EDG_FRN_delegation_building_mine_desc:0 "商人行会最近为我们在[agenda_province.GetName]接取了一份建筑委托。"
+ estate_burgher_EDG_FRN_delegation_building_quarry:0 "建筑委托：§Y采石场§!"
+ estate_burgher_EDG_FRN_delegation_building_quarry_desc:0 "商人行会最近为我们在[agenda_province.GetName]接取了一份建筑委托。"
+ estate_burgher_EDG_FRN_delegation_building_brewhouse:0 "建筑委托：§Y酿酒厂§!"
+ estate_burgher_EDG_FRN_delegation_building_brewhouse_desc:0 "商人行会最近为我们在[agenda_province.GetName]接取了一份建筑委托。"
+ estate_burgher_EDG_FRN_delegation_building_pasture:0 "建筑委托：§Y牧场§!"
+ estate_burgher_EDG_FRN_delegation_building_pasture_desc:0 "商人行会最近为我们在[agenda_province.GetName]接取了一份建筑委托。"
+
+
+ EDG_FRN_exercise_free_city_privilege_title:0 "行使§Y自由市特权§!"
+ EDG_FRN_exercise_free_city_privilege_desc:0 "§G消除§!目标国家对§Y法兰克福§!省份的§Y宣称§!。\n\n§G取消§!目标国家§Y针对我们的宿敌§!。"
+ EDG_FRN_exercise_free_city_privilege_tooltip:0 "改善我们同对方的关系，让我们更方便的进行一些活动。"

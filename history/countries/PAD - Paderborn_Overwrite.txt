@@ -1,0 +1,10 @@
+1444.1.1 = {
+	monarch = {
+	  name = "恩格尔斯特 II"  # Stephan III
+	  dynasty = "冯 格鲝尔芬根"  # von Wittelsbach
+	  birth_date = 1422.1.1
+	  adm = 1
+	  dip = 2
+	  mil = 1
+	}
+  }

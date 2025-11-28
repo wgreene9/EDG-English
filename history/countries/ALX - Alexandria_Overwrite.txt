@@ -1,0 +1,29 @@
+change_estate_land_share = {
+  estate = estate_church
+  share = -10
+}
+change_estate_land_share = {
+  estate = estate_burghers
+  share = 10
+}
+1399.1.1 = {
+  monarch = {
+    name = "ç©ç½é»å¾· IV"  
+    dynasty = "å·´èµ«é"  
+    culture = mishary
+    adm = 4
+    dip = 4
+    mil = 0
+  }
+  add_piety = 0.5
+}
+1412.1.1 = {
+  heir = {
+    name = "è´¾ç§é©¬å"  
+    dynasty = "å·´èµ«é"  
+    culture = mishary
+    adm = 3
+    dip = 1
+    mil = 4
+  }
+}

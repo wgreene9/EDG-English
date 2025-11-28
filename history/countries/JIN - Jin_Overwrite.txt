@@ -1,0 +1,22 @@
+1439.1.1 = {
+  monarch = {
+    name = "托克托"  # Qara Yusuf
+    dynasty = "乃蛮"  # duan
+    birth_date = 1419.1.1
+    adm = 4
+    dip = 2
+    mil = 6
+  }
+}
+1439.1.1 = {
+  heir = {
+    name = "旭日干"  # Qara Yusuf
+    dynasty = "乃蛮"  # duan
+    birth_date = 1442.1.1
+    death_date = 1490.4.22
+    claim = 95
+    adm = 5
+    dip = 6
+    mil = 4
+  }
+}

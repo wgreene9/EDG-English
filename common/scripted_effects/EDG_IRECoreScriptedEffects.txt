@@ -1,0 +1,4 @@
+EDG_IRE_change_236_name_effect = {
+	change_province_name = "伦蒂纽姆"
+	rename_capital = "伦蒂纽姆"
+}

@@ -1,0 +1,9 @@
+1425.1.1 = {
+  monarch = {
+    name = "阿布海尔"  # Abu'l-Khayr
+    dynasty = "月即别"  # Shaybanid
+    dip = 2
+    adm = 4
+    mil = 5
+  }
+}

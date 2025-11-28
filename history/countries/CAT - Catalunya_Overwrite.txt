@@ -1,0 +1,18 @@
+1411.1.12 = {
+  monarch = {
+    name =  "恩里克 II" # Enric II
+    dynasty = "德 普罗旺斯"  # de Valois
+    birth_date = 1396.1.1
+    adm = 4
+    dip = 4
+    mil = 2
+    leader = {
+      name = "恩里克 #0"  # Enric
+      type = general
+      fire = 1
+      shock = 4
+      manuever = 3
+      siege = 2
+    }
+  }
+}

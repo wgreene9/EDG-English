@@ -1,0 +1,2915 @@
+﻿l_english:
+EDG_SPACE_TT:0 " "
+edg_all_our_subject_get_the_modifier_tt:0 "我们的所有§Y属国§!将会获得如下修正："
+#经济结构任务树
+ME_ADD_PRESTIGE_OR_MONARCHPOWER:0 "每§Y1§!点溢出的威望将自动转化为§Y1§!点£adm£、§Y1§!点£dip£和§Y1§!点£mil£\n\n"
+INCOME_FROM_TEMPLES_DESC:0 "从寺庙和大教堂获得"
+change_10_temple_to_cathedral_tooltip:0 "将10座§Y教堂§!改造为§Y大教堂§!"
+EDG_nobles_50_loyalty_tooltip:0 "如果§Y贵族§!的§Y忠诚度§!达到§Y50§!，那么"
+EDG_church_50_loyalty_tooltip:0 "如果§Y教士§!的§Y忠诚度§!达到§Y50§!，那么"
+IBR_conflict_end_flag_tooltip:0 "如果§Y伊比利亚的纷争§!尚未结束，那么"
+diplomatic_reputation_2_tooltip:0 "如果§Y外交声誉§!达到§Y2§!，那么"
+EDG_AEL_mission_2_7_tooltip:0 "如果§Y法兰西§!地区属于[Root.GetAdjective]或其非朝贡属国，且皈依了§Y清洁派§!，那么"
+EDG_AEL_mission_3_3_tooltip:0 "如果§Y卡普阿§!皈依了§Y清洁派§!，那么"
+EDG_AEL_mission_4_3_tooltip:0 "如果§Y阿维尼翁§!属于@AVI§Y阿维尼翁§!，那么"
+EDG_capital_scope_foth_building_yes_tooltip:0 "如果§Y$CAPITAL_CITY$§!拥有§Y要塞类建筑§!，那么"
+EDG_ARL_special_Mission_3_8_tt:0 "如果事件§Y命运之子伊斯玛仪§!没有发生，那么"
+EDG_ARL_special_Mission_spread_religion_event_tt:0 "所有符合条件的国家将触发事件§Y『皈依清洁派？』§!"
+EDG_AEL_mission_3_12_tooltip:0 "如果省份§Y[201.Capital.GetName]§!的奇观§Y艾克斯王宫§!等级达到1，那么"
+
+ EDG_SPA_economy_reform_1_modifier:0 "繁荣地区税收"
+ EDG_SPA_economy_reform_2_modifier:0 "城市手工业"
+ EDG_SPA_economy_reform_3_modifier:0 "大城市工业化"
+ EDG_SPA_economy_reform_1_modifier_desc:0 "我们的发达城市在妥善的治理下，促进了我们的经济繁荣。"
+ EDG_SPA_economy_reform_2_modifier_desc:0 "我们的发达城市在妥善的治理下，促进了我们的经济繁荣。"
+ EDG_SPA_economy_reform_3_modifier_desc:0 "我们的发达城市在妥善的治理下，促进了我们的经济繁荣。"
+ 
+#西亚任务树:0 ""
+EDG_WEST_asian_missions_1_1_title:0 "西亚商贸"
+EDG_WEST_asian_missions_1_2_title:0 "帝国宗教容忍"
+EDG_WEST_asian_missions_1_1_desc:0 "西亚在古代一直是最为富饶的地区之一，这里理应经济发达、商贸繁荣，但这一盛况总是未能出现，随着我们的崛起，我们的家园将会重登巅峰。"
+EDG_WEST_asian_missions_1_2_desc:0 "西亚的宗教问题一直十分复杂，我们需要为国家选择一条发展的道路，否则问题将会令我们十分困扰。"
+#奥斯曼
+EDG_consolidate_asia_minor_first_tooltip:0 "£yes£如果我们是第一个完成该任务的国家，那么我们将能够触发§Y战争动员§!事件。"
+EDG_consolidate_asia_minor_first_NO_tooltip:0 "£no£如果我们是第一个完成该任务的国家，那么我们将能够触发§Y战争动员§!事件。"
+
+
+EDG_conquer_levant_first_tooltip:0 "£yes£如果我们是第一个完成该任务的国家，那么我们将能够触发§Y黎凡特纺织业§!事件。"
+EDG_conquer_levant_first_NO_tooltip:0 "£no£如果我们是第一个完成该任务的国家，那么我们将能够触发§Y黎凡特纺织业§!事件。"
+
+
+EDG_conquer_southern_greece_first_tooltip:0 "£yes£如果我们是第一个完成该任务的国家，那么我们将能够触发§Y招降拜占庭帝国海军§!事件。"
+EDG_conquer_southern_greece_first_NO_tooltip:0 "£no£如果我们是第一个完成该任务的国家，那么我们将能够触发§Y招降拜占庭帝国海军§!事件。"
+
+
+#黄金时代
+EDG_GOLDEN_AGE_EXTEND_180_tooltip:0 "£yes£如果我们处于黄金时代，那么将黄金时代将延长§Y180§!个月"
+EDG_GOLDEN_AGE_EXTEND_180_NO_tooltip:0 "£no£如果我们处于黄金时代，那么将黄金时代将延长§Y180§!个月"
+
+
+EDG_flavorTUR_8_cloth:0 "黎凡特纺织业繁荣"
+
+ EDG_TUR_mission_1_1_title:0 "奥斯曼再觉醒"
+ EDG_TUR_mission_1_2_title:0 "奥斯曼统一"
+ EDG_TUR_mission_1_9_title:0 "潘诺尼亚帕夏"
+ EDG_TUR_mission_1_10_title:0 "踏碎维也纳"
+ EDG_TUR_mission_1_11_title:0 "神圣罗马前线"
+ EDG_TUR_mission_1_12_title:0 "开发山下沃地"
+ EDG_TUR_mission_1_13_title:0 "阿尔及尔工业"
+ EDG_TUR_mission_1_17_title:0 "科尔多瓦体系"
+ EDG_TUR_mission_1_18_title:0 "巴尔干贝伊团"
+ EDG_TUR_mission_1_19_title:0 "科索沃大金矿"
+ EDG_TUR_mission_2_8_title:0 "世界和平领"
+ EDG_TUR_mission_2_9_title:0 "扩大血税体系"
+ EDG_TUR_mission_2_13_title:0 "解放安达卢西亚"
+ EDG_TUR_mission_2_16_title:0 "再再征服运动"
+ EDG_TUR_mission_2_18_title:0 "统御安达卢斯"
+ EDG_TUR_mission_3_14_title:0 "黄金中转站"
+ EDG_TUR_mission_3_15_title:0 "帝国内循环"
+ EDG_TUR_mission_3_16_title:0 "意大利亚帕夏"
+ EDG_TUR_mission_3_17_title:0 "彼岸的魔鬼"
+ EDG_TUR_mission_3_18_title:0 "吸纳三岛民族"
+ EDG_TUR_mission_3_19_title:0 "罗马帝国新朝"
+ EDG_TUR_mission_4_8_title:0 "垄断黑海贸易"
+ EDG_TUR_mission_4_9_title:0 "帝国内循环"
+ EDG_TUR_mission_4_12_title:0 "众氏族之苏丹"
+ EDG_TUR_mission_4_13_title:0 "贝都因游骑兵"
+ EDG_TUR_mission_4_14_title:0 "踏上西西里"
+ EDG_TUR_mission_4_15_title:0 "意大利帕迪沙"
+ EDG_TUR_mission_4_16_title:0 "鲁米涅体系"
+ EDG_TUR_mission_4_17_title:0 "碾碎法兰克人"
+ EDG_TUR_mission_4_18_title:0 "法兰西斯坦"
+ EDG_TUR_mission_5_8_title:0 "完善贝伊体系"
+ EDG_TUR_mission_5_9_title:0 "扩大卡迪权力"
+ EDG_TUR_mission_5_10_title:0 "取消埃及自治权"
+ EDG_TUR_mission_5_11_title:0 "整治尼罗河"
+ EDG_TUR_mission_5_12_title:0 "帝国粮仓"
+ EDG_TUR_mission_5_14_title:0 "吊死威尼斯总督"
+ EDG_TUR_mission_5_15_title:0 "威尼斯帕夏"
+ EDG_TUR_mission_5_16_title:0 "拉丁契约兵团"
+ 
+ EDG_TUR_mission_1_1_desc:0 "四十年前，残暴的帖木儿率领大军入侵小亚细亚，苏丹“闪电”巴耶塞特领兵迎战，双方于1402年在安卡拉展开决战。巴耶塞特兵败被俘，后死于狱中，他的儿子们展开了血腥的内斗，直至今日都没能再次统一奥斯曼苏丹国。这样的分裂不能再继续下去，我们将会让突厥人的荣光再次照耀在东方的大地上。"
+ EDG_TUR_mission_1_2_desc:0 "在“闪电”巴耶塞特兵败安阿卡后，奥斯曼帝国四分五裂，我们的强敌在我们的背后捅了一刀又一刀，但这些屈辱的历史即将终结，因为伟大的奥斯曼帝国再度统一！"
+ EDG_TUR_mission_1_9_desc:0 "潘诺尼亚居于欧洲中心地带，约在前35年~前14年被罗马人征服，并划为一个行省。罗马后期从亚洲西伯利亚来的匈奴人在征服日耳曼人之后了横扫欧洲，并以潘诺尼亚为基地与罗马帝国对峙。引发了世界历史上著名的民族大迁徙。 395年罗马军团撤出后，潘诺尼亚行省不再存在。之后又有和匈奴关系密切的柔然人进入该地。 896年，这里曾成为阿尔帕德大公领导下的匈牙利人侵袭欧洲的基地。 中欧的大平原潘诺尼亚平原的名字即得自罗马行省潘诺尼亚。我们作为罗马帝国的后继者，自然有理由收回这一行省，安排我们的帕夏。"
+ EDG_TUR_mission_1_10_desc:0 "奥地利一直是我们的头号宿敌，早在西吉斯蒙德还是神圣罗马帝国皇帝的时候，阿尔布雷希特二世就已经被奥斯曼人杀死，这绝非我们仇恨的终点。"
+ EDG_TUR_mission_1_11_desc:0 "我们攻占了奥地利的故都，这里是我们俯视日耳曼尼亚的重要根据地，我们要在此地建立要塞，同化这里的人民，开展我们的圣战计划。"
+ EDG_TUR_mission_1_12_desc:0 "自从十字军攻陷突尼斯以来，这里一直是宗教冲突的中心，饱受战火的侵蚀，我们要重建此地的辉煌。"
+ EDG_TUR_mission_1_13_desc:0 "法蒂玛王朝、马林王朝和穆瓦希德之间的战争带来的是北非地区的贫穷与混乱，此地只有灰烬，但又毗邻重要的交通要道，急需经济上的复苏。"
+ EDG_TUR_mission_1_17_desc:0 "科尔多瓦是伍麦叶王朝辉煌的首都，此地具有极高的宗教地位，我们要在这里建设辉煌的城市和雄伟的清真寺。"
+ EDG_TUR_mission_1_18_desc:0 "巴尔干半岛历史悠久，是人类文明较早发祥地之一。南部是古希腊文化的发祥地。公元前2世纪以后，曾先后被罗马、拜占廷等帝国所统治。公元4到7世纪，匈人，阿瓦尔人，伦巴第人，保加利亚人，罗马人以及斯拉夫各民族对半岛的统治权进行过激烈的争夺，如今这里被我们完全占领，新帝国带来了全面的繁荣。"
+ EDG_TUR_mission_1_19_desc:0 "科索沃的历史悠久，据克罗地亚历史学家亚历山大斯迪帕切维奇考证，最早生活在科索沃地区的是40多个伊科里·特拉切好战的游牧部落，他们就是阿尔巴尼亚人的祖先，在前4~5世纪就在科索沃居住。6世纪末至7世纪初，大批斯拉夫移民越过多瑙河到达巴尔干定居下来。他们修建城堡、教堂，开垦荒地，把从事放牧的伊利里人赶向丘陵、山地。9世纪，南斯拉夫人中的塞尔维亚族建立了自己的国家，并在此地找到了宝贵的财富。科索沃不仅有富饶的矿产，更是一个重要的战略要地，统治科索沃就统治了巴尔干。"
+ EDG_TUR_mission_2_8_desc:0 "世界和平领是我们基于异教徒的自治领地，基于非穆斯林统治者一定的自治权是我们附庸体系的特点。"
+ EDG_TUR_mission_2_9_desc:0 "我们的附庸国是我们帝国体系的重要组成部分，对这些附庸国的军事管理有许多内容，其中一种便是对他们征收血税，要求他们提供兵源。"
+ EDG_TUR_mission_2_13_desc:0 "马林、穆瓦希德和法蒂玛王朝脆弱不堪，他们落后而腐朽，如今他们的时代结束了，马格里布必将属于我们。"
+ EDG_TUR_mission_2_16_desc:0 "伊比利亚的宗教冲突持续了数个世纪，在15世纪仍然未结束所谓的再征服运动，我们将会终结这一局面，伊比利亚将归属我们统治。"
+ EDG_TUR_mission_2_18_desc:0 "我们终结了伊比利亚的分类局面，统一了整个伊比利亚，如今伍麦叶王朝的遗产被我们继承，我们是整个伊斯兰世界无可争议的雄主。"
+ EDG_TUR_mission_3_14_desc:0 "克里特岛是爱琴海上重要的贸易中转站，威尼斯人和拜占庭帝国都苦心经营此地，如今克里特岛处于我们的统治之下，我们应当放大它的商业作用。"
+ EDG_TUR_mission_3_15_desc:0 "我们的帝国十分庞大，有广袤的市场和发达的生产体系，又有完善的商业网络可以加速商品的流通，内循环对我们而言不是一个空谈。"
+ EDG_TUR_mission_3_16_desc:0 "意大利的混乱与分裂毫无疑问是旷日持久的，但最终它统一于我们的统治之下，我们收复了罗马的故土，并在此地任命我们的帕夏。"
+ EDG_TUR_mission_3_17_desc:0 "不列颠人的邪恶与狡诈是不言而喻的，他们信仰异教，干涉全世界的内政，我们将对他们发动吉哈德。"
+ EDG_TUR_mission_3_18_desc:0 "英伦三岛近归我们的帝国，我们完成了古罗马都未曾完成的伟业，我们将同化凯尔特人与布立吞人，将他们纳入我们的帝国。"
+ EDG_TUR_mission_3_19_desc:0 "三呼万岁，为罗马帝国的新王朝！"
+ EDG_TUR_mission_4_8_desc:0 "欧洲东南部和亚洲小亚细亚半岛之间的陆间海，因水色深暗、多风暴而得名，黑海通过土耳其海峡与地中海相连接。流入黑海的重要河流有多瑙河和第聂伯河。黑海能够为我们提供广袤的市场和安全的商业空间。"
+ EDG_TUR_mission_4_9_desc:0 "黑海为我们提供广袤的市场和安全的商业空间，而我们将用过舰队保卫商人的安全。"
+ EDG_TUR_mission_4_12_desc:0 "阿拉伯人的民族来源可以上溯到远古的闪米特人部落，他们认为自己是以实玛利的后代。在历史上与亚述人、阿拉米人、迦南人、腓尼基人、希伯来人等有亲缘关系。7世纪初，伊斯兰教兴起后，各阿拉伯部落在伊斯兰教旗帜下完成统一后迅速向外扩张。8世纪中叶建立起东自印度河，西至大西洋，横跨亚、非、欧三洲的阿拉伯帝国。10世纪起，阿拉伯国势渐衰，并分裂为许多独立的哈里发政权。1055年塞尔柱土克曼人攻占巴格达，东部哈里发国遂亡。西部各哈里发国也随之先后覆灭。但哈里发的名义一直延续到1258年。阿拉伯国家在起起伏伏的过程中一直处于分裂状态，如今全阿拉伯的氏族都归属我们的统治。"
+ EDG_TUR_mission_4_13_desc:0 "贝都因人是骁勇善战的民族，他们武艺高超，能出现大量的优良骑手，将他们纳入我们的军事体系可以加强我们的骑兵力量。"
+ EDG_TUR_mission_4_14_desc:0 "在希腊语中，“西西里”意为“三颗头”，位于亚平宁半岛的西南,是意大利那只伸向地中海的皮靴上的绊脚石。它是地中海最大的岛。这里辽阔而富饶，气候温暖风景秀丽，盛产柑橘、柠檬和油橄榄。由于其发展农林业的良好自然环境，历史上被称为“金盆地”。在拜占庭的将军趁当地诺曼人内乱而征服西西里建立护国议会后，西西里被东正教徒统治，但很快，我们将征服这个“金盆地”。"
+ EDG_TUR_mission_4_15_desc:0 "我们征服全意大利，统治全意大利，是全意大利的帕迪沙。"
+ EDG_TUR_mission_4_16_desc:0 "鲁米涅体系是我们在管理意大利的行政和经济事务时建立的一种政治经济体系，我们给予当地城市一定的自治权，让市民投入对当地的管理，降低了我们的行政压力并提高了市民的积极性。"
+ EDG_TUR_mission_4_17_desc:0 "法兰克人在中世纪就对穆斯林国家充满敌意，他们多次发动十字军进攻我们，如今我们会将他们消灭。"
+ EDG_TUR_mission_4_18_desc:0 "法兰西人在历史上常常融合其他民族，我们则要将他们变成被我们融合的穆斯林。"
+ EDG_TUR_mission_5_8_desc:0 "贝伊是我们帝国地方治理的核心力量，完善对贝伊的控制和管理，保证拥有一个忠诚高效的贝伊体系将能够给予我们的政府更大的潜力。"
+ EDG_TUR_mission_5_9_desc:0 "卡迪管理着国家的治安，并掌握着地方的司法权，扩大卡迪的权力将能够制约贝伊的行政权和军事权力。"
+ EDG_TUR_mission_5_10_desc:0 "马穆鲁克长期把握埃及的权力，如同一个庞大的自治领地，但他们对埃及的管理低效而混乱，他们不值得行使如此重要的权力。"
+ EDG_TUR_mission_5_11_desc:0 "尼罗河是埃及的财富之河，完成对此河流的治理将能够促进埃及地区经济的发展，为我们提供更多的工业原材料。"
+ EDG_TUR_mission_5_12_desc:0 "埃及在罗马时期是帝国粮仓，是重要的农业殖民地，尽管在马穆鲁克时期，埃及的经济有所破坏，但如今我们将恢复埃及的繁荣。"
+ EDG_TUR_mission_5_14_desc:0 "狡诈的威尼斯人长期为我们造成困扰，此前我们没有足够的机会惩罚他们，如今我们将吊死威尼斯总督。"
+ EDG_TUR_mission_5_15_desc:0 "我们实现了对威尼斯的高度控制，当地的威尼斯帕夏为纪念帝国征服威尼斯地区，修葺了如今是帕夏行政地点的前总督宫。"
+ EDG_TUR_mission_5_16_desc:0 "拉丁人或许总是展现出怯弱的一面，但在我们帝国的军政系统下，我们将会吸取他们拥有的先进的军事科技，加强我们的军事实力。"
+ #卡拉曼
+ EDG_KAR_special_mission_1_1_title:0 "锡瓦斯法典"
+ EDG_KAR_special_mission_1_2_title:0 "突厥争霸战争"
+ EDG_KAR_special_mission_2_1_title:0 "复兴突厥民族"
+ EDG_KAR_special_mission_2_2_title:0 "肃清孽种"
+ EDG_KAR_special_mission_2_3_title:0 "毁灭埃迪尔内"
+ EDG_KAR_special_mission_2_4_title:0 "伟大突厥民族"
+ EDG_KAR_special_mission_2_5_title:0 "罗姆重生"
+ 
+ EDG_KAR_special_mission_1_1_desc:0 "随着国家步入近代化，原有的国家治理体系和政府机构渐渐不能适应我们发展和扩张的要求，在[ROOT.GetName.GetTitle]的改革下，我们在锡瓦斯颁布了新的法典，法典根据旧的习惯法汇编，但加入了更多先进的元素。"
+ EDG_KAR_special_mission_1_2_desc:0 "在帖木儿的铁拳击碎了奥斯曼帝国后，安纳托利亚陷入了分裂，突厥民族陷入了困境，必须有一个强权重新统一 突厥人，那就是我们。"
+ EDG_KAR_special_mission_2_1_desc:0 "突厥人有悠久的历史和光荣的传统，我们的荣光必须得到再现，我们的民族必须得以复兴。"
+ EDG_KAR_special_mission_2_2_desc:0 "奥斯曼人长期迫害我们的部族，如今奥斯曼王室的孽种分布在我们的周围，将他们尽数消灭是我们的职责。"
+ EDG_KAR_special_mission_2_3_desc:0 "穆罕默德二世治理下的埃迪尔内一直是我们最可怕的对手，但他终究抵挡不了我们的铁蹄。"
+ EDG_KAR_special_mission_2_4_desc:0 "伟大的突厥民族，你的军队在任何时代都战无不胜！伟大的先祖将见证我们让突厥民族重新称霸世界的历史壮举。"
+ EDG_KAR_special_mission_2_5_desc:0 "伟大的罗姆苏丹国重新屹立于大地之上，我们将奥斯曼的子孙斩尽杀绝，并将亲自带领突厥民族走向辉煌。"
+ 
+ 
+#鲁塞尼亚
+mos_rus_found_the_russian_tsardom_title:0 "俄罗斯沙皇国"
+mos_rus_found_the_russian_tsardom_desc:0 "我们注定要在俄罗斯的土地上建立伟大的帝国。"
+
+ EDG_TR_Russian_minors_2_1_Army_title:0 "国家与军队"
+ EDG_TR_Russian_minors_2_1_Army_desc:0 "鲁塞尼亚已经陷入了分裂割据的混乱之中，只有最强大的一方能够胜出。"
+ EDG_TR_Russian_minors_3_2_protect_kie_title:0 "保卫基辅"
+ EDG_TR_Russian_minors_3_2_protect_kie_desc:0 "基辅，被誉为“罗斯众城之母”。它是东斯拉夫人建立的最古老城市，位于第聂伯河右岸一块高度约90米的台地，三面濒临陡峭悬崖，形势险峻。东斯拉夫人最早的编年史《往年纪事》(作于12世纪)记载了关于“基辅城”的由来：波良人部落首领三兄弟——基伊、塞克和霍里夫共同“建造城堡，以长兄的名字命名为基辅。”其时在6-7世纪之交。这是后世基辅城的核心。基辅经历了长久的摧残，但她在未来将会屹立不倒。"
+ EDG_TR_Russian_minors_1_3_Capture_Kiev_title:0 "成为基辅大公"
+ EDG_TR_Russian_minors_1_3_Capture_Kiev_desc:0 "1380年白帐汗脱脱迷失借助帖木儿的力量击败大汗庭的权臣马买，控制了钦察汗国的主要疆土，成了钦察汗国大汗，但此时的钦察汗国经历的内乱十分血腥，对西方基辅罗斯地区的控制力有所下降。基辅王公，留里克家族的伊凡一世成为了钦察汗在基辅罗斯地区的代理人，但伊凡一世是有着自己的野心。在十四世纪末，钦察汗国逐渐衰弱，伊凡一世在基辅罗斯巩固了自己的地位，并且成功抵挡了立陶宛大公国的进攻，甚至从立陶宛人手中夺取了图罗夫和明斯克公国。伊凡一世于1440年病逝于基辅，享年83岁，他的儿子安德烈一世昏庸无能，在伊凡一世的葬礼上不尊重诸王公的封建权利，为讨好钦察汗在基辅罗斯地区横征暴敛，激起了从1443年12月开始的基辅罗斯内战，加利西亚-沃里尼亚公国、扎波罗热盖特曼国和切尔尼戈夫公国纷纷宣布独立，并宣称自己有权利成为新一任的基辅罗斯大公，展开了争夺基辅城的混战，而图罗夫王公和明斯克大主教隔岸观火，力图在失去基辅罗斯大公庇护的情况下，防备北方的立陶宛人。"
+ EDG_TR_Russian_minors_1_1_alliances_title:0 "基辅罗斯领袖"
+ EDG_TR_Russian_minors_1_1_alliances_desc:0 "伊凡一世于1440年病逝于基辅，享年83岁，他的儿子安德烈一世最终造成了基辅罗斯的分裂。我们在基辅罗斯内的旧友必然将会与我们不共戴天，但罗斯地区依然有其他潜在的盟友。"
+ EDG_TR_Russian_minors_2_1_alliances_title:0 "与莫斯科大公"
+ EDG_TR_Russian_minors_2_1_alliances_desc:0 "莫斯科大公在过去也是金帐汗在俄罗斯地区的最大包税人，尽管随着金帐汗势力的过快消逝，莫斯科大公对其他北方王公的控制力也有所下降，但他依然是东欧地区最强大的国家之一，与莫斯科大公的关系对我们而言是至关重要的。"
+ EDG_TR_Russian_minors_4_1_alliances_title:0 "唯一的大公"
+ EDG_TR_Russian_minors_4_1_alliances_desc:0 "基辅和莫斯科分别是基辅大公和莫斯科大公的首都，如今这两个城市都成为了我们的领土，我们可以向罗斯诸国宣布——再也没有其他大公了。"
+ EDG_TR_Russian_minors_2_2_conquer_ZAZ_title:0 "斩首盖特曼"
+ EDG_TR_Russian_minors_2_2_conquer_ZAZ_desc:0 "扎波罗热盖特曼国在基本盘在克里米亚半岛的黑海沿岸地区，扎波罗热是一个由哥萨克人领导的政权，他们在基辅君权旁落的时候控制了这一大草原地区，并且发展出了自己的政治军事力量，他们拥有罗斯诸国内最骁勇的骑兵，并且正如其他国家的哥萨克人一样热爱劫掠。扎波罗热人追求自由，在经历了对政治体制的探索后，最终否定罗斯王公，国家最高领袖由选举产生。"
+ EDG_TR_Russian_minors_2_3_conquer_CHR_title:0 "绞杀黑鹰"
+ EDG_TR_Russian_minors_2_3_conquer_CHR_desc:0 "统一的切尔尼戈夫公国在十四世纪初便消失了，这里原本归属留里克家族统治，但当时此地的留里克统治者反抗金帐汗，而最终被抹杀了。在十五世纪初，公国再度重建，王公头衔被给予了当地最大的家族，统治切尔尼戈夫本城的切尔尼戈夫家族。于1411年继位的切尔尼戈夫王公叶夫根尼原本并不想争夺基辅罗斯的霸权，但他更不愿向加利西亚-沃里尼亚或扎波罗热称臣，因而在1443年，他发布自卫声明，强调切尔尼戈夫在混战中的自卫属性。"
+ EDG_TR_Russian_minors_2_4_conquer_VOL_title:0 "西方缙绅"
+ EDG_TR_Russian_minors_2_4_conquer_VOL_desc:0 "在1443年爆发的基辅罗斯内战中，加利西亚-沃里尼亚王公伊凡是唯一一个主动挑起战乱的君主，尽管加利西亚-沃里尼亚的君权一向十分弱小，但伊凡天才的能力一度使国内的大贵族屈服，使得加利西亚-沃里尼亚表现出了极大的战争潜力。"
+ EDG_TR_Russian_minors_3_2_Duke_of_All_ruthenia_title:0 "全鲁塞尼亚大公"
+ EDG_TR_Russian_minors_3_2_Duke_of_All_ruthenia_desc:0 "时隔多年，鲁塞尼亚终于再度统一在同一面旗帜之下，我们是内战的最终胜利者。"
+ EDG_TR_Russian_minors_3_3_Strong_Army_title:0 "兴师振旅"
+ EDG_TR_Russian_minors_3_3_Strong_Army_desc:0 "内战的胜利并不一定能为我们带来长久的繁荣，波兰王国的继承者、立陶宛大公国以及莫斯科大公国都将对这个内战胜利者带来极大的挑战，组建一支强有力的军队是必须的。"
+ EDG_TR_Russian_minors_4_3_Strong_Army_title:0 "整合鞑靼骑兵"
+ EDG_TR_Russian_minors_4_3_Strong_Army_desc:0 "克里米亚的鞑靼人是优秀的骑兵，如果哥萨克人和鞑靼人都能成为我们骑兵力量的一部分，那么我们不仅可以获得更多的骑战能手，还能交流骑兵作战的经验。"
+ EDG_TR_Russian_minors_4_3_Strong_Army_tt:0 "在克里米亚地区和乌拉尔地区一共拥有10个省份"
+ EDG_TR_Russian_minors_5_3_Strong_Army_title:0 "第一军团"
+ EDG_TR_Russian_minors_6_3_Strong_Army_desc:0 "波兰人也是善于骑战的民族，波兰国内存在大量的小贵族，他们有一定的资产，让他们有进行私人骑兵训练的资本，这一传统最终造就了波兰骑兵的辉煌。"
+ EDG_TR_Russian_minors_6_3_Strong_Army_title:0 "波兰枪骑兵"
+ EDG_TR_Russian_minors_5_3_Strong_Army_desc:0 "随着我们征服的步伐迈向无边无尽的远方，大军团作战成为了必然的要求。鲁塞尼亚的大军团作战有自己的战术和指导，拥有更高的纪律性。"
+ EDG_TR_Russian_minors_6_3_Strong_Army_tt:0 "在波兰地区一共拥有10个省份"
+ EDG_TR_Russian_minors_3_5_Kie_title:0 "众城之母"
+ EDG_TR_Russian_minors_3_5_Kie_desc:0 "众城之母的建设是不可忽视的，鲁塞尼亚的心脏必须得到充足的发展，它必须是一个伟大的城市。"
+ EDG_TR_Russian_minors_5_6_Kie_City_title:0 "第聂伯河市镇"
+ EDG_TR_Russian_minors_5_6_Kie_City_desc:0 "众城之母的建设是不可忽视的，鲁塞尼亚的心脏必须得到充足的发展，它必须是一个伟大的城市。"
+ EDG_TR_Russian_minors_4_8_conquer_VOL_title:0 "收编人才"
+ EDG_TR_Russian_minors_4_8_conquer_VOL_desc:0 "加利西亚-沃里尼亚的君权一向十分弱小，缙绅会议常常压过君主一头，除了伊凡二世这样的贤君明主，少有君主能够驾驭国内的大贵族。"
+ EDG_TR_Russian_minors_5_7_Pereyaslav_title:0 "东岸大教堂"
+ EDG_TR_Russian_minors_5_7_Pereyaslav_desc:0 "我们应该是一个东正教国家，将东正教大教堂建设到国家的每一个富饶的土地上。"
+ EDG_TR_Russian_minors_5_11_Kill_tatar_title:0 "终结中亚游牧"
+ EDG_TR_Russian_minors_5_11_Kill_tatar_desc:0 "鞑靼人禁锢我们太久了，如果不将鞑靼人彻底驱逐出我们周边的土地，鲁塞尼亚将难以崛起。"
+ EDG_TR_Russian_minors_5_12_Kill_mongo_title:0 "鲸吞蒙古利亚"
+ EDG_TR_Russian_minors_5_12_Kill_mongo_desc:0 "蒙古利亚，一个曾经令我们难以望及的地方，从蒙古大草原上西进的征服者曾经击溃了我们。但时代变了，今天，我们才是征服者。"
+ EDG_TR_Russian_minors_5_13_Kill_China_title:0 "宣称天命"
+ EDG_TR_Russian_minors_5_13_Kill_China_desc:0 "中国有广袤而富饶的土地，如果我们能统治中国，我们完全有资格自称中华天子，这将是沙皇头上的又一个璀璨头衔。"
+ EDG_TR_Russian_minors_4_9_byz_title:0 "吞并巴尔干"
+ EDG_TR_Russian_minors_4_9_byz_desc:0 "巴尔干曾经是罗马人的土地，我们作为第三罗马，完全有理由将巴尔干半岛重新纳入我们的统治。"
+ EDG_TR_Russian_minors_4_10_byz_title:0 "东罗马遗产"
+ EDG_TR_Russian_minors_4_10_byz_desc:0 "我们的罗马帝国的继承人，我们有资格夺取罗马帝国的遗产。"
+ EDG_TR_Russian_minors_4_11_west_asia_title:0 "统治巴尔干"
+ EDG_TR_Russian_minors_4_11_west_asia_desc:0 "巴尔干民族众多，但地域辽阔且富有开发潜力，将巴尔干纳入我们的统治之下会是一个不错的选择。"
+ EDG_TR_Russian_minors_4_12_Persia_title:0 "收复小亚细亚"
+ EDG_TR_Russian_minors_4_12_Persia_desc:0 "中亚的游牧民族一直威胁着我们的边境，他们必须被征服，被伟大的鲁塞尼亚统治。"
+ EDG_TR_Russian_minors_4_13_india_title:0 "入主波斯"
+ EDG_TR_Russian_minors_4_13_india_desc:0 "伊朗高原是一个难以征服的地方，但伟大的鲁塞尼亚不会被任何人阻挡，“全波斯的万王之王”将会是我们的沙皇的又一个头衔。"
+ EDG_TR_Russian_minors_3_11_Strong_Army_title:0 "扩大外籍兵团"
+ EDG_TR_Russian_minors_3_11_Strong_Army_desc:0 "本国斯拉夫人一直是鲁塞尼亚军队的主心骨，外籍军团也一直发挥着重要的作用，但外籍军团士兵的待遇显然更低，也就是说，军队的维护成本更低。"
+ EDG_TR_Russian_minors_3_12_Strong_Army_title:0 "突厥骠骑兵"
+ EDG_TR_Russian_minors_3_12_Strong_Army_desc:0 "突厥人对历史的影响是巨大的，他们的骑兵是十分精锐的，如今他们将是鲁塞尼亚的骑兵。"
+ EDG_TR_Russian_minors_3_13_Strong_Army_title:0 "招募土兵"
+ EDG_TR_Russian_minors_3_13_Strong_Army_desc:0 "莫卧儿帝国打造大量的火炮，他们有一套成熟的生产流程和体制，虽然其中必然有腐朽落后的成分，但我们可以取其精华、去其糟粕。"
+ EDG_TR_Russian_minors_1_10_alliances_title:0 "最伟大的王公"
+ EDG_TR_Russian_minors_1_10_alliances_desc:0 "我们统一了南北，毫无疑问，是东斯拉夫人最伟大的王公，没有之一。"
+ EDG_TR_Russian_minors_1_11_ship_title:0 "保卫出海口"
+ EDG_TR_Russian_minors_1_11_ship_desc:0 "国内的一些官员总是对海军和出海口念念不忘，他们频频向沙皇提议，要求建立一支强大的海军力量。"
+ EDG_TR_Russian_minors_1_12_SWE_title:0 "古斯塔夫遗产"
+ EDG_TR_Russian_minors_1_12_SWE_desc:0 "古斯塔夫是一个天才军事家，他在瑞典实行的军事改革可以被我们继承。"
+ EDG_TR_Russian_minors_1_13_ship_title:0 "波罗地海军"
+ EDG_TR_Russian_minors_1_13_ship_desc:0 "随着我们征服了越来越多的港口，海军对我们的重要性日益体现出来。"
+ EDG_TR_Russian_minors_1_14_EEU_title:0 "全东欧的沙皇"
+ EDG_TR_Russian_minors_1_14_EEU_desc:0 "整个东欧都在我们的统治之下，我们不止是鲁塞尼亚的沙皇，俄罗斯的沙皇，还是全东欧的沙皇。"
+ EDG_TR_Russian_minors_2_9_King_of_Poland_title:0 "宣称波兰王位"
+ EDG_TR_Russian_minors_2_9_King_of_Poland_desc:0 "穆拉德二世击溃了新近的一次十字军，波兰国王瓦迪斯瓦夫三世兵败身死，西吉斯蒙德失去了最有力的继承人，而波兰因失去国王而重返实质上的分裂状态。愚笨的波兰人已经摧毁过波兰王国一次了，波兰人显然没有资格当波兰国王，东斯拉夫人才应该加冕波兰国王。"
+ EDG_TR_Russian_minors_2_10_King_of_Poland_title:0 "加冕波兰国王"
+ EDG_TR_Russian_minors_2_10_King_of_Poland_desc:0 "再也没有波兰了，至少它不会独立地出现在欧洲的地图上。"
+ EDG_TR_Russian_minors_2_11_King_of_baltic_title:0 "大北方战争"
+ EDG_TR_Russian_minors_2_11_King_of_baltic_desc:0 "波罗的海是一片富饶而美丽的海洋，却一直受到维京人和日耳曼人的控制，但我们都知道，她应该属于斯拉夫人。"
+ EDG_TR_Russian_minors_2_12_King_of_scandinavia_region_title:0 "至高王"
+ EDG_TR_Russian_minors_2_12_King_of_scandinavia_region_desc:0 "留里克曾经就是维京人，维京人在过去统治我们，我们则将在未来统治他们。"
+ EDG_TR_Russian_minors_2_13_King_of_EU_title:0 "沙皇压路机"
+ EDG_TR_Russian_minors_2_13_King_of_EU_desc:0 "沙皇拥有最强大的军队和最广袤的国土，还是罗马帝国的继承人——我们不应当仅仅满足于此，更应该成为全欧洲的沙皇。"
+ EDG_TR_Russian_minors_2_17_King_of_GM_title:0 "蚕食日耳曼"
+ EDG_TR_Russian_minors_2_17_King_of_GM_desc:0 "沙皇拥有最强大的军队和最广袤的国土，还是罗马帝国的继承人——我们不应当仅仅满足于此，更应该成为全欧洲的沙皇。日耳曼人或许很难以征服，罗马帝国对他们头疼不已，但我们终将统治全日耳曼尼亚。"
+ EDG_TR_Russian_minors_2_18_King_of_GM_title:0 "神圣罗马皇帝"
+ EDG_TR_Russian_minors_2_18_King_of_GM_desc:0 "神圣罗马帝国皇帝是一个不错的头衔，我们的沙皇应当持有它，代表我们对全天主教世界的统治。"
+ EDG_TR_Russian_minors_2_17_King_of_FA_title:0 "踏平法兰西"
+ EDG_TR_Russian_minors_2_17_King_of_FA_desc:0 "沙皇拥有最强大的军队和最广袤的国土，还是罗马帝国的继承人——我们不应当仅仅满足于此，更应该成为全欧洲的沙皇。法兰西是一片不错的土地，沙皇将会为征服该地而小小地庆祝一番。"
+ EDG_TR_Russian_minors_2_18_King_of_FA_title:0 "太阳沙皇"
+ EDG_TR_Russian_minors_2_18_King_of_FA_desc:0 "太阳王是称呼很棒，但太阳沙皇更是神圣而伟大的头衔，我们将允许我们的人民这么称呼我们伟大的君主。"
+ EDG_TR_Russian_minors_2_17_King_of_BR_title:0 "席卷不列颠"
+ EDG_TR_Russian_minors_2_17_King_of_BR_desc:0 "布立吞人、皮克特人、盎格鲁人、撒克逊人……不列颠不过是弹丸小国，我们终将统治这里所有的民族。˜"
+ EDG_TR_Russian_minors_2_18_King_of_BR_title:0 "全罗斯杜马"
+ EDG_TR_Russian_minors_2_18_King_of_BR_desc:0 "英国人喜欢议会，我们也有议会的传统，我们将学习他们议会制度中适合我们的一部分，改善属于我们的国家议会。"
+ EDG_TR_Russian_minors_2_17_King_of_IT_title:0 "踏平意大利"
+ EDG_TR_Russian_minors_2_17_King_of_IT_desc:0 "亚平宁，罗马帝国的故土，毫无疑问，这将是第三罗马的土地，毋庸置疑。"
+ EDG_TR_Russian_minors_2_18_King_of_IT_title:0 "意大利总督"
+ EDG_TR_Russian_minors_2_18_King_of_IT_desc:0 "意大利的地理位置十分重要，我们有必要安排要员统治这里，将沙皇的权威辐射至整个地中海。"
+ EDG_TR_Russian_minors_2_19_King_of_rome_title:0 "全欧洲的沙皇"
+ EDG_TR_Russian_minors_2_19_King_of_rome_desc:0 "第三罗马终将统治整个欧洲，荣耀终归于沙皇！"
+ EDG_tr_tatar_yoke_title:0 "侵入大草原"
+ EDG_tr_tatar_yoke_desc:0 "我们将会击败曾凌驾于我们之上的鞑靼人，用他们的鲜血肥沃新征服的土地。"
+ EDG_tr_cossacks_title:0 "招募哥萨克"
+ EDG_tr_cossacks_desc:0 "哥萨克人骁勇善战，一直是我们传统骑兵的核心力量，我们应当展示我们的潜力，让更多的哥萨克人投奔我们，并为击败鞑靼人和统治扎波罗热做准备。"
+ EDG_tr_ruthenia_title:0 "鲁塞尼亚建设"
+ EDG_tr_ruthenia_desc:0 "鲁塞尼亚终将回归统一，基辅罗斯的荣光终将再现，这一切荣耀都归于我们。"
+ EDG_tr_conquer_russia_title:0 "罗斯工业体系"
+ EDG_tr_conquer_russia_desc:0 "我们在北方的同胞也有一个大公，但这一现状必须结束，我们将会是南北方共同的唯一君主。"
+ EDG_TR_defeat_mos_title:0 "击败莫斯科"
+ EDG_TR_defeat_mos_desc:0 "莫斯科大公或许很强大，但我们不应该允许另一个斯拉夫王公自称大公，因为我们才是唯一的罗斯正统。"
+ EDG_tr_independence_title:0 "巩固独立"
+ EDG_tr_independence_desc:0 "独立是宝贵的财富，我们在过去被基辅大公统治，遭受基辅大公和蒙古人的压迫，如今我们必须保卫自己的独立。"
+ EDG_tr_RUS_conquer_states_title:0 "开疆拓土"
+ EDG_tr_RUS_conquer_states_desc:0 "国土静止的国家没有未来，我们必须拓展我们的国家，才能更好地保卫自己。"
+EDG_UKR_TOP_assemble_an_army_title:0 "兵戈扰攘"
+EDG_UKR_TOP_assemble_an_army_desc:0 "分裂的罗斯地区必然是兵戈扰攘的混战之地，我们要调集强大的军事力量，才能维护自己的利益。"
+ EDG_TR_expand_country_mission_title:0 "专制与霸权"
+ EDG_TR_expand_country_mission_desc:0 "扩张我们的国土不仅是我们的要求，也是时代的要求，东欧的土地上只能有一个霸主，那只能是我们。而要达成这一目标，我们必须有辽阔的国土和专制的统治。"
+ EDG_tr_kiev_title:0 "重建基辅"
+ EDG_tr_kiev_desc:0 "基辅饱受摧残，它伤痕累累，但我们将重建它，让它重新成为伟大的城市。"
+ EDG_TR_Russian_minors_5_14_King_of_China_title:0 "中华天子"
+ EDG_TR_Russian_minors_5_14_King_of_China_desc:0 "我们已经稳固了在全中国的统治，我们是中华天子！"
+ EDG_TR_Russian_minors_2_14_overlooking_the_world_title:0 "世界征服者"
+ EDG_TR_Russian_minors_2_14_overlooking_the_world_desc:0 "罗斯帝国的威名从爱尔兰到契丹无人不知无人不晓，伟大的罗斯母亲已经是世界上最为强大的帝国，没有之一，我们征服了半个世界，并终将征服这个世界剩下的一半领土。"
+  EDG_TR_Russian_minors_5_16_xbly_title:0 "扩土东疆"
+   EDG_TR_Russian_minors_5_16_xbly_desc:0 "西伯利亚有广袤的未开发的土地，我们应当消灭可能的竞争者，如果将我们的国土向东部扩展。"
+  EDG_TR_Russian_minors_5_17_xbly_title:0 "广袤雪原"
+   EDG_TR_Russian_minors_5_17_xbly_desc:0 "广袤的雪原需要有统治者，而统治一大片土地需要更好的行政体系，而更好的行政体系可以促进我们对东方的开垦。"
+  EDG_TR_Russian_minors_5_18_xbly_title:0 "西伯利亚王国"
+   EDG_TR_Russian_minors_5_18_xbly_desc:0 "全西伯利亚都在我们脚下，沙皇为这个广阔的地区创建了一个全新的王国头衔，并鼓励伟大的罗斯跨国海峡，前往美洲。"
+ 
+ 
+ 
+ 
+#沃里尼亚
+    EDG_VOL_special_mission_1_4_title:0 "沃里尼亚时代"
+    EDG_VOL_special_mission_1_4_desc:0 "十五世纪的后半期将是沃里尼亚的时代，伟大的伊凡二世将能够带领我们成为地区第一强权！"
+    EDG_VOL_special_mission_1_5_title:0 "沃里尼亚大集市"
+    EDG_VOL_special_mission_1_5_desc:0 "沃里尼亚一直是我们的经济中心和贸易中心，如果能在沃里尼亚建造一座规模庞大的集市，能够为我们带来巨大的好处。"
+    EDG_VOL_special_mission_2_5_title:0 "行政改革"
+    EDG_VOL_special_mission_2_5_desc:0 "早在伊凡二世上台初期，沃里尼亚的君主就开始了国家的行政改革，如今我们终于完成了这个艰巨的任务。"
+    EDG_VOL_special_mission_3_5_title:0 "军队西化"
+    EDG_VOL_special_mission_3_5_desc:0 "时代不停地变化，我们传统的军队似乎越来越不能应对飞速变化的战争局势。国内的将军发现，西欧人的军队要比我们更加训练有素，更具有战争潜力。"
+    EDG_VOL_special_mission_5_3_title:0 "稳定缙绅议会"
+    EDG_VOL_special_mission_5_3_desc:0 "旧缙绅议会一直是沃里尼亚国家的一颗肿瘤，这颗肿瘤太过巨大，以致于不适合立刻清除，否则国内的缙绅将会大力反弹。"
+    EDG_VOL_special_mission_5_4_title:0 "改革缙绅议会"
+    EDG_VOL_special_mission_5_4_desc:0 "我们已经取缔了旧缙绅议会，而建立了一个更利于王公进行中央集权的新缙绅议会，这将能够大大利于我们接下来的改革。"
+    EDG_VOL_special_mission_5_5_title:0 "一切归于沙皇"
+    EDG_VOL_special_mission_5_5_desc:0 "缙绅议会的时代已经一去不复返，我们再也不需要它作为国家最高权力机构了，现在一切权力属于沙皇！"
+ #扎波罗热
+    EDG_ZAZ_special_mission_1_4_title:0 "草原霸权"
+    EDG_ZAZ_special_mission_1_4_desc:0 "我们拥有最所向无敌的骑兵，我们应当是东欧大草原上最强大的国家，所有人都应当向我们臣服！"
+    EDG_ZAZ_special_mission_1_5_title:0 "改革谢契拉达"
+    EDG_ZAZ_special_mission_1_5_desc:0 "谢契拉达是我们的最高权力机构，也是我们的最高军事机构，我们将对谢契拉达进行改革，让它更擅长领导全国的哥萨克骑兵战士。"
+    EDG_ZAZ_special_mission_2_5_title:0 "哥萨克大军团"
+    EDG_ZAZ_special_mission_2_5_desc:0 "哥萨克人是能征善战的民族，如果能组建一支庞大的军队，那么我们一定是战无不胜的。"
+    EDG_ZAZ_special_mission_3_5_title:0 "哥萨克龙骑兵"
+    EDG_ZAZ_special_mission_3_5_desc:0 "德意志地区出现了一种手持火枪进行回旋射击的骑兵，他们自称黑骑兵。这是一种全新且先进的战术，我们也可以训练哥萨克龙骑兵，让我们更加战无不胜。"
+    EDG_ZAZ_special_mission_5_3_title:0 "军事化行政"
+    EDG_ZAZ_special_mission_5_3_desc:0 "我们具有哥萨克特色的军政合一组织。盖特曼政权控制区划分为多个军事行政合一的区，即所谓"团"，包括斯塔罗杜布团、切尔尼戈夫团、涅任团、普里卢茨克团、基辅团、加佳奇团、佩列亚斯拉夫团、卢布内团、米尔哥罗德团和波尔塔瓦团。"
+    EDG_ZAZ_special_mission_5_4_title:0 "新游牧帝国"
+    EDG_ZAZ_special_mission_5_4_desc:0 "我们拥有最广阔的草原，遵循游牧民族的生活方式，我们应当放弃传统的束缚，将更为实用的治理方法引用进来。"
+    EDG_ZAZ_special_mission_5_5_title:0 "小俄罗斯开发"
+    EDG_ZAZ_special_mission_5_5_desc:0 "小俄罗斯的土地只有六十万平方公里土地，但都是最为肥沃、富饶的土地。"
+ 
+ 
+ EDG_modifier_POL_ready_title:0 "白头鹰的继承"
+ EDG_modifier_POL_ready_desc:0 "波兰南北的分裂让马佐夫舍公国也出现了独立的倾向，于是克拉科夫的中央宫廷实质上失去了国内大部分地区的控制，波兰国王成了一个空衔，重建波兰王国的重任落在了我们的身上。"
+ 
+ EDG_bav_claim_title:0 "重建公国雄心"
+ EDG_bav_claim_desc:0 "公爵们为发展力量和统一公国而采取了许多成功的措施，但他们很快遇到了家庭内部不同成员间分裂的问题，这使得巴伐利亚在250年间的历史无外乎一部充斥着战争和衰落的领地分裂史，但这一切即将终止，而我们将重建巴伐利亚。"
+ 
+ 
+ #西班牙
+ IBR_unification_effect.tooltip:0 "伊比利亚的纷争将彻底结束。"
+ EDG_IBR_unification_END_flag:0 "『统一伊比利亚』"
+
+EDG_DOM_cas_EDG_gc_cas_addition_3_1_title:0 "伊比利亚雄心"
+EDG_DOM_cas_EDG_gc_cas_addition_3_1_desc:0 "我们必将赢得最终的胜利。"
+
+ EDG_SPA_1_12_conquer_west_title:0 "西部海岸"
+ EDG_SPA_1_13_lisiben_market_title:0 "里斯本市场"
+ EDG_SPA_1_14_grand_army_title:0 "西班牙大方阵"
+ EDG_SPA_1_15_conquer_fra_title:0 "北征雄心"
+ EDG_SPA_1_16_conquer_fra_title:0 "富饶之地"
+ EDG_SPA_1_17_conquer_fra_title:0 "法兰西王冠"
+ EDG_SPA_1_18_conquer_fra_title:0 "登录不列颠"
+ EDG_SPA_1_19_conquer_bri_title:0 "全西欧的皇帝"
+ EDG_SPA_1_20_conquer_cor_title:0 "内海心脏"
+ EDG_SPA_1_21_conquer_ita_title:0 "意大利雄心"
+ EDG_SPA_1_22_conquer_ita_title:0 "全意大利国王"
+ EDG_SPA_2_12_conquer_north_title:0 "吞并北国"
+ EDG_SPA_2_13_union_title:0 "统治联合王国"
+ EDG_SPA_2_14_develop_title:0 "抵御法兰克人"
+ EDG_SPA_2_18_develop_title:0 "巴黎圣母院"
+ EDG_SPA_2_19_develop_title:0 "伦敦港"
+ EDG_SPA_3_11_ready_title:0 "伊比利亚雄心"
+ EDG_SPA_3_12_conquer_center_title:0 "中央地带"
+ EDG_SPA_3_14_develop_title:0 "马林港"
+ EDG_SPA_3_15_develop_title:0 "希洪港"
+ EDG_SPA_3_16_develop_title:0 "巴伦西亚大学"
+ EDG_SPA_3_17_develop_title:0 "阿维尼翁教堂"
+ EDG_SPA_3_18_develop_title:0 "光复耶路撒冷"
+ EDG_SPA_3_19_develop_title:0 "圣乔治大教堂"
+ EDG_SPA_4_12_conquer_east_title:0 "平定东部"
+ EDG_SPA_4_13_conquer_east_title:0 "控制马略卡"
+ EDG_SPA_4_14_lisiben_market_title:0 "科尔多瓦大教堂"
+ EDG_SPA_4_15_lisiben_market_title:0 "开发金矿"
+ EDG_SPA_4_16_missionary_title:0 "布道马格里布"
+ EDG_SPA_4_17_develop_title:0 "菲斯大作坊"
+ EDG_SPA_4_18_develop_title:0 "亚历山大港"
+ EDG_SPA_4_19_develop_title:0 "圣母玛利亚教堂"
+ EDG_SPA_5_12_conquer_south_title:0 "收复失地"
+ EDG_SPA_5_13_missionary_south_title:0 "纯净伊比利亚"
+ EDG_SPA_5_14_conquer_morocco_title:0 "跨过直布罗陀"
+ EDG_SPA_5_15_conquer_morocco_title:0 "统御北非"
+ EDG_SPA_5_16_conquer_TUN_title:0 "东进突尼西亚"
+ EDG_SPA_5_17_conquer_egypt_region_title:0 "入埃及记"
+ EDG_SPA_5_18_conquer_egypt_region_title:0 "叙利亚公司"
+ EDG_SPA_5_19_conquer_tur_region_title:0 "驱逐突厥人"
+ EDG_SPA_5_20_conquer_sic_region_title:0 "入侵西西里"
+ EDG_SPA_5_21_conquer_blk_region_title:0 "地中海跳板"
+ EDG_SPA_2_21_develop_title:0 "科西嘉王国"
+ EDG_SPA_2_22_develop_title:0 "意大利手工业"
+ EDG_SPA_4_21_develop_title:0 "西西里农场"
+ EDG_SPA_4_22_develop_title:0 "巴尔干工业"
+ EDG_SPA_5_22_title:0 "征服全巴尔干"
+ EDG_SPA_3_23_King_of_rome_title:0 "重建罗马"
+ EDG_SPA_2_16_develop_title:0 "南法宗教问题"
+ EDG_SPA_2_17_develop_title:0 "土伦商港"
+ EDG_gc_cas_spa_3_10_title:0 "平衡欧洲大陆"
+ EDG_cas_5_3_title:0 "加强经济"
+ EDG_cas_5_4_title:0 "改善结构"
+ EDG_cas_5_5_title:0 "工业化"
+ EDG_gc_spa_5_9_title:0 "掠外而安内"
+ EDG_SPA_1_11_conquer_west_title:0 "向西进攻"
+ EDG_SPA_2_11_title:0 "与纳瓦拉王国"
+ EDG_SPA_3_11_title:0 "莱昂"
+ EDG_SPA_4_11_title:0 "挺近东方"
+ 
+ EDG_SPA_1_12_conquer_west_desc:0 "伊比利亚西海岸的土地面向广阔的大西洋，如今被葡萄牙和加利西亚占据，如果这片土地归我们所有，可以加强我们的力量。"
+ EDG_SPA_1_13_lisiben_market_desc:0 "里斯本是一座完整的城市，越来越国际化，有一系列令人难以置信的吸引人的因素支持，根据居住者的特点，所有的市场区域最终都是可行的选择。"
+ EDG_SPA_1_14_grand_army_desc:0 "贡萨罗·德·科尔多瓦在1505年那不勒斯取得的经验基础上，经西班牙东北部的阿拉贡王国国王斐迪南二世批准，将他的军队编成20支部队，称为纵队。每个纵队有 1000至1250人( 混合编有长矛兵、戟兵、火绳枪手和剑盾兵) ，这些人又编为5 个 连。这就是自从古罗马步兵中队这种编队形式淘汰后，根据兵器使用的有关理论在 西欧建立起来的第一种正规的战术编队。这种纵队从它的实际作战任务来看，相当 于现代军队中的营和团，它由纵队司令或上校负责指挥。"
+ EDG_SPA_1_15_conquer_fra_desc:0 "我们在北方的邻居一直是我们的威胁——无论是野心勃勃的法兰西王国，还是信仰清洁派的阿尔勒王国或阿基坦公国。"
+ EDG_SPA_1_16_conquer_fra_desc:0 "阿尔比十字军最终失败，清洁派获得了更大的扩张，它的信徒扩散到了大西洋沿岸，导致了阿基坦地区脱离了英格兰的控制。甚至连加泰罗尼亚人都皈依了清洁派，当地贵族和商人架空了不愿改信的国王，后又将国王驱逐出去，建立了一个共和国。信仰异端宗教的普瓦卢公爵将势力进一步扩张，攻占了整个上勃艮第地区，让清洁派的教宗为自己加冕为阿尔勒国王，自称恢复了法兰克帝国的光辉。"
+ EDG_SPA_1_17_conquer_fra_desc:0 "卡佩家族至今仍持有法兰西国王的头衔，但由于阿尔比十字军的失败和洛塔林吉亚王国的阻塞，法兰西国王虽然已经摆脱了被困于法兰西岛的窘境，却依然无法十分有效地控制全国。法王将能够改变这一现状，但将是在我们成为法国国王后。"
+ EDG_SPA_1_18_conquer_fra_desc:0 "不列颠在英格兰的扩张下逐渐统一，这一海上强权一直威胁着我们的安全，我们有充分的理由将其扼杀。˜"
+ EDG_SPA_1_19_conquer_bri_desc:0 "整个西欧都在我们的统治之下，我们的王冠是全欧洲最耀眼的王冠。"
+ EDG_SPA_1_20_conquer_cor_desc:0 "撒丁-科西嘉岛是西地中海的战略要地，将其划入我们的统治之下将是打开西地中海战略新格局的金钥匙。"
+ EDG_SPA_1_21_conquer_ita_desc:0 "意大利将会是我们的囊中之物，没有任何人可以改变这一现状，我们终将统治全意大利。"
+ EDG_SPA_1_22_conquer_ita_desc:0 "意大利王国是774年法兰克人打败伦巴底人后，处于法兰克王国卡洛林王朝控制下的一个政治实体。最终961年意大利王国被并入神圣罗马帝国，如今，意大利王国处于伊比利亚皇帝的控制之下。"
+ EDG_SPA_2_12_conquer_north_desc:0 "费尔南多三世在1235年去世英年早逝，这位原本有机会毁灭南方诸泰法国的一代雄主最终没能实现伟业，并且，由于内部矛盾尖锐、王权薄弱以及继承纷争，莱昂-卡斯蒂利亚联合王国最终解体为加利西亚、阿斯图里亚和卡斯蒂利亚三个王国，三个王国日后摩擦不断。如今，阿斯图里亚斯和纳瓦拉控制着伊比利亚北部，北部的海岸和山区是通向法兰西的必经之路。"
+ EDG_SPA_2_13_union_desc:0 "在1444年仍然健在的卡斯蒂利亚的恩里克三世是一个天生强壮的君主，他戎马一生一直是对抗异教徒的先锋，致力于在再征服运动中扩张卡斯蒂利亚的领土，在1442年，他再次发起了对科尔多瓦泰法国的战争，并获得了完全的胜利，一个统一全伊比利亚的国家或许将要诞生。"
+ EDG_SPA_2_14_develop_desc:0 "法兰克人一直是巨大的威胁，法兰西王国和清洁派异端随时可能从比利牛思山下涌入我们的国土，我们必须扼守咽喉要地。"
+ EDG_SPA_2_18_develop_desc:0 "巴黎圣母院是一个举世瞩目的奇迹——由我们完成的奇迹，这份荣耀归我们所有。"
+ EDG_SPA_2_19_develop_desc:0 "伦敦是一个富饶的沿海城市，此地的港口是难得的天然良港，如果能继续发展它的港口，我们将能在英吉利海峡获得更多的利润。"
+ EDG_SPA_3_11_ready_desc:0 "费尔南多三世在1235年去世英年早逝，这位原本有机会毁灭南方诸泰法国的一代雄主最终没能实现伟业，并且，由于内部矛盾尖锐、王权薄弱以及继承纷争，莱昂-卡斯蒂利亚联合王国最终解体为加利西亚、阿斯图里亚和卡斯蒂利亚三个王国，三个王国日后摩擦不断。费尔南多三世的去世造成了莱昂-卡斯蒂利亚-阿斯图里亚斯王国的分裂，他自知自己的继承人无力维护王国统一，也深知国内贵族的分歧之深，在去世前立下遗诏，希望巴伦西亚国王能够保护他的子嗣。这一份遗诏被送往巴伦西亚，至今陈放在巴伦西亚的王宫大厅。在1344年，加利西亚王国被阿斯图里亚斯王国进攻，加利西亚国王阿方索十一世兵败身死，国内贵族妄图拥立残暴的卡斯蒂利亚国王为加西利亚国王，由此换取卡斯蒂利亚王国的援助。在卡斯蒂利亚国王击退了阿斯图里亚的军队后，加利西亚的塞巴斯蒂安发动了政变，夺取了国家政权，并且坚守城池，直到卡斯蒂利亚王国内部发生叛乱，被迫回国应敌。战争结束后，塞巴斯蒂安成为了共和国的第一代执政官，加利西亚成为了一个共和国。收复失地运动久久不能取得有效成果，基督徒联军在1403年组建了联军进攻科尔多瓦泰法国，结果兵败科尔多瓦，巴伦西亚国王若昂一世甚至毙命于科尔多瓦。伊比利亚的局势复杂诡谲，穆斯林和基督徒的斗争旷日持久且僵持不下，这一局面必须得到改变。"
+ EDG_SPA_3_12_conquer_center_desc:0 "费尔南多三世的去世造成了莱昂-卡斯蒂利亚-阿斯图里亚斯王国的分裂，如今阿斯图里亚斯位居北方，卡斯蒂利亚处于全伊比利亚的中央，她要么成为最强的王国，要么被别的王国灭亡。"
+ EDG_SPA_3_14_develop_desc:0 "加利西亚的马林港是一个有名的港口，扩大马林港的规模能够让我们更加富有。"
+ EDG_SPA_3_15_develop_desc:0 "希洪有良好的地理环境，在此地建立一个海港能够对当地的发展起到长久的正面影响。"
+ EDG_SPA_3_16_develop_desc:0 "1245年，教皇英诺森四世批准亚拉贡国王詹姆斯一世建立学校，瓦伦西亚大学便于13世纪启动了大学高等教育的历程。但直到1499年10月30日瓦伦西亚市的法官才将瓦伦西亚大学的成立纳入瓦伦西亚市法院的法案之中。大学的建立获得了瓦伦西亚教皇亚历山大六世的批准，于1501年1月23日获得教皇诏书，1502年2月16日又得到费迪南二世颁布的皇家法令批准。"
+ EDG_SPA_3_17_develop_desc:0 "阿维尼翁教堂别名阿维尼翁历史中心，位于法国南部的阿维尼翁市是14世纪罗马教皇的居所。总面积1.5万平方米，由旧宫和新宫连接而成。由西蒙·马蒂尼和马泰奥·焦瓦内蒂装修而成，占据了这座城市绝大部分面积，周围是坚固的城墙和12世纪隆河桥的遗址。新宫与旧宫风格迥然不同，新宫为克雷芒六世所建，所建风格充分体现了这位“教会王子”的风格，他挥霍无度把新宫修建的富丽堂皇，同时他又酷爱艺术，把新宫装饰得就象一座艺术的殿堂。"
+ EDG_SPA_3_18_develop_desc:0 "基督教尊敬耶路撒冷，不仅是因为它在旧约中扮演的角色，也是因为它在耶稣一生中的意义。根据圣经记载，耶稣在出生后不久就被带到耶路撒冷，后来他又洁净第二圣殿。耶稣最后晚餐的地址位于锡安山，紧靠大卫墓。耶路撒冷另一个重要的基督教遗迹是各各他，就是耶稣被钉十字架的地方。约翰福音只是说这地方位于耶路撒冷城外，但最近的考古证据显示各各他位于距离耶路撒冷旧城城墙不远处，就在城市范围之内。该地被圣墓教堂占用，过去2000年间，各各他一直是基督教的一个首选的朝圣地点，老城街头也常有朝圣者重走耶稣上十字架前所走的“苦路”。如今，耶路撒冷重归我们的控制。"
+ EDG_SPA_3_19_develop_desc:0 "圣乔治教堂始建于15世纪，是一座当时盛行的哥特式垂直建筑，其建筑艺术成就在英国仅次于伦敦市区的威斯敏斯特教堂。自18世纪以来，英国历代君主死后都埋葬在这里。此外，还有许多王后、王子和其他王室成员的陵墓。"
+ EDG_SPA_4_12_conquer_east_desc:0 "东部的阿拉贡和加泰罗尼亚诸国面向富饶的地中海，占领这片地区是挺近意大利的重要条件。"
+ EDG_SPA_4_13_conquer_east_desc:0 "早在公元前一三00——一000年，便有人在这里集体居住。公元前一二三年巴利阿里群岛并入罗马帝国。在九世纪至十三世纪阿拉伯人占领期间，帕尔马市即基本形成了城市规模。一二二九年，阿拉贡国王海梅一世从阿拉伯人手里得到该城，此后便以哥特式风格对城市建筑进行了大规模的改造。中世纪，随着海上贸易的发展，在城市老区又兴建了不少宫殿。"
+ EDG_SPA_4_14_lisiben_market_desc:0 "科尔多瓦市位于西班牙科尔多瓦省，瓜达尔基唯尔河右岸。它曾是厄尔安达列斯的首府，后来又是酋长和伊斯兰教大阿訇的领地，10世纪时是穆斯林世界主要的政治和文化中心之一。因此有许多不同风格的建筑保存下来,尤其是它的科尔多瓦清真寺。"
+ EDG_SPA_4_15_lisiben_market_desc:0 "哈，金矿！世界上没有任何一种金属能像黄金这样源源地介入人类的经济生活，并对人类社会产生如此重大的影响。它那耀眼夺目的光泽和无与伦比的物理化学特性，有着神奇的永恒的魅力。黄金的社会地位虽在人类数千年的文明史中历尽沧桑、沉浮荣辱、升降变迁不定。但在众多的人群之中仍保持着神圣的光环，为世人共同追求的财富。"
+ EDG_SPA_4_16_missionary_desc:0 "古代原指阿特拉斯山脉至地中海海岸之间的地区，有时也包括穆斯林统治下的西班牙部分地区，后逐渐成为摩洛哥、阿尔及利亚和突尼斯三国的代称。该地区传统上受地中海和阿拉伯文明影响，同时也与撒哈拉沙漠以南的黑非洲地区有着密切的贸易往来，因此形成了独特的文化。近三百年来，这里的宗教问题十分严峻，不过它马上能够得到解决。"
+ EDG_SPA_4_17_develop_desc:0 "菲斯，是北非史上第一个伊斯兰城市，也是摩洛哥一千多年来宗教、文化与艺术中心。菲斯河在此分支，适宜农耕，所以菲斯在阿拉伯语意为“金色斧子”，也有“肥美土地”之意。半山腰上的菲斯市，可俯瞰广阔的平原，是一个重要的战略重镇，更重要的是。"
+ EDG_SPA_4_18_develop_desc:0 "亚历山大港始建于公元前332年，是按其奠基人亚历山大大帝命名的，作为当时马其顿帝国埃及行省的总督所在地。亚历山大大帝死后，埃及总督托勒密在这里建立了托勒密王朝，加冕为托勒密一世。亚历山大成为埃及王国的首都,并很快就成为古希腊文化中最大的城市。在西方古代史中其规模和财富仅次于罗马。但埃及的伊斯兰教统治者在奠定了开罗为埃及的新首都后亚历山大港的地位不断下降。在奥斯曼帝国末期它几乎已沦为一个小渔村。"
+ EDG_SPA_4_19_develop_desc:0 "圣母玛利亚大教堂，又名悬空教堂，在埃及开罗老城区即科普特区。圣母马利亚教堂所以称为悬空教堂，因为他是盖在以前的城墙南门上，不是真的悬吊在半空中。悬空教堂应该算是这里的所有教堂中最漂亮的一个了。在湛蓝天空映衬下的雪白色塔楼和美丽的十字架散发着基督教堂独有的圣洁和光辉。阳光下，教堂花圃中的植物看起来都有着不可思议的光芒，让人心中充满了感动。"
+ EDG_SPA_5_12_conquer_south_desc:0 "收复失地运动，又称再征服运动、列康吉斯达运动，是公元718至1492年间，西班牙人反对阿拉伯人占领，收复失地的运动。从 718年的科法敦加战役开始，到1492年格拉纳达战役结束，共经历了8个世纪。 在西班牙语和葡萄牙语中，“Reconquista”一词有“重新征服”的意思。"
+ EDG_SPA_5_13_missionary_south_desc:0 "伊比利亚的宗教矛盾长期以来十分尖锐，但随着伊比利亚的统一，伊比利亚的宗教问题也逐步得到解决。"
+ EDG_SPA_5_14_conquer_morocco_desc:0 "直布罗陀海峡长期隔绝伊比利亚和马格里布，夸奖直布罗陀将让我们抵达彼岸。"
+ EDG_SPA_5_15_conquer_morocco_desc:0 "摩洛哥的马林王朝总是在干涉伊比利亚的问题，如今是时候让他们付出代价了。"
+ EDG_SPA_5_16_conquer_TUN_desc:0 "突尼斯或许十分贫瘠，但它的地理位置十分重要，向北渡海可达西西里，向东行军可达埃及。"
+ EDG_SPA_5_17_conquer_egypt_region_desc:0 "富饶的埃及将完全处于强大的伊比利亚政权的统治之下，我们将之称为“入埃及记”。"
+ EDG_SPA_5_18_conquer_egypt_region_desc:0 "叙利亚或许干旱，但它依然十分富饶，它在过去的百年间总是处于分裂割据的状态，如今我们将终结这一现状。"
+ EDG_SPA_5_19_conquer_tur_region_desc:0 "奥斯曼帝国在被帖木儿击碎后，又重新归于统一，并且成为横跨东欧和西亚的巨大怪物，我们要将奥斯曼王朝驱逐出他们的老家！"
+ EDG_SPA_5_20_conquer_sic_region_desc:0 "西西里的东正教徒长期盘踞在岛上，他们让护国议会统治自己的国家，简直是一个畸形到不能再畸形的怪物，将怪物逐出我们未来要征服的土地是我们的义务。"
+ EDG_SPA_5_21_conquer_blk_region_desc:0 "征服西西里只是一个前奏，我们的目标是世界渴望之城，是巴尔干半岛。"
+ EDG_SPA_2_21_develop_desc:0 "撒丁-科西嘉王国还有很大的潜力，夺下它，统治它，开发它，无论对当地人还是对我们都有无言而喻的益处。"
+ EDG_SPA_2_22_develop_desc:0 "意大利的手工业一直很发达，在我们的治理下它将能够散发出更耀眼的光芒。"
+ EDG_SPA_4_21_develop_desc:0 "西西里有不错的农业记录，东正教徒组建的护国议会将这里经营得不错，更适合我们在此地开辟一个农业殖民地了。"
+ EDG_SPA_4_22_develop_desc:0 "巴尔干半岛长期保持一个较为落后的经济结构，不过我们会开发它，让它的经济走入近代化。"
+ EDG_SPA_5_22_desc:0 "整个巴尔干半岛都处于我们的影响之下，统治巴尔干，拓展国土，重建罗马，这是多么美妙的乐章。"
+ EDG_SPA_3_23_King_of_rome_desc:0 "我们认为这一成就乃是一种神圣意愿的达成：上天赋予罗马征服、占领与管理整个世界的使命。元首制的建立证明了罗马人很好地承担起这一使命，由此，罗马的命运与其认知的全人类的命运休戚与共。"
+ EDG_SPA_2_16_develop_desc:0 "南法的清洁派和天主教交错混杂，一直有长久的矛盾，如今我们统治了这里，是时候统一此地的宗教了。"
+ EDG_SPA_2_17_develop_desc:0 "土伦在土伦湾内，半岛环抱，是一个优良的港口，如果能在此处建立要塞和码头，能够为我们疏通通往法兰西和意大利的商路。"
+ EDG_gc_cas_spa_3_10_desc:0 "我们虽然主要将目光投向了大西洋彼岸，但说到底，在欧洲的利益对我们而言才是最根本的。保持欧洲的势力均衡是让我们的本土远离危险的重要保证。"
+ EDG_cas_5_3_desc:0 "随着科技的发展和行政水平的进步，国家越来越有能力干涉经济的建设问题，我们应当充分利用新的技术。"
+ EDG_cas_5_4_desc:0 "手工业作坊规模的扩大让传统产业迸发出了新的火花，我们可以从中获取更高的经济效益。"
+ EDG_cas_5_5_desc:0 "工场的出现无疑是人类社会的一大进步，扩大国内的新生产方式的规模能让我们更为富有。"
+    EDG_gc_spa_5_9_desc:0 "我们从殖民地的开辟中获取了越来越多的效益，是时候将获得的资本投入对国内的建设了。"
+ EDG_SPA_1_11_conquer_west_desc:0 "我们已经准备好征服伊比利亚的西部，军队和人力资源都已经就绪。"
+ EDG_SPA_2_11_desc:0 "我们展示了自己高超的外交能力，并将良好的声誉和形象投入到接下来的活动之中。"
+ EDG_SPA_3_11_desc:0 "自从阿方索去世后，从卡斯蒂利亚-莱昂-阿斯图里亚斯王国中分裂出来的诸国一直围绕莱昂展开多方面的博弈，但无论如何，最终继承莱昂的一定是我们。"
+ EDG_SPA_4_11_desc:0 "伊比利亚的东部靠近富饶的地中海西岸，如果能够夺取这一地区，我们能够更加强大。"
+
+EDG_gc_cas_spa_plus_ultra_title:0 "航向更远方"
+ EDG_gc_cas_spa_plus_ultra_desc:0 "海格力斯之柱以外还有什么？我们勇敢的探险家已经准备好去探索了！"
+ EDG_gc_cas_spa_caribbean_discovery_title:0 "发现加勒比"
+ EDG_gc_cas_spa_caribbean_discovery_desc:0 "长期以来，人们一直认为，与其向东旅行，我们还可以到西方去印度。我们必须对这一理论进行检验，并寻找理想的着陆点。"
+ EDG_gc_cas_spa_caribbean_colony_title:0 "加勒比殖民地"
+ EDG_gc_cas_spa_caribbean_colony_desc:0 "我们新发现的伊斯帕尼奥拉地区的土著人相当友善，最重要的是容易上当。我们应该通过建立更多的[Root.GetAdjective]军队来宣称这个地区是我们自己的。"
+ EDG_gc_cas_spa_spanish_main_title:0 "新西班牙大陆"
+ EDG_gc_cas_spa_spanish_main_desc:0 "在我们的商船停靠在伊斯帕尼奥拉岛时，水手们就可以在甲板望见不远处的大陆。加勒比群岛的这般繁荣也许暗示着大陆上有着更多的财富，我们应该将其彻底地探索。"
+ EDG_gc_cas_spa_la_plata_title:0 "建立拉普拉塔"
+ EDG_gc_cas_spa_la_plata_desc:0 "南美洲的绿野美景将会成为新的殖民探险中一处绝佳的地点。"
+ EDG_gc_cas_spa_aztecs_title:0 "征服阿兹特克"
+ EDG_gc_cas_spa_aztecs_desc:0 "我们已经被授予特权进入自称阿兹特克帝国的国家，掠夺他们的土地，将他们的黄金带回[Root.Capital.GetName]。"
+ EDG_gc_cas_spa_incans_title:0 "印加的财富"
+ EDG_gc_cas_spa_incans_desc:0 "印加人用金子填满了他们的庙宇，却似乎不知道这些财富的力量有多大。他们的领土，以及黄金，将更安全地掌握在我们手中。"
+ EDG_gc_cas_spa_incans_two_title:0 "征服印加"
+ EDG_gc_cas_spa_incans_two_desc:0 "在秘鲁山区的宝藏使所有的流血事件看起来都是值得的。我们应该继续为[Root.GetName]争取更多的荣誉。"
+ EDG_gc_cas_spa_army_ready_title:0 "准备收复失地"
+ EDG_gc_cas_spa_army_ready_desc:0 "长久以来，我们没有履行庇护伊比利亚人民的职责。是时候做把他们团结在同一旗帜之下的准备了。"
+ EDG_gc_cas_spa_reconquista_one_title:0 "收复安达卢西亚"
+ EDG_gc_cas_spa_reconquista_one_desc:0 "摩尔人已经安享了我们的容忍长达数百年。驱逐他们，以[Root.GetAdjective]之名收复安达卢西亚。"
+ EDG_gc_cas_spa_reconquista_two_title:0 "光复葡萄牙"
+ EDG_gc_cas_spa_reconquista_two_desc:0 "西班牙诸国都应属于我们，这也包括了我们曾经的邻居，葡萄牙。剥夺他们的头衔，将其主权归还给[Root.GetName]。"
+ EDG_gc_cas_spa_reconquista_three_title:0 "宣称阿拉贡"
+ EDG_gc_cas_spa_reconquista_three_desc:0 "大量的阿拉贡的领土都曾经被[Root.GetName]统治。无论是使用武力抑或诡计，我们必须使它们再度回归。"
+ EDG_gc_cas_spa_reconquista_four_title:0 "继续收复失地"
+ EDG_gc_cas_spa_reconquista_four_desc:0 "在索取了伊比利亚后，我们应该在北非的一些城市确立我们的存在以防止入侵。"
+ EDG_gc_cas_spa_iberia_christian_title:0 "伊比利亚皈依正信"
+ EDG_gc_cas_spa_iberia_christian_desc:0 "由于我们内部似乎藏匿着异端邪说，我们被其他欧洲国家另眼相看。让我们误入歧途的兄弟恢复唯一的真正信仰。"
+ EDG_gc_cas_spa_italian_ambition_title:0 "意大利野心"
+ EDG_gc_cas_spa_italian_ambition_desc:0 "意大利就如同成熟的鲜果，正等着我们前去摘取。就像我们之前的许多人一样，我们要在意大利划出自己的势力范围，并为自己收获它的财富。"
+ EDG_gc_cas_spa_havana_title:0 "发现哈瓦那"
+ EDG_gc_cas_spa_havana_desc:0 "古巴是加勒比海岛屿中最大的岛屿，也是土著奴隶供应最多的一个，可供我们的种植园使用。我们必须在那里建立殖民地，并在哈瓦那湾的天然海港建造一座城市。"
+ cas_spa_havana.tooltip:0 "§Y[Root.GetName]§!或其属国在§Y东古巴§!和§Y西古巴§!区域拥有至少§Y5§!个已殖民省份。"
+ EDG_gc_cas_spa_mayans_title:0 "征服玛雅"
+ EDG_gc_cas_spa_mayans_desc:0 "我们派往尤卡坦的探险家带回了神秘的失落文明的传说。这些玛雅人曾经建立了一个统治整个半岛的伟大联盟，但现在他们已经分裂为互相敌对的城邦，西班牙征服的时机已经成熟了。"
+ spa_mayan_conquest_tooltip:0 "§Y[Root.GetName]§!或其属国拥有§Y中美洲§!地区的所有已殖民省份"
+ EDG_gc_cas_spa_navarra_title:0 "征服纳瓦拉"
+ EDG_gc_cas_spa_navarra_desc:0 "统治纳瓦拉王国的特拉斯塔马拉家族旁支已经开始显示出衰败和内乱的迹象，我们必须把潘普洛纳牢牢地置于我们的统治之下以解决他们的争端。"
+ EDG_gc_cas_spa_expel_moriscos_title:0 "驱逐摩里斯科人"
+ EDG_gc_cas_spa_expel_moriscos_desc:0 "虽然安达卢西亚的前穆斯林声称自己是虔诚的基督徒，但我们认为他们会秘密地继续坚持他们的异教信仰。我们必须铲除所有渎神的痕迹并将所有嫌疑人从西班牙驱逐出去。"
+ EDG_gc_cas_spa_hispaniola_title:0 "宣称伊斯帕尼奥拉"
+ EDG_gc_cas_spa_hispaniola_desc:0 "伊斯帕尼奥拉岛将成为我们通往加勒比海及其他地区的门户。我们必须在岛上殖民并在圣多明各建立宗教修会，向新大陆传播天主的圣言。"
+ cas_spa_hispaniola.tooltip:1 "§Y[Root.GetName]§!或其属国在§Y海地§!或§Y多米尼加§!区域拥有至少§Y5§!个已殖民省份。"
+ EDG_gc_cas_spa_new_spain_title:0 "新西班牙总督区"
+ EDG_gc_cas_spa_new_spain_desc:0 "是时候巩固我们在墨西哥湾的统治，组织建立常驻的总督辖区了。皇家审问院将担任新大陆的最高法院，确保墨西哥的黄金可以安全到达西班牙。"
+ EDG_gc_cas_spa_florida_title:0 "加固佛罗里达"
+ EDG_gc_cas_spa_florida_desc:0 "新西班牙北部佛罗里达的沼泽地中虽然没有丰富的金矿，但是这片地区对于未来殖民地秩序的保护可能非常重要。我们必须在这个地区移民并建造要塞。"
+ fortified_florida_tooltip:0 "在§Y北美东南§!地区或§Y西佛罗里达§!区域，§Y[Root.GetName]§!或其属国拥有要塞等级达到§Y3§!的省份将获得§Y巩固佛罗里达城防§!，持续§Y20§!年，给予如下效果：\n当地防御效率§G+20%§!"
+ cas_spa_florida_forts.tooltip:0 "在§Y北美东南§!地区或§Y西佛罗里达§!区域，自身或属国拥有至少§Y3§!个要塞等级达到§Y3§!的省份。"
+ EDG_gc_cas_spa_california_title:0 "殖民加利福尼亚"
+ EDG_gc_cas_spa_california_desc:0 "新西班牙将边境自然扩张到了加利福尼亚。虽然还未证实，但有传言称该地区存在原生金矿，一旦确认，我们就必须保卫它们。"
+ miss_colonize_california:0 "§Y[Root.GetName]§!或其属国在§Y加利福尼亚§!殖民地区拥有至少§Y5§!个已殖民省份。"
+ EDG_gc_cas_spa_new_granada_title:0 "新格拉纳达王国"
+ EDG_gc_cas_spa_new_granada_desc:1 "西班牙大陆的南方领地有必要组织成一个一致的独立行政体，我们将称其成为新格拉纳达王国。必须指定皇家审问院向授予波哥大的殖民地法定权力。"
+ EDG_gc_cas_spa_potosi_title:0 "波托西银矿"
+ EDG_gc_cas_spa_potosi_desc:0 "我们在赛罗里科发现了我们所见过的产量最为丰富的银矿。为了尽可能地开采银矿，我们不仅必须驱赶土著去工作，还应该从非洲进口成千上万的奴隶。这里银矿的价值是那么高，远远超出了购买新的奴隶所要付出的代价，所以我们应该毫不犹豫地驱赶这些奴隶工作到死。"
+ EDG_gc_cas_spa_native_reductions_title:0 "同化原住民"
+ EDG_gc_cas_spa_native_reductions_desc:0 "萨拉曼卡学派的学者正在试图让我们认同那些美洲的原住民也是有着灵魂的人类，并且也应当享有自然权利。我们应当把剩下的这些原住民聚集起来并系统地对他们进行再教育，而不是杀害或奴役他们。"
+ EDG_gc_cas_spa_italian_ambition_2_title:0 "征服意大利"
+ EDG_gc_cas_spa_italian_ambition_2_desc:0 "通过融入到家族外交的复杂关系网中参与意大利政治，我们述说了一个有理有据的故事，给予西班牙对托斯卡纳和米兰的潜在宣称。当然这个故事自己做不了什么，为了它我们需要军事力量的援助。"
+ EDG_gc_spa_spanish_armada_title:0 "西班牙无敌舰队"
+ EDG_gc_spa_spanish_armada_desc:0 "我们必须准备与欧洲正在崛起的异端战斗，为此我们需要建立一支舰队与英格兰匹敌。我们的「至伟至幸水师」（即「无敌舰队」的西班牙语直译）务必能够抵抗任何敌军、任何风暴。"
+ EDG_gc_spa_invade_england_title:0 "入侵英格兰"
+ EDG_gc_spa_invade_england_desc:0 "我们不能允许不列颠群岛陷入异端统治。为了守护信仰，我们要将士兵送上舰队运往英格兰，并试图以武力夺取政府的控制权。"
+ EDG_gc_cas_spa_west_africa_title:0 "西非港口"
+ EDG_gc_cas_spa_west_africa_desc:0 "西非海岸有着极为重要的战略意义。它不仅能为航行至好望角的船只的提供补给，还能为我们的美洲殖民地提供稳定的奴隶来源。"
+ EDG_gc_cas_spa_discover_spice_islands_title:0 "航向东印度群岛"
+ EDG_gc_cas_spa_discover_spice_islands_desc:0 "传说中的「香料群岛」远在东方，是肉豆蔻和丁香这些在欧洲最受欢迎的商品的来源。我们必须找到一条通往这片群岛的东方航线。"
+ EDG_gc_spa_spanish_netherlands_title:0 "西属尼德兰"
+ EDG_gc_spa_spanish_netherlands_desc:0 "不管通过外交手段还是战争手段，我们必须得到我们宣称拥有的佛兰德和瓦隆地区。此外，我们必须打击在低地出现的任何异端邪说。"
+ EDG_gc_spa_austrian_union_title:0 "奥地利继承"
+ EDG_gc_spa_austrian_union_desc:0 "奥地利的哈布斯堡家族通过广泛的联姻让自己的血脉进入了欧洲几乎所有贵族宗室之中。虽然这使他们受到许多国家的青睐，但这个政策是一把双刃剑。战略联姻联合了许多国家的王位，结果这些姻亲的子嗣也继承了对奥地利自身的宣称。"
+ EDG_gc_spa_hre_title:0 "君临欧罗巴"
+ EDG_gc_spa_hre_desc:0 "西班牙是时候建立一个全欧洲的天主教君主制国家了。为此，我们必须坚持对神圣罗马帝国的皇位的宣称，废除选帝侯并使皇位世袭。"
+ EDG_gc_cas_spa_conquer_philippines_title:0 "菲律宾群岛"
+ EDG_gc_cas_spa_conquer_philippines_desc:0 "我们发现了大片岛屿富于香料与宝石，并将其命名为「菲律宾群岛」。当地异教徒不太可能联合起来反抗西班牙的扩张。为了征服这些宝贵的岛屿，我们应该抽出尽可能多的人加入探险队。"
+
+    #阿拉贡
+    EDG_gc_ara_navarra_title:0 "扩张的指导"
+    EDG_gc_ara_navarra_desc:0 "东伊比利亚的局势十分复杂，我们需要一名出色的军事顾问为我们谋篇布局，这样我们才能寻找到最佳的军事路线。"
+    EDG_gc_ara_provence_title:0 "惩罚清洁派"
+    EDG_gc_ara_provence_desc:0 "由于种种原因，阿尔比十字军最终失败，清洁派获得了更大的扩张，它的信徒扩散到了大西洋沿岸，导致了阿基坦地区脱离了英格兰的控制。甚至连加泰罗尼亚人都皈依了清洁派，当地贵族和商人架空了不愿改信的国王，后又将国王驱逐出去，建立了一个共和国。信仰异端宗教的普瓦卢公爵将势力进一步扩张，攻占了整个上勃艮第地区，让清洁派的教宗为自己加冕为阿尔勒国王，自称恢复了法兰克帝国的光辉，我们将会终结他们愚蠢的念想。"
+    EDG_gc_ara_crowns_of_iberia_title:0 "文艺复兴君主"
+    EDG_gc_ara_crowns_of_iberia_desc:0 "文艺复兴是一种先进的思潮，它鼓励人文主义，如弗朗索瓦一世。他积极鼓励文学的发展，号召臣民多读书；并且他自己还尝试着写诗。他建立了于1530年建立了王室学院，用于专门研究希腊语、拉丁语和希伯来语，并任命法国人文主义者纪尧姆·巴德为首席作家。我们也可以成为一个优秀的、被津津乐道的文艺复兴君主。"
+    EDG_gc_ara_crowns_of_iberia_title:0 "文艺复兴君主"
+    EDG_gc_ara_portugal_title:0 "强盛的王国"
+    EDG_gc_ara_portugal_desc:0 "我们是伊比利亚半岛上的雄鹰，我们的宫廷经受过了考验，我们的君主亦然，我们还有富饶的土地。"
+    EDG_gc_ara_naples_title:0 "向东征服内海"
+    EDG_gc_ara_naples_desc:0 "我们已经是地中海西部的强国之一，我们有理由在西地中海扩大我们的势力。"
+    gc_ara_naples_desc:0 "那不勒斯已经不存在了，亚平宁半岛南端如今被诺曼人的割据政权统治，他们没能完成的统一可以由我们完成。"
+    EDG_gc_ara_3_10_title:0 "法兰西王冠"
+    EDG_gc_ara_3_10_desc:0 "整个法兰西都处于我们的统治之下，我们建立了一个最强大的西欧国家！"
+    EDG_ARA_gen_eur_trade_node_title:0 "世界贸易中心"
+    EDG_ARA_gen_eur_trade_node_desc:0 "我们掌握着世界上最富庶的贸易区，半个世界的财富尽在我们手中。"
+    EDG_gc_ara_2_1_pre_title:0 "武装保卫贸易"
+    EDG_gc_ara_2_1_pre_desc:0 "不管外国人承认与否，我们身边有许多威胁，北方的清洁派，南方的穆斯林，还有东方诡计多端的意大利人，他们都会威胁到我们的贸易利益，因而我们有理由武装自己的商业组织。"
+    EDG_gc_ARA_4_7_title:0 "平衡阶层"
+    EDG_gc_ARA_4_7_desc:0 "我们的国家日益庞大， 各种利益集团逐渐侵蚀国家的支柱，如果不能平衡阶层，我们将很难继续发展。"
+    EDG_gc_ARA_4_9_title:0 "消灭异端"
+    EDG_gc_ARA_4_9_desc:0 "清洁派从上个世纪开始不断地扩散，与天主教发生了冲突，是时候改变这种现状了。"
+    EDG_gc_ARA_4_8_title:0 "伊比利亚基督教"
+    EDG_gc_ARA_4_8_desc:0 "伊比利亚东部存在巨大的宗教问题，在统一伊比利亚东部后，我们必须着手解决这些难题，如果我们能够成功，我们可以回收一大批异教徒的地产。"
+    EDG_ARA_2_9_title:0 "建立帝国"
+    EDG_ARA_2_9_desc:0 "我们已经是一个疆土辽阔、威震四海的国家了，让我们的统治者加冕为皇帝是再合适不过的选择了。"
+    EDG_ARA_5_7_title:0 "庙宇建设"
+    EDG_ARA_5_7_desc:0 "教堂不只是一个履行宗教职能的场所，还是人们日常生活的中心，更是一个经济文化要地，建设国内的教堂网络是十分重要的。"
+    EDG_ARA_5_8_title:0 "发展手工业"
+    EDG_ARA_5_8_desc:0 "近代手工业的发展不容忽视，如果能重视并成功地建设手工业作坊，我们能获利颇丰。"
+    EDG_ARA_5_9_title:0 "经济近代化"
+    EDG_ARA_5_9_desc:0 "资本主义的生产方式展现出了巨大的活力，采用这种新兴的生产方式能够让我们的经济展现出更强大的生命力。"
+    EDG_ARA_1_7_title:0 "有活力的宫廷"
+    EDG_ARA_1_7_desc:0 "有活力的宫廷是促进国家发展的一剂良方，我们的宫廷内人才济济，讲究艺术和哲学，引来了许多豪强富商涌入我们的首都区域，为我们带来了巨大的财富。"
+    EDG_ARA_1_8_title:0 "咨询机构"
+    EDG_ARA_1_8_desc:0 "建立一个充满专业人才的咨询机构能够帮助我们的君主履行自己的职责，我们已经兼并了许多土地，能够在足够的人口规模中招募优秀的人才。"
+    
+    
+    #葡萄牙
+    EDG_por_mission_3_9_title:0 "征服里斯本"
+    EDG_por_mission_3_9_desc:0 "阿连特茹一直是伊比利亚最富饶的地区之一，但如今这一地区被巴塔尔尧斯泰法占据，如果我们能驱逐异教徒，就能成为伊比利亚西部最强大的力量之一。"
+    
+    #中国
+    EDG_China_run_mission_5_3_title:0 "更多的可能性"
+    EDG_China_run_mission_5_3_desc:0 "该部分尚未开工，暂且如此设定。"
+
+   chi_independence_title:0 "群雄逐鹿"
+   chi_independence_desc:0 "元朝的统治已然大厦将倾，天朝旧有的秩序岌岌可危，一个群雄逐鹿的时代到来了。"
+    
+    
+    #法兰西
+    EDG_AEL_SHORT_1_1_title:0 "法兰克雄心"
+    EDG_AEL_SHORT_1_1_desc:0 "该部分尚未开工，暂且如此设定。"
+    EDG_emp_fra_end_hyw_title:0 "北方的推进"
+    EDG_emp_fra_reconquer_gascony_title:0 "法兰西王国"
+    EDG_emp_fra_conquer_provence_title:0 "收回阿尔勒"
+    
+    
+    #马格里布
+    EDG_mgb_SHORT_1_1_title:0 "马格里布统一"
+    EDG_mgb_SHORT_1_1_desc:0 "该部分尚未开工，暂且如此设定。"
+    EDG_EGY_SHORT_1_1_title:0 "重建马穆鲁克"
+    EDG_EGY_SHORT_1_1_desc:0 "该部分尚未开工，暂且如此设定。"
+    
+    
+    #塞尔维亚
+
+    EDG_emp_ser_1_4_title:0 "改革政治体制"
+    EDG_emp_ser_1_5_title:0 "专制帝国政府"
+    EDG_emp_ser_1_6_title:0 "行政管理学"
+    EDG_emp_ser_4_2_title:0 "惩戒保加利亚"
+    EDG_emp_ser_4_3_title:0 "加强东方控制"
+    EDG_emp_ser_4_1_title:0 "保卫帝国"
+    
+    EDG_emp_ser_1_4_desc:0 "我们相较于过去已经衰落太多了，我们的制度僵化而缺乏活力，一直阻止我们的中央加强对地方的控制，甚至一度引起了保加利亚和阿尔巴尼亚的叛乱。国内一些冥顽不化的保守人士依然认为我们应当保持原有的制度，他们崇尚着斯特凡大帝留下的“希腊人的皇帝”头衔，却没有意识到正是这个头衔让我们没能专注于对本民族力量的调动上。我们可以放弃“希腊人的皇帝”这一头衔，也可以通过依赖人才改革我们的政体。"
+    EDG_emp_ser_1_5_desc:0 "我们已经完成了许多成就，其中十分耀眼的一项便是建立了南斯拉夫人的专制帝国，这对塞尔维亚人而言是具有重大象征性意义的。"
+    EDG_emp_ser_1_6_desc:0 "管理一个帝国的难度是十分巨大的，帝国对具有一定素质的官僚具有庞大的需求，若要满足帝国在行政管理人才上的缺口，完善帝国行政学说是十分重要的。我们在完善《帝国行政论》后，在帝国内建立了一所所用以培养行政人才的学院，并从这部分人才中选拔帝国的官僚，保证官僚的质量和数量。"
+    EDG_emp_ser_4_2_desc:0 "由于沙皇无子，保加利亚爆发了一场激烈的王位争夺战，内战最终的胜利者是康斯坦丁四世。康斯坦丁四世是一个傲慢的狂徒，他与阿尔巴尼亚的斯坎德培联合，发动了对塞尔维亚帝国的叛乱，如今我们要吞噬他的土地，向他实行彻底的复仇。"
+    EDG_emp_ser_4_3_desc:0 "阿尔巴尼亚的斯坎德培与保加利亚公爵康斯坦丁四世组建了联盟，发起了对塞尔维亚的叛乱，而康斯坦丁四世自此自称沙皇，创立了保加利亚沙皇国，这是难以容忍的大逆不道行为，为了防止这样的丑剧再次上演，我们必须牢牢把握保加利亚人的土地。"
+    EDG_emp_ser_4_1_desc:0 "保加利亚人和阿尔巴尼亚人反抗我们的统治，并向我们发动了战争，我们贵为皇帝，但仅仅依靠国内的兵力是无法解决这场危机的，我们在国内的军队太少，而且由于军队的长期腐败，战斗力十分低下，我们必须仰赖雇佣军才能解决这一危机。"
+
+    #保加利亚
+    EDG_BUL_EMPIRE_CHANGE_NAME:0 "大保加利亚"
+    EDG_BUL_EMPIRE_CHANGE_NAME_ADJ:0 "大保加利亚"
+    GET_EDG_NSF_empire_Mission:0 "南斯拉夫帝国"
+    EDG_flavorBUL.1.t:0 "沙皇格勒"
+    EDG_flavorBUL.1.d:0 "拜占廷位于博斯普鲁斯海峡西岸，这条狭窄的海峡将东南欧洲与亚洲分隔开来，城市本身坐落在一片小山丘上，南边是马尔马拉海，北边是金角湾，东边扼守赫勒斯滂海峡的入口，西边居高临下俯瞰色雷斯平原。罗马帝国皇帝君士坦丁大帝重建并扩建了坐落与欧洲边缘的拜占廷，并于公元330年宣布迁都这座地理位置优越的城市，改名为新罗马，别称君士坦丁堡，意谓“君士坦丁之城”。从此，这个城市开始了它辉煌的千年历史，君士坦丁的名字与这个城市融为一体。公元395年1月17日，罗马帝国皇帝狄奥多西一世驾崩，罗马帝国正式分裂成东罗马帝国与西罗马帝国两部分，君士坦丁堡作为东罗马帝国首都，成为地中海东部政治、经济、文化、宗教中心，拜占庭人又在此建立了狄奥多西城墙，使得整个城区宛如一座天造地设的要塞，易守难攻。君士坦丁堡长期以来是东欧大地上最璀璨的明珠，如今她归属于我们，而我们将她改名为“沙皇格勒”，象征着保加利亚沙皇国的崛起——更准地说，是保加利亚帝国的崛起。"
+    EDG_flavorBUL.1.a:0 "沙皇格勒永世长存。"
+    EDG_BUL_special_Mission_1_1_title:0 "结好斯坎德培"
+    EDG_BUL_special_Mission_1_3_title:0 "独立外交"
+    EDG_BUL_special_Mission_1_4_title:0 "与皇帝的关系"
+    EDG_BUL_special_Mission_2_2_title:0 "临时执达官"
+    EDG_BUL_special_Mission_2_4_title:0 "册封斯坎德培"
+    EDG_BUL_special_Mission_2_5_title:0 "忠诚的同胞"
+    EDG_BUL_special_Mission_3_2_title:0 "推翻塞尔维亚"
+    EDG_BUL_special_Mission_3_3_title:0 "奈马尼亚遗产"
+    EDG_BUL_special_Mission_3_5_title:0 "继承拜占庭"
+    EDG_BUL_special_Mission_4_2_title:0 "沙皇军官团"
+    EDG_BUL_special_Mission_4_4_title:0 "沙皇格勒"
+   EDG_BUL_special_Mission_4_5_title:0 "接管正教会"
+   EDG_BUL_special_Mission_4_5_desc:0 "在君士坦丁堡被攻占后，我们又相继占领了整个希腊地区，如今我们掌控着正教会在希腊的所有要地，并控制着普世牧首，因而，我们宣布自己接管了正教会。"
+
+    
+    EDG_BUL_special_Mission_1_1_desc:0 "在斯坎德培的领导下，阿尔巴尼亚获得半个多世纪的独立，他因此被阿尔巴尼亚人民尊为民族英雄。斯坎德培是一位天才般的军事将领，更是一位卓越的民族领袖，取得他的帮助将能够帮助我们获得更长远的胜利。"
+    EDG_BUL_special_Mission_1_3_desc:0 "在完成对塞尔维亚帝国的进攻后，保加利亚需要建立一套属于自己的完整的独立外交体系。"
+    EDG_BUL_special_Mission_1_4_desc:0 "在过去的几十年内，神圣罗马帝国的势力一直在不断东扩，巴尔干半岛是帝国扩张的前线，与皇帝保持友好的关系是十分重要的。"
+    EDG_BUL_special_Mission_2_2_desc:0 "独立战争已经开始，为了更好的做好行政管理，我们迫切需要由沙皇亲自任命的官员来担任临时执达官，来管理我们的国家，保证中央对地方的控制。"
+    EDG_BUL_special_Mission_2_4_desc:0 "在先前的战争中，阿尔巴尼亚人的能征善战给我们留下了深刻的印象，相比暂时的盟友，我们更希望阿尔巴尼亚人能永久为我们作战。"
+    EDG_BUL_special_Mission_2_5_desc:0 "阿尔巴尼亚人与保加利亚有长久的友谊，他们和我们一样都接受南斯拉夫认同，我们是同一个民族的兄弟。"
+    EDG_BUL_special_Mission_3_2_desc:0 "在半个世纪前，我们因为一场屈辱的大败，被迫向塞尔维亚人屈膝，经历过前任君主康斯坦丁四世的励精图治后，我们已经从战乱的阴云中走出，现在，是时候准备重新傲立于多瑙河畔了！"
+    EDG_BUL_special_Mission_3_3_desc:0 "过去，塞尔维亚人的英雄奈马尼亚浴血沙场、南征北战，初次建立了拥有独立王权、统一的塞尔维亚王国，而现在，他的遗产，属于我们保加利亚！"
+    EDG_BUL_special_Mission_3_5_desc:0 "在征服色雷斯地区后，我们与拜占庭的实力已经此消彼长，就如同取代塞尔维亚那样，我们也将取代拜占庭，让拜占庭只能存在于历史书上。"
+    EDG_BUL_special_Mission_4_2_desc:0 "独立战争已经开始，为了更加出色的击败我们的敌人，我们紧急需要一名军事顾问加入我们的军官团，指导我们的将领战术能力。"
+    EDG_BUL_special_Mission_4_4_desc:0 "现在我们的行政治理安定，外交局势良好，军事兵强马壮，正是向外扩张的好时机，而曾经的宗主拜占庭，其领土君士坦丁堡和希腊，就是我们最好的目标。"
+    
+    
+    EDG_NSF_empire_Mission_1_8_title:0 "特兰西瓦尼亚"
+    EDG_NSF_empire_Mission_1_10_title:0 "吸纳蒂玛尔制"
+    EDG_NSF_empire_Mission_1_11_title:0 "库尔德战团"
+    EDG_NSF_empire_Mission_1_12_title:0 "挺近波斯"
+    EDG_NSF_empire_Mission_1_13_title:0 "波斯征兵体系"
+    EDG_NSF_empire_Mission_2_7_title:0 "争夺霸权"
+    EDG_NSF_empire_Mission_2_8_title:0 "我们的多瑙河"
+    EDG_NSF_empire_Mission_2_9_title:0 "黑海与爱琴海"
+    EDG_NSF_empire_Mission_2_10_title:0 "效仿战团制度"
+    EDG_NSF_empire_Mission_2_11_title:0 "库尔德冲锋队"
+    EDG_NSF_empire_Mission_2_12_title:0 "垄断东地中海"
+    EDG_NSF_empire_Mission_2_14_title:0 "恢复罗马牧首"
+    EDG_NSF_empire_Mission_2_15_title:0 "新拉丁教会"
+    EDG_NSF_empire_Mission_3_6_title:0 "新罗马帝国"
+    EDG_NSF_empire_Mission_3_8_title:0 "帝国宫廷礼仪"
+    EDG_NSF_empire_Mission_3_9_title:0 "爱琴海金狮"
+    EDG_NSF_empire_Mission_3_10_title:0 "统治突厥人"
+    EDG_NSF_empire_Mission_3_11_title:0 "小亚细亚皇帝"
+    EDG_NSF_empire_Mission_3_12_title:0 "斯拉夫帝国"
+    EDG_NSF_empire_Mission_3_13_title:0 "宣称罗马遗产"
+    EDG_NSF_empire_Mission_3_14_title:0 "缝合撕裂"
+    EDG_NSF_empire_Mission_3_15_title:0 "斯拉夫的罗马"
+    EDG_NSF_empire_Mission_4_7_title:0 "巴尔干雄心"
+    EDG_NSF_empire_Mission_4_8_title:0 "南斯拉夫一统"
+    EDG_NSF_empire_Mission_4_9_title:0 "迁徙卡拉曼人"
+    EDG_NSF_empire_Mission_4_10_title:0 "教化突厥人"
+    EDG_NSF_empire_Mission_4_11_title:0 "帝国灰军"
+    EDG_NSF_empire_Mission_4_12_title:0 "纯洁火药法"
+    EDG_NSF_empire_Mission_4_14_title:0 "布道马格里布"
+    EDG_NSF_empire_Mission_5_3_title:0 "斯拉夫轻骑兵"
+    EDG_NSF_empire_Mission_5_4_title:0 "第一兵团"
+    EDG_NSF_empire_Mission_5_5_title:0 "康斯坦丁队列"
+    EDG_NSF_empire_Mission_5_6_title:0 "改革兵团制度"
+    EDG_NSF_empire_Mission_5_7_title:0 "常备军编制"
+    EDG_NSF_empire_Mission_5_8_title:0 "义务兵役法案"
+    EDG_NSF_empire_Mission_5_10_title:0 "斯拉夫铁卫军"
+    EDG_NSF_empire_Mission_5_11_title:0 "近代军事训练"
+    EDG_NSF_empire_Mission_5_12_title:0 "民族主义军团"
+    EDG_NSF_empire_Mission_5_13_title:0 "斯拉夫大军团"
+    
+    
+    EDG_NSF_empire_Mission_1_8_desc:0 "过去特兰西瓦尼亚作为我们重要领地，提供大量的资源和人力，一直发挥着重要作用，现在它的周围已经不再安全，或许我们应当将它作为皇帝属地加强管理。"
+    EDG_NSF_empire_Mission_1_10_desc:0 "随着帝国的扩张，领地开始难以管理，我们效仿奥斯曼人，实行蒂马尔制度，以此招募步战士作战。"
+    EDG_NSF_empire_Mission_1_11_desc:0 "库尔德作为在山区生活一千多年的民族，其在山地作战的特殊战法不仅值得我们接纳，也值得我们将库尔德人部队纳入我们的军事体系。"
+    EDG_NSF_empire_Mission_1_12_desc:0 "在征服马什里克地区以后，我们和波斯地区成为了近邻，为了在继续征服时没有后顾之忧，先征服波斯，成为了必经之路。"
+    EDG_NSF_empire_Mission_1_13_desc:0 "在征服了波斯地区后，我们可以在此地征募更多的当地人，用以维持我们的帝国军队。"
+    EDG_NSF_empire_Mission_2_7_desc:0 "我们的军力已经超过了东南欧的传统强国匈牙利，现在我们可以骄傲的向世界宣布，保加利亚已经成为东南欧第一强国了！"
+    EDG_NSF_empire_Mission_2_8_desc:0 "作为多瑙河下游的国家，多瑙河既是我们的母亲河，也是我们的生命线，我们理应拥有这条多瑙河和她有关的一切，并想尽办法，让她更加繁荣。"
+    EDG_NSF_empire_Mission_2_9_desc:0 "我们作为黑海之滨的国家，同时也作为新的罗马帝国，理当拥有一片内海，黑海，就是我们的目标。"
+    EDG_NSF_empire_Mission_2_10_desc:0 "在与突厥人作战当中，我们发现其的战团制度十分利于作战，为了增强我们的力量，同化突厥人，招募他们来和我们的军队组成战团制度成为了必须选项。"
+    EDG_NSF_empire_Mission_2_11_desc:0 "库尔德民族桀骜不驯，难以管理，但是他们身上有我们部队所需要学习的特质，接纳库尔德人，是我们的必选项。"
+    EDG_NSF_empire_Mission_2_12_desc:0 "在征服埃及地区后，我们掌控了地中海东岸所有地区，这一从古至今的繁华贸易区域，必将带给我们大量的财富。"
+    EDG_NSF_empire_Mission_2_14_desc:0 "随着我们攻占了罗马这座古老的城市，将它恢复成正教会信仰，让罗马的主教重新成为东正教牧首成了当下最重要的事情。"
+    EDG_NSF_empire_Mission_2_15_desc:0 "在征服意大利这一罗马起源之地，也是异端的中心后，我们可以顺理成章的筹建更适合我们的新拉丁教会"
+    EDG_NSF_empire_Mission_3_6_desc:0 "在拜占庭的废墟上，我们重新崛起，成为了罗马故土上新的帝国，我们可以骄傲的宣称，我们也是罗马！"
+    EDG_NSF_empire_Mission_3_8_desc:0 "在我们的国家日渐庞大以后，统治者已经逐渐力不从心，更无力管理自己的宫廷内务，是时候实行一份适应现状的宫廷法案了。"
+    EDG_NSF_empire_Mission_3_9_desc:0 "在控制爱琴海的北面与东面后，作为地中海东岸大国，我们的海军建设也提上日程，没有海军，可难以在地中海立足。"
+    EDG_NSF_empire_Mission_3_10_desc:0 "现在，我们的国家已经占据了突厥人大量领土，安纳托利亚已是我们囊中之物，是时候将目光转移向下一个猎物了。"
+    EDG_NSF_empire_Mission_3_11_desc:0 "在征服安纳托利亚全境后，我们已经成为了事实上的小亚细亚统治者，接下来的工作，就是努力同化该地的民族，成为我们帝国的一份子。"
+    EDG_NSF_empire_Mission_3_12_desc:0 "我们已经成为南斯拉夫人事实上的文化母国，唯一的区别就是名号与否，我们将建立一套更先进的新制度，并以南斯拉夫之名光耀世界。"
+    EDG_NSF_empire_Mission_3_13_desc:0 "现在，我们已经拥有了东罗马的全部领土，为了罗马帝国的名号，我们将对西罗马发出宣称，荣耀属于我们。"
+    EDG_NSF_empire_Mission_3_14_desc:0 "在征服伊比利亚地区之后，西罗马曾经的领土，只剩下最后两片，恢复全盛罗马帝国，就在眼前。"
+    EDG_NSF_empire_Mission_3_15_desc:0 "现在，我们已经恢复全盛罗马帝国的版图，我们可以骄傲的向世界宣布，我们是罗马帝国真正也是唯一的继承者，我们，就是罗马！"
+    EDG_NSF_empire_Mission_4_7_desc:0 "在占据了希腊、马其顿、塞尔维亚的领土后，我们发现离全据巴尔干仅剩一步之遥，我们应当为实现这一目标立刻开始整军备战。"
+    EDG_NSF_empire_Mission_4_8_desc:0 "在获得巴尔干全境后，我们可以自豪的宣布，我们战胜了一切竞争对手，成为南斯拉夫人唯一的文化母国！"
+    EDG_NSF_empire_Mission_4_9_desc:0 "我们已经征服了位于高地之上的罗姆后裔，但是他们仍旧沉迷于往日的荣光，不愿臣服，将他们迁徙到眼皮之下或许是个好决定。"
+    EDG_NSF_empire_Mission_4_10_desc:0 "我们虽然从军事上征服了这片土地，但是精神上突厥人的抵抗依旧强大，我们应当让正教会在小亚细亚地区专门设立传教点，以便传播基督的荣光。"
+    EDG_NSF_empire_Mission_4_11_desc:0 "随着我们军队的逐渐扩大，皇帝需要一支亲军提上了日程，这支军队由皇帝亲自选拔，每名士兵都擅长火力射击，它成为了皇帝手中最可靠的军事力量。"
+    EDG_NSF_empire_Mission_4_12_desc:0 "经过我们的火药制造部门的不懈努力，终于在研究中取得了进步，现在，通过一种新型的纯净火药制造法，我们的部队可以制造更强的火力杀伤。"
+    EDG_NSF_empire_Mission_4_14_desc:0 "在征服马哥里布地区之后，我们增派了传教士，力图尽快将北非地区纳入基督教的荣光。"
+    EDG_NSF_empire_Mission_5_3_desc:0 "我们先祖的一支，来源于北高加索的突厥人，他们的轻骑兵曾经在整个欧亚草原上引以为傲，现在，是时候让我们的敌人再次颤抖。"
+    EDG_NSF_empire_Mission_5_4_desc:0 "当火枪大规模集中运用从遥远的东方传来后，我们的沙皇立刻认识到这一战法的实用性与重要性，组建属于我们自己的火枪兵团。"
+    EDG_NSF_empire_Mission_5_5_desc:0 "在火枪兵团组建后，经过战场上的实际作战经验，我们的沙皇发现仍有增长空间，于是他对火枪兵团的队伍排列进行了优化训练，以便让我们可以在同样时间内射击更多火力。"
+    EDG_NSF_empire_Mission_5_6_desc:0 "火枪兵团在各国开始普及之后，火力伤害成为了战场上的主流，或许是时候针对这一现象，对军队作出改变了。"
+    EDG_NSF_empire_Mission_5_7_desc:0 "随着我国军力的不断上升，过去依赖人力进行的作战已经逐渐落伍，兵贵在精不在多成为了我们新的理念，是时候组建一直专职作战的常备军团了。"
+    EDG_NSF_empire_Mission_5_8_desc:0 "在获得巴尔干大片领土后，我们拥有了庞大的人力供应，但是部队的征募时间过长成为了新的难题，在各地设立兵营实现义务募兵是个好的选择。"
+    EDG_NSF_empire_Mission_5_10_desc:0 "帝国的军队一向在战场上战无不胜，他们享有铁军的称号，而事实远超于此，我们的军队比钢铁更加坚韧。"
+    EDG_NSF_empire_Mission_5_11_desc:0 "随着时代发展，我们的勇士虽然依旧充满勇气和力量，但是训练方式已经落伍了，是时候改革训练方法了。"
+    EDG_NSF_empire_Mission_5_12_desc:0 "随着民族主义时代的到来，我们将部队整合为一体，汇集在同一只旗帜下，跟随同一个目标共同作战。"
+    EDG_NSF_empire_Mission_5_13_desc:0 "随着我们的军力不断上升，以及时代的发展，大兵团作战成为主流，也将成为我们军队未来的变革方向。"
+    
+    
+    
+    
+    #波斯化任务树
+    
+    EDG_Persia_generic_Mission_1_1_title:0 "阿塞拜疆之主"
+    EDG_Persia_generic_Mission_1_2_title:0 "剑抵两河"
+    EDG_Persia_generic_Mission_1_3_title:0 "统治伊拉克"
+    EDG_Persia_generic_Mission_1_4_title:0 "征兵事务"
+    EDG_Persia_generic_Mission_1_5_title:0 "近代化军队"
+    EDG_Persia_generic_Mission_1_6_title:0 "新长生军"
+    EDG_Persia_generic_Mission_2_1_title:0 "文明十字路口"
+    EDG_Persia_generic_Mission_2_2_title:0 "戎马东征"
+    EDG_Persia_generic_Mission_2_3_title:0 "万王之王"
+    EDG_Persia_generic_Mission_2_4_title:0 "火力优势学说"
+    EDG_Persia_generic_Mission_2_5_title:0 "帝国征兵体系"
+    EDG_Persia_generic_Mission_2_6_title:0 "百战之国"
+    EDG_Persia_generic_Mission_3_2_title:0 "整合基督徒"
+    EDG_Persia_generic_Mission_3_3_title:0 "踏平高加索"
+    EDG_Persia_generic_Mission_3_4_title:0 "重现波斯帝国"
+    EDG_Persia_generic_Mission_3_5_title:0 "世界征服者"
+    EDG_Persia_generic_Mission_4_6_title:0 "帝国仓储系统"
+    EDG_Persia_generic_Mission_5_3_title:0 "扩大国家税源"
+    EDG_Persia_generic_Mission_5_4_title:0 "建设神庙群"
+    EDG_Persia_generic_Mission_5_5_title:0 "城市化"
+    EDG_Persia_generic_Mission_5_6_title:0 "宫廷丝绸"
+    
+    EDG_Persia_generic_Mission_2_1_tip:0 "获得§Y波斯§!和§Y黎凡特次§!大陆的视野"
+    
+    
+    
+    EDG_Persia_generic_Mission_1_1_desc:0 "在帖木儿帝国和黑羊王朝相继崩溃后，伊朗西部再次陷入了分裂的泥潭中，大大小小的势力展开了角逐，我们将参与其中并取得最后的胜利。"
+    EDG_Persia_generic_Mission_1_2_desc:0 "我们在两河流域建立了稳固的统治，这是我们征服整个马什里克和黎凡特地区的基础。"
+    EDG_Persia_generic_Mission_1_3_desc:0 "黎凡特和马什里克地区如今已经悉数落入我们手中，我们距离建设一个更强大的军事帝国更进一步。"
+    EDG_Persia_generic_Mission_1_4_desc:0 "伊朗西部如今成为了四战之地，我们必须拥有强大的军队才能保卫我们自己，征兵事务一直是国家最重要的问题之一。"
+    EDG_Persia_generic_Mission_1_5_desc:0 "农奴组成的军队在近代化职业军队的冲击下显得不堪一击，组建一支职业化军队在如今看来是迫在眉睫的任务。"
+    EDG_Persia_generic_Mission_1_6_desc:0 "不死队的前身组建于冈比西斯二世后期，雏形是波斯宫廷禁卫军中的持矛卫兵与长刀手，规模约在3800人左右，统帅有冈比西斯二世最为信赖的将军马哈库拜担任，后在与埃塞俄比亚的战争中阵亡，统帅转由其堂兄弟希司塔斯佩斯之子，也就是后来的大流士一世担任，大流士极富指挥才能，不死队在他的手中获得了空前的大发展，先是从波斯军中优选出经过战火历练，经验丰富的老兵。不死军是波斯地区精锐军队的代表，重新启用这一称号将能够带来更高的威望。"
+    
+    EDG_Persia_generic_Mission_2_1_desc:0 "我们处于文明的十字路口，这让我们的视野更加开阔。"
+    EDG_Persia_generic_Mission_2_2_desc:0 "我们在西波斯地区已经征服了许多的土地，征服整个波斯将不再是遥远的目标。"
+    EDG_Persia_generic_Mission_2_3_desc:0 "我们确立了对整个波斯地区的控制，从一个分裂割据势力变成了波斯的正统王朝，我们将一个新的王朝写入了历史中。"
+    EDG_Persia_generic_Mission_2_4_desc:0 "火力优势学说起源于西方，我们尚且不知是哪一个军事家提出了这一学说，但这一学说鼓吹利用现代化的火器将能够提升军队的质量，我们认为这是值得采纳的。"
+    EDG_Persia_generic_Mission_2_5_desc:0 "帝国的征兵能力将决定了我们能否在接下来的众多战争中保持军事优势，提升我们的征兵能力是非常具有建设性的任务。"
+    EDG_Persia_generic_Mission_2_6_desc:0 "我们的国家经历了无数的战争，整个国家就是一台战争机器。"
+    EDG_Persia_generic_Mission_3_2_desc:0 "高加索南部有许多的基督徒，我们会将他们整合进我们的国家。"
+    EDG_Persia_generic_Mission_3_3_desc:0 "我们征服了整个高加索地区，当地的人力和其他资源将能够支持我们。"
+    EDG_Persia_generic_Mission_3_4_desc:0 "我们重新恢复了波斯帝国的版图 ，最古老的超级大国以我们的名义重现。"
+    EDG_Persia_generic_Mission_3_5_desc:0 "波斯帝国的伟大征服永远不会停止，我们注定要将世界的更多地区纳入我们的统治。"
+    EDG_Persia_generic_Mission_4_6_desc:0 "中东地区的复杂局势要求我们能够有更好的稳定内部的能力，而对于我们来说，建立完善的仓储系统以便我们继续想外扩张是必要之举。"
+    EDG_Persia_generic_Mission_5_3_desc:0 "我们的国家财政收入相比过去有了极大的提升，这无疑是我们优秀的财政管理体系功劳。"
+    EDG_Persia_generic_Mission_5_4_desc:0 "波斯地区的宗教信仰问题一直很尖锐，修建完善的神庙群将有利于我们解决这一问题。"
+    EDG_Persia_generic_Mission_5_5_desc:0 "伴随着我们省份的发展，逐渐出现多个规模化的城市，而我们对于城市建设也越来越娴熟。"
+    EDG_Persia_generic_Mission_5_6_desc:0 "丝绸不仅是东方的特产，我们也拥有丝绸的产地，利用丝绸贸易来进行外交是个有趣的提案。"
+    
+    
+    #白羊任务树
+    EDG_akk_special_missions_3_6_tt:0 "如果我们是§Y波斯§!，且解锁了£icon_ideas£§Y白羊§!国家理念的第一个理念，那么我们的理念将会得到加强。"
+    has_EDG_akk_special_missions_5_7_flag:0 "土库曼王朝米利特制度"
+    set_has_EDG_akk_special_missions_5_7_flag_tooltip:0 "获得修正§Y土库曼王朝米利特制度§!，你将可以采纳 §Y巩固米利特制度§!。"
+    
+    
+    EDG_akk_special_missions_1_3_title:0 "军事改革"
+    EDG_akk_special_missions_1_4_title:0 "征服基督徒"
+    EDG_akk_special_missions_1_5_title:0 "奥斯曼军制"
+    EDG_akk_special_missions_1_6_title:0 "小亚细亚开发"
+    EDG_akk_special_missions_1_7_title:0 "打击守旧教长"
+    EDG_akk_special_missions_1_8_title:0 "库尔德勋贵"
+    EDG_akk_special_missions_1_9_title:0 "开发尼罗河"
+    EDG_akk_special_missions_2_2_title:0 "部落军团"
+    EDG_akk_special_missions_2_3_title:0 "入主帝都"
+    EDG_akk_special_missions_2_4_title:0 "扑灭教团"
+    EDG_akk_special_missions_2_5_title:0 "集权化改革"
+    EDG_akk_special_missions_2_6_title:0 "沙汗沙阿"
+    EDG_akk_special_missions_2_7_title:0 "吞并阿尤布"
+    EDG_akk_special_missions_2_8_title:0 "叙利亚财富"
+    EDG_akk_special_missions_2_9_title:0 "取缔马穆鲁克"
+    EDG_akk_special_missions_2_10_title:0 "白羊游牧帝国"
+    EDG_akk_special_missions_3_1_title:0 "巩固独立"
+    EDG_akk_special_missions_3_2_title:0 "群雄逐鹿"
+    EDG_akk_special_missions_3_3_title:0 "哈里发宝座"
+    EDG_akk_special_missions_3_4_title:0 "挺近帝国腹地"
+    EDG_akk_special_missions_3_5_title:0 "统一波斯帝国"
+    EDG_akk_special_missions_3_6_title:0 "国家募军"
+    EDG_akk_special_missions_3_7_title:0 "稳定新生帝国"
+    EDG_akk_special_missions_3_8_title:0 "席卷大草原"
+    EDG_akk_special_missions_3_9_title:0 "回收金帐遗产"
+    EDG_akk_special_missions_3_10_title:0 "最伟大的汗"
+    EDG_akk_special_missions_4_7_title:0 "惩戒十字军"
+    EDG_akk_special_missions_4_8_title:0 "侵袭爱琴海"
+    EDG_akk_special_missions_4_9_title:0 "东罗马遗产"
+    EDG_akk_special_missions_4_10_title:0 "最伟大的哈兰"
+    EDG_akk_special_missions_5_7_title:0 "成全殉道者"
+    EDG_akk_special_missions_5_8_title:0 "米利特制度"
+    EDG_akk_special_missions_5_9_title:0 "爱琴海财富"
+    
+    
+    EDG_akk_special_missions_1_3_desc:0 "在各种建设的同时，我们的君主也在训练一支强大的军队，在保持军队数量时的同时高度纪律化。乌尊哈桑在这一点上做得尤为优秀，他扩大军队、操练兵士，并严明军纪，他规定任何丢弃武器的士兵应当被处死，使得白羊王朝获得了一支强大的军队。"
+    EDG_akk_special_missions_1_4_desc:0 "高加索南部有许多基督教国家，我们会击碎他们的信仰。在征服他们之后，我们应当尽快让当地异教徒改信伊斯兰教，这样才能让我们在向西扩张的同时保持国内稳定。"
+    EDG_akk_special_missions_1_5_desc:0 "在我们征服了整个安纳托利亚之后，我们发现当地的奥斯曼人军制似乎更适合我们未来的发展，或许是时候对我们的军制进行改革了。"
+    EDG_akk_special_missions_1_6_desc:0 "小亚细亚地区是我们帝国的重要支柱，如何让它得到更好的发展，是我们接下来将会面临的重要问题。"
+    EDG_akk_special_missions_1_7_desc:0 "随着我们国家的不断扩张，我们的统治者需要尽可能的将土地控制在自己手中，一些奉行保守主义的顽固伊斯兰教长一直在阻碍我们的改革，并反抗我们的统治，我们必须驯服他们，再弱化他们。"
+    EDG_akk_special_missions_1_8_desc:0 "我们的国家拥有很多库尔德的勋贵，掌握他们，就可以使统治者对国家的控制进一步加强。"
+    EDG_akk_special_missions_1_9_desc:0 "尼罗河作为养育了当地人数千年之久的文明古河，随着历史的掩盖逐渐衰落，将它重新建设繁荣起来，对我们治理埃及有极大的帮助。"
+    EDG_akk_special_missions_2_2_desc:0 "我们是骄傲的土库曼部落，我们有辉煌的历史和最精锐的军队，但就目前而言，我们的部队规模相当于周边国家来说显得有些不足，因而我们必须扩大我们的军队以便向外扩张。"
+    EDG_akk_special_missions_2_3_desc:0 "大不里士始建于公元前3世纪，历史上多次成为王朝首都。古代为四方往来通衢，在军事及交通上居重要地位。 8世纪初，阿拉伯军队征服波斯和中亚后，大不里士被占领，成为军事要地。后被波斯和中亚一带割据的伊斯兰诸王朝先后分属管辖。1258年，成吉思汗孙旭烈兀攻克巴格达灭阿巴斯王朝后，建立蒙古人统治的伊尔汗国，大不里士被定为首都，成为伊尔汗国的政治、经济和文化中心。在该城附近建有马拉格天文台，编制了《伊尔汗历》，附设有规模较大的图书馆。在合赞汗统治时，该城学者荟萃，伊斯兰学术文化得到发展，建有多所清真寺和宗教学校，为什叶派和苏菲派的学术中心之一。并在沟通欧洲和中亚两地区经济文化上起了，桥梁作用。14至18世纪，这里成为众多王朝的首都，如黑羊王朝就曾建都于此，不过后来黑羊王朝溃退至南方。如今我们控制了大不里士，并复兴了这座城市，在次之后，我们是否应该将我们的首都前往此地？"
+    EDG_akk_special_missions_2_4_desc:0 "萨法维教团近年来一直在伊朗西部有巨大的影响力，一些什叶派民众拥护他们，将萨法维的统治者视为神明的代表，如何处置萨法维教团将是我们需要面临的巨大问题。"
+    EDG_akk_special_missions_2_5_desc:0 "随着我们的国家实力不断增长，以及政府机构扩大的需要，我们需要改变我们的政治体制。"
+    EDG_akk_special_missions_2_6_desc:0 "曾经，沙汗沙阿，即万王之王，是对波斯帝国君主的尊称，而现在，随着我们重现波斯帝国的光辉，我们将成为新的沙汗沙阿。"
+    EDG_akk_special_missions_2_7_desc:0 "在我们征服阿尤布后，如何对待这些萨拉丁的后裔，成为了一个难以抉择的难题。"
+    EDG_akk_special_missions_2_8_desc:0 "富饶的叙利亚以及臣服于我们，但我们追求的是更多的土地，更为伟大的征服即将开始，埃及将会是我们的下一个目标。"
+    EDG_akk_special_missions_2_9_desc:0 "马穆鲁克王朝长期统治着埃及，但这群暴虐的军事奴隶绝非埃及命中注定的统治者，我们将会取缔马穆鲁克，成为埃及的新统治者。"
+    EDG_akk_special_missions_2_10_desc:0 "我们无尽的征服带来了许多的问题，过多的人口和过多的城市加大了我们的管理难度，一些军官主张对被征服地区进行更为彻底的劫掠，这一主张听起来像是让我们成为我们游牧邻居的效仿者，但这似乎并非不可，我们甚至可以在重现波斯帝国后，再重现蒙古帝国的光辉。"
+    EDG_akk_special_missions_3_1_desc:0 "我们身处四战之地，偏安一隅是绝不可能实现的，要维持我们自身的独立，我们必须维持自己的军事力量。"
+    EDG_akk_special_missions_3_2_desc:0 "在帖木儿帝国和黑羊王朝相继崩溃后，伊朗西部再次陷入了分裂的泥潭中，大大小小的势力展开了角逐，我们将参与其中并取得最后的胜利。"
+    EDG_akk_special_missions_3_3_desc:0 "1258年和1401年，巴格达曾遭蒙古旭烈兀和帖木儿军的两次洗劫，大量建筑古迹文物遭到摧毁，巴格达收藏的经典全部被投入河中，据说墨水将河水染黑。后来巴格达置于伊儿汗国和帖木儿帝国统治下，并在光辉与苦难中起起落落，但巴格达的厄运到此结束，因为如今我们是巴格达的主人。"
+    EDG_akk_special_missions_3_4_desc:0 "随着我们在东线战场上的连战连捷，我们逐渐到达了波斯高原的腹地，我们的改革将与我们的征服齐头并进。"
+    EDG_akk_special_missions_3_5_desc:0 "我们终于统一了波斯高原，波斯帝国的基业如今被我们全盘继承，我们将超越阿契美尼德王朝，并让伊朗的力量辐射到整个世界的每一个角落。"
+    EDG_akk_special_missions_3_6_desc:0 "随着我们领土的不断扩张，适龄男子也随之增多，我们的部队需要训练有素的军官和更多的士兵。"
+    EDG_akk_special_missions_3_7_desc:0 "我们已经消化完新扩张的领地，转化为了我们的国力，我们的士兵和军官已经渴望继续想外征战，一些教法学家和历史学者也在鼓励我们恢复波斯帝国极盛时期的版图。"
+    EDG_akk_special_missions_3_8_desc:0 "在征服中亚地区以后，庞大的草原就在我们眼前，是时候效仿蒙古故事，成为新的成吉思汗了。"
+    EDG_akk_special_missions_3_9_desc:0 "在我们收取金帐故地以后，为了更方便管理该地区，借用金帐的名号，或许是不错的选择。"
+    EDG_akk_special_missions_3_10_desc:0 "我们将让蒙古人屈膝，并向他们宣布，新的成吉思汗诞生了。"    
+    EDG_akk_special_missions_4_7_desc:0 "在耶路撒冷陷落后，耶路撒冷王国的继承者逃亡塞浦路斯，并在当地以天主教徒的身份进行统治，他们的祖辈曾经在穆斯林的土地上杀害我们的同胞，我们将向他们进行最彻底的复仇。"
+    EDG_akk_special_missions_4_8_desc:0 "在完整的掌握安纳托利亚后，越过爱琴海，征服巴尔干，全据地中海东岸成为了我们新的战略目标。"
+    EDG_akk_special_missions_4_9_desc:0 "在占据东罗马故地以后，我们的眼睛又看向了意大利，这块罗马起源的地方。"
+    EDG_akk_special_missions_4_10_desc:0 "我们的国家是这片世界上最伟大的帝国，我们的统治者也是最伟大的哈兰，他是如此的善于治理庞大的帝国。"
+    EDG_akk_special_missions_5_7_desc:0 "索兰虽然是异教徒，但是他们的骑士精神令我们感到动容，我们将成全他们的殉道行为。"
+    EDG_akk_special_missions_5_8_desc:0 "随着我们的族群越来越复杂化，我们需要设立一种新的制度，专为少数族群自治而设的属人法法庭。"
+    EDG_akk_special_missions_5_9_desc:0 "爱琴海的商业贸易已经有数千年的历史，将爱琴海的贸易掌握在手中，对于我们国家的发展，乃是必要之举。"
+    
+    
+    #波斯
+    EDG_per_mission_4_14_tooltip:0 "§Y高加索地区§!的§Y格鲁吉亚文化§!省份将会发生如下效果"
+    
+    EDG_per_mission_1_12_title:0 "山脉守望者"
+    EDG_per_mission_1_14_title:0 "武装宣扬正信"
+    EDG_per_mission_1_16_title:0 "再征埃及"
+    EDG_per_mission_1_17_title:0 "征服日落之地"
+    EDG_per_mission_1_18_title:0 "整合迪米制度"
+    EDG_per_mission_1_19_title:0 "军队现代化"
+    EDG_per_mission_1_20_title:0 "阿巴斯新军"
+    EDG_per_mission_2_14_title:0 "扩建公共设施"
+    EDG_per_mission_2_15_title:0 "波斯行政体系"
+    EDG_per_mission_2_17_title:0 "设立底万部门"
+    EDG_per_mission_2_18_title:0 "整合行省权力"
+    EDG_per_mission_2_19_title:0 "削弱大维齐尔"
+    EDG_per_mission_2_20_title:0 "扩大阿米尔尼扎姆改革"
+    EDG_per_mission_3_14_title:0 "入主印度斯坦"
+    EDG_per_mission_3_16_title:0 "鲸吞印度"
+    EDG_per_mission_3_17_title:0 "设立扎贝特"
+    EDG_per_mission_3_19_title:0 "印度总督区"
+    EDG_per_mission_3_20_title:0 "大波斯帝国"
+    EDG_per_mission_4_11_title:0 "国家建设理论"
+    EDG_per_mission_4_12_title:0 "公共教育"
+    EDG_per_mission_4_13_title:0 "古拉姆的潜力"
+    EDG_per_mission_4_14_title:0 "迁徙高加索人"
+    EDG_per_mission_4_15_title:0 "接管德里"
+    EDG_per_mission_4_16_title:0 "掠夺印度财富"
+    EDG_per_mission_4_17_title:0 "印度大干道"
+    EDG_per_mission_4_18_title:0 "帝都大不里士"
+    EDG_per_mission_4_19_title:0 "帝都伊斯法罕"
+    EDG_per_mission_4_20_title:0 "帝都巴格达"
+    EDG_per_mission_5_12_title:0 "坎儿井体系"
+    EDG_per_mission_5_13_title:0 "亚美尼亚丝绸"
+    EDG_per_mission_5_14_title:0 "古拉姆军团"
+    EDG_per_mission_5_15_title:0 "复兴丝绸之路"
+    EDG_per_mission_5_16_title:0 "改革税法"
+    EDG_per_mission_5_18_title:0 "近代工业化"
+    EDG_per_mission_5_19_title:0 "帝都撒马尔罕"
+    EDG_per_mission_5_20_title:0 "帝都德黑兰"
+    
+    
+    
+    EDG_per_mission_1_12_desc:0 "波斯地区有众多的山脉，扎格罗斯山脉更是我们的守护神，在山脉群修建现代化的堡垒，将能够保护我们的帝国腹地不受外敌的践踏。"
+    EDG_per_mission_1_14_desc:0 "黎凡特和马什里克地区有大量的异端建立起了脆弱的统治，我们将会摧毁他们的王庭，在他们的土地上传播正确的信仰。"
+    EDG_per_mission_1_16_desc:0 "阿契美尼德王朝曾经入主埃及，成为了埃及实质上的法老，我们也将在开罗和亚历山大建立我们的行宫和要塞。"
+    EDG_per_mission_1_17_desc:0 "“马格里布”意为日落之地，指阿特拉斯山脉至地中海海岸之间的地区，该地区传统上受地中海和阿拉伯文明影响，同时也与撒哈拉沙漠以南的黑非洲地区有着密切的贸易往来，因此形成了独特的文化，穆瓦希德王朝和法蒂玛王朝以及十字军控制着这片土地，但他们的统治脆弱无比，这意味着我们将能够对他们摧枯拉朽。"
+    EDG_per_mission_1_18_desc:0 "在埃及，穆斯林统治者的宗教政策也体现在对科普特人改信伊斯兰教的态度上。他们延续在其他征服地区一贯执行的“迪米”制度。在伊斯兰国家中受到宽容和保护的基督徒、犹太教徒和祆教徒都被称为“迪米”，即“立约之人”。这些非穆斯林必须承认伊斯兰教的崇高属性和伊斯兰国家的主导地位，并经由一些社会上的限制和缴付一种穆斯林不需缴纳的人头税，以表示他们接受臣属地位。相对地，他们享有生活和财产的安全，可接受保护免受外敌侵凌，可以自由崇祀，并在处理自身的事物方面，享有很高的自主权。"
+    EDG_per_mission_1_19_desc:0 "波斯帝国前期仰仗的土库曼游牧部族军队漫无纪律，且时常反叛。对当下的波斯统治者而言，如何遏制基齐勒巴什力量的膨胀，是其即位后面临的首要问题。在英国冒险家罗伯特·谢利的帮助及大臣阿拉威尔迪汗的主持下，我们利用新式武器装备新军，使其成为遏制部落力量的基柱。新的常备军是由波斯农民和来自高加索地区的亚美尼亚人、格鲁吉亚人、塞加西亚人战俘及其后裔组成的皇家军团，主要包括炮兵、洋枪兵和步兵。其中，步兵每军12000人，骑兵每军10000人，皆装备火枪；炮兵人数达12000人，配备有500门铜炮。"
+    EDG_per_mission_1_20_desc:0 "除了建立新式的正规部队外，阿巴斯还扩充王室近卫军规模，使其人数达到了3000人。近卫军职责是保卫皇帝和王室成员的安全，随时听从皇帝的调遣。军事改革不仅加强了部队战斗力，使其能够更好地保卫国家政权抵御外部侵犯。此外，阿巴斯将军队中基齐勒巴什人的数量由原来的6至8万裁减至3万，扭转了土库曼部落贵族拥兵自重的局面，降低了基齐勒巴什人在军队中的影响力。"
+    EDG_per_mission_2_14_desc:0 "波斯地区在过去的几十年内饱经战火，曾经繁荣的土地陷入了废墟和灰烬之中，重现波斯地区的繁荣以及帝国对波斯的控制对我们的同志而言至关重要。"
+    EDG_per_mission_2_15_desc:0 "波斯人有悠久的官僚制度，当地的波斯官僚是我们治理国家的支柱，建立起一套符合波斯人传统的行政制度将能够提升我们的国家治理能力。"
+    EDG_per_mission_2_17_desc:0 "底万制度起源于波斯皇帝库斯劳一世，在波斯中的意思是“疯子白痴”，后又指财税人员。底万制度下，底万的财税人员地位颇高，但通常不是贵族，他们不仅进行财务审查，还具备检察职能，用以制约贵族和强有力的大臣。"
+    EDG_per_mission_2_18_desc:0 "中央和地方的紧张关系是理解萨法维王朝政权结构和政治治理的关键。萨法维国家最根本的问题在于其在结构上是一个部落联盟，因而极其不稳定。享有自主性、经济利益和军事野心的各个部落彼此泾渭分明且相互敌对，常常使国家在政治秩序上陷入混乱，它们都反对一个中央集权国家的建立。在整个萨法维王朝时期，最具影响的政治斗争常常是统治菁英内部的斗争而非统治者和被统治者的权力斗争。这种权力斗争、得失变化最明显地体现于国家中央集权或地方分权的程度上，其关键是沙阿与基泽勒巴什部落的关系。波斯的这一国家结构是十分不安全的，我们必须削弱地方的权力。"
+    EDG_per_mission_2_19_desc:0 "沙阿之下设有最高会议最高会议由沙阿来召集，由沙阿所指定的各游牧部落的军事贵族、官僚与乌里玛代表组成。仅次于沙阿的官员称为”大维齐尔”，作为沙阿的代理人，大维齐尔通常由波斯贵族来担任，拥有巨大的权力并控制全国的事务。接下来是”埃米尔·乌穆拉”，即军队总司令；再次是”萨德尔·苏杜尔”，它是沙阿旨意的维护者，也是穆斯林的法律顾问。此外，还有主管财政的大臣和其他各部大臣。大臣会议仅有咨议的权力，最终决定权属于沙阿，而大维齐尔一直是内阁的最高领袖，但我们需要做出一些改变，削弱大维齐尔的权力以加强君权。"
+    EDG_per_mission_2_20_desc:0 "尼扎姆实施的一系列改革措施，使波斯出现了中兴的迹象，中央权力得到加强，财政状况得到改善，农民负担有所减轻，工商业者得到收益，社会趋向稳定，因此受到多数人的支持。尼扎姆推行改革的目的是巩固恺加王朝的政权，这就有着很大的局限性，不可能消除封建王朝固有的腐败。何况尼扎姆只是得到年轻国王的支持，才能推行其改革措施。尼扎姆的改革触犯了王室贵族、地方升官和诸汗王、中高级军政官员，以及寺院和宗教界上层的利益，也抑制了欧洲列强的利益。"
+    EDG_per_mission_3_14_desc:0 "印度地区的富饶一直让我们十分垂涎，我们将从印度的西北角进入这片富饶的地区，并在印度斯坦建立我们的统治。"
+    EDG_per_mission_3_16_desc:0 "伊斯兰对印度的真正征服开始于11世纪，是由中亚的突厥人进行的。伽色尼王朝的苏丹马赫穆德远征印度12次以上，在北印度造成严重破坏。伽色尼王朝在中亚的领土于1173年被其位于阿富汗的原附庸廓尔王朝吞并。廓尔王朝的统治者穆伊兹丁·穆罕默德在1192年的第二次德赖战役中决定性地击败了兆汗人；他留在印度的总督顾特卜-丁·艾伯克于1206年采用苏丹头衔统治被穆斯林征服的北印度地区，定都德里。此后直到莫卧儿帝国建立，北印度的历史即为德里苏丹国的历史，直到德里苏丹国于十五世纪中叶崩溃，印度陷入了短暂的权力真空。德里苏丹国瓦解造成的权力真空并没有持续很长时间，新的征服者很快在西北方出现，我们有希望成为统一印度的新霸主，为此，有一些大臣提出我们应当采取更为激进的扩张政策。"
+    EDG_per_mission_3_17_desc:0 "行政渗透的不足已经成为任何帝国统治该地区的最大阻碍。鼓励经济生产力符合国家利益，我们必须时刻牢记这一点，同时也要不断关注区域经济。解决这个问题需要大量的资源和承诺，因为没有简单的方法来统治我们计划中如此之多的臣民。让我们建立一个政府机构来对土地，作物种植，土地收入和当地经济进行定期的地籍调查。此外，我们必须始终要求所有人以现金缴税，并在需要时要较低的税收以鼓励当地经济。"
+    EDG_per_mission_3_19_desc:0 "我们已经将印度纳入了自己的统治，如今我们将在印度设立一个更加完善的行政系统，解放我们的行政能力。"
+    EDG_per_mission_3_20_desc:0 "波斯帝国重现于人间，伊朗的力量最终辐射在世界的每一个角落，我们是最强大的超级大国，凌驾于所有列强之上！"
+    EDG_per_mission_4_11_desc:0 "波斯地区的经济有待恢复，而我们将以一个充满活力的宫廷保证政策的上传下达和科学性。"
+    EDG_per_mission_4_12_desc:0 "教育代表着国家未来发展的可能性，我们将扩大公共教育的机构，让我们的国民成为最有才识的人才。"
+    EDG_per_mission_4_13_desc:0 "古拉姆，是中世纪中亚、西亚、南亚地区的一种军队，源于波斯文Ghulam，意为“经过训练的奴隶” ，这是一种职业化的精锐军队，历史上的萨曼王朝、伽色尼王朝、喀喇汗王朝、塞尔柱王朝、古尔王朝、花剌子模王朝等突厥—波斯帝国都曾组建过古拉姆部队。公元13~15世纪，由于蒙古入侵等事件，波斯和整个伊斯兰东部世界都陷了混乱，古拉姆制度逐渐衰落。公元16世纪，波斯再次复国，为了以制衡国内日渐坐大的红帽军势力，名为“王之密友”。但新的古拉姆和之前的古拉姆已经有了许多不同。"
+    EDG_per_mission_4_14_desc:0 "高加索山脉下有许多人不认同我们的文化政策，但或许我们并不需要太多的理解。"
+    EDG_per_mission_4_15_desc:0 "德里苏丹国，在奴隶王朝初期是占据北印度部分地区的国家，后来历朝历代逐渐扩张，一度成为占据南亚次大陆大部分地区的巨大苏丹国。共存在了320年，是13～16世纪突厥人和阿富汗人军事贵族统治北印度的伊斯兰教区域性封建国家的统称，由于先后有5个王朝在德里进行过统治，而且这些王朝首都始终位于德里，故而被统称为德里苏丹国。\n\n古尔王朝的苏丹穆罕默德于1206年遇刺身死，其国家分裂。而统治印度的总督库特布丁·艾伊拜克以德里为中心独立为苏丹，故称德里苏丹国家，北印度从此开始了德里苏丹王朝的时代。\n\n德里苏丹国的统治阶级都是中亚来的伊斯兰教军事封建贵族，以突厥人和阿富汗人“四十大家族”为核心，占有大量的军事采邑土地“伊克塔”，并依靠中亚外族雇佣军为统治支柱。对印度教封建主及各阶层广大居民采取敌对、歧视、迫害等高压统治政策，强征人头税及强迫改宗伊斯兰教，刺激了印度教各阶层的民族感情和宗教情绪。\n\n如今德里被我们接管，一些人也将我们称作德里苏丹，我们是否接受这一头衔？"
+    EDG_per_mission_4_16_desc:0 "印度的富饶为商路的繁荣贡献了非常大的力量，我们将从印度攫取更多的利润，让财富源源不断地流入波斯。"
+    EDG_per_mission_4_17_desc:0 "大干道沿线的三个主要城市拉合尔、德里和达卡位于三个不同的国家，它们的存在归功于肥沃的印度恒河平原，以及发达的经济。"
+    EDG_per_mission_4_18_desc:0 "大不里士(Tabriz)　伊朗西北边陲古城，东阿塞拜疆省省会。旧译“帖必力思”、“低廉”。位于雷扎耶湖盆地东北侧山麓，距德黑兰约530公里。始建于公元前3世纪，历史上多次成为王朝首都。古代为四方往来通衢，在军事及交通上居重要地位。 8世纪初，阿拉伯军队征服波斯和中亚后，大不里士被占领，成为军事要地。后被波斯和中亚一带割据的伊斯兰诸王朝先后分属管辖。1258年，成吉思汗孙旭烈兀攻克巴格达灭阿巴斯王朝后，建立蒙古人统治的伊尔汗国，大不里士被定为首都，成为伊尔汗国的政治、经济和文化中心。在该城附近建有马拉格天文台，编制了《伊尔汗历》，附设有规模较大的图书馆。在合赞汗统治时，该城学者荟萃，伊斯兰学术文化得到发展，建有多所清真寺和宗教学校，为什叶派和苏菲派的学术中心之一。并在沟通欧洲和中亚两地区经济文化上起了，桥梁作用。14～18世纪，中亚土库曼人部落建立的黑羊王朝、白羊王朝和波斯人建立的萨法维王朝均先后建都于大不里士。伊斯兰古迹有城内著名的蓝色贾米清真寺，为白羊王朝贾汗王于1465～1466年建成，后多次修葺，外观宏伟，且嵌饰以蓝色瓷瓦，光彩瑰丽。"
+    EDG_per_mission_4_19_desc:0 "伊斯法罕是伊朗最古老的城市之一，建于公元前4、5世纪的阿契美尼德王朝时期，多次成为王朝首都。为南北来往所必经之路，著名的手工业与贸易中心。“伊斯法罕”一名源自波斯语“斯帕罕”，意思是“军队”，古时这里曾是军队的集结地，由此而得名。公元11、12世纪塞尔柱帝国时，该城曾为首都。萨法维帝国时期，该城处于全盛时期，商贾云集，八方宾客汇聚，市内多数建筑物和清真寺都是那时建造的。伊朗有谚语说“伊斯法罕半天下”，反映了该市当时的繁荣景象和深远影响。伊斯法罕早在玛代王国时已存在。在公元前六世纪中叶时成为居鲁士二世的阿契美尼德帝国治下的一个大城市。在前330年的马其顿王国军队入侵时遭受破坏，后被修复，并在塞琉古帝国、阿尔沙克王朝及萨珊王朝时期为一重要城镇。公元640年阿拉伯帝国占据伊斯法罕时也遭受毁坏，后被修复；伊斯兰式的建筑亦随之出现，并开始了伊斯兰时代的繁荣和辉煌。伊斯法罕曾在1051年至1118年为塞尔柱帝国的首都。在1387年时被当时的帖木儿攻占及蹂躏，一共屠杀了7万人。其后在1453年，伊斯法罕重新被建立，其光辉在17世纪的萨法维帝国达至高峰，人口最高达到60万人，更第二次成为波斯的首都。现今的伊斯法罕为伊朗一文化古都，城内的伊玛目广场亦被列入世界遗产之内。"
+    EDG_per_mission_4_20_desc:0 "在前18世纪德巴比伦《汉谟拉比法典》就提到了巴格达（意为“天赐”）为一重镇。在中国史籍中被称为“黑衣大食”的阿拉伯阿巴斯王朝（750-1258年），最初定都在安巴尔。这个王朝的第二位哈里发曼苏尔（754-775年）认为安巴尔不适合作京都。于是亲自勘察，选中了位于底格里斯河右岸一个叫巴格达的小镇，决定在这里建立新都。经过4年施工，新都建成，命名为“马迪纳·萨拉姆”，即“和平之城”，作为阿拉伯帝国首都。城为圆形，故有“团城”之称。城分外城、内城和皇城3层，有3道城墙。以皇城为圆心，城墙构成3个同心圆。城墙各有等距离的4道城门，4条大街从中心区伸向城门，形似车轮辐条。皇城内有皇宫、官邸、清真寺、图书馆、花园等。830年，哈里发马蒙在巴格达创建国家学术研究机构“智慧馆”，聚集不同民族及宗教信仰的著名学者，将希腊、波斯、印度等国的古典著作加以收藏、整理并翻译成阿拉伯文，促进了阿拉伯科学文化的发展。9-11世纪，巴格达伊斯兰学术方兴未艾，苏菲派、穆尔太齐赖派、艾什尔里派及阿拉伯语言学派的学术活动十分活跃，各派别学者在宫廷的赞助和庇护下著书立说，在古兰经学、圣训学、教法学、凯拉姆学及文学艺术方面均作出了重大成就。据载，巴格达曾建有30多所各类宗教学校，其中11世纪塞尔柱朝首相尼扎姆·穆勒克建立的尼采米亚大学和13世纪哈里发建立的穆斯坦绥里耶大学最为著名，曾培养出大批著名学者和官吏。同开罗、科尔多瓦并称为伊斯兰世界三大文化名城。"
+    EDG_per_mission_5_12_desc:0 "坎儿井是在干旱地的劳动人民漫长的历史发展中创造的一种地下水利工程。坎儿井引出了地下水，让沙漠变成绿洲，古代称作“井渠”。坎儿井的主要工作原理是人们将春夏季节渗入地下的大量雨水、冰川及积雪融水通过利用山体的自然坡度，引出地表进行灌溉，以满足沙漠地区的生产生活用水需求。不同地区的坎儿井在具体构造上均有其不同的地域特点，但一般而言，一个完整的坎儿井系统包括了竖井、暗渠（地下渠道）、明渠（地面渠道）和错现（小型蓄水池）四个主要组成部分。在该原理下运转的坎儿井流量稳定，且能保证井水自流灌溉。"
+    EDG_per_mission_5_13_desc:0 "亚美尼亚地区有许多能工巧匠，他们有成熟的丝绸产业，以及发达的技术，经过特定政策的引导，我们能够将此地的经济优势发挥出来。"
+    EDG_per_mission_5_14_desc:0 "古拉姆，是中世纪中亚、西亚、南亚地区的一种军队，源于波斯文Ghulam，意为“经过训练的奴隶” ，这是一种职业化的精锐军队，历史上的萨曼王朝、伽色尼王朝、喀喇汗王朝、塞尔柱王朝、古尔王朝、花剌子模王朝等突厥—波斯帝国都曾组建过古拉姆部队。公元13~15世纪，由于蒙古入侵等事件，波斯和整个伊斯兰东部世界都陷了混乱，古拉姆制度逐渐衰落。公元16世纪，波斯再次复国，为了以制衡国内日渐坐大的红帽军势力，名为“王之密友”。但新的古拉姆和之前的古拉姆已经有了许多不同。"
+    EDG_per_mission_5_15_desc:0 "波斯位于当时正在发展的欧洲、中亚和印度之间，这个桥梁位置为它的经济带来了发展。16世纪里通向印度的丝绸之路再次复苏，这条路通过伊朗北部。阿巴斯一世还直接支持与欧洲的贸易。尤其英国和荷兰非常喜欢伊朗的地毯、丝绸和纺织品。其它出口品有马、羊毛、珍珠和在印度作为调味品的杏仁。主要进口品有硬币、纺织品、香料、金属、咖啡和糖。"
+    EDG_per_mission_5_16_desc:0 "国家的财税大权一直被国内的大贵族控制，我们的国家财政系统受到了很大程度的制约，如果能改革我们的税收体制，我们将能更高效地征收税款。在阿巴斯统治时期，税收成为国家财政收入的主要来源。他在全国范围内整顿税收，并将税收制度编纂成册，几乎全国各地的税收都是依据中央政府颁布的律法直接征收。当时全国的税收总额大约785,623图曼，同一时期政府的支出总计491,796图曼。因此，政府预算中存在大量盈余。这部分盈余保存在国库中，以供国王在需要时使用。通过将财政收入在各阶层之间进行分配，政府进一步加强了其对行政机构的控制。为了减轻穷人的经济负担，阿巴斯还下令免除了部分赋税。"
+    EDG_per_mission_5_18_desc:0 "阿巴斯一世时期，波斯的手工业也得到空前的发展，阿巴斯大量兴建工厂、学校，广泛收揽人才。据统计，当时伊斯法罕的地毯厂规模很大，仅工人就达25,000人。除了雇佣本国工人外，他还大量引进外国人才，如聘请300名中国烧制瓷器的工匠，他们连同其家属一起定居于伊斯法罕等地。阿巴斯的经济政策，使萨非王朝一度产生了资本主义萌芽，出现自蒙古帝国入侵以来未有的繁荣。"
+    EDG_per_mission_5_19_desc:0 "撒马尔罕是中亚最古老的城市之一，关于它的记载最早可以追溯到公元前5世纪，善于经商的粟特人把撒马尔罕建造成一座美轮美奂的都城。公元前4世纪，当马其顿帝国的亚历山大大帝攻占该城时不禁赞叹：“我所听说到的一切都是真实的，只是撒马尔罕要比我想象中更为壮观。”1219年，撒马尔罕是花拉子模帝国的新都和文化中心，被成吉思汗的蒙古帝国攻陷之后，遭受了灭顶之灾。城内的大多数建筑，则是由后来的帖木尔大帝敕令修建。随着帖木尔帝国的兴起，他的大军横扫波斯、印度、高加索、阿塞拜疆和蒙古。他发誓要让撒马尔罕成为亚洲之都，因此他把从亚洲各地劫掠来的珍宝堆积在撒马尔罕，把每个城市的最精巧的工匠带到撒马尔罕，在城里修建起最辉煌的宫殿和清真寺。"
+    EDG_per_mission_5_20_desc:0 "在10世纪，许多伊斯兰地理学家都在文献里详细描述拉伊。虽然阿拉伯人希望可以在拉伊体现巴格达的繁华，但是他们在当地势孤力弱，而且当地的波斯人遍及各个阶层，乌古斯人分别在1035年及1042年将拉伊废弃，拉伊在塞尔柱及花剌子模统治时期一度恢复过来。根据当时伊斯兰史学家的记载，蒙古人屠杀了拉伊的居民，并完全废弃拉伊。在萨珊王朝的编年史里，拉伊已经沦为一个次要的城市。德黑兰的名字由来不明，它在9世纪时期是一个村落，但是名气不及当时较繁华的剌伽。苏菲主义学者纳吉姆丁·拉齐认为拉伊在蒙古人入侵前的人口达500,000人。13世纪蒙古人毁灭了拉伊后，许多居民逃到德黑兰。在一些早期的文献里，它被称为“剌伽的德黑兰”。地理学家哈姆杜拉·穆斯图菲（Hamdollah Mostowfi）在他的《心之喜》（Nuz'hat al-Qulub）里描述德黑兰是一个著名的村落。卡斯提亚王国使节鲁伊·冈萨雷斯·克拉维约（Ruy Gonzáles de Clavijo）可能是第一位到访德黑兰的欧洲人，他在1404年7月前往帖木儿的首都撒马尔罕（位于今乌兹别克）途中路径德黑兰，当时帖木儿控制着伊朗，而当时的德黑兰仍没有城墙保护。18世纪初，卡里姆汗下令在德黑兰兴建一所皇宫及政府办公室，或许是要表明德黑兰是首都，但后来却把政府办公室迁往设拉子。1796年，卡扎尔王朝的阿迦·穆罕默德·汗加冕为王，同时德黑兰成为了首都。"
+    
+    
+    
+    #安达卢西亚
+    EDG_adu_brazilian_cn_tooltip:0 "如果我们拥有§Y[2935.Capital.GetName]§!，将在§Y[2935.Capital.GetName]§!获得一个§Y2级贸易中心§!。"
+    EDG_adu_colonial_2_22_tooltip:0 "如果我们拥有§Y[778.Capital.GetName]§!，§Y[778.Capital.GetName]§!的贸易中心等级将提升§Y2级§!。"
+    EDG_adu_colonial_2_25_tooltip:0 "如果我们拥有§Y	[893.Capital.GetName]§!，将在§Y密西西比河§!获得额外§Y50§!点贸易竞争力。"
+    EDG_adu_colonial_3_23_tooltip:0 "如果我们拥有§Y	[1177.Capital.GetName]§!，将在§Y好望角§!获得额外§Y50§!点贸易竞争力。"
+
+    
+    EDG_adu_mission_5_19_tooltip:0 "获得所有与我们§Y宗教§!相同的国家的所有省份的§Y非永久§!宣称"
+    EDG_adu_mission_1_15_tt:0 "如果我们与§Y[151.owner.GetAdjective]§!是宿敌，将能够额外获得§Y25§!点力量投射。"
+    EDG_adu_mission_1_17_tt:0 "如果§Y[TUR.GetAdjective]§!和§Y[RUM.GetAdjective]§!不存在，我们将能够额外获得§Y25§!点力量投射。"
+    
+    gra_rival_portuguese_fleet:0 "摩尔海军建设"
+    
+    EDG_adu_religion_1_1_title:0 "宗教战争"
+    EDG_adu_religion_1_1_desc:0 "伊比利亚如今处于十分复杂的局势，宗教冲突愈演愈烈，而我们有朝一日必然将陷入宗教战争之中。"
+    EDG_adu_religion_1_2_title:0 "邀请苏菲派"
+    EDG_adu_religion_1_3_title:0 "宗教中心"
+    EDG_adu_religion_1_4_title:0 "宗教见解"
+    EDG_adu_1_6_title:0 "征服中美洲"
+    EDG_adu_mission_1_9_title:0 "帝都"
+    EDG_adu_mission_1_10_title:0 "世界之都"
+    EDG_adu_mission_1_11_title:0 "鼓励工商"
+    EDG_adu_mission_1_12_title:0 "垄断新商品"
+    EDG_adu_mission_1_12_desc:0 "新航路的开辟带来了许多新的商品，这些贸易品能够为我们带来巨大的利润，尤其是当他们为我们所垄断之时。"
+    EDG_adu_mission_1_13_title:0 "笼络马赫迪"
+    EDG_adu_mission_1_15_title:0 "目光东眺"
+    EDG_adu_mission_1_16_title:0 "巴尔干哈里发"
+    EDG_adu_mission_1_17_title:0 "征服突厥人"
+    EDG_adu_mission_1_19_title:0 "全日耳曼尼亚哈里发"
+    EDG_adu_mission_2_9_title:0 "[Root.Capital.GetName]水利建设"
+    EDG_adu_mission_2_10_title:0 "城市化"
+    EDG_adu_mission_2_11_title:0 "工业化城市"
+    EDG_adu_mission_2_12_title:0 "完善工业体系与财税改革"
+    EDG_adu_mission_2_14_title:0 "招募柏柏尔人"
+    EDG_adu_mission_2_15_title:0 "引入科普特官僚"
+    EDG_adu_mission_2_16_title:0 "进军安纳托利亚"
+    EDG_adu_mission_2_18_title:0 "欧罗巴斯坦"
+    EDG_adu_mission_3_10_title:0 "反再征服运动"
+    EDG_adu_mission_3_11_title:0 "世界灯塔"
+    EDG_adu_mission_3_17_title:0 "盎格鲁斯坦"
+    EDG_adu_mission_3_18_title:0 "不列颠哈里发"
+    EDG_adu_mission_3_19_title:0 "至高统治者"
+    EDG_adu_mission_4_12_title:0 "法兰西斯坦"
+    EDG_adu_mission_4_14_title:0 "摩尔人精英"
+    EDG_adu_mission_4_17_title:0 "万王之王"
+    EDG_adu_mission_4_18_title:0 "唯一哈里发"
+    EDG_adu_mission_5_9_title:0 "北进意大利"
+    EDG_adu_mission_5_10_title:0 "对抗伦巴第"
+    EDG_adu_mission_5_11_title:0 "解散天主教廷"
+    EDG_adu_mission_5_12_title:0 "意大利哈里发"
+    EDG_adu_mission_5_13_title:0 "安拉的意大利"
+    EDG_adu_mission_5_15_title:0 "现代泰法体系"
+    EDG_adu_mission_5_17_title:0 "巴格达体系"
+    EDG_adu_mission_5_19_title:0 "伊斯兰东扩"
+    
+    EDG_adu_religion_5_3_title:0 "伊比利亚之火"
+    EDG_adu_religion_5_4_title:0 "巴塔尔尧斯条约"
+    EDG_adu_religion_5_5_title:0 "东地中海舰队"
+    EDG_adu_religion_5_7_title:0 "大西洋舰队"
+    
+    EDG_adu_colonial_1_24_title:0 "北美的西海岸"
+    EDG_adu_colonial_1_26_title:0 "苦寒之地"
+    EDG_adu_colonial_1_27_title:0 "现代海关"
+    EDG_adu_colonial_2_22_title:0 "深入拉普拉塔"
+    EDG_adu_colonial_2_23_title:0 "秘鲁银矿"
+    EDG_adu_colonial_2_24_title:0 "佛罗里达贸易"
+    EDG_adu_colonial_2_25_title:0 "寒冬之地"
+    EDG_adu_colonial_2_27_title:0 "殖民帝国"
+    EDG_adu_colonial_3_23_title:0 "进军好望角"
+    EDG_adu_colonial_3_25_title:0 "垄断好望角"
+    EDG_adu_colonial_3_26_title:0 "大洋贸易"
+    EDG_adu_colonial_3_28_title:0 "世界经济中心"
+    EDG_adu_colonial_4_20_title:0 "殖民主义"
+    EDG_adu_colonial_4_21_title:0 "印刷机应用"
+    EDG_adu_colonial_4_22_title:0 "全球贸易"
+    EDG_adu_colonial_4_23_title:0 "登陆印度"
+    EDG_adu_colonial_4_24_title:0 "南印度公司"
+    EDG_adu_colonial_4_25_title:0 "南印度贸易"
+    EDG_adu_colonial_4_27_title:0 "世界的财富"
+    EDG_adu_colonial_5_21_title:0 "扩大殖民"
+    EDG_adu_colonial_5_22_title:0 "殖民经济理论"
+    EDG_adu_colonial_5_23_title:0 "扩大伊斯兰影响力"
+    EDG_adu_colonial_5_24_title:0 "教化政策"
+    EDG_adu_colonial_5_26_title:0 "德干泰法"
+    EDG_adu_colonial_5_27_title:0 "东印度公司"
+    
+    gra_rival_portuguese_fleet_title:0 "摩尔海军建设"
+    
+    
+    
+    EDG_adu_1_6_title_desc:0 "大约九千年前，古代墨西哥人驯化玉米 ，并推动农业革命，从而导致形成了许多文明 。 这些文明发展成城市、建筑、天文研究、数学、和军队。有名的文明像是奥尔梅克、提奥提华坎、阿兹台克和玛雅人，当地土著在墨西哥地区维持了几千年的统治，至于今后，那自然是我们的统治。"
+    EDG_adu_mission_1_15_desc:0 "科尔多瓦，[Root.GetAdjective]的世界之都，“她是安达卢西亚的新娘，她容貌优雅，足以吸引所有人的目光。苏丹的大军为她打造了荣耀的王冠，诗人从语言的海洋采集珍珠为她制作美丽的项链，科学家编制知识的锦缎作为她的华服，艺术大师和能工巧匠为她镶嵌漂亮而曼妙的装饰”。我们的首都科尔多瓦是欧洲首屈一指的首善之都，这是无可争议的。\n\n但在欧洲人的传统观念里，东欧还有另一个摧残的城市足以与我们的科尔多瓦相媲美，那就是位于色雷斯的君士坦丁堡。
+    EDG_adu_mission_1_17_desc:0 "1071年，塞尔柱人在今天土耳其的曼奇克托一地，从拜占庭的军队手中赢取惊人的胜利，使安那托利亚的大部份地方成为土耳其的占领区。约在同时，他们成功地从埃及的穆斯林统治者手上夺取耶路撒冷。这两件大事冲击了拜占庭人、罗马教廷和欧洲人，结果引发持续两百多年的十字军东侵。\n\n尽管塞尔柱土克曼人最后成功夺回巴勒斯坦的控制权，他们的力量却因不断地与十字东作战而被消耗。除此，他们也受到反对者的活动所威胁。在内部，苏菲派的神秘主义大为盛行，使伊斯兰教进入一个反思的时期。就在这个精疲力竭和虚弱的时期里，他们在蒙古人的侵略下骤然崩溃。巴格达在1258年沦陷于侵略者之手，而土克曼人的帝国也告消失。\n\n在十四世纪的初期，来自安那托利亚的穆斯林民众在苏丹奥斯曼一世的统治下团结起来，以荣誉之名自称为“土耳其人”或“奥斯曼人”。土耳其人发动圣战以粉碎拜占庭帝国，并在环绕着君士坦丁堡的巴尔干半岛与希腊等地兴起战事。此后突厥人一直在西亚扮演着极其重要的角色，他们能征善战，一度为创建强大帝国而南征北战。但如今，突厥人的苏丹和伪哈里发都拜倒在我们的军事实力之下，向他们供奉水和土，向科尔多瓦缴纳贡赋，我们成为了他们的哈里发。"
+
+    
+    EDG_adu_religion_1_2_desc:0 "伊斯兰教神秘主义派别，是对伊斯兰教信仰赋予隐秘奥义、奉行苦行禁欲功修方式的诸多组织的统称，亦称苏菲主义。学者们一般认为它源自“苏夫”。因该派成员身着粗羊毛织衣，以示其虔诚的信仰和生活上的安贫质朴而得名。9世纪中叶，“苏菲”一词正式出现在阿拉伯文献中。11世纪将穆斯林中的苦行禁欲主义者通称为“苏菲”。阿拉伯伊斯兰教学者称呼该派成员为“穆泰赛维夫”。自从穆拉比特王朝衰败以来，苏菲派在伊比利亚渐渐活跃了起来，许多苏菲派教团都在不断扩大自己的影响力，如果能借助苏菲派教团来巩固我们的统治，将会是十分有益的。"
+    EDG_adu_religion_1_3_desc:0 "我们处于宗教纷争的交界处，多种宗教思潮都在我们的国土上激荡着，活跃的思想将能够带来繁荣的学术成就。"
+    EDG_adu_religion_1_4_desc:0 "伊斯兰教内存在大量的教派读，许多教派对古兰经的诠释都存在许多的不同，由此引发了不少的宗教纷争。如果我们能够召开一场大会，用以确立我们的宗教学说，将会带来许多积极影响。"
+    EDG_adu_1_6_desc:0 "在沿着众多岛屿建立起一片殖民地后，我们发现这片土地比我们想象中更辽阔，这是一个好消息，只有更广阔的土地才能满足我们的需求。"
+    EDG_adu_mission_1_9_desc:0 "随着农业技术的发展，位于我们首都的人口越来越多，街道已经显得拥挤，兴建水利工程以扩大我们的人口容纳并确保粮食供给已是必要之举。"
+    EDG_adu_mission_1_10_desc:0 "随着城市规模的发展，过去粗犷时的管理已经落后于时代，我们需要对基础设施更进一步的完善。"
+    EDG_adu_mission_1_11_desc:0 "随着城市扩大，过去的经济发展方式已经不能满足我们的需求，我们将应市民的请求，积极鼓励领地内工商业的发展。"
+    EDG_adu_mission_1_13_desc:0 "穆瓦希德是我们的同宗兄弟，并且我们的利益并没有冲突之处，得到一个盟友当然比得到一个敌人要好得多。"
+    EDG_adu_mission_1_15_desc:0 "我们已经占据了昔日罗马帝国的西部领土，东部的领土当然也是我们的囊中之物，不过，首先我们要寻找一个好的切入点。"
+    EDG_adu_mission_1_16_desc:0 "在占据希腊这一进入近东的桥头堡后，继续扩大这个撕裂口，以便让我们的军队在岸上横扫一切敌人。"
+    EDG_adu_mission_1_17_desc:0 "随着我们在安纳托利亚战场上的连战连捷，突厥人也开始对我们的军事力量感到恐惧，对突厥人展开军事征服将是势在必得的。"
+    EDG_adu_mission_1_19_desc:0 "虽然我们从军事上征服了日耳曼人，但是为了加强对德意志地区的控制，我们还需要精神上的征服。"
+    EDG_adu_mission_2_9_desc:0 "随着农业技术的发展，位于我们首都的人口越来越多，街道已经显得拥挤，兴建水利工程以扩大我们的人口容纳并确保粮食供给已是必要之举。"
+    EDG_adu_mission_2_10_desc:0 "随着城市规模的发展，过去粗犷时的管理已经落后于时代，我们需要对基础设施更进一步的完善。"
+    EDG_adu_mission_2_11_desc:0 "在基础设施得到完善后，我们的领地已经有了充分的基础积累，是时候迈入工业化建设的时代了。"
+    EDG_adu_mission_2_12_desc:0 "随着国家的经济能力和工业水平不断提升，建立完善的工业体系并实施更彻底的财税改革已然是经济继续发展的必然要求。"
+    EDG_adu_mission_2_14_desc:0 "恶劣的生活环境和游牧的传统让柏柏尔人十分擅长骑术，这个民族向来能征善战且斗志高昂，吸纳他们进入我们的军队是个不错的选择。"
+    EDG_adu_mission_2_15_desc:0 "自从马穆鲁克王朝开展政治改革依赖，科普特人在埃及的政治经济领域就一直活跃，将他们吸纳入我们的治理体系，对我们更好地进行统治会产生更多的助力。"
+    EDG_adu_mission_2_16_desc:0 "黎凡特同时受到来自东西两面的威胁，二者需要选其一，而我们选择先解决西面的敌人。"
+    EDG_adu_mission_2_18_desc:0 "日耳曼人自从罗马帝国时期就冥顽不化，但我们将会向他们传播真理。"
+    EDG_adu_mission_3_10_desc:0 "既然基督徒能对我们发起再征服运动，妄图将我们驱逐出伊比利亚，那我们当然也可以对他们发起再再征服运动，将异教徒驱逐出这片土地！"
+    EDG_adu_mission_3_11_desc:0 "我们已经站上世界的最高峰，成为了世界的政治经济与文化中心，这为我们带来了无尽的威望和影响力。"
+    EDG_adu_mission_3_17_desc:0 "不列颠人凭借着自身的地理优势长期游离在欧陆局势之外，但我们拥有更强大的舰队，在我们的军事力量之下，他们将无处藏身。"
+    EDG_adu_mission_3_18_desc:0 "我们征服了整个不列颠，并成为了英伦三岛的哈里发，我们在不列颠地区的统治也终将带来更多的收益。"
+    EDG_adu_mission_3_19_desc:0 "我们是唯一的哈里发，将全力维护哈里发和各个阶层的利益，任何想要推翻旧秩序的激进势力都将被我们打压。"
+    EDG_adu_mission_4_12_desc:0 "得益于我们长期坚持的传教和当地人民对我们的信仰，法兰西地区已经全部皈依于安拉的荣光。"
+    EDG_adu_mission_4_14_desc:0 "摩尔人在我们的政府机构中有莫大的影响力，安抚并利用这些摩尔人中富有真才实学的精英分子将会是我们行政过程中的重要任务。"
+    EDG_adu_mission_4_17_desc:0 "我们已经占据了波斯故土，万王之王的称号自然属于我们，其他的波斯历史领土自然也属于我们。"
+    EDG_adu_mission_4_18_desc:0 "在征服过去几大王朝哈里发的故地之后，我们已无其他竞争对手，我们即是正统哈里发。"
+    EDG_adu_mission_5_9_desc:0 "作为南欧的另一个半岛，亚平宁地区就相当于我们国家的左右手，显然，我们现在需要寻找一个能介入意大利局势的借口。"
+    EDG_adu_mission_5_10_desc:0 "自从十五世纪以来，米兰公国和伦巴第王国就仅仅联系在一起，尽管伦巴第王国在十五世纪后半叶以来一直风雨飘摇，却依然保持着强势的姿态。在我们深入意大利地区之后，北意大利的伦巴第人挡在了我们面前，想要彻底占据亚平宁半岛，必须击败伦巴第。"
+    EDG_adu_mission_5_11_desc:0 "当天主教最为重要的圣地被我们的军队攻克后，天主教的教宗也落入了我们之手，教宗的命运全然在我们的一念之间。"
+    EDG_adu_mission_5_12_desc:0 "我们征服了全意大利，将这片富饶的地区收入囊中，意大利地区经济发达，贸易畅通，商品繁荣，活用意大利的贸易，将为我们的经济带来极大助益。"
+    EDG_adu_mission_5_13_desc:0 "意大利的大量人口被我们掌控，并且在我们强硬的宗教政策下，安拉的光芒已然普照整个意大利亚，而亚平宁半岛位于地中海的中央，我们可以在此极大地扩大我们的宗教影响力。"
+    EDG_adu_mission_5_15_desc:0 "随着我们体量的扩张，将泰法体系作出改进，使其更适合我们帝国的运行，成为支撑帝国前进的助力。"
+    EDG_adu_mission_5_17_desc:0 "马什里克的政治家提出了一套现代治理体系，并将其命名为“巴格达体系”，这给了我们极大的启发，将这些方法加入我们的政治体系，将能够对我们的行政产生巨大影响。"
+    EDG_adu_mission_5_19_desc:0 "我们作为正统哈里发，即是唯一的统治者，全世界的穆斯林都应当归属我们的统治。"
+    
+    EDG_adu_religion_5_3_desc:0 "再征服运动的战火再次燃起，整个伊比利亚再一次陷入宗教冲突的烈火之中。"
+    EDG_adu_religion_5_4_desc:0 "面对基督徒的侵略与军事威胁，半岛的穆斯林必须缔结一份共同防御协定，用以对抗我们的宗教敌人。"
+    EDG_adu_religion_5_5_desc:0 "建立一支能够控制地中海制海权的桨帆舰队对于我们而言将会是开展军事扩张的重要环节。"
+    EDG_adu_religion_5_7_desc:0 "虽然我们的舰船在地中海上保卫着我们领海的安全，不至于被海上的敌人入侵，但是在我们的西侧，大洋上仍然缺乏保护我们海岸线的武装力量，成立一支大洋上的舰队已经刻不容缓。"
+    
+    EDG_adu_colonial_1_24_desc:0 "在穿越群山之后，我们看见了大海，以及一望无际的海岸线，我们将继续顺着海岸线前进。"
+    EDG_adu_colonial_1_26_desc:0 "沿着海岸线，我们进入了这片皑皑白雪之地，前方除了冰就只有海了，我们的脚步终于在此停下。"
+    EDG_adu_colonial_1_27_desc:0 "随着我们殖民属地的不断涌现，我们需要利用好它们，为我们创造更多收益。"
+    EDG_adu_colonial_2_22_desc:0 "拉普拉塔地区仍有巨大的开发价值，我们很快就能将其收入囊中。"
+    EDG_adu_colonial_2_23_desc:0 "秘鲁的银矿将会是十分具有战略价值的资源，掌握秘鲁地区将能够为我们带来更多的财富。"
+    EDG_adu_colonial_2_24_desc:0 "佛罗里达的贸易在殖民时代十分繁荣，许多深受大洋彼岸喜爱的商品都经由此处进行运转，我们应当在对该贸易中转站的开发中倾注更多的资源。"
+    EDG_adu_colonial_2_25_desc:0 "随着我们继续向北，气温不断的下降，甚至我们发现了一些从未见过的动植物和景观，自然科学家们有朝一日一定会研究他们，但我们必须先占领此地。"
+    EDG_adu_colonial_2_27_desc:0 "我们的殖民地广阔到了极点，用日不落帝国来形容我们的帝国再合适不过了。"
+    EDG_adu_colonial_3_23_desc:0 "好望角被西方的探险家喻为通往富庶的东方航道，故改称好望角，“好望角”一名的由来有着多种说法。最常见的说法有两种：一说为葡萄牙王国的探险家迪亚士1488年12月回到里斯本后，向若昂二世陈述了“风暴角”的见闻，若昂二世认为绕过这个海角，就有希望到达梦寐以求的印度，因此将“风暴角”改名为“好望角”；另一种说法是达·伽马自印度满载而归后，当时的葡王才将“风暴角”易名为“好望角”，以示绕过此海角就带来了好运。"
+    EDG_adu_colonial_3_25_desc:0 "好望角的发现，促使许多欧洲国家把扩张的目光转向东方。荷兰、英国、法国、西班牙等国的船队都先后经过这里前往印度、印度尼西亚、印度支那半岛、菲律宾和中国，源源不断的财富流经好望角，如果能垄断在好望角的贸易，我们将能够截留大量财富。"
+    EDG_adu_colonial_3_26_desc:0 "我们的领土是如此庞大，以至于跨越多个大洋，而我们的商业政策，也应当针对这一情况作出改变。"
+    EDG_adu_colonial_3_28_desc:0 "我们已然是全世界的经济中心，全世界的财富都流入我们的国家之中。"
+    EDG_adu_colonial_4_20_desc:0 "新大陆的发现和新航路的开辟带来了大量的机遇，也带来了大量的思考，以及大量的变革。"
+    EDG_adu_colonial_4_21_desc:0 "印刷机技术的成熟带来的是基础教育难度的下降，这有利于培养更加优秀的手工业者和技术工人。"
+    EDG_adu_colonial_4_22_desc:0 "随着全球贸易思潮的流行，我们也需要跟上这股思潮，促进自己参与到全球贸易当中去。"
+    EDG_adu_colonial_4_23_desc:0 "随着我们的探索，我们寻找到了抵达印度的最佳方法，这让我们有机会对这片富饶的土地展开掠夺。"
+    EDG_adu_colonial_4_24_desc:0 "我们着手建立一个南印度公司，该公司将帮助我们在南印度获取更多的商业利润。"
+    EDG_adu_colonial_4_25_desc:0 "在南印度有着许多与之前不同的商品，在我们将其运回领内后，受到了人群极大的欢迎，也为我们带来了大量的财富。"
+    EDG_adu_colonial_4_27_desc:0 "世界各地的财富能流向我们的首都，我们可以在市场中目睹来自全球各地的货物。"
+    EDG_adu_colonial_5_21_desc:0 "随着我们殖民经验的积累，在我们的顾问建议下，我们决定实行更具有扩张主义的殖民政策。"
+    EDG_adu_colonial_5_22_desc:0 "随着殖民地的不断扩大，能够从殖民地中获取到的经济利益也逐渐显现出来，将通过殖民获得的收益用以扩大再生产的理论刺激了新一波的殖民热情。"
+    EDG_adu_colonial_5_23_desc:0 "我们将传教士随着殖民队一同向着远方进发，为传播安拉之声而前进。"
+    EDG_adu_colonial_5_24_desc:0 "随着我们同化原住民政策的推进，我们的殖民事业得到了极大帮助，殖民活动也更加顺利。"
+    EDG_adu_colonial_5_26_desc:0 "在占领德干地区后，我们任命了一位总督管理当地事务，并命令他攻占印度全境。"
+    EDG_adu_colonial_5_27_desc:0 "我们在东印度地区已经拥有了相当的影响力，但是印度的人口和冲突实在是太多了，设立公司来帮助我们进行管辖或许是个好主意。"
+    
+    
+    EDG_BDH_special_Missions_2_2_title:0 "处理穆扎赖卜"
+    EDG_BDH_special_Missions_2_3_title:0 "肃清异教徒"
+    EDG_BDH_special_Missions_2_4_title:0 "一国一教"
+    EDG_BDH_special_Missions_2_5_title:0 "安拉之剑"
+    EDG_BDH_special_Missions_3_1_title:0 "索取普拉森西亚"
+    EDG_BDH_special_Missions_3_2_title:0 "夺回普拉森西亚"
+    EDG_BDH_special_Missions_3_3_title:0 "夺取科尔多瓦"
+    EDG_BDH_special_Missions_3_4_title:0 "整合苏菲派教团"
+    EDG_BDH_special_Missions_3_5_title:0 "控制阿尔梅里亚兄弟会"
+    EDG_BDH_special_Missions_4_2_title:0 "执行宗教宽容"
+    EDG_BDH_special_Missions_4_3_title:0 "里斯本法案"
+    EDG_BDH_special_Missions_4_4_title:0 "保障穆扎赖卜信徒权利"
+    EDG_BDH_special_Missions_4_5_title:0 "普天之下"
+    
+    
+    EDG_BDH_special_Missions_2_2_desc:0 "穆扎赖卜派，又称摩尔阿拉伯礼，属于一种早期基督教的残余。由于伊比利亚半岛中南部长期被穆斯林势力统治，所以当地基督徒没有被后来的天主教会正规化引导，保留了许多蛮族时代的基督教传统。伊比利亚半岛上有大批的穆扎赖卜派信徒，而我们已经决定通过采取较为激进的方式强迫他们改宗。"
+    EDG_BDH_special_Missions_2_3_desc:0 "如果我们连国内的异教徒都无法完全处理，那么我们将很难继续我们的军事扩张。"
+    EDG_BDH_special_Missions_2_4_desc:0 "维持国内宗教信仰的纯洁对我们而言至关重要，一个国家在理想情况下应当只能存在一种主流信仰。"
+    EDG_BDH_special_Missions_2_5_desc:0 "我们是安拉的利刃，我们在异教徒的土地上开展无尽的圣战，并以刀剑向世界布道。"
+    EDG_BDH_special_Missions_3_1_desc:0 "在1430年，卡斯蒂利亚的恩里克三世亲率卡勒多巴拉骑士团与巴塔尔尧斯泰法，阿费泰西王朝的阿卜杜拉进行交战，并最终夺得了普拉森西亚，这对一生能征善战的战神泰法阿卜杜拉而言是奇耻大辱，他誓要夺回自己的失地。"
+    EDG_BDH_special_Missions_3_2_desc:0 "我们重新夺回了普拉森西亚，并将会将我们的军事成果继续扩大，只有巴塔尔尧斯的利刃能终结伊比利亚的纷争。"
+    EDG_BDH_special_Missions_3_3_desc:0 "科尔多瓦哈里发国已经崩溃许久，他们的首都也已经没落，如今成为了二流城市，只有我们能够拯救科尔多瓦。"
+    EDG_BDH_special_Missions_3_4_desc:0 "部分苏菲派教团在伊比利亚具有一定的影响力，若能将他们纳入我们的政府中，将能为我们提供一定的帮助。"
+    EDG_BDH_special_Missions_3_5_desc:0 "阿尔梅里亚兄弟会建立与1401年，其成员多为从事经商的富豪，本质上是一个商人组织，但他们与比萨、热那亚和撒丁的商人都有紧密的联系，垄断了地中海西岸的贸易活动，掌控着大量的财富。格拉纳达泰法国在伊比利亚半岛上长期处于竞争劣势，格拉纳达的邻居们，无论是穆斯林国家还是基督教国家都对其虎视眈眈，因而格拉纳达泰法不得不向阿尔梅里亚兄弟会求助，因而阿尔梅里亚兄弟会对格拉纳达国内的政治具有重大的影响力，而近年来格拉纳达泰法的无能以及泰法国的风雨飘渺让兄弟会不得不接过更多的权力，并最终与格拉纳达泰法展开了政治斗争。"
+    EDG_BDH_special_Missions_4_2_desc:0 "我们会维持宗教宽容，以此保证国家的稳定，并保障税收。"
+    EDG_BDH_special_Missions_4_3_desc:0 "伊比利亚基督教王国的沦陷，令北方的基督徒撤退到阿斯图里亚斯的群山之间，成为日后收复失地运动的最前沿，但绝大多数基督徒和教会人员依旧生活在摩尔人的统治下。穆斯林统治者将这些人称为“莫扎拉布人”，虽然作为齐米阶层存在，但却被禁止公开展示信仰和建造新教堂，可能促成后来穆扎赖卜派的保守风气。随着收复失地运动的展开，北方基督教开始反攻和解放旧地，一些莫扎拉布人开始逃回解放地区重建废弃城镇，填充流失人口，其中特别以910年由阿斯图里亚斯王国重组成的莱昂王国为首。在势力扩张的同时，伊比利亚基督徒也重新得以与教宗及其他欧洲国家建立联系，其中由查理曼解放的加泰罗尼亚地区率先开始接纳罗马礼而不是传统的西班牙本地礼仪。在北方基督徒正统化时，南方的莫扎拉布人却日渐保守化，他们开始尽可能保存最原始的西班牙礼仪传统，许多穆扎赖卜社区内的资深抄写员用西哥特文撰写手稿，这让穆扎赖卜派一直与北方的基督徒保持差距。但在再征服运动的过程中，北方的天主教王国不断地与莫扎拉布人达成协议，通过不强行推广罗马礼，换取他们对收复失地运动的支持，这从侧面对我们造成了威胁，因而，我们需要颁布一个与时俱进的法案，用以确保穆扎赖卜派教徒对我们的忠诚。"
+    EDG_BDH_special_Missions_4_4_desc:0 "穆扎赖卜派教徒被我们保护，并一直服从我们的统治，成为了泰法的坚定拥护者。鉴于穆扎赖卜派所掌握的大量政治经济资源，我们也应该向他们让渡更多的利益。"
+    EDG_BDH_special_Missions_4_5_desc:0 "我们的宗教宽容政策为世界所周知，即便受到了一些同宗国家的非议，我们依然是人文主义和普世精神的代言词。"
+    
+    EDG_IBR_MSL_invite_discount_tooltip:0 "我们邀请§Y『教团』§!的花费将减半"
+    
+    EDG_BDH_tolerance_mission_flag:0 "采取温和的宗教政策"
+    EDG_BDH_Radical_mission_flag:0 "采取激进的宗教政策"
+    
+    EDG_BDH_tolerance_mission_tooltip:0 "我们将采取更加§Y『温和』§!的宗教政策，这将禁用§Y『激进』§!的左侧任务树"
+    EDG_BDH_Radical_mission_tooltip:0 "我们将采取更加§Y『激进』§!的宗教政策，这将禁用§Y『温和』§!的右侧任务树"
+    
+    EDG_Mozarabic_tolerance_4_tooltip:0 "对§Y穆扎赖卜派§!的容忍达到§Y4§!"
+    EDG_Mozarabic_tolerance_5_tooltip:0 "对§Y穆扎赖卜派§!的容忍达到§Y5§!"
+    EDG_Mozarabic_tolerance_6_tooltip:0 "对§Y穆扎赖卜派§!的容忍达到§Y6§!"
+    
+  #萨法维
+    
+    EDG_ARL_special_Mission_3_7_tt:0 "获得所有§Y阿塞拜疆§!文化省份的核心"
+    EDG_ARL_special_Mission_3_9_tt_1:0 "获得所有§Y波斯§!区域省份的核心"
+    EDG_ARL_special_Mission_3_9_tt_2:0 "所有信奉国教的省份将获得以下加成"
+    EDG_ARL_special_Mission_4_7_tt:0 "获得所有§Y波斯§!和§Y阿塞拜疆§!文化的§Y什叶派§!信仰省份的核心"
+    EDG_flavorARL_7_tt:0 "地图上每有一个§Y波斯§!或§Y阿塞拜疆§!文化的§Y什叶派§!信仰省份，§Y[Root.GetAdjective]§!能够获得§Y25§!金钱和§Y1000§!人力"
+allow_country_cb_EDG_WG_superiority_PER_unification_flag_tt:0 "我们将被允许使用§Y波斯统一战争§!宣战理由"
+
+    EDG_EDG_flavorARL_1_flag:0 "伊斯玛仪的崛起"
+    EDG_ARL_special_Mission_1_7_title:0 "同化异教徒"
+    EDG_ARL_special_Mission_1_8_title:0 "信仰纯洁"
+    EDG_ARL_special_Mission_1_9_title:0 "一主一国"
+    EDG_ARL_special_Mission_1_10_title:0 "掌握马拉盖教团"
+    EDG_ARL_special_Mission_2_7_title:0 "组建红头军"
+    EDG_ARL_special_Mission_2_8_title:0 "伊玛目之师"
+    EDG_ARL_special_Mission_2_9_title:0 "蒙恩圣主"
+    EDG_ARL_special_Mission_2_10_title:0 "哈里发宝座"
+    EDG_ARL_special_Mission_3_7_title:0 "全阿塞拜疆的谢赫"
+    EDG_ARL_special_Mission_3_8_title:0 "整合力量"
+    EDG_ARL_special_Mission_3_9_title:0 "俯视波斯"
+    EDG_ARL_special_Mission_3_10_title:0 "主宰伊朗"
+    EDG_ARL_special_Mission_4_7_title:0 "稳定教团"
+    EDG_ARL_special_Mission_4_8_title:0 "吸纳伊朗地区什叶派信徒"
+    EDG_ARL_special_Mission_4_9_title:0 "粉碎白羊王朝"
+    EDG_ARL_special_Mission_4_10_title:0 "踏碎暴君统治"
+    EDG_ARL_special_Mission_5_7_title:0 "加强布道"
+    EDG_ARL_special_Mission_5_8_title:0 "吉哈德"
+    EDG_ARL_special_Mission_5_9_title:0 "伊玛目在世"
+    EDG_ARL_special_Mission_5_10_title:0 "惩戒突厥人"
+    
+    
+    EDG_ARL_special_Mission_1_7_desc:0 "伊朗地区的宗教状况十分严峻，逊尼派、什叶派甚至是科普特教和景教都在此地有大量的信众，信仰的混乱带来的是秩序的混乱和未来的黯淡，我们必须解决这一祸乱的根源。"
+    EDG_ARL_special_Mission_1_8_desc:0 "将波斯地区的异教徒和异端通过各种方式重新拉回正途是我们一直所致力的目标，统一的信仰让我们拥有更强大的宗教凝聚力。"
+    EDG_ARL_special_Mission_1_9_desc:0 "我们再度统一了伊斯兰世界，哈里发国在我们的利刃和信仰下重新诞生。"
+    EDG_ARL_special_Mission_1_10_desc:0 "马拉盖教团是伊朗地区重要的什叶派教团，融合他们的力量将能够让我们更为强大。"
+    EDG_ARL_special_Mission_2_7_desc:0 "红头军是我们最为精锐且狂热的部队，在我们的征服过程中，红头军必然是我们军事力量的支柱。"
+    EDG_ARL_special_Mission_2_8_desc:0 "我们以伊玛目的名义南征北战，将所有反对伊玛目的敌人击溃。"
+    EDG_ARL_special_Mission_2_9_desc:0 "大不里士终究归属于我们之手，这座伟大城市的易主证明了我们的力量是多么不可阻挡。"
+    EDG_ARL_special_Mission_2_10_desc:0 "巴格达曾放置着哈里发的宝座，作为至高的伊玛目，我们有权将巴格达纳入我们的统治之下。"
+    EDG_ARL_special_Mission_3_7_desc:0 "整个波斯都处于混乱之中，军阀割据的现状让所有人都感到不满，波斯必将统一，而我们的征伐将从阿塞拜疆开始。"
+    EDG_ARL_special_Mission_3_8_desc:0 "我们的力量长期散落在伊朗的各个地区，这导致了我们一直难以真正地崛起并统一整个伊朗，我们需要一名正统的伊玛目后代，并以他的名义统合所有资源。"
+    EDG_ARL_special_Mission_3_9_desc:0 "只有真正的雄主才有能力统治整个伊朗，我们已然成为了波斯地区最强大的政治军事力量，只有我们有力量统治这片古老的土地。"
+    EDG_ARL_special_Mission_3_10_desc:0 "只有真正的雄主才有能力统治整个伊朗，我们已然成为了波斯地区最强大的政治军事力量，只有我们有力量统治这片古老的土地。"
+    EDG_ARL_special_Mission_4_7_desc:0 "哪怕是虔信狂热的萨法维教团，教团内部长期也存在着各种宗教分歧和利益分歧。如果我们要加强自身的力量，必须弥合各种分歧，由此实现教团内部的稳定。"
+    EDG_ARL_special_Mission_4_8_desc:0 "伊朗地区居住着大量的什叶派教徒，我们尊奉我们为真主的使者，只要能够调动伊朗地区信众的力量，我们就将所向披靡。"
+    EDG_ARL_special_Mission_4_9_desc:0 "白羊王朝是我们统一伊朗道路上的最大阻碍之一，自从乌尊·哈桑成为白羊王朝的统治者后，白羊便日益强大，但我们必然将他们的统治彻底击碎。"
+    EDG_ARL_special_Mission_4_10_desc:0 "残暴的帖木儿曾经用铁蹄征服了整个伊朗地区，但如今帖木儿早已离世，而他的子嗣们没有力量维持统一的帝国，这些暴君的后代终究无法阻挡我们的力量。"
+    EDG_ARL_special_Mission_5_7_desc:0 "宣扬什叶派教义是萨法维教团决不能避开的任务之一，我们有义务在这片土地上进行布道。"
+    EDG_ARL_special_Mission_5_8_desc:0 "以伊玛目的名义发动吉哈德，将能够让我们的战士有更为强大的精神动力，并粉碎所有胆敢反抗我们的鼠辈。"
+    EDG_ARL_special_Mission_5_9_desc:0 "我们的统治者是在世的伊玛目，是所有伊斯兰教信徒毋庸置疑的统治者，更是整个世界毋庸置疑的统治者。"
+    EDG_ARL_special_Mission_5_10_desc:0 "傲慢的突厥人在我们的西方肆意扩张，并建立了庞大的军队，成为了我们的威胁，我们必须击溃他们，并将他们逐出伊斯兰世界。"
+
+
+
+#苏格兰任务:0 ""
+EDG_The_Expansion_of_American_Slave_Manors:0 "烟草奴隶庄园的扩大"
+EDG_tropical_wood_Manors:0 "巴西红木热潮"
+EDG_BTA_mission_price_change:0 "不列颠尼亚垄断"
+EDG_BTA_mission_price_change_income_tooltip:0 "我们将从对应商品的省份中获得"
+EDG_EDG_BTA_mission_2_21_change_price_tooltip:0 "熏香狂热"
+
+EDG_SCO_gaelic_tendency_tooltip:0 "这将强化我们的凯尔特民族主义"
+EDG_SCO_TRADE_POWER:0 "不列颠尼亚贸易霸权"
+EDG_SCO_TRADE_colonial_trade_POWER:0 "殖民贸易"
+EDG_SCO_TRADE_colonial_trade_POWER_2:0 "成功的殖民地港口"
+EDG_SCO_TRADE_POWER_EDG_BTA_mission_1_16:0 "新大陆商品的涌入"
+EDG_SCO_TRADE_POWER_EDG_BTA_mission_2_12:0 "女王的绅士和商业探险家"
+EDG_SCO_mission_issues_1_country_tooltip:0 "解锁议会法案§Y扩充枢密院法案§!"
+EDG_SCO_mission_1_1_yes_tooltip:0 "£yes£如果我们通过结盟或附庸§Y法兰西§!完成任务，那么将"
+EDG_SCO_mission_1_1_no_tooltip:0 "£no£如果我们通过结盟或附庸§Y法兰西§!完成任务，那么将"
+EDG_SCO_mission_1_7_trigger_tooltip:0 "军事实力超过所有首都位于§Y斯堪的纳维亚§!的国家"
+
+EDG_SCO_mission_2_5_yes_tooltip:0 "£yes£威尔士是我们的盟友或属国"
+EDG_SCO_mission_2_5_no_tooltip:0 "£no£威尔士是我们的盟友或属国"
+
+EDG_SCO_mission_3_2_yes_tooltip:0 "£yes£如果我们的外交科技达到5，那么"
+EDG_SCO_mission_3_2_no_tooltip:0 "£no£如果我们的外交科技达到5，那么"
+
+EDG_SCO_mission_4_2_yes_tooltip:0 "£yes£如果我们与爱尔兰好感达到150，那么将向爱尔兰发出附庸提议，否则获得爱尔兰的宣称"
+EDG_SCO_mission_4_2_no_tooltip:0 "£no£如果我们与爱尔兰好感达到150，那么将向爱尔兰发出附庸提议，否则获得爱尔兰的宣称"
+
+EDG_SCO_mission_5_3_yes_tooltip:0 "£yes£如果我们拥有整个爱尔兰，爱尔兰将失去30分离主义，否则将获得2级的属国代表顾问和外交修正"
+EDG_SCO_mission_5_3_no_tooltip:0 "£no£如果我们拥有整个爱尔兰，爱尔兰将失去30分离主义，否则将获得2级的属国代表顾问和外交修正"
+
+EDG_flavorSCO_mission_9_a_tooltip:0 "所有§Y苏格兰§!文化的省份和国家的文化将转变为§Y大苏格兰§!文化，§Y大苏格兰§!文化将从属于凯尔特文化组而非不列颠文化组，同时§Y不列颠§!文化组的省份将开始逐一转变为§Y大苏格兰§!或凯尔特文化，这将强化我们的凯尔特民族主义\n\n我们将在合适的时机获得改信§Y大凯尔宗§!的机会。"
+EDG_SCO_mission_5_8_tooltip:0 "所有大苏格兰文化的省份将获得如下效果"
+EDG_SCO_mission_5_9_tooltip:0 "所有凯尔特文化组的省份将获得如下效果"
+
+EDG_SCO_mission_2_7_yes_tooltip:0 "£yes£如果我们的重商主义达到§Y20§!，那么"
+EDG_SCO_mission_2_7_no_tooltip:0 "£no£如果我们的重商主义达到§Y20§!，那么"
+
+EDG_SCO_mission_1_9_no_tooltip:0 "所有斯堪的纳维亚地区的沿海省份发生如下效果"
+
+EDG_BTA_mission_2_12_yes_tooltip:0 "£yes£如果我们拥有两支殖民队"
+EDG_BTA_mission_2_12_no_tooltip:0 "£no£如果我们拥有两支殖民队"
+
+EDG_eng_handle_the_reformation_et:0 "如果我们作为§Y海岛基督教§!或§Y大凯尔宗§!国家完成该任务："
+EDG_flavorSCO_mission_14_tt_1:0 "由于我们拥有足够的大凯尔特主义倾向，因而我们治下所有凯尔特文化组的省份将自动转变为§Y大凯尔宗§!。\n\n"
+EDG_flavorSCO_mission_14_tt_2:0 ""
+
+EDG_SCO_mission_2_10_modifier_tt:0 "我们将可以无视行政科技成立§Y不列颠尼亚§!。"
+EDG_SCO_mission_2_10_decision_tt:0 "由于我们完成了特定任务，我们将可以无视行政科技成立§Y不列颠尼亚§!。"
+EDG_flavorSCO_mission_b_tt:0 "我们将解锁新任务树，在欧洲实行§Y凯尔特入侵§!，将历史上凯尔特人的主要聚居地收复，并同化那里的民族。"
+EDG_SCO_mission_3_9_invade_tt:0 "我们将开始同化§Y法兰西§!文化组的省份"
+EDG_SCO_mission_3_10_invade_tt:0 "我们将开始同化§Y伊比利亚§!文化组的省份"
+
+EDG_SCO_mission_3_8_invade_title:0 "泛凯尔特主义"
+EDG_SCO_mission_3_9_invade_title:0 "收复高卢"
+EDG_SCO_mission_3_10_invade_title:0 "统治欧罗巴"
+
+EDG_SCO_mission_3_8_invade_desc:0 "不列颠尼亚将志在收复所有历史上凯尔特人的主要聚居地，我们的大陆政策将会是无比辉煌的。"
+EDG_SCO_mission_3_9_invade_desc:0 "不列颠尼亚将志在收复所有历史上凯尔特人的主要聚居地，我们的大陆政策将会是无比辉煌的。"
+EDG_SCO_mission_3_10_invade_desc:0 "不列颠尼亚将志在收复所有历史上凯尔特人的主要聚居地，我们的大陆政策将会是无比辉煌的。"
+
+EDG_flavorSCO_monarch_1_Reelection:0 "由于该类型王朝成功连任，我们将获得§Y2.5§!点政府权威。"
+EDG_the_issue_need_eng_parliament_tt:0 "该类议案需要§Y不列颠尼亚议会§!才能出现"
+
+
+
+#意大利
+EDG_TTS_mission_4_7_trigger_tt:0 "§Y海军规模§!大于所有首都位于§Y意大利§!的§Y拉丁§!文化组的独立国家"
+effect_EDG_Italian_war_effect_upgrade_tt:0 "§Y意大利战争§!的形式将会§M升级§!"
+
+EDG_Mafia_attitude:0 "黑手党态度"
+EDG_TTS_mission_3_11_tt:0 "我们将可以无视行政科技成立§Y意大利亚§!。"
+EDG_TTS_mission_3_11_tt_decision:0 "由于我们完成了特定任务，我们将可以无视行政科技成立§Y意大利亚§!。"
+
+
+
+has_EDG_flavor_age_ITA_education_0_flag:0 "意大利教育运动已经结束"
+
+EDG_TTS_mission_1_1_catholic_tt_yes:0 "£yes£如果我们的宗教是§Y天主教§!，那么"
+EDG_TTS_mission_1_1_catholic_tt_no:0 "£no£如果我们的宗教是§Y天主教§!，那么"
+
+EDG_TTS_mission_1_1_protestant_tt_yes:0 "£yes£如果我们的宗教是§Y新教§!或§Y改革宗§!，那么"
+EDG_TTS_mission_1_1_protestant_tt_no:0 "£no£如果我们的宗教是§Y新教§!或§Y改革宗§!，那么"
+
+EDG_TTS_mission_1_1_hussite_tt_yes:0 "£yes£如果我们的宗教是§Y胡斯派§!，那么"
+EDG_TTS_mission_1_1_hussite_tt_no:0 "£no£如果我们的宗教是§Y胡斯派§!，那么"
+
+EDG_TTS_mission_1_1_catharism_tt_yes:0 "£yes£如果我们的宗教是§Y清洁派§!，那么"
+EDG_TTS_mission_1_1_catharism_tt_no:0 "£no£如果我们的宗教是§Y清洁派§!，那么"
+
+EDG_allow_Relocate_capital_to_121_tt:0 "解锁决议 §Y迁都[121.GetName]§!"
+
+EDG_TTS_mission_1_2_tt_yes:0 "£yes£如果我们的陆军规模达到上限的§Y100%§!，那么"
+EDG_TTS_mission_1_2_tt_no:0 "£no£如果我们的陆军规模达到上限的§Y100%§!，那么"
+
+EDG_TTS_mission_1_6_tt_yes:0 "£yes£如果我们的拥有3级顾问§Y改革家§!，那么"
+EDG_TTS_mission_1_6_tt_no:0 "£no£如果我们的拥有3级顾问§Y改革家§!，那么"
+
+EDG_TTS_mission_1_8_tt_yes:0 "£yes£如果我们在§Y热那亚§!贸易节点拥有§Y50%§!以上的贸易竞争力，那么"
+EDG_TTS_mission_1_8_tt_no:0 "£no£如果我们在§Y热那亚§!贸易节点拥有§Y50%§!以上的贸易竞争力，那么"
+
+EDG_TTS_mission_2_1_tt_yes:0 "£yes£如果我们有一个§Y2级§!的§Y军事顾问§!，那么"
+EDG_TTS_mission_2_1_tt_no:0 "£no£如果我们有一个§Y2级§!的§Y军事顾问§!，那么"
+
+EDG_TTS_mission_2_2_tt_yes:0 "£yes£如果我们的稳定度达到§Y1§!，那么"
+EDG_TTS_mission_2_2_tt_no:0 "£no£如果我们的稳定度达到§Y1§!，那么"
+
+EDG_TTS_mission_4_1_tt_yes:0 "£yes£如果我们有一个§Y2级§!的§Y外交顾问§!，那么"
+EDG_TTS_mission_4_1_tt_no:0 "£no£如果我们有一个§Y2级§!的§Y外交顾问§!，那么"
+
+EDG_TTS_mission_2_3_tt:0 "解锁决议 §Y加冕那不勒斯国王§!"
+
+EDG_TTS_mission_3_4_tt:0 "我们将可以无视行政科技成立§Y特里纳克里亚§!。"
+
+EDG_flavor_TTS_Mafia_event_1_a_tt:0 "所有§Y那不勒斯§!文化的国家将触发与§Y黑手党§!有关的事件链，并可选择通过整合或驱逐黑手党以达成结局。"
+EDG_flavor_TTS_Mafia_event_good_tt:0 "我们与§Y黑手党§!的关系将进一步§Y提高§!。"
+EDG_flavor_TTS_Mafia_event_bad_tt:0 "我们与§Y黑手党§!的关系将进一步§Y下降§!。"
+
+get_estate_edg_mafia_tt:0 "我们将会获得§Y黑手党§!阶层。"
+EDG_flavor_TTS_Mafia_event_end_tt:0 "我们将终结§Y黑手党§!，§Y黑手党§!事件将不再发生。"
+
+has_EDG_flavor_TTS_Mafia_event_end_flag:0 "黑手党结局：驱逐"
+has_estate_edg_mafia_flag:0 "黑手党结局：整合"
+has_EDG_Mafia_success_flag:0 "黑手党结局：篡权"
+
+EDG_TTS_mission_2_4_aa_tt_yes:0 "£yes£如果我们与黑手党的态度达到§Y5§!，那么"
+EDG_TTS_mission_2_4_aa_tt_no:0 "£no£如果我们与黑手党的态度达到§Y5§!，那么"
+
+EDG_TTS_mission_2_4_bb_tt_yes:0 "£yes£如果我们与黑手党的态度低于§Y-4§!，那么"
+EDG_TTS_mission_2_4_bb_tt_no:0 "£no£如果我们与黑手党的态度低于§Y-4§!，那么"
+
+EDG_TTS_mission_2_4_a_tt_yes:0 "£yes£如果我们与黑手党的结局是§Y整合§!，那么"
+EDG_TTS_mission_2_4_a_tt_no:0 "£no£如果我们与黑手党的结局是§Y整合§!，那么"
+
+EDG_TTS_mission_2_4_b_tt_yes:0 "£yes£如果我们与黑手党的结局是§Y驱逐§!，那么"
+EDG_TTS_mission_2_4_b_tt_no:0 "£no£如果我们与黑手党的结局是§Y驱逐§!，那么"
+
+EDG_TTS_mission_2_4_c_tt_yes:0 "£yes£如果我们与黑手党的结局是§Y篡权§!，那么"
+EDG_TTS_mission_2_4_c_tt_no:0 "£no£如果我们与黑手党的结局是§Y篡权§!，那么"
+
+EDG_TTS_mission_2_7_tt_yes:0 "£yes£如果§Y意大利战争§!已经开始并尚未结束，那么"
+EDG_TTS_mission_2_7_tt_no:0 "£no£如果§Y意大利战争§!已经开始并尚未结束，那么"
+
+allow_EDG_TTS_mission_1_8_decision_1_tt:0 "解锁决议 §Y蒂勒尼安海之主§!"
+allow_EDG_TTS_mission_1_8_decision_2_tt:0 "解锁决议 §Y西班牙问题§!"
+allow_EDG_TTS_mission_1_8_decision_3_tt:0 "解锁决议 §Y终止海峡税§!"
+
+allow_EDG_TTS_mission_2_8_decision_1_tt:0 "解锁决议 §Y修建阿诺河堤坝§!"
+allow_EDG_TTS_mission_2_8_decision_2_tt:0 "解锁决议 §Y扶持美帝奇银行§!"
+allow_EDG_TTS_mission_2_8_decision_3_tt:0 "解锁决议 §Y赞助佛罗伦萨文艺复兴§!"
+
+allow_EDG_TTS_mission_3_9_decision_1_tt:0 "解锁决议 §Y组建瑞士佣兵队§!"
+allow_EDG_TTS_mission_3_9_decision_2_tt:0 "解锁决议 §Y阿尔卑斯防御工事§!"
+allow_EDG_TTS_mission_3_9_decision_3_tt:0 "解锁决议 §Y成立伦巴第法院和大学§!"
+
+allow_EDG_TTS_mission_4_8_decision_1_tt:0 "解锁决议 §Y秕糠学会§!"
+allow_EDG_TTS_mission_4_8_decision_2_tt:0 "解锁决议 §Y改革银行§!"
+allow_EDG_TTS_mission_4_8_decision_3_tt:0 "解锁决议 §Y清廉政府§!"
+
+allow_EDG_TTS_mission_5_8_decision_1_tt:0 "解锁决议 §Y训练瘟疫医生§!"
+allow_EDG_TTS_mission_5_8_decision_2_tt:0 "解锁决议 §Y阿尔迪内印刷厂§!"
+allow_EDG_TTS_mission_5_8_decision_3_tt:0 "解锁决议 §Y标准化外交报告§!"
+
+EDG_TTS_mission_3_6_a_tt_yes:0 "£yes£如果我们采用了政府改革§Y阿尔伯特宪法§!，那么"
+EDG_TTS_mission_3_6_a_tt_no:0 "£no£如果我们采用了政府改革§Y阿尔伯特宪法§!，那么"
+
+EDG_TTS_mission_3_6_b_tt_yes:0 "£yes£如果我们采用了政府改革§Y意大利王权§!，那么"
+EDG_TTS_mission_3_6_b_tt_no:0 "£no£如果我们采用了政府改革§Y意大利王权§!，那么"
+
+EDG_EDG_flavor_TTS_7_a_opinion:0 "劫掠教廷金库"
+EDG_EDG_flavor_TTS_7_b_opinion:0 "尊重教廷"
+
+EDG_TTS_mission_3_8_tt_yes:0 "£yes£如果我们的国教不是§Y天主教§!，那么"
+EDG_TTS_mission_3_8_tt_no:0 "£no£如果我们的国教不是§Y天主教§!，那么"
+
+EDG_TTS_mission_3_8_2_tt_yes:0 "£yes£如果我们的国教是§Y天主教§!，那么"
+EDG_TTS_mission_3_8_2_tt_no:0 "£no£如果我们的国教是§Y天主教§!，那么"
+
+EDG_Legally_holding_Rome_tt:0 "我们将能够合法地持有§Y罗马§!。"
+EDG_Legally_holding_Rome_flag:0 "我们将能够合法地持ဉW马。"
+
+
+EDG_TTS_mission_2_10_a_tt_yes:0 "£yes£如果我们通过§Y结盟§!完成任务，那么"
+EDG_TTS_mission_2_10_a_tt_no:0 "£no£如果我们通过§Y结盟§!完成任务，那么"
+
+EDG_TTS_mission_2_10_b_tt_yes:0 "£yes£如果我们通过§Y陆军规模§!完成任务，那么"
+EDG_TTS_mission_2_10_b_tt_no:0 "£no£如果我们通过§Y陆军规模§!完成任务，那么"
+
+EDG_TTS_mission_4_7_tt_yes:0 "£yes£如果我们的海军传统达到§Y45§!，那么"
+EDG_TTS_mission_4_7_tt_no:0 "£no£如果我们的海军传统达到§Y45§!，那么"
+
+EDG_TTS_mission_4_8_tt_yes:0 "£yes£如果我们的腐败度低于§Y1%§!，那么"
+EDG_TTS_mission_4_8_tt_no:0 "£no£如果我们的腐败度低于§Y1%§!，那么"
+
+EDG_TTS_mission_5_5_tt_yes:0 "£yes£如果我们完成任务时是§Y天主教§!，那么"
+EDG_TTS_mission_5_5_tt_no:0 "£no£如果我们完成任务时是§Y天主教§!，那么"
+
+EDG_TTS_mission_5_5_b_tt_yes:0 "£yes£如果我们完成任务时不是§Y天主教§!，那么"
+EDG_TTS_mission_5_5_b_tt_no:0 "£no£如果我们完成任务时不是§Y天主教§!，那么"
+
+EDG_TTS_mission_5_8_tt_yes:0 "£yes£如果我们在§Y威尼斯§!贸易节点是最强竞争力，那么"
+EDG_TTS_mission_5_8_tt_no:0 "£no£如果我们在§Y威尼斯§!贸易节点是最强竞争力，那么"
+
+EDG_TTS_mission_5_9_tt_yes:0 "£yes£如果我们在§Y拉古萨§!贸易节点是最强竞争力，那么"
+EDG_TTS_mission_5_9_tt_no:0 "£no£如果我们在§Y拉古萨§!贸易节点是最强竞争力，那么"
+
+EDG_TTS_2_mission_2_13_tt_yes:0 "£yes£如果我们有任意顾问属于§Y法兰西§!文化组，那么"
+EDG_TTS_2_mission_2_13_tt_no:0 "£no£如果我们有任意顾问属于§Y法兰西§!文化组，那么"
+
+EDG_TTS_2_mission_4_11_tt_yes:0 "£yes£如果在§Y巴尔干§!地区有§Y20§!个省份属于[Root.GetAdjective]或[Root.GetAdjective]的非朝贡属国，那么"
+EDG_TTS_2_mission_4_11_tt_no:0 "£no£如果在§Y巴尔干§!地区有§Y20§!个省份属于[Root.GetAdjective]或[Root.GetAdjective]的非朝贡属国，那么"
+
+EDG_TTS_mission_2_6_tt_yes:0 "£yes£如果在完成任务时，我们的稳定度达到§Y3§!，且贵族的忠诚度达到§Y50§!，那么"
+EDG_TTS_mission_2_6_tt_no:0 "£no£如果在完成任务时，我们的稳定度达到§Y3§!，且贵族的忠诚度达到§Y50§!，那么"
+
+EDG_TTS_mission_4_5_tt_yes:0 "£yes£如果我们的生产收入占总收入的§Y30%§!，那么"
+EDG_TTS_mission_4_5_tt_no:0 "£no£如果我们的生产收入占总收入的§Y30%§!，那么"
+
+EDG_TTS_2_mission_3_16_dip_tt_yes:0 "£yes£如果我们通过与皇帝保持友善完成任务，那么"
+EDG_TTS_2_mission_3_16_dip_tt_no:0 "£no£如果我们通过与皇帝保持友善完成任务，那么"
+EDG_TTS_2_mission_3_16_effect_tt:0 "若他们同意我们的申请，我们将能够在未来获得更多来自§Y德意志§!地区的雇佣兵。"
+
+EDG_TTS_raising_mission_modifier_tt_yes:0 "£yes£如果我们仍享有国家修正§Y新罗马时代§!，那么"
+EDG_TTS_raising_mission_modifier_tt_no:0 "£no£如果我们仍享有国家修正§Y新罗马时代§!，那么"
+EDG_add_or_extend_TTS_raising_mission_modifier_25_years_effect_tt:0 "§Y[Root.GetAdjective]§!的国家修正§Y新罗马时代§!的时效将会重置为§Y50年§!。"
+
+EDG_TTS_2_mission_3_17_tt_yes:0 "£yes£如果@HAB§Y奥地利§!不存在或皇帝与我们的好感低于§Y100§!，那么"
+EDG_TTS_2_mission_3_17_tt_no:0 "£no£如果@HAB§Y奥地利§!不存在或皇帝与我们的好感低于§Y100§!，那么"
+
+
+EDG_TTS_trade_POWER:0 "贸易扩张"
+
+EDG_france_province_decision_tt:0 "解锁决议 §Y建立高卢行省§!"
+EDG_british_province_decision_tt:0 "解锁决议 §Y建立不列颠尼亚行省§!"
+EDG_byz_province_decision_tt:0 "解锁决议 §Y建立色雷斯行省§!"
+EDG_anatolia_province_decision_tt:0 "解锁决议 §Y建立亚细亚行省§!"
+EDG_mashriq_province_decision_tt:0 "解锁决议 §Y建立叙利亚行省§!"
+EDG_egypt_province_decision_tt:0 "解锁决议 §Y建立阿伊普多斯行省§!"
+EDG_balkan_region_province_decision_tt:0 "解锁决议 §Y建立伊利里库姆行省§!"
+EDG_carpathia_province_decision_tt:0 "解锁决议 §Y建立卡帕提亚行省§!"
+EDG_maghreb_province_decision_tt:0 "解锁决议 §Y建立阿非利加行省§!"
+EDG_iberia_province_decision_tt:0 "解锁决议 §Y建立希斯帕涅行省§!"
+EDG_german_province_decision_tt:0 "解锁决议 §Y建立日耳曼尼亚行省§!"
+EDG_Raetia_province_decision_tt:0 "解锁决议 §Y建立雷迪亚行省§!"
+EDG_aerle_province_decision_tt:0 "解锁决议 §Y建立阿基坦行省§!"
+EDG_Netherlands_province_decision_tt:0 "解锁决议 §Y建立尼德兰行省§!"
+EDG_Mesopotamia_province_decision_tt:0 "解锁决议 §Y建立美索不达米亚行省§!"
+EDG_Arab_province_decision_tt:0 "解锁决议 §Y建立阿拉比亚行省§!"
+EDG_Persian_province_decision_tt:0 "解锁决议 §Y建立波斯行省§!"
+EDG_Poland_province_decision_tt:0 "解锁决议 §Y建立波兰行省§!"
+EDG_Ruthenian_province_decision_tt:0 "解锁决议 §Y建立基辅行省§!"
+EDG_Salmathia_province_decision_tt:0 "解锁决议 §Y建立萨尔玛提亚行省§!"
+EDG_Russia_province_decision_tt:0 "解锁决议 §Y建立弗拉基米尔行省§!"
+EDG_Scania_province_decision_tt:0 "解锁决议 §Y建立斯堪尼亚行省§!"
+EDG_Cyrus_province_decision_tt:0 "解锁决议 §Y建立库鲁斯行省§!"
+EDG_Balti_province_decision_tt:0 "解锁决议 §Y建立波罗的行省§!"
+
+EDG_TTS_2_mission_5_23_tt:0 "我们的任意§Y10§!个省份将会获得如下修正"
+
+EDG_can_Ignoring_technology_form_two_sicilies_nation_tt:0 "由于我们完成了特定任务，我们将可以无视行政科技成立§Y特里纳克里亚§!。"
+ 
+EDG_flavor_TTS_15_tt:0 "我们将能解锁更多的来自§Y德意志§!的雇佣兵。"
+
+
+EDG_france_province_decision_title:0 "@IT1§M建立小高卢行省§!"
+EDG_france_province_decision_2_title:0 "@IT1§M建立大高卢行省§!"
+EDG_british_province_decision_title:0 "@IT1§M建立不列颠尼亚行省§!"
+EDG_byz_province_decision_title:0 "@IT1§M建立色雷斯行省§!"
+EDG_anatolia_province_decision_title:0 "@IT1§M建立亚细亚行省§!"
+EDG_mashriq_province_decision_title:0 "@IT1§M建立叙利亚行省§!"
+EDG_egypt_province_decision_title:0 "@IT1§M建立阿伊普多斯行省§!"
+EDG_balkan_region_province_decision_title:0 "@IT1§M建立小伊利里库姆行省§!"
+EDG_balkan_region_province_decision_2_title:0 "@IT1§M建立大伊利里库姆行省§!"
+EDG_carpathia_province_decision_title:0 "@IT1§M建立卡帕提亚行省§!"
+EDG_carpathia_province_decision_2_title:0 "@IT1§M建立大潘诺尼亚行省§!"
+EDG_maghreb_province_decision_title:0 "@IT1§M建立阿非利加行省§!"
+EDG_iberia_province_decision_title:0 "@IT1§M建立希斯帕涅行省§!"
+EDG_german_province_decision_title:0 "@IT1§M建立日耳曼尼亚行省§!"
+EDG_Raetia_province_decision_title:0 "@IT1§M建立雷迪亚行省§!"
+EDG_aerle_province_decision_title:0 "@IT1§M建立阿基坦行省§!"
+EDG_Netherlands_province_decision_title:0 "@IT1§M建立尼德兰行省§!"
+EDG_Mesopotamia_province_decision_title:0 "@IT1§M建立美索不达米亚行省§!"
+EDG_Arab_province_decision_title:0 "@IT1§M建立阿拉比亚行省§!"
+EDG_Persian_province_decision_title:0 "@IT1§M建立波斯行省§!"
+EDG_Poland_province_decision_title:0 "@IT1§M建立波兰行省§!"
+EDG_Ruthenian_province_decision_title:0 "@IT1§M建立基辅行省§!"
+EDG_Salmathia_province_decision_title:0 "@IT1§M建立萨尔玛提亚行省§!"
+EDG_Russia_province_decision_title:0 "@IT1§M建立弗拉基米尔行省§!"
+EDG_Scania_province_decision_title:0 "@IT1§M建立斯堪尼亚行省§!"
+EDG_Cyrus_province_decision_title:0 "@IT1§M建立库鲁斯行省§!"
+EDG_Balti_province_decision_title:0 "@IT1§M建立波罗的行省§!"
+
+EDG_culture_would_be_latin_tt:0 "§Y[PREV.GetAdjective]§!治下的省份将会逐渐§M拉丁化§!。"
+
+EDG_TTS_decision_Anti_Reformation_Center_title:0 "天主教反宗教改革中心"
+EDG_TTS_decision_Anti_Reformation_Center_desc:0 "宗教改革如火如荼，我们必须进行反击。"
+EDG_TTS_decision_Relocate_capital_to_121_title:0 "迁都纳波利"
+EDG_TTS_decision_Relocate_capital_to_121_desc:0 "纳波利长期作为南意大利的经济中心之一，如今我们已经平定了周边地区，扩大了自己的影响力，应当迁都纳波利进行统治。"
+EDG_TTS_decision_EDG_TTS_mission_2_3_title:0 "加冕那不勒斯国王"
+EDG_TTS_decision_EDG_TTS_mission_2_3_desc:0 "我们将戴上那不勒斯的王冠，以那不勒斯国王的省份进行统治。"
+
+#神圣波兰
+EDG_NYGX_LER_mission_1_2_title:0 "万福圣母玛利亚之剑"
+EDG_NYGX_LER_mission_1_3_title:0 "基辅罗斯内战"
+EDG_NYGX_LER_mission_1_4_title:0 "第一次罗斯战争"
+EDG_NYGX_LER_mission_2_6_title:0 "弗谢斯拉夫之宝座"
+EDG_NYGX_LER_mission_3_5_title:0 "天命的联邦？"
+
+EDG_NYGX_LER_mission_1_2_desc:0 "在极端宗教狂热的影响之下，我们将会是世间最锋利的宝剑。"
+EDG_NYGX_LER_mission_1_3_desc:0 "基辅罗斯陷入了残酷的内战之中，这些罗斯人的力量遇到严重削弱，我们可以介入其中并夺得属于我们的胜利。"
+EDG_NYGX_LER_mission_1_4_desc:0 "我们将对罗斯地区展开征服，取缔他们的大公并将他们置于我们的统治之下。"
+EDG_NYGX_LER_mission_2_6_desc:0 "弗谢斯拉夫是罗斯民族中赫赫有名的君王，他能征善战且威名赫赫，如果想要笼络罗斯人并更好地宣称罗斯人的土地，宣布继承弗谢斯拉夫将会是一个不错的选择。"
+EDG_NYGX_LER_mission_3_5_desc:0 "波兰人与立陶宛大公的联邦？似乎不可能，又似乎令人熟悉万分。"
+
+
+NYGX_LER_7_t:0 "宣称弗谢斯拉夫之宝座"
+NYGX_LER_7_d:0 "波洛茨克公国是罗斯境内东斯拉夫人建立的一个公国。最早的时候,这里似乎由外来的诺曼人统治。约980年，留里克王朝的诺夫哥罗德王公弗拉基米尔·斯维亚托斯拉维奇在争夺基辅大公公位的过程中征服了这一地区，并且强迫诺曼人的公主做他的配偶。他们的后代成为波洛茨克的历代王公，包括伟大的弗谢斯拉夫，他东征西讨,一度洗劫了诺夫哥罗德,并肃清了国内的反动势力，建立了全权对军队负责的强大禁卫军。毫无疑问，弗谢斯拉夫是罗斯民族中赫赫有名的君王，他能征善战且威名赫赫，如果想要笼络罗斯人并更好地宣称罗斯人的土地，宣布继承弗谢斯拉夫将会是一个不错的选择。"
+NYGX_LER_7a:0 "我们将超越弗谢斯拉夫！"
+NYGX_LER_7b:0 "他只是个罗斯人，不值得受到我们崇拜。"
+
+NYGX_LER_8_t:0 "天命的联邦"
+NYGX_LER_8_d:0 "自从桑多梅日的胡斯派波兰贵族建立了[Root.GetAdjective]以来，[Root.GetAdjective]实力的增强，并先后征服了普鲁士和摩尔多瓦等领地，以及顽强的立陶宛大公国。立陶宛人强韧而果敢，尽管他们被征服，但依然保持着自己的文化和传统，甚至仰赖自己的资源和政治力量在[Root.GetAdjective]的体制内依然谋得了一席之地。\n\n在政局安定下来后，一位波兰贵族提出了一个大胆的议案。他在一次私人聚会上向来自立陶宛的客人们提议，是否可以将两个国家组建成一个联邦，以增强彼此之间的合作与互动。\n\n在座的贵族们听到这个提议后，无不感到震惊，在会场内持续最久的是沉寂而非哄闹。直到一名年轻的立陶宛贵族发表了自己的看法，他认为这个提议非常有意义，因为这样可以促进两国之间的经济和文化交流，同时还能够加强两国对抗周边强权的实力，他相信，如果能建立一个神圣波兰立陶宛联邦，那么联邦体制将有助于增强两国的实力和地位，在未来的岁月里共同应对挑战，迎接更加光明的未来。\n\n但是也有一些人持不同意见，他们认为两国之间存在着历史遗留问题和地缘政治矛盾，难以达成真正的合作。然而，许多人都认为这个提议值得一试，毕竟波兰和立陶宛都处于不稳定的时期，需要更多的支持和联合行动。"
+NYGX_LER_8a:0 "建立神圣波兰立陶宛联邦！"
+NYGX_LER_8b:0 "有点夸张了。"
+
+EDG_plc_prevent_deluge_title:0 "阻止大洪水"
+EDG_plc_prevent_deluge_desc:0 "我们自斯德哥尔摩获知令人不安的消息：它的主人计划对波兰进行毁灭性的入侵，旨在将我们的国家化为灰烬。但他们必不能如愿，我们必须在斯德哥尔摩入侵之前出击！"
+ 
+EDG_plc_dominate_baltic_title:0 "控制波罗的海"
+EDG_plc_dominate_baltic_desc:0 "波罗的海贸易是我国利益的关窍，其输送的财富也不断增长。加强对它的控制将带来更大的财富，也将增加我们在该地区的权力。"
+ 
+EDG_NYGX_LER_mission_1_2_modifier:0 "万福玛利亚之剑" 
+EDG_NYGX_LER_mission_1_3_modifier:0 "第一次波罗战争" 
+EDG_NYGX_LER_mission_2_6_modifier:0 "宣称弗谢斯拉夫王座" 
+EDG_flavorLER_0_modifier:0 "波兰民族主义" 
+EDG_flavorLER_2_modifier:0 "卢布林会议" 
+EDG_flavorLER_3_modifier_1:0 "通过塔尔努夫法案" 
+EDG_flavorLER_3_modifier_2:0 "否决塔尔努夫法案" 
+
+
+NYGX_LER_poland_unite_again_extra_tt_yes:0 "£yes£如果我们的盟友数量达到§Y2§!，那么"
+NYGX_LER_poland_unite_again_extra_tt_no:0 "£no£如果我们的盟友数量达到§Y2§!，那么"
+
+
+#哈布斯堡:0 ""
+EDG_HAB_mission_1_1_a_tt_yes:0 "£yes£若我们作为§Y皇帝§!完成该任务，则"
+EDG_HAB_mission_1_1_a_tt_no:0 "£no£若我们作为§Y皇帝§!完成该任务，则"
+
+EDG_HAB_mission_1_2_b_tt_yes:0 "£yes£若我们通过与§Y皇帝§!交好完成该任务，则"
+EDG_HAB_mission_1_2_b_tt_no:0 "£no£若我们通过与§Y皇帝§!交好完成该任务，则"
+
+EDG_HAB_mission_1_2_trigger_tt:0 "所有§Y施瓦本§!文化的国家，陆军实力不足我们的§M50%§!"
+
+
+EDG_HAB_mission_1_2_decision_unlock_tt:0 "@HAB 解锁决议 §Y羁縻施瓦本各邦§!"
+EDG_HAB_mission_Herzog_von_Schwaben_decision_unlock_tt:0 "@HAB 解锁决议 §Y加冕施瓦本公爵§!"
+
+EDG_HAB_Catholic_power:0 "天主教权威"
+
+EDG_give_5_SWA_province_modifier_tooltip:0 "随机给予5个§Y施瓦本§!文化省份如下修正："
+EDG_BOH_not_hab_king_tt:0 "由于我们没有选择§Y哈布斯堡§!家族的正统继承人，他们可能会对我们采取军事行动。"
+EDG_BOH_not_hab_king_flag:0 "波西米亚没有选择哈布斯堡王朝的继承人"
+EDG_HAB_mission_1_7_none_tt:0 "我们将通过事件§Y布拉格耶稣会§!的选择决定任务的奖励。"
+EDG_HAB_mission_1_7_a_extra_tt_yes:0 "£yes£若所有§Y捷克§!文化的省份皈依§Y天主教§!，则"
+EDG_HAB_mission_1_7_a_extra_tt_no:0 "£no£若所有§Y捷克§!文化的省份皈依§Y天主教§!，则"
+EDG_HAB_mission_1_8_province_tt:0 "我们所拥有的§Y捷克§!文化的省份将获得以下修正："
+EDG_HAB_mission_1_8_event_tt:0 "解锁事件链§Y同化波西米亚诸民族§!，我们将会缓慢地将§Y摩拉维亚§!、§Y索布§!和§Y西里西亚§!文化省份的文化改变为§Y捷克§!文化。"
+
+had_EDG_FKN_disasters_1_global_flag:0 "法兰克尼亚继承危机"
+EDG_HAB_mission_2_2_trigger_tt:0 "我们的所有§Y神圣罗马陪臣国§!的§G独立倾向§!低于§M25%§!。"
+EDG_HAB_mission_2_3_a_tt_yes:0 "£yes£如果我们通过与@MBZ[MBZ.GetAdjective]§Y联姻§!完成任务，那么"
+EDG_HAB_mission_2_3_a_tt_no:0 "£no£如果我们通过与@MBZ[MBZ.GetAdjective]§Y联姻§!完成任务，那么"
+EDG_HAB_mission_2_3_a_tt_event:0 "若他们同意，他们将成为我们的§Y神圣罗马陪臣国§!。"
+EDG_HAB_mission_2_3_b_tt_yes:0 "£yes£如果我们通过使得@MBZ[MBZ.GetAdjective]成为我们的§Y属国§!完成任务，那么"
+EDG_HAB_mission_2_3_b_tt_no:0 "£no£如果我们通过使得@MBZ[MBZ.GetAdjective]成为我们的§Y属国§!完成任务，那么"
+EDG_HAB_mission_2_3_c_tt_yes:0 "£yes£如果我们通过§Y军事§!手段完成任务，那么"
+EDG_HAB_mission_2_3_c_tt_no:0 "£no£如果我们通过§Y军事§!手段完成任务，那么"
+
+EDG_HAB_mission_2_4_a_tt_yes:0 "£yes£如果我们通过与@BAV[BAV.GetAdjective]§Y联姻§!完成任务，那么"
+EDG_HAB_mission_2_4_a_tt_no:0 "£no£如果我们通过与@BAV[BAV.GetAdjective]§Y联姻§!完成任务，那么"
+EDG_HAB_mission_2_4_a_tt_event:0 "若@BAV[BAV.GetAdjective]同意，他们将获得一位来自我们王朝的§Y继承人§!。"
+EDG_HAB_mission_2_4_b_tt_yes:0 "£yes£如果我们通过§Y军事§!手段完成任务，那么"
+EDG_HAB_mission_2_4_b_tt_no:0 "£no£如果我们通过§Y军事§!手段完成任务，那么"
+
+EDG_add_permanent_claim_saxon_culture_tt:0 "获得所有§Y上萨克森§!文化省份的宣称。"
+EDG_add_permanent_claim_lower_saxon_culture_tt:0 "获得所有§Y下萨克森§!文化省份的宣称。"
+EDG_add_permanent_claim_hessian_culture_tt:0 "获得所有§Y莱茵§!文化省份的宣称。"
+EDG_add_permanent_claim_franconian_culture_tt:0 "获得所有§Y法兰克尼亚§!文化省份的宣称。"
+EDG_add_permanent_claim_swabian_culture_tt:0 "获得所有§Y施瓦本§!文化省份的宣称。"
+EDG_add_permanent_claim_swiss_culture_tt:0 "获得所有§Y瑞士§!文化省份的宣称。"
+EDG_add_permanent_claim_hannoverian_culture_tt:0 "获得所有§Y威斯特伐利亚§!文化省份的宣称。"
+
+EDG_HAB_mission_2_7_tt_yes:0 "£yes£如果@BRA[BRA.GetAdjective]是我们的§Y属国§!，那么"
+EDG_HAB_mission_2_7_tt_no:0 "£no£如果@BRA[BRA.GetAdjective]是我们的§Y属国§!，那么"
+EDG_Brandenburger_Marquis_Privileg_enable_tt:0 "只要@BRA[BRA.GetAdjective]存在，我们将解锁§M贵族§!特权§Y勃兰登堡藩候§!"
+has_EDG_War_of_Austrian_Succession_event_end_flag:0 "已经平定奥地利王位继承战争"
+EDG_give_all_austrian_province_modifier_tt:0 "给予所有拥有的§Y奥地利§!文化省份如下修正："
+INCOME_FROM_manufactory_DESC:0 "我们将从国内的§Y工场§!获得金钱"
+EDG_give_10_province_modifier_tooltip:0 "10个§Y奥地利§!文化的拥有§Y工场§!的省份，将会获得如下修正："
+EDG_HAB_mission_2_13_decision_ENABLE_TT:0 "@HAB 解锁决议 §Y奥地利本部城市化§!\n@HAB 解锁决议 §Y内奥地利城市化§!\n@HAB 解锁决议 §Y蒂罗尔城市化§!\n"
+
+has_EDG_HAB_decision_austria_proper_manufactory_flag:0 "奥地利本部城市化"
+has_EDG_HAB_decision_inner_austria_manufactory_flag:0 "内奥地利城市化"
+has_EDG_HAB_decision_tirol_manufactory_flag:0 "蒂罗尔城市化"
+
+
+
+EDG_HAB_mission_3_1_tt:0 "§Y法兰克尼亚继承危机§!中，@FKN萨利安的公爵将必然选择由§M哈布斯堡家族§!继承§M法兰克尼亚公国§!"
+EDG_HAB_mission_3_2_trigger_tt:0 "我们没有任何一个§M神圣罗马陪臣国§!是§Y莱茵§!或§Y法兰克尼亚§!文化"
+EDG_HAB_mission_3_2_the_two_culture_province_modifier_tt:0 "给予我们所拥有的§Y莱茵§!和§Y法兰克尼亚§!文化的省份以下修正："
+
+EDG_HAB_Freisetzung_Schwaben_decision_unlock_tt:0 "@HAB 解锁决议 §Y释放施瓦本公国§!"
+EDG_HAB_mission_1_5_b_tt_yes:0 "£yes£若§Y胡斯派归来§!事件尚未发生，那么"
+EDG_HAB_mission_1_5_b_tt_no:0 "£no£若§Y胡斯派归来§!事件尚未发生，那么"
+EDG_HAB_mission_1_5_a_tt_yes:0 "£yes£若§Y胡斯派归来§!事件已经发生，且我们的继承权被否决，那么"
+EDG_HAB_mission_1_5_a_tt_no:0 "£no£若§Y胡斯派归来§!事件已经发生，且我们的继承权被否决，那么"
+EDG_HAB_mission_1_5_c_tt_yes:0 "£yes£若@BOH波西米亚不是我们的属国，且我们或我们的非独立属国在§Y波西米亚§!王国境内有领地，那么"
+EDG_HAB_mission_1_5_c_tt_no:0 "£no£若@BOH波西米亚不是我们的属国，且我们或我们的非独立属国在§Y波西米亚§!王国境内有领地，那么"
+EDG_HAB_mission_1_5_d_tt_yes:0 "£yes£若@BOH波西米亚是我们的属国，那么"
+EDG_HAB_mission_1_5_d_tt_no:0 "£no£若@BOH波西米亚是我们的属国，那么"
+EDG_HAB_mission_1_5_dip_tt:0 "在@BOH 波西米亚触发§Y胡斯派归来§!事件时，§Y波西米亚§!必然会选择由§M哈布斯堡家族§!继承王位。"
+EDG_HAB_mission_3_5_province_modifier_tt:0 "所有我们拥有的，位于§Y南德意志§!地区的省份获得如下修正："
+EDG_death_of_Sigismund:0 "西吉斯蒙德Ⅰ已经驾崩"
+EDG_HAB_mission_1_1_b_tt_yes:0 "£yes£若我们通过§Y提升发展度§!完成任务，那么"
+EDG_HAB_mission_1_1_b_tt_no:0 "£no£若我们通过§Y提升发展度§!完成任务，那么"
+EDG_flavorHAB_19_flag:0 "布拉格耶稣会"
+
+EDG_HAB_mission_4_3_add_permanent_claim_tt:0 "获得所有@AEL阿尔勒所§Y拥有§!或§Y拥有核心§!的省份的宣称。"
+EDG_HAB_mission_4_4_trigger_tt_1:0 "§Y法兰西§!地区没有§M清洁派§!省份。"
+EDG_HAB_mission_4_4_trigger_tt_2:0 "§Y神圣罗马帝国§!境内没有§M清洁派§!省份。"
+EDG_HAB_mission_4_4_4_province_modifier_tt:0 "所有我们拥有的§Y欧西坦§!和§Y奥克§!文化的省份获得如下修正："
+incident_EDG_polish_marquises_event_0_global_flag:0 "波兹南申请加入帝国"
+EDG_HAB_mission_4_7_a_tt_yes:0 "£yes£如果@GPL波兹南加入了§Y帝国§!，那么"
+EDG_HAB_mission_4_7_a_tt_no:0 "£no£如果@GPL波兹南加入了§Y帝国§!，那么"
+EDG_HAB_mission_4_7_b_tt_yes:0 "£yes£如果我们接纳了§Y相应文化§!，那么"
+EDG_HAB_mission_4_7_b_tt_no:0 "£no£如果我们接纳了§Y相应文化§!，那么"
+EDG_HAB_give_allwest_slavic_permanent_claim_tt:0 "给予所有§Y西斯拉夫§!文化组省份的宣称。"
+EDG_flavorHAB_1_b_global_flag:0 "奥地利藩候否认了哈布斯堡的继承权"
+
+EDG_HAB_mission_4_10_a_tt_yes:0 "£yes£如果@H02奥地利对我们的好感达到§Y150§!，那么"
+EDG_HAB_mission_4_10_a_tt_no:0 "£no£如果@H02奥地利对我们的好感达到§Y150§!，那么"
+EDG_HAB_mission_4_10_a_flag_tt:0 "我们将保证@H02奥地利承认我们对§Y奥地利公国§!的继承权。"
+EDG_HAB_mission_4_10_b_tt_yes:0 "£yes£如果@H02奥地利否决了我们的§Y继承权§!，那么"
+EDG_HAB_mission_4_10_b_tt_no:0 "£no£如果@H02奥地利否决了我们的§Y继承权§!，那么"
+EDG_HAB_grand_duchy_flag_tt:0 "@HAB奥地利将成为§Y大公国§!。"
+EDG_HAB_mission_4_12_core_tt:0 "@TIR蒂罗尔、@STY施蒂利亚和@H02奥地利藩候国的核心将会消失。"
+
+EDG_HAB_mission_4_13_a_tt_yes:0 "£yes£若我们拥有政府改革§Y因斯布鲁克国库§!，则"
+EDG_HAB_mission_4_13_a_tt_no:0 "£no£若我们拥有政府改革§Y因斯布鲁克国库§!，则"
+EDG_HAB_mission_4_15_a_flag_tt:0 "我们将会为@HUN匈牙利的大贵族议会提出建议，在西吉斯蒙德死后，匈牙利大贵族会§M在一段时间后§!召开§Y大贵族会议§!，届时他们将更有可能选择由我们继承§Y西吉斯蒙德Ⅰ§!的遗产。"
+EDG_HAB_mission_4_15_a_tt_yes:0 "£yes£若@HUN匈牙利对我们的好感达到§Y150§!，且§M遗腹子§!的继承权未被否决，那么"
+EDG_HAB_mission_4_15_a_tt_no:0 "£no£若@HUN匈牙利对我们的好感达到§Y150§!，且§M遗腹子§!的继承权未被否决，那么"
+EDG_HAB_mission_5_1_none_tt:0 "我们将通过事件§Y迎回犹太人§!的选择决定任务的奖励。"
+EDG_flavorHAB_20_a_tt:0 "我们对§Y迎回犹太人§!任务的倾向将会变成§M容忍§!。"
+EDG_flavorHAB_20_b_tt:0 "我们对§Y迎回犹太人§!任务的倾向将会变成§R排斥§!。"
+EDG_HAB_mission_5_1_a_flag_tt:0 "由于我们对§Y迎回犹太人§!任务的倾向是§M容忍§!，我们将会获得如下修正："
+EDG_HAB_mission_5_1_b_flag_tt:0 "由于我们对§Y迎回犹太人§!任务的倾向是§R排斥§!，我们将会获得如下修正："
+EDG_HAB_mission_5_2_add_permanent_claim_tt:0 "获得所有@LOT洛塔林吉亚及其属国所§Y拥有§!或@LOT洛塔林吉亚§Y拥有核心§!的省份的宣称。"
+EDG_HAB_mission_5_2_add_permanent_claim_tt_2:0 "获得所有§Y瓦隆§!和§Y勃艮第§!文化省份的宣称。"
+EDG_HAB_mission_5_2_tt_yes:0 "£yes£若我们的军事顾问等级达到§Y3§!，那么"
+EDG_HAB_mission_5_2_tt_no:0 "£no£若我们的军事顾问等级达到§Y3§!，那么"
+EDG_HAB_mission_5_3_tt_yes:0 "£yes£若首都位于§Y法兰西§!的帝国诸侯数量达到§M10§!，那么"
+EDG_HAB_mission_5_3_tt_no:0 "£no£若首都位于§Y法兰西§!的帝国诸侯数量达到§M10§!，那么"
+EDG_HAB_mission_5_5_tt_yes:0 "£yes£若首都位于§Y法兰西§!的帝国诸侯数量达到§M20§!，那么"
+EDG_HAB_mission_5_5_tt_no:0 "£no£若首都位于§Y法兰西§!的帝国诸侯数量达到§M20§!，那么"
+EDG_HAB_mission_1_22_tt:0 "首都位于§M意大利§!的诸侯将更倾向于履行§Y帝国义务§!。"
+EDG_HAB_mission_1_25_modifier_tt:0 "我们治下的随机§M5§!个省份将获得如下修正："
+EDG_HAB_mission_1_29_modifier_tt:0 "我们治下的随机§M8§!个拥有§Y兵工厂§!的省份将获得如下修正："
+EDG_add_permanent_claim_west_slf_culture_tt:0 "获得所有§Y南斯拉夫§!文化组省份的宣称。"
+EDG_flavorHAB_mission_19_a_tt:0 "我们将解锁决议 §Y整合南斯拉夫王冠§!，该决议要求我们统一所有§Y南斯拉夫§!文化组省份。"
+EDG_HAB_mission_2_22_tt:0 "我们的每个拥有§Y贸易中心§!的省份将会给予我们该省份年生产收入的§M200%§!。"
+EDG_easily_midas_touched_personality_tt:0 "我们的君主将更容易获得§Y点石成金者§!特质，并降低获得§Y贪得无厌§!特质的可能性。"
+EDG_give_20_development_to_province_tooltip:0 "将§M20§!点§Y税收§!发展度随机分配到全国。"
+EDG_HAB_mission_3_8_tt_yes:0 "£yes£若§Y新教§!可用，那么"
+EDG_HAB_mission_3_8_tt_no:0 "£no£若§Y新教§!可用，那么"
+EDG_flavorHAB_22_a_tt:0 "我们将选择§G保留§!匈牙利贵族的特权，这将有利于我们在§Y匈牙利王国§!建立§G稳定§!的统治。"
+EDG_flavorHAB_22_b_tt:0 "我们将选择§M削弱§!匈牙利贵族的特权，这将有利于我们在§Y匈牙利王国§!建立§M强力§!的统治。"
+EDG_flavorHAB_mission_26_tt_1:0 "我们所拥有的所有位于§Y意大利§!地区的省份将会失去§M10§!点分离主义。"
+EDG_HAB_mission_3_25_flag_tt:0 "§Y哈布斯堡王朝能力§!中的§M文艺能力§!将会额外提供§G2§!点创新度。"
+
+EDG_more_patron_of_arts_personality_tt:0 "我们的君主将更容易获得§Y艺术赞助人§!特质。"
+
+EDG_flavorHAB_mission_17_a_tt:0 "§Y拉丁文化组§!的帝国诸侯将更容易接受皇帝委任的官僚"
+EDG_flavorHAB_mission_18_a_tt:0 "§Y拉丁文化组§!的帝国诸侯将更容易接受皇帝委任的官僚"
+EDG_flavorHAB_mission_17_opinion:0 "帝国权威的维持"
+EDG_HAB_mission_5_9_a_tt_yes:0 "£yes£若我们拥有政府改革§Y建立帝国枢密院§!，那么"
+EDG_HAB_mission_5_9_a_tt_no:0 "£no£若我们拥有政府改革§Y建立帝国枢密院§!，那么"
+
+EDG_HAB_mission_4_27_b_tt_yes:0 "£yes£若我们拥有政府改革§Y王朝行政中心§!，那么"
+EDG_HAB_mission_4_27_b_tt_no:0 "£no£若我们拥有政府改革§Y王朝行政中心§!，那么"
+EDG_HAB_General_Executive_Board_enable_tt:0 "解锁政府改革§Y总执行局§!。"
+EDG_HAB_mission_5_17_tt_yes:0 "£yes£若我们通过与保加利亚政权§Y交战§!完成任务，那么"
+EDG_HAB_mission_5_17_tt_no:0 "£no£若我们通过与保加利亚政权§Y交战§!完成任务，那么"
+EDG_flavorHAB_mission_30_b_tt:0 "[Root.Monarch.GetName]可能会出版自己个人的诗集……"
+EDG_HAB_mission_5_20_tt:0 "所有符合条件的国家将会收到来自我们的提议，让我们王朝的成员成为他们的§Y继承人§!。\n若他们的发展度高于§Y300§!，则很可能拒绝我们的提议。"
+EDG_HAB_mission_5_23_tt:0 "所有符合条件的国家将会收到来自我们的提议，要求他们成为我们的§Y被联统国§!。\n若他们的发展度高于§Y1000§!，则很可能拒绝我们的提议。"
+EDG_HAB_mission_5_20_tt_yes:0 "£yes£若§M德意志人在伊比利亚的影响力已经得到了扩大§!，那么他们将必然接受我们的提议。"
+EDG_HAB_mission_5_20_tt_no:0 "£no£若§M德意志人在伊比利亚的影响力已经得到了扩大§!，那么他们将必然接受我们的提议。"
+
+
+EDG_HAB_mission_5_8_a_tt_yes:0 "£yes£若我们拥有§M15§!个§Y波兰§!文化的省份，那么"
+EDG_HAB_mission_5_8_a_tt_no:0 "£no£若我们拥有§M15§!个§Y波兰§!文化的省份，那么"
+add_ruler_personality_EDG_the_August_tt:0 "该君主特质将给予我们如下效果：\n核心化花费: §G-10%§!\n月度军事点: §G+1§!"
+EDG_Depose_pope_decision_enable_tt:0 "我们将解锁决议 §Y废立教宗§!。当@PAP教宗国是我们的§Y属国§!且对我们保持§Y忠诚§!时，我们可以按照我们的意愿撤换教宗。"
+EDG_HAB_Monarchy_government_interactions_3_stronger_tt:0 "§Y哈布斯堡王朝能力§!中的§M领地能力§!通过属国获取的§G人力§!和§G金钱§!数额将会翻倍。"
+EDG_HAB_mission_4_18_tt:0 "§Y意大利§!诸国可能会向我们申请获取§M海峡通过权§!，我们可以选择是否允许他们通过§M马尔马拉海峡§!。"
+
+EDG_HAB_mission_4_16_a_tt_yes:0 "£yes£若我们在事件§Y统治匈牙利王国§!中选择了§M削弱§!匈牙利贵族的的特权，那么"
+EDG_HAB_mission_4_16_a_tt_no:0 "£no£若我们在事件§Y统治匈牙利王国§!中选择了§M削弱§!匈牙利贵族的的特权，那么"
+
+EDG_HAB_mission_4_16_b_tt_yes:0 "£yes£若我们在事件§Y统治匈牙利王国§!中选择了§M保留§!匈牙利贵族的的特权，那么"
+EDG_HAB_mission_4_16_b_tt_no:0 "£no£若我们在事件§Y统治匈牙利王国§!中选择了§M保留§!匈牙利贵族的的特权，那么"
+
+EDG_HAB_mission_5_11_artist_tt_yes:0 "£yes£若我们在完成任务树雇佣了§Y艺术家§!顾问，那么"
+EDG_HAB_mission_5_11_artist_tt_no:0 "£no£若我们在完成任务树雇佣了§Y艺术家§!顾问，那么"
+EDG_HAB_mission_5_11_historian_tt_yes:0 "£yes£若我们在完成任务树雇佣了§Y历史学家§!顾问，那么"
+EDG_HAB_mission_5_11_historian_tt_no:0 "£no£若我们在完成任务树雇佣了§Y历史学家§!顾问，那么"
+EDG_HAB_mission_5_11_theologian_tt_yes:0 "£yes£若我们在完成任务树雇佣了§Y神学家§!顾问，那么"
+EDG_HAB_mission_5_11_theologian_tt_no:0 "£no£若我们在完成任务树雇佣了§Y神学家§!顾问，那么"
+EDG_HAB_mission_5_11_theologian_opinion:0 "神学重心的家族史"
+EDG_Depose_pope_decision_opinion:0 "废黜教宗"
+EDG_flavorHAB_mission_11_a_tt:0 "§Y捷克贵族§!的特权将被§R削弱§!，这可能会引起他们的§R不满§!。"
+EDG_every_owned_polish_province_will_tt:0 "我们治下的所有§Y波兰§!文化的省份将会获得如下修正："
+EDG_every_owned_swet_slf_province_will_tt:0 "我们治下的所有§Y西斯拉夫§!文化组的省份将会获得如下修正："
+EDG_HAB_mission_3_16_province_modifier_tt:0 "若@HUN匈牙利是我们的属国，那么@HUN匈牙利境内的所有省份将会获得如下修正："
+EDG_HAB_mission_5_19_province_modifier_tt:0 "我们治下的所有位于§Y巴尔干§!的§Y天主教§!省份将会获得如下修正："
+EDG_flavorHAB_13_tt:0 "我们将可以将§Y联统国§!转变为§Y哈布斯堡联统国§!。\n§Y哈布斯堡联统国§!不会自动跟随它们的宗主国加入战争，可以通过人情召唤加入战争，但拥有自主媾和的权力。不同于普通联统国，哈布斯堡联统国会为宗主国提供大量的贡赋和军队上限，并且不占用外交关系，且拥有更低的独立倾向。\n但一旦我们拥有的§Y哈布斯堡联统国§!数量超过了上限，我们的帝国将会面临分裂的危险。我们可以通过实行§M政府改革§!或完成§M任务树§!以增加§Y哈布斯堡联统国上限§!。"
+EDG_HAB_union_Increase_upper_limit:0 "哈布斯堡联统国上限"
+EDG_HAB_union_Increase_upper_limit_effect_tt:0 "我们的§Y哈布斯堡联统国上限§!将得到增加，允许我们维护更多的§Y哈布斯堡联统国§!。"
+
+EDG_HAB_mission_5_8_b_tt_yes:0 "£yes£若有§M15§!个§Y波兰§!文化的省份属于§Y神圣罗马帝国§!，但不属于我们或我们的非朝贡属国，那么"
+EDG_HAB_mission_5_8_b_tt_no:0 "£no£若有§M15§!个§Y波兰§!文化的省份属于§Y神圣罗马帝国§!，但不属于我们或我们的非朝贡属国，那么"
+EDG_HAB_mission_5_24_1_tt:0 "我们的所有首都位于§Y伊比利亚§!地区的属国，将会失去§M15§!点独立倾向，并加入神圣罗马帝国。"
+italian_wars_global_flag:0 "意大利战争"
+
+EDG_HAB_Freisetzung_Bavaria_decision_enable_tt:0 "@HAB 解锁决议 §Y释放巴伐利亚公国§!"
+EDG_HAB_Freisetzung_West_Slavic_decision_enable_tt:0 "@HAB 解锁决议 §Y释放西斯拉夫帝国§!"
+EDG_HAB_Freisetzung_Yugoslavia_decision_unlock_tt:0 "@HAB 解锁决议 §Y释放南斯拉夫帝国§!"
+EDG_HAB_union_Increase_upper_limit_trigger_debuff:0 "哈布斯堡君主国数量超过上限"
+had_EDG_FKN_disasters_1_global_flag:0 "法兰克尼亚继承危机已经发生"
+EDG_flavorHAB_21_flag:0 "「迎回犹太人」事件已发生"
+EDG_HAB_mission_4_22_tt_yes:0 "£yes£若§Y罗马§!属于我们或我们的非朝贡属国，那么"
+EDG_HAB_mission_4_22_tt_no:0 "£no£若§Y罗马§!属于我们或我们的非朝贡属国，那么"
+EDG_flavorHAB_mission_20_a_tt:0 "§Y德意志§!地区将解锁更多§M雇佣兵§!。"
+EDG_HRE_decision_emperor_Eliminate_catharism_success_flag:0 "成功消灭清洁派"
+EDG_HRE_decision_emperor_Eliminate_Hussites_success_flag:0 "成功终止胡斯战争"
+
+EDG_HAB_Catholic_power_change_global_flag_tt:0 "由于§Y公教会权威§!的加强，所有§Y天主教§!国家将会获得如下修正："
+
+EDG_HAB_Catholic_power_1_global_flag:0 "公教会的权威达到「I」"
+EDG_HAB_Catholic_power_2_global_flag:0 "公教会的权威达到「II」"
+EDG_HAB_Catholic_power_3_global_flag:0 "公教会的权威达到「III」"
+EDG_HAB_Catholic_power_1_global_modifier:0 "公教会的权威「I」"
+EDG_HAB_Catholic_power_2_global_modifier:0 "公教会的权威「II」"
+EDG_HAB_Catholic_power_3_global_modifier:0 "公教会的权威「III」"
+EDG_HAB_Catholic_power_1_global_trigger_modifier:0 "公教会的权威「I」"
+EDG_HAB_Catholic_power_2_global_trigger_modifier:0 "公教会的权威「II」"
+EDG_HAB_Catholic_power_3_global_trigger_modifier:0 "公教会的权威「III」"
+
+EDG_War_of_Austrian_Succession_event_2_tt:0 "我们通过§Y强硬§!手段实现了对@HAB 奥地利的控制。"
+EDG_Obtain_support_from_Hungarian_nobles_decision_HAB_enable_flag_tt:0 "@HAB 解锁决议 §Y获取匈牙利贵族的支持§!"
+EDG_HAB_mission_2_12_tt:0 "若「§Y奥地利王位继承战争§！」尚未发生，那么该灾难将不会爆发。"
+
+EDG_HAB_mission_3_21_mlo_sub_tt_yes:0 "£yes£若§Y[MLO.GetName]§!是我们的属国，那么"
+EDG_HAB_mission_3_21_mlo_sub_tt_no:0 "£no£若§Y[MLO.GetName]§!是我们的属国，那么"
+
+EDG_flavorHAB_30_tt:0 "所有信奉§Y清洁派§!的§Y帝国诸侯§!将会皈依§Y天主教§!。"
+first_hussite_king_global_flag:0 "胡斯派归来已发生"
+
+
+#穆瓦希德
+EDG_turn_tuareg_into_berber_continuously_flag_tt:0 "我们会持续地将§Y图阿雷格§!文化省份的文化转变为§Y柏柏尔§!。"
+EDG_flavorMRK_1_flag:0 "扎纳塔带来的创伤"
+EDG_flavorMRK_1_a_tt:0 "我们可以通过完成任务来消除§Y扎纳塔带来的创伤§!修正。"
+EDG_MRK_mission_2_1_tt:0 "若我们有国家修正§Y扎纳塔带来的创伤§!，那么"
+EDG_MRK_mission_2_3_a_tt_yes:0 "£yes£若@TLC特莱姆森不存在且我们或我们的非独立属国拥有省份§Y特莱姆森§!，那么"
+EDG_MRK_mission_2_3_a_tt_no:0 "£no£若@TLC特莱姆森不存在且我们或我们的非独立属国拥有省份§Y特莱姆森§!，那么"
+EDG_MRK_mission_2_3_b_tt_yes:0 "£yes£若我们通过外交手段完成任务，@TLC特莱姆森将可能选择成为我们的附庸国。"
+EDG_MRK_mission_2_3_b_tt_no:0 "£no£若我们通过外交手段完成任务，@TLC特莱姆森将可能选择成为我们的附庸国。"
+po_EDG_massacre_opinion:0 "对我们开展屠城"
+po_EDG_massacre_Catholic_opinion:0 "屠杀天主教徒"
+EDG_MRK_mission_1_3_tt:0 "我们治下的所有§Y天主教§!省份将会获得如下修正："
+EDG_MRK_mission_1_2_tt:0 "我们治下的所有§Y什叶派§!省份将会获得如下修正："
+EDG_MRK_mission_4_7_tt:0 "当§Y伊比利亚纷争§!等级达到§M冲突§!或§M焦灼§!时，我们也能够启用宣战理由§Y伊比利亚纷争§!。"
+
+EDG_Mahdi_Salvation_allow_christian_flag_tt:0 "我们将启用针对§M相邻的基督教国家§!的§Y马赫迪救世§!战争理由。"
+EDG_Mahdi_Salvation_allow_muslim_flag_tt:0 "我们将启用针对§M相邻的伊斯兰教国家§!的§Y马赫迪救世§!战争理由。"
+EDG_Mahdi_Salvation_allow_ALL_flag_tt:0 "我们将启用针对§M相邻的异端异教国家§!的§Y马赫迪救世§!战争理由。"
+EDG_Mahdi_Salvation_allow_egypt_flag_tt:0 "我们将启用针对§M埃及§!国家的§Y马赫迪救世§!战争理由。"
+EDG_Mahdi_Salvation_allow_arabia_and_mashriq_flag_tt:0 "我们将启用针对§M马什里克§!和§M阿拉伯§!国家的§Y马赫迪救世§!战争理由。"
+
+
+EDG_MRK_mission_2_10_a_tt_yes:0 "£yes£若我们与君士坦丁堡的主人§M交好§!，且对方的主流文化是§Y保加利亚§!，那么"
+EDG_MRK_mission_2_10_a_tt_no:0 "£no£若我们与君士坦丁堡的主人§M交好§!，且对方的主流文化是§Y保加利亚§!，那么"
+
+EDG_MRK_mission_2_10_b_tt_yes:0 "£yes£若我们与君士坦丁堡的主人§M交好§!，且对方的主流文化是§Y突厥§!，那么"
+EDG_MRK_mission_2_10_b_tt_no:0 "£no£若我们与君士坦丁堡的主人§M交好§!，且对方的主流文化是§Y突厥§!，那么"
+
+EDG_MRK_mission_2_10_c_tt_yes:0 "£yes£若我们与君士坦丁堡的主人§M交好§!，且对方的主流文化是§Y希腊§!，那么"
+EDG_MRK_mission_2_10_c_tt_no:0 "£no£若我们与君士坦丁堡的主人§M交好§!，且对方的主流文化是§Y希腊§!，那么"
+
+EDG_MRK_mission_2_10_d_tt_yes:0 "£yes£若我们与君士坦丁堡的主人§M交好§!，且对方的主流文化是§Y其他§!文化，那么"
+EDG_MRK_mission_2_10_d_tt_no:0 "£no£若我们与君士坦丁堡的主人§M交好§!，且对方的主流文化是§Y其他§!文化，那么"
+
+EDG_MRK_mission_2_10_e_tt_yes:0 "£yes£若我们与君士坦丁堡的主人§R交恶§!，那么"
+EDG_MRK_mission_2_10_e_tt_no:0 "£no£若我们与君士坦丁堡的主人§R交恶§!，那么"
+
+EDG_MRK_mission_1_6_flag_tt:0 "§Y穆瓦希德权威§!将额外提供§M正统信仰省份提供的人力§!，最高可提供§M30%§!的国教省份人力。"
+EDG_MRK_mission_2_5_flag_tt:0 "§Y穆瓦希德权威§!将额外提供§M对其他宗教的战争分数花费§!，最高可提供§M30%§!的战争分数花费减免。"
+EDG_MRK_mission_2_13_flag_tt:0 "§Y穆瓦希德权威§!将额外提供§M焚烧获得点数§!，最高可提供§M30%§!的焚烧获得点数。"
+EDG_MRK_mission_5_14_flag_tt:0 "§Y穆瓦希德权威§!将额外提供§M人力恢复速度§!，最高可提供§M30%§!的人力恢复速度。"
+EDG_MRK_mission_1_8_flag_tt:0 "§Y穆瓦希德权威§!将额外提供§M陆军规模上限§!，最高可提供§M30%§!的陆军规模上限。"
+EDG_MRK_mission_1_13_flag_tt:0 "§Y穆瓦希德权威§!将额外提供§M国教省份思潮传播§!，最高可提供§M60%§!的国教省份思潮传播。"
+EDG_MRK_mission_1_14_flag_tt:0 "§Y穆瓦希德权威§!将额外提供§M科技花费减免§!，最高可提供§M10%§!的科技花费减免。"
+EDG_MRK_mission_2_18_flag_tt:0 "§Y穆瓦希德权威§!将额外提供§M私掠效率§!，最高可提供§M90%§!的私掠效率。"
+EDG_MRK_mission_3_6_flag_tt:0 "§Y穆瓦希德权威§!将额外提供§M过度扩张影响减免§!，最高可提供§M75%§!的过度扩张影响减免。"
+
+
+EDG_MRK_mission_1_15_flag_tt:0 "被我们焚掠的§Y异端异教§!省份将获得如下修正："
+EDG_holy_raze_change_religion_rank_1_flag_tt:0 "在经历焚掠后，发展度低于§M6§!的§Y异端异教§!省份将会被转化为我们的§Y国教§!。"
+EDG_holy_raze_change_religion_rank_2_flag_tt:0 "在经历焚掠后，发展度低于§M10§!的§Y异端异教§!省份将会被转化为我们的§Y国教§!。"
+EDG_holy_raze_change_religion_all_flag_tt:0 "§Y异端异教§!省份在经历焚掠后，将会被转化为我们的§Y国教§!。"
+EDG_MRK_mission_2_16_flag_tt:0 "在和平条约中要求§Y马赫迪救世§!后，我们所割占的所有§Y穆瓦希德派§!省份将会自动获得§M自治领地核心§!，但依然会产生分离主义。"
+allow_cb_EDG_WG_superiority_Mahdi_invasion_not_neighbor_flag_tt:0 "允许我们对不接壤的国家使用§Y马赫迪救世§!"
+
+EDG_MRK_Mahdi_value:0 "§Y马赫迪倾向§!"
+EDG_MRK_success_Mahdi_invasion_value:0 "成功的§Y马赫迪救世§!次数"
+EDG_flavorMRK_mission_4_a_tt:0 "这会是一条交织着§Y前程§!与§R鲜血§!的道路。"
+EDG_flavorMRK_mission_4_b_tt:0 "我们可能将永久地失去创立§Y穆瓦希德派§!的机会。"
+EDG_flavorMRK_7_a_tt:0 "当我们在伊比利亚地区拥有§M10§!个省份后，我们将重新获得对§Y伊比利亚§!的宣称。"
+
+EDG_MRK_mission_4_1_a_tt_yes:0 "£yes£若我们在事件§Y马赫迪之梦§!中选择了§M马赫迪§!路线，那么"
+EDG_MRK_mission_4_1_a_tt_no:0 "£no£若我们在事件§Y马赫迪之梦§!中选择了§M马赫迪§!路线，那么"
+
+EDG_MRK_mission_4_1_b_tt_yes:0 "£yes£若我们在事件§Y马赫迪之梦§!中选择了§M哈里发§!路线，那么"
+EDG_MRK_mission_4_1_b_tt_no:0 "£no£若我们在事件§Y马赫迪之梦§!中选择了§M哈里发§!路线，那么"
+
+EDG_MRK_mission_5_11_a_tt_yes:0 "£yes£若我们在完成任务时与任意埃及国家§Y处于战争§!，那么"
+EDG_MRK_mission_5_11_a_tt_no:0 "£no£若我们在完成任务时与任意埃及国家§Y处于战争§!，那么"
+
+EDG_MRK_move_capital_ruler_flag_tt:0 "我们将允许每任§Y统治者§!在自己的执政期间改变一次§Y首都§!的位置。"
+EDG_MRK_sunni_provide_power_flag_tt:0 "在战争条约中成功要求§Y马赫迪救世§!，对方的每个§Y逊尼派§!省份都将给予我们§M0.05§!点§Y穆瓦希德权威§!。"
+EDG_MRK_shiite_provide_power_flag_tt:0 "在战争条约中成功要求§Y马赫迪救世§!，对方的每个§Y什叶派§!省份都将给予我们§M0.05§!点§Y穆瓦希德权威§!。"
+EDG_MRK_christian_provide_power_flag_tt:0 "在战争条约中成功要求§Y马赫迪救世§!，对方的每个§Y基督教§!省份都将给予我们§M0.05§!点§Y穆瓦希德权威§!。"
+
+EDG_recruitmaster_provide_army_tradition_flag_tt:0 "军事顾问§Y征兵官§!将为我们提供§M年度陆军传统§!，一级§Y征兵官§!提供§M0.25§!点年度陆军传统，每提升一级额外提供§M0.25§!点年度陆军传统。"
+
+EDG_MRK_mission_1_11_a_tt_yes:0 "£yes£若我们与@FRA法兰西达成§Y同盟§!，那么"
+EDG_MRK_mission_1_11_a_tt_no:0 "£no£若我们与@FRA法兰西达成§Y同盟§!，那么"
+EDG_MRK_mission_1_11_b_tt_yes:0 "£yes£若我们与@AEL阿尔勒达成§Y同盟§!，那么"
+EDG_MRK_mission_1_11_b_tt_no:0 "£no£若我们与@AEL阿尔勒达成§Y同盟§!，那么"
+EDG_MRK_mission_1_11_c_tt_yes:0 "£yes£若我们与§Y皇帝§!达成§Y同盟§!，那么"
+EDG_MRK_mission_1_11_c_tt_no:0 "£no£若我们与§Y皇帝§!达成§Y同盟§!，那么"
+
+EDG_flavorMRK_mission_4_a_tt_change_religion:0 "我们和所有和§Y同宗教属国§!的§Y国教省份§!将会一并改信。"
+
+
+EDG_flavorMRK_mission_3_b_flag_tt_:0 "我们治下的位于§Y马格里布§!的省份将会逐步转化为§M柏柏尔§!文化。\n\n这可能会引起马格里布非游牧民族的§R反抗§!。"
+EDG_flavorMRK_mission_3_a_flag_tt_:0 "我们将错过一部分游戏内容。"
+EDG_flavorMRK_mission_7_b_tt:0 "我们将停止同化马格里布文化组的省份。"
+
+EDG_on_province_religion_converted_provide_power_MRK_flag_tt:0 "每当我们通过§Y传教§!改变一个省份的信仰，我们会获得§M0.02§!点§Y穆瓦希德权威§!。"
+
+EDG_MRK_mission_3_11_tt:0 "所有属于我们或我们的非独立属国的位于§Y伊比利亚§!的省份，将会转变为§Y安达卢西亚§!文化。"
+EDG_flavorMRK_6_global_flag:0 "南逃的摩尔人"
+has_EDG_MRK_civil_war_2_event_success_flag:0 "七马赫迪之战的胜利者"
+
+#鲁塞尼亚
+EDG_UKR_mission_5_7_tt_yes:0 "£yes£如果我们完成任务时，整个§Y波罗的海§!海岸线为§Y[Root.GetAdjective]§!或其§Y属国§!所拥有，那么"
+EDG_UKR_mission_5_7_tt_no:0 "£no£如果我们完成任务时，整个§Y波罗的海§!海岸线为§Y[Root.GetAdjective]§!或其§Y属国§!所拥有，那么"
+
+EDG_UKR_mission_5_8_tt_yes:0 "£yes£若我们拥有§M10§!个§Y瑞典§!文化的省份，那么"
+EDG_UKR_mission_5_8_tt_no:0 "£no£若我们拥有§M10§!个§Y瑞典§!文化的省份，那么"
+
+EDG_UKR_mission_1_4_a_tt_yes:0 "£yes£若我们与省份§M莫斯科§!的持有者是盟友，那么"
+EDG_UKR_mission_1_4_a_tt_no:0 "£no£若我们与省份§M莫斯科§!的持有者是盟友，那么"
+EDG_UKR_mission_1_4_b_tt_yes:0 "£yes£若我们与省份§M莫斯科§!的持有者是宿敌或处于战争，那么"
+EDG_UKR_mission_1_4_b_tt_no:0 "£no£若我们与省份§M莫斯科§!的持有者是是宿敌或处于战争，那么"
+
+EDG_UKR_mission_1_4_c_tt_yes:0 "£yes£若我们与省份§M莫斯科§!持有者的宗主是盟友，那么"
+EDG_UKR_mission_1_4_c_tt_no:0 "£no£若我们与省份§M莫斯科§!持有者的宗主是盟友，那么"
+EDG_UKR_mission_1_4_d_tt_yes:0 "£yes£若我们与省份§M莫斯科§!持有者的宗主是宿敌或处于战争，那么"
+EDG_UKR_mission_1_4_d_tt_no:0 "£no£若我们与省份§M莫斯科§!持有者的宗主是是宿敌或处于战争，那么"
+
+EDG_UKR_form_enable_flag_tt:0 "我们将可以无视§Y行政科技§!成立@UKR §Y鲁塞尼亚§!"
+EDG_UKR_mission_4_1_claim_tt:0 "我们将会获得同我们§Y交战§!的敌人的所有省份的宣称。"
+EDG_UKR_compete_flag:0 "基辅罗斯内战"
+EDG_the_end_of_theShooting_Rebellion_flag:0 "射击军之乱已结束"
+
+#保加利亚
+opinion_EDG_MISSION_BUL_2_2:0 "忠诚的盟友"
+opinion_EDG_angry:0 "愤怒"
+EDG_BUL_nationalism_value:0 "§Y民族主义倾向§!"
+EDG_BUL_centralization_value:0 "§M集权主义倾向§!"
+
+EDG_MISSION_BUL_1_1_a_tt:0 "每个§Y南斯拉夫§!文化组的§M盟友§!将会为我们提供§M50§!点行政点£adm£"
+EDG_MISSION_BUL_1_1_b_tt:0 "每个§Y天主教§!的§M盟友§!将会为我们提供§M50§!点外交点£dip£"
+EDG_MISSION_BUL_1_1_c_tt:0 "每个§Y异教徒§!的§M盟友§!将会为我们提供§M50§!点军事点£mil£"
+
+EDG_MISSION_BUL_1_3_a_tt_yes:0 "£yes£如果我们通过§M外交§!手段完成任务，那么"
+EDG_MISSION_BUL_1_3_a_tt_no:0 "£no£如果我们通过§M外交§!手段完成任务，那么"
+EDG_MISSION_BUL_1_3_b_tt_yes:0 "£yes£如果我们通过§M军事§!手段完成任务，那么"
+EDG_MISSION_BUL_1_3_b_tt_no:0 "£no£如果我们通过§M军事§!手段完成任务，那么"
+
+EDG_MISSION_BUL_1_5_trade_modifier:0 "驱逐威尼斯人"
+EDG_BUL_Venice_trade_Act_enable_tt:0 "解锁政策 §Y意大利禁运法案§!"
+EDG_BUL_Reject_mixed_Act_enable_tt:0 "解锁政策 §Y拒绝混合主义法案§!"
+EDG_BUL_Normalization_queue_Act_enable_tt:0 "解锁政策 §Y队列训练常态化法案§!"
+EDG_BUL_make_constantinople_capital_enable_flag_tt:0 "解锁决议 §Y迁都沙皇格勒§!"
+EDG_BUL_decision_declare_war_to_MHM_enable_flag_tt:0 "解锁决议 §Y驱逐鲁米利亚§! 该决议当且仅当我们作为@BUL 保加利亚时有效。"
+
+EDG_MISSION_BUL_3_5_tt:0 "我们治下的所有§Y波斯尼亚§!文化的非国教省份，将会失去修正§M宗教狂热§!。"
+
+EDG_MISSION_BUL_4_2_tt:0 "若我们所拥有的所有省份都被我们自己控制，那么所有被我们§M占领§!的我们的§Y核心省份§!将会被我们割占。"
+EDG_MISSION_BUL_4_2_decision_enable_flag_tt:0 "解锁决议 §Y索要托尔朱§!"
+
+EDG_every_bulgarian_province_give_the_modifier_tt:0 "我们治下的所有§Y保加利亚§!文化省份将会获得如下修正："
+EDG_every_croatian_province_give_the_modifier_tt:0 "我们和我们属国治下的所有§Y克罗地亚§!文化省份将会获得如下修正："
+
+EDG_MISSION_BUL_4_6_every_catholic_country_provide_50_mil_tt:0 "我们每有一个§Y天主教§!的邻国，便能获得§M50§!点§Y军事点§!£mil£"
+EDG_war_with_emperor_provide_Military_Service_government_power_flag_tt:0 "当我们与§Y神圣罗马帝国皇帝§!交战时，将能够每月获得§M0.05§!点§Y国家军役化点数§!。"
+EDG_claim_slovene_province_tt:0 "我们将获得所有§Y斯洛文尼亚§!文化省份的§Y核心§!。"
+
+edg_tsar_former_military_advisor_personality_enable_flag_tt:0 "允许我们的将领获得特质§Y沙皇御前军事顾问§!，该特质提供如下修正：\n己方领土骰子增加: §G+1§!"
+edg_bulgarian_csavalry_master_personality_enable_flag_tt:0 "允许我们的将领获得特质§Y保加利亚轻骑兵大师§!，该特质提供如下修正：\n骑兵侧翼攻击能力: §G+25%§!\n骑兵作战能力: §G+15%§!"
+edg_bulgarian_maste_of_firepower_advantage_personality_enable_flag_tt:0 "允许我们的将领获得特质§Y火力优势大师§!，该特质提供如下修正：\n火力伤害: §G+20%§!"
+edg_bulgarian_avanced_tactical_master_personality_enable_flag_tt:0 "允许我们的将领获得特质§Y先进战术大师§!，该特质提供如下修正：\n士气打击: §G+25%§!"
+
+edg_tsar_former_military_advisor_personality:0 "沙皇御前军事顾问"
+edg_bulgarian_csavalry_master_personality:0 "保加尔轻骑兵大师"
+edg_bulgarian_maste_of_firepower_advantage_personality:0 "火力优势大师"
+edg_bulgarian_avanced_tactical_master_personality:0 "先进战术大师"
+
+EDG_MISSION_BUL_3_3_a_decision_enable_flag_tt:0 "解锁决议 §Y解放塞萨洛尼基王国§!"
+EDG_MISSION_BUL_3_3_b_decision_enable_flag_tt:0 "解锁决议 §Y解放尼西亚王国§!"
+EDG_BUL_decision_form_BU1_enable_flag_tt:0 "解锁决议 §Y成立大保加利亚§!"
+EDG_BUL_decision_form_BU1_tt:0 "我们将需要选择自己的§Y国家路线§!，是作为§Y罗马继承者§!光复帝国，还是建立§Y大斯拉夫国§!统一斯拉夫各部。"
+
+EDG_flavor_BUL_1_flag:0 "保加利亚独立战争"
+
+EDG_BUL_empire_roma_flag_tt:0 "我们将会启用§Y罗马继承者§!路线的§M国家任务树§!和§M国家理念§!。\n我们将可以宣称§M罗马帝国§!的历史版图，开展§Y帝国再征服§!并§!重建五大牧首区§!。\n\n§Y作者推荐路线§!"
+EDG_BUL_empire_slavic_flag_tt:0 "我们将会启用§Y大斯拉夫国§!路线的§M国家任务树§!和§M国家理念§!。\n我们将可以获得包括§M斯拉夫各部§!的宣称，并开展§Y斯拉夫入侵§!。"
+EDG_BUL_empire_decline_end_flag:0 "§Y灰军掌权§!灾难已经结束"
+EDG_BUL_empire_roma_flag:0 "罗马继任者"
+EDG_BUL_empire_slavic_flag:0 "大斯拉夫国"
+
+EDG_MISSION_BUL_roma_5_9_flag_tt:0 "我们的军事顾问§Y禁卫军长官§!的每个等级将会给予我们§G+0.02%§!的§M国家军役化点数§!。"
+
+EDG_MISSION_BUL_roma_1_6_a_tt_yes:0 "£yes£若@HUN 匈牙利存在且是独立的，那么"
+EDG_MISSION_BUL_roma_1_6_a_tt_no:0 "£no£若@HUN 匈牙利存在且是独立的，那么"
+EDG_MISSION_BUL_roma_1_6_b_tt_yes:0 "£yes£若@HUN 匈牙利不存在或是非独立的，那么"
+EDG_MISSION_BUL_roma_1_6_b_tt_no:0 "£no£若@HUN 匈牙利不存在或是非独立的，那么"
+EDG_MISSION_BUL_roma_1_6_b_flag_tt:0 "在我们在战争中控制或拥有所有§Y匈牙利§!文化的省份，我们将会通过一个事件割占所有§Y匈牙利§!文化的省份。"
+
+EDG_MISSION_BUL_roma_1_7_a_tt:0 "所有我们治下的位于§Y喀尔巴阡§!地区的§G山脉§!省份将会获得如下修正："
+EDG_MISSION_BUL_roma_1_8_tt:0 "所有我们治下的位于§Y喀尔巴阡§!地区或§Y斯洛文尼亚§!区域的省份将会获得如下修正："
+
+EDG_BUL_form_carpathia_province_decision_enable_flag_tt:0 "@BU1 解锁决议 §Y建立卡帕提亚总督区§!"
+EDG_MISSION_BUL_roma_1_9_a_tt_yes:0 "£yes£如果我们选择了§Y罗马继承者§!路线，那么"
+EDG_MISSION_BUL_roma_1_9_a_tt_no:0 "£no£如果我们选择了§Y罗马继承者§!路线，那么"
+EDG_MISSION_BUL_roma_1_9_b_tt_yes:0 "£yes£如果我们选择了§Y大斯拉夫国§!路线，那么"
+EDG_MISSION_BUL_roma_1_9_b_tt_no:0 "£no£如果我们选择了§Y大斯拉夫国§!路线，那么"
+EDG_BUL_form_UKR_and_POL_province_decision_enable_flag_tt:0 "@BU1 解锁决议 §Y建立鲁塞尼亚总督区§!\n@BU1 解锁决议 §Y建立波兰总督区§!"
+
+EDG_MISSION_BUL_roma_1_9_province_tt:0 "我们治下的所有位于§Y东欧§!的，拥有§Y兵营§!或§Y军营§!的省份将获得如下修正："
+EDG_MISSION_BUL_roma_2_8_trade_tt:0 "我们治下的所有位于§Y君士坦丁堡§!贸易区的，拥有§Y贸易中心§!的省份将获得如下修正："
+EDG_MISSION_BUL_2_8_trade_modifier:0 "眺望黑海"
+
+EDG_every_south_slavic_province_get_the_modifier_tt:0 "我们治下的所有§Y南斯拉夫§!文化组省份将会获得如下修正："
+EDG_MISSION_BUL_roma_4_7_a_tt_yes:0 "£yes£若我们已经采纳了政府改革§Y建立巴昂辖区§!，那么"
+EDG_MISSION_BUL_roma_4_7_a_tt_no:0 "£no£若我们已经采纳了政府改革§Y建立巴昂辖区§!，那么"
+EDG_MISSION_BUL_roma_4_7_b_tt:0 "我们治下的所有§Y希腊§!文化省份将会获得如下修正："
+EDG_MISSION_BUL_roma_4_7_b_tt_yes:0 "£yes£若我们已经接纳了§Y希腊§!文化，那么"
+EDG_MISSION_BUL_roma_4_7_b_tt_no:0 "£no£若我们已经接纳了§Y希腊§!文化，那么"
+
+EDG_MISSION_BUL_roma_5_6_trade_tt:0 "我们治下的所有位于§Y阿勒颇§!贸易节点的拥有§Y贸易中心§!的省份将获得如下修正："
+EDG_MISSION_BUL_5_6_trade_modifier:0 "东地中海贸易垄断"
+EDG_MISSION_BUL_roma_5_6_trade_tt_yes:0 "£yes£若我们在§Y阿勒颇§!节点是§M最强竞争力§!且拥有§M45%§!的贸易力量，那么"
+EDG_MISSION_BUL_roma_5_6_trade_tt_no:0 "£no£若我们在§Y阿勒颇§!节点是§M最强竞争力§!且拥有§M45%§!的贸易力量，那么"
+
+EDG_Russian_idea_enable_flag_tt:0 "我们将解锁理念组 §Y罗斯理念§!£idea£。"
+
+EDG_MISSION_BUL_slav_1_11_claim_tt:0 "获得所有§Y西斯拉夫§!省份的宣称。"
+EDG_MISSION_BUL_great_invasion_all_enable_flag_tt:0 "我们将启用对§Y所有国家§!的§Y大入侵§!战争理由。"
+EDG_MISSION_BUL_Slavic_invasion_west_enable_flag_tt:0 "我们将启用对§Y西欧§!国家的§Y斯拉夫入侵§!战争理由。"
+EDG_MISSION_BUL_Slavic_invasion_Muslim_enable_flag_tt:0 "我们将启用对§Y伊斯兰教§!国家的§Y斯拉夫入侵§!战争理由。"
+
+EDG_MISSION_BUL_roma_2_10_a_tt_yes:0 "£yes£若我们在§Y巴士拉§!节点是最强贸易竞争力或解锁了§Y贸易理念组§!，那么"
+EDG_MISSION_BUL_roma_2_10_a_tt_no:0 "£no£若我们在§Y巴士拉§!节点是最强贸易竞争力或解锁了§Y贸易理念组§!，那么"
+EDG_MISSION_BUL_roma_2_10_b_tt_yes:0 "£yes£若我们所拥有的省份中，§Y码头§!或§Y造船厂§!的数量达到§M10§!，那么，"
+EDG_MISSION_BUL_roma_2_10_b_tt_no:0 "£no£若我们所拥有的省份中，§Y码头§!或§Y造船厂§!的数量达到§M10§!，那么，"
+
+EDG_MISSION_religion_is_orthodox_tt_yes:0 "£yes£若我们的国教是§Y东正教§!，那么"
+EDG_MISSION_religion_is_orthodox_tt_non:0 "£no£若我们的国教是§Y东正教§!，那么"
+EDG_MISSION_religion_is_catholic_tt_yes:0 "£yes£若我们的国教是§Y天主教§!，那么"
+EDG_MISSION_religion_is_catholic_tt_no:0 "£no£若我们的国教是§Y天主教§!，那么"
+EDG_MISSION_religion_is_other_tt_yes:0 "£yes£若我们的国教是§Y其他§!宗教，那么"
+EDG_MISSION_religion_is_other_tt_no:0 "£no£若我们的国教是§Y其他§!宗教，那么"
+
+EDG_MISSION_BUL_roma_5_11_a_tt_yes:0 "£yes£若我们的海军规模达到§M50§!，那么"
+EDG_MISSION_BUL_roma_5_11_a_tt_no:0 "£no£若我们的海军规模达到§M50§!，那么"
+
+EDG_MISSION_BUL_roma_5_17_modifier_tt:0 "最大值的§Y公民军役化§!将额外提供如下修正：\n陆军维护费:§G-25%§!\n陆军传统衰减:§G-2.5%§!"
+EDG_MISSION_BUL_roma_4_18_modifier_tt:0 "最大值的§Y公民军役化§!将额外提供如下修正：\n海军士气:§G+25%§!\n海军传统衰减:§G-2.5%§!"
+
+EDG_MISSION_BUL_roma_5_14_modifier_tt:0 "最大值的§Y神职军役化§!将额外提供如下修正：\n正统容忍:§G+3§!\n传教士:§G+2§!"
+
+EDG_MISSION_BUL_roma_1_17_modifier_tt:0 "最大值的§Y勋贵军役化§!将额外提供如下修正：\n陆军将领招募花费:§G-25%§!\n陆战获得的陆军传统:§G+50%§!"
+EDG_MISSION_BUL_roma_1_18_modifier_tt:0 "最大值的§Y勋贵军役化§!将额外提供如下修正：\n围城能力:§G+25%§!\n围城部队对守军造成的伤害:§G+25%§!"
+
+EDG_flavor_BUL_Mission_7_a_flag_tt:0 "我们将可以选择花费§Y30§!年左右的时间，尝试建立§Y总参谋部§!，期间将花费我们大量的£mil£军事点数。\n若我们成功建立§Y总参谋部§!，我们将能够获得如下修正："
+EDG_BUL_mil_staff_value:0 "§Y总参谋部进度§!"
+EDG_flavor_BUL_Mission_8_b_tt:0 "我们将放弃尝试建立§Y总参谋部§!，这将让我们前功尽弃。"
+
+EDG_MISSION_BUL_all_primary_culture_province_get_the_modifier_tt:0 "我们治下的所有§Y主流文化§!省份将会获得如下修正："
+EDG_Militaristic_fervor_interactions_professionalism_flag_tt:0 "§Y军国主义狂热§!政府能力的互动选项§Y刺激国民参军§!将会提供更多的£manpower£§M人力§!、§M陆军传统§!和§M陆军职业度§!。"
+
+EDG_BUL_RMN_province_name:0 "卡帕提亚"
+EDG_BUL_RMN_province_name_ADJ:0 "卡帕提亚"
+
+EDG_BUL_PER_province_name:0 "波斯总督区"
+EDG_BUL_ITY_province_name:0 "意大利亚总督区"
+EDG_BUL_maghreb_province_name:0 "阿非利加总督区"
+EDG_BUL_iberia_province_name:0 "希斯帕尼亚总督区"
+EDG_BUL_france_province_name:0 "高卢总督区"
+EDG_BUL_british_province_name:0 "不列颠尼亚总督区"
+EDG_BUL_egypt_province_name:0 "阿伊普多斯总督区"
+EDG_BUL_poland_province_name:0 "波兰总督区"
+EDG_BUL_ruthenia_province_name:0 "鲁塞尼亚总督区"
+
+EDG_BUL_PER_province_name_ADJ:0 "波斯总督区"
+EDG_BUL_ITY_province_name_ADJ:0 "意大利亚总督区"
+EDG_BUL_maghreb_province_name_ADJ:0 "阿非利加总督区"
+EDG_BUL_iberia_province_name_ADJ:0 "希斯帕尼亚总督区"
+EDG_BUL_france_province_name_ADJ:0 "高卢总督区"
+EDG_BUL_british_province_name_ADJ:0 "不列颠尼亚总督区"
+EDG_BUL_egypt_province_name_ADJ:0 "阿伊普多斯总督区"
+EDG_BUL_poland_province_name_ADJ:0 "波兰总督区"
+EDG_BUL_ruthenia_province_name_ADJ:0 "鲁塞尼亚总督区"
+
+EDG_BUL_Venice_trade_Act_enable_flag:0 "意大利禁运法案"
+EDG_BUL_Reject_mixed_Act_enable_flag:0 "拒绝混合主义法案"
+EDG_BUL_Normalization_queue_Act_enable_flag:0 "队列训练常态化法案"
+
+
+
+#特维尔
+EDG_ERS_3_1_a_tt_yes:0 "£yes£如果@SMO §Y斯摩棱斯克§!或@ROS §Y罗西亚§!存在，那么"
+EDG_ERS_3_1_a_tt_no:0 "£no£如果@SMO §Y斯摩棱斯克§!或@ROS §Y罗西亚§!存在，那么"
+EDG_ERS_3_1_b_tt_yes:0 "£yes£如果@KAZ §Y喀山§!存在，那么"
+EDG_ERS_3_1_b_tt_no:0 "£no£如果@KAZ §Y喀山§!存在，那么"
+
+
+#伦巴第
+EDG_form_ITA_ignore_tech_flag_tt:0 "我们可以无视§Y行政科技§!成立@ITA 意大利"
+italians_leave_hre:0 "帝国事变的最终结果是：是时候放弃意大利了。"
+emperor_trying_to_avert_shadow_kingdom:0 "帝国事变的最终结果是：皇帝决定羁縻意大利。"
+EDG_MISSION_MLO_2_1_a_tt_yes:0 "£yes£若我们通过作为§Y皇帝§!或与§Y皇帝§!交善完成任务，那么"
+EDG_MISSION_MLO_2_1_a_tt_no:0 "£no£若我们通过作为§Y皇帝§!或与§Y皇帝§!交善完成任务，那么"
+EDG_MISSION_MLO_2_1_b_tt_yes:0 "£yes£否则，我们将会获得如下修正"
+EDG_MISSION_MLO_2_1_b_tt_no:0 "£no£否则，我们将会获得如下修正"
+EDG_MISSION_MLO_1_4_a_tt_yes:0 "£yes£若我们完成任务时，同§Y皇帝§!是§M盟友§!，那么"
+EDG_MISSION_MLO_1_4_a_tt_no:0 "£no£若我们完成任务时，同§Y皇帝§!是§M盟友§!，那么"
+EDG_MISSION_MLO_1_4_trade_modifier:0 "热那亚商人的恐慌"
+EDG_MISSION_MLO_1_5_trade_modifier:0 "整合热那亚"
+EDG_flavorMLO_1_flag:0 "哲人议会的决议"
+
+EDG_MISSION_MLO_2_1_decision_enable_flag_tt:0 "我们将解锁五个§Y决议§!，以安抚我们的§M附庸§!。"
+EDG_MISSION_MLO_2_5_fort_tt:0 "我们治下的位于§Y皮埃蒙特§!的建造有§Y要塞§!的省份，将会获得如下修正："
+
+EDG_MISSION_MLO_1_5_flag_tt:0 "政府能力§Y文化繁荣度§!将额外提供§M贸易效率§!。"
+EDG_MISSION_MLO_1_8_flag_tt:0 "政府能力§Y艺术繁荣度§!将额外提供§M年度威望§!。"
+EDG_MISSION_MLO_1_9_flag_tt:0 "政府能力§Y文化繁荣度§!将额外提供§M辉煌点数§!。"
+EDG_MISSION_MLO_4_8_flag_tt:0 "政府能力§Y投资科技创新§!将额外提供§M海军传统§!。"
+EDG_MISSION_MLO_1_10_flag_tt:0 "政府能力§Y科技繁荣度§!将额外提供§M点数花费§!。"
+EDG_MISSION_MLO_1_6_flag_tt:0 "政府能力§Y兴办文化教育§!的花费将得到§M减少§!。"
+EDG_MISSION_MLO_2_8_flag_tt:0 "我们将提高事件 §Y新艺术品的诞生§! 的发生频率。\n\n政府能力§Y艺术繁荣度§!将会额外提供§M外交声誉§!。\n\n政府能力§Y开办艺术展览§!将会额外增加§M10§!点威望。"
+EDG_MISSION_MLO_2_9_flag_tt:0 "我们将提高事件 §Y新艺术品的诞生§! 的发生频率。\n\n政府能力§Y哲人辉煌度§!提供的§M创新度获得加成§!将会增加。\n\n政府能力§Y兴办文化教育§!将会额外增加§M50§!点£adm£、£dip£和£mil£。"
+EDG_MISSION_MLO_3_6_flag_tt:0 "政府能力§Y科技繁荣度§!将会额外提供§M要塞防御能力§!。"
+
+EDG_if_has_any_disaster_tt_yes:0 "£yes£若我们处于§R灾难§!中，那么"
+EDG_if_has_any_disaster_tt_no:0 "£no£若我们处于§R灾难§!中，那么"
+
+EDG_MISSION_MLO_3_4_tt_fra_yes:0 "£yes£若我们与@FRA §Y法兰西§!结盟，那么"
+EDG_MISSION_MLO_3_4_tt_ael_yes:0 "£yes£若我们与@AEL §Y阿尔勒§!结盟，那么"
+EDG_MISSION_MLO_3_4_tt_HAB_yes:0 "£yes£若我们与@HAB §Y奥地利§!结盟，那么"
+EDG_MISSION_MLO_3_4_tt_ASU_yes:0 "£yes£若我们与@ASU §Y阿斯图里亚斯§!结盟，那么"
+
+EDG_MISSION_MLO_3_4_tt_fra_no:0 "£no£若我们与@FRA §Y法兰西§!结盟，那么"
+EDG_MISSION_MLO_3_4_tt_ael_no:0 "£no£若我们与@AEL §Y阿尔勒§!结盟，那么"
+EDG_MISSION_MLO_3_4_tt_HAB_no:0 "£no£若我们与@HAB §Y奥地利§!结盟，那么"
+EDG_MISSION_MLO_3_4_tt_ASU_no:0 "£no£若我们与@ASU §Y阿斯图里亚斯§!结盟，那么"
+
+EDG_MISSION_MLO_3_5_a_tt_yes:0 "£yes£若选择留在§Y帝国§!内，那么"
+EDG_MISSION_MLO_3_5_a_tt_no:0 "£no£若选择留在§Y帝国§!内，那么"
+EDG_MISSION_MLO_3_5_b_tt_yes:0 "£yes£若选择脱离§Y帝国§!内，那么"
+EDG_MISSION_MLO_3_5_b_tt_no:0 "£no£若选择脱离§Y帝国§!内，那么"
+
+EDG_MISSION_MLO_4_1_a_tt_yes:0 "£yes£若§Y斯福尔扎§!事件尚未发生，那么"
+EDG_MISSION_MLO_4_1_a_tt_no:0 "£no£若§Y斯福尔扎§!事件尚未发生，那么"
+
+EDG_MISSION_MLO_4_3_a_tt_yes:0 "£yes£若我们采取了§Y哲人王君主制§!政府改革，那么"
+EDG_MISSION_MLO_4_3_b_tt_yes:0 "£yes£若我们采取了§Y安布罗斯哲人议会§!政府改革，那么"
+EDG_MISSION_MLO_4_3_c_tt_yes:0 "£yes£若我们采取了§Y军事独裁哲人议会§!政府改革，那么"
+EDG_MISSION_MLO_4_3_a_tt_no:0 "£no£若我们采取了§Y哲人王君主制§!政府改革，那么"
+EDG_MISSION_MLO_4_3_b_tt_no:0 "£no£若我们采取了§Y安布罗斯哲人议会§!政府改革，那么"
+EDG_MISSION_MLO_4_3_c_tt_no:0 "£no£若我们采取了§Y军事独裁哲人议会§!政府改革，那么"
+
+EDG_formed_EDG_Lombard_Venice_nation__enable_flag_tt:0 "解锁决议 §Y建立伦巴第-威尼托王国§!"
+
+EDG_MISSION_MLO_4_5_trade_modifier:0 "威尼斯商路"
+EDG_flavorMLO_10_flag:0 "修葺米兰主座教堂"
+
+EDG_MISSION_MLO_4_2_a_tt_yes:0 "£yes£若我们选择§Y控制§!哲人议会，那么"
+EDG_MISSION_MLO_4_2_a_tt_no:0 "£no£若我们选择§Y控制§!哲人议会，那么"
+
+EDG_MISSION_MLO_4_2_b_tt_yes:0 "£yes£若我们选择§Y放任§!哲人议会，那么"
+EDG_MISSION_MLO_4_2_b_tt_no:0 "£no£若我们选择§Y放任§!哲人议会，那么"
+
+EDG_flavorMLO_mission_3_global_flag_tt:0 "更多的§Y意大利§!地区的佣兵将得到解锁。"
+EDG_flavorMLO_mission_3_global_flag:0 "意大利佣兵领主"
+EDG_MISSION_MLO_4_9_effect_tt:0 "§M5§!点§M基础生产§!将随机分配在我们治下的省份中。"
+
+
+EDG_Purchase_artwork_value:0 "收藏的§M艺术品§!数量"
+EDG_Purchase_artwork_value_ITA:0 "收藏的§M意大利艺术品§!数量"
+
+EDG_MISSION_MLO_heir_adm_flag_tt:0 "若我们采取的政府改革是§Y哲人王君主制§!，那么我们在选择§G哲学水平最高的儿子将会成为我们的继承人§!作为继承人时，继承人将额外获得§M2§!点£adm£。"
+EDG_MISSION_MLO_heir_dip_flag_tt:0 "若我们采取的政府改革是§Y哲人王君主制§!，那么我们在选择§G哲学水平最高的儿子将会成为我们的继承人§!作为继承人时，继承人将额外获得§M2§!点£dip£。"
+EDG_MISSION_MLO_heir_mil_flag_tt:0 "若我们采取的政府改革是§Y哲人王君主制§!，那么我们在选择§G哲学水平最高的儿子将会成为我们的继承人§!作为继承人时，继承人将额外获得§M2§!点£mil£。"
+EDG_MLO_change_heir_adm_TT:0 "由于我们完成了相关任务，该继承人的£adm£将会额外提升2点。"
+EDG_MLO_change_heir_dip_TT:0 "由于我们完成了相关任务，该继承人的£dip£将会额外提升2点。"
+EDG_MLO_change_heir_mil_TT:0 "由于我们完成了相关任务，该继承人的£mil£将会额外提升2点。"
+
+EDG_MLO_decision_check_artwork_tt:0 "我们共有[EDG_Purchase_artwork_value.GetValue]件§Y艺术品§!\n其中有[EDG_Purchase_artwork_value_ITA.GetValue]件为§Y意大利艺术品§!\n\n我们可以通过以下方法提高§Y艺术品§!数量：\n-事件§G创作新艺术品§!，平均触发频率为§M5§!年一次。\n-外交行动§G请求购买艺术品§!。\n-攻占他国§G首都§!，该事件仅对极少数特定国家有效。\n-在§G吞并§!他国后，我们将能获得§G1§!件艺术品。\n\n我们的一些行动会消耗§Y艺术品§!数量，且优先消耗§Y非意大利艺术品§!，只有当§Y艺术品§!数量不大于§Y意大利艺术品§!数量时，才会消耗§Y有意大利艺术品§!。\n\n§Y意大利艺术品§!数量代表着我们的总§Y艺术品§!数量中的§Y意大利艺术品§!的数量。完成个别任务要求§Y意大利艺术品§!数量达到一定值。"
+
+EDF_form_ITA_ignore_technology_flag_tt:0 "我们将能够无视§Y行政科技§!成立@ITA 意大利"
+
+EDG_MISSION_ITA_1_27_province_tt:0 "我们治下的所有§Y意大利§!地区的拥有§Y符合条件§!的省份将会获得如下修正："
+
+EDG_MISSION_ITA_adm_development_flag_tt:0 "当我们在§Y意大利§!地区提升§G基础税收§!时，有§M33%§!的概率额外提高§G1§!点基础税收£adm£。"
+EDG_MISSION_ITA_dip_development_flag_tt:0 "当我们在§Y意大利§!地区提升§G基础生产§!时，有§M33%§!的概率额外提高§G1§!点基础税收£dip£。"
+EDG_MISSION_ITA_mil_development_flag_tt:0 "当我们在§Y意大利§!地区提升§G基础人力§!时，有§M33%§!的概率额外提高§G1§!点基础税收£mil£。"
+
+EDG_MISSION_CN_adm_development_flag_tt:0 "当我们在§Y中国§!次大陆提升§G基础税收§!时，有§M33%§!的概率额外提高§G1§!点基础税收£adm£。"
+EDG_MISSION_CN_dip_development_flag_tt:0 "当我们在§Y中国§!次大陆提升§G基础生产§!时，有§M33%§!的概率额外提高§G1§!点基础税收£dip£。"
+EDG_MISSION_CN_mil_development_flag_tt:0 "当我们在§Y中国§!次大陆提升§G基础人力§!时，有§M33%§!的概率额外提高§G1§!点基础税收£mil£。"
+
+EDG_MISSION_ITA_5_28_tt:0 "所有位于§Y意大利§!地区的拥有市场和贸易中心的省份，获得如下修正："
+
+#法兰西
+EDG_langoutuijian_tt:0 "§Y作者推荐路线§!"
+
+EDG_FRA_Religious_tolerance_value:0 "§M法兰西宗教容忍§!"
+EDG_FRA_Renaissance_value:0 "§M法兰西文艺复兴§!"
+
+EDG_flavorFRA_mission_10_a_flag_tt:0 "我们将获得针对@AEL§Y阿尔勒§!的§Y吞并战争§!宣战理由，该宣战理由将允许我们以§M25%§!的侵略扩张和§M50%§!的战争分数索取他们的§G全部省份§!。\n但我们需要§R自行处理§!战争后的§R过度扩张§!和§R核心化§!问题，并且没有特殊方法处理法兰西南部的§R异端省份§!，这将导致我们接下来的任务进展更为§R困难§!。"
+EDG_flavorFRA_mission_10_b_flag_tt:0 "我们将获得针对@AEL§Y阿尔勒§!的§Y阿尔勒十字军§!宣战理由，该宣战理由将允许我们通过条约§Y肢解§!@AEL阿尔勒，释放出的国家将会成为我们的§Y王室封邑§!，所有释放出的国家及其首都的信仰将会被转变为§Y天主教§!，这将帮助我们迅速解决§M清洁派§!的异端问题。\n通过§Y阿尔勒十字军§!建立的§Y王室封邑§!，将在§M50年§!内不占用§G外交关系§!。\n\n§Y作者推荐路线§!"
+EDG_flavorFRA_mission_11_b_opinion_modifier:0 "羁縻意大利城邦"
+EDG_flavorFRA_mission_12_a_opinion_modifier:0 "接纳我们的西西里商队"
+EDG_flavorFRA_mission_12_b_opinion_modifier:0 "驱逐我们的西西里商队"
+
+EDG_flavorFRA_mission_trade_POWER:0 "法兰西贸易扩张"
+
+had_EDG_FRA_decision_0_flag_tt:0 "§Y公益同盟§!将被解散，政府改革§Y羁縻公益同盟§!将被取消。"
+EDG_FRA_decision_0_enable_tt:0 "允许我们启用决议§Y解散公益同盟§!，该决议将解散§Y公益同盟§!，政府改革§Y羁縻公益同盟§!将被取消。"
+
+EDG_fra_lapdog_reward_cambrai_tt_yes:0 "£yes£如果完成该任务时与@PAP教宗国合作，那么\n位于§Y威尼斯§!的省份将被割让给@PAP教宗国。"
+EDG_fra_lapdog_reward_cambrai_tt_no:0 "£no£如果完成该任务时与@PAP教宗国合作，那么\n位于§Y威尼斯§!的省份将被割让给@PAP教宗国。"
+
+EDG_fra_if_lapdog_reward_tt_yes:0 "£yes£若我们在与§Y圣座§!§M协调一致§!后完成此任务，那么\n位于§Y伦巴第§!的省份将被割让给@PAP教宗国。"
+EDG_fra_if_lapdog_reward_tt_no:0 "£no£若我们在与§Y圣座§!§M协调一致§!后完成此任务，那么\n位于§Y伦巴第§!的省份将被割让给@PAP教宗国。"
+
+EDG_mission_FRA_3_5_tt_yes:0 "£yes£若我们在与§Y圣座§!§M协调一致§!后完成此任务，那么\n位于§Y利古里亚§!的省份将被割让给@PAP教宗国。"
+EDG_mission_FRA_3_5_tt_no:0 "£no£若我们在与§Y圣座§!§M协调一致§!后完成此任务，那么\n位于§Y利古里亚§!的省份将被割让给@PAP教宗国。"
+
+EDG_fra_cede_northern_italy_to_pope_coronation_and_tt_yes:0 "£yes£若我们在与§Y圣座§!§M协调一致§!后完成该任务，那么\n教宗将为我们的下一位统治者§Y加冕§!，使其在统治期间获得以下特殊加成："
+EDG_fra_cede_northern_italy_to_pope_coronation_and_tt_no:0 "£no£若我们在与§Y圣座§!§M协调一致§!后完成该任务，那么\n教宗将为我们的下一位统治者§Y加冕§!，使其在统治期间获得以下特殊加成："
+
+EDG_fra_alternatively_gain_following_evolving_reward_tt_yes:0 "£yes£否则我们会获得如下§M逐步提高的§!奖励"
+EDG_fra_alternatively_gain_following_evolving_reward_tt_no:0 "£no£否则我们会获得如下§M逐步提高的§!奖励"
+
+EDG_fra_alternatively_tt_yes:0 "£yes£§T否则§!，我们将获得如下效果："
+EDG_fra_alternatively_tt_no:0 "£no£§T否则§!，我们将获得如下效果："
+
+EDG_fra_if_aligned_with_pope_and_not_subject_exists_tt_yes:0 "£yes£如果我们与@PAP§Y教宗国§!协调一致且他们是§Y独立§!国家，那么"
+EDG_fra_if_aligned_with_pope_and_not_subject_exists_tt_no:0 "£no£如果我们与@PAP§Y教宗国§!协调一致且他们是§Y独立§!国家，那么"
+
+EDG_fra_if_aligned_and_pope_subject_already_tt_yes:0 "£yes£如果我们与@PAP§Y教宗国§!协调一致且他们已是我国的§Y属国§!，那么"
+EDG_fra_if_aligned_and_pope_subject_already_tt_no:0 "£no£如果我们与@PAP§Y教宗国§!协调一致且他们已是我国的§Y属国§!，那么"
+
+EDG_fra_alternatively_evolve_golden_march_3_tt_yes:0 "£yes£否则「§Y金色进军§!」修正将进一步增加：\n§G+1§!君主行政能力"
+EDG_fra_alternatively_evolve_golden_march_3_tt_no:0 "£no£否则「§Y金色进军§!」修正将进一步增加：\n§G+1§!君主行政能力"
+
+
+
+EDG_fra_if_complete_with_holland_40_dev_yes:0 "£yes£如果完成该任务时[97.GetName]拥有至少§Y40§!发展度，我们会获得以下奖励："
+EDG_fra_if_complete_with_holland_40_dev_no:0 "£no£如果完成该任务时[97.GetName]拥有至少§Y40§!发展度，我们会获得以下奖励："
+
+EDG_flavorFRA_mission_13_a_opinion_modifier:0 "亲凯尔特主义"
+
+ fra_every_coastal_with_dock_shipyard_gets_tt_yes:0 "£yes£如果我国同时完成了§T海军理念§!或§T航海理念§!，那么\n所有拥有§Y码头§!和§Y干码头§!的省份，将会获得如下修正："
+ fra_every_coastal_with_dock_shipyard_gets_tt_no:0 "£no£如果我国同时完成了§T海军理念§!或§T航海理念§!，那么\n所有拥有§Y码头§!和§Y干码头§!的省份，将会获得如下修正："
+
+EDG_fra_if_completed_via_control_tt_yes:0 "£yes£如果我们在战争期间§G围攻§!下省份后完成该任务，在和平协议中要求它们会便宜得多"
+EDG_fra_if_completed_via_control_tt_no:0 "£no£如果我们在战争期间§G围攻§!下省份后完成该任务，在和平协议中要求它们会便宜得多"
+EDG_fra_alternatively_lose_10_devastation_and_gain_tt_yes:0 "£yes£否则，如果我们在和平时期完成任务，两个省份都会失去§G10§!点荒废度，同时："
+EDG_fra_alternatively_lose_10_devastation_and_gain_tt_no:0 "£no£否则，如果我们在和平时期完成任务，两个省份都会失去§G10§!点荒废度，同时："
+
+EDG_mission_FRA_2_7_tt_yes:0 "£yes£若我们在与§Y圣座§!§M协调一致§!后完成该任务，那么"
+EDG_mission_FRA_2_7_tt_no:0 "£no£若我们在与§Y圣座§!§M协调一致§!后完成该任务，那么"
+
+ fra_alternatively_modify_golden_march_and_tt_yes:0 "£yes£否则我们将获得如下效果\n§Y金色进军§!修正将增加§G+5%§!行政容量"
+ fra_alternatively_modify_golden_march_and_tt_no:0 "£no£否则我们将获得如下效果\n§Y金色进军§!修正将增加§G+5%§!行政容量"
+
+EDG_mission_FRA_1_29_province_modifier_tt:0 "我们治下的包括§Y首都§!在内的任意§M5§!个拥有§Y法院§!或§Y市政厅§!的省份，将会获得如下修正："
+EDG_flavorFRA_mission_14_a_modifier_price:0 "跑林人"
+
+EDG_mission_FRA_2_23_tt:0 "每个位于§Y意大利§!、§Y北德意志§!和§Y南德意志§!的属于我们或我们的非独立属国的省份，将会为我们提供§M1§!点£adm£ £dip£和£mil"
+EDG_mission_FRA_2_23_tt_2:0 "位于§Y意大利§!、§Y北德意志§!和§Y南德意志§!的属于我们或我们的非独立属国的正在法兰西化的省份，将会立刻完成文化的§Y法兰西化§!。"
+
+EDG_mission_FRA_3_8_tt:0 "每个位于§Y意大利§!和§Y伊比利亚§!的属于我们或我们的非独立属国的省份，将会为我们提供§M1§!点£adm£ £dip£和£mil"
+EDG_mission_FRA_3_8_tt_2:0 "位于§Y意大利§!和§Y伊比利亚§!的属于我们或我们的非独立属国的正在法兰西化的省份，将会立刻完成文化的§Y法兰西化§!。"
+
+EDG_flavorFRA_mission_15_c_flag_tt:0 "该税种将会被§Y永久废除§!，该事件将不再发生。"
+EDG_flavorFRA_mission_15_tt:0 "我们的每任统治者都将触发该事件，直到我们§Y废除§!该税种。"
+
+EDG_mission_FRA_3_6_tt:0 "[151.GetName]、[213.GetName]和[361.GetName]的§Y拥有者§!将会触发如下事件："
+
+EDG_mission_FRA_3_12_tt:0 "所有首都位于§Y丹麦§!的，同我们§Y结盟§!且对我们的好感达到§Y150§!的国家，将会成为我们的§Y法兰西保护国§!。"
+
+EDG_SCO_decision_3_tt:0 "他们对我们的§G好感§!和§G信任§!越高，越容易同意我们的要求。\n若他们同意，我们将§Y继承§!他们，否则，我们将获得针对他们的§Y吞并§!宣战理由。\n\n请注意，若你仅仅是刚刚达成点击决议的条件，那么你的要求§R几乎不可能成功§!。成功的概率与他们对我们的§G好感§!和§G信任§!呈指数级增长关系。"
+
+EDG_fra_if_knights_exist_gain_tt_yes:0 "£yes£如果@KNI圣若翰骑士团§R不§!存在，那么"
+EDG_fra_if_knights_exist_gain_tt_no:0 "£no£如果@KNI圣若翰骑士团§R不§!存在，那么"
+
+EDG_fra_if_knights_exist_gain_tt_2_yes:0 "£yes£如果@KNI圣若翰骑士团存在，那么"
+EDG_fra_if_knights_exist_gain_tt_2_no:0 "£no£如果@KNI圣若翰骑士团存在，那么"
+
+EDG_mission_FRA_5_2_tt:0 "我们的所有§Y封邑§!将会失去§M10§!点独立倾向，每个§Y封邑§!给予我们§M20§!点£dip£。"
+
+EDG_mission_FRA_5_2_province_87_tt_yes:0 "£yes£如果省份§M加莱§!被我们所§M控制§!，那么"
+EDG_mission_FRA_5_2_province_87_tt_no:0 "£no£如果省份§M加莱§!被我们所§M控制§!，那么"
+
+EDG_mission_FRA_3_3_tt:0 "[Root.GetName]和所有的§Y奥克§!文化的属国，将会获得如下修正："
+
+EDG_mission_FRA_3_3_tt_yes:0 "£yes£若我们信仰天主教，且[201.GetName]属于我们的属国，那么当地将获得一个§Y天主教§!的公教传教中心。"
+EDG_mission_FRA_3_3_tt_no:0 "£no£若我们信仰天主教，且[201.GetName]属于我们的属国，那么当地将获得一个§Y天主教§!的公教传教中心。"
+
+EDG_fra_if_we_complete_mission_while_allied_or_subject_and_175_opinion_and_100_trust_access_to_holy_orders_tt_yes:0 "£yes£如果我们在拥有一个至少§Y180§!好感度和§Y70§!信任度的伊比利亚§Y属国§!或§Y盟友§!的情况下完成该任务，那么\n我们将可以使用基督教§Y修会§!机制。"
+EDG_fra_if_we_complete_mission_while_allied_or_subject_and_175_opinion_and_100_trust_access_to_holy_orders_tt_no:0 "£no£如果我们在拥有一个至少§Y180§!好感度和§Y70§!信任度的伊比利亚§Y属国§!或§Y盟友§!的情况下完成该任务，那么\n我们将可以使用基督教§Y修会§!机制。"
+
+EDG_flavorFRA_reform_rank_1_flag_tt:0 "我们的§Y法兰西权威§!将从§M0§!提升至§M1§!，这将允许我们启用£adm£.§Y法兰西民族精神§!和£adm£§Y法兰西保护国§!能力。"
+EDG_flavorFRA_reform_rank_2_flag_tt:0 "我们的§Y法兰西权威§!将从§M1§!提升至§M2§!，这将允许我们启用£adm£.§Y文化同化§!和£adm£§Y天然疆界§!能力。"
+EDG_flavorFRA_reform_rank_3_flag_tt:0 "我们的§Y法兰西权威§!将从§M2§!提升至§M3§!，这将允许我们启用£adm£.§Y大陆同盟§!和£adm£§Y国家陆军§!能力。"
+EDG_flavorFRA_5_happen_flag:0 "事件§Y鸢尾花之梦§!已经发生"
+
+unlock_EDG_Sun_King_reform:0 "太阳王之国"
+unlock_EDG_Sun_King_reform_tt:0 "太阳王之国"
+
+EDG_mission_FRA_3_4_tt:0 "我们完成任务的§Y方式§!将会影响§Y后续任务§!"
+
+EDG_fra_if_align_with_pope_tt_yes:0 "£yes£如果我们通过与@PAP教宗§Y交善§!完成任务，那么\n我们将在每次颁布新的§Y金玺诏书§!时获得§G25§!点随机君主点数和§G10§!点教廷影响力。\n我们将与@PAP教宗§M协调一致§!。"
+EDG_fra_if_align_with_pope_tt_no:0 "£no£如果我们通过与@PAP教宗§Y交善§!完成任务，那么\n我们将在每次颁布新的§Y金玺诏书§!时获得§G25§!点随机君主点数和§G10§!点教廷影响力。"
+
+EDG_fra_if_defying_pope_tt_yes:0 "£yes£如果我们并非通过与@PAP教宗§Y交善§!完成任务，那么"
+EDG_fra_if_defying_pope_tt_no:0 "£no£如果我们并非通过与@PAP教宗§Y交善§!完成任务，那么"
+
+EDG_mission_FRA_3_8_vassal_IBR_tt_yes:0 "£yes£若完成任务时，@IBR伊比利亚是我们的§Y属国§!，那么"
+EDG_mission_FRA_3_8_vassal_IBR_tt_no:0 "£no£若完成任务时，@IBR伊比利亚是我们的§Y属国§!，那么"
+
+EDG_mission_FRA_3_8_own_IBR_tt_yes:0 "£yes£若完成任务时，我们§Y拥有§!伊比利亚的§Y所有§!省份，那么"
+EDG_mission_FRA_3_8_own_IBR_tt_no:0 "£no£若完成任务时，我们§Y拥有§!伊比利亚的§Y所有§!省份，那么"
+
+EDG_flavorFRA_mission_10_opinion:0 "羁縻伊比利亚"
+
+EDG_mission_FRA_4_5_a_tt_yes:0 "£yes£若我们通过§M结盟§!完成该任务，那么\n我们和所有符合条件的伊比利亚§M盟友§!都将获得："
+EDG_mission_FRA_4_5_a_tt_no:0 "£no£若我们通过§M结盟§!完成该任务，那么\n我们和所有符合条件的伊比利亚§M盟友§!都将获得："
+
+EDG_mission_FRA_4_5_b_tt_yes:0 "£yes£若我们通过§M征服§!完成该任务，那么"
+EDG_mission_FRA_4_5_b_tt_no:0 "£no£若我们通过§M征服§!完成该任务，那么"
+
+EDG_mission_FRA_4_5_c_tt_yes:0 "£yes£若我们完成任务时与@PAP教宗国处于§M合作§!关系，且§Y神圣罗马帝国§!尚未被解散，那么"
+EDG_mission_FRA_4_5_c_tt_no:0 "£no£若我们完成任务时与@PAP教宗国处于§M合作§!关系，且§Y神圣罗马帝国§!尚未被解散，那么"
+
+EDG_mission_pap_friend_tt_yes:0 "£yes£若我们完成任务时与@PAP教宗国处于§M合作§!关系，那么"
+EDG_mission_pap_friend_tt_no:0 "£no£若我们完成任务时与@PAP教宗国处于§M合作§!关系，那么"
+
+EDG_mission_pap_friend_4_19_tt_yes:0 "£yes£若我们完成任务时与@PAP教宗国处于§M合作§!关系，且神圣罗马帝国未被解散，那么"
+EDG_mission_pap_friend_4_19_tt_no:0 "£no£若我们完成任务时与@PAP教宗国处于§M合作§!关系，且神圣罗马帝国未被解散，那么"
+
+EDG_mission_FRA_dip_IBR_flag_tt:0 "首都位于§Y伊比利亚§!的国家将更容易接受成为我们的§Y法兰西保护国§!和§Y大陆同盟§!。"
+EDG_mission_FRA_dip_IBR_flag_dip_action_name:0 "§Y羁縻伊比利亚§!"
+
+EDG_mission_FRA_5_5_225_owner_alliance_tt_yes:0 "£yes£若我们完成任务时，[225.GetName]的拥有者是我们的§M盟友§!，那么\n我们和[225.GetName]的拥有者都将获得如下效果："
+EDG_mission_FRA_5_5_222_owner_alliance_tt_yes:0 "£yes£若我们完成任务时，[222.GetName]的拥有者是我们的§M盟友§!，那么\n我们和[222.GetName]的拥有者都将获得如下效果："
+EDG_mission_FRA_5_5_224_owner_alliance_tt_yes:0 "£yes£若我们完成任务时，[224.GetName]的拥有者是我们的§M盟友§!，那么\n我们和[224.GetName]的拥有者都将获得如下效果："
+
+EDG_mission_FRA_5_5_225_owner_alliance_tt_no:0 "£no£若我们完成任务时，[225.GetName]的拥有者是我们的§M盟友§!，那么\n我们和[225.GetName]的拥有者都将获得如下效果："
+EDG_mission_FRA_5_5_222_owner_alliance_tt_no:0 "£no£若我们完成任务时，[222.GetName]的拥有者是我们的§M盟友§!，那么\n我们和[222.GetName]的拥有者都将获得如下效果："
+EDG_mission_FRA_5_5_224_owner_alliance_tt_no:0 "£no£若我们完成任务时，[224.GetName]的拥有者是我们的§M盟友§!，那么\n我们和[224.GetName]的拥有者都将获得如下效果："
+
+EDG_mission_FRA_5_6_alliance_tt:0 "所有首都位于§Y伊比利亚§!地区的，同我们§Y同宗教§!且§M同盟§!的国家，若对我们的信任达到§M100§!，将会被要求成为我们的§Y大陆同盟§!。"
+
+EDG_fra_relations_with_sco_hsc_tt_yes:0 "£yes£如果我们通过与@SCO苏格兰或@HSC盖尔相联系完成该任务，那么"
+EDG_fra_relations_with_sco_hsc_tt_no:0 "£no£如果我们通过与@SCO苏格兰或@HSC盖尔相联系完成该任务，那么"
+
+EDG_mission_FRA_3_11_STRONG_MERCHANTS:0 "法兰西贸易扩张"
+EDG_mission_FRA_3_11_STRONG_MERCHANTS_opinion_modifier:0 "奈梅亨条约"
+EDG_mission_FRA_3_11_STRONG_MERCHANTS_opinion_tt:0 "所有首都位于§Y低地§!的符合条件的国家，将获得如下效果"
+
+EDG_mission_FRA_5_10_global_flag_tt:0 "@LOT洛塔林吉亚将不会在§Y继承危机§!中选择向§Y皇帝§!屈服，且在§Y继承危机§!发生后，@FRA法兰西将会获得针对@LOT洛塔林吉亚的§Y建立联合统治§!宣战理由。"
+EDG_flavorFRA_mission_20_opinion:0 "洛林条约"
+EDG_mission_FRA_5_10_divide_10_development_tt:0 "§M10§!点发展度将在我国治下的位于§Y东勃艮第§!、§Y西勃艮第§!和§Y洛林§!区域的省份内进行随机分配，若我们没有位于勃艮第的省份，那么将没有效果。"
+
+EDG_mission_FRA_5_12_subject_modifier_tt:0 "若我们的§Y属国§!有任意省份符合条件，那么这些属国将会获得如下修正："
+
+EDG_mission_FRA_4_12_NED_tt_yes:0 "£yes£若@NED尼德兰是我们的属国，那么"
+EDG_mission_FRA_4_12_NED_tt_no:0 "£no£若@NED尼德兰是我们的属国，那么"
+
+EDG_FRA_NED_NAME:0 "巴达维亚"
+EDG_FRA_NED_NAME_ADJ:0 "巴达维亚"
+
+EDG_mission_FRA_3_15_crown_tt:0 "如果我们在完成任务时，@SCO苏格兰§Y存在§!，那么\n只要@SCO苏格兰维持§Y选王议会§!，在满足以下条件的情况下，@SCO苏格兰将有高概率选举§M卡佩§!§Y王朝§!的君主：\n-我们是@FRA\n-我们是§M君主制§!\n-我们没有处于§M摄政§!中\n-我们与@SCO苏格兰§M王室联姻§!\n-我们与苏格兰是§M同盟§!\n\n每当@SCO苏格兰选举§M卡佩§!§Y王朝§!的成员为君主时，我们将获得§M20§!点威望。"
+
+EDG_mission_FRA_if_they_accept_tt:0 "若他们同意我们的请求，那么"
+
+EDG_mission_FRA_request_to_be_EDG_FRA_Continental_Alliance_vassal_tt:0 "若他们不是§Y列强§!，他们将同意要求，并成为我们的§Y大陆同盟§!。\n若他们是§Y列强§!，他们将不可能同意要求，而我们将获得针对他们的特殊§R宣战理由§!，强迫他们成为我们的§Y大陆同盟§!。"
+
+EDG_mission_FRA_3_25_province_tt:0 "我们治下的§M5§!个符合条件的省份，将会获得如下修正："
+
+EDG_mission_FRA_3_7_NAP_tt_yes:0 "£yes£若我们完成任务时，@NAP那不勒斯或@TTS特里纳克里亚是我们的§M属国§!，那么"
+EDG_mission_FRA_3_7_NAP_tt_no:0 "£no£若我们完成任务时，@NAP那不勒斯或@TTS特里纳克里亚是我们的§M属国§!，那么"
+
+FRA_if_ITA_sub_tt_yes:0 "£yes£如果@ITA意大利是我们的§Y属国§!，那么"
+FRA_if_ITA_sub_tt_no:0 "£no£如果@ITA意大利是我们的§Y属国§!，那么"
+
+EDG_mission_FRA_5_6_friend_with_pap_tt:0 "我们的每个§Y伊比利亚§!文化组的属国，将每年为我们提供§G+1§!的教廷影响力。"
+EDG_mission_FRA_5_15_province_modifier_pap_friend_tt:0 "所有位于§Y威尔士§!的§Y天主教§!省份将会获得如下修正"
+EDG_mission_FRA_5_16_province_modifier_pap_friend_tt:0 "所有位于§Y爱尔兰§!的§Y天主教§!省份将会获得如下修正"
+
+EDG_mission_FRA_4_17_a_tt_yes:0 "£yes£如果我们完成任务时是§Y海军霸权§!，那么"
+EDG_mission_FRA_4_17_a_tt_no:0 "£no£如果我们完成任务时是§Y海军霸权§!，那么"
+
+EDG_mission_FRA_4_19_modifier_friend_with_pap_resetting_tt_yes:0 "£yes£若我们完成任务时与@PAP教宗国处于§Y合作§!中，§Y神圣罗马帝国§!尚未被解散，且国家修正§Y教宗默许入侵帝国§!尚未结束，那么\n国家修正§Y教宗默许入侵帝国§!的持续时间将重置为§M25§!年。"
+EDG_mission_FRA_4_19_modifier_friend_with_pap_resetting_tt_no:0 "£no£若我们完成任务时与@PAP教宗国处于§Y合作§!中，§Y神圣罗马帝国§!尚未被解散，且国家修正§Y教宗默许入侵帝国§!尚未结束，那么\n国家修正§Y教宗默许入侵帝国§!的持续时间将重置为§M25§!年。"
+
+EDG_mission_FRA_5_20_STRONG_MERCHANTS:0 "掌握威斯特伐利亚"
+EDG_mission_FRA_5_22_STRONG_MERCHANTS:0 "掌握易北河"
+
+EDG_mission_FRA_2_19_elector_tt:0 "所有对我们的好感达到§G100§!的§Y选帝侯§!将会获得如下效果"
+EDG_mission_FRA_2_19_opinion:0 "潜在的皇帝候选人"
+
+EDG_mission_Forcing_HRE_Emperor_to_abdicate_cb_enable_flag_tt:0 "从此往后，我们将可以启用一个针对§Y神圣罗马帝国皇帝§!的§Y宣战理由§!，该宣战理由的启用条件如下：\n-§Y神圣罗马帝国§!未被解散。\n-§Y神圣罗马帝国§!未被解散\n-[Root.GetName]处于§M独立§!且未被摄政。\n\n该§Y宣战理由§!将允许我们要求当前的§Y神圣罗马帝国皇帝§!进行§T退位§!，但§Y皇帝§!依然是通过选帝侯选举产生的。"
+
+EDG_mission_FRA_4_32_claim_tt:0 "我们将会获得所有位于§Y非洲§!大陆、§Y印度§!次大陆和§Y东印度§!次大陆的所有§M沿海§!省份的宣称。"
+
+EDG_mission_FRA_5_32_STRONG_MERCHANTS:0 "垄断象牙海岸"
+EDG_mission_FRA_4_33_STRONG_MERCHANTS:0 "控制好望角"
+EDG_mission_FRA_new_world_STRONG_MERCHANTS:0 "扩大美洲贸易"
+EDG_mission_FRA_3_2_trade_modifier:0 "稳定的南法商路"
+EDG_every_colonize_subject_reduce_33_liberty_desire_tt:0 "我们的所有§Y殖民地§!属国将会失去§G33§!点独立倾向。"
+EDG_enable_dip_form_FRK_flag_tt:0 "@FRK§Y重建法兰克帝国§!决议对省份的要求，由必须由自己持有，改为可以由§M非独立属国§!持有。"
+
+EDG_enable_FRA_revolution_flag_tt:0 "我们将允许在§Y大革命时代§!之前启用§Y法国大革命§!灾难。"
+EDG_enable_FRA_revolution_flag:0 "允许提前触发法国大革命"
+
+EDG_mission_FRA_4_4_religious_cb_on_IBR_muslim_tt:0 "我们将对每个在§Y伊比利亚§!地区拥有省份的§G穆斯林§!国家的§Y圣战§!宣战理由。"
+
+EDG_FRA_culture_assimilation_speed_upgrade_effect_tt_1:0 "此后我们所征服的§Y符合条件§!的省份，进行文化§Y法兰西化§!所需要的时间将会由§M50§!年减少为§M40§!年。"
+EDG_FRA_culture_assimilation_speed_upgrade_effect_tt_2:0 "此后我们所征服的§Y符合条件§!的省份，进行文化§Y法兰西化§!所需要的时间将会由§M40§!年减少为§M30§!年。"
+EDG_FRA_culture_assimilation_speed_upgrade_effect_tt_3:0 "此后我们所征服的§Y符合条件§!的省份，进行文化§Y法兰西化§!所需要的时间将会由§M30§!年减少为§M20§!年。"
+
+unlocked_EDG_Sun_King_reform:0 "解锁太阳王之国改革"
+
+EDG_FRA_is_revolution_target_tt_yes:0 "£yes£若完成任务时，我们是§Y革命目标§!，那么"
+EDG_FRA_is_revolution_target_tt_no:0 "£no£若完成任务时，我们是§Y革命目标§!，那么"
+
+EDG_flavorFRA_mission_20_sight_tt:0 "£yes£当且仅当@LOT洛塔林吉亚存在且§T洛塔林吉亚继承危机§!尚未发生时，该事件能够被触发。\n该事件将能够允许我们要求@LOT在继承危机中选择不向§Y帝国§!屈服，并且在继承危机发生后将给予我们§Y重建联合统治§!的宣战理由。"
+
+EDG_FRA_Continental_Alliance_decision_IBR_enable_flag_tt:0 "我们将被允许在§M法兰西权威§!未达到三级的情况下解锁建立@IBR伊比利亚的§Y大陆同盟§!的决议。"
+
+#波斯
+per_balance_of_power_ct:0 "§Y[Root.Get贵族Name]§!、§Y[Root.Get古拉姆Name]§!和§Y[Root.Get奇兹尔巴什Name]§!阶层拥有相同数量的特权。"
+
+EDG_distribute_10_development_into_province_culture_armenian_tt:0 "§M10§!点发展度将被随机分配在我们治下的§Y亚美尼亚§!文化的省份中。"
+EDG_distribute_10_development_into_province_culture_georgian_tt:0 "§M10§!点发展度将被随机分配在我们治下的§Y格鲁吉亚§!文化的省份中。"
+EDG_all_province_culture_armenian_provide_modifier_tt:0 "我们治下的所有§Y亚美尼亚§!文化的省份将获得如下修正："
+EDG_all_province_culture_georgian_provide_modifier_tt:0 "我们治下的所有§Y格鲁吉亚§!文化的省份将获得如下修正："
+
+cb_EDG_WG_superiority_ARL_Imam_Jihad_Turkish_tags_enable_flag_tt:0 "对所有首都位于§Y安纳托利亚§!地区或主流文化为§Y突厥§!的§M异端异教§!国家，我们将获得针对他们的§Y伊玛目吉哈德§!的宣战借口。"
+cb_EDG_WG_superiority_ARL_Imam_Jihad_Europe_tags_enable_flag_tt:0 "对所有首都位于§Y意大利§!地区或§Y巴尔干§!地区的§M异端异教§!国家，我们将获得针对他们的§Y伊玛目吉哈德§!的宣战借口。"
+
+
+EDG_Mission_ARL_1_7_province_326_tt_yes:0 "£yes£若我们拥有核心省份§Y安卡拉§!，那么"
+EDG_Mission_ARL_1_7_province_326_tt_no:0 "£no£若我们拥有核心省份§Y安卡拉§!，那么"
+
+EDG_Mission_ARL_2_2_neighbor_event_tt:0 "在我们的视野范围内的国家中，所有与我们相邻且拥有§M什叶派§!信仰的省份的国家，将会需要选择同我们§M交善§!或§R交恶§!。\n\n每个与我们§G交善§!的国家，将会为我们提供以下加成：\n-§M50§!金钱\n-§M2000§!人力£icon_manpower£\n-50点£adm£ £dip£和£mil£\n\n每个与我们§R交恶§!的国家，将会为我们提供以下加成：\n-我们将获得他们治下的§M什叶派§!省份的§Y核心§!"
+opinion_EDG_flavor_ARL_9_opinion:0 "什叶派秘密支持"
+
+EDG_Mission_ARL_2_3_a_tt_yes:0 "£yes£若@MGB马拉盖拥有省份§T马拉盖§!且是我们的§Y属国§!，那么我们和@MGB将获得如下修正："
+EDG_Mission_ARL_2_3_a_tt_no:0 "£no£若@MGB马拉盖拥有省份§T马拉盖§!且是我们的§Y属国§!，那么我们和@MGB将获得如下修正："
+
+EDG_Mission_ARL_2_3_b_tt_yes:0 "£yes£否则，我们将获得如下修正："
+EDG_Mission_ARL_2_3_b_tt_no:0 "£no£否则，我们将获得如下修正："
+
+EDG_Mission_ARL_2_5_give_core_tt:0 "我们将获得所有§Y邻国§!治下的§M什叶派§!省份的§Y核心§!。"
+EDG_Mission_ARL_2_5_religion_weaken_tt:0 "所有§Y邻国§!治下非§M什叶派§!的§M伊斯兰教§!省份将获获得如下修正："
+
+EDG_Mission_ARL_2_7_turkish_proince_modifier_tt:0 "我们治下的位于安纳托利亚的§Y突厥§!文化省份将会获得如下修正："
+EDG_give_all_kurdish_culture_province_claim_tt:0 "我们将获得所有§Y库尔德§!文化省份的永久性宣称。"
+
+EDG_Mission_ARL_3_6_a_tt_yes:0 "£yes£若我们的国家修正§Y安拉在人间的代表§!尚未到期，那么该修正的持续时间将被重置为§M20§!年，且我们将获得如下效果："
+EDG_Mission_ARL_3_6_a_tt_no:0 "£no£若我们的国家修正§Y安拉在人间的代表§!尚未到期，那么该修正的持续时间将被重置为§M20§!年，且我们将获得如下效果："
+
+EDG_Mission_ARL_3_11_a_tt_yes:0 "£yes£若我们的国家修正§Y安拉在人间的代表§!尚未到期，那么该修正的持续时间将变为§Y永久§!，且我们将获得如下效果："
+EDG_Mission_ARL_3_11_a_tt_no:0 "£no£若我们的国家修正§Y安拉在人间的代表§!尚未到期，那么该修正的持续时间将变为§Y永久§!，且我们将获得如下效果："
+
+EDG_Mission_ARL_4_1_a_tt_yes:0 "£yes£若我们的国家修正§Y至纯至公的伊玛目§!尚未到期，那么该修正的持续时间将被重置为§M20§!年，且我们将获得如下效果："
+EDG_Mission_ARL_4_1_a_tt_no:0 "£no£若我们的国家修正§Y至纯至公的伊玛目§!尚未到期，那么该修正的持续时间将被重置为§M20§!年，且我们将获得如下效果："
+
+EDG_Mission_ARL_2_7_a_tt_yes:0 "£yes£若@AKK白羊是我们的属国，那么"
+EDG_Mission_ARL_2_7_a_tt_no:0 "£no£若@AKK白羊是我们的属国，那么"
+
+EDG_Mission_ARL_5_2_event_enable_flag_tt:0 "当我们拥有§M300§!发展度后，若我们仍与@KRY吉兰维持§M军事同盟§!，那么我们将在一个月内触发事件，允许我们附庸@KRY吉兰。"
+
+EDG_Mission_ARL_5_4_a_tt_yes:0 "£yes£若我们的国家修正§Y至纯至公的伊玛目§!尚未到期，那么该修正的持续时间将变为§Y永久§!，且我们将获得如下效果："
+EDG_Mission_ARL_5_4_a_tt_no:0 "£no£若我们的国家修正§Y至纯至公的伊玛目§!尚未到期，那么该修正的持续时间将变为§Y永久§!，且我们将获得如下效果："
+
+EDG_Mission_ARL_4_5_province_tt:0 "我们治下的所有与我们§Y文化组§!相同的省份，将会获得如下修正："
+
+EDG_Mission_ARL_4_7_persian_proince_modifier_tt:0 "我们治下的§Y波斯§!文化省份将会获得如下修正："
+EDG_Mission_ARL_4_7_a_tt_yes:0 "£yes£若@HZB哈扎拉比是我们的属国，那么"
+EDG_Mission_ARL_4_7_a_tt_no:0 "£no£若@HZB哈扎拉比是我们的属国，那么"
+
+EDG_Mission_ARL_5_6_distribute_10_development_tt:0 "10点发展度将被随机分配到我们§Y文化组§!的省份中。"
+
+EDG_Mission_ARL_5_6_trade_modifier:0 "回溯丝绸之路"
+
+EDG_give_10_temple_province_the_modifier_tt:0 "我们治下的§M10§!个拥有§Y清真寺§!和§Y大清真寺§!的省份，将会获得如下修正："
+
+EDG_convert_3_wool_provinces_tt_yes:0 "£yes£若我们有§M3§!个省份的产物是§Y羊毛§!那么\n我们将会随机将§M3§!个省份的产物转变为§Y布料§!。"
+EDG_convert_3_wool_provinces_tt_no:0 "£no£若我们有§M3§!个省份的产物是§Y羊毛§!，那么\n我们将会随机将§M3§!个省份的产物转变为§Y布料§!。"
+
+EDG_give_5_cloth_provinces_modifier_tt:0 "我们治下的至多§M5§!个产物是§Y布料§!的省份将会获得如下修正："
+
+EDG_Mission_PER_4_15_tt:0 "所有我们治下的，属于我们的§Y文化组§!的省份，获得以下修正："
+EDG_Mission_PER_5_26_tt:0 "所有符合条件的省份，其中属于§Y土库曼§!文化的省份将被转化为§Y土库曼-伊朗§!文化，其余省份将被转化为§Y塔吉克-伊朗§!文化。\n所有符合条件的省份，将会获得如下修正："
+
+EDG_Mission_PER_3_22_province_tt:0 "所有符合条件的省份，移除§Y龟兹田§!省份修正，并升级为如下修正"
+
+EDG_Mission_ARL_4_7_persian_proince_modifier_tt_2:0 "我们治下随机三个§Y波斯§!文化省份将会获得如下修正："
+
+#白羊
+EDG_mission_AKK_1_2_tt_yes:0 "£yes£若我们拥有省份§Y[2313.GetName]§!，那么"
+EDG_mission_AKK_1_2_tt_no:0 "£no£若我们拥有省份§Y[2313.GetName]§!，那么"
+
+EDG_mission_AKK_random_3_province_get_tur_modifier_tt:0 "§Y我们治下的§!随机§Y3§!个满足任务条件的省份，将会获得如下修正："
+
+EDG_mission_AKK_all_Eligible_province_get_the_modifier_tt:0 "§Y我们治下的§!所有满足任务条件的省份，将会获得如下修正："
+
+EDG_mission_AKK_2_5_random_10_province_get_courthouse_tt:0 "§Y我们治下的§!随机§Y10§!个满足任务条件的省份，将会获得如下效果："
+
+EDG_mission_AKK_3_2_tt_yes:0 "£yes£若@AFS§Y阿夫沙尔§!是我们的§Y属国§!，那么"
+EDG_mission_AKK_3_2_tt_no:0 "£no£若@AFS§Y阿夫沙尔§!是我们的§Y属国§!，那么"
+
+EDG_mission_AKK_3_11_modifier_tt:0 "国家修正§Y入侵印度§!将会被取缔，并强化为以下修正："
+
+EDG_mission_AKK_1_4_tt_yes:0 "£yes£若我们对@MAM马穆鲁克的主要战争分数达到了§Y80§!，那么"
+EDG_mission_AKK_1_4_tt_no:0 "£no£若我们对@MAM马穆鲁克的主要战争分数达到了§Y80§!，那么"
+
+EDG_mission_AKK_4_5_flag_tt:0 "我们治下的§Y伊朗§!文化组省份，将会被缓慢地转变为§Y土库曼-伊朗§!文化。"
+
+EDG_mission_AKK_4_5__stop_flag_tt:0 "我们将§R永久停止§!该文化同化。"
+
+EDG_mission_AKK_2_2_tt:0 "我们治下的每个§Y伊拉克§!文化的省份将会为我们提供§Y25§!点£adm£"
+EDG_mission_AKK_2_3_tt_yes:0 "£yes£若@AK2红羊在我们完成任务时§Y不存在§!，那么"
+EDG_mission_AKK_2_3_tt_no:0 "£no£若@AK2红羊在我们完成任务时§Y不存在§!，那么"
+EDG_mission_AKK_3_6_tt_yes:0 "£yes£若@HZB哈扎拉比在我们完成任务时§Y不存在§!，那么"
+EDG_mission_AKK_3_6_tt_no:0 "£no£若@HZB哈扎拉比在我们完成任务时§Y不存在§!，那么"
+EDG_mission_AKK_3_8_tt_yes:0 "£yes£若@AFG卡尔提德在我们完成任务时§Y不存在§!，那么"
+EDG_mission_AKK_3_8_tt_no:0 "£no£若@AFG卡尔提德在我们完成任务时§Y不存在§!，那么"
+
+EDG_mission_AKK_4_1_tribal_ability_falg_tt:0 "§Y部落联盟§!政府机制的§Y部落团结度§!将会至多提供§Y5%§!的§Y训练度§!"
+EDG_mission_AKK_2_3_tribal_ability_flag_tt:0 "§Y部落联盟§!政府机制的§Y部落团结度§!将会至多提供§Y2%§!的§Y传教强度§!"
+EDG_mission_AKK_3_4_tribal_ability_flag_tt:0 "§Y部落联盟§!政府机制的§Y部落团结度§!将会至多提供§Y-2%§!的§Y全国叛乱§!"
+EDG_mission_AKK_4_3_tribal_ability_flag_tt:0 "§Y部落联盟§!政府机制的§Y部落团结度§!将会至多提供§Y20%§!的§Y全国税收修正§!"
+EDG_mission_AKK_4_5_tribal_ability_flag_tt:0 "§Y部落联盟§!政府机制的§Y部落团结度§!将会至多提供§Y20%§!的§Y陆军士气修正§!"
+EDG_mission_AKK_5_4_tribal_ability_flag_tt:0 "§Y部落联盟§!政府机制的§Y部落团结度§!将会至多提供§Y20%§!的§Y政府改革进度修正§!"
+
+EDG_mission_AKK_4_2_tribal_ability_flag_tt:0 "§Y部落联盟§!政府机制的§Y训练马术§!互动将会额外提供§Y10§!的§Y陆军传统§!"
+EDG_mission_AKK_1_6_tribal_ability_flag_tt:0 "§Y部落联盟§!政府机制的§Y训练马术§!互动将会额外提供§Y25§!的§Y虔诚§!"
+EDG_mission_AKK_2_2_tribal_ability_flag_tt:0 "§Y部落联盟§!政府机制的§Y训练马术§!互动将会额外提供§Y骑兵指挥官§!顾问"
+
+EDG_mission_AKK_1_2_tribal_ability_flag_tt:0 "§Y部落联盟§!政府机制的§Y征募部落将军§!互动将会额外提供§Y-2§!的§Y厌战度§!"
+EDG_mission_AKK_5_2_tribal_ability_flag_tt:0 "§Y部落联盟§!政府机制的§Y征募部落将军§!互动将会额外提供§Y10§!的§Y陆军传统§!"
+
+EDG_mission_AKK_3_2_tribal_ability_flag_tt:0 "§Y部落联盟§!政府机制的§Y征募部落骑兵§!互动将会额外提供§Y10§!的§Y陆军传统§!"
+
+#皮埃蒙特
+EDG_mission_PIT_1_1_opinion_modifier:0 "清洁派的兄弟"
+EDG_mission_PIT_1_2_opinion_modifier:0 "永世同盟"
+EDG_mission_PIT_2_2_opinion_modifier:0 "绥靖"
+EDG_flavorPIT_7_a_opinion_modifier:0 "处决封建君主"
+EDG_flavorPIT_7_b_opinion_modifier:0 "仁慈地对待君主"
+
+EDG_mission_PIT_1_1_a_yes_tt:0 "£yes£若我们通过与@AEL§Y阿尔勒§!§G交善§!完成任务，那么"
+EDG_mission_PIT_1_1_a_no_tt:0 "£no£若我们通过与@AEL§Y阿尔勒§!§G交善§!完成任务，那么"
+
+EDG_else_yes_tt:0 "£yes£否则，"
+EDG_else_no_tt:0 "£no£否则，"
+
+EDG_mission_PIT_1_1_claim_tt:0 "我们将获得@AEL§Y阿尔勒§!及其非朝贡属国的所有宣称。"
+EDG_mission_PIT_1_2_decision_flag_tt:0 "§Y解锁决议§! @AEL寻求阿尔勒军事援助\n该决议将允许我们在处于战争时请求@AEL§Y阿尔勒§!加入战争。"
+
+EDG_mission_PIT_1_8_a_tt_yes:0 "£yes£若我们完成任务时有一名§Y法兰西§!文化组的§M盟友§!，那么"
+EDG_mission_PIT_1_8_a_tt_no:0 "£no£若我们完成任务时有一名§Y法兰西§!文化组的§M盟友§!，那么"
+
+EDG_mission_PIT_1_8_b_tt_yes:0 "£yes£若我们完成任务时有一名§Y日耳曼§!文化组的§M盟友§!，那么"
+EDG_mission_PIT_1_8_b_tt_no:0 "£no£若我们完成任务时有一名§Y日耳曼§!文化组的§M盟友§!，那么"
+
+EDG_mission_PIT_2_2_trigger_tooltip:0 "§Y陆军数量§!达到§M10§!且超过所有其他§Y清洁派§!国家。"
+
+EDG_mission_PIT_2_2_a_tt_yes:0 "£yes£若我们完成任务时同§Y皇帝§!是盟友，那么"
+EDG_mission_PIT_2_2_a_tt_no:0 "£no£若我们完成任务时同§Y皇帝§!是盟友，那么"
+EDG_mission_PIT_2_2_b_tt_yes:0 "£yes£若我们完成任务时同@FRA §Y法兰西§!是盟友，那么"
+EDG_mission_PIT_2_2_b_tt_no:0 "£no£若我们完成任务时同@FRA §Y法兰西§!是盟友，那么"
+EDG_mission_PIT_2_2_c_tt_yes:0 "£yes£若我们完成任务时同@VEN §Y威尼斯§!是盟友，那么"
+EDG_mission_PIT_2_2_c_tt_no:0 "£no£若我们完成任务时同@VEN §Y威尼斯§!是盟友，那么"
+
+EDG_mission_PIT_2_4_modifier_tt:0 "由于我们需要军事资源投入§Y军事改革§!，我们将会在十年内承受一定的§R负面影响§!。该修正将在十年后消失，并允许我们进行后续的§Y军事改革§!任务。"
+EDG_mission_PIT_2_2_flag_tt:0 "我们将选择一条§Y军事路线§!，这将永久改变我们的后续任务树§M条件§!和§M奖励§!。"
+
+
+EDG_flavorPIT_2_a_flag_tt:0 "我们将选择§Y国民军§!军事路线，提高我们的常规军质量。\n这将永久改变我们的后续任务树§M条件§!和§M奖励§!。"
+EDG_flavorPIT_2_b_flag_tt:0 "我们将选择§Y雇佣军§!军事路线，提高我们的雇佣军质量。\n这将永久改变我们的后续任务树§M条件§!和§M奖励§!。"
+
+EDG_mission_PIT_2_5_a_tt_yes:0 "£yes£若我们选择了§Y国民军§!路线，那么国家修正§Y「军事学说：仰赖国民军」§!将会被升级至如下效果："
+EDG_mission_PIT_2_5_a_tt_no:0 "£no£若我们选择了§Y国民军§!路线，那么国家修正§Y「军事学说：仰赖国民军」§!将会被升级至如下效果："
+EDG_mission_PIT_2_5_b_tt_yes:0 "£yes£若我们选择了§Y雇佣军§!路线，那么国家修正§Y「军事学说：仰赖雇佣军」§!将会被升级至如下效果："
+EDG_mission_PIT_2_5_b_tt_no:0 "£no£若我们选择了§Y雇佣军§!路线，那么国家修正§Y「军事学说：仰赖雇佣军」§!将会被升级至如下效果："
+
+EDG_mission_PIT_2_5_trigger_tooltip:0 "该任务的完成条件与奖励取决于我们选择的§Y军事路线§!。"
+
+EDG_flavorPIT_3_flag:0 "组建都灵卫队"
+EDG_flavorPIT_4_flag:0 "保家卫国"
+
+EDG_mission_PIT_3_3_effect_tooltip_1:0 "§R该任务与任务§!§M独立自主§!§R互斥§!，且会对任务§M热赫那家族§!的条件和奖励产生影响。"
+EDG_mission_PIT_3_3_effect_tooltip_2:0 "§R该任务与任务§!§M依赖王庭§!§R互斥§!，且会对任务§M热赫那家族§!的条件和奖励产生影响。"
+
+EDG_mission_PIT_3_3_trigger_tooltip:0 "该任务的条件和奖励取决于我们完成的任务是§M依赖王庭§!还是§M独立自主§!。"
+
+EDG_mission_PIT_3_3_a_tt_yes:0 "£yes£若我们在此前选择了§M依赖王庭§!，那么"
+EDG_mission_PIT_3_3_a_tt_no:0 "£no£若我们在此前选择了§M依赖王庭§!，那么"
+EDG_mission_PIT_3_3_b_tt_yes:0 "£yes£若我们在此前选择了§M独立自主§!，那么"
+EDG_mission_PIT_3_3_b_tt_no:0 "£no£若我们在此前选择了§M独立自主§!，那么"
+
+EDG_flavorPIT_10_a_tt:0 "撒丁人可能会支持我们的政权。"
+EDG_flavorPIT_12_flag:0 "军队荣耀"
+
+EDG_mission_PIT_3_7_a_tt_yes:0 "£yes£若我们是或曾是@SPI§Y撒丁-皮埃蒙特§!，那么"
+EDG_mission_PIT_3_7_a_tt_no:0 "£no£若我们是或曾是@SPI§Y撒丁-皮埃蒙特§!，那么"
+
+EDG_mission_FRA_2_2_trigger_tooltip:0 "没有同我们的首都位于同一片§Y次大陆§!的国家拥有比我们更高的§Y陆军规模§!。"
+EDG_mission_PIT_3_10_1_trigger_tooltip:0 "没有同我们的首都位于同一片§Y次大陆§!的国家拥有比我们更高的§Y陆军传统§!，或我们的陆军传统已经达到了100。"
+EDG_mission_PIT_3_10_2_trigger_tooltip:0 "没有同我们的首都位于同一片§Y次大陆§!的国家拥有比我们更高的§Y陆军职业度§!，或我们的陆军职业度已经达到了100。"
+
+EDG_flavorPIT_13_a_opinion_modifier:0 "摧毁罗马的枷锁"
+EDG_mission_PIT_5_6_modifier_trigger_tt:0 "直到我们结束与@PAP§Y教宗国§!的战争"
+EDG_mission_PIT_5_6_tt:0 "完成任务后，每当我们与@PAP§Y教宗国§!处于战争中时，我们将会获得如下修正："
+
+EDG_mission_PIT_1_8_flag_tt:0 "事件§Y「公立图书馆」§!将会在我们§Y文化组§!的省份内不断发生。"
+
+EDG_flavorPIT_14_a_tt:0 "该事件会不断发生，直到我们§Y文化组§!的省份都拥有该修正。"
+
+EDG_mission_PIT_2_9_tt:0 "所有拥有修正§Y「公立图书馆」§!的省份，将会获得如下效果："
+
+EDG_mission_PIT_1_3_flag_tt:0 "我们将解锁一系列§Y改革政体§!的决议，这将允许我们从§M共和制§!国家改革成为§Y神权制§!国家。\n在改革推进后，我们将面临§R灾难§!，唯有在§R灾难§!结束后，我们才能完成政体改革。"
+
+
+
+
+#萨克森
+EDG_mission_SAX_2_2_tt_a_yes:0 "£yes£若我们通过§Y军事§!手段完成任务，那么"
+EDG_mission_SAX_2_2_tt_a_no:0 "£no£若我们通过§Y军事§!手段完成任务，那么"
+EDG_mission_SAX_2_2_tt_b_yes:0 "£yes£若我们通过§G外交§!手段完成任务，那么"
+EDG_mission_SAX_2_2_tt_b_no:0 "£no£若我们通过§G外交§!手段完成任务，那么"
+EDG_mission_SAX_2_2_TRADE:0 "汉萨同盟给予特权"
+
+EDG_mission_SAX_1_2_tt:0 "获得所有§Y上萨克森§!文化省份的宣称。\n我们治下的所有§Y下萨克森§!文化的省份将产生如下效果："
+EDG_unhappy_opinion:0 "不满"
+edg_if_they_agree_tt:0 "若他们§G同意§!了我们的请求，那么"
+
+EDG_mission_claim_all_pommeranian_province_effect_tt:0 "我们将获得所有§Y波美拉尼亚§!文化省份的§G永久性宣称§!。"
+EDG_mission_claim_all_prussian_province_effect_tt:0 "我们将获得所有§Y普鲁士§!文化省份的§G永久性宣称§!。"
+EDG_mission_claim_all_lower_saxon_province_effect_tt:0 "我们将获得所有§Y下萨克森§!文化省份的§G永久性宣称§!。"
+EDG_mission_claim_all_hannoverian_province_effect_tt:0 "我们将获得所有§Y威斯特伐利亚§!文化省份的§G永久性宣称§!。"
+EDG_mission_claim_all_hessian_province_effect_tt:0 "我们将获得所有§Y莱茵§!文化省份的§G永久性宣称§!。"
+EDG_mission_claim_all_saxon_province_effect_tt:0 "我们将获得所有§Y上萨克森§!文化省份的§G永久性宣称§!。"
+EDG_mission_claim_all_franconian_province_effect_tt:0 "我们将获得所有§Y法兰克尼亚§!文化省份的§G永久性宣称§!。"
+EDG_mission_claim_all_swabian_province_effect_tt:0 "我们将获得所有§Y施瓦本§!文化省份的§G永久性宣称§!。"
+EDG_mission_claim_all_swiss_province_effect_tt:0 "我们将获得所有§Y瑞士§!文化省份的§G永久性宣称§!。"
+EDG_mission_claim_all_bavarian_province_effect_tt:0 "我们将获得所有§Y巴伐利亚§!文化省份的§G永久性宣称§!。"
+EDG_mission_claim_all_austrian_province_effect_tt:0 "我们将获得所有§Y奥地利§!文化省份的§G永久性宣称§!。"
+EDG_mission_claim_all_dutch_province_effect_tt:0 "我们将获得所有§Y荷兰§!文化省份的§G永久性宣称§!。"
+EDG_mission_claim_all_flemish_province_effect_tt:0 "我们将获得所有§Y弗兰德§!文化省份的§G永久性宣称§!。"
+EDG_mission_claim_all_frisian_province_effect_tt:0 "我们将获得所有§Y弗里斯兰§!文化省份的§G永久性宣称§!。"
+
+EDG_mission_SAX_1_3_tt_yes:0 "£yes£若我们是@H03诺德马克的§Y宗主§!，那么"
+EDG_mission_SAX_1_3_tt_no:0 "£no£若我们是@H03诺德马克的§Y宗主§!，那么"
+EDG_FRK_enable_form_flag_tt:0 "我们将被允许@FRK§Y重建法兰克帝国§!"
+
+EDG_mission_SAX_choice_tt_1:0 "§R请注意§!，该任务与§Y德意志民族主义§!相冲突！"
+EDG_mission_SAX_choice_tt_2:0 "§R请注意§!，该任务与§Y查理曼的遗产§!相冲突！"
+
+EDG_mission_SAX_army_decision_pommeranian_flag_tt:0 "解锁一个特殊决议，允许我们在§Y波美拉尼亚§!建立更完备的征兵体系。"
+EDG_mission_SAX_army_decision_prussian_flag_tt:0 "解锁一个特殊决议，允许我们在§Y普鲁士§!建立更完备的征兵体系。"
+EDG_mission_SAX_army_decision_lower_saxon_flag_tt:0 "解锁一个特殊决议，允许我们在§Y下萨克森§!建立更完备的征兵体系。"
+EDG_mission_SAX_army_decision_hannoverian_flag_tt:0 "解锁一个特殊决议，允许我们在§Y威斯特伐利亚§!建立更完备的征兵体系。"
+EDG_mission_SAX_army_decision_hessian_flag_tt:0 "解锁一个特殊决议，允许我们在§Y莱茵§!建立更完备的征兵体系。"
+EDG_mission_SAX_army_decision_saxon_flag_tt:0 "解锁一个特殊决议，允许我们在§Y上萨克森§!建立更完备的征兵体系。"
+EDG_mission_SAX_army_decision_franconian_flag_tt:0 "解锁一个特殊决议，允许我们在§Y法兰克尼亚§!建立更完备的征兵体系。"
+EDG_mission_SAX_army_decision_swabian_flag_tt:0 "解锁一个特殊决议，允许我们在§Y施瓦本§!建立更完备的征兵体系。"
+EDG_mission_SAX_army_decision_swiss_flag_tt:0 "解锁一个特殊决议，允许我们在§Y瑞士§!建立更完备的征兵体系。"
+EDG_mission_SAX_army_decision_bavarian_flag_tt:0 "解锁一个特殊决议，允许我们在§Y巴伐利亚§!建立更完备的征兵体系。"
+EDG_mission_SAX_army_decision_austrian_flag_tt:0 "解锁一个特殊决议，允许我们在§Y奥地利§!建立更完备的征兵体系。"
+EDG_mission_SAX_army_decision_dutch_flag_tt:0 "解锁一个特殊决议，允许我们在§Y荷兰§!建立更完备的征兵体系。"
+EDG_mission_SAX_army_decision_flemish_flag_tt:0 "解锁一个特殊决议，允许我们在§Y弗兰德§!建立更完备的征兵体系。"
+EDG_mission_SAX_army_decision_frisian_flag_tt:0 "解锁一个特殊决议，允许我们在§Y弗里斯兰§!建立更完备的征兵体系。"
+
+EDG_flavorSAX_6_a_flag_tt:0 "在§M新教§!出现之前，我们将能够吸引国外的§Y祷告派§!信徒来到我们的国土上，他们将在我国定居，甚至影响我国省份的§Y主流信仰§!。"
+EDG_flavorSAX_1_6_tt:0 "我们治下的所有不信仰§Y祷告派§!的省份，将会获得如下效果："
+EDG_flavorSAX_1_6_tt_2:0 "§Y祷告派§!信徒定居事件将会随机在一个省份扩大§Y祷告派社区§!，具体产生如下效果:\n-若该省份不信仰§Y祷告派§!且没有§G小型祷告派社区§!，那么添加一个§G小型祷告派社区§!。\n-若该省份有§G小型祷告派社区§!且发展度低于7，那么省份信仰转变为§Y祷告派§!，否则添加一个§G中型祷告派社区§!。\n-若该省份有§G中型祷告派社区§!且发展度低于13，那么省份信仰转变为§Y祷告派§!，否则添加一个§G大型祷告派社区§!。\n-若该省份有§G大型祷告派社区§!，那么省份信仰转变为§Y祷告派§!。\n-此外，我们治下的信仰§Y祷告派§!的省份，将会有一个额外的事件以获取§G发展度§!。"
+
+EDG_flavorSAX_7_c_effect_tt:0 "不会再有§Y祷告派§!的信徒移民至我们的国家。\n\n我们国土中的所有§Y祷告派社区§!将会被解散。"
+
+EDG_mission_SAX_1_7_tt:0 "我们治下的随机3个§Y非天主教§!的§Y基督教§!省份将会获得如下修正："
+EDG_mission_SAX_1_8_tt:0 "我们将获得所有§Y祷告派§!省份的§G核心§!。\n\n我们治下的每个§Y祷告派§!省份将会为我们提供§M5§!点£adm£,£dip£和£mil£"
+
+EDG_mission_SAX_1_12_a_tt_yes:0 "£yes£若有§M4§!个§Y选帝侯§!支持我们成为§Y皇帝§!，那么"
+EDG_mission_SAX_1_12_a_tt_no:0 "£no£若有§M4§!个§Y选帝侯§!支持我们成为§Y皇帝§!，那么"
+
+EDG_mission_SAX_1_14_tt:0 "若我们的国家修正§Y三十年战争的真正领袖§!尚未到期，那么会将其§G永久化§!。"
+EDG_mission_SAX_1_15_trigger_tt:0 "帝国境内没有信仰§Y异端异教§!宗教的国家。"
+
+EDG_mission_SAX_2_7_change_province_religion_tt:0 "我们治下的所有§Y非天主教§!的§Y基督教§!省份将会被转变为§M新教§!。\n\n我们的所有属国也将皈依§M新教§!。"
+
+EDG_mission_SAX_2_9_tt:0 "所有与我们相邻的§Y天主教§!省份将会获得如下修正："
+
+EDG_mission_SAX_2_11_a_tt_yes:0 "£yes£若我们的陆军规模达到§Y30§!且没有§M新教§!的§Y帝国诸侯§!拥有比我们更高的陆军规模，那么"
+EDG_mission_SAX_2_11_a_tt_no:0 "£no£若我们的陆军规模达到§Y30§!且没有§M新教§!的§Y帝国诸侯§!拥有比我们更高的陆军规模，那么"
+
+EDG_mission_SAX_2_13_a_tt_yes:0 "£yes£若我们是§Y帝国大元帅§!，那么"
+EDG_mission_SAX_2_13_a_tt_no:0 "£no£若我们是§Y帝国大元帅§!，那么"
+
+EDG_mission_SAX_2_13_b_tt_yes:0 "£yes£若我们有§M4§!个选帝侯支持我们成为皇帝，或我们是§Y皇帝§!，那么"
+EDG_mission_SAX_2_13_b_tt_no:0 "£no£若我们有§M4§!个选帝侯支持我们成为皇帝，或我们是§Y皇帝§!，那么"
+
+EDG_mission_SAX_2_14_tt_yes:0 "£yes£若我们拥有修正§Y帝国军事领袖§!，那么将其升级为如下效果："
+EDG_mission_SAX_2_14_tt_no:0 "£no£若我们拥有修正§Y帝国军事领袖§!，那么将其升级为如下效果："
+
+EDG_mission_SAX_3_2_tt:0 "与我们§Y同一王朝§!的好感达到§Y180§!的盟友将会成为我们的§Y神圣罗马陪臣国§!。"
+
+EDG_mission_SAX_2_11_a_tt_yes:0 "若我们的陆军规模达到§Y30§!，且没有任何信仰§Y新教§!的帝国诸侯拥有比我们更大的陆军规模，那么"
+
+EDG_mission_SAX_3_3_yes1:0 "£yes£若@MAI§Y美因茨§!是我们的§Y属国§!，那么"
+EDG_mission_SAX_3_3_no1:0 "£no£若@MAI§Y美因茨§!是我们的§Y属国§!，那么"
+
+EDG_mission_SAX_3_3_yes2:0 "£yes£若@HES§Y黑森§!是我们的§Y属国§!，那么"
+EDG_mission_SAX_3_3_no2:0 "£no£若@HES§Y黑森§!是我们的§Y属国§!，那么"
+
+
+EDG_mission_SAX_3_4_a_tt_yes:0 "£yes£若我们是§Y帝国大元帅§!，那么符合条件的省份将会获得如下修正："
+EDG_mission_SAX_3_4_a_tt_no:0 "£no£若我们是§Y帝国大元帅§!，那么符合条件的省份将会获得如下修正："
+
+EDG_mission_SAX_3_7_flag_tt:0 "当我们与@FRA§Y法兰西§!处于战争中时，我们将获得§Y陆军士气§!:§G+10%§!的修正。"
+EDG_mission_SAX_3_7_flag_trigger_modifier:0 "对抗法兰西"
+EDG_mission_SAX_3_8_tt:0 "我们将获得针对所有§Y法兰西§!文化组的国家的§M吞并§!宣战理由。"
+
+EDG_mission_SAX_3_12_flag_tt:0 "当我们与§Y皇帝§!是同盟时，我们将获得§Y人力恢复速度§!:§G+10%§!的修正。"
+EDG_mission_SAX_3_12_flag_trigger_modifier:0 "大元帅与皇帝同盟"
+
+EDG_appeal_to_be_Generalissimo_decision_enable_flag_tt:0 "解锁决议 §Y请求委任帝国大元帅§!"
+EDG_alliance_with_emperor_trigger_tt:0 "与§Y神圣罗马帝国皇帝§!是军事同盟"
+
+EDG_hereditary_Generalissimo_flag_tt:0 "无论我们是否是§Y帝国大元帅§!，我们都会将该职位§Y世袭化§!，除非我们亡国，否则无人能够剥夺我们的特权。同时，我们也不再需要通过与§Y皇帝§!结盟的方式来采纳§Y大元帅决议§!。"
+EDG_hereditary_Generalissimo_modifier:0 "大元帅世袭化"
+
+EDG_mission_SAX_4_1_tt_yes1:0 "£yes£若我们与皇帝是§Y宿敌§!，那么"
+EDG_mission_SAX_4_1_tt_no1:0 "£no£若我们与皇帝是§Y宿敌§!，那么"
+EDG_mission_SAX_4_1_tt_yes2:0 "£yes£若我们与皇帝是§Y盟友§!，那么"
+EDG_mission_SAX_4_1_tt_no2:0 "£no£若我们与皇帝是§Y盟友§!，那么"
+EDG_mission_SAX_4_1_tt_yes3:0 "£yes£若我们是§Y皇帝§!，那么"
+EDG_mission_SAX_4_1_tt_no3:0 "£no£若我们是§Y皇帝§!，那么"
+EDG_mission_SAX_4_1_tt_yes4:0 "£yes£若我们的陆军规模大于§Y皇帝§!或§Y帝国§!不存在，那么"
+EDG_mission_SAX_4_1_tt_no4:0 "£no£若我们的陆军规模大于§Y皇帝§!或§Y帝国§!不存在，那么"
+
+EDG_flavorSAX_9_a_opinion:0 "忠诚的帝国大元帅"
+EDG_flavorSAX_9_b_opinion:0 "悖逆的帝国大元帅"
+
+EDG_mission_SAX_4_2_flag_TT:0 "当我们是§Y帝国大元帅§!时，我们将会激活如下触发修正："
+
+EDG_mission_SAX_4_5_tt_yes1:0 "£yes£若§Y德意志农民战争§!已经开始且尚未结束，那么"
+EDG_mission_SAX_4_5_tt_no1:0 "£no£若§Y德意志农民战争§!已经开始且尚未结束，那么"
+
+EDG_mission_SAX_4_5_tt_yes2:0 "£yes£若我们与皇帝是§R宿敌§!或与其§R处于战争§!，那么"
+EDG_mission_SAX_4_5_tt_no2:0 "£no£若我们与皇帝是§R宿敌§!或与其§R处于战争§!，那么"
+
+EDG_mission_SAX_4_8_flag_tt:0 "我们将被允许在§Y10§!级行政科技时成立@GER§Y德意志§!"
+
+EDG_mission_SAX_4_2_flag_trigger_modifier:0 "帝国政府征募元帅亲兵"
+EDG_mission_SAX_5_2_flag_trigger_modifier:0 "帝国公捐税维护元首卫队"
+EDG_mission_SAX_5_3_flag_trigger_modifier:0 "永久元帅幕府"
+
+EDG_mission_SAX_4_13_flag_tt:0 "解锁属国类型-§Y帝国军事采邑§!\n该属国将§Y占用外交关系§!，但可以通过对§Y附庸国§!和§Y神圣罗马陪臣国§!采取特定的§M外交行动§!获取，其特性与§Y卫戍国§!一致，但每个§Y帝国军事采邑§!将会额外为我们提供§M1%§!的§Y训练度§!和§M0.02§!的月度§Y帝国军事领袖§!点数。"
+
+EDG_EDG_SAX_march_overlord_modifier:0 "帝国军事采邑"
+
+
+EDG_mission_SAX_4_13_a_tt_yes:0 "£yes£若我们在完成任务时并非§Y帝国圈侯爵§!，那么\n我们将成为§Y帝国圈侯爵§!。"
+EDG_mission_SAX_4_13_a_tt_no:0 "£no£若我们在完成任务时并非§Y帝国圈侯爵§!，那么\n我们将成为§Y帝国圈侯爵§!。"
+
+EDG_mission_SAX_2_14_flag_tt:0 "我们使用§Y帝国军事领袖§!的任意政府能力时，将额外获得§G10§!的§Y陆军传统§!。"
+EDG_mission_SAX_4_14_flag_tt:0 "我们使用§Y帝国军事领袖§!的任意政府能力时，将额外获得§G2%§!的§Y陆军职业度§!。"
+
+EDG_mission_SAX_5_7_a_tt_yes:0 "£yes£若@HAB奥地利是§Y皇帝§!，那么"
+EDG_mission_SAX_5_7_a_tt_no:0 "£no£若@HAB奥地利是§Y皇帝§!，那么"
+
+EDG_mission_SAX_5_11_tt:0 "我们使用§Y帝国军事领袖§!的互动§Y招募附庸军官§!时，将会根据我们的陆军规模上限获得一定数量的§Y近卫军§!，至多获取§Y5§!个单位。"
+EDG_mission_SAX_5_11_flag_tt:0 "我们使用§Y帝国军事领袖§!的互动§Y招募附庸军官§!时，我们将会额外获得如下修正："
+
+EDG_mission_SAX_5_12_flag_tt:0 "解锁一系列§Y陆军改革§!相关的决议。"
+
+EDG_ability_SAX_3_12_flag_tt:0 "当我们是§Y帝国大元帅§!时，§Y帝国军事领导力§!将会提供至多§M+25%§!的§Y改善关系§!。"
+EDG_ability_SAX_3_13_flag_tt:0 "当我们是§Y帝国大元帅§!时，§Y帝国军事领导力§!将会提供至多§M-25%§!的§Y军事顾问花费§!。"
+EDG_ability_SAX_3_15_flag_tt:0 "当我们是§Y帝国大元帅§!时，§Y帝国军事领导力§!将会提供至多§M-25%§!的§Y核心化花费§!。"
+EDG_ability_SAX_4_13_flag_tt:0 "当我们是§Y帝国大元帅§!时，§Y帝国军事领导力§!将会提供至多§M-25%§!的§Y属国独立倾向§!。"
+EDG_ability_SAX_4_14_flag_tt:0 "当我们是§Y帝国大元帅§!时，§Y帝国军事领导力§!将会提供至多§M-100%§!的§Y降低厌战度花费§!。"
+EDG_ability_SAX_5_10_flag_tt:0 "§Y帝国军事领导力§!将会提供至多§M-20%§!的§Y军事科技花费§!。"
+EDG_ability_SAX_5_11_flag_tt:0 "§Y帝国军事领导力§!将会提供至多§M+20%§!的§Y步兵作战能力§!。"
+EDG_ability_SAX_5_12_flag_tt:0 "§Y帝国军事领导力§!将会提供至多§M+10%§!的§Y训练度§!。"
+EDG_ability_SAX_5_14_flag_tt:0 "§Y帝国军事领导力§!将会提供至多§M+20%§!的§Y士气打击§!。"
+EDG_ability_SAX_5_15_flag_tt:0 "§Y帝国军事领导力§!将会提供至多§M+1§!的§Y步兵基础火力§!。"
+
+EDG_protestant_religion_decision_9_flag_tt:0 "决议§Y打压虔敬主义§!和§Y推崇虔敬主义§!相互矛盾，我们只能二者选其一。"
+
+EDG_mission_SAX_1_14_modifier_will_be_removed_tt:0 "在我们完成任务§Y德意志民族主义§!时，该修正将会被移除。"
+
+#德意志
+EDG_mission_GER_3_16_modifier_restore_effect_tt_yes:0 "£yes£若国家修正§Y德意志高于一切§!尚未到期，那么该修正的持续时间将被重置为§M25§!年。"
+EDG_mission_GER_3_16_modifier_restore_effect_tt_no:0 "£no£若国家修正§Y德意志高于一切§!尚未到期，那么该修正的持续时间将被重置为§M25§!年。"
+
+EDG_mission_GER_3_19_modifier_end_tt:0 "无论我们是否还拥有国家修正§Y德意志高于一切§!，该国家修正将会§Y永久化§!。"
+
+remove_EDG_mission_GER_5_21_modifier_tt:0 "无论我们是否拥有国家修正§Y德意志教育改革§!，我们都会将该修正升级为如下修正："
+
+
+EDG_flavorBRA_mission.7.b:0 "我们有别的选择。"
+
+
+#通用
+EDG_give_all_the_province_the_modifier_tt:0 "所有§Y符合条件§!的省份将获得如下修正："
+EDG_lost_all_core_effect_tt:0 "[Root.GetAdjective]将失去所有处于外国的§Y核心§!。"
+EDG_give_all_manufactories_province_the_modifier_tt:0 "所有拥有§Y任意工场§!的省份将获得如下修正："
+EDG_give_all_university_province_the_modifier_tt:0 "所有拥有§Y大学§!的省份将获得如下修正："
+
+EDG_upgrade_center_of_trade_provide_4mercantilism_flag_tt:0 "当我们升级§Y贸易中心§!时，将会额外获得§G4§!点§M重商主义§!。"
+
+EDG_HAB_mission_5_12_artist_tt:0 "我们的行政顾问§Y艺术家§!的每个等级将会给予我们§G10%§!的§M全国思潮传播速度增长§!。"
+EDG_HAB_mission_5_12_artist_flag_tt:0 "我们的行政顾问§Y艺术家§!的每个等级将会给予我们§G10%§!的§M全国思潮传播速度增长§!。"
+EDG_HAB_mission_5_12_philosopher_tt:0 "我们的行ി
+EDG_HAB_mission_5_12_philosopher_flag_tt:0 "我们的行政顾问§Y哲学家§!的每个等级将会给予我们§G-5%§!的§M稳定度提升花费§!。"
+EDG_castle_master_provide_army_tradition_flag_tt:0 "我们的军事顾问§Y堡主§!的每个等级将会给予我们§G+0.25§!的§M年度陆军传统§!。"
+EDG_tax_bailiff_provide_tax_flag_tt:0 "我们的行政顾问§Y执达官§!的每个等级将会给予我们§G+5%§!的§M国家税收收入修正§!。"
+
+EDG_economist_provide_global_trade_goods_size_modifier_flag_tt:0 "我们的行政顾问§Y经济学家§!的每个等级将会给予我们§G+5%§!的§M商品产出修正§!。"
+EDG_architect_provide_great_project_upgrade_cost_flag_tt:0 "我们的行政顾问§Y建筑学家§!的每个等级将会给予我们§G-5%§!的§M伟大工程花费§!。"
+EDG_reformer_provide_global_institution_spread_flag_tt:0 "我们的行政顾问§Y改革家§!的每个等级将会给予我们§G+10%§!的§M全国思潮传播速度§!。"
+EDG_procurator_provide_global_unrest_flag_tt:0 "我们的行政顾问§Y检察官§!的每个等级将会给予我们§G-0.5§!的§M全国叛乱度§!。"
+EDG_cardinal_provide_tolerance_own_flag_tt:0 "我们的行政顾问§Y枢机主教§!的每个等级将会给予我们§G+0.5§!的§M正统信仰容忍§!。"
+EDG_master_of_mint_provide_global_trade_goods_size_modifier_flag_tt:0 "我们的行政顾问§Y铸币专家§!的每个等级将会给予我们§G+5%§!的§M商品产出修正§!。"
+EDG_cavalry_commander_provide_5_shock_damage_flag_tt:0 "我们的军事顾问§Y骑兵指挥官§!的每个等级将会给予我们§G+5%§!的§M冲击伤害§!。"
+EDG_siege_engineer_provide_5_artillery_power_flag_tt:0 "我们的军事顾问§Y围城专家§!的每个等级将会给予我们§G+5%§!的§M炮兵作战能力§!。"
+EDG_siege_engineer_provide_5_backrow_artillery_damage_flag_tt:0 "我们的军事顾问§Y围城专家§!的每个等级将会给予我们§G+5%§!的§M后排炮兵伤害§!。"
+EDG_reformer_provide_adm_tech_cost_modifier_flag_tt:0 "我们的行政顾问§Y改革家§!的每个等级将会给予我们§G-3%§!的§M行政科技花费§!。"
+EDG_admiral_provide_dip_tech_cost_modifier_flag_tt:0 "我们的外交顾问§Y海军元帅§!的每个等级将会给予我们§G-3%§!的§M外交科技花费§!。"
+
+
+can_seize_crownland_to_estates_targeted_flag_tt:0 "我们将可以没收§Y指定阶层§!的§M王冠领地§!。"
+
+EDG_army_reformer_provide_army_tradition_flag_tt:0 "我们的军事顾问§Y陆军改革家§!的每个等级将会给予我们§G+0.25%§!的§M年度陆军职业度§!。"
+EDG_more_conquer_personality_flag_1_tt:0 "我们的统治者将更容易获得§Y征服者§!特质。"
+EDG_more_strict_personality_flag_1_tt:0 "我们的统治者将更容易获得§Y治军严明§!特质。"
+EDG_more_bold_fighter_personality_flag_1_tt:0 "我们的统治者将更容易获得§Y勇士§!特质。"
+EDG_more_martial_educator_personality_flag_1_tt:0 "我们的统治者将更容易获得§Y军事教育家§!特质。"
+EDG_less_drunkard_personality_flag_1_tt:0 "我们的统治者将不容易获得§Y放荡不羁§!特质。"
+
+
+EDG_on_barrage_give_army_tradition_flag_tt:0 "当我们§Y炮击城墙§!时，我们将获得§M1§!点§Y陆军传统§!"
+EDG_on_barrage_give_army_professionalism_flag_tt:0 "当我们§Y炮击城墙§!时，我们将获得§M1§!点§Y陆军职业度§!"
+
+EDG_on_mil_development_provide_1_army_tradition_flag_tt:0 "当我们手动提高一个省份的§Y基础人力§!时，我们将额外获得§M1§!点§Y陆军传统§!"
+
+EDG_Praetorian_Prefect_enable_flag_tt:0 "我们将解锁军事顾问§Y禁卫军长官§!，该顾问提供如下修正：\n特殊兵种招募上限: §G+25%§!"
+
+EDG_on_diplomatic_annex_provide_50_mil_power_flag_tt:0 "当我们§Y外交吞并§!一个国家时，我们将额外获得§M50§!点§Y军事点数§!"
+
+EDG_building_give_temple_or_upgrate_effect_tt:0 "若没有建筑§Y教堂§!，则在本地获得一个§Y教堂§!。若已存在§Y教堂§!，则升级为§Y大教堂§!。若已存在§Y大教堂§!，则获得两点§Y税收§!£adm£"
+EDG_building_give_workshop_or_upgrate_effect_tt:0 "若没有建筑§Y工坊§!，则在本地获得一个§Y工坊§!。若已存在§Y工坊§!，则升级为§Y会计室§!。若已存在§Y会计室§!，则获得两点§Y基础生产§!£production£"
+EDG_building_give_barracks_or_upgrate_effect_tt:0 "若没有建筑§Y兵营§!，则在本地获得一个§Y兵营§!。若已存在§Y兵营§!，则升级为§Y训练营§!。若已存在§Y训练营§!，则获得两点§Y人力§!£manpower£"
+EDG_building_give_marketplace_or_upgrate_effect_tt:0 "若没有建筑§Y集市§!，则在本地获得一个§Y集市§!。若已存在§Y集市§!或同类建筑，则将其§Y升级§!。若已存在§Y证券交易所§!，则获得两点§Y基础生产§!£production£"
+EDG_building_give_dock_or_upgrate_effect_tt:0 "若没有建筑§Y码头§!，则在本地获得一个§Y码头§!。若已存在§Y码头§!或同类建筑，则在本地获得一个§Y干码头§!。若已存在§Y干码头§!，则获得两点§Y基础生产§!£production£"
+EDG_building_give_shipyard_or_upgrate_effect_tt:0 "若没有建筑§Y造船厂§!，则在本地获得一个§Y造船厂§!。若已存在§Y造船厂§!，则升级为§Y大造船厂§!。若已存在§Y大造船厂§!，则获得两点§Y基础生产§!£production£"
+EDG_building_give_courthouse_or_upgrate_effect_tt:0 "若没有建筑§Y法院§!，则在本地获得一个§Y法院§!。若已存在§Y法院§!，则升级为§Y市政厅§!。若已存在§Y市政厅§!，则获得两点§Y基础税收§!£adm£"
+EDG_building_give_regimental_camp_or_upgrate_effect_tt:0 "若没有建筑§Y军营§!，则在本地获得一个§Y军营§!。若已存在§Y军营§!，则升级为§Y征召中心§!。若已存在§Y征召中心§!，则获得两点§Y人力§!£manpower£"
+EDG_building_give_universityp_or_upgrate_effect_tt:0 "若没有建筑§Y大学§!，则在本地获得一个§Y大学§!。若已存在§Y大学§!，则获得两点§Y基础生产§!£production£"
+
+
+EDG_tartar_subject_provide_cavalry_flanking_modifier_ability_flag_tt:0 "我们的每个§Y鞑靼§!文化组的属国将会为我们提供§M5%§!的骑兵作战能力。"
+EDG_russian_subject_provide_manpower_modifier_ability_flag_tt:0 "我们的每个§Y东斯拉夫§!文化组的属国将会为我们提供§M2.5%§!的国家人力修正。"
+EDG_captial_iranian_subject_provide_manpower_modifier_ability_flag_tt:0 "我们的每个首都位于§Y波斯§!次大陆的属国将会为我们提供§M2.5%§!的国家人力修正。"
+EDG_captial_india_subject_provide_manpower_modifier_ability_flag_tt:0 "我们的每个首都位于§Y印度§!次大陆的属国将会为我们提供§M2.5%§!的国家人力修正。"
+
+EDG_levant_group_adviser_enable_adm_upgrate_event_flag_tt:0 "在我们雇佣§Y黎凡特§!文化组的顾问时，我们的统治者将有可能获得§M1§!点£adm£行政能力的提升。每任统治者仅可能触发一次。"
+EDG_west_Slavic_group_adviser_enable_adm_upgrate_event_flag_tt:0 "在我们雇佣§Y西斯拉夫§!文化组的顾问时，我们的统治者将有可能获得§M1§!点£dip£外交能力的提升。每任统治者仅可能触发一次。"
+
+
+
+ EDG_UKR_mission_5_4_title:0 "招募哥萨克"
+ EDG_UKR_mission_5_4_desc:0 "哥萨克人骁勇善战，一直是我们传统骑兵的核心力量，我们应当展示我们的潜力，让更多的哥萨克人投奔我们，并为击败鞑靼人和统治扎波罗热做准备。"
+
+
+EDG_MISSION_religion_is_orthodox_tt_yes:0 "£yes£若我们的国教是§Y东正教§!，那么"
+EDG_MISSION_religion_is_orthodox_tt_no:0 "£no£若我们的国教是§Y东正教§!，那么"
+
+fra_every_court_house_tt:0 "我们治下的拥有§Y法院§!和§Y市政厅§!的省份将会获得§G-1§!叛乱度的修正。"
+
+EDG_culture_promoted_provide_10_prestige_flag_tt:0 "当我们主动§Y接纳文化§!时，我们将额外获得§G10§!点§M威望§!。"
+EDG_culture_promoted_provide_10_army_tradition_flag_tt:0 "当我们主动§Y接纳文化§!时，我们将额外获得§G10§!点§M陆军传统§!。"
+EDG_culture_promoted_provide_2_5_innovativeness_flag_tt:0 "当我们主动§Y接纳文化§!时，我们将额外获得§G2.5§!点§M创新度§!。"
+EDG_culture_promoted_provide_2_mercantilism_flag_tt:0 "当我们主动§Y接纳文化§!时，我们将额外获得§G2§!点§M重商主义§!。"
+EDG_culture_promoted_provide_10_republican_tradition_flag_tt:0 "当我们主动§Y接纳文化§!时，我们将额外获得§G10§!点§M威望§!。"
+
+
+EDG_institution_embracement_provide_10_army_tradition_flag_tt:0 "当我们主动§Y接纳思潮§!时，我们将额外获得§G10§!点§M陆军传统§!。"
+EDG_institution_embracement_provide_5_innovativeness_flag_tt:0 "当我们主动§Y接纳思潮§!时，我们将额外获得§G5§!点§M创新度§!。"
+EDG_institution_embracement_provide_5_mercantilism_flag_tt:0 "当我们主动§Y接纳思潮§!时，我们将额外获得§G5§!点§M重商主义§!。"
+EDG_institution_embracement_provide_10_republican_tradition_flag_tt:0 "当我们主动§Y接纳思潮§!时，我们将额外获得§G10§!点§M共和传统§!。"
+EDG_institution_embracement_provide_100_splendor_flag_tt:0 "当我们主动§Y接纳思潮§!时，我们将额外获得§G100§!点§M辉煌点数§!。"
+
+
+EDG_centralized_state_provide_10_government_reform_progress_flag_tt:0 "当我们完成§Y州权力集中化§!时，我们将额外获得§G10§!点§M政府改革§!。"
+EDG_centralized_state_provide_2_5_innovativeness_flag_tt:0 "当我们完成§Y州权力集中化§!时，我们将额外获得§G2.5§!点§M创新度§!。"
+
+EDG_defender_of_faith_claim_provide_100_power_first_flag_tt:0 "当我们宣称§Y信仰守护者§!时，我们将额外获得§G100§!点£adm£，£dip£和£mil£。"
+
+EDG_missionary_gain_adm_power_flag_tt:0 "每当我们完成一个省份的§Y传教§!，我们将会获得§M5§!点§Y行政点§!£adm£。"
+EDG_missionary_gain_dip_power_flag_tt:0 "每当我们完成一个省份的§Y传教§!，我们将会获得§M5§!点§Y外交点§!£dip£。"
+EDG_missionary_gain_mil_power_flag_tt:0 "每当我们完成一个省份的§Y传教§!，我们将会获得§M5§!点§Y军事点§!£mil£。"
+
+EDG_faith_protector_provide_war_province_cost_modifier_flag_tt:0 "当我们宣称§Y信仰守护者§!时，我们将能够获得§M10%§!的§G异端异教省份战争分数减免§!。"
+EDG_faith_protector_provide_governing_10_capacity_modifier_flag_tt:0 "当我们宣称§Y信仰守护者§!时，我们将能够获得§M10%§!的§G行政容量修正§!。"
+EDG_faith_protector_provide_1_tolerance_own_modifier_flag_tt:0 "当我们宣称§Y信仰守护者§!时，我们将能够获得§M1§!的§G正统信仰容忍§!。"
+
+EDG_mission_pap_controller_provide_extra_buff_flag_tt:0 "在完成任务后，只要我们是§Y教廷监护§!，我们将额外获得如下修正：\n正统信仰容忍:§G+1§!\n年度教廷影响力:§G+2§!\n抵抗宗教改革:§G+25%§!"
+EDG_mission_pap_controller_provide_extra_buff_trigger_modifier:0 "强大的教廷监护"
+
+EDG_war_with_muslim_great_power_provide_10_land_moral_flag_tt:0 "当我们同§Y穆斯林列强§!交战时，我们将会额外获得§M10%§!的§G陆军士气§!和§M2§!点§G年度教廷影响力§!。"
+EDG_war_with_muslim_great_power_provide_10_land_moral_trigger_modifier:0 "对抗穆斯林列强"
+
+   # unlock_merc_company = {
+   #    merc_company = merc_prussian_volunteer_army
+   #    free_merc = yes
+   # }
+
+EDG_on_general_recruited_provide_1_army_tradition_flag_tt:0 "当我们主动§Y招募陆军将领§!时，我们将额外获得§G1§!点§M陆军传统§!。"
+EDG_on_general_recruited_provide_500_manpower_flag_tt:0 "当我们主动§Y招募陆军将领§!时，我们将额外获得§G500§!的§M人力§!。"
+EDG_on_admiral_recruited_provide_1_army_tradition_flag_tt:0 "当我们主动§Y招募海军将领§!时，我们将额外获得§G1§!点§M海军传统§!。"
+
+
+EDG_on_adm_exploited_reduce_FYM_corruption_flag_tt:0 "当我们剥削省份的§Y基础税收§!时，将有§M50%§!的概率，减少我们§M1§!点§Y帝国腐化度§!"
+EDG_on_dip_exploited_reduce_FYM_corruption_flag_tt:0 "当我们剥削省份的§Y基础生产§!时，将有§M50%§!的概率，减少我们§M1§!点§Y帝国腐化度§!"
+EDG_on_mil_exploited_reduce_FYM_corruption_flag_tt:0 "当我们剥削省份的§Y基础人力§!时，将有§M50%§!的概率，减少我们§M1§!点§Y帝国腐化度§!"
+can_sell_crownland_to_estates_targeted_flag_tt:0 "我们将能将§Y王冠领地§!出售给§Y指定阶层§!"
+can_seize_crownland_to_estates_targeted_flag_tt:0 "我们将能够从§Y指定阶层§!手中§Y没收领地§!"
+
+
+
+EDG_RandomEvents_unable_poor_uniforms_flag_tt:0 "负面事件§Y「劣质的制服」§!将不会再发生"
+EDG_RandomEvents_unable_Temporary_insanity_of_Monarch_flag_tt:0 "负面事件§Y「君主临时性精神错乱」§!将不会再发生"
+EDG_RandomEvents_unable_Scandal_at_the_Court_flag_tt:0 "负面事件§Y「宫廷丑闻」§!将不会再发生"
+EDG_RandomEvents_unable_Wave_of_obscurantism_flag_tt:0 "负面事件§Y「蒙昧主义浪潮」§!将不会再发生"
+EDG_RandomEvents_always_Diplomatic_move_flag_tt:0 "事件§Y「外交行动」§!不再要求统治者外交属性为§M4§!"
+EDG_RandomEvents_unable_Poor_government_policies_flag_tt:0 "负面事件§Y「政策失当」§!将不会再发生"
+EDG_RandomEvents_unable_Unhappiness_among_the_merchants_flag_tt:0 "负面事件§Y「商人团不满」§!将不会再发生"
+EDG_RandomEvents_unable_Political_Crisis_flag_tt:0 "负面事件§Y「政治危机」§!将不会再发生"
+EDG_RandomEvents_unable_Corruption_flag_tt:0 "负面事件§Y「腐败丛生」§!将不会再发生"
+EDG_RandomEvents_unable_Nobles_flag_tt:0 "负面事件§Y「贵族要求特权」§!将不会再发生"
+EDG_RandomEvents_unable_Trading_Company_Disaster_flag_tt:0 "负面事件§Y「贸易公司破产」§!将不会再发生"
+EDG_RandomEvents_unable_Nobles_ally_with_foreign_power_flag_tt:0 "负面事件§Y「贵族通外」§!将不会再发生"
+EDG_RandomEvents_unable_Assassination_flag_tt:0 "负面事件§Y「刺杀贵族」§!将不会再发生"
+EDG_RandomEvents_unable_Nobles_demand_increased_pensions_flag_tt:0 "负面事件§Y「贵族要求津贴」§!将不会再发生"
+EDG_RandomEvents_unable_Nobles_demand_old_rights_flag_tt:0 "负面事件§Y「贵族要求旧有权利」§!将不会再发生"
+EDG_RandomEvents_unable_Cities_demand_old_rights_flag_tt:0 "负面事件§Y「城市要求旧有权利」§!将不会再发生"
+EDG_RandomEvents_unable_enforcement_of_ordinances_flag_tt:0 "负面事件§Y「政令不行」§!将不会再发生"
+EDG_RandomEvents_unable_Bourgeoisie_request_privileges_flag_tt:0 "负面事件§Y「商人工会要求特权」§!将不会再发生"
+EDG_RandomEvents_unable_Petition_for_redress_flag_tt:0 "负面事件§Y「农民情愿」§!将不会再发生"
+EDG_RandomEvents_unable_Grant_nobles_aid_flag_tt:0 "负面事件§Y「贵族要求援助」§!将不会再发生"
+EDG_RandomEvents_unable_Dramatic_Currency_Revaluation_flag_tt:0 "负面事件§Y「戏剧性的货币重估」§!将不会再发生"
+EDG_RandomEvents_unable_Decadence_flag_tt:0 "负面事件§Y「不思进取」§!将不会再发生"
+EDG_RandomEvents_unable_ruler_embarrasses_the_court_flag_tt:0 "负面事件§Y「统治者使宫廷窘迫」§!将不会再发生"
+EDG_RandomEvents_unable_Nobles_Demand_Recompensation_flag_tt:0 "负面事件§Y「贵族要求报答」§!将不会再发生"
+EDG_RandomEvents_unable_ruler_reputation_tarnished_flag_tt:0 "负面事件§Y「统治者名誉受损」§!将不会再发生"
+EDG_RandomEvents_unable_Generation_of_Cowards_tarnished_flag_tt:0 "负面事件§Y「懦夫的一代」§!将不会再发生"
+EDG_RandomEvents_unable_New_Trade_Research_is_Heretical_flag_tt:0 "负面事件§Y「新的贸易研究是异端行为」§!将不会再发生"
+EDG_RandomEvents_unable_EDG_flavor_development_1_and_6_flag_tt:0 "负面事件§Y「灾荒」§!将不会再发生"
+
+EDG_on_golden_bull_enacted_provide_20_prestige_flag_tt:0 "颁布金玺诏书时获得§M20§!点§Y威望§!"
+EDG_land_seizure_provide_25_3_power_flag_tt:0 "§Y「没收王冠领地」§!时额外获得§M25§!点§Y行政点§!、§Y外交点§!和§Y军事点§!"
+EDG_easily_midas_touched_personality_flag_tt:0 "我们的君主将更容易获得§Y点石成金者§!特质，并降低获得§R贪得无厌§!特质的可能性"

@@ -1,0 +1,18 @@
+﻿l_english:
+ EDG_ENG_weak_appanage:0 "§M英属前法贵族封邑§!"
+ EDG_ENG_weak_appanage_title:0 "§M英属前法贵族封邑§!"
+ EDG_ENG_weak_appanage_title_plural:0 "§M英属前法贵族封邑§!"
+ EDG_ENG_weak_appanage_long_desc:0 "§Y英属前法贵族封邑§!是一种特殊的属国，它具有以下特点：\n——不占用外交关系\n——不向宗主缴纳税收\n——不向宗主提供陆军上限\n——不向宗主提供人力\n——不参加宗主的战争\n——附属国因为自身发展度而得到的独立倾向加成仅为10%（正常附庸为25%）\n——单独计算独立倾向\n——启用全部正常的封邑互动与附庸国互动（正常情况下两类互动不可共存）"
+ EDG_ENG_weak_appanage_is_our:0 "$NAME|Y$是我们的一个§M英属前法贵族封邑§!"
+
+ EDG_ENG_crown_appanage:0 "§M英属王室封邑§!"
+ EDG_ENG_crown_appanage_title:0 "§M英属王室封邑§!"
+ EDG_ENG_crown_appanage_title_plural:0 "§M英属王室封邑§!"
+ EDG_ENG_crown_appanage_long_desc:0 "§Y英属王室封邑§!是一种特殊的属国，它具有以下特点：\n——不占用外交关系\n——向宗主缴纳正常系数税收（与正常附庸相同）\n——向宗主提供正常系数陆军上限（与正常附庸相同）\n——向宗主提供正常系数人力（与正常附庸相同）\n——不参加宗主的战争\n——附属国因为自身发展度而得到的独立倾向加成为25%（与正常附庸相同）\n——与其他所有属国共同计算独立倾向\n——启用全部正常的封邑互动与附庸国互动（正常情况下两类互动不可共存）"
+ EDG_ENG_crown_appanage_is_our:0 "$NAME|Y$是我们的一个§M英属王室封邑§!"
+
+ EDG_ENG_culture_circle:0 "§M英属不列颠文化圈成员§!"
+ EDG_ENG_culture_circle_title:0 "§M英属不列颠文化圈成员§!"
+ EDG_ENG_culture_circle_title_plural:0 "§M英属不列颠文化圈成员§!"
+ EDG_ENG_culture_circle_long_desc:0 "§Y英属不列颠文化圈成员§!是一种特殊的属国\n\n它是一种限制十分严格的属国，仅能建立在主流文化属于不列颠文化组、国教与宗主国相同的属国上\n\n它具有以下特点：\n——不占用外交关系\n——向宗主缴纳正常系数税收（与正常附庸相同）\n——向宗主提供正常系数陆军上限（与正常附庸相同）\n——向宗主提供正常系数人力（与正常附庸相同）\n——不参加宗主的战争\n——附属国因为自身发展度而得到的独立倾向加成仅为10%（正常附庸为25%）\n——与其他所有属国共同计算独立倾向\n——禁用部分附庸国互动并启用个别特殊互动（不可以强制转教，不可以强制转变文化）"
+ EDG_ENG_culture_circle_is_our:0 "$NAME|Y$是我们的一个§M英属不列颠文化圈成员§!"

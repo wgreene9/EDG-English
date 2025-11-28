@@ -1,0 +1,14 @@
+EDG_DMR_rename_effect_1 = {
+	change_province_name = "罗斯格勒"
+	rename_capital = "罗斯格勒"
+}
+
+EDG_DMR_rename_effect_2 = {
+	change_province_name = "罗姆格勒"
+	rename_capital = "罗姆格勒"
+}
+
+EDG_DMR_rename_effect_3 = {
+	change_province_name = "伏尔加格勒"
+	rename_capital = "伏尔加格勒"
+}

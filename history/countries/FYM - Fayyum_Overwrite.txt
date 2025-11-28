@@ -1,0 +1,95 @@
+change_estate_land_share = {
+  estate = estate_edg_copt
+  share = -14
+}
+change_estate_land_share = {
+  estate = estate_nobles
+  share = 11
+}
+change_estate_land_share = {
+  estate = estate_edg_caledonia
+  share = 14
+}
+change_estate_land_share = {
+  estate = estate_nomadic_tribes
+  share = -5
+}
+change_estate_land_share = {
+  estate = estate_church
+  share = 5
+}
+change_estate_land_share = {
+  estate = estate_burghers
+  share = 2
+}
+change_estate_land_share = {
+  estate = estate_dhimmi
+  share = 6
+}
+1342.1.30 = {
+  monarch = {
+    name = "纳西尔 I"  # Aedh XIV
+    dynasty = "萨哈达"  # mac E骻hain
+    birth_date = 1320.12.6
+    adm = 6
+    dip = 6
+    mil = 6
+  }
+}
+1391.1.30 = {
+  monarch = {
+    name = "Muhammad I"  # Aedh XIV
+    dynasty = "萨哈达"  # mac E骻hain
+    birth_date = 1362.12.6
+    adm = 5
+    dip = 4
+    mil = 5
+  }
+}
+1429.1.30 = {
+  monarch = {
+    name = "萨法尔 I"  # Aedh XIV
+    dynasty = "萨哈达"  # mac E骻hain
+    birth_date = 1399.12.6
+    adm = 3
+    dip = 3
+    mil = 4
+  }
+	add_piety = -1.0
+	clear_scripted_personalities = yes
+	add_ruler_personality = cruel_personality
+	add_ruler_personality = tolerant_personality
+  set_estate_privilege = EDG_estate_noble_FYM_mamluks_privilege_1
+  set_estate_privilege = EDG_estate_noble_FYM_mamluks_privilege_2
+  set_estate_privilege = EDG_estate_Caledonia_FYM_mamluks_privilege_1
+  set_estate_privilege = EDG_estate_Caledonia_FYM_mamluks_privilege_2
+  set_estate_privilege = estate_EDG_dhimmi_FYM_privilege
+  set_estate_privilege = estate_EDG_dhimmi_FYM_privilege_2
+  set_estate_privilege = estate_EDG_FYM_hereditary_Emir_privilege
+  set_estate_privilege = estate_EDG_FYM_Abbasid_caliphate_privilege
+  set_estate_privilege = estate_edg_copt_guaranteed_autonomy
+  # set_estate_privilege = estate_nobles_land_rights
+  # set_estate_privilege = estate_church_land_rights
+  set_ruler_flag = EDG_FYM_ruler_1_flag
+  add_country_modifier = {
+    name = EDG_FYM_1444_decline_modifier
+    duration = -1
+  }
+}
+1441.1.30 = {
+ heir = {
+    name = "哈立德"  # Aedh XIV
+    dynasty = "萨哈达"  # mac E骻hain
+    birth_date = 1430.12.6
+    death_date = 1460.2.28
+    adm = 1
+    dip = 0
+    mil = 1
+  }
+}
+1444.11.11 = {
+  add_country_modifier = {
+    name = EDG_FYM_religion_problem_modifier
+    duration = 18250
+  }
+}

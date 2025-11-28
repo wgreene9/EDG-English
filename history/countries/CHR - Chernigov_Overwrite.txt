@@ -1,0 +1,21 @@
+1411.1.9 = {
+  monarch = {
+    name = "叶夫根尼 Ⅰ"	# Rostaslavichi
+    dynasty = "切尔尼戈夫"  # Rostaslavichi
+	birth_date = 1399.1.1
+    adm = 3
+    dip = 4
+    mil = 3
+  }
+}
+1443.1.9 = {
+  heir = {
+    name =   "尼涅尔"	# Rostaslavichi
+    dynasty = "切尔尼戈夫"  # Rostaslavichi
+    birth_date = 1426.1.1
+    claim = 95
+    adm = 3
+    dip = 3
+    mil = 2
+  }
+}

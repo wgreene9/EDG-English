@@ -1,0 +1,3 @@
+EDG_BRA_Hohenzollern = {
+    dynasty = "霍亨索伦"
+}

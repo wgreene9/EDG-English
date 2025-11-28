@@ -1,0 +1,170 @@
+﻿l_english:
+
+#修正
+EDG_HZB_succession_critic_2_A_modifier:0 "正统汗廷"
+EDG_HZB_succession_critic_3_a_modifier:0 "服从的傀儡伊尔汗"
+EDG_MISSION_HZB_1_1_modifier:0 "重组政府"
+EDG_MISSION_HZB_3_1_modifier:0 "汗廷外交"
+EDG_MISSION_HZB_5_1_modifier:0 "蒙古贵族的支持"
+EDG_flavor_HZB_mission_0_a_modifier:0 "伊尔汗国的摄政者"
+EDG_MISSION_HZB_3_2_ruler_modifier:0 "伊尔汗国再征服"
+EDG_MISSION_HZB_1_3_modifier:0 "重凌巴格达"
+EDG_MISSION_HZB_1_4_province_modifier:0 "整合聂斯托利派"
+EDG_MISSION_HZB_2_3_modifier:0 "处决萨珊之子"
+EDG_MISSION_HZB_1_6_modifier:0 "叙利亚贝伊"
+EDG_MISSION_HZB_1_7_modifier:0 "整合马穆鲁克部队"
+EDG_MISSION_HZB_1_8_modifier_a:0 "整合伊克塔"
+EDG_MISSION_HZB_1_8_modifier_b:0 "维护游牧部族特权"
+EDG_MISSION_HZB_1_10_modifier:0 "草原之子的容忍之心"
+EDG_MISSION_HZB_1_21_province_modifier:0 "帝都大不里士"
+EDG_MISSION_HZB_1_11_ruler_modifier:0 "哈里发的保护者"
+EDG_MISSION_HZB_1_14_province_modifier:0 "重建鞑靼枷锁"
+EDG_MISSION_HZB_4_3_modifier:0 "呼罗珊诸部的降服"
+EDG_MISSION_HZB_5_4_modifier:0 "普什图人降服"
+EDG_MISSION_HZB_2_4_modifier:0 "熄灭圣火"
+EDG_MISSION_HZB_4_7_modifier:0 "打开欧洲的大门"
+EDG_MISSION_HZB_4_8_modifier:0 "法提赫"
+EDG_MISSION_HZB_5_7_modifier:0 "印度底万"
+EDG_MISSION_HZB_2_10_modifier:0 "伊朗扎明的哈里发"
+EDG_MISSION_HZB_2_9_modifier:0 "苏菲派的支持"
+EDG_MISSION_HZB_3_9_modifier:0 "无尽征服的延续"
+EDG_MISSION_HZB_1_17_modifier:0 "斩杀北境雄狮"
+EDG_MISSION_HZB_4_22_modifier:0 "重建长生军"
+EDG_MISSION_HZB_5_22_modifier:0 "重建怯薛军"
+EDG_MISSION_HZB_5_21_modifier:0 "组建新军"
+EDG_MISSION_HZB_5_23_modifier:0 "一生征战"
+EDG_MISSION_HZB_2_22_province_modifier:0 "伊朗手工业的发展"
+EDG_MISSION_HZB_1_23_modifier:0 "伊朗扎明的黄金时代"
+EDG_MISSION_HZB_4_24_modifier:0 "战无不胜"
+EDG_MISSION_HZB_3_23_modifier:0 "行政波斯化"
+EDG_MISSION_HZB_3_17_modifier:0 "毁灭罗马"
+EDG_MISSION_HZB_2_19_modifier:0 "世界野望"
+EDG_MISSION_HZB_1_19_province_modifier:0 "法兰西斯坦"
+EDG_MISSION_HZB_3_18_modifier:0 "上帝之鞭"
+EDG_MISSION_HZB_4_17_modifier:0 "印度斯坦底万"
+EDG_MISSION_HZB_5_17_modifier:0 "整合曼陀罗体系"
+EDG_MISSION_HZB_5_18_modifier:0 "群岛的主人"
+EDG_MISSION_HZB_5_19_modifier:0 "主宰新世界"
+EDG_MISSION_HZB_5_13_modifier:0 "南韩奴工"
+EDG_MISSION_HZB_5_12_modifier:0 "整合八旗"
+
+
+
+
+#任务
+EDG_MISSION_HZB_3_1_tt:0 "我们的所有§Y属国§!将为我们提供§M5§!点§Y威望§!，且对我们产生如下效果："
+
+EDG_MISSION_HZB_1_4_tt:0 "我们治下的所有信仰§Y景教§!的省份将会为我们提供§M10§!点£adm£ 行政点，且这些省份将会获得如下效果："
+
+edg_all_caliph_died_trigger_tt:0 "控制了§Y逊尼派哈里发§!或§Y什叶派哈里发§!，或§Y逊尼派哈里发§!与§Y什叶派哈里发§!都已经消亡。"
+
+EDG_MISSION_HZB_3_8_flag_tt_yes:0 "我们将解锁决议§Y「推行帝国改革」§!，这将允许我们解锁灾难§R「埃兰革命」§!。\n£yes£若我们选择了§Y伊尔汗国路线§!，那么我们将能够在灾难结束后获得后续的任务树。"
+EDG_MISSION_HZB_3_8_flag_tt_no:0 "我们将解锁决议§Y「推行帝国改革」§!，这将允许我们解锁灾难§R「埃兰革命」§!。\n£no£若我们选择了§Y伊尔汗国路线§!，那么我们将能够在灾难结束后获得后续的任务树。"
+
+EDG_HZB_ILK_future_flag_tt:0 "这将让我们走向§Y伊尔汗国路线§!，我们将可以在灾难§R「埃兰革命」§!后解锁@HZB§Y哈扎拉比§!和@ILK§Y伊尔汗国§!的专属后续任务。"
+EDG_HZB_enable_forem_Persian_flag_tt:0 "我们将成立@PER§Y波斯§!。\n成立@PER§Y波斯§!将为我们启用波斯的后续任务，而非@HZB§Y哈扎拉比§!和@ILK§Y伊尔汗国§!的专属后续任务。"
+
+EDG_MISSION_HZB_3_9_trigger_tt:0 "灾难§R「埃兰革命」§!或§R「奇兹尔巴什掌权」§!或§R「血狮时代」§!已经结束"
+EDG_MISSION_HZB_3_9_trigger_tt_ab:0 "灾难§R「埃兰革命」§!已经结束"
+
+EDG_MISSION_HZB_2_3_tt:0 "我们治下所有信仰§Y祆教§!的省份，将会给予我们§M500§!点§Y人力§!。"
+EDG_MISSION_HZB_1_6_tt:0 "我们的每个主流文化为§Y叙利亚§!或首都位于§G阿勒颇§!、§G叙利亚§!、§G叙利亚沙漠§!、§G巴勒斯坦§!、§G外约旦§!的属国，将会为我们提供§M10§!点威望，且他们获得如下修正："
+
+EDG_MISSION_HZB_1_7_STRONG_MERCHANTS:0 "垄断东方贸易"
+
+edg_we_have_200_army_trigger_tt:0 "若我们的§Y陆军规模§!达到§M200§!"
+
+EDG_MISSION_HZB_1_8_a_trigger_tt:0 "若我们的§Y王冠领地§!达到§M50%§!"
+EDG_MISSION_HZB_1_8_b_trigger_tt:0 "若我们的拥有了§Y大扎撒特权§!改革"
+
+EDG_MISSION_HZB_1_10_tt:0 "该任务与右侧任务§Y伊朗扎明的哈里发§!所互斥，完成该任务将自动完成右侧的任务。"
+EDG_MISSION_HZB_2_10_tt:0 "该任务与左侧任务§Y长生天的传承§!所互斥，完成该任务将自动完成左侧的任务。"
+
+EDG_MISSION_HZB_1_10_tt_2:0 "我们和我们的属国的每个§Y异教§!省份将给予我们§M5§!点行政点，且[Root.GetName]将获得如下修正："
+
+EDG_MISSION_HZB_1_14_a_trigger_tt:0 "若省份§Y基辅§!在过去的20年内经历了焚掠"
+EDG_MISSION_HZB_2_14_a_trigger_tt:0 "若省份§Y特维尔§!在过去的20年内经历了焚掠"
+EDG_MISSION_HZB_4_13_a_trigger_tt:0 "若省份§Y北京§!和§Y开封§!在过去的20年内经历了焚掠"
+
+EDG_MISSION_HZB_5_3_tt:0 "我们治下的每个产物为§Y牲畜§!的省份，将会给予我们§M1000§!点人力。"
+EDG_MISSION_HZB_5_4_tt:0 "我们治下的每个文化为§Y阿富汗§!的省份，将会给予我们§M1§!点§Y凯扬灵光§!，且获得如下修正："
+
+EDG_MISSION_HZB_4_6_tt:0 "我们治下的每个文化为§Y突厥§!的省份，将会给予我们§M250§!点§Y人力§!，并失去§M10§!点§Y分离主义§!"
+EDG_MISSION_HZB_4_7_tt:0 "我们的每个首都位于§Y东欧§!次大陆的属国，将会为我们提供§M50§!点£mil£军事点，并失去§M25§!点§Y独立倾向§!"
+
+EDG_MISSION_HZB_5_7_tt:0 "我们的每个首都位于§Y印度§!次大陆的属国，将会为我们提供§M50§!点£adm£行政点，并失去§M25§!点§Y独立倾向§!"
+
+EDG_MISSION_HZB_3_9_modifier_effect_tt_yes:0 "£yes£若国家修正§Y「无尽征服的延续」§!仍然存在，那么我们会将其持续时间重置为§M20年§!"
+EDG_MISSION_HZB_3_9_modifier_effect_tt_no:0 "£no£若国家修正§Y「无尽征服的延续」§!仍然存在，那么我们会将其持续时间重置为§M20年§!"
+
+EDG_MISSION_HZB_1_17_tt:0 "我们和我们的属国所拥有的每个位于§Y斯堪的纳维亚§!的省份，将会为我们提供§M3§!点£mil£军事点。"
+
+EDG_MISSION_HZB_3_15_tt:0 "获得世界上§Y所有省份§!的§Y宣称§!"
+EDG_HZB_great_conquer_enable_flag_tt:0 "解锁§Y筹划大入侵§!外交行动，该外交行动将花费我们§M35§!点§Y波斯影响力§!，让我们在§M两个月§!后对目标以§Y大入侵§!战争理由发动战争，无视停战协议且不会因打破停战协议丧失稳定度。\n该战争理由允许我们对所有§M邻国§!国家进行彻底的征服。该宣战理由的效果如下：\n-§Y侵略扩张修正§!：§M90%§!\n-§Y获取威望修正§!：§M125%§!\n-§Y省份分数修正§!：§M75%§!"
+
+EDG_Transforming_tributary_state_into_cultural_sphere_of_influence_subject_state_action_enable_flag_tt:0 "解锁外交行动§Y「将朝贡国转变为文化影响国」§!"
+EDG_Transforming_cultural_sphere_of_influence_subject_state_into_tributary_state_action_enable_flag_tt:0 "解锁外交行动§Y「将文化影响国转变为朝贡国」§!"
+
+EDG_MISSION_HZB_2_22_tt:0 "所有属于§Y伊朗§!文化组且拥有§Y工坊§!的省份，将会获得如下效果："
+
+EDG_HZB_set_mongol_brother_realm_enable_flag_tt:0 "解锁外交行动§Y「册封宗王领地」§!，这将允许我们将一个非殖民领属国转变为§Y宗王领地§!，并花费我们§M100§!点§Y波斯影响力§!。"
+
+EDG_MISSION_HZB_2_16_tt:0 "我们和我们的非朝贡属国所拥有的§Y西欧§!省份，将会给予我们§M1§!点§Y波斯影响力§!"
+
+EDG_MISSION_HZB_4_16_tt:0 "每个与我们拥有停战协议的独立国家，将会给予我们§M5§!点§Y波斯影响力§!"
+EDG_MISSION_HZB_2_17_tt:0 "我们和我们的非朝贡属国所拥有的§Y神圣罗马帝国§!省份，将会给予我们§M1§!点§Y波斯影响力§!"
+EDG_MISSION_HZB_1_19_tt:0 "我们和我们的非朝贡属国所拥有的位于§Y法兰西§!且信仰我们的国教的省份，将会给予我们§M2§!点§Y波斯影响力§!"
+
+EDG_MISSION_HZB_3_18_flag_tt:0 "当我们向首都位于§Y西欧§!的国家宣战时，将额外获得§M10§!点§Y波斯影响力§!。"
+EDG_MISSION_HZB_3_20_modifier_effect_tt:0 "无论我们还拥有国家修正§Y「无尽征服的延续」§!，我们都会将其§Y永久化§!"
+
+EDG_MISSION_HZB_4_17_tt:0 "我们和我们的非朝贡属国所拥有的位于§Y印度§!次大陆且信仰我们的国教的省份，将会给予我们§M1§!点§Y波斯影响力§!"
+EDG_MISSION_HZB_4_19_tt:0 "我们和我们的非朝贡属国所拥有的位于§Y意大利§!地区且信仰我们的国教的省份，将会给予我们§M2§!点§Y波斯影响力§!"
+EDG_MISSION_HZB_4_22_tt:0 "我们治下的所有满足条件的省份，将会获得§M1§!点§Y基础人力§!"
+EDG_MISSION_HZB_5_22_tt:0 "我们治下的所有满足条件的省份，将会为我们提供§M1000§!点§Y人力§!"
+
+
+#决议
+EDG_HZB_Persian_critic_enable_decision_title:0 "@HZB撤销波斯官僚特权"
+EDG_HZB_Persian_critic_enable_decision_desc:0 "波斯的地主们握有太多的国家资源，若我们不解决他们，帝国将难以为继。"
+EDG_HZB_Persian_critic_enable_flag_tt:0 "灾难§R「埃兰革命」§!将会§Y开始读条§!。"
+
+EDG_HZB_make_416_captial_decision_enable_flag_tt:0 "解锁决议§Y「重新定都于大不里士」§!"
+EDG_HZB_make_416_captial_decision_title:0 "重新定都于大不里士"
+EDG_HZB_make_416_captial_decision_desc:0 "伟大的伊尔汗国曾经以大不里士作为他们的首都，我们应当还于旧都，以巩固我们的统治。"
+
+
+#事件
+
+EDG_flavor_HZB_mission.0.title:0 "哈扎拉比家族"
+EDG_flavor_HZB_mission.0.desc:0 "哈扎拉比王朝系库尔德人建立的王朝，曾作为伊尔汗国的洛雷斯坦总督统治者洛雷斯坦地区，哈扎拉比的统治者以“千马”为号，在伊尔汗国时期逐渐扩大了自己的权势。当大汗们忘记了自己在马背上驰骋的传统，而沉醉于苏丹尼耶的温柔乡当中时，只有掌握马鞭的人才能在1335年帝国的总崩溃当中独善其身。几位继承人在伊尔汗国的大汗的王座尚未坐热就交给了后来人。当然，在掌控西北的泰赤乌部的丘拜尼王朝和掌握了膏腴之地的札剌亦儿部面前，蜷曲于山区的哈拉达比王朝显然很难有与之相抗衡的力量。\n\n但哈拉达比人的敏锐嗅觉发现了能够提高自我正统性的手段。在金帐汗国的大军攻破大不里士城之后，所谓的伊尔汗国君主，来历不明的努失儿完在战火当中不知所踪。哈拉达比人秘密迎立被赶下台的前前大汗撒迪别女大汗即位。在是否需要迎立一名女性君主方面，这群库尔德人经过了激烈的内部讨论，但是为了提高的正统性，一群伪装成商人的库尔德人最终选择将这位完者都的女儿藏在一卷波斯地毯当中带出了城，撒迪别在阿米尔·丘拜尼、阿尔巴汗和苏莱曼汗的婚姻之后第四次喜结连理。随着各方的宣称者不是死于非命就是因病而亡，1330年，撒迪别女大汗成为了唯一的正统继承人，各方势力很不情愿的承认这位傀儡女大汗的正统性，1345年撒迪别汗过世，其子苏尔干和他的子孙继承傀儡汗位至今。至于哈扎拉比家族的龙兴之地洛雷斯坦，在哈扎拉比的统治者荣升为柱国后，便转而封赐给他们的亲信，一个对哈扎拉比的统治者俯首帖耳的家族，这让洛雷斯坦成为了拥有极高自治度却对中央唯马首是瞻的忠诚封地。\n\n尽管哈扎拉比的统治者以「柱国」的身份实际控制着伊尔汗国的最高权力，但哈扎拉比都并非伊尔汗国名义上的正统统治者，历代「柱国」的统治合法性都不断遭受质疑，反对哈扎拉比家族领袖的浪潮从未停止，我们必须为巩固自己的统治而努力。"
+EDG_flavor_HZB_mission.0.a:0 "向伊尔汗国的柱国致敬！"
+EDG_flavor_HZB_mission.0.b:0 ""
+
+EDG_flavor_HZB_mission.1.title:0 "统治者的身份"
+EDG_flavor_HZB_mission.1.desc:0 "长久以来，哈扎拉比家族控制着伊尔汗国的大汗，并以伊尔汗的名义统治庞大的帝国。随着伊尔汗国庞大国土的重新收复，愈来愈多的部族对这样的现状感到不满，他们厌倦了哈扎拉比家族不正统的统治，希望由伊尔汗本人代表他们的利益。"
+EDG_flavor_HZB_mission.1.a:0 "伊尔汗必须重掌大权！"
+EDG_flavor_HZB_mission.1.b:0 "[Root.GetName]家族应该继续掌握大权。"
+
+EDG_flavor_HZB_mission.2.title:0 "帝国的旗帜"
+EDG_flavor_HZB_mission.2.desc:0 "我们已经解决了内部的正统性纷争，如今的我们应该考虑帝国未来的发展方向……"
+EDG_flavor_HZB_mission.2.a:0 "我们必须重建伊尔汗国！"
+EDG_flavor_HZB_mission.2.b:0 "我们不需要伊尔汗，是时候废黜他了。"
+EDG_flavor_HZB_mission.2.c:0 "我们可以选择一条波斯化的道路……"
+
+EDG_flavor_HZB_mission.3.title:0 "定都君士坦丁堡"
+EDG_flavor_HZB_mission.3.desc:0 ""
+EDG_flavor_HZB_mission.3.a:0 ""
+EDG_flavor_HZB_mission.3.b:0 ""
+
+EDG_flavor_HZB_mission.4.title:0 "对[From.GetName]的大入侵"
+EDG_flavor_HZB_mission.4.desc:0 "我们的铁蹄已经无法再等待，两个月的时间已经过去了，我们对[From.GetName]发动的大远征正式拉开了帷幕！"
+EDG_flavor_HZB_mission.4.a:0 "我们将碾碎他们！"
+EDG_flavor_HZB_mission.4.b:0 ""
+
+EDG_flavor_HZB_mission.5.title:0 ""
+EDG_flavor_HZB_mission.5.desc:0 ""
+EDG_flavor_HZB_mission.5.a:0 ""
+EDG_flavor_HZB_mission.5.b:0 ""
+
+

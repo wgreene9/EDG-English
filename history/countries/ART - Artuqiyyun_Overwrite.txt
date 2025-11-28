@@ -1,0 +1,22 @@
+1442.1.1 = {
+  add_piety = -0.5
+  monarch = {
+    name = "阿布 勒 法特赫"  # Mu'izz al-Din Malik
+    dynasty = "阿尔图克奥卢"  # Simnani
+    regent = yes
+    adm = 2
+    dip = 3
+    mil = 0
+  }
+  heir = {
+    name = "Muhammad Ali"  # Abdallah bin Ibrahim
+    dynasty = "阿尔图克奥卢"  # Timurid
+    birth_date = 1442.1.1
+    death_date = 1451.6.1
+    claim = 95
+    culture = uzbehk
+    adm = 3
+    dip = 3
+    mil = 4
+  }
+}

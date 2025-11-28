@@ -1,0 +1,14 @@
+1444.1.1 = {
+  set_variable = {
+    which = ask_arles_for_help_value
+    value = 0
+  }
+  monarch = {
+    name = "阿梅代奥"  # Amedeo VIII
+    dynasty = "迪 卡瓦利埃里"  # di Savoia
+    birth_date = 1410.9.4
+    adm = 5
+    dip = 6
+    mil = 6
+  }
+}

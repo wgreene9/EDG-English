@@ -1,0 +1,11 @@
+1422.8.29 = {
+  monarch = {
+    name = "阿尔布雷希特 III"  # Albrecht IV
+    dynasty = "冯 策林根"  # von Habsburg
+	  birth_date = 1410.8.10
+    adm = 1
+    dip = 1
+    mil = 2
+    culture = austrian
+  }
+}

@@ -1,0 +1,1 @@
+capital = "Fuerte San Miguel"

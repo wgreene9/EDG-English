@@ -1,0 +1,11 @@
+﻿l_english:
+ ability_EDG_AEL_cathari_imperial_authority_mechanic:0 "§Y清洁派王庭权威§!"
+ EDG_AEL_cathari_imperial_authority:0 "§Y王庭权威§!"
+ EDG_AEL_cathari_imperial_authority_desc:0 "君主的§Y三项能力§!点数均§Y独立§!影响§Y清洁派王庭权威§!：\n§R-0.15§!-君主能力为§Y0§!\n§R-0.10§!-君主能力为§Y1§!\n§R-0.05§!-君主能力为§Y2§!\n§G+0.05§!-君主能力为§Y4§!\n§G+0.10§!-君主能力为§Y5§!\n§G+0.15§!-君主能力为§Y6§!\n\n§Y王庭权威§!将由以下因素§G增加§!：\n-邀请§Y其他国家§!加入§T清洁派联盟§!\n-有省份§Y皈依§!§T清洁派§!\n"
+ EDG_AEL_cathari_imperial_authority_gain_modifier:0 "§Y王庭权威§!提供的修正"
+ monthly_EDG_AEL_cathari_imperial_authority:0 "月度§Y王庭权威§!"
+
+ EDG_AELEvents.0.name:0 "完工圣战教堂"
+ EDG_AELEvents.0.desc:0 "虽说圣战教堂于1443年竣工，但其仍然需要对内部教堂进行修缮，而这笔开支是预先没有考虑到的，皇室必须自己出钱来完成这部分工作。\n\n如果我们拥有足够的资金则可以考虑将其进行修缮，但倘若暂时无法担负费用，则也可待日后进行修缮。"
+ EDG_AELEvents.0.aa:0 "让我们完工这座教堂吧"
+ EDG_AELEvents.0.bb:0 "我们暂时支付不起"

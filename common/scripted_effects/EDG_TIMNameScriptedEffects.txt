@@ -1,0 +1,317 @@
+EDG_TIM_define_ruler_ulugh_beg_effect = {
+  define_ruler = {
+    name = "兀鲁伯"
+    dynasty = "帖木儿"
+    adm = 3
+    dip = 5
+    mil = 4
+    religion = sunni
+    culture = uzbehk
+    age = 50
+    claim = 100
+  }
+}
+
+EDG_TIM_define_heir_latif_effect = {
+  define_heir = {
+    name = "阿不都 剌迪甫"
+    dynasty = "帖木儿"
+    adm = 2
+    dip = 1
+    mil = 4
+    religion = sunni
+    culture = uzbehk
+    age = 24
+    claim = 100
+  }
+}
+
+EDG_TIM_define_ruler_alaal_dawla_effect = {
+  define_ruler = {
+    name = "阿老倒剌"
+    dynasty = "帖木儿"
+    adm = 2
+    dip = 1
+    mil = 2
+    religion = sunni
+    culture = uzbehk
+    age = 36
+    claim = 50
+  }
+}
+
+EDG_TIM_define_advisor_roshan_effect = {
+  define_advisor = {
+    type = theologian
+    name = "巴亚济德 安萨里"
+    skill = 2
+    culture = afghani
+    religion = sunni
+    cost_multiplier = 0.25
+  }
+}
+
+EDG_TIM_spawn_rebels_roshan_effect = {
+  spawn_rebels = {
+    size = 3
+    leader = "巴亚济德 安萨里"
+    type = heretic_rebels
+  }
+}
+
+EDG_TIM_define_advisor_isfahani_effect = {
+  define_advisor = {
+    type = historian
+    name = "法兹拉拉 昆吉 伊斯法罕尼"
+    skill = 3
+    culture = persian
+    religion = sunni
+    cost_multiplier = 0.25
+  }
+}
+
+EDG_TIM_rename_to_agra_effect = {
+  change_province_name = "阿格拉"
+  rename_capital = "阿格拉"
+}
+
+EDG_TIM_rename_to_hyderabad_effect = {
+  change_province_name = "海得拉巴"
+  rename_capital = "海得拉巴"
+}
+
+EDG_TIM_define_ruler_babur_effect = {
+  define_ruler = {
+    name = "巴布尔"
+    dynasty = "帖木儿"
+    adm = 5
+    dip = 5
+    mil = 6
+    religion = sunni
+    culture = ROOT
+    age = 20
+    claim = 100
+  }
+}
+
+EDG_TIM_define_advisor_kashi_effect = {
+  define_advisor = {
+    type = natural_scientist
+    name = "贾姆希德 卡希"
+    skill = 5
+    culture = persian
+    religion = sunni
+    cost_multiplier = 0.25
+  }
+}
+
+EDG_TIM_define_advisor_qushji_effect = {
+  define_advisor = {
+    type = innovator
+    name = "阿里 库什吉"
+    skill = 5
+    culture = uzbehk
+    religion = sunni
+    cost_multiplier = 0.25
+  }
+}
+
+EDG_TIM_define_ruler_abdullah_mirza_effect = {
+  define_ruler = {
+    name = "阿卜杜拉 米尔扎"
+    dynasty = "帖木儿"
+    adm = 0
+    dip = 3
+    mil = 2
+    religion = sunni
+    culture = uzbehk
+    age = 44
+    claim = 30
+  }
+}
+
+EDG_TIM_define_ruler_abu_said_effect = {
+  define_ruler = {
+    name = "卜撒因"
+    dynasty = "帖木儿"
+    adm = 3
+    dip = 5
+    mil = 6
+    religion = sunni
+    culture = uzbehk
+    age = 32
+    claim = 50
+  }
+}
+
+EDG_TIM_define_advisor_behzad_effect = {
+  define_advisor = {
+    type = artist
+    name = "卡马尔 乌德丁 贝赫扎德"
+    skill = 3
+    culture = persian
+    religion = sunni
+    cost_multiplier = 0.25
+  }
+}
+
+EDG_TIM_define_advisor_husayn_bayqara_effect = {
+  define_advisor = {
+    type = xungui
+    name = "忽辛 拜哈拉 米尔扎"
+    skill = 4
+    culture = uzbehk
+    religion = sunni
+    cost_multiplier = 0.25
+  }
+}
+
+EDG_TIM_define_advisor_jami_effect = {
+  define_advisor = {
+    type = philosopher
+    name = "拉赫曼 雅米"
+    skill = 4
+    culture = khorasani
+    religion = sunni
+    cost_multiplier = 0.25
+  }
+}
+
+EDG_TIM_define_advisor_mashhadi_effect = {
+  define_advisor = {
+    type = artist
+    name = "苏丹 阿里 马什哈迪"
+    skill = 4
+    culture = khorasani
+    religion = sunni
+    cost_multiplier = 0.25
+  }
+}
+
+EDG_TIM_define_advisor_navai_effect = {
+  define_advisor = {
+    type = educationist
+    name = "阿里希尔 纳沃伊"
+    skill = 5
+    culture = uzbehk
+    religion = sunni
+    cost_multiplier = 0.25
+  }
+}
+
+EDG_TIM_define_advisor_abru_effect = {
+  define_advisor = {
+    type = historian
+    name = "哈菲兹-伊 阿布鲁"
+    skill = 3
+    culture = khorasani
+    religion = sunni
+    cost_multiplier = 0.25
+  }
+}
+
+EDG_TIM_define_advisor_yazdi_effect = {
+  define_advisor = {
+    type = innovator
+    name = "歇里甫丁 阿里 亚兹迪"
+    skill = 4
+    culture = persian
+    religion = sunni
+    cost_multiplier = 0.25
+  }
+}
+
+EDG_TIM_define_advisor_samarqandi_effect = {
+  define_advisor = {
+    type = philosopher
+    name = "倒剌沙 撒马尔罕迪"
+    skill = 5
+    culture = uzbehk
+    religion = sunni
+    cost_multiplier = 0.25
+  }
+}
+
+EDG_TIM_define_advisor_mirkhvand_effect = {
+  define_advisor = {
+    type = historian
+    name = "密尔宽德"
+    skill = 5
+    culture = khorasani
+    religion = sunni
+    cost_multiplier = 0.25
+  }
+}
+
+EDG_TIM_define_advisor_khvandamir_effect = {
+  define_advisor = {
+    type = historian
+    name = "宽德密尔"
+    skill = 5
+    culture = khorasani
+    religion = sunni
+    cost_multiplier = 0.25
+  }
+}
+
+EDG_TIM_define_advisor_kermani_effect = {
+  define_advisor = {
+    type = natural_scientist
+    name = "布尔汉 乌德丁 克尔曼尼"
+    skill = 4
+    culture = persian
+    religion = sunni
+    cost_multiplier = 0.25
+  }
+}
+
+EDG_TIM_define_advisor_ilyas_effect = {
+  define_advisor = {
+    type = natural_scientist
+    name = "曼苏尔 伊本 伊利亚斯"
+    skill = 5
+    culture = persian
+    religion = sunni
+    cost_multiplier = 0.25
+  }
+}
+
+EDG_TIM_define_advisor_ghiyath_effect = {
+  define_advisor = {
+    type = diplomat
+    name = "火者 盖耶速丁"
+    skill = 2
+    culture = uzbehk
+    religion = sunni
+    cost_multiplier = 0.25
+  }
+}
+
+EDG_TIM_define_ruler_yunus_effect = {
+  define_ruler = {
+    name = "羽奴思"
+    dynasty = "Chagatayid"
+    adm = 3
+    dip = 4
+    mil = 4
+    religion = sunni
+    culture = kirgiz
+    age = 47
+    claim = 50
+  }
+}
+
+EDG_TIM_define_advisor_haidar_effect = {
+  define_advisor = {
+    type = historian
+    name = "米尔咱 马黑麻 海答儿"
+    skill = 4
+    culture = kirgiz
+    religion = sunni
+    cost_multiplier = 0.25
+  }
+}
+
+EDG_TIM_rename_province_dadu_effect = {
+  change_province_name = "大都"
+}

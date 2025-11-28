@@ -1,0 +1,8 @@
+1444.1.17 = {
+  monarch = {
+	regent = yes
+    adm = 2
+    dip = 2
+    mil = 2
+  }
+}

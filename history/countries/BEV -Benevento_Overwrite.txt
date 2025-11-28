@@ -1,0 +1,22 @@
+1399.1.1 = {
+  monarch = {
+    name = "查尔斯 II"
+    dynasty = "马扎诺"
+	birth_date = 1380.7.14
+    adm = 4
+    dip = 2
+    mil = 2
+  }
+}
+1444.1.1 = {
+  heir = {
+    name = "卡萨帕"
+    dynasty = "马扎诺"
+    birth_date = 1429.7.14
+    death_date = 1500.3.27
+    claim = 90
+    adm = 5
+    dip = 2
+    mil = 1
+  }
+}

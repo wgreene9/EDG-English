@@ -1,0 +1,97 @@
+1444.1.1 = {
+  monarch = {
+    name = "桑格拉"  # Sangla
+    dynasty = "英格"  # Ing
+    ADM = 3
+    DIP = 1
+    MIL = 2
+  }
+}
+1444.1.1 = {
+  heir = {
+    name = "Pungla"
+    monarch_name = "阿摩罗"  # Amar
+    dynasty = "英格"  # Ing
+    birth_date = 1430.1.1
+    death_date = 1480.1.1
+    claim = 95
+    ADM = 3
+    DIP = 2
+    MIL = 3
+  }
+}
+1460.1.1 = {
+  religion = hinduism
+}
+1460.1.1 = {
+  monarch = {
+    name = "Pungla"
+    dynasty = "英格"  # Ing
+    ADM = 3
+    DIP = 2
+    MIL = 3
+  }
+}
+1480.1.1 = {
+  monarch = {
+    name = "讫帝 那罗延"  # Kirti Narayan
+    dynasty = "英格"  # Ing
+    ADM = 0
+    DIP = 2
+    MIL = 3
+  }
+}
+1500.1.1 = {
+  monarch = {
+    name = "Ap Narayan"
+    dynasty = "英格"  # Ing
+    ADM = 3
+    DIP = 3
+    MIL = 3
+  }
+}
+1520.1.1 = {
+  monarch = {
+    name = "嘉莱 那罗延"  # Jarai Narayan
+    dynasty = "英格"  # Ing
+    ADM = 3
+    DIP = 3
+    MIL = 0
+  }
+}
+1540.1.1 = {
+  monarch = {
+    name = "Indhing Narayan"
+    dynasty = "英格"  # Ing
+    ADM = 1
+    DIP = 1
+    MIL = 1
+  }
+}
+1560.1.1 = {
+  monarch = {
+    name = "比杰 那罗延"  # Bijay Narayan
+    dynasty = "英格"  # Ing
+    ADM = 1
+    DIP = 2
+    MIL = 1
+  }
+}
+1608.1.1 = {
+  monarch = {
+    name = "Bidya Chandra"
+    dynasty = "赫邦"  # Khebang
+    ADM = 3
+    DIP = 0
+    MIL = 0
+  }
+}
+1769.1.1 = {
+  monarch = {
+    name = "菩提 迦尔纳"  # Budhi Karna
+    dynasty = "赫邦"  # Khebang
+    ADM = 3
+    DIP = 3
+    MIL = 3
+  }
+}

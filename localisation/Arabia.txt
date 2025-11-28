@@ -1,0 +1,196 @@
+﻿# graphical_culture = muslimgfx
+# color = {
+#   76
+#   141
+#   58
+# }
+# revolutionary_colors = {
+#   10
+#   0
+#   1
+# }
+# historical_idea_groups = {
+#   religious_ideas
+#   defensive_ideas
+#   trade_ideas
+#   offensive_ideas
+#   spy_ideas
+#   diplomatic_ideas
+#   quantity_ideas
+#   economic_ideas
+# }
+# historical_units = {
+#   mamluk_archer
+#   mamluk_cavalry_charge
+#   mamluk_duel
+#   mamluk_musket_charge
+#   muslim_mass_infantry
+#   muslim_dragoon
+#   ali_bey_reformed_infantry
+# }
+# monarch_names = {
+#   "ç©ç½é»å¾· #4" = 40  # Muhammad #4
+#   "çè¨ä¼èµ« #0" = 40  # QÃ¢nsawh #0
+#   "åæ¼ è´ä¼ #0" = 40  # TÃ»mÃ¢n Bay #0
+#   "å·´æå¡ç¹ #0" = 30  # BarakÃ¢t #0
+#   "åæ #0" = 10  # Hazza #0
+#   "è¾åè¿å¾· #2" = 50  # Ahmad #2
+#   "è¡è¿è¾¾ #1" = 10  # Humaida #1
+#   "çä¼ç¹ #0" = 10  # Qa'it #0
+#   "å¡åå·´ #0" = 10  # Takaba #0
+#   "åæ¡ #1" = 10  # al-Hasan #1
+#   "é¿å¸ å¡å©å #0" = 10  # Abu Talib #0
+#   "é¿å¸ å® ä¼å¾·éæ¯ #0" = 10  # Abu Aun Idris #0
+#   "ç©æ¬£ #0" = 10  # Mushin #0
+#   "é©¬èå¾· #0" = 30  # Mas'ud #0
+#   "é¿åææ #0" = 20  # 'Abd al-Ilah #0
+#   "å®°å¾· #0" = 10  # Zaid #0
+#   "çº³ç±³ #0" = 10  # Nami #0
+#   "è¨é¿å¾· #0" = 10  # Sa'ad #0
+#   "èµä¹å¾· #0" = 0  # Sayyid #0
+#   "é¿åæå åå©å§ #0" = 10  # 'Abdul-Karim #0
+#   "é¿å¸ ç©æ¬£ #0" = 10  # 'Abul Muhsin #0
+#   "é¿é #2" = 10  # 'AlÃ® #2
+#   "å¶æµ·äº #0" = 10  # Yahya #0
+#   "ç©å·´æå #0" = 10  # Mubarak #0
+#   "é©¬èµä¹å¾· #0" = 10  # Masa'id #0
+#   "è´¾æ³å° #0" = 10  # Djafar #0
+#   "ä¼çº³å #0" = 20  # InÃ¢l #0
+#   "è¡æå¡ä¸¹ #1" = 20  # Khusqadam #1
+#   "é¿åæå é¿é½å¹ #0" = 20  # 'Abd al-'Aziz #0
+#   "ç©æ¯å¡å  #0" = 20  # al-Musta'in #0
+#   "çº³éå¿ æ³èµå #0" = 20  # al-Nasr Faraj #0
+#   "å·´å°æ¯æ #0" = 20  # Barsbay #0
+#   "è´¾ç§é©¬å #0" = 20  # Jaqmaq #0
+#   "å¡ä¼ç¹å·´ #0" = 20  # QÃ¢yit Bay #0
+#   "è°¢èµ« é©¬åèè¿ª #0" = 20  # Shaik al-Mahmudi #0
+#   "å¸æ¨å¿ä¸è± #0" = 20  # TimurbughÃ¢ #0
+#   "å¥¥æ¯æ¼ #0" = 20  # 'Uthman #0
+#   "å¶åæ #0" = 20  # Yalbay #0
+#   "å å¸æç¹ #0" = 20  # JÃ¢nbulÃ¢t #0
+#   "ä¼ç´ ç¦ #0" = 20  # YÃ»suf #0
+#   "å·´å°åºå #1" = 15  # BarqÃ»q #1
+#   "æå·´å°æ¯ #2" = 10  # Baybars #2
+#   "åå #2" = 10  # HÃ¢jjÃ® #2
+#   "æ²ç­ #2" = 10  # Sha'bÃ¢n #2
+#   "é¿å¸ å·´å¡å° #1" = 10  # AbÃ» Bakr #1
+#   "ä¼æ¯çä»ª #1" = 10  # Isma'Ã®l #1
+#   "åºå±å #1" = 10  # KÃ»jÃ»k #1
+#   "æ²éèµ« #1" = 10  # SÃ¢lih #1
+#   "é¿åæå é©¬å©å #0" = 0  # 'Abd al-Malik #0
+#   "å·´å¸å° #0" = 0  # Basir #0
+#   "æ³å¾·å #0" = 0  # Fadl #0
+#   "çç¹ #0" = 0  # Ghayth #0
+#   "åæå§ #0" = 0  # Hatim #0
+#   "ä¼å©äºæ¯ #0" = 0  # Ilyas #0
+#   "è´¾æ¯å° #0" = 0  # Jabir #0
+#   "çº³è¿ªå§ #0" = 0  # Nadim #0
+#   "å°¼æå° #0" = 0  # Nizar #0
+#   "å¡è¥¿å§ #0" = 0  # Qasim #0
+#   "è¨è¿ª #0" = 0  # Sa'di #0
+#   "å°¤åªæ¯ #0" = 0  # Yunus #0
+#   "æåäº #0" = -1  # Rajya #0
+#   "æ²å¸æ #0" = -1  # Shahira #0
+#   "å°¤æ¯æ #0" = -1  # Yusra #0
+#   "é¿è¯ç #0" = -1  # Asma #0
+# }
+# leader_names = {
+#   "ä¼ç´ ç¦"  # Youssef
+#   "å¡å©å¸"  # Taleb
+#   "æåææ¬£"  # Ibrahim
+#   "åå©å"  # Khalil
+#   "è¨å©èµ«"  # Saleh
+#   "æ³å°åç¹"  # Farhat
+#   "æ²é©¬æ¯"  # Chammas
+#   "æ¼èå°"  # Mansour
+#   "é¿ææ¯"  # Abbas
+#   "åç©å¾·"  # Hammoud
+#   "é¿é"  # Ali
+#   "åå·´å"  # Aybak
+#   "æå·´å°æ¯"  # Baibars
+#   "è´ä¼"  # Bay
+#   "è´ä¼"  # Bey
+#   "å¸å"  # Bugha
+#   "ä¼çº³å"  # InÃ¢l
+#   "åèå°"  # Kansur
+#   "èµç¦é¼"  # Sayfuddin
+#   "èµå"  # Zangi
+#   "å·´ä¼è¨" 	# Bayisa
+#   "å¾·è±æ°" 	# Dereje
+#   "é¿å§å" 	# Ambo
+#   "é¿æ¯é·æ¯" 	# Asres
+#   "ç¦ç±³" 	# Wami
+#   "åå¡ç¹" 	# Eshete
+#   "åæçº³" 	# Ezana
+#   "åå°¤å¸" 	# Eyob
+#   "é¿æ¯æ³ä¹" 	# Asfaw
+#   "å¾·æ ¼è´¹" 	# Degife
+# }
+# ship_names = {
+#   "æ±å¿"  # Hijaz
+#   "åè¾¾"  # Jeddah
+#   "éº¦å "  # Mecca
+#   "éº¦å°é£"  # Medina
+#   "æä¸¹å±±"  # Jabal Baydan
+#   "æ²ç¦è¾¾å±±"  # Jabal Sawda
+#   "é¿å¸åæ¡å±±"  # Jabal Abu Hasan
+#   "æ±èµæå±±"  # Jabal al-Jurayrah
+#   "åºä»åçå²©"  # Harrat Al-Kishb
+#   "æåç¹çå²©"  # Harrat Rahat
+#   "çº³ç¦è¥¿å¼çå²©"  # Harrat Nawasif
+#   "åä¸¹çå²©"  # Harrat Hadan
+#   "å¸å¤å§çå²©"  # Harrat Al-Buqum
+#   "æµ·æå°çå²©"  # Harrat Khaybar
+#   "åºèµé©¬çå²©"  # Harrat Kurama
+#   "ä¹å¥ä¼å°çå²©"  # Harrat al-Unayyir
+#   "å®°å¸å°Â·å·´å°åºå"  # Zaher Barqooq
+#   "æ³ææ ¼Â·æ¬Â·å·´å°åºå"  # Farag Ben Barqooq
+#   "æ¬Â·å·´å°åºå"  # Ben Barqooq
+#   "ç©è´¾å¸å¾·Â·è°¢èµ«"  # Muyaid Sheikh
+#   "é¿æ¼Â·ç©è´¾å¸å¾·"  # Ahmen Muyaid
+#   "å®°å¸å°Â·éé¼"  # Zaher Tatar
+#   "çº³èµå°Â·ç©ç½é»å¾·"  # Nasser Muhamed
+#   "é¿ä»æå¤«Â·å·´å°æ¯æ"  # Ashraf Barsbay
+#   "é¿é½å¹Â·å é©¬å°"  # Aziz Gamal
+#   "å°¼ç½æ²³"  # Nahr an-Nil
+#   "æ³æè²æ"  # Al-Farafirah
+#   "è¾¾èµ«è±"  # Ad-DÃ¤khilah
+#   "åéæ°"  # Al-Kharijah
+#   "é¿é"  # Al-Ali
+#   "å·´èµ«éè¶"  # Al-Bahriyah
+#   "è³æè"  # Rahman
+#   "ç¹æè"  # Rahim
+#   "åç"  # Malik
+#   "è³å£è"  # Quddus
+#   "å®å®è"  # Salam
+#   "ä¿è¯è"  # Mu'min
+#   "å®æ¤è"  # Muhaymin
+#   "æè½è"  # Aziz
+#   "å¤§è½è"  # Jabbar
+#   "å¹¿åè"  # Mutakabbir
+#   "åä¸ä¸»"  # Khaliq
+#   "ç«æ³è"  # Bari
+#   "å¡å½¢è"  # Musawwir
+#   "è³æè"  # Ghaffar
+#   "å¾æè"  # Qahhar
+#   "èµç¦è"  # Wahhab
+#   "ä¾ç»è"  # Razzaq
+#   "å¼å¯è"  # Fattah
+#   "å¨ç¥è"  # Alim
+#   "éæ­¢è"  # Qabid
+#   "å®½å®è"  # Basit
+#   "è´¬è°ªè"  # Khafid
+#   "æ¢åè"  # Rafi
+#   "èµäºè£èè"  # Mu'izz
+#   "æ½äºè»è¾±è"  # Mudhill
+#   "å¨å¬è"  # Sami
+#   "å¨è§è"  # Basir
+#   "ä»²è£è"  # Hakam
+#   "æ­£ä¹"  # Adl
+# }
+# army_names = {
+#   "$PROVINCE$ä¹å"  # Jaish-al $PROVINCE$
+# }
+# fleet_names = {
+#   "$PROVINCE$è°é"  # Istawal-al $PROVINCE$
+# }

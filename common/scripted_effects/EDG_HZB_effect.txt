@@ -1,0 +1,30 @@
+EDG_MISSION_HZB_3_9_modifier_effect = {
+	if = {
+		limit = {
+			has_country_modifier = EDG_MISSION_HZB_3_9_modifier
+		}
+		custom_tooltip = EDG_MISSION_HZB_3_9_modifier_effect_tt_yes
+		hidden_effect = {
+			remove_country_modifier = EDG_MISSION_HZB_3_9_modifier
+			add_country_modifier = {
+				name = EDG_MISSION_HZB_3_9_modifier
+				duration = 7300
+			}
+		}
+	}
+	else = {
+		custom_tooltip = EDG_MISSION_HZB_3_9_modifier_effect_tt_no
+	}
+}
+EDG_flavor_HZB_mission_1_A_name_effect = {
+	define_ruler = {
+		dynasty = "孛儿几斤"
+		claim = 95
+		age = 35
+	}
+	define_heir = {
+		dynasty = "孛儿几斤"
+		claim = 95
+		age = 15
+	}
+}

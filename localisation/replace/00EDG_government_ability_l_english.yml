@@ -1,0 +1,871 @@
+﻿l_english:
+    mechanic_EDG_enable_create_slave_ability:0 "允许转化特定省份的产物为§Y奴隶§!"
+    mechanic_EDG_enable_create_slave_ability_yes:0 "允许转化特定省份的产物为§Y奴隶§!"
+EDG_create_slave_button_value:0 "已§Y设立奴隶产地§!的次数"
+
+    mechanic_weimar_ban_elections:0 "禁用§Y选举§!"
+    mechanic_weimar_ban_elections_yes:0 "禁用§Y选举§!"
+
+    mechanic_foreign_slave_rulers:0 "启用§Y特殊的继承机制§!。"
+    mechanic_foreign_slave_rulers_yes:0 "启用§Y特殊的继承机制§!。"
+
+    mechanic_EDG_Norman_Monarchy_ability:0 "启用§Y诺曼君主国§!决议"
+    mechanic_EDG_Norman_Monarchy_ability_yes:0 "启用§Y诺曼君主国§!决议"
+    
+    EDG_Norman_Monarchy_ability_adm_1_title:0 "「诺曼」指派首都执达官"
+    EDG_Norman_Monarchy_ability_adm_1_desc:0 "诺曼人在亚平宁南部立足后在当地建立了割据政权，在各种博弈以及宗教冲突的割裂下，他们难以统一，并将一部分行政力量投入了对亚平宁南部领地的建设中。"
+    
+    EDG_Norman_Monarchy_ability_dip_1_title:0 "「诺曼」扩大皇家工坊"
+    EDG_Norman_Monarchy_ability_dip_1_desc:0 "诺曼人在亚平宁南部立足后在当地建立了割据政权，在各种博弈以及宗教冲突的割裂下，他们难以统一，并将一部分行政力量投入了对亚平宁南部领地的建设中。"
+    
+    EDG_Norman_Monarchy_ability_mil_1_title:0 "「诺曼」委任征兵官员"
+    EDG_Norman_Monarchy_ability_mil_1_desc:0 "诺曼人在亚平宁南部立足后在当地建立了割据政权，在各种博弈以及宗教冲突的割裂下，他们难以统一，并将一部分行政力量投入了对亚平宁南部领地的建设中。"
+    
+    
+    EDG_Norman_Monarchy_ability_adm_2_title:0 "「诺曼」外派巡回法庭"
+    EDG_Norman_Monarchy_ability_adm_2_desc:0 "诺曼人在亚平宁南部立足后在当地建立了割据政权，在各种博弈以及宗教冲突的割裂下，他们难以统一，并将一部分行政力量投入了对亚平宁南部领地的建设中。"
+    EDG_Norman_Monarchy_ability_adm_2_modifier:0 "「诺曼」外派巡回法庭"
+    EDG_Norman_Monarchy_ability_adm_2_modifier_desc:0 "诺曼人在亚平宁南部立足后在当地建立了割据政权，在各种博弈以及宗教冲突的割裂下，他们难以统一，并将一部分行政力量投入了对亚平宁南部领地的建设中。"
+    
+    EDG_Norman_Monarchy_ability_dip_2_title:0 "「诺曼」落实誓证审讯法"
+    EDG_Norman_Monarchy_ability_dip_2_desc:0 "诺曼人在亚平宁南部立足后在当地建立了割据政权，在各种博弈以及宗教冲突的割裂下，他们难以统一，并将一部分行政力量投入了对亚平宁南部领地的建设中。"
+    EDG_Norman_Monarchy_ability_dip_2_modifier:0 "「诺曼」落实誓证审讯法"
+    EDG_Norman_Monarchy_ability_dip_2_modifier_desc:0 "诺曼人在亚平宁南部立足后在当地建立了割据政权，在各种博弈以及宗教冲突的割裂下，他们难以统一，并将一部分行政力量投入了对亚平宁南部领地的建设中。"
+    
+    EDG_Norman_Monarchy_ability_mil_2_title:0 "「诺曼」修缮皇家玉玺文书"
+    EDG_Norman_Monarchy_ability_mil_2_desc:0 "诺曼人在亚平宁南部立足后在当地建立了割据政权，在各种博弈以及宗教冲突的割裂下，他们难以统一，并将一部分行政力量投入了对亚平宁南部领地的建设中。"
+    EDG_Norman_Monarchy_ability_mil_2_modifier:0 "「诺曼」修缮皇家玉玺文书"
+    EDG_Norman_Monarchy_ability_mil_2_modifier_desc:0 "诺曼人在亚平宁南部立足后在当地建立了割据政权，在各种博弈以及宗教冲突的割裂下，他们难以统一，并将一部分行政力量投入了对亚平宁南部领地的建设中。"
+    
+    
+    mechanic_EDG_Allow_militarized_government_reform_ability:0 "允许§Y军事化§!政府改革"
+    mechanic_EDG_Allow_militarized_government_reform_ability_yes:0 "允许§Y军事化§!政府改革"
+    
+    mechanic_EDG_Persia_empire_capital_reform_ability:0 "启用§Y波斯帝国迁都机制§!"
+    mechanic_EDG_Persia_empire_capital_reform_ability_yes:0 "启用§Y波斯帝国迁都机制§!"
+    
+    EDG_flavor_PER.101.t:0 "帝国首都"
+    EDG_flavor_PER.101.dd:0 "波斯帝国的一个古老传统，便是将首都轮流设置在不同的地区。这一举措能够让不同地区的人民和贵族感受到自己被重视而非被压迫，从而带来某一群体忠诚度的增加，并为我们带来更多的好处。这一天，[Root.Monarch.GetTitle][Root.Monarch.GetName]的大臣宣布，[Root.Monarch.GetTitle]选择新首都的地点了。"
+    EDG_flavor_PER.101.z:0 "我们还没准备好。"
+    EDG_flavor_PER.101.a:0 "我们将坐镇大不里士。"
+    EDG_flavor_PER.101.b:0 "天下之半，伊斯法罕。"
+    EDG_flavor_PER.101.c:0 "德黑兰凝聚了我们的行政智慧。"
+    EDG_flavor_PER.101.d:0 "我们需要巴格达的哈里发宝座。"
+    EDG_flavor_PER.101.e:0 "撒马尔罕永远欢迎我们。"
+    
+    EDG_Persia_empire_capital_modifier_1:0 "帝国首都：大不里士"
+    EDG_Persia_empire_capital_modifier_2:0 "帝国首都：伊斯法罕"
+    EDG_Persia_empire_capital_modifier_3:0 "帝国首都：德黑兰"
+    EDG_Persia_empire_capital_modifier_4:0 "帝国首都：巴格达"
+    EDG_Persia_empire_capital_modifier_5:0 "帝国首都：撒马尔罕"
+    EDG_Persia_empire_capital_modifier_1_desc:0 "波斯帝国将首都设立在不同的地区时，将能够获得不同的增益。"
+    EDG_Persia_empire_capital_modifier_2_desc:0 "波斯帝国将首都设立在不同的地区时，将能够获得不同的增益。"
+    EDG_Persia_empire_capital_modifier_3_desc:0 "波斯帝国将首都设立在不同的地区时，将能够获得不同的增益。"
+    EDG_Persia_empire_capital_modifier_4_desc:0 "波斯帝国将首都设立在不同的地区时，将能够获得不同的增益。"
+    EDG_Persia_empire_capital_modifier_5_desc:0 "波斯帝国将首都设立在不同的地区时，将能够获得不同的增益。"
+    
+    mechanic_EDG_Persian_provinces_reform_ability:0 "启用§Y波斯行省§!决议"
+    mechanic_EDG_Persian_provinces_reform_ability_yes:0 "启用§Y波斯行省§!决议"
+    
+    EDG_Persian_provinces_reform_ability_decision_title:0 "「波斯行省」扩大行省征税"
+    EDG_Persian_provinces_reform_ability_decision_desc:0 "我们将扩大对行省征收的税款，这将引起一些不满，但能够增加我们的财政收入。"
+    EDG_Persian_provinces_reform_ability_modifier:0 "「波斯行省」扩大行省征税"
+    EDG_Persian_provinces_reform_ability_modifier_desc:0 "我们扩大了对行省征收的税款，这引起了一些不满，但增加了我们的财政收入。"
+    
+    EDG_Persian_provinces_reform_ability_decision_2_title:0 "「波斯行省」扩大行省征兵"
+    EDG_Persian_provinces_reform_ability_decision_2_desc:0 "我们将扩大对行省征收的征兵，这将引起一些不满，但能够增加我们的军队和人力。"
+    EDG_Persian_provinces_reform_ability_modifier_2:0 "「波斯行省」扩大行省征兵"
+    EDG_Persian_provinces_reform_ability_modifier_2_desc:0 "我们扩大了对行省征收的征兵，这引起了一些不满，但增加了我们的军队和人力。"
+
+    mechanic_EDG_Andalusia_Denomination_ability:0 "启用§Y『教团』§!决议"
+    mechanic_EDG_Andalusia_Denomination_ability_yes:0 "启用§Y『教团』§!决议"
+    
+    mechanic_EDG_STRONG_Caledonia_ability:0 "启用§Y『卡勒多巴拉骑士团』§!阶层特权§Y『加强卡勒多巴拉骑士团特权』§!。"
+    mechanic_EDG_STRONG_Caledonia_ability_yes:0 "启用§Y『卡勒多巴拉骑士团』§!阶层特权§Y『加强卡勒多巴拉骑士团特权』§!。"
+
+
+    mechanic_EDG_Grand_Vizier_ability:0 "允许启用§Y『大维齐尔』§!顾问"
+    mechanic_EDG_Grand_Vizier_ability_yes:0 "允许启用§Y『大维齐尔』§!顾问"
+
+    mechanic_EDG_Secretary_General_ability:0 "允许启用§Y『文署秘书长』§!顾问"
+    mechanic_EDG_Secretary_General_ability_yes:0 "允许启用§Y『文署秘书长』§!顾问"
+    
+    mechanic_EDG_barracks_tax_ability:0 "新建的兵营和训练营省份给予§Y+20%§!本地税收修正和§Y-2%§!本地叛乱"
+    mechanic_EDG_barracks_tax_ability_yes:0 "新建的兵营和训练营省份给予§Y+20%§!本地税收修正和§Y-2%§!本地叛乱"
+EDG_Harmonious_conscription_system_modifier:0 "和谐的征兵制度"
+EDG_Harmonious_conscription_system_modifier_desc:0 "我们的兵役制度能够避免土地兼并和过度剥削，而在征兵机构不断完善之后，更是能够发挥征兵制度的优越性，保证政治领主对当地的剥削不会超出地区的经济条件。"
+
+    mechanic_EDG_millet_ability:0 "新建的法院和市政厅异端异教省份给予§Y+50%§!本地生产效率和§Y-2§!本地叛乱"
+    mechanic_EDG_millet_ability_yes:0 "新建的法院和市政厅异端异教省份给予§Y+50%§!本地生产效率和§Y-2§!本地叛乱"
+EDG_millet_ability_modifier:0 "米利特制度"
+EDG_millet_ability_modifier_desc:0 "米利特制度保障了当地少数群体的安全与社会的稳定，促进了生产的发展。"
+
+
+    mechanic_EDG_sanjaks_reform_ability:0 "当拥有§Y『征兵官』§!顾问时，减少§Y10%§!的征募陆军将领花费"
+    mechanic_EDG_sanjaks_reform_ability_yes:0 "当拥有§Y『征兵官』§!顾问时，减少§Y10%§!的征募陆军将领花费"
+EDG_sanjaks_reform_ability_modifier:0 "国家军事动员"
+EDG_sanjaks_reform_ability_modifier_desc:0 "我们的国家是一台庞大的战争机器，近来的军事动员更是让这台机器高效运转，各路军事人才都展现出巨大的积极性。"
+    
+    mechanic_EDG_ghulam_chief_ability:0 "允许启用§Y『古拉姆长官』§!顾问"
+    mechanic_EDG_ghulam_chief_ability_yes:0 "允许启用§Y『古拉姆长官』§!顾问"
+    
+    mechanic_EDG_enable_estate_edg_caledonia_ability:0 "允许启用§Y『骑士团』§!阶层"
+    mechanic_EDG_enable_estate_edg_caledonia_ability_yes:0 "允许启用§Y『骑士团』§!阶层"
+    
+    mechanic_EDG_Peasant_regime:0 "是§Y农民政权§!"
+    mechanic_EDG_Peasant_regime_yes:0 "是§Y农民政权§!"
+    
+    mechanic_EDG_estate_EDG_Safeguarding_the_interests_of_the_Albi_Fuwa_faction_privilege_ability:0 "启用§Y『贵族』§!阶层特权§Y『保障阿尔比-富瓦派利益』§!。"
+    mechanic_EDG_estate_EDG_Safeguarding_the_interests_of_the_Albi_Fuwa_faction_privilege_ability_yes:0 "启用§Y『贵族』§!阶层特权§Y『保障阿尔比-富瓦派利益』§!。"
+
+    mechanic_EDG_estate_EDG_Minister_of_General_Affairs_privilege_ability:0 "启用§Y『市民』§!阶层特权§Y『钦定总务大臣』§!。"
+    mechanic_EDG_estate_EDG_Minister_of_General_Affairs_privilege_ability_yes:0 "启用§Y『市民』§!阶层特权§Y『钦定总务大臣』§!。"
+
+    mechanic_EDG_Lothian_Crown_privilege_ability:0 "启用§Y『贵族』§!阶层特权§Y『亚历山大法令』§!。"
+    mechanic_EDG_Lothian_Crown_privilege_ability_yes:0 "启用§Y『贵族』§!阶层特权§Y『亚历山大法令』§!。"
+
+    mechanic_EDG_estate_EDG_Strengthening_the_serfdom_systems_privilege_ability:0 "启用§Y『贵族』§!阶层特权§Y『加强农奴制度』§!。"
+    mechanic_EDG_estate_EDG_Strengthening_the_serfdom_systems_privilege_ability_yes:0 "启用§Y『贵族』§!阶层特权§Y『加强农奴制度』§!。"
+
+    mechanic_EDG_estate_EDG_Aberdeen_decree_privilege_ability:0 "启用§Y『贵族』§!阶层特权§Y『阿伯丁法令』§!。"
+    mechanic_EDG_estate_EDG_Aberdeen_decree_privilege_ability_yes:0 "启用§Y『贵族』§!阶层特权§Y『阿伯丁法令』§!。"
+
+    mechanic_EDG_estate_EDG_Latin_National_Army_privilege_ability_yes:0 "启用§Y『市民』§!阶层特权§Y『扩大国民军』§!。"
+    mechanic_EDG_estate_EDG_Latin_National_Army_privilege_ability:0 "启用§Y『市民』§!阶层特权§Y『扩大国民军』§!。"
+
+    mechanic_EDG_estate_EDG_Theatines_privilege_ability_yes:0 "启用§Y『市民』§!阶层特权§Y『戴蒂尼会』§!。"
+    mechanic_EDG_estate_EDG_Theatines_privilege_ability:0 "启用§Y『市民』§!阶层特权§Y『戴蒂尼会』§!。"
+
+    mechanic_EDG_estate_EDG_Norman_Sicilian_Parliament_privilege_ability_yes:0 "启用§Y『贵族』§!阶层特权§Y『贵族传统议会特权』§!。"
+    mechanic_EDG_estate_EDG_Norman_Sicilian_Parliament_privilege_ability:0 "启用§Y『贵族』§!阶层特权§Y『贵族传统议会特权』§!。"
+
+    mechanic_EDG_SCO_Crown_ability:0 "启用§Y王朝选举§!机制"
+    mechanic_EDG_SCO_Crown_ability_yes:0 "启用§Y王朝选举§!机制"
+
+    mechanic_EDG_legitimacy_xungui_ability_yes:0 "§Y『勋贵支持』§!：§Y勋贵§!顾问每级将会提供年度§Y0.25§!点正统性、奉献度或共和传统"
+    mechanic_EDG_legitimacy_xungui_ability:0 "拥有§Y『勋贵支持』§!政府机制"
+
+    mechanic_EDG_tax_bailiff_ability_yes:0 "§Y『执达官体系』§!：§Y执达官§!顾问每级将会提供§Y5%§!国家税收修正"
+    mechanic_EDG_tax_bailiff_ability:0  "拥有§Y『执达官体系』§!政府机制"
+
+    mechanic_EDG_Imperial_Economic_Advisor_ability_yes:0  "§Y『行政经济学指导』§!：§Y经济学家§!顾问每级将会提供§Y2.5%§!行政科技花费减免"
+    mechanic_EDG_Imperial_Economic_Advisor_ability:0  "拥有§Y『行政经济学指导』§!政府机制"
+
+    mechanic_EDG_administrative_efficiency_administrative_experts_ability_yes:0 "『§Y行政专业主义§!』：§Y行政专家§!顾问每级将会提供§Y1%§!行政效率"
+    mechanic_EDG_administrative_efficiency_administrative_experts_ability:0  "拥有§Y『行政专业主义』§!政府机制"
+
+    mechanic_EDG_HRE_statesman_provide_imperial_authority_ability_yes:0 "§Y『帝国政治家』§!：§Y政治家§!顾问每级将会提供§Y2.5%§!帝国威望增长"
+    mechanic_EDG_HRE_statesman_provide_imperial_authority_ability:0  "拥有§Y『帝国政治家』§!政府机制"
+
+mechanic_EDG_army_reformer_provide_shock_damage_ability_yes:0 "§Y『新式冲锋战术』§!：§Y陆军改革家§!顾问每级将会提供§Y5%§!陆军冲击伤害。"
+mechanic_EDG_army_reformer_provide_shock_damage_ability:0  "拥有§Y『新式冲锋战术』§!政府机制"
+
+mechanic_EDG_Sword_of_religion_ability_yes:0 "§Y『真信之剑』§!：§Y审讯官§!顾问每级将会提供§Y5%§!陆军士气。"
+mechanic_EDG_Sword_of_religion_ability:0  "拥有§Y『真信之剑』§!政府机制"
+
+mechanic_EDG_reformer_provide_unrest_host_ability_yes:0 "§Y『曲线改革』§!：§Y改革家§!顾问每级将会提供§Y-0.5§!全国叛乱。"
+mechanic_EDG_reformer_provide_unrest_host_ability:0  "拥有§Y『曲线改革』§!政府机制"
+
+    mechanic_EDG_Apprentice_Act_ability:0 "允许启用§Y『徒工法令』§!直属州法令"
+    mechanic_EDG_Apprentice_Act_ability_yes:0 "允许启用§Y『徒工法令』§!直属州法令，增加直属州§Y0.5§!点商品产出"
+
+    mechanic_EDG_MORE_issues_1_ability:0 "解锁§Y自由主义法案§!和§Y重商主义法案§!议会法案"
+    mechanic_EDG_MORE_issues_1_ability_yes:0 "解锁§Y自由主义法案§!和§Y重商主义法案§!议会法案"
+
+    mechanic_EDG_has_marine:0 "允许使用海军陆战队"
+    mechanic_EDG_has_marine_yes:0 "允许使用海军陆战队"
+
+    mechanic_EDG_strong_circuit_court_ability_yes:0 "§Y『巡回审判法庭』§!：采用决议§Y外派巡回法庭§!将降低全国20%的自治度"
+    mechanic_EDG_strong_circuit_court_ability:0  "拥有§Y『巡回审判法庭』§!政府机制"
+    EDG_Norman_Monarchy_ability_adm_2_update_tt:0  "由于我们拥有§Y『巡回审判法庭』§!政府能力，因而治下所有省份将失去20%自治度。"
+
+    mechanic_EDG_more_Italian_Mercenary_ability_yes:0 "§Y『意大利佣兵』§!：可以雇佣更多类型的意大利佣兵。"
+    mechanic_EDG_more_Italian_Mercenary_ability:0 "拥有§Y『意大利佣兵』§!政府机制"
+
+   mechanic_EDG_Naples_administrative_division_ability_yes:0 "§Y『委任行政区长官』§!：解锁决议§Y委任行政区长官§!。"
+   mechanic_EDG_Naples_administrative_division_ability:0 "拥有§Y『委任行政区长官』§!政府机制"
+    EDG_Naples_administrative_division_ability_decision_title:0 "委任行政区长官"
+    EDG_Naples_administrative_division_ability_decision_desc:0 "我们将在各个行政区委任行政长官，以加强对全国的控制。"
+    EDG_Naples_administrative_division_ability_decision_modifier_2:0 "委任行政区长官"
+
+    mechanic_EDG_chamberlain_Parliament_ability:0 "§Y『朝会议员』§!：雇佣§Y宫廷总管§!顾问将会提供§Y3%§!的议案通过率"
+    mechanic_EDG_chamberlain_Parliament_ability_yes:0 "§Y『朝会议员』§!：雇佣§Y宫廷总管§!顾问将会提供§Y3%§!的议案通过率"
+
+    mechanic_EDG_reformer_global_unrest_ability:0 "§Y『议会改革』§!：雇佣§Y改革家§!顾问将会提供§Y3%§!的议案通过率"
+    mechanic_EDG_reformer_global_unrest_ability_yes:0 "§Y『议会改革』§!：雇佣§Y改革家§!顾问将会提供§Y3%§!的议案通过率"
+
+
+    mechanic_EDG_HRE_Imperial_Knights_ability:0 "我们将能够雇佣§Y帝国骑士§!佣兵团，该佣兵团拥有§Y75%§!的折扣，且拥有以下修正：§Y骑兵作战能力+20%§!"
+    mechanic_EDG_HRE_Imperial_Knights_ability_yes:0 "我们将能够雇佣§Y帝国骑士§!佣兵团，该佣兵团拥有§Y75%§!的折扣，且拥有以下修正：§Y骑兵作战能力+20%§!"
+    merc__EDG_HRE_Imperial_Knights:0 "帝国骑士「特殊」"
+
+mechanic_EDG_HRE_vassal_ability:0 "启用§Y神圣罗马陪臣国§!机制"
+mechanic_EDG_HRE_vassal_ability_yes:0 "启用§Y神圣罗马陪臣国§!机制"
+
+mechanic_EDG_GER_more_mercenary_ability:0 "解锁更多§Y德意志§!佣兵"
+mechanic_EDG_GER_more_mercenary_ability_yes:0 "解锁更多§Y德意志§!佣兵"
+
+mechanic_EDG_Hussites_Shirachita_ability_yes:0 "§Y『胡斯派施拉赤塔主导』§!：100%的§Y神圣狂热§!将会额外提供§Y25%§!正统信仰省份人力。"
+mechanic_EDG_Hussites_Shirachita_ability:0  "拥有§Y『胡斯派施拉赤塔主导』§!政府机制"
+
+mechanic_EDG_HRE_Imperial_Inquisition_ability_yes:0 "解锁决议 §Y向皇帝求助解决异端问题§!"
+mechanic_EDG_HRE_Imperial_Inquisition_ability:0 "解锁决议 §Y向皇帝求助解决异端问题§!"
+
+mechanic_EDG_HRE_Religious_Council_ability_yes:0 "降低§Y要求肃清异端§!外交行动所减少的好感。"
+mechanic_EDG_HRE_Religious_Council_ability:0 "降低§Y要求肃清异端§!外交行动所减少的好感。"
+
+mechanic_EDG_HRE_Reichstag_participated_ability_yes:0 "允许在§Y帝国会议§!上提出更多诉求。"
+mechanic_EDG_HRE_Reichstag_participated_ability:0 "允许在§Y帝国会议§!上提出更多诉求。"
+
+mechanic_EDG_HRE_Reichstag_Dominated_ability_yes:0 "允许§Y临时召开帝国会议§!"
+mechanic_EDG_HRE_Reichstag_Dominated_ability:0 "允许§Y临时召开帝国会议§!"
+
+mechanic_EDG_Prime_Minister_Office_ability_yes:0 "§Y『御前会议』§!：允许每任统治者组建§Y御前会议§!。"
+mechanic_EDG_Prime_Minister_Office_ability:0 "§Y『御前会议』§!：允许每任统治者组建§Y御前会议§!。"
+
+mechanic_EDG_Coronation_Rome_provide_prestige_ability_yes:0 "加冕§Y罗马人民的国王§!将提供§M20§!点威望。"
+mechanic_EDG_Coronation_Rome_provide_prestige_ability:0 "加冕§Y罗马人民的国王§!将提供§M20§!点威望。"
+
+mechanic_EDG_Reappointed_emperor_provides_power_ability_yes:0 "连任§Y皇帝§!将额外提供§M50§!点£adm£、£dip£和£mil£。"
+mechanic_EDG_Reappointed_emperor_provides_power_ability:0 "连任§Y皇帝§!将额外提供§M50§!点£adm£、£dip£和£mil£。"
+
+mechanic_EDG_MORE_HAB_ability_yes:0 "解锁更多§Y哈布斯堡王朝能力§!。"
+mechanic_EDG_MORE_HAB_ability:0 "解锁更多§Y哈布斯堡王朝能力§!。"
+
+mechanic_EDG_HRE_manpower_duty_free_princes_ability_yes:0 "在帝国内具有§Y免兵役特权§!"
+mechanic_EDG_HRE_manpower_duty_free_princes_ability:0 "在帝国内具有§Y免兵役特权§!"
+
+mechanic_EDG_caliph_yes_ability_yes:0 "是哈里发国"
+mechanic_EDG_caliph_yes_ability:0 "是哈里发国"
+
+mechanic_EDG_enable_Berber_estate_ability_yes:0 "启用§Y柏柏尔部落§!阶层"
+mechanic_EDG_enable_Berber_estate_ability:0 "启用§Y柏柏尔部落§!阶层"
+
+mechanic_EDG_Martial_Politics_ability_yes:0 "统治者继位后将触发§Y帝国的继承者§!事件"
+mechanic_EDG_Martial_Politics_ability:0 "统治者继位后将触发§Y帝国的继承者§!事件"
+
+mechanic_EDG_Rebuilding_Denomination_system_ability_yes:0 "解锁属国类型§Y「泰法国」§!"
+mechanic_EDG_Rebuilding_Denomination_system_ability:0 "解锁属国类型§Y「泰法国」§!"
+
+mechanic_EDG_Improve_Babari_Iqta_ability_yes:0 "解锁属国类型§Y「伊克塔」§!"
+mechanic_EDG_Improve_Babari_Iqta_ability:0 "解锁属国类型§Y「伊克塔」§!"
+
+mechanic_EDG_Black_Slave_Guard_reform_ability_yes:0 "解锁特殊佣兵团§Y「黑奴卫队」§!"
+mechanic_EDG_Black_Slave_Guard_reform_ability:0 "解锁特殊佣兵团§Y「黑奴卫队」§!"
+
+mechanic_EDG_Allow_Governor_District_ability_yes:0 "允许通过任务解锁释放§Y「总督区」§!的决议"
+mechanic_EDG_Allow_Governor_District_ability:0 "允许通过任务解锁释放§Y「总督区」§!的决议"
+
+mechanic_EDG_holy_raze_ability_yes:0 "焚掠省份将会给予§M0.1§!§Y穆瓦希德权威§!"
+mechanic_EDG_holy_raze_ability:0 "焚掠省份将会给予§M0.25§!§Y穆瓦希德权威§!"
+
+mechanic_EDG_gain_legitimacy_from_conversions_yes:0 "通过传教转变省份的宗教，将会获得§M0.2§!点§Y正统性§!。"
+mechanic_EDG_gain_legitimacy_from_conversions:0 "通过传教转变省份的宗教，将会获得§M0.2§!点§Y正统性§!。"
+
+mechanic_EDG_reduce_nationalism_from_conversions_yes:0 "通过传教转变省份的宗教，将会失去§M10§!点§Y分离主义§!。"
+mechanic_EDG_reduce_nationalism_from_conversions:0 "通过传教转变省份的宗教，将会失去§M10§!点§Y分离主义§!。"
+
+mechanic_EDG_reduce_local_autonomy_from_conversions_yes:0 "通过传教转变省份的宗教，将会失去§M25§!点§Y自治度§!。"
+mechanic_EDG_reduce_local_autonomy_from_conversions:0 "通过传教转变省份的宗教，将会失去§M25§!点§Y自治度§!。"
+
+mechanic_EDG_CN_Frontier_Command_ability_yes:0 "是都护府"
+mechanic_EDG_CN_Frontier_Command_ability:0 "是都护府"
+
+mechanic_EDG_same_religion_subject_provide_tolerance_ability_yes:0 "§Y『教区管理』§!：每个与我们信仰§M相同宗教§!的属国将会为我们提供§Y0.25§!点正统容忍度。"
+mechanic_EDG_same_religion_subject_provide_tolerance_ability:0 "§Y『教区管理』§!"
+EDG_same_religion_subject_provide_tolerance_ability_modifier:0 "§Y『教区管理』§!：同宗教的属国"
+
+mechanic_EDG_same_culture_subject_get_land_moral_ability_yes:0 "§Y『军事行政』§!：每个与我们§M主流文化§!相同的属国将获得§Y10%§!点陆军士气。"
+mechanic_EDG_same_culture_subject_get_land_moral_ability:0 "§Y『军事行政』§!"
+EDG_same_culture_subject_get_land_moral_ability_modifier:0 "『军事行政』"
+
+EDG_BUL_MIL_reform_ability_estate_burghers_name:0 "公民"
+EDG_BUL_MIL_reform_ability_estate_nobles_name:0 "勋贵"
+EDG_BUL_MIL_reform_ability_estate_church_name:0 "军事神职"
+mechanic_EDG_BUL_MIL_reform_ability_estate_burghers:0 "市民阶层§Y军役化§!"
+mechanic_EDG_BUL_MIL_reform_ability_estate_nobles:0 "贵族阶层§Y军役化§!"
+mechanic_EDG_BUL_MIL_reform_ability_estate_church:0 "教士阶层§Y军役化§!"
+mechanic_EDG_BUL_MIL_reform_ability_estate_burghers_yes:0 "市民阶层§Y军役化§!"
+mechanic_EDG_BUL_MIL_reform_ability_estate_nobles_yes:0 "贵族阶层§Y军役化§!"
+mechanic_EDG_BUL_MIL_reform_ability_estate_church_yes:0 "教士阶层§Y军役化§!"
+
+    mechanic_EDG_enable_estate_The_Gray_army_ability:0 "允许启用§Y『灰军』§!阶层"
+    mechanic_EDG_enable_estate_The_Gray_army_ability_yes:0 "允许启用§Y『灰军』§!阶层"
+
+    mechanic_EDG_enable_estate_Mamluk_army_ability:0 "允许启用§Y『马穆鲁克』§!阶层"
+    mechanic_EDG_enable_estate_Mamluk_army_ability_yes:0 "允许启用§Y『马穆鲁克』§!阶层"
+
+    mechanic_EDG_enable_estate_Beduin_ability:0 "允许启用§Y『贝都因部落』§!阶层"
+    mechanic_EDG_enable_estate_Beduin_ability_yes:0 "允许启用§Y『贝都因部落』§!阶层"
+
+mechanic_EDG_allow_Abolish_weak_heirs_ability:0 "允许废除军事能力较低的继承人"
+mechanic_EDG_allow_Abolish_weak_heirs_ability_yes:0 "允许废除军事能力较低的继承人"
+
+mechanic_EDG_subject_provide_global_manpower_modifier_ability_yes:0 "§Y『军事直辖区』§!：每个属国将为我们提供§Y5%§!点全国人力修正。"
+mechanic_EDG_subject_provide_global_manpower_modifier_ability:0 "§Y『军事直辖区』§!"
+EDG_subject_provide_global_manpower_modifier_ability_modifier:0 "『军事直辖区』"
+
+mechanic_EDG_can_get_EDG_MLO_government_power_from_advisor_ability_yes:0 "顾问能够提供§Y哲人辉煌度§!。"
+mechanic_EDG_can_get_EDG_MLO_government_power_from_advisor_ability:0 "顾问能够提供§Y哲人辉煌度§!。"
+
+mechanic_EDG_Philosopher_reform_ability:0 "是§Y哲人政体§!"
+mechanic_EDG_Philosopher_reform_ability_yes:0 "是§Y哲人政体§!"
+
+mechanic_EDG_estate_burghers_enforced_interfaith_dialogue_P_provide_25_religious_unity_ability:0 "阶层特权§Y强迫宗教间谈话§!将额外给予§M25%§!宗教统一。"
+mechanic_EDG_estate_burghers_enforced_interfaith_dialogue_P_provide_25_religious_unity_ability_yes:0 "阶层特权§Y强迫宗教间谈话§!将额外给予§M25%§!宗教统一。"
+
+mechanic_EDG_estate_church_administrative_privileges_P_provide_5_administrative_efficiency_ability:0 "§Y教士§!阶层特权§Y治内之道§!将额外给予§M5%§!行政效率。"
+mechanic_EDG_estate_church_administrative_privileges_P_provide_5_administrative_efficiency_ability_yes:0 "§Y教士§!阶层特权§Y治内之道§!将额外给予§M5%§!行政效率。"
+
+mechanic_EDG_estate_nobles_officer_corp_P_provide_warscore_from_battles_ability:0 "§Y贵族§!阶层特权§Y贵族将领§!将额外给予§M15%§!的战斗获得的战争分数。"
+mechanic_EDG_estate_nobles_officer_corp_P_provide_warscore_from_battles_ability_yes:0 "§Y贵族§!阶层特权§Y贵族将领§!将额外给予§M15%§!的战斗获得的战争分数。"
+
+mechanic_EDG_estate_church_religious_diplomats_P_provide_diplomatic_1_reputation_ability:0 "§Y教士§!阶层特权§Y虔诚的外交官§!将额外给予§M1§!点外交声誉。"
+mechanic_EDG_estate_church_religious_diplomats_P_provide_diplomatic_1_reputation_ability_yes:0 "§Y教士§!阶层特权§Y虔诚的外交官§!将额外给予§M1§!点外交声誉。"
+
+mechanic_EDG_FRA_Public_Welfare_Alliance_Reform_ability:0 "降低§Y特权采邑§!类型的属国§M20%§!独立倾向。"
+mechanic_EDG_FRA_Public_Welfare_Alliance_Reform_ability_yes:0 "降低§Y特权采邑§!类型的属国§M20%§!独立倾向。"
+
+mechanic_EDG_enable_peasants_estate_ability:0 "启用§Y农民§!阶层"
+mechanic_EDG_enable_peasants_estate_ability_yes:0 "启用§Y农民§!阶层"
+
+mechanic_EDG_enable_peasants_officials_ability:0 "启用§Y官僚§!阶层"
+mechanic_EDG_enable_peasants_officials_ability_yes:0 "启用§Y官僚§!阶层"
+
+mechanic_EDG_PER_more_frequent_heir_ability:0 "使§Y帝国继承人§!事件常态化"
+mechanic_EDG_PER_more_frequent_heir_ability_yes:0 "使§Y帝国继承人§!事件常态化"
+
+mechanic_EDG_PER_choice_heir_ability:0 "解锁§Y帝国的继承人§!事件组"
+mechanic_EDG_PER_choice_heir_ability_yes:0 "解锁§Y帝国的继承人§!事件组"
+
+mechanic_EDG_FYM_choice_heir_ability:0 "解锁§Y萨哈达的继承者§!事件组"
+mechanic_EDG_FYM_choice_heir_ability_yes:0 "解锁§Y萨哈达的继承者§!事件组"
+
+mechanic_EDG_TUR_choice_heir_ability:0 "解锁§Y奥斯曼继承制§!事件组"
+mechanic_EDG_TUR_choice_heir_ability_yes:0 "解锁§Y奥斯曼继承制§!事件组"
+
+
+
+mechanic_EDG_gain_per_influence_from_huge_same_culture_PER_vassal_ability:0 "§Y「瓦利领」§!：可以建立§Y瓦利领§!，每个§M同文化§!的发展度达到§M300§!的§Y瓦利领§!提供§M0.05§!点月度波斯影响力"
+mechanic_EDG_gain_per_influence_from_huge_same_culture_PER_vassal_ability_yes:0 "§Y「瓦利领」§!：可以建立§Y瓦利领§!，每个§M同文化§!的发展度达到§M300§!的§Y瓦利领§!提供§M0.05§!点月度波斯影响力"
+EDG_PER_vassal_overlord_modifier:0 "瓦利领"
+EDG_gain_per_influence_from_huge_same_culture_PER_vassal_ability_modifier:0 "来自属国的波斯影响力"
+
+mechanic_EDG_converte_provide_per_influence_ability:0 "通过传教改变省份的宗教，将会获得§M0.25§!点§Y波斯影响力§!"
+mechanic_EDG_converte_provide_per_influence_ability_yes:0 "通过传教改变省份的宗教，将会获得§M0.25§!点§Y波斯影响力§!"
+
+mechanic_EDG_catharism_vassal_Clare_unable_ability:0 "禁止§M清洁派联盟成员国§!互相宣战"
+mechanic_EDG_catharism_vassal_Clare_unable_ability_yes:0 "禁止§M清洁派联盟成员国§!互相宣战"
+
+mechanic_EDG_HRE_Annexate_imperial_territories_ability:0 "解锁决议§Y通过强硬手段吞并帝国自由村庄§!"
+mechanic_EDG_HRE_Annexate_imperial_territories_ability_yes:0 "解锁决议§Y通过强硬手段吞并帝国自由村庄§!"
+
+mechanic_EDG_Lithuanian_Cabinet_reform_ability:0 "启用§Y常务内阁§!"
+mechanic_EDG_Lithuanian_Cabinet_reform_ability_yes:0 "启用§Y常务内阁§!"
+
+mechanic_EDG_FTM_empire_ability_yes:0 "允许设立§Y副苏丹§!行省"
+mechanic_EDG_FTM_empire_ability:0 "允许设立§Y副苏丹§!行省"
+
+mechanic_EDG_FYM_empire_province_reform_ability:0 "允许设立§Y持节瓦利§!和§Y执剑阿迦§!行省"
+mechanic_EDG_FYM_empire_province_reform_ability_yes:0 "允许设立§Y持节瓦利§!和§Y执剑阿迦§!行省"
+
+mechanic_EDG_FYM_Agha_vassal_government_1_change_action_ability:0 "允许§Y改变行省权力结构§!"
+mechanic_EDG_FYM_Agha_vassal_government_1_change_action_ability_yes:0 "允许§Y改变行省权力结构§!"
+mechanic_EDG_FYM_Agha_vassal_government_2_change_action_ability:0 "允许§Y改变行省国家重心§!"
+mechanic_EDG_FYM_Agha_vassal_government_2_change_action_ability_yes:0 "允许§Y改变行省国家重心§!"
+
+mechanic_EDG_FYM_Silahtar_aga_reform_ability:0 "允许我们在萨哈达政府能力§Y提拔奴隶军官§!中选择委任§Y军团阿迦§!。"
+mechanic_EDG_FYM_Silahtar_aga_reform_ability_yes:0 "允许我们在萨哈达政府能力§Y提拔奴隶军官§!中选择委任§Y军团阿迦§!。"
+
+mechanic_EDG_FYM_kushshaf_reform_ability:0 "在萨哈达政府能力§Y委任行政官员§!中选择委任§Y检察长§!，将会降低我们§M2§!点§Y腐败度§!。"
+mechanic_EDG_FYM_kushshaf_reform_ability_yes:0 "在萨哈达政府能力§Y委任行政官员§!中选择委任§Y检察长§!，将会降低我们§M2§!点§Y腐败度§!。"
+
+
+
+mechanic_EDG_enables_estate_edg_copt:0 "启用§Y科普特人§!阶层"
+mechanic_EDG_enables_estate_edg_copt_yes:0 "启用§Y科普特人§!阶层"
+
+mechanic_EDG_Request_General_action_ability:0 "解锁针对属国的外交行动§Y向属国索取将军§!"
+mechanic_EDG_Request_General_action_ability_yes:0 "解锁针对属国的外交行动§Y向属国索取将军§!"
+
+
+mechanic_EDG_GSR_mil_vassal_ability:0 "允许将附庸转变为§Y蒂玛尔领地§!"
+mechanic_EDG_GSR_mil_vassal_ability_yes:0 "允许将附庸转变为§Y蒂玛尔领地§!"
+
+mechanic_EDG_HZB_estate_ability:0 "启用§Y伊尔汗国§!阶层机制"
+mechanic_EDG_HZB_estate_ability_yes:0 "启用§Y伊尔汗国§!阶层机制"
+
+mechanic_EDG_TUR_gaomen_ability:0 "启用奥斯曼帝国§Y高门§!机制，该机制位于政府界面（若未显示，请卸下您的其他MOD）"
+mechanic_EDG_TUR_gaomen_ability_yes:0 "启用奥斯曼帝国§Y高门§!机制，该机制位于政府界面（若未显示，请卸下您的其他MOD）"
+
+mechanic_EDG_enable_estate_edg_Paladin_ability:0 "启用§Y「圣骑士」§!阶层"
+mechanic_EDG_enable_estate_edg_Paladin_ability_yes:0 "启用§Y「圣骑士」§!阶层"
+
+    celestial_empire_altaic_assimilated:0 ""
+    celestial_empire_baltic_assimilated:0 ""
+    celestial_empire_british_assimilated:0 ""
+    celestial_empire_burman_assimilated:0 ""
+    celestial_empire_byzantine_assimilated:0 ""
+    celestial_empire_carpathian_assimilated:0 ""
+    celestial_empire_caucasian_assimilated:0 ""
+    celestial_empire_gaelic_assimilated:0 ""
+    celestial_empire_central_indic_assimilated:0 ""
+    celestial_empire_east_asian_assimilated:0 ""
+    celestial_empire_kongo_group_assimilated:0 ""
+    celestial_empire_cushitic_assimilated:0 ""
+    celestial_empire_dravidian_assimilated:0 ""
+    celestial_empire_african_assimilated:0 ""
+    celestial_empire_east_slavic_assimilated:0 ""
+    celestial_empire_eastern_aryan_assimilated:0 ""
+    celestial_empire_evenks_assimilated:0 ""
+    celestial_empire_french_assimilated:0 ""
+    celestial_empire_germanic_assimilated:0 ""
+    celestial_empire_great_lakes_group_assimilated:0 ""
+    celestial_empire_hindusthani_assimilated:0 ""
+    celestial_empire_iberian_assimilated:0 ""
+    celestial_empire_iranian_assimilated:0 ""
+    celestial_empire_japanese_g_assimilated:0 ""
+    celestial_empire_kamchatkan_g_assimilated:0 ""
+    celestial_empire_korean_g_assimilated:0 ""
+    celestial_empire_latin_assimilated:0 ""
+    celestial_empire_lost_cultures_group_assimilated:0 ""
+    celestial_empire_turko_semitic_assimilated:0 ""
+    celestial_empire_maghrebi_assimilated:0 ""
+    celestial_empire_malay_assimilated:0 ""
+    celestial_empire_mande_assimilated:0 ""
+    celestial_empire_pacific_assimilated:0 ""
+    celestial_empire_sahelian_assimilated:0 ""
+    celestial_empire_scandinavian_assimilated:0 ""
+    celestial_empire_southeastasian_group_assimilated:0 ""
+    celestial_empire_south_slavic_assimilated:0 ""
+    celestial_empire_southern_african_assimilated:0 ""
+    celestial_empire_sudanese_assimilated:0 ""
+    celestial_empire_tartar_assimilated:0 ""
+    celestial_empire_thai_group_assimilated:0 ""
+    celestial_empire_tibetan_group_assimilated:0 ""
+    celestial_empire_finno_ugric_assimilated:0 ""
+    celestial_empire_west_african_assimilated:0 ""
+    celestial_empire_west_slavic_assimilated:0 ""
+    celestial_empire_western_aryan_assimilated:0 ""
+
+
+
+#海军职业度
+ability_EDG_naval_professionalism_mechanic:0 "启用政府能力§Y海军职业度§!"
+ability_EDG_naval_professionalism_mechanic_yes:0 "启用政府能力§Y海军职业度§!"
+EDG_naval_professionalism_mechanic:0 "启用政府能力§Y海军职业度§!"
+EDG_naval_professionalism_mechanic_yes:0 "启用政府能力§Y海军职业度§!"
+EDG_naval_professionalism_grow_effect_tt:0 "获得§G2.5§!海军职业度。"
+EDG_naval_professionalism:0 "海军职业度"
+EDG_naval_professionalism_power:0 "海军职业度"
+monthly_EDG_naval_professionalism_power:0 "月度海军职业度"
+monthly_EDG_naval_professionalism:0 "月度海军职业度"
+EDG_naval_professionalism_interactions_1:0 "整顿海军财务"
+EDG_naval_professionalism_interactions_2:0 "颁布私掠许可证"
+EDG_naval_professionalism_interactions_3:0 "加强海军训练"
+EDG_naval_professionalism_interactions_1_desc:0 ""
+EDG_naval_professionalism_interactions_2_desc:0 ""
+EDG_naval_professionalism_interactions_3_desc:0 ""
+EDG_naval_professionalism_power_1:0 "财务进度"
+EDG_naval_professionalism_power_2:0 "私掠进度"
+EDG_naval_professionalism_power_3:0 "训练进度"
+
+#不列颠尼亚议会
+ability_EDG_BTA_parliament_vs_monarchy_mechanic:0 "启用政府机制§Y政府权威§!"
+ability_EDG_BTA_parliament_vs_monarchy_mechanic_yes:0 "启用政府机制§Y政府权威§!"
+EDG_BTA_governmental_power:0 "政府权威"
+monthly_EDG_BTA_governmental_power:0 "月度§Y政府权威§!"
+
+#现代职业军改革
+ability_EDG_BTA_qinghe_militarization:0 "启用政府机制§Y现代职业军改革§!"
+ability_EDG_BTA_qinghe_militarization_yes:0 "启用政府机制§Y现代职业军改革§!"
+EDG_BTA_qinghe_militarization:0 "现代职业军改革"
+EDG_BTA_qinghe_militarization_power:0 "现代职业军改革进度"
+monthly_EDG_BTA_qinghe_militarization_power:0 "月度现代职业军改革进度"
+
+#
+ability_EDG_Norman_Monarchy_government:0 "启用政府能力§Y诺曼君主国能力§!"
+ability_EDG_Norman_Monarchy_government_yes:0 "启用政府能力§Y诺曼君主国能力§!"
+mechanic_EDG_Norman_Monarchy_government:0 "政府能力§Y诺曼君主国能力§!"
+mechanic_EDG_Norman_Monarchy_government_yes:0 "政府能力§Y诺曼君主国能力§!"
+EDG_Norman_Monarchy_government:0 "诺曼君主国能力"
+EDG_Norman_Monarchy_government_power_1:0 "修缮法典进度"
+EDG_Norman_Monarchy_government_power_2:0 "御前会议进度"
+EDG_Norman_Monarchy_government_power_3:0 "扩大禁军进度"
+EDG_Norman_Monarchy_government_interactions_1:0 "修缮国家法典"
+EDG_Norman_Monarchy_government_interactions_2:0 "召开御前会议"
+EDG_Norman_Monarchy_government_interactions_3:0 "扩大禁军规模"
+EDG_Norman_Monarchy_government_interactions_1_desc:0 ""
+EDG_Norman_Monarchy_government_interactions_2_desc:0 ""
+EDG_Norman_Monarchy_government_interactions_3_desc:0 ""
+monthly_EDG_Norman_Monarchy_government_power_1:0 "月度修缮法典进度"
+monthly_EDG_Norman_Monarchy_government_power_2:0 "月度御前会议进度"
+monthly_EDG_Norman_Monarchy_government_power_3:0 "月度扩大禁军进度"
+EDG_Norman_Monarchy_government_modifier_1:0 "修缮国家法典"
+EDG_Norman_Monarchy_government_modifier_2:0 "召开御前会议"
+EDG_Norman_Monarchy_government_modifier_3:0 "扩大禁军规模"
+
+
+#哈布斯堡
+mechanic_EDG_HAB_monarchy_ability:0 "是§Y哈布斯堡王朝§!"
+mechanic_EDG_HAB_monarchy_ability_yes:0 "是§Y哈布斯堡王朝§!"
+ability_EDG_HAB_Monarchy_government_ability:0 "§Y哈布斯堡王朝能力§!机制"
+ability_EDG_HAB_Monarchy_government_ability_yes:0 "§Y哈布斯堡王朝能力§!机制"
+EDG_HAB_Monarchy_government_interactions_5_opinion:0 "哈布斯堡宗教外交"
+EDG_HAB_Monarchy_government_interactions_6_tt:0 "我们将根据我们获得的§Y月度行政点§!获取一定的§G威望§!。"
+EDG_HAB_Monarchy_government_power:0 "哈布斯堡王朝点数"
+EDG_HAB_Monarchy_government_power_1:0 "哈布斯堡联姻点数"
+EDG_HAB_Monarchy_government_power_2:0 "哈布斯堡帝国点数"
+EDG_HAB_Monarchy_government_power_3:0 "哈布斯堡领地点数"
+EDG_HAB_Monarchy_government_power_4:0 "哈布斯堡民族点数"
+EDG_HAB_Monarchy_government_power_5:0 "哈布斯堡宗教点数"
+EDG_HAB_Monarchy_government_power_6:0 "哈布斯堡文艺点数"
+
+EDG_HAB_Monarchy_government_interactions_0:0 "哈布斯堡王朝能力"
+EDG_HAB_Monarchy_government_interactions_1:0 "哈布斯堡联姻能力"
+EDG_HAB_Monarchy_government_interactions_2:0 "哈布斯堡帝国能力"
+EDG_HAB_Monarchy_government_interactions_3:0 "哈布斯堡领地能力"
+EDG_HAB_Monarchy_government_interactions_4:0 "哈布斯堡民族能力"
+EDG_HAB_Monarchy_government_interactions_5:0 "哈布斯堡宗教能力"
+EDG_HAB_Monarchy_government_interactions_6:0 "哈布斯堡文艺能力"
+
+monthly_EDG_HAB_Monarchy_government_power:0 "月度哈布斯堡王朝点数"
+monthly_EDG_HAB_Monarchy_government_power_1_desc:0 ""
+monthly_EDG_HAB_Monarchy_government_power_2_desc:0 ""
+monthly_EDG_HAB_Monarchy_government_power_3_desc:0 ""
+monthly_EDG_HAB_Monarchy_government_power_4_desc:0 ""
+monthly_EDG_HAB_Monarchy_government_power_5_desc:0 ""
+monthly_EDG_HAB_Monarchy_government_power_6_desc:0 ""
+
+EDG_HAB_Monarchy_government_interactions_1_desc:0 ""
+EDG_HAB_Monarchy_government_interactions_2_desc:0 ""
+EDG_HAB_Monarchy_government_interactions_3_desc:0 ""
+EDG_HAB_Monarchy_government_interactions_4_desc:0 ""
+EDG_HAB_Monarchy_government_interactions_5_desc:0 ""
+EDG_HAB_Monarchy_government_interactions_6_desc:0 ""
+
+EDG_HAB_Monarchy_government_interactions_4_tt:0 "我们的所有容忍文化的省份获得如下修正："
+EDG_HAB_Monarchy_government_modifier_2:0 "哈布斯堡帝国政策"
+
+EDG_HAB_Monarchy_government_interactions_1_tt:0 "我们的每个§Y联姻国§!将会为我们提供§M20§!点£DIP£§G外交点§!，并且提升所有§Y联姻国§!对我们的好感度。"
+EDG_HAB_Monarchy_government_interactions_1_opinion:0 "哈布斯堡纽带"
+
+#哈布斯堡联统国
+mechanic_EDG_HAB_monarchy_ability_2:0 "启用§Y哈布斯堡联统国§!机制"
+mechanic_EDG_HAB_monarchy_ability_2_yes:0 "启用§Y哈布斯堡联统国§!机制"
+
+#穆瓦希德
+ability_EDG_Muwahhidun_government_ability:0 "穆瓦希德权威"
+ability_EDG_Muwahhidun_government_ability_yes:0 "穆瓦希德权威"
+EDG_Muwahhidun_government_ability:0 "穆瓦希德权威"
+EDG_Muwahhidun_government_ability_yes:0 "穆瓦希德权威"
+EDG_Muwahhidun_government_power:0 "穆瓦希德权威"
+EDG_Muwahhidun_government_power_1:0 "修订沙里亚点数"
+EDG_Muwahhidun_government_power_2:0 "驱逐不信者点数"
+EDG_Muwahhidun_government_power_3:0 "号召吉哈德点数"
+monthly_EDG_Muwahhidun_government_power:0 "月度§Y穆瓦希德权威§!"
+monthly_EDG_Muwahhidun_government_power_1:0 "月度§Y修订沙里亚点数§!"
+monthly_EDG_Muwahhidun_government_power_2:0 "月度§Y驱逐不信者点数§!"
+monthly_EDG_Muwahhidun_government_power_3:0 "月度§Y号召吉哈德点数§!"
+monthly_EDG_Muwahhidun_government_power_1_desc:0 "月度§Y修订沙里亚点数§!"
+monthly_EDG_Muwahhidun_government_power_2_desc:0 "月度§Y驱逐不信者点数§!"
+monthly_EDG_Muwahhidun_government_power_3_desc:0 "月度§Y号召吉哈德点数§!"
+EDG_Muwahhidun_government_interactions_1:0 "修订沙里亚"
+EDG_Muwahhidun_government_interactions_2:0 "驱逐不信者"
+EDG_Muwahhidun_government_interactions_3:0 "号召吉哈德"
+EDG_Muwahhidun_government_interactions_1_desc:0 ""
+EDG_Muwahhidun_government_interactions_2_desc:0 ""
+EDG_Muwahhidun_government_interactions_3_desc:0 ""
+
+EDG_Muwahhidun_government_interactions_2_tt:0 "移出我们治下所有非国教省份的§Y宗教热情§!修正。"
+
+#军役化
+
+ability_EDG_Military_Service_government_ability:0 "国家军役化"
+ability_EDG_Military_Service_government_ability_yes:0 "国家军役化"
+EDG_Military_Service_government_ability:0 "国家军役化"
+EDG_Military_Service_government_ability_yes:0 "国家军役化"
+EDG_Military_Service_government_power:0 "§Y国家军役化点数§!"
+EDG_Military_Service_government_power_1:0 "§Y神职军役化点数§!"
+EDG_Military_Service_government_power_2:0 "§Y公民军役化点数§!"
+EDG_Military_Service_government_power_3:0 "§Y勋贵军役化点数§!"
+monthly_EDG_Military_Service_government_power:0 "月度§Y国家军役化点数§!"
+monthly_EDG_Military_Service_government_power_1:0 "月度§Y神职军役化点数§!"
+monthly_EDG_Military_Service_government_power_2:0 "月度§Y公民军役化点数§!"
+monthly_EDG_Military_Service_government_power_3:0 "月度§Y勋贵军役化点数§!"
+monthly_EDG_Military_Service_government_power_1_desc:0 "月度§Y神职军役化点数§!"
+monthly_EDG_Military_Service_government_power_2_desc:0 "月度§Y公民军役化点数§!"
+monthly_EDG_Military_Service_government_power_3_desc:0 "月度§Y勋贵军役化点数§!"
+EDG_Military_Service_government_interactions_1:0 "神职军役改革"
+EDG_Military_Service_government_interactions_2:0 "公民军役改革"
+EDG_Military_Service_government_interactions_3:0 "勋贵军役改革"
+EDG_Military_Service_government_interactions_1_desc:0 ""
+EDG_Military_Service_government_interactions_2_desc:0 ""
+EDG_Military_Service_government_interactions_3_desc:0 ""
+
+#军国主义狂热
+ability_EDG_Militaristic_fervor_ability:0 "军国主义狂热"
+ability_EDG_Militaristic_fervor_ability_yes:0 "军国主义狂热"
+EDG_Militaristic_fervor_ability:0 "军国主义狂热"
+EDG_Militaristic_fervor_ability_yes:0 "军国主义狂热"
+EDG_Militaristic_fervor_power:0 "§Y军国主义狂热§!"
+EDG_Militaristic_fervor_power_desc:0 "§Y军国主义狂热§!会受到以下因素的直接影响：\n-赢得一场战争:§M+2.5§!\n-赢得一场针对他国的野战战役:§M+0.5§!\n-赢得一场针对他国的围城战役:§M+0.5§!\n\n\n月度§Y军国主义狂热§!会受到以下因素的持续影响：\n-100点陆军传统:§M+1§!\n-100%牧首权威:§M+1§!\n-处于战争:§M+0.25§!\n-处于和平:§R-0.5§!\n-每点厌战度:§R-0.5§!\n-每点负稳定:§R-0.5§!\n-每点通货膨胀:§R-1§!\n-处于破产:§R-2.5§!"
+EDG_Militaristic_fervor_interactions:0 "刺激国民参军"
+EDG_Militaristic_fervor_interactions_desc:0 ""
+monthly_EDG_Militaristic_fervor_power:0 "月度§Y军国主义狂热§!"
+
+
+#哲人辉煌度
+ability_EDG_MLO_government_ability:0 "§Y哲人辉煌度§!"
+ability_EDG_MLO_government_ability_yes:0 "§Y哲人辉煌度§!"
+EDG_MLO_government_ability:0 "哲人辉煌度"
+EDG_MLO_government_ability_yes:0 "哲人辉煌度"
+EDG_MLO_government_power:0 "§Y哲人辉煌度点数§!"
+EDG_MLO_government_power_desc:0 "\n§Y哲人辉煌度§!受到以下因素的影响：\n-使用§G哲人辉煌度§!能力\n-在§G哲人王选举§!中选择对应选项\n-对它国开展§G购买艺术品§!的§Y外交行动§!\n-接纳新思潮\n\n月度§Y哲人辉煌度§!受到以下因素的影响：\n-100点威望:§M+0.2§!\n-100点共和传统:§M+0.1§!\n-100点教会力量:§M+0.1§!\n-100点狂热:§M+0.1§!\n-处于和平:§M+0.1§!\n-每1点稳定度:§M+0.05§!\n-每1点外交声誉:§M+0.05§!\n-每1级顾问:§M+0.025§!\n-每1点厌战度:§R-0.05§!\n-每1点通货膨胀:§R-0.01§!\n-每1点腐败度:§R-0.1§!\n-100点陆军传统:§R-0.1§!\n-100点过度扩张:§R-0.5§!"
+EDG_MLO_government_power_1:0 "§Y文化繁荣度§!"
+EDG_MLO_government_power_2:0 "§Y艺术繁荣度§!"
+EDG_MLO_government_power_3:0 "§Y科技繁荣度§!"
+monthly_EDG_MLO_government_power:0 "月度§Y哲人辉煌度§!"
+monthly_EDG_MLO_government_power_1:0 "月度§Y文化繁荣度§!"
+monthly_EDG_MLO_government_power_2:0 "月度§Y艺术繁荣度§!"
+monthly_EDG_MLO_government_power_3:0 "月度§Y科技繁荣度§!"
+monthly_EDG_MLO_government_power_1_desc:0 "月度§Y文化繁荣度§!"
+monthly_EDG_MLO_government_power_2_desc:0 "月度§Y艺术繁荣度§!"
+monthly_EDG_MLO_government_power_3_desc:0 "月度§Y科技繁荣的§!"
+EDG_MLO_government_interactions_1:0 "兴办文化教育"
+EDG_MLO_government_interactions_2:0 "开办艺术展览"
+EDG_MLO_government_interactions_3:0 "投资科技创新"
+EDG_MLO_government_interactions_1_desc:0 ""
+EDG_MLO_government_interactions_2_desc:0 ""
+EDG_MLO_government_interactions_3_desc:0 ""
+
+#尹
+EDG_YIN_government_power_desc:0 "§Y归心值§!受到以下因素的影响：\n-转变一个省份的文化:§M+2§!\n-转变一个省份的宗教:§M+2§!\n\n月度§Y归心值§!受到以下因素的影响：\n-每5块主流文化省份:§M+0.05§!"\n-每1点君主能力:§M+0.025§!\n-每1点继承人能力:§M+0.01§!\n-每1点厌战度:§R-0.05§!\n-每1点通货膨胀:§R-0.05§!\n-每1点腐败度:§R-0.1§!\n-破产:§R-2.5§!"
+
+
+#法兰西
+ability_EDG_FRA_government_ability:0 "§Y绝对主义§!"
+ability_EDG_FRA_government_ability_yes:0 "§Y绝对主义§!"
+EDG_FRA_government_ability:0 "§Y绝对主义§!"
+EDG_FRA_government_ability_yes:0 "§Y绝对主义§!"
+EDG_FRA_government_power:0 "§Y绝对主义§!"
+EDG_FRA_government_power_desc:0 "月度§Y绝对主义§!受到以下因素的影响：\n-100点专制度:§M+0.1§!\n-100点力量投射:§M+0.1§!\n-100点威望:§M+0.1§!\n-100点正统性:§M+0.1§!\n-100点革命热情:§M+0.1§!\n-100点陆军传统:§M+0.1§!\n-100%的宗教统一:§M+0.05§!\n-每1点稳定度:§M+0.05§!\n-处于和平中:§M+0.05§!\n-是信仰守护者:§M+0.05§!\n-是列强:§M+0.05§!\n-每1%的通货膨胀:§R-0.01§!\n-每1点厌战度:§R-0.05§!\n-每1点腐败度:§R-0.1§!\n-处于战争中:§R-0.5§!\n-100点过度扩张:§R-0.5§!\n-破产:§R-0.5§!"
+EDG_FRA_government_power_1:0 "§Y行政绝对主义§!"
+EDG_FRA_government_power_2:0 "§Y经济绝对主义§!"
+EDG_FRA_government_power_3:0 "§Y军事绝对主义§!"
+monthly_EDG_FRA_government_power:0 "月度§Y绝对主义§!"
+monthly_EDG_FRA_government_power_1:0 "月度§Y经济绝对主义§!"
+monthly_EDG_FRA_government_power_2:0 "月度§Y经济绝对主义§!"
+monthly_EDG_FRA_government_power_3:0 "月度§Y军事绝对主义§!"
+monthly_EDG_FRA_government_power_1_desc:0 "月度§Y行政绝对主义§!"
+monthly_EDG_FRA_government_power_2_desc:0 "月度§Y经济绝对主义§!"
+monthly_EDG_FRA_government_power_3_desc:0 "月度§Y军事绝对主义§!"
+EDG_FRA_government_interactions_1:0 "扩大高等法院"
+EDG_FRA_government_interactions_2:0 "召开三级会议"
+EDG_FRA_government_interactions_3:0 "扩大常备王军"
+EDG_FRA_government_interactions_1_desc:0 ""
+EDG_FRA_government_interactions_2_desc:0 ""
+EDG_FRA_government_interactions_3_desc:0 ""
+
+ EDG_FRA_government_ability_at:0 "§R外省派可能发动内战§!"
+ EDG_FRA_government_ability_bt:0 "§R外省派可能发动叛乱§!"
+
+EDG_FRA_government_ability_as_absolutism_flag_tt:0 "在§M专制主义§!时代之前，我们的政府能力§Y绝对主义§!的§Y宫廷派§!倾向将会提供同§M专制度§!同等的§M增益§!。"
+EDG_FRA_government_interactions_1_autonomy_tt:0 "我们治下的所有省份将失去§M25§!点自治度。"
+
+
+EDG_flavorFRA_mission.26.t:0 "外省派的叛乱"
+EDG_flavorFRA_mission.26.d:0 "由于[Root.GetAdjective]宫廷高度的集权主义倾向，国内的外省派忍受不了[Root.Monarch.GetTitle][Root.Monarch.GetName]所强派在各省和各属国的苛捐杂税，一部分叛乱分子拿起了武器，要求减少他们的赋税。"
+EDG_flavorFRA_mission.26.a:0 "他们怎敢！"
+
+EDG_flavorFRA_mission.27.t:0 "外省派的分离主义"
+EDG_flavorFRA_mission.27.d:0 "由于外省派在[Root.GetAdjective]占据了统治地位，[Root.Monarch.GetTitle][Root.Monarch.GetName]对各省的控制逐渐减弱，许多野心勃勃的分离主义分子在此刻露出了他们的爪牙。"
+EDG_flavorFRA_mission.27.a:0 "他们怎敢！"
+
+
+#帝国军事领导力
+ability_EDG_SAX_Monarchy_ability:0 "§Y帝国军事领袖能力§!"
+ability_EDG_SAX_Monarchy_ability_yes:0 "§Y帝国军事领袖能力§!"
+EDG_SAX_Monarchy_ability:0 "帝国军事领袖"
+EDG_SAX_Monarchy_ability_yes:0 "帝国军事领袖"
+EDG_SAX_Monarchy_power:0 "§Y帝国军事领袖能力点数§!"
+EDG_SAX_Monarchy_power_desc:0 "\n§Y帝国军事领袖能力§!点数受到以下因素的影响：\n-使用§G帝国军事领袖§!能力\n-使用§G帝国大元帅§!决议\n月度§Y帝国军事领袖§!点数受到以下因素的影响：\n-是帝国大元帅:§G+0.1§!\n-100点威望:§G+0.1§!\n-100点陆军传统:§G+0.1§!\n-每1点外交声誉:§G+0.025§!\n-每100%过度扩张:§R-0.5§!\n-每1点厌战度:§R-0.05§!\n-每1点腐败度:§R-0.1§!\n-已破产:§R-0.3§!"
+monthly_EDG_SAX_Monarchy_power_desc:0 "月度§Y帝国军事领袖§!点数"
+monthly_EDG_SAX_Monarchy_power:0 "月度§Y帝国军事领袖§!点数"
+EDG_SAX_Monarchy_interactions_1:0 "组建元帅陪臣军"
+EDG_SAX_Monarchy_interactions_2:0 "征召属国军队"
+EDG_SAX_Monarchy_interactions_3:0 "招募附庸军官"
+EDG_SAX_Monarchy_interactions_1_desc:0 ""
+EDG_SAX_Monarchy_interactions_2_desc:0 ""
+EDG_SAX_Monarchy_interactions_3_desc:0 ""
+EDG_SAX_Monarchy_interactions_3_tt:0 "我们的每个§Y属国§!将为我们提供§Y10§!点£mil£军事点数。"
+EDG_SAX_Monarchy_interactions_1_modifier:0 "操练大元帅陪臣军"
+EDG_SAX_Monarchy_interactions_2_modifier:0 "扩大属国征兵体系"
+EDG_SAX_Monarchy_interactions_3_modifier:0 "充实封建贵族军官团"
+
+
+#联邦团结度
+ability_EDG_LIT_Monarchy_ability:0 "§Y联邦团结度§!"
+ability_EDG_LIT_Monarchy_ability_yes:0 "§Y联邦团结度§!"
+EDG_LIT_Monarchy_ability:0 "联邦团结度"
+EDG_LIT_Monarchy_ability_yes:0 "联邦团结度"
+EDG_LIT_Monarchy_power:0 "§Y联邦团结度§!"
+EDG_LIT_Monarchy_power_desc:0 "月度§Y联邦团结度§!点数受到以下因素的影响：\n-每100%过度扩张:§R-0.5§!\n-每1点厌战度:§R-0.05§!\n-每1点腐败度:§R-0.1§!\n-已破产:§R-0.3§!"
+monthly_EDG_LIT_Monarchy_power_desc:0 "月度§Y联邦团结度§!点数"
+monthly_EDG_LIT_Monarchy_power:0 "月度§Y联邦团结度§!点数"
+EDG_LIT_Monarchy_interactions_1:0 "修缮立陶宛法规"
+EDG_LIT_Monarchy_interactions_2:0 "吸引移民垦殖"
+EDG_LIT_Monarchy_interactions_3:0 "笼络吉诺斯"
+EDG_LIT_Monarchy_interactions_1_desc:0 ""
+EDG_LIT_Monarchy_interactions_2_desc:0 ""
+EDG_LIT_Monarchy_interactions_3_desc:0 ""
+
+#萨哈达
+ability_EDG_FYM_Monarchy_ability:0 "§Y暴戾权柄值§!"
+ability_EDG_FYM_Monarchy_ability_yes:0 "§Y暴戾权柄值§!"
+ability_EDG_FYM_Monarchy_ability_2:0 "帝国腐化值"
+ability_EDG_FYM_Monarchy_ability_2_yes:0 "帝国腐化值"
+ability_EDG_FYM_Monarchy_ability_3:0 "奴隶行政制"
+ability_EDG_FYM_Monarchy_ability_3_yes:0 "奴隶行政制"
+EDG_FYM_Monarchy_ability:0 "暴戾权柄值"
+EDG_FYM_Monarchy_ability_yes:0 "暴戾权柄值"
+EDG_FYM_Monarchy_ability_2:0 "帝国腐化值"
+EDG_FYM_Monarchy_ability_2_yes:0 "帝国腐化值"
+EDG_FYM_Monarchy_ability_3:0 "奴隶行政制"
+EDG_FYM_Monarchy_ability_3_yes:0 "奴隶行政制"
+
+EDG_FYM_Monarchy_power:0 "§Y暴戾权柄值§!"
+EDG_FYM_Monarchy_power_2:0 "§Y帝国腐化值§!"
+EDG_FYM_Monarchy_power_desc:0 "§Y暴戾权柄值§!代表了君主在中央的权势和对全体官员之生杀大权的肆意程度，即君主专制程度和专断暴政程度。\n月度§Y暴戾权柄值§!点数受到以下因素的影响：\n-100点力量投射:§G+0.1§!\n-100点威望值:§G+0.1§!\n-100点专制度:§G+0.1§!\n-100点正统度:§G+0.1§!\n-是列强:§G+0.05§!\n-每个顾问的等级:§G+0.025§!\n-100点腐败度:§R-0.1§!\n-已破产:§R-0.3§!"
+EDG_FYM_Monarchy_power_2_desc:0 "§Y帝国腐化值§!代表了地方对中央的背离程度、帝国的稳定和政府的腐败。\n月度§Y帝国腐化值§!点数受到以下因素的影响：\n-100点暴戾权柄值:§G-0.2§!\n-每级正稳定:§G-0.05§!\n-处于和平:§R+0.1§!\n-100%平均属国独立倾向:§R+0.125§!\n-每级负稳定:§R+0.15§!\n-100%平均省份自治度:§R+0.25§!\n-已破产:§R+0.3§!\n-超出100%行政容量:§R+2§!\n-100点腐败度:§R+10§!"
+EDG_FYM_Monarchy_power_3:0 "§Y可用的奴隶数量§!"
+EDG_FYM_Monarchy_power_3_desc:0 "§Y可用的奴隶§!代表了我们可以在国家行政和军事机构中投入的奴隶，这些奴隶是我国国家机构运行的燃料。\n\n我们每年都会从本土和蓄奴省的省份中获取§R可用的奴隶§!。\n我们的许多§R政府能力§!和§R决议§!都要求我们消耗§R可用的奴隶§!的数量。\n我们可以通过如下方法获取§R可用的奴隶§!：\n\n-我们治下的每个产物为§R奴隶§!的省份将会提供§R1§!单位的奴隶。\n-我们的蓄奴省治下的每个产物为§R奴隶§!的省份将会提供§R2§!单位的奴隶。\n-每个蓄奴省，其本身将会为我们提供§R2§!单位的奴隶。\n-我们每年将自动获取§R1§!单位的奴隶。\n-我们可以通过外交行动获取奴隶。"
+
+monthly_EDG_FYM_Monarchy_power_desc:0 "月度§Y暴戾权柄值§!点数"
+monthly_EDG_FYM_Monarchy_power:0 "月度§Y暴戾权柄值§!点数"
+monthly_EDG_FYM_Monarchy_power_2:0 "月度§Y帝国腐化值§!"
+monthly_EDG_FYM_Monarchy_power_3:0 "月度§Y可用的奴隶§!"
+EDG_FYM_Monarchy_interactions_1:0 "委任行政官员"
+EDG_FYM_Monarchy_interactions_2:0 "处理宗教事务"
+EDG_FYM_Monarchy_interactions_3:0 "提拔奴隶军官"
+EDG_FYM_Monarchy_interactions_1_desc:0 ""
+EDG_FYM_Monarchy_interactions_2_desc:0 ""
+EDG_FYM_Monarchy_interactions_3_desc:0 ""
+EDG_flavor_FYM_0_a_tt:0 "我们于本年征收了§Y[Root.EDG_EDG_flavor_FYM_0_value_view.GetValue]§!单位的§Y可用的奴隶§!。"
+
+
+
+EDG_create_slave_button_trigger_tt:0 "属于我们或我们的§Y蓄奴省§!"
+EDG_create_slave_button.tt:0 "设立奴隶产地"
+
+EDG_FYM_Monarchy_interactions_2_a_tt_yes:0 "£yes£若我们控制着§Y阿拔斯哈里发§!"
+EDG_FYM_Monarchy_interactions_2_a_tt_no:0 "£no£若我们控制着§Y阿拔斯哈里发§!"
+
+EDG_FYM_Monarchy_interactions_2_b_tt_yes:0 "£yes£若我们控制着§Y法蒂玛哈里发§!"
+EDG_FYM_Monarchy_interactions_2_b_tt_no:0 "£no£若我们控制着§Y法蒂玛哈里发§!"
+
+EDG_FYM_Monarchy_interactions_2_c_tt_yes:0 "£yes£若我们的国教是§Y阿拉维派§!"
+EDG_FYM_Monarchy_interactions_2_c_tt_no:0 "£no£若我们的国教是§Y阿拉维派§!"
+
+
+#兀鲁思封建主义
+ability_EDG_KAZ_Monarchy_ability:0 "§Y兀鲁思封建主义§!"
+ability_EDG_KAZ_Monarchy_ability_yes:0 "§Y兀鲁思封建主义§!"
+EDG_KAZ_Monarchy_ability:0 "兀鲁思封建主义"
+EDG_KAZ_Monarchy_ability_yes:0 "兀鲁思封建主义"
+EDG_KAZ_Monarchy_power:0 "§Y兀鲁思封建主义§!"
+EDG_KAZ_Monarchy_power_desc:0 "§Y兀鲁思封建主义§!会受到以下因素的直接影响：\n-赢得一场战争:§M+2.5§!\n-赢得一场针对他国的野战战役:§M+0.5§!\n-赢得一场针对他国的围城战役:§M+0.5§!\n\n\n月度§Y兀鲁思封建主义§!会受到以下因素的持续影响：\n-100点陆军传统:§M+1§!\n-100%牧首权威:§M+1§!\n-处于战争:§M+0.25§!\n-处于和平:§R-0.5§!\n-每点厌战度:§R-0.5§!\n-每点负稳定:§R-0.5§!\n-每点通货膨胀:§R-1§!\n-处于破产:§R-2.5§!"
+monthly_EDG_KAZ_Monarchy_power_desc:0 "月度§Y兀鲁思封建主义§!点数"
+monthly_EDG_KAZ_Monarchy_power:0 "月度§Y兀鲁思封建主义§!点数"
+EDG_KAZ_Monarchy_interactions_1:0 "征募部族将领"
+EDG_KAZ_Monarchy_interactions_2:0 "部族军事演习"
+EDG_KAZ_Monarchy_interactions_3:0 "号召吉哈德"
+EDG_KAZ_Monarchy_interactions_1_desc:0 ""
+EDG_KAZ_Monarchy_interactions_2_desc:0 ""
+EDG_KAZ_Monarchy_interactions_3_desc:0 ""
+
+
+#帝国行政化
+ability_EDG_GSR_Monarchy_ability:0 "§Y帝国行政化§!"
+ability_EDG_GSR_Monarchy_ability_yes:0 "§Y帝国行政化§!"
+EDG_GSR_Monarchy_ability:0 "帝国行政化"
+EDG_GSR_Monarchy_ability_yes:0 "帝国行政化"
+EDG_GSR_Monarchy_power:0 "§Y帝国行政化§!"
+EDG_GSR_Monarchy_power_desc:0 "月度§Y帝国行政化§!受到以下因素的影响：\n-100点威望:§M+0.2§!\n-处于和平:§M+0.1§!\n-每1点稳定度:§M+0.05§!\n-每1点外交声誉:§M+0.05§!\n-每1级顾问:§M+0.025§!\n-每1点厌战度:§R-0.05§!\n-每1点通货膨胀:§R-0.01§!\n-每1点腐败度:§R-0.1§!\n-100点过度扩张:§R-0.5§!"
+monthly_EDG_GSR_Monarchy_power_desc:0 "月度§Y联邦团结度§!点数"
+monthly_EDG_GSR_Monarchy_power:0 "月度§Y帝国行政化§!点数"
+EDG_GSR_Monarchy_interactions_1:0 "修订帝国法典"
+EDG_GSR_Monarchy_interactions_2:0 "整合藩属权力"
+EDG_GSR_Monarchy_interactions_3:0 "征募采邑骑兵"
+EDG_GSR_Monarchy_interactions_1_desc:0 ""
+EDG_GSR_Monarchy_interactions_2_desc:0 ""
+EDG_GSR_Monarchy_interactions_3_desc:0 ""
+
+EDG_GSR_Monarchy_interactions_1_tt:0 "我们§Y拥有§!的所有省份，将获得如下效果："
+
+#奥斯曼
+ability_devshirme_mechanic:0 "§Y土耳其帝国能力§!"
+ability_devshirme_mechanic_yes:0 "§Y土耳其帝国能力§!"
+
+EDG_TUR_Monarchy_adm_power:0 "§Y政府行政化§!"
+EDG_TUR_Monarchy_mil_power:0 "§Y军事集权化§!"
+
+ability_EDG_TUR_Monarchy_ability_2:0 "§Y政府行政化§!"
+ability_EDG_TUR_Monarchy_ability_2_yes:0 "§Y政府行政化§!"
+EDG_TUR_Monarchy_ability_2:0 "政府行政化"
+EDG_TUR_Monarchy_ability_2_yes:0 "政府行政化"
+EDG_TUR_Monarchy_adm_power:0 "§Y政府行政化§!"
+EDG_TUR_Monarchy_adm_power_desc:0 "月度§Y军事集权化§!受到以下因素的影响：\n君主的§Y行政能力§!\n-处于和平:§M-0.1§!\n-每1点外交声誉:§M+0.05§!\n-每1级行政顾问:§M+0.025§!\n-每1级外交顾问:§M+0.025§!\n-每1点厌战度:§R-0.05§!\n-每1点腐败度:§R-0.1§!\n-100点过度扩张:§R-0.5§!"
+monthly_EDG_TUR_Monarchy_adm_power_desc:0 "月度§Y政府行政化§!点数"
+monthly_EDG_TUR_Monarchy_adm_power:0 "月度§Y政府行政化§!点数"
+
+
+ability_EDG_TUR_Monarchy_ability_3:0 "§Y军事集权化§!"
+ability_EDG_TUR_Monarchy_ability_3_yes:0 "§Y军事集权化§!"
+EDG_TUR_Monarchy_ability_3:0 "军事集权化"
+EDG_TUR_Monarchy_ability_3_yes:0 "军事集权化"
+EDG_TUR_Monarchy_mil_power:0 "§Y军事集权化§!"
+EDG_TUR_Monarchy_mil_power_desc:0 "月度§Y军事集权化§!受到以下因素的影响：\n君主的§Y军事能力§!\n-处于和平:§M-0.1§!\n-每1级军事顾问:§M+0.025§!\n-每1点厌战度:§R-0.05§!\n-每1点腐败度:§R-0.1§!\n-100点过度扩张:§R-0.5§!"
+monthly_EDG_TUR_Monarchy_mil_power_desc:0 "月度§Y军事集权化§!点数"
+monthly_EDG_TUR_Monarchy_mil_power:0 "月度§Y军事集权化§!点数"
+
+
+
+ability_EDG_LOT_government_ability:0 "§Y王冠权威§!"
+ability_EDG_LOT_government_ability_yes:0 "§Y王冠权威§!"
+EDG_LOT_government_ability:0 "§Y王冠权威§!"
+EDG_LOT_government_ability_yes:0 "§Y王冠权威§!"
+EDG_LOT_government_power:0 "§Y王冠权威§!"
+EDG_LOT_government_power_desc:0 "月度§Y王冠权威§!受到以下因素的影响：\n-100点专制度:§M+0.1§!\n-100点力量投射:§M+0.1§!\n-100点威望:§M+0.1§!\n-100点正统性:§M+0.1§!\n-100点革命热情:§M+0.1§!\n-100点陆军传统:§M+0.1§!\n-100%的宗教统一:§M+0.05§!\n-每1点稳定度:§M+0.05§!\n-处于和平中:§M+0.05§!\n-是信仰守护者:§M+0.05§!\n-是列强:§M+0.05§!\n-每1%的通货膨胀:§R-0.01§!\n-每1点厌战度:§R-0.05§!\n-每1点腐败度:§R-0.1§!\n-处于战争中:§R-0.5§!\n-100点过度扩张:§R-0.5§!\n-破产:§R-0.5§!"
+EDG_LOT_government_power_1:0 "§Y行政权威值§!"
+EDG_LOT_government_power_2:0 "§Y组织权威值§!"
+EDG_LOT_government_power_3:0 "§Y军事权威值§!"
+monthly_EDG_LOT_government_power:0 "月度§Y王冠权威§!"
+monthly_EDG_LOT_government_power_1:0 "月度§Y行政权威值§!"
+monthly_EDG_LOT_government_power_2:0 "月度§Y组织权威值§!"
+monthly_EDG_LOT_government_power_3:0 "月度§Y军事权威值§!"
+monthly_EDG_LOT_government_power_1_desc:0 "月度§Y行政权威值§!"
+monthly_EDG_LOT_government_power_2_desc:0 "月度§Y组织权威值§!"
+monthly_EDG_LOT_government_power_3_desc:0 "月度§Y军事权威值§!"
+EDG_LOT_government_interactions_1:0 "改革行政法院"
+EDG_LOT_government_interactions_2:0 "召开枢密院会议"
+EDG_LOT_government_interactions_3:0 "提拔圣骑士"
+EDG_LOT_government_interactions_1_desc:0 ""
+EDG_LOT_government_interactions_2_desc:0 ""
+EDG_LOT_government_interactions_3_desc:0 ""
+
+EDG_LOT_government_interactions_1_tt:0 "我们所拥有的所有§Y直属州§!省份，将会获得如下效果："
+EDG_LOT_government_interactions_1_tt_2:0 "我们所拥有的所有建造有§Y法院§!或§Y市政厅§!的§Y直属州§!省份，将会额外获得如下效果："
+EDG_EDG_LOT_government_interactions_2_tt:0 "我们将被允许重新选择我们的§Y国家焦点§!"
+EDG_LOT_government_interactions_3_tt:0 "基于我们的陆军传统，我们将获得一位陆军将领，且该将领的基础§Y冲击§!§G+1§!"
+
+EDG_LOT_government_interactions_1_province_modifier:0 "改革行政法院"
+
+
+
+ability_EDG_LOT_the_frank_war_monarchy_ability:0 "§Y团结度§!"
+ability_EDG_LOT_the_frank_war_monarchy_ability_yes:0 "§Y团结度§!"
+EDG_LOT_the_frank_war_monarchy_ability:0 "§Y团结度§!"
+EDG_LOT_the_frank_war_monarchy_ability_yes:0 "§Y团结度§!"
+EDG_LOT_the_frank_war_monarchy_power:0 "§Y团结度§!"
+EDG_LOT_the_frank_war_monarchy_power_desc:0 ""

@@ -1,0 +1,1 @@
+capital = "Trablos" #Tripoli in the East.

@@ -1,0 +1,97 @@
+graphical_culture = easterngfx
+color = {
+  35
+  220
+  240
+}
+revolutionary_colors = {
+  1
+  5
+  9
+}
+historical_idea_groups = {
+  defensive_ideas
+  offensive_ideas
+  trade_ideas
+  spy_ideas
+  economic_ideas
+  diplomatic_ideas
+  quality_ideas
+  religious_ideas
+}
+historical_units = {
+  persian_footsoldier
+  persian_cavalry_charge
+  persian_shamshir
+  qizilbash_cavalry
+  tofongchis_musketeer
+  topchis_artillery
+  afsharid_reformed
+  afsharid_reformed_infantry
+  muslim_mass_infantry
+  muslim_dragoon
+  durrani_swivel
+  durrani_rifled_musketeer
+  durrani_dragoon
+}
+monarch_names = {
+  "伊斯坎德尔 #0" = 40
+  "德米特里 #0" = 40
+  "米南德 #0" = 40
+  "柏拉图 #0" = 20
+  "安提玛科斯 #0" = 20
+  "腓力 #0" = 20
+  "狄奥多特 #0" = 30
+  "欧克拉提德 #0" = 30
+  "赫利奥克勒斯 #0" = 10
+  "阿加托克利斯 #0" = 20
+  "阿波罗多特斯 #0" = 10
+  "潘达雷昂 #0" = 10
+  "罗斯安娜 #0" = -1
+  "帕吕萨蒂斯 #0" = -1
+  "克丽奥菲丝 #0" = -1
+  "西娜妮 #0" = -1
+  "欧律狄刻 #0" = -1
+  "阿帕玛 #0" = -1
+  "阿加托克莉娅 #0" = -1
+}
+leader_names = {
+  "吕西马科斯"
+  "塞琉库"
+  "安提戈"
+  "托勒迷"
+  "卡山德"
+  "安条克"
+  "德米特里"
+  "赫法斯提翁"
+  "涅阿尔霍斯"
+  "帕门尼翁"
+  "波利佩耳孔"
+  "珀尔狄卡斯"
+  "克拉泰罗斯"
+  "列奥尼达斯"
+  "达摩克利斯"
+}
+ship_names = {
+  "巴克特拉"
+  "推罗"
+  "巴比伦"
+  "奢羯罗"
+  "呾叉始罗"
+  "海达斯佩斯"
+  "高加米拉"
+  "极域"
+  "乌浒"
+  "高加索"
+  "阿里安那"
+  "阿拉霍西亚"
+  "奥里埃塔"
+  "尼西亚"
+  "马尔吉亚纳"
+  "卡曼尼亚"
+  "伊苏斯"
+  "埃及普托斯"
+  "拉特摩斯"
+  "特洛阿斯"
+  "密底卡"
+}

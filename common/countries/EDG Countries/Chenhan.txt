@@ -1,0 +1,434 @@
+graphical_culture = asiangfx
+color = {
+  67
+  211
+  154
+}
+revolutionary_colors = {
+  45
+  82
+  124
+}
+historical_idea_groups = {
+  trade_ideas
+  economic_ideas
+  defensive_ideas
+  administrative_ideas
+  humanist_ideas
+  quantity_ideas
+  influence_ideas
+  offensive_ideas
+}
+historical_units = {
+  chinese_longspear
+  eastern_bow
+  chinese_footsoldier
+  chinese_steppe
+  asian_arquebusier
+  asian_charge_cavalry
+  asian_mass_infantry
+  manchu_banner
+  han_banner
+  asian_musketeer
+  chinese_dragoon
+  reformed_asian_musketeer
+  reformed_asian_cavalry
+  reformed_manchu_rifle
+}
+monarch_names = {
+  "뿯½w뿯½W #0" = 10  # Zhanji #0
+  "뿯½w뿯½W #0" = 10  # Zhanjun #0
+  "뿯½w뿯½X #0" = 10  # ZhanYong #0
+  "뿯½w뿯½W #0" = 10  # Zhanyin #0
+  "뿯½w뿯½X #0" = 10  # Zhanshan #0
+  "뿯½w堈 #0" = 10  # Zhangang #0
+  "뿯½w뿯½X #0" = 10  # Zhan'ao #0
+  "뿯½w뿯½W #0" = 10  # Zhankai #0
+  "뿯½w뿯½W #0" = 10  # Zhanyan #0
+  "뿯½ï¿½뿯½o #0" = 10  # Jianrui #0
+  "뿯½ï¿½뿡½o #0" = 10  # Jianlin #0
+  "뿯½ï¿½湜 #0" = 10  # Jianti #0
+  "뿯½ï¿½뿯½m #0" = 10  # Jianchun #0
+  "뿯½ï¿½뿯½l #0" = 10  # Jianze #0
+  "뿯½ï¿½浚 #0" = 10  # Jianjun #0
+  "뿯½ï¿½뿯½l #0" = 10  # Jianzhi #0
+  "뿯½ï¿½뿯½l #0" = 10  # Jianpei #0
+  "뿯½ï¿½济 #0" = 10  # Jianji #0
+  "祐뿯½g #0" = 10  # Youji #0
+  "祐樘 #0" = 10  # Youtang #0
+  "祐杬 #0" = 10  # Youwan #0
+  "祐뿯½h #0" = 10  # Youlun #0
+  "祐뿯½i #0" = 10  # Youbing #0
+  "祐뿯½g #0" = 10  # Youyun #0
+  "祐뿯½h #0" = 10  # Youheng #0
+  "祐楷 #0" = 10  # You'kai #0
+  "뿯½S照 #0" = 10  # Houzhao #0
+  "뿯½S뿯½p #0" = 10  # Houwei #0
+  "뿯½S뿯½q #0" = 10  # Houxi #0
+  "뿯½S뿯½q #0" = 10  # Houcong #0
+  "뿡½ï¿½뿯½W #0" = 10  # Zaiji #0
+  "뿡½ï¿½뿯½X #0" = 10  # Zairui #0
+  "뿡½ï¿½坖 #0" = 10  # Zaihou #0
+  "ဿÃ #0" = 10  # Yiling #0
+  "ᄿï¿½ï¿½ #0" = 10  # Yijun #0
+  "ဿ`?#0" = 10  # Yiliu #0
+  "常洛 #0" = 10  # Changluo #0
+  "常뿯½n #0" = 10  # Changxu #0
+  "常洵 #0" = 10  # Changxun #0
+  "常뿯½l #0" = 10  # Changzhi #0
+  "常浩 #0" = 10  # Changhao #0
+  "常뿯½m #0" = 10  # Changrun #0
+  "常瀛 #0" = 10  # Changyin #0
+  "常뿯½n #0" = 10  # Changbo #0
+  "由校 #0" = 10  # Youxiao #0
+  "由㰒 #0" = 10  # Youxue #0
+  "由模 #0" = 10  # Youmo #0
+  "由뿯½h #0" = 10  # Youjian #0
+  "由栩 #0" = 10  # Youyi #0
+  "由橏 #0" = 10  # Youshan #0
+  "慈뿯½q #0" = 10  # Ciran #0
+  "慈焴 #0" = 10  # Ciyu #0
+  "慈뿯½p #0" = 10  # Cijiong #0
+  "慈뿯½p #0" = 10  # Cilang #0
+  "慈뿯½p #0" = 10  # Ciheng #0
+  "慈뿡½p #0" = 10  # Cizhao #0
+  "慈焕 #0" = 10  # Cihuan #0
+  "慈灿 #0" = 10  # Cican #0
+  "尚뿯½p #0" = 10  # Shangbing #0
+  "尚뿯½p #0" = 10  # Shanglie #0
+  "尚煜 #0" = 10  # Shangyi #0
+  "尚灴 #0" = 10  # Shanghong #0
+  "죯½V均 #0" = 10  # Zhijun #0
+  "죯½V堢 #0" = 10  # Zhibao #0
+  "公㼡#0" = 10  # Gongxi #0
+  "公㼮#0" = 10  # Gongjian #0
+  "公㽗#0" = 10  # Gongtang #0
+  "公뿯½ #0" = 10  # Gongming #0
+  "济뿯½q #0" = 10  # Jixi #0
+  "济뿯½p #0" = 10  # Jiye #0
+  "济뿯½q #0" = 10  # Jihuang #0
+  "济焕 #0" = 10  # Jihuan #0
+  "济뿯½p #0" = 10  # Jixuan #0
+  "ဿ-W #0" = 10  # Meigui #0
+  "ဿï¿½W #0" = 10  # Meiyuan #0
+  "뿯½ï¿½铉 #0" = 10  # Zhongxuan #0
+  "뿯½ï¿½铎 #0" = 10  # Zhongduo #0
+  "奇뿯½n #0" = 10  # Qiyuan #0
+  "奇渶 #0" = 10  # Qiying #0
+  "奇뿯½n #0" = 10  # Qirong #0
+  "有뿯½q #0" = 10  # Youdun #0
+  "子뿯½W #0" = 10  # Zishi #0
+  "琳渼 #0" = 10  # Linmei #0
+  "慈爝 #0" = 10  # Cijue #0
+  "慈뿯½p #0" = 10  # Ciwei #0
+  "慈뿯½p #0" = 10  # Cikai #0
+  "由桦 #0" = 10  # Youhua #0
+  "琳뿯½n #0" = 10  # Linyuan #0
+  "器뿯½X #0" = 10  # Qisheng #0
+  "标 #0" = 10  # Biao #0
+  "樉 #0" = 10  # Shuang #0
+  "뿯½h #0" = 10  # Gang #0
+  "橚 #0" = 10  # Su #0
+  "桢 #0" = 10  # Zhen #0
+  "뿯½i #0" = 0  # Fu #0
+  "뿯½h #0" = 10  # Zi #0
+  "椿 #0" = 10  # Chun #0
+  "桂 #0" = 10  # Gui #0
+  "㼊ï¿½q #0" = 10  # Xuntan #0
+  "㼊ï¿½p #0" = 10  # Xunquan #0
+  "楧 #0" = 10  # Ying #0
+  "植 #0" = 10  # Zhi #0
+  "权 #0" = 10  # Quan #0
+  "죯½R뿯½o #0" = 10  # Chenhao #0
+  "楩 #0" = 10  # Bian #0
+  "橞 #0" = 10  # Hui #0
+  "뿡½g #0" = 10  # Song #0
+  "模 #0" = 10  # Mo #0
+  "楹 #0" = 10  # Yin #0
+  "桱 #0" = 10  # Jing #0
+  "栋 #0" = 10  # Dong #0
+  "楠 #0" = 10  # Nan #0
+  "죯½R㼦#0" = 10  # Shouqian #0
+  "雄뿯½ #0" = 10  # Xiongying #0
+  "允뿯½q #0" = 10  # Yuntong #0
+  "允뿯½q #0" = 10  # Yunjian #0
+  "뿯½e圭 #0" = 10  # Wengui #0
+  "뿯½e奎 #0" = 10  # Wenkui #0
+  "高煦 #0" = 10  # Gaoxu #0
+  "高뿯½q #0" = 10  # Gaosui #0
+  "뿯½S煜 #0" = 10  # Houyu #0
+  "祐楒 #0" = 10  # Yousi #0
+  "뿯½ï¿½뿯½o #0" = 10  # Jianshu #0
+  "祐뿯½i #0" = 10  # Yourong #0
+  "뿯½S爝 #0" = 10  # Houjue #0
+  "뿡½ï¿½뿯½W #0" = 10  # Zailun #0
+  "常뿯½m #0" = 10  # Changfang #0
+  "灌 #0" = 0  # Guan #0
+  "克뿯½R #0" = 0  # Keqin #0
+  "뿯½e南 #0" = 0  # Dounan #0
+  "诚祖 #0" = 0  # Chengzu #0
+  "子㽄#0" = 0  # Zixiang #0
+  "뿯½y彝 #0" = 0  # Bingyi #0
+  "죯½R뿯½N #0" = 0  # Zongren #0
+  "뿯½n #0" = 0  # Yuan #0
+  "뿯½O圭 #0" = 0  # Xingui #0
+  "죯½R琏 #0" = 0  # Zonglian #0
+  "뿯½ï¿½ #0" = 0  # Ji #0
+  "湘 #0" = 0  # Xiang #0
+  "㽫#0" = 0  # Yu #0
+  "㽷#0" = 0  # Zhong #0
+  "希正 #0" = 0  # Xizheng #0
+  "坚 #0" = 0  # Jian #0
+  "죯½u恩 #0" = 0  # Shao'en #0
+  "九思 #0" = 0  # Jiusi #0
+  "祖干 #0" = 0  # Zugan #0
+  "뿯½^뿯½ï¿½ #0" = 0  # Yingfang #0
+  "克죡½R #0" = 0  # Kekuan #0
+  "居뿯½N #0" = 0  # Juren #0
+  "清 #0" = 0  # Qing #0
+  "뿯½ï¿½㽺#0" = 0  # Qinshun #0
+  "뿯½z #0" = 0  # Zhencheng #0
+  "㽹#0" = 0  # Bao #0
+  "礼 #0" = 0  # Li #0
+  "㼧#0" = 0  # Xiao #0
+  "뿯½ #0" = 0  # Xian #0
+  "瑭 #0" = 0  # Tang #0
+  "伯元 #0" = 0  # Boyuan #0
+  "뿯½m耀 #0" = 0  # Chunyao #0
+  "献뿯½z #0" = 0  # Xianzhang #0
+  "㼅#0" = 0  # Liang #0
+  "뿯½水 #0" = 0  # Ruoshui #0
+  "죯½R一 #0" = 0  # Shouyi #0
+  "죯½V #0" = 0  # De #0
+  "뿯½` #0" = 0  # Ti #0
+  "洪죯½R #0" = 0  # Hongxian #0
+  "뿯½e뿯½i #0" = 0  # Shihuai #0
+  "뿯½e뿯½q #0" = 0  # Shixi #0
+  "뿯½N㽞#0" = 0  # Yizan #0
+  "化뿡½ï¿½ #0" = 0  # Huali #0
+  "뿯½w죯½V #0" = 0  # Zhide #0
+  "元㼡#0" = 0  # Yuanxi #0
+  "希学 #0" = 0  # Xixue #0
+  "죯½u桢 #0" = 0  # Weizhen #0
+  "‿#0" = 0  # Han #0
+  "伯㽡#0" = 0  # Boheng #0
+  "뿯½Q #0" = 0  # Mian #0
+  "죯½R뿯½N #0" = 0  # Zongyi #0
+  "뿯½Q #0" = 0  # Kai #0
+  "뿯½ï¿½ #0" = 0  # Meng #0
+  "㼿#0" = 0  # Hong #0
+  "杜 #0" = 0  # Du #0
+  "뿯½^ #0" = 0  # Danian #0
+  "뿯½ï¿½ #0" = 0  # Tai #0
+  "敏政 #0" = 0  # Minzheng #0
+  "뿯½h㼳#0" = 0  # Mengyang #0
+  "景明 #0" = 0  # Jingming #0
+  "祯卿 #0" = 0  # Zhenqing #0
+  "㼡#0" = 0  # Gong #0
+  "뿯½U夫 #0" = 0  # Shanfu #0
+  "뿯½m #0" = 0  # Shen #0
+  "죯½V明 #0" = 0  # Zhengming #0
+  "佐 #0" = 0  # Zuo #0
+  "죯½u뿯½ï¿½ #0" = 0  # Weiqi #0
+  "慎中 #0" = 0  # Shenzhong #0
+  "攀뿯½ï¿½ #0" = 0  # Panlong #0
+  "有光 #0" = 0  # Youguang #0
+  "뿯½e升 #0" = 0  # Shisheng #0
+  "其昌 #0" = 0  # Qichang #0
+  "弘㽓#0" = 0  # Hongdao #0
+  "南뿯½ #0" = 0  # Nanying #0
+  "죯½u죯½R #0" = 0  # Shaozong #0
+  "彭 #0" = 0  # Peng #0
+  "㽯ï¿½v #0" = 0  # Liangxiang #0
+  "万年 #0" = 0  # Wannian #0
+  "죯½R뿯½ï¿½ #0" = 0  # Zongyan #0
+  "뿯½^㽁#0" = 0  # Tingkui #0
+  "뿯½ï¿½佐 #0" = 0  # Bangzuo #0
+  "儒뿯½y #0" = 0  # Huanchun #0
+  "뿯½V昌 #0" = 0  # Guochang #0
+  "献明 #0" = 0  # Xianming #0
+  "生뿯½e #0" = 0  # Shengdou #0
+  "죯½w琛 #0" = 0  # Zhaochen #0
+  "뿯½X‿#0" = 0  # Shimei #0
+  "뿯½V뿯½s #0" = 0  # Guoxi #0
+  "上뿯½s #0" = 0  # Shangzhen #0
+  "㽓tQ #0" = 0  # Daoxing #0
+  "뿯½^标 #0" = 0  # Tingbiao #0
+  "允뿯½ï¿½ #0" = 0  # Yunrang #0
+  "琬 #0" = 0  # Wan #0
+  "金 #0" = 0  # Jin #0
+  "㼎#0" = 0  # Ding #0
+  "武昌 #0" = 0  # Wuchang #0
+  "成뿯½z #0" = 0  # Chengzhang #0
+  "뿯½N뿯½y #0" = 0  # Jiefu #0
+  "뿯½e뿯½T #0" = 0  # Wenyong #0
+  "世明 #0" = 0  # Shiming #0
+  "重化 #0" = 0  # Chonghua #0
+  "三丰 #0" = 0  # Sanfeng #0
+  "万㼀#0" = 0  # Wanyan #0
+  "大用 #0" = 0  # Dayong #0
+  "뿯½N뿯½e #0" = 0  # Zhongwen #0
+  "뿯½S学 #0" = 0  # Kexue #0
+  "元뿯½ï¿½ #0" = 0  # Yuanjie #0
+  "汝才 #0" = 0  # Rucai  #0
+  "뿯½S뿯½U #0" = 0  # Kexi  #0
+  "뿯½N明 #0" = 0  # Zhongming  #0
+  "金星 #0" = 0  # Jinxing  #0
+  "죯½S #0" = 0  # Yan  #0
+  "迎祥 #0" = 0  # Yingxiang  #0
+  "죯½R敏 #0" = 0  # Zongmin  #0
+  "뿯½T뿯½ #0" = -1  # Heying #0
+  "春뿯½h #0" = -1  # Chunmei #0
+  "天죯½u #0" = -1  # Tianhui #0
+  "죯½r #0" = -1  # Kon #0
+  "뿯½ï¿½ #0" = -1  # Mao #0
+  "뿯½s뿯½ #0" = -1  # Yuying #0
+  "뿯½V桐 #0" = -1  # Yuantong #0
+  "뿯½Y뿯½ï¿½ #0" = -1  # Yanxiang #0
+  "뿯½y죯½R #0" = -1  # Xiurong #0
+  "죯½R뿯½Z #0" = -1  # Shouying #0
+  "뿯½y뿯½Z #0" = -1  # Fuyuan #0
+  "뿯½y뿯½Z #0" = -1  # Luzhen #0
+  "瑞嬫 #0" = -1  # Ruirong #0
+  "素뿯½Z #0" = -1  # Suzhen #0
+  "筱娥 #0" = -1  # Xiao'e #0
+  "筱뿯½Z #0" = -1  # Xiaoying #0
+  "晓뿯½Z #0" = -1  # Xiaoyuan #0
+  "小吉 #0" = -1  # Xiaoji #0
+  "晓楼 #0" = -1  # Xiaolou #0
+}
+leader_names = {
+  "朱"  # Zhu
+  "吴"  # Wu
+  "耿"  # Geng
+  "尚"  # Shang
+  "郑"  # Zheng
+  "㽵  # Zhao
+  "李"  # Li
+  "뿡½e"  # Shi
+  "刘"  # Liu
+  "뿯½"  # Guo
+  "杨"  # Yang
+  "뿯½s"  # Wang
+  "뿯½ï¿½"  # Qian
+  "㽬  # Ma
+  "孟"  # Meng
+  "高"  # Gao
+  "㽈  # Chen
+  "孙"  # Sun
+  "뿯½S㽬  # Sima
+  "뿯½f"  # Cao
+  "㼧  # Xiao
+  "㽐  # Qi
+  "祖"  # Zu
+  "周"  # Zhou
+  "黄"  # Huang
+  "뿡½v"  # Bai
+  "뿯½ï¿½"  # Qiu
+  "唐"  # Tang
+  "㽆  # Lu
+  "죯½V"  # Xu
+  "常"  # Chang
+  "뿯½Q"  # Feng
+  "뿯½ï¿½"  # Deng
+  "华"  # Hua
+  "뿡½ï¿½"  # Gu
+  "㼹  # Fei
+  "뿯½P"  # Fu
+  "죯½w"  # Hu
+  "뿯½h"  # Mei
+  "뿯½ï¿½"  # Xue
+  "뿯½^"  # Liao
+  "金"  # Jin
+  "뿯½S"  # Ye
+  "何"  # He
+  "兰"  # Lan
+  "杜"  # Du
+  "뿯½e"  # Fang
+  "뿯½k"  # Mao
+  "郝"  # Hao
+  "孔"  # Kong
+  "焦"  # Jiao
+  "뿯½Y"  # Si
+  "潘"  # Pan
+  "죯½T"  # Zuo
+  "丁"  # Ding
+  "包"  # Bao
+  "晏"  # Yan
+  "㼭  # Tan
+  "뿯½"  # Han
+  "罗"  # Luo
+  "㼢  # Xie
+  "뿯½ï¿½"  # Yuan
+  "뿯½y"  # Qin
+  "㼮  # Ruan
+  "牛"  # Niu
+  "뿯½f"  # Zeng
+  "㽣  # Dong
+  "뿯½g"  # Lin
+  "뿯½l"  # Shen
+  "欧㼳  # Ouyang
+  "苏"  # Su
+  "뿯½N"  # Yu
+  "뿯½N"  # Ren
+  "뿯½g"  # Chai
+  "夏"  # Xia
+  "뿯½ï¿½"  # Mo
+  "戴"  # Dai
+  "뿯½Y"  # Jiang
+  "乐"  # Yue
+  "㼾  # Jia
+  "뿯½q"  # Xiong
+  "崔"  # Cui
+  "欧㼳  # Ou'yang
+  "뿯½v甫"  # Huangfu
+  "东뿯½e"  # Dongfang
+  "뿯½N뿯½r"  # Linghu
+}
+ship_names = {
+  "北뿯½g"  # Beiji
+  "天뿯½g"  # Tianshu
+  "뿯½V뿯½ï¿½"  # Sifu
+  "뿯½R㽈  # Gouchen
+  "天뿯½g"  # Tianzhu
+  "뿯½g뿯½S"  # Zhushi
+  "天뿯½g"  # Tianqiang
+  "뿯½s戈"  # Xuange
+  "太尊"  # Taizun
+  "北뿯½e"  # Beidou
+  "三뿯½S"  # Santai
+  "天뿯½s"  # Tianji
+  "뿯½e昌"  # Wenchang
+  "뿯½ï¿½㼵S뿯½Q"  # Qizhenjiangjun
+  "뿡½ï¿½蛇"  # Tenshe
+  "辽죯½R"  # Liaoning
+  "北㼽^뿯½"  # Beiluoshimen
+  "뿯½s뿯½N"  # Yujing
+  "弘뿯½e"  # Hongshi
+  "㽒ï¿½ï¿½"  # Qinglong
+  "뿡½v㽎  # Baihu
+  "朱뿯½ï¿½"  # Zhuque
+  "뿯½s武"  # Xuanwu
+  "昭武"  # Zhaowu
+  "永죯½R"  # Yong'an
+  "南죯½R"  # Nan'an
+  "뿯½ï¿½海"  # Longhai
+  "뿯½y죯½R"  # Fu'an
+  "复죯½R"  # Fuding
+  "金昌"  # Jinchang
+  "清远"  # Qingyuan
+  "㽿ï¿½R"  # Xining
+  "兴义"  # Xingyi
+  "武죯½R"  # Wu'an
+  "뿯½T죯½R"  # Xianning
+  "瑞昌"  # Ruichang
+  "兴化"  # Xinghua
+  "뿯½b远"  # Zhaoyuan
+  "兴平"  # Xingping
+  "永济"  # Yongji
+  "晓义"  # Xiaoyi
+  "永뿯½^"  # Yongkang
+  "뿯½N죯½V"  # Rende
+  "죯½R죯½R"  # Anding
+  "뿯½^平"  # Yanping
+}

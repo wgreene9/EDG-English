@@ -1,0 +1,52 @@
+1372.1.1 = {
+  monarch = {
+    name = "奥列格 伊万诺维奇"  # Oleg Ivanovich
+    dynasty = "奥利戈维奇"  # Rurikovich
+    adm = 1
+    dip = 3
+    mil = 1
+  }
+}
+1372.1.1 = {
+  heir = {
+    name = "费奥多尔 奥列戈维奇"  # Fyodor Olegovich
+    monarch_name = "费奥多尔 奥列戈维奇"  # Fyodor Olegovich
+    dynasty = "奥利戈维奇"  # Rurikovich
+    birth_date = 1372.1.1
+    death_date = 1427.1.1
+    claim = 95
+    adm = 2
+    dip = 3
+    mil = 2
+  }
+}
+1402.1.1 = {
+  monarch = {
+    name = "费奥多尔 奥列戈维奇"  # Fyodor Olegovich
+    dynasty = "奥利戈维奇"  # Rurikovich
+    birth_date = 1372.1.1
+    death_date = 1444.1.1
+    adm = 2
+    dip = 3
+    mil = 2
+  }
+}
+1444.1.1 = {
+  monarch = {
+    name = "梁赞波雅尔卫彻"  # Fyodor
+  #  dynasty = "奥利戈维奇"  # Rurikovich
+    regent = yes
+    adm = 0
+    dip = 0
+    mil = 0
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = embezzler_personality
+  add_ruler_personality = craven_personality
+  add_ruler_personality = greedy_personality
+  #add_ruler_personality = fierce_negotiator_personality
+  #add_ruler_personality = sinner_personality
+}
+1454.1.1 = {
+  government_rank = 1
+}

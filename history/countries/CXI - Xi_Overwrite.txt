@@ -1,0 +1,12 @@
+1430.1.1 = {
+  monarch = {
+    name = "仙忠"  # Xianzhong
+    dynasty = "张"  # Zhang
+    adm = 3
+    dip = 2
+    mil = 5
+  }
+}
+1644.8.9 = {
+  capital = 679
+}

@@ -1,0 +1,241 @@
+﻿l_english:
+#天主教
+#好感
+EDG_flavorCatholic_1_a_opinion_modifier:0 "购买我们的赎罪券"
+EDG_flavorCatholic_1_b_opinion_modifier:0 "拒绝购买赎罪券"
+EDG_flavorCatholic_1_c_opinion_modifier:0 "禁止赎罪券流通"
+EDG_Catholic_decision_unable_redemption_vouchers_opinion:0 "禁止兜售赎罪券"
+EDG_flavorCatholic_131_opinion:0 "贿赂我们"
+EDG_Prohibition_order_to_us_opinion:0 "对我们颁布禁教令"
+
+EDG_HRE_under_Prohibition_order_global_flag_hre_member_trigger_tt:0 "是§Y帝国诸侯§!且教宗对帝国颁布了§Y禁教令§!"
+EDG_NOT_under_Prohibition_order_trigger_tt:0 "尚未处于§Y禁教令§!的影响下"
+EDG_Catholic_decision_Advocate_for_Church_Autonomy_opinion:0 "主张圣事自主"
+
+#决议
+
+edg_add_reform_desire_tiny_effect_tt:0 "天主教获得§Y0.1%§!改革呼声。"
+
+EDG_Redemption_voucher_enable_global_flag_trigger_tt:0 "@PAP教宗未禁止自由兜售§Y赎罪券§!"
+EDG_Redemption_voucher_unable_global_flag:0 "教宗已禁止自由兜售赎罪券"
+
+EDG_Catholic_decision_Redemption_voucher_domestic_title:0 "£icon_EDG_Catholic£向本国兜售赎罪券"
+EDG_Catholic_decision_Redemption_voucher_domestic_desc:0 "中世纪天主教会在发售赎罪券之前，有一套赦罪的神学根据。天主教神学认为犯罪信徒通过告解天主获得宽恕后，教会可免除其由罪而得的现世惩罚，即「免罪罚」。天主教认为基督被钉十字架上，功德无量，圣母及圣徒也积有许多「善功」，除补赎自己罪过外，尚有多余功劳，积累起来成为教会的「功库」教会有权决定在罪人所作善功不足以完全补罪时，可从功库中获得一些功德以抵偿罪罚之债，而平信徒通常需要通过购买赎罪券以获取功德。我们是天主教会的一员，我们有权向本国的信徒兜售赎罪券。"
+
+EDG_Catholic_decision_Redemption_voucher_foreign_title:0 "£icon_EDG_Catholic£向邻国兜售赎罪券"
+EDG_Catholic_decision_Redemption_voucher_foreign_desc:0 "中世纪天主教会在发售赎罪券之前，有一套赦罪的神学根据。天主教神学认为犯罪信徒通过告解天主获得宽恕后，教会可免除其由罪而得的现世惩罚，即「免罪罚」。天主教认为基督被钉十字架上，功德无量，圣母及圣徒也积有许多「善功」，除补赎自己罪过外，尚有多余功劳，积累起来成为教会的「功库」教会有权决定在罪人所作善功不足以完全补罪时，可从功库中获得一些功德以抵偿罪罚之债，而平信徒通常需要通过购买赎罪券以获取功德。我们是天主教会的一员，我们有权向邻国的信徒兜售赎罪券。"
+EDG_Catholic_decision_Redemption_voucher_foreign_gain_money_tt:0 "我们将会向所有信仰§Y天主教§!的§Y邻国§!兜售赎罪券，若他们接受请求，我们将能够收获一笔£icon_EDG_cash£§T金钱§!。"
+
+EDG_Redemption_voucher_unable_global_flag_tt:0 "@PAP教宗将§Y禁止§!教会自由兜售赎罪券。"
+EDG_Redemption_voucher_enable_global_flag_tt:0 "@PAP教宗将§Y允许§!教会自由兜售赎罪券。"
+
+
+EDG_Catholic_decision_unable_redemption_vouchers_title:0 "£icon_EDG_Catholic£禁止自由兜售赎罪券"
+EDG_Catholic_decision_unable_redemption_vouchers_desc:0 "赎罪券是教会腐败的象征，我们若要阻止教士们的贪婪酿成大错，就必须禁止自由兜售赎罪券。"
+
+EDG_Catholic_decision_enable_redemption_vouchers_title:0 "£icon_EDG_Catholic£允许自由兜售赎罪券"
+EDG_Catholic_decision_enable_redemption_vouchers_desc:0 "赎罪券是教会财富的象征，我们若要维持教会神圣的使命，就必须允许自由兜售赎罪券。"
+
+EDG_Catholic_decision_Vatican_Treasury_take_title:0 "£icon_EDG_Catholic£挪用教廷金库"
+EDG_Catholic_decision_Vatican_Treasury_take_desc:0 "作为教宗，我们当然有权挪用教廷金库，将公共财产准变为教宗的私产，尽管这会造成一些腐败问题。"
+
+edg_vatican_treasury_take:0 "挪用教廷金库"
+
+EDG_Catholic_decision_Vatican_Treasury_donate_title:0 "£icon_EDG_Catholic£向教廷金库捐献私产"
+EDG_Catholic_decision_Vatican_Treasury_donate_desc:0 "我们应当向教廷金库捐献一些私产，以充实金库。"
+
+EDG_Catholic_decision_Bribing_Pope_title:0 "£icon_EDG_Catholic£向教宗行贿"
+EDG_Catholic_decision_Bribing_Pope_desc:0 "教宗作为天主教世界最具有权势的神职之一，具有莫大的影响力，或许我们可以通过对教宗行贿以实现我们的政治目的。"
+
+EDG_Catholic_decision_Bribing_Pope_tt:0 "我们在特殊情况下可以解锁该事件的§Y特殊选项§!：\n-正在§Y经历绝罚令§!\n-正在§Y经历禁教令§!\n教宗将有权选择同意或拒绝，影响因素包括以下方面：\n\n-§M正面影响§!\n-[Root.GetAdjective]的§G外交声誉§!\n-[Root.GetAdjective]的§G威望§!\n-对[Root.GetAdjective]的§G好感§!\n-是[Root.GetAdjective]的§G军事同盟§!\n-是[Root.GetAdjective]的§G属国§!\n-[PAP.GetAdjective]的§G财政状况§!\n-[PAP.GetAdjective]的§G统治者特质§!\n\n-§M负面影响§!\n-是[Root.GetAdjective]的§R宿敌§!\n-与[Root.GetAdjective]处于§R交战§!\n-对方的§R发展度§!\n-[Root.GetAdjective]与教宗或教廷监护§R敌对§!"
+
+EDG_HRE_under_Prohibition_order_global_flag:0 "教宗对帝国颁布禁教令"
+EDG_HRE_under_Prohibition_order_global_flag_no_tt:0 "教宗尚未对帝国颁布§Y禁教令§!"
+EDG_HRE_under_Prohibition_order_global_flag_yes_tt:0 "教宗已经对帝国颁布§Y禁教令§!"
+EDG_HRE_under_Prohibition_order_global_flag_tt:0 "教宗将会对整个§Y神圣罗马帝国§!颁布§Y禁教令§!，所有信仰§Y天主教§!的§Y帝国诸侯§!都将接受负面修正。\n诸侯可能会通过各种途径规避§Y禁教令§!的惩罚，包括§G贿赂教宗§!、§G贿赂日耳曼永世大牧首§!或与§R教廷决裂§!等。"
+EDG_Catholic_decision_Prohibition_order_to_HRE_title:0 "£icon_EDG_Catholic£对帝国颁布禁教令"
+EDG_Catholic_decision_Prohibition_order_to_HRE_desc:0 "禁教令是教宗的强大武器，被颁布禁教令的国家，其领地上的人民将会失去获得救赎的机会，他们将会对自己的统治者感到不满。"
+EDG_HRE_under_Prohibition_order_global_flag_clr_tt:0 "针对§Y神圣罗马帝国§!的§Y禁教令§!将会被撤销。"
+
+EDG_Catholic_decision_Prohibition_order_to_HRE_remove_title:0 "£icon_EDG_Catholic£撤销针对神圣罗马帝国的禁教令"
+EDG_Catholic_decision_Prohibition_order_to_HRE_remove_desc:0 "针对神圣罗马帝国的禁教令让天主教会陷入了巨大的撕裂中，我们必须停止这一冲突。"
+
+EDG_Catholic_decision_Donate_to_the_Church_title:0 "£icon_EDG_Catholic£向教会让渡利益"
+EDG_Catholic_decision_Donate_to_the_Church_desc:0 "天主教会有庞大的势力，我们可以通过向他们让渡一部分利益以获取他们的支持。"
+EDG_Catholic_decision_Donate_to_the_Church_tt:0 "在选择了§Y让渡的利益§!后，我们将可以选择§Y需要的帮助§!。"
+
+EDG_Catholic_decision_Bribing_MAI_title:0 "£icon_EDG_Catholic£向日耳曼首席大主教行贿"
+EDG_Catholic_decision_Bribing_MAI_desc:0 "日耳曼首席大主教是教宗在德意志的代理人，由于其本身兼任神圣罗马帝国宰相，故而日耳曼首席大主教也是教宗在帝国境内的代理人。大主教拥有教宗所让渡的一部分特权，如果我们无法从教宗手中获得支持，我们可以尝试让大主教帮助我们。"
+
+EDG_Catholic_decision_Bribing_MAI_tt:0 "§Y日耳曼首席大主教§!的权限比教宗更少，但比教宗更容易§Y贿赂成功§!。\n我们在特殊情况下可以解锁该事件的§Y特殊选项§!：\n-是§Y神圣罗马帝国的皇帝§!\n-正在§Y经历禁教令§!\n日耳曼首席大主教将有权选择同意或拒绝，影响因素包括以下方面：\n\n-§M正面影响§!\n-[Root.GetAdjective]的§G外交声誉§!\n-[Root.GetAdjective]的§G威望§!\n-对[Root.GetAdjective]的§G好感§!\n-是[Root.GetAdjective]的§G军事同盟§!\n-是[Root.GetAdjective]的§G属国§!\n-大主教的§G财政状况§!\n-大主教的§G统治者特质§!\n\n-§M负面影响§!\n-是[Root.GetAdjective]的§R宿敌§!\n-与[Root.GetAdjective]处于§R交战§!\n-对方的§R发展度§!\n-[Root.GetAdjective]与日耳曼首席大主教或教廷监护§R敌对§!"
+
+EDG_under_Prohibition_order_tt:0 "[Root.GetName]处于§Y禁教令§!下"
+EDG_Catholic_decision_Advocate_for_Church_Autonomy_modifier_tt:0 "只要该修正存在，我们就将免受§Y天主教禁教令§!的影响。"
+EDG_Catholic_decision_Advocate_for_Church_Autonomy_title:0 "£icon_EDG_Catholic£主张圣事自主"
+EDG_Catholic_decision_Advocate_for_Church_Autonomy_desc:0 "教廷对我们的盘剥已经到了我们无法忍受的地步，我们必须宣布否认天主教廷在圣事方面的权威，否则我们的国民将无法升入天堂。"
+
+EDG_Catholic_decision_Advocate_for_Church_Autonomy_cancel_title:0 "£icon_EDG_Catholic£撤销圣事自主"
+EDG_Catholic_decision_Advocate_for_Church_Autonomy_cancel_desc:0 "圣事应当由教廷主管，我们在圣事自主方面的主张是错误的，我们应当重新回归教廷的怀抱。"
+
+EDG_Catholic_decision_theocracy_investigate_heresy_title:0 "£icon_EDG_Catholic£肃清本国异端"
+EDG_Catholic_decision_theocracy_investigate_heresy_desc:0 "我们是天主教会的一员，迫害异端是我们的职责。"
+EDG_Catholic_decision_theocracy_investigate_heresy_in_5_years_modifier:0 "肃清本国异端"
+
+#事件
+
+EDG_flavorCatholic.1.t:0 "[From.GetName]向我们兜售赎罪券"
+EDG_flavorCatholic.1.d:0 "中世纪天主教会在发售赎罪券之前，有一套赦罪的神学根据。天主教神学认为犯罪信徒通过告解天主获得宽恕后，教会可免除其由罪而得的现世惩罚，即「免罪罚」。天主教认为基督被钉十字架上，功德无量，圣母及圣徒也积有许多「善功」，除补赎自己罪过外，尚有多余功劳，积累起来成为教会的「功库」教会有权决定在罪人所作善功不足以完全补罪时，可从功库中获得一些功德以抵偿罪罚之债，而平信徒通常需要通过购买赎罪券以获取功德。[From.GetName]是天主教会的一员，有权向作为邻国的我们兜售赎罪券，若我们购买赎罪券，可能可以让教廷和我们国内的教士感到满意。"
+EDG_flavorCatholic.1.a:0 "我们乐于洗刷罪孽！"
+EDG_flavorCatholic.1.b:0 "这太荒谬了。"
+EDG_flavorCatholic.1.c:0 "教会休想从我们的手中拿走一分钱！"
+
+EDG_flavorCatholic.2.t:0 "教宗允许兜售赎罪券"
+EDG_flavorCatholic.2.d:0 "尽管赎罪券曾因被视为是腐败的根源而一度遭到禁止，但事实证明，赎罪券对于教会而言是必不可少的。为了维护教会的运转和普世教会的稳定，[Root.Monarch.GetTitle][Root.Monarch.GetName]宣布，重新允许教士自由兜售赎罪券。"
+EDG_flavorCatholic.2.a:0 "「传扬福音,领人归主」是教会的使命。"
+
+EDG_flavorCatholic.3.t:0 "教宗禁止兜售赎罪券"
+EDG_flavorCatholic.3.d:0 "腐败问题长期以来困扰着整个普世教会，在现代语境下，赎罪券往往成为教会腐败的象征。中世纪天主教会在发售赎罪券之前，有一套赦罪的神学根据。天主教神学认为犯罪信徒通过告解天主获得宽恕后，教会可免除其由罪而得的现世惩罚，即「免罪罚」。天主教认为基督被钉十字架上，功德无量，圣母及圣徒也积有许多「善功」，除补赎自己罪过外，尚有多余功劳，积累起来成为教会的「功库」教会有权决定在罪人所作善功不足以完全补罪时，可从功库中获得一些功德以抵偿罪罚之债，而平信徒通常需要通过购买赎罪券以获取功德，这本是普世教会的济世之道。但由于许多教士滥用职权，肆意兜售赎罪券，以此聚敛了大量的财富。这使得赎罪券几乎成为了教会腐败的代名词，成为了宗教改革主义者抨击教会的工具。为了杜绝教会腐败，[Root.Monarch.GetTitle][Root.Monarch.GetName]宣布，禁止教士自由兜售赎罪券。"
+EDG_flavorCatholic.3.a:0 "这是真的吗？"
+
+EDG_flavorCatholic_4_if_success_tt:0 "如果@PAP§Y教宗§!§G接受§!了我们的贿赂，那么"
+EDG_flavorCatholic_4_if_success_MAI_tt:0 "如果§Y日耳曼首席大主教§!§G接受§!了我们的贿赂，那么"
+EDG_flavorCatholic_4_if_success_pap_tt:0 "如果他们§G履行§!了贿赂，那么"
+EDG_flavorCatholic_4_a0_tt:0 "与教宗联络需要一笔基础费用，如果我们选择放弃，那么该费用将会被退还。"
+
+EDG_flavorCatholic.4.t:0 "向教宗行贿"
+EDG_flavorCatholic.4.d:0 "圣座是整个天主教世界中最有权势的圣职，我们可以试图贿赂教宗，以此换取教宗的支持。"
+EDG_flavorCatholic_4_a0:0 "我改变主意了。"
+EDG_flavorCatholic_4_111:0 "我们希望解除绝罚。"
+EDG_flavorCatholic_4_121:0 "我们希望解除禁教令。"
+EDG_flavorCatholic_4_131:0 "我们只想为教宗分忧。"
+EDG_flavorCatholic_4_141:0 "我们希望制约国内的教士。"
+EDG_flavorCatholic_4_151:0 "我们请求教宗任命一名枢机。"
+EDG_flavorCatholic_4_161:0 "我们请求教宗青睐我们的使节。"
+EDG_flavorCatholic_4_171:0 "请求教宗协助我们肃清异端。"
+
+EDG_flavorCatholic.5.t:0 "[From.GetName]拒绝了我们的行贿"
+EDG_flavorCatholic.5.d:0 "或许是因为一些外交原因，又或许是因为[From.Monarch.GetTitle]的金库还很充裕，[From.Monarch.GetTitle]最终拒绝了我们的请求。"
+EDG_flavorCatholic.5.a:0 "他们真是木讷呆板……"
+
+EDG_flavorCatholic.6.t:0 "[From.GetName]接受了礼物"
+EDG_flavorCatholic.6.d:0 "[From.Monarch.GetTitle]同意了我们的请求，他们欣然收下了我们的黄金，并承诺将会满足我们的要求。"
+EDG_flavorCatholic.6.a:0 "感谢耶稣！"
+
+
+EDG_flavorCatholic.7.t:0 "撤销针对帝国颁布的禁教令"
+EDG_flavorCatholic.7.d:0 "随着[Root.GetName]掌握了教廷，针对神圣罗马帝国的禁教令被解除了，条顿帝国的人民再一次被允许行圣事，德意志兰的天主教徒再次获得了升入天堂的权利。"
+EDG_flavorCatholic.7.a:0 "「从前的事不再被记念。」"
+EDG_flavorCatholic.7.b:0 ""
+EDG_flavorCatholic.7.c:0 ""
+
+EDG_flavorCatholic.8.t:0 "对帝国颁布禁教令"
+EDG_flavorCatholic.8.d:0 "教宗对整个神圣罗马帝国颁布了禁教令。在天主教世界中，在被禁教的国家或地区内，除了出生的洗礼和死亡的葬礼之外，一切婚丧嫁娶的习俗都不受基督教会承认，这就意味着基督教从这个地区完全撤出，该地区的所有人都失去了行圣礼、获救赎的权利。禁教令会对当地的统治者造成莫大的影响，当地的天主教徒会对统治者极为不满，并试图推翻君主的统治。如今，教宗的禁教令抵达了德意志兰，必然掀起帝国境内的动荡。"
+EDG_flavorCatholic.8.a:0 "「以眼还眼，以牙还牙。」"
+EDG_flavorCatholic.8.b:0 ""
+EDG_flavorCatholic.8.c:0 ""
+EDG_HRE_under_Prohibition_order_trigger_modifier:0 "天主教禁教令"
+EDG_HRE_under_Prohibition_order_trigger_modifier_desc:0 "在天主教世界中，在被禁教的国家或地区内，除了出生的洗礼和死亡的葬礼之外，一切婚丧嫁娶的习俗都不受基督教会承认，这就意味着基督教从这个地区完全撤出，该地区的所有人都失去了行圣礼、获救赎的权利。禁教令会对当地的统治者造成莫大的影响，当地的天主教徒会对统治者极为不满，并试图推翻君主的统治。"
+
+EDG_flavorCatholic.9.t:0 "[From.GetName]对我们颁布禁教令"
+EDG_flavorCatholic.9.d:0 "[From.GetName]对我们颁布了禁教令。在天主教世界中，在被禁教的国家或地区内，除了出生的洗礼和死亡的葬礼之外，一切婚丧嫁娶的习俗都不受基督教会承认，这就意味着基督教从这个地区完全撤出，该地区的所有人都失去了行圣礼、获救赎的权利。禁教令会对当地的统治者造成莫大的影响，当地的天主教徒会对统治者极为不满，并试图推翻君主的统治。如今，教宗的禁教令抵达了[Root.GetName]，必然掀起[Root.GetName]境内的动荡。"
+EDG_flavorCatholic.9.a:0 "「以眼还眼，以牙还牙。」"
+
+EDG_flavorCatholic.10.t:0 "向教会让渡利益"
+EDG_flavorCatholic.10.d:0 "天主教会有庞大的势力，我们可以通过向他们让渡一部分利益以获取他们的支持。在我们选择让渡利益的方式后，我们将可以选择从教士手中获取何种支持。"
+EDG_flavorCatholic_10_a0:0 "我改变主意了。"
+EDG_flavorCatholic.10.a:0 "向教会捐献地产。"
+EDG_flavorCatholic.10.b:0 "向教会捐献金钱。"
+EDG_flavorCatholic.10.c:0 "向教会让渡行政权力。"
+EDG_flavorCatholic.10.e:0 "向教会让渡外交权力。"
+EDG_flavorCatholic.10.f:0 "向教会让渡军事权力。"
+EDG_flavorCatholic.10.g:0 "给予教会税收特权。"
+EDG_flavorCatholic.10.i:0 "给予教会商业特权。"
+EDG_flavorCatholic.10.h:0 "给予教会兵役特权。"
+
+EDG_flavorCatholic.11.t:0 "向教会提出要求"
+EDG_flavorCatholic.11.d:0 "我们已经向天主教会许诺了利益，现在我们需要提出我们的要求。"
+EDG_flavorCatholic.11.a:0 "我们需要教廷的福音。"
+EDG_flavorCatholic.11.b:0 "我们需要圣歌的赞美。"
+EDG_flavorCatholic.11.c:0 "我们需要教士的忠诚。"
+EDG_flavorCatholic.11.e:0 "我们渴望教宗的垂怜。"
+EDG_flavorCatholic.11.f:0 "我们需要战事的支持。"
+EDG_flavorCatholic.11.g:0 "我们需要传教的助力。"
+EDG_flavorCatholic.11.h:0 "我们需要内部的稳定。"
+EDG_flavorCatholic.11.i:0 "我们想邀请一位审讯官。"
+EDG_flavorCatholic.11.j:0 "我们想邀请一位神学家。"
+EDG_flavorCatholic.11.k:0 "我们想邀请一位枢机。"
+
+EDG_flavorCatholic.111.t:0 "[From.GetName]请求解除绝罚"
+EDG_flavorCatholic.111.d:0 "[From.GetName]面临遭受绝罚的困境，他们的统治者诚挚地请求我们解除针对他们的绝罚，恢复他们的教籍并宽恕他们的罪行。"
+EDG_flavorCatholic.111.a:0 "[Root.Monarch.GetTitle]欣然接受。"
+EDG_flavorCatholic.111.b:0 "我们不会答应。"
+EDG_flavorCatholic_gain_cash_for_1_year_income_tt:0 "我们将获得他们§Y年收入§!的§G100%§!，若金额不足，则至少收取§G600§!。"
+EDG_flavorCatholic_gain_cash_for_0d4_year_income_tt:0 "我们将获得他们§Y年收入§!的§G40%§!，若金额不足，则至少收取§G240§!。"
+EDG_flavorCatholic_gain_cash_for_0d2_year_income_tt:0 "我们将获得他们§Y年收入§!的§G20%§!，若金额不足，则至少收取§G120§!。"
+EDG_flavorCatholic_gain_cash_for_0d1_year_income_tt:0 "我们将获得他们§Y年收入§!的§G10%§!，若金额不足，则至少收取§G60§!。"
+
+EDG_flavorCatholic.121.t:0 "[From.GetName]请求解除禁教令"
+EDG_flavorCatholic.121.d:0 "[From.GetName]面临遭受禁教令的困境，他们的统治者诚挚地请求我们解除针对他们的禁教令，恢复他们沐浴基督福音的权利。"
+EDG_Prohibition_order_invalid_in_20_years_effect_tt:0 "在未来§M20§!年内不受§Y禁教令§!的影响。"
+
+EDG_flavorCatholic.131.t:0 "[From.GetName]奉上礼物"
+EDG_flavorCatholic.131.d:0 "[From.GetName]为[Root.Monarch.GetTitle]送上了一份礼物，他们并不要求回报，只希望能够与我们保持友善的关系。"
+
+EDG_flavorCatholic.141.t:0 "[From.GetName]请求制约国内教士"
+EDG_flavorCatholic.141.d:0 "[From.GetName]的统治者与国内的教士处于紧张的关系之中，为此，他们向我们提出请求，希望我们能够以[Root.Monarch.GetTitle]的名义要求国内的教士效忠政府。当然，他们会奉上一部分金钱作为报酬。"
+
+EDG_flavorCatholic.151.t:0 "[From.GetName]希望任命枢机"
+EDG_flavorCatholic.151.d:0 "[From.GetName]希望我们能够向他们的领土委派一名枢机，他们愿意用一笔不菲的报酬作为交换。"
+EDG_random_province_add_cardinal_tt:0 "治下随机一个天主教省份将会获得一名§Y枢机§!。"
+
+EDG_flavorCatholic.161.t:0 "[From.GetName]渴望获得青睐"
+EDG_flavorCatholic.161.d:0 "[From.GetName]的统治者希望能够得到教宗的青睐，以便在教廷上获得更广泛的影响力。"
+
+EDG_flavorCatholic.171.t:0 "[From.GetName]请求肃清异端"
+EDG_flavorCatholic.171.d:0 "[From.GetName]的统治者对国内的异端感到恐惧，他们请求我们派遣一些多我明会的教士协助他们建立宗教裁判所。"
+
+EDG_flavorCatholic.12.t:0 "对日耳曼首席大主教行贿"
+EDG_flavorCatholic.12.d:0 "日耳曼首席大主教是教宗在德意志的代理人，由于其本身兼任神圣罗马帝国宰相，故而日耳曼首席大主教也是教宗在帝国境内的代理人。大主教拥有教宗所让渡的一部分特权，如果我们无法从教宗手中获得支持，我们可以尝试让大主教帮助我们。"
+EDG_flavorCatholic_12_a:0 "确保大主教对帝国的忠诚。"
+EDG_flavorCatholic_12_131:0 "我们只想为大主教分忧。"
+EDG_flavorCatholic_12_a0_tt:0 "与日耳曼首席大主教联络需要一笔基础费用，如果我们选择放弃，那么该费用将会被退还。"
+
+#修正
+
+EDG_Catholic_decision_Bribing_MAI_in_10_years_modifier:0 "十年内试图对日耳曼首席大主教行贿过"
+EDG_Catholic_decision_Advocate_for_Church_Autonomy_modifier:0 "主张圣事自主"
+
+EDG_Catholic_decision_Redemption_voucher_domestic:0 "向本国兜售赎罪券"
+EDG_Catholic_decision_Redemption_voucher_foreign:0 "向邻国兜售赎罪券"
+EDG_flavorCatholic_1_a_modifier:0 "向圣职购买赎罪券"
+EDG_flavorCatholic_bought_voucher_in_10_years_modifier:0 "十年内被兜售过赎罪券"
+EDG_flavorCatholic_1_c_modifier:0 "在领地内禁止流通赎罪券"
+EDG_flavorCatholic_1_b_hre_modifier:0 "拒绝购买赎罪券的德意志诸侯"
+EDG_Catholic_decision_unable_redemption_vouchers_ruler_domestic:0 "现任教宗颁布过禁止兜售赎罪券的教谕"
+EDG_Catholic_decision_enable_redemption_vouchers_ruler_domestic:0 "现任教宗颁布过允许兜售赎罪券的教谕"
+edg_vatican_treasury_take_modifier:0 "挪用教廷金库"
+investigate_heresy_in_5_years_modifier:0 "五年内进行过肃清异端"
+EDG_Catholic_decision_Bribing_Pope_in_10_years_modifier:0 "十年内试图对教宗行贿过"
+EDG_Prohibition_order_invalid_in_20_years_modifier:0 "教宗特许二十年内免受禁教令"
+EDG_under_Prohibition_order_modifier:0 "被颁布禁教令"
+EDG_flavorCatholic_4_141_modifier:0 "「教宗敕令」要求教士忠诚"
+EDG_flavorCatholic_4_161_modifier:0 "「教宗敕令」青睐使节"
+EDG_flavorCatholic_4_171_modifier:0 "「教宗敕令」派遣多明我会教士"
+EDG_Catholic_decision_Prohibition_order_to_HRE_in_25_years_modifier:0 "25年内对帝国颁布过禁教令"
+EDG_under_Prohibition_order_to_others_in_10_years_modifier:0 "10年内对其他国家颁布过禁教令"
+EDG_under_Prohibition_order_tt_modifier:0 "天主教禁教令"
+EDG_Catholic_decision_Donate_to_the_Church_in_10_years_modifier:0 "10年内向教会让渡过权力"
+EDG_flavorCatholic_10_c_modifier:0 "向教会让渡行政权力"
+EDG_flavorCatholic_10_e_modifier:0 "向教会让渡外交权力"
+EDG_flavorCatholic_10_f_modifier:0 "向教会让渡军事权力"
+EDG_flavorCatholic_10_g_modifier:0 "给予教会税收特权"
+EDG_flavorCatholic_10_h_modifier:0 "给予教会兵役特权"
+EDG_flavorCatholic_10_i_modifier:0 "给予教会商业特权"
+EDG_flavorCatholic_11_g_modifier:0 "教会传教支持"
+EDG_flavorCatholic_11_h_modifier:0 "教会稳定支持"
+EDG_flavorCatholic_11_i_modifier:0 "教会支持"
+EDG_Catholic_decision_Bribing_MAI_in_10_years_modifier:0 "十年内试图对日耳曼首席大主教行贿过"
+EDG_Catholic_decision_Advocate_for_Church_Autonomy_modifier:0 "主张圣事自主"
+EDG_Catholic_decision_theocracy_investigate_heresy_in_5_years_modifier:0 "肃清本国异端"
+
+EDG_HRE_ucontrol_MAI_trigger_modifier:0 "控制日耳曼首席大主教"

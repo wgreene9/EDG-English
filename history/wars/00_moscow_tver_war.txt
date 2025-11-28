@@ -1,0 +1,14 @@
+name = "东北罗斯内战"
+war_goal = {
+  type = take_capital_personal_union
+  casus_belli = cb_restore_personal_union
+  tag = MOS
+}
+1444.6.1 = {
+  add_attacker = TVE
+  add_attacker = NZH
+  add_attacker = BLO
+  add_attacker = RSO
+  add_defender = MOS
+  add_defender = YAR
+}

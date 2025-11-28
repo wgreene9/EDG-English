@@ -1,0 +1,19 @@
+﻿l_english:
+ #province_group
+ ireland_province_group:"爱尔兰岛"
+
+ #trigger_tooltip
+ NKZEDG_eng_british_subject_tt:"所有§Y不列颠§!地区的属国独立倾向低于§Y10.00%§!"
+ NKZEDG_eng_french_subject_tt:"所有§Y法兰西§!地区的属国独立倾向低于§Y10.00%§!"
+ NKZEDG_eng_no_french_appanage_tt:"没有附庸是§M英属前法贵族封邑§!"
+ NKZEDG_eng_french_appanage_trigger_tt:"所有§M英属前法贵族封邑§!：\n    [Root.NKZEDG_eng_french_appanage_opinion]\n    [Root.NKZEDG_eng_french_appanage_dynasty]\n    [Root.NKZEDG_eng_french_appanage_liberty_desire]"
+ NKZEDG_eng_religion_mission_trigger_tt:"该任务的完成条件取决于我们在§Y宗教困境§!中做出的选择"
+ NKZEDG_eng_only_religion_trigger_tt:"该任务仅能作为§Y天主教§!或§Y圣公宗§!国家完成"
+
+ #localisation_key
+ NKZEDG_eng_french_appanage_opinion_no_key:"£no£对§Y[Root.GetName]§!的好感度至少为为§Y150§!"
+ NKZEDG_eng_french_appanage_opinion_yes_key:"£yes£对§Y[Root.GetName]§!的好感度至少为为§Y150§!"
+ NKZEDG_eng_french_appanage_dynasty_no_key:"£no£统治家族是「§Y[Root.Monarch.Dynasty.GetName]§!」"
+ NKZEDG_eng_french_appanage_dynasty_yes_key:"£yes£统治家族是「§Y[Root.Monarch.Dynasty.GetName]§!」"
+ NKZEDG_eng_french_appanage_liberty_desire_no_key:"£no£独立倾向低于§Y10.00%§!"
+ NKZEDG_eng_french_appanage_liberty_desire_yes_key:"£yes£独立倾向低于§Y10.00%§!"

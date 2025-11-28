@@ -1,0 +1,33 @@
+1444.1.1 = {
+  monarch = {
+    name = "穆赫拉齐 I"  # Muhammad
+    dynasty = "穆瓦希德"  # Hintata
+    birth_date = 1411.1.1
+    adm = 4
+    dip = 2
+    mil = 5
+  }
+  add_piety = 0.75
+  set_variable = {
+    which = EDG_MRK_success_Mahdi_invasion_value
+    value = 0
+  }
+  set_country_flag = EDG_MRK_flag
+  add_country_modifier = {
+    name = EDG_flavorMRK_1_modifier
+    duration = 7300
+  }
+}
+1444.1.1 = {
+  heir = {
+    name = "阿卜杜勒"  # Ali
+    monarch_name = "阿卜杜勒 VI"  # Ali
+    dynasty = "穆瓦希德"  # Hintata
+    birth_date = 1440.1.1
+    death_date = 1472.1.1
+    claim = 95
+    adm = 5
+    dip = 3
+    mil = 4
+  }
+}

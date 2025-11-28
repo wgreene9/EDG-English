@@ -1,0 +1,49 @@
+﻿l_english:
+ EDG_ADC_mission_1_2_title:0 "神圣纽带"
+ EDG_ADC_mission_1_2_desc:0 ""
+
+ EDG_ADC_mission_1_4_title:0 "重燃圣地亚哥之火"
+ EDG_ADC_mission_1_4_desc:0 ""
+
+ EDG_ADC_mission_1_6_title:0 "绝无仅有的候选者"
+ EDG_ADC_mission_1_6_desc:0 ""
+ EDG_ADC_mission_1_6.effect_1.tt:0 "由于我们§G拥有§!修正§Y待选者§!，因此§Y下述修正§!将转换为§Y永久修正§!"
+ EDG_ADC_mission_1_6.effect_2.tt:0 "§Y完成该任务§!时如果我们拥有修正§Y待选者§!，则§Y下述修正§!将转换为§Y永久修正§!"
+
+ EDG_ADC_mission_2_2_title:0 "粮食..."
+ EDG_ADC_mission_2_2_desc:0 ""
+
+ EDG_ADC_mission_2_5_title:0 "未来的事务"
+ EDG_ADC_mission_2_5_desc:0 ""
+
+ EDG_ADC_mission_3_1_title:0 "三位一体"
+ EDG_ADC_mission_3_1_desc:0 ""
+
+ EDG_ADC_mission_3_3_title:0 "皈依者狂热"
+ EDG_ADC_mission_3_3_desc:0 ""
+
+ EDG_ADC_mission_3_4_title:0 "当下的麻烦"
+ EDG_ADC_mission_3_4_desc:0 ""
+
+ EDG_ADC_mission_3_5_title:0 "圣战者热诚"
+ EDG_ADC_mission_3_5_desc:0 ""
+
+ EDG_ADC_mission_3_7_title:0 "正位一归"
+ EDG_ADC_mission_3_7_desc:0 ""
+
+ EDG_ADC_mission_4_3_title:0 "过去的幽灵"
+ EDG_ADC_mission_4_3_desc:0 ""
+
+ EDG_ADC_mission_4_6_title:0 "...兵源"
+ EDG_ADC_mission_4_6_desc:0 ""
+
+ EDG_ADC_mission_5_2_title:0 "不太可能的候选者"
+ EDG_ADC_mission_5_2_desc:0 ""
+
+ EDG_ADC_mission_5_4_title:0 "折断安达卢西亚之剑"
+ EDG_ADC_mission_5_4_desc:0 ""
+
+ EDG_ADC_mission_5_6_title:0 "朝圣大道"
+ EDG_ADC_mission_5_6_desc:0 ""
+ EDG_ADC_mission_5_6.trigger.tt:0 "§Y任务高亮省份§!均被§Y我们所拥有§!且§T发展度§!不少于§Y15§!"
+

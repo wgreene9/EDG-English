@@ -1,0 +1,10 @@
+1426.5.19 = {
+  monarch = {
+    name = "巴托梅乌 II"  # Martí I
+    dynasty = "德 雷克森斯"  # d'Aragó
+	birth_date = 1410.1.1
+    adm = 2
+    dip = 1
+    mil = 3
+  }
+}

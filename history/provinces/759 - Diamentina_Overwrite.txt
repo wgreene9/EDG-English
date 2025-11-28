@@ -1,0 +1,1 @@
+capital = "Arraial do Tejuco"

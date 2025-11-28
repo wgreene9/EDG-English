@@ -1,0 +1,196 @@
+EDG_BDX_define_ruler_iskander_effect = {
+	define_ruler = {
+		name = "伊斯坎德尔"
+		dynasty = "阿吉德"
+		adm = 6
+		dip = 4
+		mil = 6
+		religion = ROOT
+		culture = EDG_bactrian_culture
+		age = 18
+		claim = 100
+	}
+}
+
+EDG_BDX_define_heir_iskander_effect = {
+	define_heir = {
+		name = "伊斯坎德尔"
+		dynasty = "阿吉德"
+		adm = 6
+		dip = 4
+		mil = 6
+		religion = ROOT
+		culture = EDG_bactrian_culture
+		age = 18
+		claim = 100
+	}
+}
+
+EDG_BDX_rename_to_bactra_effect = {
+	change_province_name = "巴克特拉"
+	rename_capital = "巴克特拉"
+}
+
+EDG_BDX_rename_to_babylon_effect = {
+	change_province_name = "巴比伦"
+	rename_capital = "巴比伦"
+}
+
+EDG_BDX_rename_to_sagala_effect = {
+	change_province_name = "奢羯罗"
+	rename_capital = "奢羯罗"
+}
+
+EDG_BDX_rename_to_taxila_effect = {
+	change_province_name = "呾叉始罗"
+	rename_capital = "呾叉始罗"
+}
+
+EDG_BDX_rename_to_tylos_effect = {
+	change_province_name = "提洛斯"
+	rename_capital = "提洛斯"
+}
+
+EDG_BDX_rename_to_tyre_effect = {
+	change_province_name = "推罗"
+	rename_capital = "推罗"
+}
+
+EDG_BDX_rename_to_egyptian_babylon_effect = {
+	change_province_name = "埃及的巴比伦"
+	rename_capital = "埃及的巴比伦"
+}
+
+EDG_BDX_rename_to_byzantine_effect = {
+	change_province_name = "拜占庭"
+	rename_capital = "拜占庭"
+}
+
+EDG_BDX_rename_to_pella_effect = {
+	change_province_name = "佩拉"
+	rename_capital = "佩拉"
+}
+
+EDG_BDX_rename_to_alexandria_eschate_effect = {
+	change_province_name = "极域亚历山大里亚"
+	rename_capital = "极域亚历山大里亚"
+}
+
+EDG_BDX_rename_to_alexandria_oxiana_effect = {
+	change_province_name = "乌浒河畔亚历山大里亚"
+	rename_capital = "乌浒河畔亚历山大里亚"
+}
+
+EDG_BDX_rename_to_alexandria_caucasus_effect = {
+	change_province_name = "高加索亚历山大里亚"
+	rename_capital = "高加索亚历山大里亚"
+}
+
+EDG_BDX_rename_to_alexandria_ariana_effect = {
+	change_province_name = "阿里安那亚历山大里亚"
+	rename_capital = "阿里安那亚历山大里亚"
+}
+
+EDG_BDX_rename_to_alexandria_arachosia_effect = {
+	change_province_name = "阿拉霍西亚亚历山大里亚"
+	rename_capital = "阿拉霍西亚亚历山大里亚"
+}
+
+EDG_BDX_rename_to_alexandria_orietai_effect = {
+	change_province_name = "奥里埃塔亚历山大里亚"
+	rename_capital = "奥里埃塔亚历山大里亚"
+}
+
+EDG_BDX_rename_to_alexandria_on_indus_effect = {
+	change_province_name = "印度河畔亚历山大里亚"
+	rename_capital = "印度河畔亚历山大里亚"
+}
+
+EDG_BDX_rename_to_alexandria_nicaea_effect = {
+	change_province_name = "胜利亚历山大里亚"
+	rename_capital = "胜利亚历山大里亚"
+}
+
+EDG_BDX_rename_to_alexandria_margiana_effect = {
+	change_province_name = "马尔吉亚纳亚历山大里亚"
+	rename_capital = "马尔吉亚纳亚历山大里亚"
+}
+
+EDG_BDX_rename_to_alexandria_carmania_effect = {
+	change_province_name = "卡曼尼亚亚历山大里亚"
+	rename_capital = "卡曼尼亚亚历山大里亚"
+}
+
+EDG_BDX_rename_to_alexandria_issum_effect = {
+	change_province_name = "伊苏斯亚历山大里亚"
+	rename_capital = "伊苏斯亚历山大里亚"
+}
+
+EDG_BDX_rename_to_alexandria_latmos_effect = {
+	change_province_name = "拉特摩斯亚历山大里亚"
+	rename_capital = "拉特摩斯亚历山大里亚"
+}
+
+EDG_BDX_rename_to_alexandria_troas_effect = {
+	change_province_name = "特洛阿斯亚历山大里亚"
+	rename_capital = "特洛阿斯亚历山大里亚"
+}
+
+EDG_BDX_rename_to_alexandropolis_maedica_effect = {
+	change_province_name = "密底卡亚历山德罗波利斯"
+	rename_capital = "密底卡亚历山德罗波利斯"
+}
+
+EDG_BDX_create_flagship_effect = {
+  create_flagship = {
+    name = "涅阿尔霍斯"
+    type = heavy_ship
+  }
+}
+
+EDG_BDX_rename_to_pushkalavati_effect = {
+	change_province_name = "犍陀罗"
+	rename_capital = "莲花城"
+}
+
+EDG_BDX_rename_to_mathura_effect = {
+	change_province_name = "秣菟罗"
+}
+
+EDG_BDX_rename_to_pataliputra_effect = {
+	change_province_name = "华氏城"
+	rename_capital = "华氏城"
+}
+
+EDG_BDX_rename_to_sarnath_effect = {
+	change_province_name = "鹿野苑"
+	rename_capital = "鹿野苑"
+}
+
+EDG_BDX_define_ruler_menander_effect = {
+	define_ruler = {
+		name = "米南德"
+		dynasty = "阿吉德"
+		adm = 4
+		dip = 4
+		mil = 2
+		religion = ROOT
+		culture = ROOT
+		age = 35
+		claim = 100
+	}
+}
+
+EDG_BDX_define_ruler_menander_updated_effect = {
+	define_ruler = {
+		name = "米南德"
+		dynasty = "阿吉德"
+		adm = 4
+		dip = 6
+		mil = 5
+		religion = ROOT
+		culture = ROOT
+		age = 35
+		claim = 100
+	}
+}

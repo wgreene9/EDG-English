@@ -1,0 +1,11 @@
+1413.1.1 = {
+  set_country_flag = EDG_SMO_country_flag
+  monarch = {
+    name = "尤里"  # Yury
+    dynasty = "罗斯季斯拉维奇"  # Rostaslavichi
+    birth_date = 1412.3.30
+    adm = 3
+    dip = 4
+    mil = 5
+  }
+}

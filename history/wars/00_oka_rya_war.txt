@@ -1,0 +1,10 @@
+name = "梁赞镇压奥卡波格米勒起义"
+war_goal = {
+  type = take_core
+  casus_belli = cb_core
+  province = 4116
+}
+1443.6.1 = {
+  add_attacker = RYA
+  add_defender = OKA
+}

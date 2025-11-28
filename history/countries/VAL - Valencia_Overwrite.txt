@@ -1,0 +1,20 @@
+1444.1.17 = {
+  monarch = {
+    name = "阿方索 Ⅲ"
+	dynasty = "德 维瓦尔"
+    adm = 0
+    dip = 1
+    mil = 3
+  }
+}
+1444.1.17 = {
+  heir = {
+    name = "弗朗索瓦"  # Alfons
+	dynasty = "德 维瓦尔"
+    birth_date = 1410.1.1
+    claim = 95
+    adm = 3
+    dip = 3
+    mil = 2
+  }
+}

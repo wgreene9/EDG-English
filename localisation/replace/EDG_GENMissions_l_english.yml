@@ -1,0 +1,265 @@
+﻿l_english:
+ EDG_GEN_mission_1_2_title:0 "纯粹利益"
+ EDG_GEN_mission_1_2_desc:0 "目前我们的处境并不乐观，西方的清洁派以及北部的伦巴第都对我们虎视眈眈，我们应该发挥我们的商业传统，通过利益来联合一切可能联合的盟友，不论稳固与否。"
+ EDG_GEN_mission_1_2.effect.modifier:0 "我们对每个§T盟友§!增加§G10§!点§Y信任§!与§Y人情§!\n"
+
+ EDG_GEN_mission_1_4_title:0 "以暴制暴"
+ EDG_GEN_mission_1_4_desc:0 "第一次利古里亚起义差点就让我们的建立起来的新制度毁于一旦，第二次起义也迫在眉睫，也许我们需要给他们一点颜色看看，提醒一下那群共和派目前所处的地位。"
+
+ EDG_GEN_mission_1_8_title:0 "笔与刀"
+ EDG_GEN_mission_1_8_desc:0 "尼斯作为热那亚地区的通道之一，扼守利古里亚海岸，地理位置对于我们来说十分重要，但清洁派的占据使得我们不得不面对阿尔勒清洁派帝国的淫威。\n\n虽然现在我们并没有能力收复该地区，但如果能够从教宗手中讨得对该地区的合法性宣称，日后我们还有机会将它收入囊中。"
+
+ EDG_GEN_mission_2_3_title:0 "确保安全"
+ EDG_GEN_mission_2_3_desc:0 "一切扩张的前提便是需要先保证自身的安全，虽然热那亚失去乐过去所拥有的影响力，但如果我们能够付出一点代价的话，也能够在短时间内保证自身的生存。"
+ EDG_GEN_mission_2_3.effect.tt:0 "与所有§Y相邻国家§!签订§G5§!年的§T停战协定§!\n"
+
+ EDG_GEN_mission_2_5_title:0 "以牙还牙"
+ EDG_GEN_mission_2_5_desc:0 "1443年，摩里亚专制公狄奥多尔三世乘乱占领了热那亚位于爱琴海上的据点，使得我们在东地中海的影响力几乎彻底丧失，如此卑鄙的手段可不仅仅他们才会使用。\n\n阿尔塔作为第四次十字军的遗产，在突厥人、拜占庭人、保加利亚人与塞尔维亚人的夹缝之间生存，他们也在寻求着稳定自身并期望能够在巴尔干半岛站稳脚跟，二我们只需要稍加推动，激发他们同摩里亚之间的冲突，我们重新收复爱琴海基地的行动将会更加轻松。"
+ EDG_GEN_mission_2_5.event.tt:0 "如果@EP0§Y[EP0.GetName]§!对我们有75好感，同时在@MOE§Y[MOE.GetName]§!存在§G30§!§Y间谍网§!规模，将会触发事件§T「一庄交易」§!\n"
+ EDG_GEN_mission_2_5.effect.tt:0 "我们下一次以§Y收复核心§!为宣战理由进攻@MOE§Y[MOE.GetName]§!时，双方皆无法§T召唤盟友§!加入战争，§Y我们有且仅有这一次机会§!\n"
+
+ EDG_GEN_mission_2_7_title:0 "金与银"
+ EDG_GEN_mission_2_7_desc:0 "热那亚的传统便是商业，而商业最需要考虑的便是利益，唯有金银才是我们立足的根本。"
+ EDG_GEN_mission_2_7.effect.tt:0 "§Y建造§!或§Y升级§!在§Y利古里亚§!地区的§Y造船厂§!与§Y贸易§!建筑\n"
+
+ EDG_GEN_mission_3_1_title:0 "整军备战"
+ EDG_GEN_mission_3_1_desc:0 "叛乱严重削弱了我们国家的实力，四周对我们虎视眈眈，集结一直强大的军队将会是保证安全的第一步。"
+
+ EDG_GEN_mission_3_2_title:0 "碾碎科西嘉"
+ EDG_GEN_mission_3_2_desc:0 "第一次利古里亚叛乱使得科西嘉脱离了我们的控制，是时候纠正这个错误了。"
+ EDG_GEN_mission_3_2.modifier.tt:0 "以下修正持续期间，我们发起针对@SAR§Y[SAR.GetName]§!的§Y进攻战争§!时，双方皆无法§T召唤盟友§!加入战争\n"
+
+ EDG_GEN_mission_3_4_title:0 "明晰道路"
+ EDG_GEN_mission_3_4_desc:0 "随着国内局势逐渐缓和，国外局势趋于明朗，热那亚的未来的道路也开始明晰，此时可以通过召开一次大会来讨论热那亚的未来，安抚国内那些躁动的阶级。"
+
+ EDG_GEN_mission_3_6_title:0 "两全之法"
+ EDG_GEN_mission_3_6_desc:0 "随着我们恢复在黑海以及东地中海的殖民地的控制，是时候着手开始重启在叛乱当中荒废的贸易了。"
+
+ EDG_GEN_mission_3_9_title:0 "重树权威"
+ EDG_GEN_mission_3_9_desc:0 "在[Root.Monarch.GetName]的带领之下，热那亚再次焕发生机；而它也将走向一条崭新的道路，一条不同于过往所作一切的道路。"
+
+ EDG_GEN_mission_4_3_title:0 "沉云堕雾"
+ EDG_GEN_mission_4_3_desc:0 "虽说那些庞然大物也许对我们并没有什么兴趣，但如果能给他们留下一些良好的印像，将来也许我们将会拥有一些意外的收获。"
+
+ EDG_GEN_mission_4_5_title:0 "以眼还眼"
+ EDG_GEN_mission_4_5_desc:0 "第一次利古里亚叛乱期间，杜卡斯家族的尼基弗鲁斯和迪奥多罗率军占领了热那亚共和国在黑海沿岸的领土，并让我们彻底丧失了黑海部分的贸易。\n\n位于黑海的卡法基地是热那亚在东部最为重要的贸易站点之一，同时狄奥多罗也对他的邻居杜卡斯家族颇为忌惮，因此我们可以起草通过一份协议不再追究狄奥多罗占据过去殖民地的行为，并以出兵帮助我们收复卡法作为交换。"
+ EDG_GEN_mission_4_5.event.tt:0 "如果@FEO§Y[FEO.GetName]§!对我们有75好感，同时在@AZO§Y[AZO.GetName]§!存在§G30§!§Y间谍网§!规模，将会触发事件§T「一笔生意」§!\n"
+ EDG_GEN_mission_4_5.effect.tt:0 "我们下一次以§Y收复核心§!为宣战理由进攻@AZO§Y[AZO.GetName]§!时，双方皆无法§T召唤盟友§!加入战争，§Y我们有且仅有这一次机会§!\n"
+
+ EDG_GEN_mission_4_7_title:0 "穿过爱琴海"
+ EDG_GEN_mission_4_7_desc:0 "过去我们在爱琴海上数个关键的贸易站，但都在同威尼斯战争的失利与近期的叛乱中失去，该重新夺取连接黑海与地中海贸易的桥梁了！"
+ EDG_GEN_mission_4_7.effect.tt:0 "根据任务§Y完成条件§！的不同来获得§Y不同§!§T奖励§!\n"
+
+ EDG_GEN_mission_5_2_title:0 "帝国内外"
+ EDG_GEN_mission_5_2_desc:0 "神圣罗马帝国在意大利地区的影响力不断衰退，我们应该决定去与留，不过在此之前同皇帝保持良好的关系并不是什么坏事。"
+
+ EDG_GEN_mission_5_4_title:0 "以戈止戈"
+ EDG_GEN_mission_5_4_desc:0 "停止战争的方式便是进行战争，他们之前对我们做过的，我们也将数倍奉还！"
+
+ EDG_GEN_mission_5_8_title:0 "重返黑海"
+ EDG_GEN_mission_5_8_desc:0 "随着桥梁的稳固，黑海贸易路线也被打通，相信我们不会再次犯下过去的错误。"
+ EDG_GEN_mission_5_8.effect.tt:0 "根据任务§Y完成条件§！的不同来获得§Y不同§!§T奖励§!\n"
+
+ EDG_GEN_mission_a_1_1_title:0 "新仇旧恨"
+ EDG_GEN_mission_a_1_1_desc:0 "萨伏伊家族在那群清洁派暴徒的叛乱中被赶了出去，但命运并没有让萨伏伊家族就此消亡，1437年的热那亚军事政变使得萨伏伊家族再次登上了历史舞台，而随着国内问题的解决，是时候同那群侵占家族故地的异教徒算算旧账了。"
+ EDG_GEN_mission_a_1_1.effect.tt:0 "获得@SAV§Y[SAV.GetName]§!所有§T核心§!§Y省份§!的§T核心§!\n\n解锁§Y决议§!「收回@SAV§Y[SAV.GetName]§!的遗产」\n解锁§Y决议§!「保护@SZO§Y[SZO.GetName]§!」\n"
+
+ EDG_GEN_mission_a_1_2_title:0 "一山之隔"
+ EDG_GEN_mission_a_1_2_desc:0 "即便是阿尔卑斯山也不能阻挡一切，萨伏伊故地必将被收复！"
+
+ EDG_GEN_mission_a_1_3_title:0 "故地重游"
+ EDG_GEN_mission_a_1_3_desc:0 "虽说清洁派占领了此地数十年并将萨伏伊改造成为共和国，不过他们无法否认的是我们才是萨伏伊公国唯一正当的统治者。将异教徒尽数清剿，重新树立萨伏伊家族的统治地位——一如他们曾经做过的一样。"
+ EDG_GEN_mission_a_1_3.effect.tt:0 "如果@SZO§Y[SZO.GetName]§!使我们的§Y属国§!，则将§T继承§!@SZO§Y[SZO.GetName]§!\n"
+
+ EDG_GEN_mission_a_1_5_title:0 "钢铁行军"
+ EDG_GEN_mission_a_1_5_desc:0 "清洁派的老巢艾克斯便是一切变故的根源，如此毒瘤必将得到他们应有的惩罚。"
+
+ EDG_GEN_mission_a_1_7_title:0 "狮鹫之海"
+ EDG_GEN_mission_a_1_7_desc:0 "狮鹫作为热那亚最为古老的象征之一一直守护者他的国度，而象征着他存在的舰队将扬起崭新的狮鹫旗，从利古里亚海出发飘向整个地中海。"
+
+ EDG_GEN_mission_a_1_9_title:0 "翻云覆浪"
+ EDG_GEN_mission_a_1_9_desc:0 "海上战争比陆地之上更为残酷，我们必须开始重视这一方面，建立一个专门的海军军械库来提升舰队实力，以此来守护属于热那亚的海洋。"
+ EDG_GEN_mission_a_1_9.effect.tt:0 "解锁§Y海军学说§!「§T热那亚军械库§!」"
+
+ EDG_GEN_mission_a_2_2_title:0 "重返都灵"
+ EDG_GEN_mission_a_2_2_desc:0 "作为清洁派在意大利的桥头堡都灵，一直在同已被改造的萨伏伊公国进行着他们儿戏般的争吵，殊不知这场闹剧已然落幕。"
+
+ EDG_GEN_mission_a_2_4_title:0 "不愤不启"
+ EDG_GEN_mission_a_2_4_desc:0 "过去我们一直在思考为何失败，经历了数次的磨难与考验之后，我们必须重新审视当今的外交局势，寻找我们未来的合作伙伴。"
+ EDG_GEN_mission_a_2_4.condition.tt:0 "通过§Y改善关系§!至少获得了§G25§!的关系提升"
+
+ EDG_GEN_mission_a_2_6_title:0 "摧枯拉朽"
+ EDG_GEN_mission_a_2_6_desc:0 "清洁派如同枯枝落叶一般被一扫而空，我们应该更进一步，彻底拿下整个奥克西塔尼。"
+
+ EDG_GEN_mission_a_2_8_title:0 "拥抱过去"
+ EDG_GEN_mission_a_2_8_desc:0 "时过境迁，萨伏伊家族在热那亚扎根，但也不会忘记过去的领地。随着现在同过去汇聚于一处，是时候拥抱过去了。"
+
+ EDG_GEN_mission_a_2_10_title:0 "再造辉煌"
+ EDG_GEN_mission_a_2_10_desc:0 "热那亚的命运在1437年被改写，落魄的家族与落魄的共和国一同翻开了新的篇章，两个过去的失败者如今携手并进，一同创造更加辉煌的未来。"
+ EDG_GEN_mission_a_2_10.condition.tt:0 "所有§Y首都§!位于§Y法兰西§!、§Y意大利§!、§Y伊比利亚§!、§Y马格里布§!、§Y埃及§!、§Y马什里克§!、§Y安纳托利亚§!、§Y巴尔干§!的国家§T海军规模§!均§G小于§!我们"
+
+ EDG_GEN_mission_c_3_1_title:0 "重启金融业"
+ EDG_GEN_mission_c_3_1_desc:0 "圣乔治银行是热那亚经贸活动的伟大创举，但在1444年因私人运营与市场形势的冲突而不得不倒闭。既然我们已经稳定了国内局势，是时候开门迎接来自全欧洲的客户了。"
+ EDG_GEN_mission_c_3.condition.tt:0 "灾难§Y第二次利古里亚起义§!已结束"
+
+ EDG_GEN_mission_c_3_2_title:0 "圣乔治之家"
+ EDG_GEN_mission_c_3_2_desc:0 "随着圣乔治银行的信贷业务不断扩大，先前的经营模式愈发捉襟见肘，我们应该建立一个行之有效的中央银行来统筹全局。"
+ EDG_GEN_mission_c_3_2.effect.tt:0 "解锁§Y政府改革§!「§T中央银行§!」\n\n§T运转效率§!现在将会提供§G行政容量§!加成\n"
+
+ EDG_GEN_mission_c_3_3_title:0 "伺机待发"
+ EDG_GEN_mission_c_3_3_desc:0 "伦巴第的局势一直被我们所关注，这个庞然大物在过去给我们造成了十分多的麻烦，而我们现在所需要做的仅仅是等待。"
+ EDG_GEN_mission_c_3_3.condition.tt:0 "@MLO§Y[MLO.GetName]§!的命运已然昭示！"
+ EDG_GEN_mission_c_3_3.effect_1.tt:0 "在与@MLO §Y[MLO.GetName]§!的战争当中，双方皆无法§T召唤盟友§!加入战争，§Y我们有且仅有这一次机会§!\n"
+ EDG_GEN_mission_c_3_3.effect_2.tt:0 "根据@MLO§Y[MLO.GetName]§!在§Y灾难§!当中的§T不同选择§!获取§Y不同奖励§!\n"
+
+ EDG_GEN_mission_c_3_4_title:0 "侵袭腹地"
+ EDG_GEN_mission_c_3_4_desc:0 "北意大利腹地的富裕人尽皆知，我们可以乘伦巴第叛乱之际一举拿下这块肥美之地。"
+
+ EDG_GEN_mission_c_3_5_title:0 "更进一步"
+ EDG_GEN_mission_c_3_5_desc:0 "伦巴第所遗留的一个个独立城邦不过是待宰的羔羊，如此肥美之物岂能为他人所夺？"
+
+ EDG_GEN_mission_c_3_7_title:0 "一体两面"
+ EDG_GEN_mission_c_3_7_desc:0 "一个被异教徒赶出故土的家族，一个是被竞争对手摧残的国家；一个佣兵，一个商人，在机缘巧合之下拼凑到一起。虽说在统治层面双方均有自己的理解，但终归都是为了一个目标——金钱，二者的统治方式不过是向着一个目标前进的两种路径，最后殊途同归。"
+
+ EDG_GEN_mission_c_3_8_title:0 "始与终"
+ EDG_GEN_mission_c_3_8_desc:0 "这座城市是地中海的起点，也是一切利益的终点，苦难与辉煌一同铸就了这座伟大的城市。"
+
+ EDG_GEN_mission_c_3_9_title:0 "天宫之门"
+ EDG_GEN_mission_c_3_9_desc:0 "门神雅努斯的视线落至利古里亚海岸，为上天所眷顾的海港，在数千年的历史中不断发展壮大，他守护着热那亚，一如他一直所守护的那扇通往天堂的大门。"
+ EDG_GEN_mission_c_3_9.effect.tt:0 "每次§Y提升§!我们或者我们§Y附庸§!省份§T发展度§!时，我们都会获得该省份§T发展度§!§G数值§!的¤\n"
+
+ EDG_GEN_mission_c_3_10_title:0 "雅努斯之城"
+ EDG_GEN_mission_c_3_10_desc:0 "繁华的热那亚仍在不断发展壮大，这座古老的海港将在门神雅努斯的注视之下继续昌盛。"
+
+ EDG_GEN_mission_a_4_3_title:0 "碾碎比萨"
+ EDG_GEN_mission_a_4_3_desc:0 "比萨在过去同我们可谓是老对手了，不过很可惜的是他最后并没有胜出，如今不过是意大利角落中的残羹剩饭，我们将把它丢进垃圾桶，为更加欢盛的晚宴腾出位置。"
+ EDG_GEN_mission_a_4_3.effect.tt:0 "获得针对所有§T首都§!位于§Y意大利§!地区§Y独立国家§!持续§G5§!年的§Y吞并§!宣战理由\n"
+
+ EDG_GEN_mission_a_4_4_title:0 "饕餮盛宴"
+ EDG_GEN_mission_a_4_4_desc:0 "随着伦巴第威胁的消失，数个大大小小的城邦不过是琳琅满目的菜品，而作为食客的我们将举行一场盛大豪华的宴席。"
+ EDG_GEN_mission_a_4_4.effect.tt:0 "§Y消去§!除§Y相邻国家§!外我们所产生的所有§T侵略扩张§!造成的§Y好感度§!影响\n"
+
+ EDG_GEN_mission_a_4_7_title:0 "拉古萨的炮声"
+ EDG_GEN_mission_a_4_7_desc:0 "拉古萨在过去一直同威尼斯狼狈为奸，随着威尼斯的退场，统治亚里亚德海的第一步便是彻底消灭过去的威胁。"
+ EDG_GEN_mission_a_4_7_modifier:0 "掌控亚德里亚海"
+
+ EDG_GEN_mission_a_4_8_title:0 "面向未来"
+ EDG_GEN_mission_a_4_8_desc:0 "过去萨伏伊家族的统治仅仅是在阿尔卑斯山一带，而如果我们想要稳固在奥克西塔尼的统治地位，那么未来的整合是必不可少的。"
+
+ EDG_GEN_mission_a_4_9_title:0 "百锻坚镔"
+ EDG_GEN_mission_a_4_9_desc:0 "战争是永恒不变的话题，它不是一成不变的，唯有不断的进行战争才能从中不断汲取经验教训，从而打造出一支战无不胜的军队。"
+
+ EDG_GEN_mission_a_5_2_title:0 "生存空间"
+ EDG_GEN_mission_a_5_2_desc:0 "显然热那亚寸土之地是完全无法满足萨伏伊家族庞大的野心，扩张生存空间是我们目前的首要任务。"
+
+ EDG_GEN_mission_a_5_5_title:0 "往日之影"
+ EDG_GEN_mission_a_5_5_desc:0 "威尼斯一直以来都是热那亚的阴影，如同过往幽灵一般萦绕我们周边。随着时间的流逝与局势的变化，我们必须开始再次直视过去的幽灵。"
+
+ EDG_GEN_mission_a_5_6_title:0 "杯酒戈矛"
+ EDG_GEN_mission_a_5_6_desc:0 "商业往来一直伴随着枪炮齐鸣，过去的幽灵就此消散，而未来将属于热那亚。"
+
+ EDG_GEN_mission_a_5_7_title:0 "业务拓展"
+ EDG_GEN_mission_a_5_7_desc:0 "战争是最利好佣兵的方式手段，而意大利地区大大小小的战争已经不再能够满足我们的需求，向更加遥远的地区拓展我们的业务将带给我们更加丰厚的利润。"
+ EDG_GEN_mission_a_5_7.effect.tt:0 "当我们向§T首都§!处于§Y特定区域§!且§Y发展度§!达标的国家§T外遣佣兵§!时将会获得一定的§Y加成§!\n加成§Y获取条件§!可从§Y右下角§!§T已触发修正§!进行查看\n"
+
+ EDG_GEN_mission_a_5_9_title:0 "千言协锲"
+ EDG_GEN_mission_a_5_9_desc:0 "在外交商业于雇佣活动之中，任何言语都无法作为根本的信任方式，唯有白纸黑字所写明的契约方可为信，我们必须贯彻这种信条才能够获取更多可靠的客户。"
+ EDG_GEN_mission_a_5_9.condition.tt:0 "我们至少§Y激活§!了§G3§!个§T战场经验§!修正"
+ EDG_GEN_mission_a_5_9.effect.tt:0 "§Y扩大§!我们所能获取的§T战场经验§!修正\n"
+
+ EDG_GEN_mission_a_5_10_title:0 "契约之国"
+ EDG_GEN_mission_a_5_10_desc:0 "契约精神是我们立足的根本，于热那亚而言，一切都是由金钱所堆砌而成的，国家也不过是一张写满条款的契约罢了。"
+ EDG_GEN_mission_a_5_10.condition.tt:0 "我们至少§Y激活§!了§G6§!个§T战场经验§!修正"
+ EDG_GEN_mission_a_5_10.effect.tt:0 "§T战场经验§!修正现在可以通过§T结盟§!或§T附庸§!对应地区国家§Y进行获取§!\n"
+
+ EDG_GEN_mission_b_1_2_title:0 "圣属商业"
+ EDG_GEN_mission_b_1_2_desc:0 "过去的商业几乎都伴随着宗教活动一同进行，而随着教宗权威的不断衰退，宗教不再同商业强绑定，我们必须重新考虑我们的商业模式。"
+ EDG_GEN_mission_b.conditon.tt:0 "该任务的§Y条件§!取决于在§Y事件§!「§T商业扩张§!」当中的选择"
+
+ EDG_GEN_mission_b_1_5_title:0 "熊熊烈火"
+ EDG_GEN_mission_b_1_5_desc:0 "伊比利亚的熊熊烈火给予了更加庞大的商机，不论是出于何种理由，我们总归能从中获取到巨额利润。"
+ EDG_GEN_mission_b_1_5.tt.condition:0 "§Y是伊比利亚的统一者§!"
+ EDG_GEN_mission_b_1_5.effect.tt:0 "下述国家在§Y统一伊比利亚§!之后，我们将能够获得在§Y伊比利亚§!的§T贸易特权§!\n"
+ EDG_GEN_mission_b_1_5.bouns.tt:0 "该§Y任务奖励§!取决于§Y完成条件§!的§T不同§!\n"
+ EDG_GEN_mission_b.bouns.tt:0 "该§Y任务奖励§!取决于§Y事件§!「§T商业扩张§!」当中的选择\n"
+ EDG_GEN_special_commercial_privileges:0 "商业特权"
+ EDG_GEN_mission_b_1_5.effect_1.tt:0 "只要我们与§Y下述国家§!保持§T同盟§!，那么双方都将获得一定§Y加成§!\n"
+
+ EDG_GEN_mission_b_1_6_title:0 "熙德之血"
+ EDG_GEN_mission_b_1_6_desc:0 "罗德里高·迪亚兹·德·维瓦尔，人称熙德，西班牙斗士。西班牙英雄史诗《熙德之歌》中的不朽人物，曾为卡斯蒂利亚的阿方索六世的陪臣，1081年被国王流放。长期为西班牙和摩尔人与敌方作战，因对国王效忠，召回后受宠，成为护国公和巴伦西亚的统治者。1099年，熙德在巴伦西亚的一次战争中不幸中箭身亡，而其遗体也埋葬于巴伦西亚，而我们将收复巴伦西亚这座城市收回以供信徒们瞻仰。"
+ EDG_GEN_mission_b_1_6.effect.tt:0 "解锁§Y决议§!「购买§Y[226.GetName]§!」\n解锁§Y决议§!「购买§Y[1751.GetName]§!」"
+
+ EDG_GEN_mission_b_1_7_title:0 "以旧换新"
+ EDG_GEN_mission_b_1_7_desc:0 "过去热那亚的造船技术一直是处于领先水平，但中途各种各样的挫折使得我们现在被邻居所赶超太多，因此我们需要着手学习更加先进的造船技术并开始改造现有的船只，为我们将来的商业与海军活动铺平道路。"
+ EDG_GEN_mission_b_1_7.effect.tt:0 "将停靠在§Y[101.GetName]§!省份的§Y全部商船§!改造为§Y卡拉维尔帆船§!\n\n解锁「§Y船只改造§!」相关§Y决议§!\n"
+ EDG_GEN_mission_b_1_9_title:0 "金融改革"
+ EDG_GEN_mission_b_1_9_desc:0 "过去同威尼斯的战争使得热那亚开始转向金融业，这也给予了热那亚新的机会。现在我们拥有十分成熟的金融业服务与银行业系统，如果我们开始着手继续完善这项服务业务，将会给我们带来更加巨大的经济优势。"
+ EDG_GEN_mission_b_1_9.effect.tt:0 "§T运转效率§!现在将会提供§G商品产出§!加成\n"
+
+ EDG_GEN_mission_b_1_10_title:0 "利益之国"
+ EDG_GEN_mission_b_1_10_desc:0 "利益是商人的第一准则，同时也造就了现在辉煌的热那亚，在我们无情且无可辩驳的外交态度之下，一切我们面前都可以通过金钱来衡量。"
+ EDG_GEN_mission_b_1_10.effect.tt:0 "\n解锁§Y外交行动§!「§T收购国家§!」\n允许我们§Y花费一定§!的¤收购该国家的§Y全部领土§!并获得§T自治核心§!\n\n授予所有§Y首都§!位于§Y黎凡特§!与§Y北非§!次大陆国家§Y圣乔治之家§!的§T使用资格§!\n"
+
+ EDG_GEN_mission_b_2_3_title:0 "史蒂芬的遗产"
+ EDG_GEN_mission_b_2_3_desc:0 "史蒂芬所发起的儿童十字军给予了我们新的商机，以圣战的名义从中摄取利益将会是一个绝佳的机会，不过我们也不拒绝通过其他方式来为我们谋取利益。"
+ EDG_GEN_mission_b_2_3.effect.tt:0 "只要我们与§Y[341.GetName]§!的§Y拥有者§!保持§T同盟§!，那么双方都将获得一定§Y加成§!\n"
+
+ EDG_GEN_mission_b_2_4_title:0 "黎凡特反击"
+ EDG_GEN_mission_b_2_4_desc:0 "公教在耶路撒冷王国陷落之后便再也没有染指过黎凡特地区，但在我们钢铁般的舰队与军队面前，圣城再次光复，考虑释放这个神圣的王国将使我们获取更多的商机。"
+ EDG_GEN_mission_b_2_4.effect.tt:0 "解锁§Y决议§!「重建@KOJ§Y[KOJ.GetName]§!」\n"
+
+ EDG_GEN_mission_b_2_7_title:0 "亚历山大里亚的晚钟"
+ EDG_GEN_mission_b_2_7_desc:0 "亚历山大港作为北非著名的港口，一直同我们竞争来自东方进出口的贸易路线。随着其被我们所控制，东方贸易将被我们所彻底掌控。"
+ EDG_GEN_mission_b_2_7.effect.tt:0 "解锁§Y决议§!「建造§Y苏伊士运河§!」\n"
+ EDG_GEN_mission_b_2_7.effect_1.tt:0 "解锁§Y决议§!「购买§Y[4316.GetName]§!」\n解锁§Y决议§!「购买§Y[2315.GetName]§!」\n"
+
+ EDG_GEN_mission_b_2_8_title:0 "摒弃过去"
+ EDG_GEN_mission_b_2_8_desc:0 "也许热那亚有过辉煌的过去，但更多的则是不断的战事失败与军事失利，而在迎接改变之前我们必须摒弃过往那些失败，才能够创造充满希望的未来。"
+ EDG_GEN_mission_b_2_8.effec.tt:0 "所有符合§Y任务条件§!的§Y省份§!都将获得下述§Y修正§!"
+
+ EDG_GEN_mission_b_2_9_title:0 "国家银行"
+ EDG_GEN_mission_b_2_9_desc:0 "过去的圣乔治之家为私人银行，这也使得在运营管理上不得不提防其对国家的影响，这也导致了其在过去的破产。现在我们将彻底将其并入国家管辖，将能够在其发挥更大作用的同时减少其威胁。"
+ EDG_GEN_mission_b_2_9.effect.tt:0 "§O银行储蓄§!的§Y负面影响§!将§G减半§!\n"
+
+ EDG_GEN_mission_b_4_2_title:0 "破碎之岛"
+ EDG_GEN_mission_b_4_2_desc:0 "自基奥贾之战后，所有人都认为我们没有可能再次崛起，但我们将证明那次失败不过是一次教训，威尼斯残破的旗帜将在烈火中彻底焚烧殆尽。"
+
+ EDG_GEN_mission_b_4_4_title:0 "不悱不发"
+ EDG_GEN_mission_b_4_4_desc:0 "商业上的失败并不能简单的总结为战事上的失利，其应当考虑到多方面的因素才能使我们未来的商业计划能够顺利实施。"
+
+ EDG_GEN_mission_b_4_6_title:0 "破竹之势"
+ EDG_GEN_mission_b_4_6_desc:0 "巴尔干地区一直是我们同威尼斯交锋的重点，而随着其被我们所击败，巴尔干已是我们的囊中之物。"
+
+ EDG_GEN_mission_b_4_8_title:0 "创造未来"
+ EDG_GEN_mission_b_4_8_desc:0 "过去的贸易方式已经不再适用，我们必须摒弃过往，方能创造未来。"
+ EDG_GEN_mission_b_4_8.effec.tt:0 "解锁§Y市民§!特权「和睦法案」"
+
+ EDG_GEN_mission_b_4_10_title:0 "重铸荣光"
+ EDG_GEN_mission_b_4_10_desc:0 "热那亚曾在击败比萨之际称霸了整个地中海，而现在我们将再次重铸过去的荣光，一个更加强大的商业帝国将再次统治属于它的海洋！"
+ EDG_GEN_mission_b_4_10.effect.tt:0 "获得§Y世界§!上全部§Y沿海§!且拥有§Y贸易中心§!省份的§Y永久宣称§!\n"
+
+ EDG_GEN_mission_b_5_1_title:0 "旧恨新仇"
+ EDG_GEN_mission_b_5_1_desc:0 "从热那亚作为独立城邦进行商业活动以来数百年，威尼斯便一直是最为强劲的对手，尽管在基奥贾之战它几乎彻底击败了我们，但迟早有一天我们将数倍奉还。"
+
+ EDG_GEN_mission_b_5_2_title:0 "一河之间"
+ EDG_GEN_mission_b_5_2_desc:0 "波河分隔了伦巴第地区，同时让威尼斯与热那亚隔河相对，但这并不意味着冲突并只能发生在海上，当我们的军队开进威尼斯总督宫时他们便会知晓何为复仇。"
+ EDG_GEN_mission_b_5_2.effect.tt:0 "获得§Y巴尔干§!地区全部§Y沿海省份§!的§Y永久宣称§!\n"
+
+ EDG_GEN_mission_b_5_3_title:0 "贯通内外"
+ EDG_GEN_mission_b_5_3_desc:0 "作为黑海与地中海贸易的桥梁，拜占庭在过去同我们有过十分深入的商业合作，如果我们想要重新树立在黑海的贸易影响力就需要一个更好的合作伙伴或更加粗暴的方式。"
+ EDG_GEN_mission_b_5_3.effect.tt:0 "获得§Y东欧大草原§!地区全部§Y沿海省份§!的§Y永久宣称§!\n"
+ EDG_GEN_mission_b_5_3.effect_1.tt:0 "我们将对§Y[151.GetName]§!的所有者发起一次§Y收购行动§!，此次§Y收购§!允许我们§R贷款§!进行\n"
+ EDG_GEN_mission_b_5_3.effect_2.tt:0 "我们将对§Y[151.GetName]§!的所有者发起一次§T强制收购§!战争，允许我们在§Y和平条约§!当中选择§T强制收购§!\n§R警告§!：此次§Y收购§!§R不允许§!我们§R贷款§!进行！请务必§Y提前预估§!战争目标的§Y价值§!，确保自己的§G国库§!足够§T收购目标§!！\n"
+ EDG_GEN_mission_b_5_3_3.tt:0 "根据任务§Y完成条件§!的§Y不同§!来获取§Y不同奖励§!\n"
+
+ EDG_GEN_mission_b_5_5_title:0 "神圣行军"
+ EDG_GEN_mission_b_5_5_desc:0 "大草原上遍布的异教徒使得我们能够非常轻松的以圣战的名义获得更多的利益，不过海外领土的管理并不是我们的强项，考虑建立一个海外管理机构可能更加符合我们的贸易方针。"
+ EDG_GEN_mission_b_5_5.effect.tt:0 "我们所有位于§Y东欧大草原§!地区的省份都将§Y割让§!给@CRI§Y[CRI.GetName]§!\n"
+
+ EDG_GEN_mission_b_5_7_title:0 "远航之湾"
+ EDG_GEN_mission_b_5_7_desc:0 "新世界的开拓使得商路进一步拓展，更加庞大的财富从新世界滚滚而来，而更多的商机也在等待着我们。"
+ EDG_GEN_mission_b_5_7.effect.tt:0 "当省份§Y殖民完成§!之后将会§R剥夺§!该省份§G1§!§Y基础税收§!、§G1§!§Y基础生产§!、§G1§!§Y基础人力§!并增加§G50§!§O银行储蓄§!\n"
+
+ EDG_GEN_mission_b_5_9_title:0 "腾云架浪"
+ EDG_GEN_mission_b_5_9_desc:0 "一支强大的海军能够使得我们牢牢掌握制海权，从而对陆地上的军事行动进行强有力的支援。通过调整海军与陆军的配合能够最大化舰炮对陆军的支援，从而使围城行动更加顺利。"
+ EDG_GEN_mission_b_5_9.effect.tt:0 "当我们进行§T海军弹幕轰击§!之时，将会同时为§Y省份围城§!增加§G10%§!进度，该§Y加值§!将会受到当地省份§T岸防工事§!的影响而§Y衰减§!\n"

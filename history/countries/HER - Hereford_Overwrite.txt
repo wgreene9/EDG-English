@@ -1,0 +1,46 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 25
+technology_group = western
+primary_culture = EDG_culture_mercia
+religion = catholic
+capital = 236
+
+1429.11.6 = {
+  monarch = {
+    name = "理查 VI"
+    dynasty = "金雀花"  # Lancaster
+    birth_date = 1421.12.6
+    adm = 3
+    dip = 2
+    mil = 3
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = infertile_personality
+  set_ruler_flag = henry_vi_lancaster
+}
+1444.1.1 = {
+  leader = {
+    name = "詹姆斯 塔尔博特"  # John Talbot
+    dynasty = "金雀花"
+    type = general
+    fire = 2
+    shock = 4
+    manuever = 3
+    siege = 0
+    death_date = 1453.7.17
+  }
+}
+1444.4.23 = {
+  heir = {
+    name = "玛格丽特"  # Margaret
+    dynasty = "金雀花"
+    birth_date = 1444.4.23
+    death_date = 1471.4.11
+    female = yes
+    adm = 6
+    dip = 6
+    mil = 6
+  }
+}

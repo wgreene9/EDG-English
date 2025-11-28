@@ -1,0 +1,275 @@
+﻿l_english:
+ EDG_tve_conquer_mos_1_1_title:0 "莫斯科王座"
+ EDG_tve_conquer_mos_1_1_desc:0 "特维尔——莫斯科内战是时候结束了，莫斯科王座将会永远属于特维尔大公！"
+ EDG_tve_conquer_mos_tooltip:0 "我们将解锁一个决议以整合下诺夫哥罗德。"
+ EDG_tve_unite_nzh_flag:0 "整合下诺夫哥罗德"
+
+ EDG_tve_unite_northeast_rus_1_2_title:0 "整合附庸"
+ EDG_tve_unite_northeast_rus_1_2_desc:0 "那些我们的附属王公们不需要那么多权力，我们应该废除他们的自治权力和独立地位，纳入我们的行政体系中，统一将会让我们变得更强大。"
+ EDG_tve_unite_northeast_rus_modifier:0 "统一诸公国"
+
+ EDG_tve_unite_nzhnov_2_2_title:0 "合并下诺夫哥罗德领地"
+ EDG_tve_unite_nzhnov_2_2_desc:0 "下诺夫哥罗德领地已经臣服于我们几十年了，但是仅此而已还不够，下诺夫哥罗德领地应该彻底成为大特维尔的一部分。"
+ EDG_tve_unite_nzhnov_modifier:0 "整合领地"
+
+ EDG_tve_improve_army_2_3_title:0 "集结军队"
+ EDG_tve_improve_army_2_3_desc:0 "一个统一的东北罗斯正在升起，我们要走向世界舞台，一只强而有力的军队是必不可少的。"
+ EDG_tve_improve_army_modifier:0 "进军"
+
+ EDG_tve_great_tver_3_1_title:0 "大特维尔"
+ EDG_tve_great_tver_3_1_desc:0 "荣耀归于特维尔大公，特维尔无疑已经成为了东北罗斯无可置疑的焦点。但是，我们也需要教士，商人和波雅尔们的效忠，他们是罗斯公国的支柱。"
+ EDG_tve_estate_1_tooltip:0 "我们将解锁三个一次性的阶级互动决议以确保他们的忠诚。"
+#  EDG_tve_church_1:0 ""
+#  EDG_tve_boyal_1:0 ""
+#  EDG_tve_merchant_1:0 ""
+
+ EDG_tve_estate_loyalty_3_2_title:0 "确保各阶层忠诚"
+ EDG_tve_estate_loyalty_3_2_desc:0 "在罗斯公国，所有人都要忠于大公，而作为大公的权力是无限的！"
+ EDG_tve_honest_estate_modifier:0 "忠诚的宫廷"
+
+ EDG_tve_god_will_3_3_title:0 "上帝的指引"
+ EDG_tve_god_will_3_3_desc:0 "异端，异教从各方面包围着罗斯，但我们英明神武的大公有上帝的指引，特维尔大公，他是上帝钦定的罗斯之主！"
+ EDG_tve_god_will_modifier:0 "神佑"
+
+ EDG_tve_real_heir_vladimir_4_1_title:0 "弗拉基米尔的真正继承者"
+ EDG_tve_real_heir_vladimir_4_1_desc:0 "在弗拉基米尔被鞑靼人的铁蹄彻底毁灭之后，东北罗斯王公们作为弗拉基米尔公国的继承人互相厮杀着。现在，我们特维尔从这场厮杀中胜利，我们是弗拉基米尔公国的真正继承者！"
+ EDG_tve_real_heir_vladimir_tooltip:0 "诺夫哥罗德卫彻将收到我们的威胁，选举我们伟大的大公成为诺夫哥罗德王公。（若是他们的军事实力弱于我们，他们很可能会同意）"
+
+ EDG_tve_conquer_novgorod_4_3_title:0 "控制诺夫哥罗德"
+ EDG_tve_conquer_novgorod_4_3_desc:0 "诺夫哥罗德一直是北罗斯商业贸易中心，诺夫哥罗德借此获取了巨量财富，现在，这巨量财富该流入我们的口袋了。"
+ EDG_ownner_of_novgorod_modifier:0 "控制诺夫哥罗德"
+
+ EDG_tve_improve_5_1_title:0 "特维尔繁荣"
+ EDG_tve_improve_5_1_desc:0 "特维尔的地理位置得天独厚，交通便利且易于开发，在东北罗斯诸城为鞑靼铁蹄毁灭后，她是首个复兴的罗斯城市，她应该成为新的罗斯众城之母！"
+ EDG_tve_tve_1_modifier:0 "繁荣的特维尔"
+
+ EDG_tve_center_northeast_rus_5_2_title:0 "东北罗斯的中心"
+ EDG_tve_center_northeast_rus_5_2_desc:0 "东北罗斯需要一座中心城市，她是罗斯众城的榜样与模板，她是罗斯渴望之城，在以前这座城市是弗拉基米尔，现在这座城市应当是特维尔！"
+ EDG_tve_tve_2_modifier:0 "东北罗斯的中心"
+ EDG_tve_center_northeast_rus_tooltip:0 "将“繁荣的特维尔”替换成“东北罗斯的中心”，所有效果翻倍。"
+
+ EDG_tve_conquer_kazan_1_4_title:0 "征服喀山"
+ EDG_tve_conquer_kazan_1_4_desc:0 "喀山一直是东北罗斯扩张的首要目标，他们处在我们的东方商路之上，在鞑靼入侵以前就有数位大公尝试过征服保加尔，然而最终都没有取得彻底胜利。现在我们终于征服了喀山，这是我们罗斯的一大步！"
+ EDG_tve_conquer_kazan_modifier:0 "征服喀山"
+
+ EDG_tve_end_tatar_1_5_title:0 "终结鞑靼民族"
+ EDG_tve_end_tatar_1_5_desc:0 "鞑靼人的入侵改变了整个罗斯，他们给罗斯的国土上带来了毁灭和痛苦。随着我们彻底击败了草原上的游牧民族，我们可以自豪地宣告我们已经终结了他们，洗刷了鞑靼枷锁的耻辱。"
+
+ EDG_tve_rus_border_1_7_title:0 "罗斯的土地没有边界！"
+ EDG_tve_rus_border_1_7_desc:0 "有人问罗斯的边界到底在哪里，我们的回答是罗斯的土地永远没有边界！"
+ EDG_tve_rus_border_tooltip:0 "我们将解锁一系列决议以宣称东方的土地"
+
+ EDG_tve_protect_perm_2_4_title:0 "保护彼尔姆"
+ EDG_tve_protect_perm_2_4_desc:0 "彼尔姆人应该依附罗斯，他们应该明白，只有罗斯才能保护他们。"
+ EDG_tve_protect_perm_1_yes_tooltip:0 "£yes£如果彼尔姆是我们的附庸"
+ EDG_tve_protect_perm_1_no_tooltip:0 "£no£如果彼尔姆是我们的附庸"
+ EDG_tve_protect_perm_2_yes_tooltip:0 "£yes£如果彼尔姆是我们的盟友"
+ EDG_tve_protect_perm_event_tooltip:0 "我们将可以让彼尔姆成为我们的附庸"
+ EDG_tve_protect_perm_2_no_tooltip:0 "£no£如果彼尔姆是我们的盟友"
+
+ EDG_tve_reunite_rus_2_6_title:0 "南北罗斯再统一"
+ EDG_tve_reunite_rus_2_6_desc:0 "南罗斯？北罗斯？东北罗斯？毋庸置疑的是他们都是罗斯国土的一部分。我们已经分裂了太久太久，罗斯国土必须归于一统！这是历史的洪流，无人可阻挡！"
+ EDG_tve_reunite_rus_modifier:0 "南北罗斯再统一"
+
+ EDG_tve_the_name_of_rus_3_4_title:0 "以罗斯之名"
+ EDG_tve_the_name_of_rus_3_4_desc:0 "分裂的诸公国时代就要结束了，因为罗斯必须统一！"
+
+ EDG_tve_run_to_kiev_3_5_title:0 "向基辅奔去"
+ EDG_tve_run_to_kiev_3_5_desc:0 "基辅是古代罗斯的政治经济文化中心，占领基辅是每个罗斯王公最大的追求，也只有占领基辅，我们才有资格宣称我们是全罗斯最强的力量。"
+
+ EDG_tve_rus_kniaz_3_7_title:0 "全罗斯的统治者"
+ EDG_tve_rus_kniaz_3_7_desc:0 "诸国纷争相互复仇的时代已经结束了，一个崭新的罗斯正在升起！"
+ EDG_tve_found_rus_nation_tooltip:0 "如果我们选择弗拉基米尔罗斯，那么我们将能无视行政科技建立罗斯。"
+
+ EDG_tve_kiev_3_6_title:0 "基辅的历史意义"
+ EDG_tve_kiev_3_6_desc:0 "虽然我们占领了基辅，但是我们并非对基辅拥有绝对的宣称权。不过既然我们已经向全罗斯展示了我们的力量，我们便可以稍微调整一些措辞，毕竟历史是由活人书写的，死人可不能开口说话。"
+
+ EDG_tve_chuds_4_4_title:0 "与楚德人的古老契约"
+ EDG_tve_chuds_4_4_desc:0 "楚德人自古以来就向罗斯王公上贡，不论是谁占领了楚德地区，统治着楚德人，都得承认罗斯王公在楚德应有的权力。"
+
+ EDG_tve_poltck_4_5_title:0 "征服波洛茨克"
+ EDG_tve_poltck_4_5_desc:0 "波洛茨克是罗斯诸公国最独立的一部分，统治那里的留里克王公和其他公国的留里克王公血缘关系最远，但他们不可能永久独立下去，因为罗斯将要由我们特维尔统一。"
+
+ EDG_tve_conquer_belarus_4_6_title:0 "收回白罗斯之地"
+ EDG_tve_conquer_belarus_4_6_desc:0 "白罗斯地区，立陶宛人对这里一直虎视眈眈，为了保护白罗斯地区不落入立陶宛人之手，我们必须率先收回白罗斯地区，将白罗斯纳入我们的统治之下。"
+
+ EDG_tve_conquer_finland_5_4_title:0 "芬兰地区"
+ EDG_tve_conquer_finland_5_4_desc:0 "芬兰地区一直是诺夫哥罗德和瑞典争夺的对象，这里有足够的战略价值，同时，还出产皮草。为了同瑞典争夺波罗的海霸权，我们必须要夺取芬兰。"
+
+ EDG_tve_baltic_embition_5_5_title:0 "波罗的海雄心"
+ EDG_tve_baltic_embition_5_5_desc:0 "斯堪的纳维亚人一直威胁着罗斯，而且是从海上到陆地到商业贸易的全方位威胁，我们最好是能彻底击败他们，由此我们将成为波罗的海唯一的霸主。"
+
+ EDG_tve_rus_new_land_5_7_title:0 "东方大国"
+ EDG_tve_rus_new_land_5_7_desc:0 "罗斯人缺席欧洲舞台已经有很长时间了，但是随着蒙古入侵，基辅罗斯解体，曾经的辉煌一去不复返。但是现在，我们可以告诉欧洲，罗斯将重回欧陆大舞台，并将成为欧陆的列强，引领整个欧陆！"
+
+ EDG_tve_hi_slavics_1_9_title:0 "嗨，斯拉夫人!"
+ EDG_tve_hi_slavics_1_9_desc:0 "嗨，斯拉夫人，我们古老民族的精神所向无敌，人民的目标，斯拉夫的青年依然没有忘记。万世不灭，万古常青。斯拉夫的精神，一切阴谋诡计，一切强暴威逼全部白费心计。让那狂风暴雨施展它的威力，横扫一切，山崖崩裂，橡木连根拔起，大地震撼不已。但是我们始终好象岩石一样屹立，一切出卖祖国的叛徒都将死无葬身之地。"
+ EDG_tve_hi_slavics_tooltip:0 "我们将获得所有斯拉夫文化省份的宣称。"
+
+ EDG_tve_poland_1_10_title:0 "莱赫之子"
+ EDG_tve_poland_1_10_desc:0 "古老的传说中莱赫、切赫和罗斯是三位兄弟，这三人各自建立了一个斯拉夫国家：波兰、捷克、和罗斯。波兰人与我们罗斯关系密切，然而孱弱不堪的波兰并不能保护他们的人们，那么作为兄弟之国，我们有必要将他们一并保护起来，纳入我们的统治之下。"
+
+ EDG_tve_pan_slavism_1_11_title:0 "泛斯拉夫主义的诞生"
+ EDG_tve_pan_slavism_1_11_desc:0 "我们已经统治了绝大多数斯拉夫人，是时候建立一个前人根本没有建立过的帝国——斯拉维亚帝国了，所有的斯拉夫人团结起来，我们的联盟将牢不可破！"
+
+ EDG_tve_boyal__2_9_title:0 "缙绅会议"
+ EDG_tve_boyal__2_9_desc:0 "波雅尔们，尽管对王公效忠，但过于庞大的波雅尔势力也会反过来形成祸害，我们必须小心对待他们。"
+
+ EDG_tve_poyal_reform_2_10_title:0 "废除按资排辈法"
+ EDG_tve_poyal_reform_2_10_desc:0 "俄罗斯的传统制度要按照资历来选择官吏，不利于我们任人唯贤，古老的传统是时候改变了!"
+
+ EDG_tve_rus_empire_3_8_title:0 "帝国雄心"
+ EDG_tve_rus_empire_3_8_desc:0 "俄罗斯人经历了许多年的苦难，如今终于在一位沙皇的统治下团结了起来，我们，过去罗斯人的命运由他人掌控，但是现在，罗斯的未来由我们自己铸就！"
+
+ EDG_tve_orthodox_3_9_title:0 "东正教会"
+ EDG_tve_orthodox_3_9_desc:0 "教会是俄罗斯社会稳定和国家正统性的来源和基石，我们必须确保教会的忠诚，好好安抚他们。"
+
+ EDG_tve_nation_reform_3_10_title:0 "改革国家官僚机构"
+ EDG_tve_nation_reform_3_10_desc:0 "要进行改革，我们必须对帝国现有的官僚机构进行改革，才能更好地推行其他政令。"
+
+ EDG_tve_new_rus_empire_3_11_title:0 "让罗斯再次伟大"
+ EDG_tve_new_rus_empire_3_11_desc:0 "尽管罗斯曾经沉沦，被鞑靼枷锁禁锢，但是苦难已经过去，辉煌的时代已经到来，罗斯将再一次伟大！"
+
+ EDG_tve_shejijun_4_9_title:0 "射击军的使命"
+ EDG_tve_shejijun_4_9_desc:0 "射击军是我们军队的中坚力量，我们必须好好利用他们。"
+
+ EDG_tve_army_reform_4_10_title:0 "军队改制"
+ EDG_tve_army_reform_4_10_desc:0 "过去的军队已经越来越不能适应现代战争的需求，我们必须得向一切强军学习，俄罗斯军队无论是数量和质量都不能落后于人！"
+
+ EDG_tve_nongmin_5_9_title:0 "农民的命运"
+ EDG_tve_nongmin_5_9_desc:0 "农奴制能提高我们的生产力，但这是否对农民泰国残忍了？"
+
+ EDG_tve_stepan_cosak_5_11_title:0 "草原上的哥萨克"
+ EDG_tve_stepan_cosak_5_11_desc:0 "哥萨克已经是帝国内一股重要的势力。如今哥萨克已经对帝国宣誓效忠，我们应该如何驱使他们呢？"
+
+ EDG_tve_time_to_wake_up_1_13_title:0 "觉醒年代"
+ EDG_tve_time_to_wake_up_1_13_desc:0 "？"
+
+ EDG_tve_voice_of_rev_2_12_title:0 "启蒙之声"
+ EDG_tve_voice_of_rev_2_12_desc:0 "？"
+
+ EDG_tve_sad_world_2_13_title:0 "悲惨世界"
+ EDG_tve_sad_world_2_13_desc:0 "？"
+
+ EDG_tve_choice_3_12_title:0 "时代的十字路口"
+ EDG_tve_choice_3_12_desc:0 "？"
+
+ EDG_tve_factory_mechine_4_12_title:0 "工厂与机器"
+ EDG_tve_factory_mechine_4_12_desc:0 "？"
+
+ EDG_tve_the_best_time_4_13_title:0 "最好的时代"
+ EDG_tve_the_best_time_4_13_desc:0 "？"
+
+ EDG_tve_the_worst_time_5_13_title:0 "最坏的时代"
+ EDG_tve_the_worst_time_5_13_desc:0 "？"
+
+ EDG_tve_output_rev_2_15_title:0 "输出革命"
+ EDG_tve_output_rev_2_15_desc:0 "？"
+
+ EDG_tve_fire_of_rev_3_14_title:0 "革命之火"
+ EDG_tve_fire_of_rev_3_14_desc:0 "？"
+
+ EDG_tve_fanatical_of_rev_3_16_title:0 "革命狂热"
+ EDG_tve_fanatical_of_rev_3_16_desc:0 "？"
+
+ EDG_tve_lef_4_15_title:0 "自由！平等！博爱！"
+ EDG_tve_lef_4_15_desc:0 "？"
+
+ EDG_tve_absolute_monarch_2_15_title:0 "专制君主"
+ EDG_tve_absolute_monarch_2_15_desc:0 ""
+
+ EDG_tve_eu_gendarmerie_3_14_title:0 "欧洲宪兵"
+ EDG_tve_eu_gendarmerie_3_14_desc:0 ""
+
+ EDG_tve_fanatical_of_monarch_3_16_title:0 "反动狂热"
+ EDG_tve_fanatical_of_monarch_3_16_desc:0 ""
+
+ EDG_tve_anti_rev_4_15_title:0 "镇压革命"
+ EDG_tve_anti_rev_4_15_desc:0 "？"
+
+ EDG_tve_stability_1_16_title:0 "重归罗斯的和平"
+ EDG_tve_stability_1_16_desc:0 "罗斯终于迎来了和平，没有了战乱，人民才能建立他们的家园，才能建设我们的罗斯祖国。"
+ EDG_tve_peace_of_rus_modifier:0 "罗斯的和平"
+
+ EDG_tve_improve_south_rus_1_17_title:0 "南罗斯沃土"
+ EDG_tve_improve_south_rus_1_17_desc:0 "鲁塞尼亚地区拥有肥沃的土地，只要我们开发得当，这将会是我们帝国最繁荣的地区。"
+ EDG_tve_ruthenia_modifier:0 "南罗斯沃土"
+
+ EDG_tve_water_in_south_rus_1_19_title:0 "南罗斯水利工程"
+ EDG_tve_water_in_south_rus_1_19_desc:0 "南罗斯什么都好，但若是想要发展农业，水利工程是必不可少的，这能减少灾年的损失，增加丰年的收获。"
+ EDG_tve_ruthenia_water_modifier:0 "南罗斯水利"
+
+ EDG_tve_improve_northeast_rus_forest_2_17_title:0 "开发东北罗斯"
+ EDG_tve_improve_northeast_rus_forest_2_17_desc:0 "东北罗斯地区，虽然开发历史较南罗斯晚，但是丰富的木材和广袤的土地，让我们得以建设这一地区。"
+ EDG_tve_northeast_rus_modifier:0 "开发东北罗斯"
+
+ EDG_tve_rus_grain_2_18_title:0 "罗斯粮仓"
+ EDG_tve_rus_grain_2_18_desc:0 "粮食乃是重中之重，有了足够的粮食，可以维持国家的稳定，更能维系庞大的军队，粮食和农民就是国力。"
+ EDG_tve_rus_grain_modifier:0 "罗斯粮仓"
+
+ EDG_tve_vodga_2_19_title:0 "国营伏特加垄断"
+ EDG_tve_vodga_2_19_desc:0 "罗斯的人民嗜酒，伏特加是一种廉价的酒类，我们应该让国家机构垄断之，不仅可以带来收入，跟你在其他领域发挥作用。"
+
+ EDG_tve_improve_belarus_3_17_title:0 "白罗斯的森林沼泽"
+ EDG_tve_improve_belarus_3_17_desc:0 "？"
+
+ EDG_tve_rus_construction_3_19_title:0 "罗斯营造范式"
+ EDG_tve_rus_construction_3_19_desc:0 "罗斯各地都大兴土木，建造建筑。我们需要一个统一的建造标准，这样能大大节省我们建造时的花费。"
+ EDG_tve_rus_art_construct_modifier:0 "罗斯营造范式"
+
+ EDG_tve_rus_art_construct_3_18_title:0 "罗斯建造艺术"
+ EDG_tve_rus_art_construct_3_18_desc:0 "西欧拥有他们独特的建造技术。通过引入这些技术，可以更快地建造建筑物，并且大量节约时间和成本。西欧建造技术的传入为罗斯的建筑行业带来了革命性的变化，不仅提高了建筑的质量和效率，也进一步推动了罗斯现代化社会建设的步伐。"
+ EDG_tve_rus_construction_modifier:0 "罗斯建造艺术"
+
+ EDG_tve_neva_4_17_title:0 "开发涅瓦"
+ EDG_tve_neva_4_17_desc:0 "在涅瓦河口，我们将建设一座世界渴望之城！"
+
+ EDG_tve_eu_windows_4_18_title:0 "欧洲之窗，罗斯之门"
+ EDG_tve_eu_windows_4_18_desc:0 "东方和西方的相遇，造就了俄罗斯的欧洲之窗，她是罗斯通往欧洲的门户。罗斯之门开启，她就是罗斯对外交流的第一线。她将成为罗斯最开放，最包容的城市。"
+ EDG_tve_eu_windows_modifier:0 "欧洲之窗，罗斯之门"
+
+ EDG_tve_rus_navy_5_19_title:0 "罗斯两海舰队"
+ EDG_tve_rus_navy_5_19_desc:0 "？"
+
+ EDG_tve_fur_trade_5_16_title:0 "主导毛皮贸易"
+ EDG_tve_fur_trade_5_16_desc:0 "毛皮，又称为北方与西伯利亚的软黄金。对于优质毛皮的需求永不枯竭，我们当然要垄断毛皮贸易。"
+
+ EDG_tve_from_atlantic_to_pacific_5_18_title:0 "从大西洋到太平洋"
+ EDG_tve_from_atlantic_to_pacific_5_18_desc:0 "罗斯的领土，横跨欧亚大陆，从大西洋一直到太平洋，我们将成为人类历史上名列前茅的大帝国。"
+ EDG_tve_from_atlantic_to_pacific_modifier:0 "从大西洋到太平洋"
+
+ EDG_tve_east_navy_5_19_title:0 "罗斯海军舰队"
+ EDG_tve_east_navy_5_19_desc:0 "缺少了海军的帝国是不完整的帝国。一个合格的帝国一定要有一支强大的舰队随时向海外投射力量。"
+
+ EDG_tve_fall_hre_1_12_title:0 "击败神圣罗马帝国"
+ EDG_tve_fall_hre_1_12_desc:0 "神圣罗马帝国皇帝由教宗加冕，神圣罗马帝国的皇帝自认为拥有世俗的最高权力，可惜这不过是他们一厢情愿的美好幻想，现在我们将打破他们的幻想！"
+
+ EDG_tve_saxon_wall_1_13_title:0 "直到萨克森边墙"
+ EDG_tve_saxon_wall_1_13_desc:0 "在很久很久以前，日耳曼人和斯拉夫人之间有一道萨克森界墙……墙的一边是属于被称作文德人的斯拉夫人领地。现在德意志人的东进早已超过了当初的边界，我们应该把边界线重新推回去。"
+
+ EDG_tve_wendish_2_13_title:0 "文德人的故事"
+ EDG_tve_wendish_2_13_desc:0 "文德人是德意志人对生活在波美拉尼亚一带斯拉夫人的统称，这些文德人正遭到德意志人的统治，而我们英明神武的沙皇陛下，理当解放这些同胞。"
+
+ EDG_tve_slavic_invade_2_14_title:0 "斯拉夫入侵"
+ EDG_tve_slavic_invade_2_14_desc:0 "嘿！日耳曼人！你们动不动就东扩的日子结束了，该换我们西扩了，把阳光下的土地给我们！"
+
+ EDG_tve_conquer_france_3_14_title:0 "高卢战记"
+ EDG_tve_conquer_france_3_14_desc:0 "古时候，高卢还是凯尔特人的天下，但是罗马征服了高卢，尔后高卢被罗马彻底同化成了罗马人。我们应该效仿罗马故事，统治高卢。"
+
+ EDG_tve_conquer_brtain_3_15_title:0 "跨越海峡"
+ EDG_tve_conquer_brtain_3_15_desc:0 "一道短短的海峡隔绝了不列颠和欧洲大陆。但是这海峡挡不住我们英勇的战士和君王的野心。大过海峡去，统治全欧陆！"
+
+ EDG_tve_greek_roma_4_12_title:0 "希腊人，还是罗马人？"
+ EDG_tve_greek_roma_4_12_desc:0 "希腊人已经完全失去了对希腊的认同，但他们骨子里仍然是希腊文化。尽管那个曾经的希腊化罗马帝国已经荣光不再，但是我们仍然可以宣称君士坦丁堡，并继承罗马的遗产。"
+
+ EDG_tve_invade_italia_4_13_title:0 "进军意大利亚"
+ EDG_tve_invade_italia_4_13_desc:0 "意大利亚，罗马的所在地，罗马正是从这里发源，走向辉煌。"
+
+ EDG_invade_spain_4_14_title:0 "登陆伊比利亚"
+ EDG_invade_spain_4_14_desc:0 "伊比利亚半岛生活着基督徒与伊斯兰教徒，这片土地曾经是罗马帝国的行省，那么之后也将会是我们的行省。"
+
+ EDG_tve_annatolia_5_13_title:0 "统治安纳托利亚"
+ EDG_tve_annatolia_5_13_desc:0 "安纳托利亚，是拜占庭帝国的根基之一，占据这里，我们能够南下，进入地中海，并且进一步统治两河流域。"
+
+ EDG_tve_egypt_5_14_title:0 "征服埃及"
+ EDG_tve_egypt_5_14_desc:0 "埃及古时候就是罗马帝国的粮仓，肥沃的尼罗河灌溉着两岸的良田，供养着大量人口。埃及将会是我们在地中海南岸最好的统治中心。"

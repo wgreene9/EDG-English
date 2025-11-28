@@ -1,0 +1,8 @@
+﻿l_english:
+  EDG_test_mission_desc:0 "该国家拥有§Y归墟之门§!的测试内容，其完整性以及流程上都处于测试期间，因此游玩上可能出现大量问题，需要提前做好遇到各式各样的且不限于坏档的BUG，适合想要提前体验内容的玩家。"
+ EDG_new_mission_desc:0 "该国家拥有§Y归墟之门§!最新版本更新的内容！"
+ EDG_mission_desc:0 "该国家为§Y归墟之门§!主要可游玩的推荐国家，拥有丰富的任务以及独特的机制。"
+
+ DLC_EDG_test_mission_TOOLTIP_INSTANT:0 "测试内容"
+ DLC_EDG_new_mission_TOOLTIP_INSTANT:0 "最新内容"
+ DLC_EDG_mission_TOOLTIP_INSTANT:0 "独特内容"

@@ -1,0 +1,10 @@
+1444.1.1 = {
+  monarch = {
+    name = "腓力 朱利安 I"  # Jean I
+    dynasty = "德 勃艮第"  # de Bourgogne
+    birth_date = 1411.1.1
+    dip = 2
+    adm = 2
+    mil = 3
+  }
+}

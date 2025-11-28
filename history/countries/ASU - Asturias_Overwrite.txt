@@ -1,0 +1,53 @@
+change_estate_land_share = {
+  estate = estate_nobles
+  share = 10
+}
+change_estate_land_share = {
+  estate = estate_church
+  share = -10
+}
+1440.3.6 = {
+  monarch = {
+    name = "伊格纳西 III"  # Juan III
+    dynasty = "希梅纳"  #
+    birth_date = 1405.3.6
+    adm = 4
+    dip = 3
+    mil = 4
+  }
+}
+1440.3.6 = {
+  heir = {
+    name = "安东尼"  # Juan III
+    monarch_name = "安东尼 II"
+    dynasty = "希梅纳"  #
+    birth_date = 1443.3.6
+    claim = 95
+    adm = 5
+    dip = 4
+    mil = 5
+  }
+}
+1440.3.6 = {
+  queen = {
+    name = "彼得罗妮拉"  # Maria
+    dynasty = "德 贝尔奇特"  #
+    birth_date = 1406.1.1
+    female = yes
+    adm = 6
+    dip = 5
+    mil = 2
+  }
+}
+1440.3.6 = {
+	  leader = {
+      name = "Muhammad 「摩尔人」"
+      type = general
+      fire = 4
+      shock = 2
+      manuever = 1
+      siege = 2
+      birth_date = 1423.1.1
+	  }
+
+}

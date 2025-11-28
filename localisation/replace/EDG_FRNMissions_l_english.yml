@@ -1,0 +1,131 @@
+﻿l_english:
+ EDG_FRN_mission_1_7_title:0 "玻璃"
+ EDG_FRN_mission_1_7_desc:0 ""
+ EDG_FRN_improve_efficiency_for_glass.tt:0 "§Y玻璃§!产出效率§G+10%§!"
+ EDG_FRN_mission_1_7.effect.tt:0 "我们将确保§Y玻璃§!的供应\n\n取得§T委托§!所需材料：§Y玻璃§!"
+
+ EDG_FRN_mission_1_8_title:0 "钢铁"
+ EDG_FRN_mission_1_8_desc:0 ""
+ EDG_FRN_improve_efficiency_for_iron.tt:0 "§Y钢铁§!产出效率§G+20%§!"
+ EDG_FRN_mission_1_8.effect.tt:0 "我们将确保§Y钢铁§!的供应\n\n取得§T委托§!所需材料：§Y钢铁§!"
+
+ EDG_FRN_mission_1_9_title:0 "珠宝"
+ EDG_FRN_mission_1_9_desc:0 ""
+ EDG_FRN_improve_efficiency_for_gems.tt:0 "§Y金银珠宝§!产出效率§G+25%§!"
+ EDG_FRN_mission_1_9.effect.tt:0 "我们将确保§Y金银与宝石§!的供应\n\n取得§T委托§!所需材料：§Y珠宝§!"
+
+ EDG_FRN_mission_1_11_title:0 "金属活字印刷术"
+ EDG_FRN_mission_1_11_desc:0 ""
+ EDG_FRN_mission_1_11.effect.tt:0 "每个建有§Y道路网§!建筑且省份§Y贸易品§!为§Y纸张§!的省份都将给予我们§G250§!¤"
+ EDG_FRN_mission_1_11.priice.tt:0 "普及新式印刷术"
+
+ EDG_FRN_mission_1_12_title:0 "世界书市"
+ EDG_FRN_mission_1_12_desc:0 ""
+ EDG_FRN_mission_1_12.effect.tt:0 "从现在开始，§Y研究科技§!将至少给予我们§Y3§!创新度\n\n每当除我们外§Y首都§!建有§Y道路网§!建筑的国家§Y研究科技§!时，都会给予我们§G1§!¤"
+
+ EDG_FRN_mission_2_4_title:0 "启动资金"
+ EDG_FRN_mission_2_4_desc:0 ""
+ EDG_FRN_mission_2_4.church.tt:0 "如果我们通过拉拢§Y教士§!阶级来完成任务，那么"
+ EDG_FRN_mission_2_4.church.effect.tt:0 "当我们完成任务§T新的机遇§!后：\n解锁§T委托决议§!：建设§Y皇帝大教堂§!"
+ EDG_FRN_mission_2_4.burghers.tt:0 "如果我们通过拉拢§Y商人§!阶级来完成任务，那么"
+ EDG_FRN_mission_2_4.burghers.effect.tt:0 "当我们完成任务§T新的机遇§!后：\n解锁§T委托决议§!：建设§Y法兰克福罗马广场§!"
+
+ EDG_FRN_mission_2_6_title:0 "工具材料"
+ EDG_FRN_mission_2_6_desc:0 ""
+ EDG_FRN_mission_2_6.effect.tt:0 "解锁特殊佣兵：§Y建材勘探队§!\n\n上述佣兵§G不占用§!陆军上限，且拥有§G极低§!的维护费\n\n解锁§Y投资§!决议，允许我们将§Y法兰克福§!的§Y发展度§!§T转移§!到拥有特定§Y贸易品§!的城市并获得§Y投资点数§!\n\n§Y每年年初§!都会根据我们所§Y投资§!的总§Y税收§!、§Y生产§!、§Y人力§!点数分别给予§Y杜卡特§!、§Y建材§!与§Y人力§!，具体收入可以参考§Y决议§!说明"
+
+ EDG_FRN_mission_2_7_title:0 "木料"
+ EDG_FRN_mission_2_7_desc:0 ""
+ EDG_FRN_improve_efficiency_for_woods.tt:0 "§Y木料§!产出效率§G+10%§!"
+ EDG_FRN_mission_2_7.effect.tt:0 "我们将确保§Y木材§!的供应\n\n取得§T委托§!所需材料：§Y木材§!"
+
+ EDG_FRN_mission_2_8_title:0 "黄铜"
+ EDG_FRN_mission_2_8_desc:0 ""
+ EDG_FRN_improve_efficiency_for_copper.tt:0 "§Y石料黄铜§!产出效率§G+10%§!"
+ EDG_FRN_mission_2_8.effect.tt:0 "我们将确保§Y石料与黄铜§!的供应\n\n取得§T委托§!所需材料：§Y黄铜§!"
+
+ EDG_FRN_mission_2_10_title:0 "市立大图书馆"
+ EDG_FRN_mission_2_10_desc:0 ""
+ EDG_FRN_mission_2_10.effect.tt:0 "允许我们§Y立刻启用§!下列三个§Y理念组§!中的一个：\n§Y经济§!\n§T革新§!\n§O财阀§!\n\n从现在开始，§Y研究科技§!将给予§Y除我们外§!所有§Y首都§!拥有§Y道路网§!建筑的国家§Y1§!点创新度"
+
+ EDG_FRN_mission_2_11_title:0 "专业施工队"
+ EDG_FRN_mission_2_11_desc:0 ""
+ EDG_FRN_mission_2_11.effect.tt:0 "§O造诣§!现在将提供§Y年度职业度§!增长\n\n§T施工§!完成之后将随机§G增加§!当地§Y1§!点发展度"
+
+ EDG_FRN_mission_3_1_title:0 "我们的过去"
+ EDG_FRN_mission_3_1_desc:0 ""
+
+ EDG_FRN_mission_3_2_title:0 "我们的现在"
+ EDG_FRN_mission_3_2_desc:0 ""
+
+ EDG_FRN_mission_3_3_title:0 "我们的未来"
+ EDG_FRN_mission_3_3_desc:0 ""
+
+ EDG_FRN_mission_3_5_title:0 "新的机遇"
+ EDG_FRN_mission_3_5_desc:0 ""
+ EDG_FRN_mission_3_5.effect.tt:0 "立刻启用§T基建§!理念组\n\n该§Y理念组§!对于@[Root.GetTag]§Y[Root.GetName]§!而言§Y至关重要§!，因此§R请勿放弃该理念组§!！\n\n解锁一系列§Y建筑相关§!的§Y功能§!，请§Y仔细阅读§!§T政府机制§!中的§G建筑造诣§!进度条说明来§Y了解玩法§!"
+
+ EDG_FRN_mission_3_9_title:0 "美因河畔的法兰克福"
+ EDG_FRN_mission_3_9_desc:0 ""
+ EDG_FRN_mission_3_9.effect.tt:0 "将§T施工§!范围扩大到§Y南德意志§!、§Y北德意志§!以及§Y低地地区§!"
+ EDG_FRN_mission_3_10.effect.tt:0 "解锁数个§Y决议§!，允许我们在§Y其他地区§!开设分部，扩大§T施工§!范围"
+
+ EDG_FRN_mission_3_10_title:0 "扩大协会"
+ EDG_FRN_mission_3_10_desc:0 ""
+
+ EDG_FRN_mission_3_12_title:0 "业务拓展"
+ EDG_FRN_mission_3_12_desc:0 ""
+ EDG_FRN_mission_3_12.effect_1.tt:0 "解锁特殊佣兵：§Y法兰克福工兵团§!"
+ EDG_FRN_mission_3_12.effect_2.tt:0 "每当§Y其他国家§!雇佣该佣兵时，我们都会获得§Y25§!£mil£、§G1%§!陆军职业度以及一定的¤\n\n年度投资§Y税收§!收入现在将受到§Y国家税收修正§!的影响\n\n年度投资§Y人力§!收入受到现在将受到§Y国家人力修正§!的影响\n\n年度投资§Y建材§!收入受到现在将受到§Y生产效率修正§!的影响"
+
+ EDG_FRN_mission_3_13_title:0 "迈向明天"
+ EDG_FRN_mission_3_13_desc:0 ""
+
+ EDG_FRN_mission_4_4_title:0 "招聘人手"
+ EDG_FRN_mission_4_4_desc:0 ""
+ EDG_FRN_mission_4_4.nobles.tt:0 "如果我们通过拉拢§Y贵族§!阶级来完成任务，那么"
+ EDG_FRN_mission_4_4.nobles.effect.tt:0 "当我们完成任务§T新的机遇§!后：\n解锁§T委托决议§!：建设§Y莱茵高葡萄酒农场§!"
+ EDG_FRN_mission_4_4.emperor.tt:0 "如果我们通过拉拢§Y皇帝§!来完成任务，那么"
+ EDG_FRN_mission_4_4.emperor.effect.tt:0 "当我们完成任务§T新的机遇§!后：\n解锁§T委托决议§!：建设§Y美因茨圣玛尔定大教堂§!"
+
+ EDG_FRN_mission_4_6_title:0 "以及方法"
+ EDG_FRN_mission_4_6_desc:0 ""
+ EDG_FRN_mission_4_6.effect.tt:0 "替换§Y所有阶层§!的§Y阶级议程§!，这些§Y议程§!将集中于§Y建造建筑§!"
+
+ EDG_FRN_mission_4_7_title:0 "初出茅庐 "
+ EDG_FRN_mission_4_7_desc:0 ""
+ EDG_FRN_mission_4_7.effect.tt:0 "解锁§J翠绿§!委托的§Y建造权限§!\n\n从现在开始，§Y阶级议程§!将能够提出§T奇观委托§!"
+
+ EDG_FRN_mission_4_8_title:0 "炉火纯青"
+ EDG_FRN_mission_4_8_desc:0 ""
+ EDG_FRN_mission_4_8.effect.tt:0 "解锁§O黄金§!委托的§Y建造权限§!\n\n§Y奇观委托§!建造时间§G-10%§!"
+
+ EDG_FRN_mission_4_10_title:0 "国家工程学院"
+ EDG_FRN_mission_4_10_desc:0 ""
+ EDG_FRN_mission_4_10.effect.tt:0 "§G结算委托§!现在将根据§Y委托等级§!分别获得§Y2§!、§Y4§!、§Y6§!、§Y8§!点§Y创新度§!\n\n立刻启用§T职业§!理念组\n\n政府互动§Y钻研技术§!现在将增加§Y额外效果§!"
+
+ EDG_FRN_mission_4_11_title:0 "首席工程师"
+ EDG_FRN_mission_4_11_desc:0 ""
+ EDG_FRN_mission_4_11.effect.tt:0 "每个等级的§Y工程师§!顾问将§G-5%§!发展成本"
+
+ EDG_FRN_mission_5_7_title:0 "驾轻就熟"
+ EDG_FRN_mission_5_7_desc:0 ""
+ EDG_FRN_mission_5_7.effect.tt:0 "解锁§T天青§!委托的§Y建造权限§!\n\n§Y奇观委托§!建造时间§G-20%§!"
+
+ EDG_FRN_mission_5_8_title:0 "登峰造极"
+ EDG_FRN_mission_5_8_desc:0 ""
+ EDG_FRN_mission_5_8.effect.tt:0 "解锁§V传奇§!委托的§Y建造权限§!\n\n§Y奇观委托§!建造时间§G-10%§!"
+
+ EDG_FRN_mission_5_9_title:0 "空前绝后 "
+ EDG_FRN_mission_5_9_desc:0 ""
+ EDG_FRN_mission_5_9_effect.tt:0 "解锁四个§Y特殊§!的§V传奇§!委托：\n里加：§Y里加普世城§!\n罗马：§Y圣三一天顶大教堂§!\n法兰克福：§Y圣灵合一教堂§!\n耶路撒冷：§Y圣米勒加凯旋圣母教堂§!\n\n完成上述全部§Y委托§!即可达成§O奇观胜利§!(并非胜利)\n\n§Y奇观委托§!建造时间§G-10%§!"
+
+ EDG_FRN_mission_5_11_title:0 "金属铸造研究"
+ EDG_FRN_mission_5_11_desc:0 ""
+ EDG_FRN_mission_5_11.effect.tt:0 "每个建有§Y道路网§!建筑且省份§Y贸易品§!为§Y铁矿§!的省份都将给予我们§G150§!¤\n\n每个等级的§Y工程师§!顾问将§G+2.5%§!生产效率\n\n升级改革§Y军事工程§!的效果"
+
+ EDG_FRN_mission_5_12_title:0 "军事工程学理论"
+ EDG_FRN_mission_5_12_desc:0 ""
+ EDG_FRN_mission_5_12.effect.tt:0 "每个等级的§Y工程师§!顾问将§G+2.5%§!围城效率"
+
+

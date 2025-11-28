@@ -1,0 +1,38 @@
+EDG_BRA_DefineRuler_Willian_effect = {
+    define_ruler = {
+        name = "威廉"
+        dynasty = "霍亨索伦"
+        adm = 4
+        dip = 4
+        mil = 3
+        fixed = yes
+        age = 20
+        claim = 50
+    }
+}
+
+EDG_BRA_DefineRuler_Albert_effect = {
+    define_ruler = {
+        name = "阿尔伯特"
+        dynasty = "霍亨索伦"
+        adm = 2
+        dip = 0
+        mil = 2
+        fixed = yes
+        age = 35
+        claim = 95
+    }
+}
+
+EDG_BRA_DefineRuler_Frederick_effect = {
+    define_ruler = {
+        name = "腓特烈『救世主』"
+        dynasty = "霍亨索伦"
+        adm = 6
+        dip = 5
+        mil = 6
+        fixed = yes
+        age = 20
+        claim = 95
+    }
+}

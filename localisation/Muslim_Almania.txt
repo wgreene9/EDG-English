@@ -1,0 +1,105 @@
+﻿# graphical_culture = muslimgfx
+# color = {
+#   106
+#   38
+#   44
+# }
+# revolutionary_colors = {
+#   5
+#   0
+#   1
+# }
+# historical_idea_groups = {
+#   defensive_ideas
+#   maritime_ideas
+#   religious_ideas
+#   offensive_ideas
+#   trade_ideas
+#   economic_ideas
+#   spy_ideas
+#   diplomatic_ideas
+# }
+# historical_units = {
+#   persian_footsoldier
+#   persian_cavalry_charge
+#   persian_shamshir
+#   qizilbash_cavalry_unit
+#   tofongchis_musketeer
+#   topchis_artillery
+#   afsharid_reformed
+#   afsharid_reformed_infantry
+#   muslim_mass_infantry
+#   muslim_dragoon
+#   persian_rifle
+# }
+# monarch_names = {
+#   "ä¼æ¯æ¢å° #0" = 10  # Isma'il #0
+#   "è¨æä¸ è¾åè¿å¾· #0" = 10  # Saladin Ahmad #0
+#   "é¿åææ #0" = 10  # Abdallah #0
+#   "å¶æµ·äº #0" = 10  # Yahya #0
+#   "ä¼ç´ ç¦ #1" = 10  # Yusuf #1
+#   "è¨æèµ«ä¸ åç±³å° #0" = 10  # SalÃ¢h ad-Din 'Amir #0
+#   "é¿é #0" = 10  # 'AlÃ® #0
+#   "é¿åæå ç¦åå #0" = 10  # 'Abd al-WahhÃ¢b #0
+#   "ä¹çå° #0" = 10  # 'Umar #0
+#   "ç©å¡åå° #3" = 10  # al-Mutahhar #3
+#   "ç©ç½é»å¾· #0" = 10  # Muhammad #0
+#   "å¡è¥¿å§ #0" = 10  # al-QÃ¢sim #0
+#   "è¾åè¿å¾· #0" = 10  # Ahmad #0
+#   "ä¾¯èµå  #0" = 10  # al-Husayn #0
+#   "é¿å·´æ¯ #0" = 10  # al-'AbbÃ¢s #0
+#   "å¸å·´ #0" = -1  # Hiba #0
+#   "æ³èç #0" = -1  # Fatimah #0
+#   "ç¦å©è¾¾ #0" = -1  # Walida #0
+#   "å¡åå  #0" = -1  # Tahani #0
+#   "æ²æ³ #0" = -1  # Safaa  #0
+#   "å°è¾¾ #0" = -1  # Randa #0
+#   "ä¹ä¸é©¬å #0" = -1  # Qismah #0
+#   "é£è¿ªæ #0" = -1  # Nadirah #0
+#   "é©¬æ #0" = -1  # Maram #0
+#   "è±æ #0" = -1  # Layla #0
+#   "å¡ç±³æ #0" = -1  # Kamilah #0
+#   "è´¾ç¢§æ #0" = -1  # Jabirah #0
+#   "å¼æ¦ #0" = -1  # Hudun #0
+#   "æ³å¾·ç¦ #0" = -1  # Fadwa #0
+#   "è¾¾ä¸½é #0" = -1  # Daliyah #0
+#   "é¿ç±³æ #0" = -1  # Amirah #0
+#   "é¿ç¦å° #0" = -1  # Abal #0
+#   "çº³è¿ªäº #0" = -1  # Nadiyya #0
+#   "è¯ºæ #0" = -1  # Norah #0
+#   "æ³èµ«è¾¾ #0" = -1  # Fahda #0
+# }
+# leader_names = {
+#   "é¿é"  # Ali
+#   "æåææ¬£"  # Ibrahim
+#   "ä»¥æ"  # Issa
+#   "çº¦é©¬"  # Jomaa
+#   "åéé"  # Khalil
+#   "æ¼èå°"  # Mansour
+#   "è¨å¾·"  # Saad
+#   "æ²å§"  # Shammas
+#   "è¨å©èµ«"  # Saleh
+#   "è¨é¿å"  # Saab
+# }
+# ship_names = {
+#   "é¿é ä¼æ¬ æç´ å°"  # Ali ibn Rasul
+#   "æ¼èå° å¥¥é©¬å°"  # Mansur Umar
+#   "ææå¹"  # Zaizz
+#   "ææ¯å¾·"  # Zabid
+#   "ç©ææ³å° ä¼ç´ ç¦"  # Muzaffar Yusuf
+#   "é©¬å©å ç©éèµ«å¾·"  # Malik al-Mujahid
+#   "è°¢èµ« å¥¥æ¯æ¼"  # Shaykh Uthman
+#   "é¿åå¡ç¦å¾"  # Al-Kawd
+#   "ç¦åå¥æ"  # Whaqra
+#   "ç¦è¿ªå·´é£"  # Wadi Bana
+#   "å¡ä¼å¹"  # Ta'izz
+#   "é¿å¡åæ"  # At-Tubah
+#   "å¾·åå·´å¾·"  # Dhubab
+#   "åææ¢å±±"  # Jabal Kharaz
+#   "ç©è¨ä¼å°"  # Musaymir
+#   "é©¬ç»´äº"  # Mawiyah
+#   "åæ²å±±"  # Jabal al-Hasha
+#   "ä¼å"  # Ibb
+#   "åºå¡å·´"  # Qa'tabah
+#   "å¡çå°å±±"  # Jabal Thamar
+# }

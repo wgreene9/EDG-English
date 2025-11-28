@@ -1,0 +1,218 @@
+
+EDG_flavor_GSR_mission_2_a_effect = {
+	define_general = {
+	  name = "维耶科斯拉夫 布兰卡"
+	  fire = 3
+	  shock = 4
+	  manuever = 4
+	  siege = 3
+	}
+}
+EDG_flavor_GSR_mission_3_effect = {
+	define_heir = {
+		name = "奥比利奇"
+		dynasty = ROOT
+		claim = 95
+		adm = 4
+		dip = 5
+		mil = 4
+		age = 32
+	}
+}
+EDG_TUR_Salim_disaster_3_a_effect = {
+	define_ruler = {
+		name = "赛利姆 I 「冷酷者」"
+		dynasty = original_dynasty
+		claim = 95
+		adm = 6
+		dip = 6
+		mil = 6
+		age = 40
+	}
+	set_ruler_flag = EDG_TUR_sailimu_ruler_flag
+	add_ruler_personality = strict_personality
+}
+EDG_TUR_Salim_disaster_5_b_name_effect = {
+	define_ruler = {
+		name = "艾哈迈德 I"
+		dynasty = original_dynasty
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 4
+		age = 40
+	}
+}
+EDG_TUR_Salim_disaster_6_c_name_effect = {
+	define_ruler = {
+		name = "科尔库德 I"
+		dynasty = original_dynasty
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 2
+		age = 35
+	}
+	add_ruler_personality = pious_personality
+}
+EDG_flavor_TUR_37_a_name_effect = {
+	define_heir = {
+		name = "赛利姆 「酒鬼」"
+		monarch_name = "赛利姆 II 「酒鬼」"
+		dynasty = original_dynasty
+		claim = 95
+		adm = 4
+		dip = 4
+		mil = 3
+		age = 25
+	}
+	add_ruler_personality = drunkard_personality
+	set_heir_flag = _heir_flag = EDG_TUR_xuleimu_sons_heir_flag
+}
+EDG_flavor_TUR_38_a_name_effect = {
+	define_heir = {
+		name = "穆斯塔法"
+		dynasty = original_dynasty
+		claim = 95
+		adm = 5
+		dip = 4
+		mil = 6
+		age = 25
+	}
+	set_heir_flag = EDG_TUR_musitafa_heir_flag
+}
+EDG_flavor_TUR_40_a_name_effect = {
+	define_consort = {
+		name = "许蕾姆苏丹"
+		dynasty = "安娜斯塔西娅"
+		adm = 4
+		dip = 5
+		mil = 3
+		female = yes
+	}
+}
+EDG_flavor_TUR_43_A_effect = {
+	define_heir = {
+		name = "巴耶济德"
+		dynasty = original_dynasty
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 4
+		age = 25
+	}
+	set_heir_flag = EDG_TUR_xuleimu_bayejide_heir_flag
+	set_heir_flag = _heir_flag = EDG_TUR_xuleimu_sons_heir_flag
+}
+EDG_flavor_TUR_47_a_name_effect = {
+	define_heir = {
+		name = "穆斯塔法"
+		dynasty = original_dynasty
+		claim = 95
+		adm = 5
+		dip = 4
+		mil = 5
+		age = 30
+	}
+	set_heir_flag = EDG_TUR_musitafa_heir_flag
+}
+EDG_TUR_original_disaster_1_a_name_effect = {
+	define_heir = {
+		name = "艾哈迈德"
+		dynasty = original_dynasty
+		claim = 95
+		adm = 5
+		dip = 5
+		mil = 4
+		age = 15
+	}
+	set_heir_flag = EDG_TUR_aihamaide_first_heir_flag
+}
+EDG_TUR_original_disaster_2_a_name_effect = {
+	define_heir = {
+		name = "穆斯塔法"
+		dynasty = original_dynasty
+		claim = 95
+		adm = 0
+		dip = 0
+		mil = 0
+		age = 25
+	}
+	set_heir_flag = EDG_TUR_musitafa_first_heir_flag
+}
+EDG_TUR_original_disaster_3_a_name_effect = {
+	define_heir = {
+		name = "奥斯曼"
+		dynasty = original_dynasty
+		claim = 95
+		adm = 4
+		dip = 4
+		mil = 2
+		age = 15
+	}
+	set_heir_flag = EDG_TUR_musitafa_first_heir_flag
+}
+EDG_TUR_original_disaster_4_a_name_effect = {
+	define_heir = {
+		name = "穆拉德"
+		dynasty = original_dynasty
+		claim = 95
+		adm = 6
+		dip = 4
+		mil = 6
+		age = 11
+	}
+	set_heir_flag = EDG_TUR_mulade_forth_heir_flag
+}
+EDG_flavor_TUR_49_a_name_effect = {
+	define_advisor = {
+	  type = theologian
+	  culture = greek
+	  religion = orthodox
+	  name = "真纳迪乌斯"
+	  skill = 2
+	  cost_multiplier = 0.25
+	  culture = ROOT
+	}
+}
+EDG_flavor_TUR_57_a_name_effect = {
+	define_consort = {
+		name = "努尔巴努苏丹"
+		dynasty = "威尼亚-巴佛"
+		adm = 5
+		dip = 4
+		mil = 4
+		female = yes
+	}
+}
+EDG_flavor_TUR_59_a_name_effect = {
+	define_advisor = {
+	  type = army_reformer
+	  name = "鲁斯坦帕夏"
+	  skill = 3
+	  cost_multiplier = 0.25
+	  culture = ROOT
+	}
+}
+EDG_flavorFRA_48_a_effect = {
+	define_heir = {
+		name = "弗朗索瓦"
+		dynasty = original_dynasty
+		claim = 95
+		adm = 5
+		dip = 5
+		mil = 3
+		age = 4
+	}
+}
+EDG_flavorFRA_49_a_effect = {
+	define_heir = {
+		name = "路易"
+		dynasty = original_dynasty
+		claim = 95
+		adm = 6
+		dip = 5
+		mil = 6
+		age = 5
+	}
+}

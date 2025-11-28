@@ -1,0 +1,58 @@
+EDG_DMR_yanoro_enable = {
+	define_ruler = {
+		name = "亚诺罗「驾驭者」"
+		dynasty = "法焦尔"
+		adm = 6
+		dip = 5
+		mil = 6
+		age = 16
+		claim = 100
+		religion = ROOT
+		culture = ROOT
+	}
+	add_ruler_personality = EDG_personality_yanoro
+}
+
+EDG_DMR_andre_enable = {
+	define_ruler = {
+		name = "安德烈「归乡行者」"
+		dynasty = "法焦尔"
+		adm = 5
+		dip = 6
+		mil = 6
+		age = 22
+		claim = 100
+		religion = ROOT
+		culture = ROOT
+	}
+	add_ruler_personality = EDG_personality_andre
+}
+
+EDG_DMR_michy_enable = {
+	define_ruler = {
+		name = "米希「逆反者」"
+		dynasty = "法焦尔"
+		adm = 3
+		dip = 4
+		mil = 4
+		age = 16
+		claim = 20
+		religion = ROOT
+		culture = ROOT
+	}
+}
+
+EDG_DMR_alfie_enable = {
+	define_ruler = {
+		name = "阿尔菲「继业行者」"
+		dynasty = "法焦尔"
+		adm = 6
+		dip = 6
+		mil = 5
+		age = 20
+		claim = 100
+		religion = ROOT
+		culture = ROOT
+	}
+	add_ruler_personality = EDG_personality_alfie
+}

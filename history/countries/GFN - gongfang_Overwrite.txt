@@ -1,0 +1,13 @@
+1438.2.3 = {
+  monarch = {
+    name = "正武"  # Yoshinori
+    dynasty = "天皇"  # Ashikaga
+    birth_date = 1394.7.21
+    adm = 3
+    dip = 0
+    mil = 1
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = cruel_personality
+  add_ruler_personality = loose_lips_personality
+}

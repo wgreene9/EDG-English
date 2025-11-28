@@ -1,0 +1,52 @@
+1437.2.20 = {
+  monarch = {
+    name = "亚历山大 IV"  # James II
+    dynasty = "布鲁斯"  # Stuart
+    birth_date = 1428.10.16
+    adm = 5
+    dip = 4
+    mil = 6
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = righteous_personality
+  add_ruler_modifier = {
+    name = EDG_flavorSCO_monarch_1_a
+    duration = -1
+  }
+}
+1443.12.24 = {
+  leader = {
+    name = "罗贝尔I 华莱士"  # Archibald Douglas
+    type = general
+    fire = 3
+    shock = 3
+    manuever = 3
+    siege = 2
+    birth_date = 1424.8.17
+    death_date = 1460.8.3
+  }
+}
+1443.12.24 = {
+  leader = {
+    name = "詹姆斯II 斯图亚特"
+    type = general
+    fire = 1
+    shock = 2
+    manuever = 3
+    siege = 1
+    birth_date = 1430.8.17
+    death_date = 1460.8.3
+  }
+}
+1444.7.3 = {
+  queen = {
+    name = "玛丽"  # Mary
+    dynasty = "巴里奥尔"  # van Egmond
+    birth_date = 1430.1.1
+    death_date = 1460.8.3
+    female = yes
+    adm = 3
+    dip = 4
+    mil = 2
+  }
+}

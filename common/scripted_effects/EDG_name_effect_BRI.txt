@@ -1,0 +1,59 @@
+
+EDG_flavor_BRI_mission_28_a_consert_effect = {
+	define_consort = {
+		name = "让娜"
+		dynasty = "法拉"
+		adm = 2
+		dip = 4
+		mil = 1
+		age = 21
+		female = yes
+	}
+}
+EDG_flavor_BRI_mission_30_a_heir_effect = {
+	define_heir = {
+		name = "让娜"
+		dynasty = "德 蒙莫朗西-雷斯"
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 3
+		age = 1
+		female = yes
+	}
+	add_heir_personality = EDG_personality_BRI_black_rangna
+}
+EDG_flavor_BRI_mission_31_a_heir_effect = {
+	define_heir = {
+		name = "让娜"
+		dynasty = "德 蒙莫朗西-雷斯"
+		claim = 95
+		adm = 4
+		dip = 4
+		mil = 4
+		age = 10
+		female = yes
+	}
+	add_heir_personality = EDG_personality_BRI_black_rangna
+}
+EDG_flavor_BRI_mission_31_a_regency_effect = {
+	define_ruler = {
+		name = "弗朗索瓦 德 德勒"
+		adm = 3
+		dip = 4
+		mil = 4       
+		age = 40
+		fixed = yes
+		regency = yes	
+	}
+}
+EDG_flavor_BRI_mission_44_a_consert_effect = {
+	define_consort = {
+		name = "莱奥"
+		dynasty = "德 雷恩"
+		adm = 4
+		dip = 4
+		mil = 6
+		age = 18
+	}
+}

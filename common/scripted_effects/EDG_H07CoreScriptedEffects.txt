@@ -1,0 +1,17 @@
+EDG_H07_define_thomas_meissen = {
+	define_ruler = {
+		name = "托马斯·迈森"
+		male = yes
+		adm = 4
+		dip = 4
+		mil = 3
+		age = 35
+		religion = hussite
+	}
+	hidden_effect = {
+		set_ruler_flag = EDG_thomas_meisen_flag
+		add_ruler_personality = careful_personality
+		add_ruler_personality = kind_hearted_personality
+		add_ruler_personality = peasant_revolt_leader_personality
+	}
+}

@@ -1,0 +1,287 @@
+EDG_EDG_flavorPAP_Cesare_Borgia_effect = {
+    define_general = {
+      name = "切萨雷 波吉亚"  # Cesare Borgia
+      shock = 5
+      fire = 4
+      manuever = 4
+      siege = 3
+    }
+}
+EDG_flavor_age_ITA_education_18_effect = {
+  define_advisor = {
+    type = natural_scientist
+    name = "吉罗拉莫 卡尔达诺"
+    skill = 3
+    cost_multiplier = 0.25
+    culture = ROOT
+  }
+}
+EDG_flavor_age_ITA_education_19_effect = {
+  define_advisor = {
+    type = artist
+    name = "拉斐尔 桑西"
+    skill = 3
+    cost_multiplier = 0.25
+    culture = ROOT
+  }
+}
+EDG_flavor_age_ITA_education_20_effect = {
+  define_advisor = {
+    type = artist
+    name = "保罗 乌切洛"
+    skill = 3
+    cost_multiplier = 0.25
+    culture = ROOT
+  }
+}
+EDG_flavor_age_ITA_education_21_effect = {
+  define_advisor = {
+    type = architect
+    name = "吉贝尔蒂"
+    skill = 2
+    cost_multiplier = 0.25
+    culture = ROOT
+  }
+}
+
+EDG_flavorLER_1_effect = {
+  
+  define_ruler = {
+    change_adm = 1
+    change_dip = 2
+    change_mil = 6
+    name = "波列斯瓦夫 霍亨索伦"
+    claim = 100
+    culture = polish
+    age = 30
+  }
+}
+EDG_EDG_flavorHAB_1_effect = {
+	define_heir = {
+		name = "马克西米利安"
+		dynasty = ROOT
+		adm = 6
+		dip = 6
+		mil = 5
+		age = 1
+		claim = 95
+	}
+}
+EDG_EDG_flavorHAB_5_effect = {
+  define_advisor = {
+    type = artist
+    name = "丢勒"
+    skill = 3
+    cost_multiplier = 0.25
+    culture = ROOT
+  }
+}
+EDG_EDG_flavorMRK_11_a_general_effect = {
+  define_general = {
+    name = "穆罕默德 艾哈迈德 阿里"
+    shock = 3
+    fire = 4
+    manuever = 3
+    siege = 2
+  }
+}
+EDG_MRK_civil_war_1_event_5_a_effect = {
+  
+  define_ruler = {
+    adm = 4
+    dip = 2
+    mil = 6
+    name = "阿布 阿卜杜拉 加伊姆 I"
+    dynasty = "瓦塔斯"
+    claim = 100
+    culture = tunisian
+    age = 30
+  }
+}
+EDG_MRK_civil_war_1_event_6_a_effect = {
+  
+  define_ruler = {
+    adm = 4
+    dip = 2
+    mil = 6
+    name = "穆罕默德 I"
+    dynasty = "萨阿迪"
+    claim = 100
+    culture = moroccan
+    age = 30
+  }
+}
+EDG_flavor_BUL_5_a_general_effect = {
+  define_general = {
+    name = "伊万 斯特拉茨米尔"
+    shock = 3
+    fire = 3
+    manuever = 4
+    siege = 3
+  }
+}
+EDG_flavor_BUL_5_b_advisor_effect = {
+  define_advisor = {
+    type = artist
+    name = "伊万 斯特拉茨米尔"
+    skill = 3
+    cost_multiplier = 0.25
+    culture = ROOT
+  }
+}
+EDG_flavor_BUL_5_c_advisor_effect = {
+  define_advisor = {
+    type = statesman
+    name = "伊万 斯特拉茨米尔"
+    skill = 3
+    cost_multiplier = 0.25
+    culture = ROOT
+  }
+}
+EDG_EDG_flavor_BUL_9_a_effect = {
+  
+  define_ruler = {
+    adm = 3
+    dip = 2
+    mil = 4
+    name = "格奥尔基 哈奇康斯 I"
+    dynasty = ROOT
+    claim = 100
+    culture = ROOT
+    age = 23
+  }
+}
+EDG_EDG_flavor_BUL_7_a_effect = {
+  
+  define_heir = {
+    adm = 3
+    dip = 2
+    mil = 4
+    name = "格奥尔基 哈奇康斯"
+    dynasty = ROOT
+    claim = 100
+    culture = ROOT
+    age = 20
+    block_disinherit = yes
+  }
+}
+EDG_EDG_flavor_BUL_8_a_effect = {
+  define_ruler = {
+    adm = 6
+    dip = 5
+    mil = 6
+    name = "亚历山大 康斯坦丁 I"
+    dynasty = ROOT
+    claim = 100
+    culture = ROOT
+    age = 20
+  }
+}
+EDG_flavorFRA_2_a_effect = {
+  define_ruler = {
+    adm = 4
+    dip = 3
+    mil = 2
+    name = "约翰 III"
+    dynasty = "金雀花"
+    birth_date = 1425.4.29
+  }
+}
+EDG_flavorFRA_2_b_effect = {
+  define_heir = {
+    name = "约翰"
+    dynasty = ROOT
+    culture = english
+    claim = 95
+    adm = 4
+    dip = 3
+    mil = 2
+    age = 23
+  }
+}
+EDG_flavorSMO_1_a_effect = {
+	define_ruler = {
+	  name = "安东 彼得罗夫"
+		claim = 95
+		adm = 6
+		dip = 5
+		mil = 6
+		age = 20
+	}
+}
+EDG_flavorFRA_1_name_a_effect = {
+  define_consort = {
+    name = "让娜"
+    dynasty = "达克"
+    adm = 3
+    dip = 2
+    mil = 4
+    age = 34
+    female = yes
+    clear_scripted_personalities = yes
+	  add_ruler_personality = inspiring_leader_personality
+  }
+}
+EDG_flavorFRA_17_a_name_effect = {
+  define_advisor = {
+    type = innovator
+    name = "纪尧姆 比代"
+    skill = 3
+    cost_multiplier = 0.25
+    culture = ROOT
+  }
+}
+EDG_flavorFRA_18_a_name_effect = {
+  define_advisor = {
+    type = artist
+    name = "弗朗索瓦 拉伯雷"
+    skill = 3
+    cost_multiplier = 0.25
+    culture = ROOT
+  }
+}
+EDG_flavorFRA_20_a_name_effect = {
+  define_advisor = {
+    type = artist
+    name = "蒙泰涅 米歇尔"
+    skill = 3
+    cost_multiplier = 0.25
+    culture = ROOT
+  }
+}
+EDG_flavorFRA_31_a_name_effect = {
+  define_advisor = {
+    type = philosopher
+    name = "勒内 笛卡尔"
+    skill = 3
+    cost_multiplier = 0.25
+    culture = ROOT
+  }
+}
+EDG_flavorFRA_34_a_name_effect = {
+  define_advisor = {
+    type = artist
+    name = "皮埃尔 高乃依"
+    skill = 3
+    cost_multiplier = 0.25
+    culture = ROOT
+  }
+}
+EDG_flavorFRA_35_a_name_effect = {
+  define_advisor = {
+    type = artist
+    name = "让 拉辛"
+    skill = 3
+    cost_multiplier = 0.25
+    culture = ROOT
+  }
+}
+EDG_flavorFRA_36_a_name_effect = {
+  define_advisor = {
+    type = artist
+    name = "让·德·拉·封丹"
+    skill = 3
+    cost_multiplier = 0.25
+    culture = ROOT
+  }
+}

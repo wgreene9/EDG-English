@@ -1,0 +1,10 @@
+1439.1.1 = {
+  monarch = {
+    name = "彦缙"  # Qara Yusuf
+    dynasty = "王"  # duan
+    birth_date = 1397.1.1
+    adm = 1
+    dip = 1
+    mil = 0
+  }
+}

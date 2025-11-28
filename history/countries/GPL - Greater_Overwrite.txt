@@ -1,0 +1,21 @@
+1444.10.1 = {
+  set_estate_privilege = estate_nobles_golden_liberty
+}
+1421.6.25 = {
+  monarch = {
+    name = "谢莫梅斯乌 III"  # Kazimierz IV
+    dynasty = "奥莱西尼茨基"  # Jagiellon
+    birth_date = 1400.11.30
+    adm = 4
+    dip = 4
+    mil = 1
+  }
+  heir = {
+    name = "兹比格涅夫"  # Kazimierz IV
+    dynasty = "奥莱西尼茨基"  # Jagiellon
+    birth_date = 1444.11.30
+    adm = 2
+    dip = 1
+    mil = 5
+  }
+}

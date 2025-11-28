@@ -1,0 +1,134 @@
+﻿l_english:
+ EDG_IRE_mission_3_1_title:0 "风雨预来"
+ EDG_IRE_mission_3_1_desc:0 "自从帕特里克统一爱尔兰并加冕为爱尔兰至高王以来，那群自以为是的贵族就不再听从至高王的命令，转而开始各自为政并在过去的时间内不断的公开反对至高王的政策，随着至高王与他们的冲突不断升级，一场席卷整个爱尔兰的大叛乱也迫在眉睫，而在此之前我们必须先处理好外部的事务。"
+ EDG_IRE_mission_3_1.effect.tt:0 "我们将与所有的§Y宿敌§!签订§T停战协定§!\n"
+
+ EDG_IRE_mission_3_2_title:0 "函矢相攻"
+ EDG_IRE_mission_3_2_desc:0 "那群自以为是的大贵族已经对至高王失去耐心并揭竿而起了！我们必须让他们认识到自己的地位，不论是以何种方式，我们都需要让他们冷静下来并让他们意识到，圆桌上只有一样不可或缺的东西！"
+
+ EDG_IRE_mission_3_3_title:0 "平稳航行"
+ EDG_IRE_mission_3_3_desc:0 "叛乱终于被粉碎了，是时候让一切回归正轨了！"
+ EDG_IRE_mission_3_3.condition.tt:0 "§Y爱尔兰内战§!已经结束"
+ EDG_IRE_mission_3_3.monarchy.tt:0 "我们所拥有的所有省份失去§Y10§!自治度\n"
+ EDG_IRE_mission_3_3.effect.tt:0 "该任务§T奖励§!取决于我们结束§Y爱尔兰内战§!时做出的§T选择§!\n"
+ EDG_IRE_mission_remove_core.effect.tt:0 "消去§Y爱尔兰岛§!地区所有§Y其他国家§!的§T核心§!\n"
+
+ EDG_IRE_mission_3_4_title:0 "离心离德"
+ EDG_IRE_mission_3_4_desc:0 "苏格兰王国与爱尔兰王国渊源颇深，但却最后走到了这一步。长久以来的的冲突使得我们不可能再与他们称兄道弟，虽然我们的实力仍在苏格兰与英格兰王国之下，但他们也绝不可能轻易的再次征服爱尔兰！同时考虑到现在我们的首都十分靠近前线，因此我们需要考虑迁都或者加固我们首都。"
+ EDG_IRE_mission_3_4.condition.tt:0 "当§Y[4121.GetName]§!是@IRE§Y[Root.GetName]§!的§T首都§!时，将会触发事件§T「阿尔斯特会议」§!\n"
+ EDG_IRE_mission_3_4_fort.effect.tt:0 "若§Y[4378.GetName]§!拥有§T城堡§!且§Y[4121.GetName]§!没有§T城堡§!，则将§Y[4378.GetName]§!省份的城堡§T移动§!到§Y[4121.GetName]§!\n"
+
+ EDG_IRE_mission_3_5_title:0 "兵行险着"
+ EDG_IRE_mission_3_5_desc:0 "想要正面击败苏格兰王国是十分困难是事情，但我们所面临的困境也不允许我们再寻求他法，唯有主动的进攻才能够打破现在的僵局！"
+ EDG_IRE_mission_3_5.condition.tt:0 "该任务的§Y额外条件§!取决于我们在事件§T「伦斯特联合」§!当中的选择"
+ EDG_IRE_mission_3_5_event.effect.tt:0 "当@SCO§Y[SCO.GetName]§!存在时，将会触发事件§T「跨过爱尔兰海」§!\n"
+
+ EDG_IRE_mission_3_7_title:0 "坚毅咏叹调"
+ EDG_IRE_mission_3_7_desc:0 "战争的初步胜利不代表着我们能够掉以轻心，稳步向阿尔比恩腹地推进才是最明智的选择。"
+
+ EDG_IRE_mission_3_6_title:0 "风琴悠扬"
+ EDG_IRE_mission_3_6_desc:0 "一场酣畅淋漓的大胜！我们击败了苏格兰人，接下来该轮到我们演奏属于自己的乐曲了！"
+ EDG_IRE_mission_3_6.event.effect.tt:0 "当@SCO§Y[SCO.GetName]§!§T不存在§!且我们拥有省份§Y[248.GetName]§!时，将会触发事件§T「苏格兰王冠」§!\n"
+ EDG_IRE_mission_3_6.give_cb_annex.effect.tt:0 "当@ENG§Y[ENG.GetName]§!存在时，我们将获得针对@ENG§Y[ENG.GetName]§!的§T吞并§!战争借口\n"
+
+ EDG_IRE_mission_3_8_title:0 "狂想终乐章"
+ EDG_IRE_mission_3_8_desc:0 "盎格鲁-撒克逊人的时代彻底结束了，现在只有我们，爱尔兰至高王才是阿尔比恩唯一的国王！"
+ EDG_IRE_mission_3_8.event.tt:0 "当@ENG§Y[ENG.GetName]§!§T不存在§!且我们拥有省份§Y[236.GetName]§!，将会触发事件§T「英格兰王冠」§!\n"
+
+ EDG_IRE_mission_3_9_title:0 "翡翠之岛"
+ EDG_IRE_mission_3_9_desc:0 "翡翠之岛，阿尔比恩之下的明珠，他将在我们的统治之下依旧闪耀，熠熠生辉，并在之后的岁月当中焕发勃勃生机..."
+
+ EDG_IRE_mission_3_10_title:0 "奏响阿尔比恩"
+ EDG_IRE_mission_3_10_desc:0 "从艰难求存到统一整个群岛，我们的丰功伟绩必将被后世吟游诗人所吟咏连绵千年。让我们高声演奏，以最为热烈的庆典迎来群岛的新生，而管风琴将奏响这群岛最为优雅与古老的名称—阿尔比恩！"
+ EDG_IRE_mission_3_10.effect.tt:0 "成立@ABN§Y[ABN.GetName]§!§Y不再要求§!§T行政科技§!等级\n"
+ EDG_IRE_mission_3_10.new.effect.tt:0 "由于我们§Y同时拥有§!修正§T「苏格兰王冠」§!,§T「英格兰王冠」§!,§T「爱尔兰王冠」§!，成立@ABN§Y[ABN.GetName]§!时我们将触发事件§T「阿尔斯特联合」§!\n"
+ EDG_IRE_mission_3_10.event.effect.tt:0 "完成该任务时如果我们§Y同时拥有§!修正§T「苏格兰王冠」§!,§T「英格兰王冠」§!,§T「爱尔兰王冠」§!，则成立@ABN§Y[ABN.GetName]§!时，将触发事件§T「阿尔斯特联合」§!\n"
+
+
+ EDG_IRE_mission_1_1_title:0 "彼岸之音"
+ EDG_IRE_mission_1_1_desc:0 "苏格兰与英格兰对我们虎视眈眈，而由于我们长期相对孤立的地理位置，其他国家对我们的外交并无多少兴趣。不过在我们对岸的威尔士王国与布列塔尼公国与我们拥有着相同的传承，并且都面临着相同的危机：威尔士王国的处境与我们类似，同时被夹在苏格兰与英格兰之间，而布列塔尼公国则面临着法兰西的威胁。值此时刻，我们有必要相互帮扶，共度难关。"
+ EDG_IRE_mission_1_1.effect.tt:0 "根据我们同@WLS§Y威尔士§!与@BRI§Y布列塔尼§!的§T同盟§!来获得§T不同§!的§Y奖励§!\n"
+ EDG_IRE_mission_1_1.remove_rival_effect.tt:0 "如若@WLS§Y威尔士§!或@BRI§Y布列塔尼§!视我们为§T宿敌§!，§Y移除§!他们对我们的§T宿敌§!\n"
+
+ EDG_IRE_mission_1_2_title:0 "沙上建塔"
+ EDG_IRE_mission_1_2_desc:0 "尽管威尔士目前还是处于较为独立的状态，但其在未来必然将在英格兰与苏格兰之间进行选择，如果我们给予他们第三种选择，那么局势将走向更加复杂的情景，而这也是我们所愿意看到的。"
+ EDG_IRE_mission_1_2_create_alliance.effect.tt:0 "\n在@WLS§Y威尔士§!与@BRI§Y布列塔尼§!当中，§Y每一个§!未与我们处于§T同盟§!的国家将会花费我们§Y50§!£dip£与其§T结盟§!\n"
+ EDG_IRE_mission_1_2_remove_rival.effect.tt:0 "\n如果@WLS§Y威尔士§!与@BRI§Y布列塔尼§!中有其中一方视对方为§T宿敌§!，则§Y移除§!双方的§T宿敌关系§!\n"
+
+ EDG_IRE_mission_1_4_title:0 "至高卫队"
+ EDG_IRE_mission_1_4_desc:0 "在过去，费奥纳勇士是爱尔兰最高国王的卫士，年轻的战士成为一名费奥纳的勇士将会是一件非常荣耀的事，但真正能入选却十分困难。费奥纳勇士出身大都良好，这样的人在之后的时代里被称为骑士阶层，其成员中有不少是现任部族首领或未来的继承人。而现在我们也将开始重新选拔这些勇士，组建起一支精锐的部队来带保护至高王或带领其他部队上阵杀敌。"
+ EDG_IRE_mission_1_4.effect.tt:0 "我们将能雇佣一队§Y特殊佣兵§!§T费奥纳骑士团§!\n"
+
+ EDG_IRE_mission_1_7_title:0 "英雄赞美诗"
+ EDG_IRE_mission_1_7_desc:0 "让我们高声赞颂那些勇猛无畏的英雄！正是他们带领着爱尔兰的军队走向新的胜利！"
+ EDG_IRE_mission_1_7.effect.tt:0 "如果我们§Y完成§!了任务§T「过去与未来」§!，§Y威塞克斯§!地区的§T文化§!将会转换为§Y康沃尔§!并获得§Y1§!§T基础人力§!\n"
+
+ EDG_IRE_mission_1_9_title:0 "重拾旧梦"
+ EDG_IRE_mission_1_9_desc:0 "让我们唤起民众内心的旧梦，怀揣着一个民族热切的期盼，拾取我们曾经失去的荣耀迈向未来！"
+ EDG_IRE_mission_1_9.event.effect.tt:0 "当@BRI§Y布列塔尼§!是我们的§Y属国§!时，将会触发事件§T「大不列颠与小不列颠」§!\n"
+
+ EDG_IRE_mission_5_1_title:0 "森林之心"
+ EDG_IRE_mission_5_1_desc:0 "爱尔兰半岛的资源并不丰富，我们必须充分的利用这座不算富饶的岛屿上为数不多的资源，而我们最多的便是那一眼望不到头的木材了。"
+ EDG_IRE_mission_5_1.effect.tt:0 "所有处于§Y爱尔兰岛§!地区且地形为§T树林§!的省份获得§Y1§!§T基础生产§!\n"
+
+ EDG_IRE_mission_5_2_title:0 "牧人与牛"
+ EDG_IRE_mission_5_2_desc:0 "爱尔兰的气氛十分适合牧草的生长，因此重振牧民门的养殖场将能够有效缓解我们的经济状况，并为其他产业的发展铺好道路。"
+ EDG_IRE_mission_5_2.effect.tt:0 "从§Y爱尔兰岛§!地区产出§T牲畜§!的省份"
+
+ EDG_IRE_mission_5_4_title:0 "苍翠舰队"
+ EDG_IRE_mission_5_4_desc:0 "我们的海军并没有苏格兰与英格兰那么强大，不过就此因噎废食也是不可取的，唯有从头开始慢慢积累，来日方长。"
+
+ EDG_IRE_mission_5_7_title:0 "迅捷奏鸣曲"
+ EDG_IRE_mission_5_7_desc:0 "乘着士气高涨，我们理应继续向着阿尔比恩的各个角落进军，以摧枯拉朽之势彻底扫清那群不堪一击的敌人！"
+ EDG_IRE_mission_5_7.vassal_effect.tt:0 "当我们通过§Y外交手段§!完成该任务时，全部§Y英格兰自由市§!与@NFK§Y[NFK.GetName]§!将会触发事件§T「自治公约」§!，允许我们§T和平附庸§!上述国家\n\n当我们通过§Y征服手段§!完成该任务时，将会触发事件§T「罗拉德委员会」§!\n"
+
+ EDG_IRE_mission_5_9_title:0 "跟随本心"
+ EDG_IRE_mission_5_9_desc:0 "让我们跟随人民的选择，以此铺就继续向前的道路，不论信仰如何，爱尔兰也将伴随琴声步入未来。"
+ EDG_IRE_mission_5_9.effect.tt:0 "根据我们所启用§T理念组§!的不同来获得§Y不同奖励§!\n"
+
+ EDG_IRE_mission_4_3_title:0 "哺育人民"
+ EDG_IRE_mission_4_3_desc:0 "过去的爱尔兰经常遇到饥荒从而叛乱四起，而在大力发展了农牧业之后，人民终于能够暂时的免去饥荒之苦。"
+ EDG_IRE_mission_4_3.effect.tt:0 "§Y爱尔兰岛§!地区都将获得§T上述修正§!，同时获得§Y1§!§T基础税收§!与§Y1§!§T基础人力§!\n"
+
+ EDG_IRE_mission_4_2_title:0 "经济基础"
+ EDG_IRE_mission_4_2_desc:0 "农业是发展一切的基石，虽然翡翠之岛的耕地并不多，但为了从过去的各种饥荒与灾难当中恢复，我们必须大力发展我们有限的农业。"
+
+
+ EDG_IRE_mission_4_6_title:0 "舟卷狂潮"
+ EDG_IRE_mission_4_6_desc:0 "在击败苏格兰之后，我们的渔业得以向北继续扩张，不必再担忧他们的刁难了。"
+ EDG_IRE_mission_4_6.event.effect.tt:0 "@NOR§Y[NOR.GetName]§!拥有省份§Y[369.GetName]§!时，将会触发事件§T「购买奥克尼」§!"
+
+ EDG_IRE_mission_4_8_title:0 "传统与变革"
+ EDG_IRE_mission_4_8_desc:0 "基督教的传入使得爱尔兰从部落时期向封建化转变，但随着时间的推移，即便守旧如海岛基督教的某些教义，也会认清罗马教廷之后那腐败的面目，我们必须在新的时代做出属于我们的选择。"
+ EDG_IRE_mission_4_8.effect.tt:0 "我们所有的§Y属国§!都将皈依我们的§T国教§!\n"
+
+
+ EDG_IRE_mission_4_10_title:0 "续写新的篇章"
+ EDG_IRE_mission_4_10_desc:0 "道路已然明了，让我们张开怀抱，怀揣着虔诚与热诚向着未来前进，继续书写属于我们的传奇篇章。"
+ EDG_IRE_mission_4_10.effect.tt:0 "根据我们完成§T任务条件§!的不同来获得§Y不同奖励§!\n"
+
+
+ EDG_IRE_mission_2_2_title:0 "塔上层沙"
+ EDG_IRE_mission_2_2_desc:0 "布列塔尼公国一直都受到法兰西的威胁，而苏格兰与法兰西的“老同盟”使得我们能够有充足的理由提出与布列塔尼公国的盟约——我们制衡苏格兰，他们面对法兰西。"
+ EDG_IRE_mission_2_2.fra.condition.tt:0 "通过§Y改善关系§!至少获得了与@FRA§Y[FRA.GetName]§!§T50§!的关系提升"
+ EDG_IRE_mission_2_2.eng.condition.tt:0 "通过§Y改善关系§!至少获得了与@ENG§Y[ENG.GetName]§!§T50§!的关系提升"
+
+ EDG_IRE_mission_2_3_title:0 "利益之盟"
+ EDG_IRE_mission_2_3_desc:0 "一个不稳固的三角联盟就此在海上形成，尽管利益会导致盟约遭到一系列的背叛与离弃，但同时他也能够快速团结起任何有生力量。"
+ EDG_IRE_mission_2_3.effect.tt:0 "当我们同时和@WLS§Y威尔士§!与@BRI§Y布列塔尼§!处于§T同盟§!状态时，将会触发事件§T「伦斯特联合」§!\n"
+ EDG_IRE_mission_2_3_break_effect.tt:0 "当@SCO§Y苏格兰§!与@WLS§Y威尔士§!或@BRI§Y布列塔尼§!处于§T同盟§!状态时，将移除@SCO§Y苏格兰§!与@WLS§Y威尔士§!或@BRI§Y布列塔尼§!的§T盟约§!\n"
+
+ EDG_IRE_mission_2_6_title:0 "破矩之舞"
+ EDG_IRE_mission_2_6_desc:0 "我们已经向其他人证明了自己，苏格兰并非不可战胜的，现在轮到他们证明自己了！"
+ EDG_IRE_mission_2_6.condition.tt:0 "该任务的§Y额外条件§!取决于我们在事件§T「伦斯特联合」§!当中的选择"
+ EDG_IRE_mission_2_6.effect.tt:0 "触发事件§T「伦斯特联合」§!之后，当@WLS§Y威尔士§!或@BRI§Y布列塔尼§!存在且是§Y独立国家§!并与我们处于§T同盟§!状态时，将会触发事件§T「联合条例」§!\n"
+
+ EDG_IRE_mission_2_8_title:0 "过去与未来"
+ EDG_IRE_mission_2_8_desc:0 "过去的凯尔特人足迹遍布整个欧洲，还有部分抵达了安纳托利亚半岛；而现在，散落在各地的凯尔特人已寥寥无几，或屈居于角落之上，或消失殆尽。也许我们需要一次变革，唤起人民我们过去的荣耀。"
+ EDG_IRE_mission_2_8.event.effect.tt:0 "当苏格兰不存在时，将会触发事件§T「大凯尔特主义」§!\n"
+
+ EDG_IRE_mission_2_10_title:0 "描绘大凯尔特"
+ EDG_IRE_mission_2_10_desc:0 "未来是一张空白的画卷，爱尔兰则是画手，过去的种种传奇与荣誉都将被我们在未来一一描绘。"
+ EDG_IRE_mission_2_10.effect.tt:0 "所有处于§T凯尔特§!文化组的§Y省份§!都将获得上述§Y修正§!，并获得§Y2§!§T基础生产§!\n"
+
+

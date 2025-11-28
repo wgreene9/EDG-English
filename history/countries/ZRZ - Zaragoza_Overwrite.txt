@@ -1,0 +1,10 @@
+1426.5.19 = {
+  monarch = {
+    name = "卡莱斯 III"  # MartÃ­ I
+    dynasty = "德 卡布雷拉"  # d'AragÃ³
+	birth_date = 1398.1.1
+    adm = 1
+    dip = 2
+    mil = 2
+  }
+}

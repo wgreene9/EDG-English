@@ -1,0 +1,17 @@
+1395.8.29 = {
+  monarch = {
+    name = "恩斯特 IV"  # Albrecht IV
+    dynasty = "冯 巴本堡"  # von Habsburg
+	  birth_date = 1385.8.10
+    adm = 3
+    dip = 2
+    mil = 1
+  }
+  
+  add_ruler_modifier = {
+    name = EDG_Infertile_ruler_modifier
+  }
+  add_ruler_modifier = {
+    name = EDG_short_lived_ruler_modifier_2
+  }
+}

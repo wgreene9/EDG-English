@@ -1,0 +1,10 @@
+1440.1.1 = {
+  monarch = {
+    name = "阁"  # Ko Cheng
+    dynasty = "黄"  # Cham
+    birth_date = 1420.1.1
+    adm = 1
+    dip = 0
+    mil = 1
+  }
+}
