@@ -6,8 +6,8 @@
 		value = 0
 	}
 	monarch = {
-		name = "鲁道夫 III"
-		dynasty = "冯 韦尔夫"
+		name = "Rudolph III"
+		dynasty = "von Welf"
 		birth_date = 1401.1.1
 		dip = 3
 		adm = 2
@@ -16,9 +16,9 @@
 }
 1444.1.1 = {
 	heir = {
-		name = "阿尔伯特"
-		monarch_name = "阿尔伯特 III"
-		dynasty = "冯 韦尔夫"
+		name = "Albrecht"
+		monarch_name = "Albrecht III"
+		dynasty = "von Welf"
 		birth_date = 1425.1.1
 		death_date = 1453.11.12
 		claim = 95

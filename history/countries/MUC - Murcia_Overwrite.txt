@@ -1,6 +1,6 @@
 1442.1.1 = {
   leader = {
-    name = "伊克巴尔 马林"
+    name = "Iqbal Marinid"
     type = general
     fire = 3
     shock = 3
@@ -11,8 +11,8 @@
 }
 1444.1.1 = {
   monarch = {
-    name = "胡姆 III"
-    dynasty = "玛尔达尼什"
+    name = "Hum III"
+    dynasty = "Mardanish"
 	birth_date = 1420.1.1
     death_date = 1453.5.29
     adm = 4
@@ -22,9 +22,9 @@
 }
 1444.1.1 = {
   heir = {
-    name = "朱奈德"
-	monarch_name = "朱奈德 I"
-    dynasty = "玛尔达尼什"
+    name = "Junayd"
+	monarch_name = "Junayd I"
+    dynasty = "Mardanish"
     birth_date = 1444.1.1
     death_date = 1453.5.29
     claim = 45

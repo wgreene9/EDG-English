@@ -39,98 +39,71 @@ historical_units = {
   napoleonic_lancers
 }
 monarch_names = {
-  "죯½u뿯½ 格奥尔格 #0" = 80  # Johann Georg #0
-  "¿½特뿯½p #0" = 60  # Friedrich #0
-  "¿½特뿯½p 奥뿯½S뿯½e特 #0" = 60  # Friedrich August #0
-  "¿½尔布뿯½ï¿½希特 #3" = 40  # Albrecht #3
-  "克里뿯½e뿯½ï¿½죯½R #0" = 40  # Christian #0
-  "海뿯½V里希 #4" = 20  # Heinrich #4
-  "뿯½ï¿½¿½夫 #2" = 20  # Rudolf #2
-  "奥뿯½S뿯½e特 #0" = 20  # August #0
-  "恩뿯½e特 #0" = 20  # Ernst #0
-  "¿½特뿯½p 克里뿯½e뿯½c죯½R #0" = 20  # Friedrich Christian #0
-  "格奥尔格 #0" = 20  # Georg #0
-  "뿯½ï¿½里¿½ #0" = 20  # Moritz #0
-  "뿯½N뿯½S山大 #0" = 15  # Alexander #0
-  "죯½R东 #0" = 15  # Anton #0
-  "克里뿯½e뿯½ï¿½죯½R ¿½尔布뿯½ï¿½希特 #0" = 15  # Christian Albrecht #0
-  "¿½克托 #0" = 15  # Hektor #0
-  "죯½u뿯½ #0" = 15  # Johann #0
-  "卡尔 #0" = 15  # Karl #0
-  "克뿯½ï¿½뿯½뿯½e 뿯½e策尔 #0" = 10  # Clemens Wenzel #0
-  "弗朗¿½ 克¿½뿯½尔 #0" = 10  # Franz Xaver #0
-  "죯½u¿½希뿯½Y #0" = 10  # Joachim #0
-  "죯½u瑟夫 #0" = 10  # Joseph #0
-  "¿½格뿯½R뿯½e #0" = 10  # Magnus #0
-  "¿½克¿½米利죯½R #0" = 10  # Maximilian #0
-  "뿯½l뿯½里乌뿯½e #0" = 10  # Severinus #0
-  "뿯½l尔夫뿯½Q #0" = 10  # Wolfgang #0
-  "¿½尔弗뿯½ï¿½죯½V #0" = 0  # Alfred #0
-  "죯½R죯½V뿯½p뿯½N뿯½e #0" = 0  # Andreas #0
-  "布뿯½ï¿½뿯½ï¿½ #0" = 0  # Bruno #0
-  "布克뿯½T죯½V #0" = 0  # Burkhard #0
-  "뿯½Q瑟 #0" = 0  # Gï¿½nther #0
-  "¿½尔뿯½f #0" = 0  # Hermann #0
-  "卡耶坦 #0" = 0  # Kajetan #0
-  "兰伯特 #0" = 0  # Lambert #0
-  "卢卡뿯½e #0" = 0  # Lukas #0
-  "米夏尔 #0" = 0  # Micharl #0
-  "뿯½ï¿½뿯½ï¿½죯½V #0" = 0  # Reimund #0
-  "乌尔里希 #0" = 0  # Ulrich #0
-  "죯½u尔弗里죯½V #0" = 0  # Wilfried #0
-  "뿯½l尔弗뿯½b뿯½Y #0" = 0  # Wolfram #0
-  "¿½뿯½s뿯½ï¿½娅 #0" = -1  # Amalia #0
-  "뿯½k죯½R卡 #0" = -1  # Bianka #0
-  "뿯½W뿯½ï¿½奥뿯½ï¿½뿯½b #0" = -1  # Eleonora #0
+	"Johann Georg #0" = 80
+	"Friedrich #0" = 60
+	"Friedrich August #0" = 60
+	"Albrecht #3" = 40
+	"Christian #0" = 40
+	"Heinrich #4" = 20
+	"Rudolf #2" = 20
+	"August #0" = 20
+	"Ernst #0" = 20
+	"Friedrich Christian #0" = 20
+	"Georg #0" = 20
+	"Moritz #0" = 20
+	"Alexander #0" = 15
+	"Anton #0" = 15
+	"Christian Albrecht #0" = 15
+	"Hektor #0" = 15
+	"Johann #0" = 15
+	"Karl #0" = 15
+	"Clemens Wenzel #0" = 10
+	"Franz Xaver #0" = 10
+	"Joachim #0" = 10
+	"Joseph #0" = 10
+	"Magnus #0" = 10
+	"Maximilian #0" = 10
+	"Severinus #0" = 10
+	"Wolfgang #0" = 10
+	"Alfred #0" = 0
+	"Andreas #0" = 0
+	"Bruno #0" = 0
+	"Burkhard #0" = 0
+	"G�nther #0" = 0
+	"Hermann #0" = 0
+	"Kajetan #0" = 0
+	"Lambert #0" = 0
+	"Lukas #0" = 0
+	"Micharl #0" = 0
+	"Reimund #0" = 0
+	"Ulrich #0" = 0
+	"Wilfried #0" = 0
+	"Wolfram #0" = 0
+	
+	"Amalia #0" = -1
+	"Bianka #0" = -1
+	"Eleonora #0" = -1
 }
+
 leader_names = {
-  "¿½格뿯½l尔"  # Hergesell
-  "奥뿯½W尔뿯½e죯½u"  # Oelssner
-  "兰克"  # Rank
-  "뿯½l克뿯½f"  # Teichmann
-  "¿½特"  # Taut
-  "뿯½T尔¿½"  # Harzer
-  "뿯½뿯½l"  # Dietze
-  "特利希"  # Tellig
-  "匹뿯½S兹"  # Pilz
-  "温克뿯½R尔"  # Winkler
-  "乌利希"  # Uhlich
-  "尤뿯½k高"  # Uebigau
-  "克兰克"  # Kranke
-  "뿯½k伯"  # Bieber
-  "뿯½Q 뿯½b特"  # von Rath
-  "¿½尔尼뿯½Y"  # Arnim
-  "뿯½T뿯½f"  # Hamann
-  "뿯½y죯½T¿½"  # Kirbach
-  "뿯½T죯½V尔"  # Gï¿½del
-  "뿯½S特尔"  # Oertel
-  "¿½恩뿯½尔죯½V"  # Schï¿½nfeld
-  "죯½V¿½"  # Deitz
-  "뿯½^恩"  # Kuhn
-  "塞뿯½Y"  # Sehm
-  "¿½¿½尔"  # Fischer
-  "布뿯½ï¿½特¿½죯½V"  # Bretfeld
-  "뿯½b布"  # Rabs
+	Hergesell Oelssner Rank Teichmann Taut
+	Harzer Dietze Tellig Pilz Winkler Uhlich
+	Uebigau Kranke Bieber "von Rath" Arnim
+	Hamann Kirbach G�del Oertel Sch�nfeld
+	Deitz Kuhn Sehm Fischer Bretfeld Rabs
 }
+
 ship_names = {
-  "죯½u杜金죯½V"  # Widukind
-  "뿯½W죯½V博格"  # Edberg
-  "威克뿯½f"  # Wichman
-  "뿯½k뿯½g"  # Billing
-  "利多夫"  # Liedolf
-  "布伦"  # Brun
-  "奥托 I"  # Otto I
-  "海뿯½V里希一世"  # Heinrich I
-  "伯恩뿯½T죯½V一世"  # Bernhard I
-  "奥多夫"  # Ordulf
-  "¿½뿯½R뿯½e"  # Manus
-  "洛塔尔"  # Lothar
-  "海뿯½V里希뿯½N世"  # Heinrich II
+	Widukind Edberg Wichman Billing Liedolf
+	Brun "Otto I" "Heinrich I" "Bernhard I"
+	Ordulf Manus Lothar "Heinrich II"
 }
+
+
 army_names = {
-  "¿½帝뿯½O近卫¿½"  # Kurfï¿½rstliche Garde
-  "$PROVINCE$뿯½Q"  # Armee von $PROVINCE$
+	"Kurf�rstliche Garde" "Armee von $PROVINCE$" 
 }
+
 fleet_names = {
-  "¿½帝뿯½O¿½¿½"  # Kurfï¿½rstliche Flotte
+	"Kurf�rstliche Flotte"
 }

@@ -1,4 +1,4 @@
-name = "东北罗斯内战"
+name = "Northeast Rus' Civil War"
 war_goal = {
   type = take_capital_personal_union
   casus_belli = cb_restore_personal_union

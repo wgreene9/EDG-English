@@ -38,32 +38,22 @@ historical_units = {
   napoleonic_lancers
 }
 monarch_names = {
-  "路易 #10" = 160  # Louis #10
-  "查尔斯 #5" = 80  # Charles #5
-  "亨利 #1" = 60  # Henri #1
-  "弗朗索瓦 #0" = 40  # 
-  "菲利普 #6" = 10  # Philippe #6
+	"Louis #10" = 160
+	"Charles #5" = 80
+	"Henri #1" = 60
+	"Fran�ois #0" = 40
+	"Philippe #6" = 10
 
 }
 leader_names = {
-  "伯努维"  # de Bonneuil
-  "博斯克"  # du Bosquet
-  "布立吞"  # 
-  "勃热"  # de Broglie
+  "de Bonneuil" "du Bosquet" "de la Bretonni�re" "de Broglie"
 }
 ship_names = {
-  "比斯开海军上将"  # Amiral de Biscaye
-  "马琳骑兵"  # Cheval Marin
-  "波尔多权威"  # Commerce de Bordeaux
+  "Amiral de Biscaye" "Cheval Marin" "Commerce de Bordeaux"
 }
 army_names = {
-  "皇家"  # royale
-  "法兰德"  # des Flandres
-  "诺德"  # du Nord
-  "勒埃"  # de l'Est
-  "热拉"  #  du Jura
+  "Arm�e royale" "Arm�e des Flandres" "Arm�e du Nord" "Arm�e de l'Est" "Arm�e du Jura"
 }
 fleet_names = {
-  "第一舰队"  # Escadre de la Manche
-  "大西洋舰队"  # Escadre de l'Atlantique
+  "Escadre de la Manche" "Escadre de l'Atlantique"
 }

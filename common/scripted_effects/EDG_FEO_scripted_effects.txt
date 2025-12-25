@@ -2,7 +2,7 @@ EDG_FEO_add_heir = {
 	define_heir = {
 		female = yes
 		dynasty = ROOT
-		name = "叶卡捷琳娜 阿列克谢耶芙娜"
+		name = "Yekaterina Alekseyevna"
 		claim = 100
 		age = 1
 		adm = 6
@@ -13,7 +13,7 @@ EDG_FEO_add_heir = {
 }
 EDG_FEO_general = {
 	define_general = {
-	name = "绍伊古 孛儿只斤"
+	name = "Shoigu Borjigin"
 	
 			shock = 5
 			fire = 0

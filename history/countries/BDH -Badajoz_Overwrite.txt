@@ -1,14 +1,14 @@
 1444.1.1 = {
   monarch = {
-    name = "阿卜杜拉 I 「安达卢西亚之剑」"
-    dynasty = "阿费泰西"
+    name = "Abdullah I 'Sayf al-Andalus'"
+    dynasty = "Afetaysi"
     birth_date = 1390.1.1
     adm = 5
     dip = 4
     mil = 6
     
     leader = {
-      name = "阿卜杜拉 I 「安达卢西亚之剑」"
+      name = "Abdullah I 'Sayf al-Andalus'"
       type = general
       fire = 3
       shock = 4
@@ -23,7 +23,7 @@
 1444.1.1 = {
   heir = {
     name = "Ali"
-    dynasty = "阿费泰西"
+    dynasty = "Afetaysi"
     birth_date = 1444.1.1
     death_date = 1453.5.29
     claim = 45

@@ -1,19 +1,7 @@
-change_estate_land_share = {
-  estate = estate_church
-  share = -10
-}
-change_estate_land_share = {
-  estate = estate_burghers
-  share = -10
-}
-change_estate_land_share = {
-  estate = all
-  share = 20
-}
 1429.11.6 = {
   monarch = {
-    name = "理查 VI"
-    dynasty = "金雀花"  # Lancaster
+    name = "Richard VI"
+    dynasty = "Plantagenet"  # Lancaster
     birth_date = 1421.12.6
     adm = 3
     dip = 2
@@ -25,8 +13,8 @@ change_estate_land_share = {
 }
 1444.1.1 = {
   leader = {
-    name = "约翰 塔尔伯特"  # John Talbot
-    dynasty = "塔尔伯特"
+    name = "John"  # John Talbot
+    dynasty = "Talbot"
     type = general
     fire = 2
     shock = 4
@@ -37,8 +25,8 @@ change_estate_land_share = {
 }
 1444.4.23 = {
   heir = {
-    name = "玛格丽特"  # Margaret
-    dynasty = "金雀花"
+    name = "Margaret"  # Margaret
+    dynasty = "Plantagenet"
     birth_date = 1444.4.23
     death_date = 1471.4.11
     female = yes

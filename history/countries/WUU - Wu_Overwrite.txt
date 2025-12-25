@@ -1,7 +1,7 @@
 1444.1.1 = {
   monarch = {
-    name = "熠"
-    dynasty = "朱"
+    name = "Yi"
+    dynasty = "Zhu"
     birth_date = 1405.4.7
     adm = 2
     dip = 2
@@ -10,8 +10,8 @@
 }
 1444.1.1 = {
   heir = {
-    name = "洛"
-    dynasty = "朱"
+    name = "Luo"
+    dynasty = "Zhu"
     birth_date = 1436.11.10
     claim = 95
     adm = 4

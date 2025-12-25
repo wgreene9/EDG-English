@@ -1,7 +1,7 @@
 1441.1.30 = {
   monarch = {
-    name = "帕特里克 「统一者」"  
-    dynasty = "麦克·亚特"
+    name = "Patrick 'the Unifier'"  
+    dynasty = "mac Airt"
     birth_date = 1420.12.6
     adm = 4
     dip = 6

@@ -1,7 +1,7 @@
 1440.1.1 = {
   monarch = {
     name = "Muhammad" 
-    dynasty = "哈里里"  
+    dynasty = "Hariri"  
     birth_date = 1401.1.1
     adm = 6
     dip = 3

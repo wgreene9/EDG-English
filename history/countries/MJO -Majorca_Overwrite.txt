@@ -1,7 +1,7 @@
 1420.7.19 = {
   monarch = {
-    name = "皮埃尔 I"  # Pierre I
-    dynasty = "德 德勒"  # de Dreux
+    name = "Pierre I"  # Pierre I
+    dynasty = "de Dreux"  # de Dreux
     birth_date = 1410.7.7
     adm = 2
     dip = 5
@@ -9,8 +9,8 @@
   }
   queen = {
     country_of_origin = FRA
-    name = "让娜"  # Jeanne
-    dynasty = "德 瓦卢瓦"  # de Valois
+    name = "Jeanne"  # Jeanne
+    dynasty = "de Valois"  # de Valois
     birth_date = 1411.1.24
     female = yes
     adm = 6
@@ -20,9 +20,9 @@
 }
 1434.5.11 = {
   heir = {
-    name = "弗朗索瓦"  # François
-    monarch_name = "弗朗索瓦 I"  # François I
-    dynasty = "德 德勒"  # de Dreux
+    name = "François"  # François
+    monarch_name = "François I"  # François I
+    dynasty = "de Dreux"  # de Dreux
     birth_date = 1434.5.11
     claim = 95
     adm = 2

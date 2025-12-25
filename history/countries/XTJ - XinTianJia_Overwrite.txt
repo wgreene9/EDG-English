@@ -1,8 +1,7 @@
-{
-    monarch = 
-    {
-        name = "义助" #ä¹å©
-        dynasty = "新田" #æ°ç°
+1444.11.11 = {
+    monarch = {
+        name = "Yizhu" # 义助
+        dynasty = "Xintian" # 新田
         adm = 5
         dip = 4
         mil = 2

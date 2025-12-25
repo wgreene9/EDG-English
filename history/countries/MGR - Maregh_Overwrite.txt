@@ -1,7 +1,7 @@
 1411.1.1 = {
   monarch = {
-    name = "纳杰夫 戈利" 
-    dynasty = "亦刺迭吉斯"  
+    name = "Najaf Qoli" 
+    dynasty = "Yazdegerd"  
     birth_date = 1380.2.22
     adm = 4
     dip = 3
@@ -10,8 +10,8 @@
 }
 1435.1.1 = {
   heir = {
-    name = "胡达达德"  
-    dynasty = "亦刺迭吉斯" 
+    name = "Khodadad"  
+    dynasty = "Yazdegerd" 
     birth_date = 1400.2.22
     death_date = 1505.10.27
     adm = 2

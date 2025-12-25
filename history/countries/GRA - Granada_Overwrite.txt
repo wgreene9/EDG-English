@@ -1,15 +1,3 @@
-change_estate_land_share = {
-  estate = estate_nobles
-  share = 8
-}
-change_estate_land_share = {
-  estate = estate_church
-  share = -15
-}
-change_estate_land_share = {
-  estate = estate_burghers
-  share = 7
-}
 1392.1.1 = {
   monarch = {
     name = "Muhammad VII"  # Muhammad VII
@@ -104,104 +92,84 @@ change_estate_land_share = {
   }
 }
 1454.1.1 = {
-  monarch = {
-    name = "萨阿德 I 西里萨"  # Sa'd I Ciriza
-    dynasty = "Nasrid"  # Nasrid
-    adm = 0
-    dip = 1
-    mil = 0
-  }
+	monarch = {
+		name = "Sa'd I Ciriza"
+		dynasty = "Nasrid"
+		adm = 0
+		dip = 1
+		mil = 0
+	}
 }
+
 1462.1.1 = {
-  monarch = {
-    name = "Yûsuf V"  # Yûsuf V
-    dynasty = "Nasrid"  # Nasrid
-    adm = 1
-    dip = 0
-    mil = 0
-  }
+	monarch = {
+		name = "Yûsuf V"
+		dynasty = "Nasrid"
+		adm = 1
+		dip = 0
+		mil = 0
+	}
 }
+
 1463.1.1 = {
-  monarch = {
-    name = "萨阿德 I 西里萨"  # Sa'd I Ciriza
-    dynasty = "Nasrid"  # Nasrid
-    adm = 0
-    dip = 1
-    mil = 0
-  }
+	monarch = {
+		name = "Sa'd I Ciriza"
+		dynasty = "Nasrid"
+		adm = 0
+		dip = 1
+		mil = 0
+	}
 }
+
 1464.1.1 = {
-  monarch = {
-    name = "Ali I 穆莱 哈桑"  # Alí I Muley Hacén
-    dynasty = "Nasrid"  # Nasrid
-    adm = 0
-    dip = 1
-    mil = 0
-  }
+	monarch = {
+		name = "Alí I Muley Hacén"
+		dynasty = "Nasrid"
+		adm = 0
+		dip = 1
+		mil = 0
+	}
 }
-1470.1.1 = {
-  leader = {
-    name = "易卜拉欣 Ali 阿塔尔"  # Ibrahim Ali al-Attar
-    type = general
-    fire = 2
-    shock = 3
-    manuever = 3
-    siege = 0
-    death_date = 1483.1.1
-  }
-}
+
+1470.1.1 = { leader = {	name = "Ibrahim Ali al-Attar"	type = general	fire = 2	shock = 3	manuever = 3	siege = 0	death_date = 1483.1.1 } }
+
 1482.1.1 = {
-  monarch = {
-    name = "Muhammad XII 博阿卜迪勒"  # Muhammad XII Boabdil
-    dynasty = "Nasrid"  # Nasrid
-    adm = 2
-    dip = 0
-    mil = 1
-  }
+	monarch = {
+		name = "Muhammad XII Boabdil"
+		dynasty = "Nasrid"
+		adm = 2
+		dip = 0
+		mil = 1
+	}
 }
+
 1483.1.1 = {
-  monarch = {
-    name = "Ali I 穆莱 哈桑"  # Ali I muley Hacén
-    dynasty = "Nasrid"  # Nasrid
-    adm = 2
-    dip = 0
-    mil = 1
-  }
+	monarch = {
+		name = "Ali I muley Hacén"
+		dynasty = "Nasrid"
+		adm = 2
+		dip = 0
+		mil = 1
+	}
 }
+
 1485.1.1 = {
-  monarch = {
-    name = "Muhammad XIII"  # Muhammad XIII
-    dynasty = "Nasrid"  # Nasrid
-    adm = 0
-    dip = 0
-    mil = 0
-    leader = {
-      name = "Muhammad 扎加尔"  # Muhammad El Zagal
-      type = general
-      fire = 2
-      shock = 3
-      manuever = 3
-      siege = 0
-    }
-  }
+	monarch = {
+		name = "Muhammad XIII"
+		dynasty = "Nasrid"
+		adm = 0
+		dip = 0
+		mil = 0
+		 leader = { name = "Muhammad El Zagal"	type = general	fire = 2	shock = 3	manuever = 3	siege = 0 }
+	}
 }
+
 1489.1.1 = {
-  monarch = {
-    name = "Muhammad XII 博阿卜迪勒"  # Muhammad XII Boabdil
-    dynasty = "Nasrid"  # Nasrid
-    adm = 2
-    dip = 0
-    mil = 1
-  }
-}
-1568.1.1 = {
-  government = monarchy
-  add_government_reform = autocracy_reform
-}
-1724.1.20 = {
-  set_legacy_government = administrative_monarchy
-}
-1759.8.12 = {
-  government = monarchy
-  add_government_reform = autocracy_reform
+	monarch = {
+		name = "Muhammad XII Boabdil"
+		dynasty = "Nasrid"
+		adm = 2
+		dip = 0
+		mil = 1
+	}
 }

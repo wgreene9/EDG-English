@@ -4,8 +4,8 @@
     value = 0
   }
   monarch = {
-    name = "阿梅代奥"  # Amedeo VIII
-    dynasty = "迪 卡瓦利埃里"  # di Savoia
+    name = "Amedeo"  # Amedeo VIII
+    dynasty = "di Cavalieri"  # di Savoia
     birth_date = 1410.9.4
     adm = 5
     dip = 6

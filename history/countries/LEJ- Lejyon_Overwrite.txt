@@ -1,7 +1,7 @@
 1440.1.1 = {
   monarch = {
-    name = "穆斯塔法" 
-    dynasty = "凯马尔"  
+    name = "Mustafa" 
+    dynasty = "Kemal"  
     birth_date = 1401.1.1
     adm = 4
     dip = 4

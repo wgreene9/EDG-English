@@ -1,1 +1,1 @@
-capital = "Orlans"
+capital = "Orléans"

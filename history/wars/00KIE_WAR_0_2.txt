@@ -1,4 +1,4 @@
-name = "基辅罗斯内战"
+name = "Kievan Rus' Civil War"
 war_goal = {
   type = EDG_WG_superiority_RUS_unification
   casus_belli = cb_EDG_WG_superiority_RUS_unification

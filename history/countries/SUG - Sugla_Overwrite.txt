@@ -1,7 +1,7 @@
 1444.1.1 = {
   monarch = {
-    name = "帕斯卡利"
-    dynasty = "帕帕斯"
+    name = "Paskalis"
+    dynasty = "Pappas"
     birth_date = 1425.7.8
     adm = 3
     dip = 2
@@ -10,7 +10,7 @@
 }
 1444.1.1 = {
   leader = {
-    name = "腓力 德 勃艮第"
+    name = "Philippe de Bourgogne"
     type = general
     fire = 3
     shock = 2

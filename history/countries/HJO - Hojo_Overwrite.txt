@@ -1,7 +1,7 @@
 1399.5.3 = {
   monarch = {
-    name = "高元"  # Soun
-    dynasty = "北条"  # Hojo
+    name = "Takamoto"  # Soun
+    dynasty = "Hojo"  # Hojo
     birth_date = 1387.6.5
     adm = 6
     dip = 2

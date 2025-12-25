@@ -32,7 +32,7 @@ historical_units = {
 }
 
 monarch_names = {
-	"LluÃ­s #0" = 40	
+	"Llu�s #0" = 40	
 	"Pere #4" = 20
 	"Enric #0" = 20
 	"Renat #0" = 20	
@@ -43,27 +43,27 @@ monarch_names = {
 	"Nicolau #0" = 10
 	"Ferran #2" = 5
 	"Jaume #2" = 5
-	"MartÃ­ #1" = 5
+	"Mart� #1" = 5
 	"MONARCH_NAME_AMBROS" = 0
 	"Andreu #0" = 0
 	"Antoni #0" = 0
 	"Arnau #0" = 0
 	"Bernat #0" = 0
 	"Climent #0" = 0
-	"DomÃ¨nec #0" = 0
+	"Dom�nec #0" = 0
 	"Eduard #0" = 0
 	"Esteve #0" = 0
 	"Francesc #0" = 0
-	"GonÃ§al #0" = 0
+	"Gon�al #0" = 0
 	"Guillem #0" = 0
-	"HÃ¨ctor #0" = 0
+	"H�ctor #0" = 0
 	"Hug #0" = 0
 	"Ignasi #0" = 0
 	"Joaquim #0" = 0
 	"Jordi #0" = 0
 	"Josep #0" = 0
 	"Josep Antoni #0" = 0
-	"LlorenÃ§ #0" = 0
+	"Lloren� #0" = 0
 	"Lluc #0" = 0
 	"Manel #0" = 0
 	"Miquel #0" = 0
@@ -73,30 +73,30 @@ monarch_names = {
 	"Roderic #0" = 0
 	"Xavier #0" = 0
 	
-	"AlÃ­cia #0" = -1
+	"Al�cia #0" = -1
 	"Sofia #0" = -1
 	"Marta #0" = -1
 }
 
 leader_names = {
-	Alemany Ametller Amic "de Balaguer" BarcelÃ³ Blanc Canals Casanovas "de GuimerÃ " Casaus
-	Dalmau DesplÃ  Destorrent DomÃ¨nec "dâEspÃ©s" Ferrer "Folc de Cardona" Fontana
+	Alemany Ametller Amic "de Balaguer" Barcel� Blanc Canals Casanovas "de Guimer�" Casaus
+	Dalmau Despl� Destorrent Dom�nec "d�Esp�s" Ferrer "Folc de Cardona" Fontana
 	Gallart Gassol Gisbert Graner "de Grau" Guimet
-	LleixÃ  Llull "de Margarit" Muntaner "de Montcada" Moragues "de Mur" Nadal dâOms
-	PallarÃ¨s PinÃ³s Piquer Pons RasquÃ­ "de la Riba" Ribalta Ripio RifÃ³s "de Ripoll"
-	Salavert "de Subirats" Tamarit VallÃ¨s VergÃ³s VilamarÃ­ Vilaplana
+	Lleix� Llull "de Margarit" Muntaner "de Montcada" Moragues "de Mur" Nadal d�Oms
+	Pallar�s Pin�s Piquer Pons Rasqu� "de la Riba" Ribalta Ripio Rif�s "de Ripoll"
+	Salavert "de Subirats" Tamarit Vall�s Verg�s Vilamar� Vilaplana
 }
 
 ship_names = {
-	"Blanca Aurora" "Sant Jacob" Flama Lleona FalcÃ³ "La Bonaventura" "Sant Antoni" 
-	"Sant Miquel" "Sant Bernat" "Sant Francesc" "Santa Ãgata" "Santa EulÃ lia" 
+	"Blanca Aurora" "Sant Jacob" Flama Lleona Falc� "La Bonaventura" "Sant Antoni" 
+	"Sant Miquel" "Sant Bernat" "Sant Francesc" "Santa �gata" "Santa Eul�lia" 
 	"Sant Gabriel" "Sant Climent" "Sant Jordi" "La Reial" Trinitat "Santa Creu" 
-	"Santa Maria" "Santa Caterina" "Sant Joan Evangelista" "Santa BÃ rbara" 
-	"Sant Pere de Roma" "La Gasela" "Santa Magdalena" "Sant VÃ­ctor" Magnana 
-	"Santa Ventura" "Santa Coloma" "Sant AmbrÃ³s" ConstanÃ§a "Sant Ferran"
-	Invencible TelÃ¨mac SobirÃ  "Verge del Carme" "Verge de Montserrat" Juno
-	Vigilant Eclipsi "Sant Joan Baptista" "SantÃ­ssima Trinitat" Terrible
-	TemerÃ ria "Verge de les Neus" "Jaume el Conqueridor" Mart Alerta Ceres
-	Sorpresa EmpordÃ  Catalunya "Roger de Flor" "Roger de LlÃºria"
+	"Santa Maria" "Santa Caterina" "Sant Joan Evangelista" "Santa B�rbara" 
+	"Sant Pere de Roma" "La Gasela" "Santa Magdalena" "Sant V�ctor" Magnana 
+	"Santa Ventura" "Santa Coloma" "Sant Ambr�s" Constan�a "Sant Ferran"
+	Invencible Tel�mac Sobir� "Verge del Carme" "Verge de Montserrat" Juno
+	Vigilant Eclipsi "Sant Joan Baptista" "Sant�ssima Trinitat" Terrible
+	Temer�ria "Verge de les Neus" "Jaume el Conqueridor" Mart Alerta Ceres
+	Sorpresa Empord� Catalunya "Roger de Flor" "Roger de Ll�ria"
 	"La Garsa"
 }

@@ -50,7 +50,7 @@ EDG_flavorLER_1_effect = {
     change_adm = 1
     change_dip = 2
     change_mil = 6
-    name = "波列斯瓦夫 霍亨索伦"
+    name = "波列斯瓦夫 von Hohenzollern"
     claim = 100
     culture = polish
     age = 30
@@ -183,7 +183,7 @@ EDG_flavorFRA_2_a_effect = {
     dip = 3
     mil = 2
     name = "约翰 III"
-    dynasty = "金雀花"
+    dynasty = "Plantagenet"
     birth_date = 1425.4.29
   }
 }

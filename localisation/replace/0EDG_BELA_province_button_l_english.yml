@@ -1,7 +1,7 @@
 ﻿l_english:
- EDG_BELA_POM_GUI_province_ability_adm_tooltip:0 "§Y领地发展§!：改善税收"
- EDG_BELA_POM_GUI_province_ability_adm_effect_tooltip:0 "提高省份1点基础§Y税收§!发展度"
- EDG_BELA_POM_GUI_province_ability_dip_tooltip:0 "§Y领地发展§!：改善生产"
- EDG_BELA_POM_GUI_province_ability_dip_effect_tooltip:0 "提高省份1点基础§Y生产§!发展度"
- EDG_BELA_POM_GUI_province_ability_mil_tooltip:0 "§Y领地发展§!：改善征兵"
- EDG_BELA_POM_GUI_province_ability_mil_effect_tooltip:0 "提高省份1点基础§Y人力§!发展度"
+EDG_BELA_POM_GUI_province_ability_adm_tooltip:0 "§YTerritorial Development§!: Improve Taxation"
+EDG_BELA_POM_GUI_province_ability_adm_effect_tooltip:0 "Increase the province's base §Ytax§! development by 1 point"
+EDG_BELA_POM_GUI_province_ability_dip_tooltip:0 "§YTerritorial Development§!: Improve Production"
+EDG_BELA_POM_GUI_province_ability_dip_effect_tooltip:0 "Increase the province's base §Yproduction§! development by 1 point"
+EDG_BELA_POM_GUI_province_ability_mil_tooltip:0 "§YTerritorial Development§!: Improve Recruitment"
+EDG_BELA_POM_GUI_province_ability_mil_effect_tooltip:0 "Increase the province's base §Ymanpower§! development by 1 point"

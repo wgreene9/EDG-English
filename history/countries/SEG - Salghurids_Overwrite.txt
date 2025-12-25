@@ -1,15 +1,15 @@
 1442.1.1 = {
   monarch = {
-    name = "大卫 II"  # Mu'izz al-Din Malik
-    dynasty = "萨尔古"  # Simnani
+    name = "David II"  # Mu'izz al-Din Malik
+    dynasty = "Salghurid"  # Simnani
     birth_date = 1422.1.1
     adm = 2
     dip = 1
     mil = 3
   }
   heir = {
-    name = "约翰"  # Mu'izz al-Din Malik
-    dynasty = "萨尔古"  # Simnani
+    name = "John"  # Mu'izz al-Din Malik
+    dynasty = "Salghurid"  # Simnani
     birth_date = 1443.1.1
     death_date = 1451.6.1
     claim = 95

@@ -1,7 +1,7 @@
 1433.1.1 = {
   monarch = {
-    name = "海达尔 II"
-    dynasty = "穆扎法尔"  # Arabshahid
+    name = "Haydar II"
+    dynasty = "Muzaffar"  # Arabshahid
     birth_date = 1401.3.30
     dip = 3
     adm = 4

@@ -1,7 +1,7 @@
 1416.1.1 = {
 	monarch = {
-		name = "瓦西里科"
-		dynasty = "舒伊斯基"
+		name = "Vasily"
+		dynasty = "Shuisky"
 		birth_date = 1400.1.1
 		adm = 3
 		dip = 2

@@ -1,8 +1,8 @@
 1442.1.1 = {
   add_piety = 0.25
   monarch = {
-    name = "Muhammad 阿里"  # Mu'izz al-Din Malik
-    dynasty = "萨巴达尔"  # Simnani
+    name = "Muhammad Ali"  # Mu'izz al-Din Malik
+    dynasty = "Sabadar"  # Simnani
     birth_date = 1422.1.1
     adm = 3
     dip = 1

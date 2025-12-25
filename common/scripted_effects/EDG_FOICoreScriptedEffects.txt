@@ -1,6 +1,6 @@
-ï»¿EDG_FOI_UCI_IFR_define_ruler = {
+EDG_FOI_UCI_IFR_define_ruler = {
 	define_ruler = {
-		name = "「全体公社ꏃN쭨大会」" #「全体公社ꏃN쭨大会」
+		name = "Council of All Communes" #「全体公社ꏃN쭨大会」
 		adm = 3
 		dip = 3
 		mil = 3

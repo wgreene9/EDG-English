@@ -1,98 +1,98 @@
 ﻿l_english:
- EDG_BELA_KSB_1_1_title:0 "避免分裂"
- EDG_BELA_KSB_1_1_desc:0 "波美拉尼亚不容再次分裂，历史的教训告诉我们，一个分裂的波美拉尼亚只能沦为各方角逐的竞技场，只能沦为各方势力的鱼肉。"
+EDG_BELA_KSB_1_1_title:0 "Prevent Division"
+EDG_BELA_KSB_1_1_desc:0 "Pomerania must not be divided again. History teaches us that a divided Pomerania can only become an arena for rivalries and a target for various powers."
 
- EDG_BELA_KSB_1_2_title:0 "确保强力领导人"
- EDG_BELA_KSB_1_2_desc:0 "我们的未来还有许多挑战，前途是光明的，但道路是曲折的，我们必须有一位英明神武的伟大君主，引领我们的国家向前进。"
+EDG_BELA_KSB_1_2_title:0 "Ensure a Strong Leader"
+EDG_BELA_KSB_1_2_desc:0 "Our future holds many challenges; the prospects are bright, but the path is winding. We must have a wise and mighty great monarch to lead our nation forward."
 
- EDG_BELA_KSB_1_3_title:0 "哥得兰岛基点"
- EDG_BELA_KSB_1_3_desc:0 "哥得兰岛是波美拉尼亚的埃里克最后的领地，也将成为我们攻略斯堪的纳维亚的基点。"
+EDG_BELA_KSB_1_3_title:0 "Gotland Base Point"
+EDG_BELA_KSB_1_3_desc:0 "Gotland was the last territory of Erik of Pomerania, and it will also serve as our base point for campaigns into Scandinavia."
 
- EDG_BELA_KSB_1_4_title:0 "登陆斯堪的纳维亚"
- EDG_BELA_KSB_1_4_desc:0 "斯科纳地区是离我们最近的斯堪的纳维亚半岛地区，而我们在那里也有着一定的影响力，我们应该先行控制斯科纳，以此作为进攻斯堪的纳维亚的桥头堡。"
+EDG_BELA_KSB_1_4_title:0 "Land in Scandinavia"
+EDG_BELA_KSB_1_4_desc:0 "The Skåne region is the closest area of the Scandinavian Peninsula to us, and we already have some influence there. We should first secure control over Skåne to serve as a bridgehead for our advance into Scandinavia."
 
- EDG_BELA_KSB_1_5_title:0 "控制海峡"
- EDG_BELA_KSB_1_5_desc:0 "厄勒海峡是波罗的海通向外海的门户，为了我们的利益，这里必须被我们控制。"
+EDG_BELA_KSB_1_5_title:0 "Control the Strait"
+EDG_BELA_KSB_1_5_desc:0 "The Øresund Strait is the gateway from the Baltic Sea to the open ocean. For our benefit, it must be under our control."
 
- EDG_BELA_KSB_1_6_title:0 "教堂之国"
- EDG_BELA_KSB_1_6_desc:0 "教堂是教会基层组织的基础，每一座教堂都意味着一个教会得基层组织。"
+EDG_BELA_KSB_1_6_title:0 "Land of Churches"
+EDG_BELA_KSB_1_6_desc:0 "Churches are the foundation of the church's grassroots organization. Each church represents a basic unit of the ecclesiastical structure."
 
- EDG_BELA_KSB_1_7_title:0 "卡舒比国家教会"
- EDG_BELA_KSB_1_7_desc:0 "历史的经验告诉我们，我们不需要独立于世俗领主的教权，国王的权力应该大于一切！"
+EDG_BELA_KSB_1_7_title:0 "Kashubian Church" # Kashubian National Church
+EDG_BELA_KSB_1_7_desc:0 "Historical experience tells us that we do not need ecclesiastical power independent of secular lords. The king's authority should be supreme above all!"
 
- EDG_BELA_KSB_1_8_title:0 "从瓦良格到希腊"
- EDG_BELA_KSB_1_8_desc:0 "从瓦良格到希腊，东方的广袤土地受着东方正统教会管辖，我们可以尝试将东方正统教会与我们的教会合并。"
+EDG_BELA_KSB_1_8_title:0 "Varangians to Greeks" # From Varangians to Greeks
+EDG_BELA_KSB_1_8_desc:0 "From the Varangians to the Greeks, the vast eastern lands are under the jurisdiction of the Orthodox Church. We can attempt to merge the Orthodox Church with our own."
 
- EDG_BELA_KSB_2_2_title:0 "控制格但斯克"
- EDG_BELA_KSB_2_2_desc:0 "格但斯克是波罗的海的明珠，是德意志人向东方进军的堡垒，也是我们卡舒比人的祖地，这片土地理应——也必须属于我们。"
+EDG_BELA_KSB_2_2_title:0 "Control Gdańsk"
+EDG_BELA_KSB_2_2_desc:0 "Gdańsk is the pearl of the Baltic, the fortress from which Germans advance eastward, and the ancestral land of us Kashubians. This territory rightfully—and must—belong to us."
 
- EDG_BELA_KSB_2_4_title:0 "诺夫哥罗德商站"
- EDG_BELA_KSB_2_4_desc:0 "波罗的海最东端，坐落着罗斯人的繁华大城——诺夫哥罗德，全罗斯的贸易都通过它进入波罗的海，谁控制了诺夫哥罗德，谁就掌握了罗斯-波罗的海贸易。"
+EDG_BELA_KSB_2_4_title:0 "Novgorod Trading Post"
+EDG_BELA_KSB_2_4_desc:0 "At the easternmost end of the Baltic lies the prosperous city of the Rus'—Novgorod. All Rus' trade passes through it into the Baltic Sea. Whoever controls Novgorod, controls the Rus'-Baltic trade."
 
- EDG_BELA_KSB_2_5_title:0 "占领斯德哥尔摩"
- EDG_BELA_KSB_2_5_desc:0 "斯德哥尔摩是瑞典人的统治核心，而现在，他们应该认识到自己必须臣服于我们了。"
+EDG_BELA_KSB_2_5_title:0 "Occupy Stockholm"
+EDG_BELA_KSB_2_5_desc:0 "Stockholm is the ruling heart of the Swedes. Now, they should recognize that they must submit to us."
 
- EDG_BELA_KSB_2_6_title:0 "重建埃里克之治"
- EDG_BELA_KSB_2_6_desc:0 "波美拉尼亚的埃里克被斯堪的纳维亚贵族们无情地驱逐出了卡尔玛同盟，而现在，我们来了，我们要建立对斯堪的纳维亚的统治，正如埃里克所做的那样。"
+EDG_BELA_KSB_2_6_title:0 "Restore Erik's Rule"
+EDG_BELA_KSB_2_6_desc:0 "Erik of Pomerania was ruthlessly expelled from the Kalmar Union by the Scandinavian nobles. Now, we have come to establish rule over Scandinavia, just as Erik once did."
 
- EDG_BELA_KSB_2_8_title:0 "我们的海"
- EDG_BELA_KSB_2_8_desc:0 "从吕贝克到诺夫哥罗德，从拉普兰到波美拉尼亚，波罗的海已尽入我手，波罗的海是属于卡舒比人的海！"
+EDG_BELA_KSB_2_8_title:0 "Our Sea"
+EDG_BELA_KSB_2_8_desc:0 "From Lübeck to Novgorod, from Lapland to Pomerania, the Baltic Sea is now entirely in our hands. The Baltic Sea is the sea of the Kashubians!"
 
- EDG_BELA_KSB_3_1_title:0 "重整旗鼓"
- EDG_BELA_KSB_3_1_desc:0 "重新认识我们自己并非没有代价，卡舒比亚的土地上充斥着亟待重建的废墟，而军队也必须补充进新鲜血液。"
+EDG_BELA_KSB_3_1_title:0 "Regroup"
+EDG_BELA_KSB_3_1_desc:0 "Rediscovering ourselves is not without cost. The lands of Kashubia are filled with ruins awaiting reconstruction, and the army must also be replenished with fresh blood."
 
- EDG_BELA_KSB_3_2_title:0 "团结旧文德"
- EDG_BELA_KSB_3_2_desc:0 "与卡舒比人有相似命运的，是全文德的斯拉夫人，我们必须团结他们，教育他们，他们是我们的天然同胞。"
+EDG_BELA_KSB_3_2_title:0 "Unite the Old Wends"
+EDG_BELA_KSB_3_2_desc:0 "The Slavs of all the Wends share a fate similar to that of the Kashubians. We must unite them, educate them—they are our natural brethren."
 
- EDG_BELA_KSB_3_3_title:0 "掌握西里西亚"
- EDG_BELA_KSB_3_3_desc:0 "西里西亚一直是波兰和波西米亚争夺的焦点，是时候终结他们之间的争端了，西里西亚应该臣服于卡舒比亚。"
+EDG_BELA_KSB_3_3_title:0 "Secure Silesia"
+EDG_BELA_KSB_3_3_desc:0 "Silesia has long been a focal point of contention between Poland and Bohemia. It is time to end their disputes. Silesia should submit to Kashubia."
 
- EDG_BELA_KSB_3_5_title:0 "波美拉尼亚?"
- EDG_BELA_KSB_3_5_desc:0 "遥远的土地上，竟然也有一个“波美拉尼亚”，这无疑说明了我们之间存在的亲缘关系，当然最值得注意的，还是这片土地上盛产的皮毛……"
+EDG_BELA_KSB_3_5_title:0 "Pomerania?"
+EDG_BELA_KSB_3_5_desc:0 "In a distant land, there is also a 'Pomerania,' which undoubtedly indicates the kinship between us. Of course, what is most noteworthy is the abundant furs produced in this territory..."
 
- EDG_BELA_KSB_3_7_title:0 "翻越乌拉尔山"
- EDG_BELA_KSB_3_7_desc:0 "乌拉尔山横亘在平原之上，翻越乌拉尔山，便是只有冒险家探索过的未知世界。我们应该勇敢地翻越乌拉尔山，为了探索新世界，也为我们的皮毛商品。"
+EDG_BELA_KSB_3_7_title:0 "Cross the Ural Mountains"
+EDG_BELA_KSB_3_7_desc:0 "The Ural Mountains stretch across the plains. Beyond them lies an unknown world explored only by adventurers. We should bravely cross the Ural Mountains, for the exploration of new worlds and for our fur trade goods."
 
- EDG_BELA_KSB_4_2_title:0 "摆脱帝国"
- EDG_BELA_KSB_4_2_desc:0 "长期以来帝国一直压迫着我们，即使我们千方百计地融入帝国，帝国也对我们不待见。我们必须脱离帝国，以彰明我们的身份。"
+EDG_BELA_KSB_4_2_title:0 "Free from the Empire" # Break Free from the Empire
+EDG_BELA_KSB_4_2_desc:0 "For a long time, the Empire has oppressed us. Even though we tried every means to integrate into the Empire, it has never treated us favorably. We must break away from the Empire to assert our identity."
 
- EDG_BELA_KSB_4_3_title:0 "狮鹫与白鹰"
- EDG_BELA_KSB_4_3_desc:0 "格里芬家族和皮亚斯特一直以来都有着千丝万缕的联系，过去格里芬家族曾经臣服于皮亚斯特，而现在皮亚斯特是该向格里芬献上效忠了"
+EDG_BELA_KSB_4_3_title:0 "Gryphon and White Eagle"
+EDG_BELA_KSB_4_3_desc:0 "The House of Gryf and the Piast dynasty have long been intricately connected. In the past, the Gryfs once submitted to the Piasts; now, it is time for the Piasts to pledge allegiance to the Griffin."
 
- EDG_BELA_KSB_4_4_title:0 "普舍美斯的遗产"
- EDG_BELA_KSB_4_4_desc:0 "普舍美斯王朝曾经统治着波西米亚，尽管他们现在不再拥有波西米亚王国，但是其地位和血脉仍然是我们斯拉夫人的共同遗产。"
+EDG_BELA_KSB_4_4_title:0 "The Premyslid Legacy"
+EDG_BELA_KSB_4_4_desc:0 "The Premyslid dynasty once ruled Bohemia. Although they no longer hold the Kingdom of Bohemia, their status and bloodline remain part of our shared Slavic heritage."
 
- EDG_BELA_KSB_4_6_title:0 "潘诺尼亚大平原"
- EDG_BELA_KSB_4_6_desc:0 "几百年前，野蛮的马扎尔人入侵了潘诺尼亚平原，摧毁了摩拉维亚王国，是时候为我们的同胞复仇，消灭这群马扎尔蛮子了！"
+EDG_BELA_KSB_4_6_title:0 "Pannonian Great Plain"
+EDG_BELA_KSB_4_6_desc:0 "Centuries ago, the savage Magyars invaded the Pannonian Plain, destroying the Kingdom of Moravia. It is time to avenge our brethren and eliminate these Magyar barbarians!"
 
- EDG_BELA_KSB_4_7_title:0 "保护巴尔干斯拉夫人"
- EDG_BELA_KSB_4_7_desc:0 "巴尔干半岛也生活着我们的同胞，现在他们正面临着威胁，我们应该在他们受到侵害之前将他们保护在我们的控制之下。"
+EDG_BELA_KSB_4_7_title:0 "Protect the Balkan Slavs"
+EDG_BELA_KSB_4_7_desc:0 "Our brethren also live in the Balkan Peninsula, and now they face threats. We should bring them under our protection before they are harmed."
 
- EDG_BELA_KSB_4_8_title:0 "荣耀归于斯拉维亚"
- EDG_BELA_KSB_4_8_desc:0 "今天，所有的斯拉夫人都团结在一面旗帜之下，我们——斯拉夫人的帝国西起欧罗巴的心脏，东至冰冷的冻原！斯拉维亚万岁！"
+EDG_BELA_KSB_4_8_title:0 "Glory to Slavia"
+EDG_BELA_KSB_4_8_desc:0 "Today, all Slavs are united under one banner. We—the Slavic Empire—stretch from the heart of Europa in the west to the frigid tundra in the east! Long live Slavia!"
 
- EDG_BELA_KSB_5_1_title:0 "扬帆起航"
- EDG_BELA_KSB_5_1_desc:0 "跨越大西洋，在遥远的西方，存在着一块新大陆，我们应该加入到探索新大陆的竞争中去，以争夺属于我们的，阳光下的地盘。"
+EDG_BELA_KSB_5_1_title:0 "Set Sail"
+EDG_BELA_KSB_5_1_desc:0 "Across the Atlantic, in the distant west, lies a New World. We should join the competition to explore this New World and claim our share of land under the sun."
 
- EDG_BELA_KSB_5_2_title:0 "控制普鲁士"
- EDG_BELA_KSB_5_2_desc:0 "普鲁士人被残暴的条顿骑士团奴役了几百年，我们可不能容忍这种事情持续在我们的身边发生。是时候消灭骑士团，让德意志为他们的所作所为付出代价了！"
+EDG_BELA_KSB_5_2_title:0 "Control Prussia"
+EDG_BELA_KSB_5_2_desc:0 "The Prussians have been enslaved by the brutal Teutonic Order for centuries. We cannot tolerate such things continuing right beside us. It is time to eliminate the Order and make the Germans pay for their deeds!"
 
- EDG_BELA_KSB_5_3_title:0 "拔除东方德意志定居点"
- EDG_BELA_KSB_5_3_desc:0 "德意志人如蝗虫般扩张，从维斯瓦河到伏尔加河，从波罗的海到亚德里亚，到处都是德意志人向东扩张的殖民地，我们必须摧毁这些殖民点，让德意志人从哪里来就滚回哪里去！"
+EDG_BELA_KSB_5_3_title:0 "Purge German Settlements" # Uproot Eastern German Settlements
+EDG_BELA_KSB_5_3_desc:0 "The Germans expand like locusts. From the Vistula to the Volga, from the Baltic to the Adriatic, German eastward colonies are everywhere. We must destroy these settlements and drive the Germans back to where they came from!"
 
- EDG_BELA_KSB_5_4_title:0 "君临基辅"
- EDG_BELA_KSB_5_4_desc:0 "基辅是罗斯人自古以来的统治中心，通过占领基辅，我们可以宣称整个罗斯之地。"
+EDG_BELA_KSB_5_4_title:0 "Reign in Kiev"
+EDG_BELA_KSB_5_4_desc:0 "Kiev has been the traditional ruling center of the Rus' since ancient times. By occupying Kiev, we can lay claim to all the lands of Rus'."
 
- EDG_BELA_KSB_5_5_title:0 "最后的留里克"
- EDG_BELA_KSB_5_5_desc:0 "留里克家族已经被证明无法保护罗斯人免受外敌的欺压，而我们自然能够担起这责任来。当然，与留里克家族合作，对于我们统治罗斯之地也是大有帮助。"
+EDG_BELA_KSB_5_5_title:0 "The Last Rurik"
+EDG_BELA_KSB_5_5_desc:0 "The Rurik dynasty has proven incapable of protecting the Rus' from foreign oppression. Naturally, we can shoulder this responsibility. Of course, cooperation with the Rurikids will greatly aid our rule over the lands of Rus'."
 
- EDG_BELA_KSB_5_6_title:0 "降服哥萨克人"
- EDG_BELA_KSB_5_6_desc:0 "哥萨克是草原的自由民，是桀骜不驯的反政府者，但同时，他们也处于对抗野蛮游牧民族的一线，我们完全有必要处理好与哥萨克的关系。"
+EDG_BELA_KSB_5_6_title:0 "Subdue the Cossacks"
+EDG_BELA_KSB_5_6_desc:0 "The Cossacks are the free people of the steppe, unruly anti-government elements, but they are also at the forefront of resisting the barbarian nomads. It is entirely necessary for us to properly manage relations with the Cossacks."
 
- EDG_BELA_KSB_5_7_title:0 "解决游牧边疆"
- EDG_BELA_KSB_5_7_desc:0 "游牧民族对于边境的侵犯日复一日，年复一年，为了永久解除游牧边患，我们必须对他们发动大远征，从根源上消灭游牧入侵！"
+EDG_BELA_KSB_5_7_title:0 "Resolve the Frontier" # Resolve the Nomadic Frontier
+EDG_BELA_KSB_5_7_desc:0 "Nomadic incursions into our borders occur day after day, year after year. To permanently eliminate the nomadic threat, we must launch a grand expedition against them, eradicating nomadic invasions at their root!"
 
- EDG_BELA_KSB_5_8_title:0 "格鲁吉亚边墙"
- EDG_BELA_KSB_5_8_desc:0 "格鲁吉亚人的王国在高加索屹立着，数百年来他们一直抵抗着异教徒的进攻，我们应该帮助并支援格鲁吉亚人，不过控制着高加索山脉的格鲁吉亚也必须为我们所掌控。"
+EDG_BELA_KSB_5_8_title:0 "Georgian Frontier Wall"
+EDG_BELA_KSB_5_8_desc:0 "The Kingdom of Georgia stands firm in the Caucasus. For centuries, they have resisted attacks by heathens. We should aid and support the Georgians, but Georgia, which controls the Caucasus Mountains, must also be under our control."
 
 

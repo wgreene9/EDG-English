@@ -1,13 +1,13 @@
 1440.11.1 = {
     monarch = {
-        name = "吉勒 I 「蓝胡子」"
-        dynasty = "德 蒙莫朗西-雷斯"
+        name = "Gilles I 'Bluebeard'"
+        dynasty = "de Montmorency-Rais"
         birth_date = 1405.12.24
         adm = 3
         dip = 3
         mil = 5
 		leader = {
-			name = "吉勒 I 「蓝胡子」"
+			name = "Gilles I 'Bluebeard'"
 			type = general
 			fire = 4
 			shock = 4

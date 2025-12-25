@@ -1,7 +1,7 @@
 1444.1.17 = {
   monarch = {
-    name = "阿方索 Ⅲ"
-	dynasty = "德 维瓦尔"
+    name = "Alfonso III"
+	dynasty = "de Vivar"
     adm = 0
     dip = 1
     mil = 3
@@ -9,8 +9,8 @@
 }
 1444.1.17 = {
   heir = {
-    name = "弗朗索瓦"  # Alfons
-	dynasty = "德 维瓦尔"
+    name = "François"  # Alfons
+	dynasty = "de Vivar"
     birth_date = 1410.1.1
     claim = 95
     adm = 3

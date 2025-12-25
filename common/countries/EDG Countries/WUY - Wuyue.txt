@@ -8,8 +8,8 @@ capital = 1821
 
 1444.1.1 = {
   monarch = {
-    name = "邈"
-    dynasty = "㽈"
+    name = "Miao"
+    dynasty = "Yi"
     birth_date = 1420.1.1
     adm = 5
     dip = 6

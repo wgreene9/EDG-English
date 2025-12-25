@@ -1,19 +1,7 @@
-change_estate_land_share = {
-  estate = estate_church
-  share = 10
-}
-change_estate_land_share = {
-  estate = estate_nobles
-  share = -10
-}
-change_estate_land_share = {
-  estate = estate_dhimmi
-  share = -10
-}
 1299.1.1 = {
   monarch = {
-    name = "奥斯曼 I"  #
-    dynasty = "奥斯曼奥卢"  # Osmanoglu
+    name = "Osman I"  #
+    dynasty = "Osmanoglu"  # Osmanoglu
     birth_date = 1258.3.30
     adm = 5
     dip = 5
@@ -23,7 +11,7 @@ change_estate_land_share = {
 1326.1.1 = {
   monarch = {
     name = "奥尔汗 I"  #
-    dynasty = "奥斯曼奥卢"  # Osmanoglu
+    dynasty = "Osmanoglu"  # Osmanoglu
     birth_date = 1285.3.30
     adm = 6
     dip = 6
@@ -32,8 +20,8 @@ change_estate_land_share = {
 }
 1360.1.1 = {
   monarch = {
-    name = "穆拉德 I"  #
-    dynasty = "奥斯曼奥卢"  # Osmanoglu
+    name = "Murad I"  #
+    dynasty = "Osmanoglu"  # Osmanoglu
     birth_date = 1326.3.30
     adm = 5
     dip = 4
@@ -42,8 +30,8 @@ change_estate_land_share = {
 }
 1389.1.1 = {
   monarch = {
-    name = "巴耶济德 I"  #
-    dynasty = "奥斯曼奥卢"  # Osmanoglu
+    name = "Bayezid I"  #
+    dynasty = "Osmanoglu"  # Osmanoglu
     birth_date = 1354.3.30
     adm = 4
     dip = 4
@@ -53,7 +41,7 @@ change_estate_land_share = {
 1413.1.1 = {
   monarch = {
     name = "Mehmed I"  #
-    dynasty = "奥斯曼奥卢"  # Osmanoglu
+    dynasty = "Osmanoglu"  # Osmanoglu
     birth_date = 1381.3.30
     adm = 6
     dip = 6
@@ -62,8 +50,8 @@ change_estate_land_share = {
 }
 1421.1.1 = {
   monarch = {
-    name = "穆拉德 II"  #
-    dynasty = "奥斯曼奥卢"  # Osmanoglu
+    name = "Murad II"  #
+    dynasty = "Osmanoglu"  # Osmanoglu
     birth_date = 1403.3.30
     adm = 5
     dip = 4
@@ -75,7 +63,7 @@ change_estate_land_share = {
 }
 1439.1.1 = {
   leader = {
-    name = "哈德姆 艾哈贝丁"  # Hadim Sehabeddin
+    name = "Hadim Sehabeddin"  # Hadim Sehabeddin
     type = general
     fire = 3
     shock = 3
@@ -86,8 +74,8 @@ change_estate_land_share = {
 }
 1444.1.1 = {
   monarch = {
-    name = "Mehmed II 「征服者」"  # Mehmed II Fatih
-    dynasty = "奥斯曼奥卢"  # Osmanoglu
+    name = "Mehmed II Fatih"  # Mehmed II Fatih / 'the Conqueror'
+    dynasty = "Osmanoglu"  # Osmanoglu
     birth_date = 1432.3.30
     adm = 6
     dip = 4

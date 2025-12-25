@@ -1,6 +1,6 @@
 1444.1.16 = {
   monarch = {
-    name = "克里斯蒂安"
+    name = "Cristiano" # 克里斯蒂安
     birth_date = 1409.3.2
     adm = 3
     dip = 2

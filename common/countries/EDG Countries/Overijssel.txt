@@ -35,456 +35,106 @@ historical_units = {
   napoleonic_lancers
 }
 monarch_names = {
-  "威廉 #5" = 40  # Willem #5
-  "阿尔贝特 #0" = 20  # Albert #0
-  "约翰 #2" = 15  # Johan #2
-  "路德维克 #0" = 15  # Lodewijk #0
-  "埃伯哈德 #0" = 15  # Eberhard #0
-  "德克 #7" = 5  # Dirk #7
-  "弗洛里斯 #5" = 5  # Floris #5
-  "扬 #1" = 5  # Jan #1
-  "阿尔夫 #1" = 5  # Arnolf #1
-  "阿德里安 #0" = 0  # Adriaan #0
-  "安东 #0" = 0  # Anton #0
-  "巴索特 #0" = 0  # Barthout #0
-  "克里斯蒂安 #0" = 0  # Christiaan #0
-  "康斯坦丁 #0" = 0  # Constantijn #0
-  "达尼埃尔 #0" = 0  # Daniël #0
-  "菲利普 #0" = 0  # Filips #0
-  "弗兰斯 #0" = 0  # Frans #0
-  "加布里埃尔 #0" = 0  # Gabriël #0
-  "加斯帕 #0" = 0  # Gaspar #0
-  "赫拉尔杜斯 #0" = 0  # Gerardus #0
-  "戈布兰特 #0" = 0  # Gerbrand #0
-  "亨德里克 #0" = 0  # Hendrik #0
-  "杰伦 #0" = 0  # Jeroen #0
-  "乔斯特 #0" = 0  # Joost #0
-  "卡雷尔 #0" = 0  # Karel #0
-  "卡斯珀 #0" = 0  # Kasper #0
-  "拉莫拉尔 #0" = 0  # Lamoraal #0
-  "雨果 #0" = 0  # Hugo #0
-  "雅各布 #0" = 0  # Jacob #0
-  "彼得 #0" = 0  # Pieter #0
-  "普罗科普 #0" = 0  # Procop #0
-  "普罗斯佩 #0" = 0  # Prosper #0
-  "雷斯 #0" = 0  # Raes #0
-  "伦勃朗 #0" = 0  # Rembrandt #0
-  "西蒙 #0" = 0  # Simon #0
-  "鲁道夫 #0" = 0  # Rodolf #0
-  "罗兰德 #0" = 0  # Roeland #0
-  "雅各巴 #0" = -15  # Jakoba #0
-  "马加杜塔 #1" = -10  # Margaretha #1
-  "伊莎贝拉 #0" = -1  # Isabella #0
-  "乔安娜 #0" = -1  # Johanna #0
-  "玛丽亚 #0" = -1  # Maria #0
-  "玛蒂尔德 #0" = -1  # Mathilde #0
-  "艾蕾德 #0" = -1  # Aleid #0
-  "凯瑟琳 #0" = -1  # Katherin #0
+	"Willem #5" = 40
+	"Albert #0" = 20
+	"Johan #2" = 15	
+	"Lodewijk #0" = 15
+	"Eberhard #0" = 15
+	"Dirk #7" = 5
+	"Floris #5" = 5
+	"Jan #1" = 5
+	"Arnolf #1" = 5
+	"Adriaan #0" = 0
+	"Anton #0" = 0
+	"Barthout #0" = 0
+	"Christiaan #0" = 0
+	"Constantijn #0" = 0
+	"Dani�l #0" = 0
+	"Filips #0" = 0	
+	"Frans #0" = 0
+	"Gabri�l #0" = 0
+	"Gaspar #0" = 0
+	"Gerardus #0" = 0
+	"Gerbrand #0" = 0
+	"Hendrik #0" = 0
+	"Jeroen #0" = 0
+	"Joost #0" = 0
+	"Karel #0" = 0
+	"Kasper #0" = 0
+	"Lamoraal #0" = 0
+	"Hugo #0" = 0
+	"Jacob #0" = 0
+	"Pieter #0" = 0
+	"Procop #0" = 0
+	"Prosper #0" = 0
+	"Raes #0" = 0
+	"Rembrandt #0" = 0
+	"Simon #0" = 0
+	"Rodolf #0" = 0
+	"Roeland #0" = 0
+	
+	"Jakoba #0" = -15
+	"Margaretha #1" = -10
+	"Isabella #0" = -1
+	"Johanna #0" = -1
+	"Maria #0" = -1
+	"Mathilde #0" = -1
+	"Aleid #0" = -1
+	"Katherin #0" = -1
 }
+
 leader_names = {
-  "阿梅兰"  # Ameland
-  "阿默斯福特"  # Amersfoort
-  "阿姆斯特尔"  # Amstel
-  "阿平丹"  # Appingedam
-  "安亨"  # Arnhem
-  "比尔德"  # Bieldeers
-  "布洛克"  # Blokker
-  "博尔斯瓦德"  # Bolsward
-  "博塔"  # Botha
-  "布雷达"  # Breda
-  "布里埃尔"  # Brielle
-  "库曼斯"  # Coemans
-  "库福尔登"  # Coevorden
-  "科内利斯"  # Cornelis
-  "科斯特斯"  # Costers
-  "屈伦博赫"  # Culemborg
-  "德 威特"  # De Witt
-  "Den Burg"
-  "迪达蒂"  # Deodati
-  "多克姆"  # Dokkum
-  "多德雷赫特"  # Dordrecht
-  "德伦特"  # Drenthe
-  "Driesman"
-  "Eindhoven"
-  "叶尔斯特"  # Elst
-  "埃尔滕 勒尔"  # Elten Leur
-  "恩克黑曾"  # Enkhuizen
-  "Fliesingen"
-  "弗里森"  # Friesen
-  "Geelvinck"
-  "海里特"  # Geerit
-  "Genk"
-  "Goes"
-  "豪达"  # Gouda
-  "格罗宁根"  # Groningen
-  "Gulder"
-  "Haag"
-  "哈勒姆"  # Haarlem
-  "Hebenal"
-  "Heerlen"
-  "Heertognebosh"
-  "Heineken"
-  "Helder"
-  "亨德里克"  # Hendryck
-  "希尔弗瑟姆"  # Hilversum
-  "扬茨"  # Jansz
-  "坎彭"  # Kampen
-  "卡斯滕斯"  # Karstens
-  "科顿艾尔"  # Kortenaer
-  "科特赖克"  # Kortrijk
-  "劳厄斯"  # Lauwers
-  "莱默"  # Lemmer
-  "莱登"  # Leyden
-  "林堡"  # Limburg
-  "马斯特里赫特"  # Maastricht
-  "梅佩尔"  # Meppel
-  "米德米尔"  # Middenmeer
-  "米德尔堡"  # Middleburg
-  "纽韦根"  # Neuwegen
-  "奈凯克"  # Nijkerk
-  "奈梅亨"  # Nijmegen
-  "奥尔登巴内维尔特"  # Oldenbarneveld
-  "奥尔德扎尔"  # Olderzaal
-  "Opdorf"
-  "Overijssel"
-  "菲利普斯"  # Philipps
-  "Piet"
-  "Poszt"
-  "斯赫弗宁根"  # Scheveningen
-  "Schiedam"
-  "Scholtecheren"
-  "Schoonebeck"
-  "Schouwen"
-  "Sluis"
-  "Smuts"
-  "Spijkenise"
-  "Terchelling"
-  "特塞尔"  # Texel
-  "Twente"
-  "乌得勒支"  # Utrecht
-  "Valkenswaard"
-  "范 登 多普"  # Van Den Dorp
-  "范 德 杜斯"  # Van der Does
-  "范 赫斯林"  # Van Hessling
-  "范 斯皮尔贝根"  # Van Spilbergen
-  "范 施塔博"  # Van Stabel
-  "范 威克"  # Van Wick
-  "Veendam"
-  "Venloo"
-  "Venray"
-  "Volendam"
-  "Vroom"
-  "Willem"
-  "Woerden"
-  "Waalwijck"
-  "Zandwort"
-  "Zoetermeer"
-  "Zuiderzee"
-  "Zwijndrecht"
-  "兹沃勒"  # Zwolle
+	Ameland Amersfoort Amstel Appingedam Arnhem
+	Bieldeers Blokker Bolsward Botha Breda Brielle
+	Coemans Coevorden Cornelis Costers Culemborg
+	"De Witt" "Den Burg" Deodati Dokkum Dordrecht Drenthe Driesman
+	Eindhoven Elst "Elten Leur" Enkhuizen
+	Fliesingen Friesen
+	Geelvinck Geerit Genk Goes Gouda Groningen Gulder
+	Haag Haarlem Hebenal Heerlen Heertognebosh Heineken Helder Hendryck Hilversum
+	Jansz
+	Kampen Karstens Kortenaer Kortrijk
+	Lauwers Lemmer Leyden Limburg
+	Maastricht Meppel Middenmeer Middleburg
+	Neuwegen Nijkerk Nijmegen
+	Oldenbarneveld Olderzaal Opdorf Overijssel
+	Philipps Piet Poszt
+	Scheveningen Schiedam Scholtecheren Schoonebeck Schouwen Sluis Smuts Spijkenise
+	Terchelling Texel Twente
+	Utrecht
+	Valkenswaard "Van Den Dorp" "Van der Does" "Van Hessling" "Van Spilbergen" "Van Stabel" "Van Wick" Veendam Venloo Venray Volendam Vroom
+	Willem Woerden Waalwijck
+	Zandwort Zoetermeer Zuiderzee Zwijndrecht Zwolle
 }
+
 ship_names = {
-  "大天使米迦勒"  # Aartsengel Michael
-  "海军上将"  # Admiraal Generaal
-  "阿姆斯特丹证券交易所"  # Beurs van Amsterdam
-  "大蓝鹭"  # Blauwe Reiger
-  "布洛伊斯 范 特雷斯隆"  # Bloys van Treslong
-  "莱顿堡"  # Burcht van Leiden
-  "阿姆斯特丹商务"  # Commercie van Amsterdam
-  "乌得勒支主教座堂"  # Dom van Utrecht
-  "三兄弟"  # Drie Gebroeders
-  "大卫王三勇士"  # David's Drie Helden
-  "东方三王"  # Drie Koningen
-  "德 乌尼"  # d'Unij
-  "十一城"  # Elf Steden
-  "天使加百列"  # Engel Gabriel
-  "弗雷德里克 亨德里克"  # Frederik Hendrik
-  "武装绿林汉"  # Gewapenden Ruijter
-  "金海豚"  # Gouden Dolfijn
-  "金狮"  # Gouden Leeuw
-  "金月"  # Gouden Maan
-  "威廉伯爵"  # Graaf Willem
-  "大荷兰迪亚"  # Groot Hollandia
-  "大爱"  # Groote Liefde
-  "半月"  # Halve Maan
-  "圣约翰教堂宫"  # Hof Sint Janskerken
-  "雷嫩宫"  # Hof van Rheenen
-  "苏堡宫"  # Hof van Souburg
-  "泽兰宫"  # Hof van Zeeland
-  "荷兰花园"  # Hollandsche Tuin
-  "Huijs te Zwieten"
-  "Huis te Jaarsveld"
-  "Huis te Kruiningen"
-  "Huis te Oostewijk"
-  "Huis te Zwieten"
-  "消遣之家"  # Huis Tijdverdrijf
-  "格罗宁根家族"  # Huis van Groeningen
-  "拿骚家族"  # Huis van Nassau
-  "拉弗斯特家族"  # Huis van Raaphorst
-  "Kasteel van Medemblik"
-  "滨海卡特韦克"  # Katwijk aan Zee
-  "勃兰登堡选帝侯"  # Keurvorst van Brandenburg
-  "萨克森选帝侯"  # Keurvorst van Saksen
-  "勃兰登堡女选侯"  # Keurvorstin van Brandenburg
-  "小弗里斯兰"  # Klein Frisia
-  "小荷兰迪亚"  # Klein Hollandia
-  "小聚特芬"  # Klein Zutphen
-  "小鲻鱼"  # Kleine Harder
-  "威廉国王"  # Koning William
-  "路易莎·亨德里卡"  # Louisa Hendrika
-  "Maagd van Enkhuizen"
-  "Marcus Curtius"
-  "士麦那邮差"  # Postiljon van Smyrna
-  "弗里索亲王"  # Prins Friso
-  "亨德里克·卡西米尔亲王"  # Prins Hendrik Casimir
-  "亨德里克亲王"  # Prins Hendrik
-  "毛里茨亲王"  # Prins Maurits
-  "马上亲王"  # Prins te Paard
-  "葡萄牙亲王"  # Prins van Portugal
-  "威廉亲王"  # Prins Willem
-  "艾米莉亚公主"  # Prinses Aemilia
-  "阿尔贝蒂娜公主"  # Prinses Albertina
-  "玛丽亚公主"  # Prinses Maria
-  "罗亚尔·玛丽亚公主"  # Prinses Roijael Maria
-  "乌得勒支省"  # Provincie Utrecht
-  "荷兰省"  # Provincie van Holland
-  "哈勒姆市政厅"  # Raadhuis van Haarlem
-  "红狮"  # Roode Leeuw
-  "所罗门之审判"  # Salomons Oordeel
-  "Schager Roos"
-  "圣安德烈"  # Sint Andries
-  "圣雅各伯"  # Sint Jacob
-  "圣劳伦斯"  # Sint Laurens
-  "圣玛利亚"  # Sint Maria
-  "圣马太"  # Sint Matheeus
-  "圣彼得"  # Sint Pieter
-  "城市及乡村"  # Stad en Lande
-  "豪达城"  # Stad Gouda
-  "哈勒姆城"  # Stad Haarlem
-  "乌得勒支城"  # Stad Utrecht
-  "胡斯"  # Ter Goes
-  "费勒"  # Ter Veere
-  "联合省"  # Verenigde Provinciën
-  "纹金龙"  # Vergulden Draeck
-  "飞鱼"  # Vliegende Vis
-  "雉鸡"  # Vogel Phesant
-  "鸵鸟"  # Vogel Struis
-  "Wakende Boei"
-  "Wakende Kraan"
-  "埃德姆之纹章"  # Wapen van Edam
-  "哈勒姆之纹章"  # Wapen van Haarlem
-  "荷兰之纹章"  # Wapen van Holland
-  "莱伊登之纹章"  # Wapen van Leijden
-  "拿骚之纹章"  # Wapen van Nassau
-  "乌得勒支之纹章"  # Wapen van Utrecht
-  "泽兰之纹章"  # Wapen van Zeeland
-  "威廉 范 钮荷夫"  # Willem van Nieuhoff
-  "白羊"  # Witte Lam
-  "黑鹰"  # Zwarte Arend
-  "黑牛"  # Zwarte Bul
-  "Aemilia"
-  "阿加莎"  # Agatha
-  "阿贾克斯"  # Ajax
-  "橡树"  # Akerboom
-  "阿利达"  # Alida
-  "阿尔克马尔"  # Alkmaar
-  "同盟"  # Alliantie
-  "阿尔芬"  # Alphen
-  "阿玛莉亚"  # Amalia
-  "亚马逊"  # Amazoon
-  "安菲特里忒"  # Amphitrite
-  "阿姆斯特丹"  # Amsterdam
-  "雄鹰"  # Arend
-  "阿尔戈"  # Argo
-  "安亨"  # Arnhem
-  "Assendelft"
-  "旗帜"  # Banier
-  "Barbestein"
-  "巴达维亚"  # Batavia
-  "巴达维亚人"  # Batavier
-  "溪流"  # Beekvliet
-  "Beemster"
-  "Beemsterlust"
-  "Beliona"
-  "保护者"  # Beschermer
-  "Boekenrode"
-  "Boetzelaar"
-  "木塞"  # Bommel
-  "Braave"
-  "Brakel"
-  "布雷达"  # Breda
-  "Brederode"
-  "布里埃尔"  # Brielle
-  "兄弟会"  # Broederschap
-  "布鲁图"  # Brutus
-  "管道"  # Buis
-  "公牛"  # Bul
-  "Burgvliet"
-  "Caleb"
-  "卡兰茨奥赫"  # Callantsoog
-  "Castricum"
-  "卡塔琳娜"  # Catharina
-  "地狱犬"  # Cerberus
-  "Convertine"
-  "库拉索"  # Curacao
-  "Dalem"
-  "Damiaten"
-  "感激"  # Dankbaarheid
-  "Delfland"
-  "代尔夫特"  # Delft
-  "Deutekom"
-  "代芬特尔"  # Deventer
-  "Diepenheim"
-  "Dieren"
-  "Doesburg"
-  "Doggersbank"
-  "海豚"  # Dolfijn
-  "海豚"  # Dolfijn
-  "多德雷赫特"  # Dordrecht
-  "恶龙"  # Draak
-  "德拉肯斯坦"  # Drakestein
-  "德伦特"  # Drente
-  "Drielst"
-  "丘原"  # Duinveld
-  "Duivenvoorde"
-  "回音"  # Echo
-  "Edam"
-  "和谐"  # Eendracht
-  "独角兽"  # Eenhoorn
-  "赤杨"  # Elswoud
-  "天使"  # Engel
-  "Erfprins"
-  "幸运女神"  # Fortuin
-  "弗里斯兰"  # Friesland
-  "蜈蚣船"  # Galei
-  "海尔德兰"  # Gelderland
-  "信仰"  # Geloof
-  "基甸"  # Gideon
-  "Glindhorst"
-  "胡斯"  # Goes
-  "豪达"  # Gouda
-  "Gouderak"
-  "哈勒姆"  # Haarlem
-  "Haarlemmerhout"
-  "Hardenbroek"
-  "Harderwijk"
-  "雄鹰"  # Havik
-  "赫克托耳"  # Hector
-  "海姆斯泰德"  # Heemstede
-  "复兴者"  # Hersteller
-  "海特"  # Het
-  "Loo"
-  "Hilverbeek"
-  "希尔弗瑟姆"  # Hilversum
-  "荷兰迪亚"  # Hollandia
-  "胡普"  # Hoop
-  "Jaarsveld"
-  "约拿"  # Jonas
-  "约书亚"  # Jozua
-  "朱庇特"  # Jupiter
-  "Kalandsoog"
-  "骆驼"  # Kameel
-  "战斗"  # Kampen
-  "Kampveere"
-  "克内默兰"  # Kennemerland
-  "Koevorden"
-  "彗星"  # Komeet
-  "Kooge"
-  "农夫"  # Landman
-  "Landskroon"
-  "吕伐登"  # Leeuwarden
-  "列文霍斯特"  # Leeuwenhorst
-  "爱情"  # Liefde
-  "Loosdregt"
-  "豹"  # Luipaard
-  "猞猁"  # Lynx
-  "太阴"  # Maan
-  "Maarseveen"
-  "马斯河"  # Maas
-  "玛格丽特"  # Margarethe
-  "玛尔斯"  # Mars
-  "Matenes"
-  "美杜莎"  # Medusa
-  "美人鱼"  # Meermin
-  "墨丘利"  # Mercuur
-  "中间"  # Middelbare
-  "Middelburg"
-  "晨星"  # Morgenstar
-  "摩尔人首级"  # Moriaanshoofd
-  "Naerden"
-  "涅普顿"  # Neptunus
-  "北荷兰"  # Noorderkwartier
-  "大象"  # Olifant
-  "Omlandia"
-  "Oostergo"
-  "Oosterwijk"
-  "橘树"  # Oranjeboom
-  "奥兹霍仑"  # Oudshoorn
-  "上艾瑟尔"  # Overijssel
-  "Overwinnaer"
-  "绥靖"  # Pacificatie
-  "珍珠"  # Parel
-  "鹈鹕"  # Pelikaan
-  "箭矢"  # Pijl
-  "岗哨"  # Post
-  "亲王"  # Prins
-  "乌鸦"  # Raaf
-  "Ramhorst"
-  "雄獐"  # Reebok
-  "赖格尔斯贝格"  # Reigersberg
-  "莱茵兰"  # Rijnland
-  "玫瑰念珠"  # Rosenkranz
-  "火蜥蜴"  # Salamander
-  "Schieland"
-  "肖努文城堡"  # Schonauwen
-  "Souterwoude"
-  "镜鉴"  # Spiegel
-  "间谍"  # Spion
-  "Starrenburg"
-  "Stavoren"
-  "苏珊娜"  # Susanna
-  "Tholen"
-  "消遣"  # Tijdverdrijf
-  "猛虎"  # Tijger
-  "特里同"  # Triton
-  "长鼻"  # Tromp
-  "联合"  # Unie
-  "乌得勒支"  # Utrecht
-  "胡鹰"  # Valk
-  "Veere"
-  "Velsen"
-  "弗拉芒人"  # Vlaming
-  "弗利辛亨"  # Vlissingen
-  "谨慎"  # Voorzichtigheid
-  "和平"  # Vrede
-  "自由"  # Vrijheid
-  "天平"  # Waag
-  "机警"  # Waakzamheid
-  "瓦尔赫伦"  # Walcheren
-  "Wassenaer"
-  "Westergo"
-  "西弗里斯兰"  # Westfriesland
-  "Weststellingwerft"
-  "灰猎犬"  # Windhond
-  "Wolf"
-  "Wolfswinkel"
-  "复仇者"  # Wreker
-  "泽兰迪亚"  # Zeelandia
-  "海马"  # Zeepaard
-  "Zephier"
-  "济里克泽"  # Zierikzee
-  "太阳"  # Zon
-  "南屋"  # Zuiderhuis
-  "Zuileveld"
-  "聚特芬"  # Zutphen
-  "天鹅"  # Zwaan
-  "燕子"  # Zwaluw
-  "Zwanenburg"
-  "Zwieten"
+	"Aartsengel Michael" "Admiraal Generaal" "Beurs van Amsterdam" "Blauwe Reiger" "Bloys van Treslong" "Burcht van Leiden" "Commercie van Amsterdam" "Dom van Utrecht"
+	"Drie Gebroeders" "David's Drie Helden" "Drie Koningen" "d'Unij" "Elf Steden" "Engel Gabriel" "Frederik Hendrik" "Gewapenden Ruijter" "Gouden Dolfijn" "Gouden Leeuw"
+	"Gouden Maan" "Graaf Willem" "Groot Hollandia" "Groote Liefde" "Halve Maan" "Hof Sint Janskerken" "Hof van Rheenen" "Hof van Souburg" "Hof van Zeeland"
+	"Hollandsche Tuin" "Huijs te Zwieten" "Huis te Jaarsveld" "Huis te Kruiningen" "Huis te Oostewijk" "Huis te Zwieten" "Huis Tijdverdrijf" "Huis van Groeningen"
+	"Huis van Nassau" "Huis van Raaphorst" "Kasteel van Medemblik" "Katwijk aan Zee" "Keurvorst van Brandenburg" "Keurvorst van Saksen" "Keurvorstin van Brandenburg"
+	"Klein Frisia" "Klein Hollandia" "Klein Zutphen" "Kleine Harder" "Koning William" "Louisa Hendrika" "Maagd van Enkhuizen" "Marcus Curtius" "Postiljon van Smyrna"
+	"Prins Friso" "Prins Hendrik Casimir" "Prins Hendrik" "Prins Maurits" "Prins te Paard" "Prins van Portugal" "Prins Willem" "Prinses Aemilia" "Prinses Albertina"
+	"Prinses Maria" "Prinses Roijael Maria" "Provincie Utrecht" "Provincie van Holland" "Raadhuis van Haarlem" "Roode Leeuw" "Salomons Oordeel" "Schager Roos"
+	"Sint Andries" "Sint Jacob" "Sint Laurens" "Sint Maria" "Sint Matheeus" "Sint Pieter" "Stad en Lande" "Stad Gouda" "Stad Haarlem" "Stad Utrecht" "Ter Goes"
+	"Ter Veere" "Verenigde Provinci�n" "Vergulden Draeck" "Vliegende Vis" "Vogel Phesant" "Vogel Struis" "Wakende Boei" "Wakende Kraan" "Wapen van Edam"
+	"Wapen van Haarlem" "Wapen van Holland" "Wapen van Leijden" "Wapen van Nassau" "Wapen van Utrecht" "Wapen van Zeeland" "Willem van Nieuhoff" "Witte Lam"
+	"Zwarte Arend" "Zwarte Bul" Aemilia Agatha Ajax Akerboom Alida Alkmaar Alliantie Alphen Amalia Amazoon Amphitrite Amsterdam Arend Argo Arnhem Assendelft Banier
+	Barbestein Batavia Batavier Beekvliet Beemster Beemsterlust Beliona Beschermer Boekenrode Boetzelaar Bommel Braave Brakel Breda Brederode Brielle Broederschap
+	Brutus Buis Bul Burgvliet Caleb Callantsoog Castricum Catharina Cerberus Convertine Curacao Dalem Damiaten Dankbaarheid Delfland Delft Deutekom Deventer Diepenheim
+	Dieren Doesburg Doggersbank Dolfijn Dolfijn Dordrecht Draak Drakestein Drente Drielst Duinveld Duivenvoorde Echo Edam Eendracht Eenhoorn Elswoud Engel Erfprins
+	Fortuin Friesland Galei Gelderland Geloof Gideon Glindhorst Goes Gouda Gouderak Haarlem Haarlemmerhout Hardenbroek Harderwijk Havik Hector Heemstede Hersteller
+	Het Loo Hilverbeek Hilversum Hollandia Hoop Jaarsveld Jonas Jozua Jupiter Kalandsoog Kameel Kampen Kampveere Kennemerland Koevorden Komeet Kooge Landman Landskroon
+	Leeuwarden Leeuwenhorst Liefde Loosdregt Luipaard Lynx Maan Maarseveen Maas Margarethe Mars Matenes Medusa Meermin Mercuur Middelbare Middelburg Morgenstar
+	Moriaanshoofd Naerden Neptunus Noorderkwartier Olifant Omlandia Oostergo Oosterwijk Oranjeboom Oudshoorn Overijssel Overwinnaer Pacificatie Parel Pelikaan Pijl
+	Post Prins Raaf Ramhorst Reebok Reigersberg Rijnland Rosenkranz Salamander Schieland Schonauwen Souterwoude Spiegel Spion Starrenburg Stavoren Susanna Tholen
+	Tijdverdrijf Tijger Triton Tromp Unie Utrecht Valk Veere Velsen Vlaming Vlissingen Voorzichtigheid Vrede Vrijheid Waag Waakzamheid Walcheren Wassenaer Westergo
+	Westfriesland Weststellingwerft Windhond Wolf Wolfswinkel Wreker Zeelandia Zeepaard Zephier Zierikzee Zon Zuiderhuis Zuileveld Zutphen Zwaan Zwaluw Zwanenburg
+	Zwieten
 }
+
 army_names = {
-  "$PROVINCE$军"  # Leger van $PROVINCE$
-}
-fleet_names = {
-  "$PROVINCE$舰队"  # Vloot van $PROVINCE$
-}
+	"Leger van $PROVINCE$"  }
+
+fleet_names = {  "Vloot van $PROVINCE$" 
+	 }

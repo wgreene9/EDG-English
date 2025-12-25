@@ -1,7 +1,7 @@
 1444.1.1 = {
   monarch = {
-    name = "路易 约瑟夫 III"  # Jean I
-    dynasty = "德 萨兰"  # de Bourgogne
+    name = "Louis Joseph III"  # Jean I
+    dynasty = "de Salan"  # de Bourgogne
     birth_date = 1402.1.1
     dip = 4
     adm = 1

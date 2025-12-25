@@ -1,1 +1,1 @@
-capital = "Straburg"
+capital = "Straﬂburg"

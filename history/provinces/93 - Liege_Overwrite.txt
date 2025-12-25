@@ -1,1 +1,1 @@
-capital = "Lige"
+capital = "Liège"

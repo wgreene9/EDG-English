@@ -1,7 +1,7 @@
 1409.5.13 = {
 	monarch = {
-		name = "兀鲁伯"
-		dynasty = "帖木儿"
+		name = "Ulugh Beg"
+		dynasty = "Timurid"
 		birth_date = 1394.1.1
 		adm = 3
 		dip = 5
@@ -13,9 +13,9 @@
 	add_ruler_personality = EDG_mathematician_personality
 	add_ruler_personality = patron_of_arts_personality
 	heir = {
-		name = "阿不都 剌迪甫"
-		monarch_name = "阿不都 剌迪甫"
-      	dynasty = "帖木儿"
+		name = "Abdal-Latif"
+		monarch_name = "Abdal-Latif"
+      	dynasty = "Timurid"
 		birth_date = 1409.5.13
 		death_date = 1451.6.23
 		claim = 100

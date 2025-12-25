@@ -1,15 +1,15 @@
 1441.1.1 = {
   monarch = {
-    name = "尼基弗鲁斯 IV"  # Haji I
-    dynasty = "杜卡斯"  # Giray
+    name = "Nikephoros IV"  # Haji I
+    dynasty = "Doukas"  # Giray
     birth_date = 1397.1.1
     adm = 3
     dip = 4
     mil = 4
   }
   heir = {
-    name = "米海尔"  # Nur Devlet
-    dynasty = "杜卡斯"  # Giray
+    name = "Michael"  # Nur Devlet
+    dynasty = "Doukas"  # Giray
     birth_date = 1420.1.1
     claim = 95
     adm = 0

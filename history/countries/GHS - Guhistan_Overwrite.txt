@@ -1,7 +1,7 @@
 1444.1.1 = {
   monarch = {
-    name = "卡姆巴尔"  # Kumbar
-    dynasty = "挲玛 古希斯坦"  # Mirwari
+    name = "Kumbar"  # Kumbar
+    dynasty = "Sama Guhistan"  # Mirwari
     dip = 4
     adm = 2
     mil = 5

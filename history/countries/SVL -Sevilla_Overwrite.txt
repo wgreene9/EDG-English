@@ -1,7 +1,7 @@
 1444.1.1 = {
   monarch = {
-    name = "拉希德丁 Ⅹ"
-    dynasty = "阿巴德"
+    name = "Rashid al-Din X"
+    dynasty = "Abbadid"
 	birth_date = 1390.1.1
     adm = 4
     dip = 2
@@ -10,8 +10,8 @@
 }
 1444.1.1 = {
   heir = {
-    name = "赛里姆"
-    dynasty = "阿巴德"
+    name = "Selim"
+    dynasty = "Abbadid"
     birth_date = 1444.1.1
     claim = 45
     adm = 6

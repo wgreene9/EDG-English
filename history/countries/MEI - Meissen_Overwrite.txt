@@ -1,38 +1,40 @@
 1382.1.1 = {
-  monarch = {
-    name = "威廉 I"  # Wilhelm I
-    dynasty = "冯 韦廷"  # von Wettin
-    dip = 2
-    adm = 3
-    mil = 1
-  }
+	monarch = {
+		name = "Wilhelm I"
+		dynasty = "von Wettin"
+		dip = 2
+		adm = 3
+		mil = 1
+	}
 }
+
 1382.1.1 = {
-  heir = {
-    name = "腓特烈"  # Friedrich
-    monarch_name = "腓特烈 IV"  # Friedrich IV
-    dynasty = "冯 韦廷"  # von Wettin
-    birth_date = 1370.4.11
-    death_date = 1428.1.4
-    claim = 95
-    adm = 2
-    dip = 1
-    mil = 1
-  }
+	heir = {
+		name = "Friedrich"
+		monarch_name = "Friedrich IV"
+		dynasty = "von Wettin"
+		birth_date = 1370.4.11
+		death_date = 1428.1.4
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 1
+	}
 }
+
 1407.2.11 = {
-  monarch = {
-    name = "腓特烈 IV"  # Friedrich IV
-    dynasty = "冯 韦廷"  # von Wettin
-    dip = 1
-    adm = 2
-    mil = 1
-  }
+	monarch = {
+		name = "Friedrich IV"
+		dynasty = "von Wettin"
+		dip = 1
+		adm = 2
+		mil = 1
+	}
 }
 1437.2.11 = {
   heir = {
-    name = "阿尔布雷希特"  # Friedrich IV
-    dynasty = "冯 韦廷"  # von Wettin
+    name = "Albrecht"  # Friedrich IV
+    dynasty = "von Wettin"  # von Wettin
     birth_date = 1370.4.11
     death_date = 1458.1.4
     claim = 95

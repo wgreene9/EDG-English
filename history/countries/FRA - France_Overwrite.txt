@@ -1,19 +1,7 @@
-change_estate_land_share = {
-  estate = estate_nobles
-  share = 10
-}
-change_estate_land_share = {
-  estate = estate_church
-  share = -5
-}
-change_estate_land_share = {
-  estate = estate_burghers
-  share = -5
-}
 1393.10.22 = {
   monarch = {
-    name = "于格 VI"  # 
-    dynasty = "卡佩"  # de Valois
+    name = "Hugue VI"  # 
+    dynasty = "Capet"  # de Valois
     birth_date = 1390.2.22
     adm = 2
     dip = 2
@@ -34,8 +22,8 @@ change_estate_land_share = {
 		value = 0
 	}
   monarch = {
-    name = "于格 VII 「胜利王」"  # 
-    dynasty = "卡佩"  # de Valois
+    name = "Hughes VII 'the Victorious'"  # 
+    dynasty = "Capet"  # de Valois
     birth_date = 1411.2.22
     adm = 4
     dip = 4
@@ -46,8 +34,8 @@ change_estate_land_share = {
   add_ruler_personality = just_personality
   queen = {
     country_of_origin = BRI
-    name = "玛丽"  # Marie
-    dynasty = "德 德勒"  # d'Anjou
+    name = "Marie"  # Marie
+    dynasty = "de Dreux"  # d'Anjou
     birth_date = 1417.10.14
     death_date = 1453.11.29
     female = yes
@@ -62,7 +50,7 @@ change_estate_land_share = {
 }
 1427.1.1 = {
   leader = {
-    name = "让 德 迪努瓦"  # Jean de Dunois
+    name = "Jean de Dunois"  # Jean de Dunois
     type = general
     fire = 4
     shock = 3
@@ -83,7 +71,7 @@ change_estate_land_share = {
 # }
 1429.4.29 = {
   leader = {
-    name = "贞德"  # Jeanne d'Arc
+    name = "Jeanne d'Arc"  # Jeanne d'Arc
     type = general
     fire = 3
     shock = 5
@@ -94,7 +82,7 @@ change_estate_land_share = {
 }
 1439.1.1 = {
   leader = {
-    name = "让 布罗"  # Jean Bureau
+    name = "Jean Bureau"  # Jean Bureau
     type = general
     fire = 4
     shock = 4
@@ -106,9 +94,9 @@ change_estate_land_share = {
 }
 1443.7.3 = {
   heir = {
-    name = "路易"  # Louis
-    monarch_name = "路易 Xl"  # Louis Xl
-    dynasty = "卡佩"  # de Valois
+    name = "Louis"  # Louis
+    monarch_name = "Louis Xl"  # Louis Xl
+    dynasty = "Capet"  # de Valois
     birth_date = 1443.7.3
     death_date = 1505.10.27
     claim = 25
@@ -116,7 +104,4 @@ change_estate_land_share = {
     dip = 1
     mil = 0
   }
-}
-1444.10.1 = {
-  set_estate_privilege = estate_nobles_french_strong_duchies
 }

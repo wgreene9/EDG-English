@@ -1,7 +1,7 @@
 1380.1.1 = {
   monarch = {
-    name = "伟大的伊凡"  # Ivan Bolshoy
-    dynasty = "弗谢沃洛多维奇"  # Rurikovich
+    name = "Ivan Bolshoy"  # Ivan Bolshoy
+    dynasty = "Vsevolodovich"  # Rurikovich
     dip = 3
     adm = 2
     mil = 2
@@ -9,9 +9,9 @@
 }
 1386.1.1 = {
   heir = {
-    name = "费奥多尔"  # Fedor
-    monarch_name = "费奥多尔"  # Fedor
-    dynasty = "弗谢沃洛多维奇"  # Rurikovich
+    name = "Fedor"  # Fedor
+    monarch_name = "Fedor"  # Fedor
+    dynasty = "Vsevolodovich"  # Rurikovich
     birth_date = 1386.1.1
     death_date = 1434.1.1
     claim = 95
@@ -22,8 +22,8 @@
 }
 1426.1.1 = {
   monarch = {
-    name = "费奥多尔"  # Fedor
-    dynasty = "弗谢沃洛多维奇"  # Rurikovich
+    name = "Fedor"  # Fedor
+    dynasty = "Vsevolodovich"  # Rurikovich
     birth_date = 1386.1.1
     dip = 1
     adm = 1
@@ -32,9 +32,9 @@
 }
 1426.1.1 = {
   heir = {
-    name = "亚历山大"  # Alexandr
-    monarch_name = "亚历山大 「大肚子」"  # Alexandr Bryukhatiy
-    dynasty = "弗谢沃洛多维奇"  # Rurikovich
+    name = "Alexandr"  # Alexandr
+    monarch_name = "Alexandr Bryukhatiy"  # Alexandr Bryukhatiy
+    dynasty = "Vsevolodovich"  # Rurikovich
     birth_date = 1400.1.1
     death_date = 1480.1.1
     claim = 95
@@ -45,8 +45,8 @@
 }
 1434.1.1 = {
   monarch = {
-    name = "亚历山大 「大肚子」"  # Alexandr Bryukhatiy
-    dynasty = "弗谢沃洛多维奇"  # Rurikovich
+    name = "Alexandr Bryukhatiy"  # Alexandr Bryukhatiy
+    dynasty = "Vsevolodovich"  # Rurikovich
     birth_date = 1400.1.1
     dip = 3
     adm = 2

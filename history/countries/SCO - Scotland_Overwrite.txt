@@ -1,7 +1,7 @@
 1437.2.20 = {
   monarch = {
-    name = "亚历山大 IV"  # James II
-    dynasty = "布鲁斯"  # Stuart
+    name = "Alexander IV"  # James II
+    dynasty = "Bruce"  # Stuart
     birth_date = 1428.10.16
     adm = 5
     dip = 4
@@ -16,7 +16,7 @@
 }
 1443.12.24 = {
   leader = {
-    name = "罗贝尔I 华莱士"  # Archibald Douglas
+    name = "Robert I Wallace"  # Archibald Douglas
     type = general
     fire = 3
     shock = 3
@@ -28,7 +28,7 @@
 }
 1443.12.24 = {
   leader = {
-    name = "詹姆斯II 斯图亚特"
+    name = "James II Stuart"
     type = general
     fire = 1
     shock = 2
@@ -40,8 +40,8 @@
 }
 1444.7.3 = {
   queen = {
-    name = "玛丽"  # Mary
-    dynasty = "巴里奥尔"  # van Egmond
+    name = "Mary"  # Mary
+    dynasty = "Balliol"  # van Egmond
     birth_date = 1430.1.1
     death_date = 1460.8.3
     female = yes

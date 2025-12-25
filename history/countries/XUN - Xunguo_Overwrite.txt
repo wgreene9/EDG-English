@@ -1,7 +1,7 @@
 1439.1.1 = {
   monarch = {
-    name = "昭度"  # Qara Yusuf
-    dynasty = "韦"  # duan
+    name = "Zhaodu"  # Qara Yusuf
+    dynasty = "Wei"  # duan
     birth_date = 1410.1.1
     adm = 0
     dip = 2
@@ -10,8 +10,8 @@
 }
 1439.1.1 = {
   heir = {
-    name = "世安"  # Qara Yusuf
-    dynasty = "韦"  # duan
+    name = "Shi'an"  # Qara Yusuf
+    dynasty = "Wei"  # duan
     birth_date = 1440.1.1
     death_date = 1490.4.22
     claim = 95

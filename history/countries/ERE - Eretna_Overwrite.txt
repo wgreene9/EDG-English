@@ -1,13 +1,13 @@
 1444.1.1 = {
   monarch = {
-    name = "赛利姆 II"
-    dynasty = "奥斯曼奥卢"
+    name = "Selim II"
+    dynasty = "Osmanoglu"
     birth_date = 1415.7.8
     adm = 5
     dip = 2
     mil = 3
     leader = {
-      name = "赛利姆 II"
+      name = "Selim II"
       type = general
       fire = 3
       shock = 4
@@ -18,7 +18,7 @@
 }
 1444.1.1 = {
   leader = {
-    name = "Yûsuf 卡拉曼奥卢"
+    name = "Yûsuf Karamanoglu"
     type = general
     fire = 5
     shock = 3

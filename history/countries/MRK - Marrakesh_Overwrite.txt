@@ -1,7 +1,7 @@
 1444.1.1 = {
   monarch = {
-    name = "穆赫拉齐 I"  # Muhammad
-    dynasty = "穆瓦希德"  # Hintata
+    name = "Muharriz I"  # 穆赫拉齐 unclear. Muharazi?
+    dynasty = "Muwahid"  # Hintata
     birth_date = 1411.1.1
     adm = 4
     dip = 2
@@ -20,9 +20,9 @@
 }
 1444.1.1 = {
   heir = {
-    name = "阿卜杜勒"  # Ali
-    monarch_name = "阿卜杜勒 VI"  # Ali
-    dynasty = "穆瓦希德"  # Hintata
+    name = "Abdul"  # Ali
+    monarch_name = "Abdul VI"  # Ali
+    dynasty = "Muwahid"  # Hintata
     birth_date = 1440.1.1
     death_date = 1472.1.1
     claim = 95

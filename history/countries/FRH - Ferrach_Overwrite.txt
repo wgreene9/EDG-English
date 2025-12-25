@@ -1,16 +1,16 @@
 1442.1.1 = {
   add_piety = -0.5
   monarch = {
-    name = "伊斯坎德尔 I"  # Mu'izz al-Din Malik
-    dynasty = "克烈 乃蛮"  # Simnani
+    name = "Iskandar I"  # Mu'izz al-Din Malik
+    dynasty = "Kereit-Naiman"  # Simnani
     birth_date = 1404.1.1
     adm = 1
     dip = 3
     mil = 3
   }
   heir = {
-    name = "纳德尔"  # Mu'izz al-Din Malik
-    dynasty = "克烈 乃蛮"  # Simnani
+    name = "Nader"  # Mu'izz al-Din Malik
+    dynasty = "Kereit-Naiman"  # Simnani
     birth_date = 1441.1.1
     death_date = 1451.6.1
     claim = 95

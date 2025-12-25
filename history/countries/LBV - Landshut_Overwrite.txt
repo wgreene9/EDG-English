@@ -1,94 +1,101 @@
 1347.1.1 = {
-  monarch = {
-    name = "斯特凡 II"  # Stephan II
-    dynasty = "冯 维特尔斯巴赫"  # von Wittelsbach
-    birth_date = 1319.1.1
-    adm = 3
-    dip = 3
-    mil = 3
-  }
+	monarch = {
+		name = "Stephan II"
+		dynasty = "von Wittelsbach"
+		birth_date = 1319.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
 }
+
 1375.5.1 = {
-  monarch = {
-    name = "腓特烈 I"  # Friedrich I
-    dynasty = "冯 维特尔斯巴赫"  # von Wittelsbach
-    birth_date = 1339.1.1
-    adm = 3
-    dip = 3
-    mil = 3
-  }
+	monarch = {
+		name = "Friedrich I"
+		dynasty = "von Wittelsbach"
+		birth_date = 1339.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
 }
+
 1409.12.4 = {
-  monarch = {
-    name = "格奥尔格 I 「智者」"  # Heinrich XVI
-    dynasty = "冯 维特尔斯巴赫"  # von Wittelsbach
-    birth_date = 1409.1.1
-    adm = 4
-    dip = 5
-    mil = 5
-    leader = {
-      name = "奥格尔格 I 「智者」"  # Uzun Hasan
-      type = general
-      fire = 3
-      shock = 5
-      manuever = 3
-      siege = 4
-    }
-  }
+	monarch = {
+		name = "Georg I 'the Wise'"
+		dynasty = "von Wittelsbach"
+		birth_date = 1409.1.1
+		adm = 4
+		dip = 5
+		mil = 5
+		leader = {
+		name = "Georg I 'the Wise'"
+		type = general
+		fire = 3
+		shock = 5
+		manuever = 3
+		siege = 4
+		}
+	}
 }
+
 1412.11.25 = {
-  queen = {
-    name = "玛格丽特"  # Margarete
-    dynasty = "冯 哈布斯堡"  # von Habsburg
-    country_of_origin = HAB
-    birth_date = 1395.1.1
-    death_date = 1447.12.24
-    adm = 3
-    dip = 3
-    mil = 3
-  }
+	queen = {
+		name = "Margarete"
+		dynasty = "von Habsburg"
+		country_of_origin = HAB
+		birth_date = 1395.1.1
+		death_date = 1447.12.24
+		adm = 3
+		dip = 3
+		mil = 3
+	}
 }
+
 1417.2.23 = {
-  heir = {
-    name = "路德维希"  # Ludwig
-    monarch_name = "路德维希 IX"  # Ludwig IX
-    dynasty = "冯 维特尔斯巴赫"  # von Wittelsbach
-    birth_date = 1417.2.23
-    death_date = 1479.1.18
-    adm = 4
-    dip = 3
-    mil = 2
-  }
+	heir = {
+		name = "Ludwig"
+		monarch_name = "Ludwig IX"
+		dynasty = "von Wittelsbach"
+		birth_date = 1417.2.23
+		death_date = 1479.1.18
+		adm = 4
+		dip = 3
+		mil = 2
+	}
 }
+
 1450.7.30 = {
-  monarch = {
-    name = "路德维希 IX"  # Ludwig IX
-    dynasty = "冯 维特尔斯巴赫"  # von Wittelsbach
-    birth_date = 1417.2.23
-    adm = 4
-    dip = 3
-    mil = 2
-  }
+	monarch = {
+		name = "Ludwig IX"
+		dynasty = "von Wittelsbach"
+		birth_date = 1417.2.23
+		adm = 4
+		dip = 3
+		mil = 2
+	}
 }
+
 1455.8.15 = {
-  heir = {
-    name = "格奥尔格"  # Georg
-    monarch_name = "格奥尔格 I"  # Georg I
-    dynasty = "冯 维特尔斯巴赫"  # von Wittelsbach
-    birth_date = 1455.8.15
-    death_date = 1503.12.1
-    adm = 3
-    dip = 3
-    mil = 3
-  }
+	heir = {
+		name = "Georg"
+		monarch_name = "Georg I"
+		dynasty = "von Wittelsbach"
+		birth_date = 1455.8.15
+		death_date = 1503.12.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
 }
+
 1479.1.18 = {
-  monarch = {
-    name = "格奥尔格 I"  # Georg I
-    dynasty = "冯 维特尔斯巴赫"  # von Wittelsbach
-    birth_date = 1455.8.15
-    adm = 3
-    dip = 3
-    mil = 3
-  }
+	monarch = {
+		name = "Georg I"
+		dynasty = "von Wittelsbach"
+		birth_date = 1455.8.15
+		adm = 3
+		dip = 3
+		mil = 3
+	}
 }

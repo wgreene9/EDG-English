@@ -1,134 +1,199 @@
 ﻿l_english:
- LOT_balance_of_power_title:0 "大特许状"
- LOT_balance_of_power_desc:0 "[Root.GetName]是[Root.GetName]国家的重要部分，无论是商业还是殖民事业，[Root.GetName]都离不开[Root.GetName]人的支持，通过颁布大特许状，[Root.GetName]将获得[Root.GetName]人的忠诚。"
+LOT_balance_of_power_title:0 "The Great Charter"
+LOT_balance_of_power_desc:0 "[Root.GetName] is a vital part of the state of [Root.GetName]. Both in commerce and colonial ventures, [Root.GetName] cannot do without the support of the [Root.GetName] people. By issuing the Great Charter, [Root.GetName] will secure the loyalty of the [Root.GetName] people."
 
- LOT_flanders_title:0 "在佛兰德战场"
- LOT_flanders_desc:0 "力量、团结与共同理想构成了将[Root.GetName]人民联结在一起的一些品质。[Root.GetName]斗争以拓展[Root.GetName]的领土，[Root.GetName]的下一步将剑指佛兰德。"
- LOT_luxembourg_fortress_title:0 "卢森堡博克要塞"
- LOT_luxembourg_fortress_desc:0 "虽然我国所在的地区大多是平地或是沼泽，但[Root.GetName]显然也需要防御设施。没什么比一座建立在[94.GetName]的雄伟要塞更合适了。"
- LOT_dutch_polders_title:0 "资助围海造田"
- LOT_dutch_polders_desc:0 "尽管海洋通过贸易和货币为[Root.GetName]提供了资源，但显而易见的是，为了确保[Root.GetName]的人民有更多的生存空间，[Root.GetName]必须从海洋手中夺取更多资源。"
- LOT_low_countries_urbanization_title:0 "资助低地都市"
- LOT_low_countries_urbanization_desc:0 "人类的进步不应因先辈们的建筑缺陷而受到阻碍或停滞不前。为此，让[Root.GetName]建造和扩建城市中心，以满足日益增长的商品和居住需求。"
- LOT_fluyts_title:0 "福禄特货船"
- LOT_fluyts_desc:0 "作为一个生活在海边的民族，[Root.GetName]必须继续磨练自己，掌握环绕[Root.GetName]海岸的水流和潮起潮落。"
- LOT_sea_beggars_title:0 "让海丐为[Root.GetName]服务"
- LOT_sea_beggars_desc:0 "在战争时期，尤其是面对更强大的敌人时，[Root.GetName]必须利用一切可以利用的人以取胜，无论他们的道德底线如何。通常会给[Root.GetName]带来麻烦的各种私掠船队，现在已经准备就绪，随时可以向[Root.GetName]的敌人发动攻击。"
- LOT_organizing_the_church_title:0 "重组神职人员"
- LOT_organizing_the_church_desc:0 "教士和宗教人士混入宫廷事务是一个最危险的先例。[Root.GetName]必须清除他们中的腐败分子，确保他们的忠诚。"
- LOT_religious_immigrants_title:0 "移民潮"
- LOT_religious_immigrants_desc:0 "宗教改革导致许多宗教团体背井离乡，寻找新的土地。[Root.GetName]将成为自由的灯塔，让每一个被迫离开家园的人都能在[Root.GetName]的土地上找到更好的生活。"
- LOT_carribean_colonies_title:0 "洛属加勒比"
- LOT_carribean_colonies_desc:0 "加勒比海有许多蔗糖种植园，都很富裕，理应成为[Root.GetName]的囊中之物。让[Root.GetName]扬帆起航，以国家的名义殖民这些土地。"
- LOT_guyana_title:0 "加洛林王朝在圭亚那"
- LOT_guyana_desc:0 "[Root.GetName]的海军和移民无法进入南美洲。通过在圭亚那建立自己的基地，[Root.GetName]将能够为将来在巴西的谋划留有余地，不论谋划是大是小。"
- LOT_raise_the_militia_title:0 "组建民兵"
- LOT_raise_the_militia_desc:0 "[Root.GetName]在勃艮第旗帜下生活了太久。是时候让[Root.GetName]的人民站起来，掌握自己的命运了。"
- LOT_holland_title:0 "统一荷兰"
- LOT_holland_desc:0 "低地国家的中心地带拥有丰富的贸易和财富。将其纳入[Root.GetName]的领地能够进一步增强[Root.GetName]在该地区的影响力和地位。"
- LOT_unification_of_low_countries_title:0 "坚持不懈"
- LOT_unification_of_low_countries_desc:0 "对那些想要伤害[Root.GetName]人民或是强占[Root.GetName]土地的敌人发起进攻的时机到了。[Root.GetName]永不为奴！"
- LOT_cloth_trading_title:0 "资助纺织行业"
- LOT_cloth_trading_desc:0 "遍布低地各省的工坊，以其生产的布料和丝线的质量而闻名。多种技术，以及本地工匠的专业知识，创造了全欧洲所知最优良的服装。"
- LOT_dutch_canal_works_title:0 "资助堤坝工程"
- LOT_dutch_canal_works_desc:0 "强固的工程和坚固的建材，使[Root.GetName]筑起结实的堤坝并掌控了水。"
- LOT_rise_of_dutch_navy_title:0 "建立联省海军"
- LOT_rise_of_dutch_navy_desc:0 "作为一个占据着欧洲最为有利可图的海岸的国家，显然[Root.GetName]的港口必须拥有一支最强大的海军。"
- LOT_dutch_admiralities_title:0 "[Root.GetName]五大海军部"
- LOT_dutch_admiralities_desc:0 "管理海洋事务和确保[Root.GetName]的海军拥有最优秀的人才，是我国施政的当务之急。"
- LOT_amsterdam_stock_exchange_title:0 "阿姆斯特丹证券交易所"
- LOT_amsterdam_stock_exchange_desc:0 "金钱、信用和海外贸易常常在我国的厅堂之中涌动。为了更好地支持我国的金融事务和扩张，必须提供必要的设施。"
- LOT_dutch_naval_supremacy_title:0 "[Root.GetName]海军霸权"
- LOT_dutch_naval_supremacy_desc:0 "多年以来，[Root.GetName]曾面对过许多强大的敌人。然而，无人可以对抗[Root.GetName]这些曾在大海上征服了最传奇的敌人的海上雄狮。"
- LOT_humanism_title:0 "[Root.GetName]人文主义"
- LOT_humanism_desc:0 "似乎多数欧洲国家都将神的教诲奉为圭臬。[Root.GetName]并非此类。[Root.GetName]恪守着一种被称之为人文主义——一种平等尊重所有为国奉献的人的新生教诲开疆拓土。借我国之大义，将这个理念传遍四方！"
- LOT_erasmus_title:0 "伊拉斯谟的教诲"
- LOT_erasmus_desc:0 "鹿特丹的伊拉斯谟关于人文主义的教导引发了低地国家的变革，对回归古典学问、批判性思维以及独立自主的推崇。他的影响引发了知识的复兴，进而使社会向着开明、包容的方向发展，教育也再次得到。伊拉斯谟的遗产在他身后仍在对这片地区知识分子的发展产生着冲击，引起共鸣以及文化革新。"
- LOT_west_indies_company_title:0 "西印度公司"
- LOT_west_indies_company_desc:0 "一些勇敢的殖民者已经在美洲扎根。尽管他们没什么组织，但他们仍是[Root.GetName]的一部分。通过建立西印度公司[Root.GetName]可以更有效率地管辖他们。"
- LOT_new_amsterdam_title:0 "新亚琛"
- LOT_new_amsterdam_desc:0 "位于美洲东海岸的哈德逊河口是一个建立新殖民地的好地方，[Root.GetName]将称其「新亚琛」，凭借此地，[Root.GetName]将能连通美洲东海岸其余地区。"
- LOT_grand_design_title:0 "[Root.GetName]的宏大计划"
- LOT_grand_design_desc:0 "如果要在寡不敌众的状况下赢得战争，就必须切断敌人的财富来源：他们的贸易线路。通过占据巴西和象牙海岸，我国可以控制一切流入欧洲的金钱和贸易。"
- LOT_dutch_slavery_title:0 "奴隶制的争论"
- LOT_dutch_slavery_desc:0 "几百年来，奴隶制曾以各种不同的形式出现。随着人权理想的产生，许多人呼吁废除奴隶制。[Root.GetName]必须解决奴隶制存废的争论。"
- LOT_japan_title:0 "日本贸易"
- LOT_japan_desc:0 "日本国自绝于世界，只有[Root.GetName]除外。因此，[Root.GetName]必须确保加强与这个岛国的贸易。"
- LOT_friesland_title:0 "弗里斯兰的自由"
- LOT_friesland_desc:0 "弗里斯兰人长久以来一直追求不受外国影响的独立性，并为他们的自治权持续奋斗。让[Root.GetName]给予他们自由，以交换他们加入我国旗下。"
- LOT_english_channel_dominance_title:0 "独霸海峡"
- LOT_english_channel_dominance_desc:0 "横亘于我国与英王之间这条水道十分适于商业牟利。[Root.GetName]必须确保无可争议的垄断地位，并从中获利。"
- LOT_glorious_revolution_title:0 "光荣革命"
- LOT_glorious_revolution_desc:0 "英吉利海峡对岸敌人的内讧已经引起[Root.GetName]的注意。[Root.GetName]必须介入，一劳永逸地征服他们。"
- LOT_black_devils_title:0 "海兵队"
- LOT_black_devils_desc:0 "[Root.GetName]力求在海洋事务中取得优异成果，因此必须向[Root.GetName]最具传奇色彩的船只上的海军陆战队员灌输自豪感和纪律性。"
- LOT_free_trade_title:0 "自由贸易理念"
- LOT_free_trade_desc:0 "促进开放贸易，接受外国商人进入[Root.GetName]的市场，是[Root.GetName]从不断变化的世界中获得巨大利益的重要途径。"
- LOT_universities_title:0 "低地高等学府"
- LOT_universities_desc:0 "自由和教育是我国人民最乐见其成的事业。通过巩固[Root.GetName]在低地国家的城市，[Root.GetName]将进一步加强[Root.GetName]的教育，建设新的大学。"
- LOT_leiden_university_title:0 "莱顿大学"
- LOT_leiden_university_desc:0 "莱顿大学成立于1575年，是低地历史最悠久的大学之一，建校时期正值思想萌芽和宗教动荡的关键时期。奥兰治亲王威廉设想建立一座促进宗教宽容和学术自由的学术中心，大学便应运而生，并很快因其对卓越学术和创新的承诺而声名鹊起。大学早期，尤斯特斯·利普修斯、约瑟夫·斯卡利格等学术名流都曾在此任教，吸引了来自欧洲各地的学生。"
- LOT_unified_confession_title:0 "统一告解"
- LOT_unified_confession_desc:0 "欧洲的宗教改革将西方教会一分为二。许多国家因此面临宗教动荡。与其因为这些琐碎的原因而互相争斗，不如让[Root.GetName]搁置分歧。"
- LOT_ADD_100_FERVOR:1 "获得§G100.00§!点热情。"
- LOT_start_exploration_title:0 "黄金与香料的传说"
- LOT_start_exploration_desc:0 "许多外国探险家都在谈论[Root.GetName]地图之外的土地。他们讲述着黄金和香料的传说，诱惑着许多殖民者驶向那片土地。让这些关于黄金的传言不再诱惑[Root.GetName]，[Root.GetName]将亲自驶向未知之地。"
- LOT_ivory_trade_title:0 "象牙海岸贸易"
- LOT_ivory_trade_desc:0 "象牙海岸对于任何一位想要从亚洲满载而归的商人都至关重要。如果能确保在此占有一块领地，[Root.GetName]将进一步促进自亚洲到欧洲的贸易流动。"
- LOT_malacca_trade_title:0 "征服马六甲"
- LOT_malacca_trade_desc:0 "马六甲在东印度乃是锁钥之地，决不能容忍它落入旁人之手。拿下它！"
- LOT_taiwan_title:0 "摄取福尔摩沙"
- LOT_taiwan_desc:0 "为了更好地拦截[Root.GetName]的竞争对手在远东的贸易，并帮助我国商人与中国和日本进行贸易，[Root.GetName]应该在福尔摩沙建立一个基地。"
- LOT_east_indies_domination_title:0 "[Root.GetName]属东印度"
- LOT_east_indies_domination_desc:0 "[Root.GetName]在东印度群岛的贸易蓬勃发展，但只要[Root.GetName]对该地区的经济控制没有相应的政治控制，[Root.GetName]的商业和商人的安全就会受到威胁。为了该地区的持续繁荣和[Root.GetName]的国家利益，[Root.GetName]必须尽可能多地将印度群岛置于[Root.GetName]的控制之下。"
- LOT_end_sound_toll_title:0 "告别厄勒海峡通行税"
- LOT_end_sound_toll_desc:0 "流经[12.GetName]的货物需缴纳关税和通行费。 [Root.GetName]可不能接受这个，必须予以处理。"
- LOT_baltic_supremacy_title:0 "波罗的海贸易霸权"
- LOT_baltic_supremacy_desc:0 "北方的洋流和船只带着渔获、商品和补给品自东而来。[Root.GetName]必须保持在波罗的海的强势存在。"
- LOT_english_relations_title:0 "与不列颠的关系"
- LOT_english_relations_desc:1 "与[Root.GetName]隔海相望的邻国长久以来国力强大，善于航海。[Root.GetName]必须保证和他们达成和平，无论通过外交还是利剑。"
- LOT_military_reforms_title:0 "设立联省陆军"
- LOT_military_reforms_desc:0 "作为一个需要自卫的新兴国家，[Root.GetName]必须建立一支装备精良、行动迅速的军队，随时准备保卫[Root.GetName]的本土省份。"
- LOT_marician_reforms_title:0 "毛里茨改革"
- LOT_marician_reforms_desc:0 "随着职业化军队在欧洲的兴起，战争的形式也开始缓慢改变。不同于君王带着他的贵族大人和民兵冲锋陷阵的旧有局面，现在军队变成了独立的机构。尽管[Root.GetName]缺乏人力，但[Root.GetName]仍然可以使用雇佣兵来保卫国家。"
- LOT_army_of_the_state_title:0 "国立军队"
- LOT_army_of_the_state_desc:0 "军队的天职就是保卫国家，使国家免受外国入侵者和暴民的伤害。为了能够保卫自己，[Root.GetName]要把军队打造成欧洲一流强军。"
- LOT_statists_and_oragnists_title:0 "议会派与奥兰治派"
- LOT_statists_and_oragnists_desc:0 "自建国以来，支持共和国的「议会派」和支持君主制的「奥兰治派」之间的纷争一直困扰着[Root.GetName]的国家。[Root.GetName]必须在这场冲突中选择一方，才能一劳永逸地结束这场冲突。"
- LOT_managing_stadholders_title:0 "处理省督"
- LOT_managing_stadholders_desc:0 "各省都有权任命自己的省督，他们既是政治领导人，也是军事领袖。但是，随着我国的发展和各省的逐渐联合，数量过多的省督带来了问题，尤其是对于军队指挥。[Root.GetName]需要一个统帅来领导整个军事工作，最简单的办法就是让一人同时兼任数省的省督之位。"
- LOT_question_of_the_confederation_title:0 "联邦的命运"
- LOT_question_of_the_confederation_desc:0 "曾经建立[Root.GetName]共和国的旧联邦现已终结。奥兰治派和议会派之争已尘埃落定，一方取得了胜利。现在，[Root.GetName]应该按照[Root.GetName]的统治者一直以来的设想来塑造新联邦。"
- LOT_patronage_of_arts_title:0 "资助外国艺术家"
- LOT_patronage_of_arts_desc:0 "勃艮第的腓力「好人」在低地留下了一个趣味高尚的宫廷，座中尽是风雅的艺术家。[Root.GetName]一定要继承他的遗产，使[Root.GetName]宫廷的文艺水平再创新高。"
- LOT_golden_age_title:0 "黄金时代"
- LOT_golden_age_desc:0 "贸易、海事以及经济上的诸多成绩促使历史学家将[Root.GetName]的时代赞为「[Root.GetName]黄金时代」。蓬勃发展的贸易，幸福的人民大众以及高效的税收创造了我国的经济奇迹，让[Root.GetName]在英吉利海峡一带足以与不列颠人匹敌。"
- LOT_founding_the_voc_title:0 "创立联合东印度公司"
- LOT_founding_the_voc_desc:0 "十七人理事会等商人财团热衷于扩大投资组合，投资海外贸易。如果[Root.GetName]支持建立某种东印度公司，收益将尤为可观！"
- LOT_access_to_india_title:0 "印度洋前哨站"
- LOT_access_to_india_desc:0 "通过在印度洋建设前哨站，[Root.GetName]能够更有效率的确保[Root.GetName]在这一地区的存在，更好的和当地人做生意。"
- LOT_ceylon_bases_title:0 "洛属锡兰"
- LOT_ceylon_bases_desc:0 "富饶的锡兰岛不仅是可观的收入来源，也是远东航线的要道。如果[Root.GetName]不夺取它，就等于拱手让人了。"
- LOT_city_of_batavia_title:0 "东印度行政"
- LOT_city_of_batavia_desc:0 "[Root.GetName]在东印度的事业蒸蒸日上，因而需要一个近便的行政中心，以便商人能在[Root.GetName]的火炮和舰队的保护下安全入港。"
- LOT_hansa_relations_title:0 "汉萨联系"
- LOT_hansa_relations_desc:0 "从1441年开始，[Root.GetName]的海军部队与汉萨同盟发生了多次冲突，这一城邦集团控制着波罗的海利润丰厚的贸易。在击败并羞辱了他们之后，[Root.GetName]签署了《哥本哈根条约》，允许[Root.GetName]不受限制地进入他们的港口，并在其港口维系贸易存在。现在是[Root.GetName]要求恢复该条约的时候了，以免他们铤而走险。"
- LOT_sail_towards_lubeck_title:0 "支持大宗贸易"
- LOT_sail_towards_lubeck_desc:0 "波罗的海周边生产的谷物，一直由我国商人运往西方的。但那里仍然留有很多赚钱的机会。若能扩大我国在波罗的海市场的业务，就能提高收入，用以资助一支探险队，寻找更广阔的市场。"
- LOT_securing_baltic_grain_title:0 "确保波罗的海谷物"
- LOT_securing_baltic_grain_desc:0 "低地国家一直需要谷物进口，尤其是从波罗的海进口。如果[Root.GetName]能做到粮食自给自足，就不用再花钱去进口了。"
- LOT_garrision_system_title:0 "战略防御理念"
- LOT_garrision_system_desc:0 "低地的领土并不算宽广，但为了保护低地的财富，[Root.GetName]必须建立一个有力的驻军系统来保护它。"
- LOT_dutch_engineering_title:0 "聘用低地工程师"
- LOT_dutch_engineering_desc:0 "在一场战争中，最重要的可能就是攻城战。一场战役如果处理不当，可能会付出惨重的代价，但攻城战如果计划不当，同样会造成巨大的破坏。[Root.GetName]的许多军事理论家都建议对攻城战术进行新的改革，而[Root.GetName]打算聘用他们。"
- LOT_organizing_the_seven_provinces_title:0 "联省议会领土"
- LOT_organizing_the_seven_provinces_desc:1 "由于我国存在许多地区差异，因此必须妥善管理国家。为此，中央政府有时需要直接管理土地，以防止某一地区的派系在国家事务中获得过多的影响力。"
- LOT_northern_renaissance_title:0 "北方文艺复兴"
- LOT_northern_renaissance_desc:0 "佛兰德文艺复兴兴盛于15和16世纪，标志着佛兰德地区（包括今天的比利时和荷兰）充满活力的文化和艺术复兴。这一时期的特点是艺术大师的出现、贸易繁荣和知识创新的融合。扬·凡·艾克和老彼得·勃鲁盖尔等艺术家是这个时代的缩影，他们开创了油画技术，并以无与伦比的写实手法捕捉日常生活的细枝末节。"
- LOT_dutch_architecture_title:0 "[Root.GetName]巴洛克建筑"
- LOT_dutch_architecture_desc:0 "[Root.GetName]巴洛克式建筑盛行于17世纪，其体现着一种宏伟、精确且实用的建筑风格。受国家经济繁荣和全球贸易主导地位的影响，建筑师们采用了简洁的线条、华丽的细节且注重于功能。"
- LOT_cape_of_good_hope_title:0 "开辟新航路"
- LOT_cape_of_good_hope_desc:0 "在通往印度的陆上商路被切断后，很多我国的商人都在寻找新的商路，尤其是试图在非洲打开局面。他们在寻找新的希望，以期重新与印度开展贸易。他们不知道的是，这个希望比预期的要更南。"
- LOT_crossroad_between_two_worlds_title:0 "于两世界之间"
- LOT_crossroad_between_two_worlds_desc:0 "好望角是前往东印度旅途中的重要节点。在这里为[Root.GetName]向东航行的船只和旅人提供一个避风港会是一个绝佳的选择。"
- LOT_CHALLENGE_HANSA:0 "挑战汉萨同盟"
+LOT_flanders_title:0 "On the Fields of Flanders"
+LOT_flanders_desc:0 "Strength, unity, and shared ideals are among the qualities that bind the people of [Root.GetName] together. [Root.GetName] struggles to expand [Root.GetName]'s territory; the next step will point the sword towards Flanders."
+
+LOT_luxembourg_fortress_title:0 "Fortress of Luxembourg-Bock"
+LOT_luxembourg_fortress_desc:0 "Although most of our region consists of plains or marshes, [Root.GetName] clearly also requires defensive structures. Nothing is more fitting than a magnificent fortress built in [94.GetName]."
+
+LOT_dutch_polders_title:0 "Fund Land Reclamation"
+LOT_dutch_polders_desc:0 "Although the sea provides [Root.GetName] with resources through trade and currency, it is evident that to ensure more living space for the people of [Root.GetName], [Root.GetName] must wrest more resources from the sea."
+
+LOT_low_countries_urbanization_title:0 "Fund Low Countries Urbanization"
+LOT_low_countries_urbanization_desc:0 "Human progress should not be hindered or stagnate due to the architectural shortcomings of our predecessors. To this end, let [Root.GetName] construct and expand urban centers to meet the growing demands for goods and housing."
+
+LOT_fluyts_title:0 "Fluyt Merchantmen"
+LOT_fluyts_desc:0 "As a people living by the sea, [Root.GetName] must continue to hone its skills, mastering the currents and tides that surround [Root.GetName]'s coasts."
+
+LOT_sea_beggars_title:0 "Enlist the Sea Beggars for [Root.GetName]"
+LOT_sea_beggars_desc:0 "In times of war, especially when facing stronger enemies, [Root.GetName] must utilize all available means to secure victory, regardless of their moral boundaries. The various privateer fleets that usually cause trouble for [Root.GetName] are now prepared and ready to launch attacks against [Root.GetName]'s enemies."
+
+LOT_organizing_the_church_title:0 "Reorganize the Clergy"
+LOT_organizing_the_church_desc:0 "The intermixing of clergy and religious figures into court affairs sets a most dangerous precedent. [Root.GetName] must purge the corrupt among them and ensure their loyalty."
+
+LOT_religious_immigrants_title:0 "Waves of Immigration"
+LOT_religious_immigrants_desc:0 "The Reformation has caused many religious communities to leave their homelands in search of new lands. [Root.GetName] shall become a beacon of freedom, allowing everyone forced to leave their homes to find a better life on the soil of [Root.GetName]."
+
+LOT_carribean_colonies_title:0 "Lotharingian Caribbean"
+LOT_carribean_colonies_desc:0 "The Caribbean Sea is home to many wealthy sugar plantations, all of which rightfully belong in [Root.GetName]'s possession. Let [Root.GetName] set sail and colonize these lands in the nation's name."
+
+LOT_guyana_title:0 "Carolingian Presence in Guyana"
+LOT_guyana_desc:0 "[Root.GetName]'s navy and migrants cannot access South America. By establishing our own base in Guyana, [Root.GetName] will be able to retain options for future designs in Brazil, whether grand or small."
+
+LOT_raise_the_militia_title:0 "Raise the Militia"
+LOT_raise_the_militia_desc:0 "[Root.GetName] has lived under the Burgundian banner for too long. It is time for the people of [Root.GetName] to stand up and take control of their own destiny."
+
+LOT_holland_title:0 "Unify Holland"
+LOT_holland_desc:0 "The heart of the Low Countries is rich with trade and wealth. Bringing it into [Root.GetName]'s domain will further strengthen [Root.GetName]'s influence and position in the region."
+
+LOT_unification_of_low_countries_title:0 "Perseverance"
+LOT_unification_of_low_countries_desc:0 "The time has come to strike against those enemies who seek to harm the people of [Root.GetName] or seize the lands of [Root.GetName]. [Root.GetName] shall never be enslaved!"
+
+LOT_cloth_trading_title:0 "Fund the Textile Industry"
+LOT_cloth_trading_desc:0 "Workshops spread across the Low Countries' provinces are renowned for the quality of the cloth and thread they produce. A variety of techniques, along with the expertise of local artisans, creates the finest garments known throughout Europe."
+
+LOT_dutch_canal_works_title:0 "Fund Dike and Canal Works"
+LOT_dutch_canal_works_desc:0 "Sturdy engineering and robust materials have enabled [Root.GetName] to construct solid dikes and master the waters."
+
+LOT_rise_of_dutch_navy_title:0 "Establish the United Provinces Navy"
+LOT_rise_of_dutch_navy_desc:0 "As a nation occupying Europe's most lucrative coastline, it is evident that [Root.GetName]'s ports must possess the mightiest navy."
+
+LOT_dutch_admiralities_title:0 "The Five Admiralties of [Root.GetName]"
+LOT_dutch_admiralities_desc:0 "Managing maritime affairs and ensuring [Root.GetName]'s navy is staffed with the finest talent is a pressing priority of our governance."
+
+LOT_amsterdam_stock_exchange_title:0 "Amsterdam Stock Exchange"
+LOT_amsterdam_stock_exchange_desc:0 "Money, credit, and overseas trade constantly flow through the halls of our nation. To better support our financial affairs and expansion, providing the necessary facilities is imperative."
+
+LOT_dutch_naval_supremacy_title:0 "[Root.GetName] Naval Supremacy"
+LOT_dutch_naval_supremacy_desc:0 "Over the years, [Root.GetName] has faced many formidable enemies. Yet, none could stand against the maritime prowess of these sea lions, who have conquered the most legendary foes upon the waves."
+
+LOT_humanism_title:0 "[Root.GetName] Humanism"
+LOT_humanism_desc:0 "It seems most European nations hold divine teachings as their highest authority. [Root.GetName] is not of that kind. [Root.GetName] adheres to a creed known as Humanism—a nascent teaching that respects all who contribute to the state equally, as we expand our territories. By the great righteousness of our nation, spread this ideal far and wide!"
+
+LOT_erasmus_title:0 "The Teachings of Erasmus"
+LOT_erasmus_desc:0 "The teachings of Erasmus of Rotterdam on humanism sparked transformation in the Low Countries, advocating a return to classical learning, critical thinking, and independent thought. His influence ignited an intellectual revival, steering society towards enlightenment and inclusivity, with education being revitalized. Erasmus's legacy continues to impact the development of intellectuals in this region long after his time, resonating and driving cultural renewal."
+
+LOT_west_indies_company_title:0 "West India Company"
+LOT_west_indies_company_desc:0 "Some brave colonists have already taken root in the Americas. Although loosely organized, they remain part of [Root.GetName]. By establishing the West India Company, [Root.GetName] can govern them more efficiently."
+
+LOT_new_amsterdam_title:0 "New Aachen"
+LOT_new_amsterdam_desc:0 "The Hudson River estuary on the eastern coast of the Americas is an excellent location to establish a new colony. [Root.GetName] shall name it 'New Aachen.' With this foothold, [Root.GetName] will be able to connect with the rest of the American eastern seaboard."
+
+LOT_grand_design_title:0 "The Grand Design of [Root.GetName]"
+LOT_grand_design_desc:0 "To win a war when outnumbered, one must cut off the enemy's source of wealth: their trade routes. By controlling Brazil and the Ivory Coast, our nation can command all the money and trade flowing into Europe."
+
+LOT_dutch_slavery_title:0 "The Slavery Debate"
+LOT_dutch_slavery_desc:0 "For centuries, slavery has existed in various forms. With the emergence of the ideals of human rights, many call for its abolition. [Root.GetName] must resolve the debate over the preservation or abolition of slavery."
+
+LOT_japan_title:0 "Japan Trade"
+LOT_japan_desc:0 "The nation of Japan has isolated itself from the world, except for [Root.GetName]. Therefore, [Root.GetName] must ensure strengthened trade with this island nation."
+
+LOT_friesland_title:0 "Freedom of Friesland"
+LOT_friesland_desc:0 "The Frisians have long pursued independence free from foreign influence, continuously striving for their autonomy. Let [Root.GetName] grant them freedom in exchange for joining our nation's banner."
+
+LOT_english_channel_dominance_title:0 "Dominate the Channel"
+LOT_english_channel_dominance_desc:0 "The waterway between our nation and the English king is highly profitable for commerce. [Root.GetName] must secure an undisputed monopoly and profit from it."
+
+LOT_glorious_revolution_title:0 "Glorious Revolution"
+LOT_glorious_revolution_desc:0 "The internal strife of the enemy across the English Channel has drawn [Root.GetName]'s attention. [Root.GetName] must intervene and conquer them once and for all."
+
+LOT_black_devils_title:0 "Marines"
+LOT_black_devils_desc:0 "[Root.GetName] strives for excellence in maritime affairs; therefore, pride and discipline must be instilled in the marines serving on [Root.GetName]'s most legendary ships."
+
+LOT_free_trade_title:0 "Free Trade Doctrine"
+LOT_free_trade_desc:0 "Promoting open trade and accepting foreign merchants into [Root.GetName]'s markets is a vital way for [Root.GetName] to reap great benefits from an ever-changing world."
+
+LOT_universities_title:0 "Low Countries Institutions of Higher Learning"
+LOT_universities_desc:0 "Freedom and education are the causes most cherished by our people. By consolidating [Root.GetName]'s cities in the Low Countries, [Root.GetName] will further strengthen [Root.GetName]'s education and establish new universities."
+
+LOT_leiden_university_title:0 "Leiden University"
+LOT_leiden_university_desc:0 "Founded in 1575, Leiden University is one of the oldest universities in the Low Countries, established during a crucial period of intellectual awakening and religious upheaval. Prince William of Orange envisioned an academic center that promoted religious tolerance and academic freedom, leading to its creation. The university quickly gained renown for its commitment to academic excellence and innovation. In its early years, eminent scholars such as Justus Lipsius and Joseph Scaliger taught here, attracting students from across Europe."
+
+LOT_unified_confession_title:0 "Unified Confession"
+LOT_unified_confession_desc:0 "The Reformation in Europe split the Western Church in two, causing many nations to face religious turmoil. Instead of fighting over these trivial differences, let [Root.GetName] set aside these divisions."
+
+LOT_ADD_100_FERVOR:1 "Gain §G100.00§! Fervor."
+
+LOT_start_exploration_title:0 "Tales of Gold and Spices"
+LOT_start_exploration_desc:0 "Many foreign explorers speak of lands beyond [Root.GetName]'s maps. They tell tales of gold and spices, tempting many colonists to sail for those shores. Let these rumors of gold no longer tempt [Root.GetName]; [Root.GetName] shall personally sail into the unknown."
+
+LOT_ivory_trade_title:0 "Ivory Coast Trade"
+LOT_ivory_trade_desc:0 "The Ivory Coast is crucial for any merchant seeking to return laden from Asia. By securing a foothold here, [Root.GetName] will further facilitate the flow of trade from Asia to Europe."
+
+LOT_malacca_trade_title:0 "Conquer Malacca"
+LOT_malacca_trade_desc:0 "Malacca is the key to the East Indies and must not be allowed to fall into others' hands. Seize it!"
+
+LOT_taiwan_title:0 "Secure Formosa"
+LOT_taiwan_desc:0 "To better intercept [Root.GetName]'s competitors' trade in the Far East and assist our merchants in trading with China and Japan, [Root.GetName] should establish a base on Formosa."
+
+LOT_east_indies_domination_title:0 "[Root.GetAdjective] East Indies"
+LOT_east_indies_domination_desc:0 "Trade in the East Indies prospers for [Root.GetName], but the security of [Root.GetName]'s commerce and merchants will remain threatened as long as [Root.GetName]'s economic dominance in the region lacks corresponding political control. For the region's continued prosperity and [Root.GetName]'s national interest, [Root.GetName] must bring as many of the Indian archipelago under [Root.GetName]'s control as possible."
+
+LOT_end_sound_toll_title:0 "End the Sound Dues"
+LOT_end_sound_toll_desc:0 "Goods passing through [12.GetName] are subject to customs duties and tolls. [Root.GetName] cannot accept this and must deal with it."
+
+LOT_baltic_supremacy_title:0 "Baltic Trade Supremacy"
+LOT_baltic_supremacy_desc:0 "Northern currents and ships bring fish, goods, and supplies from the east. [Root.GetName] must maintain a strong presence in the Baltic Sea."
+
+LOT_english_relations_title:0 "Relations with Britain"
+LOT_english_relations_desc:1 "The nation across the sea from [Root.GetName] has long been powerful and skilled in navigation. [Root.GetName] must ensure peace with them, whether through diplomacy or the sword."
+
+LOT_military_reforms_title:0 "Establish the United Provinces Army"
+LOT_military_reforms_desc:0 "As a nascent nation in need of self-defense, [Root.GetName] must raise a well-equipped and agile army, ready at all times to defend [Root.GetName]'s home provinces."
+
+LOT_marician_reforms_title:0 "Maurician Reforms"
+LOT_marician_reforms_desc:0 "With the rise of professional armies in Europe, the nature of warfare slowly began to change. Unlike the old pattern where monarchs charged forth with their nobles and militias, armies now became independent institutions. Although [Root.GetName] lacks manpower, [Root.GetName] can still employ mercenaries to defend the nation."
+
+LOT_army_of_the_state_title:0 "Army of the State"
+LOT_army_of_the_state_desc:0 "The army's duty is to defend the nation, protecting it from foreign invaders and mobs. To be capable of defending itself, [Root.GetName] must forge its army into one of Europe's finest."
+
+LOT_statists_and_oragnists_title:0 "Statists and Orangists"
+LOT_statists_and_oragnists_desc:0 "Since its founding, the conflict between the 'Statists,' who supported the republic, and the 'Orangists,' who favored monarchy, has plagued the state of [Root.GetName]. [Root.GetName] must choose a side in this conflict to end it once and for all."
+
+LOT_managing_stadholders_title:0 "Managing the Stadtholders"
+LOT_managing_stadholders_desc:0 "Each province has the right to appoint its own Stadtholder, who serves as both political leader and military commander. However, as our nation developed and the provinces gradually unified, the excessive number of Stadtholders posed problems, particularly for military command. [Root.GetName] needs a single commander-in-chief to lead the entire military effort. The simplest solution is to have one individual hold the Stadtholdership of several provinces simultaneously."
+
+LOT_question_of_the_confederation_title:0 "The Fate of the Confederation"
+LOT_question_of_the_confederation_desc:0 "The old confederation that once established the [Root.GetName] republic is now at an end. The conflict between Orangists and Statists has been settled, with one side emerging victorious. Now, [Root.GetName] should shape the new confederation as [Root.GetName]'s ruler has long envisioned."
+
+LOT_patronage_of_arts_title:0 "Patronage of Foreign Artists"
+LOT_patronage_of_arts_desc:0 "Philip 'the Good' of Burgundy left behind a court of refined taste in the Low Countries, filled with elegant artists. [Root.GetName] must inherit his legacy, elevating the artistic and cultural level of the [Root.GetName] court to new heights."
+
+LOT_golden_age_title:0 "Golden Age"
+LOT_golden_age_desc:0 "Achievements in trade, maritime affairs, and economics have led historians to praise the era of [Root.GetName] as the '[Root.GetName] Golden Age.' Booming trade, a prosperous populace, and efficient taxation created our nation's economic miracle, allowing [Root.GetName] to rival the British across the English Channel."
+
+LOT_founding_the_voc_title:0 "Found the United East India Company"
+LOT_founding_the_voc_desc:0 "Merchant consortia like the Council of Seventeen are keen to expand their portfolios by investing in overseas trade. If [Root.GetName] supports the establishment of an East India Company, the returns could be particularly substantial!"
+
+LOT_access_to_india_title:0 "Indian Ocean Outposts"
+LOT_access_to_india_desc:0 "By establishing outposts in the Indian Ocean, [Root.GetName] can more efficiently secure [Root.GetName]'s presence in the region and better conduct trade with the local peoples."
+
+LOT_ceylon_bases_title:0 "Lotharingian Ceylon"
+LOT_ceylon_bases_desc:0 "The fertile island of Ceylon is not only a considerable source of revenue but also a key waypoint on the Far East routes. If [Root.GetName] does not seize it, we are simply handing it to others."
+
+LOT_city_of_batavia_title:0 "East India Administration"
+LOT_city_of_batavia_desc:0 "[Root.GetName]'s ventures in the East Indies are thriving, thus requiring a convenient administrative center where merchants can safely dock under the protection of [Root.GetName]'s cannons and fleet."
+
+LOT_hansa_relations_title:0 "Hanseatic Ties"
+LOT_hansa_relations_desc:0 "Since 1441, [Root.GetName]'s naval forces have clashed multiple times with the Hanseatic League, the city-state consortium controlling the lucrative trade of the Baltic. After defeating and humiliating them, [Root.GetName] signed the Treaty of Copenhagen, granting [Root.GetName] unrestricted access to their ports and allowing a trading presence there. Now is the time for [Root.GetName] to demand the restoration of that treaty, lest they take desperate risks."
+
+LOT_sail_towards_lubeck_title:0 "Support Bulk Trade"
+LOT_sail_towards_lubeck_desc:0 "Grain produced around the Baltic Sea has long been transported westward by our merchants. Yet many profitable opportunities remain there. Expanding our operations in the Baltic markets can increase revenue to fund an expedition in search of broader markets."
+
+LOT_securing_baltic_grain_title:0 "Secure Baltic Grain"
+LOT_securing_baltic_grain_desc:0 "The Low Countries have always required grain imports, particularly from the Baltic. If [Root.GetName] can achieve grain self-sufficiency, we will no longer need to spend money on imports."
+
+LOT_garrision_system_title:0 "Strategic Defense Doctrine"
+LOT_garrision_system_desc:0 "The territories of the Low Countries are not vast, but to protect their wealth, [Root.GetName] must establish an effective garrison system to safeguard them."
+
+LOT_dutch_engineering_title:0 "Employ Low Countries Engineers"
+LOT_dutch_engineering_desc:0 "In war, the most critical aspect might well be siege warfare. A battle handled poorly can come at a high cost, but a siege planned improperly can cause equally devastating damage. Many of [Root.GetName]'s military theorists recommend new reforms to siege tactics, and [Root.GetName] intends to hire them."
+
+LOT_organizing_the_seven_provinces_title:0 "Territory of the States General"
+LOT_organizing_the_seven_provinces_desc:1 "Due to the many regional differences within our nation, the state must be properly managed. To this end, the central government sometimes needs to directly administer land to prevent any regional faction from gaining excessive influence in national affairs."
+
+LOT_northern_renaissance_title:0 "Northern Renaissance"
+LOT_northern_renaissance_desc:0 "The Flemish Renaissance flourished in the 15th and 16th centuries, marking a vibrant cultural and artistic revival in the Flanders region (encompassing modern-day Belgium and the Netherlands). This period was characterized by the emergence of artistic masters, a fusion of trade prosperity and intellectual innovation. Artists such as Jan van Eyck and Pieter Bruegel the Elder epitomized the era, pioneering oil painting techniques and capturing the minutiae of daily life with unparalleled realism."
+
+LOT_dutch_architecture_title:0 "[Root.GetName] Baroque Architecture"
+LOT_dutch_architecture_desc:0 "[Root.GetName] Baroque architecture, prevalent in the 17th century, embodies a grand, precise, and practical architectural style. Influenced by the nation's economic prosperity and dominance in global trade, architects adopted clean lines, ornate details, and a focus on functionality."
+
+LOT_cape_of_good_hope_title:0 "Open New Sea Routes"
+LOT_cape_of_good_hope_desc:0 "After the overland trade routes to India were severed, many of our nation's merchants sought new routes, particularly attempting to establish connections in Africa. They searched for new hope to resume trade with India. Unbeknownst to them, this hope lay further south than expected."
+
+LOT_crossroad_between_two_worlds_title:0 "Between Two Worlds"
+LOT_crossroad_between_two_worlds_desc:0 "The Cape of Good Hope is a crucial waypoint on the journey to the East Indies. Establishing a haven here for [Root.GetName]'s eastward-bound ships and travelers would be an excellent choice."
+
+LOT_CHALLENGE_HANSA:0 "Challenge the Hanseatic League"

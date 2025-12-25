@@ -1,7 +1,7 @@
 1399.1.1 = {
   monarch = {
-    name = "卡洛塔 II"
-    dynasty = "阿夸维亚"
+    name = "Carlotta II"
+    dynasty = "Acquaviva"
 	  birth_date = 1410.7.14
     adm = 4
     dip = 4
@@ -10,8 +10,8 @@
 }
 1444.1.1 = {
   heir = {
-    name = "费德里戈"#
-    dynasty = "阿夸维亚"
+    name = "Federico" #
+    dynasty = "Acquaviva"
     birth_date = 1441.7.14
     death_date = 1500.3.27
     claim = 90

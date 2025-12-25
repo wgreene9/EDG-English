@@ -1,13 +1,13 @@
 1412.1.28 = {
   monarch = {
-    name = "伊萨克 IV"  # Claudio
-    dynasty = "安杰洛斯"  # Palaiologos
+    name = "Isaac IV"  # Claudio
+    dynasty = "Angelos"  # Palaiologos
     dip = 3
     mil = 2
     adm = 6
   }
  leader = {
-      name = "伊萨克 IV"  # Vittorio Amedeo
+      name = "Isaac IV"  # Vittorio Amedeo
       type = general
       fire = 5
       shock = 6
@@ -17,8 +17,8 @@
 }
 1443.1.28 = {
   monarch = {
-    name = "伊萨克 V"  # Claudio
-    dynasty = "安杰洛斯"  # Palaiologos
+    name = "Isaac V"  # Claudio
+    dynasty = "Angelos"  # Palaiologos
     dip = 1
     mil = 0
     adm = 0
@@ -26,8 +26,8 @@
 }
 1443.11.28 = {
   monarch = {
-    name = "狄奥多勒"  # Claudio
-    dynasty = "瓦塔泽斯"  # Palaiologos
+    name = "Theodoros"  # Claudio
+    dynasty = "Vatatzes"  # Palaiologos
     dip = 2
     mil = 3
     adm = 6

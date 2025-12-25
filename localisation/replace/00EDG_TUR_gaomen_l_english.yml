@@ -1,186 +1,184 @@
 ﻿l_english:
-EDG_TUR_gaomen_off_button:0 "关闭§Y高门§!界面"
-EDG_TUR_gaomen_on_button:0 "打开§Y高门§!界面"
-EDG_TUR_gaomen_on_button_tt:0 "关闭§Y高门§!界面"
-EDG_TUR_gaomen_off_button_tt:0 "打开§Y高门§!界面"
+EDG_TUR_gaomen_off_button:0 "Close §YHigh Porte§! Interface"
+EDG_TUR_gaomen_on_button:0 "Open §YHigh Porte§! Interface"
+EDG_TUR_gaomen_on_button_tt:0 "Close §YHigh Porte§! Interface"
+EDG_TUR_gaomen_off_button_tt:0 "Open §YHigh Porte§! Interface"
 
 EDG_TUR_gaomen_GUI_big_shield_tooltip:0 "[EDG_TUR_gaomen_target.GetNameEDG_TUR_gaomen_GUI_big_shield_tooltip]"
-GetNameEDG_TUR_gaomen_GUI_big_shield_tooltip_self:0 "§Y[EDG_TUR_gaomen_target.Monarch.GetName]§!是§Y帕迪沙§!"
-GetNameEDG_TUR_gaomen_GUI_big_shield_tooltip_regency:0 "§Y[EDG_TUR_gaomen_target.Monarch.GetName]§!是§Y帕迪沙摄政§!"
+GetNameEDG_TUR_gaomen_GUI_big_shield_tooltip_self:0 "§Y[EDG_TUR_gaomen_target.Monarch.GetName]§! is the §YPadishah§!"
+GetNameEDG_TUR_gaomen_GUI_big_shield_tooltip_regency:0 "§Y[EDG_TUR_gaomen_target.Monarch.GetName]§! is the §YPadishah Regent§!"
 
 EDG_TUR_gaomen_authority_bg:0 "[EDG_TUR_gaomen_target.EDG_TUR_gaomen_authority_var.GetValue]"
 EDG_TUR_gaomen_authority_bg_tt:0 "[EDG_TUR_gaomen_target.EDG_TUR_gaomen_authority_var.GetValue]"
-EDG_TUR_gaomen_trigger_tt:0 "§R是§!§Y帕迪沙§!"
-EDG_TUR_gaomen_target:0 "§Y帕迪沙§!"
-EDG_TUR_gaomen_GUI_big_shield_vizier_tooltip:0 "§Y[EDG_TUR_gaomen_vizier_target.Monarch.GetName]§!是§Y大维齐尔§!"
-EDG_TUR_gaomen_vizier_target_modifier:0 "大维齐尔"
+EDG_TUR_gaomen_trigger_tt:0 "§RIs§! the §YPadishah§!"
+EDG_TUR_gaomen_target:0 "§YPadishah§!"
+EDG_TUR_gaomen_GUI_big_shield_vizier_tooltip:0 "§Y[EDG_TUR_gaomen_vizier_target.Monarch.GetName]§! is the §YGrand Vizier§!"
+EDG_TUR_gaomen_vizier_target_modifier:0 "Grand Vizier"
 
-EDG_TUR_gaomen_the_tag_modifier:0 "是§Y帕迪沙§!"
-NOT_EDG_TUR_gaomen_trigger_tt:0 "不是§Y帕迪沙§!"
+EDG_TUR_gaomen_the_tag_modifier:0 "Is the §YPadishah§!"
+NOT_EDG_TUR_gaomen_trigger_tt:0 "Is not the §YPadishah§!"
 
-EDG_TUR_gaomen_1_reform_title_bg:0 "行政政策"
-EDG_TUR_gaomen_2_reform_title_bg:0 "经济政策"
-EDG_TUR_gaomen_3_reform_title_bg:0 "行省政策"
+EDG_TUR_gaomen_1_reform_title_bg:0 "Administrative Policies"
+EDG_TUR_gaomen_2_reform_title_bg:0 "Economic Policies"
+EDG_TUR_gaomen_3_reform_title_bg:0 "Provincial Policies"
 
-# 委任大维齐尔
-# 提拔文官亲信
-# 授予宦官特权
-# 允许卖官鬻爵
-# 优待本地贵族
-# 强化米利特制
+#Appoint Grand Vizier
+#Promote Civilian Favorites
+#Grant Eunuch Privileges
+#Permit Sale of Offices
+#Favor Local Nobility
+#Strengthen the Millet System
 
-EDG_TUR_gaomen_1_1_reform_no_tt:0 "£no£委任大维齐尔"
-EDG_TUR_gaomen_1_2_reform_no_tt:0 "£no£提拔文官亲信"
-EDG_TUR_gaomen_1_3_reform_no_tt:0 "£no£授予宦官特权"
-EDG_TUR_gaomen_1_4_reform_no_tt:0 "£no£允许卖官鬻爵"
-EDG_TUR_gaomen_1_5_reform_no_tt:0 "£no£优待本地贵族"
-EDG_TUR_gaomen_1_6_reform_no_tt:0 "£no£强化米利特制"
+EDG_TUR_gaomen_1_1_reform_no_tt:0 "£no£Appoint Grand Vizier"
+EDG_TUR_gaomen_1_2_reform_no_tt:0 "£no£Promote Civilian Favorites"
+EDG_TUR_gaomen_1_3_reform_no_tt:0 "£no£Grant Eunuch Privileges"
+EDG_TUR_gaomen_1_4_reform_no_tt:0 "£no£Permit Sale of Offices"
+EDG_TUR_gaomen_1_5_reform_no_tt:0 "£no£Favor Local Nobility"
+EDG_TUR_gaomen_1_6_reform_no_tt:0 "£no£Strengthen Millet System"
 
-EDG_TUR_gaomen_1_1_reform_yes_tt:0 "£yes£委任大维齐尔"
-EDG_TUR_gaomen_1_2_reform_yes_tt:0 "£yes£提拔文官亲信"
-EDG_TUR_gaomen_1_3_reform_yes_tt:0 "£yes£授予宦官特权"
-EDG_TUR_gaomen_1_4_reform_yes_tt:0 "£yes£允许卖官鬻爵"
-EDG_TUR_gaomen_1_5_reform_yes_tt:0 "£yes£优待本地贵族"
-EDG_TUR_gaomen_1_6_reform_yes_tt:0 "£yes£强化米利特制"
+EDG_TUR_gaomen_1_1_reform_yes_tt:0 "£yes£Appoint Grand Vizier"
+EDG_TUR_gaomen_1_2_reform_yes_tt:0 "£yes£Promote Civilian Favorites"
+EDG_TUR_gaomen_1_3_reform_yes_tt:0 "£yes£Grant Eunuch Privileges"
+EDG_TUR_gaomen_1_4_reform_yes_tt:0 "£yes£Permit Sale of Offices"
+EDG_TUR_gaomen_1_5_reform_yes_tt:0 "£yes£Favor Local Nobility"
+EDG_TUR_gaomen_1_6_reform_yes_tt:0 "£yes£Strengthen Millet System"
 
-EDG_TUR_gaomen_1_1_reform_global_flag:0 "「行政政策」委任大维齐尔"
-EDG_TUR_gaomen_1_2_reform_global_flag:0 "「行政政策」提拔文官亲信"
-EDG_TUR_gaomen_1_3_reform_global_flag:0 "「行政政策」授予宦官特权"
-EDG_TUR_gaomen_1_4_reform_global_flag:0 "「行政政策」允许卖官鬻爵"
-EDG_TUR_gaomen_1_5_reform_global_flag:0 "「行政政策」优待本地贵族"
-EDG_TUR_gaomen_1_6_reform_global_flag:0 "「行政政策」强化米利特制"
+EDG_TUR_gaomen_1_1_reform_global_flag:0 "Administrative Policy: Appoint Grand Vizier"
+EDG_TUR_gaomen_1_2_reform_global_flag:0 "Administrative Policy: Promote Civilian Favorites"
+EDG_TUR_gaomen_1_3_reform_global_flag:0 "Administrative Policy: Grant Eunuch Privileges"
+EDG_TUR_gaomen_1_4_reform_global_flag:0 "Administrative Policy: Permit Sale of Offices"
+EDG_TUR_gaomen_1_5_reform_global_flag:0 "Administrative Policy: Favor Local Nobility"
+EDG_TUR_gaomen_1_6_reform_global_flag:0 "Administrative Policy: Strengthen Millet System"
 
-# 提高包税数额
-# 外派检察官员
-# 清查全国土地
-# 没收寺庙土地
-# 鼓励商业贸易
-# 扩大市民权力
+#Increase Tax Farm Quotas
+#Deploy Inspection Officials
+#Conduct National Land Survey
+#Confiscate Temple Lands
+#Encourage Commercial Trade
+#Expand Burgher Rights
 
-EDG_TUR_gaomen_2_1_reform_no_tt:0 "£no£提高包税数额"
-EDG_TUR_gaomen_2_2_reform_no_tt:0 "£no£外派检察官员"
-EDG_TUR_gaomen_2_3_reform_no_tt:0 "£no£清查全国土地"
-EDG_TUR_gaomen_2_4_reform_no_tt:0 "£no£没收寺庙土地"
-EDG_TUR_gaomen_2_5_reform_no_tt:0 "£no£鼓励商业贸易"
-EDG_TUR_gaomen_2_6_reform_no_tt:0 "£no£扩大市民权力"
+EDG_TUR_gaomen_2_1_reform_no_tt:0 "£no£Increase Tax Farm Quotas"
+EDG_TUR_gaomen_2_2_reform_no_tt:0 "£no£Deploy Inspection Officials"
+EDG_TUR_gaomen_2_3_reform_no_tt:0 "£no£Conduct Land Survey"
+EDG_TUR_gaomen_2_4_reform_no_tt:0 "£no£Confiscate Temple Lands"
+EDG_TUR_gaomen_2_5_reform_no_tt:0 "£no£Encourage Trade"
+EDG_TUR_gaomen_2_6_reform_no_tt:0 "£no£Expand Burgher Rights"
 
-EDG_TUR_gaomen_2_1_reform_yes_tt:0 "£yes£提高包税数额"
-EDG_TUR_gaomen_2_2_reform_yes_tt:0 "£yes£外派检察官员"
-EDG_TUR_gaomen_2_3_reform_yes_tt:0 "£yes£清查全国土地"
-EDG_TUR_gaomen_2_4_reform_yes_tt:0 "£yes£没收寺庙土地"
-EDG_TUR_gaomen_2_5_reform_yes_tt:0 "£yes£鼓励商业贸易"
-EDG_TUR_gaomen_2_6_reform_yes_tt:0 "£yes£扩大市民权力"
+EDG_TUR_gaomen_2_1_reform_yes_tt:0 "£yes£Increase Tax Farm Quotas"
+EDG_TUR_gaomen_2_2_reform_yes_tt:0 "£yes£Deploy Inspection Officials"
+EDG_TUR_gaomen_2_3_reform_yes_tt:0 "£yes£Conduct Land Survey"
+EDG_TUR_gaomen_2_4_reform_yes_tt:0 "£yes£Confiscate Temple Lands"
+EDG_TUR_gaomen_2_5_reform_yes_tt:0 "£yes£Encourage Trade"
+EDG_TUR_gaomen_2_6_reform_yes_tt:0 "£yes£Expand Burgher Rights"
 
-EDG_TUR_gaomen_2_1_reform_global_flag:0 "「经济政策」提高包税数额"
-EDG_TUR_gaomen_2_2_reform_global_flag:0 "「经济政策」外派检察官员"
-EDG_TUR_gaomen_2_3_reform_global_flag:0 "「经济政策」清查全国土地"
-EDG_TUR_gaomen_2_4_reform_global_flag:0 "「经济政策」没收寺庙土地"
-EDG_TUR_gaomen_2_5_reform_global_flag:0 "「经济政策」鼓励商业贸易"
-EDG_TUR_gaomen_2_6_reform_global_flag:0 "「经济政策」扩大市民权力"
-
-
-# 提高行省自治
-# 封赏行省总督
-# 增收行省赋税
-# 整合行省军队
-# 榨取行省兵源
-# 调遣行省水手
-
-EDG_TUR_gaomen_3_1_reform_no_tt:0 "£no£提高行省自治"
-EDG_TUR_gaomen_3_2_reform_no_tt:0 "£no£封赏行省总督"
-EDG_TUR_gaomen_3_3_reform_no_tt:0 "£no£增收行省赋税"
-EDG_TUR_gaomen_3_4_reform_no_tt:0 "£no£整合行省军队"
-EDG_TUR_gaomen_3_5_reform_no_tt:0 "£no£榨取行省兵源"
-EDG_TUR_gaomen_3_6_reform_no_tt:0 "£no£调遣行省水手"
-
-EDG_TUR_gaomen_3_1_reform_yes_tt:0 "£yes£提高行省自治"
-EDG_TUR_gaomen_3_2_reform_yes_tt:0 "£yes£封赏行省总督"
-EDG_TUR_gaomen_3_3_reform_yes_tt:0 "£yes£增收行省赋税"
-EDG_TUR_gaomen_3_4_reform_yes_tt:0 "£yes£整合行省军队"
-EDG_TUR_gaomen_3_5_reform_yes_tt:0 "£yes£榨取行省兵源"
-EDG_TUR_gaomen_3_6_reform_yes_tt:0 "£yes£调遣行省水手"
-
-EDG_TUR_gaomen_3_1_reform_global_flag:0 "「经济政策」提高行省自治"
-EDG_TUR_gaomen_3_2_reform_global_flag:0 "「经济政策」封赏行省总督"
-EDG_TUR_gaomen_3_3_reform_global_flag:0 "「经济政策」增收行省赋税"
-EDG_TUR_gaomen_3_4_reform_global_flag:0 "「经济政策」整合行省军队"
-EDG_TUR_gaomen_3_5_reform_global_flag:0 "「经济政策」榨取行省兵源"
-EDG_TUR_gaomen_3_6_reform_global_flag:0 "「经济政策」调遣行省水手"
-
-EDG_TUR_gaomen_decree_in_10_years_tt:0 "帕迪沙每§M10年§!可以免费颁布一次§Y「帝国改革」§!\n若在§M10年§!年已经颁布过国书，那么将消耗§M25§!点§Y波斯影响力§!\n获得§M10§!点§Y凯扬灵光§!。"
-EDG_TUR_gaomen_decree_in_10_years_tt_1:0 "由于我们在§M10年§!内颁布过§Y「帝国改革」§!，我们将额外消耗§M25§!点§Y波斯影响力§!以颁布国书。\n获得§M10§!点§Y凯扬灵光§!。"
-EDG_TUR_gaomen_decree_in_10_years_tt_2:0 "由于我们在§M10年§!内未颁布过§Y「帝国改革」§!，我们将可以免费颁布国书。\n获得§M10§!点§Y凯扬灵光§!。"
-
-EDG_TUR_gaomen_reform_effect_tt:0 "我们将§Y启用§!该政策。\n再次点击将§M取消§!该政策，但费用将不会退还。"
+EDG_TUR_gaomen_2_1_reform_global_flag:0 "Economic Policy: Increase Tax Farm Quotas"
+EDG_TUR_gaomen_2_2_reform_global_flag:0 "Economic Policy: Deploy Inspection Officials"
+EDG_TUR_gaomen_2_3_reform_global_flag:0 "Economic Policy: Conduct Land Survey"
+EDG_TUR_gaomen_2_4_reform_global_flag:0 "Economic Policy: Confiscate Temple Lands"
+EDG_TUR_gaomen_2_5_reform_global_flag:0 "Economic Policy: Encourage Trade"
+EDG_TUR_gaomen_2_6_reform_global_flag:0 "Economic Policy: Expand Burgher Rights"
 
 
-EDG_TUR_gaomen_decree_button_1_tt:0 "               §b建立迪万议会§!"
-EDG_TUR_gaomen_decree_button_2_tt:0 "               §b设立苏丹之眼§!"
-EDG_TUR_gaomen_decree_button_3_tt:0 "               §b改革禁宫制度§!"
-EDG_TUR_gaomen_decree_button_4_tt:0 "               §b委任禁军阿迦§!"
-EDG_TUR_gaomen_decree_button_5_tt:0 "               §b削弱大维齐尔§!"
-EDG_TUR_gaomen_decree_button_6_tt:0 "               §b设立贝勒贝伊§!"
-EDG_TUR_gaomen_decree_button_7_tt:0 "               §b扩大蒂玛尔领§!"
-EDG_TUR_gaomen_decree_button_8_tt:0 "               §b包税制标准化§!"
-EDG_TUR_gaomen_decree_button_9_tt:0 "               §b强化米利特制§!"
-EDG_TUR_gaomen_decree_button_10_tt:0 "               §b改革商业税制§!"
-EDG_TUR_gaomen_decree_button_11_tt:0 "               §b推行宗教改革§!"
-EDG_TUR_gaomen_decree_button_12_tt:0 "               §b专制主义行政§!"
-EDG_TUR_gaomen_decree_button_13_tt:0 "               §b设立近代大学§!"
+#Increase Provincial Autonomy
+#Appoint Provincial Governors
+#Raise Provincial Taxes
+#Integrate Provincial Armies
+#Extract Provincial Manpower
+#Deploy Provincial Sailors
 
-EDG_TUR_gaomen_decree_1_tt:0 "「帝国改革」§Y建立迪万议会§!"
-EDG_TUR_gaomen_decree_2_tt:0 "「帝国改革」§Y设立苏丹之眼§!"
-EDG_TUR_gaomen_decree_3_tt:0 "「帝国改革」§Y改革禁宫制度§!"
-EDG_TUR_gaomen_decree_4_tt:0 "「帝国改革」§Y委任禁军阿迦§!"
-EDG_TUR_gaomen_decree_5_tt:0 "「帝国改革」§Y削弱大维齐尔§!"
-EDG_TUR_gaomen_decree_6_tt:0 "「帝国改革」§Y设立贝勒贝伊§!"
-EDG_TUR_gaomen_decree_7_tt:0 "「帝国改革」§Y扩大蒂玛尔领§!"
-EDG_TUR_gaomen_decree_8_tt:0 "「帝国改革」§Y推行税制改革§!"
-EDG_TUR_gaomen_decree_9_tt:0 "「帝国改革」§Y强化米利特制§!"
-EDG_TUR_gaomen_decree_10_tt:0 "「帝国改革」§Y改革商业税制§!"
-EDG_TUR_gaomen_decree_11_tt:0 "「帝国改革」§Y推行宗教改革§!"
-EDG_TUR_gaomen_decree_12_tt:0 "「帝国改革」§Y专制主义行政§!"
-EDG_TUR_gaomen_decree_13_tt:0 "「帝国改革」§Y设立近代大学§!"
+EDG_TUR_gaomen_3_1_reform_no_tt:0 "£no£Increase Autonomy"
+EDG_TUR_gaomen_3_2_reform_no_tt:0 "£no£Appoint Governors"
+EDG_TUR_gaomen_3_3_reform_no_tt:0 "£no£Raise Provincial Taxes"
+EDG_TUR_gaomen_3_4_reform_no_tt:0 "£no£Integrate Provincial Armies"
+EDG_TUR_gaomen_3_5_reform_no_tt:0 "£no£Extract Manpower"
+EDG_TUR_gaomen_3_6_reform_no_tt:0 "£no£Deploy Provincial Sailors"
 
-EDG_TUR_gaomen_decree_in_10_years_modifier:0 "十年内推行过「帝国改革」"
-EDG_TUR_gaomen_decree_button_1_modifier:0 "「帝国改革」建立迪万议会"
-EDG_TUR_gaomen_decree_button_2_modifier:0 "「帝国改革」设立苏丹之眼"
-EDG_TUR_gaomen_decree_button_3_modifier:0 "「帝国改革」改革禁宫制度"
-EDG_TUR_gaomen_decree_button_4_modifier:0 "「帝国改革」委任禁军阿迦"
-EDG_TUR_gaomen_decree_button_5_modifier:0 "「帝国改革」削弱大维齐尔"
-EDG_TUR_gaomen_decree_button_6_modifier:0 "「帝国改革」设立贝勒贝伊"
-EDG_TUR_gaomen_decree_button_7_modifier:0 "「帝国改革」扩大蒂玛尔领"
-EDG_TUR_gaomen_decree_button_8_modifier:0 "「帝国改革」推行税制改革"
-EDG_TUR_gaomen_decree_button_9_modifier:0 "「帝国改革」强化米利特制"
-EDG_TUR_gaomen_decree_button_10_modifier:0 "「帝国改革」改革商业税制"
-EDG_TUR_gaomen_decree_button_11_modifier:0 "「帝国改革」推行宗教改革"
-EDG_TUR_gaomen_decree_button_12_modifier:0 "「帝国改革」专制主义行政"
-EDG_TUR_gaomen_decree_button_13_modifier:0 "「帝国改革」设立近代大学"
-EDG_TUR_gaomen_1_1_reform_modifier:0 "「行政政策」委任大维齐尔"
-EDG_TUR_gaomen_1_2_reform_modifier:0 "「行政政策」提拔文官亲信"
-EDG_TUR_gaomen_1_3_reform_modifier:0 "「行政政策」授予宦官特权"
-EDG_TUR_gaomen_1_4_reform_modifier:0 "「行政政策」允许卖官鬻爵"
-EDG_TUR_gaomen_1_5_reform_modifier:0 "「行政政策」优待本地贵族"
-EDG_TUR_gaomen_1_6_reform_modifier:0 "「行政政策」强化米利特制"
-EDG_TUR_gaomen_2_1_reform_modifier:0 "「经济政策」提高包税数额"
-EDG_TUR_gaomen_2_2_reform_modifier:0 "「经济政策」外派检察官员"
-EDG_TUR_gaomen_2_3_reform_modifier:0 "「经济政策」清查全国土地"
-EDG_TUR_gaomen_2_4_reform_modifier:0 "「经济政策」没收寺庙土地"
-EDG_TUR_gaomen_2_5_reform_modifier:0 "「经济政策」鼓励商业贸易"
-EDG_TUR_gaomen_2_6_reform_modifier:0 "「经济政策」扩大市民权力"
-EDG_TUR_gaomen_3_1_reform_modifier:0 "「行省政策」提高行省自治"
-EDG_TUR_gaomen_3_2_reform_modifier:0 "「行省政策」封赏行省总督"
-EDG_TUR_gaomen_3_3_reform_modifier:0 "「行省政策」增收行省赋税"
-EDG_TUR_gaomen_3_4_reform_modifier:0 "「行省政策」整合行省军队"
-EDG_TUR_gaomen_3_5_reform_modifier:0 "「行省政策」榨取行省兵源"
-EDG_TUR_gaomen_3_6_reform_modifier:0 "「行省政策」调遣行省水手"
+EDG_TUR_gaomen_3_1_reform_yes_tt:0 "£yes£Increase Autonomy"
+EDG_TUR_gaomen_3_2_reform_yes_tt:0 "£yes£Appoint Governors"
+EDG_TUR_gaomen_3_3_reform_yes_tt:0 "£yes£Raise Provincial Taxes"
+EDG_TUR_gaomen_3_4_reform_yes_tt:0 "£yes£Integrate Provincial Armies"
+EDG_TUR_gaomen_3_5_reform_yes_tt:0 "£yes£Extract Manpower"
+EDG_TUR_gaomen_3_6_reform_yes_tt:0 "£yes£Deploy Provincial Sailors"
 
+EDG_TUR_gaomen_3_1_reform_global_flag:0 "Provincial Policy: Increase Autonomy"
+EDG_TUR_gaomen_3_2_reform_global_flag:0 "Provincial Policy: Appoint Governors"
+EDG_TUR_gaomen_3_3_reform_global_flag:0 "Provincial Policy: Raise Provincial Taxes"
+EDG_TUR_gaomen_3_4_reform_global_flag:0 "Provincial Policy: Integrate Provincial Armies"
+EDG_TUR_gaomen_3_5_reform_global_flag:0 "Provincial Policy: Extract Manpower"
+EDG_TUR_gaomen_3_6_reform_global_flag:0 "Provincial Policy: Deploy Provincial Sailors"
 
-EDG_TUR_make_great_vizier_action_opinion:0 "任命大维齐尔"
-EDG_TUR_remove_great_vizier_action_opinion:0 "免除大维齐尔"
+EDG_TUR_gaomen_decree_in_10_years_tt:0 "The Padishah can issue one §Y'Imperial Reform'§! for free every §M10§! years.\nIf a decree has already been issued within §M10§! years, it will cost §M25§! points of §YPersian Influence§!.\nGains §M10§! points of §YKayan Glory§!."
+EDG_TUR_gaomen_decree_in_10_years_tt_1:0 "Since we have issued an §Y'Imperial Reform'§! within the last §M10§! years, we will expend an additional §M25§! points of §YPersian Influence§! to issue a decree.\nGains §M10§! points of §YKayan Glory§!."
+EDG_TUR_gaomen_decree_in_10_years_tt_2:0 "Since we have not issued an §Y'Imperial Reform'§! within the last §M10§! years, we may issue a decree for free.\nGains §M10§! points of §YKayan Glory§!."
 
-EDG_TUR_make_great_vizier_trigger_modifier_1:0 "不称职的维齐尔"
-EDG_TUR_make_great_vizier_trigger_modifier_3:0 "大维齐尔:I「称职」"
-EDG_TUR_make_great_vizier_trigger_modifier_4:0 "大维齐尔:II「优秀」"
-EDG_TUR_make_great_vizier_trigger_modifier_5:0 "大维齐尔:III「强势」"
-EDG_TUR_make_great_vizier_trigger_modifier_6:0 "大维齐尔:IV「权臣」"
+EDG_TUR_gaomen_reform_effect_tt:0 "We will §Yactivate§! this policy.\nClicking again will §Mcancel§! this policy, but the cost will not be refunded."
+
+EDG_TUR_gaomen_decree_button_1_tt:0 "           §bEstablish the Divan Council§!"
+EDG_TUR_gaomen_decree_button_2_tt:0 "              §bCreate the Sultan's Eye§!"
+EDG_TUR_gaomen_decree_button_3_tt:0 "            §bReform the Harem System§!"
+EDG_TUR_gaomen_decree_button_4_tt:0 "              §bAppoint Janissary Agha§!"
+EDG_TUR_gaomen_decree_button_5_tt:0 "            §bWeaken the Grand Vizier§!"
+EDG_TUR_gaomen_decree_button_6_tt:0 "                  §bAppoint Beylerbey§!"
+EDG_TUR_gaomen_decree_button_7_tt:0 "                §bExpand Timar Lands§!"
+EDG_TUR_gaomen_decree_button_8_tt:0 "             §bStandardize Tax Farming§!"
+EDG_TUR_gaomen_decree_button_9_tt:0 "             §bStrengthen Millet System§!"
+EDG_TUR_gaomen_decree_button_10_tt:0 "          §bReform Commercial Taxation§!"
+EDG_TUR_gaomen_decree_button_11_tt:0 "          §bImplement Religious Reforms§!"
+EDG_TUR_gaomen_decree_button_12_tt:0 "             §bAbsolutist Administration§!"
+EDG_TUR_gaomen_decree_button_13_tt:0 "          §bEstablish Modern Universities§!"
+
+EDG_TUR_gaomen_decree_1_tt:0 "Imperial Reform: §YEstablish the Divan Council§!"
+EDG_TUR_gaomen_decree_2_tt:0 "Imperial Reform: §YCreate the Sultan's Eye§!"
+EDG_TUR_gaomen_decree_3_tt:0 "Imperial Reform: §YReform the Harem System§!"
+EDG_TUR_gaomen_decree_4_tt:0 "Imperial Reform: §YAppoint Janissary Agha§!"
+EDG_TUR_gaomen_decree_5_tt:0 "Imperial Reform: §YWeaken the Grand Vizier§!"
+EDG_TUR_gaomen_decree_6_tt:0 "Imperial Reform: §YAppoint Beylerbey§!"
+EDG_TUR_gaomen_decree_7_tt:0 "Imperial Reform: §YExpand Timar Lands§!"
+EDG_TUR_gaomen_decree_8_tt:0 "Imperial Reform: §YImplement Tax Reforms§!"
+EDG_TUR_gaomen_decree_9_tt:0 "Imperial Reform: §YStrengthen Millet System§!"
+EDG_TUR_gaomen_decree_10_tt:0 "Imperial Reform: §YReform Commercial Taxation§!"
+EDG_TUR_gaomen_decree_11_tt:0 "Imperial Reform: §YImplement Religious Reforms§!"
+EDG_TUR_gaomen_decree_12_tt:0 "Imperial Reform: §YAbsolutist Administration§!"
+EDG_TUR_gaomen_decree_13_tt:0 "Imperial Reform: §YEstablish Modern Universities§!"
+
+EDG_TUR_gaomen_decree_in_10_years_modifier:0 "Implemented 'Imperial Reforms' Within the Last Ten Years"
+EDG_TUR_gaomen_decree_button_1_modifier:0 "Imperial Reform: Establish the Divan Council"
+EDG_TUR_gaomen_decree_button_2_modifier:0 "Imperial Reform: Create the Sultan's Eye"
+EDG_TUR_gaomen_decree_button_3_modifier:0 "Imperial Reform: Reform the Harem System"
+EDG_TUR_gaomen_decree_button_4_modifier:0 "Imperial Reform: Appoint Janissary Agha"
+EDG_TUR_gaomen_decree_button_5_modifier:0 "Imperial Reform: Weaken the Grand Vizier"
+EDG_TUR_gaomen_decree_button_6_modifier:0 "Imperial Reform: Appoint Beylerbey"
+EDG_TUR_gaomen_decree_button_7_modifier:0 "Imperial Reform: Expand Timar Lands"
+EDG_TUR_gaomen_decree_button_8_modifier:0 "Imperial Reform: Implement Tax Reforms"
+EDG_TUR_gaomen_decree_button_9_modifier:0 "Imperial Reform: Strengthen Millet System"
+EDG_TUR_gaomen_decree_button_10_modifier:0 "Imperial Reform: Reform Commercial Taxation"
+EDG_TUR_gaomen_decree_button_11_modifier:0 "Imperial Reform: Implement Religious Reforms"
+EDG_TUR_gaomen_decree_button_12_modifier:0 "Imperial Reform: Absolutist Administration"
+EDG_TUR_gaomen_decree_button_13_modifier:0 "Imperial Reform: Establish Modern Universities"
+EDG_TUR_gaomen_1_1_reform_modifier:0 "Administrative Policy: Appoint Grand Vizier"
+EDG_TUR_gaomen_1_2_reform_modifier:0 "Administrative Policy: Promote Civilian Favorites"
+EDG_TUR_gaomen_1_3_reform_modifier:0 "Administrative Policy: Grant Eunuch Privileges"
+EDG_TUR_gaomen_1_4_reform_modifier:0 "Administrative Policy: Permit Sale of Offices"
+EDG_TUR_gaomen_1_5_reform_modifier:0 "Administrative Policy: Favor Local Nobility"
+EDG_TUR_gaomen_1_6_reform_modifier:0 "Administrative Policy: Strengthen Millet System"
+EDG_TUR_gaomen_2_1_reform_modifier:0 "Economic Policy: Increase Tax Farm Quotas"
+EDG_TUR_gaomen_2_2_reform_modifier:0 "Economic Policy: Deploy Inspection Officials"
+EDG_TUR_gaomen_2_3_reform_modifier:0 "Economic Policy: Conduct Land Survey"
+EDG_TUR_gaomen_2_4_reform_modifier:0 "Economic Policy: Confiscate Temple Lands"
+EDG_TUR_gaomen_2_5_reform_modifier:0 "Economic Policy: Encourage Trade"
+EDG_TUR_gaomen_2_6_reform_modifier:0 "Economic Policy: Expand Burgher Rights"
+EDG_TUR_gaomen_3_1_reform_modifier:0 "Provincial Policy: Increase Autonomy"
+EDG_TUR_gaomen_3_2_reform_modifier:0 "Provincial Policy: Appoint Governors"
+EDG_TUR_gaomen_3_3_reform_modifier:0 "Provincial Policy: Raise Provincial Taxes"
+EDG_TUR_gaomen_3_4_reform_modifier:0 "Provincial Policy: Integrate Provincial Armies"
+EDG_TUR_gaomen_3_5_reform_modifier:0 "Provincial Policy: Extract Manpower"
+EDG_TUR_gaomen_3_6_reform_modifier:0 "Provincial Policy: Deploy Provincial Sailors"
+
+EDG_TUR_make_great_vizier_action_opinion:0 "Appoint Grand Vizier"
+EDG_TUR_remove_great_vizier_action_opinion:0 "Dismiss Grand Vizier"
+
+EDG_TUR_make_great_vizier_trigger_modifier_1:0 "Incompetent Vizier"
+EDG_TUR_make_great_vizier_trigger_modifier_3:0 "Grand Vizier: I 'Competent'"
+EDG_TUR_make_great_vizier_trigger_modifier_4:0 "Grand Vizier: II 'Excellent'"
+EDG_TUR_make_great_vizier_trigger_modifier_5:0 "Grand Vizier: III 'Influential'"
+EDG_TUR_make_great_vizier_trigger_modifier_6:0 "Grand Vizier: IV 'Powerful Minister'"

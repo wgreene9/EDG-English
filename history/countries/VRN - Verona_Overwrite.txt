@@ -1,7 +1,7 @@
 1443.1.1 = {
 	monarch = {
-		name = "比亚乔尔 「矮子」"
-		dynasty = "贝纳格利奥"
+		name = "Biagiol 'the Dwarf'" # or il Corto
+		dynasty = "Benaglio"
 		birth_date = 1415.8.1
 		adm = 3
 		dip = 1

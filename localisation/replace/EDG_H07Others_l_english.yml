@@ -1,52 +1,55 @@
 ﻿l_english:
- h07_weimar_republic_government:0 "魏玛第二共和国"
-h07_weimar_republic_government_desc:0 "在经历了先后由捷克贵族和本地寡头的统治的第一共和国后，魏玛的百姓们深刻意识到了这种依附于神圣罗马帝国封建体系和裙带关系的共和制的弊端。如今，魏玛人民依据圣经，对共和国体制进行了一系列的改革。尽管第二共和国仍有许多弊端，但仍然我们是迈向理想的一步。"
+h07_weimar_republic_government:0 "Second Weimar Republic"
+h07_weimar_republic_government_desc:0 "After enduring the rule of the First Republic, first by Czech nobility and then by local oligarchs, the people of Weimar came to deeply understand the flaws of a republican system dependent on the Holy Roman Empire's feudal hierarchy and nepotism. Now, guided by the Bible, the people of Weimar have implemented a series of reforms to the republican system. Though the Second Republic still has many shortcomings, it remains a step towards the ideal."
 
-h07_weimar_deutschlande_government:0 "魏玛宪法"
-h07_weimar_deutschlande_government_desc:0 "德意志，德意志高于一切。然而，由魏玛共和国成立的德意志还有着许多问题，其中最严重的恐怕就是对于总统权力的过度放任，让新生的德意志共和国极有可能落入独裁者手中。但无论如何，那都是以后要考虑的事情了……"
+h07_weimar_deutschlande_government:0 "Weimar Constitution"
+h07_weimar_deutschlande_government_desc:0 "Germany, Germany above all. However, the Germany founded by the Weimar Republic faces numerous issues, the most severe likely being the excessive latitude granted to presidential power, which makes the nascent German Republic highly susceptible to falling into the hands of a dictator. But that is a concern for the future..."
 
-h07_weimar_nationale_councila:0 "共和国家议会"
-h07_weimar_nationale_councila_desc:0 "共和国家议会作为全国的最高政府机构，主要负责国内的行政决策与立法。各个省份的市民、农民和商人代表根据各省的人数比例而获得议会内的不同席位，在最大程度上确保了维护多数人利益的同时不至于直接无视少数人的声音。同时，得益于共和国的治理传统，国家议会能够很好地处理战争与和平两个时期的过度。"
+h07_weimar_nationale_councila:0 "Republican National Council"
+h07_weimar_nationale_councila_desc:0 "As the nation's highest governmental body, the Republican National Council is primarily responsible for domestic administrative decisions and legislation. Representatives of citizens, peasants, and merchants from each province obtain seats in the council based on provincial population ratios, ensuring, as far as possible, that the interests of the majority are upheld without outright ignoring minority voices. Additionally, thanks to the Republic's governance traditions, the National Council manages transitions between war and peace effectively."
 
-h07_weimar_black_templars:0 "圣堂军"
-h07_weimar_black_templars_desc:0 "根据圣经中的指引，共和国的终于拥有了自己的正式军队。和传统的殓洲军制不同，圣堂军在组织结构上更加倾向于十字军骑士团。士兵们在和平时期一般在从事农业生产与城市活动，一旦战争爆发，士兵们可以在极短的时间内完成集结，并且在信仰的加持下，圣堂军有着惊人的士气恢复速度。"
+h07_weimar_black_templars:0 "Templar Army"
+h07_weimar_black_templars_desc:0 "Following guidance from the Bible, the Republic finally possesses its own formal army. Unlike traditional European military structures, the Templar Army's organization leans more towards that of a crusading knightly order. In peacetime, soldiers generally engage in agricultural production or urban activities. Once war breaks out, soldiers can mobilize rapidly, and bolstered by faith, the Templar Army exhibits remarkable morale recovery rates."
 
-h07_weimar_religous_affairs:0 "皆行于地"
-h07_weimar_religous_affairs_desc:0 "虽说圣经在共和国的地位非同一般，但由于共和国长期于各种形状的“异端”混迹在一起，因此人民们更加倾向于关注教义的共同点，而非刻板的教条主义。侍奉本身即是嘉奖。"
+h07_weimar_religous_affairs:0 "Thy Will Be Done on Earth"
+h07_weimar_religous_affairs_desc:0 "Although the Bible holds a special place in the Republic, prolonged interaction with various forms of 'heresy' has led the people to focus more on commonalities in doctrine rather than rigid dogmatism. Service itself is its own reward."
 
-ability_EDG_weimar_national_council_government_ability:0 "§Y共和国家议会能力§!"
-EDG_weimar_national_council:0 "共和国经济建设点数"
-EDG_weimar_national_council_desc:0 "§Y经济建设点数§!的增减只与我们是否处在战争中有关。\n\n只要我们§G处于和平时期§!，那么我们§Y每月能获得5点点数§!\n\n如果我们§G处于战争时期§!，那么我们§Y每月将会减少5点点数§!"
-monthly_EDG_weimar_national_council:0 "月度经济建设点数"
+ability_EDG_weimar_national_council_government_ability:0 "§YRepublican National Council Ability§!"
+EDG_weimar_national_council:0 "Republican Economic Development Points"
+EDG_weimar_national_council_desc:0 "The increase or decrease of §YEconomic Development Points§! is solely tied to whether we are at war.\n\nIf we are §Gat peace§!, we §Ygain 5 points per month§!.\n\nIf we are §Gat war§!, we §Ylose 5 points per month§!."
+monthly_EDG_weimar_national_council:0 "Monthly Economic Development Points"
 
-h07_weimar_german_commenweath:0 "联邦州体系"
-h07_weimar_german_commenweath_desc:0 "魏玛共和国在地方政治上由不同的联邦州组成。这些联邦州有着相当程度的自治与传统自由，在最大程度上用尊重换取了地方的行政效率。"
+h07_weimar_german_commenweath:0 "Federal State System"
+h07_weimar_german_commenweath_desc:0 "The Weimar Republic's local politics consist of various federal states. These states possess considerable autonomy and traditional freedoms, maximizing administrative efficiency in exchange for respect for local governance."
 
-h07_weimar_party_politik:0 "早期政治党派体系"
-h07_weimar_party_politik_desc:0 "在中央与地方的行政机构中，不同的利益派系会组成不同的政治利益集团，而共和国的大体治理也十分依赖这些早期政党式的利益集团。"
+h07_weimar_party_politik:0 "Early Political Party System"
+h07_weimar_party_politik_desc:0 "Within central and local administrative bodies, different interest factions form various political interest groups. The Republic's overall governance also heavily relies on these early party-style interest groups."
 
-h07_weimar_president_parliamenta:0 "半总统制（议会共和制）"
-h07_weimar_president_parliamenta_desc:0 "由于魏玛的共和制度是一种混合了多种政治制度与利益集团的混合产物，因此共和国议会需要一个领袖的存在来确保必要的团结，哪怕这很可能会将领袖的地位推向独裁的深渊。"
+h07_weimar_president_parliamenta:0 "Semi-Presidential System (Parliamentary Republic)"
+h07_weimar_president_parliamenta_desc:0 "Since Weimar's republican system is a hybrid product of multiple political systems and interest groups, the Republic's council requires a leader to ensure necessary unity, even if this might push the leader's position towards the abyss of dictatorship."
 ###country flags and other tooltips 
-edg_weimar_ekonomi_reform_start:0 "开始经济改革"
+edg_weimar_ekonomi_reform_start:0 "Begin Economic Reforms"
 
+edg_weimar_buying_lands_tt:0 "After completing this national focus, we will be able to purchase noble territories through special decisions, allowing for 'peaceful' expansion within the Empire."
 
-edg_weimar_buying_lands_tt:0 "完成该国策后，我们将能够通过特殊决议来购买贵族的领土，以此在帝国境内“和平”扩张"
+edg_weimar_meisen_intro_5_4_tt:0 "§YOur neighbor, the Duchy of Meissen, is currently ruled by the House of Wettin. As a native of Meissen, Thomas knows full well that the Wettins' tyrannical rule lacks popular support. Thus, liberating Meissen is imperative!§!\n"
 
-edg_weimar_meisen_intro_5_4_tt:0 "§Y我们的邻居迈森公国如今正处于韦廷家族的统治之下。作为一个土生土长的迈森人，托马斯十分清楚韦廷家族的暴虐统治不得民心。如此来看，解放迈森势在必行！§!\n"
+EDG_H07_decision_5_title:0 "Incite the Leipzig Uprising"
+EDG_H07_decision_5_desc:0 "From the earliest Slavs to later margrave lords, Leipzig's soil has known nothing but atrocities and taxes. The people of Leipzig are long weary of endless taxation, making an uprising that stirs the world a natural outcome."
 
+EDG_H07_decision_6_title:0 "Incite the Berlin Uprising"
+EDG_H07_decision_6_desc:0 "Berlin, the heart of Brandenburg, the pride of the Hohenzollerns—but what is Berlin to those living in wooden shacks? Berlin's lower classes have long wanted to kick out the lords above them; all they lack is some support..."
 
-EDG_H07_decision_5_title:0 "策划莱比锡起义"
-EDG_H07_decision_5_desc:0 "从最早的斯拉夫人再到后来的侯爵领主，莱比锡的土地上除了暴行就是课税。如今的莱比锡人早就厌倦了无穷无尽的税务，于是一次挑动天下的起义便水到渠成了。"
-EDG_H07_decision_6_title:0 "策划柏林起义"
-EDG_H07_decision_6_desc:0 "柏林，勃兰登堡的心脏，霍亨索伦的骄傲，那对于住在木棚里的人们呢，柏林对他们来说又算什么呢？柏林的底层人民早就想踢走头上的领主了，他们差的只是一些支持……"
-EDG_H07_decision_7_title:0 "挑拨贵族关系"
-EDG_H07_decision_7_desc:0 "勃兰登堡作为我们的北方大敌，它的任何联姻和盟约都可能为我们增加不必要的敌人。不过嘛，作为最“下等”的农民，我们最擅长制造一些打猎时的“小意外”，从而让勃兰登堡处于一个在贵族圈子里孤立无援的状态。"
-edg_weimar_buying_northern_flag:0 "已完成任务§Y“自由潮流”§!"
-EDG_H07_decision_8_title:0 "团结迪特马尔申"
-EDG_H07_decision_8_desc:0 "迪特马尔申的农民用行动为自己在北德意志争取到了自治权。但在漫长的斗争中，当地的农民也越来越看不到未来的希望，直到我们的到来。"
-edg_weimar_army_reform_templars_flag:0 "已完成军队初步改革"
-edg_weimar_germany_republika_flag:0 "已完成托马斯的故事"
+EDG_H07_decision_7_title:0 "Sow Discord Among Nobles"
+EDG_H07_decision_7_desc:0 "As our great northern enemy, any marriage alliance or treaty Brandenburg forms could add unnecessary foes. However, as the lowest 'class' of peasants, we excel at creating 'little accidents' during hunts, leaving Brandenburg isolated and friendless among the nobility."
+
+edg_weimar_buying_northern_flag:0 "Mission §Y'The Tide of Freedom'§! Completed"
+
+EDG_H07_decision_8_title:0 "Unite Dithmarschen"
+EDG_H07_decision_8_desc:0 "The peasants of Dithmarschen fought for and won autonomy in Northern Germany. Yet during their long struggle, the local peasants increasingly lost hope for the future—until our arrival."
+
+edg_weimar_army_reform_templars_flag:0 "Initial Army Reforms Completed"
+edg_weimar_germany_republika_flag:0 "Thomas's Story Completed"
 
 
 
@@ -54,41 +57,41 @@ edg_weimar_germany_republika_flag:0 "已完成托马斯的故事"
 
 
 ###decisions
-EDG_H07_decision_1_title:0 "魏玛共和国游玩提醒"
-EDG_H07_decision_1_desc:0 "欢迎您体验魏玛，一个非常不起眼的北德意志小国。请注意，§G魏玛在设计上没有考虑任何变身内容。§!尽管并未禁止变身易北兰或是普鲁士，但由于并未进行额外适配，所以§G任何变身都一定会引起bug，§!所以§Y还请您不要进行任何变身§!。魏玛最终能够成立德意志共和国，但该tag§G并不是原版的德意志§!。同时，由于魏玛有大量特殊事件，所以§Y如果您能按照宣称省份进行扩张，那么将会发现更多的隐藏事件与增益§!。如果您在游玩过程中被AI堵死了扩张道路，记得§Y看看决议列表§!，说不定您会发现一些能帮助您摆脱坐牢的特殊惊喜决议。\n最后，祝您游玩愉快！"
-EDG_H07_decision_2_title:0 "购买卢萨蒂亚"
-EDG_H07_decision_2_desc:0 "在取得了科堡的控制权后，我们明白了金钱在很多情况下的的确确就是万能的。因此，我们将尝试用金币的力量来为卢萨蒂亚的农民兄弟赎身。"
-EDG_H07_decision_4_title:0 "挑动奥波莱"
-EDG_H07_decision_4_desc:0 "作为波西米亚王冠的附庸国之一，奥波莱的权贵们各个心怀鬼胎，根本不是铁板一块。只要我们稍加挑拨，那么奥波莱那些愚蠢而自私的贵族们便会强行让公国脱离波西米亚的控制。"
+EDG_H07_decision_1_title:0 "Weimar Republic Gameplay Notice"
+EDG_H07_decision_1_desc:0 "Welcome to Weimar, a very unremarkable small nation in Northern Germany. Please note that §GWeimar was designed without consideration for any tag-switching.§! While switching to Elbląg or Prussia is not explicitly prohibited, due to lack of additional adaptation, §Gany tag-switching will certainly cause bugs§!. Therefore, §Yplease refrain from any tag-switching§!. Weimar can eventually form the German Republic, but this tag §Gis not the vanilla Germany§!. Additionally, since Weimar has many special events, §Yif you expand according to its claims, you will discover more hidden events and bonuses§!. If AI blocks your expansion path during gameplay, remember to §Ycheck the decisions list§!—you might find some special surprise decisions that can help you break the stalemate.\n\nFinally, enjoy your game!"
+EDG_H07_decision_2_title:0 "Purchase Lusatia"
+EDG_H07_decision_2_desc:0 "After gaining control of Coburg, we learned that money truly is almighty in many situations. Thus, we will attempt to use the power of gold to buy freedom for our peasant brothers in Lusatia."
+EDG_H07_decision_4_title:0 "Incite Opole"
+EDG_H07_decision_4_desc:0 "As one of the vassals under the Bohemian Crown, the powerful figures in Opole are each with their own schemes, far from united. With a little provocation, the foolish and selfish nobles of Opole will force the duchy to break away from Bohemian control."
 
-EDG_H07_decision_9_title:0 "与法兰克福协商"
-EDG_H07_decision_9_desc:0 "法兰克福的商人们很早就欠下了我们巨额债务。我们完全可以借此机会让这群贪心的家伙出卖自己的祖国。"
-EDG_H07_decision_10_title:0 "购买雷根斯堡"
-EDG_H07_decision_10_desc:0 "雷根斯堡自由市，因为信奉异端而一直被周边诸侯排挤。对于雷根斯堡市长而言，接纳魏玛人的贿赂很显然要好过整日被无视的命运。只需要一点点金钱，就能为雷根斯堡市长撬开属于他的那扇窗……"
-EDG_H07_decision_11_title:0 "购买罗腾堡"
-EDG_H07_decision_11_desc:0 "在我们确定了统一德意志的方针后，留给剩余的自由市和小国的只有两个选择。要么加入共和国，要么站在皇帝身旁。不过我们相信，一些小小的金钱贿赂能够说服罗腾堡的权贵们。"
-EDG_H07_decision_12_title:0 "购买康斯坦茨"
-EDG_H07_decision_12_desc:0 "在我们确定了统一德意志的方针后，留给剩余的自由市和小国的只有两个选择。要么加入共和国，要么站在皇帝身旁。不过我们相信，一些小小的金钱贿赂能够说服康斯坦茨的权贵们。"
-EDG_H07_decision_13_title:0 "购买梅明根"
-EDG_H07_decision_13_desc:0 "在我们确定了统一德意志的方针后，留给剩余的自由市和小国的只有两个选择。要么加入共和国，要么站在皇帝身旁。不过我们相信，一些小小的金钱贿赂能够说服梅明根的权贵们。"
-EDG_H07_decision_14_title:0 "购买多特蒙德"
-EDG_H07_decision_14_desc:0 "在我们确定了统一德意志的方针后，留给剩余的自由市和小国的只有两个选择。要么加入共和国，要么站在皇帝身旁。不过我们相信，一些小小的金钱贿赂能够说服多特蒙德的权贵们。"
+EDG_H07_decision_9_title:0 "Negotiate with Frankfurt"
+EDG_H07_decision_9_desc:0 "The merchants of Frankfurt have long owed us substantial debts. We can use this opportunity to make these greedy individuals betray their homeland."
+EDG_H07_decision_10_title:0 "Purchase Regensburg"
+EDG_H07_decision_10_desc:0 "The Free City of Regensburg, ostracized by neighboring princes due to its heretical beliefs. For the mayor of Regensburg, accepting bribes from Weimar is clearly preferable to a fate of constant disregard. A little money is all it takes to pry open a window for the mayor of Regensburg..."
+EDG_H07_decision_11_title:0 "Purchase Rothenburg"
+EDG_H07_decision_11_desc:0 "After establishing our policy of German unification, only two choices remain for the remaining free cities and minor states: join the Republic or stand with the Emperor. However, we believe a small monetary bribe can persuade Rothenburg's power-holders."
+EDG_H07_decision_12_title:0 "Purchase Constance"
+EDG_H07_decision_12_desc:0 "After establishing our policy of German unification, only two choices remain for the remaining free cities and minor states: join the Republic or stand with the Emperor. However, we believe a small monetary bribe can persuade Constance's power-holders."
+EDG_H07_decision_13_title:0 "Purchase Memmingen"
+EDG_H07_decision_13_desc:0 "After establishing our policy of German unification, only two choices remain for the remaining free cities and minor states: join the Republic or stand with the Emperor. However, we believe a small monetary bribe can persuade Memmingen's power-holders."
+EDG_H07_decision_14_title:0 "Purchase Dortmund"
+EDG_H07_decision_14_desc:0 "After establishing our policy of German unification, only two choices remain for the remaining free cities and minor states: join the Republic or stand with the Emperor. However, we believe a small monetary bribe can persuade Dortmund's power-holders."
 
 
 ###disaster
-weimar_wetting_rebellion:0 "韦廷家族反扑"
-weimar_wetting_rebellion_desc:0 "韦廷贵族们在逃离了迈森后，四处召集援军，如今他们回来找我们复仇了"
-EDG_H07_modifier_101_a:0 "收缴贵族地产"
-edg_weimar_wettings_rebel_shit_disaster:0 "韦廷家族的反扑"
-edg_weimar_buying_lands_flag:0 "已完成任务“奥拉明德之路”"
+weimar_wetting_rebellion:0 "Wettin Family Counterattack"
+weimar_wetting_rebellion_desc:0 "After fleeing Meissen, the Wettin nobles gathered reinforcements everywhere. Now they have returned for revenge."
+EDG_H07_modifier_101_a:0 "Confiscate Noble Estates"
+edg_weimar_wettings_rebel_shit_disaster:0 "The Wettin Counterattack"
+edg_weimar_buying_lands_flag:0 "Mission 'The Road to Olarmund' Completed"
 edg_weimar_wettings_add_rebels:0 "The Wettings have returned!!!"
-weimar_church_rebel_south:0 "刀刺在背的阴谋"
-weimar_church_rebel_south_desc:0 "尽管我们尽力与南德意志教士们达成妥协，但……很显然，他们不仅不领情，甚至还在密谋些什么……"
-edg_weimar_fixed_religion_system:0 "服务于国家的德意志教会"
+weimar_church_rebel_south:0 "Stab-in-the-Back Conspiracy"
+weimar_church_rebel_south_desc:0 "Despite our efforts to compromise with the Southern German clergy... clearly, they not only remain ungrateful but are also plotting something..."
+edg_weimar_fixed_religion_system:0 "The German Church Serving the State"
 
 ###country names
-WMR: "德意志共和国"
-WMR_ADJ: "德国"
-WMR_ADJ2: "德国"
+WMR: "German Republic"
+WMR_ADJ: "German"
+WMR_ADJ2: "German"
 
- edg_weimar_broaden_the_front:0 "拓宽战线"
+edg_weimar_broaden_the_front:0 "Widen the Front"

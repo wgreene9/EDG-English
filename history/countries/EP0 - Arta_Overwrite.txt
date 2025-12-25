@@ -1,7 +1,7 @@
 1385.1.1 = {
   monarch = {
-    name = "埃绍 I"  # Esau I
-    dynasty = "德 邦代尔蒙蒂"  # de Buondelmonti
+    name = "Esau I"  # Esau I
+    dynasty = "de' Buondelmonti"  # de Buondelmonti
     dip = 1
     adm = 1
     mil = 2
@@ -9,8 +9,8 @@
 }
 1411.2.6 = {
   monarch = {
-    name = "乔治 I"  # Giorgio I
-    dynasty = "德 邦代尔蒙蒂"  # de Buondelmonti
+    name = "Giorgio I"  # Giorgio I
+    dynasty = "de' Buondelmonti"  # de Buondelmonti
     dip = 0
     adm = 0
     mil = 0
@@ -18,8 +18,8 @@
 }
 1411.2.26 = {
   monarch = {
-    name = "卡洛 I"  # Carlo I
-    dynasty = "德 邦代尔蒙蒂"  # Tocco
+    name = "Carlo I"  # Carlo I
+    dynasty = "de' Buondelmonti"  # Tocco
     dip = 4
     adm = 4
     mil = 3
@@ -27,8 +27,8 @@
 }
 1429.6.4 = {
   monarch = {
-    name = "卡洛 II"  # Carlo II
-    dynasty = "德 邦代尔蒙蒂"  # Tocco
+    name = "Carlo II"  # Carlo II
+    dynasty = "de' Buondelmonti"  # Tocco
     dip = 0
     adm = 1
     mil = 3
@@ -36,8 +36,8 @@
 }
 1448.9.30 = {
   monarch = {
-    name = "莱昂纳多 I"  # Leonardo
-    dynasty = "德 邦代尔蒙蒂"  # Tocco
+    name = "Leonardo I"  # Leonardo
+    dynasty = "de' Buondelmonti"  # Tocco
     dip = 1
     adm = 2
     mil = 3

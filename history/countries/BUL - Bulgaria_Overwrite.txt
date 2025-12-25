@@ -1,7 +1,7 @@
 1402.1.1 = {
   monarch = {
-    name = "托多尔 III"
-    dynasty = "希什曼"
+    name = "Todor III"
+    dynasty = "Shishman"
 	birth_date = 1380.8.10
     adm = 3
     dip = 2
@@ -11,8 +11,8 @@
 }
 1409.1.1 = {
   monarch = {
-    name = "康斯坦丁 III"
-    dynasty = "希什曼"
+    name = "Constantine III"
+    dynasty = "Shishman"
 	birth_date = 1381.8.10
     adm = 6
     dip = 6
@@ -21,8 +21,8 @@
 }
 1427.1.1 = {
   monarch = {
-    name = "康斯坦丁 IV"
-    dynasty = "希什曼"
+    name = "Constantine IV"
+    dynasty = "Shishman"
 	birth_date = 1410.8.10
     adm = 5
     dip = 4

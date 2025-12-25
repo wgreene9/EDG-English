@@ -1,6 +1,6 @@
 EDG_define_Chief_Engineer = {
 	define_advisor = {
-		name = "夏北泽Channel"
+		name = "Xia Beize Channel" # 夏北泽Channel
 		type = EDG_Chief_Engineer
 		skill = 5
 	}

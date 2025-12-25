@@ -33,366 +33,283 @@ historical_units = {
   persian_rifle
 }
 monarch_names = {
-  "伊斯梅尔 #0" = 10  # Isma'il #0
-  "萨拉丁 艾哈迈德 #0" = 10  # Saladin Ahmad #0
-  "阿卜杜拉 #0" = 10  # Abdallah #0
-  "叶海亚 #0" = 10  # Yahya #0
-  "优素福 #1" = 10  # Yusuf #1
-  "萨拉赫丁 埃米尔 #0" = 10  # Salâh ad-Din 'Amir #0
-  "阿里 #0" = 10  # 'Alî #0
-  "阿卜杜勒 瓦哈卜 #0" = 10  # 'Abd al-Wahhâb #0
-  "乌玛尔 #0" = 10  # 'Umar #0
-  "穆塔哈尔 #3" = 10  # al-Mutahhar #3
-  "穆罕默德 #0" = 10  # Muhammad #0
-  "卡西姆 #0" = 10  # al-Qâsim #0
-  "艾哈迈德 #0" = 10  # Ahmad #0
-  "侯赛因 #0" = 10  # al-Husayn #0
-  "阿巴斯 #0" = 10  # al-'Abbâs #0
-  "希巴 #0" = -1  # Hiba #0
-  "法蒂玛 #0" = -1  # Fatimah #0
-  "瓦利达 #0" = -1  # Walida #0
-  "塔哈因 #0" = -1  # Tahani #0
-  "沙法 #0" = -1  # Safaa  #0
-  "兰达 #0" = -1  # Randa #0
-  "乞丝马哈 #0" = -1  # Qismah #0
-  "那迪拉 #0" = -1  # Nadirah #0
-  "马朗 #0" = -1  # Maram #0
-  "莱拉 #0" = -1  # Layla #0
-  "卡米拉 #0" = -1  # Kamilah #0
-  "贾碧拉 #0" = -1  # Jabirah #0
-  "呼敦 #0" = -1  # Hudun #0
-  "法德瓦 #0" = -1  # Fadwa #0
-  "达丽雅 #0" = -1  # Daliyah #0
-  "阿米拉 #0" = -1  # Amirah #0
-  "阿瓦尔 #0" = -1  # Abal #0
-  "纳迪亚 #0" = -1  # Nadiyya #0
-  "诺拉 #0" = -1  # Norah #0
-  "法赫达 #0" = -1  # Fahda #0
-  "穆罕默德 #2" = 40  # Muhammad #2
-  "艾哈迈德 #1" = 40  # Ahmad #1
-  "甘萨伍赫 #0" = 40  # Qânsawh #0
-  "吐曼 贝伊 #0" = 40  # Tûmân Bay #0
-  "伊纳勒 #0" = 20  # Inâl #0
-  "胡思卡丹 #1" = 20  # Khusqadam #1
-  "阿卜杜勒 阿齐兹 #0" = 20  # 'Abd al-'Aziz #0
-  "穆斯塔因 #0" = 20  # al-Musta'in #0
-  "纳速儿 法赖吉 #0" = 20  # al-Nasr Faraj #0
-  "巴尔斯拜 #0" = 20  # Barsbay #0
-  "贾科马克 #0" = 20  # Jaqmaq #0
-  "卡伊特巴 #0" = 20  # Qâyit Bay #0
-  "谢赫 马哈茂迪 #0" = 20  # Shaik al-Mahmudi #0
-  "帖木儿不花 #0" = 20  # Timurbughâ #0
-  "奥斯曼 #0" = 20  # 'Uthman #0
-  "叶勒拜 #0" = 20  # Yalbay #0
-  "占布拉特 #0" = 20  # Jânbulât #0
-  "优素福 #0" = 20  # Yûsuf #0
-  "巴尔库克 #1" = 15  # Barqûq #1
-  "阿里 #2" = 10  # 'Alî #2
-  "拜巴尔斯 #2" = 10  # Baybars #2
-  "哈吉 #2" = 10  # Hâjjî #2
-  "沙班 #2" = 10  # Sha'bân #2
-  "阿布 巴卡尔 #1" = 10  # Abû Bakr #1
-  "哈桑 #1" = 10  # al-Hasan #1
-  "伊斯玛仪 #1" = 10  # Isma'îl #1
-  "库屈克 #1" = 10  # Kûjûk #1
-  "沙里赫 #1" = 10  # Sâlih #1
-  "阿卜杜勒 马利克 #0" = 0  # 'Abd al-Malik #0
-  "巴希尔 #0" = 0  # Basir #0
-  "法德勒 #0" = 0  # Fadl #0
-  "海伊斯 #0" = 0  # Ghayth #0
-  "哈提姆 #0" = 0  # Hatim #0
-  "伊利亚斯 #0" = 0  # Ilyas #0
-  "贾比尔 #0" = 0  # Jabir #0
-  "纳迪姆 #0" = 0  # Nadim #0
-  "尼扎尔 #0" = 0  # Nizar #0
-  "卡西姆 #0" = 0  # Qasim #0
-  "萨迪 #0" = 0  # Sa'di #0
-  "赛义德 #0" = 0  # Sayyid #0
-  "尤努斯 #0" = 0  # Yunus #0
-  "沙希拉 #0" = -1  # Shahira #0
-  "尤斯拉 #0" = -1  # Yusra #0
-  "阿诗玛 #0" = -1  # Asma #0
-  "穆罕默德 #4" = 40  # Muhammad #4
-  "甘萨伍赫 #0" = 40  # Qânsawh #0
-  "吐曼 贝伊 #0" = 40  # Tûmân Bay #0
-  "巴拉卡特 #0" = 30  # Barakât #0
-  "哈扎 #0" = 10  # Hazza #0
-  "艾哈迈德 #2" = 50  # Ahmad #2
-  "胡迈达 #1" = 10  # Humaida #1
-  "盖伊特 #0" = 10  # Qa'it #0
-  "塔克巴 #0" = 10  # Takaba #0
-  "哈桑 #1" = 10  # al-Hasan #1
-  "阿布 塔利卜 #0" = 10  # Abu Talib #0
-  "阿布 安 伊德里斯 #0" = 10  # Abu Aun Idris #0
-  "穆欣 #0" = 10  # Mushin #0
-  "马苏德 #0" = 30  # Mas'ud #0
-  "阿卜杜拉 #0" = 20  # 'Abd al-Ilah #0
-  "宰德 #0" = 10  # Zaid #0
-  "纳米 #0" = 10  # Nami #0
-  "萨阿德 #0" = 10  # Sa'ad #0
-  "赛义德 #0" = 0  # Sayyid #0
-  "阿卜杜勒 哈利姆 #0" = 10  # 'Abdul-Karim #0
-  "阿布 穆欣 #0" = 10  # 'Abul Muhsin #0
-  "阿里 #2" = 10  # 'Alî #2
-  "叶海亚 #0" = 10  # Yahya #0
-  "穆巴拉克 #0" = 10  # Mubarak #0
-  "马赛义德 #0" = 10  # Masa'id #0
-  "贾法尔 #0" = 10  # Djafar #0
-  "伊纳勒 #0" = 20  # Inâl #0
-  "胡思卡丹 #1" = 20  # Khusqadam #1
-  "阿卜杜勒 阿齐兹 #0" = 20  # 'Abd al-'Aziz #0
-  "穆斯塔因 #0" = 20  # al-Musta'in #0
-  "纳速儿 法赖吉 #0" = 20  # al-Nasr Faraj #0
-  "巴尔斯拜 #0" = 20  # Barsbay #0
-  "贾科马克 #0" = 20  # Jaqmaq #0
-  "卡伊特巴 #0" = 20  # Qâyit Bay #0
-  "谢赫 马哈茂迪 #0" = 20  # Shaik al-Mahmudi #0
-  "帖木儿不花 #0" = 20  # Timurbughâ #0
-  "奥斯曼 #0" = 20  # 'Uthman #0
-  "叶勒拜 #0" = 20  # Yalbay #0
-  "占布拉特 #0" = 20  # Jânbulât #0
-  "优素福 #0" = 20  # Yûsuf #0
-  "巴尔库克 #1" = 15  # Barqûq #1
-  "拜巴尔斯 #2" = 10  # Baybars #2
-  "哈吉 #2" = 10  # Hâjjî #2
-  "沙班 #2" = 10  # Sha'bân #2
-  "阿布 巴卡尔 #1" = 10  # Abû Bakr #1
-  "伊斯玛仪 #1" = 10  # Isma'îl #1
-  "库屈克 #1" = 10  # Kûjûk #1
-  "沙里赫 #1" = 10  # Sâlih #1
-  "阿卜杜勒 马利克 #0" = 0  # 'Abd al-Malik #0
-  "巴希尔 #0" = 0  # Basir #0
-  "法德勒 #0" = 0  # Fadl #0
-  "盖特 #0" = 0  # Ghayth #0
-  "哈提姆 #0" = 0  # Hatim #0
-  "伊利亚斯 #0" = 0  # Ilyas #0
-  "贾比尔 #0" = 0  # Jabir #0
-  "纳迪姆 #0" = 0  # Nadim #0
-  "尼扎尔 #0" = 0  # Nizar #0
-  "卡西姆 #0" = 0  # Qasim #0
-  "萨迪 #0" = 0  # Sa'di #0
-  "尤努斯 #0" = 0  # Yunus #0
-  "拉吉亚 #0" = -1  # Rajya #0
-  "沙希拉 #0" = -1  # Shahira #0
-  "尤斯拉 #0" = -1  # Yusra #0
-  "阿诗玛 #0" = -1  # Asma #0  "伊亚苏 #0" = 60 	# Iyâsû #0
-  "塔克拉 海马诺特 #0" = 60 	# Taqla Hâymânôt #0
-  "所罗门 #2" = 40 	# Salômôn #2
-  "约翰内斯 #0" = 40 	# Yôhannes #0
-  "海兹克亚斯 #0" = 40 	# Hezqeyâs #0
-  "札拉 雅各布 #0" = 20 	# Zar'a Yâqob #0
-  "贝达 马里亚姆 #1" = 20 	# Ba'eda Mâryâm #1
-  "康斯坦丁诺斯 #3" = 20 	# Quastantînôs #3
-  "阿姆达 塞尤恩 #1" = 20 	# 'Amda Seyôn #1
-  "纳奥德 #0" = 20 	# Nâ'ôd #0
-  "勒布纳 丹加尔 #0" = 20 	# Lebna Dengel #0
-  "格劳德沃斯 #0" = 20 	# Galâwdêwôs #0
-  "米纳斯 #0" = 20 	# Mînâs #0
-  "萨尔撒 丹加尔 #0" = 20 	# Sarsa Dengel #0
-  "雅各布 #0" = 20 	# Yâ'qob #0
-  "苏塞尼约斯 #0" = 20 	# Sûsenyôs #0
-  "法西利德斯 #0" = 20 	# Fâsîladas #0
-  "特沃弗罗斯 #0" = 20 	# Têwôflôs #0
-  "约斯托斯 #0" = 20 	# Yôstôs #0
-  "约纳斯 #0" = 20 	# Yônas #0
-  "达维特 #0" = 20 	# Dâwît #0
-  "阿姆萨 吉约吉斯 #0" = 20 	# 'Amsa Gîyôrgîs #0
-  "特克勒 吉约吉斯 #0" = 20 	# Tuqla Gîyôrgîs #0
-  "德梅特罗斯 #0" = 20 	# Demetros #0
-  "吉约吉斯 #0" = 20 	# Gîyôrgîs #0
-  "非克托尔 #0" = 5 	# Fiqtor #0
-  "米纳斯 #0" = 5 	# Menas #0
-  "马科斯 #0" = 5 	# Marqos #0
-  "哈马马 #0" = 5 	# Hamalmal #0
-  "萨加 克里斯托 #0" = 5 	# Saga Krestos #0
-  "马尔塔 克里斯托 #0" = 5 	# Malta Krestos #0
-  "法西尔 #0" = 5 	# Fâsîl #0
-  "恩德雷亚斯 #1" = 1 	# 'Endreyâs #1
-  "以撒 #1" = 1 	# Yeshaq #1
-  "米海尔 #0" = 0 	# Mika'el #0
-  "阿姆达 塞尤恩 #0" = 0 	# Amda Seyon #0
-  "安特纳特沃斯 #0" = 0 	# Antenatewos #0
-  "维尔德 吉约吉斯 #0" = 0 	# Welde Giyorgis #0
-  "米海尔 赛胡 #0" = 0 	# Mika'el Sehul #0
-  "格索 #0" = 0 	# Gusho #0
-  "文德 贝沃塞 #0" = 0 	# Wand Bewossen #0
-  "海尔 #0" = 0 	# Haile #0
-  "沃尔达 加巴雷尔 #0" = 0 	# Wolda Gabrael #0
-  "阿贝巴 #0" = -1 	# Abeba #0
-  "哈格斯 #0" = -1 	# Hagos #0
-  "特纳格内 #0" = -1 	# Tenagne #0
+	"Isma'il #0" = 10
+	"Saladin Ahmad #0" = 10
+	"'Abdallah #0" = 10
+	"Yahya #0" = 10
+	"Yusuf #1" = 10
+	"Sal�h ad-Din 'Amir #0" = 10
+	"'Al� #0" = 10
+	"'Abd al-Wahh�b #0" = 10
+	"'Umar #0" = 10
+	"al-Mutahhar #3" = 10
+	"Muhammad #0" = 10
+	"al-Q�sim #0" = 10
+	"Ahmad #0" = 10
+	"al-Husayn #0" = 10
+	"al-'Abb�s #0" = 10
+	"Abdallah #0" = 10
+	
+	"Hiba #0" = -1
+	"Fatimah #0" = -1
+	"Walida #0" = -1
+	"Tahani #0" = -1
+	"Safaa  #0" = -1
+	"Randa #0" = -1
+	"Qismah #0" = -1
+	"Nadirah #0" = -1
+	"Maram #0" = -1
+	"Layla #0" = -1
+	"Kamilah #0" = -1
+	"Jabirah #0" = -1
+	"Hudun #0" = -1
+	"Fadwa #0" = -1
+	"Daliyah #0" = -1
+	"Amirah #0" = -1
+	"Abal #0" = -1
+	"Nadiyya #0" = -1
+	"Norah #0" = -1
+	"Fahda #0" = -1
+
+  "Muhammad #2" = 40
+	"Ahmad #1" = 40
+	"Q�nsawh #0" = 40
+	"T�m�n Bay #0" = 40
+	"In�l #0" = 20
+	"Khusqadam #1" = 20
+	"'Abd al-'Aziz #0" = 20
+	"al-Musta'in #0" = 20
+	"al-Nasr Faraj #0" = 20
+	"Barsbay #0" = 20
+	"Jaqmaq #0" = 20
+	"Q�yit Bay #0" = 20
+	"Shaik al-Mahmudi #0" = 20
+	"Timurbugh� #0" = 20
+	"'Uthman #0" = 20
+	"Yalbay #0" = 20
+	"J�nbul�t #0" = 20
+	"Y�suf #0" = 20
+	"Barq�q #1" = 15
+	"'Al� #2" = 10
+	"Baybars #2" = 10
+	"H�jj� #2" = 10
+	"Sha'b�n #2" = 10
+	"Ab� Bakr #1" = 10
+	"al-Hasan #1" = 10
+	"Isma'�l #1" = 10
+	"K�j�k #1" = 10
+	"S�lih #1" = 10
+	"'Abd al-Malik #0" = 0
+	"Basir #0" = 0
+	"Fadl #0" = 0
+	"Ghayth #0" = 0
+	"Hatim #0" = 0
+	"Ilyas #0" = 0
+	"Jabir #0" = 0
+	"Nadim #0" = 0
+	"Nizar #0" = 0
+	"Qasim #0" = 0
+	"Sa'di #0" = 0
+	"Sayyid #0" = 0
+	"Yunus #0" = 0
+	
+	"Shahira #0" = -1
+	"Yusra #0" = -1
+	"Asma #0" = -1
+
+	"Muhammad #4" = 40
+	"Q�nsawh #0" = 40
+	"T�m�n Bay #0" = 40
+	"Barak�t #0" = 30
+	"Hazza #0" = 10
+	"Ahmad #2" = 50
+	"Humaida #1" = 10
+	"Qa'it #0" = 10
+	"Takaba #0" =  10
+	"Hassan #1" = 10
+	"Abu Talib #0" = 10
+	"Abu Aun Idris #0" = 10
+	"Mushin #0" = 10
+	"Mas'ud #0" = 30
+	"'Abdullah #0" = 20
+	"Zaid #0" = 10
+	"Nami #0" = 10
+	"Sa'ad #0" = 10
+	"Sa'id #0" = 20
+	"'Abdul-Karim #0" = 10
+	"'Abul Muhsin #0" = 10
+	"'Abd al-Ilah #0" = 20
+	"'Ali #2" = 10
+	"Yahya #0" = 10
+	"Mubarak #0" = 10 
+	"Masa'id #0" = 10
+	"Djafar #0" = 10
+	"In�l #0" = 20
+	"Khusqadam #1" = 20
+	"'Abd al-'Aziz #0" = 20
+	"al-Musta'in #0" = 20
+	"al-Nasr Faraj #0" = 20
+	"Barsbay #0" = 20
+	"Jaqmaq #0" = 20
+	"Q�yit Bay #0" = 20
+	"Shaik al-Mahmudi #0" = 20
+	"Timurbugh� #0" = 20
+	"'Uthman #0" = 20
+	"Yalbay #0" = 20
+	"J�nbul�t #0" = 20
+	"Y�suf #0" = 20
+	"Barq�q #1" = 15
+	"'Al� #2" = 10
+	"Baybars #2" = 10
+	"H�jj� #2" = 10
+	"Sha'b�n #2" = 10
+	"Ab� Bakr #1" = 10
+	"al-Hasan #1" = 10
+	"Isma'�l #1" = 10
+	"K�j�k #1" = 10
+	"S�lih #1" = 10
+	"'Abd al-Malik #0" = 0
+	"Basir #0" = 0
+	"Fadl #0" = 0
+	"Ghayth #0" = 0
+	"Hatim #0" = 0
+	"Ilyas #0" = 0
+	"Jabir #0" = 0
+	"Nadim #0" = 0
+	"Nizar #0" = 0
+	"Qasim #0" = 0
+	"Sa'di #0" = 0
+	"Sayyid #0" = 0
+	"Yunus #0" = 0
+	
+	"Rajya #0" = -1
+	"Shahira #0" = -1
+	"Yusra #0" = -1
+	"Asma #0" = -1
+
+	"Iy�s� #0" = 60
+	"Taqla H�ym�n�t #0" = 60
+	"Sal�m�n #2" = 40
+	"Y�hannes #0" = 40
+	"Hezqey�s #0"= 40
+	"Zar'a Y�qob #0" = 20
+	"Ba'eda M�ry�m #1" = 20
+	"Quastant�n�s #3" = 20
+	"'Amda Sey�n #1" = 20
+	"N�'�d #0" = 20
+	"Lebna Dengel #0" = 20
+	"Gal�wd�w�s #0" = 20
+	"M�n�s #0" = 20
+	"Sarsa Dengel #0" = 20
+	"Y�'qob #0" = 20
+	"S�seny�s #0" = 20
+	"F�s�ladas #0" = 20
+	"T�w�fl�s #0" = 20
+	"Y�st�s #0" = 20
+	"Y�nas #0" = 20
+	"D�w�t #0" = 20
+	"'Amsa G�y�rg�s #0" = 20
+	"Tuqla G�y�rg�s #0" = 20
+	"Demetros #0" = 20
+	"G�y�rg�s #0" = 20
+	"Fiqtor #0" = 5
+	"Menas #0" = 5
+	"Marqos #0" = 5
+	"Hamalmal #0" = 5
+	"Saga Krestos #0" = 5
+	"Malta Krestos #0" = 5
+	"F�s�l #0" = 5
+	"'Endrey�s #1" = 1
+	"Yeshaq #1" = 1
+	"Mika'el #0" = 0
+	"Amda Seyon #0" = 0
+	"Antenatewos #0" = 0
+	"Welde Giyorgis #0" = 0
+	"Mika'el Sehul #0" = 0
+	"Gusho #0" = 0
+	"Wand Bewossen #0" = 0
+	"Haile #0" = 0
+	"Wolda Gabrael #0" = 0
+	
+	"Abeba #0" = -1
+	"Hagos #0" = -1
+	"Tenagne #0" = -1
 }
 leader_names = {
-  "阿里"  # Ali
-  "易卜拉欣"  # Ibrahim
-  "以撒"  # Issa
-  "约马"  # Jomaa
-  "哈里里"  # Khalil
-  "曼苏尔"  # Mansour
-  "萨德"  # Saad
-  "沙姆"  # Shammas
-  "萨利赫"  # Saleh
-  "萨阿卜"  # Saab
-  "阿里"  # Ali
-  "埃巴克"  # Aybak
-  "拜巴尔斯"  # Baibars
-  "贝伊"  # Bay
-  "贝伊"  # Bey
-  "不花"  # Bugha
-  "伊纳勒"  # Inâl
-  "坎苏尔"  # Kansur
-  "赛福鼎"  # Sayfuddin
-  "赞吉"  # Zangi
-  "优素福"  # Youssef
-  "塔利布"  # Taleb
-  "易卜拉欣"  # Ibrahim
-  "哈利勒"  # Khalil
-  "萨利赫"  # Saleh
-  "法尔哈特"  # Farhat
-  "沙马斯"  # Chammas
-  "曼苏尔"  # Mansour
-  "阿拔斯"  # Abbas
-  "哈穆德"  # Hammoud
-  "阿里"  # Ali
-  "埃巴克"  # Aybak
-  "拜巴尔斯"  # Baibars
-  "贝伊"  # Bay
-  "贝伊"  # Bey
-  "布哈"  # Bugha
-  "伊纳勒"  # Inâl
-  "坎苏尔"  # Kansur
-  "赛福鼎"  # Sayfuddin
-  "赞吉"  # Zangi
+	Ali
+	Ibrahim
+	Issa
+	Jomaa
+	Khalil
+	Mansour
+	Saad
+	Shammas
+	Saleh
+	Saab
+	Ali
+	Aybak
+	Baibars
+	Bay
+	Bey
+	Bugha
+	In�l
+	Kansur
+	Sayfuddin
+	Zangi
+	Youssef
+	Taleb
+	Ibrahim
+	Khalil
+	Saleh
+	Farhat
+	Chammas
+	Mansour	
+	Abbas
+	Hammoud
+	Ali
+	Aybak
+	Baibars
+	Bay
+	Bey
+	Bugha
+	In�l
+	Kansur
+	Sayfuddin
+	Zangi
 }
 ship_names = {
-  "阿里 伊本 拉素尔"  # Ali ibn Rasul
-  "曼苏尔 奥马尔"  # Mansur Umar
-  "扎意兹"  # Zaizz
-  "扎比德"  # Zabid
-  "穆扎法尔 优素福"  # Muzaffar Yusuf
-  "马利克 穆雅赫德"  # Malik al-Mujahid
-  "谢赫 奥斯曼"  # Shaykh Uthman
-  "阿勒卡瓦得"  # Al-Kawd
-  "瓦哈奇拉"  # Whaqra
-  "瓦迪巴那"  # Wadi Bana
-  "塔伊兹"  # Ta'izz
-  "阿塔土拔"  # At-Tubah
-  "德哈巴德"  # Dhubab
-  "哈拉梓山"  # Jabal Kharaz
-  "穆萨伊尔"  # Musaymir
-  "马维亚"  # Mawiyah
-  "哈沙山"  # Jabal al-Hasha
-  "伊卜"  # Ibb
-  "基塔巴"  # Qa'tabah
-  "塔玛尔山"  # Jabal Thamar
-  "宰希尔·巴尔库克"  # Zaher Barqooq
-  "法拉格·本·巴尔库克"  # Farag Ben Barqooq
-  "本·巴尔库克"  # Ben Barqooq
-  "穆贾希德·谢赫"  # Muyaid Sheikh
-  "阿曼·穆贾希德"  # Ahmen Muyaid
-  "宰希尔·鞑靼"  # Zaher Tatar
-  "纳赛尔·穆罕默德"  # Nasser Muhamed
-  "阿什拉夫·巴尔斯拜"  # Ashraf Barsbay
-  "阿齐兹·加马尔"  # Aziz Gamal
-  "尼罗河"  # Nahr an-Nil
-  "法拉菲拉"  # Al-Farafirah
-  "达赫莱"  # Ad-Däkhilah
-  "哈里杰"  # Al-Kharijah
-  "阿里"  # Al-Ali
-  "巴赫里耶"  # Al-Bahriyah
-  "至慈者"  # Rahman
-  "特慈者"  # Rahim
-  "君王"  # Malik
-  "至圣者"  # Quddus
-  "安宁者"  # Salam
-  "保证者"  # Mu'min
-  "守护者"  # Muhaymin
-  "权能者"  # Aziz
-  "大能者"  # Jabbar
-  "广博者"  # Mutakabbir
-  "创世主"  # Khaliq
-  "立法者"  # Bari
-  "塑形者"  # Musawwir
-  "至恕者"  # Ghaffar
-  "征服者"  # Qahhar
-  "赐福者"  # Wahhab
-  "供给者"  # Razzaq
-  "开启者"  # Fattah
-  "全知者"  # Alim
-  "遏止者"  # Qabid
-  "宽宏者"  # Basit
-  "贬谪者"  # Khafid
-  "擢升者"  # Rafi
-  "赐予荣耀者"  # Mu'izz
-  "施予耻辱者"  # Mudhill
-  "全听者"  # Sami
-  "全视者"  # Basir
-  "仲裁者"  # Hakam
-  "正义"  # Adl
-  "汉志"  # Hijaz
-  "吉达"  # Jeddah
-  "麦加"  # Mecca
-  "麦地那"  # Medina
-  "拜丹山"  # Jabal Baydan
-  "沙瓦达山"  # Jabal Sawda
-  "阿布哈桑山"  # Jabal Abu Hasan
-  "朱赖拉山"  # Jabal al-Jurayrah
-  "基什卜熔岩"  # Harrat Al-Kishb
-  "拉哈特熔岩"  # Harrat Rahat
-  "纳瓦西弗熔岩"  # Harrat Nawasif
-  "哈丹熔岩"  # Harrat Hadan
-  "布古姆熔岩"  # Harrat Al-Buqum
-  "海拜尔熔岩"  # Harrat Khaybar
-  "库赖马熔岩"  # Harrat Kurama
-  "乌奈伊尔熔岩"  # Harrat al-Unayyir
-  "宰希尔·巴尔库克"  # Zaher Barqooq
-  "法拉格·本·巴尔库克"  # Farag Ben Barqooq
-  "本·巴尔库克"  # Ben Barqooq
-  "穆贾希德·谢赫"  # Muyaid Sheikh
-  "阿曼·穆贾希德"  # Ahmen Muyaid
-  "宰希尔·鞑靼"  # Zaher Tatar
-  "纳赛尔·穆罕默德"  # Nasser Muhamed
-  "阿什拉夫·巴尔斯拜"  # Ashraf Barsbay
-  "阿齐兹·加马尔"  # Aziz Gamal
-  "尼罗河"  # Nahr an-Nil
-  "法拉菲拉"  # Al-Farafirah
-  "达赫莱"  # Ad-Däkhilah
-  "哈里杰"  # Al-Kharijah
-  "阿里"  # Al-Ali
-  "巴赫里耶"  # Al-Bahriyah
-  "至慈者"  # Rahman
-  "特慈者"  # Rahim
-  "君王"  # Malik
-  "至圣者"  # Quddus
-  "安宁者"  # Salam
-  "保证者"  # Mu'min
-  "守护者"  # Muhaymin
-  "权能者"  # Aziz
-  "大能者"  # Jabbar
-  "广博者"  # Mutakabbir
-  "创世主"  # Khaliq
-  "立法者"  # Bari
-  "塑形者"  # Musawwir
-  "至恕者"  # Ghaffar
-  "征服者"  # Qahhar
-  "赐福者"  # Wahhab
-  "供给者"  # Razzaq
-  "开启者"  # Fattah
-  "全知者"  # Alim
-  "遏止者"  # Qabid
-  "宽宏者"  # Basit
-  "贬谪者"  # Khafid
-  "擢升者"  # Rafi
-  "赐予荣耀者"  # Mu'izz
-  "施予耻辱者"  # Mudhill
-  "全听者"  # Sami
-  "全视者"  # Basir
-  "仲裁者"  # Hakam
-  "正义"  # Adl
+	"Ali ibn Rasul" "Mansur Umar" Zaizz Zabid
+	"Muzaffar Yusuf" "Malik al-Mujahid" 
+	"Shaykh Uthman" "Al-Kawd" Whaqra "Wadi Bana"
+	Ta'izz "At-Tubah" Dhubab "Jabal Kharaz" Musaymir
+	Mawiyah "Jabal al-Hasha" Ibb Qa'tabah "Jabal Thamar"
+	"Zaher Barqooq" "Farag Ben Barqooq"
+	"Ben Barqooq" "Muyaid Sheikh" "Ahmen Muyaid" 
+	"Zaher Tatar" "Nasser Muhamed" "Ashraf Barsbay"
+	"Aziz Gamal" "Nahr an-Nil" "Al-Farafirah"
+	"Ad-D�khilah" "Al-Kharijah" "Al-Ali" "Al-Bahriyah"
+	Rahman Rahim Malik Quddus Salam Mu'min Muhaymin
+	Aziz Jabbar Mutakabbir Khaliq Bari Musawwir 
+	Ghaffar Qahhar Wahhab Razzaq Fattah Alim Qabid
+	Basit Khafid Rafi Mu'izz Mudhill Sami Basir Hakam Adl
+	Hijaz Jeddah Mecca Medina "Jabal Baydan"
+	"Jabal Sawda" "Jabal Abu Hasan" "Jabal al-Jurayrah" 
+	"Harrat Al-Kishb" "Harrat Rahat" "Harrat Nawasif"
+	"Harrat Hadan" "Harrat Al-Buqum" "Harrat Khaybar"
+	"Harrat Kurama" "Harrat al-Unayyir"
+	"Zaher Barqooq" "Farag Ben Barqooq"
+	"Ben Barqooq" "Muyaid Sheikh" "Ahmen Muyaid" 
+	"Zaher Tatar" "Nasser Muhamed" "Ashraf Barsbay"
+	"Aziz Gamal" "Nahr an-Nil" "Al-Farafirah"
+	"Ad-D�khilah" "Al-Kharijah" "Al-Ali" "Al-Bahriyah"
+	Rahman Rahim Malik Quddus Salam Mu'min Muhaymin
+	Aziz Jabbar Mutakabbir Khaliq Bari Musawwir 
+	Ghaffar Qahhar Wahhab Razzaq Fattah Alim Qabid
+	Basit Khafid Rafi Mu'izz Mudhill Sami Basir Hakam Adl
 }
 army_names = {
-  "$PROVINCE$之军"  # Jaish-al $PROVINCE$
+	"Jaish-al $PROVINCE$"
 }
 fleet_names = {
-  "$PROVINCE$舰队"  # Istawal-al $PROVINCE$
+	"Istawal-al $PROVINCE$" 
 }

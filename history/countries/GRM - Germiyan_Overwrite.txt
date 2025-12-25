@@ -1,7 +1,7 @@
 1442.8.1 = {
   monarch = {
-    name = "巴耶塞特 II" 
-    dynasty = "奥斯曼奥卢" 
+    name = "Bayezid II" 
+    dynasty = "Osmanoglu" 
     birth_date = 1422.1.1
     adm = 2
     dip = 6

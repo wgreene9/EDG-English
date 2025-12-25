@@ -1,292 +1,292 @@
 ﻿l_english:
- EDG_ENG_mission_1_12_title:0 "发展乡村"
- EDG_ENG_mission_1_12_desc:0 "某部法国讽刺小说里描述了这样的未来：由于国王对乡村发展的刻意忽视，英国香肠仅含有26%的肉类，这部分肉的主要成分来自软骨、头部、下水、脱骨肉渣等边角料。该小说在结尾甚至将英国香肠蔑称为“乳化高脂杂碎筒”。为了避免这种情况成为现实，我们必须投资乡村畜牧业发展。"
+EDG_ENG_mission_1_12_title:0 "Develop the Countryside"
+EDG_ENG_mission_1_12_desc:0 "A certain French satirical novel depicted such a future: due to the king's deliberate neglect of rural development, British sausages contained only 26% meat, with the primary components of this portion being cartilage, heads, offal, scrap meat from deboning, and other by-products. The novel even derisively referred to British sausages as 'emulsified high-fat offal tubes' by the end. To prevent this from becoming reality, we must invest in the development of rural animal husbandry."
 
- EDG_ENG_mission_1_13_title:0 "废除封建庄园制"
- EDG_ENG_mission_1_13_desc:0 "随着经济改革的成功，在农村生活中货币彻底取代了昔日农民的以物易物，城市扩张和商业发展让贵族逐步失去了对土地的垄断权，封建佃农契约逐步被地租契约取代。让我们继续推进改革，彻底废除封建庄园制度。"
+EDG_ENG_mission_1_13_title:0 "End Manorial System" # Abolish the Manorial System
+EDG_ENG_mission_1_13_desc:0 "With the success of economic reforms, currency has completely replaced the barter system of former peasants in rural life. Urban expansion and commercial development have gradually eroded the nobility's monopoly over land, with feudal tenancy contracts being replaced by rent agreements. Let us continue to advance reforms and completely abolish the manorial system."
 
- EDG_ENG_mission_1_14_title:0 "自给自足的农业"
- EDG_ENG_mission_1_14_desc:0 "终于，我们成功了。根据国王陛下指派顾问的报告：英国香肠的含肉量已经上升到75%。我们的农产品不仅能满足国内需求，甚至有余量可以出口欧陆。总有一天，全世界人都会吃英国香肠！"
+EDG_ENG_mission_1_14_title:0 "Self-Sufficient Agriculture"
+EDG_ENG_mission_1_14_desc:0 "At last, we have succeeded. According to a report by the advisor appointed by His Majesty the King: the meat content of British sausages has risen to 75%. Our agricultural products not only meet domestic demand but even leave surplus for export to the continent. One day, the entire world will eat British sausages!"
 
- EDG_ENG_mission_1_15_title:0 "改良羊毛的尝试"
- EDG_ENG_mission_1_15_desc:0 "在过去相当长的一段时间内，[Root.GetName]的羊毛产业都是经济的重要支柱，为[Root.GetName]创造了巨量的财富。然而随着时间的推移，羊毛生意正面临着越来越严峻的形势。新兴的布匹纺织业已经逐渐取代了羊毛纺织业，成为了一种更加受人欢迎的主要织物。我们宫廷之中的一些有识之士建议我们在一些羊毛生产大省重点开展一些研发尝试，尝试改进我们的羊毛纺织技术。"
+EDG_ENG_mission_1_15_title:0 "Attempts to Improve Wool"
+EDG_ENG_mission_1_15_desc:0 "For a considerable period in the past, the wool industry of [Root.GetName] has been a crucial pillar of the economy, generating immense wealth for [Root.GetName]. However, over time, the wool trade faces increasingly severe challenges. The emerging cloth textile industry has gradually replaced wool weaving, becoming a more popular primary fabric. Some insightful individuals at our court suggest we focus on research and development attempts in major wool-producing provinces, aiming to improve our wool textile technology."
 
- EDG_ENG_mission_1_19_title:0 "授权盎格鲁系贵族主导军事改革"
- EDG_ENG_mission_1_19_desc:0 "几乎是所有人都有共识，为了应对接下来的挑战，英格兰应该推进我们国内的军事改革，并且这一议案也在御前军事会议得到了通过。目前君主和宫廷的意向在于，就将这个任务授权给盎格鲁系贵族，对我们一直使用的采邑佣兵贵族制度进行改革，使得军事制度可以适应我们日趋增长的战争需求。"
+EDG_ENG_mission_1_19_title:0 "Deputize Anglo Lords" # Authorize Anglo Nobles to Lead Military Reforms
+EDG_ENG_ENG_mission_1_19_desc:0 "There is a consensus among almost everyone: to meet upcoming challenges, England should advance military reforms domestically, and this motion has also been approved by the Privy Council. Currently, the monarch and court intend to authorize this task to the Anglo nobility, reforming the fief-based mercenary noble system we have long used, to adapt the military system to our growing wartime needs."
 
- EDG_ENG_mission_1_20_title:0 "改组采邑佣兵体系"
- EDG_ENG_mission_1_20_desc:0 "采邑佣兵体系最初的来由可能并没有大多数人想象的那么光荣，这一体系诞生的根本原因在于我国盎格鲁系贵族贪生怕死，为了让自己免服兵役，他们宁可掏出大价钱雇佣流浪的雇佣军团代替他们参军。然而随着时间的推移，这种佣兵作战形式逐渐形成了盎格鲁系贵族的传统，当然这种传统也给我们带来了许多的益处，减少了贵族的阵亡和被俘，保障了贵族传承的稳定性。让我们改进采邑佣兵体系，使之成为我们手中更锋利的剑。"
+EDG_ENG_mission_1_20_title:0 "Reorder Fief Mercenaries" # Reorganize the Fief Mercenary System
+EDG_ENG_mission_1_20_desc:0 "The origin of the fief mercenary system might not be as honorable as most imagine. Its fundamental reason for emergence lies in the Anglo nobles' fear of death and desire to avoid military service, preferring to pay large sums to hire wandering mercenary bands to fight in their stead. However, over time, this mercenary form of warfare gradually became a tradition among the Anglo nobility. Of course, this tradition has also brought many benefits, reducing noble casualties and captures, ensuring the stability of noble lineage. Let us improve the fief mercenary system, making it a sharper sword in our hands."
 
- EDG_ENG_mission_1_21_title:0 "优化盎格鲁系贵族结构"
- EDG_ENG_mission_1_21_desc:0 "在改组采邑佣兵体系之后，我国的盎格鲁系贵族结构也需要被优化。虽然最初这一派系的来源是许多贪生怕死的贵族，为了让自己免服兵役，他们宁可掏出大价钱雇佣流浪的雇佣军团代替他们参军。然而随着时间的推移，新鲜的血液补充进入盎格鲁系贵族的团队中，涌现出许多能征善战的佣兵团将领，他们感激于我国能够提供的丰厚报酬，愿意留在我国效力。是时候优化盎格鲁系贵族的结构，将那些无能之辈剔除出去，让真正有才能的人来带领佣兵团们作战。"
+EDG_ENG_mission_1_21_title:0 "Restructure the Anglo Lords" # Optimize the Structure of Anglo Nobles
+EDG_ENG_mission_1_21_desc:0 "After reorganizing the fief mercenary system, the structure of our Anglo nobility also requires optimization. Although initially, this faction originated from many nobles who feared death and sought to avoid military service by paying large sums to hire wandering mercenary bands to fight in their stead, over time, fresh blood has replenished the ranks of the Anglo nobility. Many capable mercenary commanders have emerged, grateful for the generous remuneration our country offers, willing to serve here. It is time to optimize the structure of the Anglo nobility, removing the incompetent and letting truly talented individuals lead the mercenary bands into battle."
 
- EDG_ENG_mission_1_22_title:0 "全面推进采邑佣兵改革"
- EDG_ENG_mission_1_22_desc:0 "随着时间的流逝和战场上的实践，采邑佣兵改革带来的成效颇大，事实证明了，我们的军事改革是成功的，现在就让我们铺开改革，全面推进采邑佣兵改革，让我们国家的采邑佣兵体系焕发出更加强大的生命力与战斗力。"
+EDG_ENG_mission_1_22_title:0 "Reform Fief Mercenaries" # Comprehensively Advance Fief Mercenary Reforms
+EDG_ENG_mission_1_22_desc:0 "As time passes and battlefield experience accumulates, the fief mercenary reforms have yielded significant results. Facts have proven our military reforms successful. Now, let us roll out the reforms, comprehensively advancing fief mercenary reforms, allowing our nation's fief mercenary system to radiate even greater vitality and combat strength."
 
- EDG_ENG_mission_1_23_title:0 "久经沙场的盎格鲁系强军"
- EDG_ENG_mission_1_23_desc:0 "一次次的战斗、一次次的胜利，我们的军队在刀山火海之中穿行，在枪林弹雨中高歌，久经沙场的盎格鲁系强军，令敌人胆寒，从一个胜利到另一个胜利，再也没有质疑的声音，赫赫战功就是最好的证明。"
+EDG_ENG_mission_1_23_title:0 "Battle-Tested Anglo Elite" # Battle-Hardened Anglo Elite Army
+EDG_ENG_mission_1_23_desc:0 "Battle after battle, victory after victory, our armies traverse mountains of blades and seas of fire, singing amidst a hail of bullets. The battle-hardened Anglo elite army strikes fear into the enemy's heart. From one triumph to the next, there are no more voices of doubt; illustrious military achievements are the best proof."
 
- EDG_ENG_mission_2_11_title:0 "经济基础"
- EDG_ENG_mission_2_11_desc:0 "我们的野心无远弗届，我们的目标别国望而却步。我们需要充盈的国库支持在欧洲的行动——一个强大的国有银行。我们应该让政府和我们的经济为引入国有化银行体系做好准备。\n\n英格兰银行是世界上第一家由国家主导建立的中央银行。在15世纪，为应对全欧贵金属缺乏、货币信誉下降的问题，国王特许成立了英格兰银行，为战争和王室外交行动筹集资金。在后续漫长的发展过程中，英格兰银行逐渐垄断了全国的货币发行权，在王室集权过程中发挥了重要作用。"
+EDG_ENG_mission_2_11_title:0 "Economic Foundation"
+EDG_ENG_mission_2_11_desc:0 "Our ambitions know no bounds, our goals daunting to other nations. We need a full treasury to support our actions in Europe—a powerful national bank. We should prepare our government and economy for the introduction of a nationalized banking system.\n\nThe Bank of England was the world's first central bank established under state leadership. In the 15th century, to address Europe-wide shortages of precious metals and declining currency credibility, the king chartered the establishment of the Bank of England to raise funds for war and royal diplomatic activities. Over subsequent long development, the Bank of England gradually monopolized the nation's currency issuance rights, playing a significant role in the process of royal centralization."
 
- EDG_ENG_mission_2_12_title:0 "建设城市"
- EDG_ENG_mission_2_12_desc:0 "环伦敦城市圈是英国主要的手工业基地和经济核心区，包含大伦敦地区、格洛斯特、汉普郡、牛津、格洛斯特、汉普郡等重要城市。若把金钱比作啤酒，当蓬勃发展的贸易事业注满伦敦的杯子之时，溢出的泡沫亦让周边城市获得了长足发展。"
+EDG_ENG_mission_2_12_title:0 "Build Cities"
+EDG_ENG_mission_2_12_desc:0 "The Greater London Metropolitan Area is England's primary base for handicrafts and economic core region, encompassing major cities such as Greater London, Gloucester, Hampshire, Oxford, Gloucester, and Hampshire. If money is likened to beer, when burgeoning trade fills London's cup to overflowing, the spillover froth also brings substantial development to surrounding cities."
 
- EDG_ENG_mission_2_14_title:0 "鼓励布艺生产"
- EDG_ENG_mission_2_14_desc:0 "在1500年前后，英国纺织工业就实现了原始机械化，水力缩绒机在约克郡等水资源丰富地区的广泛使用使我们的生产力大大提升。我们应该大力资助纺织业的技术升级，让我们从布料生产中获得更多利润。"
+EDG_ENG_mission_2_14_title:0 "Boost Cloth Production" # Encourage Cloth Production
+EDG_ENG_mission_2_14_desc:0 "Around 1500, the British textile industry achieved primitive mechanization. The widespread use of water-powered fulling mills in water-rich areas like Yorkshire greatly enhanced our productivity. We should vigorously fund technological upgrades in the textile industry to gain more profits from cloth production."
 
- EDG_ENG_mission_2_15_title:0 "珍妮纺纱机的雏形"
- EDG_ENG_mission_2_15_desc:0 "一位来自兰开夏的纺织工人发明了一种新型纺纱机，使得手摇纺车的生产力提升到先前的4-5倍，大大提高了劳动生产力。为了维持我们在纺织业的优势地位 ，我们有必要推广使用这种机器。"
+EDG_ENG_mission_2_15_title:0 "The Spinning Jenny Prototype" # The Prototype of the Spinning Jenny
+EDG_ENG_mission_2_15_desc:0 "A textile worker from Lancashire invented a new type of spinning machine, increasing the productivity of hand-operated spinning wheels to 4-5 times their previous level, significantly boosting labor productivity. To maintain our dominant position in the textile industry, it is necessary for us to promote the use of this machine."
 
- EDG_ENG_mission_2_16_title:0 "早期工业化"
- EDG_ENG_mission_2_16_desc:0 "这是最好的时代，这是最坏的时代；这是智慧的年代，这是愚蠢的年代；这是信仰的时期，这是怀疑的时期；这是光明的季节，这是黑暗的季节；这是希望之春，这是绝望之冬；我们的前途拥有一切，我们的前途一无所有；我们正走向天堂，我们正坠入地狱。\n\n——狄更斯《双城记》"
+EDG_ENG_mission_2_16_title:0 "Early Industrialism" # Early Industrialization
+EDG_ENG_mission_2_16_desc:0 "It was the best of times, it was the worst of times; it was the age of wisdom, it was the age of foolishness; it was the epoch of belief, it was the epoch of incredulity; it was the season of Light, it was the season of Darkness; it was the spring of hope, it was the winter of despair; we had everything before us, we had nothing before us; we were all going direct to Heaven, we were all going direct the other way.\n\n——Charles Dickens, A Tale of Two Cities"
 
- EDG_ENG_mission_2_18_title:0 "大规模扩编陆军"
- EDG_ENG_mission_2_18_desc:0 "为了支撑英格兰对外部的干涉和野心，一种大陆军主义被国王所提倡，只有很多更强的陆军，能保护英格兰的利益；在大陆军主义思想的引导下，大量的军营设立在英格兰的各处，大量的青壮年被征入军营接受训练，兵锋被国王紧紧的握在了手中。"
+EDG_ENG_mission_2_18_title:0 "Mass Army Expansion" # Large-Scale Army Expansion
+EDG_ENG_mission_2_18_desc:0 "To support England's external interventions and ambitions, a doctrine of a large standing army was advocated by the king. Only a larger, stronger army could protect England's interests. Guided by this large-army ideology, numerous barracks were established across England, and many young men were conscripted into camps for training. The sword of war was firmly gripped in the king's hand."
 
- EDG_ENG_mission_2_19_title:0 "授权诺曼系贵族主导军事改革"
- EDG_ENG_mission_2_19_desc:0 "几乎是所有人都有共识，为了应对接下来的挑战，英格兰应该推进我们国内的军事改革，并且这一议案也在御前军事会议得到了通过。目前君主和宫廷的意向在于，就将这个任务授权给诺曼系贵族，对我们一直使用的常备王军贵族制度进行改革，使得军事制度可以适应我们日趋增长的战争需求。"
+EDG_ENG_mission_2_19_title:0 "Deputize Norman Lords" # Authorize Norman Nobles to Lead Military Reforms
+EDG_ENG_mission_2_19_desc:0 "There is a consensus among almost everyone: to meet upcoming challenges, England should advance military reforms domestically, and this motion has also been approved by the Privy Council. Currently, the monarch and court intend to authorize this task to the Norman nobility, reforming the standing royal army noble system we have long used, to adapt the military system to our growing wartime needs."
 
- EDG_ENG_mission_2_20_title:0 "改组常备王军体系"
- EDG_ENG_mission_2_20_desc:0 "常备王军体系的历史由来非常悠久，丝毫不逊色于盎格鲁系贵族代表的采邑佣兵体系。他们大多来源于早期跟随“征服者”威廉来到英格兰的第一批诺曼底贵族，这些诺曼系的贵族是非常传统的军功贵族，坚信马上得天下的真理，相比于雇佣兵，诺曼系贵族则更加强调组建并扩大常备王军，认为只有职业化、常备化的贵族军队才值得信赖。让我们改进常备王军体系，使之成为我们手中更锋利的剑。"
+EDG_ENG_mission_2_20_title:0 "Reorder the Royal Army" # Reorganize the Standing Royal Army System
+EDG_ENG_mission_2_20_desc:0 "The history of the standing royal army system is very long, not inferior at all to the fief mercenary system represented by the Anglo nobility. They mostly originate from the first Norman nobles who followed William the Conqueror to England. These Norman nobles are very traditional military aristocracy, firmly believing in the truth of 'winning the empire on horseback.' Compared to mercenaries, Norman nobles emphasize the formation and expansion of a standing royal army, believing that only a professional, standing noble army is trustworthy. Let us improve the standing royal army system, making it a sharper sword in our hands."
 
- EDG_ENG_mission_2_21_title:0 "优化诺曼系贵族结构"
- EDG_ENG_mission_2_21_desc:0 "在改组常备王军体系之后，英格兰的诺曼系贵族也需要被优化。尽管诺曼系贵族中大部分成员都是以军功安身立命的传统贵族，无一不是有着赫赫战功之辈，但是毕竟当一个贵族集团的成员与规模膨胀之后，就难免出现良莠不齐、浑水摸鱼的情况，甚至不乏害群之马。我们急需优化我们的诺曼系贵族结构，将那些躺在祖先功劳簿上沾沾自喜的无能之辈剔除出去，让真正有才能的人发挥出他的能力。"
+EDG_ENG_mission_2_21_title:0 "Restructure the Norman Lords" # Optimize the Structure of Norman Nobles
+EDG_ENG_mission_2_21_desc:0 "After reorganizing the standing royal army system, England's Norman nobility also requires optimization. Although most members of the Norman nobility are traditional nobles who have secured their status through military achievements, each boasting illustrious battle records, as a noble group's membership and scale expand, inevitably, the wheat and chaff mix, and even some black sheep appear. We urgently need to optimize our Norman noble structure, removing those complacent incompetents resting on their ancestors' laurels, allowing truly capable individuals to realize their potential."
 
- EDG_ENG_mission_2_22_title:0 "全面推进常备王军改革"
- EDG_ENG_mission_2_22_desc:0 "随着时间的流逝和战场上的实践，常备王军改革带来的成效颇大，事实证明了，我们的军事改革是成功的，现在就让我们铺开改革，全面推进常备王军改革，让我们国家的常备王军体系焕发出更加强大的生命力与战斗力。"
+EDG_ENG_mission_2_22_title:0 "Reform the Royal Army" # Comprehensively Advance Standing Royal Army Reforms
+EDG_ENG_mission_2_22_desc:0 "As time passes and battlefield experience accumulates, the standing royal army reforms have yielded significant results. Facts have proven our military reforms successful. Now, let us roll out the reforms, comprehensively advancing standing royal army reforms, allowing our nation's standing royal army system to radiate even greater vitality and combat strength."
 
- EDG_ENG_mission_2_23_title:0 "训练有素的诺曼系强军"
- EDG_ENG_mission_2_23_desc:0 "一次次的战斗、一次次的胜利，我们的军队在刀山火海之中穿行，在枪林弹雨中高歌，久经沙场的诺曼系强军，战无不胜，攻无不克。从一个胜利到另一个胜利，再也没有质疑的声音，赫赫战功就是最好的证明。"
+EDG_ENG_mission_2_23_title:0 "Well-Trained Norman Elite" # Well-Trained Norman Elite Army
+EDG_ENG_mission_2_23_desc:0 "Battle after battle, victory after victory, our armies traverse mountains of blades and seas of fire, singing amidst a hail of bullets. The battle-hardened Norman elite army is invincible and ever-victorious. From one triumph to the next, there are no more voices of doubt; illustrious military achievements are the best proof."
 
- EDG_ENG_mission_3_10_title:0 "聚焦内部"
- EDG_ENG_mission_3_10_desc:0 "在初步解决了王位继承问题，消除了来自外部的威胁后，是时候将注意力转向国内政治体系，通过改革建立更加先进的政府。"
+EDG_ENG_mission_3_10_title:0 "Focus Inward"
+EDG_ENG_mission_3_10_desc:0 "Having preliminarily resolved the succession issue and eliminated external threats, it is time to turn attention to the domestic political system, establishing a more advanced government through reforms."
 
- EDG_ENG_mission_3_12_title:0 "在伦敦的会议"
- EDG_ENG_mission_3_12_desc:0 "距离曾经可怕的三次伯爵战争已经过去了相当长的一段时间，在一代代王室励精图治地努力之下，王室权力获得了很大的恢复，中央集权正在稳步推进着，议会的权力也得到了极大的制约和管束。然而越来越多地担忧出现在了君主以及政府内其他高官的心中，如果未来有一位如“失地王”约翰那样昏庸无能的君主登上王位，那中央集权是否反而会带来灾难？于是，关于国家倾向君主独裁还是议会授权的争论撕裂了我们的国家，国王陛下决定在伦敦召开国事会议讨论这一问题。无论结果如何，会议都将为这混乱局面画上句号。"
+EDG_ENG_mission_3_12_title:0 "The Council in London"
+EDG_ENG_mission_3_12_desc:0 "A considerable period has passed since the dreadful Three Baronial Wars. Through the diligent efforts of successive generations of the royal family, royal power has been largely restored, centralization is steadily advancing, and parliamentary power has been significantly constrained and regulated. However, increasing concerns have emerged in the minds of the monarch and other senior government officials. If in the future, a monarch as incompetent as John Lackland ascends the throne, might centralization instead bring disaster? Thus, the debate over whether the state should incline toward monarchical autocracy or parliamentary authorization has torn our nation apart. His Majesty the King has decided to convene a state council in London to discuss this issue. Regardless of the outcome, the council will put an end to this chaotic situation."
 
- EDG_ENG_mission_3_13_title:0 "两院分立"
- EDG_ENG_mission_3_13_desc:0 "为了平衡贵族和平民的利益，英国国会将分为贵族组成的上议院与平民组成的下议院相互制衡。大议会分为两院：下议院为纳税人、平民和小市民发声，上议院则是贵族和教士的政治机构。我们必须确保两院的忠诚。这将确保在推行政策时，我们总能够获得一部分支持者。"
+EDG_ENG_mission_3_13_title:0 "Bicameral Division"
+EDG_ENG_mission_3_13_desc:0 "To balance the interests of the nobility and commoners, the British Parliament will be divided into the House of Lords, composed of nobles, and the House of Commons, composed of commoners, to check and balance each other. The Great Council splits into two houses: the House of Commons speaks for taxpayers, commoners, and petty bourgeoisie, while the House of Lords serves as the political institution for nobles and clergy. We must ensure the loyalty of both houses. This will ensure that when implementing policies, we always have a portion of supporters."
 
- EDG_ENG_mission_3_14_title:0 "设立皇家纹章院"
- EDG_ENG_mission_3_14_desc:0 "纹章院设立之初是一个识别研究盾徽艺术的小型政府机关，在几个世纪的发展后，纹章院权力逐步扩大。改革后的皇家纹章院负责处理贵族一应事务，包括册封低级贵族、主持君主加冕典礼与国葬、经国王授权授予勋章、证明贵族血统等。"
+EDG_ENG_mission_3_14_title:0 "Royal College of Arms" # Establish the Royal College of Arms
+EDG_ENG_mission_3_14_desc:0 "Initially, the College of Arms was a small government body for identifying and researching the art of heraldry. Over centuries of development, the College's power gradually expanded. The reformed Royal College of Arms is responsible for handling all matters concerning the nobility, including conferring lower noble titles, presiding over monarch coronations and state funerals, awarding medals with royal authorization, and verifying noble lineage."
 
- EDG_ENG_mission_3_15_title:0 "[Root.GetName]文艺复兴"
- EDG_ENG_mission_3_15_desc:0 "国家、军队、贸易、外交日新月异，文化也是如此，我们应接受并推广文艺复兴思想。文艺复兴唤起了一个科学、艺术、文化的时代。如果我们大力资助发展这一事业，终有一天伦敦将成为全欧洲的文化中心。"
+EDG_ENG_mission_3_15_title:0 "[Root.GetName] Renaissance"
+EDG_ENG_mission_3_15_desc:0 "The state, army, trade, and diplomacy are advancing rapidly; culture should be no exception. We should embrace and promote Renaissance ideas. The Renaissance has ushered in an era of science, art, and culture. If we vigorously fund and develop this endeavor, London will one day become the cultural center of all Europe."
 
- EDG_ENG_mission_3_16_title:0 "修缮大学"
- EDG_ENG_mission_3_16_desc:0 "牛津大学、剑桥大学等历史悠久的高等学府中，有些设施有些已经不适合使用。少量的投资应该就可以大大改善这种情况。我们深刻地意识到，尽管大学曾经是教会主导下培养神学人才的机构，主要研究神学思想。而在国王陛下的慷慨捐助下，由国家资助的大学成为了研究科学艺术、开拓思想的文化高地。让我们继续推进这一事业，英格兰将屹立于欧洲科技之巅！"
+EDG_ENG_mission_3_16_title:0 "Renovate Universities"
+EDG_ENG_mission_3_16_desc:0 "Among historical institutions of higher learning such as Oxford and Cambridge, some facilities have become unsuitable for use. A modest investment should greatly improve this situation. We deeply realize that although universities were once institutions dominated by the Church to cultivate theological talent, primarily studying theological thought, with the generous patronage of His Majesty the King, state-funded universities have become cultural highlands for researching science and arts and expanding intellectual horizons. Let us continue advancing this endeavor; England will stand at the pinnacle of European technology!"
 
- EDG_ENG_mission_3_17_title:0 "关注外部"
- EDG_ENG_mission_3_17_desc:0 "英格兰的快速发展，东盎格利亚、东米德兰兹、约克等地被平定，金雀花家族恢复了英格兰久违的统一，接下来国王的目光投向了不列颠之外，同时大力研发军事科技，早期火炮的曙光已经出现。"
+EDG_ENG_mission_3_17_title:0 "Focus Outward"
+EDG_ENG_mission_3_17_desc:0 "England's rapid development, the pacification of East Anglia, East Midlands, York, and other regions, have restored the long-lost unity of England under the House of Plantagenet. Next, the king's gaze turns beyond Britain, while vigorously developing military technology. The dawn of early artillery has already appeared."
 
- EDG_ENG_mission_3_19_title:0 "军事力量常态化"
- EDG_ENG_mission_3_19_desc:0 "为了应对纷繁复杂的国际局势以及一切可能的外部威胁，我们的军事力量应该保持常态化，大力发展军工，重建并且维持我们的常备军体系，强化我们的陆军训练。当然，议会对于设立常备军的提案满腹狐疑、担惊受怕，可是最近，在内外战争的威胁下，我们理应设立一支由君主亲自指挥的常备军，以保卫我们的国家免遭敌人入侵。"
+EDG_ENG_mission_3_19_title:0 "Normalize Militarization" # Normalization of Military Power
+EDG_ENG_mission_3_19_desc:0 "To respond to the intricate international situation and all possible external threats, our military power should be normalized. We should vigorously develop the military industry, rebuild and maintain our standing army system, and strengthen our army training. Of course, Parliament views proposals for establishing a standing army with suspicion and fear. Yet recently, under the threat of internal and external wars, we ought to establish a standing army commanded personally by the monarch to defend our nation from enemy invasion."
 
- EDG_ENG_mission_3_20_title:0 "为军事服务的政府机关"
- EDG_ENG_mission_3_20_desc:0 "军械总局制度，用来在战时给军队提供充足的物资，保障士兵的军饷；国土发展部，战时需要安置我们的职业士兵，解决他们的生活所需，激励士兵们的作战；这些政府机关都是要为我们的军事而服务，和平时期会全力保障民生，战时需要他们用尽一切办法来帮助我们打赢战争。"
+EDG_ENG_mission_3_20_title:0 "A Military with a State" # Government Institutions Serving the Military
+EDG_ENG_mission_3_20_desc:0 "The Ordnance Office system is used to provide ample supplies to the army during wartime, ensuring soldiers' pay; the Ministry of Land Development is needed in wartime to accommodate our professional soldiers, meet their living needs, and motivate their combat efforts. These government institutions all serve our military. In peacetime, they fully ensure people's livelihoods; in wartime, they must use all means to help us win the war."
 
- EDG_ENG_mission_3_21_title:0 "试点建立红衫军"
- EDG_ENG_mission_3_21_desc:0 "随着新的时代的来临，我国在海外的广袤领土都需要得到保障，同时海外与其他各国乃至于当地居民的可能冲突也越来越多需要一支军队。为了保护英格兰的国际利益和领土安全，红杉军应运而生；红杉军的新兵大部分来自英国最底层阶级。众所周知，军队生活艰苦，报酬低，因此主要吸引平民生活较差的人。大多数士兵都是为了换取“赏金”而终身签约的，军队“包吃包住”对生活困难者有着极大的吸引力，我们将进行精心的特化训练，使得他们更好地承担作战的任务。\n\n至于为何身着“红衫”，这主要是因为战场混乱不堪，士兵可能快速晕头转向，一不留神便会向友军开火，必须不惜一切代价避免这类事件。我们应该为部队设计一套合适的醒目制服，从而显著减少误伤、改善军容。"
+EDG_ENG_mission_3_21_title:0 "Establishment of the Redcoats" # Pilot Establishment of the Redcoats
+EDG_ENG_mission_3_21_desc:0 "With the advent of the new era, our extensive overseas territories require protection, and the potential conflicts abroad with other nations and local inhabitants increasingly demand a standing army. To safeguard England's international interests and territorial security, the Redcoats emerged. Most recruits for the Redcoats come from the lowest classes of British society. As is well known, military life is harsh with low pay, thus primarily attracting those living in poverty. Most soldiers sign lifetime contracts in exchange for a 'bounty'; the army's 'room and board' holds immense appeal for those in dire straits. We will conduct specialized training to better equip them for combat duties.\n\nAs for why they wear 'red coats,' this is mainly because battlefields are chaotic and disorienting, and soldiers might accidentally fire on friendly forces if not careful, which must be avoided at all costs. We should design a suitable, conspicuous uniform for the troops to significantly reduce friendly fire and improve military appearance."
 
- EDG_ENG_mission_3_23_title:0 "威名赫赫的红衫军"
- EDG_ENG_mission_3_23_desc:0 "1645年克伦威尔组建的新国会军统一身着红色军服，这是英格兰大名鼎鼎的红衫军的来源。这支新国会军实行统一的军服、统一的纪律、统一的编制，在英国、乃至世界军事史上都具有重大意义，甚至有人将其视为英国建立了历史上第一支正规军部队。之后这支国会军被整编成皇家军队，红色的军服也一并被留了下来，直到1902年英国军队换装。\n\n17世纪到19世纪期间，这些身着醒目的红色衣服、头戴三角帽的军队几乎成为英国的显著标志，他们装备精良，训练有素，展现出了极高的战斗素质。每当战斗打响，红衫军士兵们会排列成一个个整齐的方阵，如同钢铁长城般稳步前行。他们在战斗中穿着醒目的红色衣服，犹如烈火般燃烧在战场上。他们的红色战衣在阳光下熠熠生辉，象征着勇气与决心，战场中的红色死神。\n\n毫无疑问，这是近300年间世界上最强的陆军部队。"
+EDG_ENG_mission_3_23_title:0 "The Renowned Redcoats"
+EDG_ENG_mission_3_23_desc:0 "In 1645, Cromwell formed the New Model Army, whose soldiers uniformly wore red coats—the origin of England's famous Redcoats. This New Model Army implemented standardized uniforms, discipline, and organization, holding significant importance in British, and even world, military history. Some even regard it as Britain's establishment of the first regular army in history. Later, this Parliamentarian army was reorganized into the Royal Army, and the red uniforms were retained until the British army changed uniforms in 1902.\n\nFrom the 17th to the 19th centuries, these troops in conspicuous red clothing and tricorn hats almost became a distinctive symbol of Britain. They were well-equipped, well-trained, and demonstrated extremely high combat quality. When battles commenced, Redcoat soldiers would form neat squares, advancing steadily like an iron Great Wall. Their conspicuous red clothing shone like fire on the battlefield. Their red coats gleamed in the sunlight, symbolizing courage and determination—the red reaper on the battlefield.\n\nUndoubtedly, this was the world's strongest land army for nearly 300 years."
 
- EDG_ENG_mission_4_11_title:0 "上层建筑"
- EDG_ENG_mission_4_11_desc:0 "统治者将其专制权利视作为神所授，可是中央权威一直遭到挑战，如今，我们的议会依然在试图限制我们尊贵的君主的权威。专制主义的思潮在欧洲宫廷中滋长，我们也不例外，必须顺应潮流，强化君主专制。国王陛下的集权改革让我们的政府获得了更大的影响力，先进的政府反过来又为我们的经济注入了活力。"
+EDG_ENG_mission_4_11_title:0 "Superstructure"
+EDG_ENG_mission_4_11_desc:0 "The ruler regards their absolute authority as divinely granted, yet central authority has constantly been challenged. Today, our Parliament still attempts to limit the authority of our esteemed monarch. The ideology of absolutism grows within European courts, and we are no exception; we must follow the trend and strengthen monarchical absolutism. His Majesty the King's centralization reforms have given our government greater influence, and an advanced government, in turn, injects vitality into our economy."
 
- EDG_ENG_mission_4_13_title:0 "帝王宫廷"
- EDG_ENG_mission_4_13_desc:0 "国家枢密院最开始是为君主提供建议的咨询部门。随着国家体制改革，枢密院逐渐获得了巨大的政治权力和影响力，成为可以独立行使行政权、司法权的重要机构。"
+EDG_ENG_mission_4_13_title:0 "Imperial Court"
+EDG_ENG_mission_4_13_desc:0 "The Privy Council of State initially served as an advisory department for the monarch. As state system reforms progressed, the Privy Council gradually acquired substantial political power and influence, becoming a significant institution capable of independently exercising administrative and judicial authority."
 
- EDG_ENG_mission_4_14_title:0 "稳固国内信仰"
- EDG_ENG_mission_4_14_desc:0 "自从我们的国教被确立了以来，仍然有一些异端教徒负隅顽抗，在地下仍然遵从着他们异端宗教中自行其是的所谓“伪教宗”的号令。我们应当建立起一套完善的全国教会体系，巩固国内信仰，以对教徒进行管理，同时也能够更好地宣扬我们宗教领袖的权威。随着我们的宗教政策稳步推进，我们国内几个世纪以来的宗教分裂被修复。让我们团结在唯一的正信之下，一个国家，一个君主，一种信仰！"
+EDG_ENG_mission_4_14_title:0 "Consolidate Domestic Faith"
+EDG_ENG_mission_4_14_desc:0 "Since our state religion was established, some heretical adherents have stubbornly resisted, still following the commands of the so-called 'false pope' within their heretical religions underground. We should establish a comprehensive national church system to consolidate domestic faith, manage believers, and better propagate the authority of our religious leader. As our religious policies steadily advance, the religious divisions of centuries within our country are being repaired. Let us unite under the one true faith: one nation, one monarch, one faith!"
 
- EDG_ENG_mission_4_16_title:0 "世界的真信"
- EDG_ENG_mission_4_16_desc:0 "“因为神差他的独生子到世间来，降伏咆吼的狮子\n自正午与恶魔的爪牙里，救出依他形象造的人\n由他的大能，撒旦从天上坠落\n犹如闪电，将惊怖击中荒废在葡萄园中的野兽”\n\n随着我们国教的建立和传播，我们的宗教终于在世界上有了一定的影响力，我们可以自豪地宣布，我们的宗教已经成为了一个世界性的宗教。世界各处都目鱼仔我们国王的教会的领导之下。我们的宗教，就是世界的真信！"
+EDG_ENG_mission_4_16_title:0 "The True Faith of the World"
+EDG_ENG_mission_4_16_desc:0 "'For God sent His only Son into the world, to subdue the roaring lion\nFrom the claws of the demon at noon, rescue man made in His image\nBy His might, Satan fell from heaven\nLike lightning, striking terror into the beast desolate in the vineyard'\n\nWith the establishment and spread of our state religion, our faith has finally gained some influence in the world. We can proudly declare that our religion has become a worldwide faith. All corners of the world are now under the leadership of our king's church. Our religion is the true faith of the world!"
 
- EDG_ENG_mission_4_18_title:0 "大规模扩编海军"
- EDG_ENG_mission_4_18_desc:0 "得益于英格兰的地理优势，大不列颠岛非常适合对欧洲大陆进行干涉，但是如果没有一支强大的海军，无法满足我们干涉的需要，更无法保护英格兰的安全。英吉利海峡需要说一不二的舰队，让我们扩编海军，用舰队保护我们的海峡！"
+EDG_ENG_mission_4_18_title:0 "Mass Naval Expansion" # Large-Scale Navy Expansion
+EDG_ENG_mission_4_18_desc:0 "Thanks to England's geographical advantages, the island of Great Britain is ideally suited for intervention in the European continent. However, without a powerful navy, we cannot meet the needs of our interventions nor protect England's security. The English Channel requires an unquestionably dominant fleet. Let us expand the navy and use our fleet to protect our Channel!"
 
- EDG_ENG_mission_4_20_title:0 "皇家海军陆战队"
- EDG_ENG_mission_4_20_desc:0 "我国与海洋的紧密联系塑造了我们的部队，我们必须建立皇家海军陆战队，保护我们的海外领土和国际利益。一艘艘的运输船，我们的舰队团团围住了海域，我们汹涌的海军陆战队，像海浪一般勇猛的登陆作战，极高的战斗素质和坚强意志，做任何敌人的噩梦。"
+EDG_ENG_mission_4_20_title:0 "Royal Marines"
+EDG_ENG_mission_4_20_desc:0 "Our close connection with the sea has shaped our forces. We must establish the Royal Marines to protect our overseas territories and international interests. Transport ships, our fleet encircling the seas, our surging Marines landing like waves with fierce combat operations, possessing extremely high combat quality and strong will, becoming any enemy's nightmare."
 
- EDG_ENG_mission_4_22_title:0 "组建红衫炮兵团"
- EDG_ENG_mission_4_22_desc:0 "英格兰非常早就进行了炮兵的尝试，我们拥有着丰富的炮战经验，让我们建立红衫炮兵团，用我们强劲的火力，给敌人带来地狱般的洗礼！"
+EDG_ENG_mission_4_22_title:0 "Redcoat Artillery" # Form the Redcoat Artillery Regiment
+EDG_ENG_mission_4_22_desc:0 "England attempted artillery very early, possessing rich experience in artillery warfare. Let us establish the Redcoat Artillery Regiment, using our powerful firepower to bring a hellish baptism to the enemy!"
 
- EDG_ENG_mission_5_12_title:0 "在坎特伯雷的会议"
- EDG_ENG_mission_5_12_desc:0 "长期以来，英格兰的宗教困境深深地撕裂着整个国家。尽管在上一次大规模的英格兰宗教困境之后，我们已经初步处理了这个苦难，但显然苦难的根源并没有被彻底刨除，反而依然长久而深远地影响着我们。宗教混乱笼罩着欧洲。曾几何时，教宗是我们的指路明灯，如今却只剩混乱。我们必须控制局势，并决定我们在神性问题上的立场。旷日持久的宗教冲突使我们的信仰陷入混乱。为了解决这个问题，国王陛下决定在坎特伯雷召开宗教会议来解决这一问题。"
+EDG_ENG_mission_5_12_title:0 "The Council at Canterbury"
+EDG_ENG_mission_5_12_desc:0 "For a long time, England's religious dilemma has deeply torn the entire nation. Although we preliminarily addressed this affliction after the last large-scale English religious crisis, the root of the suffering was not thoroughly eradicated; instead, it continues to affect us profoundly and enduringly. Religious chaos envelops Europe. Once, the Pope was our guiding light; now, only confusion remains. We must control the situation and decide our stance on theological matters. Protracted religious conflicts have plunged our faith into disorder. To resolve this issue, His Majesty the King has decided to convene a religious council at Canterbury to address this problem."
 
- EDG_ENG_mission_5_13_title:0 "[Root.GetName]的国教"
- EDG_ENG_mission_5_13_desc:0 "从一方面来说，从我们拥有天主教的怀抱以来，我们就一直追寻着教廷的领导。有一部分人坚持认为教廷的指示不可动摇，而也有另一批人则指出教廷的腐败已经到了令人无法忍受的地步。教宗总是试图通过施加宗教影响干涉我们的政治，甚至公然向我们索取贿赂，因此我们的忍耐已经到头了。既然已经有许多宗教改革运动的先驱们提出了“因信称义”的口号，我们当然也可以打着王号，而非教宗的旗号。终于，我们通过在坎特伯雷的宗教会议结束了宗教冲突。是时候让我们稳固信仰，迎来一个团结的新时代。"
+EDG_ENG_mission_5_13_title:0 "State Religion of [Root.GetName]" # The State Religion of [Root.GetName]
+EDG_ENG_mission_5_13_desc:0 "On one hand, ever since we embraced Catholicism, we have followed the leadership of the Papacy. Some insist that Papal directives are unshakable, while others point out that the Papacy's corruption has become intolerable. The Pope always attempts to interfere in our politics through religious influence and even openly demands bribes from us; thus, our patience has reached its limit. Since many pioneers of the Reformation have raised the slogan 'justification by faith,' we can certainly act under the king's banner, not the Pope's. Finally, through the religious council at Canterbury, we ended the religious conflict. It is time for us to solidify our faith and usher in a new era of unity."
 
- EDG_ENG_mission_5_15_title:0 "专属于[Root.GetName]的教廷"
- EDG_ENG_mission_5_15_desc:0 "我们是一片被主亲自赐福的土地。但教士机构对如何处理宗教事务有着天壤之别的想法。我们必须确保国家的虔诚，并确保对教会的控制。一个极有创意又切实可行的想法被我们宫廷之中的有识之士提了出来，随着我们在宗教事务上的影响力不断增长，国内的教士逐步学会了摆正自己的位置，不再挑战国王陛下政府的权威。是时候更进一步了，英格兰国王不再仅仅是国教的模范和领袖，而将作为教会的首席、上帝在人间的全权代表被人铭记。"
+EDG_ENG_mission_5_15_title:0 "A [Root.GetAdjective] Papacy" # A Papacy Exclusive to [Root.GetName]
+EDG_ENG_mission_5_15_desc:0 "We are a land personally blessed by the Lord. However, the clerical institution has vastly different ideas on handling religious affairs. We must ensure the nation's piety and maintain control over the Church. An extremely creative and practical idea has been proposed by insightful individuals at our court. As our influence in religious affairs grows, domestic clergy have gradually learned their place, no longer challenging the authority of His Majesty's government. It is time to go further. The King of England will no longer merely be a model and leader of the state religion but will be remembered as the head of the Church, God's plenipotentiary representative on earth."
 
- EDG_ENG_mission_5_19_title:0 "海军荣耀"
- EDG_ENG_mission_5_19_desc:0 "海军是英格兰的荣耀军种，皇家海军作为英国三军中最为古老的军种，早在9世纪时阿尔弗雷德大帝便已经首先开始使用海上军队，而之后早在14世纪初英国海军就已经开始参与海战，这几乎是历史上最早的有关于海军的记录之一。现代皇家海军的历史则可以追溯到15世纪初。正是因为如此，皇家海军是三军中地位最崇高的，被尊称为“高级军种”，享有当之无愧的荣耀。"
+EDG_ENG_mission_5_19_title:0 "Naval Glory"
+EDG_ENG_mission_5_19_desc:0 "The navy is England's glorious service. The Royal Navy, as the oldest branch of the British armed forces, was first used by Alfred the Great as early as the 9th century, and by the early 14th century, the English navy was already participating in naval battles, making it one of the earliest recorded navies in history. The history of the modern Royal Navy can be traced back to the early 15th century. Because of this, the Royal Navy holds the most prestigious status among the three services, revered as the 'Senior Service,' deserving its unquestionable glory."
 
- EDG_ENG_mission_5_20_title:0 "海洋军事部"
- EDG_ENG_mission_5_20_desc:0 "虽然我们已经建立起一套海军体系，设立了国家海军部进行管理，但是海军将官的晋升和海军个人指挥能力的衡量还十分混乱。为此，我们应当设立一个海洋军事部，该部门的职责非常明确，就是专门负责人才选拔和人才培养。只有这样，我们才能够在与敌人的遭遇中取得上风。"
+EDG_ENG_mission_5_20_title:0 "Maritime Military" # Maritime Military Department
+EDG_ENG_mission_5_20_desc:0 "Although we have established a naval system and set up a National Admiralty for management, the promotion of naval officers and the assessment of individual naval command capabilities remain quite chaotic. For this purpose, we should establish a Maritime Military Department. The responsibilities of this department are very clear: specifically responsible for talent selection and talent cultivation. Only in this way can we gain the upper hand in encounters with the enemy."
 
- EDG_ENG_mission_5_22_title:0 "命中注定将统治海洋"
- EDG_ENG_mission_5_22_desc:0 "海军是我们的力量；海洋是我们的家园。从岛屿上统治四海是我们的使命，用海军优势主宰世界是我们的归宿！我们命中注定将统治海洋！"
+EDG_ENG_mission_5_22_title:0 "Destined to Rule the Seas"
+EDG_ENG_mission_5_22_desc:0 "The navy is our strength; the seas are our home. Ruling the four seas from our island is our mission; dominating the world with naval superiority is our destiny! We are destined to rule the seas!"
 
- EDG_ENG_mission_5_23_title:0 "永恒不落的海军霸权"
- EDG_ENG_mission_5_23_desc:0 "现在，我们的海军实力毫无疑问，是全世界的首位。我们的海军驰骋在全世界的各个角落，而只要看到船上挂着我们国家的旗帜，不管是海盗还是其他任何沿海的国家，没有任何人胆敢袭击我们的舰队。我们已经是世界海洋的霸主，我们的霸权如同昭昭天日，烈阳耀空，永恒不落。"
+EDG_ENG_mission_5_23_title:0 "Eternal Naval Hegemony" # Eternal and Unfalling Naval Hegemony
+EDG_ENG_mission_5_23_desc:0 "Now, our naval strength is undoubtedly the foremost in the world. Our navy sails to every corner of the globe, and whenever a ship flying our nation's flag is seen, whether by pirates or any coastal nation, no one dares to attack our fleet. We are already the masters of the world's oceans. Our hegemony is like the bright sun, blazing across the sky, eternal and unfalling."
 
- EDG_ENG_mission_1_12_royal_strength_10_tt:0 "§Y金雀花皇家权威§!在达到最大值时将追加：\n§Y全国补给上限§!：§G+25%§!"
+EDG_ENG_mission_1_12_royal_strength_10_tt:0 "When §YPlantagenet Royal Authority§! reaches its maximum value, it will additionally provide:\n§YNational Supply Limit§!: §G+25%§!"
 
- EDG_ENG_mission_1_13_royal_strength_11_tt:0 "§Y金雀花皇家权威§!在达到最大值时将追加：\n§Y全局繁荣度增长§!：§G+0.25%§!"
+EDG_ENG_mission_1_13_royal_strength_11_tt:0 "When §YPlantagenet Royal Authority§! reaches its maximum value, it will additionally provide:\n§YGlobal Prosperity Growth§!: §G+0.25%§!"
 
- EDG_ENG_mission_1_14_tt_1:0 "我们治下所有§Y产物§!为§Y谷物§!的省份都将获得："
- EDG_ENG_mission_1_14_tt_2:0 "我们治下所有§Y产物§!为§Y牲畜§!的省份都将获得："
- eng_grain:0 "英格兰农业繁荣"
+EDG_ENG_mission_1_14_tt_1:0 "All provinces we own whose §YTrade Good§! is §YGrain§! will gain:"
+EDG_ENG_mission_1_14_tt_2:0 "All provinces we own whose §YTrade Good§! is §YLivestock§! will gain:"
+eng_grain:0 "English Agricultural Prosperity"
 
- EDG_ENG_mission_1_15_a_yes_tt:0 "£yes£如果我们实施了§Y政府改革§!：§Y英格兰北方议会§!并且实施了§Y决议§!：§Y建立北方事务部§!，那么："
- EDG_ENG_mission_1_15_a_no_tt:0 "£no£如果我们实施了§Y政府改革§!：§Y英格兰北方议会§!并且实施了§Y决议§!：§Y建立北方事务部§!，那么："
+EDG_ENG_mission_1_15_a_yes_tt:0 "£yes£If we have enacted the §YGovernment Reform§!: §YCouncil of the North§! and implemented the §YDecision§!: §MAct to Establish the Ministry of Northern Affairs§!, then:"
+EDG_ENG_mission_1_15_a_no_tt:0 "£no£If we have enacted the §YGovernment Reform§!: §YCouncil of the North§! and implemented the §YDecision§!: §MAct to Establish the Ministry of Northern Affairs§!, then:"
 
- EDG_ENG_mission_1_20_tt:0 "招募§Y雇佣兵§!不再消耗§Y陆军职业度§!"
+EDG_ENG_mission_1_20_tt:0 "Recruiting §YMercenaries§! no longer consumes §YArmy Professionalism§!."
 
- EDG_ENG_mission_1_21_a_yes_tt:0 "£yes£如果我们完成任务时有§G修正§!：「§Y采邑佣兵贵族制度改革§!」，那么：\n\n该§G修正§!将被转变为§G永久修正§!"
- EDG_ENG_mission_1_21_a_no_tt:0 "£no£如果我们完成任务时有§G修正§!：「§Y采邑佣兵贵族制度改革§!」，那么：\n\n该§G修正§!将被转变为§G永久修正§!"
+EDG_ENG_mission_1_21_a_yes_tt:0 "£yes£If we have the §GModifier§! '§YReform of the Fief Mercenary Nobility System§!' when completing the mission, then:\n\nThis §GModifier§! will be converted into a §GPermanent Modifier§!."
+EDG_ENG_mission_1_21_a_no_tt:0 "£no£If we have the §GModifier§! '§YReform of the Fief Mercenary Nobility System§!' when completing the mission, then:\n\nThis §GModifier§! will be converted into a §GPermanent Modifier§!."
 
- EDG_ENG_mission_1_22_a_yes_tt:0 "£yes£如果我们完成任务时有§G修正§!：「§Y初步改组后的采邑佣兵§!」，那么：\n\n该§G修正§!将被转变为§G永久修正§!"
- EDG_ENG_mission_1_22_a_no_tt:0 "£no£如果我们完成任务时有§G修正§!：「§Y初步改组后的采邑佣兵§!」，那么：\n\n该§G修正§!将被转变为§G永久修正§!"
+EDG_ENG_mission_1_22_a_yes_tt:0 "£yes£If we have the §GModifier§! '§YPreliminary Reorganization of Fief Mercenaries§!' when completing the mission, then:\n\nThis §GModifier§! will be converted into a §GPermanent Modifier§!."
+EDG_ENG_mission_1_22_a_no_tt:0 "£no£If we have the §GModifier§! '§YPreliminary Reorganization of Fief Mercenaries§!' when completing the mission, then:\n\nThis §GModifier§! will be converted into a §GPermanent Modifier§!."
 
- EDG_ENG_mission_2_11_unlock_decision_1_tt:0 "解锁§Y决议§!：§M国有银行法案§!"
- EDG_ENG_mission_2_11_royal_strength_8_tt:0 "§Y金雀花皇家权威§!在达到最大值时将追加：\n§Y发展成本§!：§G-20%§!"
+EDG_ENG_mission_2_11_unlock_decision_1_tt:0 "Unlock §YDecision§!: §MNational Bank Act§!"
+EDG_ENG_mission_2_11_royal_strength_8_tt:0 "When §YPlantagenet Royal Authority§! reaches its maximum value, it will additionally provide:\n§YDevelopment Cost§!: §G-20%§!"
 
- EDG_ENG_mission_2_12_tt_1:0 "符合要求的省份中拥有§Y贸易节点§!的省份（即§Y[236.GetName]§!与§Y[239.GetName]§!）将获得："
- EDG_ENG_mission_2_12_tt_2:0 "符合要求的省份中§Y[236.GetName]§!以及与§Y[236.GetName]§!接壤的省份（即§Y[235.GetName]§!、§Y[4371.GetName]§!与§Y[237.GetName]§!）将获得："
- EDG_ENG_mission_2_12_royal_strength_9_tt:0 "§Y金雀花皇家权威§!在达到最大值时将追加：\n§Y建造建筑花费§!：§G-20%§!\n§Y建造建筑时间§!：§G-25%§!"
+EDG_ENG_mission_2_12_tt_1:0 "Among the qualifying provinces, those with a §YTrade Node§! (i.e., §Y[236.GetName]§! and §Y[239.GetName]§!) will gain:"
+EDG_ENG_mission_2_12_tt_2:0 "Among the qualifying provinces, §Y[236.GetName]§! and provinces bordering §Y[236.GetName]§! (i.e., §Y[235.GetName]§!, §Y[4371.GetName]§!, and §Y[237.GetName]§!) will gain:"
+EDG_ENG_mission_2_12_royal_strength_9_tt:0 "When §YPlantagenet Royal Authority§! reaches its maximum value, it will additionally provide:\n§YConstruction Cost§!: §G-20%§!\n§YConstruction Time§!: §G-25%§!"
 
- EDG_ENG_mission_2_14_tt:0 "我们治下所有§Y满足条件§!的省份（即：§Y产物§!为§Y布料§!、§Y基础生产§!达到§Y15§!、拥有§Y生产建筑§!的省份）都将获得："
- EDG_ENG_mission_2_14_unlock_decision_1_tt:0 "解锁§Y决议§!：§M布匹法案§!"
- EDG_ENG_mission_2_14_unlock_decision_2_tt:0 "解锁§Y决议§!：§M宣告布匹生产霸权§!"
+EDG_ENG_mission_2_14_tt:0 "All provinces we own that §Ymeet the conditions§! (i.e., provinces where the §YTrade Good§! is §YCloth§!, §YBase Production§! is at least §Y15§!, and have a §YManufactory§!) will gain:"
+EDG_ENG_mission_2_14_unlock_decision_1_tt:0 "Unlock §YDecision§!: §MCloth Act§!"
+EDG_ENG_mission_2_14_unlock_decision_2_tt:0 "Unlock §YDecision§!: §MProclaim Cloth Production Hegemony§!"
 
- EDG_ENG_mission_2_15_tt_1:0 "我们治下所有§Y满足条件§!的省份(即：§Y产物§!为§Y布料§!、§Y基础生产§!达到§Y20§!、§Y发展度§!达到§Y45§!、拥有§Y纺织工厂§!的省份)都将获得："
+EDG_ENG_mission_2_15_tt_1:0 "All provinces we own that §Ymeet the conditions§! (i.e., provinces where the §YTrade Good§! is §YCloth§!, §YBase Production§! is at least §Y20§!, §YDevelopment§! is at least §Y45§!, and have a §YTextile Manufactory§!) will gain:"
 
- EDG_ENG_mission_2_18_unlock_decision_1_tt:0 "解锁§Y决议§!：§M御前军事会议议案：陆军军事调动议案§!"
- EDG_ENG_mission_2_18_unlock_decision_2_tt:0 "解锁§Y决议§!：§M御前军事会议议案：陆军皇家动员议案§!"
- EDG_ENG_mission_2_18_unlock_decision_3_tt:0 "解锁§Y决议§!：§M御前军事会议议案：陆军强制征兵议案§!"
+EDG_ENG_mission_2_18_unlock_decision_1_tt:0 "Unlock §YDecision§!: §MPrivy Council Motion: Army Military Deployment Motion§!"
+EDG_ENG_mission_2_18_unlock_decision_2_tt:0 "Unlock §YDecision§!: §MPrivy Council Motion: Army Royal Mobilization Motion§!"
+EDG_ENG_mission_2_18_unlock_decision_3_tt:0 "Unlock §YDecision§!: §MPrivy Council Motion: Army Conscription Motion§!"
 
- EDG_ENG_mission_2_21_a_yes_tt:0 "£yes£如果我们完成任务时有§G修正§!：「§Y常备王军贵族制度改革§!」，那么：\n\n该§G修正§!将被转变为§G永久修正§!"
- EDG_ENG_mission_2_21_a_no_tt:0 "£no£如果我们完成任务时有§G修正§!：「§Y常备王军贵族制度改革§!」，那么：\n\n该§G修正§!将被转变为§G永久修正§!"
- EDG_ENG_mission_2_21_b_yes_tt:0 "£yes£如果我们完成任务时，§Y有特性的陆军将领§!数量至少为§Y2§!，那么："
- EDG_ENG_mission_2_21_b_no_tt:0 "£no£如果我们完成任务时，§Y有特性的陆军将领§!数量至少为§Y2§!，那么："
+EDG_ENG_mission_2_21_a_yes_tt:0 "£yes£If we have the §GModifier§! '§YReform of the Standing Royal Army Nobility System§!' when completing the mission, then:\n\nThis §GModifier§! will be converted into a §GPermanent Modifier§!."
+EDG_ENG_mission_2_21_a_no_tt:0 "£no£If we have the §GModifier§! '§YReform of the Standing Royal Army Nobility System§!' when completing the mission, then:\n\nThis §GModifier§! will be converted into a §GPermanent Modifier§!."
+EDG_ENG_mission_2_21_b_yes_tt:0 "£yes£If we have at least §Y2§! §YArmy Generals with Traits§! when completing the mission, then:"
+EDG_ENG_mission_2_21_b_no_tt:0 "£no£If we have at least §Y2§! §YArmy Generals with Traits§! when completing the mission, then:"
 
- EDG_ENG_mission_2_22_a_yes_tt:0 "£yes£如果我们完成任务时有§G修正§!：「§Y初步改组后的常备王军§!」，那么：\n\n该§G修正§!将被转变为§G永久修正§!"
- EDG_ENG_mission_2_22_a_no_tt:0 "£no£如果我们完成任务时有§G修正§!：「§Y初步改组后的常备王军§!」，那么：\n\n该§G修正§!将被转变为§G永久修正§!"
- EDG_ENG_mission_2_22_b_yes_tt:0 "£yes£如果我们完成任务时，§Y近卫军§!数量至少为60K，那么："
- EDG_ENG_mission_2_22_b_no_tt:0 "£no£如果我们完成任务时，§Y近卫军§!数量至少为60K，那么："
+EDG_ENG_mission_2_22_a_yes_tt:0 "£yes£If we have the §GModifier§! '§YPreliminary Reorganization of the Standing Royal Army§!' when completing the mission, then:\n\nThis §GModifier§! will be converted into a §GPermanent Modifier§!."
+EDG_ENG_mission_2_22_a_no_tt:0 "£no£If we have the §GModifier§! '§YPreliminary Reorganization of the Standing Royal Army§!' when completing the mission, then:\n\nThis §GModifier§! will be converted into a §GPermanent Modifier§!."
+EDG_ENG_mission_2_22_b_yes_tt:0 "£yes£If we have at least 60K §YGuard Armies§! when completing the mission, then:"
+EDG_ENG_mission_2_22_b_no_tt:0 "£no£If we have at least 60K §YGuard Armies§! when completing the mission, then:"
 
- EDG_ENG_mission_2_23_tt:0 "为我国解锁§G条件修正§!：「§Y常备王军职业度I级§!」至「§Y常备王军职业度V级§!」，每当我们的§Y陆军职业度§!达到§Y20§!、§Y40§!、§Y60§!、§Y80§!、§Y100§!时，我们都将获得额外的增幅。"
-
- EDG_ENG_mission_3_10_event_preview:0 "§M事件前瞻：§!\n该事件允许我们选择是顶住贵族的压力继续内部改革，还是选择与贵族们妥协。"
+EDG_ENG_mission_2_23_tt:0 "Unlocks §GConditional Modifiers§! for our country: '§YStanding Royal Army Professionalism Level I§!' through '§YStanding Royal Army Professionalism Level V§!'. Whenever our §YArmy Professionalism§! reaches §Y20§!, §Y40§!, §Y60§!, §Y80§!, §Y100§!, we will gain additional bonuses."
+
+EDG_ENG_mission_3_10_event_preview:0 "§MEvent Preview:§!\nThis event allows us to choose whether to withstand noble pressure and continue internal reforms or compromise with the nobles."
 
- EDG_ENG_mission_3_12_unlock_decision_1_tt:0 "解锁§Y决议§!：§M议会行政法案§!"
- EDG_ENG_mission_3_12_unlock_decision_2_tt:0 "解锁§Y决议§!：§M王室直辖法案§!"
- EDG_ENG_mission_3_12_royal_strength_2_tt:0 "§Y金雀花皇家权威§!在达到最大值时将追加：\n§Y政府改革进度§!：§G+25%§!"
+EDG_ENG_mission_3_12_unlock_decision_1_tt:0 "Unlock §YDecision§!: §MParliamentary Administration Act§!"
+EDG_ENG_mission_3_12_unlock_decision_2_tt:0 "Unlock §YDecision§!: §MRoyal Prerogative Act§!"
+EDG_ENG_mission_3_12_royal_strength_2_tt:0 "When §YPlantagenet Royal Authority§! reaches its maximum value, it will additionally provide:\n§YGovernment Reform Progress§!: §G+25%§!"
 
- EDG_ENG_mission_3_13_royal_strength_3_tt:0 "§Y金雀花皇家权威§!在达到最大值时将追加：\n§Y核心化花费§!：§G-10%§!"
-
- EDG_ENG_mission_3_14_unlock_decision_1_tt:0 "解锁§Y决议§!：§M完善皇家纹章院法案§!"
- EDG_ENG_mission_3_14_royal_strength_5_tt:0 "§Y金雀花皇家权威§!在达到最大值时将追加：\n§Y每年腐败度§!：§G-0.2§!"
-
- EDG_ENG_mission_3_15_unlock_trigger_modifier_tt:0 "为我国解锁§G条件修正§!：「§Y国家历史名片：长城古迹§!」，只要我们在§Y[4375.GetName]§!、§Y[245.GetName]§!、§Y[246.GetName]§!均拥有§Y要塞建筑§!，该§G条件修正§!即可生效，给予如下效果："
- EDG_ENG_mission_3_15_unlock_decision_1_tt:0 "解锁§Y决议§!：§M解除印刷业枷锁法案§!"
- EDG_ENG_mission_3_15_unlock_decision_2_tt:0 "解锁§Y决议§!：§M通过保释法案§!"
- EDG_ENG_mission_3_15_royal_strength_6_tt:0 "§Y金雀花皇家权威§!在达到最大值时将追加：\n§Y接纳思潮的金币花费§!：§G-25%§!\n§Y全国思潮传播速度§!：§G+25%§!"
-
- EDG_ENG_mission_3_16_unlock_decision_1_tt:0 "解锁§Y决议§!：§M推行教育运动法案§!"
- EDG_ENG_mission_3_16_unlock_decision_2_tt:0 "解锁§Y决议§!：§M为皇家科学院拨款§!"
- EDG_ENG_mission_3_16_royal_strength_7_tt:0 "§Y金雀花皇家权威§!在达到最大值时将追加：\n§Y科技花费§!：§G-10%§!\n§Y理念花费§!：§G-10%§!"
-
- EDG_ENG_mission_3_19_unlock_decision_1_tt:0 "解锁§Y决议§!：§M御前军事会议议案：陆军火力议案§!"
- EDG_ENG_mission_3_19_unlock_decision_2_tt:0 "解锁§Y决议§!：§M御前军事会议议案：陆军主力军议案§!"
- EDG_ENG_mission_3_19_unlock_decision_3_tt:0 "解锁§Y决议§!：§M御前军事会议议案：陆军纪律议案§!"
-
- EDG_ENG_mission_3_20_unlock_decision_1_tt:0 "解锁§Y决议§!：§M御前军事会议议案：高等陆军部议案§!"
- EDG_ENG_mission_3_20_unlock_decision_2_tt:0 "解锁§Y决议§!：§M御前军事会议议案：鼓励陆军长征议案§!"
- EDG_ENG_mission_3_20_unlock_decision_3_tt:0 "解锁§Y决议§!：§M御前军事会议议案：陆军职业化议案§!"
- EDG_ENG_mission_3_20_a_yes_tt:0 "£yes£如果我们通过实施§Y政府改革§!：§M军械总局§!来完成任务，那么："
- EDG_ENG_mission_3_20_a_no_tt:0 "£no£如果我们通过实施§Y政府改革§!：§M军械总局§!来完成任务，那么："
- EDG_ENG_mission_3_20_a_tt_1:0 "为我国解锁§G条件修正§!：「§Y国营武备用铁I级§!」，只要我们实施了§Y政府改革§!：§M军械总局§!，我们就能始终获得如下效果："
- EDG_ENG_mission_3_20_a_tt_2:0 "只要我们实施了§Y政府改革§!：§M军械总局§!，每拥有§Y5§!座§Y武器工厂§!，该§G条件修正§!就会得到升级，每级额外追加效果等同「§Y国营武备用铁I级§!」。该§G条件修正§!最高升级至「§Y国营武备用铁IV级§!」，给予如下效果："
- EDG_ENG_mission_3_20_b_yes_tt:0 "£yes£如果我们通过实施§Y政府改革§!：§M亨利改革§!来完成任务，那么："
- EDG_ENG_mission_3_20_b_no_tt:0 "£no£如果我们通过实施§Y政府改革§!：§M亨利改革§!来完成任务，那么："
- EDG_ENG_mission_3_20_b_tt_1:0 "为我国解锁§G条件修正§!：「§Y国家安置职业军队I级§!」，只要我们实施了§Y政府改革§!：§M亨利改革§!，我们就能始终获得如下效果："
- EDG_ENG_mission_3_20_b_tt_2:0 "只要我们实施了§Y政府改革§!：§M亨利改革§!，每拥有§Y10§!支§Y满操练的部队§!，该§G条件修正§!就会得到升级，每级额外追加效果等同「§Y国家安置职业军队I级§!」。该§G条件修正§!最高升级至「§Y国家安置职业军队I级IV级§!」，给予如下效果："
-
- EDG_ENG_mission_3_17_event_preview:0 "§M事件前瞻：§!\n该事件允许我们选择是继续苦一苦国内的人民扩大征收军事税，还是选择不要过渡压榨民力。"
- EDG_ENG_mission_3_17_tt:0 "§Y首都§!：一支规模为§Y3k§!、完全由§Y炮兵§!组成的部队将出现在§Y首都§!"
- EDG_ENG_mission_3_17_unlock_decision_tt:0 "在接下来的§Y任务§!中，我们将有机会解锁一系列§M御前军事会议议案§!，你可以在§Y决议§!列表中查看他们。"
-
- EDG_ENG_mission_4_11_royal_strength_1_tt:0 "§Y金雀花皇家权威§!在达到最大值时将追加：\n治下所有省份月度§Y荒废度§!：§G-0.5§!"
-
- EDG_ENG_mission_4_13_unlock_decision_1_tt:0 "解锁§Y决议§!：§M任命国务大臣§!"
- EDG_ENG_mission_4_13_royal_strength_4_tt:0 "§Y金雀花皇家权威§!在达到最大值时将追加：\n§Y顾问花费§!：§G-25%§!"
- EDG_ENG_mission_4_13_a_yes_tt:0 "£yes£如果§Y[248.GetName]§!被我们拥有且是我们的§Y完整核心§!，那么："
- EDG_ENG_mission_4_13_a_no_tt:0 "£no£如果§Y[248.GetName]§!被我们拥有且是我们的§Y完整核心§!，那么："
-
- EDG_defender_of_faith_claim_provide_strength_tt_1:0 "在完成该任务后，当我们宣称§Y信仰守护者§!时，我们将立即获得§M100§!点§Y行政点§!£adm£、§M100§!点§Y外交点§!£dip£与§M100§!点§Y军事点§!£mil£，并获得等同于如下的永久修正：\n——§Y正统信仰容忍度§!§G+1§!\n\n§R警告§!：如果我们在完成该任务前就已经宣称了§Y信仰守护者§!，上述奖励将会失效。"
- EDG_ENG_mission_4_14_unlock_decision_1_tt:0 "解锁§Y决议§!：§M设立坎特伯雷教区§!"
- EDG_ENG_mission_4_14_unlock_decision_2_tt:0 "解锁§Y决议§!：§M设立威斯敏斯特教区§!"
- EDG_ENG_mission_4_14_unlock_decision_3_tt:0 "解锁§Y决议§!：§M设立格洛斯特教区§!"
- EDG_ENG_mission_4_14_unlock_decision_4_tt:0 "解锁§Y决议§!：§M设立伍斯特教区§!"
- EDG_ENG_mission_4_14_unlock_decision_5_tt:0 "解锁§Y决议§!：§M设立约克教区§!"
-
- EDG_ENG_mission_4_16_a_yes_tt:0 "£yes£如果完成任务时我们的国教是§Y天主教§!，那么："
- EDG_ENG_mission_4_16_a_no_tt:0 "£no£如果完成任务时我们的国教是§Y天主教§!，那么："
- EDG_ENG_mission_4_16_b_yes_tt:0 "£yes£如果完成任务时我们的国教是§Y圣公宗§!，那么："
- EDG_ENG_mission_4_16_b_no_tt:0 "£no£如果完成任务时我们的国教是§Y圣公宗§!，那么："
-
- EDG_ENG_mission_4_18_unlock_decision_1_tt:0 "解锁§Y决议§!：§M御前军事会议议案：海军军事调动议案§!"
- EDG_ENG_mission_4_18_unlock_decision_2_tt:0 "解锁§Y决议§!：§M御前军事会议议案：海军皇家动员议案§!"
- EDG_ENG_mission_4_18_unlock_decision_3_tt:0 "解锁§Y决议§!：§M御前军事会议议案：海军强制征兵议案§!"
-
- EDG_ENG_mission_4_20_a_yes_tt:0 "£yes£如果我们通过§Y海军陆战队§!数量达到要求完成任务，那么："
- EDG_ENG_mission_4_20_a_no_tt:0 "£no£如果我们通过§Y海军陆战队§!数量达到要求完成任务，那么："
- EDG_ENG_mission_4_20_b_yes_tt:0 "£yes£如果我们通过§运输船§!数量达到要求完成任务，那么："
- EDG_ENG_mission_4_20_b_no_tt:0 "£no£如果我们通过§Y运输船§!数量达到要求完成任务，那么："
-
- EDG_ENG_mission_5_12_unlock_decision_1_tt:0 "解锁§Y决议§!：§M宗教权利法案§!"
- EDG_ENG_mission_5_12_unlock_decision_2_tt:0 "解锁§Y决议§!：§M黑匪法案§!"
- EDG_ENG_mission_5_12_unlock_decision_3_tt:0 "解锁§Y决议§!：§M巫术法案§!"
-
- EDG_ENG_mission_5_13_a_yes_tt:0 "£yes£如果我们作为§Y非基督宗教组§!国家完成任务，那么："
- EDG_ENG_mission_5_13_a_no_tt:0 "£no£如果我们作为§Y非基督宗教组§!国家完成任务，那么："
- EDG_ENG_mission_5_13_b_yes_tt:0 "£yes£如果我们作为非§Y新教§!、非§Y改革宗§!、非§Y圣公宗§!、非§Y天主教§!的其他§Y基督宗教组§!国家完成任务，那么："
- EDG_ENG_mission_5_13_b_no_tt:0 "£no£如果我们作为非§Y新教§!、非§Y改革宗§!、非§Y圣公宗§!、非§Y天主教§!的其他§Y基督宗教组§!国家完成任务，那么："
- EDG_ENG_mission_5_13_c_yes_tt:0 "£yes£如果我们作为§Y天主教§!国家完成任务，那么："
- EDG_ENG_mission_5_13_c_no_tt:0 "£no£如果我们作为§Y天主教§!国家完成任务，那么："
- EDG_ENG_mission_5_13_d_yes_tt:0 "£yes£如果我们作为§Y新教§!国家完成任务，那么："
- EDG_ENG_mission_5_13_d_no_tt:0 "£no£如果我们作为§Y新教§!国家完成任务，那么："
- EDG_ENG_mission_5_13_e_yes_tt:0 "£yes£如果我们作为§Y改革宗§!国家完成任务，那么："
- EDG_ENG_mission_5_13_e_no_tt:0 "£no£如果我们作为§Y改革宗§!国家完成任务，那么："
- EDG_ENG_mission_5_13_f_yes_tt:0 "£yes£如果我们作为§Y圣公宗§!国家完成任务，那么："
- EDG_ENG_mission_5_13_f_no_tt:0 "£no£如果我们作为§Y圣公宗§!国家完成任务，那么："
- EDG_ENG_mission_5_13_g_yes_tt:0 "£yes£如果我们通过事件链条成功在§Y第一时代§!（即§Y地理大发现§!时代）启用§Y圣公宗§!，将追加以下奖励："
- EDG_ENG_mission_5_13_g_no_tt:0 "£no£如果我们通过事件链条成功在§Y第一时代§!（即§Y地理大发现§!时代）启用§Y圣公宗§!，将追加以下奖励："
- EDG_missionary_gain_adm_power_and_dip_power_flag_tt:0 "每当我们完成一个省份的§Y传教§!，我们就将获得§M5§!点§Y行政点§!£adm£与§M5§!点§Y外交点§!£dip£"
- EDG_ENG_mission_5_15_a_yes_tt:0 "£yes£如果我们作为§Y圣公宗§!国家完成任务，那么："
- EDG_ENG_mission_5_15_a_no_tt:0 "£no£如果我们作为§Y圣公宗§!国家完成任务，那么："
- EDG_ENG_mission_5_15_b_yes_tt:0 "£yes£如果我们作为§Y天主教§!国家完成任务，那么："
- EDG_ENG_mission_5_15_b_no_tt:0 "£no£如果我们作为§Y天主教§!国家完成任务，那么："
-
- EDG_ENG_mission_5_19_unlock_decision_1_tt:0 "解锁§Y决议§!：§M御前军事会议议案：海军火力议案§!"
- EDG_ENG_mission_5_19_unlock_decision_2_tt:0 "解锁§Y决议§!：§M御前军事会议议案：海军主力舰议案§!"
- EDG_ENG_mission_5_19_unlock_decision_3_tt:0 "解锁§Y决议§!：§M御前军事会议议案：海军纪律议案§!"
-
- EDG_ENG_mission_5_20_unlock_decision_1_tt:0 "解锁§Y决议§!：§M御前军事会议议案：高等海军部议案§!"
- EDG_ENG_mission_5_20_unlock_decision_2_tt:0 "解锁§Y决议§!：§M御前军事会议议案：鼓励海军远洋议案§!"
- EDG_ENG_mission_5_20_unlock_decision_3_tt:0 "解锁§Y决议§!：§M御前军事会议议案：海军职业化议案§!"
-
- EDG_ENG_mission_5_22_unlock_decision_1_tt:0 "解锁§Y决议§!：§M御前军事会议议案：扩大海军军校议案§!"
- EDG_ENG_mission_5_22_unlock_decision_2_tt:0 "解锁§Y决议§!：§M御前军事会议议案：加强海军军官培养议案§!"
- EDG_ENG_mission_5_22_unlock_decision_3_tt:0 "解锁§Y决议§!：§M御前军事会议议案：改善造船技术议案§!"
-
- EDG_ENG_mission_5_23_unlock_decision_1_tt:0 "解锁§Y决议§!：§M御前军事会议议案：海军津贴议案§!"
- EDG_ENG_mission_5_23_unlock_decision_2_tt:0 "解锁§Y决议§!：§M御前军事会议议案：木墙补贴议案§!"
+EDG_ENG_mission_3_13_royal_strength_3_tt:0 "When §YPlantagenet Royal Authority§! reaches its maximum value, it will additionally provide:\n§YCore-Creation Cost§!: §G-10%§!"
+
+EDG_ENG_mission_3_14_unlock_decision_1_tt:0 "Unlock §YDecision§!: §MAct to Improve the Royal College of Arms§!"
+EDG_ENG_mission_3_14_royal_strength_5_tt:0 "When §YPlantagenet Royal Authority§! reaches its maximum value, it will additionally provide:\n§YYearly Corruption§!: §G-0.2§!"
+
+EDG_ENG_mission_3_15_unlock_trigger_modifier_tt:0 "Unlocks the §GConditional Modifier§! for our country: '§YNational Historical Landmark: Great Wall Relics§!'. This §GConditional Modifier§! becomes active as long as we own §YFortress Buildings§! in §Y[4375.GetName]§!, §Y[245.GetName]§!, and §Y[246.GetName]§!, providing the following effects:"
+EDG_ENG_mission_3_15_unlock_decision_1_tt:0 "Unlock §YDecision§!: §MAct to Remove the Shackles on the Printing Industry§!"
+EDG_ENG_mission_3_15_unlock_decision_2_tt:0 "Unlock §YDecision§!: §MPass the Bail Act§!"
+EDG_ENG_mission_3_15_royal_strength_6_tt:0 "When §YPlantagenet Royal Authority§! reaches its maximum value, it will additionally provide:\n§YInstitution Embracement Cost§!: §G-25%§!\n§YGlobal Institution Spread§!: §G+25%§!"
+
+EDG_ENG_mission_3_16_unlock_decision_1_tt:0 "Unlock §YDecision§!: §MEnact the Educational Campaign Act§!"
+EDG_ENG_mission_3_16_unlock_decision_2_tt:0 "Unlock §YDecision§!: §MAllocate Funds to the Royal Society of Sciences§!"
+EDG_ENG_mission_3_16_royal_strength_7_tt:0 "When §YPlantagenet Royal Authority§! reaches its maximum value, it will additionally provide:\n§YTechnology Cost§!: §G-10%§!\n§YIdea Cost§!: §G-10%§!"
+
+EDG_ENG_mission_3_19_unlock_decision_1_tt:0 "Unlock §YDecision§!: §MPrivy Council Motion: Army Firepower Motion§!"
+EDG_ENG_mission_3_19_unlock_decision_2_tt:0 "Unlock §YDecision§!: §MPrivy Council Motion: Army Main Force Motion§!"
+EDG_ENG_mission_3_19_unlock_decision_3_tt:0 "Unlock §YDecision§!: §MPrivy Council Motion: Army Discipline Motion§!"
+
+EDG_ENG_mission_3_20_unlock_decision_1_tt:0 "Unlock §YDecision§!: §MPrivy Council Motion: Army High Command Motion§!"
+EDG_ENG_mission_3_20_unlock_decision_2_tt:0 "Unlock §YDecision§!: §MPrivy Council Motion: Encourage Army Long March Motion§!"
+EDG_ENG_mission_3_20_unlock_decision_3_tt:0 "Unlock §YDecision§!: §MPrivy Council Motion: Army Professionalization Motion§!"
+EDG_ENG_mission_3_20_a_yes_tt:0 "£yes£If we complete the mission by enacting the §YGovernment Reform§!: §MOrdnance Office§!, then:"
+EDG_ENG_mission_3_20_a_no_tt:0 "£no£If we complete the mission by enacting the §YGovernment Reform§!: §MOrdnance Office§!, then:"
+EDG_ENG_mission_3_20_a_tt_1:0 "Unlocks the §GConditional Modifier§! for our country: '§YState Military Iron Supply Level I§!'. As long as we have enacted the §YGovernment Reform§!: §MOrdnance Office§!, we will always gain the following effects:"
+EDG_ENG_mission_3_20_a_tt_2:0 "As long as we have enacted the §YGovernment Reform§!: §MOrdnance Office§!, for every §Y5§! §YWeapons Manufactories§! we own, this §GConditional Modifier§! will upgrade. Each level adds effects equivalent to '§YState Military Iron Supply Level I§!'. This §GConditional Modifier§! can be upgraded up to '§YState Military Iron Supply Level IV§!', providing the following effects:"
+EDG_ENG_mission_3_20_b_yes_tt:0 "£yes£If we complete the mission by enacting the §YGovernment Reform§!: §MHenrician Reforms§!, then:"
+EDG_ENG_mission_3_20_b_no_tt:0 "£no£If we complete the mission by enacting the §YGovernment Reform§!: §MHenrician Reforms§!, then:"
+EDG_ENG_mission_3_20_b_tt_1:0 "Unlocks the §GConditional Modifier§! for our country: '§YState Settlement of Professional Army Level I§!'. As long as we have enacted the §YGovernment Reform§!: §MHenrician Reforms§!, we will always gain the following effects:"
+EDG_ENG_mission_3_20_b_tt_2:0 "As long as we have enacted the §YGovernment Reform§!: §MHenrician Reforms§!, for every §Y10§! §YDrilled Regiments§! we have, this §GConditional Modifier§! will upgrade. Each level adds effects equivalent to '§YState Settlement of Professional Army Level I§!'. This §GConditional Modifier§! can be upgraded up to '§YState Settlement of Professional Army Level IV§!', providing the following effects:"
+
+EDG_ENG_mission_3_17_event_preview:0 "§MEvent Preview:§!\nThis event allows us to choose whether to continue burdening the domestic populace by expanding the military tax levy or to choose not to over-exploit the people's strength."
+EDG_ENG_mission_3_17_tt:0 "§YCapital§!: An army of size §Y3k§!, composed entirely of §YArtillery§!, will appear at the §YCapital§!."
+EDG_ENG_mission_3_17_unlock_decision_tt:0 "In the upcoming §YMissions§!, we will have the opportunity to unlock a series of §MPrivy Council Motions§!. You can view them in the §YDecision§! list."
+
+EDG_ENG_mission_4_11_royal_strength_1_tt:0 "When §YPlantagenet Royal Authority§! reaches its maximum value, it will additionally provide:\nMonthly §YDevastation§! in all owned provinces: §G-0.5§!"
+
+EDG_ENG_mission_4_13_unlock_decision_1_tt:0 "Unlock §YDecision§!: §MAct to Appoint Secretary of State§!"
+EDG_ENG_mission_4_13_royal_strength_4_tt:0 "When §YPlantagenet Royal Authority§! reaches its maximum value, it will additionally provide:\n§YAdvisor Cost§!: §G-25%§!"
+EDG_ENG_mission_4_13_a_yes_tt:0 "£yes£If §Y[248.GetName]§! is owned by us and is our §YFull Core§!, then:"
+EDG_ENG_mission_4_13_a_no_tt:0 "£no£If §Y[248.GetName]§! is owned by us and is our §YFull Core§!, then:"
+
+EDG_defender_of_faith_claim_provide_strength_tt_1:0 "After completing this mission, when we claim the title of §YDefender of the Faith§!, we will immediately gain §M100§! §YAdministrative Power§! £adm£, §M100§! §YDiplomatic Power§! £dip£, and §M100§! §YMilitary Power§! £mil£, and receive a permanent modifier equivalent to the following:\n——§YTolerance of the True Faith§! §G+1§!\n\n§RWarning§!: If we have already claimed the title of §YDefender of the Faith§! before completing this mission, the above rewards will be void."
+EDG_ENG_mission_4_14_unlock_decision_1_tt:0 "Unlock §YDecision§!: §MEstablish the Diocese of Canterbury§!"
+EDG_ENG_mission_4_14_unlock_decision_2_tt:0 "Unlock §YDecision§!: §MEstablish the Diocese of Westminster§!"
+EDG_ENG_mission_4_14_unlock_decision_3_tt:0 "Unlock §YDecision§!: §MEstablish the Diocese of Gloucester§!"
+EDG_ENG_mission_4_14_unlock_decision_4_tt:0 "Unlock §YDecision§!: §MEstablish the Diocese of Worcester§!"
+EDG_ENG_mission_4_14_unlock_decision_5_tt:0 "Unlock §YDecision§!: §MEstablish the Diocese of York§!"
+
+EDG_ENG_mission_4_16_a_yes_tt:0 "£yes£If our state religion is §YCatholic§! when completing the mission, then:"
+EDG_ENG_mission_4_16_a_no_tt:0 "£no£If our state religion is §YCatholic§! when completing the mission, then:"
+EDG_ENG_mission_4_16_b_yes_tt:0 "£yes£If our state religion is §YAnglican§! when completing the mission, then:"
+EDG_ENG_mission_4_16_b_no_tt:0 "£no£If our state religion is §YAnglican§! when completing the mission, then:"
+
+EDG_ENG_mission_4_18_unlock_decision_1_tt:0 "Unlock §YDecision§!: §MPrivy Council Motion: Navy Military Deployment Motion§!"
+EDG_ENG_mission_4_18_unlock_decision_2_tt:0 "Unlock §YDecision§!: §MPrivy Council Motion: Navy Royal Mobilization Motion§!"
+EDG_ENG_mission_4_18_unlock_decision_3_tt:0 "Unlock §YDecision§!: §MPrivy Council Motion: Navy Conscription Motion§!"
+
+EDG_ENG_mission_4_20_a_yes_tt:0 "£yes£If we complete the mission by meeting the requirement for §YMarines§! count, then:"
+EDG_ENG_mission_4_20_a_no_tt:0 "£no£If we complete the mission by meeting the requirement for §YMarines§! count, then:"
+EDG_ENG_mission_4_20_b_yes_tt:0 "£yes£If we complete the mission by meeting the requirement for §YTransport Ships§! count, then:"
+EDG_ENG_mission_4_20_b_no_tt:0 "£no£If we complete the mission by meeting the requirement for §YTransport Ships§! count, then:"
+
+EDG_ENG_mission_5_12_unlock_decision_1_tt:0 "Unlock §YDecision§!: §MReligious Rights Act§!"
+EDG_ENG_mission_5_12_unlock_decision_2_tt:0 "Unlock §YDecision§!: §MBlack Bandit Act§!"
+EDG_ENG_mission_5_12_unlock_decision_3_tt:0 "Unlock §YDecision§!: §MWitchcraft Act§!"
+
+EDG_ENG_mission_5_13_a_yes_tt:0 "£yes£If we complete the mission as a country in the §YNon-Christian Religion Group§!, then:"
+EDG_ENG_mission_5_13_a_no_tt:0 "£no£If we complete the mission as a country in the §YNon-Christian Religion Group§!, then:"
+EDG_ENG_mission_5_13_b_yes_tt:0 "£yes£If we complete the mission as a country in the §YChristian Religion Group§! but not §YProtestant§!, §YReformed§!, §YAnglican§!, or §YCatholic§!, then:"
+EDG_ENG_mission_5_13_b_no_tt:0 "£no£If we complete the mission as a country in the §YChristian Religion Group§! but not §YProtestant§!, §YReformed§!, §YAnglican§!, or §YCatholic§!, then:"
+EDG_ENG_mission_5_13_c_yes_tt:0 "£yes£If we complete the mission as a §YCatholic§! country, then:"
+EDG_ENG_mission_5_13_c_no_tt:0 "£no£If we complete the mission as a §YCatholic§! country, then:"
+EDG_ENG_mission_5_13_d_yes_tt:0 "£yes£If we complete the mission as a §YProtestant§! country, then:"
+EDG_ENG_mission_5_13_d_no_tt:0 "£no£If we complete the mission as a §YProtestant§! country, then:"
+EDG_ENG_mission_5_13_e_yes_tt:0 "£yes£If we complete the mission as a §YReformed§! country, then:"
+EDG_ENG_mission_5_13_e_no_tt:0 "£no£If we complete the mission as a §YReformed§! country, then:"
+EDG_ENG_mission_5_13_f_yes_tt:0 "£yes£If we complete the mission as an §YAnglican§! country, then:"
+EDG_ENG_mission_5_13_f_no_tt:0 "£no£If we complete the mission as an §YAnglican§! country, then:"
+EDG_ENG_mission_5_13_g_yes_tt:0 "£yes£If we successfully enable §YAnglicanism§! in the §YFirst Age§! (i.e., the §YAge of Discovery§!) through the event chain, the following additional rewards will be granted:"
+EDG_ENG_mission_5_13_g_no_tt:0 "£no£If we successfully enable §YAnglicanism§! in the §YFirst Age§! (i.e., the §YAge of Discovery§!) through the event chain, the following additional rewards will be granted:"
+EDG_missionary_gain_adm_power_and_dip_power_flag_tt:0 "Whenever we complete §YMissionary Conversion§! in a province, we will gain §M5§! §YAdministrative Power§! £adm£ and §M5§! §YDiplomatic Power§! £dip£."
+EDG_ENG_mission_5_15_a_yes_tt:0 "£yes£If we complete the mission as an §YAnglican§! country, then:"
+EDG_ENG_mission_5_15_a_no_tt:0 "£no£If we complete the mission as an §YAnglican§! country, then:"
+EDG_ENG_mission_5_15_b_yes_tt:0 "£yes£If we complete the mission as a §YCatholic§! country, then:"
+EDG_ENG_mission_5_15_b_no_tt:0 "£no£If we complete the mission as a §YCatholic§! country, then:"
+
+EDG_ENG_mission_5_19_unlock_decision_1_tt:0 "Unlock §YDecision§!: §MPrivy Council Motion: Navy Firepower Motion§!"
+EDG_ENG_mission_5_19_unlock_decision_2_tt:0 "Unlock §YDecision§!: §MPrivy Council Motion: Navy Capital Ships Motion§!"
+EDG_ENG_mission_5_19_unlock_decision_3_tt:0 "Unlock §YDecision§!: §MPrivy Council Motion: Navy Discipline Motion§!"
+
+EDG_ENG_mission_5_20_unlock_decision_1_tt:0 "Unlock §YDecision§!: §MPrivy Council Motion: Navy High Command Motion§!"
+EDG_ENG_mission_5_20_unlock_decision_2_tt:0 "Unlock §YDecision§!: §MPrivy Council Motion: Encourage Navy Blue-Water Operations Motion§!"
+EDG_ENG_mission_5_20_unlock_decision_3_tt:0 "Unlock §YDecision§!: §MPrivy Council Motion: Navy Professionalization Motion§!"
+
+EDG_ENG_mission_5_22_unlock_decision_1_tt:0 "Unlock §YDecision§!: §MPrivy Council Motion: Expand Naval Academies Motion§!"
+EDG_ENG_mission_5_22_unlock_decision_2_tt:0 "Unlock §YDecision§!: §MPrivy Council Motion: Strengthen Naval Officer Training Motion§!"
+EDG_ENG_mission_5_22_unlock_decision_3_tt:0 "Unlock §YDecision§!: §MPrivy Council Motion: Improve Shipbuilding Technology Motion§!"
+
+EDG_ENG_mission_5_23_unlock_decision_1_tt:0 "Unlock §YDecision§!: §MPrivy Council Motion: Naval Allowances Motion§!"
+EDG_ENG_mission_5_23_unlock_decision_2_tt:0 "Unlock §YDecision§!: §MPrivy Council Motion: Wooden Wall Subsidy Motion§!"
 
  

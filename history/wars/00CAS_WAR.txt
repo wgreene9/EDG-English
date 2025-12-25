@@ -1,4 +1,4 @@
-name = "科尔多瓦十字军"
+name = "Cordoban Crusade"
 war_goal = {
 	type = EDG_WG_superiority_IBR_unification
   casus_belli = cb_EDG_WG_superiority_IBR_unification

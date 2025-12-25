@@ -1,6 +1,6 @@
 EDG_H07_define_thomas_meissen = {
 	define_ruler = {
-		name = "托马斯·迈森"
+		name = "Thomas Meissen"
 		male = yes
 		adm = 4
 		dip = 4

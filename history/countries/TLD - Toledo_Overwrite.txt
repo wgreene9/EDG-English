@@ -1,6 +1,6 @@
 1442.1.1 = {
   leader = {
-    name = "卡西姆 哈夫斯"
+    name = "Qasim Hafsid"
     type = general
     fire = 2
     shock = 3
@@ -11,8 +11,8 @@
 }
 1444.1.1 = {
   monarch = {
-    name = "塔里克 II"
-    dynasty = "卡迪尔-比拉"
+    name = "Tariq II"
+    dynasty = "al-Qadir billah" # ???-??
 	  birth_date = 1402.1.1
     death_date = 1453.5.29
     adm = 2
@@ -22,9 +22,9 @@
 }
 1444.1.1 = {
   heir = {
-    name = "瓦希德"
-	  monarch_name = "瓦希德 II"
-    dynasty = "卡迪尔-比拉"
+    name = "Walid" # Wahid
+	  monarch_name = "Walid II"
+    dynasty = "al-Qadir billah"
     birth_date = 1434.1.1
     death_date = 1453.5.29
     claim = 45

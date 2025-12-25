@@ -1,7 +1,7 @@
 1444.1.1 = {
   monarch = {
-    name = "弗拉基米尔"  # Vladimir
-    dynasty = "弗谢沃洛多维奇"  # Rurikovich
+    name = "Vladimir"  # Vladimir
+    dynasty = "Vsevolodovich"  # Rurikovich
     dip = 2
     adm = 2
     mil = 2

@@ -1,7 +1,7 @@
 1433.10.22 = {
   monarch = {
-    name = "希尔佩里克 VI"  # 
-    dynasty = "尼伯龙根"  # de Valois
+    name = "Chilperic VI"  # 
+    dynasty = "Nibelungen"  # de Valois
     birth_date = 1423.2.22
     adm = 4
     dip = 3
@@ -9,8 +9,8 @@
   }
   queen = {
     country_of_origin = PRO
-    name = "泰洛尔"  # Marie
-    dynasty = "加洛林" # d'Anjou
+    name = "Tèlor"  # Marie 泰洛尔
+    dynasty = "Carolin" # d'Anjou 加洛林
     birth_date = 1404.10.14
     death_date = 1463.11.29
     female = yes

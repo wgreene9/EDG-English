@@ -1,15 +1,7 @@
-change_estate_land_share = {
-  estate = estate_church
-  share = 10
-}
-change_estate_land_share = {
-  estate = estate_nobles
-  share = -10
-}
 1444.1.1 = {
   monarch = {
-    name = "易卜拉欣"
-    dynasty = "奥斯曼奥卢"
+    name = "Ibrahim"
+    dynasty = "Osmanoglu"
     birth_date = 1412.3.30
     adm = 2
     dip = 4

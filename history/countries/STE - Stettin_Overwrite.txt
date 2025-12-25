@@ -1,64 +1,49 @@
-change_estate_land_share = {
-	estate = estate_nobles
-	share = 5
-}
-change_estate_land_share = {
-	estate = estate_church
-	share = 5
-}
-change_estate_land_share = {
-	estate = estate_burghers
-	share = 5
-}
 1435.4.13 = {
-  monarch = {
-    name = "约阿希姆 I" 	# Joachim I
-    dynasty = "格里芬" 	# Gryf
-    birth_date = 1425.1.1
-    adm = 2
-    dip = 3
-    mil = 2
-  }
+	monarch = {
+		name = "Joachim I"
+		dynasty = "Gryf"
+		birth_date = 1425.1.1
+		adm = 2
+		dip = 3
+		mil = 2
+	}
 }
+
 1443.1.1 = {
-  queen = {
-    country_of_origin = BRA
-    name = "伊丽莎白" 	# Elisabeth
-    dynasty = "冯 霍亨索伦" 	# von Hohenzollern
-    birth_date = 1425.1.1
-    death_date = 1465.1.13
-    female = yes
-    adm = 4
-    dip = 4
-    mil = 4
-  }
+	queen = {
+		country_of_origin = BRA
+		name = "Elisabeth"
+		dynasty = "von Hohenzollern"
+		birth_date = 1425.1.1
+		death_date = 1465.1.13
+		female = yes
+		adm = 4
+		dip = 4
+		mil = 4
+	}
 }
+
 1444.5.29 = {
-  heir = {
-    name = "奥塔" 	# Ota
-    monarch_name = "奥塔 III" 	# Ota III
-    dynasty = "格里芬" 	# Gryf
-    birth_date = 1444.5.29
-    death_date = 1464.9.7
-    adm = 2
-    dip = 1
-    mil = 3
-  }
+	heir = {
+		name = "Ota"
+		monarch_name = "Ota III"
+		dynasty = "Gryf"
+		birth_date = 1444.5.29
+		death_date = 1464.9.7
+		adm = 2
+		dip = 1
+		mil = 3
+	}
 }
-1444.10.1 = {
-  set_estate_privilege = estate_EDG_burghers_pomeranian
-  set_estate_privilege = estate_EDG_nobles_pomeranian
-}
+
 1451.9.30 = {
-  monarch = {
-    name = "奥塔 III" 	# Ota III
-    dynasty = "格里芬" 	# Gryf
-    birth_date = 1444.5.29
-    adm = 2
-    dip = 1
-    mil = 3
-  }
+	monarch = {
+		name = "Ota III"
+		dynasty = "Gryf"
+		birth_date = 1444.5.29
+		adm = 2
+		dip = 1
+		mil = 3
+	}
 }
-1534.1.1 = {
-  religion = protestant
-}
+

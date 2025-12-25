@@ -1,0 +1,3835 @@
+guiTypes = {
+
+	windowType = {
+		name = "topbar"
+		backGround=""
+		position = { x=0 y=-1 }
+		size = { x=2048 y=100 }
+		moveable = 0
+		dontRender = ""
+		horizontalBorder= ""
+		verticalBorder= ""
+		fullScreen = yes
+
+		show_position = { x = 0 y = -1 }
+		hide_position = { x = 0 y = -165 }
+		animation_type = "decelerated"
+		animation_time = 600
+
+
+		iconType = {
+			name = "brown_bg"
+			spriteType ="GFX_brown_bg"
+			position = { x= 676 y = 20 }
+			alwaystransparent = yes
+		}
+
+
+		iconType =
+		{
+			name ="topbar_1"
+			spriteType = "GFX_remove"
+			position = { x= 99512 y = -1 }
+			Orientation = "UPPER_LEFT"
+		}
+
+		iconType =
+		{
+			name ="topbar_2"
+			spriteType = "GFX_remove"
+			position = { x= 991024 y = -1 }
+			Orientation = "UPPER_LEFT"
+		}
+
+		iconType =
+		{
+			name ="topbar_3"
+			spriteType = "GFX_remove"
+			position = { x= 991532 y = -1 }
+			Orientation = "UPPER_LEFT"
+		}
+
+
+
+
+
+		iconType =
+		{
+			name ="topbar_upper_left_bg"
+			spriteType = "GFX_topbar_bg"
+			position = { x= 0 y = 0 }
+			Orientation = "UPPER_LEFT"
+		}
+
+		iconType =
+		{
+			name ="topbar_upper_left_bg4"
+			spriteType = "GFX_topbar_banner"
+			position = { x= 70 y = 40 }
+			Orientation = "UPPER_LEFT"
+
+		}
+
+		iconType = {
+			name = "government_reforms_button_base"
+			quadTextureSprite ="GFX_government_reforms_button_base"
+			position = { x= 93 y = 104 }
+			Orientation = "UPPER_LEFT"
+			alwaystransparent = yes
+		}
+		
+		
+		guiButtonType = {
+			name = "player_shield"
+			quadTextureSprite ="GFX_shield_fancy"
+			position = { x= -5 y = 2 }
+			Orientation = "UPPER_LEFT"
+			tooltip = ""
+			tooltipText =""
+			delayedTooltipText = ""
+			shortcut = "F1"
+		}
+
+		iconType = {
+			name = "player_shield_glow"
+			quadTextureSprite ="GFX_shield_fancy_great_power_glow"
+			position = { x= -5 y = 2 }
+			Orientation = "UPPER_LEFT"
+			alwaystransparent = yes
+		}
+
+		guiButtonType = {
+			name = "open_build_interface_button"
+			position = { x = 6 y = 109 }
+			quadTextureSprite ="GFX_open_build_interface"
+			tooltip = ""
+			tooltipText =""
+			delayedTooltipText = ""
+			buttonFont = "Main_14_black"
+			clicksound = macro_build
+			hint_tag = "hint_macrobuild"
+			shortcut = "b"
+		}
+
+		iconType = {
+			name = "great_power_button_base"
+			quadTextureSprite ="GFX_great_power_button_base"
+			position = { x= 111 y = 80 }
+			Orientation = "UPPER_LEFT"
+			alwaystransparent = yes
+		}
+
+		guiButtonType = {
+			name = "great_power_button"
+			position = { x = 115 y = 84 }
+			quadTextureSprite ="GFX_great_power_button"
+			buttonFont = "Main_14_black"
+			clicksound = macro_build
+			shortcut = "Shift+G"
+		}
+
+
+		iconType = {
+			name = "government_reforms_progress"
+			position = { x = 100 y = 110 }
+			quadTextureSprite ="GFX_government_reforms_progress"
+			Orientation = "UPPER_LEFT"
+			alwaystransparent = yes
+		}
+
+		guiButtonType = {
+			name = "government_reforms_button"
+			position = { x = 100 y = 110 }
+			quadTextureSprite ="GFX_government_reforms_button"
+			buttonFont = "Main_14_black"
+			clicksound = macro_build
+		}
+
+	######### top bar portraits ###########
+
+
+		guiButtonType =
+		{
+			name ="icon_merchant"
+			quadTextureSprite = "GFX_icon_merchant"
+			position = { x= 739 y = 9 }
+			Orientation = "UPPER_LEFT"
+			hint_tag = "hint_merchant"
+		}
+
+		guiButtonType =
+		{
+			name ="icon_settler"
+			quadTextureSprite = "GFX_icon_settler"
+			position = { x= 780 y = 9 }
+			Orientation = "UPPER_LEFT"
+			hint_tag = "hint_colonist"
+		}
+
+
+		guiButtonType =
+		{
+			name ="icon_diplomat"
+			quadTextureSprite = "GFX_icon_diplomat"
+			position = { x= 821 y = 9 }
+			Orientation = "UPPER_LEFT"
+			hint_tag = "hint_diplomat"
+		}
+
+		guiButtonType =
+		{
+			name ="icon_missionary"
+			quadTextureSprite = "GFX_icon_missionary"
+			position = { x= 862 y = 9 }
+			Orientation = "UPPER_LEFT"
+			hint_tag = "hint_missionary"
+		}
+
+	##########################################
+
+		iconType =
+		{
+			name ="topbar_upper_left_bg2"
+			spriteType = "GFX_topbar_portrait_value_bg"
+			position = { x= 731 y = 30 }
+			Orientation = "UPPER_LEFT"
+		}
+
+	#############  portrait values #############
+
+		instantTextBoxType = {
+			name = "text_merchants"
+			position = { x = 732 y = 34 }
+			textureFile = ""
+			font = "ToolTip_Font"
+			borderSize = {x = 0 y = 0}
+			text = ""
+			font = "vic_18"
+			maxWidth = 42
+			maxHeight = 32
+			format = centre
+		}
+
+		instantTextBoxType = {
+			name = "text_settlers"
+			position = { x = 773 y = 34 }
+			textureFile = ""
+			font = "ToolTip_Font"
+			borderSize = {x = 0 y = 0}
+			text = ""
+			font = "vic_18"
+			maxWidth = 42
+			maxHeight = 32
+			format = centre
+		}
+
+		instantTextBoxType = {
+			name = "text_diplomats"
+			position = { x = 814 y = 34 }
+			textureFile = ""
+			font = "ToolTip_Font"
+			borderSize = {x = 0 y = 0}
+			text = ""
+			font = "vic_18"
+			maxWidth = 42
+			maxHeight = 32
+			format = centre
+		}
+
+		instantTextBoxType = {
+			name = "text_missionaries"
+			position = { x = 855 y = 34 }
+			textureFile = ""
+			font = "ToolTip_Font"
+			borderSize = {x = 0 y = 0}
+			text = ""
+			font = "vic_18"
+			maxWidth = 42
+			maxHeight = 32
+			format = centre
+		}
+
+
+	###########  top bar icons and values #############
+
+		iconType =
+		{
+			name ="icon_gold"
+			spriteType = "GFX_icon_gold_strip"
+			position = { x= 146 y = 10 }
+			Orientation = "UPPER_LEFT"
+			hint_tag = "hint_ducats"
+		}
+		instantTextBoxType = {
+			name = "text_gold"
+			position = { x = 152 y = 13 }
+			textureFile = ""
+			font = "vic_18"
+			borderSize = {x = 4 y = 4}
+			text = ""
+			maxWidth = 60
+			maxHeight = 32
+			format = right
+		}
+
+		iconType =
+		{
+			name ="icon_manpower"
+			spriteType = "GFX_icon_manpower"
+			position = { x= 228 y = 11 }
+			Orientation = "UPPER_LEFT"
+			hint_tag = "hint_manpower"
+		}
+		instantTextBoxType = {
+			name = "text_manpower"
+			position = { x = 248 y = 13 }
+			textureFile = ""
+			font = "vic_18"
+			borderSize = {x = 4 y = 4}
+			text = ""
+			maxWidth = 50
+			maxHeight = 32
+			format = right
+		}
+
+
+		iconType =
+		{
+			name ="icon_sailors"
+			spriteType = "GFX_icon_sailors"
+			position = { x= 311 y = 14 }
+			Orientation = "UPPER_LEFT"
+		}
+		instantTextBoxType = {
+			name = "text_sailors"
+			position = { x = 331 y = 13 }
+			textureFile = ""
+			font = "vic_18"
+			borderSize = {x = 4 y = 4}
+			text = ""
+			maxWidth = 50
+			maxHeight = 32
+			format = right
+		}
+
+
+		iconType =
+		{
+			name ="icon_stability"
+			spriteType = "GFX_icon_stability"
+			position = { x= 394 y = 10 }
+			Orientation = "UPPER_LEFT"
+			hint_tag = "hint_stability"
+		}
+		instantTextBoxType = {
+			name = "text_stability"
+			position = { x = 405 y = 13 }
+			textureFile = ""
+			font = "vic_18"
+			borderSize = {x = 4 y = 4}
+			text = ""
+			maxWidth = 40
+			maxHeight = 32
+			format = right
+		}
+
+
+
+
+
+		iconType =
+		{
+			name ="icon_prestige"
+			spriteType = "GFX_icon_prestige"
+			position = { x= 524 y = 10 }
+			Orientation = "UPPER_LEFT"
+			hint_tag = "hint_prestige"
+		}
+		instantTextBoxType = {
+			name = "text_prestige"
+			position = { x = 536 y = 13 }
+			textureFile = ""
+			font = "vic_18"
+			borderSize = {x = 4 y = 4}
+			text = "100"
+			maxWidth = 40
+			maxHeight = 32
+			format = right
+		}
+
+		iconType =
+		{
+			name ="icon_dev"
+			spriteType = "GFX_icon_legitimacy"
+			position = { x= 588 y = 10 }
+			Orientation = "UPPER_LEFT"
+			frame = 3
+			hint_tag = "hint_legitimacy"
+		}
+		instantTextBoxType = {
+			name = "text_dev"
+			position = { x = 605 y = 13 }
+			textureFile = ""
+			font = "vic_18"
+			borderSize = {x = 4 y = 4}
+			text = "100"
+			maxWidth = 40
+			maxHeight = 32
+			format = right
+		}
+
+		iconType =
+		{
+			name ="icon_meritocracy"
+			spriteType = "GFX_icon_legitimacy"
+			position = { x= 588 y = 10 }
+			Orientation = "UPPER_LEFT"
+			frame = 5
+			hint_tag = "hint_meritocracy"
+		}
+		instantTextBoxType = {
+			name = "text_meritocracy"
+			position = { x = 605 y = 13 }
+			textureFile = ""
+			font = "vic_18"
+			borderSize = {x = 4 y = 4}
+			text = "100"
+			maxWidth = 40
+			maxHeight = 32
+			format = right
+		}
+
+
+		iconType =
+		{
+			name ="icon_leg"
+			spriteType = "GFX_icon_legitimacy"
+			position = { x= 590 y = 10 }
+			Orientation = "UPPER_LEFT"
+			frame = 1
+			hint_tag = "hint_legitimacy"
+		}
+		instantTextBoxType = {
+			name = "text_leg"
+			position = { x = 605 y = 13 }
+			textureFile = ""
+			font = "vic_18"
+			borderSize = {x = 4 y = 4}
+			text = "100"
+			maxWidth = 40
+			maxHeight = 32
+			format = right
+		}
+
+		iconType =
+		{
+			name ="icon_rep"
+			spriteType = "GFX_icon_legitimacy"
+			position = { x= 590 y = 10 }
+			Orientation = "UPPER_LEFT"
+			frame = 2
+			hint_tag = "hint_republican"
+		}
+		instantTextBoxType = {
+			name = "text_rep"
+			position = { x = 606 y = 13 }
+			textureFile = ""
+			font = "vic_18"
+			borderSize = {x = 4 y = 4}
+			text = "100"
+			maxWidth = 40
+			maxHeight = 32
+			format = right
+		}
+
+		iconType =
+		{
+			name ="icon_unity"
+			spriteType = "GFX_icon_legitimacy"
+			position = { x= 590 y = 10 }
+			Orientation = "UPPER_LEFT"
+			frame = 4
+		}
+		instantTextBoxType = {
+			name = "text_unity"
+			position = { x = 606 y = 13 }
+			textureFile = ""
+			font = "vic_18"
+			borderSize = {x = 4 y = 4}
+			text = "100"
+			maxWidth = 40
+			maxHeight = 32
+			format = right
+		}
+
+		windowType = {
+			name = "powerprojection_topbar"
+			backGround=""
+			position = { x = 148 y = 0 }
+			size = { x=100 y=100 }
+			moveable = 0
+			dontRender = ""
+			horizontalBorder= ""
+			verticalBorder= ""
+			fullScreen = no
+
+				iconType =
+				{
+					name ="topbar_liberty_overlay"
+					spriteType = "GFX_topbar_liberty_overlay"
+					position = { x= 491 y = -1 }
+					Orientation = "UPPER_LEFT"
+				}
+
+				iconType =
+				{
+					name ="icon_powerprojection"
+					spriteType = "GFX_icon_powerprojection"
+					position = { x= 518 y = 10 }
+					Orientation = "UPPER_LEFT"
+					hint_tag = "hint_powerprojection"
+				}
+
+				instantTextBoxType = {
+					name = "text_powerprojection"
+					position = { x = 527 y = 13 }
+					textureFile = ""
+					font = "vic_18"
+					borderSize = {x = 4 y = 4}
+					text = ""
+					maxWidth = 40
+					maxHeight = 32
+					format = right
+				}
+
+		}
+
+		windowType = {
+			name = "liberty_desire_topbar"
+			backGround=""
+			position = { x = 148 y = 0 }
+			size = { x=100 y=100 }
+			moveable = 0
+			dontRender = ""
+			horizontalBorder= ""
+			verticalBorder= ""
+			fullScreen = no
+
+				iconType =
+				{
+					name ="topbar_liberty_overlay"
+					spriteType = "GFX_topbar_liberty_overlay"
+					position = { x= 491 y = -1 }
+					Orientation = "UPPER_LEFT"
+				}
+
+				iconType =
+				{
+					name ="topbar_liberty_icon"
+					spriteType = "GFX_liberty_icon"
+					position = { x= 512 y = 10 }
+					Orientation = "UPPER_LEFT"
+				}
+
+				instantTextBoxType =
+				{
+					name = "topbar_liberty_value"
+					position = { x = 527 y = 13 }
+					textureFile = ""
+					font = "vic_18"
+					borderSize = {x = 4 y = 4}
+					text = "100"
+					maxWidth = 40
+					maxHeight = 32
+					format = right
+				}
+
+		}
+	#######################################
+####
+	windowType = {
+		name ="EDG_BOH_tarot_window"
+		backGround=""
+		position = { x=-464	y=-310 }	
+		size = { x=929 y=645 }
+		moveable = 0
+		dontRender = ""
+		horizontalBorder= ""
+		verticalBorder= ""
+		upsound = ""
+		downsound = ""
+		fullscreen=no
+		Orientation = "CENTER"
+		scripted = yes
+
+		iconType = {
+			name ="EDG_BOH_tarot_window_bg"
+			spriteType = "GFX_EDG_BOH_tarot_window_bg"
+			position = { x = -56 y = 0}
+		}
+		windowType = {
+			name ="EDG_BOH_tarot_card_window"
+			backGround=""
+			position = { x=25	y=195 }	
+			size = { x=440 y=400 }
+			scripted = yes
+
+			#page 1
+			guiButtonType = {
+				name = "EDG_BOH_tarot_card_0"
+				position = { x = 0 y = 0 }
+				format = center
+				quadTextureSprite ="GFX_EDG_BOH_tarot_bottom"
+				scripted = yes
+			}	
+			guiButtonType = {
+				name = "EDG_BOH_tarot_card_link_0"
+				position = { x = 0 y = 0 }
+				format = center
+				quadTextureSprite ="GFX_EDG_BOH_tarot_interface"
+				scripted = yes
+			}	
+			
+			instantTextBoxType = {
+				name = "EDG_BOH_tarot_card_0.tt"
+				position = { x= 17 y = 70 }
+				textureFile = ""
+				font = "vic_29"
+				borderSize = {x = 4 y = 4}
+				maxWidth = 100
+				maxHeight = 32
+				format = center
+				scripted = yes
+			}
+			guiButtonType = {
+				name = "EDG_BOH_tarot_card_1"
+				position = { x = 146 y = 0 }
+				format = center
+				quadTextureSprite ="GFX_EDG_BOH_tarot_bottom"
+				scripted = yes
+			}
+			guiButtonType = {
+				name = "EDG_BOH_tarot_card_link_1"
+				position = { x = 146 y = 0 }
+				format = center
+				quadTextureSprite ="GFX_EDG_BOH_tarot_interface"
+				scripted = yes
+			}
+			instantTextBoxType = {
+				name = "EDG_BOH_tarot_card_1.tt"
+				position = { x= 162 y = 70 }
+				textureFile = ""
+				font = "vic_29"
+				borderSize = {x = 4 y = 4}
+				maxWidth = 100
+				maxHeight = 32
+				format = center
+				scripted = yes
+			}
+			guiButtonType = {
+				name = "EDG_BOH_tarot_card_2"
+				position = { x = 292 y = 0 }
+				format = center
+				quadTextureSprite ="GFX_EDG_BOH_tarot_bottom"
+				scripted = yes
+			}	
+			guiButtonType = {
+				name = "EDG_BOH_tarot_card_link_2"
+				position = { x = 292 y = 0 }
+				format = center
+				quadTextureSprite ="GFX_EDG_BOH_tarot_interface"
+				scripted = yes
+			}
+			instantTextBoxType = {
+				name = "EDG_BOH_tarot_card_2.tt"
+				position = { x= 307 y = 70 }
+				textureFile = ""
+				font = "vic_29"
+				borderSize = {x = 4 y = 4}
+				maxWidth = 100
+				maxHeight = 32
+				format = center
+				scripted = yes
+			}
+			guiButtonType = {
+				name = "EDG_BOH_tarot_card_3"
+				position = { x = 0 y = 210 }
+				format = center
+				quadTextureSprite ="GFX_EDG_BOH_tarot_bottom"
+				scripted = yes
+			}
+			guiButtonType = {
+				name = "EDG_BOH_tarot_card_link_3"
+				position = { x = 0 y = 210 }
+				format = center
+				quadTextureSprite ="GFX_EDG_BOH_tarot_interface"
+				scripted = yes
+			}
+			instantTextBoxType = {
+				name = "EDG_BOH_tarot_card_3.tt"
+				position = { x= 17 y = 280 }
+				textureFile = ""
+				font = "vic_29"
+				borderSize = {x = 4 y = 4}
+				maxWidth = 100
+				maxHeight = 32
+				format = center
+				scripted = yes
+			}	
+			guiButtonType = {
+				name = "EDG_BOH_tarot_card_4"
+				position = { x = 146 y = 210 }
+				format = center
+				quadTextureSprite ="GFX_EDG_BOH_tarot_bottom"
+				scripted = yes
+			}
+			guiButtonType = {
+				name = "EDG_BOH_tarot_card_link_4"
+				position = { x = 146 y = 210 }
+				format = center
+				quadTextureSprite ="GFX_EDG_BOH_tarot_interface"
+				scripted = yes
+			}
+			instantTextBoxType = {
+				name = "EDG_BOH_tarot_card_4.tt"
+				position = { x= 162 y = 280 }
+				textureFile = ""
+				font = "vic_29"
+				borderSize = {x = 4 y = 4}
+				maxWidth = 100
+				maxHeight = 32
+				format = center
+				scripted = yes
+			}
+			guiButtonType = {
+				name = "EDG_BOH_tarot_card_5"
+				position = { x = 292 y = 210 }
+				format = center
+				quadTextureSprite ="GFX_EDG_BOH_tarot_bottom"
+				scripted = yes
+			}
+			guiButtonType = {
+				name = "EDG_BOH_tarot_card_link_5"
+				position = { x = 292 y = 210 }
+				format = center
+				quadTextureSprite ="GFX_EDG_BOH_tarot_interface"
+				scripted = yes
+			}
+			instantTextBoxType = {
+				name = "EDG_BOH_tarot_card_5.tt"
+				position = { x= 307 y = 280 }
+				textureFile = ""
+				font = "vic_29"
+				borderSize = {x = 4 y = 4}
+				maxWidth = 100
+				maxHeight = 32
+				format = center
+				scripted = yes
+			}
+
+			#page 2
+			guiButtonType = {
+				name = "EDG_BOH_tarot_card_6"
+				position = { x = 0 y = 0 }
+				format = center
+				quadTextureSprite ="GFX_EDG_BOH_tarot_bottom"
+				scripted = yes
+			}	
+			guiButtonType = {
+				name = "EDG_BOH_tarot_card_link_6"
+				position = { x = 0 y = 0 }
+				format = center
+				quadTextureSprite ="GFX_EDG_BOH_tarot_interface"
+				scripted = yes
+			}	
+			
+			instantTextBoxType = {
+				name = "EDG_BOH_tarot_card_6.tt"
+				position = { x= 17 y = 70 }
+				textureFile = ""
+				font = "vic_29"
+				borderSize = {x = 4 y = 4}
+				maxWidth = 100
+				maxHeight = 32
+				format = center
+				scripted = yes
+			}
+			guiButtonType = {
+				name = "EDG_BOH_tarot_card_7"
+				position = { x = 146 y = 0 }
+				format = center
+				quadTextureSprite ="GFX_EDG_BOH_tarot_bottom"
+				scripted = yes
+			}
+			guiButtonType = {
+				name = "EDG_BOH_tarot_card_link_7"
+				position = { x = 146 y = 0 }
+				format = center
+				quadTextureSprite ="GFX_EDG_BOH_tarot_interface"
+				scripted = yes
+			}
+			instantTextBoxType = {
+				name = "EDG_BOH_tarot_card_7.tt"
+				position = { x= 162 y = 70 }
+				textureFile = ""
+				font = "vic_29"
+				borderSize = {x = 4 y = 4}
+				maxWidth = 100
+				maxHeight = 32
+				format = center
+				scripted = yes
+			}
+			guiButtonType = {
+				name = "EDG_BOH_tarot_card_8"
+				position = { x = 292 y = 0 }
+				format = center
+				quadTextureSprite ="GFX_EDG_BOH_tarot_bottom"
+				scripted = yes
+			}	
+			guiButtonType = {
+				name = "EDG_BOH_tarot_card_link_8"
+				position = { x = 292 y = 0 }
+				format = center
+				quadTextureSprite ="GFX_EDG_BOH_tarot_interface"
+				scripted = yes
+			}
+			instantTextBoxType = {
+				name = "EDG_BOH_tarot_card_8.tt"
+				position = { x= 307 y = 70 }
+				textureFile = ""
+				font = "vic_29"
+				borderSize = {x = 4 y = 4}
+				maxWidth = 100
+				maxHeight = 32
+				format = center
+				scripted = yes
+			}
+			guiButtonType = {
+				name = "EDG_BOH_tarot_card_9"
+				position = { x = 0 y = 210 }
+				format = center
+				quadTextureSprite ="GFX_EDG_BOH_tarot_bottom"
+				scripted = yes
+			}
+			guiButtonType = {
+				name = "EDG_BOH_tarot_card_link_9"
+				position = { x = 0 y = 210 }
+				format = center
+				quadTextureSprite ="GFX_EDG_BOH_tarot_interface"
+				scripted = yes
+			}
+			instantTextBoxType = {
+				name = "EDG_BOH_tarot_card_9.tt"
+				position = { x= 17 y = 280 }
+				textureFile = ""
+				font = "vic_29"
+				borderSize = {x = 4 y = 4}
+				maxWidth = 100
+				maxHeight = 32
+				format = center
+				scripted = yes
+			}	
+			guiButtonType = {
+				name = "EDG_BOH_tarot_card_10"
+				position = { x = 146 y = 210 }
+				format = center
+				quadTextureSprite ="GFX_EDG_BOH_tarot_bottom"
+				scripted = yes
+			}
+			guiButtonType = {
+				name = "EDG_BOH_tarot_card_link_10"
+				position = { x = 146 y = 210 }
+				format = center
+				quadTextureSprite ="GFX_EDG_BOH_tarot_interface"
+				scripted = yes
+			}
+			instantTextBoxType = {
+				name = "EDG_BOH_tarot_card_10.tt"
+				position = { x= 162 y = 280 }
+				textureFile = ""
+				font = "vic_29"
+				borderSize = {x = 4 y = 4}
+				maxWidth = 100
+				maxHeight = 32
+				format = center
+				scripted = yes
+			}
+			guiButtonType = {
+				name = "EDG_BOH_tarot_card_11"
+				position = { x = 292 y = 210 }
+				format = center
+				quadTextureSprite ="GFX_EDG_BOH_tarot_bottom"
+				scripted = yes
+			}
+			guiButtonType = {
+				name = "EDG_BOH_tarot_card_link_11"
+				position = { x = 292 y = 210 }
+				format = center
+				quadTextureSprite ="GFX_EDG_BOH_tarot_interface"
+				scripted = yes
+			}
+			instantTextBoxType = {
+				name = "EDG_BOH_tarot_card_11.tt"
+				position = { x= 307 y = 280 }
+				textureFile = ""
+				font = "vic_29"
+				borderSize = {x = 4 y = 4}
+				maxWidth = 100
+				maxHeight = 32
+				format = center
+				scripted = yes
+			}
+			#page 3
+			guiButtonType = {
+				name = "EDG_BOH_tarot_card_12"
+				position = { x = 0 y = 0 }
+				format = center
+				quadTextureSprite ="GFX_EDG_BOH_tarot_bottom"
+				scripted = yes
+			}	
+			guiButtonType = {
+				name = "EDG_BOH_tarot_card_link_12"
+				position = { x = 0 y = 0 }
+				format = center
+				quadTextureSprite ="GFX_EDG_BOH_tarot_interface"
+				scripted = yes
+			}	
+			
+			instantTextBoxType = {
+				name = "EDG_BOH_tarot_card_12.tt"
+				position = { x= 17 y = 70 }
+				textureFile = ""
+				font = "vic_29"
+				borderSize = {x = 4 y = 4}
+				maxWidth = 100
+				maxHeight = 32
+				format = center
+				scripted = yes
+			}
+			guiButtonType = {
+				name = "EDG_BOH_tarot_card_13"
+				position = { x = 146 y = 0 }
+				format = center
+				quadTextureSprite ="GFX_EDG_BOH_tarot_bottom"
+				scripted = yes
+			}
+			guiButtonType = {
+				name = "EDG_BOH_tarot_card_link_13"
+				position = { x = 146 y = 0 }
+				format = center
+				quadTextureSprite ="GFX_EDG_BOH_tarot_interface"
+				scripted = yes
+			}
+			instantTextBoxType = {
+				name = "EDG_BOH_tarot_card_13.tt"
+				position = { x= 162 y = 70 }
+				textureFile = ""
+				font = "vic_29"
+				borderSize = {x = 4 y = 4}
+				maxWidth = 100
+				maxHeight = 32
+				format = center
+				scripted = yes
+			}
+			guiButtonType = {
+				name = "EDG_BOH_tarot_card_14"
+				position = { x = 292 y = 0 }
+				format = center
+				quadTextureSprite ="GFX_EDG_BOH_tarot_bottom"
+				scripted = yes
+			}	
+			guiButtonType = {
+				name = "EDG_BOH_tarot_card_link_14"
+				position = { x = 292 y = 0 }
+				format = center
+				quadTextureSprite ="GFX_EDG_BOH_tarot_interface"
+				scripted = yes
+			}
+			instantTextBoxType = {
+				name = "EDG_BOH_tarot_card_14.tt"
+				position = { x= 307 y = 70 }
+				textureFile = ""
+				font = "vic_29"
+				borderSize = {x = 4 y = 4}
+				maxWidth = 100
+				maxHeight = 32
+				format = center
+				scripted = yes
+			}
+			guiButtonType = {
+				name = "EDG_BOH_tarot_card_15"
+				position = { x = 0 y = 210 }
+				format = center
+				quadTextureSprite ="GFX_EDG_BOH_tarot_bottom"
+				scripted = yes
+			}
+			guiButtonType = {
+				name = "EDG_BOH_tarot_card_link_15"
+				position = { x = 0 y = 210 }
+				format = center
+				quadTextureSprite ="GFX_EDG_BOH_tarot_interface"
+				scripted = yes
+			}
+			instantTextBoxType = {
+				name = "EDG_BOH_tarot_card_15.tt"
+				position = { x= 17 y = 280 }
+				textureFile = ""
+				font = "vic_29"
+				borderSize = {x = 4 y = 4}
+				maxWidth = 100
+				maxHeight = 32
+				format = center
+				scripted = yes
+			}	
+			guiButtonType = {
+				name = "EDG_BOH_tarot_card_16"
+				position = { x = 146 y = 210 }
+				format = center
+				quadTextureSprite ="GFX_EDG_BOH_tarot_bottom"
+				scripted = yes
+			}
+			guiButtonType = {
+				name = "EDG_BOH_tarot_card_link_16"
+				position = { x = 146 y = 210 }
+				format = center
+				quadTextureSprite ="GFX_EDG_BOH_tarot_interface"
+				scripted = yes
+			}
+			instantTextBoxType = {
+				name = "EDG_BOH_tarot_card_16.tt"
+				position = { x= 162 y = 280 }
+				textureFile = ""
+				font = "vic_29"
+				borderSize = {x = 4 y = 4}
+				maxWidth = 100
+				maxHeight = 32
+				format = center
+				scripted = yes
+			}
+			guiButtonType = {
+				name = "EDG_BOH_tarot_card_17"
+				position = { x = 292 y = 210 }
+				format = center
+				quadTextureSprite ="GFX_EDG_BOH_tarot_bottom"
+				scripted = yes
+			}
+			guiButtonType = {
+				name = "EDG_BOH_tarot_card_link_17"
+				position = { x = 292 y = 210 }
+				format = center
+				quadTextureSprite ="GFX_EDG_BOH_tarot_interface"
+				scripted = yes
+			}
+			instantTextBoxType = {
+				name = "EDG_BOH_tarot_card_17.tt"
+				position = { x= 307 y = 280 }
+				textureFile = ""
+				font = "vic_29"
+				borderSize = {x = 4 y = 4}
+				maxWidth = 100
+				maxHeight = 32
+				format = center
+				scripted = yes
+			}
+			#page 3
+			guiButtonType = {
+				name = "EDG_BOH_tarot_card_18"
+				position = { x = 0 y = 0 }
+				format = center
+				quadTextureSprite ="GFX_EDG_BOH_tarot_bottom"
+				scripted = yes
+			}	
+			guiButtonType = {
+				name = "EDG_BOH_tarot_card_link_18"
+				position = { x = 0 y = 0 }
+				format = center
+				quadTextureSprite ="GFX_EDG_BOH_tarot_interface"
+				scripted = yes
+			}	
+			
+			instantTextBoxType = {
+				name = "EDG_BOH_tarot_card_18.tt"
+				position = { x= 17 y = 70 }
+				textureFile = ""
+				font = "vic_29"
+				borderSize = {x = 4 y = 4}
+				maxWidth = 100
+				maxHeight = 32
+				format = center
+				scripted = yes
+			}
+			guiButtonType = {
+				name = "EDG_BOH_tarot_card_19"
+				position = { x = 146 y = 0 }
+				format = center
+				quadTextureSprite ="GFX_EDG_BOH_tarot_bottom"
+				scripted = yes
+			}
+			guiButtonType = {
+				name = "EDG_BOH_tarot_card_link_19"
+				position = { x = 146 y = 0 }
+				format = center
+				quadTextureSprite ="GFX_EDG_BOH_tarot_interface"
+				scripted = yes
+			}
+			instantTextBoxType = {
+				name = "EDG_BOH_tarot_card_19.tt"
+				position = { x= 162 y = 70 }
+				textureFile = ""
+				font = "vic_29"
+				borderSize = {x = 4 y = 4}
+				maxWidth = 100
+				maxHeight = 32
+				format = center
+				scripted = yes
+			}
+			guiButtonType = {
+				name = "EDG_BOH_tarot_card_20"
+				position = { x = 292 y = 0 }
+				format = center
+				quadTextureSprite ="GFX_EDG_BOH_tarot_bottom"
+				scripted = yes
+			}	
+			guiButtonType = {
+				name = "EDG_BOH_tarot_card_link_20"
+				position = { x = 292 y = 0 }
+				format = center
+				quadTextureSprite ="GFX_EDG_BOH_tarot_interface"
+				scripted = yes
+			}
+			instantTextBoxType = {
+				name = "EDG_BOH_tarot_card_20.tt"
+				position = { x= 307 y = 70 }
+				textureFile = ""
+				font = "vic_29"
+				borderSize = {x = 4 y = 4}
+				maxWidth = 100
+				maxHeight = 32
+				format = center
+				scripted = yes
+			}
+		}
+
+		
+		windowType = {
+			name = "EDG_BOH_tarot_index_window"
+			backGround=""
+			position = { x=482	y=195 }	
+			size = { x=440 y=400 }
+			scripted = yes
+			#page 1
+			guiButtonType = {
+				name = "EDG_BOH_tarot_index_0"
+				position = { x = 0 y = 0 }
+				format = center
+				quadTextureSprite ="GFX_EDG_tarot_index_0"
+				scripted = yes
+			}
+
+			instantTextBoxType = {
+				name = "EDG_BOH_tarot_index_0.tt"
+				position = { x= 10 y = 70 }
+				textureFile = ""
+				font = "vic_29"
+				borderSize = {x = 4 y = 4}
+				maxWidth = 100
+				maxHeight = 32
+				format = center
+				scripted = yes
+			}
+
+			guiButtonType = {
+				name = "EDG_BOH_tarot_index_1"
+				position = { x = 146 y = 0 }
+				format = center
+				quadTextureSprite ="GFX_EDG_tarot_index_1"
+				scripted = yes
+			}	
+
+			instantTextBoxType = {
+				name = "EDG_BOH_tarot_index_1.tt"
+				position = { x= 155 y = 70 }
+				textureFile = ""
+				font = "vic_29"
+				borderSize = {x = 4 y = 4}
+				maxWidth = 100
+				maxHeight = 32
+				format = center
+				scripted = yes
+			}
+
+			guiButtonType = {
+				name = "EDG_BOH_tarot_index_2"
+				position = { x = 292 y = 0 }
+				format = center
+				quadTextureSprite ="GFX_EDG_tarot_index_2"
+				scripted = yes
+			}	
+
+			instantTextBoxType = {
+				name = "EDG_BOH_tarot_index_2.tt"
+				position = { x= 305 y = 70 }
+				textureFile = ""
+				font = "vic_29"
+				borderSize = {x = 4 y = 4}
+				maxWidth = 100
+				maxHeight = 32
+				format = center
+				scripted = yes
+			}
+
+			guiButtonType = {
+				name = "EDG_BOH_tarot_index_3"
+				position = { x = 0 y = 210 }
+				format = center
+				quadTextureSprite ="GFX_EDG_tarot_index_3"
+				scripted = yes
+			}	
+
+			instantTextBoxType = {
+				name = "EDG_BOH_tarot_index_3.tt"
+				position = { x= 10 y = 280 }
+				textureFile = ""
+				font = "vic_29"
+				borderSize = {x = 4 y = 4}
+				maxWidth = 100
+				maxHeight = 32
+				format = center
+				scripted = yes
+			}	
+
+			guiButtonType = {
+				name = "EDG_BOH_tarot_index_4"
+				position = { x = 146 y = 210 }
+				format = center
+				quadTextureSprite ="GFX_EDG_tarot_index_4"
+				scripted = yes
+			}	
+
+			instantTextBoxType = {
+				name = "EDG_BOH_tarot_index_4.tt"
+				position = { x= 155 y = 280 }
+				textureFile = ""
+				font = "vic_29"
+				borderSize = {x = 4 y = 4}
+				maxWidth = 100
+				maxHeight = 32
+				format = center
+				scripted = yes
+			}	
+
+
+			guiButtonType = {
+				name = "EDG_BOH_tarot_index_5"
+				position = { x = 292 y = 210 }
+				format = center
+				quadTextureSprite ="GFX_EDG_tarot_index_5"
+				scripted = yes
+			}	
+
+			instantTextBoxType = {
+				name = "EDG_BOH_tarot_index_5.tt"
+				position = { x= 305 y = 280 }
+				textureFile = ""
+				font = "vic_29"
+				borderSize = {x = 4 y = 4}
+				maxWidth = 100
+				maxHeight = 32
+				format = center
+				scripted = yes
+			}	
+			#page 2
+			guiButtonType = {
+				name = "EDG_BOH_tarot_index_6"
+				position = { x = 0 y = 0 }
+				format = center
+				quadTextureSprite ="GFX_EDG_tarot_index_6"
+				scripted = yes
+			}
+
+			instantTextBoxType = {
+				name = "EDG_BOH_tarot_index_6.tt"
+				position = { x= 10 y = 70 }
+				textureFile = ""
+				font = "vic_29"
+				borderSize = {x = 4 y = 4}
+				maxWidth = 100
+				maxHeight = 32
+				format = center
+				scripted = yes
+			}
+
+			guiButtonType = {
+				name = "EDG_BOH_tarot_index_7"
+				position = { x = 146 y = 0 }
+				format = center
+				quadTextureSprite ="GFX_EDG_tarot_index_7"
+				scripted = yes
+			}	
+
+			instantTextBoxType = {
+				name = "EDG_BOH_tarot_index_7.tt"
+				position = { x= 155 y = 70 }
+				textureFile = ""
+				font = "vic_29"
+				borderSize = {x = 4 y = 4}
+				maxWidth = 100
+				maxHeight = 32
+				format = center
+				scripted = yes
+			}
+
+			guiButtonType = {
+				name = "EDG_BOH_tarot_index_8"
+				position = { x = 292 y = 0 }
+				format = center
+				quadTextureSprite ="GFX_EDG_tarot_index_8"
+				scripted = yes
+			}	
+
+			instantTextBoxType = {
+				name = "EDG_BOH_tarot_index_8.tt"
+				position = { x= 305 y = 70 }
+				textureFile = ""
+				font = "vic_29"
+				borderSize = {x = 4 y = 4}
+				maxWidth = 100
+				maxHeight = 32
+				format = center
+				scripted = yes
+			}
+
+			guiButtonType = {
+				name = "EDG_BOH_tarot_index_9"
+				position = { x = 0 y = 210 }
+				format = center
+				quadTextureSprite ="GFX_EDG_tarot_index_9"
+				scripted = yes
+			}	
+
+			instantTextBoxType = {
+				name = "EDG_BOH_tarot_index_9.tt"
+				position = { x= 10 y = 280 }
+				textureFile = ""
+				font = "vic_29"
+				borderSize = {x = 4 y = 4}
+				maxWidth = 100
+				maxHeight = 32
+				format = center
+				scripted = yes
+			}	
+
+			guiButtonType = {
+				name = "EDG_BOH_tarot_index_10"
+				position = { x = 146 y = 210 }
+				format = center
+				quadTextureSprite ="GFX_EDG_tarot_index_10"
+				scripted = yes
+			}	
+
+			instantTextBoxType = {
+				name = "EDG_BOH_tarot_index_10.tt"
+				position = { x= 155 y = 280 }
+				textureFile = ""
+				font = "vic_29"
+				borderSize = {x = 4 y = 4}
+				maxWidth = 100
+				maxHeight = 32
+				format = center
+				scripted = yes
+			}	
+
+
+			guiButtonType = {
+				name = "EDG_BOH_tarot_index_11"
+				position = { x = 292 y = 210 }
+				format = center
+				quadTextureSprite ="GFX_EDG_tarot_index_11"
+				scripted = yes
+			}	
+
+			instantTextBoxType = {
+				name = "EDG_BOH_tarot_index_11.tt"
+				position = { x= 305 y = 280 }
+				textureFile = ""
+				font = "vic_29"
+				borderSize = {x = 4 y = 4}
+				maxWidth = 100
+				maxHeight = 32
+				format = center
+				scripted = yes
+			}	
+			#page 3
+			guiButtonType = {
+				name = "EDG_BOH_tarot_index_12"
+				position = { x = 0 y = 0 }
+				format = center
+				quadTextureSprite ="GFX_EDG_tarot_index_12"
+				scripted = yes
+			}
+
+			instantTextBoxType = {
+				name = "EDG_BOH_tarot_index_12.tt"
+				position = { x= 10 y = 70 }
+				textureFile = ""
+				font = "vic_29"
+				borderSize = {x = 4 y = 4}
+				maxWidth = 100
+				maxHeight = 32
+				format = center
+				scripted = yes
+			}
+
+			guiButtonType = {
+				name = "EDG_BOH_tarot_index_13"
+				position = { x = 146 y = 0 }
+				format = center
+				quadTextureSprite ="GFX_EDG_tarot_index_13"
+				scripted = yes
+			}	
+
+			instantTextBoxType = {
+				name = "EDG_BOH_tarot_index_13.tt"
+				position = { x= 155 y = 70 }
+				textureFile = ""
+				font = "vic_29"
+				borderSize = {x = 4 y = 4}
+				maxWidth = 100
+				maxHeight = 32
+				format = center
+				scripted = yes
+			}
+
+			guiButtonType = {
+				name = "EDG_BOH_tarot_index_14"
+				position = { x = 292 y = 0 }
+				format = center
+				quadTextureSprite ="GFX_EDG_tarot_index_14"
+				scripted = yes
+			}	
+
+			instantTextBoxType = {
+				name = "EDG_BOH_tarot_index_14.tt"
+				position = { x= 305 y = 70 }
+				textureFile = ""
+				font = "vic_29"
+				borderSize = {x = 4 y = 4}
+				maxWidth = 100
+				maxHeight = 32
+				format = center
+				scripted = yes
+			}
+
+			guiButtonType = {
+				name = "EDG_BOH_tarot_index_15"
+				position = { x = 0 y = 210 }
+				format = center
+				quadTextureSprite ="GFX_EDG_tarot_index_15"
+				scripted = yes
+			}	
+
+			instantTextBoxType = {
+				name = "EDG_BOH_tarot_index_15.tt"
+				position = { x= 10 y = 280 }
+				textureFile = ""
+				font = "vic_29"
+				borderSize = {x = 4 y = 4}
+				maxWidth = 100
+				maxHeight = 32
+				format = center
+				scripted = yes
+			}	
+
+			guiButtonType = {
+				name = "EDG_BOH_tarot_index_16"
+				position = { x = 146 y = 210 }
+				format = center
+				quadTextureSprite ="GFX_EDG_tarot_index_16"
+				scripted = yes
+			}	
+
+			instantTextBoxType = {
+				name = "EDG_BOH_tarot_index_16.tt"
+				position = { x= 155 y = 280 }
+				textureFile = ""
+				font = "vic_29"
+				borderSize = {x = 4 y = 4}
+				maxWidth = 100
+				maxHeight = 32
+				format = center
+				scripted = yes
+			}	
+
+
+			guiButtonType = {
+				name = "EDG_BOH_tarot_index_17"
+				position = { x = 292 y = 210 }
+				format = center
+				quadTextureSprite ="GFX_EDG_tarot_index_17"
+				scripted = yes
+			}	
+
+			instantTextBoxType = {
+				name = "EDG_BOH_tarot_index_17.tt"
+				position = { x= 305 y = 280 }
+				textureFile = ""
+				font = "vic_29"
+				borderSize = {x = 4 y = 4}
+				maxWidth = 100
+				maxHeight = 32
+				format = center
+				scripted = yes
+			}	
+			#page 3
+			guiButtonType = {
+				name = "EDG_BOH_tarot_index_18"
+				position = { x = 0 y = 0 }
+				format = center
+				quadTextureSprite ="GFX_EDG_tarot_index_18"
+				scripted = yes
+			}
+
+			instantTextBoxType = {
+				name = "EDG_BOH_tarot_index_18.tt"
+				position = { x= 10 y = 70 }
+				textureFile = ""
+				font = "vic_29"
+				borderSize = {x = 4 y = 4}
+				maxWidth = 100
+				maxHeight = 32
+				format = center
+				scripted = yes
+			}
+
+			guiButtonType = {
+				name = "EDG_BOH_tarot_index_19"
+				position = { x = 146 y = 0 }
+				format = center
+				quadTextureSprite ="GFX_EDG_tarot_index_19"
+				scripted = yes
+			}	
+
+			instantTextBoxType = {
+				name = "EDG_BOH_tarot_index_19.tt"
+				position = { x= 155 y = 70 }
+				textureFile = ""
+				font = "vic_29"
+				borderSize = {x = 4 y = 4}
+				maxWidth = 100
+				maxHeight = 32
+				format = center
+				scripted = yes
+			}
+
+			guiButtonType = {
+				name = "EDG_BOH_tarot_index_20"
+				position = { x = 292 y = 0 }
+				format = center
+				quadTextureSprite ="GFX_EDG_tarot_index_20"
+				scripted = yes
+			}	
+
+			instantTextBoxType = {
+				name = "EDG_BOH_tarot_index_20.tt"
+				position = { x= 305 y = 70 }
+				textureFile = ""
+				font = "vic_29"
+				borderSize = {x = 4 y = 4}
+				maxWidth = 100
+				maxHeight = 32
+				format = center
+				scripted = yes
+			}
+
+			guiButtonType = {
+				name = "EDG_BOH_tarot_index_21"
+				position = { x = 0 y = 210 }
+				format = center
+				quadTextureSprite ="GFX_EDG_tarot_index_21"
+				scripted = yes
+			}	
+
+			instantTextBoxType = {
+				name = "EDG_BOH_tarot_index_21.tt"
+				position = { x= 10 y = 280 }
+				textureFile = ""
+				font = "vic_29"
+				borderSize = {x = 4 y = 4}
+				maxWidth = 100
+				maxHeight = 32
+				format = center
+				scripted = yes
+			}	
+		}
+
+			
+		
+		
+		
+		guiButtonType = {
+			name ="EDG_BOH_tarot_close_button"
+			quadTextureSprite ="button_type_4"
+			position = { x= -110 y = 312 }
+			buttonText = "CLOSE"
+			buttonFont = "vic_18"
+			shortcut = "ESCAPE"
+			Orientation = "CENTER"
+			scripted = yes
+		}
+
+
+		guiButtonType = {
+			name ="EDG_BOH_tarot_card_left_page_button"
+			quadTextureSprite ="button_left"
+			position = { x= 27 y = 595 }
+			scripted = yes
+		}
+
+		guiButtonType = {
+			name ="EDG_BOH_tarot_card_right_page_button"
+			quadTextureSprite ="button_right"
+			position = { x= 430 y = 595 }
+			scripted = yes
+		}
+
+
+		guiButtonType = {
+			name ="EDG_BOH_tarot_index_left_page_button"
+			quadTextureSprite ="button_left"
+			position = { x= 480 y = 595 }
+			scripted = yes
+		}
+
+		guiButtonType = {
+			name ="EDG_BOH_tarot_index_right_page_button"
+			quadTextureSprite ="button_right"
+			position = { x= 880 y = 595 }
+			scripted = yes
+		}
+
+		
+	}
+
+	guiButtonType = {
+		name ="EDG_BOH_tarot_open_button"
+		quadTextureSprite ="button_type_4"
+		position = { x= 9999 y = 9999 }
+		buttonText = "OPEN"
+		buttonFont = "vic_18"
+		shortcut = "v"
+		Orientation = "CENTER"
+		scripted = yes
+	}
+#
+####开始菜单
+	windowType = {
+		name ="EDG_game_rule_main_window"
+		backGround=""
+		position = { x=-464	y=-310 }	
+		size = { x=929 y=645 }
+		moveable = 0
+		dontRender = ""
+		horizontalBorder= ""
+		verticalBorder= ""
+		upsound = ""
+		downsound = ""
+		fullscreen=no
+		Orientation = "CENTER"
+		scripted = yes
+
+		iconType ={
+			name ="EDG_game_rule_bg"
+			spriteType = "GFX_EDG_game_rule_bg"
+			position = { x = -56 y = 0}
+		}
+
+		guiButtonType = {
+			name = "EDG_game_rule_select_button_1"
+			position = { x = 18 y = 98 }
+			buttonText = "EDG_game_rule_select_button_1_title"
+			buttonFont = "vic_29s"
+			format = center
+			quadTextureSprite ="GFX_startupscreen_tab"
+			scripted = yes
+		}
+		guiButtonType = {
+			name = "EDG_game_rule_select_button_2"
+			position = { x = 240 y = 98 }
+			buttonText = "EDG_game_rule_select_button_2_title"
+			buttonFont = "vic_29s"
+			format = center
+			quadTextureSprite ="GFX_startupscreen_tab"
+			scripted = yes
+		}
+		guiButtonType = {
+			name = "EDG_game_rule_select_button_3"
+			position = { x = 462 y = 98 }
+			buttonText = "EDG_game_rule_select_button_3_title"
+			buttonFont = "vic_29s"
+			format = center
+			quadTextureSprite ="GFX_startupscreen_tab"
+			scripted = yes
+		}
+
+		windowType = {
+			name = "EDG_game_rule_1_window"
+			position = { x=0	y=25 }
+			size = { x= 929 y= 645 }
+			moveable = 0
+			dontRender = ""
+			horizontalBorder= ""
+			verticalBorder= ""
+			upsound = ""
+			downsound = ""
+			fullscreen=no
+			scripted = yes
+
+			
+
+			instantTextBoxType = {
+				name = "EDG_game_rule_1_title"
+				position = { x= 400 y = 142 }
+				font = "vic_22"
+				borderSize = {x = 0 y = 0}
+				text = "desc"
+				maxWidth = 115
+				maxHeight = 50
+				format = center
+				alwaystransparent = yes	
+				scripted = yes
+			}
+
+			windowType = {
+				name = "EDG_game_rule_1_1_window"
+				position = { x=40	y=210 }
+				size = { x= 203 y= 118 }
+				moveable = 0
+				dontRender = ""
+				horizontalBorder= ""
+				verticalBorder= ""
+				upsound = ""
+				downsound = ""
+				fullscreen=no
+				scripted = yes
+
+				iconType ={
+					name ="EDG_bg"
+					spriteType = "GFX_EDG_game_rule_frame"
+					position = { x = 0 y = 0}
+				}
+
+				instantTextBoxType = {
+					name = "EDG_game_rule_1_1_tooltip"
+					position = { x= 45 y = 0 }
+					font = "vic_18"
+					borderSize = {x = 0 y = 0}
+					text = ""
+					maxWidth = 115
+					maxHeight = 20
+					format = center
+					alwaystransparent = yes	
+					scripted = yes
+				}
+
+				instantTextBoxType = {
+					name = "EDG_game_rule_1_1_title"
+					position = { x= 44 y = 32 }
+					font = "vic_18"
+					borderSize = {x = 0 y = 0}
+					text = ""
+					maxWidth = 115
+					maxHeight = 50
+					format = center
+					alwaystransparent = yes	
+					scripted = yes
+				}
+	
+				
+		
+				instantTextBoxType = {
+					name = "EDG_game_rule_1_1_desc"
+					position = { x= 9 y = 60 }
+					font = "vic_18"
+					borderSize = {x = 0 y = 0}
+					maxWidth = 195
+					maxHeight = 50
+					format = left
+					alwaystransparent = yes	
+					scripted = yes
+				}
+	
+				guiButtonType = {
+					name ="EDG_game_rule_1_1_right"
+					quadTextureSprite ="button_right"
+					position = { x= 155 y = 25 }
+					scripted = yes
+				}
+				guiButtonType = {
+					name ="EDG_game_rule_1_1_left"
+					quadTextureSprite ="button_left"
+					position = { x= 15 y = 25 }
+					scripted = yes
+				}
+			}
+			windowType = {
+				name = "EDG_game_rule_1_2_window"
+				position = { x=256	y=210 }
+				size = { x= 203 y= 118 }
+				moveable = 0
+				dontRender = ""
+				horizontalBorder= ""
+				verticalBorder= ""
+				upsound = ""
+				downsound = ""
+				fullscreen=no
+				scripted = yes
+
+				iconType ={
+					name ="EDG_bg"
+					spriteType = "GFX_EDG_game_rule_frame"
+					position = { x = 0 y = 0}
+				}
+
+				instantTextBoxType = {
+					name = "EDG_game_rule_1_2_tooltip"
+					position = { x= 28 y = 0 } # position = { x= 45 y = 0 } Conqueror Challenge
+					font = "vic_18"
+					borderSize = {x = 0 y = 0}
+					text = ""
+					maxWidth = 150 #115
+					maxHeight = 20
+					format = center
+					alwaystransparent = yes	
+					scripted = yes
+				}
+
+				instantTextBoxType = {
+					name = "EDG_game_rule_1_2_title"
+					position = { x= 44 y = 32 }
+					font = "vic_18"
+					borderSize = {x = 0 y = 0}
+					text = ""
+					maxWidth = 115
+					maxHeight = 50
+					format = center
+					alwaystransparent = yes	
+					scripted = yes
+				}
+	
+				
+		
+				instantTextBoxType = {
+					name = "EDG_game_rule_1_2_desc"
+					position = { x= 9 y = 60 } # position = { x= 9 y = 67 }
+					font = "vic_18"
+					borderSize = {x = 0 y = 0}
+					maxWidth = 195
+					maxHeight = 50
+					format = left
+					alwaystransparent = yes	
+					scripted = yes
+				}
+	
+				guiButtonType = {
+					name ="EDG_game_rule_1_2_right"
+					quadTextureSprite ="button_right"
+					position = { x= 155 y = 25 }
+					scripted = yes
+				}
+				guiButtonType = {
+					name ="EDG_game_rule_1_2_left"
+					quadTextureSprite ="button_left"
+					position = { x= 15 y = 25 }
+					scripted = yes
+				}
+			}
+
+			windowType = {
+				name = "EDG_game_rule_1_3_window"
+				position = { x=474	y=210 }
+				size = { x= 203 y= 118 }
+				moveable = 0
+				dontRender = ""
+				horizontalBorder= ""
+				verticalBorder= ""
+				upsound = ""
+				downsound = ""
+				fullscreen=no
+				scripted = yes
+
+				iconType ={
+					name ="EDG_bg"
+					spriteType = "GFX_EDG_game_rule_frame"
+					position = { x = 0 y = 0}
+				}
+
+				instantTextBoxType = {
+					name = "EDG_game_rule_1_3_tooltip"
+					position = { x= 45 y = 0 }
+					font = "vic_18"
+					borderSize = {x = 0 y = 0}
+					text = ""
+					maxWidth = 115
+					maxHeight = 20
+					format = center
+					alwaystransparent = yes	
+					scripted = yes
+				}
+
+				instantTextBoxType = {
+					name = "EDG_game_rule_1_3_title"
+					position = { x= 44 y = 32 }
+					font = "vic_18"
+					borderSize = {x = 0 y = 0}
+					text = ""
+					maxWidth = 115
+					maxHeight = 50
+					format = center
+					alwaystransparent = yes	
+					scripted = yes
+				}
+	
+				
+		
+				instantTextBoxType = {
+					name = "EDG_game_rule_1_3_desc"
+					position = { x= 9 y = 60 }
+					font = "vic_18"
+					borderSize = {x = 0 y = 0}
+					maxWidth = 195
+					maxHeight = 50
+					format = left
+					alwaystransparent = yes	
+					scripted = yes
+				}
+	
+				guiButtonType = {
+					name ="EDG_game_rule_1_3_right"
+					quadTextureSprite ="button_right"
+					position = { x= 155 y = 25 }
+					scripted = yes
+				}
+				guiButtonType = {
+					name ="EDG_game_rule_1_3_left"
+					quadTextureSprite ="button_left"
+					position = { x= 15 y = 25 }
+					scripted = yes
+				}
+			}
+
+			windowType = {
+				name = "EDG_game_rule_1_4_window"
+				position = { x=690	y=210 }
+				size = { x= 203 y= 118 }
+				moveable = 0
+				dontRender = ""
+				horizontalBorder= ""
+				verticalBorder= ""
+				upsound = ""
+				downsound = ""
+				fullscreen=no
+				scripted = yes
+
+				iconType ={
+					name ="EDG_bg"
+					spriteType = "GFX_EDG_game_rule_frame"
+					position = { x = 0 y = 0}
+				}
+
+				instantTextBoxType = {
+					name = "EDG_game_rule_1_4_tooltip"
+					position = { x= 45 y = 0 }
+					font = "vic_18"
+					borderSize = {x = 0 y = 0}
+					text = ""
+					maxWidth = 115
+					maxHeight = 20
+					format = center
+					alwaystransparent = yes	
+					scripted = yes
+				}
+
+				instantTextBoxType = {
+					name = "EDG_game_rule_1_4_title"
+					position = { x= 44 y = 32 }
+					font = "vic_18"
+					borderSize = {x = 0 y = 0}
+					text = ""
+					maxWidth = 115
+					maxHeight = 50
+					format = center
+					alwaystransparent = yes	
+					scripted = yes
+				}
+	
+				
+		
+				instantTextBoxType = {
+					name = "EDG_game_rule_1_4_desc"
+					position = { x= 9 y = 60 }
+					font = "vic_18"
+					borderSize = {x = 0 y = 0}
+					maxWidth = 195
+					maxHeight = 50
+					format = left
+					alwaystransparent = yes	
+					scripted = yes
+				}
+	
+				guiButtonType = {
+					name ="EDG_game_rule_1_4_right"
+					quadTextureSprite ="button_right"
+					position = { x= 155 y = 25 }
+					scripted = yes
+				}
+				guiButtonType = {
+					name ="EDG_game_rule_1_4_left"
+					quadTextureSprite ="button_left"
+					position = { x= 15 y = 25 }
+					scripted = yes
+				}
+			}
+
+			windowType = {
+				name = "EDG_game_rule_1_5_window"
+				position = { x=40	y=350 }
+				size = { x= 203 y= 118 }
+				moveable = 0
+				dontRender = ""
+				horizontalBorder= ""
+				verticalBorder= ""
+				upsound = ""
+				downsound = ""
+				fullscreen=no
+				scripted = yes
+
+				iconType ={
+					name ="EDG_bg"
+					spriteType = "GFX_EDG_game_rule_frame"
+					position = { x = 0 y = 0}
+				}
+
+				instantTextBoxType = {
+					name = "EDG_game_rule_1_5_tooltip"
+					position = { x= 45 y = 0 }
+					font = "vic_18"
+					borderSize = {x = 0 y = 0}
+					text = ""
+					maxWidth = 115
+					maxHeight = 20
+					format = center
+					alwaystransparent = yes	
+					scripted = yes
+				}
+
+				instantTextBoxType = {
+					name = "EDG_game_rule_1_5_title"
+					position = { x= 44 y = 32 }
+					font = "vic_18"
+					borderSize = {x = 0 y = 0}
+					text = ""
+					maxWidth = 115
+					maxHeight = 50
+					format = center
+					alwaystransparent = yes	
+					scripted = yes
+				}
+	
+				
+		
+				instantTextBoxType = {
+					name = "EDG_game_rule_1_5_desc"
+					position = { x= 9 y = 60 }
+					font = "vic_18"
+					borderSize = {x = 0 y = 0}
+					maxWidth = 195
+					maxHeight = 50
+					format = left
+					alwaystransparent = yes	
+					scripted = yes
+				}
+	
+				guiButtonType = {
+					name ="EDG_game_rule_1_5_right"
+					quadTextureSprite ="button_right"
+					position = { x= 155 y = 25 }
+					scripted = yes
+				}
+				guiButtonType = {
+					name ="EDG_game_rule_1_5_left"
+					quadTextureSprite ="button_left"
+					position = { x= 15 y = 25 }
+					scripted = yes
+				}
+			}
+		}
+
+		windowType = {
+			name = "EDG_game_rule_2_window"
+			position = { x=0	y=25 }
+			size = { x= 929 y= 645 }
+			moveable = 0
+			dontRender = ""
+			horizontalBorder= ""
+			verticalBorder= ""
+			upsound = ""
+			downsound = ""
+			fullscreen=no
+			scripted = yes
+
+			
+
+			instantTextBoxType = {
+				name = "EDG_game_rule_2_title"
+				position = { x= 400 y = 142 }
+				font = "vic_22"
+				borderSize = {x = 0 y = 0}
+				text = "desc"
+				maxWidth = 115
+				maxHeight = 50
+				format = center
+				alwaystransparent = yes	
+				scripted = yes
+			}
+
+			windowType = {
+				name = "EDG_game_rule_2_1_window"
+				position = { x=40	y=210 }
+				size = { x= 203 y= 118 }
+				moveable = 0
+				dontRender = ""
+				horizontalBorder= ""
+				verticalBorder= ""
+				upsound = ""
+				downsound = ""
+				fullscreen=no
+				scripted = yes
+
+				iconType ={
+					name ="EDG_bg"
+					spriteType = "GFX_EDG_game_rule_frame"
+					position = { x = 0 y = 0}
+				}
+
+				instantTextBoxType = {
+					name = "EDG_game_rule_2_1_tooltip"
+					position = { x= 45 y = 0 }
+					font = "vic_18"
+					borderSize = {x = 0 y = 0}
+					text = ""
+					maxWidth = 115
+					maxHeight = 20
+					format = center
+					alwaystransparent = yes	
+					scripted = yes
+				}
+
+				instantTextBoxType = {
+					name = "EDG_game_rule_2_1_title"
+					position = { x= 44 y = 32 }
+					font = "vic_18"
+					borderSize = {x = 0 y = 0}
+					text = ""
+					maxWidth = 115
+					maxHeight = 50
+					format = center
+					alwaystransparent = yes	
+					scripted = yes
+				}
+	
+				
+		
+				instantTextBoxType = {
+					name = "EDG_game_rule_2_1_desc"
+					position = { x= 9 y = 60 }
+					font = "vic_18"
+					borderSize = {x = 0 y = 0}
+					maxWidth = 195
+					maxHeight = 50
+					format = left
+					alwaystransparent = yes	
+					scripted = yes
+				}
+	
+				guiButtonType = {
+					name ="EDG_game_rule_2_1_right"
+					quadTextureSprite ="button_right"
+					position = { x= 155 y = 25 }
+					scripted = yes
+				}
+				guiButtonType = {
+					name ="EDG_game_rule_2_1_left"
+					quadTextureSprite ="button_left"
+					position = { x= 15 y = 25 }
+					scripted = yes
+				}
+			}
+			windowType = {
+				name = "EDG_game_rule_2_2_window"
+				position = { x=256	y=210 }
+				size = { x= 203 y= 118 }
+				moveable = 0
+				dontRender = ""
+				horizontalBorder= ""
+				verticalBorder= ""
+				upsound = ""
+				downsound = ""
+				fullscreen=no
+				scripted = yes
+
+				iconType ={
+					name ="EDG_bg"
+					spriteType = "GFX_EDG_game_rule_frame"
+					position = { x = 0 y = 0}
+				}
+
+				instantTextBoxType = {
+					name = "EDG_game_rule_2_2_tooltip"
+					position = { x= 45 y = 0 }
+					font = "vic_18"
+					borderSize = {x = 0 y = 0}
+					text = ""
+					maxWidth = 115
+					maxHeight = 20
+					format = center
+					alwaystransparent = yes	
+					scripted = yes
+				}
+
+				instantTextBoxType = {
+					name = "EDG_game_rule_2_2_title"
+					position = { x= 44 y = 32 }
+					font = "vic_18"
+					borderSize = {x = 0 y = 0}
+					text = ""
+					maxWidth = 115
+					maxHeight = 50
+					format = center
+					alwaystransparent = yes	
+					scripted = yes
+				}
+	
+				
+		
+				instantTextBoxType = {
+					name = "EDG_game_rule_2_2_desc"
+					position = { x= 9 y = 60 }
+					font = "vic_18"
+					borderSize = {x = 0 y = 0}
+					maxWidth = 195
+					maxHeight = 50
+					format = left
+					alwaystransparent = yes	
+					scripted = yes
+				}
+	
+				guiButtonType = {
+					name ="EDG_game_rule_2_2_right"
+					quadTextureSprite ="button_right"
+					position = { x= 155 y = 25 }
+					scripted = yes
+				}
+				guiButtonType = {
+					name ="EDG_game_rule_2_2_left"
+					quadTextureSprite ="button_left"
+					position = { x= 15 y = 25 }
+					scripted = yes
+				}
+			}
+
+			windowType = {
+				name = "EDG_game_rule_2_3_window"
+				position = { x=474	y=210 }
+				size = { x= 203 y= 118 }
+				moveable = 0
+				dontRender = ""
+				horizontalBorder= ""
+				verticalBorder= ""
+				upsound = ""
+				downsound = ""
+				fullscreen=no
+				scripted = yes
+
+				iconType ={
+					name ="EDG_bg"
+					spriteType = "GFX_EDG_game_rule_frame"
+					position = { x = 0 y = 0}
+				}
+
+				instantTextBoxType = {
+					name = "EDG_game_rule_2_3_tooltip"
+					position = { x= 45 y = 0 }
+					font = "vic_18"
+					borderSize = {x = 0 y = 0}
+					text = ""
+					maxWidth = 115
+					maxHeight = 20
+					format = center
+					alwaystransparent = yes	
+					scripted = yes
+				}
+
+				instantTextBoxType = {
+					name = "EDG_game_rule_2_3_title"
+					position = { x= 44 y = 32 }
+					font = "vic_18"
+					borderSize = {x = 0 y = 0}
+					text = ""
+					maxWidth = 115
+					maxHeight = 50
+					format = center
+					alwaystransparent = yes	
+					scripted = yes
+				}
+	
+				
+		
+				instantTextBoxType = {
+					name = "EDG_game_rule_2_3_desc"
+					position = { x= 9 y = 60 }
+					font = "vic_18"
+					borderSize = {x = 0 y = 0}
+					maxWidth = 195
+					maxHeight = 50
+					format = left
+					alwaystransparent = yes	
+					scripted = yes
+				}
+	
+				guiButtonType = {
+					name ="EDG_game_rule_2_3_right"
+					quadTextureSprite ="button_right"
+					position = { x= 155 y = 25 }
+					scripted = yes
+				}
+				guiButtonType = {
+					name ="EDG_game_rule_2_3_left"
+					quadTextureSprite ="button_left"
+					position = { x= 15 y = 25 }
+					scripted = yes
+				}
+			}
+
+			windowType = {
+				name = "EDG_game_rule_2_4_window"
+				position = { x=690	y=210 }
+				size = { x= 203 y= 118 }
+				moveable = 0
+				dontRender = ""
+				horizontalBorder= ""
+				verticalBorder= ""
+				upsound = ""
+				downsound = ""
+				fullscreen=no
+				scripted = yes
+
+				iconType ={
+					name ="EDG_bg"
+					spriteType = "GFX_EDG_game_rule_frame"
+					position = { x = 0 y = 0}
+				}
+
+				instantTextBoxType = {
+					name = "EDG_game_rule_2_4_tooltip"
+					position = { x= 45 y = 0 }
+					font = "vic_18"
+					borderSize = {x = 0 y = 0}
+					text = ""
+					maxWidth = 115
+					maxHeight = 20
+					format = center
+					alwaystransparent = yes	
+					scripted = yes
+				}
+
+				instantTextBoxType = {
+					name = "EDG_game_rule_2_4_title"
+					position = { x= 44 y = 32 }
+					font = "vic_18"
+					borderSize = {x = 0 y = 0}
+					text = ""
+					maxWidth = 115
+					maxHeight = 50
+					format = center
+					alwaystransparent = yes	
+					scripted = yes
+				}
+	
+				
+		
+				instantTextBoxType = {
+					name = "EDG_game_rule_2_4_desc"
+					position = { x= 9 y = 60 }
+					font = "vic_18"
+					borderSize = {x = 0 y = 0}
+					maxWidth = 195
+					maxHeight = 50
+					format = left
+					alwaystransparent = yes	
+					scripted = yes
+				}
+	
+				guiButtonType = {
+					name ="EDG_game_rule_2_4_right"
+					quadTextureSprite ="button_right"
+					position = { x= 155 y = 25 }
+					scripted = yes
+				}
+				guiButtonType = {
+					name ="EDG_game_rule_2_4_left"
+					quadTextureSprite ="button_left"
+					position = { x= 15 y = 25 }
+					scripted = yes
+				}
+			}
+
+			windowType = {
+				name = "EDG_game_rule_2_5_window"
+				position = { x=40	y=350 }
+				size = { x= 203 y= 118 }
+				moveable = 0
+				dontRender = ""
+				horizontalBorder= ""
+				verticalBorder= ""
+				upsound = ""
+				downsound = ""
+				fullscreen=no
+				scripted = yes
+
+				iconType ={
+					name ="EDG_bg"
+					spriteType = "GFX_EDG_game_rule_frame"
+					position = { x = 0 y = 0}
+				}
+
+				instantTextBoxType = {
+					name = "EDG_game_rule_2_5_tooltip"
+					position = { x= 23 y = 0 } # position = { x= 45 y = 0 } Uzbek Fragmentation
+					font = "vic_18"
+					borderSize = {x = 0 y = 0}
+					text = ""
+					maxWidth = 150 #115
+					maxHeight = 20
+					format = center
+					alwaystransparent = yes	
+					scripted = yes
+				}
+
+				instantTextBoxType = {
+					name = "EDG_game_rule_2_5_title"
+					position = { x= 44 y = 32 }
+					font = "vic_18"
+					borderSize = {x = 0 y = 0}
+					text = ""
+					maxWidth = 115
+					maxHeight = 50
+					format = center
+					alwaystransparent = yes	
+					scripted = yes
+				}
+	
+				
+		
+				instantTextBoxType = {
+					name = "EDG_game_rule_2_5_desc"
+					position = { x= 9 y = 60 }
+					font = "vic_18"
+					borderSize = {x = 0 y = 0}
+					maxWidth = 195
+					maxHeight = 50
+					format = left
+					alwaystransparent = yes	
+					scripted = yes
+				}
+	
+				guiButtonType = {
+					name ="EDG_game_rule_2_5_right"
+					quadTextureSprite ="button_right"
+					position = { x= 155 y = 25 }
+					scripted = yes
+				}
+				guiButtonType = {
+					name ="EDG_game_rule_2_5_left"
+					quadTextureSprite ="button_left"
+					position = { x= 15 y = 25 }
+					scripted = yes
+				}
+			}
+
+			windowType = {
+				name = "EDG_game_rule_2_6_window"
+				position = { x=256	y=350 }
+				size = { x= 203 y= 118 }
+				moveable = 0
+				dontRender = ""
+				horizontalBorder= ""
+				verticalBorder= ""
+				upsound = ""
+				downsound = ""
+				fullscreen=no
+				scripted = yes
+
+				iconType ={
+					name ="EDG_bg"
+					spriteType = "GFX_EDG_game_rule_frame"
+					position = { x = 0 y = 0}
+				}
+
+				instantTextBoxType = {
+					name = "EDG_game_rule_2_6_tooltip"
+					position = { x= 45 y = 0 }
+					font = "vic_18"
+					borderSize = {x = 0 y = 0}
+					text = ""
+					maxWidth = 115
+					maxHeight = 20
+					format = center
+					alwaystransparent = yes	
+					scripted = yes
+				}
+
+				instantTextBoxType = {
+					name = "EDG_game_rule_2_6_title"
+					position = { x= 44 y = 32 }
+					font = "vic_18"
+					borderSize = {x = 0 y = 0}
+					text = ""
+					maxWidth = 115
+					maxHeight = 50
+					format = center
+					alwaystransparent = yes	
+					scripted = yes
+				}
+	
+				
+		
+				instantTextBoxType = {
+					name = "EDG_game_rule_2_6_desc"
+					position = { x= 9 y = 60 }
+					font = "vic_18"
+					borderSize = {x = 0 y = 0}
+					maxWidth = 195
+					maxHeight = 50
+					format = left
+					alwaystransparent = yes	
+					scripted = yes
+				}
+	
+				guiButtonType = {
+					name ="EDG_game_rule_2_6_right"
+					quadTextureSprite ="button_right"
+					position = { x= 155 y = 25 }
+					scripted = yes
+				}
+				guiButtonType = {
+					name ="EDG_game_rule_2_6_left"
+					quadTextureSprite ="button_left"
+					position = { x= 15 y = 25 }
+					scripted = yes
+				}
+			}
+			windowType = {
+				name = "EDG_game_rule_2_7_window"
+				position = { x=472	y=350 }
+				size = { x= 203 y= 118 }
+				moveable = 0
+				dontRender = ""
+				horizontalBorder= ""
+				verticalBorder= ""
+				upsound = ""
+				downsound = ""
+				fullscreen=no
+				scripted = yes
+
+				iconType ={
+					name ="EDG_bg"
+					spriteType = "GFX_EDG_game_rule_frame"
+					position = { x = 0 y = 0}
+				}
+
+				instantTextBoxType = {
+					name = "EDG_game_rule_2_7_tooltip"
+					position = { x= 31 y = 0 } # War Declaration
+					font = "vic_18"
+					borderSize = {x = 0 y = 0}
+					text = ""
+					maxWidth = 150
+					maxHeight = 20
+					format = center
+					alwaystransparent = yes	
+					scripted = yes
+				}
+
+				instantTextBoxType = {
+					name = "EDG_game_rule_2_7_title"
+					position = { x= 44 y = 32 }
+					font = "vic_18"
+					borderSize = {x = 0 y = 0}
+					text = ""
+					maxWidth = 115
+					maxHeight = 50
+					format = center
+					alwaystransparent = yes	
+					scripted = yes
+				}
+	
+				
+		
+				instantTextBoxType = {
+					name = "EDG_game_rule_2_7_desc"
+					position = { x= 9 y = 60 }
+					font = "vic_18"
+					borderSize = {x = 0 y = 0}
+					maxWidth = 195
+					maxHeight = 50
+					format = left
+					alwaystransparent = yes	
+					scripted = yes
+				}
+	
+				guiButtonType = {
+					name ="EDG_game_rule_2_7_right"
+					quadTextureSprite ="button_right"
+					position = { x= 155 y = 25 }
+					scripted = yes
+				}
+				guiButtonType = {
+					name ="EDG_game_rule_2_7_left"
+					quadTextureSprite ="button_left"
+					position = { x= 15 y = 25 }
+					scripted = yes
+				}
+			}
+		}
+		windowType = {
+			name = "EDG_game_rule_3_window"
+			position = { x=0	y=25 }
+			size = { x= 929 y= 645 }
+			moveable = 0
+			dontRender = ""
+			horizontalBorder= ""
+			verticalBorder= ""
+			upsound = ""
+			downsound = ""
+			fullscreen=no
+			scripted = yes
+
+			instantTextBoxType = {
+				name = "EDG_game_rule_3_title"
+				position = { x= 400 y = 142 }
+				font = "vic_22"
+				borderSize = {x = 0 y = 0}
+				text = "desc"
+				maxWidth = 115
+				maxHeight = 50
+				format = center
+				alwaystransparent = yes	
+				scripted = yes
+			}
+
+			windowType = {
+				name = "EDG_game_rule_3_1_window"
+				position = { x=40	y=210 }
+				size = { x= 203 y= 118 }
+				moveable = 0
+				dontRender = ""
+				horizontalBorder= ""
+				verticalBorder= ""
+				upsound = ""
+				downsound = ""
+				fullscreen=no
+				scripted = yes
+
+				iconType ={
+					name ="EDG_bg"
+					spriteType = "GFX_EDG_game_rule_frame"
+					position = { x = 0 y = 0}
+				}
+
+				instantTextBoxType = {
+					name = "EDG_game_rule_3_1_tooltip"
+					position = { x= 45 y = 0 }
+					font = "vic_18"
+					borderSize = {x = 0 y = 0}
+					text = ""
+					maxWidth = 115
+					maxHeight = 20
+					format = center
+					alwaystransparent = yes	
+					scripted = yes
+				}
+
+				instantTextBoxType = {
+					name = "EDG_game_rule_3_1_title"
+					position = { x= 44 y = 32 }
+					font = "vic_18"
+					borderSize = {x = 0 y = 0}
+					text = ""
+					maxWidth = 115
+					maxHeight = 50
+					format = center
+					alwaystransparent = yes	
+					scripted = yes
+				}
+	
+				
+		
+				instantTextBoxType = {
+					name = "EDG_game_rule_3_1_desc"
+					position = { x= 9 y = 60 }
+					font = "vic_18"
+					borderSize = {x = 0 y = 0}
+					maxWidth = 195
+					maxHeight = 50
+					format = left
+					alwaystransparent = yes	
+					scripted = yes
+				}
+	
+				guiButtonType = {
+					name ="EDG_game_rule_3_1_right"
+					quadTextureSprite ="button_right"
+					position = { x= 155 y = 25 }
+					scripted = yes
+				}
+				guiButtonType = {
+					name ="EDG_game_rule_3_1_left"
+					quadTextureSprite ="button_left"
+					position = { x= 15 y = 25 }
+					scripted = yes
+				}
+			}
+			windowType = {
+				name = "EDG_game_rule_3_2_window"
+				position = { x=256	y=210 }
+				size = { x= 203 y= 118 }
+				moveable = 0
+				dontRender = ""
+				horizontalBorder= ""
+				verticalBorder= ""
+				upsound = ""
+				downsound = ""
+				fullscreen=no
+				scripted = yes
+
+				iconType ={
+					name ="EDG_bg"
+					spriteType = "GFX_EDG_game_rule_frame"
+					position = { x = 0 y = 0}
+				}
+
+				instantTextBoxType = {
+					name = "EDG_game_rule_3_2_tooltip"
+					position = { x= 45 y = 0 }
+					font = "vic_18"
+					borderSize = {x = 0 y = 0}
+					text = ""
+					maxWidth = 115
+					maxHeight = 20
+					format = center
+					alwaystransparent = yes	
+					scripted = yes
+				}
+
+				instantTextBoxType = {
+					name = "EDG_game_rule_3_2_title"
+					position = { x= 44 y = 32 }
+					font = "vic_18"
+					borderSize = {x = 0 y = 0}
+					text = ""
+					maxWidth = 115
+					maxHeight = 50
+					format = center
+					alwaystransparent = yes	
+					scripted = yes
+				}
+	
+				
+		
+				instantTextBoxType = {
+					name = "EDG_game_rule_3_2_desc"
+					position = { x= 9 y = 60 }
+					font = "vic_18"
+					borderSize = {x = 0 y = 0}
+					maxWidth = 195
+					maxHeight = 50
+					format = left
+					alwaystransparent = yes	
+					scripted = yes
+				}
+	
+				guiButtonType = {
+					name ="EDG_game_rule_3_2_right"
+					quadTextureSprite ="button_right"
+					position = { x= 155 y = 25 }
+					scripted = yes
+				}
+				guiButtonType = {
+					name ="EDG_game_rule_3_2_left"
+					quadTextureSprite ="button_left"
+					position = { x= 15 y = 25 }
+					scripted = yes
+				}
+			}
+
+			windowType = {
+				name = "EDG_game_rule_3_3_window"
+				position = { x=474	y=210 }
+				size = { x= 203 y= 118 }
+				moveable = 0
+				dontRender = ""
+				horizontalBorder= ""
+				verticalBorder= ""
+				upsound = ""
+				downsound = ""
+				fullscreen=no
+				scripted = yes
+
+				iconType ={
+					name ="EDG_bg"
+					spriteType = "GFX_EDG_game_rule_frame"
+					position = { x = 0 y = 0}
+				}
+
+				instantTextBoxType = {
+					name = "EDG_game_rule_3_3_tooltip"
+					position = { x= 45 y = 0 }
+					font = "vic_18"
+					borderSize = {x = 0 y = 0}
+					text = ""
+					maxWidth = 115
+					maxHeight = 20
+					format = center
+					alwaystransparent = yes	
+					scripted = yes
+				}
+
+				instantTextBoxType = {
+					name = "EDG_game_rule_3_3_title"
+					position = { x= 44 y = 32 }
+					font = "vic_18"
+					borderSize = {x = 0 y = 0}
+					text = ""
+					maxWidth = 115
+					maxHeight = 50
+					format = center
+					alwaystransparent = yes	
+					scripted = yes
+				}
+	
+				
+		
+				instantTextBoxType = {
+					name = "EDG_game_rule_3_3_desc"
+					position = { x= 9 y = 60 }
+					font = "vic_18"
+					borderSize = {x = 0 y = 0}
+					maxWidth = 195
+					maxHeight = 50
+					format = left
+					alwaystransparent = yes	
+					scripted = yes
+				}
+	
+				guiButtonType = {
+					name ="EDG_game_rule_3_3_right"
+					quadTextureSprite ="button_right"
+					position = { x= 155 y = 25 }
+					scripted = yes
+				}
+				guiButtonType = {
+					name ="EDG_game_rule_3_3_left"
+					quadTextureSprite ="button_left"
+					position = { x= 15 y = 25 }
+					scripted = yes
+				}
+			}
+		}
+		
+
+		
+
+		guiButtonType = {
+			name ="EDG_game_rule_main_close_button"
+			quadTextureSprite ="button_type_4"
+			position = { x= -110 y = 312 }
+			buttonText = "CLOSE"
+			buttonFont = "vic_18"
+			shortcut = "ESCAPE"
+			Orientation = "CENTER"
+			scripted = yes
+		}
+		
+	}
+	guiButtonType = {
+		name ="EDG_game_rule_main_open_button"
+		quadTextureSprite ="button_type_4"
+		position = { x= 99999 y = 99999 }
+		shortcut = "ctrl+g"
+		Orientation = "CENTER"
+		scripted = yes
+	}
+#
+#####景教伊朗新增
+	
+	windowType = {#界面窗口
+		name = "EDG_IR1_window_gui"
+		backGround=""
+		position = { x=-315	y=-370 }	
+		size = { x=929 y=645 }
+		moveable = 0
+		dontRender = ""
+		horizontalBorder= ""
+		verticalBorder= ""
+		downsound = ""
+		fullscreen=no
+		Orientation = "CENTER"
+		scripted = yes
+
+		iconType = {
+			name = "EDG_IR1_power_bg_1"
+			spriteType = "GFX_EDG_IR1_power_bg_1"
+			position = { x= -131 y = -10 }
+			scripted = yes
+		}
+
+		iconType = {
+			name = "EDG_IR1_power_bg_2"
+			spriteType = "GFX_EDG_IR1_power_bg_2"
+			position = { x= -131 y = -10 }
+			scripted = yes
+		}
+
+		iconType = {
+			name = "EDG_IR1_power_bg_3"
+			spriteType = "GFX_EDG_IR1_power_bg_3"
+			position = { x= -131 y = -10 }
+			scripted = yes
+		}
+
+		guiButtonType = {#关闭按钮2
+			name = "EDG_IR1_button_close"
+			position = { x = 306 y = 665 }
+			scripted = yes
+			quadTextureSprite ="button_type_7"	
+			buttonText = "EDG_IR1_button_close_tt"
+			buttonFont = "vic_23s"
+			shortcut = "ESCAPE"
+		}
+		#盾徽
+		guiButtonType = {#空白
+			name ="EDG_IR1_overlord_1_shield_1"
+			quadTextureSprite = "GFX_shield_fancy"
+			scripted = yes
+			position = { x= 306 y = 145 }
+			tooltip = ""
+			tooltipText =""
+			delayedTooltipText = ""
+			buttonFont = "vic_18_black"
+			hint_tag = "hint_emperor"
+		}
+		guiButtonType = {
+			name ="EDG_IR1_overlord_1_shield_2"
+			quadTextureSprite = "GFX_shield_fancy"
+			scripted = yes
+			position = { x= 306 y = 145 }
+			tooltip = ""
+			tooltipText =""
+			delayedTooltipText = ""
+			buttonFont = "vic_18_black"
+			hint_tag = "hint_emperor"
+		}
+		#刷新盾徽按钮
+		guiButtonType = {
+			name = "EDG_IR1_overlord_1_button"
+			position = { x = 308 y = 290 }
+			quadTextureSprite ="button_type_7"	
+			text = "EDG_IR1_overlord_1_button_tt"
+			buttonFont = "vic_23s"
+			Orientation = "UPPER_LEFT"
+		    clicksound = click
+			scripted = yes
+		}
+	#标题
+		instantTextBoxType = {#标题1
+			name = "EDG_IR1_overlord_1_text_bg_1"
+			position = { x= 330 y = 110 }
+			font = "vic_29"
+			borderSize = {x = 0 y = 0}
+			maxWidth = 300
+			maxHeight = 32
+		    format = left
+		    scripted = yes
+		}
+		instantTextBoxType = {#标题2
+			name = "EDG_IR1_overlord_1_text_bg_2"
+			position = { x= 305 y = 110 }
+			font = "vic_29"
+			borderSize = {x = 0 y = 0}
+			maxWidth = 300
+			maxHeight = 32
+		    format = left
+		    scripted = yes
+		}
+		instantTextBoxType = {#标题3
+			name = "EDG_IR1_overlord_1_text_bg_3"
+			position = { x= 295 y = 110 }
+			font = "vic_29"
+			borderSize = {x = 0 y = 0}
+			maxWidth = 300
+			maxHeight = 32
+		    format = left
+		    scripted = yes
+		}
+		instantTextBoxType = {#国事诏书
+			name = "EDG_IR1_reform_1_text_bg"
+			position = { x= 110 y = 365 }
+			font = "vic_29"
+			borderSize = {x = 0 y = 0}
+			maxWidth = 150
+			maxHeight = 32
+		    format = left
+		    scripted = yes
+		}
+		instantTextBoxType = {#帝国革新
+			name = "EDG_IR1_reform_2_text_bg"
+			position = { x= 570 y = 365 }
+			font = "vic_29"
+			borderSize = {x = 0 y = 0}
+			maxWidth = 150
+			maxHeight = 32
+		    format = left
+		    scripted = yes
+		}
+	#
+	#模拟兴衰值
+		iconType = {#模拟兴衰值0
+			name = "EDG_IR1_reform_0_bg"
+			spriteType = "GFX_EDG_IR1_reform_0_bg"
+			position = { x= 255 y = 270 }
+			scripted = yes
+		}
+		iconType = {#模拟兴衰值1
+			name = "EDG_IR1_reform_1_bg"
+			spriteType = "GFX_EDG_IR1_reform_1_bg"
+			position = { x= 255 y = 270 }
+			scripted = yes
+		}
+		iconType = {#模拟兴衰值2
+			name = "EDG_IR1_reform_2_bg"
+			spriteType = "GFX_EDG_IR1_reform_2_bg"
+			position = { x= 255 y = 270 }
+			scripted = yes
+		}
+		iconType = {#模拟兴衰值3
+			name = "EDG_IR1_reform_3_bg"
+			spriteType = "GFX_EDG_IR1_reform_3_bg"
+			position = { x= 255 y = 273 }
+			scripted = yes
+		}
+		iconType = {#模拟兴衰值4
+			name = "EDG_IR1_reform_4_bg"
+			spriteType = "GFX_EDG_IR1_reform_4_bg"
+			position = { x= 255 y = 273 }
+			scripted = yes
+		}
+		iconType = {#模拟兴衰值5
+			name = "EDG_IR1_reform_5_bg"
+			spriteType = "GFX_EDG_IR1_reform_5_bg"
+			position = { x= 255 y = 270 }
+			scripted = yes
+		}
+	#
+	#法令窗口
+		windowType = {
+			name = "EDG_IR1_decree_select_window"
+			backGround=""
+			position = { x= -535 y= 80 }	
+			size = { x=929 y=645 }
+			moveable = 0
+			dontRender = ""
+			horizontalBorder= ""
+			verticalBorder= ""
+			downsound = ""
+			fullscreen=no
+			Orientation = "CENTER"
+			scripted = yes
+		#法令
+			guiButtonType = {#法令1
+				name = "EDG_IR1_decree_select_1"
+				position = { x = 0 y = 0 }
+				scripted = yes
+				spriteType = "GFX_decree_button"
+				buttonText = "EDG_IR1_decree_select_1"
+				buttonFont = "vic_23s"
+			}
+
+			guiButtonType = {#法令2
+				name = "EDG_IR1_decree_select_2"
+				position = { x = 0 y = 50 }
+				scripted = yes
+				spriteType = "GFX_decree_button"
+				buttonText = "EDG_IR1_decree_select_2"
+				buttonFont = "vic_23s"
+			}
+
+			guiButtonType = {#法令3
+				name = "EDG_IR1_decree_select_3"
+				position = { x = 0 y = 100 }
+				scripted = yes
+				spriteType = "GFX_decree_button"
+				buttonText = "EDG_IR1_decree_select_3"
+				buttonFont = "vic_23s"
+			}
+
+			guiButtonType = {#法令4
+				name = "EDG_IR1_decree_select_4"
+				position = { x = 0 y = 150 }
+				scripted = yes
+				spriteType = "GFX_decree_button"
+				buttonText = "EDG_IR1_decree_select_4"
+				buttonFont = "vic_23s"
+			}
+
+			guiButtonType = {#法令5
+				name = "EDG_IR1_decree_select_5"
+				position = { x = 0 y = 200 }
+				scripted = yes
+				spriteType = "GFX_decree_button"
+				buttonText = "EDG_IR1_decree_select_5"
+				buttonFont = "vic_23s"
+			}
+		#
+		#对勾
+			iconType = {
+				name = "EDG_IR1_decree_select_1_check"
+				spriteType = "GFX_decree_button_check"
+				position = { x = 180 y = 10 }
+				scripted = yes
+			}
+
+			iconType = {
+				name = "EDG_IR1_decree_select_2_check"
+				spriteType = "GFX_decree_button_check"
+				position = { x = 180 y = 60 }
+				scripted = yes
+			}
+
+			iconType = {
+				name = "EDG_IR1_decree_select_3_check"
+				spriteType = "GFX_decree_button_check"
+				position = { x = 180 y = 110 }
+				scripted = yes
+			}
+
+			iconType = {
+				name = "EDG_IR1_decree_select_4_check"
+				spriteType = "GFX_decree_button_check"
+				position = { x = 180 y = 160 }
+				scripted = yes
+			}
+
+			iconType = {
+				name = "EDG_IR1_decree_select_5_check"
+				spriteType = "GFX_decree_button_check"
+				position = { x = 180 y = 210 }
+				scripted = yes
+			}
+		#
+		#强化改革
+			iconType = {#行政强化图标
+				name = "EDG_IR1_strengthen_select_pic_1"
+				spriteType = "GFX_mechanic_EDG_GSR_government_1"
+				position = { x= 240 y = -20 }
+				scripted = yes
+			}
+
+			iconType = {#经济强化图标
+				name = "EDG_IR1_strengthen_select_pic_2"
+				spriteType = "GFX_mechanic_EDG_GEN_george_house_interactions_2"
+				position = { x= 240 y = 70 }
+				scripted = yes
+			}
+
+			iconType = {#军事强化图标
+				name = "EDG_IR1_strengthen_select_pic_3"
+				spriteType = "GFX_EDG_IR1_strengthen_select_pic_3"
+				position = { x= 240 y = 160 }
+				scripted = yes
+			}
+
+			guiButtonType = {#行政强化按钮
+				name = "EDG_IR1_strengthen_button_1"
+				position = { x = 333 y = 40 }
+				scripted = yes
+				spriteType = "button_type_9"
+				buttonText = "EDG_IR1_strengthen_button_1"
+				buttonFont = "vic_23s"
+			}
+
+			iconType = {#行政强化进度0
+				name = "EDG_IR1_strengthen_power_bg_A0"
+				spriteType = "GFX_EDG_IR1_strengthen_power_bg"
+				position = { x= 330 y = 0 }
+				scripted = yes
+			}
+
+			iconType = {#行政强化进度1
+				name = "EDG_IR1_strengthen_power_bg_A1"
+				spriteType = "GFX_EDG_IR1_strengthen_power_bg_1"
+				position = { x= 330 y = 0 }
+				scripted = yes
+			}
+
+			iconType = {#行政强化进度2
+				name = "EDG_IR1_strengthen_power_bg_A2"
+				spriteType = "GFX_EDG_IR1_strengthen_power_bg_2"
+				position = { x= 330 y = 0 }
+				scripted = yes
+			}
+
+			iconType = {#行政强化进度3
+				name = "EDG_IR1_strengthen_power_bg_A3"
+				spriteType = "GFX_EDG_IR1_strengthen_power_bg_3"
+				position = { x= 330 y = 0 }
+				scripted = yes
+			}
+
+			guiButtonType = {#经济强化按钮
+				name = "EDG_IR1_strengthen_button_2"
+				position = { x = 333 y = 130 }
+				scripted = yes
+				spriteType = "button_type_9"
+				buttonText = "EDG_IR1_strengthen_button_2"
+				buttonFont = "vic_23s"
+			}
+
+			iconType = {#经济强化进度0
+				name = "EDG_IR1_strengthen_power_bg_B0"
+				spriteType = "GFX_EDG_IR1_strengthen_power_bg"
+				position = { x= 330 y = 90 }
+				scripted = yes
+			}
+
+			iconType = {#经济强化进度1
+				name = "EDG_IR1_strengthen_power_bg_B1"
+				spriteType = "GFX_EDG_IR1_strengthen_power_bg_1"
+				position = { x= 330 y = 90 }
+				scripted = yes
+			}
+
+			iconType = {#经济强化进度2
+				name = "EDG_IR1_strengthen_power_bg_B2"
+				spriteType = "GFX_EDG_IR1_strengthen_power_bg_2"
+				position = { x= 330 y = 90 }
+				scripted = yes
+			}
+
+			iconType = {#经济强化进度3
+				name = "EDG_IR1_strengthen_power_bg_B3"
+				spriteType = "GFX_EDG_IR1_strengthen_power_bg_3"
+				position = { x= 330 y = 90 }
+				scripted = yes
+			}
+
+			guiButtonType = {#军事强化按钮
+				name = "EDG_IR1_strengthen_button_3"
+				position = { x = 333 y = 220 }
+				scripted = yes
+				spriteType = "button_type_9"
+				buttonText = "EDG_IR1_strengthen_button_3"
+				buttonFont = "vic_23s"
+			}
+
+			iconType = {#军事强化进度0
+				name = "EDG_IR1_strengthen_power_bg_C0"
+				spriteType = "GFX_EDG_IR1_strengthen_power_bg"
+				position = { x= 330 y = 180 }
+				scripted = yes
+			}
+
+			iconType = {#军事强化进度1
+				name = "EDG_IR1_strengthen_power_bg_C1"
+				spriteType = "GFX_EDG_IR1_strengthen_power_bg_1"
+				position = { x= 330 y = 180 }
+				scripted = yes
+			}
+
+			iconType = {#军事强化进度2
+				name = "EDG_IR1_strengthen_power_bg_C2"
+				spriteType = "GFX_EDG_IR1_strengthen_power_bg_2"
+				position = { x= 330 y = 180 }
+				scripted = yes
+			}
+
+			iconType = {#军事强化进度3
+				name = "EDG_IR1_strengthen_power_bg_C3"
+				spriteType = "GFX_EDG_IR1_strengthen_power_bg_3"
+				position = { x= 330 y = 180 }
+				scripted = yes
+			}
+		#
+		}
+	#
+	#改革窗口
+		windowType = {
+			name = "EDG_IR1_reform_select_window"
+			backGround=""
+			position = { x= -60 y= 80 }	
+			size = { x=929 y=645 }
+			moveable = 0
+			dontRender = ""
+			horizontalBorder= ""
+			verticalBorder= ""
+			downsound = ""
+			fullscreen=no
+			Orientation = "CENTER"
+			scripted = yes
+		#改革前
+			guiButtonType = {#改革1
+				name = "EDG_IR1_reform_select_1"
+				position = { x = 0 y = 5 }
+				scripted = yes
+				spriteType = "GFX_reform_button"
+				buttonText = "EDG_IR1_reform_select_1_tt"
+				Orientation = "UPPER_LEFT"
+				buttonFont = "vic_18"
+				clicksound = click
+            	borderSize = {x = 7 y = 4}
+            	format = left
+            	scale = 1
+			}
+			guiButtonType = {#改革2
+				name = "EDG_IR1_reform_select_2"
+				position = { x = 0 y = 45 }
+				scripted = yes
+				spriteType = "GFX_reform_button"
+				buttonText = "EDG_IR1_reform_select_2_tt"
+				bOrientation = "UPPER_LEFT"
+				buttonFont = "vic_18"
+				clicksound = click
+            	borderSize = {x = 7 y = 4}
+            	format = left
+            	scale = 1
+			}
+			guiButtonType = {#改革3
+				name = "EDG_IR1_reform_select_3"
+				position = { x = 0 y = 85 }
+				scripted = yes
+				spriteType = "GFX_reform_button"
+				buttonText = "EDG_IR1_reform_select_3_tt"
+				Orientation = "UPPER_LEFT"
+				buttonFont = "vic_18"
+				clicksound = click
+            	borderSize = {x = 7 y = 4}
+            	format = left
+            	scale = 1
+			}
+			guiButtonType = {#改革4
+				name = "EDG_IR1_reform_select_4"
+				position = { x = 0 y = 125 }
+				scripted = yes
+				spriteType = "GFX_reform_button"
+				buttonText = "EDG_IR1_reform_select_4_tt"
+				Orientation = "UPPER_LEFT"
+				buttonFont = "vic_18"
+				clicksound = click
+            	borderSize = {x = 7 y = 4}
+            	format = left
+            	scale = 1
+			}
+			guiButtonType = {#改革5
+				name = "EDG_IR1_reform_select_5"
+				position = { x = 0 y = 165 }
+				scripted = yes
+				spriteType = "GFX_reform_button"
+				buttonText = "EDG_IR1_reform_select_5_tt"
+				Orientation = "UPPER_LEFT"
+				buttonFont = "vic_18"
+				clicksound = click
+            	borderSize = {x = 7 y = 4}
+            	format = left
+            	scale = 1
+			}
+			guiButtonType = {#改革6
+				name = "EDG_IR1_reform_select_6"
+				position = { x = 0 y = 205 }
+				scripted = yes
+				spriteType = "GFX_reform_button"
+				buttonText = "EDG_IR1_reform_select_6_tt"
+				Orientation = "UPPER_LEFT"
+				buttonFont = "vic_18"
+				clicksound = click
+            	borderSize = {x = 7 y = 4}
+            	format = left
+            	scale = 1
+			}
+
+			guiButtonType = {#改革7
+				name = "EDG_IR1_reform_select_7"
+				position = { x = 210 y = 5 }
+				scripted = yes
+				spriteType = "GFX_reform_button"
+				buttonText = "EDG_IR1_reform_select_7_tt"
+				Orientation = "UPPER_LEFT"
+				buttonFont = "vic_18"
+				clicksound = click
+            	borderSize = {x = 7 y = 4}
+            	format = left
+            	scale = 1
+			}
+			guiButtonType = {#改革8
+				name = "EDG_IR1_reform_select_8"
+				position = { x = 210 y = 45 }
+				scripted = yes
+				spriteType = "GFX_reform_button"
+				buttonText = "EDG_IR1_reform_select_8_tt"
+				Orientation = "UPPER_LEFT"
+				buttonFont = "vic_18"
+				clicksound = click
+            	borderSize = {x = 7 y = 4}
+            	format = left
+            	scale = 1
+			}
+			guiButtonType = {#改革9
+				name = "EDG_IR1_reform_select_9"
+				position = { x = 210 y = 85 }
+				scripted = yes
+				spriteType = "GFX_reform_button"
+				buttonText = "EDG_IR1_reform_select_9_tt"
+				Orientation = "UPPER_LEFT"
+				buttonFont = "vic_18"
+				clicksound = click
+            	borderSize = {x = 7 y = 4}
+            	format = left
+            	scale = 1
+			}
+			guiButtonType = {#改革10
+				name = "EDG_IR1_reform_select_10"
+				position = { x = 210 y = 125 }
+				scripted = yes
+				spriteType = "GFX_reform_button"
+				buttonText = "EDG_IR1_reform_select_10_tt"
+				Orientation = "UPPER_LEFT"
+				buttonFont = "vic_18"
+				clicksound = click
+            	borderSize = {x = 7 y = 4}
+            	format = left
+            	scale = 1
+			}
+			guiButtonType = {#改革11
+				name = "EDG_IR1_reform_select_11"
+				position = { x = 210 y = 165 }
+				scripted = yes
+				spriteType = "GFX_reform_button"
+				buttonText = "EDG_IR1_reform_select_11_tt"
+				buttonFont = "vic_18"
+				Orientation = "UPPER_LEFT"
+           		clicksound = click
+            	borderSize = {x = 7 y = 4}
+            	format = left
+            	scale = 1
+            	scripted = yes
+			}
+			guiButtonType = {#改革12
+				name = "EDG_IR1_reform_select_12"
+				position = { x = 210 y = 205 }
+				scripted = yes
+				spriteType = "GFX_reform_button"
+				buttonText = "EDG_IR1_reform_select_12_tt"
+				Orientation = "UPPER_LEFT"
+				buttonFont = "vic_18"
+				clicksound = click
+            	borderSize = {x = 7 y = 4}
+            	format = left
+            	scale = 1
+			}
+		#
+		#改革后
+			guiButtonType = {#改革1
+				name = "EDG_IR1_reform_select_1_r"
+				position = { x = 0 y = 5 }
+				scripted = yes
+				spriteType = "GFX_reform_button"
+				buttonText = "EDG_IR1_reform_select_1_ttt"
+				Orientation = "UPPER_LEFT"
+				buttonFont = "vic_18"
+				clicksound = click
+            	borderSize = {x = 7 y = 4}
+            	format = left
+            	scale = 1
+			}
+			guiButtonType = {#改革2
+				name = "EDG_IR1_reform_select_2_r"
+				position = { x = 0 y = 45 }
+				scripted = yes
+				spriteType = "GFX_reform_button"
+				buttonText = "EDG_IR1_reform_select_2_ttt"
+				bOrientation = "UPPER_LEFT"
+				buttonFont = "vic_18"
+				clicksound = click
+            	borderSize = {x = 7 y = 4}
+            	format = left
+            	scale = 1
+			}
+			guiButtonType = {#改革3
+				name = "EDG_IR1_reform_select_3_r"
+				position = { x = 0 y = 85 }
+				scripted = yes
+				spriteType = "GFX_reform_button"
+				buttonText = "EDG_IR1_reform_select_3_ttt"
+				Orientation = "UPPER_LEFT"
+				buttonFont = "vic_18"
+				clicksound = click
+            	borderSize = {x = 7 y = 4}
+            	format = left
+            	scale = 1
+			}
+			guiButtonType = {#改革4
+				name = "EDG_IR1_reform_select_4_r"
+				position = { x = 0 y = 125 }
+				scripted = yes
+				spriteType = "GFX_reform_button"
+				buttonText = "EDG_IR1_reform_select_4_ttt"
+				Orientation = "UPPER_LEFT"
+				buttonFont = "vic_18"
+				clicksound = click
+            	borderSize = {x = 7 y = 4}
+            	format = left
+            	scale = 1
+			}
+			guiButtonType = {#改革5
+				name = "EDG_IR1_reform_select_5_r"
+				position = { x = 0 y = 165 }
+				scripted = yes
+				spriteType = "GFX_reform_button"
+				buttonText = "EDG_IR1_reform_select_5_ttt"
+				Orientation = "UPPER_LEFT"
+				buttonFont = "vic_18"
+				clicksound = click
+            	borderSize = {x = 7 y = 4}
+            	format = left
+            	scale = 1
+			}
+			guiButtonType = {#改革6
+				name = "EDG_IR1_reform_select_6_r"
+				position = { x = 0 y = 205 }
+				scripted = yes
+				spriteType = "GFX_reform_button"
+				buttonText = "EDG_IR1_reform_select_6_ttt"
+				Orientation = "UPPER_LEFT"
+				buttonFont = "vic_18"
+				clicksound = click
+            	borderSize = {x = 7 y = 4}
+            	format = left
+            	scale = 1
+			}
+
+			guiButtonType = {#改革7
+				name = "EDG_IR1_reform_select_7_r"
+				position = { x = 210 y = 5 }
+				scripted = yes
+				spriteType = "GFX_reform_button"
+				buttonText = "EDG_IR1_reform_select_7_ttt"
+				Orientation = "UPPER_LEFT"
+				buttonFont = "vic_18"
+				clicksound = click
+            	borderSize = {x = 7 y = 4}
+            	format = left
+            	scale = 1
+			}
+			guiButtonType = {#改革8
+				name = "EDG_IR1_reform_select_8_r"
+				position = { x = 210 y = 45 }
+				scripted = yes
+				spriteType = "GFX_reform_button"
+				buttonText = "EDG_IR1_reform_select_8_ttt"
+				Orientation = "UPPER_LEFT"
+				buttonFont = "vic_18"
+				clicksound = click
+            	borderSize = {x = 7 y = 4}
+            	format = left
+            	scale = 1
+			}
+			guiButtonType = {#改革9
+				name = "EDG_IR1_reform_select_9_r"
+				position = { x = 210 y = 85 }
+				scripted = yes
+				spriteType = "GFX_reform_button"
+				buttonText = "EDG_IR1_reform_select_9_ttt"
+				Orientation = "UPPER_LEFT"
+				buttonFont = "vic_18"
+				clicksound = click
+            	borderSize = {x = 7 y = 4}
+            	format = left
+            	scale = 1
+			}
+			guiButtonType = {#改革10
+				name = "EDG_IR1_reform_select_10_r"
+				position = { x = 210 y = 125 }
+				scripted = yes
+				spriteType = "GFX_reform_button"
+				buttonText = "EDG_IR1_reform_select_10_ttt"
+				Orientation = "UPPER_LEFT"
+				buttonFont = "vic_18"
+				clicksound = click
+            	borderSize = {x = 7 y = 4}
+            	format = left
+            	scale = 1
+			}
+			guiButtonType = {#改革11
+				name = "EDG_IR1_reform_select_11_r"
+				position = { x = 210 y = 165 }
+				scripted = yes
+				spriteType = "GFX_reform_button"
+				buttonText = "EDG_IR1_reform_select_11_ttt"
+				buttonFont = "vic_18"
+				Orientation = "UPPER_LEFT"
+           		clicksound = click
+            	borderSize = {x = 7 y = 4}
+            	format = left
+            	scale = 1
+            	scripted = yes
+			}
+			guiButtonType = {#改革12
+				name = "EDG_IR1_reform_select_12_r"
+				position = { x = 210 y = 205 }
+				scripted = yes
+				spriteType = "GFX_reform_button"
+				buttonText = "EDG_IR1_reform_select_12_ttt"
+				Orientation = "UPPER_LEFT"
+				buttonFont = "vic_18"
+				clicksound = click
+            	borderSize = {x = 7 y = 4}
+            	format = left
+            	scale = 1
+			}
+		#
+		}
+			
+	}
+	
+#结束
+	############### Power mechanics for a country ################
+
+
+
+
+		iconType =
+		{
+			name ="icon_corruption"
+			spriteType = "GFX_icon_corruption_small"
+			position = { x= 458 y = 11 }
+			Orientation = "UPPER_LEFT"
+		}
+		instantTextBoxType = {
+			name = "text_corruption"
+			position = { x = 463 y = 13 }
+			textureFile = ""
+			font = "vic_18"
+			borderSize = {x = 4 y = 4}
+			text = ""
+			maxWidth = 46
+			maxHeight = 32
+			format = right
+		}
+
+		instantTextBoxType = {
+			name = "text_ADM"
+			position = { x = 520 y = 52 }
+			textureFile = ""
+			font = "vic_18"
+			borderSize = {x = 4 y = 4}
+			text = "5"
+			maxWidth = 36
+			maxHeight = 32
+			format = left
+		}
+		iconType = {
+			name ="icon_ADM"
+			spriteType = "GFX_icon_powers_administrative"
+			position = { x= 498 y = 49 }
+			Orientation = "UPPER_LEFT"
+			hint_tag = "hint_adm"
+		}
+
+
+		instantTextBoxType = {
+			name = "text_DIP"
+			position = { x = 581 y = 52 }
+			textureFile = ""
+			font = "vic_18"
+			borderSize = {x = 4 y = 4}
+			text = "5"
+			maxWidth = 36
+			maxHeight = 32
+			format = left
+		}
+		iconType = {
+			name ="icon_DIP"
+			spriteType = "GFX_icon_powers_diplomatic"
+			position = { x= 558 y = 49 }
+			Orientation = "UPPER_LEFT"
+			hint_tag = "hint_dip"
+		}
+
+		instantTextBoxType = {
+			name = "text_MIL"
+			position = { x = 639 y = 52 }
+			textureFile = ""
+			font = "vic_18"
+			borderSize = {x = 4 y = 4}
+			text = "5"
+			maxWidth = 36
+			maxHeight = 32
+			format = left
+		}
+		iconType = {
+			name = "icon_MIL"
+			spriteType ="GFX_icon_powers_military"
+			position = { x= 616 y = 49 }
+			Orientation = "UPPER_LEFT"
+			hint_tag = "hint_mil"
+		}
+
+		iconType = {
+			name = "button_base"
+			spriteType ="GFX_age_frame_addon"
+			position = { x= 690 y = 30 }
+			alwaystransparent = yes
+		}
+
+		guiButtonType = {
+			name = "current_age_button"
+			position = { x = 722 y = 32 }
+			quadTextureSprite ="GFX_age_button"
+			clicksound = macro_build
+			shortcut = "Shift+A"
+		}
+
+		guiButtonType = {
+			name = "age_icon"
+			spriteType ="GFX_icon_age_s"
+			position = { x= 705 y = 47 }
+			frame = 1
+		}
+
+		instantTextBoxType = {
+			name = "age_title"
+			position = { x = 740 y = 52 }
+			textureFile = ""
+			font = "vic_18"
+			borderSize = {x = 4 y = 4}
+			text = "AgeText"
+			maxWidth = 160
+			maxHeight = 32
+			format = left
+			alwaystransparent = yes
+		}
+
+
+
+
+
+
+	#################################################
+
+
+
+		instantTextBoxType = {
+			name = "PlayerNationText"
+			position = { x = 151 y = 50 }
+			textureFile = ""
+			font = "vic_22"
+			borderSize = {x = 4 y = 4}
+			text = ""
+			maxWidth = 340
+			maxHeight = 32
+			fixedsize = yes
+		}
+
+
+	############### DATE PANEL ###################
+
+
+
+
+
+		windowType = {
+			name = "pause_window"
+			backGround=""
+			position = { x=-203 y= 100 }
+			size = { x=406 y=70 }
+			dontRender = ""
+			horizontalBorder= ""
+			verticalBorder= ""
+			fullScreen = no
+			moveable = 0
+			Orientation = "CENTER_UP"
+
+			iconType ={
+				name ="pause_banner"
+				spriteType = "GFX_pause_banner"
+				position = { x = 0 y = -15 }
+				Orientation = "UPPER_LEFT"
+			}
+
+			#Needs localisation change
+			instantTextBoxType = {
+				name = "pause_banner_text"
+				position = { x = 140 y = 9 }
+				textureFile = ""
+				font = "vic_22"
+				borderSize = {x = 4 y = 4}
+				text = "CORE_PAUSED"
+				maxWidth = 120
+				maxHeight = 32
+				format = center
+			}
+		}
+	} ### end of "topbar"
+
+	windowType = {
+		name = "alerts_parent"
+		backGround=""
+		position = { x=0 y=-1 }
+		size = { x=2048 y=100 }
+		moveable = 0
+		dontRender = ""
+		horizontalBorder= ""
+		verticalBorder= ""
+		fullScreen = yes
+
+		show_position = { x = 0 y = -1 }
+		hide_position = { x = 0 y = -165 }
+		animation_type = "decelerated"
+		animation_time = 600
+	}
+
+	windowType = {
+		name = "hotkey_assign_parent"
+		backGround=""
+		position = { x=-202 y=-38 }
+		size = { x=404 y=76 }
+		moveable = 0
+		dontRender = ""
+		horizontalBorder= ""
+		verticalBorder= ""
+		orientation = "CENTER"
+
+		iconType = {
+			name ="assign_hotkey_pick_button_hint"
+			spriteType = "GFX_nation_designer_hint_bg"
+			position = { x= 0 y = 0 }
+		}
+		instantTextBoxType = {
+			name = "assign_hotkey_pick_button_hint_text"
+			position = { x = 40 y = 27 }
+			font = "vic_22"
+			text = "PICK_HOTKEY_BUTTON_HINT"
+			maxWidth = 320
+			maxHeight = 60
+			format = centre
+		}
+	}
+}

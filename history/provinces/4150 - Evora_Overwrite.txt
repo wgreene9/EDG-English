@@ -1,1 +1,1 @@
-capital = "vora"
+capital = "Évora"

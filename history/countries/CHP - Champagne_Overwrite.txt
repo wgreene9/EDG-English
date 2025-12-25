@@ -1,15 +1,10 @@
 1444.1.1 = {
   monarch = {
-    name = "克洛维 VI" 
-    dynasty = "加洛林" 
+    name = "Clovis VI" 
+    dynasty = "Carolingian" 
     birth_date = 1429.2.22
     adm = 5
     dip = 4
     mil = 6
   }
 }
-1515.1.1 = { government = monarchy
-add_government_reform = autocracy_reform }
-1589.8.3 = { set_legacy_government = administrative_monarchy }
-1661.3.9 = { government = monarchy
-add_government_reform = autocracy_reform }

@@ -1,7 +1,7 @@
 1444.1.1 = {
 	monarch = {
-		name = "古斯塔夫 II"
-		dynasty = "冯 埃尔法"
+		name = "Gustav II"
+		dynasty = "von Elfa" # 冯 埃尔法
 		birth_date = 1401.1.1
 		dip = 3
 		adm = 2

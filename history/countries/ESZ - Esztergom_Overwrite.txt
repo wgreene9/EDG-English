@@ -1,14 +1,10 @@
-change_estate_land_share = {
-  estate = estate_church
-  share = -5
-}
 unlock_estate_privilege = {
   estate_privilege = estate_burghers_orthodox_tolerance
 }
 1444.3.31 = {
   monarch = {
-    name = "奥拓 II"
-    dynasty = "冯 维特尔斯巴赫"
+    name = "Otto II"
+    dynasty = "von Wittelsbach"
     birth_date = 1404.2.14
     adm = 3
     dip = 2

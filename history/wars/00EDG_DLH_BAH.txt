@@ -1,4 +1,4 @@
-name = "巴赫曼尼叛乱"
+name = "Bahmani Rebellion"
 war_goal = {
   type = defend_capital_independence
   casus_belli = cb_independence_war

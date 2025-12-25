@@ -1,7 +1,7 @@
 1361.1.1 = {
   monarch = {
-    name = "皮埃尔 II"  # Pierre II
-    dynasty = "德 阿朗松"  # de Valois
+    name = "Pierre II"  # Pierre II
+    dynasty = "d'Alen�on"  # de Valois
     adm = 1
     dip = 0
     mil = 0
@@ -9,8 +9,8 @@
 }
 1404.1.1 = {
   monarch = {
-    name = "约翰 I"  # Jean I
-    dynasty = "德 阿朗松"  # de Valois
+    name = "Jean I"  # Jean I
+    dynasty = "d'Alen�on"  # de Valois
     adm = 0
     dip = 1
     mil = 2
@@ -18,8 +18,8 @@
 }
 1414.1.1 = {
   monarch = {
-    name = "约翰 II"  # Jean II
-    dynasty = "德 阿朗松"  # de Valois
+    name = "Jean II"  # Jean II
+    dynasty = "d'Alen�on"  # de Valois
     adm = 0
     mil = 2
     dip = 4
@@ -27,8 +27,8 @@
 }
 1478.1.1 = {
   monarch = {
-    name = "勒内"  # René
-    dynasty = "德 阿朗松"  # de Valois
+    name = "Ren�"  # Ren�
+    dynasty = "d'Alen�on"  # de Valois
     adm = 1
     mil = 1
     dip = 3
@@ -36,8 +36,8 @@
 }
 1492.1.1 = {
   monarch = {
-    name = "查理 IV"  # Charles IV
-    dynasty = "德 阿朗松"  # de Valois
+    name = "Charles IV"  # Charles IV
+    dynasty = "d'Alen�on"  # de Valois
     adm = 1
     mil = 2
     dip = 1

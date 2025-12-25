@@ -1,8 +1,8 @@
 1439.1.1 = {
 	set_country_flag = EDG_HRE_graf_flag
   monarch = {
-    name = "海因里希 V"
-    dynasty = "萨利安"
+    name = "Heinrich V"
+    dynasty = "Salian"
     birth_date = 1380.1.1
     adm = 4
     dip = 3
@@ -11,8 +11,8 @@
 }
 1439.10.27 = {
   heir = {
-    name = "腓特烈 III"  # Friedrich III
-    dynasty = "冯 哈布斯堡"  # von Habsburg
+    name = "Friedrich III"  # Friedrich III
+    dynasty = "von Habsburg"  # von Habsburg
     birth_date = 1415.9.21
 	  death_date = 1457.11.24
     claim = 90

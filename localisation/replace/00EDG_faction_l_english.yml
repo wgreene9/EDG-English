@@ -1,102 +1,100 @@
 ﻿l_english:
-    EDG_Persian_bureaucrat:0 "波斯官僚"
-    EDG_Turkic_Brotherhood:0 "突厥兄弟会"
-    EDG_Turkmen_valve:0 "土库曼勋阀"
-    
-    EDG_Persian_bureaucrat_influence:0 "波斯官僚影响力"
-    EDG_Turkic_Brotherhood_influence:0 "突厥兄弟会影响力"
-    EDG_Turkmen_valve_influence:0 "土库曼勋阀影响力"    
-    
-    EDG_Persian_bureaucrat_FACTION_DESC:0 "波斯官僚在国内是相对先进力量的代表，他们有丰富的行政经验，管理着我们的国家。§Y高稳定度将会提高该派系的影响力§!"
-    EDG_Turkic_Brotherhood_FACTION_DESC:0 "突厥兄弟会是近东地区的商人团体，他们大多由突厥人构成，在商业方面有重大的话语权。§Y高海军传统和过度扩张将会提高该派系的影响力§!"
-    EDG_Turkmen_valve_FACTION_DESC:0 "土库曼勋阀是我们国家的核心力量，他们掌握着军队和大量的土地。§Y处于战争中或拥有高陆军传统将会提高该派系的影响力§!"
-   
-    
-    
-    EDG_safavid_valve:0 "奇兹尔巴什"
-    EDG_safavid_valve_influence:0 "奇兹尔巴什影响力"    
-    EDG_safavid_valve_FACTION_DESC:0 "奇兹尔巴什，即红头军，是组成萨法维教团的精锐部队，他们著名的深红色头带表明他们忠于十二伊玛目。§Y处于战争中或拥有高陆军传统将会提高该派系的影响力§!"
-    
-    #阿尔勒
-    EDG_AEL_MIL_faction:0 "阿尔比-富瓦派"
-    EDG_AEL_DIP_faction:0 "热赫那家族"
-    EDG_AEL_ADM_faction:0 "圣西尔会"
-    
-    EDG_AEL_MIL_faction_influence:0 "阿尔比-富瓦派影响力"
-    EDG_AEL_DIP_faction_influence:0 "热赫那家族影响力"
-    EDG_AEL_ADM_faction_influence:0 "圣西尔会影响力"
-    
-    EDG_AEL_MIL_faction_FACTION_DESC:0 "阿尔比-富瓦派由统治阿尔比伯爵领的德·旺塔多恩家族和德·富瓦家族领导，该派系以贵族为主，主张对外扩张，在宫廷内拥有巨大的影响力。§Y处于战争中或拥有高陆军传统将会提高该派系的影响力§!"
-    EDG_AEL_DIP_faction_FACTION_DESC:0 "热赫那家族是图卢兹的老牌豪门，其先祖靠贩卖橄榄油和染料起家，凭借着历代阿尔勒国王的支持，到1440年前后，热赫那家族的商业网络已经遍及整个南法并辐射到加泰罗尼亚和皮埃蒙特地区。§Y高海军传统和过度扩张将会提高该派系的影响力§!"
-    EDG_AEL_ADM_faction_FACTION_DESC:0 "清洁派教宗在1399年遭到废除，此后清洁派教士的最高头衔为“总主教”，常由德·圣西尔家族成员当选，尽管总主教的权力受到极大约束，但历任总主教仍可以在阿尔勒的教会当中安插了自己的不少子侄和门生，拥有不小的影响力。§Y高稳定度将会提高该派系的影响力§!"
-    
-    
-    #斯摩棱斯克
-    EDG_ROS_MIL_faction:0 "基辅派"
-    EDG_ROS_DIP_faction:0 "诺夫哥罗德派"
-    EDG_ROS_ADM_faction:0 "莫斯科派"
-    
-    EDG_ROS_MIL_faction_influence:0 "基辅派影响力"
-    EDG_ROS_DIP_faction_influence:0 "诺夫哥罗德派影响力"
-    EDG_ROS_ADM_faction_influence:0 "莫斯科派影响力"
-    
-    EDG_ROS_MIL_faction_FACTION_DESC:0 "基辅派是罗西亚共和国中最具有革命性的派系，他们代表着广大农民和手工业者的利益，渴望解放同胞，并在军事行动中巩固和扩大自己的利益。§Y处于战争中或拥有高陆军传统将会提高该派系的影响力§!"
-    EDG_ROS_DIP_faction_FACTION_DESC:0 "诺夫哥罗德派代表着国内商贾的利益，他们一般脱离生产，掌握一定的社会资源却缺乏足够的话语权，拥有一定的经济实力却无法转变为政治权力。§Y高海军传统和过度扩张将会提高该派系的影响力§!"
-    EDG_ROS_ADM_faction_FACTION_DESC:0 "莫斯科派是共和国内最保守的派别，广大的官僚构成了莫斯科派的主体，他们主张扩大官僚的特权，并阻碍其他阶层接近权力。§Y高稳定度将会提高该派系的影响力§!"
-    
-    
-    #苏格兰:0 ""
-    EDG_SCO_MIL_faction:0 "布鲁斯派"
-    EDG_SCO_ADM_faction:0 "巴里奥尔派"
-    EDG_SCO_DIP_faction:0 "乌姆弗拉维尔派"
+EDG_Persian_bureaucrat:0 "Persian Bureaucrats"
+EDG_Turkic_Brotherhood:0 "Turkic Brotherhood"
+EDG_Turkmen_valve:0 "Turkmen Nobility"
 
-    EDG_SCO_MIL_faction_influence:0 "布鲁斯派影响力"
-    EDG_SCO_ADM_faction_influence:0 "巴里奥尔派影响力"
-    EDG_SCO_DIP_faction_influence:0 "乌姆弗拉维尔派影响力"
+EDG_Persian_bureaucrat_influence:0 "Persian Bureaucrat Influence"
+EDG_Turkic_Brotherhood_influence:0 "Turkic Brotherhood Influence"
+EDG_Turkmen_valve_influence:0 "Turkmen Nobility Influence"
 
-    EDG_SCO_MIL_faction_FACTION_DESC:0 "布鲁斯家族是罗伯特一世的后代，罗伯特骁勇善战的精神被布鲁斯的后继者所铭记，他们支持对外战争，支持加强君权。§Y布鲁斯王朝的统治者将获得更多影响力。§!"
-    EDG_SCO_ADM_faction_FACTION_DESC:0 "巴里奥尔家族将约翰·巴里奥尔视为开创者，支持立宪主义，相比于对外征战，该家族及其支持者更重视国内的建设。§Y巴里奥尔王朝的统治者将获得更多影响力。"
-    EDG_SCO_DIP_faction_FACTION_DESC:0 "乌姆弗拉维尔家族本是法国贵族，后成为诺森伯兰的统治者，被纳入苏格兰王国，该家族在我国也拥有巨大的影响力，该派系支持保守主义和封建秩序，并重视外交。§Y乌姆弗拉维尔王朝的统治者将获得更多影响力。"
+EDG_Persian_bureaucrat_FACTION_DESC:0 "The Persian bureaucrats represent the relatively advanced forces within our country. They possess rich administrative experience and manage our state. §YHigh stability will increase this faction's influence§!"
+EDG_Turkic_Brotherhood_FACTION_DESC:0 "The Turkic Brotherhood is a merchant association in the Near East, primarily composed of Turkic people, holding significant sway in commercial matters. §YHigh navy tradition and overextension will increase this faction's influence§!"
+EDG_Turkmen_valve_FACTION_DESC:0 "The Turkmen nobility forms the core strength of our nation, controlling the military and vast lands. §YBeing at war or having high army tradition will increase this faction's influence§!"
+
+EDG_safavid_valve:0 "Qizilbash"
+EDG_safavid_valve_influence:0 "Qizilbash Influence"
+EDG_safavid_valve_FACTION_DESC:0 "The Qizilbash, or 'Red Heads', are the elite troops constituting the Safavid order. Their distinctive crimson headgear signifies their loyalty to the Twelve Imams. §YBeing at war or having high army tradition will increase this faction's influence§!"
+    
+#Arles
+EDG_AEL_MIL_faction:0 "Albi-Foix Faction"
+EDG_AEL_DIP_faction:0 "Regnault Family"
+EDG_AEL_ADM_faction:0 "Saint-Cyr Society"
+
+EDG_AEL_MIL_faction_influence:0 "Albi-Foix Faction Influence"
+EDG_AEL_DIP_faction_influence:0 "Regnault Family Influence"
+EDG_AEL_ADM_faction_influence:0 "Saint-Cyr Society Influence"
+
+EDG_AEL_MIL_faction_FACTION_DESC:0 "The Albi-Foix Faction is led by the de Ventadour and de Foix families, who rule the County of Albi. This faction, dominated by nobles, advocates for external expansion and wields significant influence at court. §YBeing at war or having high army tradition will increase this faction's influence§!"
+EDG_AEL_DIP_faction_FACTION_DESC:0 "The Regnault Family is an old established aristocratic house of Toulouse. Their ancestors made their fortune trading olive oil and dyes. With the support of successive Kings of Arles, by around 1440 the Regnault family's commercial network had spread throughout Southern France and radiated into Catalonia and Piedmont. §YHigh navy tradition and overextension will increase this faction's influence§!"
+EDG_AEL_ADM_faction_FACTION_DESC:0 "The Cathar Papacy was abolished in 1399. Since then, the highest title for Cathar clergy has been 'Archbishop,' often held by members of the de Saint-Cyr family. Although the Archbishop's power is greatly constrained, successive Archbishops have still managed to place many of their nephews, sons, and disciples within the Arlesian church, wielding considerable influence. §YHigh stability will increase this faction's influence§!"
+    
+    
+#Smolensk
+EDG_ROS_MIL_faction:0 "Kiev Faction"
+EDG_ROS_DIP_faction:0 "Novgorod Faction"
+EDG_ROS_ADM_faction:0 "Moscow Faction"
+
+EDG_ROS_MIL_faction_influence:0 "Kiev Faction Influence"
+EDG_ROS_DIP_faction_influence:0 "Novgorod Faction Influence"
+EDG_ROS_ADM_faction_influence:0 "Moscow Faction Influence"
+
+EDG_ROS_MIL_faction_FACTION_DESC:0 "The Kiev Faction is the most revolutionary faction within the Russian Republic. They represent the interests of the broad peasantry and artisans,渴望liberating their compatriots and consolidating and expanding their own interests through military action. §YBeing at war or having high army tradition will increase this faction's influence§!"
+EDG_ROS_DIP_faction_FACTION_DESC:0 "The Novgorod Faction represents the interests of the merchant class within the country. They are generally detached from production, possess certain social resources but lack sufficient voice, and have economic power that cannot be translated into political power. §YHigh navy tradition and overextension will increase this faction's influence§!"
+EDG_ROS_ADM_faction_FACTION_DESC:0 "The Moscow Faction is the most conservative faction within the Republic. The vast bureaucracy forms the core of the Moscow Faction. They advocate for expanding bureaucratic privileges and hindering other social strata from accessing power. §YHigh stability will increase this faction's influence§!"
+    
+    
+#Scotland:0 ""
+EDG_SCO_MIL_faction:0 "Bruce Faction"
+EDG_SCO_ADM_faction:0 "Balliol Faction"
+EDG_SCO_DIP_faction:0 "Umfraville Faction"
+
+EDG_SCO_MIL_faction_influence:0 "Bruce Faction Influence"
+EDG_SCO_ADM_faction_influence:0 "Balliol Faction Influence"
+EDG_SCO_DIP_faction_influence:0 "Umfraville Faction Influence"
+
+EDG_SCO_MIL_faction_FACTION_DESC:0 "The Bruce family are descendants of Robert I. The martial and valiant spirit of Robert the Bruce is remembered by his successors. They support foreign wars and the strengthening of royal authority. §YRulers from the Bruce dynasty will gain more influence.§!"
+EDG_SCO_ADM_faction_FACTION_DESC:0 "The Balliol family regard John Balliol as their founder. They support constitutionalism and, compared to foreign conquests, this family and its supporters place greater emphasis on domestic development. §YRulers from the Balliol dynasty will gain more influence.§!"
+EDG_SCO_DIP_faction_FACTION_DESC:0 "The Umfraville family were originally French nobles who later became rulers of Northumbria and were incorporated into the Kingdom of Scotland. This family also holds significant influence within our nation. The faction supports conservatism and feudal order, and values diplomacy. §YRulers from the Umfraville dynasty will gain more influence.§!"
     
 
-#穆瓦希德
-EDG_MRK_ADM_faction:0 "札纳塔部族"
-EDG_MRK_DIP_faction:0 "马斯穆达部族"
-EDG_MRK_MIL_faction:0 "桑哈贾部族"
+#Almohad
+EDG_MRK_ADM_faction:0 "Zenata Tribe"
+EDG_MRK_DIP_faction:0 "Masmuda Tribe"
+EDG_MRK_MIL_faction:0 "Sanhaja Tribe"
 
-EDG_MRK_ADM_faction_influence:0 "札纳塔部族影响力"
-EDG_MRK_DIP_faction_influence:0 "马斯穆达部族影响力"
-EDG_MRK_MIL_faction_influence:0 "桑哈贾部族影响力"
+EDG_MRK_ADM_faction_influence:0 "Zenata Tribe Influence"
+EDG_MRK_DIP_faction_influence:0 "Masmuda Tribe Influence"
+EDG_MRK_MIL_faction_influence:0 "Sanhaja Tribe Influence"
 
-EDG_MRK_ADM_faction_FACTION_DESC:0 "札纳塔部族是马格里布最大的部族之一，其中的马林王朝曾一度反抗穆瓦希德的统治并建立了非斯苏丹国，他们建立了完善的官僚体系和成熟的教育制度，在政治和神学领域具有很高的影响力。"
-EDG_MRK_DIP_faction_FACTION_DESC:0 "马斯穆达部族是穆瓦希德王朝所起源的部族，是马格里布最大的柏柏尔部族之一，在阿尔摩哈德之国中享有最重要的地位，他们狂热地号召圣战，渴望宣扬马赫迪的权威。"
-EDG_MRK_MIL_faction_FACTION_DESC:0 "泽纳加人被认为起源于古达拉，他们是柏柏尔三大部族中数量最少、游牧化程度最高的部族，他们最大限度地保留了柏柏尔沙漠之狼的勇气和力量。"
-
-
-#立陶宛
-EDG_LIT_ADM_faction:0 "格季米纳斯派"
-EDG_LIT_DIP_faction:0 "拉齐维乌加派"
-EDG_LIT_MIL_faction:0 "雅盖隆派"
-
-EDG_LIT_ADM_faction_influence:0 "格季米纳斯派影响力"
-EDG_LIT_DIP_faction_influence:0 "拉齐维乌加派影响力"
-EDG_LIT_MIL_faction_influence:0 "雅盖隆派影响力"
-
-EDG_LIT_ADM_faction_FACTION_DESC:0 "在过去的历史中，格季米纳斯家族长期握有立陶宛王位，致力于深耕立陶宛本土，他们认为在这种地瘠人稀的王国中，耕种好自己的土地比消耗人口去占领荒地更有价值。\n§Y若我们处于高稳定度和和平之中，该派系的影响力将会增长。§!"
-EDG_LIT_DIP_faction_FACTION_DESC:0 "拉齐维乌家族则有不同的考量，他们以在德意志和波兰宫廷中游刃有余为自己的立身之本，甚至被雅盖隆家族称为「日耳曼人和波兰人」。他们一直主张吸引他国农民来立陶宛荒原开垦。\n§Y若我们拥有高外交声誉，该派系的影响力将会增长。§!"
-EDG_LIT_MIL_faction_FACTION_DESC:0 "雅盖隆家族虽然对此观念上不以为然，但他们承认来自帝国和罗斯的移民不仅有利于立陶宛国库，还实现了相互制衡。在波兰王国因长期内耗和桑多梅日胡斯派异端冲击而土崩瓦解之际，正是雅盖隆家族率军收复了沦陷于波兰人之手多年的南方故地。\n§Y若我们拥有高陆军传统或处于战争之中，该派系的影响力将会增长。§!"
+EDG_MRK_ADM_faction_FACTION_DESC:0 "The Zenata Tribe is one of the largest tribes in the Maghreb. The Marinid dynasty, which originated from them, once resisted Almohad rule and established the Sultanate of Fez. They developed a comprehensive bureaucratic system and a mature educational institution, holding significant influence in the fields of politics and theology."
+EDG_MRK_DIP_faction_FACTION_DESC:0 "The Masmuda Tribe is the tribe from which the Almohad dynasty originated and is one of the largest Berber tribes in the Maghreb. They hold the most prestigious position within the Almohad realm, fanatically calling for jihad and eager to proclaim the Mahdi's authority."
+EDG_MRK_MIL_faction_FACTION_DESC:0 "The Zenaga people are believed to have originated in ancient Gadara. They are the smallest and most nomadic of the three major Berber tribes, having preserved to the greatest extent the courage and strength of the Berber desert wolves."
 
 
-#萨哈达
-EDG_FYM_ADM_faction:0 "马利克派"
-EDG_FYM_DIP_faction:0 "谢里夫派"
-EDG_FYM_MIL_faction:0 "拉希德派"
+#Lithuania
+EDG_LIT_ADM_faction:0 "Gediminid Faction"
+EDG_LIT_DIP_faction:0 "Radziwiłł-Jagiellon Faction"
+EDG_LIT_MIL_faction:0 "Jagiellon Faction"
 
-EDG_FYM_ADM_faction_influence:0 "马利克派影响力"
-EDG_FYM_DIP_faction_influence:0 "谢里夫派影响力"
-EDG_FYM_MIL_faction_influence:0 "拉希德派影响力"
+EDG_LIT_ADM_faction_influence:0 "Gediminid Faction Influence"
+EDG_LIT_DIP_faction_influence:0 "Radziwiłł-Jagiellon Faction Influence"
+EDG_LIT_MIL_faction_influence:0 "Jagiellon Faction Influence"
 
-EDG_FYM_ADM_faction_FACTION_DESC:0 "「马利克」是埃及对于「国王」和「所有者」的称呼，是埃及统治者传统的头衔。在萨哈达王朝入主埃及后，我们受到埃及人的深刻影响，最终采取了大马利克作为我们的头衔，而埃及的传统权贵和官僚也被称为「马利克派」。\n§Y若我们处于高稳定度和和平之中，该派系的影响力将会增长。§!"
-EDG_FYM_DIP_faction_FACTION_DESC:0 "「谢里夫」义同「圣裔」，是穆斯林对伊斯兰教先知穆罕默德的外孙、阿里的长子哈桑及其后裔的尊称。我们的统治者也是「谢里夫」，这为我们在伊斯兰世界提供了莫大的影响力，尊崇我们圣裔身份的宗教人士被称为「谢里夫派」。\n§Y若我们拥有高正统容忍度，该派系的影响力将会增长。§!"
-EDG_FYM_MIL_faction_FACTION_DESC:0 "「拉希德派」是对也门贵族的称呼。由于萨哈达王朝崛起于也门，王朝对也门的埃米尔们产生了莫大的军事依赖，他们是我们国家军事的支柱。\n§Y若我们拥有高陆军传统或处于战争之中，该派系的影响力将会增长。§!"
+EDG_LIT_ADM_faction_FACTION_DESC:0 "Throughout past history, the Gediminid family long held the Lithuanian throne and dedicated themselves to cultivating Lithuania's native lands. They believe that in such a sparsely populated and barren kingdom, cultivating one's own land is more valuable than expending population to conquer wastelands.\n§YIf we are at high stability and at peace, this faction's influence will grow.§!"
+EDG_LIT_DIP_faction_FACTION_DESC:0 "The Radziwiłł family has different considerations. They pride themselves on being adept at maneuvering within the courts of the Germans and Poles, even being called 'Germans and Poles' by the Jagiellons. They consistently advocate attracting farmers from other nations to cultivate the Lithuanian wilderness.\n§YIf we have high diplomatic reputation, this faction's influence will grow.§!"
+EDG_LIT_MIL_faction_FACTION_DESC:0 "Although the Jagiellon family conceptually disapproves, they acknowledge that immigrants from the Empire and Rus' benefit not only the Lithuanian treasury but also achieve mutual checks and balances. It was the Jagiellon family that led the army to recover the southern homelands, which had been lost to the Poles for years, when the Kingdom of Poland collapsed due to prolonged internal strife and the impact of the Sandomierz Hussite heresy.\n§YIf we have high army tradition or are at war, this faction's influence will grow.§!"
+
+
+#Zahid
+EDG_FYM_ADM_faction:0 "Malik Faction"
+EDG_FYM_DIP_faction:0 "Sharif Faction"
+EDG_FYM_MIL_faction:0 "Rashid Faction"
+
+EDG_FYM_ADM_faction_influence:0 "Malik Faction Influence"
+EDG_FYM_DIP_faction_influence:0 "Sharif Faction Influence"
+EDG_FYM_MIL_faction_influence:0 "Rashid Faction Influence"
+
+EDG_FYM_ADM_faction_FACTION_DESC:0 "'Malik' is the Egyptian term for 'King' and 'Owner,' the traditional title of Egyptian rulers. After the Zahid dynasty took control of Egypt, we were profoundly influenced by the Egyptians, eventually adopting the title of Grand Malik. The traditional Egyptian aristocracy and bureaucracy are also referred to as the 'Malik Faction.'\n§YIf we are at high stability and at peace, this faction's influence will grow.§!"
+EDG_FYM_DIP_faction_FACTION_DESC:0 "'Sharif' means 'Descendant of the Prophet,' a title of respect for Muslims referring to Hasan, the grandson of the Islamic Prophet Muhammad and the eldest son of Ali, and his descendants. Our rulers are also 'Sharifs,' which grants us immense influence in the Islamic world. Religious figures who revere our status as descendants of the Prophet are called the 'Sharif Faction.'\n§YIf we have high true faith tolerance, this faction's influence will grow.§!"
+EDG_FYM_MIL_faction_FACTION_DESC:0 "'Rashid Faction' is the term for the Yemeni nobility. Since the Zahid dynasty rose from Yemen, the dynasty relies heavily on the Yemeni emirs militarily; they are the pillar of our nation's military strength.\n§YIf we have high army tradition or are at war, this faction's influence will grow.§!"
 

@@ -1,7 +1,7 @@
 1440.6.24 = {
   monarch = {
-    name = "斯特凡 约翰 乌罗什 III"
-    dynasty = "奈马尼亚" 
+    name = "Stefan John Uro� III"
+    dynasty = "Nemanji?" 
     birth_date = 1377.1.1
     adm = 1
     dip = 2
@@ -10,8 +10,8 @@
 }
 1442.12.18 = {
   heir = {
-    name = "乌罗什"
-    dynasty = "奈马尼亚" 
+    name = "Uro�"
+    dynasty = "Nemanji?" 
     birth_date = 1442.12.18
     claim = 95
     adm = 2

@@ -1,4 +1,4 @@
-name = "梁赞镇压奥卡波格米勒起义"
+name = "Ryazanian Suppression of the Oka-Bogomil Uprising"
 war_goal = {
   type = take_core
   casus_belli = cb_core

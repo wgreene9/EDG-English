@@ -1,1 +1,1 @@
-capital = "Zweibrcken"
+capital = "Zweibrücken"

@@ -1,7 +1,7 @@
 1444.5.31 = {
 	monarch = {
-	  name = "迪德里克 II"
-	  dynasty = "范 赫林贝尔何"  # von Wittelsbach
+	  name = "Diederik II"
+	  dynasty = "van Helinberghe"  # von Wittelsbach
 	  birth_date = 1420.8.16
 	  adm = 4
 	  dip = 3

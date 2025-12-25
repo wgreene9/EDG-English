@@ -34,7 +34,7 @@
 # }
 1444.4.22 = {
 	monarch = {
-		name = "黑羊部族"
+		name = "Qara Qoyunlu Tribal Council" # 黑羊部族 Black Sheep Tribal Council
 		regent = yes
 		adm = 1
 		dip = 1

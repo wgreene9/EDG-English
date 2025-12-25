@@ -1,7 +1,7 @@
 ﻿l_english:
- has_mil_advisor_4_tooltip:0 "有4级军事顾问"
- has_adm_advisor_4_tooltip:0 "有4级行政顾问"
- has_dip_advisor_4_tooltip:0 "有4级外交顾问"
- has_mil_advisor_5_tooltip:0 "有5级军事顾问"
- has_adm_advisor_5_tooltip:0 "有5级行政顾问"
- has_dip_advisor_5_tooltip:0 "有5级外交顾问"
+has_mil_advisor_4_tooltip:0 "Has a level 4 Military Advisor"
+has_adm_advisor_4_tooltip:0 "Has a level 4 Administrative Advisor"
+has_dip_advisor_4_tooltip:0 "Has a level 4 Diplomatic Advisor"
+has_mil_advisor_5_tooltip:0 "Has a level 5 Military Advisor"
+has_adm_advisor_5_tooltip:0 "Has a level 5 Administrative Advisor"
+has_dip_advisor_5_tooltip:0 "Has a level 5 Diplomatic Advisor"

@@ -1,7 +1,7 @@
 1402.11.11 = {
   monarch = {
-    name = "欧文"
-	  dynasty = "格兰道尔"
+    name = "Owain" # 欧文
+	  dynasty = "Glyndwr" # 格兰道尔
     birth_date = 1359.1.1
     death_date = 1442.8.3
     adm = 3
@@ -11,7 +11,7 @@
 }
 1443.12.24 = {
   leader = {
-    name = "奥佛恩 佩恩"  # Archibald Douglas
+    name = "Owfen Payne"  # Archibald Douglas
     type = general
     fire = 2
     shock = 3
@@ -23,8 +23,8 @@
 }
 1444.1.1 = {
   monarch = {
-    name = "阿梅尔"
-    dynasty = "格兰道尔"
+    name = "Ameil"
+    dynasty = "Glyndwr"
     birth_date = 1399.1.1
     death_date = 1460.8.3
     claim = 90

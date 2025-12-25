@@ -1,113 +1,135 @@
 1361.1.1 = {
-  monarch = {
-    name = "阿拉丁 I"  # Alâeddîn I
-    dynasty = "卡拉曼奥卢"  # Karamanoglu
-    birth_date = 1341.1.1
-    adm = 4
-    dip = 1
-    mil = 2
-  }
-  add_piety = 0.1
+	monarch = {
+		name = "Al�edd�n I"
+		dynasty = Karamanoglu
+		birth_date = 1341.1.1
+		adm = 4
+		dip = 1
+		mil = 2
+	}
+	add_piety = 0.1
 }
+
 1399.1.1 = {
-  heir = {
-    name = "赛义夫丁"  # Seyfeddîn
-    monarch_name = "赛义夫丁 苏莱曼"  # Seyfeddîn Süleymân
-    dynasty = "卡拉曼奥卢"  # Karamanoglu
-    birth_date = 1380.1.1
-    death_date = 1416.1.1
-    claim = 95
-    adm = 3
-    dip = 3
-    mil = 0
-  }
+	heir = {
+		name = "Seyfedd�n"
+		monarch_name = "Seyfedd�n S�leym�n"
+		dynasty = "Karamanoglu"
+		birth_date = 1380.1.1
+		death_date = 1416.1.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 0
+	}
 }
+
 1407.1.1 = {
-  monarch = {
-    name = "赛义夫丁 苏莱曼"  # Seyfeddîn Süleymân
-    dynasty = "卡拉曼奥卢"  # Karamanoglu
-    birth_date = 1380.1.1
-    adm = 3
-    dip = 3
-    mil = 0
-  }
+	monarch = {
+		name = "Seyfedd�n S�leym�n"
+		dynasty = Karamanoglu
+		birth_date = 1380.1.1
+		adm = 3
+		dip = 3
+		mil = 0
+	}
 }
+
 1407.1.1 = {
-  heir = {
-    name = "Mehmed"  # Mehmed
-    monarch_name = "穆罕穆德 II"  # Mehmed II
-    dynasty = "卡拉曼奥卢"  # Karamanoglu
-    birth_date = 1390.1.1
-    death_Date = 1419.1.1
-    claim = 95
-    adm = 1
-    dip = 3
-    mil = 1
-  }
+	heir = {
+		name = "Mehmed"
+		monarch_name = "Mehmed II"
+		dynasty = "Karamanoglu"
+		birth_date = 1390.1.1
+		death_Date = 1419.1.1
+		claim = 95
+		adm = 1
+		dip = 3
+		mil = 1
+	}
 }
+
 1416.1.1 = {
-  monarch = {
-    name = "Mehmed II"  # Mehmed II
-    dynasty = "卡拉曼奥卢"  # Karamanoglu
-    birth_date = 1390.1.1
-    adm = 1
-    dip = 3
-    mil = 1
-  }
+	monarch = {
+		name = "Mehmed II"
+		dynasty = Karamanoglu
+		birth_date = 1390.1.1
+		adm = 1
+		dip = 3
+		mil = 1
+	}
 }
+
 1416.1.1 = {
-  heir = {
-    name = "阿拉丁"  # Alâeddîn
-    monarch_name = "阿拉丁 Ali II"  # Alâeddîn Ali II
-    dynasty = "卡拉曼奥卢"  # Karamanoglu
-    birth_date = 1400.1.1
-    death_date = 1424.1.1
-    claim = 95
-    adm = 1
-    dip = 2
-    mil = 2
-  }
+	heir = {
+		name = "Al�edd�n"
+		monarch_name = "Al�edd�n Ali II"
+		dynasty = "Karamanoglu"
+		birth_date = 1400.1.1
+		death_date = 1424.1.1
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 2
+	}
 }
+
 1419.1.1 = {
-  monarch = {
-    name = "阿拉丁 Ali II"  # Alâeddîn Ali II
-    dynasty = "卡拉曼奥卢"  # Karamanoglu
-    birth_date = 1400.1.1
-    adm = 1
-    dip = 2
-    mil = 2
-  }
+	monarch = {
+		name = "Al�edd�n Ali II"
+		dynasty = Karamanoglu
+		birth_date = 1400.1.1
+		adm = 1
+		dip = 2
+		mil = 2
+	}
 }
+
 1419.1.1 = {
-  heir = {
-    name = "易卜拉欣"  # Ibrâhîm
-    monarch_name = "易卜拉欣 II"  # Ibrâhîm II
-    dynasty = "卡拉曼奥卢"  # Karamanoglu
-    birth_date = 1409.1.1
-    death_date = 1464.1.1
-    claim = 95
-    adm = 0
-    dip = 0
-    mil = 1
-  }
+	heir = {
+		name = "Ibr�h�m"
+		monarch_name = "Ibr�h�m II"
+		dynasty = "Karamanoglu"
+		birth_date = 1409.1.1
+		death_date = 1464.1.1
+		claim = 95
+		adm = 0
+		dip = 0
+		mil = 1
+	}
 }
+
 1424.1.1 = {
-  monarch = {
-    name = "易卜拉欣 II"  # Ibrâhîm II
-    dynasty = "卡拉曼奥卢"  # Karamanoglu
-    birth_date = 1409.1.1
-    adm = 0
-    dip = 0
-    mil = 1
-  }
-  clear_scripted_personalities = yes
-  add_ruler_personality = kind_hearted_personality
+	monarch = {
+		name = "Ibr�h�m II"
+		dynasty = Karamanoglu
+		birth_date = 1409.1.1
+		adm = 0
+		dip = 0
+		mil = 1
+	}
+	clear_scripted_personalities = yes
+	add_ruler_personality = kind_hearted_personality
+}
+
+1424.1.1 = {
+	heir = {
+		name = "Sultanz�de"
+		monarch_name = "Sultanz�de Ish�k"
+		dynasty = "Karamanoglu"
+		birth_date = 1424.1.1
+		death_date = 1465.1.1
+		claim = 95
+		adm = 1
+		dip = 0
+		mil = 0
+	}
 }
 1429.1.1 = {
   heir = {
-    name = "阿拉丁 伊沙克"  # Sultanzâde
-    monarch_name = "阿拉丁 伊沙克 III"  # Sultanzâde Ishâk
-    dynasty = "卡拉曼奥卢"  # Karamanoglu
+    name = "Al�edd�n Ish�k"  # Sultanz�de
+    monarch_name = "Al�edd�n Ish�k III"  # Sultanz�de Ish�k
+    dynasty = "Karamanoglu"  # Karamanoglu
     birth_date = 1429.1.1
     death_date = 1465.1.1
     claim = 95

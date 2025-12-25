@@ -1,493 +1,547 @@
 1385.1.1 = {
-  monarch = {
-    name = "Gajanka"
-    dynasty = "艺那"  # Khen
-    ADM = 0
-    DIP = 0
-    MIL = 3
-  }
+	monarch = {
+		name = "Gajanka"
+		dynasty = "Khen"
+		ADM = 0
+		DIP = 0
+		MIL = 3
+	}
 }
+
 1385.1.1 = {
-  heir = {
-    name = "Sukranka"
-    monarch_name = "Sukranka"
-    dynasty = "艺那"  # Khen
-    birth_date = 1385.1.1
-    death_date = 1415.1.1
-    claim = 95
-    ADM = 1
-    DIP = 1
-    MIL = 1
-  }
+	heir = {
+		name = "Sukranka"
+		monarch_name = "Sukranka"
+		dynasty = "Khen"
+		birth_date = 1385.1.1
+		death_date = 1415.1.1
+		claim = 95
+		ADM = 1
+		DIP = 1
+		MIL = 1
+	}
 }
+
 1400.1.1 = {
-  monarch = {
-    name = "Sukranka"
-    dynasty = "艺那"  # Khen
-    ADM = 1
-    DIP = 1
-    MIL = 1
-  }
+	monarch = {
+		name = "Sukranka"
+		dynasty = "Khen"
+		ADM = 1
+		DIP = 1
+		MIL = 1
+	}
 }
+
 1400.1.1 = {
-  heir = {
-    name = "Mriganka"
-    monarch_name = "Mriganka"
-    dynasty = "艺那"  # Khen
-    birth_date = 1400.1.1
-    death_date = 1439.1.1
-    claim = 95
-    ADM = 2
-    DIP = 0
-    MIL = 2
-  }
+	heir = {
+		name = "Mriganka"
+		monarch_name = "Mriganka"
+		dynasty = "Khen"
+		birth_date = 1400.1.1
+		death_date = 1439.1.1
+		claim = 95
+		ADM = 2
+		DIP = 0
+		MIL = 2
+	}
 }
+
 1415.1.1 = {
-  monarch = {
-    name = "Mriganka"
-    dynasty = "艺那"  # Khen
-    ADM = 2
-    DIP = 0
-    MIL = 2
-  }
+	monarch = {
+		name = "Mriganka"
+		dynasty = "Khen"
+		ADM = 2
+		DIP = 0
+		MIL = 2
+	}
 }
+
 1415.1.1 = {
-  heir = {
-    name = "Susenphâ"
-    monarch_name = "Susenphâ"
-    dynasty = "艺那"  # Khen
-    birth_date = 1410.1.1
-    death_date = 1440.1.1
-    claim = 95
-    ADM = 1
-    DIP = 2
-    MIL = 1
-  }
+	heir = {
+		name = "Susenphâ"
+		monarch_name = "Susenphâ"
+		dynasty = "Khen"
+		birth_date = 1410.1.1
+		death_date = 1440.1.1
+		claim = 95
+		ADM = 1
+		DIP = 2
+		MIL = 1
+	}
 }
+
 1439.1.1 = {
-  monarch = {
-    name = "Susenphâ"
-    dynasty = "艺那"  # Khen
-    ADM = 1
-    DIP = 2
-    MIL = 1
-  }
+	monarch = {
+		name = "Susenphâ"
+		dynasty = "Khen"
+		ADM = 1
+		DIP = 2
+		MIL = 1
+	}
 }
+
 1439.1.1 = {
-  heir = {
-    name = "尼罗驮缚若"  # Niladhwaj´
-    monarch_name = "尼罗驮缚若"  # Niladhwaj´
-    dynasty = "艺那"  # Khen
-    birth_date = 1420.1.1
-    death_date = 1460.1.1
-    claim = 95
-    ADM = 2
-    DIP = 1
-    MIL = 2
-  }
+	heir = {
+		name = "Niladhwaj´"
+		monarch_name = "Niladhwaj´"
+		dynasty = "Khen"
+		birth_date = 1420.1.1
+		death_date = 1460.1.1
+		claim = 95
+		ADM = 2
+		DIP = 1
+		MIL = 2
+	}
 }
+
 1440.1.1 = {
-  monarch = {
-    name = "尼罗驮缚若"  # Niladhwaj´
-    dynasty = "艺那"  # Khen
-    ADM = 2
-    DIP = 1
-    MIL = 2
-  }
+	monarch = {
+		name = "Niladhwaj´"
+		dynasty = "Khen"
+		ADM = 2
+		DIP = 1
+		MIL = 2
+	}
 }
+
 1440.1.1 = {
-  heir = {
-    name = "斫迦罗驮缚若"  # Chakradhwaj
-    monarch_name = "斫迦罗驮缚若"  # Chakradhwaj
-    dynasty = "艺那"  # Khen
-    birth_date = 1420.1.1
-    death_date = 1480.1.1
-    claim = 95
-    ADM = 2
-    DIP = 1
-    MIL = 2
-  }
+	heir = {
+		name = "Chakradhwaj"
+		monarch_name = "Chakradhwaj"
+		dynasty = "Khen"
+		birth_date = 1420.1.1
+		death_date = 1480.1.1
+		claim = 95
+		ADM = 2
+		DIP = 1
+		MIL = 2
+	}
 }
+
 1460.1.1 = {
-  monarch = {
-    name = "斫迦罗驮缚若"  # Chakradhwaj
-    dynasty = "艺那"  # Khen
-    ADM = 2
-    DIP = 1
-    MIL = 2
-  }
+	monarch = {
+		name = "Chakradhwaj"
+		dynasty = "Khen"
+		ADM = 2
+		DIP = 1
+		MIL = 2
+	}
 }
+
 1460.1.1 = {
-  heir = {
-    name = "Nilambar"
-    monarch_name = "Nilambar"
-    dynasty = "艺那"  # Khen
-    birth_date = 1440.1.1
-    death_date = 1510.1.1
-    claim = 95
-    ADM = 0
-    DIP = 0
-    MIL = 1
-  }
+	heir = {
+		name = "Nilambar"
+		monarch_name = "Nilambar"
+		dynasty = "Khen"
+		birth_date = 1440.1.1
+		death_date = 1510.1.1
+		claim = 95
+		ADM = 0
+		DIP = 0
+		MIL = 1
+	}
 }
+
 1480.1.1 = {
-  monarch = {
-    name = "Nilambar"
-    dynasty = "艺那"  # Khen
-    ADM = 0
-    DIP = 0
-    MIL = 1
-  }
+	monarch = {
+		name = "Nilambar"
+		dynasty = "Khen"
+		ADM = 0
+		DIP = 0
+		MIL = 1
+	}
 }
+
+#1498 Kooch Dynasty
+
 1510.1.1 = {
-  monarch = {
-    name = "昌达"  # Chandan
-    dynasty = "那罗延"  # Narayan
-    ADM = 3
-    DIP = 3
-    MIL = 5
-  }
+	monarch = {
+		name = "Chandan"
+		dynasty = "Narayan"
+		ADM = 3
+		DIP = 3
+		MIL = 5
+	}
 }
+
 1510.1.1 = {
-  heir = {
-    name = "维娑瓦 辛伽"  # Viswa Singha
-    monarch_name = "维娑瓦 辛伽"  # Viswa Singha
-    dynasty = "那罗延"  # Narayan
-    birth_date = 1501.1.1
-    death_date = 1554.1.1
-    claim = 95
-    ADM = 3
-    DIP = 3
-    MIL = 4
-  }
+	heir = {
+		name = "Viswa Singha"
+		monarch_name = "Viswa Singha"
+		dynasty = "Narayan"
+		birth_date = 1501.1.1
+		death_date = 1554.1.1  #But abdicated before this
+		claim = 95
+		ADM = 3
+		DIP = 3
+		MIL = 4
+	}
 }
+
 1523.1.1 = {
-  monarch = {
-    name = "维娑瓦 辛伽"  # Viswa Singha
-    dynasty = "那罗延"  # Narayan
-    ADM = 3
-    DIP = 3
-    MIL = 3
-  }
+	monarch = {
+		name = "Viswa Singha"
+		dynasty = "Narayan"
+		ADM = 3
+		DIP = 3
+		MIL = 3
+	}
 }
+
 1523.1.1 = {
-  heir = {
-    name = "那罗"  # Nar
-    monarch_name = "那罗"  # Nar
-    dynasty = "那罗延"  # Narayan
-    birth_date = 1515.1.1
-    death_date = 1587.1.1
-    claim = 95
-    ADM = 5
-    DIP = 3
-    MIL = 4
-  }
+	heir = {
+		name = "Nar"
+		monarch_name = "Nar"
+		dynasty = "Narayan"
+		birth_date = 1515.1.1
+		death_date = 1587.1.1
+		claim = 95
+		ADM = 5
+		DIP = 3
+		MIL = 4
+	}
 }
+
 1554.1.1 = {
-  monarch = {
-    name = "那罗"  # Nar
-    dynasty = "那罗延"  # Narayan
-    ADM = 5
-    DIP = 3
-    MIL = 4
-  }
+	monarch = {
+		name = "Nar"
+		dynasty = "Narayan"
+		ADM = 5
+		DIP = 3
+		MIL = 4
+	}
 }
+
 1554.1.1 = {
-  heir = {
-    name = "Lakshmi"
-    monarch_name = "Lakshmi"
-    dynasty = "那罗延"  # Narayan
-    birth_date = 1540.1.1
-    death_date = 1621.1.1
-    claim = 95
-    ADM = 0
-    DIP = 1
-    MIL = 0
-  }
+	heir = {
+		name = "Lakshmi"
+		monarch_name = "Lakshmi"
+		dynasty = "Narayan"
+		birth_date = 1540.1.1
+		death_date = 1621.1.1
+		claim = 95
+		ADM = 0
+		DIP = 1
+		MIL = 0
+	}
 }
+
+#Mughal Vassals - Western part of kingdom goes to Assam/Ahom
+
 1587.1.1 = {
-  monarch = {
-    name = "落吃涩弭"  # Lakshmi
-    dynasty = "那罗延"  # Narayan
-    ADM = 0
-    DIP = 1
-    MIL = 0
-  }
+	monarch = {
+		name = "Lakshmi"
+		dynasty = "Narayan"
+		ADM = 0
+		DIP = 1
+		MIL = 0
+	}
 }
+
 1587.1.1 = {
-  heir = {
-    name = "Bir"
-    monarch_name = "Bir"
-    dynasty = "那罗延"  # Narayan
-    birth_date = 1570.1.1
-    death_date = 1626.1.1
-    claim = 95
-    ADM = 2
-    DIP = 1
-    MIL = 0
-  }
+	heir = {
+		name = "Bir"
+		monarch_name = "Bir"
+		dynasty = "Narayan"
+		birth_date = 1570.1.1
+		death_date = 1626.1.1
+		claim = 95
+		ADM = 2
+		DIP = 1
+		MIL = 0
+	}
 }
+
+
 1621.1.1 = {
-  monarch = {
-    name = "毗罗"  # Bir
-    dynasty = "那罗延"  # Narayan
-    ADM = 2
-    DIP = 1
-    MIL = 0
-  }
+	monarch = {
+		name = "Bir"
+		dynasty = "Narayan"
+		ADM = 2
+		DIP = 1
+		MIL = 0
+	}
 }
+
 1621.1.1 = {
-  heir = {
-    name = "Bir"
-    monarch_name = "Bir"
-    dynasty = "那罗延"  # Narayan
-    birth_date = 1610.1.1
-    death_date = 1665.1.1
-    claim = 95
-    ADM = 2
-    DIP = 1
-    MIL = 0
-  }
+	heir = {
+		name = "Bir"
+		monarch_name = "Bir"
+		dynasty = "Narayan"
+		birth_date = 1610.1.1
+		death_date = 1665.1.1
+		claim = 95
+		ADM = 2
+		DIP = 1
+		MIL = 0
+	}
 }
+
 1626.1.1 = {
-  monarch = {
-    name = "补兰"  # Pran
-    dynasty = "那罗延"  # Narayan
-    ADM = 2
-    DIP = 1
-    MIL = 0
-  }
+	monarch = {
+		name = "Pran"
+		dynasty = "Narayan"
+		ADM = 2
+		DIP = 1
+		MIL = 0
+	}
 }
+
 1626.1.1 = {
-  heir = {
-    name = "Madan"
-    monarch_name = "Madan"
-    dynasty = "那罗延"  # Narayan
-    birth_date = 1620.1.1
-    death_date = 1680.1.1
-    claim = 95
-    ADM = 0
-    DIP = 1
-    MIL = 0
-  }
+	heir = {
+		name = "Madan"
+		monarch_name = "Madan"
+		dynasty = "Narayan"
+		birth_date = 1620.1.1
+		death_date = 1680.1.1
+		claim = 95
+		ADM = 0
+		DIP = 1
+		MIL = 0
+	}
 }
+
 1665.1.1 = {
-  monarch = {
-    name = "补兰"  # Madan
-    dynasty = "那罗延"  # Narayan
-    ADM = 0
-    DIP = 1
-    MIL = 0
-  }
+	monarch = {
+		name = "Madan"
+		dynasty = "Narayan"
+		ADM = 0
+		DIP = 1
+		MIL = 0
+	}
 }
+
 1665.1.1 = {
-  heir = {
-    name = "Basudev"
-    monarch_name = "Basudev"
-    dynasty = "那罗延"  # Narayan
-    birth_date = 1650.1.1
-    death_date = 1682.1.1
-    claim = 95
-    ADM = 0
-    DIP = 0
-    MIL = 0
-  }
+	heir = {
+		name = "Basudev"
+		monarch_name = "Basudev"
+		dynasty = "Narayan"
+		birth_date = 1650.1.1
+		death_date = 1682.1.1
+		claim = 95
+		ADM = 0
+		DIP = 0
+		MIL = 0
+	}
 }
+
+#Vassals of Bhutan
+
 1680.1.1 = {
-  monarch = {
-    name = "巴苏德夫"  # Basudev
-    dynasty = "那罗延"  # Narayan
-    ADM = 0
-    DIP = 0
-    MIL = 0
-  }
+	monarch = {
+		name = "Basudev"
+		dynasty = "Narayan"
+		ADM = 0
+		DIP = 0
+		MIL = 0
+	}
 }
+
 1680.1.1 = {
-  heir = {
-    name = "Mahendra"
-    monarch_name = "Mahendra"
-    dynasty = "那罗延"  # Narayan
-    birth_date = 1650.1.1
-    death_date = 1682.1.1
-    claim = 95
-    ADM = 0
-    DIP = 0
-    MIL = 1
-  }
+	heir = {
+		name = "Mahendra"
+		monarch_name = "Mahendra"
+		dynasty = "Narayan"
+		birth_date = 1650.1.1
+		death_date = 1682.1.1
+		claim = 95
+		ADM = 0
+		DIP = 0
+		MIL = 1
+	}
 }
+
 1682.1.1 = {
-  monarch = {
-    name = "摩醯因陀罗"  # Mahendra
-    dynasty = "那罗延"  # Narayan
-    ADM = 0
-    DIP = 0
-    MIL = 1
-  }
+	monarch = {
+		name = "Mahendra"
+		dynasty = "Narayan"
+		ADM = 0
+		DIP = 0
+		MIL = 1
+	}
 }
+
 1682.1.1 = {
-  heir = {
-    name = "Rup"
-    monarch_name = "Rup"
-    dynasty = "那罗延"  # Narayan
-    birth_date = 1670.1.1
-    death_date = 1714.1.1
-    claim = 95
-    ADM = 0
-    DIP = 2
-    MIL = 0
-  }
+	heir = {
+		name = "Rup"
+		monarch_name = "Rup"
+		dynasty = "Narayan"
+		birth_date = 1670.1.1
+		death_date = 1714.1.1
+		claim = 95
+		ADM = 0
+		DIP = 2
+		MIL = 0
+	}
 }
+
 1693.1.1 = {
-  monarch = {
-    name = "楼波"  # Rup
-    dynasty = "那罗延"  # Narayan
-    ADM = 0
-    DIP = 2
-    MIL = 0
-  }
+	monarch = {
+		name = "Rup"
+		dynasty = "Narayan"
+		ADM = 0
+		DIP = 2
+		MIL = 0
+	}
 }
+
 1693.1.1 = {
-  heir = {
-    name = "Upendra"
-    monarch_name = "Upendra"
-    dynasty = "那罗延"  # Narayan
-    birth_date = 1670.1.1
-    death_date = 1764.1.1
-    claim = 95
-    ADM = 0
-    DIP = 0
-    MIL = 2
-  }
+	heir = {
+		name = "Upendra"
+		monarch_name = "Upendra"
+		dynasty = "Narayan"
+		birth_date = 1670.1.1
+		death_date = 1764.1.1
+		claim = 95
+		ADM = 0
+		DIP = 0
+		MIL = 2
+	}
 }
+
 1714.1.1 = {
-  monarch = {
-    name = "优宾陀罗"  # Upendra
-    dynasty = "那罗延"  # Narayan
-    ADM = 0
-    DIP = 0
-    MIL = 2
-  }
+	monarch = {
+		name = "Upendra"
+		dynasty = "Narayan"
+		ADM = 0
+		DIP = 0
+		MIL = 2
+	}
 }
+
 1714.1.1 = {
-  heir = {
-    name = "Debendra"
-    monarch_name = "Debendra"
-    dynasty = "那罗延"  # Narayan
-    birth_date = 1690.1.1
-    death_date = 1764.1.1
-    claim = 95
-    ADM = 0
-    DIP = 1
-    MIL = 0
-  }
+	heir = {
+		name = "Debendra"
+		monarch_name = "Debendra"
+		dynasty = "Narayan"
+		birth_date = 1690.1.1
+		death_date = 1764.1.1
+		claim = 95
+		ADM = 0
+		DIP = 1
+		MIL = 0
+	}
 }
+
 1764.1.1 = {
-  monarch = {
-    name = "Debendra"
-    dynasty = "那罗延"  # Narayan
-    ADM = 0
-    DIP = 1
-    MIL = 0
-  }
+	monarch = {
+		name = "Debendra"
+		dynasty = "Narayan"
+		ADM = 0
+		DIP = 1
+		MIL = 0
+	}
 }
+
 1764.1.1 = {
-  heir = {
-    name = "Dhairjendra"
-    monarch_name = "Dhairjendra"
-    dynasty = "那罗延"  # Narayan
-    birth_date = 1744.1.1
-    death_date = 1770.1.1
-    claim = 95
-    ADM = 0
-    DIP = 0
-    MIL = 0
-  }
+	heir = {
+		name = "Dhairjendra"
+		monarch_name = "Dhairjendra"
+		dynasty = "Narayan"
+		birth_date = 1744.1.1
+		death_date = 1770.1.1
+		claim = 95
+		ADM = 0
+		DIP = 0
+		MIL = 0
+	}
 }
+
 1765.1.1 = {
-  monarch = {
-    name = "Dhairjendra"
-    dynasty = "那罗延"  # Narayan
-    ADM = 0
-    DIP = 0
-    MIL = 0
-  }
+	monarch = {
+		name = "Dhairjendra"
+		dynasty = "Narayan"
+		ADM = 0
+		DIP = 0
+		MIL = 0
+	}
 }
+
 1765.1.1 = {
-  heir = {
-    name = "Rajendra"
-    monarch_name = "Rajendra"
-    dynasty = "那罗延"  # Narayan
-    birth_date = 1754.1.1
-    death_date = 1775.1.1
-    claim = 95
-    ADM = 0
-    DIP = 0
-    MIL = 0
-  }
+	heir = {
+		name = "Rajendra"
+		monarch_name = "Rajendra"
+		dynasty = "Narayan"
+		birth_date = 1754.1.1
+		death_date = 1775.1.1
+		claim = 95
+		ADM = 0
+		DIP = 0
+		MIL = 0
+	}
 }
+
 1770.1.1 = {
-  monarch = {
-    name = "拉金德拉"  # Rajendra
-    dynasty = "那罗延"  # Narayan
-    ADM = 0
-    DIP = 0
-    MIL = 0
-  }
+	monarch = {
+		name = "Rajendra"
+		dynasty = "Narayan"
+		ADM = 0
+		DIP = 0
+		MIL = 0
+	}
 }
+
 1770.1.1 = {
-  heir = {
-    name = "Dharendra"
-    monarch_name = "Dharendra"
-    dynasty = "那罗延"  # Narayan
-    birth_date = 1758.1.1
-    death_date = 1775.1.1
-    claim = 95
-    ADM = 2
-    DIP = 2
-    MIL = 1
-  }
+	heir = {
+		name = "Dharendra"
+		monarch_name = "Dharendra"
+		dynasty = "Narayan"
+		birth_date = 1758.1.1
+		death_date = 1775.1.1
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 1
+	}
 }
+
+#1772 Bhutan annexes Koch Bihar
+#April 25, 1774 British Vassal
+
 1772.1.1 = {
-  monarch = {
-    name = "Dharendra"
-    dynasty = "那罗延"  # Narayan
-    ADM = 2
-    DIP = 2
-    MIL = 1
-  }
+	monarch = {
+		name = "Dharendra"
+		dynasty = "Narayan"
+		ADM = 2
+		DIP = 2
+		MIL = 1
+	}
 }
+
 1772.1.1 = {
-  heir = {
-    name = "Harendra"
-    monarch_name = "Harendra"
-    dynasty = "那罗延"  # Narayan
-    birth_date = 1769.1.1
-    death_date = 1840.1.1
-    claim = 95
-    ADM = 1
-    DIP = 0
-    MIL = 0
-  }
+	heir = {
+		name = "Harendra"
+		monarch_name = "Harendra"
+		dynasty = "Narayan"
+		birth_date = 1769.1.1
+		death_date = 1840.1.1
+		claim = 95
+		ADM = 1
+		DIP = 0
+		MIL = 0
+	}
 }
+
 1775.1.1 = {
-  monarch = {
-    name = "诃戾那达"  # Harendra
-    dynasty = "那罗延"  # Narayan
-    ADM = 1
-    DIP = 0
-    MIL = 0
-  }
+	monarch = {
+		name = "Harendra"
+		dynasty = "Narayan"
+		ADM = 1
+		DIP = 0
+		MIL = 0
+	}
 }
+
 1796.1.1 = {
-  heir = {
-    name = "Shivendra"
-    monarch_name = "Shivendra"
-    dynasty = "那罗延"  # Narayan
-    birth_date = 1796.1.1
-    death_date = 1847.1.1
-    claim = 95
-    ADM = 2
-    DIP = 2
-    MIL = 0
-  }
+	heir = {
+		name = "Shivendra"
+		monarch_name = "Shivendra"
+		dynasty = "Narayan"
+		birth_date = 1796.1.1
+		death_date = 1847.1.1
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 0
+	}
 }

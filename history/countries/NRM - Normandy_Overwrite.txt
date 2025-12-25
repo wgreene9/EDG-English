@@ -1,7 +1,7 @@
 1405.6.25 = {
   monarch = {
-    name = "㼿易"  # Charles I
-    dynasty = "德 瓦卢瓦"  # de Valois
+    name = "Henri"  # Charles I
+    dynasty = "de Valois"  # de Valois
     adm = 5
     dip = 1
     mil = 2

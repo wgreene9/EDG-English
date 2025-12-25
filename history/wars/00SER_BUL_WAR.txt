@@ -1,4 +1,4 @@
-name = "反抗塞尔维亚暴政"
+name = "War Against Serbian Tyranny" # War Against Serbian Tyranny or Coalition War
 war_goal = {
   type = superiority_punitive
   casus_belli = cb_super_badboy

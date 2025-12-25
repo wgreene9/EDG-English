@@ -1,8 +1,8 @@
 1442.1.1 = {
   add_piety = -0.5
   monarch = {
-    name = "阿布 勒 法特赫"  # Mu'izz al-Din Malik
-    dynasty = "阿尔图克奥卢"  # Simnani
+    name = "Abu al-Fath"  # Mu'izz al-Din Malik
+    dynasty = "Artuqiyyun"  # Simnani
     regent = yes
     adm = 2
     dip = 3
@@ -10,7 +10,7 @@
   }
   heir = {
     name = "Muhammad Ali"  # Abdallah bin Ibrahim
-    dynasty = "阿尔图克奥卢"  # Timurid
+    dynasty = "Artuqiyyun"  # Timurid
     birth_date = 1442.1.1
     death_date = 1451.6.1
     claim = 95

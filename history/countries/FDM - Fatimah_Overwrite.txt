@@ -1,19 +1,7 @@
-change_estate_land_share = {
-  estate = estate_nobles
-  share = 10
-}
-change_estate_land_share = {
-  estate = estate_church
-  share = -20
-}
-change_estate_land_share = {
-  estate = estate_burghers
-  share = 10
-}
 1435.9.18 = {
   monarch = {
-    name = "易卜拉欣 侯赛因 II"  # 'Uthman
-    dynasty = "法蒂玛"  # Hafsid
+    name = "Ibrahim Hussein II"  # 'Uthman
+    dynasty = "Fatimid"  # Hafsid
     birth_date = 1410.9.18
     adm = 2
     dip = 3
@@ -22,9 +10,9 @@ change_estate_land_share = {
 }
 1435.9.18 = {
   heir = {
-    name = "叶海亚"  # Yahyâ
-    monarch_name = "叶海亚 III"  # Yahyâ III
-    dynasty = "法蒂玛"  # Hafsid
+    name = "Yahyâ"  # Yahyâ
+    monarch_name = "Yahyâ III"  # Yahyâ III
+    dynasty = "Fatimid"  # Hafsid
     birth_date = 1435.9.18
     death_date = 1489.1.1
     claim = 95

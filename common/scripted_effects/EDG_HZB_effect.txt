@@ -18,12 +18,12 @@ EDG_MISSION_HZB_3_9_modifier_effect = {
 }
 EDG_flavor_HZB_mission_1_A_name_effect = {
 	define_ruler = {
-		dynasty = "孛儿几斤"
+		dynasty = "Borjigin"
 		claim = 95
 		age = 35
 	}
 	define_heir = {
-		dynasty = "孛儿几斤"
+		dynasty = "Borjigin"
 		claim = 95
 		age = 15
 	}

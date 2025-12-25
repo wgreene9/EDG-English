@@ -2,8 +2,8 @@ EFR = { add_historical_friend = root }
 1392.1.1 = {
 	set_country_flag = EDG_HRE_graf_flag
 	monarch = {
-		name = "腓特烈 III"
-		dynasty = "冯 格鲁尔芬根"  #
+		name = "Friderich III"
+		dynasty = "Gerulfingen"  # von Grolfingen/Grulrfingen?
 		birth_date = 1392.1.1
 		adm = 3
 		dip = 4
@@ -14,8 +14,8 @@ EFR = { add_historical_friend = root }
 }
 1443.1.1 = {
 	monarch = {
-		name = "威廉 IV"
-		dynasty = "冯 格鲁尔芬根"  #
+		name = "Willem IV"
+		dynasty = "Gerulfingen"  #
 		birth_date = 1415.1.1
 		death_date = 1453.11.12
 		adm = 4

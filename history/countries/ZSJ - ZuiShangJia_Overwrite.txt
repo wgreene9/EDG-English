@@ -1,8 +1,7 @@
-{
-    monarch = 
-    {
-        name = "景光" #ä¹å©
-        dynasty = "最上" #æ°ç°
+1439.6.12 = {
+    monarch = {
+        name = "Jingguang" #景光
+        dynasty = "Zuishang" #最上
         adm = 2
         dip = 2
         mil = 4

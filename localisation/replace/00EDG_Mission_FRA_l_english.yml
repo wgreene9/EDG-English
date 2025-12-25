@@ -1,338 +1,338 @@
 ﻿l_english:
- EDG_mission_FRA_1_2_title:0 "卡佩王朝纽带"
- EDG_mission_FRA_1_2_desc:0 "身居法兰西大地的同族宗亲们长期享有独立于首都权力之外的较大自主权，其影响力可不容小觑，因此我们必须努力确保对卡佩王朝支系的影响力始终如一。"
+EDG_mission_FRA_1_2_title:0 "Capetian Bonds" # Bonds of the Capetian Dynasty
+EDG_mission_FRA_1_2_desc:0 "Our kindred, dwelling in the lands of France, have long enjoyed considerable autonomy independent of the capital's authority, and their influence should not be underestimated. Therefore, we must strive to ensure consistent influence over the cadet branches of the Capetian dynasty."
 
- EDG_mission_FRA_1_3_title:0 "§Y欧陆霸权§!"
- EDG_mission_FRA_1_3_desc:0 "路易十四他以雄才大略，文治武功使法兰西成为当时西欧最强的国家，与康熙同时代的西方大帝，时人尊称“太阳王”。"
+EDG_mission_FRA_1_3_title:0 "§YContinental Hegemony§!"
+EDG_mission_FRA_1_3_desc:0 "With his great talent, strategic vision, and civil and military achievements, Louis XIV made France the most powerful nation in Western Europe at the time. A contemporary Western emperor to the Kangxi Emperor, he was respectfully called the 'Sun King' by his people."
 
- EDG_mission_FRA_1_5_title:0 "卡普福米奥条约"
- EDG_mission_FRA_1_5_desc:0 "一些意大利小国精心策划的平凡企图远远不足以阻止我们在意大利境内的行进，就算是亚得里亚海的新娘也无法抗衡我们。我们必须粉碎所有反对势力，为法兰西王室确保该地区的安全！"
+EDG_mission_FRA_1_5_title:0 "Treaty of Campo Formio"
+EDG_mission_FRA_1_5_desc:0 "The mediocre attempts meticulously planned by some minor Italian states are far from sufficient to halt our advance within Italy. Even the 'Bride of the Adriatic' cannot withstand us. We must crush all opposition to secure the region for the French Crown!"
 
- EDG_mission_FRA_1_6_title:0 "黄金藩属"
- EDG_mission_FRA_1_6_desc:0 "意大利长久以来都在各帝国之间辗转不定。该地区从前是神圣罗马帝国的法理疆域，如今必须牢牢地掌握在我们手中，以免其倒向敌方，反过来对我们拔刀相向。而北意大利坐拥举世最为繁华的土地。这里是政治和科学创新的发源地，它的节拍是整个地区的脉搏，获得这些领土将有助于进一步加快我们对该地区的征服计划。"
+EDG_mission_FRA_1_6_title:0 "Golden Vassals"
+EDG_mission_FRA_1_6_desc:0 "Italy has long been tossed between empires. Once a de jure territory of the Holy Roman Empire, the region must now be firmly held in our grasp, lest it fall to the enemy and turn its blades against us. Northern Italy possesses some of the most prosperous lands in the world. It is the birthplace of political and scientific innovation; its pulse sets the rhythm for the entire region. Acquiring these territories will help further accelerate our conquest plans for the area."
 
- EDG_mission_FRA_1_10_title:0 "消灭清洁派"
- EDG_mission_FRA_1_10_desc:0 "自东方的波格米勒派将他们教义传入南法的奥克语地区，这一诺斯替主义的基督教派在欧西塔尼亚蔚然成风，形成了清洁派，并直接影响到了宗座面前的北意大利。尽管两次阿尔比十字军接连失败，但我们相信公教会迟早能够获得胜利。"
+EDG_mission_FRA_1_10_title:0 "Eradicate the Cathars"
+EDG_mission_FRA_1_10_desc:0 "Since the Bogomils from the East introduced their doctrines into the Occitan-speaking regions of Southern France, this Gnostic Christian sect has flourished in Occitania, forming the Cathars and directly influencing Northern Italy before the Holy See. Despite the successive failures of the two Albigensian Crusades, we believe the Catholic Church will ultimately achieve victory."
 
- EDG_mission_FRA_1_12_title:0 "收复耶路撒冷"
- EDG_mission_FRA_1_12_desc:0 "通往耶路撒冷之路，敌人和外国征服者荆棘密布。我们肩负着使命，要拯救她并把她送回我们宗教的温暖怀抱。如主所愿！"
+EDG_mission_FRA_1_12_title:0 "Reclaim Jerusalem"
+EDG_mission_FRA_1_12_desc:0 "The road to Jerusalem is strewn with thorns of enemies and foreign conquerors. We bear the mission to save her and return her to the warm embrace of our faith. God wills it!"
 
- EDG_mission_FRA_1_15_title:0 "水师军械库"
- EDG_mission_FRA_1_15_desc:0 "我们必须在重要的海军军事重地建立军用设施，以确保我们的海军实力能够支撑起我们的野心。"
+EDG_mission_FRA_1_15_title:0 "Arsenal of the Navy"
+EDG_mission_FRA_1_15_desc:0 "We must establish military facilities at crucial naval strongholds to ensure our naval power can support our ambitions."
 
- EDG_mission_FRA_1_16_title:0 "帝国海防建设"
- EDG_mission_FRA_1_16_desc:0 "在18世纪初，人们开始更加注重保持强大的海军存在。为了实现这一目标，我们必须关注海军基础设施的需求。"
+EDG_mission_FRA_1_16_title:0 "Coastal Defense" # Imperial Coastal Defense Development
+EDG_mission_FRA_1_16_desc:0 "By the early 18th century, greater emphasis began to be placed on maintaining a strong naval presence. To achieve this goal, we must address the needs of naval infrastructure."
 
- EDG_mission_FRA_1_20_title:0 "驱逐伪帝"
- EDG_mission_FRA_1_20_desc:0 "神圣罗马帝国的皇冠来自查理曼，我们是这顶皇冠最正统的继承人。"
+EDG_mission_FRA_1_20_title:0 "Expel the False Emperor"
+EDG_mission_FRA_1_20_desc:0 "The crown of the Holy Roman Empire descends from Charlemagne, and we are its most legitimate heirs."
 
- EDG_mission_FRA_1_22_title:0 "英白拉多与尊贵的凯撒"
- EDG_mission_FRA_1_22_desc:0 "与查理曼一样，戴上神罗皇冠是我们与生俱来的权利。攫取皇位将使我们重新赢得自己应有的地位。"
+EDG_mission_FRA_1_22_title:0 "Imperator and August Caesar" # Imperator and the August Caesar
+EDG_mission_FRA_1_22_desc:0 "Like Charlemagne, donning the crown of the Holy Roman Empire is our birthright. Seizing the imperial throne will restore us to our rightful status."
 
- EDG_mission_FRA_1_24_title:0 "火力优势学说"
- EDG_mission_FRA_1_24_desc:0 "装填了大量火药的战争机器出现在战场之上，雷鸣般的怒吼将摧毁敌人的城墙，并为[Root.GetName]带来胜利！"
+EDG_mission_FRA_1_24_title:0 "Superior Firepower" # Doctrine of Firepower Supremacy
+EDG_mission_FRA_1_24_desc:0 "War machines loaded with great quantities of gunpowder now appear on the battlefield. Their thunderous roar will shatter enemy walls and bring victory to [Root.GetName]!"
 
- EDG_mission_FRA_1_25_title:0 "达达尼昂"
- EDG_mission_FRA_1_25_desc:0 "我们应该建立一支精锐部队来保卫王室，并使其成为王家军队的一部分。这支军队的名额将为上层阶级保留以鼓励贵族们在军队中一展宏图。"
+EDG_mission_FRA_1_25_title:0 "D'Artagnan"
+EDG_mission_FRA_1_25_desc:0 "We should establish an elite force to protect the royal family and integrate it into the King's Army. Positions within this force shall be reserved for the upper classes to encourage the nobility to pursue their ambitions within the military."
 
- EDG_mission_FRA_1_26_title:0 "§R改革革命卫队§!"
- EDG_mission_FRA_1_26_desc:0 "我们如果要对抗欧洲最强大的贵族王朝的不义行为，旧需要一支强大的军队作为支撑。因此，我们应该改造武装部队，提高他们的作战效率。"
+EDG_mission_FRA_1_26_title:0 "§RReform the Guard§!" # Reform the Revolutionary Guard
+EDG_mission_FRA_1_26_desc:0 "If we are to oppose the unjust acts of Europe's most powerful noble dynasties, we need a formidable army as our foundation. Therefore, we should restructure our armed forces to enhance their combat effectiveness."
 
- EDG_mission_FRA_1_28_title:0 "路易十二改革"
- EDG_mission_FRA_1_28_desc:0 "我们国内形形色色的政治集团已经对我国产生了长远的影响。我们必须摆脱它们并进行中央集权。由路易十一开创的“新君主政体”并非一个中央集权化的统一国家。法国被分成12个郡，其行政权均掌握在王亲国戚、名门显贵手中。到世纪末为止，他们合法运用了广泛的王室特权。直到下一个世纪，他们仍然各自为政。现在地方上又出现了一大批高等法院（parlement）。这种由君主政体建立的省级法院在本地区拥有最高司法权。在这一阶段，其重要性日益加强，数量也在稳步上升。从查理七世即位到路易十二去世期间，在图卢兹（Toulouse）、格勒诺布尔（Grenoble）、波尔多、第戎（Dijon）、鲁昂（Rouen）和埃克斯（Aix）均建立了高等法院。虽然在牺牲行会、小业主利益的基础之上加强了市镇寡头的地位，但城市的自由权利并没有受到严重损害。集权国家之所以遇到这些意义深远的制约，其原因仍在于全国范围内建立有效的王权统治框架的工作遇到了不可逾越的障碍，因为在当时的经济结构中，既不存在统一市场，又没有现代化交通设施，而且在经济秩序中，乡村中最基本的封建关系并未完全消失。尽管王权取得了显赫的成就，实行垂直的集权化政治的社会基础尚不具备。正是在这种情况之下，在长期战争之后，三级会议获得了重生的氛围。现代国家的骑士热忱与新兴势力将震撼世界。新兴势力，现在属于法国，这个人口最多的绝对君主制国家，欧洲大陆唯一的利维坦。马基雅维利说过：“法国人谦卑、顺从，他们非常尊敬他们的国王。”马克西米利安赞同马基雅维利的说法，称法国人是盲从的民族；英国杰出的法学家约翰·福蒂斯丘也随之附和，称法国人是懦弱的民族……确实，在英国、西班牙、德意志，国王征税均需征得代议制议会的预先批准，只有法国国王例外。"
+EDG_mission_FRA_1_28_title:0 "The Reforms of Louis XII"
+EDG_mission_FRA_1_28_desc:0 "The various political factions within our country have exerted a long-term influence on our nation. We must break free from them and pursue centralization. The 'New Monarchy' initiated by Louis XI was not a centralized, unified state. France was divided into 12 gouvernements, their administrative powers held in the hands of royalty, aristocracy, and prominent nobles. By the end of the century, they had legally exercised extensive royal prerogatives. It was not until the following century that they truly began to operate as one. Now, a large number of parlements have emerged locally. These provincial courts, established by the monarchy, hold supreme judicial authority in their respective regions. During this period, their importance grew, and their numbers steadily increased. From the accession of Charles VII to the death of Louis XII, parlements were established in Toulouse, Grenoble, Bordeaux, Dijon, Rouen, and Aix. While strengthening the position of municipal oligarchs at the expense of guilds and small proprietors, the liberties of the cities were not severely damaged. The reason these profound constraints on the centralized state persisted lies in the insurmountable obstacles encountered in establishing an effective framework for royal authority nationwide. Within the economic structure of the time, neither a unified market nor modern transportation facilities existed, and within the economic order, the most fundamental feudal relationships in the countryside had not completely disappeared. Despite the monarchy's remarkable achievements, the social foundation for implementing a vertically centralized political system was not yet in place. It was under these circumstances, after prolonged wars, that the atmosphere for the revival of the Estates-General was created. The knightly fervor of the modern state and emerging forces will shake the world. The emerging forces now belong to France, the most populous absolute monarchy, the sole Leviathan on the European continent. Machiavelli said, 'The French are humble and obedient; they hold their king in great esteem.' Maximilian agreed with Machiavelli, calling the French a servile people; the eminent English jurist John Fortescue echoed this, calling the French a cowardly nation... Indeed, in England, Spain, and the German lands, kings required the prior approval of representative assemblies to levy taxes; the French king alone was the exception."
 
- EDG_mission_FRA_1_29_title:0 "黎塞留行政改革"
- EDG_mission_FRA_1_29_desc:0 "不论是在理论上还是在实践中，法国君主政体的构成形式具有一种极端矫揉造作的复杂性。科斯曼（Kossmann）在一段令人难忘的论述中是这样描述它在同时代有产阶级心目中的形象的：“同时代人感到，绝对主义并未消除国家固有的紧张状态，也未改变他们关于政府的观念。对他们来说，国家犹如一座巴洛克风格的教堂，各不相同的概念混杂其间，相互碰撞，终于被融合成单一的辉煌的体系。在建筑师别出心裁的设计中，他们发现了椭圆形，空间变得栩栩如生。到处都有从椭圆形各角度发射出的光芒，反射在整个建筑之中便形成了新风格中最宝贵、最敏捷的活跃因素和摇曳不定的韵味。”法兰西的法律体系无论是在设计还是实行上都相当不稳定且陈旧。为了确保对王位的掌握，我们必须改革法律系统并让其以最高效率运作。黎塞留有效地建立了总监（intendant）制。司法总监（Intendant de Justice）、警察总监（Intendant de Police）、财政总监（Intendant de Finances）是被赋予广泛权力的钦差大臣。开始时，他们作为临时被赋予特殊使命的官员在各地巡查，后来则成为中央政府向全法国派出的常设官员。他们由国王亲自任命，因此其职位不可取消、不可买卖：这些官员多由前行政法院审查官担任，在17世纪时多为中小贵族。他们代表着绝对主义国家在王国最广大的地区行使新的权力。"
+EDG_mission_FRA_1_29_title:0 "Administrative Reforms" # Administrative Reforms of Richelieu
+EDG_mission_FRA_1_29_desc:0 "Both in theory and in practice, the structure of the French monarchy possessed an extremely contrived complexity. In a memorable passage, Kossmann described its image in the minds of the contemporary propertied class: 'Contemporaries felt that absolutism had not eliminated the inherent tensions within the state, nor had it changed their conceptions of government. For them, the state resembled a Baroque church, where disparate concepts mingled, collided, and were ultimately fused into a single, magnificent system. In the architect's ingenious design, they discovered ellipses; space came alive. Light emanated from every angle of the ellipses, reflecting throughout the structure to create the most precious and agile active element and the wavering charm of the new style.' The French legal system was, both in design and implementation, rather unstable and antiquated. To secure our hold on the throne, we must reform the legal system and make it operate with the highest efficiency. Richelieu effectively established the intendant system. The Intendant de Justice, Intendant de Police, and Intendant de Finances were plenipotentiary commissioners endowed with broad powers. Initially, they were officials dispatched on special, temporary missions to inspect various regions, but later they became permanent representatives of the central government sent throughout France. Appointed directly by the King, their positions were thus irrevocable and unsalable: these officials were often former maîtres des requêtes and, in the 17th century, mostly minor or middle-ranking nobles. They represented the absolutist state in exercising new powers across the vast expanse of the kingdom."
 
- EDG_mission_FRA_1_30_title:0 "§R为了祖国、科学和荣誉§!"
- EDG_mission_FRA_1_30_desc:0 "知识不再是贵族的特权。通过资助勇敢的教育创新，我们必须给予更多人接受教育的机会，因为教育我们的人民是至关重要的。"
+EDG_mission_FRA_1_30_title:0 "§RFor the Fatherland§!" # For the Fatherland, Science, and Honor
+EDG_mission_FRA_1_30_desc:0 "Knowledge is no longer the privilege of the aristocracy. By funding bold educational innovations, we must provide more people with access to education, for it is of paramount importance to educate our people."
 
- EDG_mission_FRA_1_32_title:0 "哈德逊湾毛皮"
- EDG_mission_FRA_1_32_desc:0 "我们无法单纯通过军事手段赢得俄亥俄毛皮贸易的主导权，必须与生活在当地的美洲原住民建立贸易联系，以此确保法兰西的经济利益。"
+EDG_mission_FRA_1_32_title:0 "Hudson Bay Fur"
+EDG_mission_FRA_1_32_desc:0 "We cannot secure dominance in the Ohio fur trade through military means alone. We must establish trade relations with the Native Americans living in the region to safeguard France's economic interests."
 
- EDG_mission_FRA_1_34_title:0 "墨西哥总督区"
- EDG_mission_FRA_1_34_desc:0 "墨西哥地区的富饶和人口众多让她呈现出非凡的潜力，我们需要在当地建立一个总督区以完善我们的统治。"
+EDG_mission_FRA_1_34_title:0 "Viceroyalty of Mexico"
+EDG_mission_FRA_1_34_desc:0 "The wealth and populous nature of the Mexico region grant it extraordinary potential. We need to establish a viceroyalty there to perfect our rule."
 
- EDG_mission_FRA_2_1_title:0 "封建制的危机"
- EDG_mission_FRA_2_1_desc:0 "自雨果·卡佩从衰朽的西法兰克的加洛林王朝手中夺取了法兰西的王位以来，雨果·卡佩与其后人深知加洛林王朝解体的根本原因在于没有将家族的势力扎根到王国的土壤当中，因此，卡佩家族热衷于在全国开枝散叶，将支系分封到地方从而避免另一个权臣从卡佩家族手中夺走王位。诚然，卡佩的主支与旁支的关系随着血缘的疏远而逐渐不再和睦，支系们控制了地方的实权，而法王只能蜷缩在小小的法兰西岛之上，但由于诸侯之间的制衡以及卡佩王朝主支的生生不息，也没有任何一个诸侯试图夺取那至高无上的王位，但是他们和法王相同的父系先祖赋予了他们争夺王位的天然权力。我们实在是分裂得太久了，我们的领土遭外族侵占也太久了，除非法兰西在我们的旗帜下实现统一，否则法兰西永不会安然无恙。存在于我们领土内的各个家族可能并没有太大权力，但如果想要他们召之即来、乐于合作，就需要先安抚他们。"
+EDG_mission_FRA_2_1_title:0 "Crisis of Feudalism"
+EDG_mission_FRA_2_1_desc:0 "Since Hugh Capet seized the throne of France from the decaying Carolingian dynasty of West Francia, he and his descendants understood that the fundamental reason for the Carolingian collapse was their failure to root their family's power deeply in the kingdom's soil. Therefore, the Capetian family enthusiastically spread its branches throughout the nation, establishing cadet lines in various regions to prevent another powerful magnate from wresting the throne away from the Capetians. Admittedly, the relationship between the main line and the cadet branches grew less amicable as blood ties thinned. The cadet lines controlled local practical power, while the King of France could only retreat to the small Île-de-France. However, due to the checks and balances among the nobles and the enduring vitality of the main Capetian line, no noble attempted to seize the supreme throne—though their shared paternal ancestry with the French king endowed them with a natural right to contest it. We have been divided for far too long, and our territories have been encroached upon by foreigners for far too long. Unless France is unified under our banner, she will never be secure. The various families within our territory may not possess overwhelming power individually, but if we wish them to be readily summoned and cooperative, we must first appease them."
 
- EDG_mission_FRA_2_2_title:0 "§Y鸢尾花之梦§!"
- EDG_mission_FRA_2_2_desc:0 "尽管法兰西在过去经历了莫大的挫折，但卡佩王朝未曾屈服，鸢尾花与法兰西王冠的梦想终将得到实现。"
+EDG_mission_FRA_2_2_title:0 "§YDream of the Fleur-de-Lis§!"
+EDG_mission_FRA_2_2_desc:0 "Despite the immense setbacks France has endured in the past, the Capetian dynasty has never yielded. The dream of the fleur-de-lis and the French crown shall ultimately be realized."
 
- EDG_mission_FRA_2_4_title:0 "天然疆界"
- EDG_mission_FRA_2_4_desc:0 "「天然疆界」的概念在过去的一个世纪内缓慢地形成，许多人认为，[Root.GetAdjective]应当像罗马帝国一样，将国土的边界扩张到大河与大山的一侧，由此拱卫我们的本土，但「天然疆界」的概念一直未能有一个清晰的界定。在[Root.GetAdjective]，许多有真知灼见的人认为，[Root.GetAdjective]的界限是自然界的标志物。正如黎塞留在其《政治遗书》中写道：「我秉政之目的在于：为高卢收回大自然为它指定的疆界，……将法国置于高卢的位置上，在原属古代高卢的一切地方建立新的高卢。」我们将抵达地平线的四角：莱茵河的角落，海洋的角落，比利牛斯山脉的角落，阿尔卑斯山的角落。必须将这些地方作为[Root.GetAdjective]的边界，才能拒敌于国门之外更远的地方，让入侵者无法对法国边界进行侵犯，保护我们伟大的祖国母亲。"
+EDG_mission_FRA_2_4_title:0 "Natural Borders"
+EDG_mission_FRA_2_4_desc:0 "The concept of 'Natural Borders' has slowly formed over the past century. Many believe that [Root.GetAdjective] should follow the example of the Roman Empire by expanding our national frontiers to the edges of great rivers and mountains, thereby securing our homeland. However, the definition of 'Natural Borders' has never been clearly established. In [Root.GetAdjective], many insightful figures hold that [Root.GetAdjective]'s boundaries are defined by natural landmarks. As Richelieu wrote in his Political Testament: 'The aim of my governance is to restore to Gaul the boundaries designated for it by nature, ... to place France in the position of Gaul, and to establish a new Gaul in all lands that belonged to ancient Gaul.' We shall reach the four corners of the horizon: the corner of the Rhine, the corner of the sea, the corner of the Pyrenees, and the corner of the Alps. Only by establishing these places as the borders of [Root.GetAdjective] can we keep our enemies farther from our gates, prevent invaders from violating French borders, and protect our great motherland."
 
- EDG_mission_FRA_2_5_title:0 "执伦巴第牛耳"
- EDG_mission_FRA_2_5_desc:0 "维斯孔蒂家族及其领地内接来不断的内乱只能说明其君主无力控制各种不利因素。我们必须减轻当地民众因统治者无能而产生的痛苦。"
+EDG_mission_FRA_2_5_title:0 "The Mantle of Lombardy" # Assume the Mantle of Lombardy
+EDG_mission_FRA_2_5_desc:0 "The continuous internal strife within the Visconti family and its domains can only indicate the ruler's inability to control various adverse factors. We must alleviate the suffering of the local populace caused by their ruler's incompetence."
 
- EDG_mission_FRA_2_7_title:0 "天主的居所"
- EDG_mission_FRA_2_7_desc:0 "[118.GetName]长期以来都是世界上传播最广泛的一大信仰之中心。因此，我们必须将其纳入我国旌旗之下，以[118.GetName]征服者之名，享受沐于荣光之下的胜利果实！"
+EDG_mission_FRA_2_7_title:0 "Abode of God"
+EDG_mission_FRA_2_7_desc:0 "[118.GetName] has long been the center of one of the world's most widespread faiths. Therefore, we must bring it under our banner and, as conquerors of [118.GetName], enjoy the fruits of victory bathed in glory!"
 
- EDG_mission_FRA_2_9_title:0 "重审贞德案"
- EDG_mission_FRA_2_9_desc:0 "由于于格六世的军事失误，法兰西在1430年后陷入了多方的入侵，以洛塔林吉亚为甚。王太子于格临危受命，但腹背受敌、疲于奔命，就在洛塔林吉亚国王路维希德七世抵达兰斯时，令人意想不到的是，一名名为让娜·达克的奥尔良农家少女率领忠于王太子的军士紧闭兰斯的城门，抵抗洛塔林吉亚人的进攻，这使得洛塔林吉亚国王失去了在兰斯加冕的最佳时期，并被迫返回国土平定德意志领主的叛乱。在后续的战争中，王太子于格于1432年成功在兰斯加冕为法国国王，王号为于格七世，而让娜·达克则护卫于其身旁，击退了洛塔林吉亚人、英国人和阿尔勒人的进攻，直到1444年。为了报复法兰西人，英格兰人贿赂了教廷，并宣判贞德为异端，这是法兰西的耻辱，我们必须要求教廷重审贞德案。"
+EDG_mission_FRA_2_9_title:0 "Retrial of Joan of Arc's Case"
+EDG_mission_FRA_2_9_desc:0 "Due to the military failures of Hugh VI, France faced invasions from multiple sides after 1430, particularly from Lotharingia. Crown Prince Hugh was tasked with the responsibility in a time of crisis, but found himself attacked from all directions and exhausted. Just as King Louis VII of Lotharingia arrived at Reims, unexpectedly, a peasant girl from Orléans named Jeanne d'Arc led the soldiers loyal to the Crown Prince to shut the gates of Reims, resisting the Lotharingian assault. This deprived the Lotharingian king of the best opportunity to be crowned at Reims and forced him to return to his lands to quell rebellions by German lords. In the subsequent war, Crown Prince Hugh successfully crowned himself King of France at Reims in 1432, taking the regnal name Hugh VII, with Jeanne d'Arc by his side, repelling attacks from the Lotharingians, English, and Arlesians until 1444. To retaliate against the French, the English bribed the Papacy and declared Joan of Arc a heretic. This is a disgrace to France. We must demand that the Papacy retry the case of Joan of Arc."
 
- EDG_mission_FRA_2_10_title:0 "消灭瓦勒度派"
- EDG_mission_FRA_2_10_desc:0 "尽管瓦勒度派长期受到迫害，但一直未消亡。阿尔比十字军和瓦尔纳十字军的失败、再征服运动的停滞不前和胡斯运动的成功都成为天主教世界逐渐颓废的象征，而瓦勒度派也在罗马教廷式微的这一段世界内得到了扩张，在法兰西地区得到了长足的发展。"
+EDG_mission_FRA_2_10_title:0 "Eradicate the Waldensians"
+EDG_mission_FRA_2_10_desc:0 "Although the Waldensians have long been persecuted, they have never been extinguished. The failures of the Albigensian Crusade and the Varna Crusade, the stagnation of the Reconquista, and the success of the Hussite movement all became symbols of the gradual decline within the Catholic world. Meanwhile, the Waldensians expanded during this period of waning Papal authority, achieving significant development within the French region."
 
- EDG_mission_FRA_2_11_title:0 "最虔信基督教的国王"
- EDG_mission_FRA_2_11_desc:0 "法国国王长期享有最虔信基督教的国王之名，我们对巩固公教会的权威做出了巨大的贡献，毫无疑问，我们是天主教的守护者。"
+EDG_mission_FRA_2_11_title:0 "Most Christian King"
+EDG_mission_FRA_2_11_desc:0 "The King of France has long held the title of 'Most Christian King.' We have made tremendous contributions to consolidating the authority of the Catholic Church. Without a doubt, we are the defenders of Catholicism."
 
- EDG_mission_FRA_2_12_title:0 "基督之剑"
- EDG_mission_FRA_2_12_desc:0 "天主教一直在与试图铲除它的敌对邻国进行战争。为了从外来的恶人们手中庇护我们的人民，为了保卫我们的遗产，天主号召我们保卫天主教，直至最后一人！"
+EDG_mission_FRA_2_12_title:0 "Sword of Christ"
+EDG_mission_FRA_2_12_desc:0 "Catholicism has been constantly at war with hostile neighbors seeking to eradicate it. To protect our people from foreign evil, and to defend our heritage, God calls upon us to safeguard the Catholic faith, down to the last man!"
 
- EDG_mission_FRA_2_13_title:0 "十字军之王"
- EDG_mission_FRA_2_13_desc:0 "我们在黎凡特的影响力已经增长到前所未有的水平。几个世纪以来，我们头一次能够宣布，我们在黎凡特光复了十字军诸国，光复了我们信仰凝聚成的闪亮之星。"
+EDG_mission_FRA_2_13_title:0 "King of the Crusaders"
+EDG_mission_FRA_2_13_desc:0 "Our influence in the Levant has grown to unprecedented levels. For the first time in centuries, we can declare that we have restored the Crusader States in the Levant, reclaiming the shining star forged by our faith."
 
- EDG_mission_FRA_2_14_title:0 "建立王家海军"
- EDG_mission_FRA_2_14_desc:0 "为了同英国和意大利诸国抗争，我们需要建立一支强大的海军，以扩大我们的海军霸权。"
+EDG_mission_FRA_2_14_title:0 "Establish the Royal Navy"
+EDG_mission_FRA_2_14_desc:0 "To contend with England and the Italian states, we need to build a powerful navy to expand our naval hegemony."
 
- EDG_mission_FRA_2_15_title:0 "黎塞留国家海军改革"
- EDG_mission_FRA_2_15_desc:0 "黎塞留在1624年开始组建法国海军，为了强调国家与民族、而非家族与血缘的重要性，黎塞留将法国海军的正式名称由王家海军（Marine royale）更替为国家海军（Marine nationale）。法国海军至今仍沿袭着这一称谓。1625年正式成立海军部，亲任海军大臣，主管一切海上事务。同时，在土伦、布雷斯特、勒阿弗尔和布鲁日建立了海军基地，成立了海军舰队。这标志着法国正规海军的建立，从此结束了法国人漠视海洋的历史，因而他被后人称之为法国海军之父。"
+EDG_mission_FRA_2_15_title:0 "Richelieu's Naval Reforms" # Richelieu's National Naval Reforms
+EDG_mission_FRA_2_15_desc:0 "Richelieu began organizing the French navy in 1624. To emphasize the importance of the nation and the people over family and bloodline, he changed the official name of the French navy from the Marine royale (Royal Navy) to the Marine nationale (National Navy). The French navy retains this designation to this day. In 1625, the Ministry of the Navy was formally established, with Richelieu himself serving as the Secretary of State for the Navy, overseeing all maritime affairs. Concurrently, naval bases were established in Toulon, Brest, Le Havre, and Bruges, and naval fleets were formed. This marked the establishment of the formal French navy, ending the era of French indifference toward the sea. For this, he is remembered by posterity as the father of the French navy."
 
- EDG_mission_FRA_2_16_title:0 "《海洋大法》"
- EDG_mission_FRA_2_16_desc:0 "我们的敌人拥有强大的海军力量。为了保护我们的海岸线和人民，我们必须拥有一支强大的海军，从而他们匹敌乃至超越他们。法国从英国和荷兰学习和引进先进的造船技术并实现自产自销，同时颁布《海洋大法》，施行船员登记制，让商船中有航海经验的船员可以随征随到。"
+EDG_mission_FRA_2_16_title:0 "The Sea Law"
+EDG_mission_FRA_2_16_desc:0 "Our enemies possess formidable naval power. To protect our coastlines and our people, we must have a powerful navy capable of matching and even surpassing theirs. France learned from and imported advanced shipbuilding techniques from England and the Netherlands, achieving self-sufficiency in production. Simultaneously, the Sea Law was promulgated, implementing a seamen's registry system to ensure that merchant sailors with nautical experience could be readily mobilized for service."
 
- EDG_mission_FRA_2_17_title:0 "海洋霸权"
- EDG_mission_FRA_2_17_desc:0 "如果我们成功地在海上击败了敌人，那么无人敢质疑我国的海上霸权。在击败英国海军后，法兰西将统治海洋！"
+EDG_mission_FRA_2_17_title:0 "Maritime Hegemony"
+EDG_mission_FRA_2_17_desc:0 "If we successfully defeat our enemies at sea, none shall dare question our nation's maritime supremacy. After vanquishing the British Navy, France shall rule the waves!"
 
- EDG_mission_FRA_2_19_title:0 "贿赂选帝侯"
- EDG_mission_FRA_2_19_desc:0 "神圣罗马帝国皇帝之位绝非唾手可得，对于一个非帝国成员来说尤为如此。然而，一些见不得光的交易以及暗中耳语确可有助于我们的事业。"
+EDG_mission_FRA_2_19_title:0 "Bribe the Electors"
+EDG_mission_FRA_2_19_desc:0 "The title of Holy Roman Emperor is by no means easily obtained, especially for a non-member of the Empire. However, some shadowy dealings and whispered promises could indeed aid our cause."
 
- EDG_mission_FRA_2_20_title:0 "查理曼的皇冠"
- EDG_mission_FRA_2_20_desc:0 "神圣罗马帝国的皇冠来自查理曼，我们是这顶皇冠最正统的继承人。"
+EDG_mission_FRA_2_20_title:0 "Crown of Charlemagne"
+EDG_mission_FRA_2_20_desc:0 "The crown of the Holy Roman Empire descends from Charlemagne, and we are its most legitimate heirs."
 
- EDG_mission_FRA_2_21_title:0 "主宰帝国"
- EDG_mission_FRA_2_21_desc:0 "从外部威胁中保卫帝国并不容易。幸运的是，我们拥有欧洲最强大的军队来解放与守护我们的家园。"
+EDG_mission_FRA_2_21_title:0 "Master of the Empire"
+EDG_mission_FRA_2_21_desc:0 "Defending the Empire from external threats is no easy task. Fortunately, we possess the most powerful army in Europe to liberate and protect our homeland."
 
- EDG_mission_FRA_2_23_title:0 "查理曼的遗产"
- EDG_mission_FRA_2_23_desc:0 "查理曼在行政、司法、军事制度及经济生产等方面都有杰出的建树，并大力发展文化教育事业。是他引入了欧洲文明，将文化重心从地中海希腊一带转移至欧洲莱茵河附近，被后世认为是欧洲历史上最重要的统治者之一，享有“欧洲之父”的美誉，而我们是他最成功的继承者。"
+EDG_mission_FRA_2_23_title:0 "Legacy of Charlemagne"
+EDG_mission_FRA_2_23_desc:0 "Charlemagne achieved outstanding accomplishments in administration, judiciary, military systems, economic production, and vigorously developed cultural and educational endeavors. He introduced European civilization, shifting the cultural center from the Mediterranean and Greek regions to the vicinity of the Rhine in Europe. He is regarded by posterity as one of the most important rulers in European history, earning the epithet 'Father of Europe,' and we are his most successful heirs."
 
- EDG_mission_FRA_2_24_title:0 "建立常备军"
- EDG_mission_FRA_2_24_desc:0 "只有在抛弃由骑士服役的宗主召集附庸作战的体系、建立领取薪俸的正规军队之后，我们才能在越来越残酷的战争中赢得胜利。为组织这支正规军，法国贵族批准王室征收了第一笔重要的全国性税收——1439年征收的王室人头税（taille royale），到15世纪40年代，它成为常规性的军事人头税（taille des gens d'armes）。贵族、教士和一批市镇则免交此税。在下一个世纪中，法国贵族从法律上世袭免税。因此，在15世纪后半期，君主政体已经强化到如此程度，它拥有了一支名为compagnies d'ordonnance（法文：正规军）的、由贵族指挥的早期正规军，还可以不受任何代表制会议的控制直接征税。规模有限的王家军队的出现更增加了贵族的经济特权，因为人头税的制度化保证了贵族第一次享有完全的财政豁免权。"
+EDG_mission_FRA_2_24_title:0 "Establish a Standing Army"
+EDG_mission_FRA_2_24_desc:0 "Only by abandoning the system of feudal levies where lords summoned their vassals for military service and establishing a salaried, professional army can we achieve victory in increasingly brutal wars. To organize this professional force, the French nobility granted the monarchy approval to levy the first significant national tax—the taille royale (royal taille) in 1439, which by the 1440s became the regular taille des gens d'armes (soldiers' taille). The nobility, clergy, and a number of towns were exempt from this tax. Over the next century, the French nobility secured legal, hereditary tax exemption. Therefore, in the latter half of the 15th century, the monarchy had strengthened to such an extent that it possessed an early professional army known as the compagnies d'ordonnance (ordinance companies), commanded by nobles, and could levy taxes directly without the control of any representative assembly. The emergence of a limited royal army further augmented the economic privileges of the nobility, as the institutionalization of the taille guaranteed them, for the first time, complete fiscal immunity."
 
- EDG_mission_FRA_2_25_title:0 "敕令骑兵团"
- EDG_mission_FRA_2_25_desc:0 "一支拥有重装骑兵的军队将会帮助我们夺取政治权力，一支强大的常备军有助于实现中央集权，敕令骑兵连是一个成功的尝试。一个敕令骑兵连起初由100个满编“兰斯”（满编骑枪组）组成，每个“兰斯”下辖1名重装骑兵、1名扈从、3名弓箭手和1名仆人。不过，这种组织方式与战术组织关系不大。重装骑兵会单独编组成战术单位，弓箭手和扈从并不会与重装骑兵一起冲击，而是作为辅助人员协助他们作战。后来，大概是从路易十二的时代(1498—1515)开始，他们更倾向于离开重装骑兵编组成特定的连队，这种部队很快就被称为“轻装骑兵”。"
+EDG_mission_FRA_2_25_title:0 "Compagnies d'Ordonnance"
+EDG_mission_FRA_2_25_desc:0 "An army equipped with heavy cavalry will aid us in seizing political power. A powerful standing army contributes to centralization, and the Compagnies d'Ordonnance represent a successful experiment. Initially, a Compagnie d'Ordonnance consisted of 100 fully-equipped lances. Each lance comprised 1 man-at-arms, 1 squire, 3 archers, and 1 servant. However, this organizational structure had little direct relation to tactical formation. The men-at-arms were grouped separately into tactical units, while the archers and squires did not charge alongside them but served as support personnel. Later, beginning around the time of Louis XII (1498-1515), they increasingly preferred to separate from the men-at-arms and form specific companies of their own, which soon came to be known as 'light cavalry'."
 
- EDG_mission_FRA_2_27_title:0 "§R拿破仑军事改革§!"
- EDG_mission_FRA_2_27_desc:0 "我们的军队服务人民、无上光荣！我们带着鲜艳战旗奔赴战场，我们训练有素、战术精湛，将会令任何敌人闻风丧胆。"
+EDG_mission_FRA_2_27_title:0 "§RNapoleonic Reforms§!" # Napoleonic Military Reforms
+EDG_mission_FRA_2_27_desc:0 "Our army serves the people and is supremely glorious! We march to battle with bright banners, we are well-trained and tactically proficient, and we will strike fear into the heart of any enemy."
 
- EDG_mission_FRA_2_29_title:0 "专制主义黎明"
- EDG_mission_FRA_2_29_desc:0 "君主不应该被传统、地方特权或贵族所限制。相反，他必须成为国家唯一的掌舵者。"
+EDG_mission_FRA_2_29_title:0 "Dawn of Absolutism"
+EDG_mission_FRA_2_29_desc:0 "The monarch should not be constrained by tradition, local privileges, or the nobility. On the contrary, he must become the sole helmsman of the state."
 
- EDG_mission_FRA_2_31_title:0 "发现北美大陆"
- EDG_mission_FRA_2_31_desc:0 "我们的航海家们请求王室资助一次探险西方大洋的任务。他们听说了有关富饶土地的传言，希望我们能为了法国的荣耀而宣称这些土地。关于遥远西方的神秘土地的传言四起。据说，它生机勃勃，充满了无法想象的奇迹。若此言不虚，它必将属于我们。"
+EDG_mission_FRA_2_31_title:0 "Discover North America" # Discover the North American Continent
+EDG_mission_FRA_2_31_desc:0 "Our navigators request royal patronage for an expedition to explore the Western Ocean. They have heard rumors of rich lands and hope we will claim them for the glory of France. Tales swirl of mysterious lands in the far West. It is said to be vibrant, full of unimaginable wonders. If this is true, it must belong to us."
 
- EDG_mission_FRA_2_32_title:0 "法属加拿大"
- EDG_mission_FRA_2_32_desc:0 "加拿大的土地比南方的领土更加的严寒恶劣，尽管如此，开发的时机已经成熟。雪山中有着异国毛皮、木材，矿藏也十分丰富。商人联盟正在向我们寻求资金支持以在北美立足，并以法兰西的荣耀为名。"
+EDG_mission_FRA_2_32_title:0 "French Canada"
+EDG_mission_FRA_2_32_desc:0 "The lands of Canada are colder and harsher than the territories to the south. Nevertheless, the time for development is ripe. The snowy mountains hold exotic furs, timber, and abundant mineral resources. Merchant leagues are seeking our financial support to establish a foothold in North America, in the name of France's glory."
 
- EDG_mission_FRA_2_33_title:0 "殖民手段"
- EDG_mission_FRA_2_33_desc:0 "建立新的殖民地和前哨站将有助于拓展我国在海外的影响力，并进一步增加在国内外的经济收益和军事力量。"
+EDG_mission_FRA_2_33_title:0 "Colonial Means"
+EDG_mission_FRA_2_33_desc:0 "Establishing new colonies and outposts will help expand our nation's influence overseas and further increase economic gains and military strength both domestically and abroad."
 
- EDG_mission_FRA_2_34_title:0 "主导美洲"
- EDG_mission_FRA_2_34_desc:0 "随着我们在美洲影响力的扩大，美洲这片广阔的土地逐渐成为我们的后花园，我们对美洲有无可否认的主权。"
+EDG_mission_FRA_2_34_title:0 "Dominate the Americas"
+EDG_mission_FRA_2_34_desc:0 "As our influence in the Americas expands, this vast land gradually becomes our backyard. Our sovereignty over the Americas is undeniable."
 
- EDG_mission_FRA_2_35_title:0 "掌握新大陆"
- EDG_mission_FRA_2_35_desc:0 "自从哥伦布发现新大陆以来，我们在新大陆的影响力就不断地扩大，如今，我们已然是新大陆无可争议的霸主。"
+EDG_mission_FRA_2_35_title:0 "Master the New World"
+EDG_mission_FRA_2_35_desc:0 "Since Columbus discovered the New World, our influence there has continuously grown. Today, we are the undisputed hegemon of the New World."
 
- EDG_mission_FRA_3_2_title:0 "阿基坦公国"
- EDG_mission_FRA_3_2_desc:0 "自从清洁派在法兰西南部崛起后，阿基坦脱离了英格兰王国的控制，并长期斡旋于法兰西和阿尔勒王国之间。我们应当结束阿基坦公国的独立状态，并将其整合入我们的领地。"
+EDG_mission_FRA_3_2_title:0 "Duchy of Aquitaine"
+EDG_mission_FRA_3_2_desc:0 "Since the rise of the Cathars in southern France, Aquitaine broke free from the control of the Kingdom of England and has long maneuvered between France and the Kingdom of Arles. We should end the independent status of the Duchy of Aquitaine and integrate it into our domain."
 
- EDG_mission_FRA_3_3_title:0 "第三次阿尔比十字军"
- EDG_mission_FRA_3_3_desc:0 "两次阿尔比十字军的失败为圣彼得的宗座蒙上了一层不祥的阴云，但法兰西的失败不可能继续下去，我们必然要将清洁派的王庭粉碎。"
+EDG_mission_FRA_3_3_title:0 "3rd Albigensian Crusade" #  # Third Albigensian Crusade
+EDG_mission_FRA_3_3_desc:0 "The failures of the two Albigensian Crusades cast an ominous shadow over the Holy See of Saint Peter, but France's defeat cannot continue. We must shatter the royal court of the Cathars."
 
- EDG_mission_FRA_3_4_title:0 "罗马的圣座"
- EDG_mission_FRA_3_4_desc:0 "横亘于我国与意大利之间的阿尔卑斯山脉，几个世纪以来一直保护着意大利人的安居乐业。我们若要征服意大利，就必须越过这一天险，确保掌控通过悬崖峭壁的山口。我们横扫欧洲的下一个征服乃是进取意大利之膏腴。那矫饰自大的僧侣和豪绅的聚集之处，将成为我们版图中一条华丽的长靴。"
+EDG_mission_FRA_3_4_title:0 "Holy See of Rome"
+EDG_mission_FRA_3_4_desc:0 "The Alps, towering between our nation and Italy, have for centuries protected the peaceful lives of the Italians. If we are to conquer Italy, we must traverse this natural barrier, securing control over the mountain passes through the sheer cliffs. Our next conquest sweeping across Europe is to seize the fertile lands of Italy. That gathering place of pretentious monks and wealthy magnates shall become a splendid boot on our map."
 
- EDG_mission_FRA_3_5_title:0 "吕内维尔和约"
- EDG_mission_FRA_3_5_desc:0 "热那亚的商人时常与我们的王室保持着良好关系。然而，他们的港口蕴藏着巨大的财富，因此我们可以考虑占领当地，以此资助我们的目标和安排。热那亚的商业机遇决对不可忽视。商人们之间流传着来自热那亚的钱币足以装满十个钱包的传说。确保这一收入来源对我国的内外事务都至关重要。"
+EDG_mission_FRA_3_5_title:0 "Treaty of Lunéville"
+EDG_mission_FRA_3_5_desc:0 "The merchants of Genoa have often maintained good relations with our royal house. However, their harbor holds immense wealth, so we might consider occupying the area to fund our objectives and arrangements. The commercial opportunities of Genoa must not be overlooked. Legends among merchants say that coin from Genoa could fill ten purses. Securing this source of revenue is crucial for our affairs, both internal and external."
 
- EDG_mission_FRA_3_6_title:0 "西西里晚祷"
- EDG_mission_FRA_3_6_desc:0 "1254年，康拉德四世去世，其弟弟“私生子”曼弗雷德篡夺了他侄儿康拉丁的西西里王位，但这也导致西西里失去了来自德意志的任何支持，霍亨施陶芬王朝在西西里的统治开始松动，希腊人社区现在成为了西西里王国内部的一颗定时炸弹。1266年，经过热那亚人的牵线搭桥，墨西拿和锡拉库扎两地的希腊人拿起长刀，以西西里教堂的晚祷钟声为号，瞬间西西里的东西两侧海岸沦陷于希腊人之手，锡拉库扎天主教堂被大火所吞噬，而早有准备的迪·萨伏伊将军望见烽火，率领着它的军队登上了西西里岛的海滩，曼弗雷德不知所踪，有人说他藏匿在了西西里的群山当中的某个村落，也有人说他乘船离开西西里的过程当中不幸海难身亡。西西里的海滨地带在阿基米德罹难之后再一次属于希腊人。"
+EDG_mission_FRA_3_6_title:0 "Sicilian Vespers"
+EDG_mission_FRA_3_6_desc:0 "In 1254, Conrad IV died, and his illegitimate brother Manfred usurped the Sicilian throne from his nephew Conradin. This, however, resulted in Sicily losing any support from Germany, and the Hohenstaufen dynasty's rule in Sicily began to falter. The Greek communities now became a ticking time bomb within the Kingdom of Sicily. In 1266, through the mediation of the Genoese, the Greeks of Messina and Syracuse took up arms. At the signal of the vespers bells from Sicilian churches, both the eastern and western coasts of Sicily instantly fell into Greek hands. The Cathedral of Syracuse was engulfed in flames. General di Savoia, who had long been prepared, saw the beacon fires and led his army onto the beaches of Sicily. Manfred disappeared without a trace—some say he hid in a village amidst the Sicilian mountains, others claim he perished in a shipwreck while attempting to flee Sicily by sea. The coastal regions of Sicily, for the first time since Archimedes' demise, belonged once again to the Greeks."
 
- EDG_mission_FRA_3_7_title:0 "那不勒斯王冠"
- EDG_mission_FRA_3_7_desc:0 "南意大利的那不勒斯王国及其领土构成了控制地中海贸易的一个重要节点。我们必须获取这些领土，以此从贸易中获益。菲利普·德·科米斯（Philippe de Commynes）在他的《回忆录》里这样写道，这是一位在一支强大军队护送下的国王。1494年7月28日，他离开格勒诺布尔。9月5日，他在都灵受到热烈欢迎。他望向那不勒斯，和更远一些的耶路撒冷。法王相信他可以改变世界的命运，促使基督重返大地。"
+EDG_mission_FRA_3_7_title:0 "Crown of Naples"
+EDG_mission_FRA_3_7_desc:0 "The Kingdom of Naples in Southern Italy and its territories constitute a crucial node for controlling Mediterranean trade. We must acquire these lands to benefit from that commerce. Philippe de Commynes wrote in his Memoirs: 'Here was a king, escorted by a powerful army. On July 28, 1494, he departed from Grenoble. On September 5, he was warmly welcomed in Turin. He looked toward Naples, and further still, toward Jerusalem. The King of France believed he could alter the destiny of the world and hasten the return of Christ to Earth.'"
 
- EDG_mission_FRA_3_8_title:0 "西欧霸权"
- EDG_mission_FRA_3_8_desc:0 "欧陆不过是施展我们霸业的舞台。那些曾经无数次妄想扼杀我们伟大事业的敌寇终将拜倒在我们脚下。"
+EDG_mission_FRA_3_8_title:0 "Hegemony in Western Europe"
+EDG_mission_FRA_3_8_desc:0 "The European continent is but a stage upon which to enact our hegemonic ambitions. Those enemies who have countless times sought to strangle our great endeavor shall ultimately kneel at our feet."
 
- EDG_mission_FRA_3_10_title:0 "收回加来"
- EDG_mission_FRA_3_10_desc:0 "奸诈的英格兰国王夺取了加莱，并将其作为进攻法兰西的基地。我们不能容许这种事情继续下去，并夺回法兰西的失地。"
+EDG_mission_FRA_3_10_title:0 "Recover Calais"
+EDG_mission_FRA_3_10_desc:0 "The treacherous King of England seized Calais and uses it as a base to attack France. We cannot allow this to continue and must reclaim this lost French territory."
 
- EDG_mission_FRA_3_11_title:0 "奈梅亨条约"
- EDG_mission_FRA_3_11_desc:0 "奈梅亨条约体现了路易十四时代法国在欧洲的霸权。此外他还打破国际惯例，第一次用法文代替拉丁文书写国际条约，提高了法国的国际威信。"
+EDG_mission_FRA_3_11_title:0 "Treaty of Nijmegen"
+EDG_mission_FRA_3_11_desc:0 "The Treaty of Nijmegen embodies French hegemony in Europe during the age of Louis XIV. Furthermore, breaking international convention, he had the treaty written in French for the first time instead of Latin, enhancing France's international prestige."
 
- EDG_mission_FRA_3_12_title:0 "影响丹麦联邦"
- EDG_mission_FRA_3_12_desc:0 "在1434年，瑞典农民及矿工发动骚乱，其后不断有零星骚乱，各地的贵族通过种种方法来削弱王权，这让埃里克转而寻求国内市民阶层的支持，他不断联合市民阶层攻击贵族势力，希望保持自己的权力并削弱国内的反对派。但丹麦国内的市民阶层对埃里克的朝令夕改、喜怒无常更为感到忌惮，并于奥胡斯举行了一场会议，制定了建立商业邦联的计划。在丹麦贵族反对埃里克指定的继承人后，埃里克态度强硬，最终爆发了一场内战。瑞典摄政卡尔八世因此彻底控制了瑞典的国政，使得瑞典和挪威实质上摆脱了卡尔玛联盟。埃里克不敌国内贵族，为获得国内市民阶层的支持，不断给予市民阶层更多的权力，甚至转而寻求卡尔八世的支持，许诺将斯科讷地区割让给瑞典。在瑞典与国内市民阶层的帮助下，埃里克成功镇压了国内的叛乱，却不愿意割让斯科讷，导致瑞典放弃了与埃里克的合作关系，转而通过物力控制了斯科讷。失去外部援助的埃里克渴望在国内巩固自己的统治，他意识到自己给予市民阶层过多的权力，以至于市民阶层威胁到了王权，于是又采取了许多政策用以削弱市民的权力，最终于1439年爆发了市民运动，市民们击败了埃里克，强迫埃里克给予各地自治市更大的权力，使得丹麦王国名存实亡，并组建了一个商业邦联。"
+EDG_mission_FRA_3_12_title:0 "Influence the Danish" # Influence the Danish Confederacy
+EDG_mission_FRA_3_12_desc:0 "In 1434, Swedish peasants and miners instigated unrest, followed by sporadic disturbances. Nobles across the land employed various methods to weaken royal power, prompting Eric to seek support from the domestic burgher class. He continuously allied with the burghers to attack noble factions, hoping to maintain his own power and weaken domestic opposition. However, the burghers in Denmark were even more wary of Eric's capriciousness and erratic temperament. In Aarhus, they convened a meeting and devised a plan to establish a commercial confederation. After Danish nobles opposed Eric's designated successor, Eric adopted a hardline stance, ultimately leading to civil war. The Swedish regent, Charles VIII, thereby gained complete control over Swedish governance, effectively separating Sweden and Norway from the Kalmar Union. Outmatched by the domestic nobility, Eric, in an effort to secure support from the burghers, continuously granted them more power, even turning to Charles VIII for support, promising to cede the Scania region to Sweden. With the help of Sweden and the domestic burghers, Eric successfully suppressed the domestic rebellion but was unwilling to cede Scania, leading Sweden to abandon its cooperative relationship with Eric and instead physically occupy Scania. Losing external aid, Eric became desperate to consolidate his rule within the country. He realized he had granted the burghers excessive power, to the point of threatening royal authority, and thus implemented many policies to weaken their power. This ultimately triggered a burgher uprising in 1439. The burghers defeated Eric, forcing him to grant greater autonomy to various municipalities, rendering the Kingdom of Denmark nominal and establishing a commercial confederation."
 
- EDG_mission_FRA_3_15_title:0 "苏格兰王系"
- EDG_mission_FRA_3_15_desc:0 "苏格兰王国长期维持着选王制度，但这并不意味着我们无法在苏格兰建立一个卡佩王朝的支系政权，只要我们加强同苏格兰的友好关系，他们将能够同意让我们家族的成员统治苏格兰的土地。"
+EDG_mission_FRA_3_15_title:0 "Scottish Royal Line"
+EDG_mission_FRA_3_15_desc:0 "The Kingdom of Scotland has long maintained an elective monarchy, but this does not mean we cannot establish a Capetian cadet branch rule in Scotland. As long as we strengthen our friendly relations with Scotland, they will be able to agree to have a member of our family govern Scottish lands."
 
- EDG_mission_FRA_3_16_title:0 "永结盟好"
- EDG_mission_FRA_3_16_desc:0 "我们同苏格兰的世交经历了时间和历史的考验，现在是时候将苏格兰的权杖牢牢掌握在法兰西国王的手中了。"
+EDG_mission_FRA_3_16_title:0 "Perpetual Alliance"
+EDG_mission_FRA_3_16_desc:0 "Our longstanding friendship with Scotland has endured the test of time and history. Now is the moment to firmly grasp the scepter of Scotland in the hands of the King of France."
 
- EDG_mission_FRA_3_18_title:0 "直面帝国"
- EDG_mission_FRA_3_18_desc:0 "神圣罗马帝国是法兰西扩张的最大障碍，也是一直以来的绊脚石。我们要么废除帝国，为我等雄心壮志铺平道路，要么就要把帝国纳入法兰西的控制之下。"
+EDG_mission_FRA_3_18_title:0 "Confront the Empire"
+EDG_mission_FRA_3_18_desc:0 "The Holy Roman Empire is the greatest obstacle and persistent stumbling block to French expansion. We must either abolish the Empire to pave the way for our ambitions or bring it under French control."
 
- EDG_mission_FRA_3_20_title:0 "打碎帝国疆界"
- EDG_mission_FRA_3_20_desc:0 "东边神圣罗马帝国那所谓的疆界不过是玩笑而已，既不稳固又无如我军士兵那般优秀的战士驻守。他们的边防很快将在强大的法兰西军队面前化为齑粉。"
+EDG_mission_FRA_3_20_title:0 "Shatter Imperial Borders"
+EDG_mission_FRA_3_20_desc:0 "The so-called borders of the Holy Roman Empire to the east are nothing but a joke, neither solid nor guarded by warriors as excellent as our soldiers. Their frontier defenses will soon turn to dust before the might of the French army."
 
- EDG_mission_FRA_3_22_title:0 "高卢宣言"
- EDG_mission_FRA_3_22_desc:0 "皇帝治下的德意志领土不过是我们雄伟征途上的一个唾手可得的战利品。征服之并将其并入法兰西领土将会从我们的边界上消除又一个威胁。当然，我们征服的步伐不会停留在西欧。"
+EDG_mission_FRA_3_22_title:0 "Gaulish Proclamation"
+EDG_mission_FRA_3_22_desc:0 "The German territories under the Emperor's rule are merely a readily obtainable trophy on our magnificent march. Conquering and annexing them into French territory will remove another threat from our borders. And of course, our conquest will not halt in Western Europe."
 
- EDG_mission_FRA_3_25_title:0 "皇家兵工厂"
- EDG_mission_FRA_3_25_desc:0 "我们将在全国建立皇家兵工厂，让我们能够源源不断地产出最优质的战争机器，尤其是愈来愈发挥重要作用的火炮。"
+EDG_mission_FRA_3_25_title:0 "Royal Arsenal"
+EDG_mission_FRA_3_25_desc:0 "We shall establish royal arsenals across the nation, enabling us to produce a continuous supply of the finest war machines, especially the increasingly crucial artillery."
 
- EDG_mission_FRA_3_26_title:0 "柯尔贝尔改革"
- EDG_mission_FRA_3_26_desc:0 "柯尔伯出生于商人家庭，原为马扎然的家务总管。在受到路易十四的赏识后，先是担任财政总监，后又因为功绩卓著被任命为王室国务秘书和海军国务秘书，可以说，他已被赋予事实上的首相权力。柯尔伯在任内积极进行财政改革，大力推行重商主义政策，大力兴办王家手工工场，使法国经济再次呈现繁荣景象。作为一种政治与经济学说，柯尔贝尔主义与重商主义类似，其核心观点认为法兰西的财富需要为国家服务，并进一步提高君主对于权力的掌握。"
+EDG_mission_FRA_3_26_title:0 "Colbert's Reforms"
+EDG_mission_FRA_3_26_desc:0 "Colbert was born into a merchant family and originally served as Mazarin's household steward. After gaining the favor of Louis XIV, he first became Controller-General of Finances, and later, due to his outstanding achievements, was appointed Secretary of State for the Royal Household and Secretary of State for the Navy. It can be said he was granted de facto prime ministerial power. During his tenure, Colbert actively pursued financial reforms, vigorously promoted mercantilist policies, and vigorously established royal manufactories, restoring prosperity to the French economy. As a political and economic doctrine, Colbertism resembles mercantilism; its core tenet is that the wealth of France must serve the state and further enhance the monarch's grasp on power."
 
- EDG_mission_FRA_3_28_title:0 "波伦亚宗教协议"
- EDG_mission_FRA_3_28_desc:0 "1515年12月在意大利波伦亚谈判后达成。1516年8月18日由利奥十世以敕谕形式颁布，协定废除了1438年《布尔日国事诏书》中关于高级教职由教士团体选出的规定，规定高级教职由国王提出候选人，教皇批准;若教皇不批准，则在三个月中国王另选他人，过期由教皇自行任命。同时法国宣布放弃巴塞尔会议关于宗教会议高于教皇权威的原则，允许教皇获得主教任职首年的年贡(首岁教捐制)。这一协定消除了教皇和法国教会之间的矛盾，使国王得到了高级教士的控制权。"
+EDG_mission_FRA_3_28_title:0 "Concordat of Bologna"
+EDG_mission_FRA_3_28_desc:0 "Negotiated in Bologna, Italy in December 1515 and promulgated by Pope Leo X in the form of a papal bull on August 18, 1516. The agreement abolished the provision in the 1438 Pragmatic Sanction of Bourges regarding the election of high ecclesiastical offices by clerical bodies, stipulating that candidates for high offices be nominated by the King and approved by the Pope; if the Pope did not approve, the King would nominate another candidate within three months, after which the Pope could make the appointment himself. Simultaneously, France renounced the principle established at the Council of Basel regarding the superiority of church councils over papal authority and allowed the Pope to receive the annates (first year's revenue) from bishoprics. This agreement eliminated conflicts between the Pope and the French church, granting the King control over high clergy appointments."
 
- EDG_mission_FRA_3_30_title:0 "§R拿破仑法典§!"
- EDG_mission_FRA_3_30_desc:0 "若我们不制定一个中央民法典来规范社会的公序，我们的社会将无法经受内外部的检验。"
+EDG_mission_FRA_3_30_title:0 "§RNapoleonic Code§!"
+EDG_mission_FRA_3_30_desc:0 "If we do not establish a central civil code to regulate the public order of our society, it will not withstand internal and external scrutiny."
 
- EDG_mission_FRA_3_32_title:0 "成立法属海地"
- EDG_mission_FRA_3_32_desc:0 "商人联盟正在向我们寻求资金支持以在加勒比立足，并以法兰西的荣耀为名。"
+EDG_mission_FRA_3_32_title:0 "Establish French Haiti"
+EDG_mission_FRA_3_32_desc:0 "Merchant leagues are seeking our financial support to establish a foothold in the Caribbean, in the name of France's glory."
 
- EDG_mission_FRA_4_1_title:0 "§Y分裂的王国§!"
- EDG_mission_FRA_4_1_desc:0 "卡佩王朝的王冠依然耀眼，于格七世抵抗外敌的军事胜利更是让他树立了极大的威望，但对于四面树敌的法兰西王国而言，前方的路仍充满荆棘和未知。"
+EDG_mission_FRA_4_1_title:0 "§YThe Divided Kingdom§!"
+EDG_mission_FRA_4_1_desc:0 "The crown of the Capetian dynasty still shines brightly, and Hugh VII's military victories against foreign invaders have greatly bolstered his prestige. Yet for the Kingdom of France, beset by enemies on all sides, the road ahead remains fraught with thorns and uncertainties."
 
- EDG_mission_FRA_4_2_title:0 "整合阿摩里卡"
- EDG_mission_FRA_4_2_desc:0 "布列塔尼公国还未正确认识其与法兰西王室的关系。我们应当劝说它归顺。"
+EDG_mission_FRA_4_2_title:0 "Integrate Armorica"
+EDG_mission_FRA_4_2_desc:0 "The Duchy of Brittany has yet to correctly recognize its relationship with the French royal house. We should persuade it to submit."
 
- EDG_mission_FRA_4_4_title:0 "再征服运动"
- EDG_mission_FRA_4_4_desc:0 "在北方的基督教国王们陷入内部斗争之时，随着马林王朝在摩洛哥北部的顽抗，陷入内乱的穆瓦希德王朝的势力愈发局限于马拉喀什近郊，最初委统治伊比利亚领地的世袭总督们争先恐后的宣布独立，来自阿非利加的霸权再一次在伊比利亚灰飞烟灭，尽管总督们互相之间曾经签订“永世不得互战”的互保条约，但嫌隙的种子发芽的力量并非一纸空文可以约束。伊比利亚再一次进入了诸侯混战的时代，在后世史学家的眼中，13世纪14世纪上半叶被称为“第三次泰法时代”。在这一百五十年内，基督教徒和穆斯林之间的边界冲突从来就没有彻底终止过，其中以葡萄牙国王和阿斯图里亚斯国王所发动的一次针对里斯本的进攻最为盛大，但由于过于冒进在科英布拉以南遭到穆斯林的伏击，最终不了了之。但随着清洁派势力在南法的不断巩固壮大与天主教国家对十字军东征这个概念的越发厌倦，比利牛斯山以南逐渐越发成为一个相对独立于天主教世界的“小世界”，尽管来自外界的干涉时有发生，但终究没有改变双方战略相持的局面。但随着阿斯图里亚斯国王伊格纳西三世发动了针对图莱图拉的十字军，伊比利亚的纷争之火再一次被点燃。"
+EDG_mission_FRA_4_4_title:0 "Reconquista"
+EDG_mission_FRA_4_4_desc:0 "While the Christian kings of the North were embroiled in internal strife, the Almohad Caliphate, beset by civil war, saw its power increasingly confined to the outskirts of Marrakesh as the Marinids resisted fiercely in northern Morocco. The hereditary governors originally entrusted with ruling the Iberian territories rushed to declare independence. Hegemony from Africa once again crumbled to dust in Iberia. Although the governors had initially signed a mutual defense pact vowing 'eternal peace among themselves,' the sprouting seeds of discord could not be constrained by mere paper. Iberia once more entered an era of warring states, which later historians would call the 'Third Taifa Period' during the first half of the 13th and 14th centuries. Throughout this 150-year period, border conflicts between Christians and Muslims never fully ceased. The most significant was a major offensive against Lisbon launched by the King of Portugal and the King of Asturias. However, due to overextension, they were ambushed by Muslims south of Coimbra and ultimately achieved nothing. Yet, as the Cathar forces steadily consolidated and grew stronger in Southern France, and Catholic states grew increasingly weary of the concept of crusades, the lands south of the Pyrenees gradually became a relatively independent 'small world' separate from the Catholic sphere. Although interference from outside occurred occasionally, it ultimately did not change the strategic stalemate between the two sides. However, when King Ignacio III of Asturias launched a crusade against Tulaytulah, the fires of conflict in Iberia were reignited once more."
 
- EDG_mission_FRA_4_5_title:0 "希梅纳遗产"
- EDG_mission_FRA_4_5_desc:0 "伊比利亚是一些欧洲最杰出和最负盛名的王朝发祥地。面对这些政治军事力量雄厚的国家，我们得谨慎决定，是与其并肩还是拔刀相向。"
+EDG_mission_FRA_4_5_title:0 "Legacy of the Jiménez"
+EDG_mission_FRA_4_5_desc:0 "Iberia is the birthplace of some of Europe's most distinguished and renowned dynasties. Facing these states with their considerable political and military strength, we must carefully decide whether to stand alongside them or draw our blades against them."
 
- EDG_mission_FRA_4_7_title:0 "半岛战争"
- EDG_mission_FRA_4_7_desc:0 "伊比利亚的冒头新君已经嘲弄我们太久了。我们必须解放他们锁链下的人民，让他们的王室见识见识我们的断头台。"
+EDG_mission_FRA_4_7_title:0 "Peninsular War"
+EDG_mission_FRA_4_7_desc:0 "The upstart monarchs of Iberia have mocked us for far too long. We must liberate the people under their chains and let their royal houses witness our guillotine."
 
- EDG_mission_FRA_4_9_title:0 "再会加洛林"
- EDG_mission_FRA_4_9_desc:0 "1428年，由于对法王排挤自己的行为感到不满，同时受到了英格兰国王和洛塔林吉亚国王的煽动，阿朗松公爵宣布转投英格兰门下，法王于格六世出兵试图占据阿朗松并趁机夺回诺曼底，但他同时遇到了内部和外部的阻拦。法王的军事理想遭到领主的暗中抵制，因为他们担心自己会成为下一个阿朗松，由于军队没有及时集结，法王的军队在卡昂城外被阻击，阿朗松终究是背弃巴黎而去。更为致命的是，于格六世在卡昂的围城战中因流矢而受伤，洛塔林吉亚国王路维希德七世趁机入侵法兰西，在卡昂击溃并囚禁了于格六世，由于洛塔林吉亚国王路维希德七世的母亲为卡佩王朝成员，洛塔林吉亚国王强迫于格六世签署了“卡昂条约”，要求于格六世废除法兰西王太子于格七世的继承权，并将路维希德七世确立为法兰西王位的继承人。于格六世很快死于感染，路维希德七世则宣称了法兰西的王位，意图在兰斯加冕法兰西国王。而英格兰的军队于不久后登陆诺曼底，阿尔勒更是从南方发动入侵。王太子于格临危受命，但腹背受敌、疲于奔命，就在洛塔林吉亚国王路维希德七世抵达兰斯时，令人意想不到的是，一名名为让娜·达克的奥尔良农家少女率领忠于王太子的军士紧闭兰斯的城门，抵抗洛塔林吉亚人的进攻，这使得洛塔林吉亚国王失去了在兰斯加冕的最佳时期，并被迫返回国土平定德意志领主的叛乱。在后续的战争中，王太子于格于1432年成功在兰斯加冕为法国国王，王号为于格七世，并先后击退了英格兰、洛塔林吉亚和阿尔勒的进攻。毫无疑问，洛塔林吉亚王国长期以来都是我们的眼中钉，若法兰西要建立欧陆霸权，加洛林王朝的政权必须被瓦解。"
+EDG_mission_FRA_4_9_title:0 "Carolingian Reunion" # Reunion with the Carolingians
+EDG_mission_FRA_4_9_desc:0 "In 1428, dissatisfied with the French king's marginalization of him and incited by the Kings of England and Lotharingia, the Duke of Alençon declared his allegiance to England. King Hugh VI of France dispatched troops, attempting to seize Alençon and recapture Normandy in the process. However, he encountered resistance both internally and externally. The king's military ambitions were secretly resisted by his lords, who feared becoming the next Alençon. Due to the delayed assembly of his army, the king's forces were halted outside Caen, and Alençon ultimately turned its back on Paris. More fatally, Hugh VI was wounded by a stray arrow during the siege of Caen. Seizing the opportunity, King Louis VII of Lotharingia invaded France, defeated, and captured Hugh VI at Caen. Since King Louis VII's mother was a member of the Capetian dynasty, he forced Hugh VI to sign the 'Treaty of Caen,' demanding that Hugh VI revoke the inheritance rights of the French Dauphin, Hugh VII, and establish Louis VII as the heir to the French throne. Hugh VI soon died from infection, and Louis VII claimed the French throne, intending to be crowned King of France at Reims. Shortly after, English forces landed in Normandy, and Arles launched an invasion from the south. Dauphin Hugh was tasked with responsibility in a time of crisis, but found himself attacked from all sides and exhausted. Just as King Louis VII of Lotharingia arrived at Reims, unexpectedly, a peasant girl from Orléans named Jeanne d'Arc led the soldiers loyal to the Dauphin to shut the gates of Reims, resisting the Lotharingian assault. This deprived the Lotharingian king of the best opportunity to be crowned at Reims and forced him to return to his lands to quell rebellions by German lords. In the subsequent war, Dauphin Hugh successfully crowned himself King of France at Reims in 1432, taking the regnal name Hugh VII, and successively repelled invasions from England, Lotharingia, and Arles. There is no doubt that the Kingdom of Lotharingia has long been a thorn in our side. If France is to establish continental hegemony, the Carolingian regime must be dismantled."
 
- EDG_mission_FRA_4_10_title:0 "瓦隆尼亚边区"
- EDG_mission_FRA_4_10_desc:0 "瓦隆尼亚地区河流密布、森林茂密、矿产丰富，更重要的是，此地是我们与神圣罗马帝国的重要军事缓冲区，我们必须在此地建立军事边区，以拱卫我们的国土。"
+EDG_mission_FRA_4_10_title:0 "Wallonian Marches"
+EDG_mission_FRA_4_10_desc:0 "The Wallonia region is dense with rivers, forests, and rich in mineral resources. More importantly, this area serves as a crucial military buffer zone between us and the Holy Roman Empire. We must establish military marches here to secure our national territory."
 
- EDG_mission_FRA_4_11_title:0 "遗产战争"
- EDG_mission_FRA_4_11_desc:0 "低地诸邦国的海岸蕴藏了巨大的商业潜力。巩固我国在此的存在并确保商业的有效运作将会是明智之举,我们应当对低地施加影响，改善我们在此地的形象，此举或许能为我们赢来盟友或者属国。"
+EDG_mission_FRA_4_11_title:0 "War of Succession"
+EDG_mission_FRA_4_11_desc:0 "The coasts of the Low Countries hold immense commercial potential. Consolidating our presence there and ensuring efficient commercial operations would be wise. We should exert influence over the Low Countries to improve our image there; this might win us allies or vassals."
 
- EDG_mission_FRA_4_12_title:0 "巴达维亚元首"
- EDG_mission_FRA_4_12_desc:0 "低地地区历来有反抗压迫者的革命和叛乱的历史。因此，我们必须帮助他们，并让他们置身于我们的保护之下。"
+EDG_mission_FRA_4_12_title:0 "Batavian Stadtholder"
+EDG_mission_FRA_4_12_desc:0 "The Low Countries have a history of revolutions and rebellions against oppressors. Therefore, we must aid them and place them under our protection."
 
- EDG_mission_FRA_4_13_title:0 "法兰西海峡"
- EDG_mission_FRA_4_13_desc:0 "法兰西的霸权带来了新的商业机遇。让我们把握住它们，并将千里之外的财富带回我们的法兰西海峡。"
+EDG_mission_FRA_4_13_title:0 "French Channel"
+EDG_mission_FRA_4_13_desc:0 "French hegemony brings new commercial opportunities. Let us seize them and bring wealth from distant lands back to our French Channel."
 
- EDG_mission_FRA_4_14_title:0 "老同盟"
- EDG_mission_FRA_4_14_desc:0 "出于共同对抗英格兰的目的，我们一直与苏格兰保持良好的关系并签订了防御协定。为了进攻英格兰本土，我们应该让这一关系更进一步。"
+EDG_mission_FRA_4_14_title:0 "Auld Alliance"
+EDG_mission_FRA_4_14_desc:0 "For the shared purpose of opposing England, we have long maintained good relations with Scotland and signed a defensive agreement. To launch an offensive against the English mainland, we should take this relationship a step further."
 
- EDG_mission_FRA_4_15_title:0 "夺取伦敦"
- EDG_mission_FRA_4_15_desc:0 "英格兰是我们最头疼的宿敌，其存在令法兰西如芒在背。我们必须侧面包绕或正面击溃皇家海军，登陆大不列颠本岛，一劳永逸地终结掉英格兰。"
+EDG_mission_FRA_4_15_title:0 "Capture London"
+EDG_mission_FRA_4_15_desc:0 "England is our most troublesome archenemy, its existence a constant thorn in France's side. We must either outflank or directly crush the Royal Navy, land on the main island of Great Britain, and put an end to England once and for all."
 
- EDG_mission_FRA_4_16_title:0 "七国总督"
- EDG_mission_FRA_4_16_desc:0 "长久以来，英国人都是我们的眼中钉肉中刺。他们肆意干涉欧陆的局势、无礼于我们的领袖，威胁着我们的事业。因此必须将他们根除。征服[236.GetName]后，我们终于在不列颠群岛上有了立足之地，彻底消灭英格兰威胁的道路已经向我们敞开。"
+EDG_mission_FRA_4_16_title:0 "Governor of the Heptarchy"
+EDG_mission_FRA_4_16_desc:0 "For far too long, the English have been a thorn in our side. They arbitrarily interfere in continental affairs, show disrespect to our leaders, and threaten our endeavors. Therefore, they must be eradicated. Having conquered [236.GetName], we finally have a foothold in the British Isles, and the path to completely eliminating the English threat lies open before us."
 
- EDG_mission_FRA_4_17_title:0 "不列颠保护人"
- EDG_mission_FRA_4_17_desc:0 "既已征服不列颠诸岛，加之以我们的海上优势，将确保[Root.GetName]成为当之无愧的海洋霸主！"
+EDG_mission_FRA_4_17_title:0 "Protector of Britain"
+EDG_mission_FRA_4_17_desc:0 "Having now conquered the British Isles, combined with our naval supremacy, will ensure that [Root.GetName] becomes the undisputed master of the seas!"
 
- EDG_mission_FRA_4_19_title:0 "入侵帝国"
- EDG_mission_FRA_4_19_desc:0 "我们的德意志宿敌影响力的不断扩大，他们可悲地试图在内政和外交方面孤立我们。通过缔结政治婚姻来向境外扩大我们的影响力，我们必将面临不可避免的冲突，并与德意志的诸侯产生紧张的边境局势。"
+EDG_mission_FRA_4_19_title:0 "Invade the Empire"
+EDG_mission_FRA_4_19_desc:0 "Our German rivals are expanding their influence ever wider, pathetically attempting to isolate us in both domestic and foreign affairs. By extending our influence abroad through political marriages, we are bound to face inevitable conflicts and create tense border situations with the German princes."
 
- EDG_mission_FRA_4_20_title:0 "跨过莱茵河"
- EDG_mission_FRA_4_20_desc:0 "我国国境东方是阴险狡诈、阴险而欺压人民的暴君所统治的德意志领土。我们必须迅速解放他们的臣民，将他们的土地纳入我国领土。"
+EDG_mission_FRA_4_20_title:0 "Cross the Rhine"
+EDG_mission_FRA_4_20_desc:0 "To the east of our borders lie German territories ruled by treacherous, deceitful, and oppressive tyrants. We must swiftly liberate their subjects and incorporate their lands into our territory."
 
- EDG_mission_FRA_4_21_title:0 "我即浪潮"
- EDG_mission_FRA_4_21_desc:0 "假罗马帝国之名所行的过家家把戏，不过是场惨淡的后事与荒诞的妄想。将其摧毁并废除将会有助于我们的威望。"
+EDG_mission_FRA_4_21_title:0 "I Am the Tide"
+EDG_mission_FRA_4_21_desc:0 "The charade conducted under the name of the Roman Empire is nothing but a dismal aftermath and absurd delusion. Destroying and abolishing it will contribute to our prestige."
 
- EDG_mission_FRA_4_23_title:0 "投鞭多瑙河"
- EDG_mission_FRA_4_23_desc:0 "多瑙河是浩浩无垠的古罗马帝国的北部边境，被称作多瑙韦斯河，有一支罗马船队巡视其水域，沿岸碉堡是居民中心，她至今仍滋养着两岸的人民，甚至曾抵御了许多外敌——但她不可能阻挡法兰西的铁蹄。"
+EDG_mission_FRA_4_23_title:0 "Cast the Whip into the Danube" # Casting the Whip into the Danube
+EDG_mission_FRA_4_23_desc:0 "The Danube was the northern frontier of the vast Roman Empire, known as the Danuvius. A Roman fleet once patrolled its waters, and fortresses along its banks were centers of habitation. To this day, it nurtures the peoples on both its shores and has even repelled many foreign enemies—but it cannot halt the iron hoof of France."
 
- EDG_mission_FRA_4_24_title:0 "法国文艺复兴"
- EDG_mission_FRA_4_24_desc:0 "来自意大利的影响以及文艺复兴的曙光已经深入了我国的腹地。接纳科学、艺术与文化的进步对我们伟大的国家大有裨益。"
+EDG_mission_FRA_4_24_title:0 "French Renaissance"
+EDG_mission_FRA_4_24_desc:0 "Influences from Italy and the dawn of the Renaissance have penetrated deep into our nation's heartland. Embracing progress in science, art, and culture greatly benefits our great country."
 
- EDG_mission_FRA_4_25_title:0 "枫丹白露派"
- EDG_mission_FRA_4_25_desc:0 "接纳文艺复兴不过是启迪大众的第一步，当法王佛朗索瓦一世1515 年登基时，法国文艺复兴已经到来，弗朗西斯成为了一位热心的艺术赞助人。在他即位时，法国王宫里装饰的只有零散的伟大画作，没有一尊雕塑，既不古代也不现代。但弗朗西斯赞助了他那个时代的许多伟大艺术家，包括安德烈亚·德尔·萨托和列奥纳多·达·芬奇。后者被说服在晚年将法国作为自己的家。虽然达芬奇在法国期间很少画画，但他带来了许多最伟大的作品，包括《蒙娜丽莎》（在法国称为“La Joconde ”），这些作品在他去世后仍然留在法国。其他接受弗朗西斯赞助的主要艺术家包括金匠本韦努托·切利尼和画家罗索·菲奥伦蒂诺、朱利奥·罗马诺和普里马蒂乔，他们都受雇装饰弗朗西斯的各个宫殿。他还邀请了建筑师塞巴斯蒂亚诺·塞利奥(Sebastiano Serlio)，后者在法国的晚期职业生涯硕果累累。"
+EDG_mission_FRA_4_25_title:0 "Fontainebleau School"
+EDG_mission_FRA_4_25_desc:0 "Embracing the Renaissance is but the first step in enlightening the masses. When King François I ascended the throne in 1515, the French Renaissance had arrived, and Francis became an enthusiastic patron of the arts. At his accession, the French royal palace was adorned only with scattered great paintings, not a single sculpture—neither ancient nor modern. However, Francis sponsored many great artists of his time, including Andrea del Sarto and Leonardo da Vinci. The latter was persuaded to make France his home in his later years. Although Da Vinci painted little during his time in France, he brought with him many of his greatest works, including the Mona Lisa (known in France as La Joconde), which remained in France after his death. Other major artists who received Francis's patronage included the goldsmith Benvenuto Cellini and the painters Rosso Fiorentino, Giulio Romano, and Primaticcio, all employed to decorate Francis's various palaces. He also invited the architect Sebastiano Serlio, who had a fruitful late career in France."
 
- EDG_mission_FRA_4_26_title:0 "法兰西学院"
- EDG_mission_FRA_4_26_desc:0 "法国君主一度支持文艺复兴运动，并对人文主义思想采取保护态度。1530年，弗朗索瓦一世建立了王家学院，网罗专门人才专研希腊、拉丁和希伯来语。王家学院建立后，不仅成为法国高等学术研究的中心，唤起了人们对古典语言文字的兴趣，而且还成为与守旧势力的代表、天主教会控制的巴黎大学相抗衡的重要阵地。在法国大革命期间，王家学院改称法兰西学院。"
+EDG_mission_FRA_4_26_title:0 "French Academy"
+EDG_mission_FRA_4_26_desc:0 "The French monarch once supported the Renaissance movement and adopted a protective stance towards humanist thought. In 1530, Francis I established the Collège des Lecteurs Royaux (Royal College of Lecturers), gathering specialized talent to focus on Greek, Latin, and Hebrew. After its establishment, the Royal College not only became the center of higher academic research in France, rekindling interest in classical languages and literature, but also served as an important bastion against the conservative stronghold represented by the University of Paris, controlled by the Catholic Church. During the French Revolution, the Royal College was renamed the Institut de France."
 
- EDG_mission_FRA_4_27_title:0 "工业之火"
- EDG_mission_FRA_4_27_desc:0 "我国的工业复合体生产出了数不胜数的货物。当我们进入工业时代之后，我们必须确保工厂拥有足够的资金并且获得了良好的发展。"
+EDG_mission_FRA_4_27_title:0 "Fires of Industry"
+EDG_mission_FRA_4_27_desc:0 "Our nation's industrial complex produces an innumerable array of goods. As we enter the industrial age, we must ensure our factories are adequately funded and well-developed."
 
- EDG_mission_FRA_4_29_title:0 "南特敕令"
- EDG_mission_FRA_4_29_desc:0 "当危险的宗教改革浪潮席卷欧洲时，我们必须忍耐并超越所有人对我们的期待。"
+EDG_mission_FRA_4_29_title:0 "Edict of Nantes"
+EDG_mission_FRA_4_29_desc:0 "When the dangerous tide of the Reformation sweeps across Europe, we must endure and surpass all expectations placed upon us."
 
- EDG_mission_FRA_4_31_title:0 "好望角"
- EDG_mission_FRA_4_31_desc:0 "「当船队航至大西洋和印度洋交界的水域时，海面狂风大作，惊涛骇浪，几使整个船队覆没。最后巨浪把幸存船只推到一个未名岬角上，此舰队遂延存下来。迪亚士将此地命名为“风暴角”。」"
+EDG_mission_FRA_4_31_title:0 "Cape of Good Hope"
+EDG_mission_FRA_4_31_desc:0 "'When the fleet sailed into the waters where the Atlantic and Indian Oceans meet, fierce winds and terrifying waves arose, nearly capsizing the entire fleet. Finally, the giant waves pushed the surviving ships onto an unnamed cape, allowing the fleet to survive. Dias named this place the 'Cape of Storms.'"
 
- EDG_mission_FRA_4_32_title:0 "环非洲航行"
- EDG_mission_FRA_4_32_desc:0 "在好望角之外，会有怎样的大千世界等待着我们？"
+EDG_mission_FRA_4_32_title:0 "Rounding the Cape" # Circumnavigate Africa
+EDG_mission_FRA_4_32_desc:0 "Beyond the Cape of Good Hope, what vast world awaits us?"
 
- EDG_mission_FRA_4_33_title:0 "夺取开普敦"
- EDG_mission_FRA_4_33_desc:0 "好望角是通往东印度路线上的一个至关重要的航点，不消说，谁控制了此地，谁就控制了其他大国的亚洲野心。"
+EDG_mission_FRA_4_33_title:0 "Seize Cape Town"
+EDG_mission_FRA_4_33_desc:0 "The Cape of Good Hope is a crucial waypoint on the route to the East Indies. Needless to say, whoever controls this place controls the Asian ambitions of other great powers."
 
- EDG_mission_FRA_4_34_title:0 "独占印度"
- EDG_mission_FRA_4_34_desc:0 "印度的财富应该由[Root.GetAdjective]所独享。其他在印度占有据点的欧洲国家必须被驱逐出次大陆，如有必要可采取武力手段。印度地区以出产利润丰厚的矿藏和珍稀珠宝而闻名于世。不用说，在我们的管理下，该地区的土著居民会过得更好。"
+EDG_mission_FRA_4_34_title:0 "Monopolize India"
+EDG_mission_FRA_4_34_desc:0 "The wealth of India should be exclusively enjoyed by [Root.GetAdjective]. Other European nations holding outposts in India must be expelled from the subcontinent, by force if necessary. The Indian region is renowned worldwide for its production of profitable minerals and rare jewels. Needless to say, under our administration, the indigenous inhabitants of the area would fare better."
 
- EDG_mission_FRA_4_35_title:0 "粉碎曼陀罗"
- EDG_mission_FRA_4_35_desc:0 "勇者们带着真正的法国人特有的勇气，正在寻求政府的支持，来绘制南大洋广阔的空旷地带。据说那里也有我们可以夺取的土地，在别人抓住机会之前，我们应该赶快建立一个繁荣昌盛的殖民地。"
+EDG_mission_FRA_4_35_title:0 "Shatter the Mandala"
+EDG_mission_FRA_4_35_desc:0 "Brave adventurers, with the courage unique to true Frenchmen, are seeking government support to chart the vast, empty expanses of the Southern Ocean. It is said there are lands there we could seize. Before others seize the opportunity, we should swiftly establish a prosperous and thriving colony."
 
- EDG_mission_FRA_5_2_title:0 "驱逐英格兰"
- EDG_mission_FRA_5_2_desc:0 "诺曼底和加莱是法兰西的正统领土，却被一个非法的宣称者占据着。英格兰人在法兰西的每一个立足点必须都被悉数收复。"
+EDG_mission_FRA_5_2_title:0 "Expel England"
+EDG_mission_FRA_5_2_desc:0 "Normandy and Calais are rightful French territories, yet they are held by an illegitimate claimant. Every English foothold in France must be reclaimed."
 
- EDG_mission_FRA_5_3_title:0 "收回诺曼底"
- EDG_mission_FRA_5_3_desc:0 "诺曼底公国在法理上是法兰西王国的领地，理应回归到我们的统治之下。金雀花王朝如今面临兄弟阋墙的危险，英王的弟弟约翰很可能会背叛他的国王兄长，届时他或许会带领诺曼底投入我们的怀抱。"
+EDG_mission_FRA_5_3_title:0 "Reclaim Normandy"
+EDG_mission_FRA_5_3_desc:0 "The Duchy of Normandy is de jure territory of the Kingdom of France and should rightly return to our rule. The Plantagenet dynasty now faces the danger of fraternal strife; the English king's brother, John, is likely to betray his royal sibling. When that time comes, he might lead Normandy into our embrace."
 
- EDG_mission_FRA_5_5_title:0 "驱逐异教徒"
- EDG_mission_FRA_5_5_desc:0 "伊比利亚的异教徒在半岛上建立了诸多的政权，我们必须结束这一现状，将异教徒驱逐出伊比利亚的土地。"
+EDG_mission_FRA_5_5_title:0 "Expel the Heathens"
+EDG_mission_FRA_5_5_desc:0 "The heathens in Iberia have established numerous regimes on the peninsula. We must end this situation and drive the heathens from Iberian lands."
 
- EDG_mission_FRA_5_6_title:0 "比利牛斯条约"
- EDG_mission_FRA_5_6_desc:0 "我们是伊比利亚再统一的重要助力，法国人在伊比利亚有巨大的影响力，我们可以扩大我们在西班牙的影响力，并将两国的王冠集中于一人之手。"
+EDG_mission_FRA_5_6_title:0 "Treaty of the Pyrenees"
+EDG_mission_FRA_5_6_desc:0 "We are a significant force aiding the reunification of Iberia. The French possess immense influence in Iberia. We can expand our influence in Spain and unite the crowns of both nations in a single hand."
 
- EDG_mission_FRA_5_10_title:0 "夺取洛林"
- EDG_mission_FRA_5_10_desc:0 "洛林一词来源于“洛泰尔一世”的法语称谓，长期以来与法兰克之名密不可分。夺取洛林的土地将会是我们扩大欧陆霸权的必由之路，我们将从洛林出发，将法兰西的强权扩展到低地和整个德意志。"
+EDG_mission_FRA_5_10_title:0 "Seize Lorraine"
+EDG_mission_FRA_5_10_desc:0 "The name 'Lorraine' derives from the French appellation for 'Lothair I' and has long been inseparable from the Frankish name. Seizing the lands of Lorraine will be the necessary path to expanding our continental hegemony. From Lorraine, we shall extend French power into the Low Countries and across all of Germany."
 
- EDG_mission_FRA_5_12_title:0 "布洛涅行政区"
- EDG_mission_FRA_5_12_desc:0 "我们将在法兰西东北部建立布洛涅行政区，以帮助我们更好地统治低地和洛塔林吉亚的土地。"
+EDG_mission_FRA_5_12_title:0 "Boulogne District" # Boulogne Administrative Region
+EDG_mission_FRA_5_12_desc:0 "We shall establish the Boulogne Administrative Region in northeastern France to help us better govern the lands of the Low Countries and Lotharingia."
 
- EDG_mission_FRA_5_15_title:0 "驯服红龙"
- EDG_mission_FRA_5_15_desc:0 "威尔士亲王曾经是英格兰王位继承人所持有的头衔，后随着威尔士的独立，山下的红龙再度脱离了锁链，而我们会将他们驯服。"
+EDG_mission_FRA_5_15_title:0 "Tame the Red Dragon"
+EDG_mission_FRA_5_15_desc:0 "The Prince of Wales was once a title held by the heir to the English throne. Later, with the independence of Wales, the red dragon beneath the mountain broke free from its chains once more, but we shall tame it."
 
- EDG_mission_FRA_5_16_title:0 "征服爱尔兰"
- EDG_mission_FRA_5_16_desc:0 "爱尔兰的森林一直阻挡着外敌的入侵，但他们阻拦不了能征善战的法兰西人。我们将征服爱尔兰的土地，并开展我们的统治。"
+EDG_mission_FRA_5_16_title:0 "Conquer Ireland"
+EDG_mission_FRA_5_16_desc:0 "The forests of Ireland have long hindered invasions by foreign enemies, but they cannot stop the skilled and warlike French. We shall conquer the lands of Ireland and establish our rule."
 
- EDG_mission_FRA_5_20_title:0 "威斯特伐利亚王国"
- EDG_mission_FRA_5_20_desc:0 "在神圣罗马帝国统治威斯特伐利亚的时期，各种各样的政治实体在此地区纷纷出现，诸如明斯特、帕德博恩、奥斯纳布吕克和明登诸主教区，瓦尔德克、绍姆堡、利珀、拉文斯堡和马尔克诸伯爵领地，以及多特蒙德帝国直辖市，埃森隐修院辖地等等。这样分裂的状态并不有益于威斯特伐利亚的人民，我们会将这些破碎的领地统一于法兰西的王冠之下。"
+EDG_mission_FRA_5_20_title:0 "Kingdom of Westphalia"
+EDG_mission_FRA_5_20_desc:0 "During the period of Holy Roman Empire rule over Westphalia, a variety of political entities emerged in this region, such as the Prince-Bishoprics of Münster, Paderborn, Osnabrück, and Minden; the Counties of Waldeck, Schaumburg, Lippe, Ravensberg, and Mark; the Imperial Free City of Dortmund; and the Abbey of Essen, among others. Such a fragmented state is not beneficial for the people of Westphalia. We will unify these broken territories under the French crown."
 
- EDG_mission_FRA_5_22_title:0 "截断易北河"
- EDG_mission_FRA_5_22_desc:0 "易北河贯穿了德意志的部分区域，一些德意志封建领主寄希望于让易北河阻挡法兰西的进攻，我们会让他们知道这是多么可笑的想法。"
+EDG_mission_FRA_5_22_title:0 "Block the Elbe"
+EDG_mission_FRA_5_22_desc:0 "The Elbe River traverses parts of Germany. Some German feudal lords harbor hopes that the Elbe can halt the French advance. We will show them how laughable this notion is."
 
- EDG_mission_FRA_5_24_title:0 "开发乡村"
- EDG_mission_FRA_5_24_desc:0 "我们的疆土并不狭小。为了最大化商业与运输的效率，我们必须找到建立起初级基础设施网络的方法。"
+EDG_mission_FRA_5_24_title:0 "Develop the Countryside"
+EDG_mission_FRA_5_24_desc:0 "Our territory is not small. To maximize the efficiency of commerce and transportation, we must find ways to establish a primary infrastructure network."
 
- EDG_mission_FRA_5_25_title:0 "建筑十书"
- EDG_mission_FRA_5_25_desc:0 "《建筑十书》最初由罗马建筑家与军事工程师马库斯·维特鲁威斯·波利奥撰写，其讲述了建筑学的方方面面，并已经成为建筑学的基石。这本书中的知识将帮助我们建造更多杰出且华丽的建筑。"
+EDG_mission_FRA_5_25_title:0 "The Ten Books on Architecture"
+EDG_mission_FRA_5_25_desc:0 "The Ten Books on Architecture was originally written by the Roman architect and military engineer Marcus Vitruvius Pollio. It covers all aspects of architecture and has become a cornerstone of the discipline. The knowledge in this book will help us construct more outstanding and magnificent buildings."
 
- EDG_mission_FRA_5_26_title:0 "弗朗索瓦改革"
- EDG_mission_FRA_5_26_desc:0 "我国的贸易展会是经济与繁荣的家园。通过投资并扩大这一传统将使得我国疆域更加繁荣。"
+EDG_mission_FRA_5_26_title:0 "Reforms of François"
+EDG_mission_FRA_5_26_desc:0 "Our nation's trade fairs are the home of economy and prosperity. Investing in and expanding this tradition will bring greater prosperity to our realm."
 
- EDG_mission_FRA_5_27_title:0 "资本主义萌芽"
- EDG_mission_FRA_5_27_desc:0 "踏入未知领域确实充满了危险，但如果我们想要最大化收益就必须提高我们的贸易收入。"
+EDG_mission_FRA_5_27_title:0 "Sprouts of Capitalism"
+EDG_mission_FRA_5_27_desc:0 "Venturing into the unknown is indeed fraught with danger, but if we wish to maximize our gains, we must increase our trade income."
 
- EDG_mission_FRA_5_28_title:0 "§R法兰西银行§!"
- EDG_mission_FRA_5_28_desc:0 "革命黎明之际，我们的国家动荡不安，贫困潦倒。为了应对这一局面，我们必须树立一个至关重要的支柱，即我们自己的国家银行，以助力我们实现经济复苏。"
+EDG_mission_FRA_5_28_title:0 "§RBank of France§!"
+EDG_mission_FRA_5_28_desc:0 "As the dawn of revolution breaks, our nation is in turmoil and impoverished. To address this situation, we must establish a crucial pillar: our own national bank, to aid in our economic recovery."
 
- EDG_mission_FRA_5_29_title:0 "§R建立工商部§!"
- EDG_mission_FRA_5_29_desc:0 "欧洲和世界正在迎来煤炭和制造业产品的时代。如果我们要与时俱进，我们必须确保我们的基础设施和经济部门处于最高质量，以支持我们的内部和外部议程。"
+EDG_mission_FRA_5_29_title:0 "§RMinistry of Commerce§!" # Establish the Ministry of Industry and Commerce
+EDG_mission_FRA_5_29_desc:0 "Europe and the world are entering the era of coal and manufactured goods. If we are to keep pace with the times, we must ensure our infrastructure and economic sectors are of the highest quality to support our internal and external agendas."
 
- EDG_mission_FRA_5_30_title:0 "§R宗教裁定§!"
- EDG_mission_FRA_5_30_desc:0 "陈规旧律乃过时无用之物，然而宗教仍然可看做治国理政者手中一项强力的手柄，因此我们应该探索其潜在的用途。正如拿破仑所说，宗教在防止平民推翻富人方面发挥着卓越的作用。"
+EDG_mission_FRA_5_30_title:0 "§RReligious Verdict§!"
+EDG_mission_FRA_5_30_desc:0 "Old customs and laws are outdated and useless. However, religion can still be seen as a powerful handle in the hands of those who govern the state. Therefore, we should explore its potential uses. As Napoleon said, religion plays an outstanding role in preventing the common people from overthrowing the rich."
 
- EDG_mission_FRA_5_32_title:0 "垄断象牙海岸"
- EDG_mission_FRA_5_32_desc:0 "象牙海岸的贸易活动对我们扩大贸易权益而言至关重要，我们必须垄断象牙海岸的贸易，才能让美洲的产物源源不断地流入我们的口袋。"
+EDG_mission_FRA_5_32_title:0 "Monopolize the Ivory Coast"
+EDG_mission_FRA_5_32_desc:0 "Trade activities on the Ivory Coast are crucial for expanding our commercial interests. We must monopolize the trade of the Ivory Coast to ensure the continuous flow of American products into our coffers."
 
- EDG_mission_FRA_5_34_title:0 "控制菲律宾"
- EDG_mission_FRA_5_34_desc:0 "在世界最遥远处有一个产出奇妙香料、精美服饰，还有着异国情调的女人的地方。为了[Root.GetAdjective]社会的利益，我们应该在这里建立一个据点。"
+EDG_mission_FRA_5_34_title:0 "Control the Philippines"
+EDG_mission_FRA_5_34_desc:0 "In the farthest reaches of the world, there is a place that produces wondrous spices, exquisite garments, and exotic women. For the benefit of [Root.GetAdjective] society, we should establish an outpost there."
 
 

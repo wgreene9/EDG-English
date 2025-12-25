@@ -1,7 +1,7 @@
 1372.1.1 = {
   monarch = {
-    name = "奥列格 伊万诺维奇"  # Oleg Ivanovich
-    dynasty = "奥利戈维奇"  # Rurikovich
+    name = "Oleg Ivanovich"  # Oleg Ivanovich
+    dynasty = "Olegovich"  # Rurikovich
     adm = 1
     dip = 3
     mil = 1
@@ -9,9 +9,9 @@
 }
 1372.1.1 = {
   heir = {
-    name = "费奥多尔 奥列戈维奇"  # Fyodor Olegovich
-    monarch_name = "费奥多尔 奥列戈维奇"  # Fyodor Olegovich
-    dynasty = "奥利戈维奇"  # Rurikovich
+    name = "Fyodor"  # Fyodor Olegovich
+    monarch_name = "Fyodor"  # Fyodor Olegovich
+    dynasty = "Olegovich"  # Rurikovich
     birth_date = 1372.1.1
     death_date = 1427.1.1
     claim = 95
@@ -22,8 +22,8 @@
 }
 1402.1.1 = {
   monarch = {
-    name = "费奥多尔 奥列戈维奇"  # Fyodor Olegovich
-    dynasty = "奥利戈维奇"  # Rurikovich
+    name = "Fyodor"  # Fyodor Olegovich
+    dynasty = "Olegovich"  # Rurikovich
     birth_date = 1372.1.1
     death_date = 1444.1.1
     adm = 2
@@ -33,8 +33,8 @@
 }
 1444.1.1 = {
   monarch = {
-    name = "梁赞波雅尔卫彻"  # Fyodor
-  #  dynasty = "奥利戈维奇"  # Rurikovich
+    name = "Ryazan Boyar Veche"  # Fyodor 梁赞波雅尔卫彻
+  #  dynasty = "Olegovich"  # Rurikovich
     regent = yes
     adm = 0
     dip = 0

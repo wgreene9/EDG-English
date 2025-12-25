@@ -1,8 +1,7 @@
-{
-    monarch = 
-    {
-        name = "利氏" #ä¹å©
-        dynasty = "结城" #æ°ç°
+1425.8.11 = {
+    monarch = {
+        name = "Rishi" #ä¹å©
+        dynasty = "Yuki" #æ°ç°
         adm = 5
         dip = 4
         mil = 2

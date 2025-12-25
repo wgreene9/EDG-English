@@ -1,301 +1,284 @@
 ﻿l_english:
-#波斯统一战争
-EDG_WG_superiority_PER_unification:0 "波斯统一战争"
-EDG_WG_superiority_PER_unification_desc:0 "我们的目标是展现霸权，实现波斯地区的统一。"
-EDG_WG_PER_unification_prov_desc:0 "所有属于§Y波斯§!和§Y呼罗珊§!地区或属于§Y伊朗§!文化组的省份"
+#Persian Unification War
+EDG_WG_superiority_PER_unification:0 "Persian Unification War"
+EDG_WG_superiority_PER_unification_desc:0 "Our goal is to demonstrate hegemony and achieve unification in the Persian region."
+EDG_WG_PER_unification_prov_desc:0 "All provinces belonging to the §YPersia§! or §YKhorasan§! regions, or to the §YIranian§! culture group"
 
-cb_EDG_WG_superiority_PER_unification:0 "§Y波斯统一战争§!"
-cb_EDG_WG_superiority_PER_unification_desc:0 "我们是被授予统一波斯使命的国家。"
+cb_EDG_WG_superiority_PER_unification:0 "§YPersian Unification War§!"
+cb_EDG_WG_superiority_PER_unification_desc:0 "We are the nation tasked with the mission of unifying Persia."
 
-#波斯争霸战争
-EDG_WG_superiority_PER_war:0 "波斯争霸战争"
-EDG_WG_superiority_PER_war_desc:0 "我们的目标是展现霸权，兼并其他的波斯国家。"
+#Persian Hegemony War
+EDG_WG_superiority_PER_war:0 "Persian Hegemony War"
+EDG_WG_superiority_PER_war_desc:0 "Our goal is to demonstrate hegemony and annex other Persian states."
 
-cb_EDG_WG_superiority_PER_war:0 "§Y波斯争霸战争§!"
-cb_EDG_WG_superiority_PER_war_desc:0 "我们将有权对其他波斯国家发动争霸战争。"
+cb_EDG_WG_superiority_PER_war:0 "§YPersian Hegemony War§!"
+cb_EDG_WG_superiority_PER_war_desc:0 "We will have the right to wage hegemony wars against other Persian states."
 
-cb_EDG_WG_superiority_PER_war_enable_flag_tt:0 "我们将启用战争借口§Y波斯争霸战争§!\n-该战争借口允许我们索取所有属于§Y波斯§!和§Y呼罗珊§!地区或属于§Y伊朗§!文化组的省份\n-该战争借口仅在§Y伊朗再统一战争§!已经开启且尚未结束的情况下能够使用"
+cb_EDG_WG_superiority_PER_war_enable_flag_tt:0 "We will enable the war justification §YPersian Hegemony War§!.\n- This war justification allows us to claim all provinces belonging to the §YPersia§! or §YKhorasan§! regions, or to the §YIranian§! culture group.\n- This war justification can only be used while the §YIranian Reunification War§! is active and has not yet concluded."
 
-#游牧入侵伊朗
-EDG_horde_to_iranian:0 "入侵伊朗"
-EDG_horde_to_iranian_desc:0 "游牧帝国的铁蹄将踏碎伊朗。"
+#Horde Invasion of Iran
+EDG_horde_to_iranian:0 "Invade Iran"
+EDG_horde_to_iranian_desc:0 "The iron hooves of the nomadic empire will crush Iran."
 
-cb_EDG_horde_to_iranian:0 "§Y入侵伊朗§!"
-cb_EDG_horde_to_iranian_desc:0 "我们将可以对伊朗国家发动侵略战争。"
+cb_EDG_horde_to_iranian:0 "§YInvade Iran§!"
+cb_EDG_horde_to_iranian_desc:0 "We will be able to wage wars of aggression against Iranian states."
 
-#伊玛目吉哈德
+#Imam's Jihad
+EDG_WG_superiority_ARL_Imam_Jihad:0 "§YImam's Jihad§!"
+EDG_WG_superiority_ARL_Imam_Jihad_desc:0 "We are the heirs of Ali; we shall launch the great Jihad as the Imam."
 
-EDG_WG_superiority_ARL_Imam_Jihad:0 "§Y伊玛目吉哈德§!"
-EDG_WG_superiority_ARL_Imam_Jihad_desc:0 "我们是阿里的继承者，我们将作为伊玛目发动伟大的吉哈德。"
+cb_EDG_WG_superiority_ARL_Imam_Jihad:0 "§YImam's Jihad§!"
+cb_EDG_WG_superiority_ARL_Imam_Jihad_desc:0 "As the heirs of Ali, we can launch the great Jihad against them."
 
 
-cb_EDG_WG_superiority_ARL_Imam_Jihad:0 "§Y伊玛目吉哈德§!"
-cb_EDG_WG_superiority_ARL_Imam_Jihad_desc:0 "作为阿里的继承者，我们可以向他们发动伟大的吉哈德。"
+#Imperial Edict
+EDG_WG_Imperial_edict_country_desc:0 "Persian Unification War"
+EDG_WG_Imperial_edict_war_name:0 "Decree of Subjugation"
+EDG_WG_Imperial_edict_desc:0 "Utterly annihilate the country decreed for chastisement by the Son of Heaven, erasing its existence from the world."
+cb_EDG_Imperial_edict:0 "Decree of Subjugation"
+cb_EDG_Imperial_edict_desc:0 "By the bright decree of the Son of Heaven, chastise the disloyal rebels."
+EDG_Imperial_edict_desc:0 "Eliminate the existence of the decreed country."
 
+#Unify Iberia
+EDG_WG_superiority_IBR_unification_outside:0 "Iberian Religious War"
+EDG_WG_superiority_IBR_unification_outside_desc:0 "Our goal is to demonstrate hegemony and achieve the unification of Iberia."
+EDG_WG_superiority_IBR_unification_outside_prov_desc:0 "All provinces belonging to the §YIberia§! region or the §YIberian§! culture group"
 
-#帝国敕令
-EDG_WG_Imperial_edict_country_desc:0 "波斯统一战争"
-EDG_WG_Imperial_edict_war_name:0 "诏讨"
-EDG_WG_Imperial_edict_desc:0 "将被天子下诏征讨的国家彻底夷灭，让其不复存在于寰区。"
-cb_EDG_Imperial_edict:0 "诏讨"
-cb_EDG_Imperial_edict_desc:0 "奉天子明诏，讨不臣之贼"
-EDG_Imperial_edict_desc:0 "使被诏讨国家不存在"
+cb_EDG_WG_superiority_IBR_unification_outside:0 "§YIberian Religious War§!"
+cb_EDG_WG_superiority_IBR_unification_outside_desc:0 "When §Y'The Iberian Struggle'§! is in the §Y'Conflict'§! or §Y'Deadlock'§! phases, we can launch a unification war against our enemies."
 
-#统一伊比利亚
+EDG_WG_superiority_IBR_unification:0 "Iberian Religious War"
+EDG_WG_superiority_IBR_unification_desc:0 "Our goal is to demonstrate hegemony and achieve the unification of Iberia."
+EDG_WG_superiority_IBR_unification_prov_desc:0 "All provinces belonging to the §YIberia§! region or the §YIberian§! culture group"
 
-EDG_WG_superiority_IBR_unification_outside:0 "伊比利亚宗教战争"
-EDG_WG_superiority_IBR_unification_outside_desc:0 "我们的目标是展现霸权，实现伊比利亚的统一。"
-EDG_WG_superiority_IBR_unification_outside_prov_desc:0 "所有属于§Y伊比利亚§!地区或属于§Y伊比利亚§!文化组的省份"
+cb_EDG_WG_superiority_IBR_unification:0 "§YIberian Religious War§!"
+cb_EDG_WG_superiority_IBR_unification_desc:0 "When §Y'The Iberian Struggle'§! is in the §Y'Conflict'§! or §Y'Deadlock'§! phases, we can launch a unification war against our enemies."
 
-cb_EDG_WG_superiority_IBR_unification_outside:0 "§Y伊比利亚宗教战争§!"
-cb_EDG_WG_superiority_IBR_unification_outside_desc:0 "当§Y『伊比利亚纷争』§!处于§Y『冲突』§!和§Y『焦灼』§!状态时，我们可以对敌人发动统一战争。"
+#Smolensk Revolution
+EDG_WG_Liberation_SMO:0 "Peasant Liberation War"
+EDG_WG_Liberation_SMO_desc:0 "We shall liberate our compatriots from feudal oppression."
+cb_EDG_WG_Liberation_SMO:0 "Peasant Liberation War"
+cb_EDG_WG_Liberation_SMO_desc:0 "Our goal is to demonstrate hegemony and export the peasant revolution."
 
+#Unify the Rus People
+EDG_russian_Unification_War_tooltip:0 "Unlocks the §YUnify the Rus People§! casus belli, allowing claims on all provinces belonging to the §YRuthenia§!, §YRussia§!, and §YUral§! regions, or to the §YEast Slavic§! culture group."
 
-EDG_WG_superiority_IBR_unification:0 "伊比利亚宗教战争"
-EDG_WG_superiority_IBR_unification_desc:0 "我们的目标是展现霸权，实现伊比利亚的统一。"
-EDG_WG_superiority_IBR_unification_prov_desc:0 "所有属于§Y伊比利亚§!地区或属于§Y伊比利亚§!文化组的省份"
+EDG_WG_superiority_RUS_unification:0 "§YRus People's Unification War§!"
+EDG_WG_superiority_RUS_unification_desc:0 "Our goal is to demonstrate hegemony and accomplish the feat of unifying the Rus people."
+EDG_WG_superiority_RUS_unification_prov_desc:0 "All provinces belonging to the §YRuthenia§!, §YRussia§!, and §YUral§! regions, or to the §YEast Slavic§! culture group."
 
-cb_EDG_WG_superiority_IBR_unification:0 "§Y伊比利亚宗教战争§!"
-cb_EDG_WG_superiority_IBR_unification_desc:0 "当§Y『伊比利亚纷争』§!处于§Y『冲突』§!和§Y『焦灼』§!状态时，我们可以对敌人发动统一战争。"
+cb_EDG_WG_superiority_RUS_unification:0 "§YRus People's Unification War§!"
+cb_EDG_WG_superiority_RUS_unification_desc:0 "We are the nation tasked with the mission of unifying the Rus people."
 
-#斯摩棱斯克革命
-EDG_WG_Liberation_SMO:0 "农民解放战争"
-EDG_WG_Liberation_SMO_desc:0 "我们将会将我们的同胞从封建压迫之下解放出来。"
+#Italian Wars
+EDG_WG_superiority_ITA_war:0 "§YItalian Wars§!"
+EDG_WG_superiority_ITA_war_desc:0 "The Italian Wars have brought chaos and disaster to the states, and we shall end the current state of Italian division."
+EDG_WG_superiority_ITA_war_prov_desc:0 "All provinces belonging to the §YItaly§! region or the §YLatin§! culture group."
 
-cb_EDG_WG_Liberation_SMO:0 "农民解放战争"
-cb_EDG_WG_Liberation_SMO_desc:0 "我们的目标是展现霸权，输出农民革命。"
+cb_EDG_WG_superiority_ITA_war:0 "§YItalian Wars§!"
+cb_EDG_WG_superiority_ITA_war_desc:0 "We shall bring the Italian Wars to an end."
 
-#统一罗斯民族
-EDG_russian_Unification_War_tooltip:0 "解锁§Y统一罗斯民族§!宣战借口，可以索取所有属于§Y鲁塞尼亚§!，§Y俄罗斯§!和§Y乌拉尔§!地区或属于§Y东斯拉夫§!文化组的省份"
 
-EDG_WG_superiority_RUS_unification:0 "§Y罗斯民族统一战争§!"
-EDG_WG_superiority_RUS_unification_desc:0 "我们的目标是展现霸权，完成统一罗斯民族的壮举。"
-EDG_WG_superiority_RUS_unification_prov_desc:0 "所有属于§Y鲁塞尼亚§!，§Y俄罗斯§!和§Y乌拉尔§!地区或属于§Y东斯拉夫§!文化组的省份"
+#Holy Roman Invasion
+EDG_WG_superiority_Holy_Roman_Invasion:0 "§YHoly Roman Invasion§!"
+EDG_WG_superiority_Holy_Roman_Invasion_desc:0 "We will be able to launch invasions against non-Imperial members, dismember them, and attempt to invite the released states into the Holy Roman Empire."
 
-cb_EDG_WG_superiority_RUS_unification:0 "§Y罗斯民族统一战争§!"
-cb_EDG_WG_superiority_RUS_unification_desc:0 "我们是被授予统一罗斯民族使命的国家。"
+cb_EDG_WG_superiority_Holy_Roman_Invasion:0 "§YHoly Roman Invasion§!"
+cb_EDG_WG_superiority_Holy_Roman_Invasion_desc:0 "We will be able to launch invasions against non-Imperial members, dismember them, and attempt to invite the released states into the Holy Roman Empire."
 
+EDG_WG_superiority_Holy_Roman_Invasion_france_flag_tt:0 "Unlocks the §YHoly Roman Invasion§! casus belli for provinces in the §YFrance§! region. We will be able to launch invasions against non-Imperial members, dismember them, and attempt to invite the released states into the Holy Roman Empire."
+EDG_WG_superiority_Holy_Roman_Invasion_iberia_flag_tt:0 "Unlocks the §YHoly Roman Invasion§! casus belli for provinces in the §YIberia§! region. We will be able to launch invasions against non-Imperial members, dismember them, and attempt to invite the released states into the Holy Roman Empire."
+EDG_WG_superiority_Holy_Roman_Invasion_poland_flag_tt:0 "Unlocks the §YHoly Roman Invasion§! casus belli for provinces in the §YPoland§! region. We will be able to launch invasions against non-Imperial members, dismember them, and attempt to invite the released states into the Holy Roman Empire."
+EDG_WG_superiority_Holy_Roman_Invasion_Balkan_flag_tt:0 "Unlocks the §YHoly Roman Invasion§! casus belli for provinces in the §YBalkans§! region. We will be able to launch invasions against non-Imperial members, dismember them, and attempt to invite the released states into the Holy Roman Empire."
+EDG_WG_superiority_Holy_Roman_Invasion_Ruthenian_flag_tt:0 "Unlocks the §YHoly Roman Invasion§! casus belli for provinces in the §YRuthenia§! region. We will be able to launch invasions against non-Imperial members, dismember them, and attempt to invite the released states into the Holy Roman Empire."
+EDG_WG_superiority_Holy_Roman_Invasion_Baltica_flag_tt:0 "Unlocks the §YHoly Roman Invasion§! casus belli for provinces in the §YBaltic§! region. We will be able to launch invasions against non-Imperial members, dismember them, and attempt to invite the released states into the Holy Roman Empire."
+EDG_WG_superiority_Holy_Roman_Invasion_Britain_flag_tt:0 "Unlocks the §YHoly Roman Invasion§! casus belli for provinces in the §YBritain§! region. We will be able to launch invasions against non-Imperial members, dismember them, and attempt to invite the released states into the Holy Roman Empire."
+EDG_WG_superiority_Holy_Roman_Invasion_Scandinavia_flag_tt:0 "Unlocks the §YHoly Roman Invasion§! casus belli for provinces in the §YScandinavia§! region. We will be able to launch invasions against non-Imperial members, dismember them, and attempt to invite the released states into the Holy Roman Empire."
+EDG_WG_superiority_Holy_Roman_Invasion_Russia_flag_tt:0 "Unlocks the §YHoly Roman Invasion§! casus belli for provinces in the §YRussia§! region. We will be able to launch invasions against non-Imperial members, dismember them, and attempt to invite the released states into the Holy Roman Empire."
+EDG_WG_superiority_Holy_Roman_Invasion_Italy_flag_tt:0 "Unlocks the §YHoly Roman Invasion§! casus belli for provinces in the §YItaly§! region. We will be able to launch invasions against non-Imperial members, dismember them, and attempt to invite the released states into the Holy Roman Empire."
+EDG_WG_superiority_Holy_Roman_Invasion_Netherlands_flag_tt:0 "Unlocks the §YHoly Roman Invasion§! casus belli for provinces in the §YNetherlands§! region. We will be able to launch invasions against non-Imperial members, dismember them, and attempt to invite the released states into the Holy Roman Empire."
+EDG_WG_superiority_Holy_Roman_Invasion_Anatolia_flag_tt:0 "Unlocks the §YHoly Roman Invasion§! casus belli for provinces in the §YAnatolia§! region. We will be able to launch invasions against non-Imperial members, dismember them, and attempt to invite the released states into the Holy Roman Empire."
 
-#意大利战争
 
-EDG_WG_superiority_ITA_war:0 "§Y意大利战争§!"
-EDG_WG_superiority_ITA_war_desc:0 "意大利战争为诸国带来了混乱与灾难，而我们将终结意大利分裂的现状。"
-EDG_WG_superiority_ITA_war_prov_desc:0 "所有属于§Y意大利§!地区或属于§Y拉丁§!文化组的省份"
 
-cb_EDG_WG_superiority_ITA_war:0 "§Y意大利战争§!"
-cb_EDG_WG_superiority_ITA_war_desc:0 "我们将终结意大利战争。"
+#Imperial Ban
+EDG_WG_superiority_Holy_Roman_Imperial_Prohibition_war:0 "§YImperial Ban§!"
+EDG_WG_superiority_Holy_Roman_Imperial_Prohibition_war_desc:0 "They have been placed under the Imperial Ban by the Emperor. As a prince of the Holy Roman Empire, we can legitimately invade them, seize their provinces, or dismember them."
 
+cb_EDG_WG_superiority_Holy_Roman_Imperial_Prohibition_war:0 "§YImperial Ban§!"
+cb_EDG_WG_superiority_Holy_Roman_Imperial_Prohibition_war_desc:0 "They have been placed under the Imperial Ban by the Emperor. As a prince of the Holy Roman Empire, we can legitimately invade them, seize their provinces, or dismember them."
 
-#神圣罗马入侵
+#Mahdi's Salvation
+EDG_WG_superiority_Mahdi_invasion:0 "§YMahdi's Salvation§!"
+EDG_WG_superiority_Mahdi_invasion_desc:0 "We are the monotheists of Allah, the Muwahhidun, the sword of Allah on earth. Under the leadership of the Mahdi, we shall save the entire worldly realm."
 
-EDG_WG_superiority_Holy_Roman_Invasion:0 "§Y神圣罗马入侵§!"
-EDG_WG_superiority_Holy_Roman_Invasion_desc:0 "我们将可以对非帝国成员开展入侵，肢解他们并尝试将释放出的国家邀请入神圣罗马帝国。"
+cb_EDG_WG_superiority_Mahdi_invasion:0 "§YMahdi's Salvation§!"
+cb_EDG_WG_superiority_Mahdi_invasion_desc:0 "There is no god but Allah, and the Mahdi shall save all beings."
 
-cb_EDG_WG_superiority_Holy_Roman_Invasion:0 "§Y神圣罗马入侵§!"
-cb_EDG_WG_superiority_Holy_Roman_Invasion_desc:0 "我们将可以对非帝国成员开展入侵，肢解他们并尝试将释放出的国家邀请入神圣罗马帝国。"
+#Expel the Turks
+EDG_allow_Expel_Turks_cb_enable_flag_tt:0 "Enable the casus belli '§YExpel the Turks§!'"
+EDG_WG_superiority_Expel_Turks_war:0 "§YExpel the Turks§!"
+EDG_WG_superiority_Expel_Turks_war_desc:0 "The Turks have brought chaos and disaster to the Empire and to Christians. We shall end the current state of rampant Turkish presence."
 
-EDG_WG_superiority_Holy_Roman_Invasion_france_flag_tt:0 "解锁针对§Y法兰西§!地区省份的§Y神圣罗马入侵§!宣战理由，我们将可以对非帝国成员开展入侵，肢解他们并尝试将释放出的国家邀请入神圣罗马帝国。"
-EDG_WG_superiority_Holy_Roman_Invasion_iberia_flag_tt:0 "解锁针对§Y伊比利亚§!地区省份的§Y神圣罗马入侵§!宣战理由，我们将可以对非帝国成员开展入侵，肢解他们并尝试将释放出的国家邀请入神圣罗马帝国。"
-EDG_WG_superiority_Holy_Roman_Invasion_poland_flag_tt:0 "解锁针对§Y波兰§!地区省份的§Y神圣罗马入侵§!宣战理由，我们将可以对非帝国成员开展入侵，肢解他们并尝试将释放出的国家邀请入神圣罗马帝国。"
-EDG_WG_superiority_Holy_Roman_Invasion_Balkan_flag_tt:0 "解锁针对§Y巴尔干§!地区省份的§Y神圣罗马入侵§!宣战理由，我们将可以对非帝国成员开展入侵，肢解他们并尝试将释放出的国家邀请入神圣罗马帝国。"
-EDG_WG_superiority_Holy_Roman_Invasion_Ruthenian_flag_tt:0 "解锁针对§Y鲁塞尼亚§!地区省份的§Y神圣罗马入侵§!宣战理由，我们将可以对非帝国成员开展入侵，肢解他们并尝试将释放出的国家邀请入神圣罗马帝国。"
-EDG_WG_superiority_Holy_Roman_Invasion_Baltica_flag_tt:0 "解锁针对§Y波罗的§!地区省份的§Y神圣罗马入侵§!宣战理由，我们将可以对非帝国成员开展入侵，肢解他们并尝试将释放出的国家邀请入神圣罗马帝国。"
-EDG_WG_superiority_Holy_Roman_Invasion_Britain_flag_tt:0 "解锁针对§Y不列颠§!地区省份的§Y神圣罗马入侵§!宣战理由，我们将可以对非帝国成员开展入侵，肢解他们并尝试将释放出的国家邀请入神圣罗马帝国。"
-EDG_WG_superiority_Holy_Roman_Invasion_Scandinavia_flag_tt:0 "解锁针对§Y斯堪的纳维亚§!地区省份的§Y神圣罗马入侵§!宣战理由，我们将可以对非帝国成员开展入侵，肢解他们并尝试将释放出的国家邀请入神圣罗马帝国。"
-EDG_WG_superiority_Holy_Roman_Invasion_Russia_flag_tt:0 "解锁针对§Y俄罗斯§!地区省份的§Y神圣罗马入侵§!宣战理由，我们将可以对非帝国成员开展入侵，肢解他们并尝试将释放出的国家邀请入神圣罗马帝国。"
-EDG_WG_superiority_Holy_Roman_Invasion_Italy_flag_tt:0 "解锁针对§Y意大利§!地区省份的§Y神圣罗马入侵§!宣战理由，我们将可以对非帝国成员开展入侵，肢解他们并尝试将释放出的国家邀请入神圣罗马帝国。"
-EDG_WG_superiority_Holy_Roman_Invasion_Netherlands_flag_tt:0 "解锁针对§Y尼德兰§!地区省份的§Y神圣罗马入侵§!宣战理由，我们将可以对非帝国成员开展入侵，肢解他们并尝试将释放出的国家邀请入神圣罗马帝国。"
-EDG_WG_superiority_Holy_Roman_Invasion_Anatolia_flag_tt:0 "解锁针对§Y安纳托利亚§!地区省份的§Y神圣罗马入侵§!宣战理由，我们将可以对非帝国成员开展入侵，肢解他们并尝试将释放出的国家邀请入神圣罗马帝国。"
+cb_EDG_WG_superiority_Expel_Turks_war:0 "§YExpel the Turks§!"
+cb_EDG_WG_superiority_Expel_Turks_war_desc:0 "We shall expel all Turks from the Balkans, Anatolia, and other regions."
 
+#Great Invasion
+EDG_MISSION_BUL_Slavic_invasion:0 "§YGreat Invasion§!"
+EDG_MISSION_BUL_Slavic_invasion_desc:0 "The iron hooves of the Slavs shall ultimately trample all enemies."
 
+cb_EDG_MISSION_BUL_Slavic_invasion:0 "§YGreat Invasion§!"
+cb_EDG_MISSION_BUL_Slavic_invasion_desc:0 "We shall conduct a Great Invasion against them, seizing all their lands."
 
-#帝国禁令
+#Imperial Reconquest
+EDG_empire_reconquer_war:0 "§YImperial Reconquest§!"
+EDG_empire_reconquer_war_desc:0 "We are the undisputed successors of the Roman Empire. Although barbarians have occupied the former territories of the Empire for centuries, we still have the right to demand the restoration of the imperial borders."
 
-EDG_WG_superiority_Holy_Roman_Imperial_Prohibition_war:0 "§Y帝国禁令§!"
-EDG_WG_superiority_Holy_Roman_Imperial_Prohibition_war_desc:0 "他们被皇帝施加了帝国禁令，作为神圣罗马帝国诸侯，我们可以合法地入侵他们，夺取他们的省份或肢解他们。"
+cb_EDG_empire_reconquer_war:0 "§YImperial Reconquest§!"
+cb_EDG_empire_reconquer_war_desc:0 "We will be able to wage Imperial Reconquest wars against them, seizing all their lands."
 
+cb_EDG_empire_reconquer_war_enable_flag_tt:0 "We will unlock the casus belli §YImperial Reconquest§!. This casus belli allows us to wage total conquest against any country that holds provinces in §MBalkans§!, §MAnatolia§!, §MFrance§!, §MBritain§!, §MIberia§!, §MItaly§!, §MMaghreb§!, §MEgypt§!, and §MMashriq§!."
 
-cb_EDG_WG_superiority_Holy_Roman_Imperial_Prohibition_war:0 "§Y帝国禁令§!"
-cb_EDG_WG_superiority_Holy_Roman_Imperial_Prohibition_war_desc:0 "他们被皇帝施加了帝国禁令，作为神圣罗马帝国诸侯，我们可以合法地入侵他们，夺取他们的省份或肢解他们。"
+#French Crusade Against Arles
+EDG_WG_superiority_FRA_to_AEL_Crusades:0 "§YCrusade for Arles§!"
+EDG_WG_superiority_FRA_to_AEL_Crusades_desc:0 "We shall launch a crusade against Arles, dismember them, and transform the released vassal states into our fiefs."
 
+cb_EDG_WG_superiority_FRA_to_AEL_Crusades:0 "§YCrusade for Arles§!"
+cb_EDG_WG_superiority_FRA_to_AEL_Crusades_desc:0 "We shall launch a crusade against Arles, dismember them, and transform the released vassal states into our fiefs."
 
+#Force Emperor to Abdicate
+EDG_WG_superiority_Forcing_HRE_Emperor_to_abdicate:0 "§YForce Emperor to Abdicate§!"
+EDG_WG_superiority_Forcing_HRE_Emperor_to_abdicate_desc:0 "We possess greater legitimacy and orthodoxy than the current Holy Roman Emperor, thus we are entitled to demand the current emperor's abdication."
 
-#马赫迪救世
+cb_EDG_WG_superiority_Forcing_HRE_Emperor_to_abdicate:0 "§YForce Emperor to Abdicate§!"
+cb_EDG_WG_superiority_Forcing_HRE_Emperor_to_abdicate_desc:0 "We have the power to force the Holy Roman Emperor to abdicate!"
 
-EDG_WG_superiority_Mahdi_invasion:0 "§Y马赫迪救世§!"
-EDG_WG_superiority_Mahdi_invasion_desc:0 "我们是安拉独一者，是穆瓦希德，是安拉在人间的利刃，我们将在马赫迪的领导下拯救整个世俗世界。"
+#Dissolve the Schmalkaldic League
+EDG_schmalkaldic_league_emp_war:0 "§YDissolve the Schmalkaldic League§!"
+EDG_schmalkaldic_league_emp_war_desc:0 "The Schmalkaldic League must be dissolved."
 
-cb_EDG_WG_superiority_Mahdi_invasion:0 "§Y马赫迪救世§!"
-cb_EDG_WG_superiority_Mahdi_invasion_desc:0 "除安拉外，别无神灵，而马赫迪将拯救众生。"
+cb_EDG_schmalkaldic_league_emp_war:0 "§YDissolve the Schmalkaldic League§!"
+cb_EDG_schmalkaldic_league_emp_war_desc:0 "The Schmalkaldic League must be dissolved."
 
-#驱逐突厥人
-EDG_allow_Expel_Turks_cb_enable_flag_tt:0 "启用战争理由 「§Y驱逐突厥人§!」"
-EDG_WG_superiority_Expel_Turks_war:0 "§Y驱逐突厥人§!"
-EDG_WG_superiority_Expel_Turks_war_desc:0 "突厥人为帝国和基督徒带来了混乱与灾难，而我们将终结突厥人泛滥成灾的现状。"
+EDG_schmalkaldic_league_emp_war_name:0 "$ORDER$Schmalkaldic League War"
 
-cb_EDG_WG_superiority_Expel_Turks_war:0 "§Y驱逐突厥人§!"
-cb_EDG_WG_superiority_Expel_Turks_war_desc:0 "我们将驱逐巴尔干和安纳托利亚以及其他地区的所有突厥人。"
+#Force to Become a Sub-Vassal
+EDG_HRE_vassal_vassalize_mission:0 "§GForce to Become a Sub-Vassal§!"
+EDG_HRE_vassal_vassalize_mission_desc:0 "We can force them to become our sub-vassal!"
 
-#大入侵
-EDG_MISSION_BUL_Slavic_invasion:0 "§Y大入侵§!"
-EDG_MISSION_BUL_Slavic_invasion_desc:0 "斯拉夫人的铁蹄终将踏平一切敌人。"
+cb_EDG_HRE_vassal_vassalize_mission:0 "§GForce to Become a Sub-Vassal§!"
+cb_EDG_HRE_vassal_vassalize_mission_desc:0 "We can force them to become our sub-vassal!"
 
-cb_EDG_MISSION_BUL_Slavic_invasion:0 "§Y大入侵§!"
-cb_EDG_MISSION_BUL_Slavic_invasion_desc:0 "我们将可以对他们实行大入侵，夺取他们的所有土地。"
+#Tribal CBs
+cb_EDG_tribal_feud:0 "Tribal Hegemony"
+cb_EDG_tribal_feud_desc:0 "Our tribe is stronger than theirs!"
+cb_EDG_horde_vs_civ:0 "Nomadic Conquest"
+cb_EDG_horde_vs_civ_desc:0 "There can be no peace between nomads and settlers!"
 
-#帝国再征服
-EDG_empire_reconquer_war:0 "§Y帝国再征服§!"
-EDG_empire_reconquer_war_desc:0 "我们是罗马帝国无可争议的继承者，尽管蛮族已经占领了帝国曾经的领土长达数个世纪，我们依然有权要求光复帝国的版图。"
+#Saharan Conquest
+EDG_FYM_empire_conquer_war:0 "§YSaharan Conquest§!"
+EDG_FYM_empire_conquer_war_desc:0 "The borders of the Saharan Empire are boundless."
 
-cb_EDG_empire_reconquer_war:0 "§Y帝国再征服§!"
-cb_EDG_empire_reconquer_war_desc:0 "我们将可以对他们发动帝国再征服战争，夺取他们的所有土地。"
+cb_EDG_FYM_empire_conquer_war_mission:0 "§YSaharan Expedition§!"
+cb_EDG_FYM_empire_conquer_war_mission_desc:0 "We shall wage a war of conquest against them, seizing any province."
 
-cb_EDG_empire_reconquer_war_enable_flag_tt:0 "我们将解锁战争理由 §Y帝国再征服§! ，该战争理由允许我们对所有在§M巴尔干§!、§M安纳托利亚§!、§M法兰西§!、§M不列颠§!、§M伊比利亚§!、§M意大利§!、§M马格里布§!、§M埃及§!和§M马什里克§!有省份的国家进行彻底的征服。"
+cb_EDG_FYM_empire_conquer_war:0 "§YSaharan Conquest§!"
+cb_EDG_FYM_empire_conquer_war_desc:0 "We shall wage a war of conquest against them, seizing any province."
 
-#法兰西对 阿尔勒十字军
-EDG_WG_superiority_FRA_to_AEL_Crusades:0 "§Y阿尔勒十字军§!"
-EDG_WG_superiority_FRA_to_AEL_Crusades_desc:0 "我们将可以对阿尔勒发动十字军，将他们肢解，并将释放出的属国转变为我们的采邑。"
+cb_EDG_FYM_empire_conquer_war_enable_flag_tt:0 "We will unlock the casus belli §YSaharan Conquest§!.\nThis casus belli allows us to wage total conquest against all §Mneighboring§! countries. The effects of this casus belli are as follows:\n- When we are in a §RDisaster§!, this casus belli will be §Runavailable§!\n- §YAggressive Expansion Impact§! modifier: §M90%§!\n- §YPrestige Gain§! modifier: §M125%§!\n- §YProvince Warscore Cost§! modifier: §M75%§!"
 
-cb_EDG_WG_superiority_FRA_to_AEL_Crusades:0 "§Y阿尔勒十字军§!"
-cb_EDG_WG_superiority_FRA_to_AEL_Crusades_desc:0 "我们将可以对阿尔勒发动十字军，将他们肢解，并将释放出的属国转变为我们的采邑。"
+EDG_HZB_great_conquer:0 "§YGreat Invasion§!"
+EDG_HZB_great_conquer_desc:0 "Our borders have no end."
 
-#强迫皇帝退位
-EDG_WG_superiority_Forcing_HRE_Emperor_to_abdicate:0 "§Y强迫皇帝退位§!"
-EDG_WG_superiority_Forcing_HRE_Emperor_to_abdicate_desc:0 "我们比当今的神圣罗马皇帝更具有合法性和正统性，因而我们有资格要求当前的皇帝退位。"
+cb_EDG_HZB_great_conquer:0 "§YGreat Invasion§!"
+cb_EDG_HZB_great_conquer_desc:0 "We shall wage a war of conquest against them, seizing any province."
 
-cb_EDG_WG_superiority_Forcing_HRE_Emperor_to_abdicate:0 "§Y强迫皇帝退位§!"
-cb_EDG_WG_superiority_Forcing_HRE_Emperor_to_abdicate_desc:0 "我们有强迫神圣罗马皇帝退位的权力！"
 
-#解散施马尔卡尔登联盟
+#France - Force to Become Continental Alliance
+EDG_WG_superiority_FRA_to_alliance_war:0 "§YForce to Become Continental Alliance§!"
+EDG_WG_superiority_FRA_to_alliance_war_desc:0 "We shall wage war against them, forcing them to become our Continental Alliance."
 
-EDG_schmalkaldic_league_emp_war:0 "§Y解散施马尔卡尔登联盟§!"
-EDG_schmalkaldic_league_emp_war_desc:0 "施马尔卡尔登联盟必须被解散。"
+cb_EDG_WG_superiority_FRA_to_alliance_war:0 "§YForce to Become Continental Alliance§!"
+cb_EDG_WG_superiority_FRA_to_alliance_war_desc:0 "Their nation has already been infiltrated by us. We shall wage war against them, forcing them to become our Continental Alliance."
 
-cb_EDG_schmalkaldic_league_emp_war:0 "§Y解散施马尔卡尔登联盟§!"
-cb_EDG_schmalkaldic_league_emp_war_desc:0 "施马尔卡尔登联盟必须被解散。"
+#Ottoman Conquest
+cb_EDG_TUR_empire_conquer_war_1_enable_flag_tt:0 "We will unlock the casus belli §YOttoman Conquest§!.\nThis casus belli allows us to wage total conquest against all §Mneighboring§! countries. The effects of this casus belli are as follows:\n- When we are in a §RDisaster§!, this casus belli will be §Runavailable§!\n- §YAggressive Expansion Impact§! modifier: §M90%§!\n- §YPrestige Gain§! modifier: §M125%§!\n- §YProvince Warscore Cost§! modifier: §M90%§!"
+cb_EDG_TUR_empire_conquer_war_2_enable_flag_tt:0 "The casus belli §YOttoman Conquest§! will be upgraded.\nThe §YProvince Warscore Cost§! modifier for this casus belli will be increased to §M75%§!"
 
- EDG_schmalkaldic_league_emp_war_name:0 "$ORDER$施马尔卡尔登联盟战争"
+EDG_TUR_empire_conquer_war_1:0 "§YOttoman Conquest§!"
+EDG_TUR_empire_conquer_war_1_desc:0 "The borders of the Ottoman Empire are boundless."
 
-#强迫成为陪成国
-EDG_HRE_vassal_vassalize_mission:0 "§G强迫成为陪臣国§!"
-EDG_HRE_vassal_vassalize_mission_desc:0 "我们可以强迫他们成为我们的陪臣国！"
+cb_EDG_TUR_empire_conquer_war_1:0 "§YOttoman Conquest§!"
+cb_EDG_TUR_empire_conquer_war_1_desc:0 "We shall wage a war of conquest against them, seizing any province."
 
-cb_EDG_HRE_vassal_vassalize_mission:0 "§G强迫成为陪臣国§!"
-cb_EDG_HRE_vassal_vassalize_mission_desc:0 "我们可以强迫他们成为我们的陪臣国！"
+EDG_TUR_empire_conquer_war_2:0 "§YOttoman Conquest§!"
+EDG_TUR_empire_conquer_war_2_desc:0 "The borders of the Ottoman Empire are boundless."
 
-#游牧cb
+cb_EDG_TUR_empire_conquer_war_2:0 "§YOttoman Conquest§!"
+cb_EDG_TUR_empire_conquer_war_2_desc:0 "We shall wage a war of conquest against them, seizing any province."
 
- cb_EDG_tribal_feud:0 "游牧争霸"
- cb_EDG_tribal_feud_desc:0 "我们部族比他们部族更强大！"
- cb_EDG_horde_vs_civ:0 "游牧征服"
- cb_EDG_horde_vs_civ_desc:0 "游牧民族与定居者之间不可能存在和平！"
+#Lotharingia - Frankish Succession War
+EDG_LOT_to_FRA_war:0 "§YFrankish Succession War§!"
+EDG_LOT_to_FRA_war_desc:0 "We are the sole legitimate ruler of the Franks!"
 
-#萨哈达征服
-EDG_FYM_empire_conquer_war:0 "§Y萨哈达征服§!"
-EDG_FYM_empire_conquer_war_desc:0 "萨哈达帝国的边境没有尽头。"
+cb_EDG_LOT_to_FRA_war:0 "§YFrankish Succession War§!"
+cb_EDG_LOT_to_FRA_war_desc:0 "There can only be one ruler of the Franks; the false king must be deposed!"
 
-cb_EDG_FYM_empire_conquer_war_mission:0 "§Y萨哈达远征§!"
-cb_EDG_FYM_empire_conquer_war_mission_desc:0 "我们将可以对他们发动征服战争，夺取任何省份。"
+#Lotharingia - Punish the Unbelievers
+cb_EDG_LOT_Catholic_holy_war_enable_flag_tt:0 "We will unlock the casus belli §YPunish the Unbelievers§!.\nThis casus belli allows us to wage total conquest against all Catholic countries that are §Mexcommunicated§! or §Munder a Prohibition Edict§!. The effects of this casus belli are as follows:\n- When we are in a §RDisaster§! or do not follow §YCatholicism§!, this casus belli will be §Runavailable§!\n- §YAggressive Expansion Impact§! modifier: §M90%§!\n- §YPrestige Gain§! modifier: §M125%§!\n- §YProvince Warscore Cost§! modifier: §M90%§!"
+EDG_LOT_Catholic_holy_war:0 "§YPunish the Unbelievers§!"
+EDG_LOT_Catholic_holy_war_desc:0 "They are unbelievers who do not uphold the true faith."
 
-cb_EDG_FYM_empire_conquer_war:0 "§Y萨哈达征服§!"
-cb_EDG_FYM_empire_conquer_war_desc:0 "我们将可以对他们发动征服战争，夺取任何省份。"
+cb_EDG_LOT_Catholic_holy_war:0 "§YPunish the Unbelievers§!"
+cb_EDG_LOT_Catholic_holy_war_desc:0 "We are the defenders of Catholicism and have the authority to punish impious believers."
 
-cb_EDG_FYM_empire_conquer_war_enable_flag_tt:0 "我们将解锁战争理由 §Y萨哈达征服§! 。\n该战争理由允许我们对所有§M邻国§!国家进行彻底的征服。该宣战理由的效果如下：\n-当我们处于§R灾难§!时，该战争理由将§R不可用§!\n-§Y侵略扩张修正§!：§M90%§!\n-§Y获取威望修正§!：§M125%§!\n-§Y省份分数修正§!：§M75%§!"
+#Great Lamentation War
+EDG_LOT_drank_war:0 "§YGreat Lamentation War§!"
+EDG_LOT_drank_war_desc:0 "We must reunify the Frankish Empire."
 
-EDG_HZB_great_conquer:0 "§Y大入侵§!"
-EDG_HZB_great_conquer_desc:0 "我们的边境没有尽头。"
+cb_EDG_LOT_drank_war:0 "§YGreat Lamentation War§!"
+cb_EDG_LOT_drank_war_desc:0 "The Franks must be unified."
+EDG_LOT_drank_war_war_name:0 "$ORDER$$FIRST$-$SECOND$§YGreat Lamentation War§!"
 
-cb_EDG_HZB_great_conquer:0 "§Y大入侵§!"
-cb_EDG_HZB_great_conquer_desc:0 "我们将可以对他们发动征服战争，夺取任何省份。"
+#Peace Deals
+po_Holy_Roman_Invasion_opinion:0 "Release us in the Imperial Invasion"
+PEACE_po_Holy_Roman_Invasion:0 "§YHoly Roman Invasion§!"
+CB_ALLOWED_po_Holy_Roman_Invasion:0 "§YHoly Roman Invasion§!"
+po_Holy_Roman_Invasion:0 "§YHoly Roman Invasion§!"
+po_Holy_Roman_Invasion_desc:0 "They will be §Mdismembered§! into multiple states. They and any countries released by this treaty will be converted to our §Yreligion§!. Provinces in the §MEuropean subcontinent§! will be integrated into the §YHoly Roman Empire§!, and each country joining the §YHoly Roman Empire§! will grant us §M3§! points of §YImperial Authority§!."
 
+po_FRA_to_AEL_Crusades_opinion:0 "Release us in the Imperial Invasion"
+PEACE_po_FRA_to_AEL_Crusades:0 "§YCrusade for Arles§!"
+CB_ALLOWED_po_FRA_to_AEL_Crusades:0 "§YCrusade for Arles§!"
+po_FRA_to_AEL_Crusades:0 "§YCrusade for Arles§!"
+po_FRA_to_AEL_Crusades_desc:0 "They will be §Mdismembered§! into multiple states. They and any countries released by this treaty will be converted to our §Yreligion§! and become our §Yfiefs§!. The type of fief will depend on choices we have made in the past."
 
-#法兰西 强迫成为大陆同盟
-EDG_WG_superiority_FRA_to_alliance_war:0 "§Y强迫成为大陆同盟§!"
-EDG_WG_superiority_FRA_to_alliance_war_desc:0 "我们将可以对他们发动战争，强迫他们成为我们的大陆同盟。"
+PEACE_po_EDG_Mahdi_invasion:0 "§YMahdi's Salvation§!"
+CB_ALLOWED_po_EDG_Mahdi_invasion:0 "§YMahdi's Salvation§!"
+po_EDG_Mahdi_invasion:0 "§YMahdi's Salvation§!"
+po_EDG_Mahdi_invasion_desc:0 "We will consume §M20§! points of §YMahdi Authority§! to fully annex §Yall their provinces§!."
 
-cb_EDG_WG_superiority_FRA_to_alliance_war:0 "§Y强迫成为大陆同盟§!"
-cb_EDG_WG_superiority_FRA_to_alliance_war_desc:0 "他们的国家已经被我们渗透，我们将可以对他们发动战争，强迫他们成为我们的大陆他们。"
+PEACE_po_Forcing_HRE_Emperor_to_abdicate:0 "§YForce Emperor to Abdicate§!"
+CB_ALLOWED_po_Forcing_HRE_Emperor_to_abdicate:0 "§YForce Emperor to Abdicate§!"
+po_Forcing_HRE_Emperor_to_abdicate:0 "§YForce Emperor to Abdicate§!"
+po_Forcing_HRE_Emperor_to_abdicate_desc:0 "This §YHoly Roman Emperor§! will be forced to abdicate."
 
-#奥斯曼征服
-cb_EDG_TUR_empire_conquer_war_1_enable_flag_tt:0 "我们将解锁战争理由 §Y奥斯曼征服§! 。\n该战争理由允许我们对所有§M邻国§!国家进行彻底的征服。该宣战理由的效果如下：\n-当我们处于§R灾难§!时，该战争理由将§R不可用§!\n-§Y侵略扩张修正§!：§M90%§!\n-§Y获取威望修正§!：§M125%§!\n-§Y省份分数修正§!：§M90%§!"
-cb_EDG_TUR_empire_conquer_war_2_enable_flag_tt:0 "战争理由 §Y奥斯曼征服§!将被升级\n该战争理由的§Y省份分数修正§!将被提升至§M75%§!"
+PEACE_po_schmalkaldic_league_emp_war:0 "§YDissolve the Schmalkaldic League§!"
+CB_ALLOWED_po_schmalkaldic_league_emp_war:0 "§YDissolve the Schmalkaldic League§!"
+po_schmalkaldic_league_emp_war:0 "§YDissolve the Schmalkaldic League§!"
+po_schmalkaldic_league_emp_war_desc:0 "The §YSchmalkaldic League§! will be dissolved, and negative modifiers for Imperial Catholic princes will be removed."
 
-EDG_TUR_empire_conquer_war_1:0 "§Y奥斯曼征服§!"
-EDG_TUR_empire_conquer_war_1_desc:0 "奥斯曼帝国的边境没有尽头。"
+PEACE_po_subjugate_HRE_vassal:0 "§GForce to Become a Sub-Vassal§!"
+CB_ALLOWED_po_subjugate_HRE_vassal:0 "§GForce to Become a Sub-Vassal§!"
+po_subjugate_HRE_vassal:0 "§GForce to Become a Sub-Vassal§!"
+po_subjugate_HRE_vassal_desc:0 "They will become our §YHoly Roman Sub-Vassal§!. This type of subject does not occupy a diplomatic relation slot, can be called to war using favors, can be annexed, and can also be converted into a vassal."
 
-cb_EDG_TUR_empire_conquer_war_1:0 "§Y奥斯曼征服§!"
-cb_EDG_TUR_empire_conquer_war_1_desc:0 "我们将可以对他们发动征服战争，夺取任何省份。"
+PEACE_po_FRA_to_alliance_war:0 "§YForce to Become Continental Alliance§!"
+CB_ALLOWED_po_FRA_to_alliance_war:0 "§YForce to Become Continental Alliance§!"
+po_FRA_to_alliance_war:0 "§YForce to Become Continental Alliance§!"
+po_FRA_to_alliance_war_desc:0 "They will become our §YContinental Alliance§!."
 
-EDG_TUR_empire_conquer_war_2:0 "§Y奥斯曼征服§!"
-EDG_TUR_empire_conquer_war_2_desc:0 "奥斯曼帝国的边境没有尽头。"
-
-cb_EDG_TUR_empire_conquer_war_2:0 "§Y奥斯曼征服§!"
-cb_EDG_TUR_empire_conquer_war_2_desc:0 "我们将可以对他们发动征服战争，夺取任何省份。"
-
-#洛塔林吉亚 法兰克继任者战争
-EDG_LOT_to_FRA_war:0 "§Y法兰克继任者战争§!"
-EDG_LOT_to_FRA_war_desc:0 "我们才是法兰克唯一的合法统治者！"
-
-cb_EDG_LOT_to_FRA_war:0 "§Y法兰克继任者战争§!"
-cb_EDG_LOT_to_FRA_war_desc:0 "法兰克只能有一个统治者，伪王必须被废黜！"
-
-#洛塔林吉亚 惩戒不信者
-cb_EDG_LOT_Catholic_holy_war_enable_flag_tt:0 "我们将解锁战争理由 §Y惩戒不信者§! 。\n该战争理由允许我们对所有§M被绝罚§!或§M被颁布禁教令§!的天主教国家进行彻底的征服。该宣战理由的效果如下：\n-当我们处于§R灾难§!或不信仰§Y天主教§!时，该战争理由将§R不可用§!\n-§Y侵略扩张修正§!：§M90%§!\n-§Y获取威望修正§!：§M125%§!\n-§Y省份分数修正§!：§M90%§!"
-EDG_LOT_Catholic_holy_war:0 "§Y惩戒不信者§!"
-EDG_LOT_Catholic_holy_war_desc:0 "他们是不尊奉真信的不信者。"
-
-cb_EDG_LOT_Catholic_holy_war:0 "§Y惩戒不信者§!"
-cb_EDG_LOT_Catholic_holy_war_desc:0 "我们是天主教的守护者，有权力惩戒不虔诚的信徒。"
-
-#大殇歌战争
-EDG_LOT_drank_war:0 "§Y大殇歌战争§!"
-EDG_LOT_drank_war_desc:0 "我们必须重新统一法兰克帝国。"
-
-cb_EDG_LOT_drank_war:0 "§Y大殇歌战争§!"
-cb_EDG_LOT_drank_war_desc:0 "法兰克必须统一。"
-EDG_LOT_drank_war_war_name:0 "$ORDER$$FIRST$-$SECOND$§Y大殇歌战争§!"
-
-#合约
-po_Holy_Roman_Invasion_opinion:0 "在帝国入侵中释放我们"
- PEACE_po_Holy_Roman_Invasion:0 "§Y神圣罗马入侵§!"
- CB_ALLOWED_po_Holy_Roman_Invasion:0 "§Y神圣罗马入侵§!"
- po_Holy_Roman_Invasion:0 "§Y神圣罗马入侵§!"
- po_Holy_Roman_Invasion_desc:0 "他们将会被§M肢解§!为许多国家，他们以及条约内释放的国家将会被转变为我们的§Y宗教§!，在§M欧洲次大陆§!的省份将会被整合入§Y神圣罗马帝国§!，每个加入§Y神圣罗马帝国§!的国家将给予我们§M3§!点§Y帝国权威§!。"
-
-po_FRA_to_AEL_Crusades_opinion:0 "在帝国入侵中释放我们"
- PEACE_po_FRA_to_AEL_Crusades:0 "§Y阿尔勒十字军§!"
- CB_ALLOWED_po_FRA_to_AEL_Crusades:0 "§Y阿尔勒十字军§!"
- po_FRA_to_AEL_Crusades:0 "§Y阿尔勒十字军§!"
- po_FRA_to_AEL_Crusades_desc:0 "他们将会被§M肢解§!为许多国家，他们以及条约内释放的国家将会被转变为我们的§Y宗教§!，并成为我们的§Y采邑§!，采邑类型取决于我们在过去做出的选择。"
-
-
- PEACE_po_EDG_Mahdi_invasion:0 "§Y马赫迪救世§!"
- CB_ALLOWED_po_EDG_Mahdi_invasion:0 "§Y马赫迪救世§!"
- po_EDG_Mahdi_invasion:0 "§Y马赫迪救世§!"
- po_EDG_Mahdi_invasion_desc:0 "我们将消耗§M20§!点§Y马赫迪权威§!，全面吞并他们的§Y所有省份§!。"
-
- PEACE_po_Forcing_HRE_Emperor_to_abdicate:0 "§Y强迫皇帝退位§!"
- CB_ALLOWED_po_Forcing_HRE_Emperor_to_abdicate:0 "§Y强迫皇帝退位§!"
- po_Forcing_HRE_Emperor_to_abdicate:0 "§Y强迫皇帝退位§!"
- po_Forcing_HRE_Emperor_to_abdicate_desc:0 "这位§Y神圣罗马皇帝§!将会被迫退位。"
-
- PEACE_po_schmalkaldic_league_emp_war:0 "§Y解散施马尔卡尔登联盟§!"
- CB_ALLOWED_po_schmalkaldic_league_emp_war:0 "§Y解散施马尔卡尔登联盟§!"
- po_schmalkaldic_league_emp_war:0 "§Y解散施马尔卡尔登联盟§!"
- po_schmalkaldic_league_emp_war_desc:0 "§Y解散施马尔卡尔登联盟§!将被解散，帝国天主教诸侯的负面修正将会被移除。"
-
- PEACE_po_subjugate_HRE_vassal:0 "§G强迫成为陪成国§!"
- CB_ALLOWED_po_subjugate_HRE_vassal:0 "§G强迫成为陪成国§!"
- po_subjugate_HRE_vassal:0 "§G强迫成为陪成国§!"
- po_subjugate_HRE_vassal_desc:0 "他们将成为我们的§Y神圣罗马陪成国§!，该类型的属国不占用外交关系，可以使用人情要求加入战争，可以吞并，也可以转变为附庸国。"
-
-
- PEACE_po_FRA_to_alliance_war:0 "§Y强迫成为大陆同盟§!"
- CB_ALLOWED_po_FRA_to_alliance_war:0 "§Y强迫成为大陆同盟§!"
- po_FRA_to_alliance_war:0 "§Y强迫成为大陆同盟§!"
- po_FRA_to_alliance_war_desc:0 "他们将会成为我们的§Y大陆同盟§!。"
-
- PEACE_po_EDG_LOT_to_FRA_war:0 "§Y法兰克统一§!"
- CB_ALLOWED_po_EDG_LOT_to_FRA_war:0 "§Y法兰克统一§!"
- po_EDG_LOT_to_FRA_war:0 "§Y法兰克统一§!"
- po_EDG_LOT_to_FRA_war_desc:0 "他们的所有领土、附庸和封邑将被我们所§Y继承§!。"
+PEACE_po_EDG_LOT_to_FRA_war:0 "§YFrankish Unification§!"
+CB_ALLOWED_po_EDG_LOT_to_FRA_war:0 "§YFrankish Unification§!"
+po_EDG_LOT_to_FRA_war:0 "§YFrankish Unification§!"
+po_EDG_LOT_to_FRA_war_desc:0 "All their territories, vassals, and fiefs will be §Yinherited§! by us."

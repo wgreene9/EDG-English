@@ -1,600 +1,588 @@
 ﻿l_english:  
-EDG_disables_estate_burghers_tooltip:0 "[Root.GetAdjective]将禁用$Y市民$!阶层"
-
-EDG_estate_opinion_happy_modifier_tt:0 "满意"
-EDG_estate_opinion_unhappy_modifier_tt:0 "不满"
-
-EDG_GSR_estate_nobles_name:0 "大茹潘"
-EDG_GSR_estate_church_name:0 "大牧首"
-EDG_GSR_estate_burghers_name:0 "大富商"
-
-EDG_zoroastrian_estate_church_name:0 "阿斯罗南"
-EDG_zoroastrian_estate_nobles_name:0 "瓦雷兹"
-EDG_zoroastrian_estate_burghers_name:0 "阿尔明"
-
-EDG_HZB_estate_nobles_name:0 "突厥贵胄"
-estate_EDG_HZB_tribes_name:0 "蒙古部族"
-estate_EDG_HZB_Kipchaks_name:0 "钦察权贵"
-EDG_estate_HZB_privilege_noble:0 "波斯突厥军事贵胄"
-EDG_estate_HZB_privilege_nomadic:0 "蒙古部族掌权"
-EDG_estate_HZB_privilege_Caledonia:0 "钦察家族特权"
-EDG_estate_HZB_privilege_noble_desc:0 "我们的基层被早已在波斯本土扎根了的突厥军事贵族把握，他们控制着国家的兵源和税源。"
-EDG_estate_HZB_privilege_nomadic_desc:0 "在过去，我们过于依赖蒙古部族的军事力量，如今，他们控制了军队的指挥权，并用蒙古人的方式破坏正常的生产活动。"
-EDG_estate_HZB_privilege_Caledonia_desc:0 "从花剌子模王朝时期起，钦察部族就在伊朗的土地上留下了影响力。我们的国家内同样有钦察部族的力量，他们在伊朗没有根基，为我们在加强君主专制方面提供了帮助，但其中数个钦察大族也攫取了许多的国家权力，并导致了帝国内部的腐败与堕落。"
-
-
-#议程建议
-estate_privileges_and_agendas_events.3.00:0 "[Root.Get骑士团Name]的提议"
-estate_privileges_and_agendas_events_edg_copt_name:0 "[Root.Get科普特人Name]的提议"
-estate_privileges_and_agendas_events_EDG_habishi_name:0 "哈比什的提议"
-estate_privileges_and_agendas_events_edg_Paladin_name:0 "圣骑士的提议"
-
-#佣兵领主
-NOT_Mercenary_Lord_government_desc:0 "不是佣兵领主政权: §Y-5%§!"
-estate_EDGMercenaryLord:0 "佣兵领主"
-estate_EDGMercenaryLord_name:0 "佣兵领主"
-estate_EDGMercenaryLord_desc:0 "频繁的战事令意大利传统的民兵和封建骑士越来越力不从心。地中海贸易积累起巨额财富的意大利诸国招募“职业军人”不但经济上可行，而且将城邦公民从军事义务中解放出来，充分发挥其在贸易、商业、手工业和金融领域的比较优势。民兵和骑士组成的军队虽然也有胜绩，但召集过程缓慢，服役时间有限，军事素质参差不齐。雇佣军则可以随时应战，而且有丰富的作战经验。民兵往往难敌重装骑兵的冲击，雇佣军步兵在实战中获得的经验以及良好的协同配合，足以战胜重装骑兵。"
-
-
-EDGMercenaryLord_loyalty_modifier:0 "佣兵领主忠诚度"
-EDGMercenaryLord_influence_modifier:0 "佣兵领主影响力"
-EDGMercenaryLord_privilege_slots:0 "[Country.Get佣兵领主忠诚度Name]最大特权数"
-estate_EDGMercenaryLord_ownership:0 "佣兵领主土地所有权"
-
-#黑手党
-NOT_Mafia_government_desc:0 "不是黑手党政权: §Y-5%§!"
-estate_edg_mafia:0 "黑手党"
-estate_edg_mafia_name:0 "黑手党"
-estate_edg_mafia_desc:0 "黑手党自成立伊始，就是一个崇尚暴力的组织。他有为穷人出头、替百姓伸张正义的一面。但如果没有正确的理论作为指导，那么几乎可以肯定，它会走向自己的反面。随着时间的推移，黑手党的性质也发生了变化，它蜕变成为一个无恶不作令人切齿痛恨的犯罪团伙。他们凭借暴力控制了西西里岛上的畜牧、屠宰、果园和港口，并向私人业主收取保护费。通过暴力，黑手党在西西里岛确定了自己的权威，并形成了足够的影响力。"
-
-
-EDG_Mafia_loyalty_modifier:0 "黑手党忠诚度"
-EDG_Mafia_influence_modifier:0 "黑手党影响力"
-EDG_Mafia_privilege_slots:0 "[Country.Get黑手党Name]最大特权数"
-estate_edg_mafia_ownership:0 "黑手党土地所有权"
-
-estate_edg_mafia_privilege_1:0 "土地所有权"
-estate_edg_mafia_privilege_2:0 "黑手党特权"
-estate_edg_mafia_privilege_3:0 "黑手党首要地位"
-estate_edg_mafia_privilege_4:0 "走私合作"
-estate_edg_mafia_privilege_5:0 "包庇犯罪"
-estate_edg_mafia_privilege_6:0 "暴力治安"
-estate_edg_mafia_privilege_7:0 "暗杀组织"
-estate_edg_mafia_privilege_8:0 "绑架协助"
-estate_edg_mafia_privilege_9:0 "钦定议会代表"
-estate_edg_mafia_privilege_10:0 "向黑手党贷款"
-
-estate_edg_mafia_privilege_1_desc:0 "黑手党和其他阶层一样，有获取土地的自由。"
-estate_edg_mafia_privilege_2_desc:0 "关注黑手党在国内的特权将有利于保障他们的忠诚。"
-estate_edg_mafia_privilege_3_desc:0 "黑手党在我们的对外活动中占据着重要的地位。"
-estate_edg_mafia_privilege_4_desc:0 "为黑手党在国外的走私活动提供帮助可以为我们带来一些便利。"
-estate_edg_mafia_privilege_5_desc:0 "黑手党是国家的伙伴，他们有在被包庇的权利。"
-estate_edg_mafia_privilege_6_desc:0 "如果有暴民胆敢反抗我们的统治，黑手党的打手和杀手马上就会到他们的家门口。"
-estate_edg_mafia_privilege_7_desc:0 "总有一些冥顽不化的外国人和本国的反对派需要被物理消灭。"
-estate_edg_mafia_privilege_8_desc:0 "绑架也是消弭反对声音的良好方法。"
-estate_edg_mafia_privilege_9_desc:0 "为了保持政府在国家议会中的影响力，我们必须让黑手党帮助我们。"
-estate_edg_mafia_privilege_10_desc:0 "我们可以从黑手党的手中获得廉价的贷款。"
-
-estate_edg_mafia_privilege_4_effect_tooltip:0 "我们将可以在外交界面中进行§Y走私活动§!。"
-estate_edg_mafia_privilege_7_effect_tooltip:0 "我们将可以在外交界面中进行§Y暗杀活动§!。"
-estate_edg_mafia_privilege_8_effect_tooltip:0 "我们将可以解锁§Y绑架反对派§!决议。"
-
-EDG_estate_edg_mafia_privilege_8_decision_title:0 "对国内反对派实行绑架活动"
-EDG_estate_edg_mafia_privilege_8_decision_desc:0 "国内的反对派实在是太聒噪了，一些绑架活动可以让他们安静下来。"
-EDG_estate_edg_mafia_privilege_8_decision_modifier:0 "对国内反对派实行绑架活动"
-
-#官僚
-estate_EDG_officials:0 "官僚"
-estate_EDG_officials_name:0 "官僚"
-estate_EDG_officials_name_2:0 "权贵"
-estate_EDG_officials_desc:0 "官僚是国家机器的运行者，在行政机关或特定的暴力机关中扮演重要角色，他们可以与农民同心同德，也可以与农民站在对立面。"
-
-EDG_officials_loyalty_modifier:0 "官僚忠诚度"
-EDG_officials_influence_modifier:0 "官僚影响力"
-EDG_officials_privilege_slots:0 "[Country.Get官僚Name]最大特权数"
-estate_EDG_officials_ownership:0 "官僚土地所有权"
-
-
-estate_EDG_officials_privilege_8_effect_tooltip:0 "位于贸易地区§Y白海特许贸易区§!的省份将会获得§Y『贸易特区』§!修正，给予包括商品产出和贸易竞争力在内的增益，并增加省份的叛乱度"
-estate_EDG_officials_privilege_9_effect_tooltip:0 "位于贸易地区§Y克里米亚特许贸易区§!的省份将会获得§Y『贸易特区』§!修正，给予包括商品产出和贸易竞争力在内的增益，并增加省份的叛乱度"
-estate_EDG_officials_privilege_8_province_modifier_mod:0 "贸易特区"
-estate_EDG_officials_privilege_8_province_modifier_mod_desc:0 "该省份处于一个由政府主导的贸易特区，大量的技术和资源被投入此地。"
-estate_EDG_officials_privilege_9_province_modifier_mod:0 "贸易特区"
-estate_EDG_officials_privilege_9_province_modifier_mod_desc:0 "该省份处于一个由政府主导的贸易特区，大量的技术和资源被投入此地。"
-
-estate_EDG_officials_privilege_1:0 "官僚宅地权"
-estate_EDG_officials_privilege_2:0 "官僚终身制"
-estate_EDG_officials_privilege_3:0 "官僚首要地位"
-estate_EDG_officials_privilege_4:0 "官僚特供权"
-estate_EDG_officials_privilege_5:0 "官僚特教权"
-estate_EDG_officials_privilege_6:0 "官僚特继权"
-estate_EDG_officials_privilege_7:0 "官僚特支权"
-estate_EDG_officials_privilege_8:0 "波罗的海特区"
-estate_EDG_officials_privilege_9:0 "黑海特区"
-estate_EDG_officials_privilege_10:0 "灵活立法"
-estate_EDG_officials_privilege_11:0 "宣扬福报"
-estate_EDG_officials_privilege_12:0 "形式选举"
-estate_EDG_officials_privilege_13:0 "自由的债务奴隶"
-estate_EDG_officials_privilege_14:0 "自愿的额外工作时间"
-estate_EDG_officials_privilege_15:0 "完善审查制度"
-estate_EDG_officials_privilege_16:0 "雇佣兵公司"
-
-estate_EDG_officials_privilege_1_desc:0 "官僚拥有土地的权利被国家保障，且国家不会追究他们占据了多少的土地。"
-estate_EDG_officials_privilege_2_desc:0 "官僚的职位是终身制的，除非受到弹劾。"
-estate_EDG_officials_privilege_3_desc:0 "官僚是国家最重要的力量，他们主导政治事务，是国家真正的建设者。"
-estate_EDG_officials_privilege_4_desc:0 "各级官员有特设的内部商店、餐厅，按照官职大小、地位高低享受特殊供应。"
-estate_EDG_officials_privilege_5_desc:0 "凡是高级官员的子女，都能接受最好的教育。高级军官的儿子则直接送军事院校培养。"
-estate_EDG_officials_privilege_6_desc:0 "官员特别是高级官员可以合法地为自己的子女留下大量的私产，供他们终身享用。"
-estate_EDG_officials_privilege_7_desc:0 "位居金字塔顶端的官员在国家银行有敞开户头，即户主可以不受限制随意提取款项的户头。”"
-estate_EDG_officials_privilege_8_desc:0 "我们将开设一个贸易特区，用以扩展我们的贸易和生产活动，贸易特区内将给予包括免税在内的众多特权，更重要的是，贸易特区内的生产将受到更少的监督。"
-estate_EDG_officials_privilege_9_desc:0 "我们将开设一个贸易特区，用以扩展我们的贸易和生产活动，贸易特区内将给予包括免税在内的众多特权，更重要的是，贸易特区内的生产将受到更少的监督。"
-estate_EDG_officials_privilege_10_desc:0 "立法工作是一个技术性工作，我们的立法活动十分灵活，这样才能保证特权阶层的利益。"
-estate_EDG_officials_privilege_11_desc:0 "努力工作的机会本身是一种福报，人们应该对给予他们高强度工作的人感到由衷的感恩。"
-estate_EDG_officials_privilege_12_desc:0 "选举不过是一个流程，对选举的真正结果没有任何影像，决定投票结果的从来不是投票的人，而是计票的人。"
-estate_EDG_officials_privilege_13_desc:0 "有些人表面上享有巨大的自由，但他们被巨大的债务束缚着，并自认为是在为自己而努力劳动。"
-estate_EDG_officials_privilege_14_desc:0 "额外的工作时间是一种奖励，自愿的加工是不需要任何酬劳的，而我们的国民总是自愿地进行额外的工作。"
-estate_EDG_officials_privilege_15_desc:0 "我们的审查制度更为严格，任何不利于政府的言论都将被扼杀在摇篮之中。"
-estate_EDG_officials_privilege_16_desc:0 "本国人都是忘恩负义的臭虫，他们脆弱而不知感恩，我们需要雇佣外国的军队来消灭本国的反对势力。"
-
-
-#农民
-estate_EDG_present_burghers:0 "手工业者"
-estate_EDG_present_burghers_name:0 "手工业者"
-
-estate_EDG_peasants:0 "农民"
-estate_EDG_peasants_name:0 "农民"
-estate_EDG_peasants_desc:0 "农民是以单个家庭为经济单位，从事耕织相结合的个体农业劳动的个体小生产者，而在我们的国家，农民应当是国家的主人。"
-
-EDG_peasants_loyalty_modifier:0 "农民忠诚度"
-EDG_peasants_influence_modifier:0 "农民影响力"
-
-estate_EDG_peasants_privilege_11_province_modifier_mod:0 "垦殖大草原"
-estate_EDG_peasants_privilege_11_province_modifier_mod_desc:0 "东欧地区的大草原有巨大的开垦潜力，如果我们能够妥善开发该地区，将能为我们提供更多的良田。"
-
-estate_EDG_peasants_privilege_12_province_modifier_mod:0 "垦殖森林"
-estate_EDG_peasants_privilege_12_province_modifier_mod_desc:0 "东欧地区的森林有巨大的开垦潜力，如果我们能够妥善开发该地区，将能为我们提供更多的良田。"
-
-estate_EDG_peasants_privilege_12_effect_tooltip:0 "所有森林地形的省份§Y本地发展成本-15%§!"
-estate_EDG_peasants_privilege_12_remove_tooltip:0 "所有森林地形的省份将失去§Y本地发展成本-15%§!的修正"
-
-estate_EDG_peasants_privilege_1:0 "农民领地权"
-estate_EDG_peasants_privilege_2:0 "保障农民权利"
-estate_EDG_peasants_privilege_3:0 "农民首要地位"
-estate_EDG_peasants_privilege_4:0 "保障自耕农独立"
-estate_EDG_peasants_privilege_5:0 "集体农庄"
-estate_EDG_peasants_privilege_6:0 "农民选举权"
-estate_EDG_peasants_privilege_7:0 "扩大义务兵役"
-estate_EDG_peasants_privilege_8:0 "强制性粮食征收"
-estate_EDG_peasants_privilege_9:0 "农民节"
-estate_EDG_peasants_privilege_10:0 "义务军事训练"
-estate_EDG_peasants_privilege_11:0 "垦殖大草原"
-estate_EDG_peasants_privilege_12:0 "垦殖森林"
-
-estate_EDG_peasants_privilege_1_desc:0 "我们社会的农民,比起其他阶层来更渴求土地，满足他们的愿望将为我们带来他们极大的感激。"
-estate_EDG_peasants_privilege_2_desc:0 "我们将会保障农民的权益，保证他们在政治经济和文化生活中拥有自己的一席之地。"
-estate_EDG_peasants_privilege_3_desc:0 "在我们的国家中，农民拥有最高的政治权利，其他阶层应当对农民保持尊重。"
-estate_EDG_peasants_privilege_4_desc:0 "我们将会自耕农群体的独立，自耕农的经济和政治权利能够得到保障，他们赖以为生的耕地不会被通过任意方法兼并。"
-estate_EDG_peasants_privilege_5_desc:0 "农户共同劳动，收入在作了各项必要扣除后按参加劳动的数量分配，组合农户可以保留小农具和一定数量的家畜家禽、经营规定的宅旁田地和家庭副业作为辅助收入。"
-estate_EDG_peasants_privilege_6_desc:0 "成年的男性农民都拥有选举权利，他们的每一张选票都将是我们选举制度的基石。"
-estate_EDG_peasants_privilege_7_desc:0 "我们将实行强制手段扩大农民的义务兵役，从破碎的家庭中强征更多的人力。"
-estate_EDG_peasants_privilege_8_desc:0 "所有人都应该为保证我们的独立和安全做出贡献，农民更应当为保障粮食供给提供更多的资源，我们将强行以低廉的价格从农民手中收购粮食和牲口。"
-estate_EDG_peasants_privilege_9_desc:0 "我们应当像尊重圣人一样尊重国家的农民，为农民创办一个属于他们的节日。"
-estate_EDG_peasants_privilege_10_desc:0 "接受军事训练是农民的义务，农民接受军事训练可以加强国防后备建设力量。"
-estate_EDG_peasants_privilege_11_desc:0 "东欧地区的大草原有巨大的开垦潜力，如果我们能够妥善开发该地区，将能为我们提供更多的良田。"
-estate_EDG_peasants_privilege_12_desc:0 "东欧地区的森林有巨大的开垦潜力，如果我们能够妥善开发该地区，将能为我们提供更多的良田。"
-
-
-estate_EDG_peasants_ownership:0 "农民土地所有权"
-EST_HIGH_EDG_Peasant_regime:0 "是一个农民政权: §Y+15%§!"
-EST_HIGH_EDG_Peasant_regime_op:0 "是一个农民政权: §Y-15%§!"
-EDG_peasants_privilege_slots:0 "[Country.Get农民Name]最大特权数"
-
-
-#贵族
-EDG_estate_LOT_Conscripts_noble:0 "义务兵"
-EDG_estate_LOT_Conscripts_noble_desc:0 "封建军队和雇佣军并不可靠，我们从对国家忠诚的臣民中征召义务兵。"
-EDG_estate_LOT_Conscripts_burghers:0 "义务兵"
-EDG_estate_LOT_Conscripts_burghers_desc:0 "封建军队和雇佣军并不可靠，我们从对国家忠诚的臣民中征召义务兵。"
-
-estate_nobles_LIT_Grand_nobles_privilege:0 "立陶宛高等公爵"
-estate_nobles_LIT_Grand_nobles_privilege_desc:0 "立陶宛高等公爵来源于建立立陶宛国家的诸侯，尽管他们在名义上维护着立陶宛大公国的统一，但他们把持着立陶宛的大片土地和大量人口，位高权重且对最高统治者的权威产生着不可估量的影响。"
-
-estate_EDG_HAB_Marquis_Brandenburg_privilege:0 "勃兰登堡藩候"
-estate_EDG_HAB_Marquis_Brandenburg_privilege_desc:0 "我们控制了勃兰登堡藩候，将其作为我们的属国牢牢控制于帝国之中。"
-
-estate_EDG_Aberdeen_decree_privilege:0 "阿伯丁法令"
-estate_EDG_Aberdeen_decree_privilege_desc:0 "《阿伯丁法令》保障了苏格兰大贵族在全体大贵族议会中的诸多权利，包括以法律形式规定大贵族垄断议席，并赋予一定的减税特权；同时，《阿伯丁法令》也加强了大贵族的军事义务。"
-
-estate_EDG_Lothian_Crown_privilege:0 "亚历山大法令"
-estate_EDG_Lothian_Crown_privilege_desc:0 "亚历山大四世通过改革苏格兰议会，在议会中加入小贵族、市民和新的神职人员，对大贵族进行了相当程度的限制，并通过枢密院加强对大贵族的控制。"
-
-estate_EDG_Safeguarding_the_interests_of_the_Albi_Fuwa_faction_privilege:0 "保障阿尔比-富瓦派利益"
-estate_EDG_Safeguarding_the_interests_of_the_Albi_Fuwa_faction_privilege_desc:0 "阿尔比-富瓦派由统治阿尔比伯爵领的德·旺塔多恩家族和德·富瓦家族领导，该派系以贵族为主，主张对外扩张，在宫廷内拥有巨大的影响力，如果能保障好阿尔比-富瓦派的利益，我们与国内贵族的合作将会更加成功。"
-
-estate_EDG_Strengthening_the_serfdom_systems_privilege:0 "加强农奴制度"
-estate_EDG_Strengthening_the_serfdom_systems_privilege_desc:0 "农奴生来就应该被束缚在土地上，我们将全面加强农奴制度。"
-
-estate_EDG_Norman_Sicilian_Parliament_privilege:0 "贵族传统议会特权"
-estate_EDG_Norman_Sicilian_Parliament_privilege_desc:0 "我们按照传统，为贵族在议会中保留了特权，这将让我们赢得贵族的更多支持。"
-
-EDG_LIT_estate_nobles_name:0 "高等公爵"
-EDG_LIT_estate_nobles_name_2:0 "吉诺斯"
-
-EDG_estate_noble_LOT_privilege_old_right:0 "古老的人身权利"
-EDG_estate_noble_LOT_privilege_old_right_desc:0 "自从查理曼时代开始，我们的贵族就拥有不可被侵犯的人身权利，君主无权肆意逮捕贵族，也不得对贵族刑讯逼供。"
-
-EDG_estate_noble_LOT_privilege_exemption:0 "德意志贵族减免兵役"
-EDG_estate_noble_LOT_privilege_exemption_desc:0 "为了保持德意志地区的稳定，路德维希七世为德意志贵族减免了兵役义务，但我们都知道，这只是暂时的。"
-
-#市民 商人
-estate_EDG_Latin_National_privilege:0 "扩大国民军"
-estate_EDG_Latin_National_privilege_desc:0 "我们将扩大国民军的规模，由此实现捍卫国家主权的目的。"
-
-estate_EDG_Minister_of_General_Affairs_privilege:0 "钦定总务大臣"
-estate_EDG_Minister_of_General_Affairs_privilege_desc:0 "总务部的负责人将从市民阶层的代表中选出，并由最高统治者从中钦定。"
-
-estate_EDG_Theatines_privilege:0 "戴蒂尼会"
-estate_EDG_Theatines_privilege_desc:0 "作为16世纪天主教改革的反应，戴蒂尼会在意大利半岛各地，特别是在信仰上更为传统的南方建立了自己的社区。这些宣誓坚守贫穷，顺服和贞洁的社区，将被授予教皇的祝福，并在地方获得颇具影响力和统治性的地位"
-
-estate_EDG_Alawite_tolerance_privilege_effect_tooltip:0 "我们治下的所有§M阿拉维派§!省份将会获得如下修正：\n本地宗教统一贡献§!: §G-100%§!\n本地传教强度: §R-100%§!\n本地异端容忍§!: §G+3%§!"
-estate_EDG_Alawite_tolerance_privilege_revoke_effect_tooltip:0 "我们治下的所有§M阿拉维派§!省份将会失去如下修正：\n本地宗教统一贡献§!: §M-100%§!\n本地传教强度§!: §M-100%§!\n本地异端容忍§!: §M+3%§!"
-EDG_Alawite_tolerance_guaranteed_autonomy_mod:0 "与阿拉维派合作"
-EDG_Alawite_tolerance_guaranteed_autonomy_mod_desc:0 "我们与阿拉维派展开合作，这维护了我们在当地的利益。"
-estate_EDG_Alawite_tolerance_privilege_enable_flag_tt:0 "启用特权 §M与阿拉维派合作§!"
-estate_EDG_Alawite_tolerance_privilege:0 "与阿拉维派合作"
-estate_EDG_Alawite_tolerance_privilege_desc:0 "我们可以同阿拉维派展开合作，以维护我们在当地的利益。"
-
-estate_EDG_LOT_Grand_Charter_privilege:0 "大特许状"
-estate_EDG_LOT_Grand_Charter_privilege_desc:0 "为了与尼德兰人进行更好的合作，我们为低地的商人和权贵授予「大特许状」，该法律文件保证了低地的许多权力，包括司法独立、本地官员任职权及语言使用权，如政府文件需用尼德兰语而非法语。"
-
-#卡勒多巴拉骑士团
-estate_privileges_and_agendas_events_EDG_Caledonia_name:0 "[Root.Get精英军团Name]的提议"
-estate_EDG_The_Mamluk_name:0 "马穆鲁克"
-estate_edg_caledonia:0 "精英军团"
-estate_EDG_The_Gray_army_name:0 "灰军"
-estate_edg_caledonia_Spanish:0 "卡勒多巴拉骑士团"
-estate_edg_caledonia_andalucian:0 "哈拉特骑士团"
-estate_edg_caledonia_desc:0 "该阶层是国内的一支精锐军事力量的代表，他们拥有顶尖的军事作战能力和庞大的影响力。"
-
-estate_edg_caledonia_ownership:0 "骑士团土地所有权"
-
-EDG_privilege_CAS_Caledonia_privilege:0 "扩大[Root.Get精英军团Name]"
-EDG_privilege_CAS_Caledonia_privilege_desc:0 "[Root.Get精英军团Name]成员拥有更高的战斗素养，如果能扩大[Root.Get精英军团Name]的规模，是可以增强我们国家的军事素质的。"
-EDG_estate_Caledonia_land_rights:0 "授予[Root.Get精英军团Name]领地权"
-EDG_estate_Caledonia_land_rights_desc:0 "[Root.Get精英军团Name]是我们国内的重要政治力量，他们应当获得领地的自治权力。"
-EDG_STRONG_Caledonia_privilege:0 "加强[Root.Get精英军团Name]特权"
-EDG_STRONG_Caledonia_privilege_desc:0 "[Root.Get精英军团Name]是我们军事力量的核心，加强他们的权力和军事力量将能够帮助我们建设最强大的军队。"
-EDG_Caledonia_indebted_to_Caledonia:0 "向[Root.Get精英军团Name]借债"
-EDG_Caledonia_indebted_to_Caledonia_desc:0 "[Root.Get精英军团Name]有数额巨大的资产，我们可以从他们的手中获取利息更低的贷款。"
-EDG_Caledonia_coin_privilege:0 "[Root.Get精英军团Name]金融特权"
-EDG_Caledonia_coin_privilege_desc:0 "[Root.Get精英军团Name]是我们的重要武装力量，授予他们金融方面的特权将能够让他们在为我们服务方面更具有主动性。"
-estate_edg_caledonia_indebted_to_Caledonia_effect_tooltip:0 "以§Y1.0%§!的利息,获得§Y5§!笔五年期的贷款。当还清贷款时，该[Root.Get精英军团Name]特权将被自动移除。"
-estate_edg_caledonia_nobility_primacy:0 "[Root.Get精英军团Name]首要地位"
-estate_edg_caledonia_nobility_primacy_desc:0 "将军事上的便宜行事权力授予[Root.Get精英军团Name]会使我国国力显著增强，即使在报答他们的贡献时花费不菲。"
-estate_edg_caledonia_fort:0 "授予[Root.Get精英军团Name]要塞"
-estate_edg_caledonia_fort_desc:0 "我们可以将国内的一些要塞交予[Root.Get精英军团Name]进行管理，以此降低我们的要塞维护成本。"
-estate_edg_caledonia_advisors:0 "[Root.Get精英军团Name]内阁大臣"
-estate_edg_caledonia_advisors_desc:0 "我们允许[Root.Get精英军团Name]在内阁中拥有一个常驻席位，由此便宜[Root.Get精英军团Name]的军事专家发表自己的意见。"
-estate_edg_caledonia_autonomy:0 "保障[Root.Get精英军团Name]自治权"
-estate_edg_caledonia_autonomy_desc:0 "[Root.Get精英军团Name]组织的自治权理应得到保障，这样才能保证[Root.Get精英军团Name]的影响力和忠诚。"
-estate_edg_caledonia_officer_corp:0 "提拔[Root.Get精英军团Name]军官"
-estate_edg_caledonia_officer_corp_desc:0 "[Root.Get精英军团Name]的指挥官具有更优秀的骑兵指挥能力，[Root.Get精英军团Name]成员也拥有更为卓越的骑兵作战能力，将更多的[Root.Get精英军团Name]成员提拔为我们的指挥官，可以充分利用[Root.Get精英军团Name]的经验和资源。"
-
-EDG_estate_Caledonia_enlist_the_mamluks:0 "招募马穆鲁克士兵"
-EDG_estate_Caledonia_enlist_the_mamluks_desc:0 "马穆鲁克士兵是历史上的奴隶战士，他们是各个伊斯兰帝国的精锐军事部队，包括埃及和叙利亚的阿尤布王朝和后来的马穆鲁克苏丹国。他们通常从不同背景的人中招募，以严格的训练著称。"
-
-EDG_estate_Caledonia_FYM_mamluks_privilege_1:0 "巴赫里家族特权"
-EDG_estate_Caledonia_FYM_mamluks_privilege_1_desc:0 "1380年，马穆鲁克王朝最后一个巴赫里苏丹哈吉二世被驱逐出开罗，但布尔吉一脉并没能迅速控制住局势，由此引发了一场马穆鲁克的内战，双方展开激烈的斗争，对埃及地区的经济造成了十足的破坏。巴赫里苏丹哈吉二世向萨哈达王朝求援，承诺将阿拉伯西南部的领地交给萨哈达王朝的大马利克纳西尔一世，并将为纳西尔一世提供相当丰厚的岁贡。60岁的纳西尔一世在深思熟虑后，意识到这是真主赐予他的最好的大寿贺礼，于是率军进入埃及，但纳西尔一世在帮助巴赫里苏丹平定叛乱后，又对巴赫里政权展开了进攻，并最终取缔了马穆鲁克成为了埃及的大马利克，但巴赫里家族在埃及的影响依然存在。"
-EDG_estate_Caledonia_FYM_mamluks_privilege_2:0 "布尔吉家族特权"
-EDG_estate_Caledonia_FYM_mamluks_privilege_2_desc:0 "1380年，马穆鲁克王朝最后一个巴赫里苏丹哈吉二世被驱逐出开罗，但布尔吉一脉并没能迅速控制住局势，由此引发了一场马穆鲁克的内战，双方展开激烈的斗争，对埃及地区的经济造成了十足的破坏。巴赫里苏丹哈吉二世向萨哈达王朝求援，承诺将阿拉伯西南部的领地交给萨哈达王朝的大马利克纳西尔一世，并将为纳西尔一世提供相当丰厚的岁贡。60岁的纳西尔一世在深思熟虑后，意识到这是真主赐予他的最好的大寿贺礼，于是率军进入埃及，但纳西尔一世在帮助巴赫里苏丹平定叛乱后，又对巴赫里政权展开了进攻，并最终取缔了马穆鲁克成为了埃及的大马利克，但布尔吉家族在埃及的影响依然存在。"
-EDG_estate_noble_FYM_mamluks_privilege_1:0 "罗塞塔家族特权"
-EDG_estate_noble_FYM_mamluks_privilege_1_desc:0 "驻地位于尼罗河三角洲罗塞塔地区的一个埃米尔家族逐渐扩大了他们在萨哈达王朝内部的影响，他们被称为“罗塞塔家族”。罗塞塔家族通过在巴赫里家族和布尔吉家族之间进行斡旋，在埃及获得了莫大的影响力，成为了萨哈达王朝在埃及的政治博弈中最诶关键的一个玩家。"
-
-EDG_estate_noble_FYM_mamluks_privilege_2:0 "也门埃米尔专政"
-EDG_estate_noble_FYM_mamluks_privilege_2_desc:0 "萨哈达王朝崛起于也门，也门的埃米尔对我们的影响十分重大，我们的军队和政府中存在着大量的也门贵族，他们把持着我们国家的命脉。"
-
-estate_EDG_dhimmi_FYM_privilege:0 "放任科普特官僚"
-estate_EDG_dhimmi_FYM_privilege_desc:0 "自从我们入主埃及以来，我们一直依赖科普特人官僚来为我们管理政府，这些科普特权贵贪污腐败、滥用职权，但他们是我们制衡马穆鲁克和也门埃米尔的重要旗子。"
-estate_EDG_dhimmi_FYM_privilege_2:0 "优待希腊佣兵"
-estate_EDG_dhimmi_FYM_privilege_2_desc:0 "为了制衡国内的马穆鲁克和也门埃米尔，我们雇佣了一批希腊裔佣兵，他们有优秀的军官和丰富的军事资源。"
-
-EDG_Caledonia_loyalty_modifier:0 "[Country.Get精英军团Name]忠诚度"
-EDG_Caledonia_influence_modifier:0 "[Country.Get精英军团Name]影响力"
-EDG_Caledonia_privilege_slots:0 "[Country.Get精英军团Name]最大特权数"
-
-
-EDG_estate_Caledonia_Tax_exemption_reduction_privilege:0 "[Country.Get精英军团Name]土地税减免"
-EDG_estate_Caledonia_Tax_exemption_reduction_privilege_desc:0 "[Country.Get精英军团Name]对我国的影响十分巨大，为了确保他们对国家的忠诚，我们应当减免他们的土地税。"
-
-EDG_estate_Caledonia_Priority_for_military_products_privilege:0 "[Country.Get精英军团Name]军用物资优先"
-EDG_estate_Caledonia_Priority_for_military_products_privilege_desc:0 "[Country.Get精英军团Name]是我们的军事支柱，我们必须保证他们在战场上能够优先获得军事援助和物资补给。"
-
-#哥萨克
-EDG_privilege_cossacks_Shakirada_privilege:0 "组建谢契拉达"
-EDG_privilege_cossacks_Shakirada_privilege_desc:0 "谢契拉达是由哥萨克人组建的军事议会，在扎波罗热，谢契拉达是国家权力的中心。我们自然不能让哥萨克人成为国家的统治者，但我们可以组建一个权力有限却足以帮助我们组织和训练哥萨克人的谢契拉达，让这个谢契拉达提升哥萨克人的战斗力。"
-EDG_privilege_cossacks_hetman_privilege:0 "任命盖特曼"
-EDG_privilege_cossacks_hetman_privilege_desc:0 "盖特曼是哥萨克人军事领袖的头衔，我们可以组建谢契拉达，并官方任命盖特曼领导这个谢契拉达，由此拉拢哥萨克上层军官。"
-
-
-#市民
-estate_EDG_burghers_Latin_National_Army_privilege:0 "扩大国民军"
-estate_EDG_burghers_Latin_National_Army_privilege_desc:0 "只有国民军才能捍卫我们的安全与独立，我们必须扩大国民军的规模。"
-
-
-
-#柏柏尔部落
-estate_EDG_Berber_tribes:0 "柏柏尔部落"
-estate_EDG_Berber_tribes_name:0 "柏柏尔部落"
-estate_EDG_Berber_tribes_desc:0 "柏柏尔人是世居北非的民族，今主要分布于非洲西北部，绝大多数人口是穆斯林。“柏柏尔”这个称呼并非柏柏尔人的自称，而是拉丁语中的野蛮人的变音，不过有的柏柏尔人自称为“阿马齐尔格人”, 意为“高贵的人”或“自由人”。在游戏中，为了保证识别度，我们依然称之为“柏柏尔人”。"
-
-
-EDG_Berber_tribes_loyalty_modifier:0 "柏柏尔部落忠诚度"
-EDG_Berber_tribes_influence_modifier:0 "柏柏尔部落影响力"
-estate_EDG_Berber_tribes_ownership:0 "柏柏尔部落土地所有权"
-
-estate_nomadic_tribes_autonomy_of_the_tribes:0 "[Root.Get部族Name]自治"
-estate_nomadic_tribes_autonomy_of_the_tribes_desc:0 "我们的领土十分辽阔，为了控制广大的异教与异端地区，我们必须允许[Root.Get部族Name]代表我们拥有治理其领土的自治权。"
-
-estate_nomadic_tribes_secured_succession:0 "确保继承权"
-estate_nomadic_tribes_secured_succession_desc:0 "在[Root.GovernmentName]中，继承权由实力来背书。然而可叹的是，实力是具有欺骗性的，年轻的继承人在过去来不及证明自己，就将遭到杀害。\n尽管这将令[Root.Get部族Name]感到不安，但继承权必须得到保证。"
-
-estate_EDG_Saadi_hereditary_Emir_privilege_enable_falg:0 "允许启用特权 萨阿德世袭埃米尔特权"
-estate_EDG_Saadi_hereditary_Emir_privilege_enable_falg_tt:0 "允许启用§Y埃米尔§!特权 §Y萨阿德世袭埃米尔特权§!。"
-estate_EDG_Saadi_hereditary_Emir_privilege:0 "萨阿德世袭埃米尔特权"
-estate_EDG_Saadi_hereditary_Emir_privilege_desc:0 "摩洛哥南部的萨阿德家族是我们的重要盟友，他们的忠诚对于我们控制柏柏尔众部族而言有重要作用。"
-
-estate_EDG_Tribal_choice_nomadic_privileges:0 "[Root.Get部族Name]牧场选择特权"
-estate_EDG_Tribal_choice_nomadic_privileges_desc:0 "[Root.Get部族Name]将有权优先挑选任何场地进行放牧，尽管这会对我们的经济造成一定破坏，但我们的马匹和马上战士将会大力支持我们。"
-
-estate_EDG_Equestrian_training_funding_privileges:0 "马术训练拨款"
-estate_EDG_Equestrian_training_funding_privileges_desc:0 "我们将会为部族提供马术训练拨款，保障他们的军事训练能够长期稳定且有效地进行。"
-
-estate_EDG_Priority_of_Turkmen_Tribes_privileges:0 "土库曼部族优先权"
-estate_EDG_Priority_of_Turkmen_Tribes_privileges_desc:0 "土库曼部族的权利必须得到优先保障，塔吉克人、阿富汗人和其他民族皆应该为土库曼的政治权利让步。"
-
-estate_EDG_Beduin_tribes_name:0 "贝都因部落"
-
-estate_EDG_FYM_hereditary_Emir_privilege:0 "贝都因世袭埃米尔特权"
-estate_EDG_FYM_hereditary_Emir_privilege_desc:0 "贝都因诸部落在我们的军队中有莫大的影响力，在我们南征北战的历史中，贝都因的许多谢赫为我们立下了汗马功劳，为此，我们授予了他们世袭埃米尔的特权。"
-
-#教士
-estate_EDG_FYM_Abbasid_caliphate_privilege:0 "控制阿拔斯哈里发"
-estate_EDG_FYM_Abbasid_caliphate_privilege_desc:0 "在我们入主埃及后，我们控制了逊尼派的阿拔斯哈里发，无论对于我们国内的什叶派还是逊尼派而言，都意义重大。"
-
-estate_EDG_FYM_Abbasid_caliphate_privilege_2:0 "驯服阿拔斯哈里发"
-estate_EDG_FYM_Abbasid_caliphate_privilege_2_desc:0 "在我们入主埃及后，我们控制了逊尼派的阿拔斯哈里发。如今的阿拔斯哈里发已然完全沦为我们的傀儡，对我们俯首帖耳，无论对于我们国内的什叶派还是逊尼派而言，都意义重大。"
-
-
-estate_EDG_FYM_Fatima_caliphate_privilege:0 "控制法蒂玛哈里发"
-estate_EDG_FYM_Fatima_caliphate_privilege_desc:0 "我们控制了什叶派的法蒂玛哈里发，无论对于我们国内的什叶派还是逊尼派而言，都意义重大。"
-
-estate_EDG_FYM_Fatima_caliphate_privilege_2:0 "驯服法蒂玛哈里发"
-estate_EDG_FYM_Fatima_caliphate_privilege_2_desc:0 "我们控制了逊尼派的阿拔斯哈里发，如今的法蒂玛哈里发已然完全沦为我们的傀儡，对我们俯首帖耳，无论对于我们国内的什叶派还是逊尼派而言，都意义重大。"
-
-estate_EDG_FYM_Abbasid_caliphate_privilege_2_on_granted_tooltip:0 "授予该特权将会为我们治下的所有§Y逊尼派§!省份添加如下修正，移除该特权将移除该修正。"
-estate_EDG_FYM_Fatima_caliphate_privilege_2_on_granted_tooltip:0 "授予该特权将会为我们治下的所有§Y什叶派§!省份添加如下修正，移除该特权将移除该修正。"
-estate_EDG_FYM_Abbasid_caliphate_privilege_2_province_modifier_mod:0 "教派整合"
-estate_EDG_FYM_Abbasid_caliphate_privilege_2_province_modifier_mod_desc:0 "该教派的哈里发已经被我们驯服，当地的信众已经被我们整合。"
-
-EDG_estate_TUR_privilege_Allah_authorizes_the_emperor:0 "安拉授权帕迪沙"
-EDG_estate_TUR_privilege_Allah_authorizes_the_emperor_desc:0 "安拉祝福我们的统治者，赋予他统治世界的权力！"
-
-EDG_estate_Church_LOT_catholic_protector:0 "公教会的拥护者"
-EDG_estate_Church_LOT_catholic_protector_desc:0 "自从丕平献土开始，加洛林王朝就一直都是天主教会的拥护者，我们也拥有这一神圣的称号。"
-
-#哈比什
-estate_edg_habishi_enable_flag_tt:0 "我们将解锁阶层§Y哈比什§!"
-estate_habishi_muslim_name:0 "哈比什"
-estate_edg_habishi_name:0 "哈比什"
-estate_edg_habishi:0 "哈比什"
-estate_edg_habishi_desc:0 "黑人宦官通常从遥远的异国购得，他们在我国国内几乎没有任何政治影响力，因而可以被彻底控制，成为禁宫内俯首帖耳的仆从。在专制君主身边服侍的宦官也是一大重要集团。有时，他们的影响力能够得到当政者严厉的钳制；然而一旦权柄交给了暗弱无能之君，他们很快就会把君主本人变成精心摆布的傀儡。"
-edg_habishi_influence_modifier:0 "[Root.Get黑人宦官Name]影响力"
-edg_habishi_loyalty_modifier:0 "[Root.Get黑人宦官Name]忠诚均衡点"
-edg_habishi_privilege_slots:0 "[Root.Get黑人宦官Name]最大特权数"
-edg_habishi_influence_modifier:0 "[Root.Get黑人宦官Name]影响力"
-edg_habishi_loyalty_modifier:0 "[Root.Get黑人宦官Name]忠诚均衡点"
-edg_habishi_privilege_slots:0 "[Root.Get黑人宦官Name]最大特权数"
-estate_edg_habishi_owner_ship:0 "[Root.Get哈比什Name]土地所有权"
-
-estate_edg_habishi_bookkeepers_privilege:0 "主管内阁"
-estate_edg_habishi_bookkeepers_privilege_desc:0 "在最高统治者的左右侍奉，并掌管玺印、控制言路是极为重要的权力，谁能拿到这一权柄，谁便能更进一步，进而掌控中央。"
-estate_edg_habishi_outwards_perfection_privilege:0 "执剑维齐尔"
-estate_edg_habishi_outwards_perfection_privilege_desc:0 "哪怕是我们宫廷内的仆人，也有一些颇具军事天赋的奇才，我们可以将其任命为我们的执剑维齐尔，尽管这可能会为我们带来非议。"
-
-estate_edg_habishi_palace_bureaucracy_privilege:0 "杰出内廷官僚"
-estate_edg_habishi_palace_bureaucracy_privilege_desc:0 "向帝国的每个角落指示政策是一项艰巨的任务，而且往往会受到寻求自治的地方当局的进一步阻碍。[Root.Get黑人宦官Name]们很乐意向我们的[Root.Monarch.GetTitle]伸出援手，以换取更多的特权，并帮助我们管理边境内的事务。"
-estate_edg_habishi_delegate_provincial_administration_privilege:0 "委任督省"
-estate_edg_habishi_delegate_provincial_administration_privilege_desc:0 "尽管我朝领域内因行政管理过于繁重而出现了裂痕，但[Root.Get黑人宦官Name]之中的杰出代表将站出来，在帝国的每个偏远省份进一步执行[Root.Monarch.GetTitle]的意志。"
-estate_edg_habishi_imperial_council_privilege:0 "[Root.Get黑人宦官Name]内阁"
-estate_edg_habishi_imperial_council_privilege_desc:0 "拥有大量良好的内阁候选人，是对[Root.Get黑人宦官Name]职责的一种明智的补充，可以确保一个健康和多样化的管理层。"
-estate_edg_habishi_land_rights_privilege:0 "[Root.Get黑人宦官Name]领地权"
-estate_edg_habishi_land_rights_privilege_desc:0 "[Root.Get黑人宦官Name]是国家最好的管理者，可以以皇室的名义收购并管理土地。"
-estate_edg_habishi_royal_intrigue_keepers_privilege:0 "加强人身控制"
-estate_edg_habishi_royal_intrigue_keepers_privilege_desc:1 "确保对[Root.Get黑人宦官Name]的人身控制，是实施纪律并确保每个人对皇权的忠诚的绝佳方式。"
-estate_edg_habishi_promote_eunuch_rights:0 "提升[Root.Get黑人宦官Name]权利"
-estate_edg_habishi_promote_eunuch_rights_desc:0 "通过提高[Root.Get黑人宦官Name]的权利，我们将成功确保他们在我们寻求改革帝国和掌控内部的过程中长期保持忠诚。"
-
-estate_edg_habishi_delegate_subject_diplomacy_privilege:0 "主管外务"
-estate_edg_habishi_delegate_subject_diplomacy_privilege_desc:0 "从现在开始，纳贡的藩属和[Root.Monarch.GetTitle]之间的外交事务将由[Root.Get黑人宦官Name]处理，并携带[Root.Monarch.GetTitle]的印章。"
-estate_edg_habishi_supremacy_over_crown_privilege_fym:0 "挟制[Root.Monarch.GetTitle]"
-estate_edg_habishi_supremacy_over_crown_privilege_fym_desc:0 "随着权力分化，各阶层现在可以向[Root.Monarch.GetTitle]提出要求，使[Root.Monarch.GetHerHim]别无选择，只能屈从他们的意愿。"
-
-estate_edg_habishi_establish_favor_system_privilege:0 "推诚予惠"
-estate_edg_habishi_establish_favor_system_privilege_desc:0 "一种人情制度，授予[Root.Get黑人宦官Name]作为我们和邻国之间的使者的角色，是提升我们的宏伟和我们的话语的重要性的一个很好的步骤。"
-estate_edg_habishi_allow_personal_fortunes_privilege:0 "准允私财"
-estate_edg_habishi_allow_personal_fortunes_privilege_desc:0 "与我们治下的许多人一样，[Root.Get黑人宦官Name]现在也能够在我们的领域内获得、保留和出售建筑财产。"
-
-estate_edg_habishi_bey_privilege:0 "[Root.Get黑人宦官Name]贝伊"
-estate_edg_habishi_bey_privilege_desc:0 "只有[Root.Get黑人宦官Name]对我们绝对忠诚，随着帝国的疆土不断扩大，只有[Root.Get黑人宦官Name]担任的贝伊才能让[Root.Monarch.GetTitle]万般信任。这些对[Root.Monarch.GetTitle]绝对忠诚的奴仆将会替我们忠心管理帝国。"
-
-estate_edg_habishi_royal_scribe_privilege:0 "[Root.Get黑人宦官Name]皇家抄写员"
-estate_edg_habishi_royal_scribe_privilege_desc:0 "dawခdခr，即皇家抄写员，负责撰写[Root.Monarch.GetTitle]的诏书，平常在服侍于[Root.Monarch.GetTitle]左右，这一向是一个重要的官职，能够深得[Root.Monarch.GetTitle]信任，我们将委任[Root.Get黑人宦官Name]作为我们的皇家抄写员，唯有他们能够深明[Root.Monarch.GetTitle]真意。"
-
-estate_edg_habishi_Director_of_Prosecutions_privilege:0 "[Root.Get黑人宦官Name]兼领检查长"
-estate_edg_habishi_Director_of_Prosecutions_privilege_desc:0 "kခs㌲h㌲if al-kus㌲h㌲s㌲h㌲ခf，即检察长，是由[Root.Monarch.GetTitle]任命的督察其他官吏的官员，对于维护帝国行政的廉洁和稳定至关重要。但历任检察长并非都是忠心耿耿之徒，我们必须让[Root.Get黑人宦官Name]掌握这一要职。"
-
-estate_edg_habishi_plenipotentiary_enforcement_officer_privilege:0 "[Root.Get黑人宦官Name]全权执法官"
-estate_edg_habishi_plenipotentiary_enforcement_officer_privilege_desc:0 "我们将任命[Root.Get黑人宦官Name]为拥有对全体官员处刑特权的jခndခr，即全权执法官，[Root.Get黑人宦官Name]全权执法官将掌握全体官僚的生死，他们处死任何平民和官员都不需要得到[Root.Monarch.GetTitle]的同意。"
-
-# estate_edg_habishi_Vizier_privilege:0 "[Root.Get黑人宦官Name]大维齐尔"
-# estate_edg_habishi_Vizier_privilege_desc:0 "我们将委任[Root.Get黑人宦官Name]为我们的大维齐尔，帝国第二大的权力将被我们的奴仆掌握，但这将必然引起其他势力的不满。"
-
-estate_edg_habishi_Vizier_privilege:0 "[Root.Get黑人宦官Name]大维齐尔"
-estate_edg_habishi_Vizier_privilege_desc:0 "我们将委任[Root.Get黑人宦官Name]为我们的大维齐尔，帝国第二大的行政权力将被我们的奴仆掌握，但这将必然引起其他势力的不满。"
-
-estate_edg_habishi_sword_Vizier_privilege:0 "[Root.Get黑人宦官Name]执剑维齐尔"
-estate_edg_habishi_sword_Vizier_privilege_desc:0 "我们将委任[Root.Get黑人宦官Name]为我们的执剑维齐尔，帝国第二大的军事权力将被我们的奴仆掌握，但这将必然引起其他势力的不满。"
-
-#科普特人
-estate_edg_copt:0 "科普特人"
-estate_edg_copt_desc:0 "穆斯林统治埃及后，在宗教上实行了齐米制度，服务于他们在埃及建立稳定和有效统治的战略意图。在亚历山大的科普特大主教，是埃及科普特基督教徒的首脑，他领导的亚历山大教会和各主要城市的主教一起制定宗教政策、发布宗教命令，并负责代表自己的信徒与穆斯林统治者对话、谈判。"
-edg_copt_influence_modifier:0 "[Root.Get科普特人Name]影响力"
-edg_copt_loyalty_modifier:0 "[Root.Get科普特人Name]忠诚均衡点"
-edg_copt_privilege_slots:0 "[Root.Get科普特人Name]最大特权数"
-edg_copt_influence_modifier:0 "[Root.Get科普特人Name]影响力"
-edg_copt_loyalty_modifier:0 "[Root.Get科普特人Name]忠诚均衡点"
-edg_copt_privilege_slots:0 "[Root.Get科普特人Name]最大特权数"
-estate_edg_copt_owner_ship:0 "[Root.Get科普特人Name]土地所有权"
-
-estate_edg_copt_nile_goods_transport:0 "尼罗河货运权"
-estate_edg_copt_hydraulic_rights:0 "分配水源特权"
-estate_edg_copt_nile_goods_transport_desc:0 "科普特人获得了尼罗河的货运特权，他们将更加忠心。"
-estate_edg_copt_hydraulic_rights_desc:0 "我们将珍贵的水资源交由科普特人管理，他们将会妥善运用这些资源。"
-estate_edg_copt_enslaving_rights_gt:0 "所有沙漠、草原省份，将会获得如下修正："
-
-estate_dhimmi_administrative_privileges:0 "[Root.Get齐米Name]自治"
-estate_dhimmi_administrative_privileges_desc:0 "[Root.GetAdjective]省份使许多宗教的共同家园。通过允许[Root.Get齐米Name]组织自治团体，我们能在镇上乡间确保与异教徒间的长治久安。"
-
-estate_edg_copt_protected_communities_scaling:0 "保护齐米团体"
-
-
-estate_edg_copt_Aswan_law_privilege:0 "阿斯旺法令"
-estate_edg_copt_Aswan_law_privilege_desc:0 "《阿斯旺法令》将在尼罗河流域征收手工业税赋的巨大权力授予了科普特人，科普特人的商会和组织将能够承担我们在此地的包税。"
-
-estate_edg_copt_Military_distribution_privilege:0 "军用经销商"
-estate_edg_copt_Military_distribution_privilege_desc:0 "我们将从特定的商人手中购买军事用品，这将让这些特权商人对我们更为忠诚。"
-
-estate_edg_copt_General_Affairs_Department_privilege:0 "[Root.Get科普特人Name]总务部"
-estate_edg_copt_General_Affairs_Department_privilege_desc:0 "[Root.Get科普特人Name]将会是我们国家行政力量的支柱，我们将建立一个由科普特人主导的总务部，以确保国家机构的忠诚和高效。"
-
-estate_edg_copt_General_Mediterranean_Charter_privilege:0 "地中海特许状"
-estate_edg_copt_General_Mediterranean_Charter_privilege_desc:0 "我们将允许[Root.Get科普特人Name]在地中海贸易中拥有商业税减免的特权，他们将为此感激涕零。"
-
-estate_edg_copt_Protecting_churches_privilege:0 "保护[Root.Get科普特人Name]教堂"
-estate_edg_copt_Protecting_churches_privilege_desc:0 "[Root.Get科普特人Name]与我们信仰不同，他们虔诚地信奉科普特教。我们尊重他们的信仰，并将他们的教堂与清真寺置于同等程度的保护之下。"
-
-estate_edg_copt_control_over_the_mint:0 "金币铸币特权"
-estate_edg_copt_control_over_the_mint_desc:0 "我们会将国内的金矿委托给[Root.Get科普特人Name]进行开采，他们将会用更为科学和合理的方法运营帝国的金矿。"
-
-estate_edg_copt_condemn_privilege:0 "卡迪判例法"
-estate_edg_copt_conceal_privilege:0 "可行包庇法"
-estate_edg_copt_condense_privilege:0 "上诉禁止冗文"
-estate_edg_copt_concession_privilege:0 "扩大特许权"
-estate_edg_copt_condemn_privilege_desc:0 "卡迪判例法是由扎伊德一世颁布的判例法典，是其统治期内亲自审理的诸多刑事案件的判例汇编，构成了帝国法律体系内重要的一环。"
-estate_edg_copt_conceal_privilege_desc:0 "[Root.Get科普特人Name]注重亲缘关系，这与我们使用奴隶进行治理的政府体制有很大不同。但我们仍然允许[Root.Get科普特人Name]按照自己的习惯进行生活，[Root.Get科普特人Name]习惯于包庇自己的亲属，而我们愿意对他们的包庇行为减轻处罚。"
-estate_edg_copt_condense_privilege_desc:0 "我们的官僚机构很容易出现臃肿、低效的弊病，官员拘泥于形式主义，整日将时间浪费在公文撰写和行政会议上，这极大影响了我们的行政效率。我们将允许下级官员对自己那些罔顾行政效率而奉行形式主义的上级进行起诉。"
-estate_edg_copt_concession_privilege_desc:0 "[Root.Get科普特人Name]的特许权应该得到扩大，这能够促进我们的经济转型。"
-
-#耶尼切里
-EDG_estate_TUR_privilege_Albania_janisary:0 "「斯坎德培」战团"
-EDG_estate_TUR_privilege_Albania_janisary_desc:0 "「斯坎德培」战团是一支由阿尔巴尼亚人组成的耶尼切里战团，他们尊奉斯坎德培为英雄，并学习斯坎德培的精神，为帝国而英勇战斗。"
-
-EDG_estate_TUR_privilege_Georgia_janissaries:0 "格鲁吉亚耶尼切里"
-EDG_estate_TUR_privilege_janissaries_Priority_distribution_of_spoils:0 "战利品优先分配"
-EDG_estate_TUR_privilege_janissaries_Grand_Legion:0 "大军团作战"
-EDG_estate_TUR_privilege_janissaries_Extra_allowance:0 "额外的步兵津贴"
-EDG_estate_TUR_privilege_janissaries_Extra_rough_discipline:0 "严格的学徒制度"
-EDG_estate_TUR_privilege_janissaries_ITA:0 "拉丁耶尼切里"
-
-EDG_estate_TUR_privilege_Georgia_janissaries_desc:0 "我们将从格鲁吉亚人中征募更多的耶尼切里。"
-EDG_estate_TUR_privilege_janissaries_Priority_distribution_of_spoils_desc:0 "耶尼切里是我们最重要的军事力量，他们有权优先分配战利品。"
-EDG_estate_TUR_privilege_janissaries_Grand_Legion_desc:0 "耶尼切里战团将被广泛地用于各大军团作战。"
-EDG_estate_TUR_privilege_janissaries_Extra_allowance_desc:0 "为步兵增加津贴，像训练耶尼切里一样训练他们，可以增强他们的战斗力。"
-EDG_estate_TUR_privilege_janissaries_Extra_rough_discipline_desc:0 "我们将建立严格的耶尼切里学徒制度"
-EDG_estate_TUR_privilege_janissaries_ITA_desc:0 "我们将从拉丁地区征募更多的异教徒加入我们的军队。"
-
-EDG_estate_TUR_privilege_janissaries_Grand_Legion_enable_flag_tt:0 "解锁耶尼切里特权§Y「大军团作战」§!，该特权有如下效果："
-EDG_estate_TUR_privilege_janissaries_Extra_rough_discipline_enable_flag_tt:0 "解锁耶尼切里特权§Y「严格的学徒制度」§!，该特权有如下效果："
-EDG_estate_TUR_privilege_janissaries_ITA_enable_flag_tt:0 "解锁耶尼切里特权§Y「拉丁耶尼切里」§!，该特权有如下效果："
-
-EDG_estate_TUR_privilege_janissaries_aga_prior:0 "提拔忠诚阿迦"
-EDG_estate_TUR_privilege_janissaries_aga_prior_desc:0 "我们将提拔对帕迪沙最忠诚的阿迦，由此实现军事权力的集中。"
-
-EDG_estate_TUR_privilege_janissaries_Increase_rewards:0 "增加赏赐"
-EDG_estate_TUR_privilege_janissaries_Increase_rewards_desc:0 "我们会提高对耶尼切里的赏赐，保证他们的忠诚。"
-
-
-#圣骑士
-
-estate_edg_Paladin:0 "圣骑士"
-estate_edg_Paladin_desc:0 "圣骑士，其词根来源于Palatinus，Palatinus则意为「属于帕拉丁山的」，这个拉丁语单词在古罗马时代是意指与帕拉丁山相关的高官贵族，由于此山是罗马皇宫的所在地，所以Palatinus通常也用来指代那些侍奉于罗马皇帝并为其处理军政事务的宫廷朝臣。进入中世纪之后，查理大帝麾下十二名最杰出的骑士被称作为Twelve Peers，意指「十二近侍」，表示他们是侍奉于皇帝的心腹死党。在加洛林王朝后期，尤其是在洛塔林吉亚王国境内，「圣骑士」的数量不断扩大，其规模不再局限于十二人，也不再是权臣的代名词，而成为了一个类似于骑士团的组织。「圣骑士」的身份由加洛林君主授予，同时需要经过教会认可，因此圣骑士既是军事贵族，也是神职人员——但关于圣骑士是否应当秉持独身主义的论断始终没有停止过。圣骑士的选拔标准十分严格，被授予圣骑士头衔的人必须是贵族，接受过严格的军事训练和宗教学习，且对皇室保有忠诚——也正因此，圣骑士成为了我们国内一支强大且可以依赖的力量。"
-edg_Paladin_influence_modifier:0 "圣骑士影响力"
-edg_Paladin_loyalty_modifier:0 "圣骑士忠诚均衡点"
-edg_Paladin_privilege_slots:0 "圣骑士最大特权数"
-edg_Paladin_influence_modifier:0 "圣骑士影响力"
-edg_Paladin_loyalty_modifier:0 "圣骑士忠诚均衡点"
-edg_Paladin_privilege_slots:0 "圣骑士最大特权数"
-estate_edg_Paladin_owner_ship:0 "圣骑士土地所有权"
-
-estate_edg_Paladin_privilege_1:0 "圣骑士领地权"
-estate_edg_Paladin_privilege_2:0 "圣骑士首要地位"
-estate_edg_Paladin_privilege_3:0 "圣骑士军官团"
-estate_edg_Paladin_privilege_4:0 "圣骑士参与教会"
-estate_edg_Paladin_privilege_5:0 "圣骑士主持弥撒"
-estate_edg_Paladin_privilege_6:0 "额外津贴"
-estate_edg_Paladin_privilege_7:0 "忠诚于[Root.GovernmentName]"
-estate_edg_Paladin_privilege_8:0 "减刑特权"
-estate_edg_Paladin_privilege_9:0 "宫廷内摈斥圣骑士"
-estate_edg_Paladin_privilege_10:0 "保护商队"
-estate_edg_Paladin_privilege_11:0 "圣骑士理事会"
-estate_edg_Paladin_privilege_12:0 "教宗圣骑士特使"
-estate_edg_Paladin_privilege_13:0 "圣骑士驻外大使"
-estate_edg_Paladin_privilege_14:0 "组建圣骑士战团"
-estate_edg_Paladin_privilege_15:0 "扩大圣骑士战团"
-estate_edg_Paladin_privilege_16:0 "严厉的圣骑士训练"
-estate_edg_Paladin_privilege_17:0 "资助圣骑士布道"
-estate_edg_Paladin_privilege_18:0 "半职业圣骑士"
-estate_edg_Paladin_privilege_19:0 "土地薪资支付"
-estate_edg_Paladin_privilege_20:0 "圣骑士军事委员会"
-estate_edg_Paladin_privilege_21:0 "降低选拔门槛"
-estate_edg_Paladin_privilege_22:0 "粗制滥造的圣骑士装备"
-estate_edg_Paladin_privilege_23:0 "臃肿的骑兵连队"
-estate_edg_Paladin_privilege_24:0 "征募圣骑士侍从参军"
-estate_edg_Paladin_privilege_25:0 "骑兵至上主义"
-estate_edg_Paladin_privilege_26:0 "圣骑士火枪兵团"
+EDG_disables_estate_burghers_tooltip:0 "[Root.GetAdjective] will disable the $YBurghers$! estate."
+
+EDG_estate_opinion_happy_modifier_tt:0 "Satisfied"
+EDG_estate_opinion_unhappy_modifier_tt:0 "Dissatisfied"
+
+EDG_GSR_estate_nobles_name:0 "Great Župans"
+EDG_GSR_estate_church_name:0 "Great Patriarch"
+EDG_GSR_estate_burghers_name:0 "Great Merchants"
+
+EDG_zoroastrian_estate_church_name:0 "Asronan"
+EDG_zoroastrian_estate_nobles_name:0 "Varez"
+EDG_zoroastrian_estate_burghers_name:0 "Armin"
+
+EDG_HZB_estate_nobles_name:0 "Turkic Nobility"
+estate_EDG_HZB_tribes_name:0 "Mongol Tribes"
+estate_EDG_HZB_Kipchaks_name:0 "Kipchak Nobles"
+EDG_estate_HZB_privilege_noble:0 "Persian Turkic Military Nobility"
+EDG_estate_HZB_privilege_nomadic:0 "Mongol Tribal Ascendancy"
+EDG_estate_HZB_privilege_Caledonia:0 "Kipchak Family Privileges"
+EDG_estate_HZB_privilege_noble_desc:0 "Our foundation is held by Turkic military nobles long entrenched in Persia itself. They control the state's sources of soldiers and taxes."
+EDG_estate_HZB_privilege_nomadic_desc:0 "In the past, we relied too heavily on the military power of the Mongol tribes. Now, they control the army's command and disrupt normal production activities in the Mongol fashion."
+EDG_estate_HZB_privilege_Caledonia_desc:0 "Since the time of the Khwarazmian dynasty, the Kipchak tribes have left their influence on the land of Iran. Our state also contains the power of Kipchak tribes. Having no roots in Iran, they have aided us in strengthening monarchical autocracy, yet several major Kipchak clans have also seized much state power, leading to corruption and decay within the empire."
+
+#Agenda Suggestions
+estate_privileges_and_agendas_events.3.00:0 "The Proposal of the [Root.GetKnightlyOrderName]"
+estate_privileges_and_agendas_events_edg_copt_name:0 "The Proposal of the [Root.GetCoptsName]"
+estate_privileges_and_agendas_events_EDG_habishi_name:0 "The Proposal of the Habishi"
+estate_privileges_and_agendas_events_edg_Paladin_name:0 "The Proposal of the Paladins"
+
+#Mercenary Lords
+NOT_Mercenary_Lord_government_desc:0 "Not a Mercenary Lord government: §Y-5%§!"
+estate_EDGMercenaryLord:0 "Mercenary Lords"
+estate_EDGMercenaryLord_name:0 "Mercenary Lords"
+estate_EDGMercenaryLord_desc:0 "Frequent warfare left Italy's traditional militias and feudal knights increasingly inadequate. The immense wealth accumulated through Mediterranean trade made it not only economically feasible for Italian states to recruit 'professional soldiers,' but it also freed the citizens of city-states from military obligations, allowing them to fully exploit their comparative advantages in trade, commerce, craftsmanship, and finance. While armies composed of militias and knights did achieve victories, their mobilization was slow, service time was limited, and military quality was uneven. Mercenaries, however, could be deployed at any time and possessed rich combat experience. Militias often struggled against the charge of heavy cavalry, whereas mercenary infantry, with their practical experience and good coordination, proved capable of defeating heavy cavalry."
+
+EDGMercenaryLord_loyalty_modifier:0 "Mercenary Lord Loyalty"
+EDGMercenaryLord_influence_modifier:0 "Mercenary Lord Influence"
+EDGMercenaryLord_privilege_slots:0 "[Country.GetMercenaryLordLoyaltyName] Maximum Privileges"
+estate_EDGMercenaryLord_ownership:0 "Mercenary Lord Land Ownership"
+
+#Mafia
+NOT_Mafia_government_desc:0 "Not a Mafia government: §Y-5%§!"
+estate_edg_mafia:0 "Mafia"
+estate_edg_mafia_name:0 "Mafia"
+estate_edg_mafia_desc:0 "From its very inception, the Mafia was an organization that glorified violence. It had a side that championed the poor and sought justice for the common people. However, without correct theory as guidance, it was almost certain to turn into its opposite. Over time, the nature of the Mafia also changed, metamorphosing into a heinous criminal gang that committed every imaginable evil. Through violence, they gained control over Sicily's livestock, slaughterhouses, orchards, and ports, extorting protection money from private owners. Through violence, the Mafia established its authority on the island of Sicily and amassed considerable influence."
+
+
+EDG_Mafia_loyalty_modifier:0 "Mafia Loyalty"
+EDG_Mafia_influence_modifier:0 "Mafia Influence"
+EDG_Mafia_privilege_slots:0 "[Country.GetMafiaName] Maximum Privileges"
+estate_edg_mafia_ownership:0 "Mafia Land Ownership"
+
+estate_edg_mafia_privilege_1:0 "Land Ownership"
+estate_edg_mafia_privilege_2:0 "Mafia Privileges"
+estate_edg_mafia_privilege_3:0 "Mafia Primacy"
+estate_edg_mafia_privilege_4:0 "Smuggling Cooperation"
+estate_edg_mafia_privilege_5:0 "Sheltering Criminals"
+estate_edg_mafia_privilege_6:0 "Violent Policing"
+estate_edg_mafia_privilege_7:0 "Assassination Organization"
+estate_edg_mafia_privilege_8:0 "Abduction Assistance"
+estate_edg_mafia_privilege_9:0 "Appointed Parliamentary Representation"
+estate_edg_mafia_privilege_10:0 "Loans from the Mafia"
+
+estate_edg_mafia_privilege_1_desc:0 "Like other estates, the Mafia has the freedom to acquire land."
+estate_edg_mafia_privilege_2_desc:0 "Focusing on the Mafia's domestic privileges will help secure their loyalty."
+estate_edg_mafia_privilege_3_desc:0 "The Mafia holds a significant position in our foreign activities."
+estate_edg_mafia_privilege_4_desc:0 "Assisting the Mafia in their smuggling operations abroad can bring us certain conveniences."
+estate_edg_mafia_privilege_5_desc:0 "The Mafia is a partner of the state; they have the right to be sheltered."
+estate_edg_mafia_privilege_6_desc:0 "If any mob dares to oppose our rule, the Mafia's enforcers and hitmen will be at their doorstep immediately."
+estate_edg_mafia_privilege_7_desc:0 "There are always some obstinate foreigners and domestic opponents who need to be physically eliminated."
+estate_edg_mafia_privilege_8_desc:0 "Abduction is also an effective method to silence opposition voices."
+estate_edg_mafia_privilege_9_desc:0 "To maintain the government's influence in the national parliament, we must allow the Mafia to assist us."
+estate_edg_mafia_privilege_10_desc:0 "We can obtain cheap loans from the hands of the Mafia."
+
+estate_edg_mafia_privilege_4_effect_tooltip:0 "We will be able to conduct §YSmuggling Operations§! in the diplomacy interface."
+estate_edg_mafia_privilege_7_effect_tooltip:0 "We will be able to conduct §YAssassination Activities§! in the diplomacy interface."
+estate_edg_mafia_privilege_8_effect_tooltip:0 "We will unlock the §YAbduct Opposition§! decision."
+
+EDG_estate_edg_mafia_privilege_8_decision_title:0 "Conduct Abduction Activities Against Domestic Opposition"
+EDG_estate_edg_mafia_privilege_8_decision_desc:0 "The domestic opposition is far too clamorous; some abduction activities can quiet them down."
+EDG_estate_edg_mafia_privilege_8_decision_modifier:0 "Conducting Abduction Activities Against Domestic Opposition"
+
+#Bureaucrats
+estate_EDG_officials:0 "Bureaucrats"
+estate_EDG_officials_name:0 "Bureaucrats"
+estate_EDG_officials_name_2:0 "Power Elites"
+estate_EDG_officials_desc:0 "Bureaucrats are the operators of the state apparatus, playing crucial roles within administrative organs or specific coercive institutions. They can align with the peasantry or stand in opposition to them."
+
+EDG_officials_loyalty_modifier:0 "Bureaucrat Loyalty"
+EDG_officials_influence_modifier:0 "Bureaucrat Influence"
+EDG_officials_privilege_slots:0 "[Country.GetBureaucratsName] Maximum Privileges"
+estate_EDG_officials_ownership:0 "Bureaucrat Land Ownership"
+
+estate_EDG_officials_privilege_8_effect_tooltip:0 "Provinces located within the trade region §YWhite Sea Chartered Trade Zone§! will receive the §Y'Special Trade Zone'§! modifier, granting benefits including Goods Produced and Trade Power, while increasing Provincial Unrest."
+estate_EDG_officials_privilege_9_effect_tooltip:0 "Provinces located within the trade region §YCrimea Chartered Trade Zone§! will receive the §Y'Special Trade Zone'§! modifier, granting benefits including Goods Produced and Trade Power, while increasing Provincial Unrest."
+estate_EDG_officials_privilege_8_province_modifier_mod:0 "Special Trade Zone"
+estate_EDG_officials_privilege_8_province_modifier_mod_desc:0 "This province is part of a government-led Special Trade Zone, with substantial technology and resources invested here."
+estate_EDG_officials_privilege_9_province_modifier_mod:0 "Special Trade Zone"
+estate_EDG_officials_privilege_9_province_modifier_mod_desc:0 "This province is part of a government-led Special Trade Zone, with substantial technology and resources invested here."
+
+estate_EDG_officials_privilege_1:0 "Bureaucratic Land Rights"
+estate_EDG_officials_privilege_2:0 "Bureaucratic Tenure for Life"
+estate_EDG_officials_privilege_3:0 "Bureaucratic Primacy"
+estate_EDG_officials_privilege_4:0 "Bureaucratic Special Provisions"
+estate_EDG_officials_privilege_5:0 "Bureaucratic Educational Privilege"
+estate_EDG_officials_privilege_6:0 "Bureaucratic Inheritance Privilege"
+estate_EDG_officials_privilege_7:0 "Bureaucratic Unrestricted Drawing Rights"
+estate_EDG_officials_privilege_8:0 "Baltic Special Zone"
+estate_EDG_officials_privilege_9:0 "Black Sea Special Zone"
+estate_EDG_officials_privilege_10:0 "Flexible Legislation"
+estate_EDG_officials_privilege_11:0 "Promoting the 'Blessing' of Hard Work"
+estate_EDG_officials_privilege_12:0 "Ceremonial Elections"
+estate_EDG_officials_privilege_13:0 "The Freedom of Debt Servitude"
+estate_EDG_officials_privilege_14:0 "Voluntary Overtime"
+estate_EDG_officials_privilege_15:0 "Perfected Censorship System"
+estate_EDG_officials_privilege_16:0 "Mercenary Companies"
+
+estate_EDG_officials_privilege_1_desc:0 "The right of bureaucrats to own land is guaranteed by the state, and the state will not investigate how much land they occupy."
+estate_EDG_officials_privilege_2_desc:0 "Bureaucratic positions are held for life, unless impeached."
+estate_EDG_officials_privilege_3_desc:0 "Bureaucrats are the most vital force of the state. They dominate political affairs and are the true builders of the nation."
+estate_EDG_officials_privilege_4_desc:0 "Officials at all levels have access to exclusive internal stores and restaurants, enjoying special supplies according to their rank and status."
+estate_EDG_officials_privilege_5_desc:0 "The children of all senior officials receive the finest education. The sons of senior military officers are sent directly to military academies for training."
+estate_EDG_officials_privilege_6_desc:0 "Officials, especially high-ranking ones, can legally bequeath substantial private assets to their children for lifelong enjoyment."
+estate_EDG_officials_privilege_7_desc:0 "Officials at the pinnacle of the pyramid hold open accounts at the national bank, meaning the account holder can withdraw funds without restriction at will."
+estate_EDG_officials_privilege_8_desc:0 "We will establish a special trade zone to expand our trade and production activities. The zone will grant numerous privileges, including tax exemptions, and, more importantly, production within will be subject to less supervision."
+estate_EDG_officials_privilege_9_desc:0 "We will establish a special trade zone to expand our trade and production activities. The zone will grant numerous privileges, including tax exemptions, and, more importantly, production within will be subject to less supervision."
+estate_EDG_officials_privilege_10_desc:0 "Legislation is technical work. Our legislative activities are highly flexible to ensure the interests of the privileged class."
+estate_EDG_officials_privilege_11_desc:0 "The opportunity to work hard is itself a 'blessing.' People should feel genuine gratitude towards those who provide them with high-intensity labor."
+estate_EDG_officials_privilege_12_desc:0 "Elections are merely a formality, having no real impact on the outcome. What determines the vote count is never those who cast the ballots, but those who count them."
+estate_EDG_officials_privilege_13_desc:0 "Some people ostensibly enjoy great freedom, but they are bound by immense debt and believe they are laboring hard for themselves."
+estate_EDG_officials_privilege_14_desc:0 "Overtime is a reward. Voluntary extra work requires no compensation, and our citizens always volunteer for additional labor."
+estate_EDG_officials_privilege_15_desc:0 "Our censorship system is more stringent. Any speech unfavorable to the government will be stifled in its cradle."
+estate_EDG_officials_privilege_16_desc:0 "Our own people are ungrateful vermin—weak and thankless. We need to employ foreign troops to eliminate domestic opposition."
+
+
+#Peasants
+estate_EDG_present_burghers:0 "Artisans"
+estate_EDG_present_burghers_name:0 "Artisans"
+
+estate_EDG_peasants:0 "Peasants"
+estate_EDG_peasants_name:0 "Peasants"
+estate_EDG_peasants_desc:0 "Peasants are individual small producers who operate with the single family as the economic unit, engaged in individual agricultural labor combining farming and weaving. In our nation, however, the peasants should be the masters of the state."
+
+EDG_peasants_loyalty_modifier:0 "Peasant Loyalty"
+EDG_peasants_influence_modifier:0 "Peasant Influence"
+
+estate_EDG_peasants_privilege_11_province_modifier_mod:0 "Steppe Reclamation"
+estate_EDG_peasants_privilege_11_province_modifier_mod_desc:0 "The vast steppes of Eastern Europe hold immense reclamation potential. If we can properly develop this region, it will provide us with more fertile farmland."
+
+estate_EDG_peasants_privilege_12_province_modifier_mod:0 "Forest Reclamation"
+estate_EDG_peasants_privilege_12_province_modifier_mod_desc:0 "The forests of Eastern Europe hold immense reclamation potential. If we can properly develop this region, it will provide us with more fertile farmland."
+
+estate_EDG_peasants_privilege_12_effect_tooltip:0 "All provinces with §YForest§! terrain have §Y-15% Local Development Cost§!"
+estate_EDG_peasants_privilege_12_remove_tooltip:0 "All provinces with §YForest§! terrain will lose the §Y-15% Local Development Cost§! modifier."
+
+estate_EDG_peasants_privilege_1:0 "Peasant Land Rights"
+estate_EDG_peasants_privilege_2:0 "Guarantee of Peasant Rights"
+estate_EDG_peasants_privilege_3:0 "Primacy of the Peasantry"
+estate_EDG_peasants_privilege_4:0 "Guarantee of Yeoman Independence"
+estate_EDG_peasants_privilege_5:0 "Collective Farms"
+estate_EDG_peasants_privilege_6:0 "Peasant Suffrage"
+estate_EDG_peasants_privilege_7:0 "Expanded Conscription"
+estate_EDG_peasants_privilege_8:0 "Compulsory Grain Procurement"
+estate_EDG_peasants_privilege_9:0 "Peasants' Festival"
+estate_EDG_peasants_privilege_10:0 "Compulsory Military Training"
+estate_EDG_peasants_privilege_11:0 "Reclaim the Steppe"
+estate_EDG_peasants_privilege_12:0 "Reclaim the Forests"
+
+estate_EDG_peasants_privilege_1_desc:0 "The peasants of our society crave land more than any other estate. Granting their wish will earn us their immense gratitude."
+estate_EDG_peasants_privilege_2_desc:0 "We shall safeguard the rights and interests of the peasants, ensuring they have their own place in political, economic, and cultural life."
+estate_EDG_peasants_privilege_3_desc:0 "In our nation, the peasantry possesses the highest political rights, and the other estates should show them due respect."
+estate_EDG_peasants_privilege_4_desc:0 "We shall protect the independence of the yeoman class. Their economic and political rights will be guaranteed, and the farmland they depend on for livelihood shall not be annexed by any arbitrary means."
+estate_EDG_peasants_privilege_5_desc:0 "Households labor collectively, with income distributed according to labor contributed after necessary deductions. Member households may retain small tools, a certain number of livestock and poultry, and manage designated household plots and sideline occupations for supplementary income."
+estate_EDG_peasants_privilege_6_desc:0 "All adult male peasants possess the right to vote; every one of their ballots shall be a cornerstone of our electoral system."
+estate_EDG_peasants_privilege_7_desc:0 "We shall employ coercive measures to expand compulsory peasant conscription, forcibly drafting more manpower from broken families."
+estate_EDG_peasants_privilege_8_desc:0 "Everyone must contribute to safeguarding our independence and security, and peasants, in particular, should provide more resources to ensure food supply. We will forcibly purchase grain and livestock from peasants at low prices."
+estate_EDG_peasants_privilege_9_desc:0 "We should respect the nation's peasants as we do saints, and establish a festival dedicated to them."
+estate_EDG_peasants_privilege_10_desc:0 "Undergoing military training is an obligation for peasants. Peasant military training can strengthen our national defense reserve forces."
+estate_EDG_peasants_privilege_11_desc:0 "The vast steppes of Eastern Europe hold immense reclamation potential. If we can properly develop this region, it will provide us with more fertile farmland."
+estate_EDG_peasants_privilege_12_desc:0 "The forests of Eastern Europe hold immense reclamation potential. If we can properly develop this region, it will provide us with more fertile farmland."
+
+estate_EDG_peasants_ownership:0 "Peasant Land Ownership"
+EST_HIGH_EDG_Peasant_regime:0 "Is a Peasant Regime: §Y+15%§!"
+EST_HIGH_EDG_Peasant_regime_op:0 "Is a Peasant Regime: §Y-15%§!"
+EDG_peasants_privilege_slots:0 "[Country.GetPeasantsName] Maximum Privileges"
+
+
+#Nobility
+EDG_estate_LOT_Conscripts_noble:0 "Conscripts"
+EDG_estate_LOT_Conscripts_noble_desc:0 "Feudal armies and mercenaries are unreliable; we conscript obligated soldiers from subjects loyal to the state."
+EDG_estate_LOT_Conscripts_burghers:0 "Conscripts"
+EDG_estate_LOT_Conscripts_burghers_desc:0 "Feudal armies and mercenaries are unreliable; we conscript obligated soldiers from subjects loyal to the state."
+
+estate_nobles_LIT_Grand_nobles_privilege:0 "Lithuanian Grand Dukes"
+estate_nobles_LIT_Grand_nobles_privilege_desc:0 "The Lithuanian Grand Dukes originate from the princes who founded the Lithuanian state. While they nominally uphold the unity of the Grand Duchy of Lithuania, they control vast tracts of land and large populations within Lithuania. Holding high positions and wielding great power, they exert an immeasurable influence on the authority of the supreme ruler."
+
+estate_EDG_HAB_Marquis_Brandenburg_privilege:0 "Margrave of Brandenburg"
+estate_EDG_HAB_Marquis_Brandenburg_privilege_desc:0 "We control the Margrave of Brandenburg, firmly holding it as our subject state within the Empire."
+
+estate_EDG_Aberdeen_decree_privilege:0 "Aberdeen Decree"
+estate_EDG_Aberdeen_decree_privilege_desc:0 "The 'Aberdeen Decree' guarantees numerous rights for the Scottish high nobility within the full assembly of the high nobility, including legally enshrined monopoly on parliamentary seats and granting certain tax reduction privileges. Simultaneously, the 'Aberdeen Decree' also strengthens the military obligations of the high nobility."
+
+estate_EDG_Lothian_Crown_privilege:0 "Alexander's Decree"
+estate_EDG_Lothian_Crown_privilege_desc:0 "Alexander IV, by reforming the Scottish Parliament to include minor nobility, burghers, and new clergy, imposed significant restrictions on the high nobility and strengthened control over them through the Privy Council."
+
+estate_EDG_Safeguarding_the_interests_of_the_Albi_Fuwa_faction_privilege:0 "Safeguard Albi-Foix Faction Interests"
+estate_EDG_Safeguarding_the_interests_of_the_Albi_Fuwa_faction_privilege_desc:0 "The Albi-Foix faction is led by the de Ventadour and de Foix families, who rule the County of Albi. Primarily composed of nobility and advocating for foreign expansion, this faction wields significant influence at court. By safeguarding the interests of the Albi-Foix faction, our cooperation with the domestic nobility will be more successful."
+
+estate_EDG_Strengthening_the_serfdom_systems_privilege:0 "Strengthen the Serfdom System"
+estate_EDG_Strengthening_the_serfdom_systems_privilege_desc:0 "Serfs are born to be bound to the land. We will comprehensively strengthen the serfdom system."
+
+estate_EDG_Norman_Sicilian_Parliament_privilege:0 "Traditional Parliamentary Privileges for Nobility"
+estate_EDG_Norman_Sicilian_Parliament_privilege_desc:0 "In accordance with tradition, we have reserved parliamentary privileges for the nobility, which will garner us greater support from them."
+
+EDG_LIT_estate_nobles_name:0 "Grand Dukes"
+EDG_LIT_estate_nobles_name_2:0 "Ginos"
+
+EDG_estate_noble_LOT_privilege_old_right:0 "Ancient Rights of Person"
+EDG_estate_noble_LOT_privilege_old_right_desc:0 "Since the time of Charlemagne, our nobility has possessed inviolable rights of person. The monarch has no authority to arbitrarily arrest nobles or subject them to torture."
+
+EDG_estate_noble_LOT_privilege_exemption:0 "Military Service Exemption for German Nobility"
+EDG_estate_noble_LOT_privilege_exemption_desc:0 "To maintain stability in the German regions, Ludwig VII granted military service exemptions to the German nobility. However, we all know this is only temporary."
+
+#Burghers / Merchants
+estate_EDG_Latin_National_privilege:0 "Expand the National Militia"
+estate_EDG_Latin_National_privilege_desc:0 "We will expand the size of the National Militia, thereby achieving the goal of defending national sovereignty."
+
+estate_EDG_Minister_of_General_Affairs_privilege:0 "Appointed Minister of General Affairs"
+estate_EDG_Minister_of_General_Affairs_privilege_desc:0 "The head of the Ministry of General Affairs will be selected from representatives of the burgher estate and personally appointed by the supreme ruler."
+
+estate_EDG_Theatines_privilege:0 "Theatines"
+estate_EDG_Theatines_privilege_desc:0 "As a response to 16th-century Catholic reform, the Theatines established their own communities throughout the Italian peninsula, particularly in the more traditionally faithful South. These communities, sworn to poverty, obedience, and chastity, will receive papal blessing and attain influential and dominant positions locally."
+
+estate_EDG_Alawite_tolerance_privilege_effect_tooltip:0 "All §MAlawite§! provinces under our rule will receive the following modifiers:\nLocal Religious Unity Contribution§!: §G-100%§!\nLocal Missionary Strength: §R-100%§!\nLocal Heretic Tolerance§!: §G+3%§!"
+estate_EDG_Alawite_tolerance_privilege_revoke_effect_tooltip:0 "All §MAlawite§! provinces under our rule will lose the following modifiers:\nLocal Religious Unity Contribution§!: §M-100%§!\nLocal Missionary Strength§!: §M-100%§!\nLocal Heretic Tolerance§!: §M+3%§!"
+EDG_Alawite_tolerance_guaranteed_autonomy_mod:0 "Cooperation with the Alawites"
+EDG_Alawite_tolerance_guaranteed_autonomy_mod_desc:0 "We are cooperating with the Alawites, which protects our local interests."
+estate_EDG_Alawite_tolerance_privilege_enable_flag_tt:0 "Enable the §MCooperation with the Alawites§! Privilege"
+estate_EDG_Alawite_tolerance_privilege:0 "Cooperation with the Alawites"
+estate_EDG_Alawite_tolerance_privilege_desc:0 "We can cooperate with the Alawites to protect our local interests."
+
+estate_EDG_LOT_Grand_Charter_privilege:0 "Grand Charter"
+estate_EDG_LOT_Grand_Charter_privilege_desc:0 "To foster better cooperation with the Dutch, we grant the 'Grand Charter' to merchants and magnates of the Low Countries. This legal document guarantees many powers in the Low Countries, including judicial independence, the right for local officials to hold office, and language usage rights, such as requiring government documents to be in Dutch rather than French."
+
+#Caledonia Order
+estate_privileges_and_agendas_events_EDG_Caledonia_name:0 "Proposal of the [Root.GetEliteCorpsName]"
+estate_EDG_The_Mamluk_name:0 "Mamluks"
+estate_edg_caledonia:0 "Elite Corps"
+estate_EDG_The_Gray_army_name:0 "Gray Army"
+estate_edg_caledonia_Spanish:0 "Caledonia Order"
+estate_edg_caledonia_andalucian:0 "Khalat Order"
+estate_edg_caledonia_desc:0 "This estate represents an elite military force within the country, possessing top-tier combat capabilities and significant influence."
+
+estate_edg_caledonia_ownership:0 "Order Land Ownership"
+
+EDG_privilege_CAS_Caledonia_privilege:0 "Expand the [Root.GetEliteCorpsName]"
+EDG_privilege_CAS_Caledonia_privilege_desc:0 "Members of the [Root.GetEliteCorpsName] possess superior combat skills. Expanding the size of the [Root.GetEliteCorpsName] can enhance the military quality of our nation."
+EDG_estate_Caledonia_land_rights:0 "Grant [Root.GetEliteCorpsName] Land Rights"
+EDG_estate_Caledonia_land_rights_desc:0 "The [Root.GetEliteCorpsName] is a significant political force within our country and deserves the autonomy of their territories."
+EDG_STRONG_Caledonia_privilege:0 "Strengthen [Root.GetEliteCorpsName] Privileges"
+EDG_STRONG_Caledonia_privilege_desc:0 "The [Root.GetEliteCorpsName] is the core of our military strength. Strengthening their power and military capabilities will help us build the mightiest army."
+EDG_Caledonia_indebted_to_Caledonia:0 "Borrow from the [Root.GetEliteCorpsName]"
+EDG_Caledonia_indebted_to_Caledonia_desc:0 "The [Root.GetEliteCorpsName] possesses substantial assets. We can secure loans from them at lower interest rates."
+EDG_Caledonia_coin_privilege:0 "[Root.GetEliteCorpsName] Financial Privileges"
+EDG_Caledonia_coin_privilege_desc:0 "The [Root.GetEliteCorpsName] is a vital armed force for us. Granting them financial privileges will make them more proactive in serving us."
+estate_edg_caledonia_indebted_to_Caledonia_effect_tooltip:0 "Acquire §Y5§! five-year loans at §Y1.0%§! interest. This [Root.GetEliteCorpsName] privilege will be automatically removed when the loans are repaid."
+estate_edg_caledonia_nobility_primacy:0 "Primacy of the [Root.GetEliteCorpsName]"
+estate_edg_caledonia_nobility_primacy_desc:0 "Granting military discretionary power to the [Root.GetEliteCorpsName] will significantly strengthen our national power, even at considerable cost in rewarding their contributions."
+estate_edg_caledonia_fort:0 "Grant Forts to the [Root.GetEliteCorpsName]"
+estate_edg_caledonia_fort_desc:0 "We can entrust some domestic fortresses to the management of the [Root.GetEliteCorpsName], thereby reducing our fort maintenance costs."
+estate_edg_caledonia_advisors:0 "[Root.GetEliteCorpsName] Cabinet Ministers"
+estate_edg_caledonia_advisors_desc:0 "We allow the [Root.GetEliteCorpsName] to hold a permanent seat in the cabinet, facilitating the expression of opinions by their military experts."
+estate_edg_caledonia_autonomy:0 "Guarantee [Root.GetEliteCorpsName] Autonomy"
+estate_edg_caledonia_autonomy_desc:0 "The autonomy of the [Root.GetEliteCorpsName] organization should be guaranteed to ensure its influence and loyalty."
+estate_edg_caledonia_officer_corp:0 "Promote [Root.GetEliteCorpsName] Officers"
+estate_edg_caledonia_officer_corp_desc:0 "Commanders from the [Root.GetEliteCorpsName] possess superior cavalry command abilities, and its members have more excellent cavalry combat skills. Promoting more [Root.GetEliteCorpsName] members as our commanders can fully utilize their experience and resources."
+
+EDG_estate_Caledonia_enlist_the_mamluks:0 "Recruit Mamluk Soldiers"
+EDG_estate_Caledonia_enlist_the_mamluks_desc:0 "Mamluk soldiers were historical slave soldiers who served as elite military units for various Islamic empires, including the Ayyubid dynasty and later the Mamluk Sultanate in Egypt and Syria. They were typically recruited from diverse backgrounds and renowned for their rigorous training."
+
+EDG_estate_Caledonia_FYM_mamluks_privilege_1:0 "Bahri Clan Privileges"
+EDG_estate_Caledonia_FYM_mamluks_privilege_1_desc:0 "In 1380, Hajji II, the last Bahri Sultan of the Mamluk dynasty, was expelled from Cairo. However, the Burji line failed to swiftly gain control, triggering a Mamluk civil war. Fierce fighting between the two sides caused significant damage to the Egyptian economy. Sultan Hajji II appealed for aid from the Sahabad dynasty, promising to cede territories in southwestern Arabia to Sahabad's Grand Malik Nasir I and offer substantial annual tribute. After careful consideration, the 60-year-old Nasir I, seeing this as Allah's finest birthday gift, led his army into Egypt. However, after helping the Bahri Sultan quell the rebellion, Nasir I turned his forces against the Bahri regime, ultimately abolishing the Mamluks and becoming the Grand Malik of Egypt. Nonetheless, the influence of the Bahri clan in Egypt persisted."
+
+EDG_estate_Caledonia_FYM_mamluks_privilege_2:0 "Burji Clan Privileges"
+EDG_estate_Caledonia_FYM_mamluks_privilege_2_desc:0 "In 1380, Hajji II, the last Bahri Sultan of the Mamluk dynasty, was expelled from Cairo. However, the Burji line failed to swiftly gain control, triggering a Mamluk civil war. Fierce fighting between the two sides caused significant damage to the Egyptian economy. Sultan Hajji II appealed for aid from the Sahabad dynasty, promising to cede territories in southwestern Arabia to Sahabad's Grand Malik Nasir I and offer substantial annual tribute. After careful consideration, the 60-year-old Nasir I, seeing this as Allah's finest birthday gift, led his army into Egypt. However, after helping the Bahri Sultan quell the rebellion, Nasir I turned his forces against the Bahri regime, ultimately abolishing the Mamluks and becoming the Grand Malik of Egypt. Nonetheless, the influence of the Burji clan in Egypt persisted."
+
+EDG_estate_noble_FYM_mamluks_privilege_1:0 "Rosetta Family Privileges"
+EDG_estate_noble_FYM_mamluks_privilege_1_desc:0 "An Emir family stationed in the Rosetta region of the Nile Delta gradually expanded their influence within the Sahabad dynasty, becoming known as the 'Rosetta Family.' By mediating between the Bahri and Burji clans, the Rosetta Family gained immense influence in Egypt, emerging as a key player in the Sahabad dynasty's political maneuvers within the region."
+
+EDG_estate_noble_FYM_mamluks_privilege_2:0 "Yemeni Emir Dictatorship"
+EDG_estate_noble_FYM_mamluks_privilege_2_desc:0 "The Sahabad dynasty rose to power in Yemen, and the influence of Yemeni Emirs upon us is immense. A significant number of Yemeni nobles hold positions in our military and government, controlling the lifeblood of our nation."
+
+estate_EDG_dhimmi_FYM_privilege:0 "Indulgent Coptic Bureaucrats"
+estate_EDG_dhimmi_FYM_privilege_desc:0 "Since our arrival in Egypt, we have relied on Coptic bureaucrats to manage the government for us. These powerful Coptic officials are corrupt and abuse their authority, yet they serve as a crucial counterbalance to the Mamluks and the Yemeni Emirs."
+estate_EDG_dhimmi_FYM_privilege_2:0 "Favor Greek Mercenaries"
+estate_EDG_dhimmi_FYM_privilege_2_desc:0 "To counterbalance the domestic Mamluks and Yemeni Emirs, we have hired a contingent of Greek mercenaries who possess excellent officers and abundant military resources."
+
+EDG_Caledonia_loyalty_modifier:0 "[Country.GetEliteCorpsName] Loyalty"
+EDG_Caledonia_influence_modifier:0 "[Country.GetEliteCorpsName] Influence"
+EDG_Caledonia_privilege_slots:0 "[Country.GetEliteCorpsName] Maximum Privileges"
+
+EDG_estate_Caledonia_Tax_exemption_reduction_privilege:0 "[Country.GetEliteCorpsName] Land Tax Reduction"
+EDG_estate_Caledonia_Tax_exemption_reduction_privilege_desc:0 "The influence of the [Country.GetEliteCorpsName] upon our nation is substantial. To ensure their loyalty to the state, we should reduce their land taxes."
+
+EDG_estate_Caledonia_Priority_for_military_products_privilege:0 "[Country.GetEliteCorpsName] Military Supply Priority"
+EDG_estate_Caledonia_Priority_for_military_products_privilege_desc:0 "The [Country.GetEliteCorpsName] is the pillar of our military. We must ensure they receive priority access to military aid and material supplies on the battlefield."
+
+#Cossacks
+EDG_privilege_cossacks_Shakirada_privilege:0 "Form the Sich Rada"
+EDG_privilege_cossacks_Shakirada_privilege_desc:0 "The Sich Rada was a military council established by the Cossacks. In Zaporizhzhia, the Sich Rada served as the center of state power. We naturally cannot allow the Cossacks to become the rulers of the state, but we can form a Sich Rada with limited powers, sufficient to help us organize and train the Cossacks, thereby enhancing their combat effectiveness."
+EDG_privilege_cossacks_hetman_privilege:0 "Appoint a Hetman"
+EDG_privilege_cossacks_hetman_privilege_desc:0 "Hetman is the title for Cossack military leaders. We can establish a Sich Rada and officially appoint a Hetman to lead it, thereby gaining the favor of the upper echelons of Cossack officers."
+
+#Burghers
+estate_EDG_burghers_Latin_National_Army_privilege:0 "Expand the National Militia"
+estate_EDG_burghers_Latin_National_Army_privilege_desc:0 "Only the National Militia can defend our security and independence. We must expand the size of the National Militia."
+
+#Berber Tribes
+estate_EDG_Berber_tribes:0 "Berber Tribes"
+estate_EDG_Berber_tribes_name:0 "Berber Tribes"
+estate_EDG_Berber_tribes_desc:0 "The Berbers are an indigenous North African people, now primarily distributed in northwestern Africa, with the vast majority being Muslim. The term 'Berber' is not their self-designation but rather a variation of the Latin word for 'barbarian.' However, some Berbers refer to themselves as 'Imazighen,' meaning 'noble people' or 'free people.' In the game, for the sake of recognition, we still refer to them as 'Berbers.'"
+
+EDG_Berber_tribes_loyalty_modifier:0 "Berber Tribe Loyalty"
+EDG_Berber_tribes_influence_modifier:0 "Berber Tribe Influence"
+estate_EDG_Berber_tribes_ownership:0 "Berber Tribe Land Ownership"
+
+estate_nomadic_tribes_autonomy_of_the_tribes:0 "[Root.GetTribesName] Autonomy"
+estate_nomadic_tribes_autonomy_of_the_tribes_desc:0 "Our territory is vast. To control the extensive heathen and heretical regions, we must permit the [Root.GetTribesName] to exercise autonomy in governing their lands on our behalf."
+
+estate_nomadic_tribes_secured_succession:0 "Secure Succession Rights"
+estate_nomadic_tribes_secured_succession_desc:0 "In a [Root.GovernmentName], succession rights are backed by strength. Yet, lamentably, strength can be deceptive. In the past, young heirs, unable to prove themselves in time, were slain.\nAlthough this will unsettle the [Root.GetTribesName], the right of succession must be guaranteed."
+
+estate_EDG_Saadi_hereditary_Emir_privilege_enable_falg:0 "Allow Enabling the Privilege: Saadi Hereditary Emir Privilege"
+estate_EDG_Saadi_hereditary_Emir_privilege_enable_falg_tt:0 "Allows enabling the §YEmir§! privilege §YSaadi Hereditary Emir Privilege§!."
+estate_EDG_Saadi_hereditary_Emir_privilege:0 "Saadi Hereditary Emir Privilege"
+estate_EDG_Saadi_hereditary_Emir_privilege_desc:0 "The Saadi family from southern Morocco are our important allies. Their loyalty plays a crucial role in our control over the Berber tribes."
+
+estate_EDG_Tribal_choice_nomadic_privileges:0 "[Root.GetTribesName] Pasture Selection Privilege"
+estate_EDG_Tribal_choice_nomadic_privileges_desc:0 "The [Root.GetTribesName] will have the right to preferentially select any grounds for grazing. Although this will cause some disruption to our economy, our horses and mounted warriors will strongly support us."
+
+estate_EDG_Equestrian_training_funding_privileges:0 "Equestrian Training Funding"
+estate_EDG_Equestrian_training_funding_privileges_desc:0 "We will provide funding for equestrian training to the tribes, ensuring their military training can proceed in a long-term, stable, and effective manner."
+
+estate_EDG_Priority_of_Turkmen_Tribes_privileges:0 "Turkmen Tribal Priority Rights"
+estate_EDG_Priority_of_Turkmen_Tribes_privileges_desc:0 "The rights of the Turkmen tribes must be given priority. Tajiks, Afghans, and other ethnic groups should all concede to Turkmen political rights."
+
+estate_EDG_Beduin_tribes_name:0 "Bedouin Tribes"
+
+estate_EDG_FYM_hereditary_Emir_privilege:0 "Bedouin Hereditary Emir Privilege"
+estate_EDG_FYM_hereditary_Emir_privilege_desc:0 "The Bedouin tribes wield immense influence within our army. Throughout our history of conquests north and south, many Bedouin Sheikhs have rendered meritorious service. Therefore, we grant them the privilege of hereditary Emirs."
+
+#Clergy
+estate_EDG_FYM_Abbasid_caliphate_privilege:0 "Control the Abbasid Caliphate"
+estate_EDG_FYM_Abbasid_caliphate_privilege_desc:0 "After our establishment in Egypt, we gained control over the Sunni Abbasid Caliphate. This holds significant meaning for both the Shia and Sunni communities within our country."
+
+estate_EDG_FYM_Abbasid_caliphate_privilege_2:0 "Subdue the Abbasid Caliphate"
+estate_EDG_FYM_Abbasid_caliphate_privilege_2_desc:0 "After our establishment in Egypt, we gained control over the Sunni Abbasid Caliphate. Now, the Abbasid Caliph has become completely subservient to us, our puppet. This holds significant meaning for both the Shia and Sunni communities within our country."
+
+estate_EDG_FYM_Fatima_caliphate_privilege:0 "Control the Fatimid Caliphate"
+estate_EDG_FYM_Fatima_caliphate_privilege_desc:0 "We control the Shia Fatimid Caliphate. This holds significant meaning for both the Shia and Sunni communities within our country."
+
+estate_EDG_FYM_Fatima_caliphate_privilege_2:0 "Subdue the Fatimid Caliphate"
+estate_EDG_FYM_Fatima_caliphate_privilege_2_desc:0 "We control the Shia Fatimid Caliphate. Now, the Fatimid Caliph has become completely subservient to us, our puppet. This holds significant meaning for both the Shia and Sunni communities within our country."
+
+estate_EDG_FYM_Abbasid_caliphate_privilege_2_on_granted_tooltip:0 "Granting this privilege will add the following modifier to all §YSunni§! provinces under our rule; removing the privilege will remove the modifier."
+estate_EDG_FYM_Fatima_caliphate_privilege_2_on_granted_tooltip:0 "Granting this privilege will add the following modifier to all §YShia§! provinces under our rule; removing the privilege will remove the modifier."
+estate_EDG_FYM_Abbasid_caliphate_privilege_2_province_modifier_mod:0 "Sectarian Integration"
+estate_EDG_FYM_Abbasid_caliphate_privilege_2_province_modifier_mod_desc:0 "The Caliph of this sect has been subdued, and its local adherents have been integrated by us."
+
+EDG_estate_TUR_privilege_Allah_authorizes_the_emperor:0 "Allah Authorizes the Padishah"
+EDG_estate_TUR_privilege_Allah_authorizes_the_emperor_desc:0 "Allah blesses our ruler, granting him the authority to rule the world!"
+
+EDG_estate_Church_LOT_catholic_protector:0 "Protector of the Catholic Church"
+EDG_estate_Church_LOT_catholic_protector_desc:0 "Since the Donation of Pepin, the Carolingian dynasty has always been a protector of the Catholic Church, and we too bear this sacred title."
+
+#Habishi
+estate_edg_habishi_enable_flag_tt:0 "We will unlock the §YHabishi§! estate."
+estate_habishi_muslim_name:0 "Habishi"
+estate_edg_habishi_name:0 "Habishi"
+estate_edg_habishi:0 "Habishi"
+estate_edg_habishi_desc:0 "Black eunuchs were typically purchased from distant foreign lands. They possessed almost no political influence within our country and could therefore be completely controlled, becoming subservient attendants within the Forbidden Palace. The eunuchs serving the autocratic monarch also formed a significant group. At times, their influence could be strictly checked by the ruler; however, once power fell into the hands of a weak and incompetent sovereign, they would quickly turn the monarch himself into a carefully manipulated puppet."
+edg_habishi_influence_modifier:0 "[Root.GetBlackEunuchsName] Influence"
+edg_habishi_loyalty_modifier:0 "[Root.GetBlackEunuchsName] Loyalty Equilibrium"
+edg_habishi_privilege_slots:0 "[Root.GetBlackEunuchsName] Maximum Privileges"
+edg_habishi_influence_modifier:0 "[Root.GetBlackEunuchsName] Influence"
+edg_habishi_loyalty_modifier:0 "[Root.GetBlackEunuchsName] Loyalty Equilibrium"
+edg_habishi_privilege_slots:0 "[Root.GetBlackEunuchsName] Maximum Privileges"
+estate_edg_habishi_owner_ship:0 "[Root.GetHabishiName] Land Ownership"
+
+estate_edg_habishi_bookkeepers_privilege:0 "Superintend the Cabinet"
+estate_edg_habishi_bookkeepers_privilege_desc:0 "Serving by the side of the supreme ruler, controlling the imperial seal, and regulating access to him are positions of immense power. Whoever seizes this authority can ascend further, ultimately gaining control over the central government."
+estate_edg_habishi_outwards_perfection_privilege:0 "Sword-Bearing Vizier"
+estate_edg_habishi_outwards_perfection_privilege_desc:0 "Even among the servants within our palace, there are rare talents possessing considerable military aptitude. We can appoint them as our Sword-Bearing Vizier, though this may invite criticism."
+
+estate_edg_habishi_palace_bureaucracy_privilege:0 "Outstanding Palace Bureaucrats"
+estate_edg_habishi_palace_bureaucracy_privilege_desc:0 "Directing policy to every corner of the empire is a daunting task, often further hindered by local authorities seeking autonomy. The [Root.GetHabishiEunuchsName] are more than willing to lend their assistance to our [Root.Monarch.GetTitle] in exchange for greater privileges, helping us manage affairs within the borders."
+estate_edg_habishi_delegate_provincial_administration_privilege:0 "Delegate Provincial Governance"
+estate_edg_habishi_delegate_provincial_administration_privilege_desc:0 "Although fissures have appeared within our realm due to the burdensome weight of administration, outstanding representatives from among the [Root.GetHabishiEunuchsName] will step forward to further execute the will of the [Root.Monarch.GetTitle] in every remote province of the empire."
+estate_edg_habishi_imperial_council_privilege:0 "[Root.GetHabishiEunuchsName] Cabinet"
+estate_edg_habishi_imperial_council_privilege_desc:0 "Having a large pool of good cabinet candidates is a wise complement to the duties of the [Root.GetHabishiEunuchsName], ensuring a healthy and diverse management layer."
+estate_edg_habishi_land_rights_privilege:0 "[Root.GetHabishiEunuchsName] Land Rights"
+estate_edg_habishi_land_rights_privilege_desc:0 "The [Root.GetHabishiEunuchsName] are the state's best administrators, capable of acquiring and managing land in the name of the crown."
+estate_edg_habishi_royal_intrigue_keepers_privilege:0 "Strengthen Personal Control"
+estate_edg_habishi_royal_intrigue_keepers_privilege_desc:1 "Ensuring personal control over the [Root.GetHabishiEunuchsName] is an excellent way to enforce discipline and guarantee everyone's loyalty to the imperial authority."
+estate_edg_habishi_promote_eunuch_rights:0 "Promote [Root.GetHabishiEunuchsName] Rights"
+estate_edg_habishi_promote_eunuch_rights_desc:0 "By elevating the rights of the [Root.GetHabishiEunuchsName], we will successfully secure their long-term loyalty in our pursuit of reforming the empire and mastering its internal affairs."
+
+estate_edg_habishi_delegate_subject_diplomacy_privilege:0 "Superintend Foreign Affairs"
+estate_edg_habishi_delegate_subject_diplomacy_privilege_desc:0 "From now on, diplomatic affairs between the tributary vassals and the [Root.Monarch.GetTitle] will be handled by the [Root.GetHabishiEunuchsName], bearing the seal of the [Root.Monarch.GetTitle]."
+estate_edg_habishi_supremacy_over_crown_privilege_fym:0 "Dominate the [Root.Monarch.GetTitle]"
+estate_edg_habishi_supremacy_over_crown_privilege_fym_desc:0 "With power diffused, the various estates can now make demands upon the [Root.Monarch.GetTitle], leaving [Root.Monarch.GetHerHim] with no choice but to submit to their will."
+
+estate_edg_habishi_establish_favor_system_privilege:0 "Bestow Favor Through Sincerity"
+estate_edg_habishi_establish_favor_system_privilege_desc:0 "A system of personal favors, granting the [Root.GetHabishiEunuchsName] the role of emissaries between us and neighboring states, is an excellent step towards elevating our grandeur and the weight of our word."
+estate_edg_habishi_allow_personal_fortunes_privilege:0 "Permit Personal Fortunes"
+estate_edg_habishi_allow_personal_fortunes_privilege_desc:0 "Like many under our rule, the [Root.GetHabishiEunuchsName] are now also able to acquire, retain, and sell property within our domain."
+
+estate_edg_habishi_bey_privilege:0 "[Root.GetHabishiEunuchsName] Beys"
+estate_edg_habishi_bey_privilege_desc:0 "Only the [Root.GetHabishiEunuchsName] are absolutely loyal to us. As the empire's territories continue to expand, only Beys appointed from among the [Root.GetHabishiEunuchsName] can be fully trusted by the [Root.Monarch.GetTitle]. These servants, utterly loyal to the [Root.Monarch.GetTitle], will faithfully manage the empire on our behalf."
+
+estate_edg_habishi_royal_scribe_privilege:0 "[Root.GetHabishiEunuchsName] Royal Scribes"
+estate_edg_habishi_royal_scribe_privilege_desc:0 "The Dawātdār, or Royal Scribes, are responsible for drafting the edicts of the [Root.Monarch.GetTitle]. Typically serving at the [Root.Monarch.GetTitle]'s side, this has always been an important position, requiring deep trust from the [Root.Monarch.GetTitle]. We will appoint [Root.GetHabishiEunuchsName] as our Royal Scribes, for only they can truly comprehend the [Root.Monarch.GetTitle]'s true intent."
+
+estate_edg_habishi_Director_of_Prosecutions_privilege:0 "[Root.GetHabishiEunuchsName] Concurrently Serve as Prosecutor-General"
+estate_edg_habishi_Director_of_Prosecutions_privilege_desc:0 "The Muḥtasib, or Prosecutor-General, is an official appointed by the [Root.Monarch.GetTitle] to supervise other officials, crucial for maintaining the integrity and stability of the imperial administration. However, not all past Prosecutor-Generals have been loyal. We must place this vital position in the hands of the [Root.GetHabishiEunuchsName]."
+
+estate_edg_habishi_plenipotentiary_enforcement_officer_privilege:0 "[Root.GetHabishiEunuchsName] Plenipotentiary Enforcement Officers"
+estate_edg_habishi_plenipotentiary_enforcement_officer_privilege_desc:0 "We will appoint [Root.GetHabishiEunuchsName] as Jāndār, Plenipotentiary Enforcement Officers with the privilege to punish any official. The [Root.GetHabishiEunuchsName] Plenipotentiary Enforcement Officers will hold power over the life and death of the entire bureaucracy. They may execute any civilian or official without requiring the [Root.Monarch.GetTitle]'s consent."
+
+estate_edg_habishi_Vizier_privilege:0 "[Root.GetHabishiEunuchsName] Grand Vizier"
+estate_edg_habishi_Vizier_privilege_desc:0 "We will appoint a [Root.GetHabishiEunuchsName] as our Grand Vizier. The second greatest administrative power in the empire will be held by our servants, but this will inevitably provoke discontent from other factions."
+
+estate_edg_habishi_sword_Vizier_privilege:0 "[Root.GetHabishiEunuchsName] Sword-Bearer Vizier"
+estate_edg_habishi_sword_Vizier_privilege_desc:0 "We will appoint a [Root.GetHabishiEunuchsName] as our Sword-Bearer Vizier. The second greatest military power in the empire will be held by our servants, but this will inevitably provoke discontent from other factions."
+
+#Copts
+estate_edg_copt:0 "Copts"
+estate_edg_copt_desc:0 "After Muslims gained control of Egypt, they implemented the Dhimmi system in matters of religion, serving their strategic intent of establishing stable and effective rule in Egypt. The Coptic Pope of Alexandria is the head of Egypt's Coptic Christians. He leads the Church of Alexandria, formulating religious policies and issuing religious decrees together with bishops from major cities, and is responsible for representing his faithful in dialogue and negotiation with the Muslim rulers."
+edg_copt_influence_modifier:0 "[Root.GetCoptsName] Influence"
+edg_copt_loyalty_modifier:0 "[Root.GetCoptsName] Loyalty Equilibrium"
+edg_copt_privilege_slots:0 "[Root.GetCoptsName] Maximum Privileges"
+edg_copt_influence_modifier:0 "[Root.GetCoptsName] Influence"
+edg_copt_loyalty_modifier:0 "[Root.GetCoptsName] Loyalty Equilibrium"
+edg_copt_privilege_slots:0 "[Root.GetCoptsName] Maximum Privileges"
+estate_edg_copt_owner_ship:0 "[Root.GetCoptsName] Land Ownership"
+
+estate_edg_copt_nile_goods_transport:0 "Nile River Freight Rights"
+estate_edg_copt_hydraulic_rights:0 "Water Distribution Privilege"
+estate_edg_copt_nile_goods_transport_desc:0 "The Copts have been granted freight privileges on the Nile River, which will increase their loyalty."
+estate_edg_copt_hydraulic_rights_desc:0 "We entrust the management of precious water resources to the Copts, who will utilize these resources properly."
+estate_edg_copt_enslaving_rights_gt:0 "All Desert and Steppe provinces will receive the following modifier:"
+
+estate_dhimmi_administrative_privileges:0 "[Root.GetDhimmiName] Autonomy"
+estate_dhimmi_administrative_privileges_desc:0 "[Root.GetAdjective] provinces are home to many faiths. By allowing the [Root.GetDhimmiName] to organize autonomous communities, we can ensure long-term peace between believers and non-believers in towns and countryside alike."
+
+estate_edg_copt_protected_communities_scaling:0 "Protect Dhimmi Communities"
+
+
+estate_edg_copt_Aswan_law_privilege:0 "Aswan Decree"
+estate_edg_copt_Aswan_law_privilege_desc:0 "The 'Aswan Decree' grants the Copts extensive powers to levy taxes on handicraft industries in the Nile River basin. Coptic merchant guilds and organizations will be able to undertake tax farming for us in this region."
+
+estate_edg_copt_Military_distribution_privilege:0 "Military Supply Contractors"
+estate_edg_copt_Military_distribution_privilege_desc:0 "We will purchase military supplies from specific merchants. This will make these privileged merchants more loyal to us."
+
+estate_edg_copt_General_Affairs_Department_privilege:0 "[Root.GetCoptsName] Ministry of General Affairs"
+estate_edg_copt_General_Affairs_Department_privilege_desc:0 "The [Root.GetCoptsName] will be the backbone of our nation's administrative strength. We will establish a Ministry of General Affairs led by the Copts to ensure the loyalty and efficiency of state institutions."
+
+estate_edg_copt_General_Mediterranean_Charter_privilege:0 "Mediterranean Charter"
+estate_edg_copt_General_Mediterranean_Charter_privilege_desc:0 "We will grant the [Root.GetCoptsName] the privilege of commercial tax reductions in Mediterranean trade. They will be profoundly grateful for this."
+
+estate_edg_copt_Protecting_churches_privilege:0 "Protect [Root.GetCoptsName] Churches"
+estate_edg_copt_Protecting_churches_privilege_desc:0 "The [Root.GetCoptsName] have a different faith from ours, devoutly following the Coptic Church. We respect their beliefs and will place their churches under the same level of protection as mosques."
+
+estate_edg_copt_control_over_the_mint:0 "Gold Coin Minting Privilege"
+estate_edg_copt_control_over_the_mint_desc:0 "We will entrust the nation's gold mines to the [Root.GetCoptsName] for extraction. They will operate the empire's gold mines using more scientific and rational methods."
+
+estate_edg_copt_condemn_privilege:0 "Qadi Case Law"
+estate_edg_copt_conceal_privilege:0 "Permissible Concealment Law"
+estate_edg_copt_condense_privilege:0 "Prohibition of Verbose Appeals"
+estate_edg_copt_concession_privilege:0 "Expand Concessions"
+estate_edg_copt_condemn_privilege_desc:0 "The Qadi Case Law is a code of case law promulgated by Zaid I, compiling precedents from numerous criminal cases he personally adjudicated during his reign. It forms an important part of the imperial legal system."
+estate_edg_copt_conceal_privilege_desc:0 "The [Root.GetCoptsName] emphasize kinship ties, which differs significantly from our governmental system that uses slaves for governance. However, we still allow the [Root.GetCoptsName] to live according to their own customs. They are accustomed to concealing their relatives, and we are willing to reduce penalties for such concealment."
+estate_edg_copt_condense_privilege_desc:0 "Our bureaucracy is prone to becoming bloated and inefficient. Officials are often mired in formalism, wasting time daily on document drafting and administrative meetings, which greatly impacts our administrative efficiency. We will allow subordinate officials to sue their superiors who disregard administrative efficiency and adhere to formalism."
+estate_edg_copt_concession_privilege_desc:0 "The concessions of the [Root.GetCoptsName] should be expanded, as this can promote our economic transformation."
+
+#Janissaries
+EDG_estate_TUR_privilege_Albania_janisary:0 "‘Skanderbeg’ Regiment"
+EDG_estate_TUR_privilege_Albania_janisary_desc:0 "The ‘Skanderbeg’ Regiment is a Janissary regiment composed of Albanians. They revere Skanderbeg as a hero, emulate his spirit, and fight bravely for the Empire."
+
+EDG_estate_TUR_privilege_Georgia_janissaries:0 "Georgian Janissaries"
+EDG_estate_TUR_privilege_janissaries_Priority_distribution_of_spoils:0 "Priority Distribution of Spoils"
+EDG_estate_TUR_privilege_janissaries_Grand_Legion:0 "Grand Legion Warfare"
+EDG_estate_TUR_privilege_janissaries_Extra_allowance:0 "Extra Infantry Allowance"
+EDG_estate_TUR_privilege_janissaries_Extra_rough_discipline:0 "Strict Apprenticeship System"
+EDG_estate_TUR_privilege_janissaries_ITA:0 "Latin Janissaries"
+
+EDG_estate_TUR_privilege_Georgia_janissaries_desc:0 "We will recruit more Janissaries from among the Georgians."
+EDG_estate_TUR_privilege_janissaries_Priority_distribution_of_spoils_desc:0 "The Janissaries are our most important military force; they have the right to priority distribution of spoils."
+EDG_estate_TUR_privilege_janissaries_Grand_Legion_desc:0 "Janissary regiments will be widely deployed in grand legion warfare."
+EDG_estate_TUR_privilege_janissaries_Extra_allowance_desc:0 "Increasing allowances for infantry and training them like Janissaries can enhance their combat effectiveness."
+EDG_estate_TUR_privilege_janissaries_Extra_rough_discipline_desc:0 "We will establish a strict Janissary apprenticeship system."
+EDG_estate_TUR_privilege_janissaries_ITA_desc:0 "We will recruit more infidels from Latin regions to join our army."
+
+EDG_estate_TUR_privilege_janissaries_Grand_Legion_enable_flag_tt:0 "Unlocks the Janissary privilege §Y‘Grand Legion Warfare’§!, which has the following effects:"
+EDG_estate_TUR_privilege_janissaries_Extra_rough_discipline_enable_flag_tt:0 "Unlocks the Janissary privilege §Y‘Strict Apprenticeship System’§!, which has the following effects:"
+EDG_estate_TUR_privilege_janissaries_ITA_enable_flag_tt:0 "Unlocks the Janissary privilege §Y‘Latin Janissaries’§!, which has the following effects:"
+
+EDG_estate_TUR_privilege_janissaries_aga_prior:0 "Promote Loyal Aghas"
+EDG_estate_TUR_privilege_janissaries_aga_prior_desc:0 "We will promote the Aghas most loyal to the Padishah, thereby achieving centralization of military power."
+
+EDG_estate_TUR_privilege_janissaries_Increase_rewards:0 "Increase Rewards"
+EDG_estate_TUR_privilege_janissaries_Increase_rewards_desc:0 "We will increase the rewards given to the Janissaries to ensure their loyalty."
+
+
+#Paladins
+estate_edg_Paladin:0 "Paladins"
+estate_edg_Paladin_desc:0 "Paladin, whose root is derived from 'Palatinus,' meaning 'of the Palatine Hill' in Latin. This Latin word in ancient Roman times referred to high officials and nobles associated with the Palatine Hill. As this hill was the site of the Roman imperial palace, 'Palatinus' was also commonly used to denote courtiers who served the Roman Emperor and handled his military and administrative affairs. Entering the Middle Ages, Charlemagne's twelve most distinguished knights were called the 'Twelve Peers,' signifying 'twelve close attendants,' indicating they were the emperor's trusted confidants. In the later Carolingian period, especially within the Kingdom of Lotharingia, the number of 'Paladins' expanded, no longer limited to twelve or synonymous with powerful ministers. It evolved into an organization akin to a knightly order. The status of 'Paladin' was conferred by the Carolingian monarch and required ecclesiastical recognition, making Paladins both military nobility and clergy—though debates over whether Paladins should uphold celibacy never ceased. The selection criteria for Paladins were stringent; recipients of the Paladin title had to be nobles, having undergone rigorous military training and religious study, and remain loyal to the crown—precisely why Paladins have become a powerful and reliable force within our country."
+edg_Paladin_influence_modifier:0 "Paladin Influence"
+edg_Paladin_loyalty_modifier:0 "Paladin Loyalty Equilibrium"
+edg_Paladin_privilege_slots:0 "Paladin Maximum Privileges"
+edg_Paladin_influence_modifier:0 "Paladin Influence"
+edg_Paladin_loyalty_modifier:0 "Paladin Loyalty Equilibrium"
+edg_Paladin_privilege_slots:0 "Paladin Maximum Privileges"
+estate_edg_Paladin_owner_ship:0 "Paladin Land Ownership"
+
+estate_edg_Paladin_privilege_1:0 "Paladin Land Rights"
+estate_edg_Paladin_privilege_2:0 "Primacy of the Paladins"
+estate_edg_Paladin_privilege_3:0 "Paladin Officer Corps"
+estate_edg_Paladin_privilege_4:0 "Paladin Participation in the Church"
+estate_edg_Paladin_privilege_5:0 "Paladins Officiate Mass"
+estate_edg_Paladin_privilege_6:0 "Extra Allowance"
+estate_edg_Paladin_privilege_7:0 "Loyalty to the [Root.GovernmentName]"
+estate_edg_Paladin_privilege_8:0 "Sentence Reduction Privilege"
+estate_edg_Paladin_privilege_9:0 "Exclusion of Paladins from Court"
+estate_edg_Paladin_privilege_10:0 "Protect Caravans"
+estate_edg_Paladin_privilege_11:0 "Paladin Council"
+estate_edg_Paladin_privilege_12:0 "Papal Paladin Envoy"
+estate_edg_Paladin_privilege_13:0 "Paladin Resident Ambassadors"
+estate_edg_Paladin_privilege_14:0 "Form Paladin Regiments"
+estate_edg_Paladin_privilege_15:0 "Expand Paladin Regiments"
+estate_edg_Paladin_privilege_16:0 "Stringent Paladin Training"
+estate_edg_Paladin_privilege_17:0 "Fund Paladin Preaching"
+estate_edg_Paladin_privilege_18:0 "Semi-Professional Paladins"
+estate_edg_Paladin_privilege_19:0 "Land-Based Salary Payments"
+estate_edg_Paladin_privilege_20:0 "Paladin Military Committee"
+estate_edg_Paladin_privilege_21:0 "Lower Selection Threshold"
+estate_edg_Paladin_privilege_22:0 "Shoddily-Made Paladin Equipment"
+estate_edg_Paladin_privilege_23:0 "Bloated Cavalry Squadrons"
+estate_edg_Paladin_privilege_24:0 "Recruit Paladin Squires for the Army"
+estate_edg_Paladin_privilege_25:0 "Cavalry Supremacy Doctrine"
+estate_edg_Paladin_privilege_26:0 "Paladin Musketeer Regiment"
 estate_edg_Paladin_privilege_27:0 ""
 estate_edg_Paladin_privilege_28:0 ""
 estate_edg_Paladin_privilege_29:0 ""
 
-estate_edg_Paladin_privilege_1_desc:0 "我们将为圣骑士授予领地，让他们协助我们进行统治。"
-estate_edg_Paladin_privilege_2_desc:0 "圣骑士是我国最重要的政治力量，我们必须尊重他们的地位和权利。"
-estate_edg_Paladin_privilege_3_desc:0 "我们的军官团中有大量的圣骑士，他们精通骑兵作战。"
-estate_edg_Paladin_privilege_4_desc:0 "圣骑士与我们的教会紧密联系，我们是时候将圣骑士正式纳入教会体系，并分享本该由教士行使的权力了。"
-estate_edg_Paladin_privilege_5_desc:0 "我们的弥撒活动将由圣骑士而非教士进行组织。"
-estate_edg_Paladin_privilege_6_desc:0 "我们将会为所有在职的圣骑士进行金钱补贴。""
-estate_edg_Paladin_privilege_7_desc:0 "向[Root.GovernmentName]宣誓效忠是圣骑士必须承担的义务。"
-estate_edg_Paladin_privilege_8_desc:0 "圣骑士受到上帝庇护，享有减刑特权。"
-estate_edg_Paladin_privilege_9_desc:0 "圣骑士的忠诚没有经过考验，我们必须在宫廷政治中削弱他们的影响力。"
-estate_edg_Paladin_privilege_10_desc:0 "我们委任圣骑士保护商队，以此保证贸易的安全和畅通。"
-estate_edg_Paladin_privilege_11_desc:0 "我们在国家最高权力机关下设立了一个圣骑士理事会，该理事会具有巨大的权力。"
-estate_edg_Paladin_privilege_12_desc:0 "我们在教宗的宫廷内派遣圣骑士使节，他们将会对教廷施加影响。"
-estate_edg_Paladin_privilege_13_desc:0 "我们的驻外使馆中有圣骑士，他们将有权代表我们的国家。"
-estate_edg_Paladin_privilege_14_desc:0 "在查理曼时期，法兰克王国就有圣骑士组织，我们也应该组织一个圣骑士战团，以帮助我们南征北战。"
-estate_edg_Paladin_privilege_15_desc:0 "我们应当扩大圣骑士战团，这将有助于我们的军事行动。"
-estate_edg_Paladin_privilege_16_desc:0 "加强对圣骑士的训练，这或许会引起他们的不满，但能提高他们的战斗力。"
-estate_edg_Paladin_privilege_17_desc:0 "圣骑士也接受过良好的神学训练，他们有能力进行布道，只不过需要一些资助。"
-estate_edg_Paladin_privilege_18_desc:0 "我们的圣骑士可以在和平时期做些小买卖。"
-estate_edg_Paladin_privilege_19_desc:0 "我们将经常以授予土地的方式给予圣骑士犒赏，而非金钱。"
-estate_edg_Paladin_privilege_20_desc:0 "内阁下设有圣骑士军事委员会，他们将管理我们的军事事务。"
-estate_edg_Paladin_privilege_21_desc:0 "圣骑士的选拔标准太严格了，我们应当招募更多圣骑士，将他们塞入我们的骑兵部队。"
-estate_edg_Paladin_privilege_22_desc:0 "将圣骑士的装备制作标准定得过高，会导致我们缺少冲锋的圣骑士。因此，我们需要降低圣骑士的装备标准，让更多的人加入骑兵部队。"
-estate_edg_Paladin_privilege_23_desc:0 "骑兵越多越好，哪怕他们缺乏训练和默契，甚至无法进行侧翼攻击，但只要我们的军队里挤满骑兵，就一定能胜利。"
-estate_edg_Paladin_privilege_24_desc:0 "我们会让圣骑士的侍从也要加入到我们的骑兵部队中，这毫无疑问会让许多圣骑士得到吃空饷的机会，但只要我们能将部队塞满骑兵，这一切都是值得的。"
-estate_edg_Paladin_privilege_25_desc:0 "我们需要更多的骑兵，只要我们的骑兵足够多，只要我们的军队里充满骑兵，一切都是可以被牺牲的，哪怕我们知道军事科技的未来在哪，我们也必须相信我们的骑兵可以撕碎一切。"
-estate_edg_Paladin_privilege_26_desc:0 "任何人都无法阻挡军事科技的普及，只有冥顽不化的老古董才会认为圣骑士必须拿刀剑才能杀敌。为了更好地捍卫自己的信仰和荣誉，真正聪明的圣骑士早就把自己训练成神枪手了。"
+estate_edg_Paladin_privilege_1_desc:0 "We shall grant lands to the Paladins, allowing them to assist us in governance."
+estate_edg_Paladin_privilege_2_desc:0 "Paladins are the most important political force in our nation. We must respect their status and rights."
+estate_edg_Paladin_privilege_3_desc:0 "A significant number of Paladins serve in our officer corps, and they are highly skilled in cavalry warfare."
+estate_edg_Paladin_privilege_4_desc:0 "Paladins are closely connected to our Church. It is time we formally integrate Paladins into the ecclesiastical system and share the powers traditionally exercised by the clergy."
+estate_edg_Paladin_privilege_5_desc:0 "Our Mass activities will be organized by Paladins rather than clergy."
+estate_edg_Paladin_privilege_6_desc:0 "We will provide monetary subsidies to all serving Paladins."
+estate_edg_Paladin_privilege_7_desc:0 "Swearing loyalty to the [Root.GovernmentName] is an obligation that Paladins must undertake."
+estate_edg_Paladin_privilege_8_desc:0 "Paladins are under God's protection and enjoy the privilege of sentence reduction."
+estate_edg_Paladin_privilege_9_desc:0 "The loyalty of Paladins has not been tested. We must weaken their influence in court politics."
+estate_edg_Paladin_privilege_10_desc:0 "We entrust Paladins with the protection of caravans, thereby ensuring trade security and smooth flow."
+estate_edg_Paladin_privilege_11_desc:0 "We have established a Paladin Council under the highest state authority, and this council wields significant power."
+estate_edg_Paladin_privilege_12_desc:0 "We dispatch Paladin envoys to the papal court; they will exert influence on the Holy See."
+estate_edg_Paladin_privilege_13_desc:0 "Paladins are present in our embassies abroad; they will have the authority to represent our nation."
+estate_edg_Paladin_privilege_14_desc:0 "During Charlemagne's time, the Frankish Kingdom had Paladin organizations. We too should organize a Paladin regiment to aid us in our conquests north and south."
+estate_edg_Paladin_privilege_15_desc:0 "We should expand the Paladin regiments; this will aid our military campaigns."
+estate_edg_Paladin_privilege_16_desc:0 "Strengthening the training of Paladins may cause discontent, but it will enhance their combat effectiveness."
+estate_edg_Paladin_privilege_17_desc:0 "Paladins have also undergone good theological training; they are capable of preaching, though they require some funding."
+estate_edg_Paladin_privilege_18_desc:0 "Our Paladins can engage in small trades during peacetime."
+estate_edg_Paladin_privilege_19_desc:0 "We will often reward Paladins by granting them land rather than money."
+estate_edg_Paladin_privilege_20_desc:0 "A Paladin Military Committee is established under the cabinet; they will manage our military affairs."
+estate_edg_Paladin_privilege_21_desc:0 "The selection criteria for Paladins are too strict. We should recruit more Paladins and incorporate them into our cavalry units."
+estate_edg_Paladin_privilege_22_desc:0 "Setting the equipment standards for Paladins too high results in a shortage of charging Paladins. Therefore, we need to lower the equipment standards for Paladins to allow more people to join the cavalry."
+estate_edg_Paladin_privilege_23_desc:0 "More cavalry is always better. Even if they lack training and coordination, and cannot execute flanking attacks, as long as our army is packed with cavalry, victory is assured."
+estate_edg_Paladin_privilege_24_desc:0 "We will require Paladins' squires to also join our cavalry units. This will undoubtedly provide many Paladins with opportunities for payroll padding, but as long as we can fill our troops with cavalry, it is all worthwhile."
+estate_edg_Paladin_privilege_25_desc:0 "We need more cavalry. As long as we have enough cavalry, as long as our army is filled with cavalry, everything else is expendable. Even if we know where the future of military technology lies, we must believe our cavalry can tear through anything."
+estate_edg_Paladin_privilege_26_desc:0 "No one can stop the spread of military technology. Only stubborn relics believe Paladins must wield swords to kill the enemy. To better defend their faith and honor, truly wise Paladins have long trained themselves as sharpshooters."
 estate_edg_Paladin_privilege_27_desc:0 ""
 estate_edg_Paladin_privilege_28_desc:0 ""
 estate_edg_Paladin_privilege_29_desc:0 ""
 
-estate_qizilbash_supremacy_over_the_aristocracy:1 "位列[Root.Get贵族Name]之上"
+estate_qizilbash_supremacy_over_the_aristocracy:1 "Supremacy over the [Root.GetNobilityName]"
 

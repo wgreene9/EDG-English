@@ -1,7 +1,7 @@
 
 EDG_flavor_LIT_1_a_effect = {
   define_general = {
-    name = "卡西米日 雅盖隆"
+    name = "Kazimierz Jagiellon"
     shock = 3
     fire = 3
     manuever = 3
@@ -10,8 +10,8 @@ EDG_flavor_LIT_1_a_effect = {
 }
 EDG_flavor_LIT_1_c_effect = {
 	define_ruler = {
-    name = "卡西米日 IV"
-		dynasty = "雅盖隆"
+    name = "Kazimierz IV"
+		dynasty = "Jagiellon"
 		adm = 3
 		dip = 3
 		mil = 5
@@ -22,7 +22,7 @@ EDG_flavor_LIT_1_c_effect = {
 EDG_flavor_LIT_9_a_effect = {
   define_advisor = {
     type = treasurer
-    name = "阿尔吉达斯 拉齐维乌"
+    name = "Algirdas Radziwill"
     skill = 2
     cost_multiplier = 0.25
     culture = ROOT
@@ -30,8 +30,8 @@ EDG_flavor_LIT_9_a_effect = {
 }
 EDG_flavor_LIT_9_c_effect = {
 	define_ruler = {
-    name = "阿尔吉达斯 I"
-		dynasty = "拉齐维乌"
+    name = "Algirdas I"
+		dynasty = "Radziwill"
 		adm = 3
 		dip = 5
 		mil = 2

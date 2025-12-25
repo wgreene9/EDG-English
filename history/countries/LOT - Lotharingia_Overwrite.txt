@@ -1,7 +1,7 @@
 1433.1.22 = {
   monarch = {
-    name = "路德维希 VII"  # 
-    dynasty = "加洛林"  # de Valois
+    name = "Ludwig VII"  # 
+    dynasty = "Carolingian"  # de Valois
     birth_date = 1390.2.22
     adm = 2
     dip = 2
@@ -15,8 +15,8 @@
 }
 1433.1.22 = {
   queen = {
-    name = "玛利亚"  # Marie
-    dynasty = "冯 霍亨斯陶芬"  # d'Anjou
+    name = "Marie"  # Marie
+    dynasty = "von Hohenstaufen"  # d'Anjou
     birth_date = 1415.10.14
     death_date = 1453.11.29
     female = yes
@@ -30,9 +30,9 @@
 }
 1443.7.3 = {
   heir = {
-    name = "贝尔纳黛特"  # Louis
-    monarch_name = "贝尔纳黛特 I 「白玫瑰」"  # Louis Xl
-    dynasty = "加洛林"  # de Valois
+    name = "Bernadette"  # Louis
+    monarch_name = "Bernadette I 'the White Rose'"  # Louis Xl
+    dynasty = "Carolingian"  # de Valois
     birth_date = 1443.7.3
     death_date = 1505.10.27
 	  female = yes

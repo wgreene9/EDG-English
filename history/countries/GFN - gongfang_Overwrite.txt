@@ -1,7 +1,7 @@
 1438.2.3 = {
   monarch = {
-    name = "正武"  # Yoshinori
-    dynasty = "天皇"  # Ashikaga
+    name = "Masatake"  # Yoshinori
+    dynasty = "Tenno"  # Ashikaga
     birth_date = 1394.7.21
     adm = 3
     dip = 0

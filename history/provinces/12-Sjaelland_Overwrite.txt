@@ -1,1 +1,1 @@
-capital = "Kbenhavn"
+capital = "København"

@@ -2,7 +2,12 @@
 
 graphical_culture = muslimgfx
 
-color = { 252 209 22 }
+# color = { 252 209 22 }
+color = {
+  163
+  183
+  189
+}
 
 historical_idea_groups = {
 	defensive_ideas

@@ -1,0 +1,32 @@
+			# change_tag = ROS
+			# restore_country_name = yes
+			# swap_non_generic_missions = yes
+			# custom_tooltip = EDG_SPACE_TT
+			# country_event = { id = EDG_flavorSMO.13 }
+			# custom_tooltip = EDG_SPACE_TT
+			# if = {
+			# 	limit = {
+			# 		has_custom_ideas = no
+			# 	}
+			# 	country_event = { id = ideagroups.1 } #Swap Ideas
+			# }
+			# custom_tooltip = EDG_SPACE_TT
+			# remove_non_electors_emperors_from_empire_effect = yes
+			# ROOT = { set_government_rank = 3 }
+			# set_country_flag = formed_EDG_ROS_nation_flag
+			# custom_tooltip = EDG_SPACE_TT
+			# add_government_reform = EDG_ROS_Citizen_Government
+			# custom_tooltip = EDG_SPACE_TT
+			# add_prestige_or_monarch_power = { amount = 25}
+			# custom_tooltip = EDG_SPACE_TT
+
+            # set_country_flag = has_had_EDG_ENG_mission_2_8_decision_1_flag
+            # set_country_flag = has_had_EDG_ENG_mission_2_8_decision_2_flag
+			# set_country_flag = EDG_ENG_mission_2_9_unlock_decision_1_flag
+			# set_country_flag = final_fight
+
+# add_government_reform = EDG_ottoman_empire_government
+
+# set_country_flag = EDG_mission_LOT_1_21_flag
+
+1878 = { add_construction_progress = 0.99 }

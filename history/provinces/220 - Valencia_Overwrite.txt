@@ -1,1 +1,1 @@
-capital = "Valncia" 
+capital = "València" 

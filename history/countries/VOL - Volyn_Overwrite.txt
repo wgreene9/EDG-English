@@ -1,7 +1,7 @@
 1442.5.19 = {
   monarch = {
-    name =   "伊凡 II 「大帝」"  # Ivan II
-    dynasty = "莫诺马霍维奇"  # Rurikovich
+    name =   "Ivan II 'the Great'"  # Ivan II
+    dynasty = "Monomakhovich"  # Rurikovich
 	birth_date = 1425.1.1
     adm = 5
     dip = 4
@@ -12,7 +12,7 @@
 }
 1430.1.1 = {
   leader = {
-    name = "阿列克谢 伊万诺夫"  # Dmitry Shemiaka
+    name = "Alexey Ivanov"  # Dmitry Shemiaka
     type = general
     fire = 2
     shock = 4
@@ -23,8 +23,8 @@
 }
 1444.1.1 = {
   heir = {
-    name =   "伊万"  # Ivan
-    dynasty = "莫诺马霍维奇"  # Rurikovich
+    name =   "Ivan"  # Ivan
+    dynasty = "Monomakhovich"  # Rurikovich
     birth_date = 1444.1.1
     claim = 95
     adm = 3

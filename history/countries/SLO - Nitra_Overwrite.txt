@@ -1,7 +1,7 @@
 1441.5.26 = {
   monarch = {
-    name = "伊什特万"  # István
-    dynasty = "巴托里"  # Báthory
+    name = "Istv�n"  # Istv�n
+    dynasty = "B�thory"  # B�thory
     birth_date = 1423.9.27
     adm = 5
     dip = 2
@@ -10,7 +10,7 @@
 }
 1396.1.1 = {
   leader = {
-    name = "米哈伊 「勇敢者」"  # Mihai Viteazul
+    name = "Mihai Viteazul"  # Mihai Viteazul
     type = general
     fire = 3
     shock = 3
@@ -21,8 +21,8 @@
 }
 1443.1.1 = {
   heir = {
-    name = "米哈伊 「勇敢者」"  # Mihai Viteazul
-    dynasty = "德勒库莱什蒂"  # Draculecti
+    name = "Mihai Viteazul"  # Mihai Viteazul
+    dynasty = "Draculesti"  # Draculecti
     birth_date = 1443.1.1
     adm = 4
     dip = 5

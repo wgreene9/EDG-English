@@ -1,7 +1,7 @@
 1444.6.1 = {
   monarch = {
-    name = "弗拉基米尔"  #Vladimir 
-    dynasty = "格拉索夫斯基" #Glasorvskyy
+    name = "Vladimir"  #Vladimir 
+    dynasty = "Glasorvskyy" #Glasorvskyy
     birth_date = 1415.11.1
     adm = 3
     dip = 3

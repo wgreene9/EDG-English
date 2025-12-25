@@ -1,7 +1,7 @@
 1440.1.1 = {
   monarch = {
-    name = "阁"  # Ko Cheng
-    dynasty = "黄"  # Cham
+    name = "Ge"  # Ko Cheng
+    dynasty = "Huang"  # Cham
     birth_date = 1420.1.1
     adm = 1
     dip = 0

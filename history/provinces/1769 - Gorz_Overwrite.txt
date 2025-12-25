@@ -1,1 +1,2 @@
 capital = "Gorizia"
+capital = "Gorizia"

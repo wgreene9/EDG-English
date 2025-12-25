@@ -1,7 +1,7 @@
 1443.1.1 = {
   monarch = {
-    name = "狄奥多尔 III"  # Demetrios II
-    dynasty = "拉斯卡里斯"  # Palaiologos
+    name = "Theodoros III"  # Demetrios II
+    dynasty = "Laskaris"  # Palaiologos
     birth_date = 1424.2.8
     dip = 4
     adm = 4

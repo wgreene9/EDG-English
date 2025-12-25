@@ -15,3 +15,5 @@ dependencies={
 }
 name="EDG (English Translation)"
 supported_version="v1.37.5.0"
+replace_path="localisation/replace"
+replace_path="localisation/l_english"

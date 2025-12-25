@@ -1,7 +1,7 @@
 1441.6.17 = {
   monarch = {
-    name = "埃里克 V"  # Eric VII
-    dynasty = "格里芬"  # Gryf
+    name = "Erik V"  # Eric VII
+    dynasty = "Gryf"  # Gryf
     birth_date = 1412.1.1
     adm = 4
     dip = 3

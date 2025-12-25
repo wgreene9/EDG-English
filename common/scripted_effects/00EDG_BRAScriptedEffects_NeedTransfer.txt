@@ -1,7 +1,7 @@
 EDG_BRA_DefineRuler_Willian_effect = {
     define_ruler = {
-        name = "威廉"
-        dynasty = "霍亨索伦"
+        name = "Wilhelm"
+        dynasty = "von Hohenzollern"
         adm = 4
         dip = 4
         mil = 3
@@ -13,8 +13,8 @@ EDG_BRA_DefineRuler_Willian_effect = {
 
 EDG_BRA_DefineRuler_Albert_effect = {
     define_ruler = {
-        name = "阿尔伯特"
-        dynasty = "霍亨索伦"
+        name = "Albrecht"
+        dynasty = "von Hohenzollern"
         adm = 2
         dip = 0
         mil = 2
@@ -26,8 +26,8 @@ EDG_BRA_DefineRuler_Albert_effect = {
 
 EDG_BRA_DefineRuler_Frederick_effect = {
     define_ruler = {
-        name = "腓特烈『救世主』"
-        dynasty = "霍亨索伦"
+        name = "Friederich 'the Savior'"
+        dynasty = "von Hohenzollern"
         adm = 6
         dip = 5
         mil = 6

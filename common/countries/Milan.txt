@@ -2,7 +2,12 @@
 
 graphical_culture = westerngfx
 
-color = { 166  108  146 }
+# color = { 166  108  146 }
+color = {
+  246
+  181
+  116
+}
 
 revolutionary_colors = { 9  0  5 } #Cisalpine Republic
 

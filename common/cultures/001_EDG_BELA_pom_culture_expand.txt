@@ -9,339 +9,53 @@ west_slavic = {
 			local_defender_dice_roll_bonus = 1
 		}
 		male_names = {
-		  "博古斯瓦夫"  # Boguslaw
-		  "巴尔尼姆"  # Barnim
-		  "奥塔"  # Ota
-		  "埃瑞克"  # Eryk
-		  "菲利普"  # Filip
-		  "弗朗齐歇克"  # Franciszek
-		  "扬"  # Jan
-		  "弗里德里克"  # Fryderyk
-		  "格奥尔格"  # Georg
-		  "埃内斯特"  # Ernest
-		  "路德维克"  # Ludwik
-		  "阿尔布雷希特"  # Albrecht
-		  "阿恩特"  # Arnt
-		  "奥古斯特"  # August
-		  "伯恩哈德"  # Bernhard
-		  "博多"  # Bodo
-		  "卡尔"  # Carl
-		  "埃米尔"  # Emil
-		  "弗里茨"  # Fritz
-		  "格哈德"  # Gerhard
-		  "古斯塔夫"  # Gustav
-		  "哈拉尔德"  # Harald
-		  "亨德里克"  # Hendryk
-		  "埃贝尔"  # Herbert
-		  "赫尔曼"  # Hermann
-		  "约赫姆"  # Jochem
-		  "马克西米利安"  # Maximiliam
-		  "莱因霍尔德"  # Reinhold
-		  "齐格弗里德"  # Siegfried
-		  "瓦尔特"  # Walter
-		  "威廉"  # Wilhelm
-		  "亚历山大"  # Alexander
-		  "安杰伊"  # Andrzej
-		  "安东尼"  # Antoni
-		  "安东尼努斯"  # Antoninus
-		  "阿龙"  # Aron
-		  "巴尔托什"  # Bartosz
-		  "巴尔多禄茂"  # Bartolomeus
-		  "贝德日赫"  # Bedrich
-		  "弗雷德里克"  # Frederick
-		  "拜普洱穆"  # Bezprzym
-		  "布拉泽伊_布莱斯"  # Blazej
-		  "布莱斯"  # Blaise
-		  "博吉斯拉夫"  # Bogislaw
-		  "博赫丹"  # Bohdan
-		  "博格丹"  # Bogdan
-		  "伯胡米尔"  # Bohumir
-		  "博莱斯瓦夫"  # Boleslaw
-		  "博莱斯拉夫"  # Boleslav
-		  "博里沃"  # Boriwoj
-		  "博日约夫"  # Borijov
-		  "博齐达尔"  # Bozydar
-		  "泰奥达特"  # Theodat
-		  "布拉尼米尔"  # Branimir
-		  "布拉尼斯拉夫"  # Branislav
-		  "布热季斯拉夫"  # Bretislav
-		  "布雷蒂斯劳斯"  # Bretislaus
-		  "卡齐米日"  # Casimir
-		  "茨季博尔"  # Ctibor
-		  "茨季博尔"  # Ctibor
-		  "多别斯瓦夫"  # Dobieslaw
-		  "德布洛米尔"  # Dobromil
-		  "德罗苏克"  # Drosuk
-		  "迪特里克"  # Dytryk
-		  "蒂埃里"  # Thierry
-		  "弗兰提斯克"  # Frantisek
-		  "弗朗西斯"  # Francis
-		  "加韦乌"  # Gawel
-		  "格热戈日"  # Grzegorz
-		  "额我略"  # Gregory
-		  "哈维尔"  # Havel
-		  "加卢斯"  # Gallus
-		  "亚芩蒂"  # Jacenty
-		  "海厄森斯"  # Hyacinth
-		  "雅各布"  # Jakub
-		  "雅库什"  # Jakusz
-		  "雅各伯"  # Jacob
-		  "雅努什"  # Janusz
-		  "若望"  # John
-		  "雅罗马"  # Jaromar
-		  "亚罗米尔"  # Jaromil
-		  "亚罗米尔"  # Jaromir
-		  "雅罗斯拉夫"  # Jaroslav
-		  "耶杰"  # Jedrzej
-		  "英德日赫"  # Jindrich
-		  "亨利"  # Henry
-		  "伊日"  # Jirí
-		  "乔治"  # George
-		  "约瑟夫"  # Jozef
-		  "若瑟"  # Joseph
-		  "尤利乌什"  # Juliusz
-		  "尤利安"  # Julian
-		  "卡耶坦"  # Kajetan
-		  "卡米勒"  # Kamil
-		  "卡米卢斯"  # Camillus
-		  "卡雷尔"  # Karel
-		  "查理"  # Charles
-		  "卡斯珀"  # Kasper
-		  "卡齐米日"  # Kazimierz
-		  "克利缅特"  # Kliment
-		  "格肋孟"  # Clement
-		  "科尔曼"  # Kolman
-		  "科洛曼"  # Koloman
-		  "科内尔"  # Kornel
-		  "科尔乃略"  # Cornelius
-		  "克雷希米尔"  # Kresimir
-		  "克热斯拉夫"  # Krzeslaw
-		  "克日什托夫"  # Krzysztof
-		  "克里斯托弗"  # Christopher
-		  "列赫"  # Lech
-		  "莱谢克"  # Leszek
-		  "卢博米尔"  # Lubomir
-		  "卢茨扬"  # Lucjan
-		  "卢修斯"  # Lucius
-		  "卢德维克"  # Ludvik
-		  "路易"  # Louis
-		  "马雷克"  # Marek
-		  "马尔谷"  # Marcus
-		  "马里安"  # Marian
-		  "马里乌斯"  # Marius
-		  "玛尔定"  # Martin
-		  "马特乌什"  # Mateusz
-		  "玛窦"  # Matthew
-		  "梅什科"  # Mieszko
-		  "米科拉什"  # Mikolás
-		  "尼各老"  # Nicholas
-		  "米罗斯拉夫"  # Miloslaw
-		  "米洛什"  # Milosz
-		  "米罗斯拉夫"  # Miroslaw
-		  "姆斯季斯拉夫"  # Mscislaw
-		  "姆斯季斯拉夫"  # Mstislav
-		  "姆什齐沃伊"  # Msciwoj
-		  "奥尔德日赫"  # Oldrich
-		  "乌尔里希"  # Ulrich
-		  "翁德雷"  # Ondrej
-		  "安得肋"  # Andrew
-		  "奥托卡尔"  # Otokar
-		  "帕特雷克"  # Patryk
-		  "巴特利爵"  # Patrick
-		  "帕维尔"  # Pawel
-		  "保罗"  # Paul
-		  "彼得"  # Piotr
-		  "彼得"  # Peter
-		  "普伦多塔"  # Prendota
-		  "普热梅斯乌"  # Przemysl
-		  "普列梅斯尔"  # Premysl
-		  "普日贝斯瓦夫"  # Przybyslaw
-		  "拉多米尔"  # Radomil
-		  "拉多米尔"  # Radomir
-		  "拉多斯拉夫"  # Radoslav
-		  "罗斯季斯拉夫"  # Rostislav
-		  "雷沙尔德"  # Ryszard
-		  "理查"  # Richard
-		  "桑博尔"  # Sambor
-		  "索别斯拉夫"  # Sobieslav
-		  "索贝斯劳斯"  # Sobeslaus
-		  "斯坦尼斯瓦夫"  # Stanislaw
-		  "斯特拉什"  # Strasz
-		  "希温托佩乌克"  # Swietopelk
-		  "斯瓦托普卢克"  # Svatopluk
-		  "希温托斯瓦夫"  # Swietoslaw
-		  "斯维亚托斯拉夫"  # Sviatoslav
-		  "什切潘"  # Szczepan
-		  "斯蒂芬"  # Stephen
-		  "什琴斯尼"  # Szczesny
-		  "希蒙"  # Szymon
-		  "塔德乌什"  # Tadeusz
-		  "狄奥多尔"  # Theodore
-		  "托马什"  # Tomasz
-		  "托马斯"  # Thomas
-		  "乌达尔里希"  # Udalrich
-		  "乌尔亚什"  # Urjasz
-		  "沃伊捷赫"  # Vojtech
-		  "阿尔伯特"  # Albert
-		  "瓦茨拉夫"  # Waclaw
-		  "瓦伦蒂"  # Walenty
-		  "瓦伦丁"  # Valentin
-		  "弗拉迪斯拉夫"  # Wratislaw
-		  "弗拉季斯拉夫"  # Vratislav
-		  "瓦夫日涅茨"  # Wawrzyniec
-		  "老楞佐"  # Laurence
-		  "文采斯瓦夫_瓦茨拉夫"  # Wenceslaw
-		  "瓦茨拉夫"  # Vaclav
-		  "文岑蒂"  # Wincenty
-		  "文森特"  # Vincent
-		  "维茨拉夫"  # Wizlaw
-		  "瓦迪斯瓦夫"  # Wladyslaw
-		  "沃德克"  # Wlodek
-		  "沃齐米日"  # Wlodzimierz
-		  "沃齐斯瓦夫_弗拉迪斯拉夫"  # Wlodzislaw
-		  "弗拉迪斯拉夫"  # Wratislaw
-		  "兹比格涅夫"  # Zbigniew
-		  "兹贝内克"  # Zbynek
-		  "兹杰内克"  # Zdenek
-		  "兹基斯拉夫"  # Zdislav
-		  "齐格蒙特"  # Zygmunt
-		  "西格蒙德"  # Sigmund
+			Boguslaw Barnim Ota Eryk Filip Franciszek Jan Fryderyk Georg Ernest 
+			Ludwik Albrecht Arnt August Bernhard Bodo Carl Emil Fritz Gerhard 
+			Gustav Harald Hendryk Herbert Hermann Jochem Maximiliam Reinhold 
+			Siegfried Walter Wilhelm Alexander Andrzej Antoni Antoninus Aron 
+			Bartosz Bartolomeus Bedrich 
+			Frederick Bezprzym Blazej Blaise Bogislaw Bohdan Bogdan Bohumir Boleslaw Boleslav 
+			Boriwoj Borijov Bozydar Theodat Branimir Branislav
+			Bretislav Bretislaus Casimir Ctibor Ctibor Dobieslaw Dobromil Drosuk Dytryk Thierry Frantisek 
+			Francis Gawel Grzegorz Gregory Havel Gallus Jacenty Hyacinth Jakub Jakusz Jacob 
+			Janusz John Jaromar
+			Jaromil Jaromir Jaroslav Jedrzej Jindrich Henry Jir� George Jozef Joseph 
+			Juliusz Julian Kajetan Kamil Camillus Karel Charles Kasper Kazimierz Kliment Clement Kolman 
+			Koloman Kornel Cornelius Kresimir Krzeslaw
+			Krzysztof Christopher Lech Leszek Lubomir Lucjan Lucius Ludvik Louis Marek Marcus Marian Marius 
+			Martin Mateusz Matthew Mieszko Mikol�s Nicholas Miloslaw Milosz Miroslaw 
+			Mscislaw Mstislav Msciwoj
+			Oldrich Ulrich Ondrej Andrew Otokar Patryk Patrick Pawel Paul Piotr Peter Prendota Przemysl 
+			Premysl Przybyslaw Radomil Radomir Radoslav Rostislav Ryszard Richard Sambor Sobieslav Sobeslaus 
+			Stanislaw
+			Strasz Swietopelk Svatopluk Swietoslaw Sviatoslav Szczepan Stephen Szczesny Szymon Tadeusz 
+			Theodore Tomasz Thomas Udalrich Urjasz Vojtech Albert Waclaw Walenty Valentin Wratislaw 
+			Vratislav Wawrzyniec Laurence Wenceslaw Vaclav
+			Wincenty Vincent Wizlaw Wladyslaw Wlodek Wlodzimierz Wlodzislaw Wratislaw 
+			Zbigniew Zbynek Zdenek Zdislav Zygmunt Sigmund
 		}
 		female_names = {
-		  "加布里埃莱"  # Gabriela
-		  "海伦娜"  # Helena
-		  "伊安尼纳"  # Janina
-		  "阿格涅什卡"  # Agnieszka
-		  "阿涅丝"  # Agnes
-		  "阿尔茨贝塔"  # Alzbeta
-		  "安德拉"  # Andela
-		  "安娜"  # Anna
-		  "贝尔塔"  # Berta
-		  "博胡斯拉娃"  # Bohuslava
-		  "博热娜"  # Bozena
-		  "布拉尼斯拉娃"  # Branislava
-		  "达格玛"  # Dagmar
-		  "达努塔"  # Danuta
-		  "多布拉薇"  # Dobravy
-		  "多布罗涅加"  # Dobroniega
-		  "多萝塔"  # Dorota
-		  "多萝西"  # Dorothy
-		  "德拉戈米拉"  # Dragomira
-		  "埃迪塔"  # Edyta
-		  "伊娃"  # Ewa
-		  "盖拉"  # Geira
-		  "格特露达"  # Gertruda
-		  "格特露德"  # Gertrude
-		  "格拉齐娅"  # Gracja
-		  "格拉齐娜"  # Grazyna
-		  "哈丽娜"  # Halina
-		  "汉娜"  # Hanna
-		  "伊蕾娜"  # Irena
-		  "伊莎贝拉"  # Izabela
-		  "雅德维嘉"  # Jadwiga
-		  "雅乐卡"  # Jarka
-		  "娅尔米拉"  # Jarmila
-		  "约兰塔"  # Jolanta
-		  "尤迪塔"  # Judyta
-		  "友弟德"  # Judith
-		  "卡米拉"  # Kamila
-		  "卡塔琳娜"  # Katarina
-		  "加大肋纳"  # Catherine
-		  "肯娜"  # Kenna
-		  "科尔内莉娅"  # Kornelia
-		  "克雷斯蒂娜"  # Krystyna
-		  "基斯定"  # Christina
-		  "克塞尼亚"  # Ksenia
-		  "莉迪亚"  # Lidia
-		  "卢德米拉"  # Ludmila
-		  "玛格达"  # Magda
-		  "玛格达莱娜"  # Magdalena
-		  "玛格达莱娜"  # Magdalena
-		  "玛格达莱娜"  # Magdalena
-		  "玛乌戈热塔"  # Malgorzata
-		  "马塞利娜"  # Marcelina
-		  "玛丽亚"  # Maria
-		  "玛尔凯塔"  # Markéta
-		  "马丁娜"  # Martyna
-		  "玛捷娅"  # Mateja
-		  "玛蒂尔达"  # Matylda
-		  "玛蒂尔达"  # Matilda
-		  "米列那"  # Milena
-		  "米罗斯拉娃"  # Miroslava
-		  "佩赫娜"  # Pechna
-		  "罗莎"  # Róza
-		  "拉多米拉"  # Radomila
-		  "拉多米拉"  # Radomira
-		  "拉多斯拉娃"  # Radoslava
-		  "雷娜"  # Raina
-		  "雷格琳达"  # Regelinda
-		  "蕾赫扎"  # Rycheza
-		  "萨洛梅娅"  # Salomea
-		  "希梅赫娜"  # Smiechna
-		  "斯坦尼斯拉娃"  # Stanislava
-		  "斯特凡纳"  # Stefana
-		  "斯蒂芬妮雅"  # Stephania
-		  "斯维特拉娜"  # Svetlana
-		  "熊休拉"  # Urszula
-		  "瓦茨拉娃"  # Václava
-		  "弗拉迪斯拉娃"  # Vladislava
-		  "薇拉"  # Wera
-		  "沃伊斯瓦娃"  # Wojslawa
-		  "兹登卡"  # Zdenka
-		  "索菲娅"  # Zofia
-		  "兹维尼斯瓦娃"  # Zwinislawa
+			Gabriela Helena Janina
+			Agnieszka Agnes Alzbeta Andela Anna Berta Bohuslava Bozena Branislava Dagmar Danuta Dobravy 
+			Dobroniega Dorota Dorothy Dragomira Edyta Ewa Geira Gertruda Gertrude
+			Gracja Grazyna Halina Hanna Irena Izabela Jadwiga Jarka Jarmila Jolanta Judyta Judith Kamila 
+			Katarina Catherine Kenna Kornelia Krystyna Christina Ksenia Lidia
+			Ludmila Magda Magdalena Magdalena Magdalena Malgorzata Marcelina Maria Mark�ta Martyna 
+			Mateja Matylda Matilda Milena Miroslava Pechna R�za Radomila Radomira Radoslava
+			Raina Regelinda Rycheza Salomea Smiechna Stanislava Stefana Stephania Svetlana Urszula V�clava 
+			Vladislava Wera Wojslawa Zdenka Zofia Zwinislawa
 		}
 		dynasty_names = {
-		  "冯 克林科夫"  # von Klinckow
-		  "冯 普特卡默"  # von Puttkamer
-		  "冯 巴内考"  # von Barnekow
-		  "冯 斯特兰茨"  # von Strantz
-		  "格里芬"  # Gryf
-		  "威兹拉维"  # Wizlawid
-		  "冯 克拉索"  # von Krassow
-		  "冯 德 兰肯"  # von der Lancken
-		  "冯 施里芬"  # von Schlieffen
-		  "冯 什未林"  # von Schwerin
-		  "冯 舍宁"  # von Schöning
-		  "冯 苏姆"  # von Suhm
-		  "冯 马尔察恩"  # von Maltzahn
-		  "冯 贝洛"  # von Below
-		  "冯 布利克森"  # von Blixen
-		  "冯 博尔克"  # von Borcke
-		  "冯 布根哈根"  # von Buggenhagen
-		  "冯 曼陀菲尔"  # von Manteuffel
-		  "冯 柯思万"  # von Corswant
-		  "冯 斯特拉伦海姆"  # von Stralenheim
-		  "冯 德维茨"  # von Dewitz
-		  "冯 普伦"  # von Preen
-		  "冯 迈耶"  # von Podewils
-		  "冯 弗莱明"  # von Flemming
-		  "冯 普拉滕"  # von Platen
-		  "冯 新基兴"  # von Neuenkirchen
-		  "冯 戈特贝格"  # von Gottberg
-		  "冯 哈克维茨"  # von Hackewitz
-		  "冯 亨尼格斯"  # von Hennigs
-		  "特兰珀"  # Trampe
-		  "冯 赫茨伯格"  # von Hertzberg
-		  "冯 海登"  # von Heyden
-		  "冯 卡梅克"  # von Kameke
-		  "冯 克莱斯特"  # von Kleist
-		  "纳兹默"  # Natzmer
-		  "冯 齐普林"  # von Zepelin
-		  "冯 迈戈斯特科夫斯基"  # von Gostowski
-		  "冯 瓦克尼茨"  # von Wakenitz
-		  "冯 乌泽多姆"  # von Usedom
-		  "图恩"  # Thun
-		  "冯 塔登"  # von Thadden
-		  "格里菲塔"  # Gryfita
-		  "兹 波美尔扎"  # z Pomorza
-		  "格日马拉"  # Grzymala
-		  "亚斯琴别茨"  # Jastrzebiec
-		  "鲁比茨"  # Lubicz
-		  "纳莱茨"  # Nalecz
-		  "斯拉威卡"  # Slaweka
-		  "泽 斯武普斯卡"  # ze Slupska
-		  "格涅沃什"  # Gniewosz
+			"von Klinckow" "von Puttkamer" "von Barnekow" "von Strantz" "Gryf" "Wizlawid"
+			"von Krassow" "von der Lancken" "von Schlieffen" "von Schwerin"
+			"von Sch�ning" "von Suhm" "von Maltzahn" "von Below" "von Blixen" "von Borcke"
+			"von Buggenhagen" "von Manteuffel" "von Corswant" "von Stralenheim" "von Dewitz" "von Preen" "von Podewils"
+			"von Flemming" "von Platen" "von Neuenkirchen" "von Gottberg" "von Hackewitz" "von Hennigs" "Trampe" "von Hertzberg" "von Heyden" "von Kameke" "von Kleist" "Natzmer" 
+			"von Zepelin" "von Gostowski" "von Wakenitz"
+			"von Usedom" "Thun" "von Thadden"
+			#CKII
+			"Gryfita" "z Pomorza" "Grzymala" "Jastrzebiec" "Lubicz" "Nalecz" "Slaweka" "ze Slupska"
+			"Gniewosz"
 		}
 	  }
 }

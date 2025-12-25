@@ -1,1 +1,1 @@
-capital = Salamanca
+capital = "Salamanca"

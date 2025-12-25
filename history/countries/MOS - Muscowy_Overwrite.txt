@@ -1,7 +1,7 @@
 1389.5.19 = {
 	monarch = {
-		name = "瓦西里 I"
-		dynasty = "弗谢沃洛多维奇"
+		name = "Vasiliy I"
+		dynasty = "Vsevolodovich"
 		adm = 1
 		dip = 3
 		mil = 2
@@ -11,8 +11,8 @@
 }
 1415.3.10 = {
 	heir = {
-		name = "罗斯季斯拉夫"
-		dynasty = "弗谢沃洛多维奇"
+		name = "Rostislav"
+		dynasty = "Vsevolodovich"
 		birth_date = 1410.3.10
 		death_date = 1444.6.1
 		claim = 95
@@ -23,8 +23,8 @@
 }
 1424.2.27 = {
   monarch = {
-    name = "罗斯季斯拉夫 I"  # Rostislav
-    dynasty = "弗谢沃洛多维奇"  # Rurikovich
+    name = "Rostislav I"  # Rostislav
+    dynasty = "Vsevolodovich"  # Rurikovich
     birth_date = 1410.3.10
     death_date = 1444.6.1
     adm = 2
@@ -38,8 +38,8 @@
 1438.1.1 = {
   queen = {
     country_of_origin = YAR
-    name = "玛利娅"  # Maria
-    dynasty = "弗谢沃洛多维奇"  # Rurikovich
+    name = "Maria"  # Maria
+    dynasty = "Vsevolodovich"  # Rurikovich
     birth_date = 1418.1.1
     death_date = 1484.1.1
     female = yes
@@ -50,8 +50,8 @@
 }
 1444.6.1 = {
   monarch = {
-    name = "亚历山大 I" #Alexandra
-    dynasty = "弗谢沃洛多维奇"  # Rurikovich   
+    name = "Alexander I" #Alexandra
+    dynasty = "Vsevolodovich"  # Rurikovich   
     birth_date = 1424.1.1              
     adm = 3             
     dip = 2           

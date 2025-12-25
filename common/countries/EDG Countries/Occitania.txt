@@ -39,645 +39,126 @@ historical_units = {
   napoleonic_lancers
 }
 monarch_names = {
-  "뿯½易 #10" = 160  # Louis #10
-  "뿯½g理 #5" = 80  # Charles #5
-  "뿯½N利 #1" = 60  # Henri #1
-  "弗朗索뿯½t #0" = 40  # Franï¿½ois #0
-  "¿½뿯½R #6" = 10  # Philippe #6
-  "죯½u뿯½ #2" = 10  # Jean #2
-  "뿯½R뿯½e¿½ #0" = 10  # Gaston #0
-  "尼뿯½S뿯½b-뿯½N利 #0" = 10  # Nicolas-Henri #0
-  "뿯½易-弗朗索뿯½t #0" = 5  # Louis-Franï¿½ois #0
-  "雅克 #0" = 5  # Jacques #0
-  "죯½u¿½希뿯½Y #0" = 5  # Joachim #0
-  "格扎죯½u뿯½W #0" = 5  # Xavier #0
-  "罗¿½尔 #2" = 1  # Robert #2
-  "뿯½뿯½g #1" = 1  # Hugues #1
-  "뿯½b乌尔 #1" = 1  # Raoul #1
-  "뿯½N뿯½S山大 #0" = 0  # Alexandre #0
-  "¿½尔丰뿯½e #0" = 0  # Alphonse #0
-  "죯½R布뿯½ï¿½뿯½t兹 #0" = 0  # Ambroise #0
-  "¿½尔뿯½ï¿½ #0" = 0  # Armand #0
-  "奥뿯½S뿯½e丁 #0" = 0  # Augustin #0
-  "죯½T뿯½l뿯½R米 #0" = 0  # Barthï¿½lemy #0
-  "伯뿯½R뿯½t #0" = 0  # Benoï¿½t #0
-  "伯죯½u죯½V #0" = 0  # Bernard #0
-  "布뿯½ï¿½뿯½e #0" = 0  # Blaise #0
-  "克洛죯½V #0" = 0  # Claude #0
-  "克뿯½ï¿½뿯½ï¿½ #0" = 0  # Clï¿½ment #0
-  "丹尼뿯½e #0" = 0  # Denis #0
-  "뿡½ï¿½뿯½ï¿½죯½R #0" = 0  # ï¿½tienne #0
-  "뿯½尔뿯½f #0" = 0  # Firmin #0
-  "乔뿯½l #0" = 0  # Georges #0
-  "居伊 #0" = 0  # Guy #0
-  "죯½u尧뿯½Y #0" = 0  # Guillaume #0
-  "伊尼뿯½N뿯½e #0" = 0  # Ignace #0
-  "뿯½ï¿½-죯½R托万 #0" = 0  # Jean-Antoine #0
-  "뿯½ï¿½-죯½T뿯½ï¿½뿯½e特 #0" = 0  # Jean-Baptiste #0
-  "뿯½ï¿½-雅克 #0" = 0  # Jean-Jacques #0
-  "뿯½ï¿½-¿½뿯½R #0" = 0  # Jean-Philippe #0
-  "죯½u瑟夫 #0" = 0  # Joseph #0
-  "뿯½뿯½e坎 #0" = 0  # Josquin #0
-  "儒뿯½R #0" = 0  # Jules #0
-  "¿½克 #0" = 0  # Marc #0
-  "뿯½ï¿½里뿯½e #0" = 0  # Maurice #0
-  "¿½克¿½米利죯½R #0" = 0  # Maximilien #0
-  "米歇尔 #0" = 0  # Michel #0
-  "尼뿯½S뿯½b #0" = 0  # Nicolas #0
-  "帕뿯½e卡 #0" = 0  # Pascal #0
-  "뿯½v뿯½W尔 #0" = 0  # Pierre #0
-  "뿯½R뿯½Q #0" = 0  # Renï¿½ #0
-  "塞죯½T뿯½e뿯½ï¿½죯½R #0" = 0  # Sï¿½bastien #0
-  "¿½뿯½ï¿½ #0" = 0  # Simon #0
-  "뿯½ï¿½娜 #0" = -10  # Jeanne #0
-  "뿯½s丽 #0" = -1  # Marie #0
-  "夏洛特 #0" = -1  # Charlotte #0
-  "죯½R뿯½Y #0" = -10  # Anne #0
-  "뿯½s格丽特 #0" = -10  # Marguerite #0
-  "¿½죯½V뿯½ï¿½죯½V #0" = -10  # Adï¿½laï¿½de #0
+	"Louis #10" = 160
+	"Charles #5" = 80
+	"Henri #1" = 60
+	"Fran�ois #0" = 40
+	"Philippe #6" = 10
+	"Jean #2" = 10
+	"Gaston #0" = 10
+	"Nicolas-Henri #0" = 10
+	"Louis-Fran�ois #0" = 5
+	"Jacques #0" = 5
+	"Joachim #0" = 5
+	"Xavier #0" = 5
+	"Robert #2" = 1
+	"Hugues #1" = 1
+	"Raoul #1" = 1
+	"Alexandre #0" = 0
+	"Alphonse #0" = 0
+	"Ambroise #0" = 0
+	"Armand #0" = 0
+	"Augustin #0" = 0
+	"Barth�lemy #0" = 0
+	"Beno�t #0" = 0
+	"Bernard #0" = 0
+	"Blaise #0" = 0
+	"Claude #0" = 0
+	"Cl�ment #0" = 0
+	"Denis #0" = 0
+	"�tienne #0" = 0
+	"Firmin #0" = 0
+	"Georges #0" = 0
+	"Guy #0" = 0
+	"Guillaume #0" = 0
+	"Ignace #0" = 0
+	"Jean-Antoine #0" = 0
+	"Jean-Baptiste #0" = 0
+	"Jean-Jacques #0" = 0
+	"Jean-Philippe #0" = 0
+	"Joseph #0" = 0
+	"Josquin #0" = 0
+	"Jules #0" = 0
+	"Marc #0" = 0
+	"Maurice #0" = 0
+	"Maximilien #0" = 0
+	"Michel #0" = 0
+	"Nicolas #0" = 0
+	"Pascal #0" = 0
+	"Pierre #0" = 0
+	"Ren� #0" = 0
+	"S�bastien #0" = 0
+	"Simon #0" = 0
+	"Jeanne #0" = -10
+	"Marie #0" = -1
+	"Charlotte #0" = -1
+	"Anne #0" = -10
+	"Marguerite #0" = -10
+	"Ad�la�de #0" = -10
 }
+
 leader_names = {
-  "죯½V 昂布뿯½R特뿯½e"  # d'Ambleteuse
-  "죯½V 欧奈"  # d'Aulnay
-  "죯½V 博¿½尔뿯½Q"  # de Beauharnais
-  "죯½V ¿½¿½"  # de Bercy
-  "죯½V ¿½뿯½ï¿½뿯½ï¿½"  # de Bï¿½thune
-  "죯½V 布뿯½t¿½뿯½S"  # de Boissieu
-  "죯½V 博죯½u죯½R뿯½t"  # de Bonnefoy
-  "죯½V 博죯½u伊"  # de Bonneuil
-  "杜 博뿯½e뿯½Q"  # du Bosquet
-  "죯½V 뿯½b 布뿯½R托尼뿯½W"  # de la Bretonniï¿½re
-  "죯½V 布罗意"  # de Broglie
-  "죯½V 卡뿯½e坦"  # de Castaing
-  "죯½V 뿯½g¿½丁"  # de Caumartin
-  "죯½V 尚布利"  # de Chambly
-  "죯½V 尚布뿯½ï¿½尼"  # de Chambronne
-  "죯½V 尚普¿½丁"  # de Champmartin
-  "죯½V ¿½죯½u尼"  # de Chevigny
-  "죯½V 뿯½y뿯½ï¿½뿯½e"  # des Coulons
-  "죯½V 克뿯½ï¿½夫뿯½y尔"  # de Crï¿½vecᕓur
-  "죯½V 克吕索尔"  # de Crussol
-  "죯½V 当뿯½v뿯½W尔"  # de Dampierre
-  "죯½V뿯½S特"  # Desgouttes
-  "뿯½뿯½Q죯½u"  # Duquesne
-  "죯½V 뿯½W屈尔"  # des ï¿½cures
-  "죯½V 恩特뿯½ï¿½奎뿯½e"  # d'Entraigues
-  "죯½V 뿯½W뿯½e特뿯½ï¿½"  # d'Estrï¿½es
-  "杜 죯½R뿯½t뿯½Q"  # du Fournay
-  "죯½V 뿯½R뿯½b尔"  # de Galard
-  "죯½V 塞뿯½k耶"  # des Herbiers
-  "죯½V 뿯½b 죯½T特"  # de La Barthe
-  "죯½V 뿯½b 弗朗뿯½ï¿½"  # de La Ferrandie
-  "죯½V 뿯½b 뿯½R利索尼뿯½W"  # de La Galissoniï¿½re
-  "죯½V 뿯½b 뿯½ï¿½特"  # de La Mothe
-  "죯½V 뿯½b 뿯½ï¿½特 죯½V뿯½W兰"  # de La Motte d'Airan
-  "죯½V 뿯½b 뿯½l特"  # de La Porte
-  "뿯½R 뿯½l利耶"  # Le Tellier
-  "죯½V 耶里"  # de Lhï¿½ry
-  "죯½V 吕뿯½Q"  # de Luynes
-  "죯½V ¿½尔뿯½v耶"  # de Marguerye
-  "죯½V 뿯½ï¿½뿯½R帕"  # de Maurepas
-  "죯½V 뿯½ï¿½뿯½l뿯½l뿯½R"  # de Neufchï¿½tel
-  "죯½V 奥尔죯½u뿯½ï¿½"  # d'Ornano
-  "죯½V 뿯½v뿯½R耶뿯½y"  # de Pellefort
-  "죯½V 里뿯½N뿯½ï¿½"  # de Richemont
-  "죯½V 罗뿯½N¿½¿½尔"  # de Rochechouart
-  "죯½V 罗뿯½N뿯½ï¿½尔"  # de Rochemaure
-  "죯½V 里뿯½S"  # de Rieu
-  "죯½V 圣뿯½l뿯½ï¿½"  # de Saint-Chamond
-  "죯½V 圣뿯½W뿯½e普里"  # de Saint-Esprit
-  "죯½V 圣뿯½e尔뿯½f"  # de Saint-Germain
-  "죯½V 圣奥뿯½h尔"  # de Saint-Omer
-  "죯½V ¿½奥뿯½b克"  # de Siorac
-  "죯½V 托克죯½u尔"  # de Tocqueville
-  "죯½V 뿯½b뿯½V尔 죯½V奥弗뿯½m"  # de La Tour d'Auvergne
-  "죯½V 特뿯½ï¿½죯½u尔"  # de Trï¿½ville
-  "죯½V 뿯½N뿡½g"  # d'Usson
-  "뿯½ 뿯½t伦뿯½ï¿½뿯½ï¿½"  # du Valentinois
-  "죯½V 뿯½尔뿯½p죯½u"  # de Vergennes
-  "죯½V 죯½u뿯½k죯½R"  # de Vibien
-  "죯½V 죯½u尼"  # de Vigny
-  "죯½V 죯½u尔죯½u夫"  # de Villeneuve
+	d'Ambleteuse d'Aulnay
+	"de Beauharnais" "de Bercy" "de B�thune" "de Boissieu" "de Bonnefoy" "de Bonneuil" "du Bosquet" "de la Bretonni�re" "de Broglie"
+	"de Castaing" "de Caumartin" "de Chambly" "de Chambronne" "de Champmartin" "de Chevigny" "des Coulons" "de Cr�vec�ur" "de Crussol"
+	"de Dampierre" Desgouttes Duquesne
+	"des �cures" d'Entraigues d'Estr�es
+	"du Fournay"
+	"de Galard"
+	"des Herbiers"
+	"de La Barthe" "de La Ferrandie" "de La Galissoni�re" "de La Mothe" "de La Motte d'Airan" "de La Porte" "Le Tellier" "de Lh�ry" "de Luynes"
+	"de Marguerye" "de Maurepas"
+	"de Neufch�tel"
+	"d'Ornano"
+	"de Pellefort"
+	"de Richemont" "de Rochechouart" "de Rochemaure" "de Rieu"
+	"de Saint-Chamond" "de Saint-Esprit" "de Saint-Germain" "de Saint-Omer" "de Siorac"
+	"de Tocqueville" "de La Tour d'Auvergne" "de Tr�ville"
+	"d'Usson"
+	"du Valentinois" "de Vergennes" "de Vibien" "de Vigny" "de Villeneuve"
 }
+
 ship_names = {
-  "뿯½k뿯½e开海뿯½Q"  # Amiral de Biscaye
-  "뿯½R利¿½뿯½N海뿯½Q"  # Amiral de Galice
-  "彩¿½"  # Arc-en-Ciel
-  "뿯½丽少女"  # Belle Poule
-  "죯½V上뿯½N"  # Bien-Aimï¿½
-  "뿯½g理뿯½N世"  # Charles II
-  "海¿½"  # Cheval Marin
-  "뿯½l尔多商¿½"  # Commerce de Bordeaux
-  "¿½¿½商¿½"  # Commerce de Marseille
-  "죯½T黎商¿½"  # Commerce de Paris
-  "里昂商¿½"  # Commerce du Lyon
-  "奥뿯½e뿯½f뿯½v뿯½Q"  # Couronne Ottomane
-  "¿½洲之角"  # Croissant d'Afrique
-  "뿯½v太子"  # Dauphin Royal
-  "뿯½S雄"  # Deux Frï¿½res
-  "天¿½"  # Don de Dieu
-  "金뿯½ï¿½"  # Dragon d'Or
-  "昂뿯½S뿯½ï¿½뿯½Y公爵"  # Duc d'Angoulï¿½me
-  "¿½뿯½W坦公爵"  # Duc d'Aquitaine
-  "¿½里公爵"  # Duc de Berry
-  "뿯½R¿½第公爵"  # Duc de Bourgogne
-  "뿯½格兰之光"  # ï¿½sperance d'Angleterre
-  "上帝之光"  # ï¿½sperance de Dieu
-  "天¿½之光"  # ï¿½sperance en Dieu
-  "뿯½R¿½第죯½T"  # ï¿½tats de Bourgogne
-  "黛죯½R娜之星"  # ï¿½toile de Diane
-  "뿯½格兰之¿½"  # Faucon Anglais
-  "뿡½v合뿯½ï¿½"  # Fleur de Lys
-  "뿯½v죯½R战¿½"  # Frï¿½gate Royale
-  "吉뿯½e帆¿½"  # Galion de Guise
-  "大뿯½格兰"  # Grand Anglais
-  "大뿯½l뿯½ï¿½"  # Grand Chalain
-  "大丹뿯½ï¿½"  # Grand Danois
-  "伟大뿯½v뿯½N利"  # Grand Henry
-  "伟大뿯½v圣뿯½易"  # Grand Saint Louis
-  "伟大뿯½v죯½w利者"  # Grand Vainqueur
-  "뿯½V뿯½s죯½T¿½"  # Grand Vasseau du Roi
-  "¿½尔뿯½N大帆¿½"  # Grande Galion de Malte
-  "苏格兰主¿½"  # Grande Nef d'ï¿½cosse
-  "伟大뿯½v圣뿯½ï¿½"  # Grande Saint Jean
-  "뿯½l兰¿½죯½S"  # ï¿½le de France
-  "뿯½丽뿯½ï¿½뿯½V"  # Le Beau Parterre
-  "뿯½r뿯½s"  # Lion Couronnï¿½
-  "金뿯½r"  # Lion d'Or
-  "布뿯½ï¿½뿯½e特죯½V뿯½`者"  # Madeleine de Brest
-  "大¿½洋뿯½s뿯½s"  # Marguerite du Ponant
-  "뿯½s丽 뿯½y尔죯½V利耶尔"  # Marie la Cordeliï¿½re
-  "뿯½s丽 伊丽뿯½l뿡½v"  # Marie-Elisabeth
-  "圣伯죯½u죯½V山"  # Mont Saint-Bernard
-  "뿯½V뿯½s¿½"  # Navire-du-Roi
-  "黑帆"  # Noire Galï¿½re
-  "万죯½w圣뿯½k"  # Notre Dame de la Victoire
-  "圣뿯½k뿯½k¿½者"  # Notre Dame des Martyres
-  "圣뿯½k之民"  # Notre Dame du Peuple
-  "圣뿯½k"  # Notre Dame
-  "뿡½v뿯½q"  # Ours Blanc
-  "金뿯½q"  # Ours d'Or
-  "小圣죯½u뿯½"  # Petit Saint Jean
-  "小圣뿯½易"  # Petit Saint Louis
-  "뿯½N利뿯½s子"  # Prince Henri
-  "뿯½V兄弟"  # Quatre Frï¿½res
-  "罗¿½뿯½s"  # Roi de Rome
-  "뿯½v죯½R公爵"  # Royal Duc
-  "뿯½v죯½R¿½兰"  # Royal Hollandais
-  "뿯½v죯½R意大利"  # Royal Italien
-  "뿯½v죯½R뿯½易"  # Royal Louis
-  "뿯½v죯½R뿯½l뿡½ï¿½丝"  # Royale Thï¿½rï¿½se
-  "圣죯½R죯½V뿯½p"  # Saint Andrï¿½
-  "뿯½p뿡½ï¿½뿯½N뿯½v圣죯½R托万"  # Saint Antoine de Gï¿½nes
-  "圣죯½R托万"  # Saint Antoine
-  "圣奥뿯½S뿯½e丁"  # Saint Augustin
-  "圣죯½T¿½尔"  # Saint Basile
-  "圣뿯½Q瑟琳"  # Saint Catherine
-  "圣夏尔"  # Saint Charles
-  "圣戈뿯½e뿯½Y"  # Saint Cosme
-  "圣多米尼克"  # Saint Dominique
-  "圣뿯½W죯½V뿯½Y"  # Saint Edmï¿½
-  "圣灵"  # Saint Esprit
-  "圣弗朗索뿯½t"  # Saint Franï¿½ois
-  "伦敦뿯½v圣乔뿯½l"  # Saint Georges de Londres
-  "圣伊尼뿯½N뿯½e"  # Saint Ignace
-  "¿½¿½牙뿯½v圣雅克"  # Saint Jacques du Portugal
-  "圣雅克"  # Saint Jacques
-  "뿯½l尔多뿯½v圣죯½u뿯½"  # Saint Jean de Bordeaux
-  "¿½兰뿯½v圣죯½u뿯½"  # Saint Jean de Hollande
-  "圣죯½u뿯½"  # Saint Jean
-  "圣죯½u瑟夫"  # Saint Joseph
-  "죯½V뿯½`者圣뿯½易"  # Saint Louis de Brest
-  "죯½u뿯½尔뿯½v圣뿯½易"  # Saint Louis de Nevers
-  "圣¿½洛뿯½v圣뿯½易"  # Saint Louis de Saint-Malo
-  "圣뿯½易"  # Saint Louis
-  "圣米歇尔"  # Saint Michel
-  "圣뿯½O罗"  # Saint Paul
-  "圣¿½뿯½R"  # Saint Philippe
-  "圣뿯½v뿯½W尔"  # Saint Pierre
-  "圣塞죯½T뿯½e뿯½ï¿½죯½R"  # Saint Sï¿½bastien
-  "¿½뿯½W죯½u뿯½v圣托¿½뿯½e"  # Saint Thomas d'Aquin
-  "圣뿯½e뿯½h特"  # Saint Vincent
-  "圣十字"  # Sainte Croix
-  "圣뿯½p죯½u죯½u夫"  # Sainte Geneviï¿½ve
-  "圣뿯½s丽"  # Sainte Marie
-  "圣¿½洛"  # Saint-Malo
-  "圣桑克뿯½ï¿½뿯½ï¿½"  # Saint-Sacrement
-  "뿯½e匹"  # Sans Pareil
-  "¿½洲太¿½"  # Soleil d'Afrique
-  "¿½尔뿯½S尔之光"  # Soleil d'Alger
-  "뿯½v죯½R太¿½"  # Soleil Royal
-  "三光"  # Trois Fanaux
-  "三뿯½v"  # Trois Rois
-  "合뿯½R¿½"  # Vaisseau de Torais
-  "뿯½V뿯½s之¿½"  # Vaisseau du Roi
-  "¿½¿½뿯½W"  # Ville-de-Marseille
-  "죯½T黎뿯½W"  # Ville-de-Paris
-  "뿯½ï¿½昂뿯½W"  # Ville-de-Rouen
-  "¿½뿯½W里뿯½e"  # Achille
-  "活跃"  # Actif
-  "죯½w东"  # Actionnaire
-  "¿½죯½V뿯½ï¿½죯½V"  # Adelaï¿½de
-  "뿯½ï¿½敬"  # Admirable
-  "娴뿯½q"  # Adroit
-  "¿½洲뿯½N"  # Africain
-  "¿½伽뿯½뿯½Q"  # Agamemnon
-  "雄¿½"  # Aigle
-  "뿯½W格利特"  # Aigrette
-  "뿯½N切"  # Aimable
-  "뿯½W¿½뿯½e"  # Ajax
-  "¿½尔¿½죯½V"  # Alcide
-  "뿯½¿½"  # Alcyon
-  "뿯½N뿯½S山大"  # Alexandre
-  "同뿯½v"  # Alliance
-  "¿½尔¿½뿯½e"  # Alsace
-  "高뿯½P"  # Altier
-  "¿½¿½兰뿯½ï¿½"  # Amarante
-  "뿯½N¿½¿½"  # Amazone
-  "雄죯½V"  # Ambitieux
-  "뿯½利坚"  # America
-  "元帅"  # Amiral
-  "죯½R뿯½뿯½"  # Amphion
-  "죯½R뿯½特里죯½V"  # Amphitrite
-  "죯½R죯½V洛뿯½s刻"  # Andromaque
-  "뿯½格兰"  # Anglais
-  "죯½R娜"  # Anna
-  "汉尼뿯½b"  # Annibal
-  "뿯½e名"  # Anonyme
-  "죯½R特卫普뿯½N"  # Anversois
-  "¿½뿯½l罗"  # Apollon
-  "朔风"  # Aquilon
-  "¿½尔뿯½g"  # Arcole
-  "뿯½p죯½V"  # Ardent
-  "¿½뿡½ï¿½苏뿯½ï¿½"  # Arï¿½thuse
-  "¿½尔戈"  # Argonaute
-  "¿½尔特뿯½N"  # Artï¿½sien
-  "뿯½N죯½u뿯½N"  # Asie
-  "뿯½뿯½O"  # Assurï¿½
-  "¿½뿯½e特뿡½ï¿½"  # Astrï¿½e
-  "星뿯½v"  # Astrolabe
-  "雅典뿯½N"  # Athï¿½nien
-  "¿½特뿯½b뿯½e뿯½g"  # Atlante
-  "뿯½R敢"  # Audacieux
-  "奥뿯½S뿯½e特"  # Auguste
-  "뿯½f光"  # Aurore
-  "뿯½S爱者"  # Avenant
-  "뿯½Q¿½者"  # Aventurier
-  "手杖"  # Badine
-  "죯½T뿯½Q尔"  # Banel
-  "죯½T뿯½e克"  # Basque
-  "뿯½l弗特"  # Beaufort
-  "뿡½Y战"  # Belliqueux
-  "战뿯½N女神"  # Bellone
-  "뿯½N慈"  # Bienfaisant
-  "奇异"  # Bizarre
-  "卓뿯½ï¿½"  # Bon
-  "죯½u伦"  # Bonne
-  "뿯½l尔多뿯½N"  # Bordelais
-  "北风"  # Borï¿½e
-  "愠怒"  # Boudeuse
-  "丑角"  # Bouffonne
-  "뿯½l뿯½e"  # Bourbon
-  "罗뿯½v"  # Boussole
-  "뿯½R敢"  # Brave
-  "天才"  # Brï¿½lï¿½
-  "布列塔尼"  # Bretagne
-  "布列塔尼뿯½N"  # Breton
-  "뿯½ï¿½煌"  # Brillant
-  "뿯½k¿½者"  # Brutal
-  "布뿯½h¿½尔"  # Bucentaure
-  "卡吕普索"  # Calypso
-  "¿½뿯½R者"  # Capable
-  "뿯½e常"  # Capricieux
-  "卡뿯½b克帆¿½"  # Caraquon
-  "뿯½g机"  # Cardinal
-  "¿½¿½"  # Caribou
-  "卡¿½尔"  # Cassard
-  "卡뿯½e뿯½ï¿½뿯½^뿯½Q"  # Castiglione
-  "天主教"  # Catholique
-  "卡¿½"  # Caton
-  "뿯½v죯½R죯½R"  # Censeur
-  "半뿯½N¿½"  # Centaure
-  "塞¿½尔"  # Cï¿½sar
-  "뿯½l뿯½ï¿½"  # Chalain
-  "夏朗죯½V"  # Charente
-  "뿯½g理뿯½f"  # Charlemagne
-  "뿯½ï¿½뿯½N"  # Charmante
-  "뿯½ï¿½猎者"  # Chasseur
-  "뿯½뿯½v뿯½`죯½V"  # Choquante
-  "克里뿯½e뿯½ï¿½娜"  # Christine
-  "公民"  # Citoyen
-  "克里奥帕特뿯½b"  # Clï¿½opï¿½tre
-  "克洛뿯½g뿯½ï¿½"  # Clorinde
-  "죯½T뿯½N"  # Colosse
-  "彗星"  # Comï¿½te
-  "伯爵"  # Comte
-  "뿯½T¿½"  # Concorde
-  "죯½V服者"  # Conquï¿½rant
-  "죯½R뿯½b者"  # Consolante
-  "뿯½w뿯½ï¿½者"  # Content
-  "雄¿½"  # Coq
-  "뿯½s瑚"  # Corail
-  "뿯½R敢者"  # Courageux
-  "뿯½v뿯½Q"  # Couronne
-  "奉承者"  # Courtisan
-  "뿯½e月"  # Croissant
-  "뿡½Y奇者"  # Curieux
-  "天¿½"  # Cygne
-  "뿯½ï¿½尔¿½뿯½c뿯½N"  # Dalmate
-  "¿½者"  # Dansï¿½
-  "但뿯½l"  # Dantzig
-  "多뿯½뿯½Q"  # Dauphin
-  "뿯½P慢者"  # Dï¿½daigneuse
-  "捍卫者"  # Dï¿½fenseur
-  "뿯½N戈"  # Dego
-  "죯½V¿½"  # Desaix
-  "뿡½T运"  # Destin
-  "뿯½s뿯½Q"  # Diadï¿½me
-  "뿯½ï¿½뿯½w"  # Diamant
-  "뿯½r뿯½ï¿½者"  # Dictateur
-  "죯½T뿯½ï¿½"  # Dragon
-  "뿯½g뿯½N"  # Dryade
-  "뿯½布뿯½t"  # Dubois
-  "公爵"  # Duc
-  "뿯½v克兰"  # Duguesclin
-  "敦刻尔克뿯½N"  # Dunkerquois
-  "뿯½佩뿯½ï¿½"  # Duperre
-  "뿯½뿯½Q죯½u"  # Duquesne
-  "坚硬"  # Dur
-  "光뿯½ï¿½"  # ï¿½clatant
-  "뿯½f礁"  # ï¿½cueil
-  "뿡½g¿½"  # ï¿½cureuil
-  "教堂"  # ï¿½glise
-  "뿯½W尔伯夫"  # Elbeuf
-  "伏뿯½Q"  # Embuscade
-  "灰죯½w뿯½ï¿½"  # ï¿½merillon
-  "卓뿯½ï¿½"  # ï¿½minent
-  "뿯½v帝"  # Empereur
-  "火뿯½p"  # Emporte
-  "뿯½뿯½N"  # Engageante
-  "뿯½N뿯½S"  # Enjouree
-  "뿯½ï¿½뿯½S"  # Entendu
-  "进뿯½S"  # Entreprenant
-  "风神"  # ï¿½ole
-  "希望"  # ï¿½sperance
-  "欧罗죯½T"  # Europe
-  "机灵"  # ï¿½veillï¿½
-  "卓뿯½ï¿½"  # Excellent
-  "¿½뿯½"  # Fï¿½cheux
-  "뿯½N性"  # Fantasque
-  "뿯½ï¿½"  # Faucon
-  "죯½R儿"  # Favori
-  "뿯½N女"  # Fï¿½e
-  "뿯½g乐"  # Fï¿½licitï¿½
-  "分裂"  # Fendant
-  "¿½뿯½ï¿½뿯½Y뿯½S"  # Ferroniï¿½re
-  "죯½V诚"  # Fidï¿½le
-  "뿯½ï¿½뿯½P"  # Fier
-  "¿½耶뿯½e¿½"  # Fiesque
-  "弗뿯½b뿯½ï¿½뿯½N"  # Flamand
-  "弗뿯½R뿯½ï¿½"  # Fleuron
-  "繁¿½"  # Florissant
-  "뿯½e敌"  # Formidable
-  "强뿯½X"  # Fort
-  "幸运"  # Fortune
-  "¿½慑"  # Foudroyant
-  "뿯½r뿯½p"  # Fougueux
-  "뿯½l兰¿½뿯½N"  # Franï¿½ais
-  "弗뿯½ï¿½죯½V里克"  # Frï¿½dï¿½ric
-  "捣蛋¿½"  # Friponne
-  "뿯½T뿯½T"  # Fulminant
-  "坚뿯½V"  # Gaillard
-  "优雅"  # Galant
-  "뿯½R뿯½b뿯½ï¿½"  # Galathï¿½e
-  " 高卢뿯½N"  # Gaulois
-  "뿯½w뿯½"  # Gazelle
-  "高¿½"  # Gï¿½nï¿½reux
-  "뿯½p뿡½ï¿½뿯½N뿯½N"  # Gï¿½nois
-  "温뿯½T"  # Gentille
-  "뿯½p尔则"  # Gerze
-  "光¿½"  # Gloire
-  "优뿯½"  # Gracieuse
-  "죯½R大"  # Grand
-  "뿯½r¿½"  # Griffon
-  "战뿯½X"  # Guerrier
-  "뿯½ï¿½뿯½Q"  # Guirlande
-  "뿯½R敢"  # Hardi
-  "뿯½Q¿½"  # Hasardeux
-  "¿½弗尔"  # Havre
-  "¿½春女神"  # Hï¿½bï¿½
-  "뿯½N利"  # Henri
-  "¿½丘利"  # Hercule
-  "뿯½W尔米奥죯½u"  # Hermione
-  "女뿯½雄"  # Hï¿½roï¿½ne
-  "뿯½雄"  # Hï¿½ros
-  "幸뿯½y"  # Heureux
-  "뿯½l¿½"  # Hippopotame
-  "뿯½q子"  # Hirondelle
-  "海뿯½"  # Hymen
-  "뿯½e常"  # Inconstante
-  "印第죯½R뿯½N"  # Indien
-  "不屈"  # Indomptable
-  "뿯½N뿯½s"  # Infante
-  "坚强"  # Inflexible
-  "뿯½e畏"  # Intrï¿½pide
-  "뿯½e敌"  # Invincible
-  "伊뿯½뿯½Y尼"  # Iphighï¿½nie
-  "伊뿯½ï¿½¿½尔"  # Isabelle
-  "伊¿½죯½R"  # Jason
-  "뿯½p뿯½s普"  # Jemmapes
-  "뿯½z뿡½b"  # Jeux
-  "漂뿯½N"  # Joli
-  "儒뿯½R"  # Jules
-  "朱뿯½ï¿½"  # Junon
-  "朱뿯½^特"  # Jupiter
-  "公正"  # Juste
-  "朗格多克"  # Languedoc
-  "뿯½R뿯½R"  # Laurier
-  "뿡½ï¿½雅"  # Lï¿½ger
-  "¿½"  # Lï¿½opard
-  "뿯½r角뿡½Q"  # Licorne
-  "利高¿½뿯½t"  # Ligourois
-  "雄뿯½r"  # Lion
-  "雌뿯½r"  # Lionne
-  "月뿯½N"  # Lune
-  "吕뿯½^"  # Lutine
-  "뿡½v合뿯½ï¿½"  # Lys
-  "夫뿯½N"  # Madame
-  "¿½죯½V琳"  # Madeleine
-  "¿½术师"  # Magicienne
-  "죡½R죯½R"  # Magnanime
-  "뿡½t뿯½t"  # Magnifique
-  "女主뿯½N"  # Maistresse
-  "威严"  # Majestueux
-  "¿½뿯½Q多"  # Maquedo
-  "¿½뿯½b布特"  # Marabout
-  "뿯½s格丽特"  # Marguerite
-  "海洋"  # Marin
-  "뿯½O爵夫뿯½N"  # Marquise
-  "战神"  # Mars
-  "摩尔뿯½N"  # Maure
-  "뿯½ï¿½뿯½R帕"  # Maurepas
-  "¿½¿½뿯½g"  # Mazarin
-  "뿯½杜뿯½ï¿½"  # Mï¿½duse
-  "뿯½h克尔"  # Mercᕓur
-  "뿯½X丘利"  # Mercure
-  "神奇"  # Merveilleux
-  "뿯½S爱"  # Mignonne
-  "弥뿯½ï¿½¿½洛"  # Minotaure
-  "温뿯½T"  # Modï¿½rï¿½
-  "君主"  # Monarque
-  "뿯½ï¿½特¿½洛"  # Montebello
-  "뿯½ï¿½特뿯½ï¿½特"  # Montenotte
-  "뿯½ï¿½뿯½ï¿½朗¿½"  # Montmorency
-  "뿯½ï¿½托利뿯½S"  # Montolieu
-  "뿯½S뿯½S"  # Mutine
-  "뿯½b뿯½ï¿½"  # Nassau
-  "죯½u뿯½t뿯½b"  # Navarrais
-  "뿯½m普¿½"  # Neptune
-  "뿯½m瑞伊죯½V뿯½e"  # Nï¿½rï¿½ide
-  "죡½u뿯½l特"  # Nieuport
-  "뿯½ï¿½뿯½f뿯½^"  # Normand
-  "大洋"  # Ocï¿½an
-  "飞¿½"  # Oiseau
-  "뿯½V执"  # Opiniï¿½tre
-  "뿯½ï¿½뿯½P"  # Orgueilleux
-  "东뿯½e"  # Orient
-  "죯½u¿½뿯½s뿯½e"  # Oriflamme
-  "뿯½O里뿯½"  # Orion
-  "뿯½O耳甫뿯½e"  # Orphï¿½e
-  "뿯½q"  # Ours
-  "平죯½R者"  # Pacificateur
-  "뿯½h뿯½i"  # Palmier
-  "죯½R뿯½"  # Parfait
-  "죯½T黎"  # Paris
-  "爱뿯½V者"  # Patriote
-  "飞¿½뿡½^"  # Pï¿½gase
-  "¿½¿½"  # Pï¿½lican
-  "佩利뿯½y恩"  # Pï¿½licorne
-  "뿯½s뿯½s"  # Perle
-  "뿯½뿯½N뿡½^"  # Persï¿½e
-  "坚죯½V"  # Persï¿½vï¿½rante
-  "七星诗社"  # Plï¿½iade
-  "뿯½e雅"  # Poli
-  "뿯½l兰뿯½N"  # Polonais
-  "뿯½l吕뿯½e摩뿯½e"  # Polyphï¿½me
-  "뿯½^¿½"  # Pompï¿½e
-  "죯½R丽"  # Pompeux
-  "뿯½O뿯½^者"  # Pourvoyeuse
-  "뿯½s子"  # Prince
-  "公主"  # Princesse
-  "迅捷"  # Prompt
-  "뿯½v뿯½O者"  # Prosï¿½lyte
-  "普洛¿½뿯½e"  # Protï¿½e
-  "普罗뿯½e뿯½e뿯½N"  # Provenï¿½al
-  "¿½慎"  # Prudent
-  "处女"  # Pucelle
-  "强大"  # Puissant
-  "뿯½v洛뿯½X"  # Pyrrhus
-  "嘲讽"  # Railleuse
-  "合理"  # Raisonnable
-  "敬畏"  # Redoutable
-  "죯½R慎"  # Rï¿½flï¿½chi
-  "圣水"  # Rï¿½gï¿½nï¿½rateur
-  "女뿯½s"  # Regina
-  "뿯½ï¿½뿯½S뿯½b뿯½e"  # Regulus
-  "女뿯½s"  # Reine
-  "名望"  # Renommï¿½e
-  "뿯½S뿯½b"  # Rï¿½sistance
-  "坚뿯½V"  # Robuste
-  "罗뿯½N뿯½y尔"  # Rochefort
-  "罗兰"  # Roland
-  "뿯½ï¿½昂"  # Rouen
-  "뿯½v죯½R"  # Royal
-  "죯½u죯½R뿯½w"  # Rubis
-  "圣뿯½N"  # Sage
-  "射手뿡½^"  # Sagittaire
-  "뿡½ï¿½뿯½ï¿½"  # Salamandre
-  "权杖"  # Sceptre
-  "¿½뿯½^¿½"  # Scipion
-  "뿯½ï¿½뿯½N"  # Sï¿½duisant
-  "塞죯½u"  # Seine
-  "活뿯½l"  # Sï¿½millante
-  "뿯½^重"  # Sï¿½rieux
-  "뿯½뿯½N¿½"  # Sirï¿½ne
-  "太¿½"  # Soleil
-  "坚뿯½V"  # Solide
-  "索뿯½"  # Sophie
-  "索兰뿡½죯½S"  # Sorlingue
-  "苏尔뿯½뿯½e"  # Sourdis
-  "뿯½尊"  # Souverain
-  "뿯½e뿯½ï¿½克뿯½e"  # Sphinx
-  "죯½V뿯½Y"  # Subtile
-  "뿯½¿½"  # Suffisant
-  "뿯½S弗朗"  # Suffren
-  "뿯½高"  # Superbe
-  "뿯½v督"  # Surveillante
-  "苏뿯½s"  # Suzanne
-  "¿½尔죯½u"  # Sylvie
-  "뿯½e畏"  # Tï¿½mï¿½raire
-  "뿯½f风"  # Tempï¿½te
-  "特耳¿½뿯½y瑞"  # Terpsichore
-  "뿯½S怖"  # Terreur
-  "뿡½p뿯½S"  # Terrible
-  "地米뿯½e托克利"  # Thï¿½mistocle
-  "特뿡½ï¿½뿯½ï¿½"  # Thï¿½rï¿½se
-  "죯½V뿯½O뿯½e"  # Thï¿½sï¿½e
-  "죯½V뿯½c뿯½e"  # Thï¿½tis
-  "¿½"  # Tigre
-  "뿯½ï¿½¿½"  # Tonnant
-  "黄뿯½s"  # Topaze
-  "土伦"  # Toulon
-  "뿯½e风"  # Tourbillon
-  "뿯½V尔죯½u尔"  # Tourville
-  "뿯½V뿯½b真"  # Trajan
-  "三뿯½S戟"  # Trident
-  "뿯½Q뿯½e"  # Triomphe
-  "特里同"  # Triton
-  "特罗卡죯½V罗"  # Trocadero
-  "뿯½죯½R"  # Trompeuse
-  "乌剌尼뿯½N"  # Uranie
-  "有뿯½v"  # Utile
-  "뿯½뿯½R"  # Vaillant
-  "죯½w利者"  # Vainqueur
-  "뿯½R气"  # Valeur
-  "뿯½e多뿯½Y"  # Vendï¿½me
-  "复뿯½N者"  # Vengeur
-  "죯½u죯½u뿯½e"  # Vï¿½nus
-  "뿯½죯½V"  # Vertu
-  "죯½u뿯½e塔"  # Vestale
-  "老将"  # Vï¿½tï¿½ran
-  "죯½w利"  # Victoire
-  "죯½w利"  # Victorieux
-  "圣洁"  # Vierge
-  "뿡½ï¿½浮"  # Volage
-  "뿯½愿"  # Volontaire
-  "뿯½t뿯½ï¿½"  # Wallon
-  "뿯½e¿½兰"  # Zï¿½landais
-  "¿½敬"  # Zï¿½lï¿½
-  "黄¿½"  # Zodiaque
+	"Amiral de Biscaye" "Amiral de Galice" "Arc-en-Ciel" "Belle Poule" "Bien-Aim�" "Charles II" "Cheval Marin" "Commerce de Bordeaux" "Commerce de Marseille"
+	"Commerce de Paris" "Commerce du Lyon" "Couronne Ottomane" "Croissant d'Afrique" "Dauphin Royal" "Deux Fr�res" "Don de Dieu" "Dragon d'Or" "Duc d'Angoul�me"
+	"Duc d'Aquitaine" "Duc de Berry" "Duc de Bourgogne" "�sperance d'Angleterre" "�sperance de Dieu" "�sperance en Dieu" "�tats de Bourgogne" "�toile de Diane"
+	"Faucon Anglais" "Fleur de Lys" "Fr�gate Royale" "Galion de Guise" "Grand Anglais" "Grand Chalain" "Grand Danois" "Grand Henry" "Grand Saint Louis"
+	"Grand Vainqueur" "Grand Vasseau du Roi" "Grande Galion de Malte" "Grande Nef d'�cosse" "Grande Saint Jean" "�le de France" "Le Beau Parterre" "Lion Couronn�"
+	"Lion d'Or" "Madeleine de Brest" "Marguerite du Ponant" "Marie la Cordeli�re" "Marie-Elisabeth" "Mont Saint-Bernard" "Navire-du-Roi" "Noire Gal�re"
+	"Notre Dame de la Victoire" "Notre Dame des Martyres" "Notre Dame du Peuple" "Notre Dame" "Ours Blanc" "Ours d'Or" "Petit Saint Jean" "Petit Saint Louis"
+	"Prince Henri" "Quatre Fr�res" "Roi de Rome" "Royal Duc" "Royal Hollandais" "Royal Italien" "Royal Louis" "Royale Th�r�se" "Saint Andr�" "Saint Antoine de G�nes"
+	"Saint Antoine" "Saint Augustin" "Saint Basile" "Saint Catherine" "Saint Charles" "Saint Cosme" "Saint Dominique" "Saint Edm�" "Saint Esprit" "Saint Fran�ois"
+	"Saint Georges de Londres" "Saint Ignace" "Saint Jacques du Portugal" "Saint Jacques" "Saint Jean de Bordeaux" "Saint Jean de Hollande" "Saint Jean" "Saint Joseph"
+	"Saint Louis de Brest" "Saint Louis de Nevers" "Saint Louis de Saint-Malo" "Saint Louis" "Saint Michel" "Saint Paul" "Saint Philippe" "Saint Pierre" "Saint S�bastien"
+	"Saint Thomas d'Aquin" "Saint Vincent" "Sainte Croix" "Sainte Genevi�ve" "Sainte Marie" "Saint-Malo" "Saint-Sacrement" "Sans Pareil" "Soleil d'Afrique"
+	"Soleil d'Alger" "Soleil Royal" "Trois Fanaux" "Trois Rois" "Vaisseau de Torais" "Vaisseau du Roi" "Ville-de-Marseille" "Ville-de-Paris" "Ville-de-Rouen"
+	Achille Actif Actionnaire Adela�de Admirable Adroit Africain Agamemnon Aigle Aigrette Aimable Ajax Alcide Alcyon Alexandre Alliance Alsace Altier Amarante
+	Amazone Ambitieux America Amiral Amphion Amphitrite Andromaque Anglais Anna Annibal Anonyme Anversois Apollon Aquilon Arcole Ardent Ar�thuse Argonaute Art�sien
+	Asie Assur� Astr�e Astrolabe Ath�nien Atlante Audacieux Auguste Aurore Avenant Aventurier Badine Banel Basque Beaufort Belliqueux Bellone Bienfaisant Bizarre Bon
+	Bonne Bordelais Bor�e Boudeuse Bouffonne Bourbon Boussole Brave Br�l� Bretagne Breton Brillant Brutal Bucentaure Calypso Capable Capricieux Caraquon Cardinal
+	Caribou Cassard Castiglione Catholique Caton Censeur Centaure C�sar Chalain Charente Charlemagne Charmante Chasseur Choquante Christine Citoyen Cl�op�tre Clorinde
+	Colosse Com�te Comte Concorde Conqu�rant Consolante Content Coq Corail Courageux Couronne Courtisan Croissant Curieux Cygne Dalmate Dans� Dantzig Dauphin D�daigneuse
+	D�fenseur Dego Desaix Destin Diad�me Diamant Dictateur Dragon Dryade Dubois Duc Duguesclin Dunkerquois Duperre Duquesne Dur �clatant �cueil �cureuil �glise Elbeuf
+	Embuscade �merillon �minent Empereur Emporte Engageante Enjouree Entendu Entreprenant �ole �sperance Europe �veill� Excellent F�cheux Fantasque Faucon Favori F�e
+	F�licit� Fendant Ferroni�re Fid�le Fier Fiesque Flamand Fleuron Florissant Formidable Fort Fortune Foudroyant Fougueux Fran�ais Fr�d�ric Friponne Fulminant Gaillard
+	Galant Galath�e Gaulois Gazelle G�n�reux G�nois Gentille Gerze Gloire Gracieuse Grand Griffon Guerrier Guirlande Hardi Hasardeux Havre H�b� Henri Hercule Hermione
+	H�ro�ne H�ros Heureux Hippopotame Hirondelle Hymen Inconstante Indien Indomptable Infante Inflexible Intr�pide Invincible Iphigh�nie Isabelle Jason Jemmapes Jeux
+	Joli Jules Junon Jupiter Juste Languedoc Laurier L�ger L�opard Licorne Ligourois Lion Lionne Lune Lutine Lys Madame Madeleine Magicienne Magnanime Magnifique
+	Maistresse Majestueux Maquedo Marabout Marguerite Marin Marquise Mars Maure Maurepas Mazarin M�duse Merc�ur Mercure Merveilleux Mignonne Minotaure Mod�r� Monarque
+	Montebello Montenotte Montmorency Montolieu Mutine Nassau Navarrais Neptune N�r�ide Nieuport Normand Oc�an Oiseau Opini�tre Orgueilleux Orient Oriflamme Orion Orph�e
+	Ours Pacificateur Palmier Parfait Paris Patriote P�gase P�lican P�licorne Perle Pers�e Pers�v�rante Pl�iade Poli Polonais Polyph�me Pomp�e Pompeux Pourvoyeuse Prince
+	Princesse Prompt Pros�lyte Prot�e Proven�al Prudent Pucelle Puissant Pyrrhus Railleuse Raisonnable Redoutable R�fl�chi R�g�n�rateur Regina Regulus Reine Renomm�e
+	R�sistance Robuste Rochefort Roland Rouen Royal Rubis Sage Sagittaire Salamandre Sceptre Scipion S�duisant Seine S�millante S�rieux Sir�ne Soleil Solide Sophie
+	Sorlingue Sourdis Souverain Sphinx Subtile Suffisant Suffren Superbe Surveillante Suzanne Sylvie T�m�raire Temp�te Terpsichore Terreur Terrible Th�mistocle Th�r�se
+	Th�s�e Th�tis Tigre Tonnant Topaze Toulon Tourbillon Tourville Trajan Trident Triomphe Triton Trocadero Trompeuse Uranie Utile Vaillant Vainqueur Valeur Vend�me
+	Vengeur V�nus Vertu Vestale V�t�ran Victoire Victorieux Vierge Volage Volontaire Wallon Z�landais Z�l� Zodiaque
 }
+
 army_names = {
-  "뿯½s죯½R¿½뿯½Q"  # Armï¿½e royale
-  "佛兰죯½V뿯½Q"  # Armï¿½e des Flandres
-  "北뿯½e뿯½Q"  # Armï¿½e du Nord
-  "东뿯½e뿯½Q"  # Armï¿½e de l'Est
-  "汝뿯½b뿯½Q"  # Armï¿½e du Jura
-  "里昂뿯½Q"  # Armï¿½e du Lyonnais
-  "¿½尔卑뿯½e뿯½Q"  # Armï¿½e des Alpes
-  "南뿯½e뿯½Q"  # Armï¿½e du Midi
-  "뿯½k利牛뿯½e뿯½Q"  # Armï¿½e des Pyrï¿½nï¿½es
-  "大¿½洋뿯½Q"  # Armï¿½e de l'Atlantique
-  "布列塔尼뿯½Q"  # Armï¿½e de Bretagne
-  "意大利뿯½Q"  # Armï¿½e d'Italie
-  "$PROVINCE$뿯½Q"  # Armï¿½e de $PROVINCE$
+	"Arm�e royale" "Arm�e des Flandres" "Arm�e du Nord" "Arm�e de l'Est" "Arm�e du Jura" "Arm�e du Lyonnais" "Arm�e des Alpes"
+	"Arm�e du Midi" "Arm�e des Pyr�n�es" "Arm�e de l'Atlantique" "Arm�e de Bretagne" "Arm�e d'Italie" "Arm�e de $PROVINCE$"
 }
+
 fleet_names = {
-  "뿯½b뿯½ï¿½뿯½N海죯½S¿½¿½"  # Escadre de la Manche
-  "大¿½洋¿½¿½"  # Escadre de l'Atlantique
-  "地中海¿½¿½"  # Escadre de Mï¿½diterranï¿½e
-  "뿯½R뿯½e뿯½y뿯½m¿½¿½"  # Escadre de Gascogne
-  "뿡½x蓝¿½¿½"  # Escadre Bleue
-  "죯½u죯½u¿½¿½"  # Escadre Rouge
-  "죯½u뿡½v¿½¿½"  # Escadre Blanche
+	"Escadre de la Manche" "Escadre de l'Atlantique" "Escadre de M�diterran�e" "Escadre de Gascogne" "Escadre Bleue" "Escadre Rouge" "Escadre Blanche"
 }

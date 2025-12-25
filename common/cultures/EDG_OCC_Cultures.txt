@@ -11,56 +11,56 @@ southern_group = {
 			local_governing_cost = -0.1
         }
         dynasty_names = {
-            "죯½T尔"  # de Bar
-            "¿½尔伯塔"  # d'Albert
-            "뿯½W뿯½e考布뿯½R"  # d'Escoubleau
-            "뿯½ï¿½죯½u尔"  # de Neufville
-            "卡뿯½e特罗"  # di Castello
-            "卡洛뿯½e"  # 
-            "¿½利뿯½e塔"  # 
-            "伊格尼뿯½e"  # 
-            "桑乔" #
-            "뿯½R¿½뿯½N" #
-            "뿯½R里뿯½l第" #
-            "朱¿½佩" #
+            "de Bar"  # de Bar
+            "d'Albert"  # d'Albert
+            "d'Escoubleau"  # d'Escoubleau
+            "de Neufville"  # de Neufville
+            "di Castello"  # di Castello
+            # "卡洛뿯½e"  # 
+            # "¿½利뿯½e塔"  # 
+            # "伊格尼뿯½e"  # 
+            # "桑乔" #
+            # "뿯½R¿½뿯½N" #
+            # "뿯½R里뿯½l第" #
+            # "朱¿½佩" #
         }
         male_names = {
-            "弗朗索뿯½t"  # Fran뿯½ï¿½ois
-            "뿯½ï¿½"  # Jean
-            "¿½뿯½V尔"  # Artur
-            "뿯½v뿯½W尔"  # Pierre
-            "뿯½N利"  # Henri
-            "夏尔"  # Charles
-            "吉耶"  # Gilles
-            "理뿯½g"  # Richard
-            "뿯½y昂뿯½^"  # Corentin
-            "丹尼尔"  # Deniel
-            "뿯½b扎尔"
-            "뿡½ï¿½吉奥"
-            "¿½克"
-            "洛伦佐"
-            "뿯½ï¿½昂죯½u多"
-            "欧죯½w죯½u"
-            "欧뿯½ï¿½尼죯½u"
-            "欧里뿯½N"
-            "欧兰¿½"
-            "뿯½R兹卡"
-            "戈尔卡"
-            "伊戈尔"
-            "洛뿯½R"
+            "François"  # Fran뿯½ï¿½ois
+            "Jean"  # Jean
+            "Artur"  # Artur
+            "Pierre"  # Pierre
+            "Henri"  # Henri
+            "Charles"  # Charles
+            "Gilles"  # Gilles
+            "Richard"  # Richard
+            "Corentin^"  # Corentin
+            "Deniel"  # Deniel
+            # "뿯½b扎尔"
+            # "뿡½ï¿½吉奥"
+            # "¿½克"
+            # "洛伦佐"
+            # "뿯½ï¿½昂죯½u多"
+            # "欧죯½w죯½u"
+            # "欧뿯½ï¿½尼죯½u"
+            # "欧里뿯½N"
+            # "欧兰¿½"
+            # "뿯½R兹卡"
+            # "戈尔卡"
+            # "伊戈尔"
+            # "洛뿯½R"
         }
         female_names = {
-            "뿯½W尔多"  # Aedoc
-            "뿡½ï¿½略"  # Aeluit
-            "뿯½W뿯½b"  # Aelwyd
-            "죯½R뿯½Y"  # Agnes
-            "¿½뿯½b娜"  # Alana
-            "爱丽丝"  # Alis
-            "죯½R娜"  # Anne
-            "克뿯½R뿯½뿯½N"  # Claudine
-            "伊뿯½ï¿½¿½뿯½b"  # 
-            "뿡½ï¿½琳娜"
-            "뿡½ï¿½米利뿯½N"
+            "Aedoc"  # Aedoc
+            "Aeluit"  # Aeluit
+            "Aelwyd"  # Aelwyd
+            "Agnes"  # Agnes
+            "Alana"  # Alana
+            "Alis"  # Alis
+            "Anne"  # Anne
+            "Claudine"  # Claudine
+            # "伊뿯½ï¿½¿½뿯½b"  # 
+            # "뿡½ï¿½琳娜"
+            # "뿡½ï¿½米利뿯½N"
         }
     }
     EDG_languedoc = {

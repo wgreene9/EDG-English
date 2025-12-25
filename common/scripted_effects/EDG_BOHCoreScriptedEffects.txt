@@ -1,6 +1,6 @@
 EDG_define_adv_Martin_Luther= {
 	define_advisor = {
-		name = "马丁·路德"
+		name = "Martin Luther"
 		type = inquisitor
 		cost_multiplier = 0.5
 		culture = saxon
@@ -10,14 +10,14 @@ EDG_define_adv_Martin_Luther= {
 }
 EDG_define_hussite_bishop = {
 	define_advisor = {
-		name = "扬·塞勒克斯"
+		name = "Jan Selek"
 		type = EDG_calixtines_bishop
 		skill = 5
 		cost_multiplier = 0.5
 	}
 	custom_tooltip = EDG_SPACE_TT
 	define_advisor = {
-		name = "雅各布·赫拉瓦切克"
+		name = "Jakub Hlaváček"
 		type = EDG_tabor_bishop
 		skill = 5
 		cost_multiplier = 0.5

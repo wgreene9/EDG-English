@@ -1,7 +1,7 @@
 1426.5.19 = {
   monarch = {
-    name = "亚历杭德拉 I"  # Martí I
-    dynasty = "德 阿耶德维"  # d'Aragó
+    name = "Alejandro I"  # Martí I
+    dynasty = "d'Ayedevi"  # d'Aragó 德 阿耶德维
 	  birth_date = 1407.1.1
     adm = 1
     dip = 0

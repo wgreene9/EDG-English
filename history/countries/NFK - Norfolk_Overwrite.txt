@@ -1,7 +1,7 @@
 1429.11.6 = {
   monarch = {
-    name = "埃塞尔斯坦 VI"
-    dynasty = "戈德温"  # Lancaster
+    name = "Aethelstan VI"
+    dynasty = "Godwin"  # Lancaster
     birth_date = 1421.12.6
     adm = 3
     dip = 2

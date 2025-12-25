@@ -1,7 +1,7 @@
 1442.7.21 = {
   monarch = {
-    name = "利介"  # Lijie
-    dynasty = "名和"  # Minghe
+    name = "Lijie"  # Lijie
+    dynasty = "Minghe"  # Minghe
     birth_date = 1422.3.5
     adm = 3
     dip = 5

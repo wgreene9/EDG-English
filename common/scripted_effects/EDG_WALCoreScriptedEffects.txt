@@ -1,7 +1,7 @@
 EDG_WAL_vlad_dracula = {
 	define_ruler = {
-		name = "弗拉德 III"
-		dynasty = "德古拉"
+		name = "Vlad III"
+		dynasty = "Draculesti"
 		adm = 3
 		dip = 2
 		mil = 5
@@ -9,8 +9,8 @@ EDG_WAL_vlad_dracula = {
 }
 EDG_WAL_van_helsing = { #
 	define_ruler = {
-		name = "范海辛"
-		dynasty = "康斯坦丁"
+		name = "Van Helsing"
+		dynasty = "Constantinus"
 		adm = 6
 		dip = 6
 		mil = 6

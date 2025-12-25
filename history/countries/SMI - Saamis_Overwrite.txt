@@ -1,6 +1,6 @@
 1411.1.1 = {
   monarch = {
-    name = "尼尔斯" # Nils
+    name = "Nils" # Nils
     adm = 1
     dip = 4
     mil = 2

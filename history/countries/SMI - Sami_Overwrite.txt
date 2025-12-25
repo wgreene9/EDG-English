@@ -1,6 +1,6 @@
 1444.1.1 = {
 	monarch = {
-		name = "萨普米聚落首领会议"
+		name = "Settlement Leaders' Council"
 		adm = 1
 		dip = 1
 		mil = 1

@@ -1,1254 +1,1222 @@
 ﻿l_english:
-EDG_AEL_mission_1_4_tt:0 "若我们在§Y伊比利亚的纷争§!中帮助@CAT§Y加泰罗尼亚§!统一§Y伊比利亚§!，那么他们将会成为我们§Y王冠领地§!，即成为我们的一个非朝贡属国。"
+EDG_AEL_mission_1_4_tt:0 "If we assist §YCatalonia§! in unifying §YIberia§! during the §YIberian Struggles§!, they will become our §YCrown Territory§!, that is, a non-tributary subject."
 
-EDG_LIT_mission_3_11_effect_tt:0 "解锁政府能力 §Y笼络吉诺斯§!"
-EDG_LIT_mission_4_11_effect_tt:0 "解锁政府能力 §Y吸引移民垦殖§!"
-EDG_LIT_mission_5_11_effect_tt:0 "解锁政府能力 §Y修缮立陶宛法规§!"
-EDG_LIT_mission_3_14_tt:0 "所有拥有§Y士兵之家§!的省份，将会获得如下修正："
+EDG_LIT_mission_3_11_effect_tt:0 "Unlocks the government ability: §YWoo the Gentry§!"
+EDG_LIT_mission_4_11_effect_tt:0 "Unlocks the government ability: §YAttract Settler Colonists§!"
+EDG_LIT_mission_5_11_effect_tt:0 "Unlocks the government ability: §YAmend the Lithuanian Statutes§!"
+EDG_LIT_mission_3_14_tt:0 "All provinces with a §YSoldiers' Home§! will gain the following modifier:"
 
-EDG_RUS_idea_group_enable_flag_tt:0 "允许我们启用§Y罗斯理念组§!"
+EDG_RUS_idea_group_enable_flag_tt:0 "Allows us to enable the §YRuthenian Idea Group§!"
 
-merc__EDG_LIT_smolensk_guardian_enable_flag_tt:0 "解锁雇佣军团 §Y斯摩棱斯克国民卫队§!"
-merc__EDG_LIT_chernigov_guardian_enable_flag_tt:0 "解锁雇佣军团 §Y切尔尼戈夫射击军§!"
-merc__EDG_LIT_ukraine_guardian_enable_flag_tt:0 "解锁雇佣军团 §Y乌克兰波雅尔军团§!"
-merc__EDG_LIT_smolensk_guardian:0 "斯摩棱斯克国民卫队"
-merc__EDG_LIT_chernigov_guardian:0 "切尔尼戈夫射击军"
-merc__EDG_LIT_ukraine_guardian:0 "乌克兰波雅尔军团"
+merc__EDG_LIT_smolensk_guardian_enable_flag_tt:0 "Unlocks the Mercenary Regiment: §YSmolensk National Guard§!"
+merc__EDG_LIT_chernigov_guardian_enable_flag_tt:0 "Unlocks the Mercenary Regiment: §YChernigov Streltsy§!"
+merc__EDG_LIT_ukraine_guardian_enable_flag_tt:0 "Unlocks the Mercenary Regiment: §YUkrainian Boyar Regiment§!"
+merc__EDG_LIT_smolensk_guardian:0 "Smolensk National Guard"
+merc__EDG_LIT_chernigov_guardian:0 "Chernigov Streltsy"
+merc__EDG_LIT_ukraine_guardian:0 "Ukrainian Boyar Regiment"
 
-EDG_every_owned_province_OTHER_culture_group_get_the_modifier_tt:0 "我们治下所有拥有§G兵营§!或§G军营§!的§Y其它文化组§!的省份，将会获得如下修正："
+EDG_every_owned_province_OTHER_culture_group_get_the_modifier_tt:0 "All provinces we own of §Yother culture groups§! that have a §GBarracks§! or §GRegimental Camp§! will gain the following modifier:"
 
-EDG_LIT_mission_2_13_flag_tt:0 "政府能力§Y联邦团结度§!将会额外提供至多§M10%§!的§Y陆军士气§!"
-EDG_LIT_mission_1_12_flag_tt:0 "政府能力§Y联邦团结度§!将会额外提供至多§M-2§!的§Y全国叛乱度§!"
-EDG_LIT_mission_2_14_flag_tt:0 "政府能力§Y联邦团结度§!将会额外提供至多§M2%§!的§Y年度陆军职业度§!"
-EDG_LIT_mission_2_15_flag_tt:0 "政府能力§Y联邦团结度§!将会额外提供至多§M5%§!的§Y训练度§!"
-EDG_LIT_mission_3_12_flag_tt:0 "政府能力§Y联邦团结度§!将会额外提供至多§M-20%§!的§Y顾问花费§!"
-EDG_LIT_mission_4_12_flag_tt:0 "政府能力§Y联邦团结度§!将会额外提供至多§M20%§!的§Y全国商品产出修正§!"
-EDG_LIT_mission_5_12_flag_tt:0 "政府能力§Y联邦团结度§!将会额外提供至多§M2%§!的§Y月度辉煌点数§!"
+EDG_LIT_mission_2_13_flag_tt:0 "The government ability §YCommonwealth Cohesion§! will additionally grant up to §M10%§! §YArmy Morale§!"
+EDG_LIT_mission_1_12_flag_tt:0 "The government ability §YCommonwealth Cohesion§! will additionally grant up to §M-2§! §YNational Unrest§!"
+EDG_LIT_mission_2_14_flag_tt:0 "The government ability §YCommonwealth Cohesion§! will additionally grant up to §M2%§! §YYearly Army Professionalism§!"
+EDG_LIT_mission_2_15_flag_tt:0 "The government ability §YCommonwealth Cohesion§! will additionally grant up to §M5%§! §YDiscipline§!"
+EDG_LIT_mission_3_12_flag_tt:0 "The government ability §YCommonwealth Cohesion§! will additionally grant up to §M-20%§! §YAdvisor Cost§!"
+EDG_LIT_mission_4_12_flag_tt:0 "The government ability §YCommonwealth Cohesion§! will additionally grant up to §M20%§! §YNational Goods Produced Modifier§!"
+EDG_LIT_mission_5_12_flag_tt:0 "The government ability §YCommonwealth Cohesion§! will additionally grant up to §M2%§! §YMonthly Splendor§!"
 
-EDG_LIT_mission_3_3_a_tt_yes:0 "£yes£若我们的国教是§Y天主教§!，那么我们治下的所有东正教省份获得如下修正："
-EDG_LIT_mission_3_3_a_tt_no:0 "£no£若我们的国教是§Y天主教§!，那么我们治下的所有东正教省份获得如下修正："
-EDG_LIT_mission_3_3_b_tt_yes:0 "£yes£若我们的国教是§Y东正教§!，那么我们治下的所有东正教省份获得如下修正："
-EDG_LIT_mission_3_3_b_tt_no:0 "£no£若我们的国教是§Y东正教§!，那么我们治下的所有东正教省份获得如下修正："
+EDG_LIT_mission_3_3_a_tt_yes:0 "£yes£If our state religion is §YCatholic§!, then all Orthodox provinces we own gain the following modifier:"
+EDG_LIT_mission_3_3_a_tt_no:0 "£no£If our state religion is §YCatholic§!, then all Orthodox provinces we own gain the following modifier:"
+EDG_LIT_mission_3_3_b_tt_yes:0 "£yes£If our state religion is §YOrthodox§!, then all Orthodox provinces we own gain the following modifier:"
+EDG_LIT_mission_3_3_b_tt_no:0 "£no£If our state religion is §YOrthodox§!, then all Orthodox provinces we own gain the following modifier:"
 
-EDG_LIT_mission_3_2_flag_tt:0 "我们将被允许进行§Y任务树§!中与@LIT§Y政府改革§!相关的任务"
-flavor_pol.27.d:1 "在15世纪到16世纪的过渡时期，[Root.GetName]建立了常备军，以保护其东南部边境免受鞑靼人的袭击。这一体系在1563年得到了扩大，[Root.Monarch.GetName]将王家土地上四分之一的收入用于常备军的维持，其也因此得名「肆一军」。现在，为了守护我们的人民，为了保护我们的利益，为了维持我们的繁荣和增长，我们必须与时俱进，接受任何有用的、特别是军事领域和战争方式相关的科技进步。我们在这个问题上所做出的选择必将回响于历史的殿堂。"
+EDG_LIT_mission_3_2_flag_tt:0 "We will be allowed to undertake missions in the §YMission Tree§! related to @LIT §YGovernment Reforms§!"
+flavor_pol.27.d:1 "During the transition from the 15th to the 16th century, [Root.GetName] established a standing army to protect its southeastern borders from Tatar raids. This system was expanded in 1563, when [Root.Monarch.GetName] allocated one-quarter of the income from crown lands for the maintenance of this standing force, which thus earned the name 'Quarter Army'. Now, to guard our people, to protect our interests, and to maintain our prosperity and growth, we must keep pace with the times and adopt any useful technological advancements, particularly in the military sphere and the art of war. The choices we make on this matter will surely echo in the halls of history."
 
-EDG_flavor_LIT_34_a_flag_tt:0 "我们将走上一条属于@LIT§Y立陶宛§!的专属道路，解锁专属的§Y宗教容忍§!机制。\n\n§Y作者推荐路线§!"
+EDG_flavor_LIT_34_a_flag_tt:0 "We will embark on a unique path for @LIT §YLithuania§!, unlocking a unique §YReligious Tolerance§! mechanic.\n\n§YAuthor Recommended Path§!"
 
-EDG_flavor_LIT_35_flag_trigger_tt:0 "我们已经在事件§Y宗教的见解§!中做出了我们的选择"
+EDG_flavor_LIT_35_flag_trigger_tt:0 "We have made our choice in the event §YReligious Insight§!"
 
-EDG_LIT_mission_5_2_trigger_a_tt:0 "任务达成的条件取决于我们在事件§Y宗教的见解§!中做出的选择"
+EDG_LIT_mission_5_2_trigger_a_tt:0 "Mission completion depends on the choice we made in the event §YReligious Insight§!"
 
-EDG_LIT_mission_5_2_a_tt_yes:0 "£yes£若我们选择了§Y容忍§!路线，那么"
-EDG_LIT_mission_5_2_a_tt_no:0 "£no£若我们选择了§Y容忍§!路线，那么"
-EDG_LIT_mission_5_2_b_tt_yes:0 "£yes£若我们选择了§Y狂热§!路线，那么"
-EDG_LIT_mission_5_2_b_tt_no:0 "£no£若我们选择了§Y狂热§!路线，那么"
-EDG_flavor_LIT_35_a_flag_t:0 "这将让我们走向§Y容忍§!路线\n\n§Y作者推荐路线§!"
-EDG_flavor_LIT_35_b_flag_t:0 "这将让我们走向§Y狂热§!路线"
+EDG_LIT_mission_5_2_a_tt_yes:0 "£yes£If we chose the §YTolerance§! path, then"
+EDG_LIT_mission_5_2_a_tt_no:0 "£no£If we chose the §YTolerance§! path, then"
+EDG_LIT_mission_5_2_b_tt_yes:0 "£yes£If we chose the §YZealotry§! path, then"
+EDG_LIT_mission_5_2_b_tt_no:0 "£no£If we chose the §YZealotry§! path, then"
+EDG_flavor_LIT_35_a_flag_t:0 "This will set us on the §YTolerance§! path\n\n§YAuthor Recommended Path§!"
+EDG_flavor_LIT_35_b_flag_t:0 "This will set us on the §YZealotry§! path"
 
+EDG_LIT_mission_5_3_a_tt_yes:0 "£yes£If our state religion is §YCatholic§!, then"
+EDG_LIT_mission_5_3_a_tt_no:0 "£no£If our state religion is §YCatholic§!, then"
+EDG_LIT_mission_5_3_b_tt_yes:0 "£yes£If our state religion is §YOrthodox§!, then"
+EDG_LIT_mission_5_3_b_tt_no:0 "£no£If our state religion is §YOrthodox§!, then"
 
-EDG_LIT_mission_5_3_a_tt_yes:0 "£yes£若我们的国教是§Y天主教§!，那么"
-EDG_LIT_mission_5_3_a_tt_no:0 "£no£若我们的国教是§Y天主教§!，那么"
-EDG_LIT_mission_5_3_b_tt_yes:0 "£yes£若我们的国教是§Y东正教§!，那么"
-EDG_LIT_mission_5_3_b_tt_no:0 "£no£若我们的国教是§Y东正教§!，那么"
+EDG_LIT_mission_5_9_effct_tt:0 "We will unlock a unique §Ydecision§! allowing us to choose to form @PLC §YThe Polish-Lithuanian Commonwealth§!.\nThis decision conflicts with §YForm the Lithuanian-Ruthenian Commonwealth§!.\nWe will be able to update our §Ynational ideas§! but will not receive a new §Ymission tree§!."
 
-EDG_LIT_mission_5_9_effct_tt:0 "我们将解锁一个专属的§Y决议§!，我们可以选择通过该决议成立@PLC§Y立陶宛波兰联邦§!。\n该决议与§Y成立立陶宛罗斯联邦§!相冲突。\n我们将可以更新我们的§Y理念§!，但不会获得新的§Y任务树§!。"
+EDG_LIT_mission_3_6_flag_tt:0 "We will unlock a unique §Ydecision§! allowing us to choose to change our country name to §YThe Lithuanian-Ruthenian Commonwealth§!, deepening our ties with the §YRuthenian§! people.\nThis decision conflicts with §YForm the Polish-Lithuanian Commonwealth§!.\nWe will be able to update our §Ynational ideas§! but will not receive a new §Ymission tree§!."
 
-EDG_LIT_mission_3_6_flag_tt:0 "我们将解锁一个专属的§Y决议§!，我们可以选择通过该决议，将国名改变为§Y立陶宛罗斯联邦§!，这将加深我们与§Y罗斯§!民族的联系。\n该决议与§Y成立立陶宛波兰联邦§!相冲突。\n我们将可以更新我们的§Y理念§!，但不会获得新的§Y任务树§!。"
+EDG_LIT_mission_3_12_interaction_falg_tt:0 "Doubles the §GInstitutions§! provided by the government ability §YAmend the Lithuanian Statutes§!\nDoubles the §GDevelopment§! provided by the government ability §YAttract Settler Colonists§!"
+EDG_LIT_mission_4_12_interaction_falg_tt:0 "Increases the reduction to §GUnrest Progress§! from the government ability §YAmend the Lithuanian Statutes§! to 30%\nStrengthens the §GProvince Migration Modifier§! provided by the government ability §YAttract Settler Colonists§!"
 
-EDG_LIT_mission_3_12_interaction_falg_tt:0 "政府能力§Y修缮立陶宛法规§!提供的§G思潮§!翻倍\n政府能力§Y吸引移民垦殖§!提供的§G发展度§!翻倍"
-EDG_LIT_mission_4_12_interaction_falg_tt:0 "政府能力§Y修缮立陶宛法规§!减少的§G叛乱进度§!提升至30%\n政府能力§Y吸引移民垦殖§!提供的§G省份移民修正§!加强"
+EDG_LIT_mission_5_12_a_tt:0 "All §YCatholic§! provinces we own will gain the following modifier:"
+EDG_LIT_mission_5_12_b_tt:0 "All §YOrthodox§! provinces we own will gain the following modifier:"
+EDG_LIT_mission_5_12_c_tt:0 "All §YProtestant§! provinces we own will gain the following modifier:"
+EDG_LIT_mission_5_12_d_tt:0 "All §YReformed§! provinces we own will gain the following modifier:"
 
-EDG_LIT_mission_5_12_a_tt:0 "我们治下的所有§Y天主教§!省份将获得如下修正："
-EDG_LIT_mission_5_12_b_tt:0 "我们治下的所有§Y东正教§!省份将获得如下修正："
-EDG_LIT_mission_5_12_c_tt:0 "我们治下的所有§Y新教§!省份将获得如下修正："
-EDG_LIT_mission_5_12_d_tt:0 "我们治下的所有§Y改革宗§!省份将获得如下修正："
+EDG_LIT_mission_Attracting_immigrants_flag_tt:0 "We will periodically trigger the event §YForeign Settlers' Request§!, which will slowly convert non-§Yprimary culture group§! provinces we own to the culture of the §Gmigrants' homeland§!.\nThis event can only attract migrants from countries of the §YGermanic§!, §YWestern Slavic§!, §YFrench§!, §YLatin§!, §YIberian§!, §YBritish§!, or §YCeltic§! culture groups."
+EDG_LIT_mission_Attracting_immigrants_flag_2_tt:0 "We will unlock the diplomatic action §YRequest to Accept Migrants§!, which allows us to accept a group of migrants from a §Gtarget country§!.\nThis diplomatic action can only attract migrants from countries of the §YGermanic§!, §YWestern Slavic§!, §YFrench§!, §YLatin§!, §YIberian§!, §YBritish§!, or §YCeltic§! culture groups."
+EDG_flavor_LIT_101_unable_flag_tt:0 "We will §Rpermanently§! disable this event, including both §Gnatural triggering§! and triggering via the §Gdiplomatic action§!."
 
-EDG_LIT_mission_Attracting_immigrants_flag_tt:0 "我们将不定期地触发事件§Y请求垦殖的外来移民§!，该事件将会缓慢地将我们的治下的非§Y本文化组§!的省份转变为§G移民者的母国§!的文化。\n该事件仅能从§Y日耳曼§!、§Y西斯拉夫§!、§Y法兰西§!、§Y拉丁§!、§Y伊比利亚§!、§Y不列颠§!、§Y凯尔特§!文化组的国家获取移民。"
-EDG_LIT_mission_Attracting_immigrants_flag_2_tt:0 "我们将解锁外交行动§Y请求接纳移民§!，该行动将允许我们接纳一批来自§G目标国§!的移民。\n该外交行动仅能从§Y日耳曼§!、§Y西斯拉夫§!、§Y法兰西§!、§Y拉丁§!、§Y伊比利亚§!、§Y不列颠§!、§Y凯尔特§!文化组的国家获取移民。"
-EDG_flavor_LIT_101_unable_flag_tt:0 "我们将§R永久§!禁止这一事件，包括§G自然触发§!和§G外交行动§!的触发方式。"
+EDG_flavor_LIT_103_tt:0 "We will §Mupdate§! the §YEthnic Community§! province modifier nationwide. This modifier can stack upon subsequent province culture changes."
+EDG_flavor_LIT_103_french_tt:0 "All provinces in our realm with §YFrench§! culture will gain the following modifier:"
+EDG_flavor_LIT_103_gaelic_tt:0 "All provinces in our realm with §YGaelic (Celtic)§! culture will gain the following modifier:"
+EDG_flavor_LIT_103_british_tt:0 "All provinces in our realm with §YBritish§! culture will gain the following modifier:"
+EDG_flavor_LIT_103_iberian_tt:0 "All provinces in our realm with §YIberian§! culture will gain the following modifier:"
+EDG_flavor_LIT_103_latin_tt:0 "All provinces in our realm with §YLatin§! culture will gain the following modifier:"
+EDG_flavor_LIT_103_west_slavic_tt:0 "All provinces in our realm with §YWestern Slavic§! culture will gain the following modifier:"
+EDG_flavor_LIT_103_east_slavic_tt:0 "All provinces in our realm with §YEastern Slavic§! culture will gain the following modifier:"
 
-EDG_flavor_LIT_103_tt:0 "我们将§M更新§!全国范围内的§Y民族社区§!省份修正。在省份文化改变后，该修正可以叠加。"
-EDG_flavor_LIT_103_french_tt:0 "我们治下所有§Y法兰西§!文化的省份，将会获得如下修正："
-EDG_flavor_LIT_103_gaelic_tt:0 "我们治下所有§Y凯尔特§!文化的省份，将会获得如下修正："
-EDG_flavor_LIT_103_british_tt:0 "我们治下所有§Y不列颠§!文化的省份，将会获得如下修正："
-EDG_flavor_LIT_103_iberian_tt:0 "我们治下所有§Y伊比利亚§!文化的省份，将会获得如下修正："
-EDG_flavor_LIT_103_latin_tt:0 "我们治下所有§Y拉丁§!文化的省份，将会获得如下修正："
-EDG_flavor_LIT_103_west_slavic_tt:0 "我们治下所有§Y西斯拉夫§!文化的省份，将会获得如下修正："
-EDG_flavor_LIT_103_east_slavic_tt:0 "我们治下所有§Y东斯拉夫§!文化的省份，将会获得如下修正："
+EDG_flavor_LIT_2_a_tt:0 "Provinces in our realm located in the §YPripyat§!, §YMinsk§!, or §YWhite Ruthenia§! areas, or with §YByelorussian§! culture, will gain the following modifier:"
+EDG_flavor_LIT_4_a_tt:0 "Provinces in our realm with §YNovgorodian§! culture and a development higher than §G10§! will gain the following modifier:"
 
-EDG_flavor_LIT_2_a_tt:0 "我们治下的位于§Y普里皮亚季§!、§Y明斯克§!或§Y白鲁塞尼亚§!区域，或者文化为§Y白俄罗斯§!文化的省份，将会获得如下修正："
-EDG_flavor_LIT_4_a_tt:0 "我们治下的发展度高于§G10§!的§Y诺夫哥罗德§!文化的省份，将会获得如下修正："
+EDG_flavor_LIT_12_a_flag_tt:0 "Our §YRuler§! and §YHeir§! will frequently be exposed to the ideas of other §YChristian§! heresies; they may convert and allow us to change our state religion.\nThis mechanic can be applied to §Mall§! future rulers and heirs. We can trigger corresponding events during the reign of §Yevery§! monarch.\nIf we choose §YChange State Religion§!, our §YReligious Tolerance§! may be further enhanced."
 
-EDG_flavor_LIT_12_a_flag_tt:0 "我们的§Y统治者§!和§Y继承人§!将可以频繁地接触其他§Y基督教§!异端的思想，他们很可能会将改信，并允许我们将国教进行转变。\n该机制可以用于往后的§M所有§!统治者和继承人身上，我们将可以在§Y每一任§!君主在位期间都触发相应的事件。\n若我们选择了§Y改变国教§!，那么我们的§Y宗教容忍§!将有机会进一步提升。"
+EDG_flavor_LIT_13_a_tt:0 "[Root.Monarch.GetTitle] [Root.Monarch.GetName] will absorb ideas from other denominations and may choose to convert to another religion."
+EDG_flavor_LIT_13_b_tt:0 "[Root.Monarch.GetTitle] [Root.Monarch.GetName] will not absorb ideas from other denominations."
 
-EDG_flavor_LIT_13_a_tt:0 "[Root.Monarch.GetTitle][Root.Monarch.GetName]将会吸收其他教派的思想，他可能会选择改信为其他宗教。"
-EDG_flavor_LIT_13_b_tt:0 "[Root.Monarch.GetTitle][Root.Monarch.GetName]将不会吸收其他教派的思想。"
+EDG_H07_mission_5_3_tt:0 "Each qualifying ally will gain §Y100§! additional opinion towards us."
 
+EDG_Favoritism_estate_loyalty_modifier:0 "Favoritism"
+EDG_Discontent_estate_loyalty_modifier:0 "Discontent"
 
-EDG_H07_mission_5_3_tt:0 "我们每个符合条件的盟友将会对我们增加§Y100§!点好感度。"
+EDG_SIC_modifier_update_effect_tt:0 "Whenever we complete a mission to reclaim Italy, we will upgrade the §YReconquest of Italy§! modifier. After completing the mission, based on the tier of our §YReconquest of Italy§! modifier, we will gain the following effects:"
 
-EDG_Favoritism_estate_loyalty_modifier:0 "偏袒"
-EDG_Discontent_estate_loyalty_modifier:0 "不满"
+EDG_flavor_SIC.0.title:0 "Romans Return to Rome"
+EDG_flavor_SIC.0.desc:0 "Since the Roman Empire came to be known in the West as the Byzantine Empire, our identity as Roman successors, the nobles of the purple, has often been overlooked. But now, we have finally recaptured the great Eternal City. As our armies entered Rome, this glorious city regained its true colors of old. Now, Rome is at last in the hands of true Romans, and we shall undoubtedly restore the glory of the Roman Empire."
+EDG_flavor_SIC.0.aa:0 "The Reconquista begins."
 
-EDG_SIC_modifier_update_effect_tt:0 "每当我们完成一个光复意大利的任务，我们将会升级§Y光复意大利§!修正。在我们完成该任务后，基于我们的§Y光复意大利§!修正等级，我们将获得如下效果："
+EDG_KAZ_mission_son_war_modifier_effect_tt:0 "We will upgrade the §YNew Jochid Western Campaign§! modifier. After completing the mission, based on the tier of our §YNew Jochid Western Campaign§! modifier, we will gain the following effects:"
+EDG_KAZ_mission_loot_amount_modifier_effect_tt:0 "We will upgrade the §YRuthless Raiders§! modifier. After completing the mission, based on the tier of our §YRuthless Raiders§! modifier, we will gain the following effects:"
 
-EDG_flavor_SIC.0.title:0 "罗马人重返罗马"
-EDG_flavor_SIC.0.desc:0 "自从罗马帝国被西方人称为拜占庭帝国后，我们这些紫袍贵族的罗马继承者身份总是被忽视。但如今，我们终于夺回了伟大的永恒之城，在我们的军队踏入罗马后，这座辉煌的城市便恢复了她旧日的真正色彩。如今，罗马终于被真正的罗马人所掌握，而我们必然将恢复罗马帝国的荣耀。"
-EDG_flavor_SIC.0.aa:0 "光复运动开始了。"
+EDG_KAZ_mission_5_1_a_tt:0 "If we complete the mission by meeting §Yany of the following conditions§!:\n- The Great Horde does not exist.\n- The Great Horde is our subject.\n- Our army size is larger than the Great Horde's.\n- We are at war with the Great Horde.\nThen:"
+EDG_KAZ_mission_5_1_b_tt:0 "Otherwise, we will gain the following effects:"
 
+EDG_mission_KAZ_1_1_tribal_ability_flag_tt:0 "The §YRecruit Tribal Emir§! interaction of the §YFeudalized Ulus§! government mechanic will additionally grant §Y-2§! §YWar Exhaustion§!"
+EDG_mission_KAZ_1_2_tribal_ability_flag_tt:0 "The §YRecruit Tribal Emir§! interaction of the §YFeudalized Ulus§! government mechanic will additionally grant §Y10§! §YArist Tradition§!"
 
-EDG_KAZ_mission_son_war_modifier_effect_tt:0 "我们将会升级§Y新的长子西征§!修正。在我们完成该任务后，基于我们的§Y新的长子西征§!修正等级，我们将获得如下效果："
-EDG_KAZ_mission_loot_amount_modifier_effect_tt:0 "每我们将会升级§Y冷酷的劫掠者§!修正。在我们完成该任务后，基于我们的§Y冷酷的劫掠者§!修正等级，我们将获得如下效果："
+EDG_mission_KAZ_2_1_tribal_ability_flag_tt:0 "The §YTribal Military Exercises§! interaction of the §YFeudalized Ulus§! government mechanic will additionally grant §Y10§! §YArist Tradition§!"
+EDG_mission_KAZ_2_3_tribal_ability_flag_tt:0 "The §YTribal Military Exercises§! interaction of the §YFeudalized Ulus§! government mechanic will additionally provide a §YCavalry Commander§! advisor"
 
-EDG_KAZ_mission_5_1_a_tt:0 "如果我们通过满足§Y以下任意条件§!完成任务：\n-月季别不存在\n-月季别是我们的属国\n-陆军规模高于月季别\n-与月季别处于战争\n那么："
-EDG_KAZ_mission_5_1_b_tt:0 "否则，我们将获得如下效果："
+EDG_mission_KAZ_3_1_tribal_ability_flag_tt:0 "The §YCall for Jihad§! interaction of the §YFeudalized Ulus§! government mechanic will additionally grant §Y10§! §YArist Tradition§!"
 
 
-EDG_mission_KAZ_1_1_tribal_ability_flag_tt:0 "§Y封建化兀鲁思§!政府机制的§Y征募部族埃米尔§!互动将会额外提供§Y-2§!的§Y厌战度§!"
-EDG_mission_KAZ_1_2_tribal_ability_flag_tt:0 "§Y封建化兀鲁思§!政府机制的§Y征募部族埃米尔§!互动将会额外提供§Y10§!的§Y陆军传统§!"
+EDG_FYM_civil_war_happening_trigger_tt:0 "@FYM is experiencing the disaster §RMalik War§!"
+EDG_FYM_decline_in_egy_trigger_tt:0 "The rule of @FYM Sahada in §YEgypt§! has collapsed."
+EDG_FYM_decline_in_egy_trigger_not_tt:0 "The rule of @FYM Sahada in §YEgypt§! has not yet collapsed."
 
-EDG_mission_KAZ_2_1_tribal_ability_flag_tt:0 "§Y封建化兀鲁思§!政府机制的§Y部族军事演习§!互动将会额外提供§Y10§!的§Y陆军传统§!"
-EDG_mission_KAZ_2_3_tribal_ability_flag_tt:0 "§Y封建化兀鲁思§!政府机制的§Y部族军事演习§!互动将会额外提供§Y骑兵指挥官§!顾问"
+EDG_FYM_disaster_mission_1_2_flag_tt:0 "The disaster event §RConspiracy of the Bahri§! for the §YMalik War§! will no longer occur."
+EDG_FYM_disaster_mission_3_2_flag_tt:0 "The disaster event §RRosetta Dynasty§! for the §YMalik War§! will no longer occur."
+EDG_FYM_disaster_mission_2_2_flag_tt:0 "Unlocks the decision §Y'Move Capital to Cairo'§!"
+EDG_FYM_ruler_2_heir_back_trigger_tt:0 "Prince §YZayd§! has returned."
 
-EDG_mission_KAZ_3_1_tribal_ability_flag_tt:0 "§Y封建化兀鲁思§!政府机制的§Y号召吉哈德§!互动将会额外提供§Y10§!的§Y陆军传统§!"
+EDG_FYM_every_sunni_province_tt:0 "All §YSunni§! provinces in our realm will gain the following effect:"
+EDG_FYM_disaster_mission_4_1_decision_1_enable_tt:0 "We will unlock the decision §Y'Appoint the Caliph'§!\nThis decision is §Yone-time use§!; please use it at a critical moment."
+EDG_FYM_disaster_mission_4_1_decision_2_enable_tt:0 "We will unlock the decision §Y'Reward the Emir'§!\nThis decision is §Yone-time use§!; please use it at a critical moment."
+EDG_FYM_disaster_mission_4_1_decision_3_enable_tt:0 "We will unlock the decision §Y'Win Over the Notables'§!\nThis decision is §Yone-time use§!; please use it at a critical moment."
+EDG_FYM_disaster_mission_4_1_decision__tt:0 "This decision is §Yone-time use§!; please use it at a critical moment."
 
+EDG_FYM_disaster_mission_4_2_flag_tt:0 "The disaster event §RFire of Muha§! for the §YMalik War§! will no longer occur."
+EDG_FYM_disaster_mission_4_4_tt:0 "All provinces in our realm producing §YSlaves§! will gain the following modifier:"
+EDG_FYM_disaster_mission_4_4_flag_tt:0 "The disaster event §RPiety Brings Calamity§! for the §YMalik War§! will no longer occur."
+EDG_FYM_disaster_mission_5_2_flag_tt:0 "The disaster event §RFourteen Sheikhs§! for the §YMalik War§! will no longer occur."
 
-EDG_FYM_civil_war_happening_trigger_tt:0 "@FYM处于灾难§R马利克战争§!之中"
-EDG_FYM_decline_in_egy_trigger_tt:0 "@FYM萨哈达王朝在§Y埃及§!的统治已经崩溃"
-EDG_FYM_decline_in_egy_trigger_not_tt:0 "@FYM萨哈达王朝在§Y埃及§!的统治尚未崩溃"
+EDG_FYM_disaster_mission_1_4_a_tt_yes:0 "£yes£If the loyalty of the §YUlama§! is at least §G40§! and the loyalty of the §YEmirs§! is below §G40§!, then"
+EDG_FYM_disaster_mission_1_4_b_tt_yes:0 "£yes£If the loyalty of the §YEmirs§! is at least §G40§! and the loyalty of the §YUlama§! is below §G40§!, then"
+EDG_FYM_disaster_mission_1_4_c_tt_yes:0 "£yes£If the loyalty of both the §YEmirs§! and the §YUlama§! is at least §G40§!, then"
 
-EDG_FYM_disaster_mission_1_2_flag_tt:0 "§Y马利克战争§!的灾难事件§R巴赫里的阴谋§!将不会再发生。"
-EDG_FYM_disaster_mission_3_2_flag_tt:0 "§Y马利克战争§!的灾难事件§R罗塞塔王朝§!将不会再发生。"
-EDG_FYM_disaster_mission_2_2_flag_tt:0 "解锁决议§Y「迁都开罗」§!"
-EDG_FYM_ruler_2_heir_back_trigger_tt:0 "王子§Y扎伊德§!已经归来"
+EDG_FYM_disaster_mission_1_4_a_tt_no:0 "£no£If the loyalty of the §YUlama§! is at least §G40§! and the loyalty of the §YEmirs§! is below §G40§!, then"
+EDG_FYM_disaster_mission_1_4_b_tt_no:0 "£no£If the loyalty of the §YEmirs§! is at least §G40§! and the loyalty of the §YUlama§! is below §G40§!, then"
+EDG_FYM_disaster_mission_1_4_c_tt_no:0 "£no£If the loyalty of both the §YEmirs§! and the §YUlama§! is at least §G40§!, then"
 
-EDG_FYM_every_sunni_province_tt:0 "我们治下的所有§Y逊尼派§!省份将会获得如下效果："
-EDG_FYM_disaster_mission_4_1_decision_1_enable_tt:0 "我们将解锁决议§Y「册封哈里发」§!\n该决议是§Y一次性§!的，请在关键时刻使用"
-EDG_FYM_disaster_mission_4_1_decision_2_enable_tt:0 "我们将解锁决议§Y「赏赐埃米尔」§!\n该决议是§Y一次性§!的，请在关键时刻使用"
-EDG_FYM_disaster_mission_4_1_decision_3_enable_tt:0 "我们将解锁决议§Y「拉拢诸权贵」§!\n该决议是§Y一次性§!的，请在关键时刻使用"
-EDG_FYM_disaster_mission_4_1_decision__tt:0 "该决议是§Y一次性§!的，请在关键时刻使用"
+EDG_FYM_disaster_mission_2_3_flag_tt:0 "We will clear the §Tprovince modifier§!: §YDuplicitous Officials§! from all provinces in our realm, and the §Trelated events§! will §Yno longer occur§!."
+EDG_FYM_disaster_mission_4_3_flag_tt:0 "We will remove the §Tnational modifier§!: §YExempt Subjects from This Year's Tribute§!, and the §TIsolationism in Syria§! event will §Yno longer occur§!."
 
-EDG_FYM_disaster_mission_4_2_flag_tt:0 "§Y马利克战争§!的灾难事件§R穆哈的烈火§!将不会再发生。"
-EDG_FYM_disaster_mission_4_4_tt:0 "我们治下所有生产§Y奴隶§!的省份将会获得如下修正："
-EDG_FYM_disaster_mission_4_4_flag_tt:0 "§Y马利克战争§!的灾难事件§R致虔带来灾祸§!将不会再发生。"
-EDG_FYM_disaster_mission_5_2_flag_tt:0 "§Y马利克战争§!的灾难事件§R十四位谢赫§!将不会再发生。"
+EDG_FYM_disaster_mission_4_2_tt:0 "Provinces §Y[4282.GetName]§! and §Y[387.GetName]§! will generate the following effect:"
+EDG_FYM_disaster_mission_4_1_tt:0 "Provinces §Y[384.GetName]§! and §Y[385.GetName]§! will generate the following effect:"
+EDG_FYM_disaster_mission_4_3_tt:0 "Each of our §Ysubjects§! will generate the following effect:\n- Decrease independence desire by §M50§!\n- Provide us with §M50§! diplomatic power £dip£\n- Increase our prestige by §M10§!."
 
-EDG_FYM_disaster_mission_1_4_a_tt_yes:0 "£yes£若§Y乌理玛§!的忠诚度达到§G40§!且§Y埃米尔§!忠诚度不足§G40§!，那么"
-EDG_FYM_disaster_mission_1_4_b_tt_yes:0 "£yes£若§Y埃米尔§!的忠诚度达到§G40§!且§Y乌理玛§!忠诚度不足§G40§!，那么"
-EDG_FYM_disaster_mission_1_4_c_tt_yes:0 "£yes£若§Y埃米尔§!和§Y乌理玛§!忠诚度均达到§G40§!，那么"
+EDG_FYM_disaster_mission_3_6_flag_tt:0 "The disaster §YMalik War§! will be ended!"
+EDG_FYM_disaster_mission_3_6_flag_trigger_tooltip:0 "We have ended the §YMalik War§! via mission."
 
-EDG_FYM_disaster_mission_1_4_a_tt_no:0 "£no£若§Y乌理玛§!的忠诚度达到§G40§!且§Y埃米尔§!忠诚度不足§G40§!，那么"
-EDG_FYM_disaster_mission_1_4_b_tt_no:0 "£no£若§Y埃米尔§!的忠诚度达到§G40§!且§Y乌理玛§!忠诚度不足§G40§!，那么"
-EDG_FYM_disaster_mission_1_4_c_tt_no:0 "£no£若§Y埃米尔§!和§Y乌理玛§!忠诚度均达到§G40§!，那么"
 
-EDG_FYM_disaster_mission_2_3_flag_tt:0 "我们将清空治下所有省份的§T省份修正§!:§Y阳奉阴违的官员§!，且§T相关事件§!将§Y不再会发生§!。"
-EDG_FYM_disaster_mission_4_3_flag_tt:0 "我们将移除§T国家修正§!:§Y豁免属国本年贡赋§!，且§T叙利亚的孤立主义§!事件将§Y不再会发生§!。"
+EDG_FYM_mission_3_5_add_years_of_owned_provinces_production_income_tt:0 "For every province in our realm that produces §YSlaves§! and meets at least one of the following three conditions:\n- The province is located in §YUpper Nubia§!\n- The province is located in §YLower Nubia§!\n- The province has §YNubian§! culture\nWe will receive §M5 years§! of that province's annual income. In total, we will receive"
+EDG_FYM_mission_3_5_add_years_of_owned_provinces_production_income_tt_2:0 "Additionally, these provinces will gain the following effect:"
+EDG_FYM_mission_3_5_province_modifier:0 "Significant Black Slave Source"
 
-EDG_FYM_disaster_mission_4_2_tt:0 "省份§Y[4282.GetName]§!和§Y[387.GetName]§!将会产生如下效果："
-EDG_FYM_disaster_mission_4_1_tt:0 "省份§Y[384.GetName]§!和§Y[385.GetName]§!将会产生如下效果："
-EDG_FYM_disaster_mission_4_3_tt:0 "我们的每个§Y属国§!将会产生如下效果：\n-降低§M50§!点独立倾向\n-为我们提供§M50§!点外交点£dip£\n-为我们增加§M10§!点威望。"
+EDG_FYM_greek_fleet_naval_doctrine:0 "Nome Mercenary Fleet"
+EDG_FYM_greek_fleet_naval_doctrine_desc:0 "The Sultanate introduced a group of Greek mercenaries into its territories. These mercenaries from a seafaring civilization were fierce and aggressive, possessing unique insights into naval affairs. Successive rulers of the Sultanate highly valued these Greeks and often selected talented individuals from among these foreigners, who lacked local backgrounds, appointing them as naval commanders."
 
-EDG_FYM_disaster_mission_3_6_flag_tt:0 "灾难§Y马利克战争§!将会被终结！"
-EDG_FYM_disaster_mission_3_6_flag_trigger_tooltip:0 "我们已经通过任务终结§Y马利克战争§!"
+EDG_FYM_mission_1_5_trigger_tooltip:0 "No country with its capital in §Ythe Maghreb§! follows a §YChristian§! faith."
 
+EDG_flavor_FYM_mission_12_a_tt:0 "All §YChristian§! provinces in §YIberia§! owned by us or our non-tributary subjects will have their religion converted to §YCoptic§!."
+EDG_flavor_FYM_mission_12_b_tt:0 "All §YChristian§! provinces in §YIberia§! owned by us or our non-tributary subjects will gain the following province modifier:"
+EDG_mission_FYM_trade_modifier:0 "Imperial Commercial Monopoly"
+EDG_FYM_conquer_upgrate_effect_tt:0 "This modifier is tied to the §YRuler§!; we can upgrade it to a maximum of §M3 tiers§!. The highest-tier modifier will grant us the following effects:"
 
-EDG_FYM_mission_3_5_add_years_of_owned_provinces_production_income_tt:0 "在我们治下的生产§Y奴隶§!的省份，若满足以下三个条件中的其中一个：\n-省份位于§Y上努比亚§!\n-省份位于§Y下努比亚§!\n-省份文化为§Y努比亚§!\n将会为我们提供该省份§M5年§!的年收入，我们将总计"
-EDG_FYM_mission_3_5_add_years_of_owned_provinces_production_income_tt_2:0 "且这些省份将获得如下效果："
-EDG_FYM_mission_3_5_province_modifier:0 "重要的黑奴产地"
+EDG_FYM_mission_1_18_tt:0 "All provinces in §YEgypt§! under our rule that have had their development increased at least §Y2§! times will gain the following modifier:"
 
-EDG_FYM_greek_fleet_naval_doctrine:0 "诺姆佣兵舰队"
-EDG_FYM_greek_fleet_naval_doctrine_desc:0 "萨哈达王朝在国土内引入了一群希腊佣兵，这些来自海洋文明的雇佣兵生猛好斗，且对海军事业有独到的见解。萨哈达王朝的历任统治者都高度重视这群希腊人，并常常从这些缺少本国背景的外国人之中挑选优秀的人才，将其委任为海军元帅。"
+EDG_FYM_mission_3_6_flag_tt:0 "If we are @FYM Sahada, and choose to refresh our £icon_ideas£ §YNational Ideas§!, our national ideas will be comprehensively strengthened."
+EDG_FYM_plus_1_tt:0 "£icon_ideas£ 'Sultan of Egypt and Arabia' additionally gains the following effects:\n§M5%§! §YCore-Creation Cost§!\n§M1§! §YYearly Prestige§!\n"
+EDG_FYM_plus_2_tt:0 "£icon_ideas£ 'Sahadan Feudal System' additionally gains the following effects:\n§M50%§! §YSubject's Force Limit Contribution§!\n§M25%§! §YTributary Income§!\n"
+EDG_FYM_plus_3_tt:0 "£icon_ideas£ 'Control the Mamluks' additionally gains the following effects:\n§M1§! additional §YFree Military Policy§!\n"
+EDG_FYM_plus_4_tt:0 "£icon_ideas£ 'Abolish the Buhayra Act' additionally gains the following effects:\n§M10%§! §YGoverning Capacity§!\n"
+EDG_FYM_plus_5_tt:0 "£icon_ideas£ 'Islamic Academic Center' additionally gains the following effects:\n§M5%§! §YIdea Cost§!\n"
+EDG_FYM_plus_6_tt:0 "£icon_ideas£ 'Turkmen Mercenaries' additionally gains the following effects:\n§M10%§! §YMercenary Maintenance§!\n§M5%§! §YMercenary Discipline§!\n"
+EDG_FYM_plus_7_tt:0 "£icon_ideas£ 'Guardian of the Holy Cities' additionally gains the following effects:\n§M15%§! §YReligious Unity§!"
 
-EDG_FYM_mission_1_5_trigger_tooltip:0 "没有任何定都于§Y马格里布§!的国家信仰§Y基督教§!"
+edg_fym_ven_mission_trade_power:0 "Strengthen Trade Route Control"
 
+EDG_FYM_mission_1_14_slave_flag_tt:0 "All countries with their capital in §YIndia§! will be more willing to accept our diplomatic request for §YBuying Slaves§!."
 
-EDG_flavor_FYM_mission_12_a_tt:0 "我们和我们的非朝贡属国所拥有的所有位于§Y伊比利亚§!的§Y基督教§!省份，其宗教将会转变为§Y科普特教§!。"
-EDG_flavor_FYM_mission_12_b_tt:0 "我们和我们的非朝贡属国所拥有的所有位于§Y伊比利亚§!的§Y基督教§!省份，将会获得如下省份修正："
-EDG_mission_FYM_trade_modifier:0 "帝国商业垄断"
-EDG_FYM_conquer_upgrate_effect_tt:0 "该修正与§Y统治者§!绑定，我们至多可以将该修正升级至§M3级§!。最高等级的修正将为我们带来如下效果："
+EDG_flavor_FYM_1_bb_flag_tt:0 "The §YAppoint Administrative Officials§! ability unlocks the option: '§YAppoint Inspector General§!'"
+EDG_flavor_FYM_1_jj_flag_tt:0 "The §YAppoint Administrative Officials§! ability unlocks the option: '§YAppoint Mint Master§!'"
+EDG_flavor_FYM_1_aa_flag_tt:0 "The §YAppoint Administrative Officials§! ability unlocks the option: '§YAppoint Chief Secretary§!'"
+EDG_flavor_FYM_1_hh_flag_tt:0 "The §YAppoint Administrative Officials§! ability unlocks the option: '§YAppoint Chief Financial Officer§!'"
 
-EDG_FYM_mission_1_18_tt:0 "所有位于我们治下的§Y埃及§!且发展度提升次数达到§Y2§!的省份将会获得如下修正："
+EDG_Grand_Vizier_enable_flag_tt:0 "We will have a chance to acquire the advisor §YGrand Vizier§! in the advisor pool."
 
-EDG_FYM_mission_3_6_flag_tt:0 "若我们是@FYM萨哈达且选择刷新我们的£icon_ideas£§Y国家理念§!，我们的国家理念将会得到全方面的加强。"
- EDG_FYM_plus_1_tt:0 "£icon_ideas£「埃及与阿拉伯的苏丹」额外增加如下效果：\n§M5%§!的§Y核心化花费§!\n§M1§!点§Y年度威望§!\n"
- EDG_FYM_plus_2_tt:0 "£icon_ideas£「萨哈达封建体系」额外增加如下效果：\n§M50%§!的§Y属国提供陆军上限§!\n§M25%§!的§Y属国进贡收入§!\n"
- EDG_FYM_plus_3_tt:0 "£icon_ideas£「控制马穆鲁克」额外增加如下效果：\n§M1§!个的§Y免费军事政策§!\n"
- EDG_FYM_plus_4_tt:0 "£icon_ideas£「废除布海拉法案」额外增加如下效果：\n§M10%§!的§Y行政容量修正§!\n"
- EDG_FYM_plus_5_tt:0 "£icon_ideas£「伊斯兰学术中心」额外增加如下效果：\n§M5%§!的§Y国家理念花费§!\n"
- EDG_FYM_plus_6_tt:0 "£icon_ideas£「土库曼雇佣军」额外增加如下效果：\n§M10%§!的§Y雇佣兵维护费§!\n§M5%§!的§Y雇佣兵训练度§!\n"
- EDG_FYM_plus_7_tt:0 "£icon_ideas£「圣城守护者」额外增加如下效果：\n§M15%§!的§Y国家宗教统一§!"
+EDG_Caliph_decree_cost_effect_with_add_next_institution_embracement_flag_tt:0 "Issuing a §YCaliphal Decree§! will provide our capital with §M10%§! progress towards the next institution's embracement."
 
-edg_fym_ven_mission_trade_power:0 "加强商路控制"
+EDG_FYM_Monarchy_interactions_1_power_free_flag_tt:0 "The government ability §YAppoint Administrative Officials§! will be upgraded as follows:\n- Does not consume £adm£ administrative power.\n- Provides §M2.5§! §YAuthority§!\n- Grants us the following modifier:"
+EDG_FYM_Monarchy_interactions_2_power_free_flag_tt:0 "The government ability §YConduct Religious Diplomacy§! will be upgraded as follows:\n- Does not consume £dip£ diplomatic power.\n- Provides §M2.5§! §YAuthority§!\n- Grants us the following modifier:"
+EDG_FYM_Monarchy_interactions_3_power_free_flag_tt:0 "The government ability §YPromote Slave Officers§! will be upgraded as follows:\n- Does not consume £mil£ military power.\n- Provides §M2.5§! §YAuthority§!\n- Grants us the following modifier:"
 
-EDG_FYM_mission_1_14_slave_flag_tt:0 "所有首都位于§Y印度§!的国家，将更愿意接受我们§Y购买奴隶§!的外交请求。"
+EDG_FYM_Monarchy_interactions_power_free_flag_effect_tt:0 "Because we have completed the related mission, this ability will not cost monarch power and will grant us the following effect:"
+EDG_FYM_mission_2_4_province_modifier_tt:0 "All qualifying provinces will gain the following modifier:"
 
-EDG_flavor_FYM_1_bb_flag_tt:0 "§Y委任行政官员§!能力解锁选项：「§Y委任检察长§!」"
-EDG_flavor_FYM_1_jj_flag_tt:0 "§Y委任行政官员§!能力解锁选项：「§Y委任铸币官§!」"
-EDG_flavor_FYM_1_aa_flag_tt:0 "§Y委任行政官员§!能力解锁选项：「§Y委任秘书长§!」"
-EDG_flavor_FYM_1_hh_flag_tt:0 "§Y委任行政官员§!能力解锁选项：「§Y委任首席财务官§!」"
+EDG_FYM_mission_3_1_modifier_update_effect_tt_yes:0 "£yes£If we have the national modifier §YSahada Conquest§!, we will reset its duration to §M10 years§! and gain §M5§! §YAuthority§!. Otherwise, we will regain the §YSahada Conquest§! national modifier for §M10 years§!, which grants the following effects:"
+EDG_FYM_mission_3_1_modifier_update_effect_tt_no:0 "£no£If we have the national modifier §YSahada Conquest§!, we will reset its duration to §M10 years§! and gain §M5§! §YAuthority§!. Otherwise, we will regain the §YSahada Conquest§! national modifier for §M10 years§!, which grants the following effects:"
 
-EDG_Grand_Vizier_enable_flag_tt:0 "我们将有机会在顾问池内获得顾问§Y大维齐尔§!。"
+EDG_FYM_mission_2_28_trigger_tt:0 "We chose to accept these §YTurkic Mercenaries§! in the event §YTürkmen Mercenaries from Ankara§!."
 
-EDG_Caliph_decree_cost_effect_with_add_next_institution_embracement_flag_tt:0 "颁布§Y哈里发诏书§!时将会为我们的首都提供§M10%§!的思潮增长进度。"
+estate_edg_habishi_enable_flag_tt:0 "We will unlock the new estate: §YWahhabis§!."
 
-EDG_FYM_Monarchy_interactions_1_power_free_flag_tt:0 "政府能力§Y委任行政官员§!将得到如下升级：\n-不会消耗£adm£行政点。\n-将提供§M2.5§!点§Y权柄值§!\n-将为我们带来如下修正："
-EDG_FYM_Monarchy_interactions_2_power_free_flag_tt:0 "政府能力§Y处理宗教外交§!将得到如下升级：\n-不会消耗£dip£外交点。\n-将提供§M2.5§!点§Y权柄值§!\n-将为我们带来如下修正："
-EDG_FYM_Monarchy_interactions_3_power_free_flag_tt:0 "政府能力§Y提拔奴隶军官§!将得到如下升级：\n-不会消耗£mil£军事点。\n-将提供§M2.5§!点§Y权柄值§!\n-将为我们带来如下修正："
+EDG_FYM_mission_3_7_tt_a_yes:0 "£yes£If we complete the mission by §Ybefriending§! @PAP, the Pope, then"
+EDG_FYM_mission_3_7_tt_a_no:0 "£no£If we complete the mission by §Ybefriending§! @PAP, the Pope, then"
 
-EDG_FYM_Monarchy_interactions_power_free_flag_effect_tt:0 "由于我们完成了相关任务，该能力将不会消耗点数，且会为我们带来如下效果："
-EDG_FYM_mission_2_4_province_modifier_tt:0 "所有满足条件的省份将会获得如下修正："
+EDG_FYM_mission_3_7_tt_b_yes:0 "£yes£If we complete the mission by §Rantagonizing§! @PAP, the Pope, then"
+EDG_FYM_mission_3_7_tt_b_no:0 "£no£If we complete the mission by §Rantagonizing§! @PAP, the Pope, then"
 
-EDG_FYM_mission_3_1_modifier_update_effect_tt_yes:0 "£yes£若我们有国家修正§Y萨哈达征服§!，那么我们将会将其持续时间重置为§M10年§!，且获得§M5§!点§Y权柄值§!。否则，我们将重新获得§M10年§!的§Y萨哈达征服§!国家修正，该修正给予以下效果："
-EDG_FYM_mission_3_1_modifier_update_effect_tt_no:0 "£no£若我们有国家修正§Y萨哈达征服§!，那么我们将会将其持续时间重置为§M10年§!，且获得§M5§!点§Y权柄值§!。否则，我们将重新获得§M10年§!的§Y萨哈达征服§!国家修正，该修正给予以下效果："
+EDG_FYM_mission_3_8_TT:0 "Our invasion of the Christian world may provoke a new §YCrusade§!. All Catholic nations will see us as a threat."
 
-EDG_FYM_mission_2_28_trigger_tt:0 "我们在事件§Y来自安卡拉的突厥佣兵§!中选择了接纳这些§Y突厥佣兵§!。"
+EDG_FYM_mission_3_10_modifier_tt:0 "§YChristian§! countries at war with us will gain the following effects:\n- Army Morale: §M-10%§!\n- Fort Defense: §M-10%§!."
 
-estate_edg_habishi_enable_flag_tt:0 "我们将解锁新的阶层§Y瓦哈比§!。"
+EDG_FYM_navy_reform_decision_enable_flag_tt:0 "Unlocks several §Ydecisions§! to advance §YNaval Reforms§!.\n- Unlocks §M'Naval Reform': Curb Seniority System§!\n- Unlocks §M'Naval Reform': Establish Naval Officer Bases§!\n- Unlocks §M'Naval Reform': Regular Naval Drills§!\nThese decisions can be enacted repeatedly but only provide §M50 years§! of benefits."
 
-EDG_FYM_mission_3_7_tt_a_yes:0 "£yes£若我们通过与@PAP教宗§Y交善§!完成任务，那么"
-EDG_FYM_mission_3_7_tt_a_no:0 "£no£若我们通过与@PAP教宗§Y交善§!完成任务，那么"
+EDG_FYM_mission_4_18_tt:0 "§G[358.GetName]§!, §G[362.GetName]§!, and §G[363.GetName]§! will gain the following effect:\n- Constructing a §YTrade§! building in these provinces will grant them §M5§! development each."
+EDG_FYM_mission_3_19_tt:0 "§G[358.GetName]§!, §G[362.GetName]§!, and §G[363.GetName]§! will gain the following effect:"
+EDG_FYM_mission_3_23_tt:0 "All provinces in §YEgypt§! that have a §YWorkshop§! will gain the following modifier:"
 
-EDG_FYM_mission_3_7_tt_b_yes:0 "£yes£若我们通过与@PAP教宗§R交恶§!完成任务，那么"
-EDG_FYM_mission_3_7_tt_b_no:0 "£no£若我们通过与@PAP教宗§R交恶§!完成任务，那么"
+EDG_FYM_Alawite_or_resist_trigger_tt:0 "[Root.GetName]'s state religion is §YAlawite§! or has §Rsuppressed§! the §YAlawites§! in an event."
+EDG_estate_Caledonia_enlist_the_mamluks_provide_army_tradition_flag_tt:0 "The §Y[Root.Get精英军团Name]§! estate privilege §YEnlist the Mamluk Corps§! will additionally provide §G+1§! §YYearly Army Tradition§!"
 
-EDG_FYM_mission_3_8_TT:0 "我们对基督教世界的入侵，将可能会引起一场新的§Y十字军运动§!，所有天主教国家都将视我们为威胁。"
+can_seize_crownland_to_estates_targeted_flag_tt:0 "In the estate interaction §YSeize Crown Land§!, we can seize land from a specified estate."
 
-EDG_FYM_mission_3_10_modifier_tt:0 "与我们交战的§Y基督教§!国家将会获得如下效果：\n-陆军士气: §M-10%§!\n-要塞防御: §M-10%§!。"
+EDG_FYM_mission_slave_province_dip_set_enable_flag_tt:0 "We will unlock the diplomatic action §YDemand Conversion to Slave Province§! for our §Yvassals§! (excluding other subject types such as march, client state, etc.)."
 
-EDG_FYM_navy_reform_decision_enable_flag_tt:0 "解锁若干用于推进§Y海军改革§!的§Y决议§!。\n-解锁§M「海军改革」打压论资排辈§!\n-解锁§M「海军改革」组建海军军官基地§!\n-解锁§M「海军改革」定期海军操练§!\n这些决议允许反复启用，但只提供§M50年§!的增益。"
+EDG_FYM_mission_slave_purchase_subject_always_agree_enable_flag_tt:0 "Our §Ysubjects§! with an independence desire below 50% will always agree to our diplomatic action §YRequest to Purchase Slaves§!."
+AI_is_your_subject_entry:0 "Subjected"
 
-EDG_FYM_mission_4_18_tt:0 "§G[358.GetName]§!，§G[362.GetName]§!和§G[363.GetName]§!将会获得如下效果：\n-在该省份上建造§Y贸易§!建筑，将会给予其§M5§!点发展度。"
-EDG_FYM_mission_3_19_tt:0 "§G[358.GetName]§!，§G[362.GetName]§!和§G[363.GetName]§!将会获得如下效果："
-EDG_FYM_mission_3_23_tt:0 "所有位于§Y埃及的§!拥有§Y工场§!的省份，将会获得如下修正："
+edg_fym_trade_power:0 "Imperial Internal Cycle"
+EDG_FYM_cop_disaster_end_flag_trigger_tooltip:0 "The disaster §RThe Son's Advent§! has ended."
 
-EDG_FYM_Alawite_or_resist_trigger_tt:0 "[Root.GetName]的国教是§Y阿拉维派§!或已经在事件中§R镇压§!§Y阿拉维派§!"
-EDG_estate_Caledonia_enlist_the_mamluks_provide_army_tradition_flag_tt:0 "§Y[Root.Get精英军团Name]§!特权§Y招募马穆鲁克军团§!将会额外提供§G+1§!§Y年度陆军传统§!"
+estate_EDG_FYM_Fatima_caliphate_privilege_2_disaster_end_flag_trigger_tooltip:0 "The disaster §RSon of Ali§! has ended."
+estate_EDG_FYM_Abbasid_caliphate_privilege_2_disaster_end_flag_trigger_tooltip:0 "The disaster §RAbbasid's Return§! has ended."
 
-can_seize_crownland_to_estates_targeted_flag_tt:0 "我们在阶层互动§Y没收土地§!中，将可以没收指定阶层的土地。"
+EDG_FYM_mission_4_24_tt:0 "For every §YShia§! province we own, we will receive the following reward:"
+EDG_FYM_mission_5_24_tt:0 "For every §YSunni§! province we own, we will receive the following reward:"
 
-EDG_FYM_mission_slave_province_dip_set_enable_flag_tt:0 "我们将对我们的§Y附庸国§!（不包括卫戍国、行省等其它属国类型）解锁外交行动§Y要求转变为蓄奴省§!。"
+EDG_FYM_mission_4_28_flag_tt:0 "We will unlock the following §YMercenary Companies§!:\n-§MOdysseus' Sword§!\n-§MAthena's Shield§!\n-§MApollo's Flame§!\n-§MAres' Sword§!\n-§MHephaestus' Hammer§!\n\nAll of these mercenary companies enjoy a §Y50%§! discount."
 
-EDG_FYM_mission_slave_purchase_subject_always_agree_enable_flag_tt:0 "我们的独立倾向低于50%的§Y属国§!将永远对我们的外交行动§Y请求购买奴隶§!表示同意。"
-AI_is_your_subject_entry:0 "臣服"
+EDG_FYM_mission_5_7_trigger_tooltip:0 "All countries with provinces in the §YAnatolia§! and §YPersia§! regions have an §YArmy Size§! smaller than that of [Root.GetName]."
+EDG_FYM_mission_5_8_tt:0 "All provinces in the §YPersia§! region owned by us or our subjects that follow a §Ynon-Islamic§! religion will gain the following modifier:"
 
-edg_fym_trade_power:0 "帝国内循环"
-EDG_FYM_cop_disaster_end_flag_trigger_tooltip:0 "灾难§R圣子再临§!已经结束"
+EDG_flavor_PER_war_3_enable_flag_tt:0 "After annexing countries of the §YPersian culture group§! through military means, we will be able to trigger the event §Y'Annexing Persian Princes'§!"
 
-estate_EDG_FYM_Fatima_caliphate_privilege_2_disaster_end_flag_trigger_tooltip:0 "灾难§R阿里之子§!已经结束"
-estate_EDG_FYM_Abbasid_caliphate_privilege_2_disaster_end_flag_trigger_tooltip:0 "灾难§R阿拔斯归来§!已经结束"
+EDG_FYM_mission_5_10_flag_tt:0 "We will unlock the following decisions:\n-§MIntensify Religious Persecution§!\n-§MForcibly Relocate Non-Believers§!\n-§MIranian Religious Unity§!"
+EDG_FYM_mission_5_12_flag_tt:0 "We will unlock the following decisions:\n-§MWeaken Clan Power§!\n-§MStrengthen Ruler's Sanctity§!\n-§MEmbrace Absolutist Administration§!\n-§MIntegrate Kurdish Emirs§!\n-§MIntegrate Turkmen Sheikhs§!\n-§MIntegrate Turkic Beys§!"
 
-EDG_FYM_mission_4_24_tt:0 "我们所拥有的每个§Y什叶派§!省份，将会为我们带来如下奖励："
-EDG_FYM_mission_5_24_tt:0 "我们所拥有的每个§Y逊尼派§!省份，将会为我们带来如下奖励："
+EDG_mission_FYM_363_captial_decision_enable_tt:0 "We will unlock a decision that will allow us to move our capital to §Y[363.GetName]§!."
 
-EDG_FYM_mission_4_28_flag_tt:0 "我们将解锁以下§Y佣兵团§!：\n-§M奥德修斯之剑§!\n-§M雅典娜之盾§!\n-§M阿波罗之焰§!\n-§M阿瑞斯之剑§!\n-§M赫菲斯托斯之锤§!\n\n以上佣兵团均享有§Y50%§!的折扣。"
+EDG_FYM_Monarchy_interactions_1_used_value:0 "Number of times the government ability §YAppoint Administrative Officials§! has been used"
+EDG_FYM_Monarchy_interactions_2_used_value:0 "Number of times the government ability §YConduct Religious Affairs§! has been used"
+EDG_FYM_Monarchy_interactions_3_used_value:0 "Number of times the government ability §YPromote Slave Officers§! has been used"
 
-EDG_FYM_mission_5_7_trigger_tooltip:0 "所有在§Y安纳托利亚§!和§Y波斯§!地区有省份的国家，其§Y陆军规模§!均小于[Root.GetName]"
-EDG_FYM_mission_5_8_tt:0 "我们和我们的属国所拥有的所有位于§Y波斯§!地区的§Y非伊斯兰教§!省份，将会获得如下修正："
+EDG_FYM_conquer_event_effect_tt:0 "We will trigger the event §Y'Sahada Conquest'§! §Mone day later§!, allowing us to choose a §Mnew ruler modifier§! or §Ystrengthen the existing ruler modifier§!."
 
-EDG_flavor_PER_war_3_enable_flag_tt:0 "在我们通过军事手段吞并§Y波斯文化组§!的国家后，我们将能够触发事件§Y「吞并波斯诸侯」§!"
+EDG_FYM_mission_4_9_tt:0 "All provinces in the §YBalkans§! region owned by us or our non-tributary subjects that follow a §YChristian§! religion will have their province religion converted to §YCoptic§!.\nEach converted province will grant us §M5§! £adm£ administrative power."
+EDG_FYM_mission_4_11_province_modifer_tt:0 "When this province has this modifier, establishing a §YSlave Production Site§! in this province will additionally grant us §M5§! £mil£ military power."
 
-EDG_FYM_mission_5_10_flag_tt:0 "我们将解锁以下决议：\n-§M加强宗教迫害§!\n-§M强制迁徙不信者§!\n-§M伊朗宗教统一§!"
-EDG_FYM_mission_5_12_flag_tt:0 "我们将解锁以下决议：\n-§M削弱氏族权力§!\n-§M加强统治者神圣性§!\n-§M接纳专制主义行政§!\n-§M整合库尔德埃米尔§!\n-§M整合土库曼谢赫§!\n-§M整合突厥贝伊§!"
+unlock_privilege_estate_edg_copt_nile_goods_transport_tt:0 "Unlocks the §YCopts§! estate privilege §YNile River Freight Rights§!"
+unlock_privilege_estate_edg_copt_hydraulic_rights_tt:0 "Unlocks the §YCopts§! estate privilege §YWater Distribution Privileges§!"
 
-EDG_mission_FYM_363_captial_decision_enable_tt:0 "我们将解锁一个决议，该决议将允许我们迁都§Y[363.GetName]§!"
+EDG_FYM_mission_5_30_trigger_flag_tt:0 "The event chain §YChain of the Mamluks§! has concluded."
 
-EDG_FYM_Monarchy_interactions_1_used_value:0 "已使用过政府能力§Y委任行政官员§!的次数"
-EDG_FYM_Monarchy_interactions_2_used_value:0 "已使用过政府能力§Y处理宗教事务§!的次数"
-EDG_FYM_Monarchy_interactions_3_used_value:0 "已使用过政府能力§Y提拔奴隶军官§!的次数"
+EDG_FYM_mission_4_20_tt:0 "For every §YCoptic§! province under the control of us or our subjects, we will receive §Y1§! point each of £adm£, £dip£, and £mil£, and these provinces will gain the following modifier:"
 
-EDG_FYM_conquer_event_effect_tt:0 "我们将在§M一天后§!触发事件§Y「萨哈达的征服」§!，我们将能够选取一个§M新的君主修正§!或§Y加强原有的君主修正§!。"
+EDG_FYM_mission_5_18_tt:0 "Provinces under the control of us or our subjects that §Ymeet the conditions§! and do not have the following modifier will gain it:"
+EDG_FYM_mission_5_21_tt:0 "For every province under the control of us or our subjects that has the province modifier §MExterminating the 'Son'§!, that modifier will be removed. Each province from which the modifier is removed will provide us with §Y1§! point each of £adm£, £dip£, and £mil£.\nEvery §YCoptic§! province under the control of us or our subjects will gain the following modifier:"
 
-EDG_FYM_mission_4_9_tt:0 "我们和我们的非朝贡属国治下位于§Y巴尔干§!地区的§Y基督教§!宗教组省份，其省份宗教将会被转变为§Y科普特教§!。\n每个被转变宗教的省份将会给予我们§M5§!点£adm£行政点。"
-EDG_FYM_mission_4_11_province_modifer_tt:0 "该省份拥有该修正时，我们在该省份§Y设立奴隶产地§!将额外给予我们§M5§!点£mil£军事点"
+EDG_Berber_tribe_privilege_reform_enable_flag_trigger_tt:0 "[Root.GetName] §Yhas unlocked§! this reform."
+EDG_Berber_tribe_privilege_reform_enable_flag_tt:0 "We will unlock the government reform §YBerber Tribal Privileges§!. We will be permitted to enact the following government reforms:"
 
-unlock_privilege_estate_edg_copt_nile_goods_transport_tt:0 "解锁§Y科普特人§!阶层§Y尼罗河货运权§!"
-unlock_privilege_estate_edg_copt_hydraulic_rights_tt:0 "解锁§Y科普特人§!阶层§Y分配水源特权§!"
+edg_ARB_khalifah_upgraded_once_tt:0 "If our ruler has already adopted the decision §Y'Adopt the Caliph Title'§!, during this ruler's reign, this modifier will additionally grant §M10%§! Religious Unity."
 
-EDG_FYM_mission_5_30_trigger_flag_tt:0 "事件组§Y马穆鲁克之链§!已经结束"
+EDG_FYM_mission_3_14_tt_yes:0 "£yes£If the Iranian incident §YRise of Ismail§! has occurred, then all provinces in the §YPersia§! region under the control of us or our subjects will gain the following modifier:"
+EDG_FYM_mission_3_14_tt_no:0 "£no£If the Iranian incident §YRise of Ismail§! has occurred, then all provinces in the §YPersia§! region under the control of us or our subjects will gain the following modifier:"
 
-EDG_FYM_mission_4_20_tt:0 "我们和我们的属国治下的每个§Y科普特教§!省份，将会为我们提供§Y1§!点£adm£、£dip£和£mil£，并且这些省份将会获得如下修正："
+EDG_FYM_religion_truthfulness_value:0 "§YReligious Truthfulness§!"
 
-EDG_FYM_mission_5_18_tt:0 "我们和我们的属国治下的§Y满足条件§!且没有下述修正的省份，将会获得如下修正："
-EDG_FYM_mission_5_21_tt:0 "我们和我们的属国治下的每个拥有省份修正§M诛灭「圣子」§!的省份，该修正将会被移除，每个被移除该修正的省份将会为我们提供§Y1§!点£adm£、£dip£和£mil£。\n我们和我们的属国治下的每个§Y科普特教§!省份将会获得如下修正："
+estate_edg_copt_condemn_privilege_enable_flag_tt:0 "We will unlock the §YCopts§! estate privilege §MQadi Jurisprudence§!"
+estate_edg_copt_conceal_privilege_enable_flag_tt:0 "We will unlock the §YCopts§! estate privilege §MPermissible Concealment Law§!"
+estate_edg_copt_condense_privilege_enable_flag_tt:0 "We will unlock the §YCopts§! estate privilege §MProhibit Verbose Appeals§!"
+estate_edg_copt_concession_privilege_enable_flag_tt:0 "We will unlock the §YCopts§! estate privilege §MExpand Concessions§!"
 
-EDG_Berber_tribe_privilege_reform_enable_flag_trigger_tt:0 "[Root.GetName]§Y解锁§!了该改革。"
-EDG_Berber_tribe_privilege_reform_enable_flag_tt:0 "我们将解锁政府改革§Y柏柏尔部族特权§!，我们将被允许启用下述政府改革："
+EDG_FYM_mission_3_24_a_tt_yes:0 "£yes£If our state religion is §YAlawite§! when completing the mission, then"
+EDG_FYM_mission_3_24_a_tt_no:0 "£no£If our state religion is §YAlawite§! when completing the mission, then"
 
-edg_ARB_khalifah_upgraded_once_tt:0 "若我们的统治者已经采用了决议§Y「采用哈里发头衔」§!，在该统治者的统治期间内，该修正将额外给予§M10%§!的宗教统一。"
+EDG_FYM_mission_3_24_a_tt_tooltip:0 "This mission does §Rnot blindly encourage§! you to convert to §MAlawite§!; choose for yourself whether to convert.\n- After converting to Alawite, you will have access to Alawite §Mexclusive events§! and §Mabilities§!. However, the two Caliphates you already possess will only affect §Rheretic provinces§!, meaning the Caliphates in your hands will be devalued.\n- If you are Sunni or Shia, you can become the Caliph of Sunni or Shia by completing 'One God, One State'. But if you convert to Alawite, you will §Rabsolutely not§! be able to become the Sunni or Shia Caliph.\n- Your subjects will convert to Alawite with you, but your provinces will not. You and your subjects will need to handle §Rreligious issues§! on your own."
 
-EDG_FYM_mission_3_14_tt_yes:0 "£yes£若伊朗大事件§Y伊斯玛仪的崛起§!已经发生，那么我们和我们的属国治下的所有位于§Y波斯§!地区的省份将会获得如下修正："
-EDG_FYM_mission_3_14_tt_no:0 "£no£若伊朗大事件§Y伊斯玛仪的崛起§!已经发生，那么我们和我们的属国治下的所有位于§Y波斯§!地区的省份将会获得如下修正："
+EDG_FYM_80_goal_annex_tt:0 "When we declare war on them using this casus belli, after our war score against the specific country reaches §M80§!, we will §Yfully annex§! them within one month."
 
-EDG_FYM_religion_truthfulness_value:0 "§Y宗教真理性§!"
+EDG_FYM_YOU_CAN_create_slave_trigger_tt:0 "You can use the button §YEstablish Slave Production Site§! in the province interface; this button is located to the left of the province's trade good. If you cannot find this button, please remove §Yall other mods§! from your playset."
 
-estate_edg_copt_condemn_privilege_enable_flag_tt:0 "我们将解锁§Y科普特人§!阶层的特权§M卡迪判例法§!"
-estate_edg_copt_conceal_privilege_enable_flag_tt:0 "我们将解锁§Y科普特人§!阶层的特权§M可行包庇法§!"
-estate_edg_copt_condense_privilege_enable_flag_tt:0 "我们将解锁§Y科普特人§!阶层的特权§M上诉禁止冗文§!"
-estate_edg_copt_concession_privilege_enable_flag_tt:0 "我们将解锁§Y科普特人§!阶层的特权§M扩大特许权§!"
+EDG_FYM_mission_3_15_55:0 "For every province under the control of us or our subjects with §YRajasthani§! culture, we will receive the following effect:"
 
-EDG_FYM_mission_3_24_a_tt_yes:0 "£yes£若我们完成任务时是§Y阿拉维派§!，那么"
-EDG_FYM_mission_3_24_a_tt_no:0 "£no£若我们完成任务时是§Y阿拉维派§!，那么"
+EDG_FYM_mission_3_16_a_tt_yes:0 "£yes£If no country in India has reached a §Ydevelopment of 400§! or is a §YGreat Power§!, then"
+EDG_FYM_mission_3_16_a_tt_no:0 "£no£If no country in India has reached a §Ydevelopment of 400§! or is a §YGreat Power§!, then"
 
-EDG_FYM_mission_3_24_a_tt_tooltip:0 "该任务并非§R盲目鼓励§!你皈依§M阿拉维派§!，请自行选择是否皈依。\n-皈依阿拉维派后，你将拥有阿拉维派的§M专属事件§!和§M能力§!，但你已经拥有的两个哈里发都只能对§R异端省份§!生效，即你手中的哈里发将会贬值。\n-若你是逊尼派或什叶派，你将可以通过完成「一主一国」成为逊尼派或什叶派的哈里发，但若皈依阿拉维派，你将无论如何都§R不可能§!成为逊尼派或什叶派哈里发。\n-你的属国将会随你皈依阿拉维派，但你们的省份不会，你和你的属国需要自行处理§R宗教问题§!。"
+EDG_FYM_vassal_province_provide_merchant_flag_tt:0 "When the development of our §YWali Provinces§! and §YAgha Provinces§! reaches §M500§!, they will provide us with the following modifiers:\n-§MMerchant:§! §G+1§!\n-§MGoverning Capacity:§! §G+100§!"
+EDG_FYM_vassal_province_provide_merchant_modifier:0 "Large Province"
 
-EDG_FYM_80_goal_annex_tt:0 "当我们以此借口向他们宣战后，在我们对特定国家的战争分数达到§M80§!后，我们将在一个月内将其§Y完全吞并§!。"
+# Black Sheep
+mission_TBR_3_1_trigger_tooltip:0 "§YJahān Shāh§! has returned."
+mission_TBR_3_3_tt:0 "We will gain §Yclaims§! on all provinces under the rule of @ARL Safavid."
 
-EDG_FYM_YOU_CAN_create_slave_trigger_tt:0 "你可以在省份界面使用按钮§Y设立奴隶产地§!，该按钮位于省份产物的左侧。若你未找到该按钮，请将你的§Y所有其他MOD§!移除出播放集。"
+EDG_flavor_TBR_0_a_ruler_flag_tt_yes:0 "£yes£Our ruler is §YJahān Shāh§!"
+EDG_flavor_TBR_0_a_ruler_flag_tt_no:0 "£no£Our ruler is §YJahān Shāh§!"
 
-EDG_FYM_mission_3_15_55:0 "我们和我们的属国治下的每个§Y拉贾斯坦§!文化的省份，将会给予我们如下效果:"
+mission_TBR_5_1_a_tt_yes:0 "£yes£If we have §Y3§! §Ylevel 2§! advisors in our court, then"
+mission_TBR_5_1_a_tt_no:0 "£no£If we have §Y3§! §Ylevel 2§! advisors in our court, then"
 
-EDG_FYM_mission_3_16_a_tt_yes:0 "£yes£若印度没有任何国家§Y发展度达到400§!或是§Y列强§!，那么"
-EDG_FYM_mission_3_16_a_tt_no:0 "£no£若印度没有任何国家§Y发展度达到400§!或是§Y列强§!，那么"
+mission_TBR_1_6_a_tt_yes:0 "£yes£If we complete the mission by §Rantagonizing§! @AKK Aq Qoyunlu, or Aq Qoyunlu does not exist, then"
+mission_TBR_1_6_a_tt_no:0 "£no£If we complete the mission by §Rantagonizing§! @AKK Aq Qoyunlu, or Aq Qoyunlu does not exist, then"
 
-EDG_FYM_vassal_province_provide_merchant_flag_tt:0 "我们的§Y持节瓦利行省§!和§Y执剑阿迦行省§!的发展度达到§M500§!时，将会为我们提供如下修正:\n-§M商人团:§!§G+1§!\n-§M行政容量:§!§G+100§!"
-EDG_FYM_vassal_province_provide_merchant_modifier:0 "大型行省"
+mission_TBR_1_6_b_tt_yes:0 "£yes£If we complete the mission by other means, then"
+mission_TBR_1_6_b_tt_no:0 "£no£If we complete the mission by other means, then"
 
-#黑羊
-mission_TBR_3_1_trigger_tooltip:0 "§Y贾汗·沙§!已经归来"
-mission_TBR_3_3_tt:0 "我们将获得@ARL萨法维治下所有省份的§Y宣称§!"
+EDG_Pa_ORM_mission_2_8_claim_tt:0 "We will gain permanent claims on all provinces with §YAzerbaijani§! culture."
 
-EDG_flavor_TBR_0_a_ruler_flag_tt_yes:0 "£yes£我们的统治者是§Y贾汗·沙§!"
-EDG_flavor_TBR_0_a_ruler_flag_tt_no:0 "£no£我们的统治者是§Y贾汗·沙§!"
+# Great Horde
+EDG_MISSION_GOL_1_4_province_modifier_tt:0 "In this mission, each province that is §Ypillaged§! will grant us §M50§! points each of £adm£, £dip£, and £mil£."
+EDG_MISSION_GOL_2_1_tt:0 "Each of our subjects belonging to the §YEastern Slavic§! culture group will provide us with:\n-§G50§! ducats\n-§G2000§! manpower\n-§G5§! prestige\n-Additionally, they will gain the following modifier:"
+EDG_MISSION_GOL_2_2_tt:0 "Each of our §Ysubjects§! will provide us with:\n-§G50§! ducats\n-§G2000§! manpower\n-§G5§! prestige"
 
-mission_TBR_5_1_a_tt_yes:0 "£yes£若我们的宫廷内有§Y3§!个§Y2级§!顾问，那么"
-mission_TBR_5_1_a_tt_no:0 "£no£若我们的宫廷内有§Y3§!个§Y2级§!顾问，那么"
+EDG_mission_every_neighbour_flavor_GOL_2_tt:0 "Each independent §Yneighboring country§! will produce the following effect:"
+EDG_MISSION_GOL_3_3_trigger_tooltip:0 "No §YSteppe Horde§! country has a larger army than ours."
 
-mission_TBR_1_6_a_tt_yes:0 "£yes£若我们与@AKK白羊§R交恶§!或白羊不存在完成任务，那么"
-mission_TBR_1_6_a_tt_no:0 "£no£若我们与@AKK白羊§R交恶§!或白羊不存在完成任务，那么"
+EDG_MISSION_GOL_3_3_a_tt_yes:0 "£yes£If we have never formed @TAA §YTartary§!"
+EDG_MISSION_GOL_3_3_a_tt_no:0 "£no£If we have never formed @TAA §YTartary§!"
+EDG_MISSION_GOL_3_3_a_tt:0 "When we form @TAA §YTartary§! via the 'decision' §YForm Tartary§! or complete the 'mission' §YJochid Ulus§! @GLH, we will transition to a §YMonarchy§! and gain the government reform §YFeudalized Ulus§!"
 
-mission_TBR_1_6_b_tt_yes:0 "£yes£若我们通过其他方法完成任务，那么"
-mission_TBR_1_6_b_tt_no:0 "£no£若我们通过其他方法完成任务，那么"
+EDG_MISSION_GOL_3_3_b_tt_yes:0 "£yes£If we have already formed @TAA §YTartary§!"
+EDG_MISSION_GOL_3_3_b_tt_no:0 "£no£If we have already formed @TAA §YTartary§!"
 
+#Serbia
+EDG_MISSION_GSR_3_3_tt:0 "Each province with §YBulgarian§! culture that is §Yoccupied§! by us but not §Yowned§! by us will gain §R25 devastation§! and provide us with §M5§! §Yprestige§!. Each point of prestige exceeding the cap will be converted into one point each of £adm£, £dip£, and £mil£ §Ymonarch power§!"
 
-EDG_Pa_ORM_mission_2_8_claim_tt:0 "我们将获得所有§Y阿塞拜疆§!文化的省份的永久宣称。"
+EDG_MISSION_GSR_2_2_a_tt_yes:0 "£yes£If we complete the mission by §Rinsulting§! the Pope"
+EDG_MISSION_GSR_2_2_a_tt_no:0 "£no£If we complete the mission by §Rinsulting§! the Pope"
 
-#大帐
-EDG_MISSION_GOL_1_4_province_modifier_tt:0 "在该任务中，每个被§Y屠戮§!的省份将会给予我们§M50§!点£adm£ £dip£ £mil£"
-EDG_MISSION_GOL_2_1_tt:0 "我们的每个§Y东斯拉夫§!文化组的属国，将会为我们提供：\n-§G50§!点金钱\n-§G2000§!点人力\n-§G5§!点威望\n-且他们将获得如下修正："
-EDG_MISSION_GOL_2_2_tt:0 "我们的每个§Y属国§!，将会为我们提供：\n-§G50§!点金钱\n-§G2000§!点人力\n-§G5§!点威望"
+EDG_MISSION_GSR_2_2_b_tt_yes:0 "£yes£If we complete the mission by means other than §Rinsulting§! the Pope"
+EDG_MISSION_GSR_2_2_b_tt_no:0 "£no£If we complete the mission by means other than §Rinsulting§! the Pope"
 
-EDG_mission_every_neighbour_flavor_GOL_2_tt:0 "我们的每个独立的§Y邻国§!，将会产生如下效果："
-EDG_MISSION_GOL_3_3_trigger_tooltip:0 "没有任何§Y草原游牧§!国家的陆军比我们更多。"
+EDG_flavor_GSR_mission_3_flag_trigger_tooltip:0 "The event §YReturn of the Obilić§! has occurred."
 
-EDG_MISSION_GOL_3_3_a_tt_yes:0 "£yes£若我们尚未成立过§Y鞑靼利亚§!@TAA"
-EDG_MISSION_GOL_3_3_a_tt_no:0 "£no£若我们尚未成立过§Y鞑靼利亚§!@TAA"
-EDG_MISSION_GOL_3_3_a_tt:0 "当我们通过「决议」§Y成立鞑靼利亚§!@TAA或完成「任务」§Y术赤兀鲁思§!@GLH时，我们将会获得转变为§Y君主制§!并获得政府改革§Y封建化乌鲁斯§!"
+EDG_MISSION_GSR_1_2_flag_tt:0 "We will unlock several §YTürkmen mercenary companies§! from §YAnatolia§!, §Mregardless of culture and owned provinces§!."
 
-EDG_MISSION_GOL_3_3_b_tt_yes:0 "£yes£若我们已经成立过§Y鞑靼利亚§!@TAA"
-EDG_MISSION_GOL_3_3_b_tt_no:0 "£no£若我们已经成立过§Y鞑靼利亚§!@TAA"
+EDG_MISSION_GSR_formal_1_1_a_yes:0 "£yes£If we are allied with @WUR §YWürttemberg§! or @HAB §YAustria§!, then"
+EDG_MISSION_GSR_formal_1_1_b_yes:0 "£yes£If we have a §Ysubject§! or §Yally§! with its capital located in §MItaly§!, then"
+EDG_MISSION_GSR_formal_1_1_c_yes:0 "£yes£If we have a §Ysubject§! or §Yally§! whose culture group is §MEastern Slavic§!, then"
+EDG_MISSION_GSR_formal_1_1_d_yes:0 "£yes£If we have a §Ysubject§! or §Yally§! whose culture group is §MTatar§!, then"
+EDG_MISSION_GSR_formal_1_1_e_yes:0 "£yes£If we have a §Ysubject§! or §Yally§! whose culture group is §MByzantine§!, then"
+EDG_MISSION_GSR_formal_1_1_f_yes:0 "£yes£If we have a §Ysubject§! or §Yally§! whose primary culture belongs to the §MTurkic§! group, then"
 
-#塞尔维亚
-EDG_MISSION_GSR_3_3_tt:0 "每个被我们§Y控制§!且未被我们§Y拥有§!的，每个文化为§Y保加利亚§!的省份，将会获得§R25点荒废度§!，并为我们提供§M5§!点§Y威望§!。每一点溢出的威望将会转化为一点£adm£ £dip£ £mil£§Y君主点数§!"
+EDG_MISSION_GSR_formal_1_1_a_no:0 "£no£If we are allied with @WUR §YWürttemberg§! or @HAB §YAustria§!, then"
+EDG_MISSION_GSR_formal_1_1_b_no:0 "£no£If we have a §Ysubject§! or §Yally§! with its capital located in §MItaly§!, then"
+EDG_MISSION_GSR_formal_1_1_c_no:0 "£no£If we have a §Ysubject§! or §Yally§! whose culture group is §MEastern Slavic§!, then"
+EDG_MISSION_GSR_formal_1_1_d_no:0 "£no£If we have a §Ysubject§! or §Yally§! whose culture group is §MTatar§!, then"
+EDG_MISSION_GSR_formal_1_1_e_no:0 "£no£If we have a §Ysubject§! or §Yally§! whose culture group is §MByzantine§!, then"
+EDG_MISSION_GSR_formal_1_1_f_no:0 "£no£If we have a §Ysubject§! or §Yally§! whose primary culture belongs to the §MTurkic§! group, then"
 
-EDG_MISSION_GSR_2_2_a_tt_yes:0 "£yes£若我们通过§R侮辱§!教宗完成任务"
-EDG_MISSION_GSR_2_2_a_tt_no:0 "£no£若我们通过§R侮辱§!教宗完成任务"
+EDG_MISSION_GSR_formal_1_3_tt:0 "Each of our §Yallies§! will provide us with §M50§! points of £dip£ diplomatic power.\nEach of our §Ysubjects§! will provide us with §M10§! prestige; each point of prestige exceeding the cap will be converted into three types of monarch power."
+EDG_every_subject_get_the_modifier_tt:0 "Each of our §Ysubjects§! will gain the following modifier:"
 
-EDG_MISSION_GSR_2_2_b_tt_yes:0 "£yes£若我们并非通过§R侮辱§!教宗完成任务"
-EDG_MISSION_GSR_2_2_b_tt_no:0 "£no£若我们并非通过§R侮辱§!教宗完成任务"
+EDG_MISSION_GSR_formal_1_6_a_tt_yes:0 "£yes£If we complete the mission by §Gbefriending§! @HUN Hungary, then"
+EDG_MISSION_GSR_formal_1_6_b_tt_yes:0 "£yes£If we complete the mission by §Yrecovering territory§!, then"
 
-EDG_flavor_GSR_mission_3_flag_trigger_tooltip:0 "事件§Y奥比利奇的归来§!已经发生"
+EDG_MISSION_GSR_formal_1_6_a_tt_no:0 "£no£If we complete the mission by §Gbefriending§! @HUN Hungary, then"
+EDG_MISSION_GSR_formal_1_6_b_tt_no:0 "£no£If we complete the mission by §Yrecovering territory§!, then"
 
-EDG_MISSION_GSR_1_2_flag_tt:0 "我们将§M无视文化和拥有的省份§!解锁数个来自§Y安纳托利亚§!的§Y突厥佣兵团§!"
+EDG_MISSION_GSR_formal_conquer_part_1_update_effect_yes_tt:0 "£yes£If we already have the modifier §YRestorer of the Serbian Empire§!, we will reset its duration to §M10 years§!."
+EDG_MISSION_GSR_formal_conquer_part_1_update_effect_no_tt:0 "£no£If we already have the modifier §YRestorer of the Serbian Empire§!, we will reset its duration to §M10 years§!."
 
+EDG_MISSION_GSR_formal_4_2_tt:0 "We will, in §M5 days§!, receive an opportunity to fully §YHellenize§!..."
 
-EDG_MISSION_GSR_formal_1_1_a_yes:0 "£yes£若我们与@WUR§Y符滕堡§!或@HAB§Y奥地利§!结盟，那么"
-EDG_MISSION_GSR_formal_1_1_b_yes:0 "£yes£若我们有一个§Y属国§!或§Y盟友§!的首都位于§M意大利§!，那么"
-EDG_MISSION_GSR_formal_1_1_c_yes:0 "£yes£若我们有一个§Y属国§!或§Y盟友§!的文化组属于§M东斯拉夫§!，那么"
-EDG_MISSION_GSR_formal_1_1_d_yes:0 "£yes£若我们有一个§Y属国§!或§Y盟友§!的文化组属于§M鞑靼§!，那么"
-EDG_MISSION_GSR_formal_1_1_e_yes:0 "£yes£若我们有一个§Y属国§!或§Y盟友§!的文化组属于§M拜占庭§!，那么"
-EDG_MISSION_GSR_formal_1_1_f_yes:0 "£yes£若我们有一个§Y属国§!或§Y盟友§!的主流文化属于§M突厥§!，那么"
+EDG_MISSION_GSR_formal_2_7_a_tt_yes:0 "£yes£If @HUN Hungary is our §Ysubject§!, then"
+EDG_MISSION_GSR_formal_2_7_a_tt_no:0 "£no£If @HUN Hungary is our §Ysubject§!, then"
+EDG_MISSION_GSR_formal_2_10_tt:0 "Each province we §Yown§! located in §YItaly§! will grant us §M25 points§! of £adm£ administrative power and §M1 point§! of Imperial Administration progress."
+EDG_flavor_GSR_mission_8_opinion_modifier:0 "Preserve the Catholic See"
 
-EDG_MISSION_GSR_formal_1_1_a_no:0 "£no£若我们与@WUR§Y符滕堡§!或@HAB§Y奥地利§!结盟，那么"
-EDG_MISSION_GSR_formal_1_1_b_no:0 "£no£若我们有一个§Y属国§!或§Y盟友§!的首都位于§M意大利§!，那么"
-EDG_MISSION_GSR_formal_1_1_c_no:0 "£no£若我们有一个§Y属国§!或§Y盟友§!的文化组属于§M东斯拉夫§!，那么"
-EDG_MISSION_GSR_formal_1_1_d_no:0 "£no£若我们有一个§Y属国§!或§Y盟友§!的文化组属于§M鞑靼§!，那么"
-EDG_MISSION_GSR_formal_1_1_e_no:0 "£no£若我们有一个§Y属国§!或§Y盟友§!的文化组属于§M拜占庭§!，那么"
-EDG_MISSION_GSR_formal_1_1_f_no:0 "£no£若我们有一个§Y属国§!或§Y盟友§!的主流文化属于§M突厥§!，那么"
+EDG_MISSION_GSR_formal_2_17_flag_tt:0 "Our government ability §YRevise Administrative Code§! will additionally increase the loyalty of the §YNobility§! estate by §M10 points§!."
+EDG_MISSION_GSR_formal_3_17_flag_tt:0 "Our government ability §YRevise Administrative Code§! will additionally increase the loyalty of the §YClergy§! estate by §M10 points§!."
+EDG_MISSION_GSR_formal_4_17_flag_tt:0 "Our government ability §YRevise Administrative Code§! will additionally increase the loyalty of the §YBurghers§! estate by §M10 points§!."
+EDG_MISSION_GSR_formal_2_19_flag_tt:0 "Our government ability §YIntegrate Vassal Authority§! will seize §M10 points§! of military power from all our §Ysubjects§!."
+EDG_MISSION_GSR_formal_3_19_flag_tt:0 "Our government ability §YIntegrate Vassal Authority§! will seize §M10 points§! of administrative power from all our §Ysubjects§!."
+EDG_MISSION_GSR_formal_4_19_flag_tt:0 "Our government ability §YIntegrate Vassal Authority§! will seize §M10 points§! of diplomatic power from all our §Ysubjects§!."
 
-EDG_MISSION_GSR_formal_1_3_tt:0 "我们的每个§Y盟友§!将为我们提供§M50§!点£dip£外交点。\n我们的每个§Y属国§!将为我们提供§M10§!点威望，每点溢出的威望将被转化为三种君主点数。"
-EDG_every_subject_get_the_modifier_tt:0 "我们的每个§Y属国§!将获得如下修正："
+EDG_MISSION_GSR_formal_3_9_flag_tt:0 "Our government ability §YIntegrate Vassal Authority§! will reduce the independence desire of all our §Ysubjects§! by §M10 points§!."
 
-EDG_MISSION_GSR_formal_1_6_a_tt_yes:0 "£yes£若我们通过与@HUN匈牙利§G交善§!完成任务，那么"
-EDG_MISSION_GSR_formal_1_6_b_tt_yes:0 "£yes£若我们通过与§Y收复领土§!完成任务，那么"
+EDG_MISSION_GSR_formal_3_16_tt:0 "The three minor abilities under our government ability §YImperial Administration§! will be unlocked."
 
-EDG_MISSION_GSR_formal_1_6_a_tt_no:0 "£no£若我们通过与@HUN匈牙利§G交善§!完成任务，那么"
-EDG_MISSION_GSR_formal_1_6_b_tt_no:0 "£no£若我们通过与§Y收复领土§!完成任务，那么"
+EDG_MISSION_GSR_formal_1_17_flag_tt:0 "Our government ability §YRecruit Fief Cavalry§! will additionally grant us §M10 points§! of seized §YArist Tradition§!."
+EDG_MISSION_GSR_formal_5_17_flag_tt:0 "Our government ability §YRecruit Fief Cavalry§! will additionally grant us §M10 points§! of seized §YNavy Tradition§!."
 
-EDG_MISSION_GSR_formal_conquer_part_1_update_effect_yes_tt:0 "£yes£若我们已有修正§Y塞尔维亚帝国的光复者§!，那么我们将重置该修正的时间为§M10年§!。"
-EDG_MISSION_GSR_formal_conquer_part_1_update_effect_no_tt:0 "£no£若我们已有修正§Y塞尔维亚帝国的光复者§!，那么我们将重置该修正的时间为§M10年§!。"
+EDG_MISSION_GSR_formal_4_17_tt:0 "One of our random provinces §Ywith a level 3 Trade Center§! will gain the following modifier:"
 
-EDG_MISSION_GSR_formal_4_2_tt:0 "我们将在§M5天后§!获得一个彻底§Y希腊化§!的机会……"
+EDG_MISSION_GSR_formal_5_16_tt:0 "All §Ycoastal§! provinces under our rule will gain the following modifier:"
 
-EDG_MISSION_GSR_formal_2_7_a_tt_yes:0 "£yes£若@HUN匈牙利是我们的§Y属国§!，那么"
-EDG_MISSION_GSR_formal_2_7_a_tt_no:0 "£no£若@HUN匈牙利是我们的§Y属国§!，那么"
-EDG_MISSION_GSR_formal_2_10_tt:0 "我们§Y拥有§!的每个位于§Y意大利§!的省份，将会给予我们§M25点§!行政点£adm£和§M1点§!帝国行政化进度。"
-EDG_flavor_GSR_mission_8_opinion_modifier:0 "保留天主教廷"
+EDG_MISSION_GSR_formal_1_4_tt:0 "We and all our §Yallies§! will mutually increase §Ytrust§! by §M25 points§!"
 
-EDG_MISSION_GSR_formal_2_17_flag_tt:0 "我们的政府能力§Y修订行政法典§!将会额外增加§Y贵族§!阶层的§M10点§!忠诚度。"
-EDG_MISSION_GSR_formal_3_17_flag_tt:0 "我们的政府能力§Y修订行政法典§!将会额外增加§Y教士§!阶层的§M10点§!忠诚度。"
-EDG_MISSION_GSR_formal_4_17_flag_tt:0 "我们的政府能力§Y修订行政法典§!将会额外增加§Y商人§!阶层的§M10点§!忠诚度。"
-EDG_MISSION_GSR_formal_2_19_flag_tt:0 "我们的政府能力§Y整合藩属权力§!将会向我们的所有§Y属国§!夺取§M10点§!军事点数。"
-EDG_MISSION_GSR_formal_3_19_flag_tt:0 "我们的政府能力§Y整合藩属权力§!将会向我们的所有§Y属国§!夺取§M10点§!行政点数。"
-EDG_MISSION_GSR_formal_4_19_flag_tt:0 "我们的政府能力§Y整合藩属权力§!将会向我们的所有§Y属国§!夺取§M10点§!外交点数。"
+EDG_MISSION_GSR_formal_1_13_a_tt_yes:0 "£yes£If the national modifier §YAmbition to Restore the Western Empire§! still exists, then this modifier will be upgraded to the following:"
+EDG_MISSION_GSR_formal_1_13_a_tt_no:0 "£no£If the national modifier §YAmbition to Restore the Western Empire§! still exists, then this modifier will be upgraded to the following:"
 
-EDG_MISSION_GSR_formal_3_9_flag_tt:0 "我们的政府能力§Y整合藩属权力§!将会降低我们所有§Y属国§!的§M10点§!独立倾向。"
+EDG_MISSION_GSR_formal_1_14_a_tt_yes:0 "£yes£If the national modifier §YSurpass Justinian§! still exists, then this modifier will be upgraded to the following:"
+EDG_MISSION_GSR_formal_1_14_a_tt_no:0 "£no£If the national modifier §YSurpass Justinian§! still exists, then this modifier will be upgraded to the following:"
 
-EDG_MISSION_GSR_formal_3_16_tt:0 "我们的政府能力§Y帝国行政化§!下的三项次要能力将得到解锁。"
+EDG_MISSION_GSR_formal_3_2_tt:0 "All eligible provinces we own will lose §M10§! points of §YSeparatism§! and gain §M1§! point of §YBase Manpower§!."
 
-EDG_MISSION_GSR_formal_1_17_flag_tt:0 "我们的政府能力§Y征募采邑骑兵§!将会为我们额外提供夺取§M10点§!§Y陆军传统§!。"
-EDG_MISSION_GSR_formal_5_17_flag_tt:0 "我们的政府能力§Y征募采邑骑兵§!将会为我们额外提供夺取§M10点§!§Y海军传统§!。"
+EDG_MISSION_GSR_formal_3_6_a_tt_yes:0 "£yes£If we still have the modifier §YRestorer of the Serbian Empire§!, we will make this modifier §Ypermanent§!."
+EDG_MISSION_GSR_formal_3_6_a_tt_no:0 "£no£If we still have the modifier §YRestorer of the Serbian Empire§!, we will make this modifier §Ypermanent§!."
 
+EDG_MISSION_GSR_formal_4_11_tt:0 "Each of our §Ysubjects§! will provide us with §M15§! points of £mil£ military power."
 
-EDG_MISSION_GSR_formal_4_17_tt:0 "我们的随机一个§Y拥有3级贸易中心§!的省份，将会获得如下修正："
+EDG_MISSION_GSR_formal_4_4_a_tt_yes:0 "£yes£If, at the time of mission completion, we or our subjects own all provinces in the §YMacedonia§! region, then"
+EDG_MISSION_GSR_formal_4_4_a_tt_no:0 "£no£If, at the time of mission completion, we or our subjects own all provinces in the §YMacedonia§! region, then"
 
-EDG_MISSION_GSR_formal_5_16_tt:0 "我们治下的所有§Y沿海§!省份，将会获得如下修正："
+EDG_MISSION_GSR_formal_4_5_a_tt_yes:0 "£yes£If, at the time of mission completion, we or our subjects own all provinces in the §YMorea§! region, then"
+EDG_MISSION_GSR_formal_4_5_a_tt_no:0 "£no£If, at the time of mission completion, we or our subjects own all provinces in the §YMorea§! region, then"
 
-EDG_MISSION_GSR_formal_1_4_tt:0 "我们和我们的所有§Y盟友§!将互相增加§M25§!点§Y信任度§!"
+EDG_MISSION_GSR_formal_4_8_a_tt_yes:0 "£yes£If, at the time of mission completion, we still have the national modifier §YControl of the Republic of Dalmatia§!, then"
+EDG_MISSION_GSR_formal_4_8_a_tt_no:0 "£no£If, at the time of mission completion, we still have the national modifier §YControl of the Republic of Dalmatia§!, then"
 
-EDG_MISSION_GSR_formal_1_13_a_tt_yes:0 "£yes£若国家修正§Y光复西帝国的野心§!仍存在，那么该修正将会被升级为如下修正："
-EDG_MISSION_GSR_formal_1_13_a_tt_no:0 "£no£若国家修正§Y光复西帝国的野心§!仍存在，那么该修正将会被升级为如下修正："
+EDG_MISSION_GSR_formal_4_10_a_tt_yes:0 "£yes£If, at the time of mission completion, we have already accepted §YGreek§! culture, then"
+EDG_MISSION_GSR_formal_4_10_a_tt_no:0 "£no£If, at the time of mission completion, we have already accepted §YGreek§! culture, then"
 
-EDG_MISSION_GSR_formal_1_14_a_tt_yes:0 "£yes£若国家修正§Y超越查士丁尼§!仍存在，那么该修正将会被升级为如下修正："
-EDG_MISSION_GSR_formal_1_14_a_tt_no:0 "£no£若国家修正§Y超越查士丁尼§!仍存在，那么该修正将会被升级为如下修正："
+EDG_MISSION_GSR_formal_4_15_tt:0 "Every existing §YIslamic§! country in the world will have §M5§! points each of £adm£, £dip£, and £mil£ seized by us and will gain the following modifier:"
 
-EDG_MISSION_GSR_formal_3_2_tt:0 "我们拥有的所有符合条件的省份，将会失去§M10§!点§Y分离主义§!，并获得§M1§!点§Y基础人力§!"
+EDG_MISSION_GSR_formal_5_2_tt:0 "Each province in the §YAlbania§! region owned by us or our subjects will provide us with §M25§! points of £mil£ military power and gain the following modifier:"
+EDG_MISSION_GSR_formal_5_4_tt:0 "Each @EP0 §YArta§! core we own will provide us with §M25§! points of £mil£ military power and gain the following modifier:"
 
-EDG_MISSION_GSR_formal_3_6_a_tt_yes:0 "£yes£若我们仍拥有修正§Y塞尔维亚帝国的光复者§!，我们会将该修正§Y永久化§!。"
-EDG_MISSION_GSR_formal_3_6_a_tt_no:0 "£no£若我们仍拥有修正§Y塞尔维亚帝国的光复者§!，我们会将该修正§Y永久化§!。"
+EDG_MISSION_GSR_formal_5_7_trade_modifier:0 "Shatter Latin Trade Monopoly"
+EDG_MISSION_GSR_formal_5_13_tt:0 "Each country with the national modifier §YSerbian Threat Looming§! will have §M25§! points of £mil£ military power seized by us."
 
-EDG_MISSION_GSR_formal_4_11_tt:0 "我们的每个§Y属国§!将会为我们提供§M15§!点£mil£军事点"
+EDG_MISSION_GSR_formal_4_12_a_tt_yes:0 "£yes£If no country of the §YIranian§! culture group has a larger army size than ours, then"
+EDG_MISSION_GSR_formal_4_12_a_tt_no:0 "£no£If no country of the §YIranian§! culture group has a larger army size than ours, then"
 
+EDG_MISSION_GSR_formal_2_5_a_tt_yes:0 "£yes£If we belong to the §YSouth Slavic§! culture group, then"
+EDG_MISSION_GSR_formal_2_5_a_tt_no:0 "£no£If we belong to the §YSouth Slavic§! culture group, then"
 
-EDG_MISSION_GSR_formal_4_4_a_tt_yes:0 "£yes£若我们在完成任务时，我们或我们的属国拥有§Y马其顿§!区域的所有省份，那么"
-EDG_MISSION_GSR_formal_4_4_a_tt_no:0 "£no£若我们在完成任务时，我们或我们的属国拥有§Y马其顿§!区域的所有省份，那么"
+EDG_MISSION_GSR_formal_2_5_b_tt_yes:0 "£yes£If we do not belong to the §YSouth Slavic§! culture group, then"
+EDG_MISSION_GSR_formal_2_5_b_tt_no:0 "£no£If we do not belong to the §YSouth Slavic§! culture group, then"
 
-EDG_MISSION_GSR_formal_4_5_a_tt_yes:0 "£yes£若我们在完成任务时，我们或我们的属国拥有§Y摩里亚§!区域的所有省份，那么"
-EDG_MISSION_GSR_formal_4_5_a_tt_no:0 "£no£若我们在完成任务时，我们或我们的属国拥有§Y摩里亚§!区域的所有省份，那么"
+EDG_MISSION_GSR_formal_5_2_a_tt_yes:0 "£yes£If @ALB Albania is our §YTimar Estate§!, then"
+EDG_MISSION_GSR_formal_5_2_a_tt_no:0 "£no£If @ALB Albania is our §YTimar Estate§!, then"
 
-EDG_MISSION_GSR_formal_4_8_a_tt_yes:0 "£yes£若我们在完成任务时，仍拥有国家修正§Y控制达尔马提亚共和国§!，那么"
-EDG_MISSION_GSR_formal_4_8_a_tt_no:0 "£no£若我们在完成任务时，仍拥有国家修正§Y控制达尔马提亚共和国§!，那么"
+EDG_MISSION_GSR_formal_5_4_tt_2:0 "Each of our §YTimar Estates§! will grant us §M2§! points of §YImperial Administration§! progress."
 
-EDG_MISSION_GSR_formal_4_10_a_tt_yes:0 "£yes£若我们在完成任务时，已经接纳了§Y希腊§!文化，那么"
-EDG_MISSION_GSR_formal_4_10_a_tt_no:0 "£no£若我们在完成任务时，已经接纳了§Y希腊§!文化，那么"
+EDG_MISSION_GSR_formal_5_10_a_tt_yes:0 "£yes£If we have a §YTimar Estate§! whose primary culture is §YTurkish§!, then"
+EDG_MISSION_GSR_formal_5_10_a_tt_no:0 "£no£If we have a §YTimar Estate§! whose primary culture is §YTurkish§!, then"
 
-EDG_MISSION_GSR_formal_4_15_tt:0 "世界上现存的每个§Y伊斯兰教§!国家将会被我们夺取§M5§!点£adm£ £dip£ £mil£，并获得如下修正："
+EDG_MISSION_GSR_formal_5_11_a_tt_yes:0 "£yes£If @TRE Trebizond is our §YTimar Estate§!, then"
+EDG_MISSION_GSR_formal_5_11_a_tt_no:0 "£no£If @TRE Trebizond is our §YTimar Estate§!, then"
 
-EDG_MISSION_GSR_formal_5_2_tt:0 "我们或我们的属国所拥有的每个位于§Y阿尔巴尼亚§!区域的省份，将会为我们提供§M25§!点£mil£军事点，并获得如下修正："
-EDG_MISSION_GSR_formal_5_4_tt:0 "我们拥有的每个@EP0§Y阿尔塔§!的核心，将会为我们提供§M25§!点£mil£军事点，并获得如下修正："
+EDG_MISSION_GSR_formal_5_12_a_tt_yes:0 "£yes£If @GEO Georgia is our §YTimar Estate§!, then"
+EDG_MISSION_GSR_formal_5_12_a_tt_no:0 "£no£If @GEO Georgia is our §YTimar Estate§!, then"
 
-EDG_MISSION_GSR_formal_5_7_trade_modifier:0 "打碎拉丁人的贸易垄断"
-EDG_MISSION_GSR_formal_5_13_tt:0 "每个拥有国家修正§Y塞尔维亚人威胁来势汹汹§!的国家，将会被我们夺取§M25§!点£mil£军事点"
+EDG_MISSION_GSR_formal_2_7_government_flag_tt:0 "Our government ability §YImperial Administration§! will additionally grant us a §YSiege Ability§! bonus, increasing up to a maximum of §M33%§!."
+EDG_MISSION_GSR_formal_4_7_government_flag_tt:0 "Our government ability §YImperial Administration§! will additionally grant us a §YTrade Efficiency§! bonus, increasing up to a maximum of §M33%§!."
+EDG_MISSION_GSR_formal_3_8_government_flag_tt:0 "Our government ability §YImperial Administration§! will additionally grant us a §YGlobal Trade Power§! bonus, increasing up to a maximum of §M33%§!."
+EDG_MISSION_GSR_formal_1_4_government_flag_tt:0 "Our government ability §YImperial Administration§! will additionally grant us a §YDiplomatic Reputation§! bonus, increasing up to a maximum of §M+3§!."
+EDG_MISSION_GSR_formal_5_4_government_flag_tt:0 "Our government ability §YImperial Administration§! will additionally grant us a §YMissionary Strength vs Heretics§! bonus, increasing up to a maximum of §M+3§!."
+EDG_MISSION_GSR_formal_1_10_government_flag_tt:0 "Our government ability §YImperial Administration§! will additionally grant us an §YArist Morale§! bonus, increasing up to a maximum of §M15%§!."
 
-EDG_MISSION_GSR_formal_4_12_a_tt_yes:0 "£yes£若没有§Y伊朗§!文化组的国家，其陆军规模大于我们，那么"
-EDG_MISSION_GSR_formal_4_12_a_tt_no:0 "£no£若没有§Y伊朗§!文化组的国家，其陆军规模大于我们，那么"
 
-EDG_MISSION_GSR_formal_2_5_a_tt_yes:0 "£yes£若我们属于§Y南斯拉夫§!文化组，那么"
-EDG_MISSION_GSR_formal_2_5_a_tt_no:0 "£no£若我们属于§Y南斯拉夫§!文化组，那么"
+#Ottomans
+EDG_Mission_TUR_conquest_1_mission_1_3_tt_yes:0 "£yes£If @MOE §YMorea§! is our §Ysubject§!, then"
+EDG_Mission_TUR_conquest_1_mission_1_3_tt_no:0 "£no£If @MOE §YMorea§! is our §Ysubject§!, then"
+EDG_Mission_TUR_conquest_1_mission_2_4_tt:0 "Each province we §Yown§! with §YBulgarian§! culture will provide us with §M5§! points of £mil£ military power."
 
-EDG_MISSION_GSR_formal_2_5_b_tt_yes:0 "£yes£若我们不属于§Y南斯拉夫§!文化组，那么"
-EDG_MISSION_GSR_formal_2_5_b_tt_no:0 "£no£若我们不属于§Y南斯拉夫§!文化组，那么"
+EDG_Mission_TUR_conquest_1_mission_2_4_tt_yes:0 "£yes£If our number of cavalry reaches §Y10§!, then"
+EDG_Mission_TUR_conquest_1_mission_2_4_tt_no:0 "£no£If our number of cavalry reaches §Y10§!, then"
 
+EDG_Mission_TUR_conquest_1_mission_3_5_tt:0 "Each of our §Ysubjects§! will provide us with §M5§! points of §Mprestige§!; each point of prestige exceeding the cap will be converted into monarch power."
 
+EDG_Mission_TUR_conquest_1_mission_5_1_a_tt_yes:0 "£yes£If @AHE §YAhis§! is our §Ysubject§!, then we will inherit their country."
+EDG_Mission_TUR_conquest_1_mission_5_1_a_tt_no:0 "£no£If @AHE §YAhis§! is our §Ysubject§!, then we will inherit their country."
 
-EDG_MISSION_GSR_formal_5_2_a_tt_yes:0 "£yes£若@ALB阿尔巴尼亚是我们的§Y蒂玛尔领地§!，那么"
-EDG_MISSION_GSR_formal_5_2_a_tt_no:0 "£no£若@ALB阿尔巴尼亚是我们的§Y蒂玛尔领地§!，那么"
+EDG_Mission_TUR_conquest_1_mission_1_4_tt:0 "All provinces under our rule with a §YPasha§! and §YGreek culture§! will gain the following modifier:"
+tur_subjugate_romania_TRA:0 "If §YTransylvania§! is our §Ysubject§!, they will gain §G-100%§! independence desire."
 
-EDG_MISSION_GSR_formal_5_4_tt_2:0 "我们的每个§Y蒂玛尔领地§!将给予我们§M2§!点§Y帝国行政化§!点数"
+EDG_Mission_TUR_conquest_1_mission_2_2_tt:0 "For the next §Y50 years§!, our rulers will be more likely to gain the §YSiege Master§! ruler trait."
 
-EDG_MISSION_GSR_formal_5_10_a_tt_yes:0 "£yes£若我们有一个§Y蒂玛尔领地§!的主流文化是§Y突厥§!，那么"
-EDG_MISSION_GSR_formal_5_10_a_tt_no:0 "£no£若我们有一个§Y蒂玛尔领地§!的主流文化是§Y突厥§!，那么"
+EDG_Mission_TUR_conquest_1_mission_2_7_a_tt_yes:0 "£yes£If no country with its capital in §YEurope§! has a larger §YArist§! size than ours, then"
+EDG_Mission_TUR_conquest_1_mission_2_7_a_tt_no:0 "£no£If no country with its capital in §YEurope§! has a larger §YArist§! size than ours, then"
 
-EDG_MISSION_GSR_formal_5_11_a_tt_yes:0 "£yes£若@TRE特拉布宗是我们的§Y蒂玛尔领地§!，那么"
-EDG_MISSION_GSR_formal_5_11_a_tt_no:0 "£no£若@TRE特拉布宗是我们的§Y蒂玛尔领地§!，那么"
+EDG_Mission_TUR_conquest_1_mission_1_2_tt:0 "All core provinces of the @EP0 §YArta§! Principality under our rule will lose §G10§! points of §Mseparatism§!."
 
+EDG_Mission_TUR_conquest_1_mission_2_6_a_tt_yes:0 "£yes£If our army size reaches §Y100§!, then"
+EDG_Mission_TUR_conquest_1_mission_2_6_a_tt_no:0 "£no£If our army size reaches §Y100§!, then"
 
-EDG_MISSION_GSR_formal_5_12_a_tt_yes:0 "£yes£若@GEO格鲁吉亚是我们的§Y蒂玛尔领地§!，那么"
-EDG_MISSION_GSR_formal_5_12_a_tt_no:0 "£no£若@GEO格鲁吉亚是我们的§Y蒂玛尔领地§!，那么"
+EDG_Mission_TUR_conquest_1_mission_2_8_tt:0 "The §Yprovinces mentioned in the mission§! owned by us or our subjects will gain the following effect."
 
-EDG_MISSION_GSR_formal_2_7_government_flag_tt:0 "我们的政府能力§Y帝国行政化§!将会额外给予我们§Y围城效率§!奖励，至多增加至§M33%§!。"
-EDG_MISSION_GSR_formal_4_7_government_flag_tt:0 "我们的政府能力§Y帝国行政化§!将会额外给予我们§Y贸易效率§!奖励，至多增加至§M33%§!。"
-EDG_MISSION_GSR_formal_3_8_government_flag_tt:0 "我们的政府能力§Y帝国行政化§!将会额外给予我们§Y全局贸易竞争力§!奖励，至多增加至§M33%§!。"
-EDG_MISSION_GSR_formal_1_4_government_flag_tt:0 "我们的政府能力§Y帝国行政化§!将会额外给予我们§Y外交声誉§!奖励，至多增加至§M+3§!。"
-EDG_MISSION_GSR_formal_5_4_government_flag_tt:0 "我们的政府能力§Y帝国行政化§!将会额外给予我们§Y对异端传教强度§!奖励，至多增加至§M+3§!。"
-EDG_MISSION_GSR_formal_1_10_government_flag_tt:0 "我们的政府能力§Y帝国行政化§!将会额外给予我们§Y陆军士气§!奖励，至多增加至§M15%§!。"
+EDG_Mission_TUR_conquest_1_mission_2_9_a_tt_yes:0 "£yes£If, at mission completion, our §Ymilitary technology§! is higher than that of all countries with their capital in §YEurope§!, then"
+EDG_Mission_TUR_conquest_1_mission_2_9_a_tt_no:0 "£no£If, at mission completion, our §Ymilitary technology§! is higher than that of all countries with their capital in §YEurope§!, then"
 
+EDG_Mission_TUR_conquest_1_mission_2_9_tt:0 "All countries with their capital in §YEurope§! will trigger the event §Y'Rise of the Ottoman Empire'§!. Each country triggering this event will have §M1§! point each of §Yadministrative§!, §Ydiplomatic§!, and §Ymilitary power§! as well as §Yprestige§! seized by us. Each point of prestige exceeding the cap will be converted into three types of monarch power."
 
-#奥斯曼
-EDG_Mission_TUR_conquest_1_mission_1_3_tt_yes:0 "£yes£若@MOE§Y摩里亚§!是我们的§Y属国§!，那么"
-EDG_Mission_TUR_conquest_1_mission_1_3_tt_no:0 "£no£若@MOE§Y摩里亚§!是我们的§Y属国§!，那么"
-EDG_Mission_TUR_conquest_1_mission_2_4_tt:0 "我们所§Y拥有§!的每个文化为§Y保加利亚§!的省份将会为我们提供§M5§!点§M军事点§!"
+EDG_estate_TUR_privilege_Allah_authorizes_the_emperor_enable_flag_tt:0 "Unlocks the §YClergy§! estate privilege §Y'Allah Authorizes the Padishah'§!. This privilege grants the following effects:"
+EDG_estate_TUR_privilege_Albania_janisary_enable_flag_tt:0 "Unlocks the §YJanissaries§! estate privilege §Y'Skanderbeg's Regiment'§!. This privilege grants the following effects:"
 
-EDG_Mission_TUR_conquest_1_mission_2_4_tt_yes:0 "£yes£若我们的骑兵数量达到§Y10§!，那么"
-EDG_Mission_TUR_conquest_1_mission_2_4_tt_no:0 "£no£若我们的骑兵数量达到§Y10§!，那么"
+EDG_TUR_bektashi_holy_order:0 "Bektashi Order"
+EDG_TUR_bektashi_holy_order_desc:0 "Founded in the late 13th century by Khorasan-born Haji Bektash Veli. After the Mongol westward invasions in the 13th century, a group of Turks migrated west to Anatolia, where this order spread and operated as a rural religious order. After the Ottoman Empire integrated the Bektashi Order, it was incorporated into the Janissary organization."
+EDG_TUR_bektashi_holy_order_localization:0 "Establish §YBektashi Order§!"
+EDG_TUR_bektashi_holy_order_localization_short:0 "Bektashi Order"
+EDG_TUR_bektashi_holy_order_localization_full:0 "Bektashi Order"
+EDG_TUR_bektashi_holy_order_enable_flag_tt:0 "We will be permitted to establish §YBektashi Orders§! in our full-core states."
 
-EDG_Mission_TUR_conquest_1_mission_3_5_tt:0 "我们的每个§Y属国§!将为我们提供§M5§!点§M威望§!，每点溢出的威望将被转化为君主点数。"
+EDG_Mission_TUR_conquest_1_mission_4_6_tt_a:0 "We will gain the §YOttoman Invasion§! casus belli against all countries whose primary culture belongs to the §YLevantine culture group§! and have a development below §Y300§!, lasting for 20 years."
+EDG_Mission_TUR_conquest_1_mission_4_7_tt:0 "Each §Yprovince required by the mission§! owned by us or our subjects will provide us with §M20§! points of £mil£ military power and gain the following modifier:"
+EDG_Mission_TUR_conquest_1_mission_3_8_tt_a:0 "Each §Yprovince required by the mission§! owned by us or our subjects will provide us with §M2000§! §Ymanpower§! and gain the following modifier:"
 
-EDG_Mission_TUR_conquest_1_mission_5_1_a_tt_yes:0 "£yes£若@AHE§Y阿赫尔§!是我们的§Y属国§!，那么我们会继承他们的国家"
-EDG_Mission_TUR_conquest_1_mission_5_1_a_tt_no:0 "£no£若@AHE§Y阿赫尔§!是我们的§Y属国§!，那么我们会继承他们的国家"
+# EDG_Mission_TUR_conquest_1_mission_5_6_tt:0 "所有首都位于§Y意大利§!的§Y天主教§!国家，将会触发事件§Y「塞浦路斯的沦陷」§!，每个触发事件的国家将被我们掠夺§M50§!的§Y金钱§!，并在未来的§M10§!年内蒙受贸易惩罚。"
 
-EDG_Mission_TUR_conquest_1_mission_1_4_tt:0 "我们治下的所有设有§Y帕夏§!的§Y希腊文化§!省份将会获得如下修正："
-tur_subjugate_romania_TRA:0 "如果§Y特兰西瓦尼亚§!是我们的§Y属国§!，那么他们将获得§G-100%§!独立倾向"
+EDG_Mission_TUR_conquest_1_mission_5_9_tt:0 "All countries belonging to the §YChristian§! religious group will trigger the event §Y'Jerusalem Falls into Turkic Hands'§!. Each country triggering this event will have §M1§! point each of §Yadministrative§!, §Ydiplomatic§!, and §Ymilitary power§! as well as §Yprestige§! seized by us. Each point of prestige exceeding the cap will be converted into three types of monarch power."
 
-EDG_Mission_TUR_conquest_1_mission_2_2_tt:0 "在未来的§Y50年§!内，我们的君主将更容易获得§Y攻城大师§!统治者特质。"
+EDG_Mission_TUR_conquest_1_mission_4_8_tt_a_yes:0 "£yes£If @MAM Mamluks or @EGY Egypt is our subject, then"
+EDG_Mission_TUR_conquest_1_mission_4_8_tt_a_no:0 "£no£If @MAM Mamluks or @EGY Egypt is our subject, then"
 
-EDG_Mission_TUR_conquest_1_mission_2_7_a_tt_yes:0 "£yes£若没有一个首都位于§Y欧洲§!的国家，拥有比我们更大规模的§Y陆军§!，那么"
-EDG_Mission_TUR_conquest_1_mission_2_7_a_tt_no:0 "£no£若没有一个首都位于§Y欧洲§!的国家，拥有比我们更大规模的§Y陆军§!，那么"
+EDG_flavor_TUR_mission_7_a_tt:0 "We will gain §Ynew conquest missions§!, resetting the first ten rows of our mission tree, allowing us to conquer even broader territories.\nThe dominion of @TUR §Ythe Ottoman Empire§! shall by no means be limited to the lands reached by the §YDream of Osman§!!"
 
-EDG_Mission_TUR_conquest_1_mission_1_2_tt:0 "我们治下所有@EP0§Y阿尔塔§!公国的核心省份，将会失去§G10§!点§M分离主义§!。"
+EDG_TUR_disable_MAM_flag_trigger_tooltip:0 "We have already completed the decision §YRevoke Mamluk Privileges§!."
 
-EDG_Mission_TUR_conquest_1_mission_2_6_a_tt_yes:0 "£yes£若我们的陆军规模达到§Y100§!，则"
-EDG_Mission_TUR_conquest_1_mission_2_6_a_tt_no:0 "£no£若我们的陆军规模达到§Y100§!，则"
+EDG_TUR_cancel_MAM_egy_reform_enable_flag_tt:0 "Unlocks the decision §Y'Revoke Mamluk Privileges'§!."
 
-EDG_Mission_TUR_conquest_1_mission_2_8_tt:0 "我们和我们的属国所拥有的§Y任务中提到的省份§!，将会获得如下效果"
+EDG_TUR_Kapikulu_enable_flag_tt:0 "We will enable the §YKapıkulu§! mechanic. This mechanic is accessed via the §Ybutton on the right side of the military interface§! §M(right-hand button)§!. (If this button cannot be found, it indicates a mod conflict. Please remove all other mods, especially UI mods, including cosmetic mods and large modifier panel mods.)\n\nUnlocks the decision §Y'Assign Timar Estates'§!, allowing us to exchange §Mcrown land§! for §MTimar Estate§! allocation."
 
-EDG_Mission_TUR_conquest_1_mission_2_9_a_tt_yes:0 "£yes£若我们完成任务时，我们§Y军事科技§!高于所有首都位于§Y欧洲§!的国家，则"
-EDG_Mission_TUR_conquest_1_mission_2_9_a_tt_no:0 "£no£若我们完成任务时，我们§Y军事科技§!高于所有首都位于§Y欧洲§!的国家，则"
+EDG_MISSION_TUR_reform_1_13_tt:0 "All eligible provinces we §Yown§! will gain §M1§! point of §Ybase manpower§!."
+EDG_janisary_3_modifier_decision_enable_flag_tt:0 "Unlocks the decision §Y'Expand the Mehter Band'§!"
 
-EDG_Mission_TUR_conquest_1_mission_2_9_tt:0 "所有首都位于§Y欧洲§!的国家将会触发事件§Y「奥斯曼帝国的崛起」§!，每个触发该事件的国家将被我们夺取§M1§!点§Y行政点§!、§Y外交点§!、§Y军事点§!以及§Y威望§!，每点溢出的威望将被转化为三项君主点数。"
+EDG_TUR_Kapikulu_we_need_land_tt:0 "We need to expend §M1§! unit of §YTimar Estate§! to increase the §YTimar Estate Quantity§! for this military unit.\nWe can obtain more §YTimar Estates§! through §Ymissions§! and §Ydecisions§!."
 
-EDG_estate_TUR_privilege_Allah_authorizes_the_emperor_enable_flag_tt:0 "解锁§Y教士§!阶层特权§Y「安拉授权帕迪沙」§!，该特权给予如下效果："
-EDG_estate_TUR_privilege_Albania_janisary_enable_flag_tt:0 "解锁§Y耶尼切里§!阶层特权§Y「斯坎德培战团」§!，该特权给予如下效果："
+EDG_MISSION_TUR_reform_3_15_flag_tt:0 "Allows us to invest Timar Estates into the §Y'New Army'§! within the §Y'Kapıkulu'§! mechanic.\n\nIncreases the §YTimar Estates§! held by the §Y'New Army'§! by §M1§! unit."
 
-EDG_TUR_bektashi_holy_order:0 "拜克塔什教团"
-EDG_TUR_bektashi_holy_order_desc:0 "13世纪末由呼罗珊人哈吉·拜克塔什创立。13世纪在蒙古人西征后，有一支突厥人向西迁徙至安纳托利亚，该教团即在当地传播和活动，是一个乡村教团。在奥斯曼帝国整合了拜克塔什教团后，该教团被整合入耶尼切里组织。"
-EDG_TUR_bektashi_holy_order_localization:0 "设立§Y拜克塔什教团§!"
-EDG_TUR_bektashi_holy_order_localization_short:0 "拜克塔什教团"
-EDG_TUR_bektashi_holy_order_localization_full:0 "拜克塔什教团"
-EDG_TUR_bektashi_holy_order_enable_flag_tt:0 "我们将被允许在直属州设立§Y拜克塔什教团§!"
+EDG_TUR_Kapikulu_decree_button_1_unlock_flag_tt:0 "Unlocks the §Y'Kapıkulu'§! §M'military decree'§! §Y'Increase Janissary Subsidies'§!"
+EDG_TUR_Kapikulu_decree_button_2_unlock_flag_tt:0 "Unlocks the §Y'Kapıkulu'§! §M'military decree'§! §Y'Review the Janissaries'§!"
 
-EDG_Mission_TUR_conquest_1_mission_4_6_tt_a:0 "我们将获得针对所有主流文化属于§Y黎凡特文化组§!且发展度低于§Y300§!的国家的§Y奥斯曼入侵§!宣战理由，持续时间为20年。"
-EDG_Mission_TUR_conquest_1_mission_4_7_tt:0 "我们和我们的属国所拥有的每个§Y任务要求的省份§!，将会为我们提供§M20§!点§Y军事点§!，并获得如下修正："
-EDG_Mission_TUR_conquest_1_mission_3_8_tt_a:0 "我们和我们的属国所拥有的每个§Y任务要求的省份§!，将会为我们提供§M2000§!的§Y人力§!，并获得如下修正："
+EDG_MISSION_TUR_reform_1_12_tt:0 "All provinces with an established §YBektashi Order§! will gain the following effect:"
 
-EDG_Mission_TUR_conquest_1_mission_5_6_tt:0 "所有首都位于§Y意大利§!的§Y天主教§!国家，将会触发事件§Y「塞浦路斯的沦陷」§!，每个触发事件的国家将被我们掠夺§M50§!的§Y金钱§!，并在未来的§M10§!年内蒙受贸易惩罚。"
+EDG_MISSION_TUR_reform_4_14_modifier_tt:0 "The national modifier §Y'Expand Cavalry Organization'§! will be upgraded to the following modifier:"
 
-EDG_Mission_TUR_conquest_1_mission_5_9_tt:0 "所有属于§Y基督教§!宗教组的国家将会触发事件§Y「耶路撒冷落于突厥人之手」§!，每个触发该事件的国家将被我们夺取§M1§!点§Y行政点§!、§Y外交点§!、§Y军事点§!以及§Y威望§!，每点溢出的威望将被转化为三项君主点数。"
+EDG_MISSION_TUR_reform_4_19_1_merc_for_every_cloves_province_tt:0 "For each province we §Yown§! producing §YCloves§!, we will gain §M1§! point of §YMercantilism§!."
+EDG_MISSION_TUR_reform_2_16_flag_tt:0 "Unlocks the decision §Y'Venetian Diplomacy'§!"
 
-EDG_Mission_TUR_conquest_1_mission_4_8_tt_a_yes:0 "£yes£若@MAM马穆鲁克或@EGY埃及是我们的属国，那么"
-EDG_Mission_TUR_conquest_1_mission_4_8_tt_a_no:0 "£no£若@MAM马穆鲁克或@EGY埃及是我们的属国，那么"
+EDG_MISSION_TUR_reform_1_22_trigger_tooltip:0 "Tolerance of §YOrthodox§! reaches §M3§!."
 
-EDG_flavor_TUR_mission_7_a_tt:0 "我们将获得§Y新的征服任务§!，这将重置我们前十行的任务，让我们征服更为广阔的领土。\n@TUR§Y奥斯曼帝国§!的疆土绝不会仅限于§Y奥斯曼之梦§!所及之地！"
+EDG_TUR_poems_value:0 "§YPoems Already Written§!"
 
-EDG_TUR_disable_MAM_flag_trigger_tooltip:0 "我们已经完成决议§Y撤销马穆鲁克特权§!"
+EDG_MISSION_TUR_reform_1_17_tt:0 "All eligible provinces will gain the following modifier:"
 
-EDG_TUR_cancel_MAM_egy_reform_enable_flag_tt:0 "解锁决议§Y「撤销马穆鲁克特权」§!"
+EDG_MISSION_TUR_reform_1_17_a_tt_yes:0 "£yes£If we have at least §M50§! §YGalleys§! and §M20§! §YHeavy Ships§! simultaneously, then"
+EDG_MISSION_TUR_reform_1_17_a_tt_no:0 "£no£If we have at least §M50§! §YGalleys§! and §M20§! §YHeavy Ships§! simultaneously, then"
 
+EDG_MISSION_TUR_reform_1_17_b_tt_yes:0 "£yes£If we have at least §M20§! §YHeavy Ships§!, then"
+EDG_MISSION_TUR_reform_1_17_b_tt_no:0 "£no£If we have at least §M20§! §YHeavy Ships§!, then"
 
-EDG_TUR_Kapikulu_enable_flag_tt:0 "我们将启用§Y卡皮库鲁§!机制，该机制通过打开§Y军事界面§!§M右侧的按钮§!进行使用。（若未找到该按钮，说明MOD发生冲突，请卸下其他所有MOD，尤其是UI类mod，包括美化mod和大型修正栏mod）\n\n解锁决议§Y「设置蒂玛尔领地」§!，我们将被允许用§M王冠领地§!换取§M蒂玛尔领地§!数额。"
+EDG_MISSION_TUR_reform_1_17_c_tt_yes:0 "£yes£If we have at least §M50§! §YGalleys§!, then"
+EDG_MISSION_TUR_reform_1_17_c_tt_no:0 "£no£If we have at least §M50§! §YGalleys§!, then"
 
-EDG_MISSION_TUR_reform_1_13_tt:0 "我们§Y拥有§!的所有符合条件的省份，将会获得§M1§!点§Y基础人力§!"
-EDG_janisary_3_modifier_decision_enable_flag_tt:0 "解锁决议§Y「扩大梅赫特尔军乐队」§!"
+EDG_MISSION_TUR_reform_1_22_tt:0 "All provinces under our rule that follow the §YOrthodox§! faith will gain the following modifier:"
 
-EDG_TUR_Kapikulu_we_need_land_tt:0 "我们需要耗费§M1§!单位的§Y蒂玛尔领地§!用以增加该军事单位的§Y蒂玛尔领地数量§!。\n我们可以通过§Y任务§!和§Y决议§!获得更多的§Y蒂玛尔领地§!"
+EDG_MISSION_TUR_reform_1_24_flag_tt:0 "We will periodically trigger the §YPoetry Event Chain§! to help us complete the mission §Y'Age of Poetry'§!"
+EDG_MISSION_TUR_reform_2_19_trade_POWER:0 "Masters of the Mediterranean"
+EDG_MISSION_TUR_reform_2_19_tt:0 "We will gain an additional §M35§! points of §YTrade Power§! in the aforementioned nodes, lasting for §M7300§! days."
 
-EDG_MISSION_TUR_reform_3_15_flag_tt:0 "允许我们在§Y「卡皮库鲁」§!机制中为§Y「新军」§!投入蒂玛尔领地。\n\n增加§M1§!单位§Y「新军」§!所持有的§Y蒂玛尔领地§!"
+EDG_MISSION_TUR_reform_2_22_tt:0 "All provinces under our rule with §YGreek§! culture and a §YMosque§! building will gain the following modifier:"
 
+EDG_MISSION_TUR_reform_2_23_flag_tt:0 "We will periodically trigger the event §YAssimilate the Yunani§!, allowing us to merge §MGreek§! culture into the §YLevantine§! culture group, transforming it into §MYunani§! culture."
+EDG_flavor_TUR_mission_9_b_tt:0 "We will §Rpermanently disable§! this event."
 
-EDG_TUR_Kapikulu_decree_button_1_unlock_flag_tt:0 "解锁§Y「卡皮库鲁」§!的§M「军事法令」§!§Y「提高禁军补贴」§!"
-EDG_TUR_Kapikulu_decree_button_2_unlock_flag_tt:0 "解锁§Y「卡皮库鲁」§!的§M「军事法令」§!§Y「审核耶尼切里」§!"
+EDG_MISSION_TUR_reform_4_21_tt:0 "A random §M10§! provinces under our rule will gain §M1§! development each."
 
-EDG_MISSION_TUR_reform_1_12_tt:0 "所有设有§Y拜克塔什教团§!的省份，将会获得如下效果："
+EDG_MISSION_TUR_reform_4_22_tt_A:0 "All eligible provinces under our rule producing §YGrain§! will gain the following modifier:"
+EDG_MISSION_TUR_reform_4_22_tt_B:0 "All eligible provinces under our rule producing §YLivestock§! will gain the following modifier:"
 
-EDG_MISSION_TUR_reform_4_14_modifier_tt:0 "国家修正§Y「扩大骑兵组织」§!将被升级为如下修正："
+EDG_MISSION_TUR_reform_2_22_tt_A:0 "A random §M5§! §Yeligible§! provinces under our rule will produce the following effect:"
+EDG_MISSION_TUR_reform_random_10_province_get_1_production_tt:0 "A random §M10§! provinces under our rule will produce the following effect:"
 
-EDG_MISSION_TUR_reform_4_19_1_merc_for_every_cloves_province_tt:0 "我们§Y拥有§!的每个产物为§Y丁香§!的省份，将会为我们提供§M1§!点§Y重商主义§!"
-EDG_MISSION_TUR_reform_2_16_flag_tt:0 "解锁决议§Y「威尼斯外交」§!"
+tur_unlocked_disaster_missions_trigger_tooltip:0 "The disaster §YPower Struggle§! has reached its peak."
 
-EDG_MISSION_TUR_reform_1_22_trigger_tooltip:0 "对§Y东正教§!的容忍度达到§M3§!"
+EDG_MISSION_TUR_reform_1_27_tt:0 "A random §M10§! provinces under our rule will gain the following modifier:"
+EDG_DEBUG_decision_price_revolution_ban_flag_trigger_tt:0 "§YPrice Revolution§! has been disabled."
+EDG_MISSION_TUR_reform_5_28_a_tt_yes:0 "£yes£If we have the national modifier §YAffected by the Price Revolution§!, then"
+EDG_MISSION_TUR_reform_5_28_a_tt_no:0 "£no£If we have the national modifier §YAffected by the Price Revolution§!, then"
 
-EDG_TUR_poems_value:0 "§Y已经撰写的诗歌§!"
+EDG_MISSION_TUR_reform_5_28_b_tt_yes:0 "£yes£Otherwise"
+EDG_MISSION_TUR_reform_5_28_b_tt_no:0 "£no£Otherwise"
 
-EDG_MISSION_TUR_reform_1_17_tt:0 "所有满足条件的省份，将会获得如下修正："
+EDG_MISSION_TUR_reform_3_25_a_tt_yes:0 "£yes£If we have already implemented the §YTanzimat§! reform, then"
+EDG_MISSION_TUR_reform_3_25_a_tt_no:0 "£no£If we have already implemented the §YTanzimat§! reform, then"
 
-EDG_MISSION_TUR_reform_1_17_a_tt_yes:0 "£yes£若我们同时拥有§M50§!艘§Y桨帆战船§!和§M20§!艘§Y重型战舰§!，那么"
-EDG_MISSION_TUR_reform_1_17_a_tt_no:0 "£no£若我们同时拥有§M50§!艘§Y桨帆战船§!和§M20§!艘§Y重型战舰§!，那么"
+EDG_MISSION_TUR_reform_2_24_a_tt_yes:0 "£yes£If we have already implemented the §YStrengthen the Millet System§! reform, then"
+EDG_MISSION_TUR_reform_2_24_a_tt_no:0 "£no£If we have already implemented the §YStrengthen the Millet System§! reform, then"
 
-EDG_MISSION_TUR_reform_1_17_b_tt_yes:0 "£yes£若我们拥有§M20§!艘§Y重型战舰§!，那么"
-EDG_MISSION_TUR_reform_1_17_b_tt_no:0 "£no£若我们拥有§M20§!艘§Y重型战舰§!，那么"
+EDG_MISSION_TUR_reform_1_27_flag_tt:0 "The government ability §YAppoint Local Pashas§! will additionally seize §Y5%§! crown land for us."
+EDG_MISSION_TUR_reform_2_27_flag_tt:0 "The government ability §YAppoint a New Grand Vizier§! will allow us to §Ychoose§! a type of advisor, rather than always granting us a §YStatesman§!. (Only certain advisors can be selected; not all advisors can be appointed as Grand Vizier.)"
+EDG_MISSION_TUR_reform_3_27_flag_tt:0 "The government ability §YRecruit Infidel Recruits§! will additionally provide us with §M1 year§! of §Ymanpower§!."
 
-EDG_MISSION_TUR_reform_1_17_c_tt_yes:0 "£yes£若我们拥有§M50§!艘§Y桨帆战船§!，那么"
-EDG_MISSION_TUR_reform_1_17_c_tt_no:0 "£no£若我们拥有§M50§!艘§Y桨帆战船§!，那么"
+EDG_flavor_TUR_mission_19_a_tt:0 "Every country with its capital in §Ythe Maghreb§! that is not our subject will gain a negative modifier and have §M30§! points each of §Yadministrative§!, §Ydiplomatic§!, and §Ymilitary power§! looted by us."
+EDG_Mission_TUR_conquest_2_mission_1_2_a_tt_yes:0 "£yes£If there are provinces in §YTunisia§! that follow the §YCatholic§! faith, then\nAll provinces in §YTunisia§! that follow the §YCatholic§! faith will have their religion converted to our state religion."
+EDG_Mission_TUR_conquest_2_mission_1_2_a_tt_no:0 "£no£If there are provinces in §YTunisia§! that follow the §YCatholic§! faith, then\nAll provinces in §YTunisia§! that follow the §YCatholic§! faith will have their religion converted to our state religion."
 
-EDG_MISSION_TUR_reform_1_22_tt:0 "我们治下所有信仰§Y东正教§!的省份，将获得如下修正："
+EDG_Mission_TUR_conquest_2_mission_1_2_b_tt_yes:0 "£yes£If there are no provinces in §YTunisia§! that follow the §YCatholic§! faith, then"
+EDG_Mission_TUR_conquest_2_mission_1_2_b_tt_no:0 "£no£If there are no provinces in §YTunisia§! that follow the §YCatholic§! faith, then"
 
-EDG_MISSION_TUR_reform_1_24_flag_tt:0 "我们将不定时触发§Y诗歌事件组§!，以帮助我们完成任务§Y「诗歌时代」§!"
-EDG_MISSION_TUR_reform_2_19_trade_POWER:0 "地中海的主人"
-EDG_MISSION_TUR_reform_2_19_tt:0 "我们将在上述节点获得额外的§M35§!点§Y贸易竞争力§!，持续§M7300§!天"
+EDG_Mission_TUR_conquest_2_mission_1_9_tt:0 "All countries with their capital in §YIberia§! will have §M50§! points each of §Yadministrative§!, §Ydiplomatic§!, and §Ymilitary power§! looted by us and gain the following modifier:"
 
-EDG_MISSION_TUR_reform_2_22_tt:0 "我们治下的所有§Y希腊§!文化的拥有§Y清真寺§!建筑的省份，将会获得如下修正："
+EDG_Mission_TUR_conquest_2_mission_2_3_flag_tt:0 "The Ulama estate privilege §YAllah Authorizes the Padishah§! will additionally grant §M0.5§! §Yyearly prestige§! and §M1§! §Ydiplomatic reputation§!."
+EDG_Mission_TUR_conquest_2_mission_2_3_tt:0 "All provinces under the rule of us or our subjects located in the §YPersian§! subcontinent that follow the §YShia§! faith will increase our §GUlama loyalty§! by §M1%§! and gain the following modifier:"
 
-EDG_MISSION_TUR_reform_2_23_flag_tt:0 "我们将周期性触发事件§Y同化尤南人§!，这将允许我们将§M希腊§!文化并入§Y黎凡特§!文化组，转变为§M尤南§!文化"
-EDG_flavor_TUR_mission_9_b_tt:0 "我们将§R永久禁用§!该事件"
+EDG_Mission_TUR_conquest_2_mission_2_5_tt:0 "All provinces under the rule of us or our subjects belonging to the §YAltai§! culture group will provide us with §M5§! points of £mil£ military power."
 
-EDG_MISSION_TUR_reform_4_21_tt:0 "我们治下的随机§M10§!个省份将获得§M1§!点发展度"
+EDG_flavor_TUR_mission_2_b_opinion:0 "Rescue Catholics"
 
-EDG_MISSION_TUR_reform_4_22_tt_A:0 "我们所有满足条件的生产§Y谷物§!的省份，将会获得如下修正："
-EDG_MISSION_TUR_reform_4_22_tt_B:0 "我们所有满足条件的生产§Y牲畜§!的省份，将会获得如下修正："
+EDG_Mission_TUR_conquest_2_mission_1_5_a_tt_yes:0 "£yes£If any province under the rule of us or our subjects follows the §YMuwahhidism§! faith, then these provinces will gain the following modifier:"
+EDG_Mission_TUR_conquest_2_mission_1_5_a_tt_no:0 "£no£If any province under the rule of us or our subjects follows the §YMuwahhidism§! faith, then these provinces will gain the following modifier:"
 
-EDG_MISSION_TUR_reform_2_22_tt_A:0 "我治下的随机§M5§!个§Y符合条件§!的省份，将产生如下效果："
-EDG_MISSION_TUR_reform_random_10_province_get_1_production_tt:0 "我治下的随机§M10§!个省份，将产生如下效果："
+EDG_Mission_TUR_conquest_2_mission_1_8_a_tt_yes:0 "£yes£If any of the following countries exists:\n-@USP Spanish Confederation\n-@SPA Spain\n-@ADU Andalusia\n-@MIB Al-Andalus\n-@IBR Iberia\n-@ADU Morisco\nThen we will become §Rhistorical rivals§! with them, and we will gain §M10§! points of §Ypower projection§!."
+EDG_Mission_TUR_conquest_2_mission_1_8_a_tt_no:0 "£no£If any of the following countries exists:\n-@USP Spanish Confederation\n-@SPA Spain\n-@ADU Andalusia\n-@MIB Al-Andalus\n-@IBR Iberia\n-@ADU Morisco\nThen we will become §Rhistorical rivals§! with them, and we will gain §M10§! points of §Ypower projection§!."
 
-tur_unlocked_disaster_missions_trigger_tooltip:0 "灾难§Y权力斗争§!已经达到顶峰"
 
-EDG_MISSION_TUR_reform_1_27_tt:0 "我们治下随机§M10§!个省份，将会获得如下修正："
-EDG_DEBUG_decision_price_revolution_ban_flag_trigger_tt:0 "§Y价格革命§!已被禁用"
-EDG_MISSION_TUR_reform_5_28_a_tt_yes:0 "£yes£若我们拥有国家修正§Y受到价格革命的波及§!，那么"
-EDG_MISSION_TUR_reform_5_28_a_tt_no:0 "£no£若我们拥有国家修正§Y受到价格革命的波及§!，那么"
 
-EDG_MISSION_TUR_reform_5_28_b_tt_yes:0 "£yes£否则"
-EDG_MISSION_TUR_reform_5_28_b_tt_no:0 "£no£否则"
+EDG_unable_doges_palace_global_flag:0 "The Venetian Great Project §YDoge's Palace§! has been §Rdestroyed§!"
+EDG_TUR_ven_doges_palace_enable_flag:0 "Permits the use of the Venetian Great Project §YPasha's Palace§!"
 
-EDG_MISSION_TUR_reform_3_25_a_tt_yes:0 "£yes£若我们已经实施了§Y坦齐马特§!改革，那么"
-EDG_MISSION_TUR_reform_3_25_a_tt_no:0 "£no£若我们已经实施了§Y坦齐马特§!改革，那么"
+EDG_TUR_ven_doges_palace_enable_flag_tt:0 "The Venetian Great Project §YDoge's Palace§! will be §Rdestroyed§!, and no one will be able to use this Great Project.\nHowever, we will be permitted to use the Venetian Great Project §YPasha's Palace§!"
 
-EDG_MISSION_TUR_reform_2_24_a_tt_yes:0 "£yes£若我们已经实施了§Y巩固米利特制度§!改革，那么"
-EDG_MISSION_TUR_reform_2_24_a_tt_no:0 "£no£若我们已经实施了§Y巩固米利特制度§!改革，那么"
+EDG_Mission_TUR_conquest_2_mission_2_9_A_tt_yes:0 "£yes£If we have completed the §YReligious Idea Group§!, then each province in §YItaly§! that follows our state religion will provide us with §M5§! points of £adm£ administrative power, and we will gain the following modifier:"
+EDG_Mission_TUR_conquest_2_mission_2_9_A_tt_no:0 "£no£If we have completed the §YReligious Idea Group§!, then each province in §YItaly§! that follows our state religion will provide us with §M5§! points of £adm£ administrative power, and we will gain the following modifier:"
 
-EDG_MISSION_TUR_reform_1_27_flag_tt:0 "政府能力§Y委任地方帕夏§!将为我们额外攫取§Y5%§!的王冠领地。"
-EDG_MISSION_TUR_reform_2_27_flag_tt:0 "政府能力§Y任命新任大维齐尔§!将允许我们§Y选择§!一种顾问，而不是固定给予我们§Y政治家§!。（仅允许选择部分顾问，并非所有顾问都能被任命为大维齐尔）"
-EDG_MISSION_TUR_reform_3_27_flag_tt:0 "政府能力§Y征召异教徒新兵§!将为我们额外提供§M1年§!的§Y人力§!。"
+EDG_Mission_TUR_conquest_2_mission_3_1_tt:0 "Each country with which we have a §Ytruce§! will lose §R1§! point of §Ystability§! and have §M20§! points of £dip£ diplomatic power looted by us."
+egypt_better_traits_flag_tt:0 "Our rulers will be more likely to acquire §Ypositive traits§!."
 
+EDG_modifier_TUR_NATION_RETORE_restore_tt:0 "If we still have the national modifier §YOttoman Era§!, then its duration will be reset to §M100 years§!."
 
-EDG_flavor_TUR_mission_19_a_tt:0 "每个首都位于§Y马格里布§!的并非我们属国的国家，都将获得负面修正，并被我们掠夺§M30§!点§Y行政点§!、§Y外交点§!和§Y军事点§!"
-EDG_Mission_TUR_conquest_2_mission_1_2_a_tt_yes:0 "£yes£若§Y突尼斯§!有信仰§Y天主教§!的省份，那么\n所有位于§Y突尼斯§!的信仰§Y天主教§!的省份，其宗教将会被转变为我们的国教。"
-EDG_Mission_TUR_conquest_2_mission_1_2_a_tt_no:0 "£no£若§Y突尼斯§!有信仰§Y天主教§!的省份，那么\n所有位于§Y突尼斯§!的信仰§Y天主教§!的省份，其宗教将会被转变为我们的国教。"
+EDG_Mission_TUR_conquest_2_mission_2_5_flag_tt:0 "Unlocks the decision §Y'Revitalize Caspian Trade'§!\nUnlocks the decision §Y'Imperial Silk Textiles'§!"
+EDG_Mission_TUR_conquest_2_mission_4_7_flag_tt:0 "Unlocks the decision §Y'Engage in Indian Trade'§!\nUnlocks the decision §Y'Control the Spice Trade'§!"
 
-EDG_Mission_TUR_conquest_2_mission_1_2_b_tt_yes:0 "£yes£若§Y突尼斯§!没有信仰§Y天主教§!的省份，那么"
-EDG_Mission_TUR_conquest_2_mission_1_2_b_tt_no:0 "£no£若§Y突尼斯§!没有信仰§Y天主教§!的省份，那么"
+EDG_Mission_TUR_conquest_2_mission_3_6_tt:0 "Each of our §Ysubjects§! will provide us with §M5§! points of §Yprestige§!; each point of prestige exceeding the cap will be converted into three types of monarch power."
+EDG_Mission_TUR_conquest_2_mission_3_6_a_tt_yes:0 "£yes£If we still have the national modifier §YOttoman Era§!, then we will gain the following effect:"
+EDG_Mission_TUR_conquest_2_mission_3_6_a_tt_no:0 "£no£If we still have the national modifier §YOttoman Era§!, then we will gain the following effect:"
 
-EDG_Mission_TUR_conquest_2_mission_1_9_tt:0 "所有首都位于§Y伊比利亚§!的国家，将被我们掠夺§M50§!点§Y行政点§!、§Y外交点§!和§Y军事点§!，并获得如下修正："
+EDG_Mission_TUR_conquest_2_mission_3_8_tt:0 "All countries with their capital in §YWestern Europe§! will trigger the event §YFall of Vienna§!. Each country triggering this event will lose stability and have §M5§! points of £mil£ military power looted by us."
 
-EDG_Mission_TUR_conquest_2_mission_2_3_flag_tt:0 "乌理玛特权§Y安拉授权帕迪沙§!将额外给予§M0.5§!点§Y年度威望§!和§M1§!点§Y外交声誉§!"
-EDG_Mission_TUR_conquest_2_mission_2_3_tt:0 "我们和我们属国治下的所有位于§Y波斯§!次大陆的信仰§Y什叶派§!的省份，为我们增加§M1%§!的§G乌理玛忠诚§!，并获得如下修正："
+EDG_Mission_TUR_conquest_2_mission_4_2_flag_tt:0 "We will enable some of @FYM Sahada's §Ygovernment reforms§!."
+EDG_Mission_TUR_conquest_2_mission_4_2_flag:0 "Enable Sahada Exclusive Government Reforms"
 
-EDG_Mission_TUR_conquest_2_mission_2_5_tt:0 "我们和我们属国治下的所有位于§Y阿尔泰§!文化组的省份，将会为我们提供§M5§!点§Y军事点§!"
+EDG_Mission_TUR_conquest_2_mission_4_2_tt:0 "We and all our subjects will gain the following modifier:"
+EDG_Mission_TUR_conquest_2_mission_4_3_tt:0 "All §Yeligible§! provinces will gain the following modifier:"
+EDG_TUR_400_trade_power:0 "Monopoly of the Persian Gulf"
+EDG_Mission_TUR_conquest_2_mission_4_5_tt:0 "Each province in the §YBlack Sea Steppe§! owned by us or our subjects will provide us with one §YCossack Cavalry§! unit."
 
-EDG_flavor_TUR_mission_2_b_opinion:0 "营救天主教徒"
+EDG_Mission_TUR_conquest_2_mission_4_8_flag_tt:0 "The government ability §YRecruit Infidel Recruits§! will additionally provide us with §M5§! points of §YArist Tradition§!."
+EDG_Mission_TUR_conquest_2_mission_4_9_flag_tt:0 "The government ability §YRecruit Infidel Recruits§! will additionally provide §MYenicheri§! with their §Yexclusive modifier§!."
+EDG_Mission_TUR_conquest_2_mission_5_9_flag_tt:0 "The government ability §YAppoint Local Pashas§! will additionally reduce the independence desire of one of our subjects by §M20%§!."
+EDG_Mission_TUR_conquest_2_mission_5_8_flag_tt:0 "The government ability §YAppoint Local Pashas§! will additionally provide us with §M50§! points of §Ysplendor§!."
 
-EDG_Mission_TUR_conquest_2_mission_1_5_a_tt_yes:0 "£yes£若我们和我们的属国有任意省份信仰§Y穆瓦希德派§!，那么这些省份将获得如下修正："
-EDG_Mission_TUR_conquest_2_mission_1_5_a_tt_no:0 "£no£若我们和我们的属国有任意省份信仰§Y穆瓦希德派§!，那么这些省份将获得如下修正："
+EDG_Mission_TUR_conquest_2_mission_5_5_tt:0 "All our existing subjects belonging to the §YTatar§! culture group will gain the following modifier:"
+EDG_Mission_TUR_conquest_2_mission_5_5_tt_2:0 "All provinces belonging to the §YTatar§! culture group owned by us or our subjects will provide us with §M1§! point of §YArist Tradition§!."
+EDG_Mission_TUR_conquest_2_mission_5_3_tt:0 "All provinces with §YGeorgian§! culture owned by us or our subjects will produce the following effect:"
+EDG_Mission_TUR_conquest_2_mission_5_1_tt:0 "All provinces in the §YCaucasus§! region owned by us or our subjects with §Yunrest§! below 1 will provide us with §M5§! points of £adm£ administrative power and reduce §Mcorruption§! by §M0.5§!:"
 
-EDG_Mission_TUR_conquest_2_mission_1_8_a_tt_yes:0 "£yes£若以下任一国家存在：\n-@USP西班牙联盟\n-@SPA西班牙\n-@ADU安达卢西亚\n-@MIB安达卢斯\n-@IBR伊比利亚\n-@ADU摩尔斯科\n那么我们将与其成为§R历史宿敌§!，且我们将获得§M10§!点§Y力量投射§!："
-EDG_Mission_TUR_conquest_2_mission_1_8_a_tt_no:0 "£no£若以下任一国家存在：\n-@USP西班牙联盟\n-@SPA西班牙\n-@ADU安达卢西亚\n-@MIB安达卢斯\n-@IBR伊比利亚\n-@ADU摩尔斯科\n那么我们将与其成为§R历史宿敌§!，且我们将获得§M10§!点§Y力量投射§!："
+EDG_flavor_TUR_mission_24_name_b:0 "Supreme Rum"
+EDG_flavor_TUR_mission_24_name_c:0 "Ottoman Rome"
+EDG_flavor_TUR_mission_24_name_d:0 "Büyük Ulku"
 
-EDG_unable_doges_palace_global_flag:0 "威尼斯奇观§Y总督宫§!已被§R摧毁§!"
-EDG_TUR_ven_doges_palace_enable_flag:0 "允许使用威尼斯奇观§Y帕夏宫§!"
+EDG_flavor_TUR_mission_24_name_b_ADJ:0 "Supreme Rum"
+EDG_flavor_TUR_mission_24_name_c_ADJ:0 "Ottoman Roman"
+EDG_flavor_TUR_mission_24_name_d_ADJ:0 "Büyük Ulku"
 
-EDG_TUR_ven_doges_palace_enable_flag_tt:0 "威尼斯奇观§Y总督宫§!将被§R摧毁§!，任何人都将无法使用该奇观\n但我们将被允许使用威尼斯奇观§Y帕夏宫§!"
+EDG_Mission_TUR_conquest_2_mission_2_9_tt:0 "All countries that follow a §YChristian§! faith and are not our subjects will trigger the event §Y'Saracens Conquer Italy'§!. All countries triggering this event will suffer the following penalties:"
 
-EDG_Mission_TUR_conquest_2_mission_2_9_A_tt_yes:0 "£yes£若我们完成了§Y宗教理念组§!，那么每个信仰我们国教的§Y意大利§!省份，将会为我们提供§M5§!点§Y行政点§!，且我们将获得如下修正："
-EDG_Mission_TUR_conquest_2_mission_2_9_A_tt_no:0 "£no£若我们完成了§Y宗教理念组§!，那么每个信仰我们国教的§Y意大利§!省份，将会为我们提供§M5§!点§Y行政点§!，且我们将获得如下修正："
+EDG_Mission_TUR_conquest_2_mission_4_9_tt:0 "We will accept §YMarathi§! culture. Accepting this culture will not occupy our culture slots."
+EDG_Mission_TUR_conquest_2_mission_5_9_tt:0 "For each province in §YIndia§! owned by us or our subjects that has a §MLevel 2 Trade Center§!, we will receive the following reward:"
+EDG_Mission_TUR_conquest_2_mission_4_7_tt:0 "We will gain the §Y'Ottoman Conquest'§! casus belli against all countries with their capital in the §YIndian§! subcontinent."
 
-EDG_Mission_TUR_conquest_2_mission_3_1_tt:0 "每个与我们存在§Y停战条约§!的国家，将失去§R1§!点§Y稳定度§!，并被我们掠夺§M20§!点§Y外交点§!"
-egypt_better_traits_flag_tt:0 "我们的统治者将更容易获得§Y正面特质§!"
+EDG_Mission_TUR_conquest_2_mission_4_5_flag_tt:0 "Unlocks the decision §Y'Recruit Tatar Cavalry'§!\nUnlocks the decision §Y'Reward Tatar Vassals'§!"
+EDG_TUR_Reward_Tatar_cavalry_decision_tt:0 "All our subjects belonging to the §YTatar§! culture group will cost us §R25§! points of £mil£ military power and gain the following modifier:"
 
-EDG_modifier_TUR_NATION_RETORE_restore_tt:0 "若我们仍拥有国家修正§Y奥斯曼时代§!，那么该修正的持续时间将被重置为§M100年§!"
+EDG_MISSION_TUR_reform_4_21_decision_flag_tt:0 "We will unlock a series of decisions to develop provinces in §YAnatolia§! and §YGreece§!."
 
-EDG_Mission_TUR_conquest_2_mission_2_5_flag_tt:0 "解锁决议§Y「振兴里海贸易」§!\n解锁决议§Y「帝国丝织品」§!"
-EDG_Mission_TUR_conquest_2_mission_4_7_flag_tt:0 "解锁决议§Y「涉足印度贸易」§!\n解锁决议§Y「控制香料贸易」§!"
+EDG_MISSION_TUR_reform_3_26_flag_tt:0 "Unlocks the decision §Y'Review State Institutions'§!\nUnlocks the decision §Y'Review Military Organization'§!\nUnlocks the decision §Y'Review Administrative Organs'§!\nThese three decisions will help us change our §Rcorruption§!, §Mmilitary centralization§!, and §Ygovernment administration§! progress respectively."
 
-EDG_Mission_TUR_conquest_2_mission_3_6_tt:0 "我们的每个§Y属国§!将会为我们提供§M5§!点§Y威望§!，每点溢出的威望将被转化为三项君主点数。"
-EDG_Mission_TUR_conquest_2_mission_3_6_a_tt_yes:0 "£yes£若我们仍拥有国家修正§Y奥斯曼时代§!，那么我们将获得如下效果："
-EDG_Mission_TUR_conquest_2_mission_3_6_a_tt_no:0 "£no£若我们仍拥有国家修正§Y奥斯曼时代§!，那么我们将获得如下效果："
+EDG_Mission_TUR_conquest_3_mission_1_2_tt:0 "Each province with §YScottish§! or §YHighland Scottish§! culture owned by us or our subjects will provide us with §M1§! point of §YNavy Tradition§!."
+EDG_Mission_TUR_conquest_3_mission_1_5_a_tt_yes:0 "£yes£If we have already completed the §YTurkish Empire§! §Midea group§!, then"
+EDG_Mission_TUR_conquest_3_mission_1_5_a_tt_no:0 "£no£If we have already completed the §YTurkish Empire§! §Midea group§!, then"
 
-EDG_Mission_TUR_conquest_2_mission_3_8_tt:0 "所有首都位于§Y西欧§!的国家，将会触发事件§Y维也纳的沦陷§!，每个触发该事件的国家将失去稳定度并被我们掠夺§M5§!点§Y军事点§!"
+EDG_Mission_TUR_conquest_3_mission_1_7_tt:0 "All our subjects with their capital in the §YIndian§! subcontinent will gain the following modifier:"
+EDG_Mission_TUR_conquest_3_mission_1_8_a_tt_yes:0 "£yes£If the entire §YBurma§! region is owned by one of our §Msubjects§!, then"
+EDG_Mission_TUR_conquest_3_mission_1_8_a_tt_no:0 "£no£If the entire §YBurma§! region is owned by one of our §Msubjects§!, then"
 
-EDG_Mission_TUR_conquest_2_mission_4_2_flag_tt:0 "我们将启用@FYM萨哈达的部分§Y政府改革§!"
-EDG_Mission_TUR_conquest_2_mission_4_2_flag:0 "启用萨哈达专属政府改革"
+EDG_Mission_TUR_conquest_3_mission_1_8_b_tt_yes:0 "£yes£If we are a §Yhegemon§!, then"
+EDG_Mission_TUR_conquest_3_mission_1_8_b_tt_no:0 "£no£If we are a §Yhegemon§!, then"
 
-EDG_Mission_TUR_conquest_2_mission_4_2_tt:0 "我们和我们的所有属国都将获得如下修正："
-EDG_Mission_TUR_conquest_2_mission_4_3_tt:0 "所有§Y符合条件§!的省份将会获得如下修正："
-EDG_TUR_400_trade_power:0 "垄断波斯湾"
-EDG_Mission_TUR_conquest_2_mission_4_5_tt:0 "我们和我们的属国所拥有的每个位于§Y黑海大草原§!的省份，将为我们提供一个§Y哥萨克骑兵§!"
+EDG_Mission_TUR_conquest_3_mission_2_8_tt:0 "For each province in the §YIndochina§! region owned by us or our subjects that has a §YTrade Center§!, we will gain §M1§! point of §YMercantilism§!, and these provinces will gain the following modifier:"
 
+EDG_Mission_TUR_conquest_3_mission_3_2_tt:0 "All provinces in §YFrance§! owned by us or our subjects will lose §M1§! point each of §Gbase tax§!, §Gbase production§!, and §Gbase manpower§!. Each province will provide us with §M5§! points each of £adm£ administrative, £dip£ diplomatic, and £mil£ military power."
+EDG_Mission_TUR_conquest_3_mission_4_2_tt:0 "If any provinces in the §YFrance§! region owned by us or our subjects still follow the §MCathar§! faith, those provinces will be converted to our state religion and culture."
 
-EDG_Mission_TUR_conquest_2_mission_4_8_flag_tt:0 "政府能力§Y征召异教徒新兵§!将会额外为我们提供§M5§!点§Y陆军传统§!"
-EDG_Mission_TUR_conquest_2_mission_4_9_flag_tt:0 "政府能力§Y征召异教徒新兵§!将会额外为我们提供§M耶尼切里§!的§Y专属修正§!"
-EDG_Mission_TUR_conquest_2_mission_5_9_flag_tt:0 "政府能力§Y委任地方帕夏§!将会额外降低我们某一属国的§M20%§!点§Y独立倾向§!"
-EDG_Mission_TUR_conquest_2_mission_5_8_flag_tt:0 "政府能力§Y委任地方帕夏§!将会额外为我们提供§M50§!点§Y辉煌点数§!"
+EDG_Mission_TUR_conquest_3_mission_4_5_a_tt_yes:0 "£yes£If no country in the §YEastern Slavic§! culture group is a §MGreat Power§!, then"
+EDG_Mission_TUR_conquest_3_mission_4_5_a_tt_no:0 "£no£If no country in the §YEastern Slavic§! culture group is a §MGreat Power§!, then"
 
-EDG_Mission_TUR_conquest_2_mission_5_5_tt:0 "我们现有的所有属于§Y鞑靼§!文化组的属国，将会获得如下修正："
-EDG_Mission_TUR_conquest_2_mission_5_5_tt_2:0 "我们和我们的属国拥有的所有属于§Y鞑靼§!文化组的省份，将会为我们提供§M1§!点§Y陆军传统§!"
-EDG_Mission_TUR_conquest_2_mission_5_3_tt:0 "我们和我们的属国拥有的所有属于§Y格鲁吉亚§!文化的省份，将会为产生如下效果："
-EDG_Mission_TUR_conquest_2_mission_5_1_tt:0 "我们和我们的属国拥有的所有属于§Y高加索§!地区且§Y叛乱度§!低于1的省份，将会为我们提供§M5§!点§Y行政点§!，并减少§M0.5§!的§Y腐化度§!："
+EDG_Mission_TUR_conquest_3_mission_4_9_tt:0 "All countries with their capital in the mission target location will have §M25§! points each of £adm£ administrative, £dip£ diplomatic, and £mil£ military power looted by us and gain the following modifier:"
+EDG_Mission_TUR_conquest_3_mission_5_7_price_modifier:0 "Eurasian Fur Trade"
+EDG_Mission_TUR_conquest_3_mission_5_5_tt:0 "Each province in the §YRussia§! region owned by us or our subjects will provide us with §M5§! points of £mil£ military power."
 
-EDG_flavor_TUR_mission_24_name_b:0 "至高罗姆"
-EDG_flavor_TUR_mission_24_name_c:0 "奥斯曼罗马"
-EDG_flavor_TUR_mission_24_name_d:0 "布尤克乌科"
+EDG_Mission_TUR_conquest_3_mission_2_5_a_tt_yes:0 "£yes£If the £icon_EDG_icon_hre_emperor£ §YHoly Roman Empire§! still exists, then"
+EDG_Mission_TUR_conquest_3_mission_2_5_a_tt_no:0 "£no£If the £icon_EDG_icon_hre_emperor£ §YHoly Roman Empire§! still exists, then"
 
-EDG_flavor_TUR_mission_24_name_b_ADJ:0 "至高罗姆"
-EDG_flavor_TUR_mission_24_name_c_ADJ:0 "奥斯曼罗马"
-EDG_flavor_TUR_mission_24_name_d_ADJ:0 "布尤克乌科"
+EDG_Mission_TUR_conquest_2_mission_3_9_a_tt_yes:0 "£yes£If our ruler does not have the trait §YLegendary Conqueror§!, then"
+EDG_Mission_TUR_conquest_2_mission_3_9_a_tt_no:0 "£no£If our ruler does not have the trait §YLegendary Conqueror§!, then"
+EDG_Mission_TUR_conquest_2_mission_3_9_b_tt_yes:0 "£yes£If our ruler has the trait §YLegendary Conqueror§!, then"
+EDG_Mission_TUR_conquest_2_mission_3_9_b_tt_no:0 "£no£If our ruler has the trait §YLegendary Conqueror§!, then"
 
-EDG_Mission_TUR_conquest_2_mission_2_9_tt:0 "所有信仰§Y基督教§!且并非我们属国的国家，将触发事件§Y「萨拉森人攻克意大利」§!，所有触发该事件的国家将获得蒙受如下惩罚："
 
-EDG_Mission_TUR_conquest_2_mission_4_9_tt:0 "我们将接纳§Y马拉地§!文化，接纳该文化将不占用我们的文化槽。"
-EDG_Mission_TUR_conquest_2_mission_5_9_tt:0 "我们和我们的属国所拥有的每个位于§Y印度§!的拥有§M2级贸易中心§!的省份，将会为我们提供如下奖励："
-EDG_Mission_TUR_conquest_2_mission_4_7_tt:0 "我们将获得所有首都位于§Y印度§!次大陆的国家的§Y「奥斯曼征服」§!战争理由"
 
-EDG_Mission_TUR_conquest_2_mission_4_5_flag_tt:0 "解锁决议§Y「征募鞑靼骑兵」§!\n解锁决议§Y「封赏鞑靼藩属」§!"
-EDG_TUR_Reward_Tatar_cavalry_decision_tt:0 "我们的所有属于§Y鞑靼§!文化组的属国，将会扣除我们§R25§!点§Y军事点§!，并获得如下修正："
+#Turov
+EDG_add_stability_to_3_tt:0 "Raise our §Ystability§! to §M+3§!"
+DMR_mission_3_3_tt:0 "All our §Ysubjects§! and §Yallies§! will increase their opinion of us by §M50§! points."
 
-EDG_MISSION_TUR_reform_4_21_decision_flag_tt:0 "我们将解锁一系列发展§Y安纳托利亚§!和§Y希腊§!省份的决议"
+DMR_mission_2_7_a_tt_yes:0 "If @SMO Smolensk §Ydoes not exist§!, and the province §MSmolensk§! is a §Gcore province§! owned by us."
+DMR_mission_1_7_a_tt_yes:0 "If all provinces in the full-core state §MSmolensk§! have had their development increased at least §G10§! times."
+DMR_mission_1_10_a_tt_yes:0 "If @TEU Teutonic Order §Ydoes not exist§!."
+DMR_mission_3_8_a_tt_yes:0 "If any of our subjects has §YPolish§! as their primary culture."
+DMR_mission_3_8_tt:0 "Each province in the §YPoland§! region owned by us or our non-tributary subjects will lose §M10§! points of separatism and provide us with §M5§! points of £mil£ military power."
+DMR_mission_3_14_a_tt_yes:0 "If we are the §YDefender of the Faith§!."
+DMR_mission_5_21_tt:0 "The §Yprovinces required by the mission§! owned by us or our non-tributary subjects will gain the following modifier:"
+DMR_mission_5_19_tt:0 "Each £icon_EDG_icon_hre_emperor£ §YHoly Roman Empire§! prince will have §M3§! points of £dip£ diplomatic power looted by us."
+DMR_mission_2_20_tt:0 "Each province in the §YLow Countries§! owned by us or our non-tributary subjects will provide us with §M15§! points of £dip£ diplomatic power."
 
-EDG_MISSION_TUR_reform_3_26_flag_tt:0 "解锁决议§Y「审查国家机构」§!\n解锁决议§Y「审查军事组织」§!\n解锁决议§Y「审查行政机关」§!\n上述三个决议将能够帮助我们分别改变我们的§R腐化度§!、§M军事集权化§!和§Y政府行政化§!进度"
+DMR_mission_3_19_a_tt_yes:0 "If we or our non-tributary subjects own the province §YFrankfurt§!."
+DMR_mission_2_17_a_tt_yes:0 "If §YSwedish§! culture is one of our accepted cultures."
+DMR_mission_3_13_tt:0 "The provinces required by the mission will lose §M15§! points of §Yunrest§! and §M25§! points of §Yautonomy§!."
+DMR_mission_3_17_tt:0 "Each province §Ybelonging to the Holy Roman Empire§! owned by us or our non-tributary subjects will grant us §M5§! points of £adm£ administrative power."
+DMR_mission_5_13_STRONG_MERCHANTS:0 "Conquest of Constantinople"
+EDG_TOV_homeward_bound_TT:0 "If we have the modifier §Y'Homesick'§!, its duration will be reset to §M10 years§!.\nOtherwise, we will regain this modifier:"
+EDG_TOV_unfinished_business_TT:0 "If we have the modifier §Y'Unfinished Business'§!, its duration will be reset to §M10 years§!.\nOtherwise, we will regain this modifier:"
+DMR_mission_4_40_tt:0 "All provinces we own that produce §YSalt§! will gain the following effect:"
+DMR_mission_3_41_tt:0 "All eligible provinces we own will gain the following effect:"
 
-EDG_Mission_TUR_conquest_3_mission_1_2_tt:0 "我们和我们的属国拥有的每个§Y苏格兰§!或§Y大苏格兰§!文化的省份，将会为我们提供§M1§!点§Y海军传统§!。"
-EDG_Mission_TUR_conquest_3_mission_1_5_a_tt_yes:0 "£yes£若我们已经完成了§Y土耳其帝国§!§M理念组§!，那么"
-EDG_Mission_TUR_conquest_3_mission_1_5_a_tt_no:0 "£no£若我们已经完成了§Y土耳其帝国§!§M理念组§!，那么"
+EDG_ambrosian_republic_Sforza_TT:0 "We can end the current §Rdisaster§! by §YStrengthening Sforza's Authority§!.\nIf §YSforza§! is dismissed as a general or dies after becoming ruler, the disaster will continue for §R10 years§!."
 
-EDG_Mission_TUR_conquest_3_mission_1_7_tt:0 "我们的所有首都位于§Y印度§!次大陆的属国，将会获得如下修正："
-EDG_Mission_TUR_conquest_3_mission_1_8_a_tt_yes:0 "£yes£若整个§Y缅甸§!地区都被我们的某一§M属国§!拥有，那么"
-EDG_Mission_TUR_conquest_3_mission_1_8_a_tt_no:0 "£no£若整个§Y缅甸§!地区都被我们的某一§M属国§!拥有，那么"
+EDG_mission_FRA_4_24_tt:0 "We will enable the §MFrench Renaissance§! historical event chain. Based on the historical timeline of the French Renaissance, this event chain will be triggered progressively after §Y1500§!."
+EDG_mission_FRA_4_25_trigger_yes:0 "Based on the historical timeline of the French Renaissance, the §MFrench Renaissance§! historical event chain will be triggered progressively after §Y1500§!."
 
-EDG_Mission_TUR_conquest_3_mission_1_8_b_tt_yes:0 "£yes£若我们是一个§Y霸权§!，那么"
-EDG_Mission_TUR_conquest_3_mission_1_8_b_tt_no:0 "£no£若我们是一个§Y霸权§!，那么"
+MAM_mission_2_12_a_tt_yes:0 "£yes£If @CYP Cyprus is our subject, then"
+MAM_mission_2_12_a_tt_no:0 "£no£If @CYP Cyprus is our subject, then"
 
-EDG_Mission_TUR_conquest_3_mission_2_8_tt:0 "我们和我们的属国所拥有的每个位于§Y印度支那§!地区的拥有§Y贸易中心§!的省份，将会为我们提供§M1§!点§Y重商主义§!，且这些省份将会获得如下修正："
+MAM_mission_2_12_b_tt_yes:0 "£yes£If @CYP Cyprus is not our subject, then"
+MAM_mission_2_12_b_tt_no:0 "£no£If @CYP Cyprus is not our subject, then"
 
-EDG_Mission_TUR_conquest_3_mission_3_2_tt:0 "我们和我们的属国所拥有的所有位于§Y法兰西§!的省份将失去§M1§!点§G基础税收§!、§G基础生产§!和§G基础人力§!，每个省份将会为我们提供§M5§!点§Y行政点§!、§Y外交点§!和§Y军事点§!"
-EDG_Mission_TUR_conquest_3_mission_4_2_tt:0 "若我们和我们属国拥有的所有的§Y法兰西§!地区仍有信仰§M清洁派§!的省份，那么这些省份将被转变为我们的国教和文化。"
 
-EDG_Mission_TUR_conquest_3_mission_4_5_a_tt_yes:0 "£yes£若没有任何一个§Y东斯拉夫§!文化组的国家是§M列强§!，那么"
-EDG_Mission_TUR_conquest_3_mission_4_5_a_tt_no:0 "£no£若没有任何一个§Y东斯拉夫§!文化组的国家是§M列强§!，那么"
 
-EDG_Mission_TUR_conquest_3_mission_4_9_tt:0 "所有首都位于任务地点的国家，将会被我们掠夺§M25§!点§Y行政点§!、§Y外交点§!和§Y军事点§!，并获得如下修正："
-EDG_Mission_TUR_conquest_3_mission_5_7_price_modifier:0 "欧亚毛皮贸易"
-EDG_Mission_TUR_conquest_3_mission_5_5_tt:0 "我们和我们的属国拥有的每个位于§Y俄罗斯§!地区的省份，将会为我们提供§M5§!点§Y军事点§!"
+EDG_mission_LOT_1_2_a_tt_yes:0 "£yes£If we complete the mission by §Mhiring an advisor§!, then"
+EDG_mission_LOT_1_2_a_tt_no:0 "£no£If we complete the mission by §Mhiring an advisor§!, then"
+EDG_mission_LOT_1_2_b_tt_yes:0 "£yes£If we complete the mission by §Mimproving relations§!, then"
+EDG_mission_LOT_1_2_b_tt_no:0 "£no£If we complete the mission by §Mimproving relations§!, then"
 
-EDG_Mission_TUR_conquest_3_mission_2_5_a_tt_yes:0 "£yes£若£icon_EDG_icon_hre_emperor£§Y神圣罗马帝国§!仍然存在，那么"
-EDG_Mission_TUR_conquest_3_mission_2_5_a_tt_no:0 "£no£若£icon_EDG_icon_hre_emperor£§Y神圣罗马帝国§!仍然存在，那么"
+EDG_mission_LOT_1_3_a_tt:0 "Each of our subjects belonging to the §YGermanic§! culture group will produce the following effect:\n- Lose §M25%§! §Gindependence desire§!\n- Provide us with §M25§! points of £adm£ administrative power.\n\nAll §Mtheocracies§! within @PAP the Papal State and the £icon_EDG_icon_hre_emperor£ §YHoly Roman Empire§! will increase their §Gopinion§! of us by §M50§! points.\n\nThe §YClergy§! estate privilege §Y'Guardian of the Catholic Church'§! will additionally grant the following modifiers:\n- §M+1§! §Gdiplomatic reputation§!\n- §M+0.5§! §Gyearly prestige§!"
+EDG_mission_LOT_1_3_opinion:0 "Protect the Bishopric"
 
+EDG_mission_LOT_2_1_a_tt_yes:0 "£yes£If our ruler is §YLudwig VII§!, then"
+EDG_mission_LOT_2_1_a_tt_no:0 "£no£If our ruler is §YLudwig VII§!, then"
 
-EDG_Mission_TUR_conquest_2_mission_3_9_a_tt_yes:0 "£yes£若我们的统治者没有特质§Y传奇征服者§!，那么"
-EDG_Mission_TUR_conquest_2_mission_3_9_a_tt_no:0 "£no£若我们的统治者没有特质§Y传奇征服者§!，那么"
-EDG_Mission_TUR_conquest_2_mission_3_9_b_tt_yes:0 "£yes£若我们的统治者有特质§Y传奇征服者§!，那么"
-EDG_Mission_TUR_conquest_2_mission_3_9_b_tt_no:0 "£no£若我们的统治者有特质§Y传奇征服者§!，那么"
+EDG_mission_LOT_2_1_b_tt_yes:0 "£yes£If our ruler is not §YLudwig VII§!, then"
+EDG_mission_LOT_2_1_b_tt_no:0 "£no£If our ruler is not §YLudwig VII§!, then"
 
+EDG_mission_LOT_2_2_tt:0 "Each province we own that follows our §Ystate religion§! will provide us with the following rewards:\n- §M1§! point of £adm£ administrative power\n- §M1§! point of §Gprestige§!"
+EDG_flavor_LOT_mission_10_insight_tt:0 "This event will provide us with the §YFrankish Successor§! casus belli, which we can use to declare war on @FRA France."
 
+EDG_mission_LOT_1_6_flag_tt:0 "The §Ygovernment interaction§! §MPromote Paladin§! will additionally provide us with §M1000§! manpower."
 
-#图罗夫
-EDG_add_stability_to_3_tt:0 "将我们的§Y稳定度§!提升至§M+3§!"
-DMR_mission_3_3_tt:0 "我们的所有§Y属国§!和§Y盟友§!，对我们的好感将会提升§M50§!点。"
+EDG_mission_LOT_1_6_tt:0 "Provinces we own that produce §YGrain§! will gain the following modifier:"
 
-DMR_mission_2_7_a_tt_yes:0 "若@SMO 斯摩棱斯克§Y不存在§!，且省份§M斯摩棱斯克§!是我们所拥有的§G核心省份§!"
-DMR_mission_1_7_a_tt_yes:0 "若直属州§M斯摩棱斯克§!的所有省份，提升发展度的次数达到§G10§!"
-DMR_mission_1_10_a_tt_yes:0 "若@TEU 条顿骑士团§Y不存在§!"
-DMR_mission_3_8_a_tt_yes:0 "若我们的任一属国的主流文化是§Y波兰§!"
-DMR_mission_3_8_tt:0 "我们和我们的非朝贡属国所拥有的每个位于§Y波兰§!地区的省份，将会失去§M10§!点分离主义，并为我们提供§M5§!点§Y军事点数§!"
-DMR_mission_3_14_a_tt_yes:0 "若我们是§Y信仰守护者§!"
-DMR_mission_5_21_tt:0 "我们和我们的非朝贡属国所拥有的，§Y任务所要求的§!省份，将会获得如下修正："
-DMR_mission_5_19_tt:0 "每个£icon_EDG_icon_hre_emperor£§Y神圣罗马帝国§!的诸侯，将会被我们掠夺§M3§!点§Y外交点§!"
-DMR_mission_2_20_tt:0 "我们和我们的非朝贡属国所拥有的，每个位于§Y低地§!的省份，将会为我们提供§M15§!点§Y外交点§!"
+EDG_mission_LOT_1_7_tt:0 "The §Rindependence desire§! of all our §Yfiefs§! will be §Greduced to zero§!."
 
-DMR_mission_3_19_a_tt_yes:0 "若我们或我们的非朝贡属国拥有省份§Y法兰克福§!"
-DMR_mission_2_17_a_tt_yes:0 "若§Y瑞典§!文化是我们的接纳文化"
-DMR_mission_3_13_tt:0 "任务所要求的省份将失去§M15§!点§Y叛乱度§!和§M25§!点§Y自治度§!"
-DMR_mission_3_17_tt:0 "我们和我们的非朝贡属国所拥有的每个§Y属于神圣罗马帝国§!的省份，将会给予我们§M5§!点§Y行政点§!"
-DMR_mission_5_13_STRONG_MERCHANTS:0 "征服君士坦丁堡"
-EDG_TOV_homeward_bound_TT:0 "若我们拥有修正§Y「归乡心切」§!，那么该修正的持续时间将被重置为§M10年§!。\n否则，我们将重新获得该修正："
-EDG_TOV_unfinished_business_TT:0 "若我们拥有修正§Y「未竟之事」§!，那么该修正的持续时间将被重置为§M10年§!。\n否则，我们将重新获得该修正："
-DMR_mission_4_40_tt:0 "我们拥有的所有生产§Y盐§!的省份，将会获得如下效果："
-DMR_mission_3_41_tt:0 "我们拥有的符合条件的省份，将会获得如下效果："
+EDG_mission_LOT_1_8_a_tt_yes:0 "£yes£If we have already unlocked the §YNew Army§! estate, this estate will gain the following modifiers:\n- Gain §M10§! points of §Gloyalty§!\n- Gain §M10%§! §Gcrown land§! from other estates."
+EDG_mission_LOT_1_8_a_tt_no:0 "£no£If we have already unlocked the §YNew Army§! estate, this estate will gain the following modifiers:\n- Gain §M10§! points of §Gloyalty§!\n- Gain §M10%§! §Gcrown land§! from other estates."
 
-EDG_ambrosian_republic_Sforza_TT:0 "我们可以通过§Y加强斯福尔扎的权威§!以结束目前正在进行的§R灾难§!。\n若§Y斯福尔扎§!作为将军被解雇或成为统治者后死亡，该灾难将持续§R10年§!。"
+EDG_mission_LOT_1_10_a_tt:0 "All provinces in the §YItaly§! region owned by us or our subjects will gain the following modifier:"
+EDG_mission_LOT_1_10_a_tt_yes:0 "£yes£If we have at least §M10§! provinces with the modifier §G'Military Production: Cannon Manufacturing'§!"
+EDG_mission_LOT_1_10_a_tt_no:0 "£no£If we have at least §M10§! provinces with the modifier §G'Military Production: Cannon Manufacturing'§!"
 
-EDG_mission_FRA_4_24_tt:0 "我们将启用§M法兰西文艺复兴§!历史事件组，根据历史上法兰西文艺复兴的时间，该事件组将于§Y1500年§!后陆续触发。"
-EDG_mission_FRA_4_25_trigger_yes:0 "根据历史上法兰西文艺复兴的时间，§M法兰西文艺复兴§!历史事件组将于§Y1500年§!后陆续触发"
+EDG_flavor_LOT_mission_13_A_flag_tt:0 "Unlocks the event §Y'Choose a Philosophy Tutor for the Heir'§!.\n- This event allows us to increase our §YHeir's§! §Madministrative§!, §Ydiplomatic§!, or §Ymilitary§! skill by §M1§! point.\n- The event triggers within §Gone year§! after an heir appears.\n- It can only trigger §Gonce§! per heir."
+EDG_Teatro_alla_Scala_provinde_adm_tech_cost_modifier_flag:0 "For the province §YMilan§!, each level of the Great Project §MTeatro alla Scala§! will provide a §M5%§! reduction to §Yadministrative technology cost§!."
 
+EDG_mission_LOT_1_13_STRONG_MERCHANTS:0 "Genoese Control"
+EDG_mission_LOT_1_13_flag_tt:0 "As long as @GEN §YGenoa§! is our §Gchartered bank§! subject, we will enjoy the following modifiers:\n-§MNational Goods Produced Modifier§!:§G+10%§!\n-§MMerchant§!:§G+1§!"
+EDG_mission_LOT_1_13_flag_trigger_modifier:0 "Control of the Bank of Saint George"
 
-MAM_mission_2_12_a_tt_yes:0 "£yes£若@CYP塞浦路斯是我们的属国，那么"
-MAM_mission_2_12_a_tt_no:0 "£no£若@CYP塞浦路斯是我们的属国，那么"
+EDG_mission_LOT_2_2_a_flag_tt:0 "The §YClergy§! estate privilege §Y'Guardian of the Catholic Church'§! will not reduce our §Gnational tax modifier§!."
+EDG_flavor_LOT_mission_15_a_power_projection:0 "Against the Holy Roman Empire"
 
-MAM_mission_2_12_b_tt_yes:0 "£yes£若@CYP塞浦路斯不是我们的属国，那么"
-MAM_mission_2_12_b_tt_no:0 "£no£若@CYP塞浦路斯不是我们的属国，那么"
+EDG_mission_LOT_2_4_tt:0 "Each province we own that belongs to the §YGermanic§! culture group but is not part of the £icon_EDG_icon_hre_emperor£ §YHoly Roman Empire§! will provide us with:\n-§M1§! point of §Gprestige§!\n-§M2§! points of £mil£ military power!"
 
+MAY_upgrade_privilege_of_burghers_flag_tt:0 "The §Y'[Root.Get市民Name]'§! estate privilege §M'Sell Crown Land to the [Root.Get市民Name]'§! additionally provides the following modifier:\n-§MDiplomatic Technology Cost§!:§G-10%§!"
+EDG_mission_LOT_2_7_flag_tt:0 "Unlocks the §Y'[Root.Get市民Name]'§! estate privilege §M'Great Charter'§!, which can be upgraded in subsequent missions."
 
+EDG_mission_LOT_2_7_a_tt_yes:0 "£yes£If @FLA Flanders is our §Ysubject§!, then"
+EDG_mission_LOT_2_7_a_tt_no:0 "£no£If @FLA Flanders is our §Ysubject§!, then"
 
-EDG_mission_LOT_1_2_a_tt_yes:0 "£yes£若我们通过§M雇佣顾问§!完成任务，那么"
-EDG_mission_LOT_1_2_a_tt_no:0 "£no£若我们通过§M雇佣顾问§!完成任务，那么"
-EDG_mission_LOT_1_2_b_tt_yes:0 "£yes£若我们通过§M改善关系§!完成任务，那么"
-EDG_mission_LOT_1_2_b_tt_no:0 "£no£若我们通过§M改善关系§!完成任务，那么"
+EDG_mission_LOT_2_7_b_tt_yes:0 "£yes£If @BRB Brabant is our §Ysubject§!, then"
+EDG_mission_LOT_2_7_b_tt_no:0 "£no£If @BRB Brabant is our §Ysubject§!, then"
 
-EDG_mission_LOT_1_3_a_tt:0 "我们的每个§Y日耳曼§!文化组的属国，将会产生如下效果：\n-失去§M25%§!的§G独立倾向§!\n-为我们提供§M25§!点§G行政点§!\n\n@PAP教宗国和£icon_EDG_icon_hre_emperor£§Y神圣罗马帝国§!内的所有§M神权国§!，对我们的§G好感度§!将提高§M50§!点。\n\n§Y教士§!阶层特权§Y「公教会的守护者」§!将会额外给予如下修正：\n-§M外交声誉§!§G+1§!\n-§M年度威望§!§G+0.5§!"
-EDG_mission_LOT_1_3_opinion:0 "保护主教区"
+EDG_mission_LOT_2_7_c_tt_yes:0 "£yes£If our §Yhome trade node§! is §Mthe English Channel§!, then"
+EDG_mission_LOT_2_7_c_tt_no:0 "£no£If our §Yhome trade node§! is §Mthe English Channel§!, then"
+EDG_mission_LOT_2_7_c_tt_yes_STRONG_MERCHANTS:0 "Rule the Dutch Coast"
 
-EDG_mission_LOT_2_1_a_tt_yes:0 "£yes£若我们的统治者是§Y路德维希 VII§!，那么"
-EDG_mission_LOT_2_1_a_tt_no:0 "£no£若我们的统治者是§Y路德维希 VII§!，那么"
+EDG_mission_LOT_2_8_a_tt:0 "Each province we own with the province modifier §G'Military Production: Weapon Manufacturing'§! will provide us with §M0.5%§! §YArist Professionalism§!."
 
-EDG_mission_LOT_2_1_b_tt_yes:0 "£yes£若我们的统治者不是§Y路德维希 VII§!，那么"
-EDG_mission_LOT_2_1_b_tt_no:0 "£no£若我们的统治者不是§Y路德维希 VII§!，那么"
+EDG_mission_LOT_2_8_B_flag_tt:0 "The §YClergy§! estate privilege §Y'Guardian of the Catholic Church'§! will additionally grant the following modifier:\n-§M+1§! §Gmissionary strength§!"
 
-EDG_mission_LOT_2_2_tt:0 "我们拥有的每个信仰§Y国教§!的省份，将会为我们提供以下奖励：\n-§M1§!点§G行政点§!\n-§M1§!点§G威望§!"
-EDG_flavor_LOT_mission_10_insight_tt:0 "该事件将为我们提供§Y法兰克继任者§!宣战理由，我们可以使用该理由向@FRA法兰西宣战。"
+EDG_mission_LOT_2_8_c_tt_yes:0 "£yes£If we or our subjects own the province §Y[4694.GetName]§!, then"
+EDG_mission_LOT_2_8_c_tt_no:0 "£no£If we or our subjects own the province §Y[4694.GetName]§!, then"
 
-EDG_mission_LOT_1_6_flag_tt:0 "§Y政府互动§!§M提拔圣骑士§!将为我们额外提供§M1000§!点人力。"
+EDG_mission_LOT_2_10_a_tt:0 "Each province we own with the province modifier §G'Economic Production: Supporting Infrastructure'§! will gain §M1§! §Ybase production§!."
+reduce_ae_from_prom_cultures_flag_tt:0 "When we §Yactively accept a culture§!, the §Raggressive expansion§! that all countries have against us will §Gdecrease§! by §M3§! points."
+EDG_mission_LOT_2_11_a_opinion:0 "The Emperor is Unable to Defend the Empire"
+EDG_mission_LOT_2_11_a_tt:0 "All §YHoly Roman Empire§! princes will lose §R100§! points of §Gopinion§! towards the £icon_EDG_icon_hre_emperor£ §YEmperor§! [emperor.GetName], and the Emperor will suffer the following negative effects:"
 
-EDG_mission_LOT_1_6_tt:0 "我们拥有的产物为§Y谷物§!的省份，将会获得如下修正："
+EDG_mission_LOT_2_8_B_flag_tt:0 "The §YClergy§! estate privilege §Y'Guardian of the Catholic Church'§! will additionally grant the following modifier:\n-§M+1§! §Gmissionary strength§!"
 
-EDG_mission_LOT_1_7_tt:0 "我们所有§Y封邑§!的§R独立倾向§!将会§G清零§!。"
+EDG_mission_LOT_3_3_a_tt_yes:0 "£yes£If we selected §G'The Pope is the ruler of our spiritual world'§! in the §YBook of Kings§!, then"
+EDG_mission_LOT_3_3_a_tt_no:0 "£no£If we selected §G'The Pope is the ruler of our spiritual world'§! in the §YBook of Kings§!, then"
 
-EDG_mission_LOT_1_8_a_tt_yes:0 "£yes£若我们已经解锁§Y新军§!阶层，该阶层将获得如下修正：\n-获得§M10§!点§G忠诚度§!\n-从其他阶层处获得§M10%§!的§G王冠领地§!"
-EDG_mission_LOT_1_8_a_tt_no:0 "£no£若我们已经解锁§Y新军§!阶层，该阶层将获得如下修正：\n-获得§M10§!点§G忠诚度§!\n-从其他阶层处获得§M10%§!的§G王冠领地§!"
+EDG_mission_LOT_3_3_b_tt_yes:0 "£yes£If we did not select §G'The King is more authoritative than the Pope'§! in the §YBook of Kings§!, then"
+EDG_mission_LOT_3_3_b_tt_no:0 "£no£If we did not select §G'The King is more authoritative than the Pope'§! in the §YBook of Kings§!, then"
 
-EDG_mission_LOT_1_10_a_tt:0 "我们和我们的属国所拥有的所有§Y意大利§!地区的省份，将会获得如下修正："
-EDG_mission_LOT_1_10_a_tt_yes:0 "£yes£若我们拥有§M10§!个省份拥有修正§G「军事生产力：制造火炮」§!"
-EDG_mission_LOT_1_10_a_tt_no:0 "£no£若我们拥有§M10§!个省份拥有修正§G「军事生产力：制造火炮」§!"
+EDG_mission_LOT_3_5_a_tt_yes:0 "£yes£If we are currently in a §YGolden Age§!, then"
+EDG_mission_LOT_3_5_a_tt_no:0 "£no£If we are currently in a §YGolden Age§!, then"
 
-EDG_flavor_LOT_mission_13_A_flag_tt:0 "解锁事件§Y「为继承人选择哲学老师」§!\n-该事件允许我们为§Y继承人§!提高§M1§!点§Y行政§!、§Y外交§!或§Y军事§!\n-该事件在继承人出现后的§G一年内§!触发\n-每位继承人只能触发§G一次§!"
-EDG_Teatro_alla_Scala_provinde_adm_tech_cost_modifier_flag:0 "省份§Y米兰§!的奇观§M斯卡拉歌剧院§!，每一等级将会提供§M5%§!的§Y行政科技花费§!"
+EDG_mission_LOT_3_5_b_tt_yes:0 "£yes£If we are not in a §YGolden Age§! but are in the §Y'Age of Discovery'§!, then the era objective §Y'Three Thrones'§! will be considered completed."
+EDG_mission_LOT_3_5_b_tt_no:0 "£no£If we are not in a §YGolden Age§! but are in the §Y'Age of Discovery'§!, then the era objective §Y'Three Thrones'§! will be considered completed."
 
-EDG_mission_LOT_1_13_STRONG_MERCHANTS:0 "热那亚的掌控力"
-EDG_mission_LOT_1_13_flag_tt:0 "只要@GEN§Y热那亚§!是我们的§G特许银行§!属国，那么我们将享有如下修正：\n-§M全国商品产出修正§!:§G+10%§!\n-§M商人团§!:§G+1§!"
-EDG_mission_LOT_1_13_flag_trigger_modifier:0 "控制圣乔治银行"
+EDG_mission_LOT_3_5_claim_tt:0 "We will gain §Gpermanent claims§! on all full-core states belonging to the §YHoly Roman Empire§! that are §Madjacent to our borders§!.\nWhenever we expand, we will gain §Gpermanent claims§! on newly adjacent Holy Roman Empire full-core states within §Mone year§!."
+EDG_flavor_LOT_mission_24_a_modifier_restore_tt:0 "If we already have this modifier, its duration will be §Mreset§! to §Gten years§!."
 
-EDG_mission_LOT_2_2_a_flag_tt:0 "§Y教士§!阶层特权§Y「公教会的守护者」§!将不会减少我们的§G国家税收修正§!"
-EDG_flavor_LOT_mission_15_a_power_projection:0 "对抗神圣罗马帝国"
+EDG_mission_LOT_3_6_tt:0 "We will be able to §Gupgrade§! this modifier after §M10§! years."
+EDG_mission_LOT_3_6_a_tt:0 "Each province we own with the province modifier §G'Economic Production: Supporting Infrastructure'§! will provide us with §M0.1 years§! of §Ynational income§!."
+ab_EDG_Rhineland_Construction_age_ability_enable_flag_tt:0 "Unlocks the §YSecond Era§! §Mera ability§! §G'Rhineland Construction'§!."
 
-EDG_mission_LOT_2_4_tt:0 "我们所拥有的每个属于§Y日耳曼§!文化组却不属于£icon_EDG_icon_hre_emperor£§Y神圣罗马帝国§!的省份，将会为我们提供：\n-§M1§!点§G威望§!\n-§M2§!点§G军事点数§!"
+EDG_Mission_LOT_NED_enable_flag_tt:0 "We will unlock a set of §Ycolonial missions§! that allow us to use some content from @NED §Ythe Netherlands§! and §Gcolonize§! the New World and the East."
+EDG_mission_LOT_3_7_event_tt:0 "We will have an opportunity to unlock a set of §Ycolonial missions§! that allow us to use some content from @NED §Ythe Netherlands§! and §Gcolonize§! the New World and the East."
+EDG_mission_LOT_3_7_a_tt:0 "Each province we own with the province modifier §G'Military Production: Shipbuilding'§! will provide us with §M1§! point of §YMercantilism§!."
 
-MAY_upgrade_privilege_of_burghers_flag_tt:0 "§Y「[Root.Get市民Name]」§!阶层特权§M「向[Root.Get市民Name]出售王室领地」§!额外提供如下修正：\n-§M外交科技花费§!:§G-10%§!"
-EDG_mission_LOT_2_7_flag_tt:0 "解锁§Y「[Root.Get市民Name]」§!阶层特权§M「大特许状」§!，该特权能在后续任务中进行升级"
+EDG_mission_LOT_3_8_a_tt:0 "Remove all §Gcores§! of @H04 §YOverijssel§! from our provinces."
+EDG_mission_LOT_3_8_a_tt_yes:0 "£yes£If @H04 §YOverijssel§! does not exist, then"
+EDG_mission_LOT_3_8_a_tt_no:0 "£no£If @H04 §YOverijssel§! does not exist, then"
 
-EDG_mission_LOT_2_7_a_tt_yes:0 "£yes£若@FLA佛兰德是我们的§Y属国§!，那么"
-EDG_mission_LOT_2_7_a_tt_no:0 "£no£若@FLA佛兰德是我们的§Y属国§!，那么"
+EDG_flavor_LOT_mission_28_a_tt:0 "Remove all §Raggressive expansion§! modifiers against us from countries with their capital in §YGermany§!."
+EDG_LOT_special_ideas_enable_flag_tt:0 "We will enable the following three §Yexclusive idea groups§!:\n-§MLotharingian Administrative Ideas§!\n-§MLotharingian Diplomatic Ideas§!\n-§MLotharingian Military Ideas§!\nWe will §Rbe unable to unlock§! other §Midea groups§!.\n\nUntil these three idea groups are §Yfully unlocked§!, we will suffer the following modifier:"
 
-EDG_mission_LOT_2_7_b_tt_yes:0 "£yes£若@BRB布拉邦特是我们的§Y属国§!，那么"
-EDG_mission_LOT_2_7_b_tt_no:0 "£no£若@BRB布拉邦特是我们的§Y属国§!，那么"
+EDG_flavor_LOT_mission_33_enable_flag_tt:0 "Unlocks the event §Y'Eight Great Academies'§!. This event allows us to construct a §YUniversity§! in eight provinces within the §MFrance§! region that have a development of at least §M25§!. This event will trigger every five years as long as we have eligible provinces, until eight of our provinces have the province modifier §G'Eight Great Academies'§!."
 
-EDG_mission_LOT_2_7_c_tt_yes:0 "£yes£若我们的§Y贸易本埠§!在§M英吉利海峡§!，那么"
-EDG_mission_LOT_2_7_c_tt_no:0 "£no£若我们的§Y贸易本埠§!在§M英吉利海峡§!，那么"
-EDG_mission_LOT_2_7_c_tt_yes_STRONG_MERCHANTS:0 "统治尼德兰海岸"
+EDG_Aachen_University_enable_flag_tt:0 "Unlocks the Great Project §Y'Aachen University'§! for the province §YAachen§!."
 
-EDG_mission_LOT_2_8_a_tt:0 "我们拥有的每个具有省份修正§G「军事生产力：制造武器」§!的省份，将会为我们提供§M0.5%§!的§Y陆军职业度§!"
+EDG_on_tech_taken_add_10_prestige_flag_tt:0 "When we §Yincrease technology§!, we will consistently gain §M10§! points of §Gprestige§!. Excess prestige will be converted into monarch power."
+EDG_mission_LOT_1_26_flag_tt:0 "Unlocks the decision §Y'Fund Applied Sciences'§!. This decision allows us to consume §MInnovativeness§! to gain §Gtechnology§! bonuses."
 
-EDG_mission_LOT_2_8_B_flag_tt:0 "§Y教士§!阶层特权§Y「公教会的守护者」§!将会额外给予如下修正：\n-§M传教强度§!§G+1§!"
+EDG_mission_LOT_5_20_a_tt_yes:0 "£yes£If the §Y'Burghers'§! estate has at least §M4§! privileges, then"
+EDG_mission_LOT_5_20_a_tt_no:0 "£no£If the §Y'Burghers'§! estate has at least §M4§! privileges, then"
 
-EDG_mission_LOT_2_8_c_tt_yes:0 "£yes£若我们或我们的属国拥有省份§Y[4694.GetName]§!，那么"
-EDG_mission_LOT_2_8_c_tt_no:0 "£no£若我们或我们的属国拥有省份§Y[4694.GetName]§!，那么"
+EDG_mission_LOT_4_20_a_tt_yes:0 "£yes£If we chose to support the literati in the event §Y'Golden Age of Literature'§! and still have the national modifier §Y'Lotharingian Renaissance'§!, then its duration will be reset to §M50§! years, and it will additionally grant §M10%§! §Gidea cost reduction§!."
+EDG_mission_LOT_4_20_a_tt_no:0 "£no£If we chose to support the literati in the event §Y'Golden Age of Literature'§! and still have the national modifier §Y'Lotharingian Renaissance'§!, then its duration will be reset to §M50§! years, and it will additionally grant §M10%§! §Gidea cost reduction§!."
 
-EDG_mission_LOT_2_10_a_tt:0 "我们拥有的每个具有省份修正§G「经济生产力：支持基建」§!的省份，将会获得§M1§!的§Y基础生产§!"
-reduce_ae_from_prom_cultures_flag_tt:0 "当我们§Y主动接纳文化§!时，所有国家对我们的§R侵略扩张§!将会§G下降§!§M3§!点。"
-EDG_mission_LOT_2_11_a_opinion:0 "皇帝没有能力保卫帝国"
-EDG_mission_LOT_2_11_a_tt:0 "所有§Y神圣罗马帝国§!诸侯，将对£icon_EDG_icon_hre_emperor£§Y皇帝§![emperor.GetName]失去§R100§!点§G好感§!，且皇帝将蒙受如下负面效果："
+EDG_mission_LOT_5_2_flag_tt:0 "During the §Y'Age of Discovery'§!, recruiting an army general will grant us §G5§! points of §Mprestige§!. Excess prestige will be converted into monarch power."
 
-EDG_mission_LOT_2_8_B_flag_tt:0 "§Y教士§!阶层特权§Y「公教会的守护者」§!将会额外给予如下修正：\n-§M传教强度§!§G+1§!"
+EDG_mission_LOT_5_3_a_tt_yes:0 "£yes£If we still have the national modifier §Y'Land of Knights'§!, then its duration will be reset to §M20§! years, and it will additionally grant §M5%§! §GArist Morale Modifier§!."
+EDG_mission_LOT_5_3_a_tt_no:0 "£no£If we still have the national modifier §Y'Land of Knights'§!, then its duration will be reset to §M20§! years, and it will additionally grant §M5%§! §GArist Morale Modifier§!."
 
-EDG_mission_LOT_3_3_a_tt_yes:0 "£yes£若我们在§Y《国王之书》§!中选择§G「教宗是我们精神世界的统治者」§!，那么"
-EDG_mission_LOT_3_3_a_tt_no:0 "£no£若我们在§Y《国王之书》§!中选择§G「教宗是我们精神世界的统治者」§!，那么"
+EDG_mission_LOT_5_3_ENG_TT_YES:0 "£yes£If we are §Yallies§! with @ENG England, then"
+EDG_mission_LOT_5_3_ENG_TT_NO:0 "£no£If we are §Yallies§! with @ENG England, then"
 
-EDG_mission_LOT_3_3_b_tt_yes:0 "£yes£若我们在§Y《国王之书》§!中未选择§G「国王比教宗更权威」§!，那么"
-EDG_mission_LOT_3_3_b_tt_no:0 "£no£若我们在§Y《国王之书》§!中未选择§G「国王比教宗更权威」§!，那么"
+EDG_mission_LOT_5_3_SWI_TT_YES:0 "£yes£If we are §Yallies§! with @SWI Switzerland, then"
+EDG_mission_LOT_5_3_SWI_TT_NO:0 "£no£If we are §Yallies§! with @SWI Switzerland, then"
 
-EDG_mission_LOT_3_5_a_tt_yes:0 "£yes£若我们正处于§Y黄金时代§!，那么"
-EDG_mission_LOT_3_5_a_tt_no:0 "£no£若我们正处于§Y黄金时代§!，那么"
+EDG_mission_LOT_5_3_iberian_TT_YES:0 "£yes£If we are §Yallies§! with any country of the §GIberian§! culture group, then"
+EDG_mission_LOT_5_3_iberian_TT_NO:0 "£no£If we are §Yallies§! with any country of the §GIberian§! culture group, then"
 
+EDG_mission_LOT_5_3_scandinavian_TT_YES:0 "£yes£If we are §Yallies§! with any country of the §GScandinavian§! culture group, then"
+EDG_mission_LOT_5_3_scandinavian_TT_NO:0 "£no£If we are §Yallies§! with any country of the §GScandinavian§! culture group, then"
 
-EDG_mission_LOT_3_5_b_tt_yes:0 "£yes£若我们不处于§Y黄金时代§!，但处于§Y「地理大发现时代」§!，那么时代目标§Y「三个王座」§!将视为已完成。"
-EDG_mission_LOT_3_5_b_tt_no:0 "£no£若我们不处于§Y黄金时代§!，但处于§Y「地理大发现时代」§!，那么时代目标§Y「三个王座」§!将视为已完成。"
 
+EDG_flavor_LOT_mission_34_c_flag_tt:0 "The government ability §Y'Crown Authority'§! will additionally provide up to §G30%§! §MGoods Produced Modifier§!."
+EDG_flavor_LOT_mission_35_c_flag_tt:0 "The government ability §Y'Crown Authority'§! will additionally provide up to §G30%§! §MProduction Efficiency Modifier§!."
+EDG_flavor_LOT_mission_36_c_flag_tt:0 "The government ability §Y'Crown Authority'§! will additionally provide up to §G2§! §MYearly Prestige§!."
 
-EDG_mission_LOT_3_5_claim_tt:0 "我们将获得所有与§M我们相接壤的§!属于§Y神圣罗马帝国§!的省份直属州的§G永久宣称§!。\n每当我们扩张时，我们都将在§M一年内§!获得新近毗邻的神圣罗马帝国省份直属州的§G永久性宣称§!。"
-EDG_flavor_LOT_mission_24_a_modifier_restore_tt:0 "若我们已拥有该修正，则将其持续时间§M重置§!为§G十年§!"
+EDG_mission_LOT_3_5_b_flag:0 "Relevant mission completed."
 
-EDG_mission_LOT_3_6_tt:0 "我们将能在§M10§!年后§G升级§!该修正。"
-EDG_mission_LOT_3_6_a_tt:0 "我们拥有的每个具有省份修正§G「经济生产力：支持基建」§!的省份，将会为我们提供§M0.1年§!的§Y国家总收入§!"
-ab_EDG_Rhineland_Construction_age_ability_enable_flag_tt:0 "解锁§Y第二时代§!§M时代能力§!§G「莱茵兰建设」§!"
+EDG_mission_LOT_1_19_tt:0 "We will gain a modifier that reduces §Mminimum autonomy§!, offsetting the negative modifier from the government reform §Y'Frankish Feudal System'§!, until we no longer adopt the §Y'Frankish Feudal System'§! government reform.\n\nAll provinces we own of the §GGermanic§! culture group will gain the following province modifier:"
 
-EDG_Mission_LOT_NED_enable_flag_tt:0 "我们将解锁一套§Y殖民任务§!，该任务允许我们使用@NED§Y尼德兰§!的部分内容，并§G殖民§!新世界和东方。"
-EDG_mission_LOT_3_7_event_tt:0 "我们将有机会解锁一套§Y殖民任务§!，该任务允许我们使用@NED§Y尼德兰§!的部分内容，并§G殖民§!新世界和东方。"
-EDG_mission_LOT_3_7_a_tt:0 "我们拥有的每个具有省份修正§G「军事生产力：制造船只」§!的省份，将会为我们提供§M1§!点§Y重商主义§!"
+EDG_mission_LOT_1_20_a_tt_yes:0 "£yes£If we complete the mission by adopting the government reform §G'Restrict Noble Power'§! or eliminating the nobility, then\n\nThe §Ygovernment interaction§! §MPromote Paladin§! will additionally provide us with §M+5§! §YArist Tradition§!.\n\nUnlocks the decision: §Y'Impose Taxes on the Nobility'§!, which allows us to gain money and bonuses during wartime."
+EDG_mission_LOT_1_20_a_tt_no:0 "£no£If we complete the mission by adopting the government reform §G'Restrict Noble Power'§! or eliminating the nobility, then\n\nThe §Ygovernment interaction§! §MPromote Paladin§! will additionally provide us with §M+5§! §YArist Tradition§!.\n\nUnlocks the decision: §Y'Impose Taxes on the Nobility'§!, which allows us to gain money and bonuses during wartime."
 
-EDG_mission_LOT_3_8_a_tt:0 "移除我们所有省份的@H04§Y上艾瑟尔§!的§G核心§!"
-EDG_mission_LOT_3_8_a_tt_yes:0 "£yes£若@H04§Y上艾瑟尔§!不存在，那么"
-EDG_mission_LOT_3_8_a_tt_no:0 "£no£若@H04§Y上艾瑟尔§!不存在，那么"
+EDG_mission_LOT_1_20_b_tt_yes:0 "£yes£If we complete the mission by adopting the government reform §G'Strengthen Noble Power'§!, then\n\nThe §Ygovernment interaction§! §MPromote Paladin§! will additionally provide us with §M+10§! §YNobility Loyalty§!.\n\nUnlocks the decision: §Y'Share Power with the Nobility'§!, which allows us to increase the nobility's §Gloyalty§! and §Yinfluence§!."
+EDG_mission_LOT_1_20_b_tt_no:0 "£no£If we complete the mission by adopting the government reform §G'Strengthen Noble Power'§!, then\n\nThe §Ygovernment interaction§! §MPromote Paladin§! will additionally provide us with §M+10§! §YNobility Loyalty§!.\n\nUnlocks the decision: §Y'Share Power with the Nobility'§!, which allows us to increase the nobility's §Gloyalty§! and §Yinfluence§!."
+EDG_mission_LOT_1_20_b_flag_decision_influence_modifier:0 "Share Power with the Nobility"
 
-EDG_flavor_LOT_mission_28_a_tt:0 "清除所有首都位于§Y德意志§!的国家对我们的§R侵略扩张§!修正"
-EDG_LOT_special_ideas_enable_flag_tt:0 "我们将启用以下三个§Y专属理念组§!：\n-§M洛塔林吉亚行政理念§!\n-§M洛塔林吉亚外交理念§!\n-§M洛塔林吉亚军事理念§!\n我们将§R无法解锁§!其他的§M理念组§!\n\n在以上三个理念组§Y完全解锁§!以前，我们将蒙受以下修正："
+EDG_AEL_mission_1_5_tt:0 "All eligible provinces will gain the following modifier:"
+EDG_mission_LOT_1_21_flag_tt:0 "Unlocks the Great Project §YAachen Palatine Chapel§! and its exclusive §Gconstruction mechanic§!.\nAllows us to §Rloot§! specific Great Projects to §Yrenovate the Aachen Palace§!."
 
+EDG_mission_LOT_1_20_a_flag_decision_title:0 "@LOT Impose Taxes on the Nobility"
+EDG_mission_LOT_1_20_a_flag_decision_desc:0 "@LOT Share Power with the Nobility"
+EDG_mission_LOT_1_20_b_flag_decision_title:0 "We have the nobility firmly under our control; they must obey us."
+EDG_mission_LOT_1_20_b_flag_decision_desc:0 "The nobility is our crucial ally; we must defer to them."
 
-EDG_flavor_LOT_mission_33_enable_flag_tt:0 "解锁事件§Y「八大学院」§!，该事件允许我们在§M法兰西§!地区发展度达到§M25§!的八个省份建造§Y大学§!。只要我们有符合条件的省份，那么该事件每五年触发一次，直到我们有八个省份拥有省份修正§G「八大学院」§!。"
+EDG_mission_LOT_1_22_a_tt_yes:0 "£yes£If we complete the mission by §Ysatisfying the nobility§!, then"
+EDG_mission_LOT_1_22_a_tt_no:0 "£no£If we complete the mission by §Ysatisfying the nobility§!, then"
 
-EDG_Aachen_University_enable_flag_tt:0 "解锁省份§Y亚琛§!的奇观§Y「亚琛大学」§!"
+EDG_mission_LOT_1_22_b_tt_yes:0 "£yes£If we complete the mission by §Yeliminating the nobility§!, then"
+EDG_mission_LOT_1_22_b_tt_no:0 "£no£If we complete the mission by §Yeliminating the nobility§!, then"
 
-EDG_on_tech_taken_add_10_prestige_flag_tt:0 "当我们§Y提升科技§!时，我们将会固定获得§M10§!点§G威望§!，溢出的威望将被转化为君主点数。"
-EDG_mission_LOT_1_26_flag_tt:0 "解锁决议§Y「资助应用科学」§!，该决议允许我们消耗§M创新度§!获得§G科技§!方面的增益。"
+EDG_mission_LOT_2_20_a_tt_yes:0 "£yes£If we complete the mission by §Ysatisfying the clergy§!, then"
+EDG_mission_LOT_2_20_a_tt_no:0 "£no£If we complete the mission by §Ysatisfying the clergy§!, then"
+EDG_mission_LOT_2_20_b_tt_yes:0 "£yes£If we complete the mission by §Yweakening the clergy§!, then"
+EDG_mission_LOT_2_20_b_tt_no:0 "£no£If we complete the mission by §Yweakening the clergy§!, then"
 
-EDG_mission_LOT_5_20_a_tt_yes:0 "£yes£若§Y「市民」§!阶层的特权数量达到§M4§!个，那么"
-EDG_mission_LOT_5_20_a_tt_no:0 "£no£若§Y「市民」§!阶层的特权数量达到§M4§!个，那么"
+EDG_mission_LOT_2_20_a_flag_tt:0 "The §Ygovernment interaction§! §MPromote Paladin§! will additionally provide us with §M+10§! §YClergy Loyalty§!."
+EDG_mission_LOT_2_20_b_flag_tt:0 "The §Ygovernment interaction§! §MPromote Paladin§! will additionally provide us with §M+10§! §YPapal Influence§!."
 
-EDG_mission_LOT_4_20_a_tt_yes:0 "£yes£若我们在事件§Y「文学的黄金时代」§!中选择支持文学家，且仍然拥有国家修正§Y「洛塔林吉亚文艺复兴」§!，那么该修正的持续时间将被重置为§M50§!年，且额外增加§M10%§!的§G理念花费减免§!"
-EDG_mission_LOT_4_20_a_tt_no:0 "£no£若我们在事件§Y「文学的黄金时代」§!中选择支持文学家，且仍然拥有国家修正§Y「洛塔林吉亚文艺复兴」§!，那么该修正的持续时间将被重置为§M50§!年，且额外增加§M10%§!的§G理念花费减免§!"
+EDG_mission_LOT_2_22_flag_tt:0 "Unlocks the periodic event §Y'Efficient Administrative Courts'§!. This event only triggers in provinces we own that meet §Mspecific conditions§!; each province can trigger it only §Monce§!. Trigger conditions:\n- Province has a §GCourthouse§! or §GTown Hall§!\n- Province is part of a §Gfull-core state§!\n- Province §Gdevelopment§! does not exceed §G20§!\n- Province has §Gnot yet triggered§! this event"
 
-EDG_mission_LOT_5_2_flag_tt:0 "在§Y「地理大发现」§!时代，招募陆军将领将会给予我们§G5§!点§M威望§!，溢出的威望将被转化为君主点数。"
+EDG_mission_LOT_1_19_a_tt_yes:0 "£yes£If our §Ystability§! is at least §M1§!, then"
+EDG_mission_LOT_1_19_a_tt_no:0 "£no£If our §Ystability§! is at least §M1§!, then"
 
-EDG_mission_LOT_5_3_a_tt_yes:0 "£yes£若我们仍然拥有国家修正§Y「骑士之国」§!，那么该修正的持续时间将被重置为§M20§!年，且额外增加§M5%§!的§G陆军士气修正§!"
-EDG_mission_LOT_5_3_a_tt_no:0 "£no£若我们仍然拥有国家修正§Y「骑士之国」§!，那么该修正的持续时间将被重置为§M20§!年，且额外增加§M5%§!的§G陆军士气修正§!"
+EDG_LOT_is_friend_to_PAP_tt_yes:0 "£yes£If @PAP the Papal State has a §Gopinion§! of us reaching §M150§! and is our §Ysubject§! or §Yally§!, then"
+EDG_LOT_is_friend_to_PAP_tt_no:0 "£no£If @PAP the Papal State has a §Gopinion§! of us reaching §M150§! and is our §Ysubject§! or §Yally§!, then"
 
-EDG_mission_LOT_5_3_ENG_TT_YES:0 "£yes£若我们与@ENG英格兰是§Y盟友§!，那么"
-EDG_mission_LOT_5_3_ENG_TT_NO:0 "£no£若我们与@ENG英格兰是§Y盟友§!，那么"
+EDG_papal_subjugation_free_flag_tt:0 "When @PAP the Papal State is our §Ysubject§!, we will not trigger the §Y'Papal State Calamity'§! modifier."
 
-EDG_mission_LOT_5_3_SWI_TT_YES:0 "£yes£若我们与@SWI瑞士是§Y盟友§!，那么"
-EDG_mission_LOT_5_3_SWI_TT_NO:0 "£no£若我们与@SWI瑞士是§Y盟友§!，那么"
+EDG_Aachen_University_enable_flag:0 "Unlocked the Great Project 'Aachen University' via mission."
+EDG_mission_LOT_1_21_flag:0 "Unlocked the Great Project 'Aachen Palatine Chapel' via mission."
 
-EDG_mission_LOT_5_3_iberian_TT_YES:0 "£yes£若我们与任意§G伊比利亚§!文化组的国家是§Y盟友§!，那么"
-EDG_mission_LOT_5_3_iberian_TT_NO:0 "£no£若我们与任意§G伊比利亚§!文化组的国家是§Y盟友§!，那么"
+EDG_mission_LOT_3_1_tt:0 "Lotharingia is not finished yet!!!\n\nI'm telling you it's NOT FINISHED!!!\n\nThe in-game mod announcement says it's not finished—don't play it. Lotharingia isn't even a recommended nation, and there's a non-recommended nation warning when you start the game. Stop asking why the mission tree is only half done!!! There will be an announcement or it'll become a recommended nation when it's finished.\n\nLotharingia does not have a 'Splintered Throne' event, and never will. Don't ask."
 
-EDG_mission_LOT_5_3_scandinavian_TT_YES:0 "£yes£若我们与任意§G斯堪的纳维亚§!文化组的国家是§Y盟友§!，那么"
-EDG_mission_LOT_5_3_scandinavian_TT_NO:0 "£no£若我们与任意§G斯堪的纳维亚§!文化组的国家是§Y盟友§!，那么"
+EDG_form_coalition_Need_75_ae_flag_tt:0 "Countries that have not yet formed a §Rcoalition§! against us will require §G75§! points of §Raggressive expansion§! to form one."
 
+EDG_mission_LOT_1_29_a_tt_yes:0 "£yes£If any province we own has the province modifier §G'Potato Propagation'§! (obtained via the §Y'Columbian Exchange'§! event chain), then\nAll provinces under our rule producing §G'Grain'§! will gain this modifier, i.e.,"
+EDG_mission_LOT_1_29_a_tt_no:0 "£no£If any province we own has the province modifier §G'Potato Propagation'§! (obtained via the §Y'Columbian Exchange'§! event chain), then\nAll provinces under our rule producing §G'Grain'§! will gain this modifier, i.e.,"
 
-EDG_flavor_LOT_mission_34_c_flag_tt:0 "政府能力§Y「王冠权威」§!将额外提供最多§G30%§!的§M商品产出修正§!"
-EDG_flavor_LOT_mission_35_c_flag_tt:0 "政府能力§Y「王冠权威」§!将额外提供最多§G30%§!的§M生产效率修正§!"
-EDG_flavor_LOT_mission_36_c_flag_tt:0 "政府能力§Y「王冠权威」§!将额外提供最多§G2§!点§M年度威望§!"
+EDG_mission_LOT_1_30_flag_tt:0 "Unlocks the privilege §Y'Conscription Duty'§!. This privilege can be granted to either the §M'[Root.Get贵族Name]'§! (Nobility) or the §M'[Root.Get市民Name]'§! (Burghers) estate, but only to one of them."
 
-EDG_mission_LOT_3_5_b_flag:0 "已完成相关任务"
+EDG_mission_LOT_1_33_a_tt_yes:0 "£yes£If our §Y'Military Technology'§! is at least §Mlevel 6§! but lower than §Mlevel 8§!, then we will gain §G5%§! §YArist Professionalism§!."
+EDG_mission_LOT_1_33_a_tt_no:0 "£no£If our §Y'Military Technology'§! is at least §Mlevel 6§! but lower than §Mlevel 8§!, then we will gain §G5%§! §YArist Professionalism§!."
 
-EDG_mission_LOT_1_19_tt:0 "我们将获得一个减少§M最低自治度§!的修正，以和政府改革§Y「法兰克封建体系」§!的负面修正相抵消，直到我们不再采用§Y「法兰克封建体系」§!这一政府改革。\n\n我们拥有的所有§G日耳曼§!文化组省份，将获得如下省份修正："
+EDG_mission_LOT_1_33_b_tt_yes:0 "£yes£If our §Y'Military Technology'§! is at least §Mlevel 8§!, then we will gain §G10%§! §YArist Professionalism§!."
+EDG_mission_LOT_1_33_b_tt_no:0 "£no£If our §Y'Military Technology'§! is at least §Mlevel 8§!, then we will gain §G10%§! §YArist Professionalism§!."
 
-EDG_mission_LOT_1_20_a_tt_yes:0 "£yes£若我们通过采纳§G「限制贵族权力」§!的政府改革或消灭贵族完成任务，那么\n\n§Y政府互动§!§M提拔圣骑士§!将为我们额外提供§M+5§!的§Y陆军传统§!\n\n解锁决议:§Y「向贵族摊派赋税」§!，该决议能够让我们在战争时获得金钱和增益。"
-EDG_mission_LOT_1_20_a_tt_no:0 "£no£若我们通过采纳§G「限制贵族权力」§!的政府改革或消灭贵族完成任务，那么\n\n§Y政府互动§!§M提拔圣骑士§!将为我们额外提供§M+5§!的§Y陆军传统§!\n\n解锁决议:§Y「向贵族摊派赋税」§!，该决议能够让我们在战争时获得金钱和增益。"
+EDG_mission_LOT_1_34_trigger_tooltip:0 "All countries with their capital in §YEurope§! meet the following conditions:\n- Their §Gmilitary technology§! is §Mlower§! than ours.\n- Their §Garmy size§! is §Msmaller§! than ours."
 
-EDG_mission_LOT_1_20_b_tt_yes:0 "£yes£若我们通过采纳§G「加强贵族权力」§!的政府改革完成任务，那么\n\n§Y政府互动§!§M提拔圣骑士§!将为我们额外提供§M+10§!的§Y贵族忠诚度§!\n\n解锁决议:§Y「向贵族分享权力」§!，该决议能够让我们增加贵族的§G忠诚度§!和§Y影响力§!"
-EDG_mission_LOT_1_20_b_tt_no:0 "£no£若我们通过采纳§G「加强贵族权力」§!的政府改革完成任务，那么\n\n§Y政府互动§!§M提拔圣骑士§!将为我们额外提供§M+10§!的§Y贵族忠诚度§!\n\n解锁决议:§Y「向贵族分享权力」§!，该决议能够让我们增加贵族的§G忠诚度§!和§Y影响力§!"
-EDG_mission_LOT_1_20_b_flag_decision_influence_modifier:0 "向贵族分享权力"
+EDG_on_mil_tech_taken_add_1_mil_flag_tt:0 "When we §Yincrease military technology§!, our §Yruler§! will gain §M1§! point of §Ymilitary skill§!, §Gonce per ruler§!."
 
-EDG_AEL_mission_1_5_tt:0 "所有满足条件的省份，将获得如下修正："
-EDG_mission_LOT_1_21_flag_tt:0 "解锁§Y亚琛圣父皇宫§!奇观和专属§G建设机制§!\n允许我们§R劫掠§!特定奇观用于§Y改造亚琛皇宫§!"
+estate_edg_Paladin_privilege_26_enable_flag_tt:0 "Unlocks the §Y'Paladin'§! estate privilege §G'Paladin Musketeer Regiment'§!. Granting this privilege will provide the following effect:"
 
-EDG_mission_LOT_1_20_a_flag_decision_title:0 "@LOT 向贵族摊派赋税"
-EDG_mission_LOT_1_20_a_flag_decision_desc:0 "@LOT 向贵族分享权力"
-EDG_mission_LOT_1_20_b_flag_decision_title:0 "我们将贵族牢牢控制在手中，他们必须服从我们。"
-EDG_mission_LOT_1_20_b_flag_decision_desc:0 "贵族是我们的重要盟友，我们必须服从贵族。"
+EDG_mission_LOT_2_15_STRONG_MERCHANTS:0 "Our Strait"
+EDG_OrientalPalace_enable_flag:0 "Unlocked the Great Project 'Oriental Palace' without conditions."
+EDG_OrientalPalace_enable_flag_tt:0 "We will unconditionally unlock the Great Project §Y'Oriental Palace'§! for the province §Y[217.GetName]§!."
 
-EDG_mission_LOT_1_22_a_tt_yes:0 "£yes£若我们通过§Y满足贵族§!完成任务，那么"
-EDG_mission_LOT_1_22_a_tt_no:0 "£no£若我们通过§Y满足贵族§!完成任务，那么"
+EDG_mission_LOT_2_16_a_tt_yes:0 "£yes£If @POR Portugal or @PRT Porto is our §Ysubject§!, then we will permanently gain one §Gmerchant§!."
+EDG_mission_LOT_2_16_a_tt_no:0 "£no£If @POR Portugal or @PRT Porto is our §Ysubject§!, then we will permanently gain one §Gmerchant§!."
 
-EDG_mission_LOT_1_22_b_tt_yes:0 "£yes£若我们通过§Y消灭贵族§!完成任务，那么"
-EDG_mission_LOT_1_22_b_tt_no:0 "£no£若我们通过§Y消灭贵族§!完成任务，那么"
+EDG_enable_holy_orders_flag_TT:0 "We will be permitted to use the §YIberian§! culture group's exclusive §YHoly Orders§!."
 
-EDG_mission_LOT_2_20_a_tt_yes:0 "£yes£若我们通过§Y满足教士§!完成任务，那么"
-EDG_mission_LOT_2_20_a_tt_no:0 "£no£若我们通过§Y满足教士§!完成任务，那么"
-EDG_mission_LOT_2_20_b_tt_yes:0 "£yes£若我们通过§Y削弱教士§!完成任务，那么"
-EDG_mission_LOT_2_20_b_tt_no:0 "£no£若我们通过§Y削弱教士§!完成任务，那么"
+EDG_mission_LOT_2_17_a_tt_yes:0 "£yes£If any province in the §YIberia§! region follows an §MIslamic§! faith or has the province modifier §MReligious Zeal§!, then we will gain §G100§! points of §YPapal Influence§!."
+EDG_mission_LOT_2_17_a_tt_no:0 "£no£If any province in the §YIberia§! region follows an §MIslamic§! faith or has the province modifier §MReligious Zeal§!, then we will gain §G100§! points of §YPapal Influence§!."
 
-EDG_mission_LOT_2_20_a_flag_tt:0 "§Y政府互动§!§M提拔圣骑士§!将为我们额外提供§M+10§!的§Y教士忠诚度§!"
-EDG_mission_LOT_2_20_b_flag_tt:0 "§Y政府互动§!§M提拔圣骑士§!将为我们额外提供§M+10§!的§Y教廷影响力§!"
+EDG_mission_LOT_2_17_b_tt_yes:0 "£yes£Otherwise, we will gain §G20§! points of §Yprestige§!."
+EDG_mission_LOT_2_17_b_tt_no:0 "£no£Otherwise, we will gain §G20§! points of §Yprestige§!."
 
-EDG_mission_LOT_2_22_flag_tt:0 "解锁周期性事件§Y「行政法院效用良好」§!，该事件仅在我们拥有的满足§M特定条件§!的省份触发，每个省份仅能触发§M一次§!，触发条件如下：\n-省份拥有§G法院§!或§G市政厅§!\n-省份属于§G直属州§!\n-省份§G发展度§!不超过§G20§!\n-省份§G未触发过§!该事件"
+EDG_mission_LOT_2_25_a_tt_yes:0 "£yes£If any province we own follows the §YOrantism§! faith, then the aforementioned national modifier §Y'Satisfaction of the Upper Class'§! will be upgraded to §Y'Satisfaction of the Upper and Middle Classes'§!, and will additionally provide §G-2§! §Mnational unrest§!."
+EDG_mission_LOT_2_25_a_tt_no:0 "£no£If any province we own follows the §YOrantism§! faith, then the aforementioned national modifier §Y'Satisfaction of the Upper Class'§! will be upgraded to §Y'Satisfaction of the Upper and Middle Classes'§!, and will additionally provide §G-2§! §Mnational unrest§!." # Orantism? 祷告派
 
-EDG_mission_LOT_1_19_a_tt_yes:0 "£yes£若我们的§Y稳定度§!达到§M1§!，那么"
-EDG_mission_LOT_1_19_a_tt_no:0 "£no£若我们的§Y稳定度§!达到§M1§!，那么"
+EDG_mission_LOT_2_26_flag_tt:0 "Unlocks the event §Y'Introduce a Suitable Spouse'§!. This event allows us to §Madd§! or §Mchange§! a spouse (Bernadette cannot trigger this event). The event triggers every five years.\n\nUnlocks the decision §Y'Host a Masquerade Ball'§!. This decision increases §Gestate loyalty§! and the §Gchance of getting an heir§!."
 
-EDG_LOT_is_friend_to_PAP_tt_yes:0 "£yes£若@PAP教宗国对我们的§G好感度§!达到§M150§!，且是我们的§Y属国§!或§Y盟友§!，那么"
-EDG_LOT_is_friend_to_PAP_tt_no:0 "£no£若@PAP教宗国对我们的§G好感度§!达到§M150§!，且是我们的§Y属国§!或§Y盟友§!，那么"
+EDG_more_patron_of_arts_personality_flag_tt:0 "Our rulers are more likely to gain the §Y'Patron of the Arts'§! trait."
 
-EDG_papal_subjugation_free_flag_tt:0 "当@PAP教宗国是我们的§Y属国§!时，我们不会触发§Y「教宗国之殇」§!这一触发修正"
+EDG_mission_LOT_2_30_a_tt_yes:0 "£yes£If any province we own produces §YSilk§! as its §Gtrade good§!, then"
+EDG_mission_LOT_2_30_a_tt_no:0 "£no£If any province we own produces §YSilk§! as its §Gtrade good§!, then"
 
-EDG_Aachen_University_enable_flag:0 "已通过任务解锁奇观「亚琛大学」"
-EDG_mission_LOT_1_21_flag:0 "已通过任务解锁奇观「亚琛圣父大皇宫」"
+EDG_mission_LOT_1_15_a_tt_yes:0 "£yes£If @PAP the Papal State is our §Ysubject§! and has an opinion of us reaching §G190§!, then\nThe §YClergy§! estate privilege §Y'Guardian of the Catholic Church'§! will additionally grant the following modifier:\n-§M-20%§! §GPapal Influence cost§!"
+EDG_mission_LOT_1_15_a_tt_no:0 "£no£If @PAP the Papal State is our §Ysubject§! and has an opinion of us reaching §G190§!, then\nThe §YClergy§! estate privilege §Y'Guardian of the Catholic Church'§! will additionally grant the following modifier:\n-§M-20%§! §GPapal Influence cost§!"
+EDG_mission_LOT_1_15_b_tt_yes:0 "£yes£If @PAP the Papal State is our §Ysubject§! but their opinion of us does not reach §G190§!, then"
+EDG_mission_LOT_1_15_b_tt_no:0 "£no£If @PAP the Papal State is our §Ysubject§! but their opinion of us does not reach §G190§!, then"
+EDG_mission_LOT_1_15_c_tt_yes:0 "£yes£If @PAP the Papal State is not our §Ysubject§!, then"
+EDG_mission_LOT_1_15_c_tt_no:0 "£no£If @PAP the Papal State is not our §Ysubject§!, then"
 
+EDG_mission_LOT_1_16_a_tt:0 "Each province we own that has a §YCourthouse§! or §YTown Hall§! will provide us with §M3§! points of §Ggovernment reform progress§!."
 
-EDG_mission_LOT_3_1_tt:0 "洛塔林吉亚没做完啊！！！\n\n我TM说没做完啊！！！\n\n游戏内的模组公告说了没做完不要玩，洛塔也没有推荐国，进游戏还有非推荐国提示，不要再问我为什么任务树只有一半了！！！做完了会有公告或者推荐国。\n\n洛塔林吉亚没有裂颅，也不可能做裂颅，不要问。"
+EDG_mission_LOT_1_16_b_tt:0 "The Neapolitans will return to the §MFrench§! culture group.\nAll provinces with §YNeapolitan§! culture owned by us or our subjects will have their culture changed to §YNeapolitan§! (belonging to the §MFrench§! culture group) and their religion converted to §Y$RELIGION$§!.\nAll our subjects with §YNeapolitan§! culture will have their culture changed to §YNeapolitan§! (belonging to the §MFrench§! culture group) and their religion converted to §Y$RELIGION$§!."
 
-EDG_form_coalition_Need_75_ae_flag_tt:0 "尚未对我们建立§R包围网§!的国家，对我们组建包围网的所需要的§R侵略扩张§!提高至§G75§!点。"
+EDG_mission_LOT_1_13_tt_yes:0 "£yes£If we have already completed the §YLotharingian Diplomatic Idea Group§!"
+EDG_mission_LOT_1_13_tt_no:0 "£no£If we have already completed the §YLotharingian Diplomatic Idea Group§!"
 
-EDG_mission_LOT_1_29_a_tt_yes:0 "£yes£若我们拥有的任意省份有省份修正§G「土豆的推广」§!（通过§Y「物种大交换」§!事件组获得），那么\n我们治下所有产物为§G「谷物」§!的省份，将会获得该修正，即"
-EDG_mission_LOT_1_29_a_tt_no:0 "£no£若我们拥有的任意省份有省份修正§G「土豆的推广」§!（通过§Y「物种大交换」§!事件组获得），那么\n我们治下所有产物为§G「谷物」§!的省份，将会获得该修正，即"
+EDG_mission_LOT_1_13_a_tt_yes:0 "£yes£If our state religion is §YCatholic§!"
+EDG_mission_LOT_1_13_a_tt_no:0 "£no£If our state religion is §YCatholic§!"
+EDG_mission_LOT_1_13_b_tt_yes:0 "£yes£If our state religion is §YProtestant§! or §YReformed§!"
+EDG_mission_LOT_1_13_b_tt_no:0 "£no£If our state religion is §YProtestant§! or §YReformed§!"
 
-EDG_mission_LOT_1_30_flag_tt:0 "解锁特权§Y「义务兵」§!，该特权可以选择授予§M「[Root.Get贵族Name]」§!或§M「[Root.Get市民Name]」§!阶层，且仅能授予其中一个阶层。"
+EDG_mission_LOT_3_16_a_tt:0 "The English will be integrated into the §MFrench§! culture group.\nAll provinces with §YEast Saxon§!, §YWest Saxon§!, or §YMercia§! culture owned by us or our subjects will have their culture changed to §YAnglovan§! culture (belonging to the §MFrench§! culture group) and their religion converted to §Y$RELIGION$§!.\nAll our subjects with §YEast Saxon§!, §YWest Saxon§!, or §YMercia§! culture will have their culture changed to §YAnglovan§! culture (belonging to the §MFrench§! culture group) and their religion converted to §Y$RELIGION$§!."
 
-EDG_mission_LOT_1_33_a_tt_yes:0 "£yes£若我们的§Y「军事科技」§!达到§M6级§!却未达到§M8级§!，那么我们将获得§G5%§!的§Y陆军职业度§!"
-EDG_mission_LOT_1_33_a_tt_no:0 "£no£若我们的§Y「军事科技」§!达到§M6级§!却未达到§M8级§!，那么我们将获得§G5%§!的§Y陆军职业度§!"
+EDG_flavor_LOT_mission_48_a_tt:0 "Provinces required by the mission, owned by us or our subjects, will gain §Gcores§! of @ENG England."
+EDG_flavor_LOT_mission_48_c_tt:0 "Provinces required by the mission, owned by us or our subjects, will gain §Gcores§! of @ENG England."
+EDG_flavor_LOT_mission_48_d_tt:0 "Provinces required by the mission, owned by us or our subjects, will gain the following modifier:"
 
-EDG_mission_LOT_1_33_b_tt_yes:0 "£yes£若我们的§Y「军事科技」§!达到§M8级§!，那么我们将获得§G10%§!的§Y陆军职业度§!"
-EDG_mission_LOT_1_33_b_tt_no:0 "£no£若我们的§Y「军事科技」§!达到§M8级§!，那么我们将获得§G10%§!的§Y陆军职业度§!"
+EDG_mission_LOT_3_17_a_tt_yes:0 "£yes£If we own at least §M100§! ships, then"
+EDG_mission_LOT_3_17_a_tt_no:0 "£no£If we own at least §M100§! ships, then"
 
-EDG_mission_LOT_1_34_trigger_tooltip:0 "所有首都位于§Y欧洲§!的国家均满足以下条件：\n-§G军事科技§!比我们更§M低§!\n-§G陆军规模§!比我们更§M少§!"
+EDG_mission_LOT_3_20_tt:0 "§MAll provinces§! we own will have their culture changed to §YLotharingian§! culture."
 
-EDG_on_mil_tech_taken_add_1_mil_flag_tt:0 "当我们§Y提升军事科技§!时，我们的§Y统治者§!将会提高§M1§!点§Y军事能力§!，§G每位统治者限一次§!"
+EDG_mission_LOT_3_10_flag_tt:0 "The §Ygovernment interaction§! §MPromote Paladin§! will additionally reduce our §Gwar exhaustion§! by §M2§! points."
 
-estate_edg_Paladin_privilege_26_enable_flag_tt:0 "解锁§Y「圣骑士」§!阶层特权§G「圣骑士火枪兵团」§!，授予该特权将会给予如下效果："
+EDG_mission_LOT_3_12_a_tt:0 "Each province we own with §G'Military Production: Armor Manufacturing'§! will provide us with a §Ycavalry unit§! in our §Mcapital§!."
 
-EDG_mission_LOT_2_15_STRONG_MERCHANTS:0 "我们的海峡"
-EDG_OrientalPalace_enable_flag:0 "已无条件解锁奇观「东方宫」"
-EDG_OrientalPalace_enable_flag_tt:0 "我们将无条件解锁省份§Y[217.GetName]§!的奇观§Y「东方宫」§!"
+EDG_mission_LOT_3_10_a_tt_yes:0 "£yes£If we have already completed the national idea group §Y'Lotharingian Military Ideas'§!, then"
+EDG_mission_LOT_3_10_a_tt_no:0 "£no£If we have already completed the national idea group §Y'Lotharingian Military Ideas'§!, then"
 
-EDG_mission_LOT_2_16_a_tt_yes:0 "£yes£若@POR葡萄牙或@PRT波尔图是我们的§Y属国§!，那么我们将永久获得一队§G商人团§!"
-EDG_mission_LOT_2_16_a_tt_no:0 "£no£若@POR葡萄牙或@PRT波尔图是我们的§Y属国§!，那么我们将永久获得一队§G商人团§!"
+EDG_mission_LOT_3_10_b_tt_yes:0 "£yes£If the country §YFranconia§! is our subject, then"
+EDG_mission_LOT_3_10_b_tt_no:0 "£no£If the country §YFranconia§! is our subject, then"
 
-EDG_enable_holy_orders_flag_TT:0 "我们将被允许使用§Y伊比利亚§!文化组专属的§Y修会§!"
+EDG_mission_LOT_3_12_b_tt:0 "The national modifier §G'Ostmark Hussars'§! will additionally grant §M10%§! §Gcavalry combat ability§!."
 
-EDG_mission_LOT_2_17_a_tt_yes:0 "£yes£若§Y伊比利亚§!地区有任意省份信仰§M伊斯兰教§!或拥有省份修正§M宗教热情§!，那么我们将获得§G100§!点§Y教廷影响力§!"
-EDG_mission_LOT_2_17_a_tt_no:0 "£no£若§Y伊比利亚§!地区有任意省份信仰§M伊斯兰教§!或拥有省份修正§M宗教热情§!，那么我们将获得§G100§!点§Y教廷影响力§!"
+EDG_mission_LOT_3_21_flag_tt:0 "Unlocks the event chain §Y'Establish Administrative States'§!. This event triggers §Gevery 5 years§! and has the following effects on the selected province:\n- Reduces local §Ggoverning capacity cost§!\n- Increases local §Gbase production§!\n- Each province can only trigger it §Gonce§!."
 
-EDG_mission_LOT_2_17_b_tt_yes:0 "£yes£否则，我们将获得§G20§!点§Y威望§!"
-EDG_mission_LOT_2_17_b_tt_no:0 "£no£否则，我们将获得§G20§!点§Y威望§!"
+EDG_LOT_government_interactions_2_used_value:0 "Number of times the government ability §M'Convene Privy Council'§! has been used."
 
-EDG_mission_LOT_2_25_a_tt_yes:0 "£yes£若我们拥有的省份中，有任意省份有信仰§Y祷告派§!，那么上述国家修正§Y「上层社会的满足」§!将被升级为§Y「上层社会和中产阶级的满足」§!，并追加§G全国叛乱度§!§M-2§!的效果"
-EDG_mission_LOT_2_25_a_tt_no:0 "£no£若我们拥有的省份中，有任意省份有信仰§Y祷告派§!，那么上述国家修正§Y「上层社会的满足」§!将被升级为§Y「上层社会和中产阶级的满足」§!，并追加§G全国叛乱度§!§M-2§!的效果"
+EDG_flavor_LOT_mission_54_a_flag_tt:0 "The government ability §M'Convene Privy Council'§! will additionally grant the following effects:\n"
+EDG_flavor_LOT_mission_54_b_flag_tt:0 "The government ability §M'Convene Privy Council'§! will additionally grant us money equal to §G25%§! of our §Yannual income§!."
+EDG_flavor_LOT_mission_54_c_flag_tt:0 "The government ability §M'Convene Privy Council'§! will additionally grant us §G10%§! of the §Yloyalty of all estates§!."
+EDG_flavor_LOT_mission_54_d_flag_tt:0 "The government ability §M'Convene Privy Council'§! will additionally grant us §G20§! §Ylegitimacy§!."
+EDG_flavor_LOT_mission_54_e_flag_tt:0 "The government ability §M'Convene Privy Council'§! will additionally grant the following effects:\n"
 
-EDG_mission_LOT_2_26_flag_tt:0 "解锁事件§Y「引荐适龄配偶」§!，该决议允许为我们§M添加§!或§M更换§!配偶（贝尔娜黛特无法触发该事件），该事件每五年触发一次。\n\n解锁决议§Y「举办面具舞会」§!，该决议将增加§G阶层忠诚度§!和§G获取继承人概率§!"
+EDG_LOT_productivity_ADM_enable_flag_tt:0 "Unlocks the §Y'National Cultural Productivity'§! mechanic, which can enhance the following productivities:\n- Cultural Productivity: §GPromote Education§!\n- Cultural Productivity: §GPromote Entertainment§!\n- Cultural Productivity: §GPromote Official Language§!\n- Cultural Productivity: §GPromote State Religion§!\n(This interface is located above the province interface. If not displayed, please disable other mods, especially UI-related mods like Great Project UI mods.)"
 
-EDG_more_patron_of_arts_personality_flag_tt:0 "我们的统治者更容易获得§Y「艺术赞助人」§!特质"
+EDG_LOT_productivity_DIP_enable_flag_tt:0 "Unlocks the §Y'National Economic Productivity'§! mechanic, which can enhance the following productivities:\n- Economic Productivity: §GSupport Agriculture§!\n- Economic Productivity: §GSupport Craftsmanship§!\n- Economic Productivity: §GSupport Administration§!\n- Economic Productivity: §GSupport Infrastructure§!\n(This interface is located above the province interface. If not displayed, please disable other mods, especially UI-related mods like Great Project UI mods.)"
 
-EDG_mission_LOT_2_30_a_tt_yes:0 "£yes£若我们有任意省份的§G产物§!是§Y丝绸§!，那么"
-EDG_mission_LOT_2_30_a_tt_no:0 "£no£若我们有任意省份的§G产物§!是§Y丝绸§!，那么"
+EDG_LOT_productivity_MIL_enable_flag_tt:0 "Unlocks the §Y'National Military Productivity'§! mechanic, which can enhance the following productivities:\n- Military Productivity: §GManufacture Weapons§!\n- Military Productivity: §GManufacture Armor§!\n- Military Productivity: §GManufacture Artillery§!\n- Military Productivity: §GManufacture Ships§!\n(This interface is located above the province interface. If not displayed, please disable other mods, especially UI-related mods like Great Project UI mods.)"
 
-EDG_mission_LOT_1_15_a_tt_yes:0 "£yes£若@PAP教宗国是我们的§Y属国§!，且对我们的好感度达到§G190§!，那么\n§Y教士§!阶层特权§Y「公教会的守护者」§!将会额外给予如下修正：\n-§M教廷影响力花费§!§G-20%§!"
-EDG_mission_LOT_1_15_a_tt_no:0 "£no£若@PAP教宗国是我们的§Y属国§!，且对我们的好感度达到§G190§!，那么\n§Y教士§!阶层特权§Y「公教会的守护者」§!将会额外给予如下修正：\n-§M教廷影响力花费§!§G-20%§!"
-EDG_mission_LOT_1_15_b_tt_yes:0 "£yes£若@PAP教宗国是我们的§Y属国§!，但对我们的好感度未达到§G190§!，那么"
-EDG_mission_LOT_1_15_b_tt_no:0 "£no£若@PAP教宗国是我们的§Y属国§!，但对我们的好感度未达到§G190§!，那么"
-EDG_mission_LOT_1_15_c_tt_yes:0 "£yes£若@PAP教宗国不是我们的§Y属国§!，那么"
-EDG_mission_LOT_1_15_c_tt_no:0 "£no£若@PAP教宗国不是我们的§Y属国§!，那么"
+EDG_mission_LOT_3_26_a_tt:0 "All provinces that have increased §G'Cultural Productivity'§! will provide us with §G2 years§! of that province's income."
 
-EDG_mission_LOT_1_16_a_tt:0 "我们拥有的每个建有§Y法院§!或§Y市政厅§!的省份，将会为我们提供§M3§!点§G政府改革进度§!"
+EDG_mission_LOT_3_26_b_flag_tt:0 "Every three years, a random province of our §Yprimary culture§! will gain the following province modifier:"
 
-EDG_mission_LOT_1_16_b_tt:0 "那不勒斯人将回归§M法兰西§!文化组。\n我们和我们的属国所拥有的§Y那不勒斯§!文化省份，其文化将被转变为§Y那不勒§!文化（属于§M法兰西§!文化组），且其宗教将被转变为§Y$RELIGION$§!。\n我们所有§Y那不勒斯§!文化的属国，其文化将被转变为§Y那不勒§!文化（属于§M法兰西§!文化组），且其宗教将被转变为§Y$RELIGION$§!。"
+EDG_mission_LOT_3_31_a_tt_yes:0 "£yes£If we adopted the §YLivres§! in the event §Y'99.8% Pure Gold Coins?'§!, then"
+EDG_mission_LOT_3_31_a_tt_no:0 "£yes£If we adopted the §YLivres§! in the event §Y'99.8% Pure Gold Coins?'§!, then"
+EDG_mission_LOT_3_31_b_tt_yes:0 "£yes£Otherwise"
+EDG_mission_LOT_3_31_b_tt_no:0 "£no£Otherwise"
 
-EDG_mission_LOT_1_13_tt_yes:0 "£yes£若我们已经完成了§Y洛塔林吉亚外交理念组§!"
-EDG_mission_LOT_1_13_tt_no:0 "£no£若我们已经完成了§Y洛塔林吉亚外交理念组§!"
+EDG_ab_allow_feudal_de_jure_law_refund_400_splend_power_flag_tt:0 "Unlocking the §Y'Age of Discovery'§! era ability §M'Feudal De Jure'§! will refund §G400§! points of §Msplendor§!."
 
-EDG_mission_LOT_1_13_a_tt_yes:0 "£yes£若我们信仰§Y天主教§!"
-EDG_mission_LOT_1_13_a_tt_no:0 "£no£若我们信仰§Y天主教§!"
-EDG_mission_LOT_1_13_b_tt_yes:0 "£yes£若我们信仰§Y新教§!或§Y改革宗§!"
-EDG_mission_LOT_1_13_b_tt_no:0 "£no£若我们信仰§Y新教§!或§Y改革宗§!"
+EDG_mission_LOT_4_4_a_tt_yes:0 "£yes£If §Y[1866.GetName]§! has a §Mbase manpower§! of at least §M5§!, then the aforementioned modifier will additionally grant the following effects:\n-§G-25%§! §Mlocal fort maintenance§!\n-§G+25%§! §Mlocal garrison size§!"
+EDG_mission_LOT_4_4_a_tt_no:0 "£no£If §Y[1866.GetName]§! has a §Mbase manpower§! of at least §M5§!, then the aforementioned modifier will additionally grant the following effects:\n-§G-25%§! §Mlocal fort maintenance§!\n-§G+25%§! §Mlocal garrison size§!"
 
-EDG_mission_LOT_3_16_a_tt:0 "英格兰人将被整合入§M法兰西§!文化组。\n我们和我们的属国所拥有的§Y东撒克逊§!、§Y西撒克逊§!、§Y麦西亚§!文化省份，其文化将被转变为§Y盎格鲁瓦§!文化（属于§M法兰西§!文化组），且其宗教将被转变为§Y$RELIGION$§!。\n我们所有§Y东撒克逊§!、§Y西撒克逊§!、§Y麦西亚§!文化的属国，其文化将被转变为§Y盎格鲁瓦§!文化（属于§M法兰西§!文化组），且其宗教将被转变为§Y$RELIGION$§!。"
+EDG_mission_LOT_4_6_a_flag_tt:0 "Unlocks the diplomatic action §Y'Issue an Imperial Ban on Heresy'§!.\n-This diplomatic action allows us to issue a §YHeresy Ban§! against specific §YImperial princes§! even without being the Defender of the Faith.\n-This diplomatic action can be taken once every §M10§! years.\n-This diplomatic action cannot be used simultaneously with the generic diplomatic action §Y'Issue a Ban on Heresy'§!; only one of the two can be taken per decade.\n-@PAP the Papal State and Imperial Archbishops are still eligible to §Mlift§! this Heresy Ban.\n\nAll §YHoly Roman Empire§! countries with a §Mtheocratic§! government will increase their §Gopinion§! of us by §G50§! points."
+EDG_mission_LOT_4_6_opinion:0 "Control the Three Archbishoprics"
 
-EDG_flavor_LOT_mission_48_a_tt:0 "我们或我们的属国所拥有的，任务所要求的省份，将会获得@ENG英格兰的§G核心§!"
-EDG_flavor_LOT_mission_48_c_tt:0 "我们或我们的属国所拥有的，任务所要求的省份，将会获得@ENG英格兰的§G核心§!"
-EDG_flavor_LOT_mission_48_d_tt:0 "我们或我们的属国所拥有的，任务所要求的省份，将会获得如下修正："
+EDG_mission_LOT_4_8_flag_Tt:0 "We can unlock the §Y'Mercenary Idea Group'§! without having completed Lotharingia's three special idea groups."
+EDG_mission_LOT_4_8_b_tt:0 "Each province we own with the province modifier §G'Military Production: Weapon Manufacturing'§! will provide us with §M1§! point of §YArist Tradition§!."
 
-EDG_mission_LOT_3_17_a_tt_yes:0 "£yes£若我们拥有的船只数量达到§M100§!，那么"
-EDG_mission_LOT_3_17_a_tt_no:0 "£no£若我们拥有的船只数量达到§M100§!，那么"
+EDG_mission_LOT_4_10_a_tt_yes:0 "£yes£If we complete the mission by §Mconquering§! the §YNordmark§! region or making it a §Msubject§!, then"
+EDG_mission_LOT_4_10_a_tt_no:0 "£no£If we complete the mission by §Mconquering§! the §YNordmark§! region or making it a §Msubject§!, then"
+EDG_mission_LOT_4_10_b_tt_yes:0 "£yes£If we complete the mission by occupying the capital of §YNordmark§!, then five random provinces we own will produce the following effect:"
+EDG_mission_LOT_4_10_b_tt_no:0 "£no£If we complete the mission by occupying the capital of §YNordmark§!, then five random provinces we own will produce the following effect:"
 
+EDG_mission_LOT_4_12_a_tt_yes:0 "£yes£If we are not the Emperor, not a member of the Holy Roman Empire, and the Holy Roman Empire exists, then"
+EDG_mission_LOT_4_12_a_tt_no:0 "£no£If we are not the Emperor, not a member of the Holy Roman Empire, and the Holy Roman Empire exists, then"
 
-EDG_mission_LOT_3_20_tt:0 "我们所拥有的§M所有省份§!，文化将被转变为§Y洛塔林吉亚§!文化"
+EDG_mission_LOT_4_12_a_tt:0 "All provinces with §YCzech§!, §YMoravian§!, or §YSilesian§! culture will lose §M25%§! autonomy and §M10§! points of separatism."
 
+EDG_mission_LOT_5_22_a_tt_yes:0 "£yes£If we meet the conditions for the §Yestate agenda§!, then"
+EDG_mission_LOT_5_22_a_tt_no:0 "£no£If we meet the conditions for the §Yestate agenda§!, then"
+EDG_mission_LOT_5_22_b_tt_yes:0 "£yes£If we meet the conditions for the §Yestate privilege§!, then"
+EDG_mission_LOT_5_22_b_tt_no:0 "£no£If we meet the conditions for the §Yestate privilege§!, then"
 
-EDG_mission_LOT_3_10_flag_tt:0 "§Y政府互动§!§M提拔圣骑士§!将为我们额外减少§M2§!点§G厌战度§!。"
+EDG_mission_LOT_5_25_a_tt_yes:0 "£yes£If our state religion is §YCatholic§! and we have completed the §YReligious Idea Group§! or §YHumanist Idea Group§!, then"
+EDG_mission_LOT_5_25_a_tt_no:0 "£no£If our state religion is §YCatholic§! and we have completed the §YReligious Idea Group§! or §YHumanist Idea Group§!, then"
+EDG_mission_LOT_5_25_b_tt_yes:0 "£yes£If our state religion is §YCatholic§! and we have completed the §YLotharingian Administrative Idea Group§!, then"
+EDG_mission_LOT_5_25_b_tt_no:0 "£no£If our state religion is §YCatholic§! and we have completed the §YLotharingian Administrative Idea Group§!, then"
+EDG_mission_LOT_5_25_c_tt_yes:0 "£yes£If our state religion is not §YCatholic§!, then"
+EDG_mission_LOT_5_25_c_tt_no:0 "£no£If our state religion is not §YCatholic§!, then"
 
+EDG_mission_LOT_5_26_a_tt_yes:0 "£yes£If our state religion is §YCatholic§!, then"
+EDG_mission_LOT_5_26_a_tt_no:0 "£no£If our state religion is §YCatholic§!, then"
 
-EDG_mission_LOT_3_12_a_tt:0 "我们拥有的每个拥有§G「军事生产力：制造防具」§!将会为我们在§M首都§!提供一支§Y骑兵部队§!"
+EDG_mission_LOT_4_22_a_flag_tt:0 "The government ability §Y'Crown Authority'§! will additionally provide up to §G30%§! §MTrade Efficiency Modifier§!.\n\nThe government ability §Y'Reform Administrative Courts'§! will additionally grant money equal to §G25%§! of our §Mannual income§!."
+EDG_mission_LOT_4_25_a_flag_tt:0 "The government ability §Y'Crown Authority'§! will additionally provide up to §G-25%§! §Mdiplomatic power cost for converting province culture§!."
 
-EDG_mission_LOT_3_10_a_tt_yes:0 "£yes£若我们已经完成国家理念组§Y「洛塔林吉亚军事理念组」§!，那么"
-EDG_mission_LOT_3_10_a_tt_no:0 "£no£若我们已经完成国家理念组§Y「洛塔林吉亚军事理念组」§!，那么"
+EDG_subject_French_reduce_20_liberty_desire_modifier_flag_tt:0 "From now on, all our subjects belonging to the §YFrench§! culture group will have their §Gindependence desire§! reduced by §M20%§!."
+EDG_on_holy_order_established_provide_3_prestige_flag_tt:0 "§Y'Establish Local Organization'§! will grant us §M3§! points of §Gprestige§!."
 
-EDG_mission_LOT_3_10_b_tt_yes:0 "£yes£若国家§Y法兰克尼亚§!是我们的属国，那么"
-EDG_mission_LOT_3_10_b_tt_no:0 "£no£若国家§Y法兰克尼亚§!是我们的属国，那么"
+EDG_mission_LOT_5_29_tt:0 "All provinces we own that meet the §Ymission conditions§! (whether meeting the culture and development conditions or meeting the province modifier conditions) will gain §M1§! point of §Gbase production§!."
 
-EDG_mission_LOT_3_12_b_tt:0 "国家修正§G「奥斯特马克骠骑兵」§!将额外追加§M10%§!的§G骑兵作战能力§!"
+EDG_mission_LOT_5_30_tt:0 "All provinces we own that meet the §Ymission conditions§! (whether meeting the culture and development conditions or meeting the province modifier conditions) will gain the following effect:"
 
-EDG_mission_LOT_3_21_flag_tt:0 "解锁事件组§Y「设立行政州」§!，该事件§G每5年§!触发一次，对选中的省份具有如下效果：\n-减少当地§G行政容量花费§!\n-增加当地§G基础生产§!\n-每个省份仅能触发§G一次§!"
+EDG_on_yearly_pulse_gain_land_share_flag_tt:0 "We will gain §G1%§! §Ycrown land§! annually. This share is deducted equally from the crown land shares held by §Yall estates§!."
 
-EDG_LOT_government_interactions_2_used_value:0 "使用政府能力§M「召开枢密院会议」§!的次数"
+EDG_mission_LOT_4_30_a_tt_yes:0 "£yes£If we have completed the §Y'Lotharingian Administrative Idea Group'§!, then the aforementioned modifier will additionally grant §M-20%§! §Gdiplomatic impact from overextension§!."
+EDG_mission_LOT_4_30_a_tt_no:0 "£no£If we have completed the §Y'Lotharingian Administrative Idea Group'§!, then the aforementioned modifier will additionally grant §M-20%§! §Gdiplomatic impact from overextension§!."
 
-EDG_flavor_LOT_mission_54_a_flag_tt:0 "政府能力§M「召开枢密院会议」§!将额外给予如下效果：\n"
-EDG_flavor_LOT_mission_54_b_flag_tt:0 "政府能力§M「召开枢密院会议」§!将额外给予我们相当于§Y年收入§!的§G25%§!的金钱"
-EDG_flavor_LOT_mission_54_c_flag_tt:0 "政府能力§M「召开枢密院会议」§!将额外给予我们相当于§G10%§!的§Y所有阶层忠诚度§!"
-EDG_flavor_LOT_mission_54_d_flag_tt:0 "政府能力§M「召开枢密院会议」§!将额外给予我们相当于§G20§!的§Y正统度§!"
-EDG_flavor_LOT_mission_54_e_flag_tt:0 "政府能力§M「召开枢密院会议」§!将额外给予如下效果：\n"
+EDG_mission_LOT_3_13_a_tt_yes:0 "£yes£If any of our §Mallies§! is a §Yrepublican§! government, then"
+EDG_mission_LOT_3_13_a_tt_no:0 "£no£If any of our §Mallies§! is a §Yrepublican§! government, then"
 
-EDG_LOT_productivity_ADM_enable_flag_tt:0 "解锁§Y「国家文化生产力」§!机制，该机制能够提升以下生产力：\n-文化生产力：§G推广教育§!\n-文化生产力：§G推广娱乐§!\n-文化生产力：§G推广官话§!\n-文化生产力：§G推广国教§!\n（该界面于省份界面上方，若未显示，请关闭其他MOD，尤其是与UI相关的MOD，例如奇观UI）"
+EDG_mission_LOT_3_13_b_tt_yes:0 "£yes£If none of our §Mallies§! is a §Yrepublican§! government, then"
+EDG_mission_LOT_3_13_b_tt_no:0 "£no£If none of our §Mallies§! is a §Yrepublican§! government, then"
 
-EDG_LOT_productivity_DIP_enable_flag_tt:0 "解锁§Y「国家经济生产力」§!机制，该机制能够提升以下生产力：\n-经济生产力：§G支持农业§!\n-经济生产力：§G支持工艺§!\n-经济生产力：§G支持行政§!\n-经济生产力：§G支持基建§!\n（该界面于省份界面上方，若未显示，请关闭其他MOD，尤其是与UI相关的MOD，例如奇观UI）"
+EDG_mission_LOT_1_7_a_tt_yes:0 "£yes£If our §Gprimary culture§! is §YLotharingian§! culture, then all provinces we own with §YFrench§! culture (specifically French culture, not the broader French culture group) will be converted to §YLotharingian culture§!."
+EDG_mission_LOT_1_7_a_tt_no:0 "£no£If our §Gprimary culture§! is §YLotharingian§! culture, then all provinces we own with §YFrench§! culture (specifically French culture, not the broader French culture group) will be converted to §YLotharingian culture§!."
 
-EDG_LOT_productivity_MIL_enable_flag_tt:0 "解锁§Y「国家军事生产力」§!机制，该机制能够提升以下生产力：\n-军事生产力：§G制造武器§!\n-军事生产力：§G制造防具§!\n-军事生产力：§G制造火炮§!\n-军事生产力：§G制造船只§!\n（该界面于省份界面上方，若未显示，请关闭其他MOD，尤其是与UI相关的MOD，例如奇观UI）"
+EDG_mission_LOT_4_13_a_tt:0 "For each §Ymerchant§! we have, we will gain §M5§! points of §YCrown Authority§!, up to a maximum of §M30§! points of §YCrown Authority§!. In total, we will gain"
 
-EDG_mission_LOT_3_26_a_tt:0 "所有提升了§G「文化生产力」§!的省份，将为我们提供本省份的§G2年§!的收入"
+EDG_mission_LOT_4_13_a_tt_yes:0 "£yes£If we have completed the §Y'Lotharingian Diplomatic Idea Group'§!, then"
+EDG_mission_LOT_4_13_a_tt_no:0 "£no£If we have completed the §Y'Lotharingian Diplomatic Idea Group'§!, then"
+EDG_mission_LOT_4_13_b_tt_yes:0 "£yes£If the number of provinces we own with the province modifier §G'Military Production: Shipbuilding'§! reaches §M20§!, then"
+EDG_mission_LOT_4_13_b_tt_no:0 "£no£If the number of provinces we own with the province modifier §G'Military Production: Shipbuilding'§! reaches §M20§!, then"
+EDG_mission_LOT_4_13_STRONG_MERCHANTS:0 "Control Venice"
 
-EDG_mission_LOT_3_26_b_flag_tt:0 "每三年将会随机为我们的一个§Y主流文化§!省份增加如下省份修正："
+EDG_mission_LOT_4_15_a_tt_yes:0 "£yes£If the current year is no later than §Y1530§!, then"
+EDG_mission_LOT_4_15_a_tt_no:0 "£no£If the current year is no later than §Y1530§!, then"
 
-EDG_mission_LOT_3_31_a_tt_yes:0 "£yes£若我们在事件§Y「纯度为99.8%的金币？」§!中采用了§Y里佛尔§!，那么"
-EDG_mission_LOT_3_31_a_tt_no:0 "£yes£若我们在事件§Y「纯度为99.8%的金币？」§!中采用了§Y里佛尔§!，那么"
-EDG_mission_LOT_3_31_b_tt_yes:0 "£yes£否则"
-EDG_mission_LOT_3_31_b_tt_no:0 "£no£否则"
+EDG_mission_LOT_5_15_a_tt_yes:0 "£yes£If the province §Y[153.GetName]§! belongs to our subject, then\nWhile [153.owner.GetName] owns this province, increasing the development of [153.GetName] will have a §G20%§! chance to gain an additional point of development."
+EDG_mission_LOT_5_15_a_tt_no:0 "£no£If the province §Y[153.GetName]§! belongs to our subject, then\nWhile [153.owner.GetName] owns this province, increasing the development of [153.GetName] will have a §G20%§! chance to gain an additional point of development."
 
+EDG_mission_LOT_4_16_a_tt_yes:0 "£yes£If we have already unlocked the §Y'Aachen Palatine Chapel'§! construction mechanic, then"
+EDG_mission_LOT_4_16_a_tt_no:0 "£no£If we have already unlocked the §Y'Aachen Palatine Chapel'§! construction mechanic, then"
 
-EDG_ab_allow_feudal_de_jure_law_refund_400_splend_power_flag_tt:0 "解锁§Y「地理大发现」§!时代能力§M「封建化法理」§!时，将会返还§G400§!点§M辉煌点数§!"
+EDG_riga_Saint_Mary_Basilica_unable_global_flag:0 "The wonder 'Riga Saint Mary's Basilica' has been disabled."
+EDG_riga_Saint_Mary_Basilica_unable_global_flag_tt:0 "The wonder §Y'Riga Saint Mary's Basilica'§! will be disabled."
 
-EDG_mission_LOT_4_4_a_tt_yes:0 "£yes£若§Y[1866.GetName]§!的§M基础人力§!达到§M5§!，那么上述修正将追加如下效果：\n-§G本地要塞维护费§!:§M-25%§!\n-§G当地守军规模§!:§M+25%§!"
-EDG_mission_LOT_4_4_a_tt_no:0 "£no£若§Y[1866.GetName]§!的§M基础人力§!达到§M5§!，那么上述修正将追加如下效果：\n-§G本地要塞维护费§!:§M-25%§!\n-§G当地守军规模§!:§M+25%§!"
+EDG_flavor_LOT_mission_64_a_tt:0 "We will commence research on §Yorgan guns§!. This research will make progress after §M20§! years."
+EDG_flavor_LOT_mission_65_a_tt:0 "We will continue research on §Yorgan guns§!. This research will make progress after §M10§! years."
 
-EDG_mission_LOT_4_6_a_flag_tt:0 "解锁外交行动§Y「对帝国诸侯颁布禁教令」§!\n-该外交行动允许我们在并非教廷监护的情况下，对特定§Y帝国诸侯§!颁布§Y禁教令§!\n-该外交行动每§M10§!年可采取一次\n-该外交行动不可与通用的外交行动§Y「颁布禁教令」§!同时使用，每十年内两者只可采取其中一个\n-@PAP教宗国和帝国大主教仍然有资格§M解除§!该禁教令\n\n所有§Y神圣罗马帝国§!的§M神权制§!国家，将会对我们提升§G50§!点§G好感度§!"
-EDG_mission_LOT_4_6_opinion:0 "控制三大主教区"
+EDG_mission_LOT_4_34_a_Tt_yes:0 "£yes£If the province §Y[1866.GetName]§! has the building §MWeapons Factory§! (Workshop), then"
+EDG_mission_LOT_4_34_a_Tt_no:0 "£no£If the province §Y[1866.GetName]§! has the building §MWeapons Factory§! (Workshop), then"
 
-EDG_mission_LOT_4_8_flag_Tt:0 "我们可以在未完成洛塔林吉亚的三个特殊理念组的情况下解锁§Y「佣兵理念组」§!"
-EDG_mission_LOT_4_8_b_tt:0 "我们拥有的每个具有省份修正§G「军事生产力：制造武器」§!的省份，将会为我们提供§M1§!的§Y陆军传统§!"
+EDG_mission_LOT_4_34_trigger_tooltip:0 "The §Yorgan gun§! project has §Ynot started§!, §Yhas already ended§!, or we have already researched §Yimproved organ guns§!."
 
-EDG_mission_LOT_4_10_a_tt_yes:0 "£yes£若我们通过§M征服§!§Y诺德马克§!区域或使其成为§M属国§!的方式完成任务，那么"
-EDG_mission_LOT_4_10_a_tt_no:0 "£no£若我们通过§M征服§!§Y诺德马克§!区域或使其成为§M属国§!的方式完成任务，那么"
-EDG_mission_LOT_4_10_b_tt_yes:0 "£yes£若我们通过占领§Y诺德马克§!首都的方式完成任务，那么我们拥有的随机五个省份，将会产生如下效果："
-EDG_mission_LOT_4_10_b_tt_no:0 "£no£若若我们通过占领§Y诺德马克§!首都的方式完成任务，那么我们拥有的随机五个省份，将会产生如下效果："
+EDG_mission_LOT_4_34_a_tt_yes:0 "£yes£If we have already researched §Yimproved organ guns§!, then"
+EDG_mission_LOT_4_34_a_tt_no:0 "£no£If we have already researched §Yimproved organ guns§!, then"
 
-EDG_mission_LOT_4_12_a_tt_yes:0 "£yes£若我们不是皇帝、不属于神圣罗马帝国且神圣罗马帝国存在，那么"
-EDG_mission_LOT_4_12_a_tt_no:0 "£no£若我们不是皇帝、不属于神圣罗马帝国且神圣罗马帝国存在，那么"
+EDG_mission_LOT_5_6_a_tt_yes:0 "£yes£If the £icon_EDG_icon_hre_emperor£ §YHoly Roman Empire§! exists, then\nAll §YHoly Roman Empire princes§! will trigger the event §M'The Roman Emperor and the Frankish Emperor'§! and be forced to choose between aligning with us or with the Emperor.\n- If a prince chooses to align with us, their opinion of us will increase, and a five-year truce will be established between us.\n- If a prince chooses to align with the Emperor, their opinion of the Emperor will increase, and the Emperor will gain Imperial Authority.\n- Choosing to align with us does not make them our subject."
+EDG_mission_LOT_5_6_a_tt_no:0 "£no£If the £icon_EDG_icon_hre_emperor£ §YHoly Roman Empire§! exists, then\nAll §YHoly Roman Empire princes§! will trigger the event §M'The Roman Emperor and the Frankish Emperor'§! and be forced to choose between aligning with us or with the Emperor.\n- If a prince chooses to align with us, their opinion of us will increase, and a five-year truce will be established between us.\n- If a prince chooses to align with the Emperor, their opinion of the Emperor will increase, and the Emperor will gain Imperial Authority.\n- Choosing to align with us does not make them our subject."
 
-EDG_mission_LOT_4_12_a_tt:0 "所有§Y捷克§!、§Y摩拉维亚§!和§Y西里西亚§!文化的省份，将会失去§M25%§!点自治度和§M10§!点分离主义"
+EDG_flavor_LOT_mission_68_a_opinion:0 "Support the Roman Emperor"
+EDG_flavor_LOT_mission_68_b_opinion:0 "Support the Frankish Emperor"
 
-EDG_mission_LOT_5_22_a_tt_yes:0 "£yes£若我们满足了§Y阶层议程§!的条件，那么"
-EDG_mission_LOT_5_22_a_tt_no:0 "£no£若我们满足了§Y阶层议程§!的条件，那么"
-EDG_mission_LOT_5_22_b_tt_yes:0 "£yes£若我们满足了§Y阶层特权§!的条件，那么"
-EDG_mission_LOT_5_22_b_tt_no:0 "£no£若我们满足了§Y阶层特权§!的条件，那么"
+EDG_mission_LOT_5_6_flag_tt:0 "As long as the £icon_EDG_icon_hre_emperor£ §YHoly Roman Empire§! exists, we will gain a §M-20%§! §Gcore-creation cost§! bonus (triggered modifier refreshes monthly)."
+EDG_mission_LOT_5_6_flag_trigger_modifier:0 "Invasion of the Empire"
+EDG_mission_LOT_5_7_flag_trigger_modifier:0 "Invasion of the Empire"
 
-EDG_mission_LOT_5_25_a_tt_yes:0 "£yes£若我们信仰§Y天主教§!，且完成了§Y宗教理念组§!或§Y人文理念组§!，那么"
-EDG_mission_LOT_5_25_a_tt_no:0 "£no£若我们信仰§Y天主教§!，且完成了§Y宗教理念组§!或§Y人文理念组§!，那么"
-EDG_mission_LOT_5_25_b_tt_yes:0 "£yes£若我们信仰§Y天主教§!，且完成了§Y洛塔林吉亚行政理念组§!，那么"
-EDG_mission_LOT_5_25_b_tt_no:0 "£no£若我们信仰§Y天主教§!，且完成了§Y洛塔林吉亚行政理念组§!，那么"
-EDG_mission_LOT_5_25_c_tt_yes:0 "£yes£若我们不信仰§Y天主教§!，那么"
-EDG_mission_LOT_5_25_c_tt_no:0 "£no£若我们不信仰§Y天主教§!，那么"
+EDG_mission_LOT_5_6_b_tt_yes:0 "£yes£If any §Ycore provinces§! of @FKN Franconia are owned by us or our subjects, then we will additionally gain §G+20§! §MArist Tradition§!."
+EDG_mission_LOT_5_6_b_tt_no:0 "£no£If any §Ycore provinces§! of @FKN Franconia are owned by us or our subjects, then we will additionally gain §G+20§! §MArist Tradition§!."
+EDG_mission_LOT_5_6_c_tt_yes:0 "£yes£If any §Ycore provinces§! of @WUR Württemberg or @HAB Austria are owned by us or our subjects, then we will additionally gain §G+10§! §Mpower projection§!."
+EDG_mission_LOT_5_6_c_tt_no:0 "£no£If any §Ycore provinces§! of @WUR Württemberg or @HAB Austria are owned by us or our subjects, then we will additionally gain §G+10§! §Mpower projection§!."
 
-EDG_mission_LOT_5_26_a_tt_yes:0 "£yes£若我们信仰§Y天主教§!，那么"
-EDG_mission_LOT_5_26_a_tt_no:0 "£no£若我们信仰§Y天主教§!，那么"
+EDG_mission_LOT_5_7_flag_tt:0 "When we are §Rat war§! with a £icon_EDG_icon_hre_emperor£ §YHoly Roman Empire§! prince, we will gain a §G-20%§! §Maggressive expansion impact§! modifier."
 
+EDG_on_main_war_won_provide_add_manpower_flag_tt:0 "When we win a war as the war leader, we will gain §M30%§! of our §Yyearly manpower recovery§!."
 
-EDG_mission_LOT_4_22_a_flag_tt:0 "政府能力§Y「王冠权威」§!将额外提供最多§G30%§!的§M贸易效率修正§!\n\n政府能力§Y「改革行政法院」§!将额外提供相当于§M年收入§!的§G25%§!的金钱"
-EDG_mission_LOT_4_25_a_flag_tt:0 "政府能力§Y「王冠权威」§!将额外提供最多§G-25%§!的§M转化省份文化的外交点数花费§!"
+EDG_mission_LOT_HRE_exists_and_NOT_EMPEROR_tt_yes:0 "£yes£If the £icon_EDG_icon_hre_emperor£ §YHoly Roman Empire§! exists and we are not the §YHoly Roman Emperor§!, then"
+EDG_mission_LOT_HRE_exists_and_NOT_EMPEROR_tt_no:0 "£no£If the £icon_EDG_icon_hre_emperor£ §YHoly Roman Empire§! exists and we are not the §YHoly Roman Emperor§!, then"
 
+EDG_mission_LOT_5_8_a_tt:0 "For each §Yprovince meeting the mission conditions§! owned by us or our subjects, we will gain §G3%§! §MClergy loyalty§!."
 
-EDG_subject_French_reduce_20_liberty_desire_modifier_flag_tt:0 "从今往后，我们所有属于§Y法兰西§!文化组的属国，都将减少§M20%§!的§G独立倾向§!"
-EDG_on_holy_order_established_provide_3_prestige_flag_tt:0 "§Y「设立地方组织」§!将会为我们提供§M3§!点§G威望§!"
+EDG_mission_LOT_5_10_a_tt_yes:0 "£yes£If we have at least §Y50§! active cavalry units, then"
+EDG_mission_LOT_5_10_a_tt_no:0 "£no£If we have at least §Y50§! active cavalry units, then"
 
-EDG_mission_LOT_5_29_tt:0 "我们所拥有的所有满足§Y任务条件§!的省份（满足文化与发展度条件或满足省份修正条件均可），将会获得§M1§!点§G基础生产§!"
+EDG_mission_LOT_5_11_STRONG_MERCHANTS:0 "Pomeranian Merchants"
 
-EDG_mission_LOT_5_30_tt:0 "我们所拥有的所有满足§Y任务条件§!的省份（满足文化与发展度条件或满足省份修正条件均可），将会获得如下效果："
+EDG_mission_LOT_3_14_a_tt_yes:0 "£yes£If we have already experienced a §YGolden Age§!, we will gain a bonus identical to that of a Golden Age until the current ruler is no longer in power."
+EDG_mission_LOT_3_14_a_tt_no:0 "£no£If we have already experienced a §YGolden Age§!, we will gain a bonus identical to that of a Golden Age until the current ruler is no longer in power."
 
-EDG_on_yearly_pulse_gain_land_share_flag_tt:0 "我们每年将会获得§G1%§!的§Y王冠领地§!，该份额从§Y所有阶层§!拥有的王冠领地份额中平均扣除。"
+EDG_mission_LOT_5_13_tt:0 "Each of our subjects with its capital in the §YGermany§! region will provide us with §G2§! points of §MCrown Authority§!"
 
-EDG_mission_LOT_4_30_a_tt_yes:0 "£yes£若我们完成了§Y「洛塔林吉亚行政理念组」§!，那么上述修正将额外追加§M过度扩张造成的外交影响§!：§G-20%§!"
-EDG_mission_LOT_4_30_a_tt_no:0 "£no£若我们完成了§Y「洛塔林吉亚行政理念组」§!，那么上述修正将额外追加§M过度扩张造成的外交影响§!：§G-20%§!"
+EDG_mission_LOT_5_16_a_tt_yes:0 "£yes£If provinces §Y[151.GetName]§!, §Y[280.GetName]§!, and §Y[295.GetName]§! are all owned by us or our non-tributary subjects, then"
+EDG_mission_LOT_5_16_a_tt_no:0 "£no£If provinces §Y[151.GetName]§!, §Y[280.GetName]§!, and §Y[295.GetName]§! are all owned by us or our non-tributary subjects, then"
 
-EDG_mission_LOT_3_13_a_tt_yes:0 "£yes£若我们有任一§M盟友§!是§Y共和制§!国家，那么"
-EDG_mission_LOT_3_13_a_tt_no:0 "£no£若我们有任一§M盟友§!是§Y共和制§!国家，那么"
+EDG_mission_LOT_3_19_flag_tt:0 "We will unlock §Ydecisions§! to gradually integrate the §YGermanic§!, §YLatin§!, and §YIberian§! culture groups into the §YFrench§! culture group."
 
-EDG_mission_LOT_3_13_b_tt_yes:0 "£yes£若我们没有§M盟友§!是§Y共和制§!国家，那么"
-EDG_mission_LOT_3_13_b_tt_no:0 "£no£若我们没有§M盟友§!是§Y共和制§!国家，那么"
+EDG_mission_LOT_5_34_tt:0 "All provinces we own that meet §Yany condition of this mission§! will gain the following modifier:"
 
-EDG_mission_LOT_1_7_a_tt_yes:0 "£yes£若我们的§G主流文化§!是§Y洛塔林吉亚§!文化，那么我们拥有的所有§Y法兰西§!文化（并非法兰西文化组）的省份，将会被转变为§Y洛塔林吉亚文化§!"
-EDG_mission_LOT_1_7_a_tt_no:0 "£no£若我们的§G主流文化§!是§Y洛塔林吉亚§!文化，那么我们拥有的所有§Y法兰西§!文化（并非法兰西文化组）的省份，将会被转变为§Y洛塔林吉亚文化§!"
-EDG_mission_LOT_4_13_a_tt:0 "我们每有一个§Y商人团§!，就能获得§M5§!点§Y王冠权威§!，至多获得§M30§!点§Y王冠权威§。总共将"
+EDG_mission_LOT_5_33_b_tt:0 "Each eligible province provides us with §G+1§! §YNavy Tradition§!."
 
-EDG_mission_LOT_4_13_a_tt_yes:0 "£yes£若我们完成了§Y「洛塔林吉亚外交理念组」§!，那么"
-EDG_mission_LOT_4_13_a_tt_no:0 "£no£若我们完成了§Y「洛塔林吉亚外交理念组」§!，那么"
-EDG_mission_LOT_4_13_b_tt_yes:0 "£yes£若我们拥有省份修正§G「军事生产力：制造船只」§!的省份数量达到了§M20§!个，那么"
-EDG_mission_LOT_4_13_b_tt_no:0 "£no£若我们拥有省份修正§G「军事生产力：制造船只」§!的省份数量达到了§M20§!个，那么"
-EDG_mission_LOT_4_13_STRONG_MERCHANTS:0 "控制威尼斯"
+EDG_Aachen_Lotharingia_Palace_enable_flag:0 "The §Mfinal stage§! of the §Y'Aachen Palatine Chapel'§! has been completed."
+EDG_Aachen_Lotharingia_Palace_enable_flag_trigger_tooltip:0 "The §Mfinal stage§! of the §Y'Aachen Palatine Chapel'§! has been completed."
+EDG_LOT_palace_end_button_modifier:0 "The §Mfinal stage§! of the §Y'Aachen Palatine Chapel'§! has been completed."
 
-EDG_mission_LOT_4_15_a_tt_yes:0 "£yes£若我们所处的年份不晚于§Y1530§!年，那么"
-EDG_mission_LOT_4_15_a_tt_no:0 "£no£若我们所处的年份不晚于§Y1530§!年，那么"
+EDG_flavor_LOT_mission_51_a_flag_tt:0 "The government ability §Y'Reform Administrative Courts'§! will additionally reduce the independence desire of a random subject by §G25%§!."
+EDG_flavor_LOT_mission_52_a_flag_tt:0 "The government ability §Y'Crown Authority'§! will additionally provide up to §G50%§! §Madministrative advisor cost reduction§!."
 
-EDG_mission_LOT_5_15_a_tt_yes:0 "£yes£若省份§Y[153.GetName]§!属于我们的属国，那么\n在[153.owner.GetName]拥有该省份的情况下，提升[153.GetName]的发展度，将有§G20%§!的概率额外获得一点发展度。"
-EDG_mission_LOT_5_15_a_tt_no:0 "£no£若省份§Y[153.GetName]§!属于我们的属国，那么\n在[153.owner.GetName]拥有该省份的情况下，提升[153.GetName]的发展度，将有§G20%§!的概率额外获得一点发展度。"
+EDG_flavor_LOT_mission_5_a_flag_yes_tt:0 "Because we chose to appease the Archbishop of §Y[80.GetName]§! in the event §Y'Renovate the Cathedral'§!, they did not rebel."
+EDG_flavor_LOT_mission_5_b_flag_yes_tt:0 "Because we chose to appease the Archbishop of §Y[85.GetName]§! in the event §Y'Renovate the Cathedral'§!, they did not rebel."
 
+EDG_flavor_LOT_mission_5_a_flag_no_tt:0 "Because we did not choose to appease the Archbishop of §Y[80.GetName]§! in the event §Y'Renovate the Cathedral'§!, they rebelled."
+EDG_flavor_LOT_mission_5_b_flag_no_tt:0 "Because we did not choose to appease the Archbishop of §Y[85.GetName]§! in the event §Y'Renovate the Cathedral'§!, they rebelled."
 
-EDG_mission_LOT_4_16_a_tt_yes:0 "£yes£若我们已经解锁§Y「亚琛圣父大皇宫」§!建设机制，那么"
-EDG_mission_LOT_4_16_a_tt_no:0 "£no£若我们已经解锁§Y「亚琛圣父大皇宫」§!建设机制，那么"
+EDG_mission_LOT_2_4_trigger_tooltip:0 "In case you are unaware, you can remove Imperial Territory from the Holy Roman Empire in the province interface. The button is located 'to the left of the Return Province button' and below the Autonomy panel."
 
+EDG_LOT_War_of_Succession_8_b_flag_trigger_tt:0 "The §Ydisaster event chain§! has ended."
 
-EDG_riga_Saint_Mary_Basilica_unable_global_flag:0 "奇观「里加圣玛丽主教堂」已被禁用"
-EDG_riga_Saint_Mary_Basilica_unable_global_flag_tt:0 "奇观§Y「里加圣玛丽主教堂」§!将被禁用"
+EDG_mission_LOT_1_6_has_opinion_trigger_tooltip:0 "The province owner meets any of the following conditions:\n1. It is us.\n2. It is our subject.\n3. The province owner has an opinion of at least §G150§! towards us and has the §G'Gift'§! opinion modifier towards us."
 
-EDG_flavor_LOT_mission_64_a_tt:0 "我们将进行§Y风琴炮§!的研究，该研究将在§M20§!年后取得进展。"
-EDG_flavor_LOT_mission_65_a_tt:0 "我们将继续进行§Y风琴炮§!的研究，该研究将在§M10§!年后取得进展。"
+EDG_mission_LOT_1_6_tt_2:0 "All countries owning provinces in §MWest Burgundy§! and §MEast Burgundy§! that have an opinion of at least §G150§! towards us and have the §G'Gift'§! opinion modifier will trigger the event §Y'Submission of Burgundy'§!, choosing whether to cede their provinces in §MWest Burgundy§! and §MEast Burgundy§! to us.\n- If they are a Great Power, they will definitely refuse.\n- If they are a non-Great Power AI, they will definitely agree."
 
-EDG_mission_LOT_4_34_a_Tt_yes:0 "£yes£若省份§Y[1866.GetName]§!有建筑§M武器工场§!（工场），那么"
-EDG_mission_LOT_4_34_a_Tt_no:0 "£no£若省份§Y[1866.GetName]§!有建筑§M武器工场§!（工场），那么"
+edg_has_won_war_against_emperor_tooltip:0 "Has won a war against the §YHoly Roman Emperor§! within the last §M30 years§!."
 
-EDG_mission_LOT_4_34_trigger_tooltip:0 "§Y风琴炮§!项目§Y未开始§!或§Y已经结束§!，又或者我们已经研发出了§Y改良风琴炮§!"
+EDG_mission_LOT_5_11_a_tt_yes:0 "£yes£If we have at least §M10§! provinces with the modifier §G'Military Production: Artillery Manufacturing'§!"
+EDG_mission_LOT_5_11_a_tt_no:0 "£no£If we have at least §M10§! provinces with the modifier §G'Military Production: Artillery Manufacturing'§!"
 
-EDG_mission_LOT_4_34_a_tt_yes:0 "£yes£若我们已经研发出了§Y改良风琴炮§!，那么"
-EDG_mission_LOT_4_34_a_tt_no:0 "£no£若我们已经研发出了§Y改良风琴炮§!，那么"
+EDG_mission_LOT_5_11_b_tt_yes:0 "£yes£If we have at least §M10§! provinces with the modifier §G'Economic Production: Supporting Infrastructure'§!"
+EDG_mission_LOT_5_11_b_tt_no:0 "£no£If we have at least §M10§! provinces with the modifier §G'Economic Production: Supporting Infrastructure'§!"
 
-EDG_mission_LOT_5_6_a_tt_yes:0 "£yes£若£icon_EDG_icon_hre_emperor£§Y神圣罗马帝国§!存在，那么\n所有§Y神圣罗马帝国诸侯§!都将触发事件§M「罗马皇帝与法兰克皇帝」§!，并将被迫选择与我们亲近还是向皇帝亲近。\n-若诸侯选择亲近我们，那么将增加双方的好感，并在双方之间增加一个为期五年的停战条约。\n-若诸侯选择亲近皇帝，那么增加双方的好感，并为皇帝提供帝国权威。\n-不存在亲近我们后就成为我们属国的情况。"
-EDG_mission_LOT_5_6_a_tt_no:0 "£no£若£icon_EDG_icon_hre_emperor£§Y神圣罗马帝国§!存在，那么\n所有§Y神圣罗马帝国诸侯§!都将触发事件§M「罗马皇帝与法兰克皇帝」§!，并将被迫选择与我们亲近还是向皇帝亲近。\n-若诸侯选择亲近我们，那么将增加双方的好感，并在双方之间增加一个为期五年的停战条约。\n-若诸侯选择亲近皇帝，那么增加双方的好感，并为皇帝提供帝国权威。\n-不存在亲近我们后就成为我们属国的情况。"
+EDG_LOT_annexationaction_hre_or_ger_do_not_need_opinion_tt:0 "When §Ydiplomatically annexing§! §MHoly Roman Empire princes§! or vassals of the §MGermanic culture group§!, they do not need to have an opinion of §G190§! towards us."
 
-EDG_flavor_LOT_mission_68_a_opinion:0 "支持罗马皇帝"
-EDG_flavor_LOT_mission_68_b_opinion:0 "支持法兰克皇帝"
+EDG_mission_LOT_4_20_trigger_tooltip_1:0 "Has a §Yfemale§! advisor."
+EDG_mission_LOT_4_20_trigger_tooltip_2:0 "Has a §Yforeign-culture§! advisor."
+EDG_mission_LOT_4_20_trigger_tooltip_3:0 "Has a §Yheretic or heathen§! advisor."
 
-EDG_mission_LOT_5_6_flag_tt:0 "只要£icon_EDG_icon_hre_emperor£§Y神圣罗马帝国§!存在，我们就能获得§M核心化花费§!:§G-20%§!的加成（触发修正过月刷新）。"
-EDG_mission_LOT_5_6_flag_trigger_modifier:0 "入侵帝国"
-EDG_mission_LOT_5_7_flag_trigger_modifier:0 "入侵帝国"
+EDG_mission_LOT_4_34_province_modifier_2:0 "Imperial Central Artillery Academy"
 
-EDG_mission_LOT_5_6_b_tt_yes:0 "£yes£若@FKN法兰克尼亚的§Y核心省份§!被我们或我们的属国拥有，那么我们将额外获得§G+20§!的§M陆军传统§!"
-EDG_mission_LOT_5_6_b_tt_no:0 "£no£若@FKN法兰克尼亚的§Y核心省份§!被我们或我们的属国拥有，那么我们将额外获得§G+20§!的§M陆军传统§!"
-EDG_mission_LOT_5_6_c_tt_yes:0 "£yes£若@WUR符滕堡或@HAB奥地利（HAB）的§Y核心省份§!被我们或我们的属国拥有，那么我们将额外获得§G+10§!的§M力量投射§!"
-EDG_mission_LOT_5_6_c_tt_no:0 "£no£若@WUR符滕堡或@HAB奥地利（HAB）的§Y核心省份§!被我们或我们的属国拥有，那么我们将额外获得§G+10§!的§M力量投射§!"
+TIM_upgrade_patronage_of_arts_privilege:0 "Strengthen the §Y'[Root.Get市民Name]'§! estate privilege §Y'Patronage of the Arts'§!, which will additionally provide §Y+0.5 Yearly Prosperity§!."
 
-EDG_mission_LOT_5_7_flag_tt:0 "当我们与£icon_EDG_icon_hre_emperor£§Y神圣罗马帝国§!诸侯§R交战§!时，我们将获得§G-20%§!的§M侵略扩张修正§!"
-
-EDG_on_main_war_won_provide_add_manpower_flag_tt:0 "我们获得一场盟主战争的胜利时，我们将获得§Y本年人力恢复总量§!的§M30%§!"
-
-EDG_mission_LOT_HRE_exists_and_NOT_EMPEROR_tt_yes:0 "£yes£若£icon_EDG_icon_hre_emperor£§Y神圣罗马帝国§!存在且我们不是§Y神罗皇帝§!，那么"
-EDG_mission_LOT_HRE_exists_and_NOT_EMPEROR_tt_no:0 "£no£若£icon_EDG_icon_hre_emperor£§Y神圣罗马帝国§!存在且我们不是§Y神罗皇帝§!，那么"
-
-EDG_mission_LOT_5_8_a_tt:0 "我们和我们的属国所拥有的每一个§Y符合任务条件§!的省份，将会给予我们§G3%§!的§M教士忠诚度§!"
-
-EDG_mission_LOT_5_10_a_tt_yes:0 "£yes£若我们拥有的现役骑兵数量达到§Y50§!，那么"
-EDG_mission_LOT_5_10_a_tt_no:0 "£no£若我们拥有的现役骑兵数量达到§Y50§!，那么"
-
-EDG_mission_LOT_5_11_STRONG_MERCHANTS:0 "波美拉尼亚商人"
-
-EDG_mission_LOT_3_14_a_tt_yes:0 "£yes£若我们已经经历过§Y黄金时代§!，那么我们将获得一个同黄金时代相同的加成，直到当前统治者不再执政。"
-EDG_mission_LOT_3_14_a_tt_no:0 "£no£若我们已经经历过§Y黄金时代§!，那么我们将获得一个同黄金时代相同的加成，直到当前统治者不再执政。"
-
-
-EDG_mission_LOT_5_13_tt:0 "我们的每个首都位于§Y德意志§!地区的属国，将会为我们提供§G2§!点§M王冠权威§!"
-
-EDG_mission_LOT_5_16_a_tt_yes:0 "£yes£若省份§Y[151.GetName]§!、§Y[280.GetName]§!和§Y[295.GetName]§!均被我们或我们的非朝贡属国所拥有，那么"
-EDG_mission_LOT_5_16_a_tt_no:0 "£no£若省份§Y[151.GetName]§!、§Y[280.GetName]§!和§Y[295.GetName]§!均被我们或我们的非朝贡属国所拥有，那么"
-
-EDG_mission_LOT_3_19_flag_tt:0 "我们将解锁将§Y日耳曼§!文化、§Y拉丁§!文化和§Y伊比利亚§!文化逐步整合入§Y法兰西§!文化组的§Y决议§!。"
-
-EDG_mission_LOT_5_34_tt:0 "我们所拥有的满足§Y该任务任一条件§!的省份，将会获得如下修正："
-
-EDG_mission_LOT_5_33_b_tt:0 "每个满足条件的省份，为我们提供§G+1§!的§Y海军传统§!"
-
-EDG_Aachen_Lotharingia_Palace_enable_flag:0 "已经完成§Y「亚琛圣父大皇宫」§!的§M最终工程§!"
-EDG_Aachen_Lotharingia_Palace_enable_flag_trigger_tooltip:0 "已经完成§Y「亚琛圣父大皇宫」§!的§M最终工程§!"
-EDG_LOT_palace_end_button_modifier:0 "已经完成§Y「亚琛圣父大皇宫」§!的§M最终工程§!"
-
-EDG_flavor_LOT_mission_51_a_flag_tt:0 "政府能力§Y「改革行政法院」§!将额外降低随机一个属国§G25%§!的§M独立倾向§!"
-EDG_flavor_LOT_mission_52_a_flag_tt:0 "政府能力§Y「王冠权威」§!将额外提供最多§G50%§!的§M行政顾问雇佣花费减免§!"
-
-
-EDG_flavor_LOT_mission_5_a_flag_yes_tt:0 "由于我们在事件§Y「修葺大教堂」§!中选择了安抚§Y[80.GetName]§!大主教，他们没有发动叛乱"
-EDG_flavor_LOT_mission_5_b_flag_yes_tt:0 "由于我们在事件§Y「修葺大教堂」§!中选择了安抚§Y[85.GetName]§!大主教，他们没有发动叛乱"
-
-EDG_flavor_LOT_mission_5_a_flag_no_tt:0 "由于我们在事件§Y「修葺大教堂」§!中未选择安抚§Y[80.GetName]§!大主教，他们发动了叛乱"
-EDG_flavor_LOT_mission_5_b_flag_no_tt:0 "由于我们在事件§Y「修葺大教堂」§!中未选择安抚§Y[85.GetName]§!大主教，他们发动了叛乱"
-
-EDG_mission_LOT_2_4_trigger_tooltip:0 "以防你不知道，你可以在省份界面把帝国领土拔除出神圣罗马帝国。该按钮在「归还省份左边」、自治度板块下边。"
-
-EDG_LOT_War_of_Succession_8_b_flag_trigger_tt:0 "§Y灾难事件组§!已经结束"
-
-EDG_mission_LOT_1_6_has_opinion_trigger_tooltip:0 "省份的拥有者满足以下任意条件：\n1.是我们\n2.是我们的属国\n3.省份拥有者对我们拥有§G150§!的好感，且对我们有§G赠送礼物§!的好感修正"
-
-EDG_mission_LOT_1_6_tt_2:0 "所有在§M西勃艮第§!和§M东勃艮第§!拥有省份的国家，若对我们的好感度达到§G150§!且拥有§G赠送礼物§!的好感修正，那么将触发事件§Y「勃艮第的归附」§!，选择是否将§M西勃艮第§!和§M东勃艮第§!的省份割让给我们。\n-若对方是列强，则一定不会同意\n-若对方是非列强的AI，则一定会同意"
-
-edg_has_won_war_against_emperor_tooltip:0 "在§M30年§!内在赢得过对§Y神圣罗马帝国皇帝§!的战争胜利"
-
-EDG_mission_LOT_5_11_a_tt_yes:0 "£yes£若我们拥有§M10§!个省份拥有修正§G「军事生产力：制造火炮」§!"
-EDG_mission_LOT_5_11_a_tt_no:0 "£no£若我们拥有§M10§!个省份拥有修正§G「军事生产力：制造火炮」§!"
-
-EDG_mission_LOT_5_11_b_tt_yes:0 "£yes£若我们拥有§M10§!个省份拥有修正§G「经济生产力：支持基建」§!"
-EDG_mission_LOT_5_11_b_tt_no:0 "£no£若我们拥有§M10§!个省份拥有修正§G「经济生产力：支持基建」§!"
-
-EDG_LOT_annexationaction_hre_or_ger_do_not_need_opinion_tt:0 "§Y外交合并§!§M神圣罗马帝国诸侯§!或§M日耳曼文化组§!的附庸国时，不需要对方对我们拥有§G190§!的好感度。"
-
-EDG_mission_LOT_4_20_trigger_tooltip_1:0 "有一个§Y女性§!顾问"
-EDG_mission_LOT_4_20_trigger_tooltip_2:0 "有一个§Y异文化§!顾问"
-EDG_mission_LOT_4_20_trigger_tooltip_3:0 "有一个§Y异教或异端§!顾问"
-
-EDG_mission_LOT_4_34_province_modifier_2:0 "帝国中央炮兵学院"
-
-
-
- TIM_upgrade_patronage_of_arts_privilege:0 "加强§Y[Root.Get市民Name]§!「§Y赞助艺术§!」阶层特权，其将额外提供§Y繁荣度增长+0.5§!。"
-
-
-EDG_mission_LOT_5_17_a_tt_yes:0 "£yes£若君士坦丁堡的宗教是§Y东正教§!"
-EDG_mission_LOT_5_17_a_tt_no:0 "£no£若君士坦丁堡的宗教是§Y东正教§!"
-EDG_mission_LOT_5_17_b_tt_yes:0 "£yes£若君士坦丁堡的宗教是§Y伊斯兰教§!"
-EDG_mission_LOT_5_17_b_tt_no:0 "£no£若君士坦丁堡的宗教是§Y伊斯兰教§!"
+EDG_mission_LOT_5_17_a_tt_yes:0 "£yes£If the religion of Constantinople is §YOrthodox§!"
+EDG_mission_LOT_5_17_a_tt_no:0 "£no£If the religion of Constantinople is §YOrthodox§!"
+EDG_mission_LOT_5_17_b_tt_yes:0 "£yes£If the religion of Constantinople is §YIslamic§!"
+EDG_mission_LOT_5_17_b_tt_no:0 "£no£If the religion of Constantinople is §YIslamic§!"

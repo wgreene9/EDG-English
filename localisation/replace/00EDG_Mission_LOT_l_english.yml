@@ -1,345 +1,345 @@
 ﻿l_english:
- EDG_mission_LOT_1_2_title:0 "安抚德意志人"
- EDG_mission_LOT_1_2_desc:0 "洛塔林吉亚建立在一个古老而脆弱的封建体系之上，法语系和德语系诸侯的纷争几乎将我们的宫廷和国土撕裂。相较于更亲近王庭的法语系诸侯，德语系诸侯对我们毫无归属感，甚至心心念念投奔他们的日耳曼皇帝。在我们准备重申法兰克继承权之前，我们必须安抚德意志人，以防他们落井下石。"
+EDG_mission_LOT_1_2_title:0 "Pacify the Germans"
+EDG_mission_LOT_1_2_desc:0 "Lotharingia is built upon an ancient and fragile feudal system, with conflicts between Francophone and Germanophone nobles nearly tearing our court and lands asunder. Compared to the Francophone nobles who are closer to the royal court, the Germanophone nobles feel no sense of belonging to us; indeed, they yearn to join their Germanic Emperor. Before we can reaffirm our Frankish inheritance, we must pacify the Germans to prevent them from exploiting our misfortunes."
 
- EDG_mission_LOT_1_3_title:0 "安抚大主教"
- EDG_mission_LOT_1_3_desc:0 "1349年，伟大的路德维希三世将大片的莱茵兰领地纳入加洛林王冠之下，其中就包括煊赫一时的科隆、特里尔两大选帝侯主教区。先王的征服固然值得称颂，但是百年的长期内耗令王庭迟迟未能彻底掌控此地，以致如今「孩童」路易的孽种贝格公爵意图通过控制两大教区，进而控制德意志臣民，反对王庭。亡羊补牢，为时未晚，让我们提前收买他们，使圣教会能够帮助我们，而非阴谋家，来制衡日耳曼人。"
+EDG_mission_LOT_1_3_title:0 "Appease the Archbishops"
+EDG_mission_LOT_1_3_desc:0 "In 1349, the great Ludwig III brought vast territories of the Rhineland under the Carolingian Crown, including the illustrious Prince-Elector Archbishoprics of Cologne and Trier. While the conquests of the late king are commendable, a century of prolonged internal strife has prevented the royal court from fully consolidating control over these lands. As a result, the Duke of Berg—the bastard son of 'Child' Louis—now seeks to control the two great bishoprics and, through them, dominate our German subjects in opposition to the Crown. It is not too late to mend our fences; let us preemptively win them over, so that the Holy Church may aid us, rather than conspirators, in balancing the power of the Germans."
 
- EDG_mission_LOT_1_6_title:0 "勃艮第的新娘"
- EDG_mission_LOT_1_6_desc:0 "公元942年，洛塔林吉亚国王出兵帮助勃艮第公爵对抗西法兰克，但最终我们不仅失去了勃艮第盟友，还被法王夺取了富庶的佛兰德。如今，虽然西法兰克已被卡佩王朝的法兰西取代，但佛兰德和勃艮第的陷落仍是洛塔林吉亚的国耻。眼下，刚刚平定诸侯叛乱的贝尔娜黛特女王急需证明自己的才华，而通过外交斡旋，通过安排洛塔林吉亚贵族与勃艮第诸侯子女的联姻，以重建旧日联盟，正是一个好机会。"
+EDG_mission_LOT_1_6_title:0 "A Bride for Burgundy"
+EDG_mission_LOT_1_6_desc:0 "In the year 942, the King of Lotharingia sent troops to aid the Duke of Burgundy against West Francia, yet in the end, we not only lost our Burgundian ally but also saw the prosperous Flanders seized by the French king. Today, though West Francia has been replaced by the Capetian Kingdom of France, the fall of Flanders and Burgundy remains a national humiliation for Lotharingia. Now, Queen Bernadette, having just quelled a rebellion of the nobles, urgently needs to prove her capabilities. Through diplomatic efforts and arranging marriages between Lotharingian nobility and the children of Burgundian lords to rebuild the old alliance, a fine opportunity presents itself."
 
- EDG_mission_LOT_1_7_title:0 "鸢尾花的王冠"
- EDG_mission_LOT_1_7_desc:0 "卡佩王朝历代君主，尤其是于格七世「胜利王」，一直致力于加强中央集权，并因此引起了大量诸侯的不满。而我们将利用敌人的弱点，欣然接受法兰西贵族的支持，重申《卡昂条约》中洛塔林吉亚的继承权，取缔卡佩王朝，继承西法兰克的遗产，成为唯一的「法兰克继业者」。"
+EDG_mission_LOT_1_7_title:0 "Crown of the Fleur-de-Lis" # The Crown of the Fleur-de-Lis
+EDG_mission_LOT_1_7_desc:0 "The successive monarchs of the Capetian dynasty, especially Hugh VII 'the Victorious', have consistently worked to strengthen central authority, thereby breeding discontent among many nobles. We shall exploit this weakness of our enemy, gladly accepting the support of the French aristocracy, reaffirming Lotharingia's inheritance rights as stipulated in the Treaty of Caen, abolishing the Capetian dynasty, and inheriting the legacy of West Francia to become the sole 'Successor of the Franks'."
 
- EDG_mission_LOT_1_8_title:0 "收复布列塔尼"
- EDG_mission_LOT_1_8_desc:0 "布列塔尼，或者说「小不列颠」，凯尔特人在欧洲大陆最后的据点，甚至先祖查理曼都未能彻底征服此地。布列塔尼人长期自居为纯正的「高卢人」，保留了众多滥觞于古罗马时代的尚武习俗和军事传统。作为气吞山河的征服者，就让我们也学习下这帮凯尔特人的智慧。"
+EDG_mission_LOT_1_8_title:0 "Reclaim Brittany"
+EDG_mission_LOT_1_8_desc:0 "Brittany, or 'Little Britain,' the last stronghold of the Celts on the European continent, was a land even our ancestor Charlemagne could not fully subjugate. The Bretons have long prided themselves as the true 'Gauls,' preserving many martial customs and military traditions dating back to ancient Roman times. As conquerors of grand ambition, let us also learn from the wisdom of these Celts."
 
- EDG_mission_LOT_1_10_title:0 "跨过阿尔卑斯"
- EDG_mission_LOT_1_10_desc:0 "伦巴第王国毁于金色灾难后，她富饶的土地如今四分五裂，大多由宣称甚微的篡权者统治——如果我们能跨过阿尔卑斯山脉，重返意大利故土，一定能为他们提供更强有力和正统的领导，顺便建立帝国的一个前哨站。"
+EDG_mission_LOT_1_10_title:0 "Cross the Alps"
+EDG_mission_LOT_1_10_desc:0 "Since the Kingdom of Lombardy fell to the Golden Disaster, her fertile lands have been fragmented, mostly ruled by usurpers with dubious claims. If we can cross the Alpine mountains and return to the ancestral Italian soil, we will undoubtedly provide stronger and more legitimate leadership for them, while also establishing an imperial outpost."
 
- EDG_mission_LOT_1_12_title:0 "再会伦巴第"
- EDG_mission_LOT_1_12_desc:0 "公元855年，一纸《普吕姆条约》让伦巴第与洛塔林吉亚就此分道扬镳。此后，伦巴第铁冠更是被卑劣的德意志人窃取、篡夺。而今，洛塔林吉亚帝国涅槃重生、繁荣昌盛，北意大利城邦战火摧残、衰败不堪，我们必须宣称剩余的洛泰尔之地，介入意大利战争，亲身拯救此地的臣民，成为新的伦巴第哲人王。"
+EDG_mission_LOT_1_12_title:0 "Lombardy Reunited"
+EDG_mission_LOT_1_12_desc:0 "In the year 855, the Treaty of Prüm forced Lombardy and Lotharingia to go their separate ways. Since then, the Iron Crown of Lombardy has been stolen and usurped by the despicable Germans. Now, as the Lotharingian Empire is reborn and flourishing, while the city-states of Northern Italy are ravaged by war and decay, we must claim the remaining lands of Lothair, intervene in the Italian Wars, personally save the people of this land, and become the new Philosopher-King of Lombardy."
 
- EDG_mission_LOT_1_13_title:0 "不再孤单"
- EDG_mission_LOT_1_13_desc:0 "在热那亚的胜利让洛塔林吉亚人再次看见了利古里亚蔚蓝的海岸，一如当年的查理大帝，贝尔娜黛特「白玫瑰」于马背上感慨地中海的柔情与美丽，这是狭海所不能媲美的。女皇相信，从热那亚，到罗马涅，到西西里，再到黎凡特，洛塔林吉亚终将如同罗马帝国一般统治全地中海。"
+EDG_mission_LOT_1_13_title:0 "No Longer Alone"
+EDG_mission_LOT_1_13_desc:0 "The victory in Genoa has allowed the Lotharingians to once again gaze upon the azure shores of Liguria. Much like Charlemagne of old, Bernadette the 'White Rose' reflected from horseback upon the tenderness and beauty of the Mediterranean—a splendor unmatched by the narrow seas. The Empress believes that from Genoa to Romagna, to Sicily, and on to the Levant, Lotharingia shall eventually rule the entire Mediterranean, just as the Roman Empire once did."
 
- EDG_mission_LOT_1_15_title:0 "解散教廷属邦"
- EDG_mission_LOT_1_15_desc:0 "意大利的中部，从拉文纳到翁布里亚，由教廷属邦控制，这是一个特殊的政治实体，它起源于加洛林王朝的第一位法兰克之王丕平在近千年前进献的土地。漫长的偏安逐渐腐化了教廷，如今教廷之下的属邦高度自治，罗马城内形成了众多名门豪族，枢机主教和堂区司铎心蝇营狗苟，连宗座都要都受这帮利欲熏心的败类操控。出于对公教的纯洁性和教宗本人安全问题的考量，罗马人的皇帝，[Root.Monarch.GetName]，必须修正丕平当年的选择，解散教廷属邦，收回中亚平宁，亲自保护圣父教宗。"
+EDG_mission_LOT_1_15_title:0 "Dismantle the Papal States"
+EDG_mission_LOT_1_15_desc:0 "The heart of Italy, from Ravenna to Umbria, is controlled by the Papal States—a unique political entity originating from lands donated by Pippin, the first Frankish king of the Carolingian dynasty, nearly a millennium ago. Prolonged isolation has gradually corrupted the Papacy; the subordinate states under its authority now enjoy a high degree of autonomy. Within Rome, numerous powerful aristocratic families have formed, while cardinals and parish priests engage in scheming and self-serving machinations. Even the Holy See itself is manipulated by these avaricious degenerates. Out of concern for the purity of the Catholic faith and the safety of the Pope himself, the Emperor of the Romans, [Root.Monarch.GetName], must correct Pippin's choice of old, dismantle the Papal States, reclaim central Italy, and personally protect the Holy Father."
 
- EDG_mission_LOT_1_16_title:0 "统御那不勒斯"
- EDG_mission_LOT_1_16_desc:0 "一代名王罗杰二世亲手缔造的西西里王国最终未能长久，被欧特维尔家族和霍亨斯陶芬王朝的纷争所撕裂。其中的「半岛西西里」，也即那不勒斯地区，如今破碎无主，就让我们及时介入诺曼人的领地，继承罗杰的遗产。"
+EDG_mission_LOT_1_16_title:0 "Dominate Naples"
+EDG_mission_LOT_1_16_desc:0 "The Kingdom of Sicily, painstakingly forged by the renowned King Roger II, ultimately did not endure, torn apart by the strife between the House of Hauteville and the Hohenstaufen dynasty. The 'Peninsular Sicily,' that is, the region of Naples, is now fragmented and lordless. Let us promptly intervene in the Norman territories and inherit Roger's legacy."
 
- EDG_mission_LOT_1_17_title:0 "西西里之夜"
- EDG_mission_LOT_1_17_desc:0 "数百年前的晚祷血幕让富饶的特里纳克里亚岛远离了圣父的怀抱，自此被肮脏的希腊人所摆布。作为公教世界守护者，必须取缔西西里岛上可笑的政治游戏，重建西西里王国，逆转晚祷之夜。"
+EDG_mission_LOT_1_17_title:0 "Sicilian Vespers"
+EDG_mission_LOT_1_17_desc:0 "The bloody curtain of the Vespers centuries ago tore the fertile island of Trinacria away from the embrace of the Holy Father, leaving it under the sway of the despicable Greeks. As the guardian of the Catholic world, we must put an end to the farcical political games on Sicily, reestablish the Kingdom of Sicily, and reverse the night of the Vespers."
 
- EDG_mission_LOT_1_19_title:0 "改革封建体系"
- EDG_mission_LOT_1_19_desc:0 "在现有的封建体系中，德意志诸侯具有过强的独立性，对王庭不仅听调不听宣，甚至还有觊觎之心。我们不能允许中世纪的阴谋在洛塔林吉亚一再重演，过时的体制必须得到改革，德意志诸侯的权力必须以雷霆手腕压制。"
+EDG_mission_LOT_1_19_title:0 "Reform the Feudal System"
+EDG_mission_LOT_1_19_desc:0 "Under the current feudal system, the German princes possess excessive independence, not only obeying the Crown's calls while ignoring its proclamations but even harboring ambitions of their own. We cannot allow medieval conspiracies to replay repeatedly in Lotharingia. The outdated institutions must be reformed, and the power of the German princes must be suppressed with an iron hand."
 
- EDG_mission_LOT_1_20_title:0 "改革封建制"
- EDG_mission_LOT_1_20_desc:0 "法兰克封建体制这一旧制度已被证明过时，在确保去除一些不合理的贵族特权的前提下，我们需要摸索出适合当今洛塔林吉亚国情的新制度，无论是沿着先王的路径削平诸侯，还是相忍为国以团结大贵族。"
+EDG_mission_LOT_1_20_title:0 "Reform Feudalism"
+EDG_mission_LOT_1_20_desc:0 "The old Frankish feudal system has proven obsolete. While ensuring the removal of certain unreasonable aristocratic privileges, we must explore a new system suitable for the contemporary conditions of Lotharingia—whether by following the path of our predecessors to subdue the princes or by exercising patience for the nation's unity to rally the great nobles."
 
- EDG_mission_LOT_1_21_title:0 "亚琛圣父圣宫"
- EDG_mission_LOT_1_21_desc:0 "[1878.GetName]是查理大帝陵寝所处之地，是法兰克帝国的帝都，也是如今洛塔林吉亚王庭所在。无论是为了王庭行政的方便，还是为了[Root.Monarch.GetTitle]的荣耀，我们应该效仿查理大帝，着手在[1878.GetName]建立一座宏伟的大皇宫。"
+EDG_mission_LOT_1_21_title:0 "Palatium Aquisgranum" # Palatium Sacrum Aquisgranum
+EDG_mission_LOT_1_21_desc:0 "[1878.GetName] is the site of Charlemagne's tomb, the imperial capital of the Frankish Empire, and the current seat of the Lotharingian court. Whether for the convenience of the royal administration or for the glory of the [Root.Monarch.GetTitle], we should emulate Charlemagne and commence the construction of a magnificent Grand Palace in [1878.GetName]."
 
- EDG_mission_LOT_1_22_title:0 "上议院"
- EDG_mission_LOT_1_22_desc:0 "上议院是洛塔林吉亚议会两院之一，自中世纪谏议国王的会议衍生而来，议员包括王室后裔、世袭贵族、终身贵族、上诉法院法官和教会大主教及主教。教会的大主教和主教即为「灵职议员」，王室后裔、世袭贵族、终身贵族、上诉法院法官即为「俗职议员」，灵职担任者于其保有神职身份时续任，一般称之为「国会缙绅」；而俗职为终身职。上议院制度规范分化了贵族权力，是洛塔林吉亚中央集权运动的里程碑。"
+EDG_mission_LOT_1_22_title:0 "House of Lords"
+EDG_mission_LOT_1_22_desc:0 "The House of Lords is one of the two chambers of the Lotharingian Parliament, evolving from medieval councils that advised the monarch. Its members include descendants of the royal family, hereditary peers, life peers, justices of the Court of Appeal, as well as archbishops and bishops of the Church. The archbishops and bishops serve as the 'Lords Spiritual,' while the royal descendants, hereditary peers, life peers, and justices are the 'Lords Temporal.' Lords Spiritual retain their seats as long as they hold their ecclesiastical offices and are commonly referred to as 'Parliamentary Nobility,' whereas Lords Temporal hold their positions for life. The House of Lords system standardizes and differentiates aristocratic power, serving as a milestone in Lotharingia's centralization efforts."
 
- EDG_mission_LOT_1_25_title:0 "兴办教育"
- EDG_mission_LOT_1_25_desc:0 "阿尔卑斯南麓的文艺复兴之风吹到了法兰克的心脏，在洛塔林吉亚掀起了一场后世称为「洛塔林吉亚教育运动」的大兴教育浪潮。在这场运动中，最有代表性的事件就是贝尔娜黛特大学等「洛塔林吉亚八大学府」的先后建立，洛塔林吉亚因此最终成为欧洲的学术与文化中心。"
+EDG_mission_LOT_1_25_title:0 "Promote Education"
+EDG_mission_LOT_1_25_desc:0 "The winds of the Renaissance from the southern foothills of the Alps have reached the heart of Francia, sparking a great wave of educational expansion in Lotharingia later known as the 'Lotharingian Educational Movement.' The most representative events of this movement were the successive establishment of the 'Eight Great Institutes of Lotharingia,' including the University of Bernadette, ultimately establishing Lotharingia as the academic and cultural center of Europe."
 
- EDG_mission_LOT_1_26_title:0 "公共文化"
- EDG_mission_LOT_1_26_desc:0 "一个民族国家的核心竞争力就在于大量受过良好教育的主体民族公民，既然[Root.GetName]如今有能力为她的人民提供先进的教育，那我们何乐而不为呢？"
+EDG_mission_LOT_1_26_title:0 "Public Culture"
+EDG_mission_LOT_1_26_desc:0 "The core competitiveness of a nation-state lies in its large population of well-educated citizens from the core nationality. Now that [Root.GetName] has the capacity to provide advanced education for its people, why should we not embrace this opportunity?"
 
- EDG_mission_LOT_1_29_title:0 "人丁兴旺"
- EDG_mission_LOT_1_29_desc:0 "在加洛林王朝数十年的领航掌舵下，洛塔林吉亚在四国战争中被摧毁的农业逐渐复兴，国家开辟了新的耕地，重建了灌溉系统，引入了新大陆的新产物，盛世滋生，人口蓬勃增长。"
+EDG_mission_LOT_1_29_title:0 "Prosperity and Population"
+EDG_mission_LOT_1_29_desc:0 "Under the decades-long stewardship of the Carolingian dynasty, Lotharingia's agriculture, devastated in the Four Nations' War, has gradually revived. The state has opened up new farmlands, rebuilt irrigation systems, and introduced new crops from the New World. In this era of prosperity, the population has burgeoned and flourished."
 
- EDG_mission_LOT_1_30_title:0 "义务兵役"
- EDG_mission_LOT_1_30_desc:0 "战争是外交的延伸，但愚蠢的外国人只听得懂暴力的语言，所以战争是他们唯一理解的外交。为此，[Root.GetName]必须有一支强大的军队，所有洛塔林吉亚人都有为[Root.GetName]服兵役的义务，以便于我们的祖国发言。"
+EDG_mission_LOT_1_30_title:0 "Compulsory Military Service"
+EDG_mission_LOT_1_30_desc:0 "War is the continuation of diplomacy, but foolish foreigners only understand the language of violence, making war the sole form of diplomacy they comprehend. Therefore, [Root.GetName] must possess a formidable military. All Lotharingians are obligated to perform military service for [Root.GetName], enabling our homeland to make its voice heard."
 
- EDG_mission_LOT_1_33_title:0 "军团指挥"
- EDG_mission_LOT_1_33_desc:0 "[Root.GetName]的军队曾经依赖于大量的封臣军队和贵族私兵，但是随着时代的发展，为了简化指挥机构、最大限度训练军队，我们需要建立统一的军团编制，装备新式武器，由圣骑士指挥，实现军队的制度化。"
+EDG_mission_LOT_1_33_title:0 "Legion Command"
+EDG_mission_LOT_1_33_desc:0 "The military of [Root.GetName] once relied heavily on vast numbers of vassal armies and noble levies. However, with the progression of the times, to simplify command structures and maximize troop training, we must establish a unified legionary organization, equipped with new weaponry and commanded by Paladins, achieving institutionalization of the armed forces."
 
- EDG_mission_LOT_1_34_title:0 "新军"
- EDG_mission_LOT_1_34_desc:0 "科技的发展和战争的演化促进了新军事阶层的诞生，在圣骑士与传统军事贵族之外，[Root.GetName]家境殷实的良家子组建了一支令行禁止、装备先进、斗志昂扬的新式军队，高度忠诚于[Root.Monarch.GetTitle]，与旧权贵形成了新的制衡，大大加强了加洛林君主作为军队事务仲裁者和掌舵人的权威。"
+EDG_mission_LOT_1_34_title:0 "The New Army"
+EDG_mission_LOT_1_34_desc:0 "Technological advancements and the evolution of warfare have given rise to a new military stratum. Beyond the Paladins and the traditional military nobility, the well-to-do youths of good families in [Root.GetName] have formed a new-style army characterized by strict discipline, advanced equipment, and high morale. Highly loyal to the [Root.Monarch.GetTitle], this force establishes a new balance of power against the old aristocracy, significantly enhancing the authority of the Carolingian monarch as the arbiter and helmsman of military affairs."
 
- EDG_mission_LOT_2_1_title:0 "王冠的裂痕"
- EDG_mission_LOT_2_1_desc:0 "洛塔林吉亚是查理大帝硕果仅存的直系血裔，是加洛林王朝的孑遗，是法兰克帝国的正统继承人，理应是西方世界的领袖、罗马人的皇帝。然而，如今风雨飘摇中的洛塔林吉亚宛若巨浪中的诺亚方舟，四周是法兰西和德意志人的湍流，一有不慎就将万劫不复。我们必须力挽狂澜，修复王冠的裂痕，光复法兰克！"
+EDG_mission_LOT_2_1_title:0 "The Crown's Fissure"
+EDG_mission_LOT_2_1_desc:0 "Lotharingia is the last surviving direct descendant of Charlemagne, the sole remnant of the Carolingian dynasty, and the legitimate heir to the Frankish Empire. By right, it should be the leader of the Western world and the Emperor of the Romans. However, the beleaguered Lotharingia of today resembles Noah's Ark amidst turbulent seas, surrounded by the swirling currents of the French and Germans, where a single misstep could lead to utter ruin. We must turn the tide, mend the fissure in the crown, and restore the Franks to glory!"
 
- EDG_mission_LOT_2_2_title:0 "维护公教权威"
- EDG_mission_LOT_2_2_desc:0 "从13世纪开始，公教会的权威在一次次十字军运动的失败中不断衰退；与此同时，洛塔林吉亚也忍受着漫长的中衰。我们与教会不仅同病相怜，还是天然的盟友，自教宗格里高利十世开始，教廷就承认洛塔林吉亚国王为「查理曼的继承人与罗马皇帝」。眼下，必须明确我们的立场。我们必须要么继续向先祖丕平和查理曼一样，致力于成为天主教徒和教宗的坚定支持者，要么决心篡夺他和他所代表的一切。"
+EDG_mission_LOT_2_2_title:0 "Catholic Authority" # Uphold Catholic Authority
+EDG_mission_LOT_2_2_desc:0 "Since the 13th century, the authority of the Catholic Church has steadily declined amidst successive failures of the Crusades. Concurrently, Lotharingia has endured a prolonged period of decline. We and the Church are not only fellow sufferers but also natural allies. From Pope Gregory X onward, the Papacy has recognized the King of Lotharingia as 'the heir of Charlemagne and Roman Emperor.' Now, we must clarify our stance. We must either continue, like our forebears Pippin and Charlemagne, to be staunch supporters of the Catholic faith and the Pope, or resolve to usurp him and all he represents."
 
- EDG_mission_LOT_2_4_title:0 "斩断帝国之根"
- EDG_mission_LOT_2_4_desc:0 "我们领土中的一部分曾经属于神圣罗马帝国，但是我们从不是日耳曼帝国的一部分。相反，这个德意志人的帝国的存在就是对洛塔林吉亚的一种羞辱。从兹温蒂博尔德时代至今，「孩童」路易统治的东法兰克和奥托一世开创的神圣罗马帝国先后与我们为敌，抢夺我们的「罗马人的皇帝」头衔。数百年的冲突让洛塔林吉亚人和德意志人的仇恨已经深入骨髓，毫无缓和的可能。为避免「混乱的百年」重演，伪帝国的遗毒必须被拔除。"
+EDG_mission_LOT_2_4_title:0 "Sever the Imperial Roots"
+EDG_mission_LOT_2_4_desc:0 "Portions of our territory once belonged to the Holy Roman Empire, but we were never a part of that Germanic entity. On the contrary, the very existence of this German empire is an affront to Lotharingia. From the time of Zwentibold to the present day, the East Francia ruled by 'Child' Louis and the Holy Roman Empire founded by Otto I have been our adversaries, contesting our title of 'Emperor of the Romans.' Centuries of conflict have ingrained a deep-seated, irreconcilable hatred between Lotharingians and Germans. To prevent a recurrence of the 'Chaotic Century,' the lingering poison of the false empire must be eradicated."
 
- EDG_mission_LOT_2_7_title:0 "佛兰德的财富"
- EDG_mission_LOT_2_7_desc:0 "经济发达的低地是西欧的明珠，是狭海沿岸富裕的商业中心，但却一直苦于同不列颠人的贸易竞争；而洛塔林吉亚拥有强大的军事实力，是欧洲的霸主，却缺乏贸易人才为她带来财富。或许，我们可以与他们合作，用洛塔林吉亚的剑保卫尼德兰的犁。"
+EDG_mission_LOT_2_7_title:0 "The Wealth of Flanders"
+EDG_mission_LOT_2_7_desc:0 "The economically advanced Low Countries are the jewel of Western Europe, prosperous commercial centers along the Narrow Seas, yet they have long struggled with trade competition against the British. Lotharingia, on the other hand, possesses formidable military might and is the hegemon of Europe, yet lacks the mercantile talent to bring her wealth. Perhaps we can collaborate with them, using Lotharingia's sword to defend the plow of the Netherlands."
 
- EDG_mission_LOT_2_8_title:0 "阿尔勒王国"
- EDG_mission_LOT_2_8_desc:0 "由于种种原因，阿尔比十字军功败垂成，得胜而归的图卢兹公爵令清洁派伪教宗加冕其为「阿尔勒国王」，宣称必将恢复查理曼的光辉。或许在王国的中衰时期，这帮信仰诺斯替的异端曾与我们有过友谊，但当洛塔林吉亚日渐复兴，走向欧洲中央之时，他们在王庭眼中也只不过是可悲可憎的觊觎者。让我们取缔清洁派虚伪的阿尔勒政权，重建属于洛泰尔苗裔的阿尔勒王国。"
+EDG_mission_LOT_2_8_title:0 "The Kingdom of Arles"
+EDG_mission_LOT_2_8_desc:0 "Due to various reasons, the Albigensian Crusade ended in failure. The victorious Duke of Toulouse had the Cathar anti-pope crown him as the 'King of Arles,' declaring his intent to restore Charlemagne's glory. Perhaps during the kingdom's period of decline, these Gnostic heretics shared a friendship with us. But as Lotharingia steadily revives and ascends to the center of Europe, they appear in the eyes of the royal court as nothing more than pitiable and detestable pretenders. Let us abolish the false Cathar regime of Arles and reestablish the Kingdom of Arles, belonging to the lineage of Lothair."
 
- EDG_mission_LOT_2_10_title:0 "巴伐利亚战火"
- EDG_mission_LOT_2_10_desc:0 "对东法兰克故土的征服为我们打开了通往巴伐利亚的道路，这片曾经属于加洛林的广阔领土如今因维特尔斯巴赫兄弟的纷争而四分五裂，我们必须帮助巴伐利亚统一，让巴伐利亚的财富和智慧重归掌控。"
+EDG_mission_LOT_2_10_title:0 "The Bavarian Conflagration"
+EDG_mission_LOT_2_10_desc:0 "The conquest of the ancestral lands of East Francia has opened the path to Bavaria for us. This vast territory, once belonging to the Carolingians, is now fragmented by the strife between the Wittelsbach brothers. We must aid in unifying Bavaria, bringing its wealth and wisdom back under our control."
 
- EDG_mission_LOT_2_11_title:0 "哈布斯堡的失败"
- EDG_mission_LOT_2_11_desc:0 "哈布斯堡王朝起源于施瓦本，凭借自身与霍亨斯陶芬王朝的联系，通过战争与婚姻联姻，逐渐壮大并成为神圣罗马帝国境内最为强大的诸侯之一，甚至近乎垄断了帝位。但在洛塔林吉亚的攻势下，哈布斯堡王朝不仅未能保卫德意志诸侯，自己也丢城弃地，其宣称的「查理曼的继承人」头衔在真正的加洛林面前是多么可笑。"
+EDG_mission_LOT_2_11_title:0 "The Habsburg Failure"
+EDG_mission_LOT_2_11_desc:0 "Originating in Swabia, the House of Habsburg grew powerful through its ties to the Hohenstaufen dynasty, expanding through war and marital alliances to become one of the mightiest princes within the Holy Roman Empire, nearly monopolizing the imperial throne. Yet, under Lotharingia's onslaught, the Habsburgs not only failed to defend the German princes but also lost cities and lands. Their claim to the title of 'Heir of Charlemagne' appears utterly ludicrous in the face of the true Carolingian lineage."
 
- EDG_mission_LOT_2_13_title:0 "罗马涅的王"
- EDG_mission_LOT_2_13_desc:0 "罗马涅是亚平宁四战之地，是北意大利各方博弈汇集之地，也是昔日希腊人在亚平宁的拉文纳总督区所在之地。对此地的征服将会向世界证明洛塔林吉亚重建法兰克的雄心，将成为歌颂加洛林王朝的武功诗的新一页。"
+EDG_mission_LOT_2_13_title:0 "King of Romagna"
+EDG_mission_LOT_2_13_desc:0 "Romagna is the crucible of the Apennines, the convergence point of rivalries in Northern Italy, and the seat of the former Greek Exarchate of Ravenna on the peninsula. The conquest of this land will demonstrate to the world Lotharingia's ambition to rebuild the Frankish realm and will become a new page in the epic poems praising the martial prowess of the Carolingian dynasty."
 
- EDG_mission_LOT_2_15_title:0 "巴塞罗那边区"
- EDG_mission_LOT_2_15_desc:0 "无畏而虔诚的法兰克人是抗击萨拉森人的先锋，无论是「铁锤」查理领导的普瓦提埃战役，还是查理大帝父子建立的西班牙边区，都是加洛林王朝神功圣武的证明。如今，南部弱小的基督教领主再次国运晦暗不明，伊比利亚纷争的血雨腥风或许又有变局，我们必须再次举起圣战的刀剑，为了伊比利亚，为了基督！"
+EDG_mission_LOT_2_15_title:0 "The Marca Hispanica"
+EDG_mission_LOT_2_15_desc:0 "The fearless and pious Franks were the vanguard against the Saracens. From Charles 'the Hammer's' victory at the Battle of Tours to the Spanish March established by Charlemagne and his son, these are testaments to the divine might and sacred valor of the Carolingian dynasty. Now, the fortunes of the weak Christian lords in the south grow dim once more, and the blood-soaked conflicts of Iberia may yet see another shift. We must once again raise the sword of holy war, for Iberia, for Christ!"
 
- EDG_mission_LOT_2_16_title:0 "卢西塔尼亚与皇帝"
- EDG_mission_LOT_2_16_desc:0 "15世纪到16世纪被称为「葡萄牙大航海时代」，在这一时期，波尔图和加利西亚人迫于伊比利亚纷争的军事竞争压力而扬帆出海，开辟了无数新航道。作为伊比利亚基督徒的守护人、天主教诸王的庇护者、再征服运动的领导者，如果我们能将处理好卢西塔尼亚地区与中央的关系，将对帝国的海外扩张和贸易大有裨益。"
+EDG_mission_LOT_2_16_title:0 "Lusitania and the Emperor"
+EDG_mission_LOT_2_16_desc:0 "The 15th and 16th centuries are known as the 'Portuguese Age of Discovery.' During this period, the people of Porto and Galicia, pressured by the military competition of Iberian conflicts, set sail and charted countless new sea routes. As the protector of Iberian Christians, the patron of Catholic monarchs, and the leader of the Reconquista, properly managing the relationship between the Lusitania region and the central authority would greatly benefit the empire's overseas expansion and trade."
 
- EDG_mission_LOT_2_17_title:0 "凤凰的折羽"
- EDG_mission_LOT_2_17_desc:0 "「山河虽易主，岂甘永为隶奴？失地收复，此为信仰终途。」萨拉森人入侵伊比利亚至今已逾8个世纪，一场场闹剧在我们的南方此起彼伏。但是如今，历史的幔帷已被神与法兰克人拉起，绿色浪潮将再次止于加洛林的铁锤。"
+EDG_mission_LOT_2_17_title:0 "The Phoenix's Broken Wing"
+EDG_mission_LOT_2_17_desc:0 "'Though mountains and rivers change hands, who would willingly remain enslaved forever? The recovery of lost lands, this is the final path of faith.' Over eight centuries have passed since the Saracens invaded Iberia, with one farce after another rising and falling in our southern lands. But now, the curtain of history is being drawn up by God and the Franks. The green tide shall once again be halted by the Carolingian hammer."
 
- EDG_mission_LOT_2_20_title:0 "政教关系"
- EDG_mission_LOT_2_20_desc:0 "加洛林王朝和公教会的共生关系可以追溯到丕平三世时期，与教会的合作让加洛林获得了法兰克的王冠。而查理曼和麾下十二勇士的征伐不仅为我们赢得了罗马的帝位，还在西欧各地推动了天主教的传播。而今的欧洲宗教混乱、公教式微，我们必须加强王庭对教会的影响力，以控制局势，确保国家的虔诚。"
+EDG_mission_LOT_2_20_title:0 "Church-State Relations"
+EDG_mission_LOT_2_20_desc:0 "The symbiotic relationship between the Carolingian dynasty and the Catholic Church dates back to the time of Pippin III. Cooperation with the Church secured the Frankish crown for the Carolingians. The campaigns of Charlemagne and his Twelve Paladins not only won us the Roman imperial throne but also promoted the spread of Catholicism across Western Europe. In today's Europe, with religious chaos and Catholicism in decline, we must strengthen the court's influence over the Church to control the situation and ensure the nation's piety."
 
- EDG_mission_LOT_2_22_title:0 "设立行政法院"
- EDG_mission_LOT_2_22_desc:0 "时代的进步带来的新的统治挑战，查理大帝时期的钦差巡查制和路德维希七世国王时期制定的早期条文已经不能有效治理[Root.GetName]日渐复杂的事务，我们必须在全国各地设立州法院和州议会，以适应日益复杂的社会结构和法律需求。"
+EDG_mission_LOT_2_22_title:0 "Administrative Tribunals" # Establish Administrative Tribunals
+EDG_mission_LOT_2_22_desc:0 "The progress of the era brings new governance challenges. The emissary inspection system from Charlemagne's time and the early statutes enacted during the reign of King Ludwig VII can no longer effectively manage the increasingly complex affairs of [Root.GetName]. We must establish provincial courts and assemblies across the nation to adapt to the growing complexity of social structures and legal demands."
 
- EDG_mission_LOT_2_23_title:0 "专制主义君主"
- EDG_mission_LOT_2_23_desc:0 "[Root.Monarch.GetTitle]拥有[Root.GetName]，[Root.Monarch.GetTitle]是帝国范围内一切财产和权力的最终拥有者。宰相及官僚系统的权力都来自于皇权的授予。[Root.Monarch.GetTitle]代表[Root.GetName]，[Root.Monarch.GetTitle]是[Root.GetName]的象征，[Root.Monarch.GetTitle]的形象代表[Root.GetName]的形象，[Root.Monarch.GetTitle]的意志代表[Root.GetName]的意志。[Root.Monarch.GetTitle]即是国家，[Root.Monarch.GetTitle]即是天命。"
+EDG_mission_LOT_2_23_title:0 "The Absolutist Monarch"
+EDG_mission_LOT_2_23_desc:0 "The [Root.Monarch.GetTitle] possesses [Root.GetName]. The [Root.Monarch.GetTitle] is the ultimate owner of all property and power within the empire. The authority of the chancellor and the bureaucratic system is derived from the grant of imperial power. The [Root.Monarch.GetTitle] represents [Root.GetName]; the [Root.Monarch.GetTitle] is the symbol of [Root.GetName]. The image of the [Root.Monarch.GetTitle] represents the image of [Root.GetName]; the will of the [Root.Monarch.GetTitle] represents the will of [Root.GetName]. The [Root.Monarch.GetTitle] is the state; the [Root.Monarch.GetTitle] is the Mandate of Heaven."
 
- EDG_mission_LOT_2_25_title:0 "纸醉金迷"
- EDG_mission_LOT_2_25_desc:0 "[Root.Monarch.GetTitle]在[Root.Capital.GetName]城外修筑豪华宫殿，敕令外省贵族聚于此地，尽情享乐。[Root.Capital.GetName]一时成为纸醉金迷之地，上层社会沉湎娱乐，殊不知[Root.Monarch.GetTitle]正趁机悄然推进集权运动。"
+EDG_mission_LOT_2_25_title:0 "Of Luxury and Decadence" # A World of Luxury and Decadence
+EDG_mission_LOT_2_25_desc:0 "The [Root.Monarch.GetTitle] constructed a lavish palace outside [Root.Capital.GetName], decreeing that nobles from the provinces gather there to indulge in revelry. [Root.Capital.GetName] briefly became a place of opulence and dissipation, with the upper classes immersed in entertainment, unaware that the [Root.Monarch.GetTitle] was quietly advancing centralization efforts in the meantime."
 
- EDG_mission_LOT_2_26_title:0 "夜夜笙歌"
- EDG_mission_LOT_2_26_desc:0 "娱乐活动逐渐从上层社会传播至中下层阶级，[Root.GetName]人民热衷于娱乐和消费，社会风气开放，国家经济蒸蒸日上。"
+EDG_mission_LOT_2_26_title:0 "Nightly Revels"
+EDG_mission_LOT_2_26_desc:0 "Entertainment activities gradually spread from the upper classes to the middle and lower classes. The people of [Root.GetName] are passionate about amusement and consumption, fostering an open social atmosphere and a thriving national economy."
 
- EDG_mission_LOT_2_27_title:0 "知识产权法"
- EDG_mission_LOT_2_27_desc:0 "知识产权法是调整因创造、使用智力成果而产生的社会关系，以及确认、保护与行使知识产权的法律规范总称，属于民法特别法。该法涵盖著作权、专利权、商标权及反不正，当竞争等制度体系，通过民事特别法模式构建立法框架。"
+EDG_mission_LOT_2_27_title:0 "Intellectual Property Law"
+EDG_mission_LOT_2_27_desc:0 "Intellectual Property Law is the collective term for legal norms that regulate social relations arising from the creation and use of intellectual achievements, as well as confirm, protect, and exercise intellectual property rights. It falls under the category of special civil law. This law encompasses systems such as copyright, patent rights, trademark rights, and anti-unfair competition, constructing a legislative framework through a special civil law model."
 
- EDG_mission_LOT_2_29_title:0 "天工巧夺"
- EDG_mission_LOT_2_29_desc:0 "除了在战场上的高歌猛进，骄傲的洛塔林吉亚人在艺术、经济领域也是狂飙突进，我们的城市是全欧洲的工厂，我们的艺术家是全欧洲的人中龙凤，我们的[Root.Monarch.GetTitle]是闻名海内外的艺术赞助人。"
+EDG_mission_LOT_2_29_title:0 "Divine Craftsmanship"
+EDG_mission_LOT_2_29_desc:0 "Beyond triumphant advances on the battlefield, the proud Lotharingians are also surging ahead in the realms of art and economics. Our cities are the workshops of all Europe, our artists are the finest among Europeans, and our [Root.Monarch.GetTitle] is a renowned patron of the arts, celebrated both at home and abroad."
 
- EDG_mission_LOT_2_30_title:0 "资本主义"
- EDG_mission_LOT_2_30_desc:0 "工业革命完全改组了生产方式，也改变了人的生活方式，我国每天都有新的工厂创立，新的商品生产，新的行业开辟。这是我国历史上最好的时代，无论是皇室和民众都能从中获利。"
+EDG_mission_LOT_2_30_title:0 "Capitalism"
+EDG_mission_LOT_2_30_desc:0 "The Industrial Revolution has completely restructured production methods and transformed people's way of life. New factories are established daily in our nation, new goods are produced, and new industries are pioneered. This is the best era in our nation's history, from which both the royal house and the populace can profit."
 
- EDG_mission_LOT_2_33_title:0 "白衫军"
- EDG_mission_LOT_2_33_desc:0 "四国战争是欧洲骑士们最后一次在战斗中表现出真正的骑士精神和荣誉的战争，时移世异，骑士精神的理念被人淡忘、无人问津。作为骑士精神的故里，[Root.GetName]必须抵住这时代的潮流，坚持这些指导性的思想，将确保骑士精神在我们的军队中得到传承，研发新的战甲，让全欧洲都惊叹于[Root.GetName]贵胄的英姿。"
+EDG_mission_LOT_2_33_title:0 "White-Clad Knights" # The White-Clad Knights
+EDG_mission_LOT_2_33_desc:0 "The Four Nations' War was the last conflict in which European knights displayed true chivalry and honor in battle. Times have changed, and the ideals of chivalry have been forgotten and neglected. As the homeland of chivalry, [Root.GetName] must resist this tide of the times, uphold these guiding principles, ensure the legacy of chivalry within our armies, develop new armor, and amaze all of Europe with the heroic bearing of [Root.GetName]'s nobility."
 
- EDG_mission_LOT_2_34_title:0 "标准化防具"
- EDG_mission_LOT_2_34_desc:0 "战场混乱不堪，士兵可能快速晕头转向，一不留神便会向友军开火，必须不惜一切代价避免这类事件阻碍我们军队的现代化，我们应该为全军设计一套合适醒目、性能优秀的制式防具，从而显著减少误伤、改善军容。"
+EDG_mission_LOT_2_34_title:0 "Standardized Armor"
+EDG_mission_LOT_2_34_desc:0 "Battlefields are chaotic, and soldiers can quickly become disoriented, potentially firing upon friendly forces in a moment of confusion. We must avoid such incidents hindering our army's modernization at all costs. We should design a set of suitable, conspicuous, and high-performance standardized armor for the entire army to significantly reduce friendly fire and improve military appearance."
 
- EDG_mission_LOT_2_35_title:0 "陆地上的霸主"
- EDG_mission_LOT_2_35_desc:0 "\n「正如毁灭一切的野火在林间肆虐，远处望去，火光冲天；当[Root.GetName]大军开拔，制式板甲闪耀出的光芒，也一样直冲云霄。\n\n「他们前进的声音，如同一群野鸟在啼鸣，那是鹤群受冬天暴雨和无穷尽的雨驱赶，尖叫着飞向大洋河流，给德意志人和一切敌人带去死亡和毁灭。大地在他们脚下可怕地震动，那是兵勇和车马在踩踏。\n\n「[Root.GetName]战士高歌向前，十字架是他们的旗帜，基督和[Root.Monarch.GetTitle]是他们的统帅。万军之耶和华的光芒闪耀，[Root.GetName]的军队得祂亲赐的剑与权柄，必将胜利！」"
+EDG_mission_LOT_2_35_title:0 "Overlord of the Land"
+EDG_mission_LOT_2_35_desc:0 ""Just as a wildfire that consumes everything rages through the forest, its flames seen soaring skyward from afar; so too does the gleam from the standardized plate armor of the [Root.GetName] host rise straight to the heavens when the army marches forth.\n\n"The sound of their advance is like the cries of wild birds, a flock of cranes driven by winter storms and endless rain, screaming as they fly toward the ocean's rivers, bringing death and destruction to the Germans and all their enemies. The earth trembles terribly beneath their feet, with warriors and chariots trampling the ground.\n\n"The warriors of [Root.GetName] march forward in song, the cross their banner, Christ and the [Root.Monarch.GetTitle] their commanders. The radiance of the Lord of Hosts shines forth; the army of [Root.GetName], granted His own sword and authority, shall surely triumph!""
 
- EDG_mission_LOT_3_1_title:0 "§M必看§!§Y游玩提示§!"
- EDG_mission_LOT_3_1_desc:0 "这是一个指引性的窗口，请认真查看它。"
+EDG_mission_LOT_3_1_title:0 "§MImportant Notice§! §YGameplay Hint§!"
+EDG_mission_LOT_3_1_desc:0 "This is a guidance window. Please review it carefully."
 
- EDG_mission_LOT_3_2_title:0 "整合军事力量"
- EDG_mission_LOT_3_2_desc:0 "「混乱的百年」一步一步将王国掏成了空架子，洛塔林吉亚的军队一度废弛。但是天佑加洛林，天佑洛塔林吉亚，路德维希七世登基以来，一致试图重新进行王庭集权和军队革新，让王国走上了艰难但势不可挡的复兴。如今，随着国内局势的缓和，以及上次改革成果的消化完毕，就让我们推行一份新的征兵法案。"
+EDG_mission_LOT_3_2_title:0 "Integrate Military Forces"
+EDG_mission_LOT_3_2_desc:0 "The 'Chaotic Century' gradually hollowed out the kingdom, leaving the Lotharingian army once in disarray. But heaven favored the Carolingians, heaven favored Lotharingia. Since the ascension of Ludwig VII, consistent efforts have been made towards court centralization and military reform, setting the kingdom on a difficult but inexorable path to revival. Now, with the easing of the domestic situation and the full assimilation of the previous reforms, let us enact a new conscription bill."
 
- EDG_mission_LOT_3_3_title:0 "双剑论"
- EDG_mission_LOT_3_3_desc:0 "「双剑论」是中世纪前期基督教阐述教权与王权关系的核心理论，由教宗基拉西乌斯一世最早提出，并在查理大帝的赫赫铁骑一路传播福音的过程中兴起。该理论认为上帝将象征精神权力的「教权之剑」与世俗权力的「王权之剑」分别授予教皇和君主，两者构成基督授权的二元统一体：教宗通过加冕仪式赋予王权神圣性，君主则以军事力量保护教会利益；王权之剑可以锐利教权之剑，教权之剑则可以缓和王权之剑，两把剑互为作用、相互结合，都为基督之剑。"
+EDG_mission_LOT_3_3_title:0 "Doctrine of the Two Swords" # The Doctrine of the Two Swords
+EDG_mission_LOT_3_3_desc:0 "The 'Doctrine of the Two Swords' is a core theory from the early Middle Ages that explains the relationship between ecclesiastical and secular authority within Christianity. First proposed by Pope Gelasius I, it gained prominence during the evangelical campaigns of Charlemagne's mighty armies. This theory holds that God granted the 'sword of spiritual power' and the 'sword of temporal power' to the Pope and the monarch respectively, forming a divinely ordained duality: the Pope confers sanctity upon royal authority through coronation, while the monarch protects the interests of the Church with military force. The temporal sword can sharpen the spiritual sword, and the spiritual sword can temper the temporal sword. Both swords interact and combine, each being a sword of Christ."
 
- EDG_mission_LOT_3_5_title:0 "加洛林的复兴"
- EDG_mission_LOT_3_5_desc:0 "曾有德意志人声称，「洛塔林吉亚本身就生于不义，必将死于耻辱。」但是历史已经证明，这帮恶棍不过是一派胡言，从先祖兹温蒂博尔德到贝尔娜黛特「白玫瑰」，即使经历了「混乱的百年」，洛塔林吉亚人身上的伟大者血脉也从未黯淡。而今，随着雄才大略的女王掌控了王国局势，加洛林王朝的复兴已经势不可挡。天佑贝尔娜黛特，天佑洛塔林吉亚，我们势必光复查理曼的全部国土。"
+EDG_mission_LOT_3_5_title:0 "Carolingian Restoration" # The Carolingian Restoration
+EDG_mission_LOT_3_5_desc:0 "There were Germans who once claimed, 'Lotharingia itself was born in injustice and shall die in disgrace.' But history has proven these scoundrels to be spouting nonsense. From the ancestor Zwentibold to Bernadette the 'White Rose,' even through the 'Chaotic Century,' the blood of the Great One in the Lotharingians has never dimmed. Now, with the strategic and capable queen firmly in control of the kingdom's affairs, the restoration of the Carolingian dynasty has become an unstoppable force. God save Bernadette, God save Lotharingia. We are destined to reclaim all the lands of Charlemagne."
 
- EDG_mission_LOT_3_6_title:0 "统一莱茵兰"
- EDG_mission_LOT_3_6_desc:0 "莱茵河是欧洲最重要的水道之一，而莱茵兰是西欧最重要的贸易中心之一。不论是为了商业利益，还是为了拱卫[1878.GetName]帝都，我们必须完成路德维希三世未竟的伟业，再次统一昔日的奥斯特拉西亚。"
+EDG_mission_LOT_3_6_title:0 "Unify the Rhineland"
+EDG_mission_LOT_3_6_desc:0 "The Rhine is one of Europe's most important waterways, and the Rhineland is one of Western Europe's most significant trade centers. Whether for commercial interests or to defend the imperial capital of [1878.GetName], we must complete the unfinished great work of Ludwig III and once again unify the ancient Austrasia."
 
- EDG_mission_LOT_3_7_title:0 "海上乞丐"
- EDG_mission_LOT_3_7_desc:0 "15-16世纪是西欧的大航海时代，新大陆被发现，新航道被开辟，源源不断的金银、香料、新产物从海外涌入欧陆。洛塔林吉亚虽是传统的陆权强国，本土匮乏航海传统，但是对新世界也充满了渴望。而我们治下的荷兰地区，已经在欧洲殖民扩张中脱颖而出，就让皇室资助他们他们的事业，在海外也建立起霸权。"
+EDG_mission_LOT_3_7_title:0 "Sea Beggars"
+EDG_mission_LOT_3_7_desc:0 "The 15th-16th centuries marked the Age of Discovery in Western Europe. New continents were found, new sea routes charted, and a steady flow of gold, silver, spices, and new products poured into Europe from overseas. Although Lotharingia is traditionally a land power with little native maritime tradition, it is also filled with longing for the New World. Our Dutch provinces have already distinguished themselves in Europe's colonial expansion. Let the royal house sponsor their endeavors to establish hegemony overseas as well."
 
- EDG_mission_LOT_3_8_title:0 "统一联省"
- EDG_mission_LOT_3_8_desc:0 "上艾瑟尔的格鲁尔芬根王朝可以追溯到可追溯到法兰克的手下败将弗里德兰人。在先后充当教会对抗斯陶芬、卢森堡王朝对抗维特尔斯巴赫王朝的马前卒后，这个混入日耳曼人和基督教中的家族开始被伪帝国接纳，甚至被伪帝委以重任，作为王副镇守尼德兰，管辖威斯特伐利亚，制衡洛塔林吉亚。而如今，随着他们的主人——德意志伪帝败于洛塔林吉亚之手，艾瑟尔人也将步其后尘，和他们的祖先拉德伯德一样被法兰克之王击败。"
+EDG_mission_LOT_3_8_title:0 "Unite the Provinces" # Unify the United Provinces
+EDG_mission_LOT_3_8_desc:0 "The Gerulfingen dynasty of Overijssel traces its origins back to the Frisians, who were defeated by the Franks. After successively serving as pawns for the Church against the Staufers and for the Luxembourgs against the Wittelsbachs, this family, mingled with Germans and Christians, began to be accepted by the false empire and was even entrusted with important tasks by the false emperor: to guard the Netherlands as deputy, administer Westphalia, and counterbalance Lotharingia. Now, with their master—the German false emperor—defeated by Lotharingia, the people of Overijssel will follow the same fate and be defeated by the Frankish king, just as their ancestor Radbod was."
 
- EDG_mission_LOT_3_9_title:0 "伟大的洛塔林吉亚"
- EDG_mission_LOT_3_9_desc:0 "我们的法兰克祖先将横跨法兰西，德意志和意大利的广阔土地纳入了查理大帝的治下。如今洛塔林吉亚国力的增长，初步再现了昔日的荣光，已经证明自己是法兰克帝国最正统的继承人，我们应该继续追随祖先的脚步，将全法兰克故土和德意志兰纳入囊中。"
+EDG_mission_LOT_3_9_title:0 "The Great Lotharingia"
+EDG_mission_LOT_3_9_desc:0 "Our Frankish ancestors brought the vast lands spanning Francia, Germania, and Italy under the rule of Charlemagne. Now, the growth of Lotharingia's national power has begun to revive the glory of old, proving itself the most legitimate heir to the Frankish Empire. We should continue to follow in our ancestors' footsteps and bring all the Frankish ancestral lands and Germany into our grasp."
 
- EDG_mission_LOT_3_10_title:0 "萨利安的骨血"
- EDG_mission_LOT_3_10_desc:0 "尽管一度失去帝位，但魏布林根的海因里希一族并未断绝，甚至通过1261年「老皇帝的遗产判决」回归了法兰克尼亚，又延续了近200年统治。不过凡事终有尽时，萨利安终将绝嗣，而遗产将由哈布斯堡家族继承。但法兰克尼亚公国内部的诸侯林立、支离破碎令哈布斯堡难孚众望，或许我们可以从中插手，分而治之，让这帮同样崇拜法兰克荣耀的日耳曼人为我所用。"
+EDG_mission_LOT_3_10_title:0 "Salian Flesh and Blood"
+EDG_mission_LOT_3_10_desc:0 "Although they once lost the imperial throne, the line of Heinrich of Waiblingen was not extinguished. Through the 'Judgment of the Old Emperor's Legacy' in 1261, they even returned to Franconia and maintained rule for nearly another two centuries. However, all things must come to an end. The Salian line will eventually die out, and the inheritance will pass to the House of Habsburg. Yet, the fragmentation and disunity among the princes within the Duchy of Franconia have left the Habsburgs struggling to command broad support. Perhaps we can intervene, divide and rule, and turn these Germans, who also revere Frankish glory, to our service."
 
- EDG_mission_LOT_3_12_title:0 "驯服施蒂利亚"
- EDG_mission_LOT_3_12_desc:0 "奥斯特马克地区，伪帝国的东部边区，处于与斯拉夫人、马扎尔人、突厥人对抗的军事前线，武德昌盛、民风剽悍，一直以精锐骠骑兵闻名，是哈布斯堡王朝统治的核心所在。然而，在洛塔林吉亚的新军和圣骑士面前，奥斯特马克人骄傲的军队不过是德意志人自吹自擂的小玩意儿。我们会教会他们骑兵的真正用法！"
+EDG_mission_LOT_3_12_title:0 "Tame Styria"
+EDG_mission_LOT_3_12_desc:0 "The Ostmark region, the eastern march of the false empire, lies on the military frontier facing Slavs, Magyars, and Turks. Renowned for its martial vigor, fierce folk customs, and elite hussars, it was the core of Habsburg rule. However, in the face of Lotharingia's new army and Paladins, the proud armies of the Ostmarkers are but trinkets of German self-praise. We will teach them the true use of cavalry!"
 
- EDG_mission_LOT_3_13_title:0 "击败共和国"
- EDG_mission_LOT_3_13_desc:0 "从文艺复兴运动以来，共和主义者云集在意大利地区，建立了一个个共和国，其中以托斯卡纳地区的佛罗伦萨为代表。而在查理曼的继承人、法兰克人的国王、罗马人的皇帝、圣教会的守护者、地中海和北海的统治者看来，这群共和主义者只不过是即无能力、也无荣耀，只知自娱自乐的僭主，就让洛塔林吉亚的军队推翻他们的可怜的纸牌屋，终究一切幻梦。 "
+EDG_mission_LOT_3_13_title:0 "Defeat the Republics"
+EDG_mission_LOT_3_13_desc:0 "Since the Renaissance, republicans have gathered in Italy, establishing various republics, most notably Florence in Tuscany. But in the eyes of the heir of Charlemagne, the King of the Franks, Emperor of the Romans, protector of the Holy Church, ruler of the Mediterranean and the North Sea, these republicans are merely incapable, inglorious tyrants who know only self-amusement. Let the armies of Lotharingia topple their pitiful house of cards and bring an end to all illusions."
 
- EDG_mission_LOT_3_14_title:0 "名副其实的法兰克帝国"
- EDG_mission_LOT_3_14_desc:0 "\n法兰克，法兰克，高于一切，\n\n高于世间所有万物；\n\n无论何时，为了保护和捍卫，\n\n兄弟们永远站在一起。\n\n从[172.GetName]到[134.GetName]，\n\n从[213.GetName]到[1874.GetName]，\n\n法兰克，法兰克，高于一切，\n\n高于世间所有万物。\n\n法兰克，法兰克，高于一切，\n\n高于世间所有万物！\n"
+EDG_mission_LOT_3_14_title:0 "Empire Not Only in Name" # The Frankish Empire in Name and Truth
+EDG_mission_LOT_3_14_desc:0 "\nFrankia, Frankia, above all else,\n\nAbove all else in the world;\n\nWhenever for protection and defense,\n\nBrothers stand together always.\n\nFrom [172.GetName] to [134.GetName],\n\nFrom [213.GetName] to [1874.GetName],\n\nFrankia, Frankia, above all else,\n\nAbove all else in the world.\n\nFrankia, Frankia, above all else,\n\nAbove all else in the world!\n"
 
- EDG_mission_LOT_3_15_title:0 "跨过海峡"
- EDG_mission_LOT_3_15_desc:0 "在我们苦苦挣扎于同法兰西和德意志人之间的战争泥潭时，英格兰曾是我们最忠实的盟友。但当洛塔林吉亚的加洛林于死地中得生时，英格兰的金雀花却在南北夹击中日薄西山。法兰克人不会忘记旧日的情谊，就让我们跨过狭海，解放[236.GetName]，救英格兰于水火之中。"
+EDG_mission_LOT_3_15_title:0 "Cross the Channel"
+EDG_mission_LOT_3_15_desc:0 "While we struggled in the quagmire of war with the French and Germans, England was once our most loyal ally. But as Lotharingia's Carolingians rose from the brink of death, England's Plantagenets waned under assaults from north and south. The Franks do not forget old friendships. Let us cross the Narrow Sea, liberate [236.GetName], and rescue England from peril."
 
- EDG_mission_LOT_3_16_title:0 "入侵盎格兰"
- EDG_mission_LOT_3_16_desc:0 "从不可一世的安茹帝国到如今的四分五裂，英格兰可谓是正处在她历史上最衰弱的时期。《大宪章》的屈辱、伯爵战争的溃败、北英格兰的叛乱、麦西亚和诺福克的独立、四国战争的功败垂成、诺曼底的背叛......英格兰已经位于悬崖边沿。机不可失，时不再来，就让我们像「征服者」威廉一样，值此良机入侵盎格兰的土地，统治盎格鲁瓦，重建英格兰王国。"
+EDG_mission_LOT_3_16_title:0 "Invasion of Angleland"
+EDG_mission_LOT_3_16_desc:0 "From the once-mighty Angevin Empire to its current fragmentation, England is arguably at the weakest point in its history. The humiliation of the Magna Carta, the defeat in the Barons' War, the rebellion in Northern England, the independence of Mercia and Norfolk, the failure in the Four Nations' War, the betrayal of Normandy... England stands on the edge of a precipice. The opportunity is fleeting. Let us, like William 'the Conqueror,' seize this moment to invade the lands of Angleland, rule the Anglovars, and rebuild the Kingdom of England."
 
- EDG_mission_LOT_3_17_title:0 "凯尔特战争"
- EDG_mission_LOT_3_17_desc:0 "从15世纪上半叶开始，不列颠岛的凯尔特人力量日渐壮大，最终超越了英格兰人，时隔千年，再次成为了不列颠的主宰。为了大西洋和更远处的利益，就让法兰克的勇士驯服不列颠尼亚的金狮，像罗马人那样再次束缚凯尔特人。"
+EDG_mission_LOT_3_17_title:0 "Celtic War"
+EDG_mission_LOT_3_17_desc:0 "Since the first half of the 15th century, Celtic power on the British Isles has steadily grown, ultimately surpassing the English and, after a millennium, once again becoming the masters of Britain. For the sake of Atlantic and beyond, let Frankish warriors tame the Golden Lion of Britannia and bind the Celts once more, as the Romans did."
 
- EDG_mission_LOT_3_18_title:0 "超越查理曼"
- EDG_mission_LOT_3_18_desc:0 "[Root.Monarch.GetTitle]凯旋[Root.Capital.GetName]那天，米兰铸币厂送来的洛郎铺就了凯旋的大道，勃艮第皇家酒庄的葡萄酿成了庆功的美酒，佛兰德斯王室丝绸厂的绸缎织成了欢迎的条幅，亚琛大教堂的钟声特意改换了韵律，如同大西洋的浪潮般雄浑。\n\n[Root.Monarch.GetTitle]心中生出一股豪情，[Root.Monarch.GetHerHim]走上由战车改成的演说高台，声音刚劲有力，「当巴黎的沙龙还在咀嚼矫情的诗篇，当维也纳的宫廷沉醉于繁琐的礼仪，[Root.Capital.GetName]却传颂着一首首武功歌，点燃战争的革命：我们的圣骑士如钢铁洪流，我们的新军如不破长城，我们的火炮让阿尔卑斯山隘为之洞开，连但丁笔下的地狱之火都在我们瓦隆尼亚皇家铸炮厂的烟囱里相形见绌！\n\n「那些曾嘲笑我们“生于不义，必将死于耻辱”的诸侯，如今何在？我只知那贝格城外至今乱葬岗荒野连绵。\n\n「让后世铭记这历史性的时刻吧，兄弟姐妹们！今天，欧罗巴的晨光在罗马帝国分裂后第一次没有投射出分裂的阴影。仿佛先祖查理曼栽种的橡树历经数百年风雨后，终于让枝叶荫庇整片西方世界。「尘埃落定，我们无愧先祖，甚至是比他还伟大的世界征服者！」"
+EDG_mission_LOT_3_18_title:0 "Surpassing Charlemagne"
+EDG_mission_LOT_3_18_desc:0 "On the day the [Root.Monarch.GetTitle] triumphed in [Root.Capital.GetName], lorins from the Milan mint paved the triumphal way, wine from Burgundy's royal vineyards became the celebratory toast, silks from the Flanders royal silk mill wove the welcoming banners, and the bells of Aachen Cathedral changed their rhythm to one as powerful as Atlantic waves.\n\nThe [Root.Monarch.GetTitle] felt a surge of pride. [Root.Monarch.GetSheHe] ascended the speaking platform, adapted from a chariot, and declared with resounding strength, 'While Parisian salons chew on sentimental verses, while Viennese courts are lost in intricate etiquette, [Root.Capital.GetName] chants epic poems of valor, igniting the revolution of war: our Paladins are like a torrent of steel, our new army an unbreakable Great Wall, our cannons blast open Alpine passes, and even the infernal fires of Dante's imagination pale before the chimneys of our Walloon Royal Foundry!\n\n"Where are those princes who mocked us as 'born in injustice, destined to die in disgrace'? I know only that the mass graves beyond Berg stretch far into the wilderness even now.\n\n"Let posterity remember this historic moment, brothers and sisters! Today, for the first time since the division of the Roman Empire, the dawn over Europe casts no shadow of division. It is as if the oak planted by our ancestor Charlemagne, weathered by centuries of storms, has finally spread its branches to shade the entire Western world. The dust has settled. We are worthy of our forebears—nay, we are conquerors of the world greater even than he!""
 
- EDG_mission_LOT_3_19_title:0 "壮大法语力量"
- EDG_mission_LOT_3_19_desc:0 "相比于桀骜不驯的德语系贵族，法语系贵族正日益成为洛塔林吉亚的中朝柱石。为压制德意志人的反抗，我们必须继续坚持扶植法语系贵族，加强法语教育，鼓励法语书写。"
+EDG_mission_LOT_3_19_title:0 "Francophone Power" # Strengthen Francophone Power
+EDG_mission_LOT_3_19_desc:0 "Compared to the unruly Germanophone nobility, the Francophone nobility is increasingly becoming the central pillar of Lotharingia. To suppress German resistance, we must continue to support the Francophone nobles, enhance French language education, and encourage French writing."
 
- EDG_mission_LOT_3_20_title:0 "§Y肃清德意志人§!"
- EDG_mission_LOT_3_20_desc:0 "「洛塔林吉亚的王」、本时代最伟大的骑士，白玫瑰陛下的王夫，卡洛斯「奥德赛」·德·埃诺，终于结束了耶路撒冷圣战，回到了[Root.Capital.GetName]，他会让德意志的跳梁小丑明白：在强大的实力面前，任何阴谋诡计都是徒劳。"
+EDG_mission_LOT_3_20_title:0 "§YPurge the Germans§!"
+EDG_mission_LOT_3_20_desc:0 "The 'King of Lotharingia,' the greatest knight of this age, the royal consort of Her Majesty the White Rose, Carlos 'the Odyssey' de Hainaut, has finally concluded the Holy War for Jerusalem and returned to [Root.Capital.GetName]. He will make the German clowns understand: in the face of overwhelming power, all conspiracies and tricks are futile."
 
- EDG_mission_LOT_3_21_title:0 "一个冉冉升起的民族国家"
- EDG_mission_LOT_3_21_desc:0 "民族国家是指一个其大部分公民在文化、语言和历史认同上归属于同一个「民族」，并且这个「民族」的意志构成了国家政治合法性基础的国家形式。复兴的洛塔林吉亚治下大部分臣民都积极拥抱了洛塔林吉亚人身份认同，通过加洛林皇帝、公教会和法语紧紧联系在一起。洛塔林吉亚正作为一个空前团结的民族国家，势不可挡地开启了她的崛起之路。"
+EDG_mission_LOT_3_21_title:0 "A Rising Nation-State"
+EDG_mission_LOT_3_21_desc:0 "A nation-state is a form of state where the majority of its citizens share a common cultural, linguistic, and historical identity as a 'nation,' and the will of this 'nation' forms the basis of the state's political legitimacy. Most subjects under the resurgent Lotharingia actively embrace the Lotharingian identity, bound together by the Carolingian Emperor, the Catholic Church, and the French language. Lotharingia, as an unprecedentedly united nation-state, has unstoppably embarked on its path to ascendance."
 
- EDG_mission_LOT_3_22_title:0 "《政府论》"
- EDG_mission_LOT_3_22_desc:0 "1689年，洛克向争论异常激烈的[Root.GetName]思想界推出了他的《政府论》，从理论上为加洛林王朝统治及其资本主义经济新制度进行辩护和总结。全著分为上下两篇，融批判性和建设性于一体，以与其哲学经验论相区别的理性主义精神奠定了近代西方自然法哲学的基调。\n\n《政府论》上篇，集中驳斥了当时风靡一时的政教分离说和资产阶级革命论——这种理论以菲尔麦的著作《经济论》为代表；《政府论》下篇，系统地阐述了法兰克等级君主制和法兰克主义的起源、范围和目的。"
+EDG_mission_LOT_3_22_title:0 "Two Treatises of Government"
+EDG_mission_LOT_3_22_desc:0 "In 1689, Locke introduced his Two Treatises of Government into the fiercely contested intellectual arena of [Root.GetName], theoretically defending and summarizing the rule of the Carolingian dynasty and its new capitalist economic system. The work is divided into two parts, blending critique and construction, and establishes the tone of modern Western natural law philosophy with a rationalist spirit distinct from his philosophical empiricism.\n\nThe First Treatise focuses on refuting the then-popular theories of separation of church and state and bourgeois revolution—represented by Filmer's work Patriarcha. The Second Treatise systematically expounds on the origin, extent, and purpose of the Frankish feudal monarchy and Frankism."
 
- EDG_mission_LOT_3_24_title:0 "国家文化总署"
- EDG_mission_LOT_3_24_desc:0 "洛塔林吉亚国家的精神文化领域早在「混乱的百年」时期就被分裂为法语和德语两个圈层。如今德意志人影响力在我国已经消弭，法兰西贵族也唯[Root.Monarch.GetTitle]马首是瞻，我们应当夺回思想场域的话语权，发展我们民族的特色文化，打造崭新的身份认同，与旧法兰西人和德意志人区分开来。"
+EDG_mission_LOT_3_24_title:0 "Cultural Directorate" # National Cultural Directorate
+EDG_mission_LOT_3_24_desc:0 "The spiritual and cultural domain of the Lotharingian state was already split into French and German spheres during the 'Chaotic Century.' Now that German influence has waned in our country and the French nobility follows the [Root.Monarch.GetTitle]'s lead, we should reclaim discourse in the ideological field, develop our nation's distinctive culture, forge a new identity, and differentiate ourselves from the old French and Germans."
 
- EDG_mission_LOT_3_26_title:0 "文化繁荣"
- EDG_mission_LOT_3_26_desc:0 "洛塔林吉亚人是欧洲最年轻的民族，也是欧洲最骄傲的民族，更是欧洲最伟大的民族。皇室对文化领域的大力栽培如今终于开花结果，属于我们的文化黄金时代到来了，我们的努力终于使我国取得了超然于其他国家的优越地位，不管是洛塔林吉亚人还是外国人都一致认为，[Root.GetName]作为一个文化艺术中心的地位在这些年得到了极大的巩固。"
+EDG_mission_LOT_3_26_title:0 "Cultural Prosperity"
+EDG_mission_LOT_3_26_desc:0 "The Lotharingians are the youngest nation in Europe, the proudest nation in Europe, and the greatest nation in Europe. The royal house's substantial cultivation of the cultural field has finally borne fruit; our cultural golden age has arrived. Our efforts have ultimately secured our nation a transcendent position of superiority over other countries. Both Lotharingians and foreigners agree that [Root.GetName]'s status as a center of culture and art has been greatly consolidated in recent years."
 
- EDG_mission_LOT_3_28_title:0 "国家经济总署"
- EDG_mission_LOT_3_28_desc:0 "不管威廉·冯·于利希-贝格的初心是什么，我们必须肯定他作为内阁成员时在财政部门立下的功劳。威廉在最后的日子里留下了一些尚未处理的事务，就让王庭再次亲掌财政部，证明我们洛塔林吉亚人能做得比威廉这个德意志人更好。"
+EDG_mission_LOT_3_28_title:0 "Economic Directorate" # National Economic Directorate
+EDG_mission_LOT_3_28_desc:0 "Regardless of Wilhelm von Jülich-Berg's original intentions, we must acknowledge his achievements in the treasury department during his tenure as a cabinet member. Wilhelm left behind some unresolved matters in his final days. Let the royal court once again take direct control of the treasury department to prove that we Lotharingians can do better than Wilhelm, that German."
 
- EDG_mission_LOT_3_30_title:0 "扩大财政部"
- EDG_mission_LOT_3_30_desc:0 "军事工业的进步导致了战争烈度和规模的进一步提升，前所未有的大战需要更多的资金。而此前的财政署权力有限，主要功能是会计和记录，而非主动的财政规划和政策制定。我们应当扩张财政部，使财政部成为编制和执行国家预算的核心机构，用专业、中立、不受贵族党争影响的职业文官队伍运作它。"
+EDG_mission_LOT_3_30_title:0 "Expand the Treasury"
+EDG_mission_LOT_3_30_desc:0 "Advances in military industry have led to a further escalation in the intensity and scale of warfare. Unprecedented major wars require more funding. However, the previous treasury office had limited authority, functioning primarily for accounting and record-keeping rather than proactive fiscal planning and policy formulation. We should expand the Treasury, making it the core institution responsible for drafting and executing the national budget, operated by a professional, neutral, and career civil service free from the influence of aristocratic factionalism."
 
- EDG_mission_LOT_3_31_title:0 "国家银行"
- EDG_mission_LOT_3_31_desc:0 "金融是我们国家的命脉，而国家本身也依赖于公债融资机构——银行。严格的法律，对于公民保持对国家财政的信任是十分必要的。但由于官员时不时对标准的放松，我国财政能力可能会受到质疑。若想要确保投资者对银行的信任，最好的办法就是展示我国有足够的资金。"
+EDG_mission_LOT_3_31_title:0 "National Bank"
+EDG_mission_LOT_3_31_desc:0 "Finance is the lifeblood of our nation, and the state itself relies on public debt financing institutions—banks. Strict laws are essential for maintaining citizens' trust in the nation's finances. However, due to occasional relaxations of standards by officials, our nation's fiscal capacity may come under question. The best way to ensure investors' trust in the bank is to demonstrate that our nation possesses sufficient capital."
 
- EDG_mission_LOT_3_32_title:0 "国家军事总署"
- EDG_mission_LOT_3_32_desc:0 "天佑洛塔林吉亚，卡洛斯「奥德赛」·德·埃诺殿下成功拨乱反正，控制了首都局势，恢复了皇室对军队的控制。这十几年的教训告诉我们，军队必须掌握在自己人手中，必须设立新的国家军事总署，清扫德意志人余毒，建立属于洛塔林吉亚民族的新式军队。"
+EDG_mission_LOT_3_32_title:0 "Military Directorate" # National Military Directorate
+EDG_mission_LOT_3_32_desc:0 "Heaven favors Lotharingia. His Highness Carlos 'the Odyssey' de Hainaut successfully corrected the disorder, controlled the situation in the capital, and restored royal control over the military. The lessons of these past dozen years teach us that the army must be in the hands of our own people. We must establish a new National Military Directorate, purge the lingering poison of German influence, and build a new-style army belonging to the Lotharingian nation."
 
- EDG_mission_LOT_3_34_title:0 "总参谋部"
- EDG_mission_LOT_3_34_desc:0 "洛塔林吉亚总参谋部是在加洛林王庭领导下，负责组织全[Root.GetName]帝国武装力量建设和作战指挥的最高军事统率机关，始建于16世纪末。总参谋部是负责组织领导全国武装力量的军事建设，组织指挥全国武装力量的军事行动的军事领导机关，其设有作战、情报、通信、军训、军务、动员、装备、机要、测绘、外事、管理以及各兵种业务部门，让[Root.GetName]的军队更加职业化。"
+EDG_mission_LOT_3_34_title:0 "General Staff"
+EDG_mission_LOT_3_34_desc:0 "The Lotharingian General Staff is the highest military command organ under the leadership of the Carolingian court, responsible for organizing the construction and operational command of the entire armed forces of the [Root.GetName] Empire. It was established in the late 16th century. The General Staff is the military leadership body responsible for organizing and directing the military development of the nation's armed forces, as well as commanding their military operations. It includes departments for operations, intelligence, communications, training, military affairs, mobilization, equipment, cryptography, mapping, foreign affairs, management, and various service branches, making [Root.GetName]'s military more professional."
 
- EDG_mission_LOT_4_1_title:0 "帝国的殇歌"
- EDG_mission_LOT_4_1_desc:0 "历史的长河吞噬了无数帝国，他们或是为外国毁灭，或是在内部分崩离析......他们此后将不会再于历史长河之中留下足迹，但是我们拒绝接受这样的命运，法兰克必将重生，而洛塔林吉亚人的洛塔林吉亚，也将屹立于大地之上，世世代代。"
+EDG_mission_LOT_4_1_title:0 "The Empire's Elegy"
+EDG_mission_LOT_4_1_desc:0 "The river of history has swallowed countless empires, destroyed by foreign foes or crumbling from within... They will leave no further trace in the currents of time. But we refuse such a fate. The Franks shall be reborn, and the Lotharingia of the Lotharingians shall stand upon the earth for generations to come."
 
- EDG_mission_LOT_4_2_title:0 "《贝格条约》"
- EDG_mission_LOT_4_2_desc:0 "四国战争期间，为获得德意志军队的支持，路德维希七世被迫与德意志诸侯签署了《贝格条约》，承认了他们的一系列特权，并保证尽管王室控制着科隆地区大部，但自己不会侵犯于利希-贝格家族对科隆主城的掌握。如今，虽然四国战争早已结束，德意志贵族并没为王前驱，却还欣然享受着无数特权，为了王庭的尊严与中央的利益，我们不能坐视日耳曼人在王国的不劳而获，必须对《贝格条约》做个了断。"
+EDG_mission_LOT_4_2_title:0 "The Treaty of Berg"
+EDG_mission_LOT_4_2_desc:0 "During the Four Nations' War, to secure the support of the German armies, Ludwig VII was forced to sign the Treaty of Berg with the German princes, recognizing a series of their privileges and guaranteeing that, although the royal house controlled most of the Cologne region, he would not infringe upon the Jülich-Berg family's hold on Cologne's main city. Now, though the Four Nations' War has long ended and the German nobles did not march at the king's vanguard, they still happily enjoy countless privileges. For the dignity of the court and the interests of the center, we cannot stand idly by while Germans reap rewards without labor in the kingdom. A reckoning with the Treaty of Berg must be made."
 
- EDG_mission_LOT_4_4_title:0 "王都的安全"
- EDG_mission_LOT_4_4_desc:0 "王庭正在风暴的中央，路德维希七世已经预见了一场如同狂风骤雨的灾难将在他死后席卷全洛塔林吉亚......在他去见加洛林历代先帝之前，路德维希誓要为爱女再做一件事——在[1866.GetName]建立起一道坚不可摧的防御工事，守护王庭......"
+EDG_mission_LOT_4_4_title:0 "Security of the Royal Capital"
+EDG_mission_LOT_4_4_desc:0 "The royal court is at the eye of the storm. Ludwig VII foresaw a disaster like a tempest that would sweep across all Lotharingia after his death... Before joining the past emperors of the Carolingian line, Ludwig vowed to do one more thing for his beloved daughter—to construct impregnable fortifications in [1866.GetName] to protect the royal court..."
 
- EDG_mission_LOT_4_6_title:0 "美因茨的归附"
- EDG_mission_LOT_4_6_desc:0 "根据《金玺诏书》规定：美因茨大主教拥有「德意志王国首相」头衔，掌管帝国司法行政事务，主持皇帝选举会议的法兰克福集会，在选帝侯院中位列首位，作为最后投票者拥有决定性表决权，一时无双。然而，由于与伪帝西吉斯蒙德的斗争，美因茨的选帝侯席位被剥夺，主教区下辖的阿芬沙堡也被法兰克尼亚公国侵吞，大主教威名扫地。伪帝国对异端绥靖，对异教无能，而对教会不敬，就让真正的「罗马人的皇帝」帮助大主教恢复容荣耀——就如同他在特里尔和科隆的两位教会同僚一般。"
+EDG_mission_LOT_4_6_title:0 "Mainz's Submission"
+EDG_mission_LOT_4_6_desc:0 "According to the Golden Bull, the Archbishop of Mainz held the title 'Arch-Chancellor of Germany,' was responsible for the empire's judicial and administrative affairs, presided over the Frankfurt assembly that convened the imperial election, held the foremost position in the College of Electors, and possessed the decisive vote as the final voter—unmatched in his time. However, due to conflict with the false emperor Sigismund, Mainz's electoral seat was stripped, and the episcopal lands of Aschaffenburg were swallowed by the Duchy of Franconia, shaming the archbishop's prestige. The false empire appeased heretics, was impotent against pagans, and showed disrespect to the Church. Let the true 'Emperor of the Romans' help the archbishop restore his honor—just as he did for his two ecclesiastical colleagues in Trier and Cologne."
 
- EDG_mission_LOT_4_8_title:0 "踏平罗曼蒂"
- EDG_mission_LOT_4_8_desc:0 "法兰克人的国王洛泰尔二世曾统治一个从低地直至萨伏依的强盛王国。我们显然是他的继承者，但却一直满足于洛塔林吉亚的头衔。这不会再发生了，我们必须重新宣称剩余的洛泰尔之地，并且定要加冕为中法兰克之王。而其中的上勃艮第地区被伪帝国的控制已经够久了，现在必须归还给我们。"
+EDG_mission_LOT_4_8_title:0 "Subdue Romandy"
+EDG_mission_LOT_4_8_desc:0 "Lothair II, King of the Franks, once ruled a powerful kingdom stretching from the Low Countries to Savoy. We are clearly his heir, yet have long been content with the title of Lotharingia. This will no longer suffice. We must reclaim the remaining lands of Lothair and be crowned as the King of Middle Francia. The Upper Burgundy region has been under the false empire's control for too long; it must now be returned to us."
 
- EDG_mission_LOT_4_10_title:0 "东征诺德马克"
- EDG_mission_LOT_4_10_desc:0 "诺德马克藩侯，伪帝国的大法官和伪帝的大侍从长，从「熊」阿尔伯特时代就屹立于德意志的北境。但历史是残酷的，无数声名显赫的家族在遭难之后被卷入历史的洪流当中，只会偶尔展现他的仁慈。洛塔林吉亚的加洛林历经诸子分土、贵胄离心而仍艰难复兴，但诺德马克的阿斯坎尼举目四望，四境皆是敌非友，已至穷途末路。让我们给他们一个体面的结局，也让伪帝国的最高法院能够为我们的行政体系所用。"
+EDG_mission_LOT_4_10_title:0 "March East: The Nordmark" # Eastern Campaign: The Nordmark
+EDG_mission_LOT_4_10_desc:0 "The Margrave of the Nordmark, the false empire's High Steward and the false emperor's Grand Master of the Household, has stood firm in the northern reaches of Germany since the time of Albert 'the Bear.' But history is cruel; countless illustrious families, once fallen, are swept away by its torrents, only occasionally revealing its mercy. The Carolingians of Lotharingia endured division among heirs and noble estrangement to revive against all odds. Yet the Ascanians of the Nordmark look around and find only enemies, not friends, reaching a dead end. Let us give them a dignified end, and also bring the false empire's supreme court into service for our administrative system."
 
- EDG_mission_LOT_4_12_title:0 "捷克的烈火"
- EDG_mission_LOT_4_12_desc:0 "胡斯战争在日耳曼和捷克的土地上留下来难以磨灭的伤痛与裂痕，至今仍有星火闪烁。如今，洛塔林吉亚的军队终于来到了波希米亚王国，就让我们扑灭捷克人的星火，让天主教和皇权再次降临于斯。"
+EDG_mission_LOT_4_12_title:0 "The Flames of Bohemia"
+EDG_mission_LOT_4_12_desc:0 "The Hussite Wars left indelible scars and deep rifts in German and Czech lands, with embers still flickering today. Now, at last, the armies of Lotharingia have arrived in the Kingdom of Bohemia. Let us extinguish the Czech embers and restore Catholicism and imperial authority to these lands."
 
- EDG_mission_LOT_4_13_title:0 "劫掠威尼西亚"
- EDG_mission_LOT_4_13_desc:0 "即使在她最强大的时候，法兰克帝国也未能征服希腊帝国庇护下的威尼斯共和国。7个世纪过去了，紫凤凰已经坠地不起，而圣马可的飞狮也内外交困、奄奄一息。当然，圣但尼旗仍乐意庇护威尼西亚人——前提是他们能为[Root.Monarch.GetTitle]献上足够的「诚意」。"
+EDG_mission_LOT_4_13_title:0 "Plunder Venetia"
+EDG_mission_LOT_4_13_desc:0 "Even at its most powerful, the Frankish Empire could not conquer the Republic of Venice, sheltered by the Greek Empire. Seven centuries have passed; the Purple Phoenix has fallen to earth, and the Winged Lion of St. Mark is besieged within and without, barely breathing. Of course, the Banner of St. Denis would gladly offer Venetians protection—provided they can present sufficient 'sincerity' to the [Root.Monarch.GetTitle]."
 
- EDG_mission_LOT_4_15_title:0 "波里安特辖区"
- EDG_mission_LOT_4_15_desc:0 "波兰曾是东欧的天主之盾，却在伪帝国失败的十字军后王统断绝、国家分裂，忍受异族人的压迫。幸好他们遇见了仁善神武的加洛林君主，我们将建立一个波里安特管区，统辖波兰人，使得如过江之鲤般的波兰英杰能为法兰克服务。"
+EDG_mission_LOT_4_15_title:0 "The Polianate Exarchate"
+EDG_mission_LOT_4_15_desc:0 "Poland was once the Shield of Catholicism in Eastern Europe, but after the false empire's failed crusades, its royal line was severed, its state divided, suffering under foreign oppression. Fortunately, they have encountered the benevolent and divinely martial Carolingian monarch. We shall establish a Polianate Exarchate to govern the Polish people, allowing the multitude of Polish heroes to serve the Frankish cause."
 
- EDG_mission_LOT_4_16_title:0 "圣母之地"
- EDG_mission_LOT_4_16_desc:0 "从公元12世纪的北方十字军开始，德意志势力逐渐渗透波罗的地区，直到今天已经根深蒂固。让我们清剿德意志最后的余孽，净化圣母之地。"
+EDG_mission_LOT_4_16_title:0 "The Land of Our Lady"
+EDG_mission_LOT_4_16_desc:0 "Since the Northern Crusades of the 12th century, German influence has gradually permeated the Baltic region, becoming deeply entrenched. Let us eradicate the final remnants of the Germans and purify the Land of Our Lady."
 
- EDG_mission_LOT_4_17_title:0 "粉碎罗斯野心"
- EDG_mission_LOT_4_17_desc:0 "罗斯人一直笃信他们是希腊帝国的继承人，认为自己是所谓「第三罗马」，对罗马帝位拥有与生俱来的权利。然而，在伟大的法兰克人驰骋纽斯特里亚、激战安达卢西亚之时，罗斯佬还不知道在哪里讨食！这群「白皮鞑靼」毫不掩饰的野心展现了他们的狂妄与无知，加洛林的铁锤将让他们学会谦恭、顺从。"
+EDG_mission_LOT_4_17_title:0 "Crush Russian Ambition"
+EDG_mission_LOT_4_17_desc:0 "The Russians have long believed themselves the heirs of the Greek Empire, considering their so-called 'Third Rome' to possess an inherent right to the Roman imperial throne. Yet, while the great Franks roamed Neustria and battled in Andalusia, these Russian upstarts were still scavenging for food somewhere! These 'white-skinned Tatars' show undisguised ambition, revealing their arrogance and ignorance. The Carolingian hammer will teach them humility and obedience."
 
- EDG_mission_LOT_4_20_title:0 "多样的领袖"
- EDG_mission_LOT_4_20_desc:0 "贝尔娜黛特「白玫瑰」治下的洛塔林吉亚宫廷是多元的，经济突飞猛进，艺术蓬勃发展，男女皆有为女王效命之幸，"
+EDG_mission_LOT_4_20_title:0 "Diverse Leadership"
+EDG_mission_LOT_4_20_desc:0 "The court of Lotharingia under Bernadette the 'White Rose' is diverse, with its economy advancing by leaps and bounds, art flourishing, and both men and women having the fortune to serve the Queen,"
 
- EDG_mission_LOT_4_22_title:0 "设立海事法院"
- EDG_mission_LOT_4_22_desc:0 "海事法院是[Root.GetName]专门法院之一，是审理海事和海商案件的专门法院，受理案件具有专门性、涉外性不以行政区划分为依据的特点。洛塔林吉亚最早在[1744.GetName]、[97.GetName]、[4383.GetName]、[87.GetName]、[99.GetName]和[172.GetName]等地设立海事法院。由院长一人，副院长、庭长、副庭长和审判员若干人组成，并设有审判委员会。内设海事审判庭和海商审判庭，管辖第一审海事和海商案件。"
+EDG_mission_LOT_4_22_title:0 "Admiralty Courts" # Establish Admiralty Courts
+EDG_mission_LOT_4_22_desc:0 "The Admiralty Courts are one of the specialized courts of [Root.GetName], dedicated to hearing maritime and admiralty cases. Their jurisdiction is specialized and international in nature, not based on administrative divisions. Lotharingia first established Admiralty Courts in places such as [1744.GetName], [97.GetName], [4383.GetName], [87.GetName], [99.GetName], and [172.GetName]. Each court consists of one President, several Vice-Presidents, Division Chiefs, Deputy Division Chiefs, and Judges, and has a Judicial Committee. Internally, they have a Maritime Division and an Admiralty Division, with jurisdiction over first-instance maritime and admiralty cases."
 
- EDG_mission_LOT_4_23_title:0 "启蒙主义"
- EDG_mission_LOT_4_23_desc:0 "启蒙主义起源于17世纪，鼎盛于18世纪启蒙运动，其核心理念是通过艺术传递理性精神与道德观念，强调作品的教育意义并给观赏者带来欢愉。启蒙运动是欧洲继文艺复兴后的又一次运动，它以[Root.GetName]为中心，其核心思想是“理性崇拜”。这次运动有力批判了蒙昧主义，宣扬了自由、民主和平等的思想。启蒙运动的影响范围广阔，甚至远及新大陆。"
+EDG_mission_LOT_4_23_title:0 "Enlightenment"
+EDG_mission_LOT_4_23_desc:0 "The Enlightenment originated in the 17th century, reaching its zenith during the 18th-century Enlightenment movement. Its core concept was to convey rationalism and moral principles through art, emphasizing the educational value of works and bringing pleasure to the viewer. The Enlightenment was another major movement in Europe following the Renaissance, centered in [Root.GetName], with its core philosophy being the 'worship of reason.' This movement powerfully critiqued obscurantism and promoted ideas of freedom, democracy, and equality. Its influence was vast, reaching even to the New World."
 
- EDG_mission_LOT_4_25_title:0 "推崇官话"
- EDG_mission_LOT_4_25_desc:0 "[Root.GetName]是欧洲的文化中心，[Root.Capital.GetName]是欧洲的心脏，带有瓦隆风格的[Root.Capital.GetName]法语不仅是我们的官话，更是欧洲的宫廷语言，即便是我们的敌国也以能说一口流利的[Root.Capital.GetName]法语为荣。"
+EDG_mission_LOT_4_25_title:0 "Promote our Language" # Promote the Official Language
+EDG_mission_LOT_4_25_desc:0 "[Root.GetName] is the cultural center of Europe, [Root.Capital.GetName] is the heart of Europe, and the Walloon-accented French of [Root.Capital.GetName] is not only our official language but also the court language of Europe. Even our enemy states take pride in speaking fluent [Root.Capital.GetName] French."
 
- EDG_mission_LOT_4_26_title:0 "主体民族"
- EDG_mission_LOT_4_26_desc:0 "主体民族是指人数占该国人口绝大多数（至少65%）的民族，由于天然的人口和文化优势，主体民族往往在国家内拥有天然的文化政治优势，一般被视作国家的主体或代表，因而通常对国家的心理认同度最为强烈。洛塔林吉亚人正是[Root.GetName]的主体民族，他们拥有与生俱来的权利。"
+EDG_mission_LOT_4_26_title:0 "Core Nationality"
+EDG_mission_LOT_4_26_desc:0 "The core nationality refers to the ethnic group that constitutes the vast majority (at least 65%) of a country's population. Due to inherent demographic and cultural advantages, the core nationality often possesses natural cultural and political dominance within the state, generally regarded as the main body or representative of the nation. Consequently, it typically exhibits the strongest psychological identification with the country. The Lotharingians are precisely the core nationality of [Root.GetName], endowed with inherent rights."
 
- EDG_mission_LOT_4_27_title:0 "纯净的国家"
- EDG_mission_LOT_4_27_desc:0 "而[Root.GetName]的大部分臣民都认可洛塔林吉亚人这一身份，信奉[Root.Religion.GetName]，拥护加洛林王朝的英明统治，完美诠释了「一个民族，一个信仰，一个认同」，是最纯净的国家。"
+EDG_mission_LOT_4_27_title:0 "A Pure Nation"
+EDG_mission_LOT_4_27_desc:0 "The majority of subjects in [Root.GetName] identify as Lotharingian, adhere to [Root.Religion.GetName], and support the wise rule of the Carolingian dynasty, perfectly embodying the principle of 'one nation, one faith, one identity.' It is the purest of nations."
 
- EDG_mission_LOT_4_29_title:0 "清查人口"
- EDG_mission_LOT_4_29_desc:0 "四国战争中签订的《贝格条约》让渡了过多权利给德意志诸侯，他们藏匿人口，截留税赋，百般阻挠洛塔林吉亚王庭的征兵和征税事务。随着洛塔林吉亚民族的崛起，我们应当清查人口，一扫数十年之积弊。"
+EDG_mission_LOT_4_29_title:0 "Population Census" # Census and Population Survey
+EDG_mission_LOT_4_29_desc:0 "The Treaty of Berg, signed during the Four Nations' War, ceded excessive rights to the German princes. They hid populations, withheld taxes, and obstructed the recruitment and taxation efforts of the Lotharingian court in countless ways. With the rise of the Lotharingian nation, we should conduct a census and population survey to sweep away decades of accumulated malpractice."
 
- EDG_mission_LOT_4_30_title:0 "规划行政区划"
- EDG_mission_LOT_4_30_desc:0 "卡佩王朝数百年来一直在打压地方诸侯，推进中央集权，虽然最终还是功败垂成，但他们宝贵的政治遗产落入了我们手中，加洛林王庭应该吸取法兰西人的经验和教训，委任行政官僚，继续扩张王室领地，重新划定国家行政区划。"
+EDG_mission_LOT_4_30_title:0 "Administrative Divisions" # Plan Administrative Divisions
+EDG_mission_LOT_4_30_desc:0 "For centuries, the Capetian dynasty suppressed local princes and advanced centralization, ultimately failing, but their valuable political legacy has fallen into our hands. The Carolingian court should learn from the experiences and lessons of the French, appoint administrative bureaucrats, continue to expand the royal domain, and redraw the nation's administrative divisions."
 
- EDG_mission_LOT_4_33_title:0 "瓦隆尼亚皇家铸炮厂"
- EDG_mission_LOT_4_33_desc:0 "瓦隆尼亚地区矿藏丰厚，加之紧邻我国政治中心，帝都[1878.GetName]，从而成为了[Root.GetName]工业的摇篮，其中，[94.GetName]和[1866.GetName]两地的武器工业的发展尤为迅猛。一些有远见的顾问和将军因此建议[Root.Monarch.GetTitle]在瓦隆尼亚建立皇家铸炮厂，为我们的军队提供最先进的火炮。"
+EDG_mission_LOT_4_33_title:0 "Walloon Royal Foundry" # Walloon Royal Cannon Foundry
+EDG_mission_LOT_4_33_desc:0 "The Wallonia region is rich in mineral resources and lies adjacent to our political center, the imperial capital [1878.GetName], making it the cradle of [Root.GetName]'s industry. Among these, the development of the arms industry in [94.GetName] and [1866.GetName] has been particularly rapid. Some far-sighted advisors and generals have therefore suggested that the [Root.Monarch.GetTitle] establish a Royal Cannon Foundry in Wallonia to provide our military with the most advanced artillery."
 
- EDG_mission_LOT_4_34_title:0 "睡在火炮上的国家"
- EDG_mission_LOT_4_34_desc:0 "「尊严只在剑锋之上，真理只在大炮射程之内。」[Root.GetName]的火炮工业已经威震欧洲，我们的敌人在新军的炮火前匍匐颤抖，望风披靡，甚至心怀畏惧地称呼[Root.GetName]为「睡在火炮上的国家」。"
+EDG_mission_LOT_4_34_title:0 "Nation of Cannons" # The Nation That Sleeps on Cannons
+EDG_mission_LOT_4_34_desc:0 "'Dignity exists only at the tip of the sword; truth lies only within the range of cannons.' The artillery industry of [Root.GetName] has already awed Europe. Our enemies prostrate and tremble before the cannon fire of our new army, fleeing at the mere sight, even referring to [Root.GetName] with fearful reverence as 'the nation that sleeps on cannons.'"
 
- EDG_mission_LOT_4_35_title:0 "海洋上的至尊"
- EDG_mission_LOT_4_35_desc:0 "法兰克统治陆地，加洛林君临海洋！"
+EDG_mission_LOT_4_35_title:0 "Sovereign of the Seas"
+EDG_mission_LOT_4_35_desc:0 "The Franks rule the land; the Carolingians reign over the seas!"
 
- EDG_mission_LOT_5_2_title:0 "国王的勇士"
- EDG_mission_LOT_5_2_desc:0 "无论是在什么时候，一个国家都不会缺乏英雄人物，对于洛塔林吉亚也是如此。洛塔林吉亚是骑士精神的发源地，加洛林王朝是武功歌的赞助者，我们的国家拥有优秀的尚武传统，数百年内独战德意志与法兰西，也仍傲立于世。如今，面对国内的风暴和国际局势的多变，我们必须拔擢新的勇士，为王先驱。"
+EDG_mission_LOT_5_2_title:0 "The King's Champions"
+EDG_mission_LOT_5_2_desc:0 "At any time, a nation does not lack heroic figures, and so it is with Lotharingia. Lotharingia is the birthplace of chivalry, and the Carolingian dynasty has been the patron of epic poetry. Our nation possesses an excellent martial tradition, having stood alone against both Germany and France for centuries, yet still standing proud. Now, facing domestic storms and a volatile international situation, we must promote new champions to be the king's vanguard."
 
- EDG_mission_LOT_5_3_title:0 "王室的盟友"
- EDG_mission_LOT_5_3_desc:0 "既然德语系诸侯妄图勾结他们的伪帝国，对抗洛塔林吉亚，那么王庭也绝不会坐以待毙，我们将精心制定外交策略，在大国中寻找盟友，对抗这帮逆贼。"
+EDG_mission_LOT_5_3_title:0 "Allies of the Crown"
+EDG_mission_LOT_5_3_desc:0 "Since the Germanophone princes seek to collude with their false empire against Lotharingia, the royal court will not sit idly by. We will meticulously craft a diplomatic strategy, seeking allies among the great powers to confront these traitors."
 
- EDG_mission_LOT_5_6_title:0 "斩断帝国柱石"
- EDG_mission_LOT_5_6_desc:0 "如果说萨克森公爵是日耳曼帝国的所谓西北柱石，那么符腾堡伯爵和法兰克尼亚公爵就是中流砥柱，他们的领土紧紧毗邻洛塔林吉亚的东境，是我们东征的最大阻碍。但如今法兰克尼亚已陷入继承危机的泥淖，哈布斯堡家族正忙于平定各领地的贵族叛乱，法兰克的勇士将趁机打碎德意志人的脊梁，斩断所谓的帝国柱石。"
+EDG_mission_LOT_5_6_title:0 "Shatter the Empire's Pillars"
+EDG_mission_LOT_5_6_desc:0 "If the Duke of Saxony is considered the so-called northwestern pillar of the Germanic Empire, then the Count of Württemberg and the Duke of Franconia are its central pillars. Their territories closely border Lotharingia's eastern frontier, posing the greatest obstacle to our eastward campaigns. But now, Franconia is mired in succession crises, and the House of Habsburg is preoccupied with quelling noble rebellions in its various lands. Frankish warriors will seize this moment to break the backbone of the Germans and shatter the so-called imperial pillars."
 
- EDG_mission_LOT_5_7_title:0 "反日耳曼战争"
- EDG_mission_LOT_5_7_desc:0 "后世的历史学者认为，当时洛塔林吉亚全国上下对德意志的普遍的敌视和复仇主义实际上是后来洛塔林吉亚民族主义的起源。通过塑造「德意志」人这一共同宿敌，洛塔林吉亚王庭号召「反日耳曼战争」，凝聚民心，团结了大部分民众，让稚嫩的民族主义成为了加洛林王朝的统治合法性证据之一。，"
+EDG_mission_LOT_5_7_title:0 "Anti-German War" # The Anti-German War
+EDG_mission_LOT_5_7_desc:0 "Later historians believe that the widespread hostility and revanchism towards Germany throughout Lotharingia at the time actually served as the origin of later Lotharingian nationalism. By creating the common enemy of 'Germans,' the Lotharingian court rallied public sentiment through the call for the 'Anti-German War,' uniting the majority of the populace and transforming nascent nationalism into one of the pillars of legitimacy for Carolingian rule."
 
- EDG_mission_LOT_5_8_title:0 "入侵施瓦本"
- EDG_mission_LOT_5_8_desc:0 "在霍亨斯陶芬王朝颓然倒塌于诸侯和教会的围攻后，哈布斯堡王朝趁机在施瓦本地区攫取了大片土地，成为了法兰克尼亚公爵麾下第一封臣，如今更是自称施瓦本公爵。哈布斯堡把自己的幸运际遇视为主的眷顾，却不知这只是洛塔林吉亚过去的仁慈。如今，阿尔卑斯暴发户的梦该醒了。"
+EDG_mission_LOT_5_8_title:0 "Invasion of Swabia"
+EDG_mission_LOT_5_8_desc:0 "After the Hohenstaufen dynasty collapsed under the assaults of princes and the Church, the House of Habsburg seized vast swathes of land in the Swabian region, becoming the foremost vassal of the Duke of Franconia and now even styling itself as the Duke of Swabia. The Habsburgs viewed their fortunate circumstances as divine favor, unaware it was merely Lotharingia's past mercy. Now, the Alpine upstart's dream must end."
 
- EDG_mission_LOT_5_10_title:0 "汉诺威的战马"
- EDG_mission_LOT_5_10_desc:0 "弗莱辛的奥托写到，「在罗马世界，即高卢和日耳曼内，有两个著名的家族，一是魏布林根的海因里希一族，另一个是阿尔特多夫的韦尔夫家族；一个总是产生皇帝，一个则是伟大的公爵。」魏布林根的海因里希一族早已消逝，而「狮子」亨利的王朝仍作为德意志的西北柱石而存在。如今整个德意志兰都在洛塔林吉亚铁蹄下剧烈的颤抖，萨克森人穷兵黩武的抵抗也将被我们毫不留情地碾碎，正如他们的祖先维杜金德被我们的祖先查理曼击败的那一样。"
+EDG_mission_LOT_5_10_title:0 "The Warhorses of Hanover"
+EDG_mission_LOT_5_10_desc:0 "Otto of Freising wrote, 'In the Roman world, namely Gaul and Germania, there are two famous families: one is the line of Heinrich of Waiblingen, the other the Welfs of Altdorf; one always produces emperors, the other great dukes.' The line of Heinrich of Waiblingen has long vanished, yet the dynasty of Henry 'the Lion' still exists as the northwestern pillar of Germany. Now, all of Germany trembles violently under the Lotharingian iron heel, and the Saxons' militaristic resistance will be ruthlessly crushed by us, just as their ancestor Widukind was defeated by our ancestor Charlemagne."
 
- EDG_mission_LOT_5_11_title:0 "狮鹫的折羽"
- EDG_mission_LOT_5_11_desc:0 "格里芬，亦即狮鹫，它是波美拉尼亚的标志，也是卡舒比的标志，但卡舒比人已经湮没于与德意志人斗争的浪潮中，而狮鹫也将坠落在波美拉尼亚海滨。就让我们拾起它的折羽，夺取这群与德意志人斗争数百年的斯拉夫人的遗产。"
+EDG_mission_LOT_5_11_title:0 "The Griffin's Broken Wing"
+EDG_mission_LOT_5_11_desc:0 "The Griffin is the symbol of Pomerania and also of the Kashubians. But the Kashubians have vanished in the tide of struggle against the Germans, and the Griffin, too, will fall along the Pomeranian coast. Let us gather its broken feathers and seize the legacy of these Slavs who fought the Germans for centuries."
 
- EDG_mission_LOT_5_12_title:0 "条顿的东境"
- EDG_mission_LOT_5_12_desc:0 "普鲁士是所谓「条顿王国」，也即德意志的东境，10世纪起，德意志人在“东进”口号下逐步向文德地区和波罗的海沿岸扩张，先后建立勃兰登堡侯国和条顿骑士团国家等领地。1410年的格伦瓦尔德战役短暂打击了德意志人的侵略野心，但是随着波列斯瓦夫王冠的坠地，德意志人的野心必定再次升起。洛塔林吉亚将一个庞大的枷锁重新套在德意志贵族头上，让他们为帝国所用，而非为了他们那可悲的民族。"
+EDG_mission_LOT_5_12_title:0 "The Teutonic East"
+EDG_mission_LOT_5_12_desc:0 "Prussia, the so-called 'Teutonic Kingdom,' represents the eastern frontier of Germany. Since the 10th century, Germans gradually expanded into the Wendish lands and the Baltic coast under the slogan of 'Drang nach Osten,' establishing territories such as the Margraviate of Brandenburg and the State of the Teutonic Order. The Battle of Grunwald in 1410 briefly checked German expansionist ambitions. But with the fall of the Bolesław Crown, German ambition was bound to rise again. Lotharingia will place a massive yoke back upon the German nobility, forcing them to serve the empire, not their pitiful nation."
 
- EDG_mission_LOT_5_13_title:0 "帝国陨落"
- EDG_mission_LOT_5_13_desc:0 "雄鹰双翼飞掠过易北河的晨雾，洛林十字矗立在维也纳的教堂，法兰克人的王站在亚琛圣父圣宫的观景台，如同当年的查理大帝那样欣赏着[Root.Monarch.GetHerHim]的帝国。\n\n[Root.Monarch.GetHerHim]看见阿尔卑斯的积雪因新的武功歌而消融，[Root.Monarch.GetHerHim]看见多瑙河滔滔的江水因《洛塔林吉亚的「奥德赛」》而停止，[Root.Monarch.GetHerHim]看梵蒂冈的教宗和枢机团正忙于筹备[Root.Monarch.GetHerHim]的加冕式，[Root.Monarch.GetHerHim]看见王家圣骑士又踏碎了一处日耳曼庄园，[Root.Monarch.GetHerHim]看见皇室新军的炮火又轰开了一座名邑大都，[Root.Monarch.GetHerHim]看见查理曼血脉浇灌的巨木绞碎了虚妄的帝国冠冕，[Root.Monarch.GetHerHim]看见加洛林的金焰战旗如骤火吞噬德意志的方阵，[Root.Monarch.GetHerHim]看见《凡尔登条约》撕裂的国土被一代又一代的洛塔林吉亚人用铁手弥合......\n\n[Root.Monarch.GetTitle]感慨万千，由衷地说道：「愿我的子孙在翻阅这血色篇章时铭记：当伪帝国崩塌的尘埃落定，唯有洛塔林吉亚的铁血，如太阳一般永远照耀着欧罗巴！」"
+EDG_mission_LOT_5_13_title:0 "Empire's Fall"
+EDG_mission_LOT_5_13_desc:0 "The double-headed eagle soared through the morning mists of the Elbe, the Cross of Lorraine stood atop Vienna's cathedral, and the King of the Franks stood on the balcony of the Palatium Sacrum Aquisgranum, admiring his empire as Charlemagne once did.\n\n[Root.Monarch.GetSheHe] saw the Alpine snows melt with new epic songs; [Root.Monarch.GetSheHe] saw the surging waters of the Danube pause for the 'Odyssey of Lotharingia'; [Root.Monarch.GetSheHe] saw the Pope and College of Cardinals in Vatican busy preparing [Root.Monarch.GetHerHis] coronation; [Root.Monarch.GetSheHe] saw the Royal Paladins trample another German manor; [Root.Monarch.GetSheHe] saw the cannon fire of the Imperial New Army blast open another famed city; [Root.Monarch.GetSheHe] saw the great tree nourished by Charlemagne's blood crush the false imperial crown; [Root.Monarch.GetSheHe] saw the Carolingian golden war banners consume German formations like wildfire; [Root.Monarch.GetSheHe] saw the lands torn by the Treaty of Verdun mended by the iron hands of generations of Lotharingians...\n\nMoved with deep emotion, the [Root.Monarch.GetTitle] sincerely declared: 'May my descendants remember, when they turn these blood-soaked pages: as the dust from the false empire's collapse settles, only Lotharingia's iron and blood shall forever shine like the sun over Europa!'"
 
- EDG_mission_LOT_5_15_title:0 "穿刺卡帕提亚"
- EDG_mission_LOT_5_15_desc:0 "卡帕提亚，伪帝国曾经的冠冕，如今只是伪帝横征暴敛和强征人丁的乌烟瘴气之地。瓦尔纳的惨败让马扎尔人不再能征善战，异教徒的压迫让达契亚人不再敢于抗争。就让法兰克大军如查理曼圣枪那般穿刺卡帕提亚，给这篇地区带来光明与救赎！"
+EDG_mission_LOT_5_15_title:0 "Pierce the Carpathians"
+EDG_mission_LOT_5_15_desc:0 "Carpathia, once the crown of the false empire, is now merely a land of oppressive taxation and forced conscription by the false emperor. The disastrous defeat at Varna stripped the Magyars of their martial prowess, and pagan oppression robbed the Dacians of their will to resist. Let the Frankish host pierce the Carpathians like Charlemagne's Holy Lance, bringing light and salvation to this land!"
 
- EDG_mission_LOT_5_16_title:0 "解放君士坦丁堡"
- EDG_mission_LOT_5_16_desc:0 "起初，一轮名为「罗马」的炽日照耀着文明世界。\n\n当西方的暮霭渐浓，帝国的光芒收缩到博斯普鲁斯海峡旁的拜占庭城邦。在那里，紫室出生的皇帝们，放弃了祖先的拉丁语，用希腊语的羊皮纸和镶嵌画继续做着奥古斯都的旧梦。\n\n然而，法兰克人崛起于西方的森林与旷野，用剑与十字架开辟了自己的命运。最终在旧都罗马，教皇将皇冠戴在了查理曼的头上。拜占庭人为之惊愕：一瞬间，西方的地平线上就升起了另一轮太阳。\n\n东方的紫日光芒渐渐黯淡，融入了中世纪的漫长夜色，而西方的金阳——我们，始终高悬，尽管偶有阴霾遮蔽，但终成大业。"
+EDG_mission_LOT_5_16_title:0 "Liberate Constantinople"
+EDG_mission_LOT_5_16_desc:0 "In the beginning, a blazing sun named 'Rome' illuminated the civilized world.\n\nAs dusk thickened in the West, the empire's light contracted to the Byzantion polis beside the Bosphorus. There, emperors born to the Purple abandoned their ancestors' Latin, continuing the old dream of Augustus on Greek parchment and mosaic.\n\nYet the Franks rose in the western forests and plains, forging their own destiny with sword and cross. Finally, in the old capital of Rome, the Pope placed the imperial crown upon Charlemagne's head. The Byzantines were astonished: in an instant, another sun had risen on the western horizon.\n\nThe purple sun of the East gradually dimmed, dissolving into the long night of the Middle Ages, while the golden sun of the West—we—remained high, despite occasional clouds, ultimately achieving greatness."
 
- EDG_mission_LOT_5_17_title:0 "拯救希腊"
- EDG_mission_LOT_5_17_desc:0 "第四次十字军东征后，法兰克人与希腊共融已有约3个世纪，希腊人俨然是我们拉丁世界的附属物。如今，异族人正想咬噬法兰克十字军的遗产，就让正统的法兰克帝王出面，救希腊于水火之中，让希腊人心存感激。使得他们更好融入拉丁的大家庭中。"
+EDG_mission_LOT_5_17_title:0 "Save Greece"
+EDG_mission_LOT_5_17_desc:0 "Following the Fourth Crusade, Franks and Greeks have coexisted for nearly three centuries, with the Greeks effectively becoming part of our Latin world. Now, foreign peoples seek to devour the legacy of the Frankish crusaders. Let the rightful Frankish Emperor intervene, rescue Greece from peril, and earn the gratitude of the Greeks, facilitating their better integration into the Latin family."
 
- EDG_mission_LOT_5_19_title:0 "新加洛林文艺复兴"
- EDG_mission_LOT_5_19_desc:0 "公元8世纪晚期至9世纪，查理大帝及其后继者在欧洲推行了一系列文艺与科学的复兴运动，被称为「加洛林文艺复兴」，是「欧洲的第一次觉醒」。我们的[Root.Monarch.GetTitle]尤其崇敬查理大帝，在得知意大利地区正在进行的文艺复兴运动后，[Root.Monarch.GetHerHim]备受启发，想到了查理大帝的领导的「加洛林文艺复兴」，于是决定由王室出资赞助文学家，以期实现「新加洛林文艺复兴」。"
+EDG_mission_LOT_5_19_title:0 "Carolingian Renaissance" # The Neo-Carolingian Renaissance
+EDG_mission_LOT_5_19_desc:0 "From the late 8th to the 9th century, Charlemagne and his successors promoted a series of revivals in art, literature, and science across Europe, known as the 'Carolingian Renaissance,' considered 'Europe's first awakening.' Our [Root.Monarch.GetTitle] holds Charlemagne in particular reverence. Upon learning of the Renaissance movement underway in Italy, [Root.Monarch.GetSheHe] was inspired, recalling Charlemagne's 'Carolingian Renaissance,' and thus decided to have the royal house sponsor writers, aiming to achieve a 'Neo-Carolingian Renaissance.'"
 
- EDG_mission_LOT_5_20_title:0 "支持工匠"
- EDG_mission_LOT_5_20_desc:0 "手工业和商品经济的发展促进了洛塔林吉亚的城市化，但是众多社会问题也接踵而来。经济的复兴和市场的扩大，使得行会手工业的生产愈来愈不能满足市场的需要，最后导致了中世纪晚期手工业行会的没落与解体，再也没有组织可以保障工匠的利益。因此，[Root.Monarch.GetTitle]应该站出来，以王室的名义建立监督组织，成为手工业者的保护人、「人民之父」（亦或是「万民之母」）。"
+EDG_mission_LOT_5_20_title:0 "Support the Artisans"
+EDG_mission_LOT_5_20_desc:0 "The development of handicrafts and a commodity economy promoted urbanization in Lotharingia, but numerous social problems followed. Economic revival and market expansion rendered guild-based handicraft production increasingly inadequate to meet market demands, ultimately leading to the decline and dissolution of late medieval craft guilds, leaving no organization to safeguard artisans' interests. Therefore, the [Root.Monarch.GetTitle] should step forward, establishing a supervisory organization in the royal name to become the protector of the artisans—the 'Father of the People' (or 'Mother of the People')."
 
- EDG_mission_LOT_5_21_title:0 "科隆法案"
- EDG_mission_LOT_5_21_desc:0 "生产技术和商品主义经济的进一步发展让[Root.GetName]享受着这一时代的福利，促进了资本主义的诞生，但是一些乱象也在滋生，工匠群体被雇主盘剥，强制劳动，而早期资本家的势力也在我们国内急剧膨胀。一部关于资本主义劳动规律的法律必须以[Root.Monarch.GetTitle]陛下的名义出台，在保证经济发展的同时向人民展现加洛林王朝的耐心。"
+EDG_mission_LOT_5_21_title:0 "The Cologne Act"
+EDG_mission_LOT_5_21_desc:0 "Further advances in production technology and the mercantile economy have allowed [Root.GetName] to enjoy the benefits of this era, fostering the birth of capitalism. However, certain disorders have also arisen: artisans are exploited and subjected to forced labor by employers, while the power of early capitalists has expanded rapidly within our nation. A law regulating capitalist labor must be promulgated in the name of His Majesty the [Root.Monarch.GetTitle], demonstrating the Carolingian dynasty's concern for the people while ensuring economic development."
 
- EDG_mission_LOT_5_22_title:0 "下议院"
- EDG_mission_LOT_5_22_desc:0 "下议院之官式全称为「尊贵的与会法兰克帝国下议院议员」（L'honorable des Communes de l'Empire franc au Parlement réuni），主要由广大的中产阶级和地方贵族组成，与上议会一同设于亚琛圣父大皇宫主殿内，每次进行会议时，议事厅内必置有一令牌，以彰皇权。下议院享有立法和监督政府、监督财政等权力，后期地位远优于上议院，内阁缔结条约以及制定财政预算案等都须首先经下议院审查和通过。"
+EDG_mission_LOT_5_22_title:0 "House of Commons"
+EDG_mission_LOT_5_22_desc:0 "The official full title of the House of Commons is 'The Honourable the Commons of the Frankish Empire in Parliament assembled.' It is primarily composed of the broad middle class and local nobility and convenes alongside the House of Lords in the main hall of the Palatium Sacrum Aquisgranum. A scepter symbolizing royal authority is always placed within the chamber during sessions. The House of Commons holds powers such as legislation, government oversight, and financial supervision. In later periods, its status far surpassed that of the House of Lords. The cabinet's treaty-making and budget proposals must first be examined and approved by the House of Commons."
 
- EDG_mission_LOT_5_25_title:0 "最虔信基督教的君主"
- EDG_mission_LOT_5_25_desc:0 "从「铁锤」查理到查理大帝，从路德维希七世到贝尔娜黛特「白玫瑰」夫妻，法兰克君主的虔诚无可指摘。[Root.GetName]教会是公教之长女，[Root.GetName][Root.Monarch.GetTitle]是圣父教宗认可的基督教统治者之长、欧洲君主之最，是上帝在人间的代行。"
+EDG_mission_LOT_5_25_title:0 "Most Christian Monarch"
+EDG_mission_LOT_5_25_desc:0 "From Charles 'the Hammer' to Charlemagne, from Ludwig VII to Bernadette the 'White Rose' and her consort, the piety of Frankish monarchs is beyond reproach. The Church of [Root.GetName] is the eldest daughter of the Catholic Church. The [Root.Monarch.GetTitle] of [Root.GetName], recognized by the Holy Father as the foremost Christian ruler and the foremost monarch of Europe, is God's representative on earth."
 
- EDG_mission_LOT_5_26_title:0 "一国一教"
- EDG_mission_LOT_5_26_desc:0 "[Root.GetName]只能有一个宗教，那就是罗马公教；[Root.GetName]只能有一个教会，那就是洛塔林吉亚公教会；[Root.GetName]只能有一位君主，那就是加洛林皇帝。"
+EDG_mission_LOT_5_26_title:0 "One Nation, One Faith"
+EDG_mission_LOT_5_26_desc:0 "[Root.GetName] can have but one religion, and that is Roman Catholicism; [Root.GetName] can have but one church, and that is the Lotharingian Catholic Church; [Root.GetName] can have but one monarch, and that is the Carolingian Emperor."
 
- EDG_mission_LOT_5_29_title:0 "修建道路"
- EDG_mission_LOT_5_29_desc:0 "若论悠久的历史和过往的繁华，[Root.Capital.GetName]比起罗马也几乎毫不逊色。如今在这个见证洛塔林吉亚文化崛起、法兰克力量复兴的年代里，正如罗马曾经享受到的，[Root.Capital.GetName]也将成为欧洲的中心。"
+EDG_mission_LOT_5_29_title:0 "Construct Roads"
+EDG_mission_LOT_5_29_desc:0 "In terms of ancient history and past splendor, [Root.Capital.GetName] is scarcely inferior to Rome itself. Now, in this era witnessing the cultural ascent of Lotharingia and the revival of Frankish power, just as Rome once experienced, [Root.Capital.GetName] shall become the center of Europe."
 
- EDG_mission_LOT_5_30_title:0 "帝国大干道"
- EDG_mission_LOT_5_30_desc:0 "贝尔娜黛特女皇在位时期，她在[Root.GetName]帝国境内大力发展基建，建设了西起[170.GetName]，东至[67.GetName]，北迄[13.GetName]，南达[104.GetName]的帝国大干道，将帝国各省紧密联系在一起，皇帝本人的意志得到充分贯彻，王庭派出的巡查钦差和皇家陆军可以轻松抵达目的地，一切诸侯和地方分裂势力不再能挑战加洛林的权威。"
+EDG_mission_LOT_5_30_title:0 "Imperial Highways"
+EDG_mission_LOT_5_30_desc:0 "During the reign of Empress Bernadette, she vigorously developed infrastructure across the [Root.GetName] Empire, constructing Imperial Highways stretching west from [170.GetName], east to [67.GetName], north to [13.GetName], and south to [104.GetName]. These highways tightly interconnected the imperial provinces, ensuring the emperor's will was fully implemented. Inspectors dispatched by the court and the Royal Army could easily reach their destinations, and all princely and local separatist forces could no longer challenge Carolingian authority."
 
- EDG_mission_LOT_5_33_title:0 "统一海军指挥"
- EDG_mission_LOT_5_33_desc:0 "随着航海技术的发展和领土的扩张，帝国开始更加注重保持强大的海军存在。为了实现这一目标，我们必须关注海军技术的革新和海军指挥系统的协调。"
+EDG_mission_LOT_5_33_title:0 "Unify Naval Command"
+EDG_mission_LOT_5_33_desc:0 "With advancements in navigation technology and territorial expansion, the empire has begun to place greater emphasis on maintaining a powerful naval presence. To achieve this goal, we must focus on innovations in naval technology and the coordination of the naval command system."
 
- EDG_mission_LOT_5_34_title:0 "无敌舰队"
- EDG_mission_LOT_5_34_desc:0 "我们的敌人拥有强大的海军力量。为了保护我们的海岸线和人民，[Root.GetName]必须拥有一支伟大的海军，从而超越他们。"
+EDG_mission_LOT_5_34_title:0 "The Invincible Armada"
+EDG_mission_LOT_5_34_desc:0 "Our enemies possess formidable naval power. To protect our coastlines and our people, [Root.GetName] must possess a great navy, one that surpasses theirs."
 
 
  new_mission_title:0 ""

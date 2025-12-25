@@ -1,6 +1,6 @@
 1419.8.22 = {
   monarch = {
-    name =  "博切克 "  # Bocek
+    name =  "Bocek "  # Bocek
     birth_date = 1400.1.1
     adm = 5
     dip = 4

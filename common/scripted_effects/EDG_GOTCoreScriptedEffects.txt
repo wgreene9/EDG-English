@@ -1,6 +1,6 @@
 EDG_GOT_define_klaus_stotbeck = {
 	define_ruler = {
-		name = "克劳斯·斯托特贝克"
+		name = "Klaus St�rtebeker"
 		age = 62
 		adm = 1
 		dip = 6
@@ -13,7 +13,7 @@ EDG_GOT_define_klaus_stotbeck = {
 }
 EDG_GOT_define_flagship_jackdaw = {
 	create_flagship = {
-		name = "寒鸦号"
+		name = "Jackdaw"
 		type = light_ship
 	}
 }

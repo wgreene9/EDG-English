@@ -1,1401 +1,200 @@
 germanic = {
 	EDG_Volga_Germany = { #伏尔加德意志
 		male_names = {
-			"博古斯瓦夫"  # Boguslaw
-			"巴尔尼姆"  # Barnim
-			"奥塔"  # Ota
-			"埃瑞克"  # Eryk
-			"菲利普"  # Filip
-			"弗朗齐歇克"  # Franciszek
-			"扬"  # Jan
-			"弗里德里克"  # Fryderyk
-			"格奥尔格"  # Georg
-			"埃内斯特"  # Ernest
-			"卢德维克"  # Ludwik
-			"阿尔布雷希特"  # Albrecht
-			"阿恩特"  # Arnt
-			"奥古斯特"  # August
-			"伯恩哈德"  # Bernhard
-			"博多"  # Bodo
-			"卡尔"  # Carl
-			"埃米尔"  # Emil
-			"弗里茨"  # Fritz
-			"格哈德"  # Gerhard
-			"古斯塔夫"  # Gustav
-			"哈拉尔德"  # Harald
-			"亨德里克"  # Hendryk
-			"赫伯特"  # Herbert
-			"赫尔曼"  # Hermann
-			"约赫姆"  # Jochem
-			"马克西米利安"  # Maximiliam
-			"莱因霍尔德"  # Reinhold
-			"齐格弗里德"  # Siegfried
-			"沃尔特"  # Walter
-			"威廉"  # Wilhelm
-			"亚历山大"  # Alexander
-			"安杰伊"  # Andrzej
-			"安东尼"  # Antoni
-			"安东尼努斯"  # Antoninus
-			"亚伦"  # Aron
-			"巴尔托什"  # Bartosz
-			"巴塞洛缪斯"  # Bartolomeus
-			"贝德里赫"  # Bedrich
-			"弗雷德里克"  # Frederick
-			"拜普洱穆"  # Bezprzym
-			"布拉泽伊"  # Blazej
-			"布莱泽"  # Blaise
-			"博吉斯拉夫"  # Bogislaw
-			"博赫丹"  # Bohdan
-			"博格丹"  # Bogdan
-			"伯胡米尔"  # Bohumir
-			"博莱斯瓦夫"  # Boleslaw
-			"博莱斯拉夫"  # Boleslav
-			"博里沃"  # Boriwoj
-			"博日约夫"  # Borijov
-			"博齐达尔"  # Bozydar
-			"泰奥达特"  # Theodat
-			"布拉尼米尔"  # Branimir
-			"布拉尼斯拉夫"  # Branislav
-			"布热季斯拉夫"  # Bretislav
-			"布雷季斯劳斯"  # Bretislaus
-			"卡西米尔"  # Casimir
-			"季兹博尔"  # Ctibor
-			"季兹博尔"  # Ctibor
-			"多别斯瓦夫"  # Dobieslaw
-			"德布洛米尔"  # Dobromil
-			"德罗苏克"  # Drosuk
-			"迪特里克"  # Dytryk
-			"蒂埃里"  # Thierry
-			"弗朗齐歇克"  # Frantisek
-			"弗朗西斯"  # Francis
-			"加韦尔"  # Gawel
-			"格热戈日"  # Grzegorz
-			"格雷戈里"  # Gregory
-			"哈维尔"  # Havel
-			"加卢斯"  # Gallus
-			"亚芩蒂"  # Jacenty
-			"海厄森斯"  # Hyacinth
-			"雅各布"  # Jakub
-			"雅库什"  # Jakusz
-			"雅各伯"  # Jacob
-			"雅努什"  # Janusz
-			"约翰"  # John
-			"雅罗马"  # Jaromar
-			"亚罗米尔"  # Jaromil
-			"亚罗米尔"  # Jaromir
-			"雅罗斯拉夫"  # Jaroslav
-			"耶杰"  # Jedrzej
-			"因德日赫"  # Jindrich
-			"亨利"  # Henry
-			"伊日"  # Jirí
-			"乔治"  # George
-			"约瑟夫"  # Jozef
-			"约瑟夫"  # Joseph
-			"尤利乌什"  # Juliusz
-			"尤利安"  # Julian
-			"卡耶坦"  # Kajetan
-			"卡米尔"  # Kamil
-			"卡米卢斯"  # Camillus
-			"卡雷尔"  # Karel
-			"查理"  # Charles
-			"卡斯珀"  # Kasper
-			"卡齐米日"  # Kazimierz
-			"克利缅特"  # Kliment
-			"克莱门特"  # Clement
-			"科尔曼"  # Kolman
-			"科洛曼"  # Koloman
-			"科内尔"  # Kornel
-			"科尼利乌斯"  # Cornelius
-			"克雷希米尔"  # Kresimir
-			"克热斯拉夫"  # Krzeslaw
-			"克日什托夫"  # Krzysztof
-			"克里斯托弗"  # Christopher
-			"列赫"  # Lech
-			"莱谢克"  # Leszek
-			"卢博米尔"  # Lubomir
-			"卢茨扬"  # Lucjan
-			"卢修斯"  # Lucius
-			"卢德维克"  # Ludvik
-			"路易"  # Louis
-			"马雷克"  # Marek
-			"马库斯"  # Marcus
-			"马里安"  # Marian
-			"马里乌斯"  # Marius
-			"马丁"  # Martin
-			"马特乌什"  # Mateusz
-			"马修"  # Matthew
-			"梅什科"  # Mieszko
-			"米科拉什"  # Mikolás
-			"尼古拉斯"  # Nicholas
-			"米罗斯拉夫"  # Miloslaw
-			"米洛什"  # Milosz
-			"米罗斯拉夫"  # Miroslaw
-			"姆斯齐斯拉夫"  # Mscislaw
-			"姆斯季斯拉夫"  # Mstislav
-			"姆斯齐沃伊"  # Msciwoj
-			"奥尔德里希"  # Oldrich
-			"乌尔里希"  # Ulrich
-			"翁德雷"  # Ondrej
-			"安德鲁"  # Andrew
-			"奥托卡尔"  # Otokar
-			"帕特雷克"  # Patryk
-			"帕特里克"  # Patrick
-			"帕维尔"  # Pawel
-			"保罗"  # Paul
-			"彼得"  # Piotr
-			"彼得"  # Peter
-			"普伦多塔"  # Prendota
-			"普热梅希尔"  # Przemysl
-			"普热梅希尔"  # Premysl
-			"普日贝斯拉夫"  # Przybyslaw
-			"拉多米尔"  # Radomil
-			"拉多米尔"  # Radomir
-			"拉多斯拉夫"  # Radoslav
-			"罗斯提斯拉夫"  # Rostislav
-			"雷沙尔德"  # Ryszard
-			"理查德"  # Richard
-			"桑博"  # Sambor
-			"索别斯拉夫"  # Sobieslav
-			"索贝斯劳斯"  # Sobeslaus
-			"斯坦尼斯瓦夫"  # Stanislaw
-			"斯塔兹"  # Strasz
-			"斯维托贝克"  # Swietopelk
-			"斯瓦托普卢克"  # Svatopluk
-			"希温托斯瓦夫"  # Swietoslaw
-			"斯维亚托斯拉夫"  # Sviatoslav
-			"什切潘"  # Szczepan
-			"斯蒂芬"  # Stephen
-			"什琴斯内"  # Szczesny
-			"西蒙"  # Szymon
-			"塔德乌什"  # Tadeusz
-			"泰奥多尔"  # Theodore
-			"托马什"  # Tomasz
-			"托马"  # Thomas
-			"乌达尔里希"  # Udalrich
-			"乌尔亚什"  # Urjasz
-			"沃伊特赫"  # Vojtech
-			"阿尔贝特"  # Albert
-			"瓦茨拉夫"  # Waclaw
-			"瓦伦蒂"  # Walenty
-			"瓦伦丁"  # Valentin
-			"弗拉迪斯拉夫"  # Wratislaw
-			"弗拉季斯拉夫"  # Vratislav
-			"瓦夫日涅茨"  # Wawrzyniec
-			"劳伦斯"  # Laurence
-			"文采斯拉夫"  # Wenceslaw
-			"瓦茨拉夫"  # Vaclav
-			"文岑蒂"  # Wincenty
-			"文森特"  # Vincent
-			"维兹拉"  # Wizlaw
-			"瓦迪斯瓦夫"  # Wladyslaw
-			"沃德克"  # Wlodek
-			"沃洛兹米尔兹"  # Wlodzimierz
-			"沃齐斯瓦夫"  # Wlodzislaw
-			"弗拉迪斯拉夫"  # Wratislaw
-			"兹比格涅夫"  # Zbigniew
-			"兹贝内克"  # Zbynek
-			"兹杰内克"  # Zdenek
-			"基斯拉夫"  # Zdislav
-			"齐格蒙特"  # Zygmunt
-			"西格蒙德"  # Sigmund
-		  }
-		  female_names = {
-			"加布里埃莱"  # Gabriela
-			"海伦娜"  # Helena
-			"雅尼娜"  # Janina
-			"阿格涅什卡"  # Agnieszka
-			"阿格涅丝"  # Agnes
-			"阿尔兹贝塔"  # Alzbeta
-			"安德拉"  # Andela
-			"安娜"  # Anna
-			"贝尔塔"  # Berta
-			"博胡斯拉娃"  # Bohuslava
-			"博热娜"  # Bozena
-			"布拉尼斯拉娃"  # Branislava
-			"达格玛"  # Dagmar
-			"达努塔"  # Danuta
-			"多布拉薇"  # Dobravy
-			"多布罗涅加"  # Dobroniega
-			"多罗塔"  # Dorota
-			"多萝西"  # Dorothy
-			"德拉戈米拉"  # Dragomira
-			"埃迪塔"  # Edyta
-			"埃娃"  # Ewa
-			"盖拉"  # Geira
-			"格尔特露达"  # Gertruda
-			"格特露德"  # Gertrude
-			"格拉齐娅"  # Gracja
-			"格拉齐娜"  # Grazyna
-			"哈利娜"  # Halina
-			"汉娜"  # Hanna
-			"伊蕾娜"  # Irena
-			"伊莎贝拉"  # Izabela
-			"雅德维嘉"  # Jadwiga
-			"雅尔卡"  # Jarka
-			"娅尔米拉"  # Jarmila
-			"约兰塔"  # Jolanta
-			"尤蒂塔"  # Judyta
-			"朱迪丝"  # Judith
-			"卡米拉"  # Kamila
-			"卡塔琳娜"  # Katarina
-			"凯瑟琳"  # Catherine
-			"肯娜"  # Kenna
-			"柯尔奈莉亚"  # Kornelia
-			"克雷斯蒂娜"  # Krystyna
-			"克里斯蒂娜"  # Christina
-			"克塞尼亚"  # Ksenia
-			"莉迪亚"  # Lidia
-			"卢德米拉"  # Ludmila
-			"玛格达"  # Magda
-			"玛格达莱娜"  # Magdalena
-			"玛格达莱娜"  # Magdalena
-			"玛格达莱娜"  # Magdalena
-			"玛尔格扎塔"  # Malgorzata
-			"马塞利娜"  # Marcelina
-			"玛利亚"  # Maria
-			"玛尔凯塔"  # Markéta
-			"马丁娜"  # Martyna
-			"玛捷娅"  # Mateja
-			"玛蒂尔达"  # Matylda
-			"玛蒂尔达"  # Matilda
-			"米列那"  # Milena
-			"米洛斯拉娃"  # Miroslava
-			"佩赫娜"  # Pechna
-			"罗莎"  # Róza
-			"拉多米拉"  # Radomila
-			"拉多米拉"  # Radomira
-			"拉多斯拉娃"  # Radoslava
-			"雷娜"  # Raina
-			"胡杰琳达"  # Regelinda
-			"蕾赫扎"  # Rycheza
-			"萨洛梅娅"  # Salomea
-			"希梅赫娜"  # Smiechna
-			"斯坦尼斯拉娃"  # Stanislava
-			"斯特凡纳"  # Stefana
-			"斯蒂芬妮"  # Stephania
-			"斯维特拉娜"  # Svetlana
-			"乌尔舒拉"  # Urszula
-			"瓦茨拉娃"  # Václava
-			"弗拉迪斯拉娃"  # Vladislava
-			"薇拉"  # Wera
-			"沃伊斯瓦娃"  # Wojslawa
-			"兹德尼卡"  # Zdenka
-			"索菲娅"  # Zofia
-			"兹维尼斯瓦娃"  # Zwinislawa
-		  }
-		  dynasty_names = {
-			"冯 克林科夫"  # von Klinckow
-			"冯 普特卡默"  # von Puttkamer
-			"冯 巴内科夫"  # von Barnekow
-			"冯 施特兰茨"  # von Strantz
-			"格里芬"  # Gryf
-			"维兹拉维"  # Wizlawid
-			"冯 克拉索夫"  # von Krassow
-			"冯 德 兰肯"  # von der Lancken
-			"冯 施里芬"  # von Schlieffen
-			"冯 什未林"  # von Schwerin
-			"冯 舍宁"  # von Schöning
-			"冯 苏姆"  # von Suhm
-			"冯 马尔灿"  # von Maltzahn
-			"冯 贝洛夫"  # von Below
-			"冯 布利克森"  # von Blixen
-			"冯 博尔克"  # von Borcke
-			"冯 布根哈根"  # von Buggenhagen
-			"冯 曼陀菲尔"  # von Manteuffel
-			"冯 科斯万特"  # von Corswant
-			"冯 斯特拉伦海姆"  # von Stralenheim
-			"冯 德维茨"  # von Dewitz
-			"冯 普伦"  # von Preen
-			"冯 波德维尔斯"  # von Podewils
-			"冯 弗莱明"  # von Flemming
-			"冯 普拉滕"  # von Platen
-			"冯 诺伊恩基兴"  # von Neuenkirchen
-			"冯 戈特贝格"  # von Gottberg
-			"冯 哈克维茨"  # von Hackewitz
-			"冯 亨尼希斯"  # von Hennigs
-			"特兰珀"  # Trampe
-			"冯 赫茨贝格"  # von Hertzberg
-			"冯 海登"  # von Heyden
-			"冯 卡梅克"  # von Kameke
-			"冯 克莱斯特"  # von Kleist
-			"纳茨默"  # Natzmer
-			"冯 齐普林"  # von Zepelin
-			"冯 戈斯托夫斯基"  # von Gostowski
-			"冯 瓦肯尼茨"  # von Wakenitz
-			"冯 乌泽多姆"  # von Usedom
-			"图恩"  # Thun
-			"冯 塔登"  # von Thadden
-			"格里菲塔"  # Gryfita
-			"兹 波莫瑞"  # z Pomorza
-			"格日马拉"  # Grzymala
-			"亚斯特热比奇"  # Jastrzebiec
-			"鲁比茨"  # Lubicz
-			"纳莱茨"  # Nalecz
-			"斯拉威卡"  # Slaweka
-			"泽 斯武普斯克"  # ze Slupska
-			"格涅沃什"  # Gniewosz
+			Boguslaw Barnim Ota Eryk Filip Franciszek Jan Fryderyk Georg Ernest 
+			Ludwik Albrecht Arnt August Bernhard Bodo Carl Emil Fritz Gerhard 
+			Gustav Harald Hendryk Herbert Hermann Jochem Maximiliam Reinhold 
+			Siegfried Walter Wilhelm Alexander Andrzej Antoni Antoninus Aron 
+			Bartosz Bartolomeus Bedrich 
+			Frederick Bezprzym Blazej Blaise Bogislaw Bohdan Bogdan Bohumir Boleslaw Boleslav 
+			Boriwoj Borijov Bozydar Theodat Branimir Branislav
+			Bretislav Bretislaus Casimir Ctibor Ctibor Dobieslaw Dobromil Drosuk Dytryk Thierry Frantisek 
+			Francis Gawel Grzegorz Gregory Havel Gallus Jacenty Hyacinth Jakub Jakusz Jacob 
+			Janusz John Jaromar
+			Jaromil Jaromir Jaroslav Jedrzej Jindrich Henry Jirí George Jozef Joseph 
+			Juliusz Julian Kajetan Kamil Camillus Karel Charles Kasper Kazimierz Kliment Clement Kolman 
+			Koloman Kornel Cornelius Kresimir Krzeslaw
+			Krzysztof Christopher Lech Leszek Lubomir Lucjan Lucius Ludvik Louis Marek Marcus Marian Marius 
+			Martin Mateusz Matthew Mieszko Mikolás Nicholas Miloslaw Milosz Miroslaw 
+			Mscislaw Mstislav Msciwoj
+			Oldrich Ulrich Ondrej Andrew Otokar Patryk Patrick Pawel Paul Piotr Peter Prendota Przemysl 
+			Premysl Przybyslaw Radomil Radomir Radoslav Rostislav Ryszard Richard Sambor Sobieslav Sobeslaus 
+			Stanislaw
+			Strasz Swietopelk Svatopluk Swietoslaw Sviatoslav Szczepan Stephen Szczesny Szymon Tadeusz 
+			Theodore Tomasz Thomas Udalrich Urjasz Vojtech Albert Waclaw Walenty Valentin Wratislaw 
+			Vratislav Wawrzyniec Laurence Wenceslaw Vaclav
+			Wincenty Vincent Wizlaw Wladyslaw Wlodek Wlodzimierz Wlodzislaw Wratislaw 
+			Zbigniew Zbynek Zdenek Zdislav Zygmunt Sigmund
 		}
 		female_names = {
-			"加布里埃拉" 	# Gabriela
-			"海伦娜" 	# Helena
-			"雅尼娜" 	# Janina
-			"阿格涅什卡" 	# Agnieszka
-			"阿格涅丝" 	# Agnes
-			"阿尔兹贝塔" 	# Alzbeta
-			"安德拉" 	# Andela
-			"安娜" 	# Anna
-			"贝尔塔" 	# Berta
-			"博胡斯拉娃" 	# Bohuslava
-			"博热娜" 	# Bozena
-			"布拉尼斯拉娃" 	# Branislava
-			"达格玛" 	# Dagmar
-			"达努塔" 	# Danuta
-			"多布拉薇" 	# Dobravy
-			"多布罗涅加" 	# Dobroniega
-			"多罗塔" 	# Dorota
-			"多萝西" 	# Dorothy
-			"德拉戈米拉" 	# Dragomira
-			"埃迪塔" 	# Edyta
-			"埃娃" 	# Ewa
-			"盖拉" 	# Geira
-			"格尔特露达" 	# Gertruda
-			"格特露德" 	# Gertrude
-			"格拉齐娅" 	# Gracja
-			"格拉齐娜" 	# Grazyna
-			"哈利娜" 	# Halina
-			"汉娜" 	# Hanna
-			"伊蕾娜" 	# Irena
-			"伊莎贝拉" 	# Izabela
-			"雅德维嘉" 	# Jadwiga
-			"雅尔卡" 	# Jarka
-			"娅尔米拉" 	# Jarmila
-			"约兰塔" 	# Jolanta
-			"尤蒂塔" 	# Judyta
-			"朱迪丝" 	# Judith
-			"卡米拉" 	# Kamila
-			"卡塔琳娜" 	# Katarina
-			"凯瑟琳" 	# Catherine
-			"肯娜" 	# Kenna
-			"柯尔奈莉亚" 	# Kornelia
-			"克雷斯蒂娜" 	# Krystyna
-			"克里斯蒂娜" 	# Christina
-			"克塞尼亚" 	# Ksenia
-			"莉迪亚" 	# Lidia
-			"卢德米拉" 	# Ludmila
-			"玛格达" 	# Magda
-			"玛格达莱娜" 	# Magdalena
-			"玛格达莱娜" 	# Magdalena
-			"玛格达莱娜" 	# Magdalena
-			"玛尔格扎塔" 	# Malgorzata
-			"马塞利娜" 	# Marcelina
-			"玛利亚" 	# Maria
-			"玛尔凯塔" 	# Markéta
-			"马丁娜" 	# Martyna
-			"玛捷娅" 	# Mateja
-			"玛蒂尔达" 	# Matylda
-			"玛蒂尔达" 	# Matilda
-			"米列那" 	# Milena
-			"米洛斯拉娃" 	# Miroslava
-			"佩赫娜" 	# Pechna
-			"罗莎" 	# Róza
-			"拉多米拉" 	# Radomila
-			"拉多米拉" 	# Radomira
-			"拉多斯拉娃" 	# Radoslava
-			"雷娜" 	# Raina
-			"胡杰琳达" 	# Regelinda
-			"蕾赫扎" 	# Rycheza
-			"萨洛梅娅" 	# Salomea
-			"希梅赫娜" 	# Smiechna
-			"斯坦尼斯拉娃" 	# Stanislava
-			"斯特凡纳" 	# Stefana
-			"斯蒂芬妮" 	# Stephania
-			"斯维特拉娜" 	# Svetlana
-			"乌尔舒拉" 	# Urszula
-			"瓦茨拉娃" 	# Václava
-			"弗拉迪斯拉娃" 	# Vladislava
-			"薇拉" 	# Wera
-			"沃伊斯瓦娃" 	# Wojslawa
-			"兹德尼卡" 	# Zdenka
-			"索菲娅" 	# Zofia
-			"兹维尼斯瓦娃" 	# Zwinislawa
+			Gabriela Helena Janina
+			Agnieszka Agnes Alzbeta Andela Anna Berta Bohuslava Bozena Branislava Dagmar Danuta Dobravy 
+			Dobroniega Dorota Dorothy Dragomira Edyta Ewa Geira Gertruda Gertrude
+			Gracja Grazyna Halina Hanna Irena Izabela Jadwiga Jarka Jarmila Jolanta Judyta Judith Kamila 
+			Katarina Catherine Kenna Kornelia Krystyna Christina Ksenia Lidia
+			Ludmila Magda Magdalena Magdalena Magdalena Malgorzata Marcelina Maria Markéta Martyna 
+			Mateja Matylda Matilda Milena Miroslava Pechna Róza Radomila Radomira Radoslava
+			Raina Regelinda Rycheza Salomea Smiechna Stanislava Stefana Stephania Svetlana Urszula Václava 
+			Vladislava Wera Wojslawa Zdenka Zofia Zwinislawa
 		}
 		dynasty_names = {
-			"冯 克林科夫" 	# von Klinckow
-			"冯 普特卡默" 	# von Puttkamer
-			"冯 巴内科夫" 	# von Barnekow
-			"冯 施特兰茨" 	# von Strantz
-			"格里芬" 	# Gryf
-			"维兹拉维" 	# Wizlawid
-			"冯 克拉索夫" 	# von Krassow
-			"冯 德 兰肯" 	# von der Lancken
-			"冯 施里芬" 	# von Schlieffen
-			"冯 什未林" 	# von Schwerin
-			"冯 舍宁" 	# von Schöning
-			"冯 苏姆" 	# von Suhm
-			"冯 马尔灿" 	# von Maltzahn
-			"冯 贝洛夫" 	# von Below
-			"冯 布利克森" 	# von Blixen
-			"冯 博尔克" 	# von Borcke
-			"冯 布根哈根" 	# von Buggenhagen
-			"冯 曼陀菲尔" 	# von Manteuffel
-			"冯 科斯万特" 	# von Corswant
-			"冯 斯特拉伦海姆" 	# von Stralenheim
-			"冯 德维茨" 	# von Dewitz
-			"冯 普伦" 	# von Preen
-			"冯 波德维尔斯" 	# von Podewils
-			"冯 弗莱明" 	# von Flemming
-			"冯 普拉滕" 	# von Platen
-			"冯 诺伊恩基兴" 	# von Neuenkirchen
-			"冯 戈特贝格" 	# von Gottberg
-			"冯 哈克维茨" 	# von Hackewitz
-			"冯 亨尼希斯" 	# von Hennigs
-			"特兰珀" 	# Trampe
-			"冯 赫茨贝格" 	# von Hertzberg
-			"冯 海登" 	# von Heyden
-			"冯 卡梅克" 	# von Kameke
-			"冯 克莱斯特" 	# von Kleist
-			"纳茨默" 	# Natzmer
-			"冯 齐普林" 	# von Zepelin
-			"冯 戈斯托夫斯基" 	# von Gostowski
-			"冯 瓦肯尼茨" 	# von Wakenitz
-			"冯 乌泽多姆" 	# von Usedom
-			"图恩" 	# Thun
-			"冯 塔登" 	# von Thadden 	# CKII
-			"格里菲塔" 	# Gryfita
-			"兹 波莫瑞" 	# z Pomorza
-			"格日马拉" 	# Grzymala
-			"亚斯特热比奇" 	# Jastrzebiec
-			"鲁比茨" 	# Lubicz
-			"纳莱茨" 	# Nalecz
-			"斯拉威卡" 	# Slaweka
-			"泽 斯武普斯克" 	# ze Slupska
-			"格涅沃什" 	# Gniewosz
+			"von Klinckow" "von Puttkamer" "von Barnekow" "von Strantz" "Gryf" "Wizlawid"
+			"von Krassow" "von der Lancken" "von Schlieffen" "von Schwerin"
+			"von Schöning" "von Suhm" "von Maltzahn" "von Below" "von Blixen" "von Borcke"
+			"von Buggenhagen" "von Manteuffel" "von Corswant" "von Stralenheim" "von Dewitz" "von Preen" "von Podewils"
+			"von Flemming" "von Platen" "von Neuenkirchen" "von Gottberg" "von Hackewitz" "von Hennigs" "Trampe" "von Hertzberg" "von Heyden" "von Kameke" "von Kleist" "Natzmer" 
+			"von Zepelin" "von Gostowski" "von Wakenitz"
+			"von Usedom" "Thun" "von Thadden"
+			#CKII
+			"Gryfita" "z Pomorza" "Grzymala" "Jastrzebiec" "Lubicz" "Nalecz" "Slaweka" "ze Slupska"
+			"Gniewosz"
 		}
 	}
 
 	gothic_ger = { #哥特
 		primary = FEO
 		dynasty_names = {
-			"哥特" 	# of Gothia
-			"加夫拉斯"
-			"科穆宁"
-			"安东尼奥"
-			"查士丁尼"
-			"盖乌斯"
-			"克劳狄"
-		  }
-		  male_names = {
-			"阿莱克修斯" 	# Alexios
-			"约安尼斯" 	# Ioannes
-			"曼努埃尔" 	# Manuel
-			"大卫" 	# David
-			"巴西尔" 	# Basileios
-			"斯坎达里奥斯" 	# Skantarios
-			"安德洛尼科斯" 	# Andronikos
-			"米海尔" 	# Michael
-			"乔治奥斯" 	# Georgios
-			"埃涅阿斯" 	# Aineias
-			"亚里士多德" 	# Aristoteles
-			"巴多罗买" 	# Bartholomaios
-			"克莱山托斯" 	# Chrysanthos
-			"第欧根尼" 	# Diogenes
-			"狄俄尼索斯" 	# Dionysos
-			"埃尔雷奈奥斯" 	# Eirenaios
-			"埃尔皮迪奥斯" 	# Elpidios
-			"格里高利" 	# Gregorios
-			"赫克托" 	# Hektor
-			"伊阿宋" 	# Iason
-			"约瑟夫" 	# Iosephos
-			"卡斯托耳" 	# Kastor
-			"科雷昂" 	# Kreon
-			"马太奥斯" 	# Matthaios
-			"涅斯托耳" 	# Nestor
-			"尼科劳斯" 	# Nikolaos
-			"尼科梅达斯" 	# Nikomedes
-			"奥雷斯特斯" 	# Orestes
-			"帕莱蒙" 	# Palaemon
-			"帕夫洛斯" 	# Pavlos
-			"佩拉吉奥斯" 	# Pelagios
-			"亚历山德罗斯" 	# Alexandros
-			"菲利蒙" 	# Philemon
-			"菲利波斯" 	# Philippos
-			"普罗科皮奥斯" 	# Prokopios
-			"斯特凡诺斯" 	# Stefanos
-			"狄奥多罗斯" 	# Theodoros
-			"提莫修斯" 	# Timotheos
-			"安布罗西奥斯" 	# Ambrosios
-			"佩特罗斯" 	# Petros
-			"赫拉克勒斯" 	# Herakles
-			"赫尔墨斯" 	# Hermes
-			"希波吕托斯" 	# Hippolytos
-			"希帕提奥斯" 	# Hypatios
-			"雅科博斯" 	# Iakobos
-			"雅各布" 	# Jacob
-			"伊格纳提奥斯" 	# Ignatios
-			"伊格那提乌斯" 	# Ignatius
-			"因诺肯提奥斯" 	# Innokentios
-			"约安尼斯" 	# Ioannes
-			"约翰" 	# John
-			"约安尼基奥斯" 	# Ioannikios
-			"约尔达尼斯" 	# Iordanes
-			"约瑟夫" 	# Ioseph
-			"约瑟夫" 	# Joseph
-			"伊萨克" 	# Isaakios
-			"艾赛亚斯" 	# Isaias
-			"伊西多罗斯" 	# Isidoros
-			"尤利亚诺斯" 	# Ioulianos
-			"尤利安" 	# Julian
-			"查士丁尼" 	# Ioustinianos
-			"查士丁尼" 	# Justinian
-			"优士蒂诺斯" 	# Ioustinos
-			"贾斯汀" 	# Justin
-			"凯撒里奥斯" 	# Kaisarios
-			"恺撒" 	# Caesar
-			"卡利尼科斯" 	# Kallinikos
-			"卡里斯托斯" 	# Kallistos
-			"科米塔斯" 	# Komitas
-			"君士坦丁" 	# Konstantinos
-			"君士坦丁" 	# Constantine
-			"君士坦提奥斯" 	# Konstantios
-			"君士坦提乌斯" 	# Constantius
-			"君士坦斯" 	# Konstas
-			"君士坦斯" 	# Constans
-			"科斯马斯" 	# Kosmas
-			"科斯马斯" 	# Cosmas
-			"凯利亚科斯" 	# Kyriakos
-			"西里尔" 	# Kyrillos
-			"西里尔" 	# Cyril
-			"凯罗斯" 	# Kyros
-			"劳伦提奥斯" 	# Laurentios
-			"劳伦斯" 	# Laurence
-			"拉萨罗斯" 	# Lazaros
-			"利昂" 	# Leon
-			"利奥" 	# Leo
-			"利昂提乌斯" 	# Leontios
-			"莱昂提乌斯" 	# Leontius
-			"卢卡斯" 	# Loukas
-			"马卡里奥斯" 	# Makarios
-			"曼努埃尔" 	# Manuel
-			"马科斯" 	# Markos
-			"马库斯" 	# Marcus
-			"马太奥斯" 	# Matthaios
-			"马修" 	# Matthew
-			"玛弗里基奥斯" 	# Maurikios
-			"马克西莫斯" 	# Maximos
-			"马克西姆斯" 	# Maximus
-			"梅吉斯托斯" 	# Megistos
-			"马格努斯" 	# Magnus
-			"马克西莫斯" 	# Meletios
-			"麦托迪" 	# Methodios
-			"米海尔" 	# Michael
-			"米海尔" 	# Michael
-			"纳尔西斯" 	# Narses
-			"尼奥斐托斯" 	# Neophytos
-			"尼基弗鲁斯" 	# Nikephoros
-			"尼基塔斯" 	# Niketas
-			"尼科德莫斯" 	# Nikodemos
-			"尼科劳斯" 	# Nikolaos
-			"尼古拉斯" 	# Nicholas
-			"尼丰" 	# Niphon
-			"奥雷斯特斯" 	# Orestes
-			"帕菲里奥斯" 	# Pamphilios
-			"潘克拉提奥斯" 	# Pankratios
-			"潘托莱昂" 	# Pantoleon
-			"巴斯加" 	# Paschalis
-			"帕夫洛斯" 	# Pavlos
-			"保罗" 	# Paul
-			"佩拉吉奥斯" 	# Pelagios
-			"柏拉奇" 	# Pelagius
-			"佩特罗斯" 	# Petros
-			"彼得" 	# Peter
-			"菲拉雷托斯" 	# Philaretos
-			"菲利波斯" 	# Philippos
-			"菲利普" 	# Philip
-			"菲洛修斯" 	# Philotheos
-			"佛卡斯" 	# Phokas
-			"佛提奥斯" 	# Photios
-			"颇利卡尔普" 	# Polykarpos
-			"波菲琉斯" 	# Porphyrios
-			"普罗科皮奥斯" 	# Prokopios
-			"普罗科匹厄斯" 	# Procopius
-			"皮洛士" 	# Pyrros
-			"拉斐尔" 	# Raphail
-			"罗曼诺斯" 	# Romanos
-			"罗曼" 	# Roman
-			"萨巴斯" 	# Sabas
-			"萨穆埃尔" 	# Samuel
-			"萨穆埃尔" 	# Samuel
-			"谢拉皮翁" 	# Serapion
-			"塞巴斯蒂亚诺斯" 	# Sebastianos
-			"塞巴斯蒂安" 	# Sebastian
-			"塞尔吉奥斯" 	# Sergios
-			"塞尔吉乌斯" 	# Sergius
-			"斯特凡诺斯" 	# Stephanos
-			"斯蒂芬" 	# Stephen
-			"斯陶拉基奥斯" 	# Staurakios
-			"赛米恩" 	# Symeon
-			"西蒙" 	# Simon
-			"席马科斯" 	# Symmachos
-			"西玛克" 	# Symmachus
-			"狄奥查理斯托斯" 	# Theocharistos
-			"狄奥多罗斯" 	# Theodoros
-			"狄奥多尔" 	# Theodore
-			"狄奥多西" 	# Theodosios
-			"狄奥多西" 	# Theodosios
-			"狄奥多托斯" 	# Theodotos
-			"狄奥达特" 	# Theodat
-			"狄奥多洛斯" 	# Theodoulos
-			"提奥克提斯托斯" 	# Theoktistos
-			"狄奥凡内斯" 	# Theophanes
-			"狄奥菲洛斯" 	# Theophilos
-			"狄奥菲拉克托斯" 	# Theophylaktos
-			"托马斯" 	# Thomas
-			"托马斯" 	# Thomas
-			"提比略" 	# Tiberios
-			"提比略" 	# Tiberius
-			"特拉伊诺斯" 	# Traianos
-			"图拉真" 	# Trajan
-			"提莫修斯" 	# Timotheos
-			"特里丰" 	# Tryphon
-			"瓦莱里奥斯" 	# Valerios
-			"瓦勒留" 	# Valerius
-			"撒迦利亚" 	# Zacharias
-			"齐诺比奥斯" 	# Zenobios
-			"芝诺" 	# Zenon
-		  }
-		  female_names = {
-			"阿加佩" 	# Agape
-			"福蒂尼" 	# Photine
-			"索迪里亚" 	# Sotiria
-			"莱昂缇娅" 	# Leontia
-			"玛格丽特" 	# Margarita
-			"玛格丽特" 	# Margaret
-			"玛利亚" 	# Maria
-			"玛利亚" 	# Maria
-			"玛基雅" 	# Markia
-			"玛西娅" 	# Marcia
-			"玛尔塔" 	# Martha
-			"玛尔塔" 	# Martha
-			"梅莉莎" 	# Melissa
-			"梅利桑德" 	# Melisende
-			"妮卡蕾特" 	# Nikarete
-			"妮科蕾塔" 	# Nikoletta
-			"农娜" 	# Nonna
-			"帕西娜" 	# Parthena
-			"帕夫林娜" 	# Pavlina
-			"波琳娜" 	# Paulina
-			"佩拉吉雅" 	# Pelagia
-			"佩托妮" 	# Petronia
-			"佩托妮" 	# Petronia
-			"菲莉帕" 	# Philippa
-			"菲莉帕" 	# Philippa
-			"菲丽丝" 	# Phyllis
-			"普尔喀丽亚" 	# Pulcheria
-			"普尔喀丽亚" 	# Pulcheria
-			"罗丹丝" 	# Rhodanthe
-			"罗玛尼" 	# Romane
-			"罗密莉娅" 	# Romylia
-			"塞尔吉娅" 	# Sergia
-			"塞尔吉娅" 	# Sergia
-			"西比拉" 	# Sibylla
-			"西比拉" 	# Sibylla
-			"西莫妮丝" 	# Simonis
-			"索菲娅" 	# Sophia
-			"索菲娅" 	# Sophia
-			"斯蒂芬妮雅" 	# Stephania
-			"斯蒂芬妮雅" 	# Stephania
-			"狄卡拉" 	# Thekla
-			"狄奥查丽丝特" 	# Theochariste
-			"狄奥多拉" 	# Theodora
-			"狄奥多拉" 	# Theodora
-			"狄奥多西娅" 	# Theodosia
-			"狄奥多西娅" 	# Theodosia
-			"狄奥格诺茜娅" 	# Theognosia
-			"狄奥克提斯特" 	# Theoktiste
-			"狄奥法诺" 	# Theophano
-			"多麦丝" 	# Thomais
-			"瓦莱里亚" 	# Valeria
-			"瓦莱里亚" 	# Valeria
-			"薇薇安娜" 	# Viviana
-			"薇薇安娜" 	# Viviana
-			"茜娜" 	# Xene
-			"塞诺维娅" 	# Zenobia
-		  }
+			"of Gothia"
+			"Gavras"
+			"Komnenos"
+			"Antonius"
+			"Justinian"
+			"Gaius"
+			"Claudius"
+		}
+		male_names = {
+			Alexios Ioannes Manuel David Basileios Skantarios Andronikos Michael Georgios Aineias 
+			Aristoteles Bartholomaios Chrysanthos Diogenes Dionysos Eirenaios Elpidios Gregorios Hektor 
+			Iason Iosephos Kastor Kreon Matthaios Nestor Nikolaos Nikomedes Orestes Palaemon Pavlos 
+			Pelagios Alexandros
+			Philemon Philippos Prokopios Stefanos Theodoros Timotheos Ambrosios Petros Herakles Hermes 
+			Hippolytos Hypatios Iakobos Jacob Ignatios Ignatius Innokentios Ioannes John Ioannikios 
+			Iordanes Ioseph Joseph Isaakios Isaias Isidoros Ioulianos Julian Ioustinianos Justinian 
+			Ioustinos Justin Kaisarios Caesar
+			Kallinikos Kallistos Komitas Konstantinos Constantine Konstantios Constantius Konstas Constans 
+			Kosmas Cosmas Kyriakos Kyrillos Cyril Kyros Laurentios Laurence Lazaros Leon Leo Leontios 
+			Leontius Loukas Makarios Manuel Markos Marcus
+			Matthaios Matthew Maurikios Maximos Maximus Megistos Magnus Meletios Methodios Michael Michael 
+			Narses Neophytos Nikephoros Niketas Nikodemos Nikolaos Nicholas Niphon Orestes Pamphilios 
+			Pankratios Pantoleon Paschalis
+			Pavlos Paul Pelagios Pelagius Petros Peter Philaretos Philippos Philip Philotheos Phokas 
+			Photios Polykarpos Porphyrios Prokopios Procopius Pyrros Raphail Romanos Roman Sabas Samuel 
+			Samuel Serapion Sebastianos Sebastian Sergios Sergius Stephanos Stephen
+			Staurakios Symeon Simon Symmachos Symmachus Theocharistos Theodoros Theodore Theodosios 
+			Theodosios Theodotos Theodat Theodoulos Theoktistos Theophanes Theophilos Theophylaktos Thomas 
+			Thomas Tiberios Tiberius Traianos Trajan
+			Timotheos Tryphon Valerios Valerius Zacharias Zenobios Zenon
+		}
+		female_names = {
+			Agape Photine Sotiria Leontia Margarita Margaret Maria Maria Markia Marcia Martha Martha Melissa Melisende Nikarete 
+			Nikoletta Nonna Parthena Pavlina Paulina Pelagia Petronia Petronia Philippa Philippa Phyllis 
+			Pulcheria Pulcheria Rhodanthe Romane Romylia Sergia Sergia Sibylla Sibylla
+			Simonis Sophia Sophia Stephania Stephania Thekla Theochariste Theodora Theodora Theodosia 
+			Theodosia Theognosia Theoktiste Theophano Thomais Valeria Valeria Viviana Viviana Xene Zenobia 
+		}
 	}  
 
 	EDG_east_german = { #东方德意志
 		male_names = {
-			"博古斯瓦夫"  # Boguslaw
-			"巴尔尼姆"  # Barnim
-			"奥塔"  # Ota
-			"埃瑞克"  # Eryk
-			"菲利普"  # Filip
-			"弗朗齐歇克"  # Franciszek
-			"扬"  # Jan
-			"弗里德里克"  # Fryderyk
-			"格奥尔格"  # Georg
-			"埃内斯特"  # Ernest
-			"卢德维克"  # Ludwik
-			"阿尔布雷希特"  # Albrecht
-			"阿恩特"  # Arnt
-			"奥古斯特"  # August
-			"伯恩哈德"  # Bernhard
-			"博多"  # Bodo
-			"卡尔"  # Carl
-			"埃米尔"  # Emil
-			"弗里茨"  # Fritz
-			"格哈德"  # Gerhard
-			"古斯塔夫"  # Gustav
-			"哈拉尔德"  # Harald
-			"亨德里克"  # Hendryk
-			"赫伯特"  # Herbert
-			"赫尔曼"  # Hermann
-			"约赫姆"  # Jochem
-			"马克西米利安"  # Maximiliam
-			"莱因霍尔德"  # Reinhold
-			"齐格弗里德"  # Siegfried
-			"沃尔特"  # Walter
-			"威廉"  # Wilhelm
-			"亚历山大"  # Alexander
-			"安杰伊"  # Andrzej
-			"安东尼"  # Antoni
-			"安东尼努斯"  # Antoninus
-			"亚伦"  # Aron
-			"巴尔托什"  # Bartosz
-			"巴塞洛缪斯"  # Bartolomeus
-			"贝德里赫"  # Bedrich
-			"弗雷德里克"  # Frederick
-			"拜普洱穆"  # Bezprzym
-			"布拉泽伊"  # Blazej
-			"布莱泽"  # Blaise
-			"博吉斯拉夫"  # Bogislaw
-			"博赫丹"  # Bohdan
-			"博格丹"  # Bogdan
-			"伯胡米尔"  # Bohumir
-			"博莱斯瓦夫"  # Boleslaw
-			"博莱斯拉夫"  # Boleslav
-			"博里沃"  # Boriwoj
-			"博日约夫"  # Borijov
-			"博齐达尔"  # Bozydar
-			"泰奥达特"  # Theodat
-			"布拉尼米尔"  # Branimir
-			"布拉尼斯拉夫"  # Branislav
-			"布热季斯拉夫"  # Bretislav
-			"布雷季斯劳斯"  # Bretislaus
-			"卡西米尔"  # Casimir
-			"季兹博尔"  # Ctibor
-			"季兹博尔"  # Ctibor
-			"多别斯瓦夫"  # Dobieslaw
-			"德布洛米尔"  # Dobromil
-			"德罗苏克"  # Drosuk
-			"迪特里克"  # Dytryk
-			"蒂埃里"  # Thierry
-			"弗朗齐歇克"  # Frantisek
-			"弗朗西斯"  # Francis
-			"加韦尔"  # Gawel
-			"格热戈日"  # Grzegorz
-			"格雷戈里"  # Gregory
-			"哈维尔"  # Havel
-			"加卢斯"  # Gallus
-			"亚芩蒂"  # Jacenty
-			"海厄森斯"  # Hyacinth
-			"雅各布"  # Jakub
-			"雅库什"  # Jakusz
-			"雅各伯"  # Jacob
-			"雅努什"  # Janusz
-			"约翰"  # John
-			"雅罗马"  # Jaromar
-			"亚罗米尔"  # Jaromil
-			"亚罗米尔"  # Jaromir
-			"雅罗斯拉夫"  # Jaroslav
-			"耶杰"  # Jedrzej
-			"因德日赫"  # Jindrich
-			"亨利"  # Henry
-			"伊日"  # Jirí
-			"乔治"  # George
-			"约瑟夫"  # Jozef
-			"约瑟夫"  # Joseph
-			"尤利乌什"  # Juliusz
-			"尤利安"  # Julian
-			"卡耶坦"  # Kajetan
-			"卡米尔"  # Kamil
-			"卡米卢斯"  # Camillus
-			"卡雷尔"  # Karel
-			"查理"  # Charles
-			"卡斯珀"  # Kasper
-			"卡齐米日"  # Kazimierz
-			"克利缅特"  # Kliment
-			"克莱门特"  # Clement
-			"科尔曼"  # Kolman
-			"科洛曼"  # Koloman
-			"科内尔"  # Kornel
-			"科尼利乌斯"  # Cornelius
-			"克雷希米尔"  # Kresimir
-			"克热斯拉夫"  # Krzeslaw
-			"克日什托夫"  # Krzysztof
-			"克里斯托弗"  # Christopher
-			"列赫"  # Lech
-			"莱谢克"  # Leszek
-			"卢博米尔"  # Lubomir
-			"卢茨扬"  # Lucjan
-			"卢修斯"  # Lucius
-			"卢德维克"  # Ludvik
-			"路易"  # Louis
-			"马雷克"  # Marek
-			"马库斯"  # Marcus
-			"马里安"  # Marian
-			"马里乌斯"  # Marius
-			"马丁"  # Martin
-			"马特乌什"  # Mateusz
-			"马修"  # Matthew
-			"梅什科"  # Mieszko
-			"米科拉什"  # Mikolás
-			"尼古拉斯"  # Nicholas
-			"米罗斯拉夫"  # Miloslaw
-			"米洛什"  # Milosz
-			"米罗斯拉夫"  # Miroslaw
-			"姆斯齐斯拉夫"  # Mscislaw
-			"姆斯季斯拉夫"  # Mstislav
-			"姆斯齐沃伊"  # Msciwoj
-			"奥尔德里希"  # Oldrich
-			"乌尔里希"  # Ulrich
-			"翁德雷"  # Ondrej
-			"安德鲁"  # Andrew
-			"奥托卡尔"  # Otokar
-			"帕特雷克"  # Patryk
-			"帕特里克"  # Patrick
-			"帕维尔"  # Pawel
-			"保罗"  # Paul
-			"彼得"  # Piotr
-			"彼得"  # Peter
-			"普伦多塔"  # Prendota
-			"普热梅希尔"  # Przemysl
-			"普热梅希尔"  # Premysl
-			"普日贝斯拉夫"  # Przybyslaw
-			"拉多米尔"  # Radomil
-			"拉多米尔"  # Radomir
-			"拉多斯拉夫"  # Radoslav
-			"罗斯提斯拉夫"  # Rostislav
-			"雷沙尔德"  # Ryszard
-			"理查德"  # Richard
-			"桑博"  # Sambor
-			"索别斯拉夫"  # Sobieslav
-			"索贝斯劳斯"  # Sobeslaus
-			"斯坦尼斯瓦夫"  # Stanislaw
-			"斯塔兹"  # Strasz
-			"斯维托贝克"  # Swietopelk
-			"斯瓦托普卢克"  # Svatopluk
-			"希温托斯瓦夫"  # Swietoslaw
-			"斯维亚托斯拉夫"  # Sviatoslav
-			"什切潘"  # Szczepan
-			"斯蒂芬"  # Stephen
-			"什琴斯内"  # Szczesny
-			"西蒙"  # Szymon
-			"塔德乌什"  # Tadeusz
-			"泰奥多尔"  # Theodore
-			"托马什"  # Tomasz
-			"托马"  # Thomas
-			"乌达尔里希"  # Udalrich
-			"乌尔亚什"  # Urjasz
-			"沃伊特赫"  # Vojtech
-			"阿尔贝特"  # Albert
-			"瓦茨拉夫"  # Waclaw
-			"瓦伦蒂"  # Walenty
-			"瓦伦丁"  # Valentin
-			"弗拉迪斯拉夫"  # Wratislaw
-			"弗拉季斯拉夫"  # Vratislav
-			"瓦夫日涅茨"  # Wawrzyniec
-			"劳伦斯"  # Laurence
-			"文采斯拉夫"  # Wenceslaw
-			"瓦茨拉夫"  # Vaclav
-			"文岑蒂"  # Wincenty
-			"文森特"  # Vincent
-			"维兹拉"  # Wizlaw
-			"瓦迪斯瓦夫"  # Wladyslaw
-			"沃德克"  # Wlodek
-			"沃洛兹米尔兹"  # Wlodzimierz
-			"沃齐斯瓦夫"  # Wlodzislaw
-			"弗拉迪斯拉夫"  # Wratislaw
-			"兹比格涅夫"  # Zbigniew
-			"兹贝内克"  # Zbynek
-			"兹杰内克"  # Zdenek
-			"基斯拉夫"  # Zdislav
-			"齐格蒙特"  # Zygmunt
-			"西格蒙德"  # Sigmund
+			Boguslaw Barnim Ota Eryk Filip Franciszek Jan Fryderyk Georg Ernest 
+			Ludwik Albrecht Arnt August Bernhard Bodo Carl Emil Fritz Gerhard 
+			Gustav Harald Hendryk Herbert Hermann Jochem Maximiliam Reinhold 
+			Siegfried Walter Wilhelm Alexander Andrzej Antoni Antoninus Aron 
+			Bartosz Bartolomeus Bedrich 
+			Frederick Bezprzym Blazej Blaise Bogislaw Bohdan Bogdan Bohumir Boleslaw Boleslav 
+			Boriwoj Borijov Bozydar Theodat Branimir Branislav
+			Bretislav Bretislaus Casimir Ctibor Ctibor Dobieslaw Dobromil Drosuk Dytryk Thierry Frantisek 
+			Francis Gawel Grzegorz Gregory Havel Gallus Jacenty Hyacinth Jakub Jakusz Jacob 
+			Janusz John Jaromar
+			Jaromil Jaromir Jaroslav Jedrzej Jindrich Henry Jirí George Jozef Joseph 
+			Juliusz Julian Kajetan Kamil Camillus Karel Charles Kasper Kazimierz Kliment Clement Kolman 
+			Koloman Kornel Cornelius Kresimir Krzeslaw
+			Krzysztof Christopher Lech Leszek Lubomir Lucjan Lucius Ludvik Louis Marek Marcus Marian Marius 
+			Martin Mateusz Matthew Mieszko Mikolás Nicholas Miloslaw Milosz Miroslaw 
+			Mscislaw Mstislav Msciwoj
+			Oldrich Ulrich Ondrej Andrew Otokar Patryk Patrick Pawel Paul Piotr Peter Prendota Przemysl 
+			Premysl Przybyslaw Radomil Radomir Radoslav Rostislav Ryszard Richard Sambor Sobieslav Sobeslaus 
+			Stanislaw
+			Strasz Swietopelk Svatopluk Swietoslaw Sviatoslav Szczepan Stephen Szczesny Szymon Tadeusz 
+			Theodore Tomasz Thomas Udalrich Urjasz Vojtech Albert Waclaw Walenty Valentin Wratislaw 
+			Vratislav Wawrzyniec Laurence Wenceslaw Vaclav
+			Wincenty Vincent Wizlaw Wladyslaw Wlodek Wlodzimierz Wlodzislaw Wratislaw 
+			Zbigniew Zbynek Zdenek Zdislav Zygmunt Sigmund
 		}
 		female_names = {
-			"加布里埃拉" 	# Gabriela
-			"海伦娜" 	# Helena
-			"雅尼娜" 	# Janina
-			"阿格涅什卡" 	# Agnieszka
-			"阿格涅丝" 	# Agnes
-			"阿尔兹贝塔" 	# Alzbeta
-			"安德拉" 	# Andela
-			"安娜" 	# Anna
-			"贝尔塔" 	# Berta
-			"博胡斯拉娃" 	# Bohuslava
-			"博热娜" 	# Bozena
-			"布拉尼斯拉娃" 	# Branislava
-			"达格玛" 	# Dagmar
-			"达努塔" 	# Danuta
-			"多布拉薇" 	# Dobravy
-			"多布罗涅加" 	# Dobroniega
-			"多罗塔" 	# Dorota
-			"多萝西" 	# Dorothy
-			"德拉戈米拉" 	# Dragomira
-			"埃迪塔" 	# Edyta
-			"埃娃" 	# Ewa
-			"盖拉" 	# Geira
-			"格尔特露达" 	# Gertruda
-			"格特露德" 	# Gertrude
-			"格拉齐娅" 	# Gracja
-			"格拉齐娜" 	# Grazyna
-			"哈利娜" 	# Halina
-			"汉娜" 	# Hanna
-			"伊蕾娜" 	# Irena
-			"伊莎贝拉" 	# Izabela
-			"雅德维嘉" 	# Jadwiga
-			"雅尔卡" 	# Jarka
-			"娅尔米拉" 	# Jarmila
-			"约兰塔" 	# Jolanta
-			"尤蒂塔" 	# Judyta
-			"朱迪丝" 	# Judith
-			"卡米拉" 	# Kamila
-			"卡塔琳娜" 	# Katarina
-			"凯瑟琳" 	# Catherine
-			"肯娜" 	# Kenna
-			"柯尔奈莉亚" 	# Kornelia
-			"克雷斯蒂娜" 	# Krystyna
-			"克里斯蒂娜" 	# Christina
-			"克塞尼亚" 	# Ksenia
-			"莉迪亚" 	# Lidia
-			"卢德米拉" 	# Ludmila
-			"玛格达" 	# Magda
-			"玛格达莱娜" 	# Magdalena
-			"玛格达莱娜" 	# Magdalena
-			"玛格达莱娜" 	# Magdalena
-			"玛尔格扎塔" 	# Malgorzata
-			"马塞利娜" 	# Marcelina
-			"玛利亚" 	# Maria
-			"玛尔凯塔" 	# Markéta
-			"马丁娜" 	# Martyna
-			"玛捷娅" 	# Mateja
-			"玛蒂尔达" 	# Matylda
-			"玛蒂尔达" 	# Matilda
-			"米列那" 	# Milena
-			"米洛斯拉娃" 	# Miroslava
-			"佩赫娜" 	# Pechna
-			"罗莎" 	# Róza
-			"拉多米拉" 	# Radomila
-			"拉多米拉" 	# Radomira
-			"拉多斯拉娃" 	# Radoslava
-			"雷娜" 	# Raina
-			"胡杰琳达" 	# Regelinda
-			"蕾赫扎" 	# Rycheza
-			"萨洛梅娅" 	# Salomea
-			"希梅赫娜" 	# Smiechna
-			"斯坦尼斯拉娃" 	# Stanislava
-			"斯特凡纳" 	# Stefana
-			"斯蒂芬妮" 	# Stephania
-			"斯维特拉娜" 	# Svetlana
-			"乌尔舒拉" 	# Urszula
-			"瓦茨拉娃" 	# Václava
-			"弗拉迪斯拉娃" 	# Vladislava
-			"薇拉" 	# Wera
-			"沃伊斯瓦娃" 	# Wojslawa
-			"兹德尼卡" 	# Zdenka
-			"索菲娅" 	# Zofia
-			"兹维尼斯瓦娃" 	# Zwinislawa
+			Gabriela Helena Janina
+			Agnieszka Agnes Alzbeta Andela Anna Berta Bohuslava Bozena Branislava Dagmar Danuta Dobravy 
+			Dobroniega Dorota Dorothy Dragomira Edyta Ewa Geira Gertruda Gertrude
+			Gracja Grazyna Halina Hanna Irena Izabela Jadwiga Jarka Jarmila Jolanta Judyta Judith Kamila 
+			Katarina Catherine Kenna Kornelia Krystyna Christina Ksenia Lidia
+			Ludmila Magda Magdalena Magdalena Magdalena Malgorzata Marcelina Maria Markéta Martyna 
+			Mateja Matylda Matilda Milena Miroslava Pechna Róza Radomila Radomira Radoslava
+			Raina Regelinda Rycheza Salomea Smiechna Stanislava Stefana Stephania Svetlana Urszula Václava 
+			Vladislava Wera Wojslawa Zdenka Zofia Zwinislawa
 		}
 		dynasty_names = {
-			"冯 克林科夫" 	# von Klinckow
-			"冯 普特卡默" 	# von Puttkamer
-			"冯 巴内科夫" 	# von Barnekow
-			"冯 施特兰茨" 	# von Strantz
-			"格里芬" 	# Gryf
-			"维兹拉维" 	# Wizlawid
-			"冯 克拉索夫" 	# von Krassow
-			"冯 德 兰肯" 	# von der Lancken
-			"冯 施里芬" 	# von Schlieffen
-			"冯 什未林" 	# von Schwerin
-			"冯 舍宁" 	# von Schöning
-			"冯 苏姆" 	# von Suhm
-			"冯 马尔灿" 	# von Maltzahn
-			"冯 贝洛夫" 	# von Below
-			"冯 布利克森" 	# von Blixen
-			"冯 博尔克" 	# von Borcke
-			"冯 布根哈根" 	# von Buggenhagen
-			"冯 曼陀菲尔" 	# von Manteuffel
-			"冯 科斯万特" 	# von Corswant
-			"冯 斯特拉伦海姆" 	# von Stralenheim
-			"冯 德维茨" 	# von Dewitz
-			"冯 普伦" 	# von Preen
-			"冯 波德维尔斯" 	# von Podewils
-			"冯 弗莱明" 	# von Flemming
-			"冯 普拉滕" 	# von Platen
-			"冯 诺伊恩基兴" 	# von Neuenkirchen
-			"冯 戈特贝格" 	# von Gottberg
-			"冯 哈克维茨" 	# von Hackewitz
-			"冯 亨尼希斯" 	# von Hennigs
-			"特兰珀" 	# Trampe
-			"冯 赫茨贝格" 	# von Hertzberg
-			"冯 海登" 	# von Heyden
-			"冯 卡梅克" 	# von Kameke
-			"冯 克莱斯特" 	# von Kleist
-			"纳茨默" 	# Natzmer
-			"冯 齐普林" 	# von Zepelin
-			"冯 戈斯托夫斯基" 	# von Gostowski
-			"冯 瓦肯尼茨" 	# von Wakenitz
-			"冯 乌泽多姆" 	# von Usedom
-			"图恩" 	# Thun
-			"冯 塔登" 	# von Thadden 	# CKII
-			"格里菲塔" 	# Gryfita
-			"兹 波莫瑞" 	# z Pomorza
-			"格日马拉" 	# Grzymala
-			"亚斯特热比奇" 	# Jastrzebiec
-			"鲁比茨" 	# Lubicz
-			"纳莱茨" 	# Nalecz
-			"斯拉威卡" 	# Slaweka
-			"泽 斯武普斯克" 	# ze Slupska
-			"格涅沃什" 	# Gniewosz
+			"von Klinckow" "von Puttkamer" "von Barnekow" "von Strantz" "Gryf" "Wizlawid"
+			"von Krassow" "von der Lancken" "von Schlieffen" "von Schwerin"
+			"von Schöning" "von Suhm" "von Maltzahn" "von Below" "von Blixen" "von Borcke"
+			"von Buggenhagen" "von Manteuffel" "von Corswant" "von Stralenheim" "von Dewitz" "von Preen" "von Podewils"
+			"von Flemming" "von Platen" "von Neuenkirchen" "von Gottberg" "von Hackewitz" "von Hennigs" "Trampe" "von Hertzberg" "von Heyden" "von Kameke" "von Kleist" "Natzmer" 
+			"von Zepelin" "von Gostowski" "von Wakenitz"
+			"von Usedom" "Thun" "von Thadden"
+			#CKII
+			"Gryfita" "z Pomorza" "Grzymala" "Jastrzebiec" "Lubicz" "Nalecz" "Slaweka" "ze Slupska"
+			"Gniewosz"
 		}
 	}
 	
 	EDG_rusland = { #罗斯兰
 		male_names = {
-			"博古斯瓦夫"  # Boguslaw
-			"巴尔尼姆"  # Barnim
-			"奥塔"  # Ota
-			"埃瑞克"  # Eryk
-			"菲利普"  # Filip
-			"弗朗齐歇克"  # Franciszek
-			"扬"  # Jan
-			"弗里德里克"  # Fryderyk
-			"格奥尔格"  # Georg
-			"埃内斯特"  # Ernest
-			"卢德维克"  # Ludwik
-			"阿尔布雷希特"  # Albrecht
-			"阿恩特"  # Arnt
-			"奥古斯特"  # August
-			"伯恩哈德"  # Bernhard
-			"博多"  # Bodo
-			"卡尔"  # Carl
-			"埃米尔"  # Emil
-			"弗里茨"  # Fritz
-			"格哈德"  # Gerhard
-			"古斯塔夫"  # Gustav
-			"哈拉尔德"  # Harald
-			"亨德里克"  # Hendryk
-			"赫伯特"  # Herbert
-			"赫尔曼"  # Hermann
-			"约赫姆"  # Jochem
-			"马克西米利安"  # Maximiliam
-			"莱因霍尔德"  # Reinhold
-			"齐格弗里德"  # Siegfried
-			"沃尔特"  # Walter
-			"威廉"  # Wilhelm
-			"亚历山大"  # Alexander
-			"安杰伊"  # Andrzej
-			"安东尼"  # Antoni
-			"安东尼努斯"  # Antoninus
-			"亚伦"  # Aron
-			"巴尔托什"  # Bartosz
-			"巴塞洛缪斯"  # Bartolomeus
-			"贝德里赫"  # Bedrich
-			"弗雷德里克"  # Frederick
-			"拜普洱穆"  # Bezprzym
-			"布拉泽伊"  # Blazej
-			"布莱泽"  # Blaise
-			"博吉斯拉夫"  # Bogislaw
-			"博赫丹"  # Bohdan
-			"博格丹"  # Bogdan
-			"伯胡米尔"  # Bohumir
-			"博莱斯瓦夫"  # Boleslaw
-			"博莱斯拉夫"  # Boleslav
-			"博里沃"  # Boriwoj
-			"博日约夫"  # Borijov
-			"博齐达尔"  # Bozydar
-			"泰奥达特"  # Theodat
-			"布拉尼米尔"  # Branimir
-			"布拉尼斯拉夫"  # Branislav
-			"布热季斯拉夫"  # Bretislav
-			"布雷季斯劳斯"  # Bretislaus
-			"卡西米尔"  # Casimir
-			"季兹博尔"  # Ctibor
-			"季兹博尔"  # Ctibor
-			"多别斯瓦夫"  # Dobieslaw
-			"德布洛米尔"  # Dobromil
-			"德罗苏克"  # Drosuk
-			"迪特里克"  # Dytryk
-			"蒂埃里"  # Thierry
-			"弗朗齐歇克"  # Frantisek
-			"弗朗西斯"  # Francis
-			"加韦尔"  # Gawel
-			"格热戈日"  # Grzegorz
-			"格雷戈里"  # Gregory
-			"哈维尔"  # Havel
-			"加卢斯"  # Gallus
-			"亚芩蒂"  # Jacenty
-			"海厄森斯"  # Hyacinth
-			"雅各布"  # Jakub
-			"雅库什"  # Jakusz
-			"雅各伯"  # Jacob
-			"雅努什"  # Janusz
-			"约翰"  # John
-			"雅罗马"  # Jaromar
-			"亚罗米尔"  # Jaromil
-			"亚罗米尔"  # Jaromir
-			"雅罗斯拉夫"  # Jaroslav
-			"耶杰"  # Jedrzej
-			"因德日赫"  # Jindrich
-			"亨利"  # Henry
-			"伊日"  # Jirí
-			"乔治"  # George
-			"约瑟夫"  # Jozef
-			"约瑟夫"  # Joseph
-			"尤利乌什"  # Juliusz
-			"尤利安"  # Julian
-			"卡耶坦"  # Kajetan
-			"卡米尔"  # Kamil
-			"卡米卢斯"  # Camillus
-			"卡雷尔"  # Karel
-			"查理"  # Charles
-			"卡斯珀"  # Kasper
-			"卡齐米日"  # Kazimierz
-			"克利缅特"  # Kliment
-			"克莱门特"  # Clement
-			"科尔曼"  # Kolman
-			"科洛曼"  # Koloman
-			"科内尔"  # Kornel
-			"科尼利乌斯"  # Cornelius
-			"克雷希米尔"  # Kresimir
-			"克热斯拉夫"  # Krzeslaw
-			"克日什托夫"  # Krzysztof
-			"克里斯托弗"  # Christopher
-			"列赫"  # Lech
-			"莱谢克"  # Leszek
-			"卢博米尔"  # Lubomir
-			"卢茨扬"  # Lucjan
-			"卢修斯"  # Lucius
-			"卢德维克"  # Ludvik
-			"路易"  # Louis
-			"马雷克"  # Marek
-			"马库斯"  # Marcus
-			"马里安"  # Marian
-			"马里乌斯"  # Marius
-			"马丁"  # Martin
-			"马特乌什"  # Mateusz
-			"马修"  # Matthew
-			"梅什科"  # Mieszko
-			"米科拉什"  # Mikolás
-			"尼古拉斯"  # Nicholas
-			"米罗斯拉夫"  # Miloslaw
-			"米洛什"  # Milosz
-			"米罗斯拉夫"  # Miroslaw
-			"姆斯齐斯拉夫"  # Mscislaw
-			"姆斯季斯拉夫"  # Mstislav
-			"姆斯齐沃伊"  # Msciwoj
-			"奥尔德里希"  # Oldrich
-			"乌尔里希"  # Ulrich
-			"翁德雷"  # Ondrej
-			"安德鲁"  # Andrew
-			"奥托卡尔"  # Otokar
-			"帕特雷克"  # Patryk
-			"帕特里克"  # Patrick
-			"帕维尔"  # Pawel
-			"保罗"  # Paul
-			"彼得"  # Piotr
-			"彼得"  # Peter
-			"普伦多塔"  # Prendota
-			"普热梅希尔"  # Przemysl
-			"普热梅希尔"  # Premysl
-			"普日贝斯拉夫"  # Przybyslaw
-			"拉多米尔"  # Radomil
-			"拉多米尔"  # Radomir
-			"拉多斯拉夫"  # Radoslav
-			"罗斯提斯拉夫"  # Rostislav
-			"雷沙尔德"  # Ryszard
-			"理查德"  # Richard
-			"桑博"  # Sambor
-			"索别斯拉夫"  # Sobieslav
-			"索贝斯劳斯"  # Sobeslaus
-			"斯坦尼斯瓦夫"  # Stanislaw
-			"斯塔兹"  # Strasz
-			"斯维托贝克"  # Swietopelk
-			"斯瓦托普卢克"  # Svatopluk
-			"希温托斯瓦夫"  # Swietoslaw
-			"斯维亚托斯拉夫"  # Sviatoslav
-			"什切潘"  # Szczepan
-			"斯蒂芬"  # Stephen
-			"什琴斯内"  # Szczesny
-			"西蒙"  # Szymon
-			"塔德乌什"  # Tadeusz
-			"泰奥多尔"  # Theodore
-			"托马什"  # Tomasz
-			"托马"  # Thomas
-			"乌达尔里希"  # Udalrich
-			"乌尔亚什"  # Urjasz
-			"沃伊特赫"  # Vojtech
-			"阿尔贝特"  # Albert
-			"瓦茨拉夫"  # Waclaw
-			"瓦伦蒂"  # Walenty
-			"瓦伦丁"  # Valentin
-			"弗拉迪斯拉夫"  # Wratislaw
-			"弗拉季斯拉夫"  # Vratislav
-			"瓦夫日涅茨"  # Wawrzyniec
-			"劳伦斯"  # Laurence
-			"文采斯拉夫"  # Wenceslaw
-			"瓦茨拉夫"  # Vaclav
-			"文岑蒂"  # Wincenty
-			"文森特"  # Vincent
-			"维兹拉"  # Wizlaw
-			"瓦迪斯瓦夫"  # Wladyslaw
-			"沃德克"  # Wlodek
-			"沃洛兹米尔兹"  # Wlodzimierz
-			"沃齐斯瓦夫"  # Wlodzislaw
-			"弗拉迪斯拉夫"  # Wratislaw
-			"兹比格涅夫"  # Zbigniew
-			"兹贝内克"  # Zbynek
-			"兹杰内克"  # Zdenek
-			"基斯拉夫"  # Zdislav
-			"齐格蒙特"  # Zygmunt
-			"西格蒙德"  # Sigmund
+			Boguslaw Barnim Ota Eryk Filip Franciszek Jan Fryderyk Georg Ernest 
+			Ludwik Albrecht Arnt August Bernhard Bodo Carl Emil Fritz Gerhard 
+			Gustav Harald Hendryk Herbert Hermann Jochem Maximiliam Reinhold 
+			Siegfried Walter Wilhelm Alexander Andrzej Antoni Antoninus Aron 
+			Bartosz Bartolomeus Bedrich 
+			Frederick Bezprzym Blazej Blaise Bogislaw Bohdan Bogdan Bohumir Boleslaw Boleslav 
+			Boriwoj Borijov Bozydar Theodat Branimir Branislav
+			Bretislav Bretislaus Casimir Ctibor Ctibor Dobieslaw Dobromil Drosuk Dytryk Thierry Frantisek 
+			Francis Gawel Grzegorz Gregory Havel Gallus Jacenty Hyacinth Jakub Jakusz Jacob 
+			Janusz John Jaromar
+			Jaromil Jaromir Jaroslav Jedrzej Jindrich Henry Jirí George Jozef Joseph 
+			Juliusz Julian Kajetan Kamil Camillus Karel Charles Kasper Kazimierz Kliment Clement Kolman 
+			Koloman Kornel Cornelius Kresimir Krzeslaw
+			Krzysztof Christopher Lech Leszek Lubomir Lucjan Lucius Ludvik Louis Marek Marcus Marian Marius 
+			Martin Mateusz Matthew Mieszko Mikolás Nicholas Miloslaw Milosz Miroslaw 
+			Mscislaw Mstislav Msciwoj
+			Oldrich Ulrich Ondrej Andrew Otokar Patryk Patrick Pawel Paul Piotr Peter Prendota Przemysl 
+			Premysl Przybyslaw Radomil Radomir Radoslav Rostislav Ryszard Richard Sambor Sobieslav Sobeslaus 
+			Stanislaw
+			Strasz Swietopelk Svatopluk Swietoslaw Sviatoslav Szczepan Stephen Szczesny Szymon Tadeusz 
+			Theodore Tomasz Thomas Udalrich Urjasz Vojtech Albert Waclaw Walenty Valentin Wratislaw 
+			Vratislav Wawrzyniec Laurence Wenceslaw Vaclav
+			Wincenty Vincent Wizlaw Wladyslaw Wlodek Wlodzimierz Wlodzislaw Wratislaw 
+			Zbigniew Zbynek Zdenek Zdislav Zygmunt Sigmund
 		}
 		female_names = {
-			"加布里埃拉" 	# Gabriela
-			"海伦娜" 	# Helena
-			"雅尼娜" 	# Janina
-			"阿格涅什卡" 	# Agnieszka
-			"阿格涅丝" 	# Agnes
-			"阿尔兹贝塔" 	# Alzbeta
-			"安德拉" 	# Andela
-			"安娜" 	# Anna
-			"贝尔塔" 	# Berta
-			"博胡斯拉娃" 	# Bohuslava
-			"博热娜" 	# Bozena
-			"布拉尼斯拉娃" 	# Branislava
-			"达格玛" 	# Dagmar
-			"达努塔" 	# Danuta
-			"多布拉薇" 	# Dobravy
-			"多布罗涅加" 	# Dobroniega
-			"多罗塔" 	# Dorota
-			"多萝西" 	# Dorothy
-			"德拉戈米拉" 	# Dragomira
-			"埃迪塔" 	# Edyta
-			"埃娃" 	# Ewa
-			"盖拉" 	# Geira
-			"格尔特露达" 	# Gertruda
-			"格特露德" 	# Gertrude
-			"格拉齐娅" 	# Gracja
-			"格拉齐娜" 	# Grazyna
-			"哈利娜" 	# Halina
-			"汉娜" 	# Hanna
-			"伊蕾娜" 	# Irena
-			"伊莎贝拉" 	# Izabela
-			"雅德维嘉" 	# Jadwiga
-			"雅尔卡" 	# Jarka
-			"娅尔米拉" 	# Jarmila
-			"约兰塔" 	# Jolanta
-			"尤蒂塔" 	# Judyta
-			"朱迪丝" 	# Judith
-			"卡米拉" 	# Kamila
-			"卡塔琳娜" 	# Katarina
-			"凯瑟琳" 	# Catherine
-			"肯娜" 	# Kenna
-			"柯尔奈莉亚" 	# Kornelia
-			"克雷斯蒂娜" 	# Krystyna
-			"克里斯蒂娜" 	# Christina
-			"克塞尼亚" 	# Ksenia
-			"莉迪亚" 	# Lidia
-			"卢德米拉" 	# Ludmila
-			"玛格达" 	# Magda
-			"玛格达莱娜" 	# Magdalena
-			"玛格达莱娜" 	# Magdalena
-			"玛格达莱娜" 	# Magdalena
-			"玛尔格扎塔" 	# Malgorzata
-			"马塞利娜" 	# Marcelina
-			"玛利亚" 	# Maria
-			"玛尔凯塔" 	# Markéta
-			"马丁娜" 	# Martyna
-			"玛捷娅" 	# Mateja
-			"玛蒂尔达" 	# Matylda
-			"玛蒂尔达" 	# Matilda
-			"米列那" 	# Milena
-			"米洛斯拉娃" 	# Miroslava
-			"佩赫娜" 	# Pechna
-			"罗莎" 	# Róza
-			"拉多米拉" 	# Radomila
-			"拉多米拉" 	# Radomira
-			"拉多斯拉娃" 	# Radoslava
-			"雷娜" 	# Raina
-			"胡杰琳达" 	# Regelinda
-			"蕾赫扎" 	# Rycheza
-			"萨洛梅娅" 	# Salomea
-			"希梅赫娜" 	# Smiechna
-			"斯坦尼斯拉娃" 	# Stanislava
-			"斯特凡纳" 	# Stefana
-			"斯蒂芬妮" 	# Stephania
-			"斯维特拉娜" 	# Svetlana
-			"乌尔舒拉" 	# Urszula
-			"瓦茨拉娃" 	# Václava
-			"弗拉迪斯拉娃" 	# Vladislava
-			"薇拉" 	# Wera
-			"沃伊斯瓦娃" 	# Wojslawa
-			"兹德尼卡" 	# Zdenka
-			"索菲娅" 	# Zofia
-			"兹维尼斯瓦娃" 	# Zwinislawa
+			Gabriela Helena Janina
+			Agnieszka Agnes Alzbeta Andela Anna Berta Bohuslava Bozena Branislava Dagmar Danuta Dobravy 
+			Dobroniega Dorota Dorothy Dragomira Edyta Ewa Geira Gertruda Gertrude
+			Gracja Grazyna Halina Hanna Irena Izabela Jadwiga Jarka Jarmila Jolanta Judyta Judith Kamila 
+			Katarina Catherine Kenna Kornelia Krystyna Christina Ksenia Lidia
+			Ludmila Magda Magdalena Magdalena Magdalena Malgorzata Marcelina Maria Markéta Martyna 
+			Mateja Matylda Matilda Milena Miroslava Pechna Róza Radomila Radomira Radoslava
+			Raina Regelinda Rycheza Salomea Smiechna Stanislava Stefana Stephania Svetlana Urszula Václava 
+			Vladislava Wera Wojslawa Zdenka Zofia Zwinislawa
 		}
 		dynasty_names = {
-			"冯 克林科夫" 	# von Klinckow
-			"冯 普特卡默" 	# von Puttkamer
-			"冯 巴内科夫" 	# von Barnekow
-			"冯 施特兰茨" 	# von Strantz
-			"格里芬" 	# Gryf
-			"维兹拉维" 	# Wizlawid
-			"冯 克拉索夫" 	# von Krassow
-			"冯 德 兰肯" 	# von der Lancken
-			"冯 施里芬" 	# von Schlieffen
-			"冯 什未林" 	# von Schwerin
-			"冯 舍宁" 	# von Schöning
-			"冯 苏姆" 	# von Suhm
-			"冯 马尔灿" 	# von Maltzahn
-			"冯 贝洛夫" 	# von Below
-			"冯 布利克森" 	# von Blixen
-			"冯 博尔克" 	# von Borcke
-			"冯 布根哈根" 	# von Buggenhagen
-			"冯 曼陀菲尔" 	# von Manteuffel
-			"冯 科斯万特" 	# von Corswant
-			"冯 斯特拉伦海姆" 	# von Stralenheim
-			"冯 德维茨" 	# von Dewitz
-			"冯 普伦" 	# von Preen
-			"冯 波德维尔斯" 	# von Podewils
-			"冯 弗莱明" 	# von Flemming
-			"冯 普拉滕" 	# von Platen
-			"冯 诺伊恩基兴" 	# von Neuenkirchen
-			"冯 戈特贝格" 	# von Gottberg
-			"冯 哈克维茨" 	# von Hackewitz
-			"冯 亨尼希斯" 	# von Hennigs
-			"特兰珀" 	# Trampe
-			"冯 赫茨贝格" 	# von Hertzberg
-			"冯 海登" 	# von Heyden
-			"冯 卡梅克" 	# von Kameke
-			"冯 克莱斯特" 	# von Kleist
-			"纳茨默" 	# Natzmer
-			"冯 齐普林" 	# von Zepelin
-			"冯 戈斯托夫斯基" 	# von Gostowski
-			"冯 瓦肯尼茨" 	# von Wakenitz
-			"冯 乌泽多姆" 	# von Usedom
-			"图恩" 	# Thun
-			"冯 塔登" 	# von Thadden 	# CKII
-			"格里菲塔" 	# Gryfita
-			"兹 波莫瑞" 	# z Pomorza
-			"格日马拉" 	# Grzymala
-			"亚斯特热比奇" 	# Jastrzebiec
-			"鲁比茨" 	# Lubicz
-			"纳莱茨" 	# Nalecz
-			"斯拉威卡" 	# Slaweka
-			"泽 斯武普斯克" 	# ze Slupska
-			"格涅沃什" 	# Gniewosz
+			"von Klinckow" "von Puttkamer" "von Barnekow" "von Strantz" "Gryf" "Wizlawid"
+			"von Krassow" "von der Lancken" "von Schlieffen" "von Schwerin"
+			"von Schöning" "von Suhm" "von Maltzahn" "von Below" "von Blixen" "von Borcke"
+			"von Buggenhagen" "von Manteuffel" "von Corswant" "von Stralenheim" "von Dewitz" "von Preen" "von Podewils"
+			"von Flemming" "von Platen" "von Neuenkirchen" "von Gottberg" "von Hackewitz" "von Hennigs" "Trampe" "von Hertzberg" "von Heyden" "von Kameke" "von Kleist" "Natzmer" 
+			"von Zepelin" "von Gostowski" "von Wakenitz"
+			"von Usedom" "Thun" "von Thadden"
+			#CKII
+			"Gryfita" "z Pomorza" "Grzymala" "Jastrzebiec" "Lubicz" "Nalecz" "Slaweka" "ze Slupska"
+			"Gniewosz"
 		}
 	}
 }

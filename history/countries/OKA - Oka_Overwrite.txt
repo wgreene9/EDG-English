@@ -1,8 +1,8 @@
 1427.1.1 = {
   monarch = {
-    name = "伊凡"  # Ivan
+    name = "Ivan"  # Ivan
     religion = orthodox
-    dynasty = "奥利戈维奇"  # Rurikovich
+    dynasty = "Olegovich"  # Rurikovich
     adm = 2
     dip = 3
     mil = 2
@@ -12,9 +12,9 @@
 }
 1443.10.1 = {
   monarch = {
-    name = "安德烈"
+    name = "Andrei"
     religion = EDG_Bogomili
-    dynasty = "奥卡斯基"
+    dynasty = "Okásky"
     adm = 3
     dip = 6
     mil = 4
@@ -24,7 +24,7 @@
 #  heir = {
 #    name = "谢苗"  # Semen
 #    monarch_name = "谢苗"  # Semen
-#    dynasty = "奥利戈维奇"  # Rurikovich
+#    dynasty = "Olegovich"  # Rurikovich
 #    birth_date = 1427.1.1
 #    death_date = 1473.1.1
 #    claim = 95
@@ -36,7 +36,7 @@
 #1459.1.1 = {
 #  monarch = {
 #    name = "谢苗"  # Semen
-#    dynasty = "奥利戈维奇"  # Rurikovich
+#    dynasty = "Olegovich"  # Rurikovich
 #    adm = 1
 #    dip = 1
 #    mil = 2
@@ -46,7 +46,7 @@
 #  heir = {
 #    name = "伊凡"  # Ivan
 #    monarch_name = "伊凡"  # Ivan
-#    dynasty = "奥利戈维奇"  # Rurikovich
+#    dynasty = "Olegovich"  # Rurikovich
 #    birth_date = 1459.1.1
 #    death_date = 1508.1.1
 #    claim = 95
@@ -58,7 +58,7 @@
 #1470.1.1 = {
 #  monarch = {
 #    name = "伊凡"  # Ivan
-#    dynasty = "奥利戈维奇"  # Rurikovich
+#    dynasty = "Olegovich"  # Rurikovich
 #    adm = 2
 #    dip = 1
 #    mil = 2
@@ -68,7 +68,7 @@
 #  heir = {
 #    name = "罗曼"  # Roman
 #    monarch_name = "罗曼"  # Roman
-#    dynasty = "奥利戈维奇"  # Rurikovich
+#    dynasty = "Olegovich"  # Rurikovich
 #    birth_date = 1470.1.1
 #    death_date = 1550.1.1
 #    claim = 95

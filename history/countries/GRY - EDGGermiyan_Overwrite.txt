@@ -1,15 +1,7 @@
-change_estate_land_share = {
-  estate = estate_church
-  share = -10
-}
-change_estate_land_share = {
-  estate = estate_nobles
-  share = 10
-}
 1444.1.1 = {
   monarch = {
-    name = "æåææ¬£ II"  # Mehmed II Fatih
-    dynasty = "æ ¼å°ç±³æ¬å¥¥å¢"  # Osmanoglu
+    name = "Ibrahim II"  # Mehmed II Fatih
+    dynasty = "Germiyanoglu"  # Osmanoglu
     birth_date = 1412.3.30
     adm = 3
     dip = 2

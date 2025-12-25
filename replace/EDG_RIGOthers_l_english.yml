@@ -567,7 +567,7 @@ desc_rig_an_unexpected_war:0 "普斯科夫的突然起义打破了我们的战�
  rig_declar_war_with_all_word_title:0 "@RIG §Y天堂攻势§!"
  rig_declar_war_with_all_word_desc:0 "一切传统的战争都将在我们伟大的目标面前黯然失色，为了达到我们最，这是必须的战争方式！"
  rig_declar_war_with_all_word_tooltip:0 "§Y我们将对所有未与我们结盟的国家宣战§!"
- rig_construction_EDG_Ruins_Gate_title:0 "@RIG 建设§Y归墟之门§!"
+ rig_construction_EDG_Ruins_Gate_title:0 "@RIG 建设§YEntrance to the Desolate Ground§!"
  rig_construction_EDG_Ruins_Gate_desc:0 ""
  
 
@@ -1014,9 +1014,9 @@ desc_rig_an_unexpected_war:0 "普斯科夫的突然起义打破了我们的战�
  riga_hall_of_representatives_of_the_people_and_diocese_of_riga:0 "里加主教区代表大会会堂"
  riga_hall_of_representatives_of_the_people_and_diocese_of_riga_title:0 "里加主教区代表大会会堂"
  great_project_riga_hall_of_representatives_of_the_people_and_diocese_of_riga:0 "里加主教区代表大会会堂"
- EDG_Ruins_Gate:0 "归墟之门"
- EDG_Ruins_Gate_title:0 "归墟之门"
- great_project_EDG_Ruins_Gate:0 "归墟之门"
+ EDG_Ruins_Gate:0 "Entrance to the Desolate Ground"
+ EDG_Ruins_Gate_title:0 "Entrance to the Desolate Ground"
+ great_project_EDG_Ruins_Gate:0 "Entrance to the Desolate Ground"
  EDG_Ruins_Gate.tier_1:0 "§R乐园的大门因我的敲击而缓缓打开\n\n我自终末而来，我并无留恋，只是在此驻足\n\n我就是那个点燃希望之灯，面对世界之人\n\n我会将那最美妙的，无比璀璨的道路展现在你们面前§!"
  EDG_Ruins_Gate.tier_2:0 "§R我的门徒，受我祝福之人\n\n一旦你们追随我的步伐，并找到了我\n\n那就意味着你们已经远离了邪恶之道\n\n到了那一天，我会降临到你们生活的大地之上\n\n而你们的罪孽将由我一手赦宥§!"
  EDG_Ruins_Gate.tier_3:0 "§R时机已然成熟，古老的钟声再度响彻\n\n全新的世界即将来临\n\n起来吧，我的仆从，欢唱着迎接我的到来\n\n我乃死，我乃生。我为暗，我亦为光！§!"

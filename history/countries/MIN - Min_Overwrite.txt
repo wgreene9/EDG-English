@@ -1,7 +1,7 @@
 1439.1.1 = {
   monarch = {
-    name = "若霖"  # Qara Yusuf
-    dynasty = "林"  # duan
+    name = "Ruolin"  # Qara Yusuf
+    dynasty = "Lin"  # duan
     birth_date = 1420.1.1
     adm = 6
     dip = 5

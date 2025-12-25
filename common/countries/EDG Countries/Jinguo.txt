@@ -33,152 +33,97 @@ historical_units = {
   reformed_steppe_rifles
 }
 monarch_names = {
-  "布뿯½^里雍¿½ #1" = 10  # Bukuri Yongson #1
-  "뿯½ï¿½督孟特穆 #1" = 10  # Dudu Mengtemu #1
-  "充뿯½U #0" = 10  # Cungsan #0
-  "뿯½Y罗 #0" = 10  # Tolo #0
-  "¿½죯½R¿½죯½r뿯½S #0" = 10  # Sibeoci Fiyanggu #0
-  "뿯½y뿯½n #0" = 10  # Fuman #0
-  "觉昌죯½R #0" = 10  # Giocangga #0
-  "塔克世 #0" = 20  # Taksi #0
-  "뿯½R尔뿯½T¿½ #0" = 20  # Nurhachi #0
-  "뿯½v太뿯½g #0" = 20  # Huang Taiji #0
-  "多尔¿½ #0" = 10  # Dorgon #0
-  "¿½格 #0" = 10  # Hooge #0
-  "뿯½y临 #0" = 20  # Fulin #0
-  "뿯½s뿯½p #0" = 20  # Hiowan Yei #0
-  "죯½w뿯½y #0" = 20  # In Jen #0
-  "弘뿯½S #0" = 20  # Hung Li #0
-  "뿯½ï¿½琰 #0" = 20  # Yong Yan #0
-  "뿯½e죯½R #0" = 20  # Min Ning #0
-  "뿯½Q죯½R #0" = 10  # Fanca #0
-  "¿½格尔 #0" = 10  # Hoogle #0
-  "죯½w뿯½y #0" = 10  # Yinzhi #0
-  "죯½w礽 #0" = 10  # Yinreng #0
-  "죯½w뿯½y #0" = 10  # Yinti #0
-  "뿯½N뿯½U #0" = 5  # Daisan #0
-  "¿½죯½T뿯½l #0" = 5  # Abatai #0
-  "¿½济格 #0" = 5  # Ajige #0
-  "多铎 #0" = 5  # Dodo #0
-  "죯½w祥 #0" = 5  # Yinxiang #0
-  "죯½w뿯½y #0" = 5  # Yinsi #0
-  "죯½w뿯½y #0" = 5  # Yintang #0
-  "弘뿯½e #0" = 5  # Hongshi #0
-  "弘昼 #0" = 5  # Hongzhou #0
-  "永琪 #0" = 5  # Yongqi #0
-  "뿯½T¿½ #0" = -5  # Hejing #0
-  "뿯½T嘉 #0" = -5  # Hejia #0
-  "뿯½T孝 #0" = -5  # Hexiao #0
-  "뿯½^¿½ #0" = -5  # Zhuangjing #0
-  "¿½克占 #0" = 0  # Akjan #0
-  "¿½彦 #0" = 0  # Ayan #0
-  "죯½R琥 #0" = 0  # Baohu #0
-  "承뿡½ï¿½ #0" = 0  # Chengjun #0
-  "多尔济죯½V #0" = 0  # Dorgide #0
-  "뿯½ï¿½뿯½T #0" = 0  # Eje #0
-  "恩죡½V뿯½N #0" = 0  # Encehen #0
-  "¿½뿯½ï¿½ #0" = 0  # Fisin #0
-  "뿯½y뿯½y #0" = 0  # Fulu #0
-  "甘뿯½R #0" = 0  # Ganyong #0
-  "甘뿯½w #0" = 0  # Ganzhan #0
-  "乎죯½R #0" = 0  # Hurong #0
-  "札布뿯½U #0" = 0  # Jabsan #0
-  "札克丹 #0" = 0  # Jakdan #0
-  "乐礼 #0" = 0  # Leli #0
-  "乐뿯½N #0" = 0  # Liyi #0
-  "뿯½ï¿½ #0" = 10  # Lung #0
-  "뿯½X尔根 #0" = 0  # Mergen #0
-  "穆뿯½ï¿½里 #0" = 0  # Muduri #0
-  "穆津 #0" = 0  # Mujin #0
-  "뿯½e里 #0" = 0  # Oori #0
-  "剌뿯½ #0" = 0  # Radi #0
-  "塔뿯½R뿯½n #0" = 0  # Talman #0
-  "倭뿯½T #0" = 0  # Wehe #0
-  "耶죯½V #0" = 0  # Yelu #0
-  "永¿½ #0" = 0  # Yongyi #0
-  "뿯½z格 #0" = 0  # Zhanhung #0
-  "正琥 #0" = 0  # Zhenghu #0
-  "正¿½ #0" = 0  # Zhengrong #0
-  "뿯½N承 #0" = 0  # Zhongcheng #0
-  "뿯½N죯½u #0" = 0  # Zhongchun #0
-  "뿯½N뿯½W #0" = 0  # Zhongho #0
-  "뿯½N¿½ #0" = 0  # Zhonghu #0
-  "뿯½N뿯½s #0" = 0  # Zhonghung #0
-  "뿯½N¿½ #0" = 0  # Zongqian #0
-  "뿯½N先 #0" = 0  # Zhongxian #0
-  "뿯½N雍 #0" = 0  # Zhongyong #0
-  "뿯½ï¿½뿯½k #0" = 0  # Zhongyu #0
-  "뿡½l #0" = -1  # Fen #0
-  "季죯½R #0" = -1  # Jian #0
-  "温 #0" = -1  # Wen #0
+	"Bukuri Yongson #1" = 10
+	"Dudu Mengtemu #1" = 10
+	"Cungsan #0" = 10
+	"Tolo #0" = 10
+	"Sibeoci Fiyanggu #0" = 10	
+	"Fuman #0" = 10
+	"Giocangga #0" = 10
+	"Taksi #0" = 20
+	"Nurhachi #0" = 20
+	"Huang Taiji #0" = 20
+	"Dorgon #0" = 10
+	"Hooge #0" = 10
+	"Fulin #0" = 20
+	"Hiowan Yei #0" = 20
+	"In Jen #0" = 20	
+	"Hung Li #0" = 20
+	"Yong Yan #0" = 20
+	"Min Ning #0" = 20	
+	"Fanca #0" = 10
+	"Hoogle #0" = 10
+	"Yinzhi #0" = 10
+	"Yinreng #0" = 10
+	"Yinti #0" = 10
+	"Daisan #0" = 5
+	"Abatai #0" = 5
+	"Ajige #0" = 5
+	"Dodo #0" = 5
+	"Yinxiang #0" = 5
+	"Yinsi #0" = 5
+	"Yintang #0" = 5
+	"Hongshi #0" = 5
+	"Hongzhou #0" = 5
+	"Yongqi #0" = 5
+	"Hejing #0" = -5
+	"Hejia #0" = -5
+	"Hexiao #0" = -5
+	"Zhuangjing #0" = -5
+	"Akjan #0" = 0
+	"Ayan #0" = 0
+	"Baohu #0" = 0
+	"Chengjun #0" = 0
+	"Dorgide #0" = 0
+	"Eje #0" = 0
+	"Encehen #0" = 0
+	"Fisin #0" = 0
+	"Fulu #0" = 0
+	"Ganyong #0" = 0
+	"Ganzhan #0" = 0
+	"Hurong #0" = 0
+	"Jabsan #0" = 0
+	"Jakdan #0" = 0
+	"Leli #0" = 0
+	"Liyi #0" = 0
+	"Lung #0" = 10
+	"Mergen #0" = 0
+	"Muduri #0" = 0
+	"Mujin #0" = 0
+	"Oori #0" = 0
+	"Radi #0" = 0
+	"Talman #0" = 0
+	"Wehe #0" = 0
+	"Yelu #0" = 0
+	"Yongyi #0" = 0
+	"Zhanhung #0" = 0
+	"Zhenghu #0" = 0
+	"Zhengrong #0" = 0
+	"Zhongcheng #0" = 0
+	"Zhongchun #0" = 0
+	"Zhongho #0" = 0
+	"Zhonghu #0" = 0
+	"Zhonghung #0" = 0
+	"Zongqian #0" = 0
+	"Zhongxian #0" = 0
+	"Zhongyong #0" = 0
+	"Zhongyu #0" = 0	
+	"Fen #0" = -1
+	"Jian #0" = -1
+	"Wen #0" = -1
 }
+
 leader_names = {
-  "爱뿯½e觉罗"  # Aisin Gioro
-  "爱뿯½e觉罗"  # Aisin Gioro
-  "爱뿯½e觉罗"  # Aisin Gioro
-  "爱뿯½e觉罗"  # Aisin Gioro
-  "爱뿯½e觉罗"  # Aisin Gioro
-  "爱뿯½e觉罗"  # Aisin Gioro
-  "爱뿯½e觉罗"  # Aisin Gioro
-  "爱뿯½e觉罗"  # Aisin Gioro
-  "爱뿯½e觉罗"  # Aisin Gioro
-  "爱뿯½e觉罗"  # Aisin Gioro
-  "瑷뿯½s"  # Aihui
-  "¿½뿯½b克塔"  # Arakta
-  "뿯½b죯½R"  # Baica
-  "博뿯½ï¿½뿯½T"  # Boduri
-  "죡½V穆¿½"  # Cemgun
-  "¿½布¿½뿯½R特"  # Cibukinut
-  "뿯½ï¿½佳"  # Dagiya
-  "佟佳"  # Donggiya
-  "¿½죯½u罗"  # Ecolo
-  "뿯½ï¿½尔吉"  # Ergi
-  "¿½雅"  # Feiya
-  "죯½R塔"  # Futa
-  "뿯½|奇뿯½T"  # Gingciri
-  "吉뿯½`"  # Git
-  "¿½佳"  # Hegiya
-  "¿½¿½里"  # Heseri
-  "洛"  # Io
-  "伊尔根觉罗"  # Irgen Gioro
-  "뿯½g뿯½^塔"  # Jakuta
-  "朱尔克"  # Jurk
-  "克뿯½S뿯½T"  # Keyere
-  "奎¿½里克"  # Kuicelik
-  "뿯½R第"  # Ledi
-  "¿½"  # Lu
-  "¿½佳"  # Magiya
-  "¿½克뿯½b"  # Moketo
-  "뿡½ï¿½木뿯½V"  # Namutu
-  "뿯½ï¿½祜뿯½y"  # Niohuru
-  "潘"  # Pan
-  "婆"  # Po
-  "¿½"  # Rao
-  "뿯½ï¿½布뿯½T"  # Ruburi
-  "뿯½Y"  # Si
-  "索죯½u罗"  # Socoro
-  "뿯½l楚特"  # Taicut
-  "뿯½m格敦"  # Tukdun
-  U
-  "乌뿯½b"  # Ula
-  "뿯½s"  # Wang
-  "뿯½吉特"  # Wenggit
-  "严"  # Yan
-  "뿯½S¿½"  # Yehe
+	"Aisin Gioro" "Aisin Gioro" "Aisin Gioro" "Aisin Gioro" "Aisin Gioro"
+	"Aisin Gioro" "Aisin Gioro" "Aisin Gioro" "Aisin Gioro" "Aisin Gioro" # Qing flavor
+	Aihui Arakta Baica Boduri Cemgun Cibukinut Dagiya Donggiya Ecolo Ergi
+	Feiya Futa Gingciri Git Hegiya Heseri Io "Irgen Gioro" Jakuta Jurk Keyere Kuicelik
+	Ledi Lu Magiya Moketo Namutu Niohuru Pan Po Rao Ruburi Si Socoro Taicut Tukdun U Ula
+	Wang Wenggit Yan Yehe
 }
+
 ship_names = {
-  "爱뿯½e觉罗"  # Aisin Gioro
-  "뿯½ï¿½祜뿯½y"  # Niuhuru
-  "뿯½S¿½뿡½ï¿½뿯½b"  # Yehenala
-  "¿½¿½里"  # Heseri
-  "乌雅"  # Uya
-  "万琉뿯½T"  # Waliuha
-  "뿯½z佳"  # Janggiya
-  "뿯½t尔佳"  # Guwalgiya
-  "佟佳"  # Tunggiya
-  "¿½佳"  # Magiya
-  "뿯½T뿯½ï¿½"  # Hata
-  "乌뿯½b"  # Ula
-  "뿯½ï¿½뿯½S"  # Huifa
-  "海¿½"  # Haixi
+	"Aisin Gioro" Niuhuru Yehenala Heseri
+	Uya Waliuha Janggiya Guwalgiya Tunggiya
+	Magiya Hata Ula Huifa Haixi
 }

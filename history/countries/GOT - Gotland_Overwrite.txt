@@ -1,8 +1,8 @@
 1439.9.24 = {
 #	government = monarchy
 	monarch = {
-		name = "埃里克 VII"
-		dynasty = "格里芬"
+		name = "Eric VII"
+		dynasty = "Gryf"
 		culture = pommeranian
 		adm = 1
 		dip = 2

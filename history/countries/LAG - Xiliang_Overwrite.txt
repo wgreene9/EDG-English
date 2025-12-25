@@ -1,7 +1,7 @@
 1444.1.1 = {
   monarch = {
-    name = "福启"
-    dynasty = "孛思忽儿"
+    name = "Fuqi"
+    dynasty = "Bösghur"
     birth_date = 1410.1.1
     adm = 3
     dip = 1

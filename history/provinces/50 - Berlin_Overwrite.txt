@@ -1,1 +1,1 @@
-capital = "Berlin-Clln"
+capital = "Berlin-Cölln"

@@ -2,8 +2,8 @@
   add_piety = -0.5
 
   monarch = {
-    name = "阿卜拉杜 阿里 II"  # Mu'izz al-Din Malik
-    dynasty = "哈扎拉比"
+    name = "Abdel Ali II"  # Mu'izz al-Din Malik
+    dynasty = "Hazaraspid"
     birth_date = 1413.1.1
     adm = 2
     dip = 3
@@ -11,9 +11,9 @@
     culture = luri
   }
   heir = {
-    name = "哈利姆"  # Mu'izz al-Din Malik
-    monarch_name = "哈利姆 I"  # Khalil Sultan
-    dynasty = "哈扎拉比"
+    name = "Halim"  # Mu'izz al-Din Malik
+    monarch_name = "Halim I"  # Khalil Sultan
+    dynasty = "Hazaraspid"
     birth_date = 1431.1.1
     death_date = 1451.6.1
     claim = 95

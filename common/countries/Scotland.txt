@@ -2,7 +2,12 @@
 
 graphical_culture = westerngfx
 
-color = { 199  175  12 }
+# color = { 199  175  12 }
+color = {
+  145
+  172
+  207
+}
 revolutionary_colors = { 15 0 15 }
 
 preferred_religion = reformed

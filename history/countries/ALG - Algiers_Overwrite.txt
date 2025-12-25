@@ -1,7 +1,7 @@
 1410.1.1 = {
 	monarch = {
-		name = "阿卜杜勒 本 III"
-		dynasty = "法蒂玛"
+		name = "Abdul bin III"
+		dynasty = "Fatimid"
 		adm = 1
 		dip = 3
 		mil = 1
@@ -9,8 +9,8 @@
 }
 1416.1.1 = {
 	monarch = {
-		name = "阿齐兹 伊本"
-		dynasty = "法蒂玛"
+		name = "Aziz Ibn"
+		dynasty = "Fatimid"
 		adm = 2
 		dip = 4
 		mil = 5

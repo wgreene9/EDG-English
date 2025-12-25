@@ -1,23 +1,7 @@
-change_estate_land_share = {
-    estate = estate_nobles
-    share = -50
-}
-change_estate_land_share = {
-    estate = estate_burghers
-    share = -16
-}
-change_estate_land_share = {
-    estate = estate_dhimmi
-    share = 10
-}
-change_estate_land_share = {
-    estate = estate_church
-    share = 20
-}
 1429.1.30 = {
     monarch = {
-      name = "凯末尔丁"
-      dynasty = "巴文德"
+      name = "Kamal ad-Din"
+      dynasty = "Bavand"
       birth_date = 1399.12.6
       adm = 5
       dip = 4
