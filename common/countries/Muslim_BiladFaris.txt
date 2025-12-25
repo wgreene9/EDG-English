@@ -1,0 +1,315 @@
+graphical_culture = muslimgfx
+color = {
+  106
+  38
+  44
+}
+revolutionary_colors = {
+  5
+  0
+  1
+}
+historical_idea_groups = {
+  defensive_ideas
+  maritime_ideas
+  religious_ideas
+  offensive_ideas
+  trade_ideas
+  economic_ideas
+  spy_ideas
+  diplomatic_ideas
+}
+historical_units = {
+  persian_footsoldier
+  persian_cavalry_charge
+  persian_shamshir
+  qizilbash_cavalry_unit
+  tofongchis_musketeer
+  topchis_artillery
+  afsharid_reformed
+  afsharid_reformed_infantry
+  muslim_mass_infantry
+  muslim_dragoon
+  persian_rifle
+}
+monarch_names = {
+	"Isma'il #0" = 10
+	"Saladin Ahmad #0" = 10
+	"'Abdallah #0" = 10
+	"Yahya #0" = 10
+	"Yusuf #1" = 10
+	"Salâh ad-Din 'Amir #0" = 10
+	"'Alî #0" = 10
+	"'Abd al-Wahhâb #0" = 10
+	"'Umar #0" = 10
+	"al-Mutahhar #3" = 10
+	"Muhammad #0" = 10
+	"al-Qâsim #0" = 10
+	"Ahmad #0" = 10
+	"al-Husayn #0" = 10
+	"al-'Abbâs #0" = 10
+	"Abdallah #0" = 10
+	
+	"Hiba #0" = -1
+	"Fatimah #0" = -1
+	"Walida #0" = -1
+	"Tahani #0" = -1
+	"Safaa  #0" = -1
+	"Randa #0" = -1
+	"Qismah #0" = -1
+	"Nadirah #0" = -1
+	"Maram #0" = -1
+	"Layla #0" = -1
+	"Kamilah #0" = -1
+	"Jabirah #0" = -1
+	"Hudun #0" = -1
+	"Fadwa #0" = -1
+	"Daliyah #0" = -1
+	"Amirah #0" = -1
+	"Abal #0" = -1
+	"Nadiyya #0" = -1
+	"Norah #0" = -1
+	"Fahda #0" = -1
+
+  "Muhammad #2" = 40
+	"Ahmad #1" = 40
+	"Qânsawh #0" = 40
+	"Tûmân Bay #0" = 40
+	"Inâl #0" = 20
+	"Khusqadam #1" = 20
+	"'Abd al-'Aziz #0" = 20
+	"al-Musta'in #0" = 20
+	"al-Nasr Faraj #0" = 20
+	"Barsbay #0" = 20
+	"Jaqmaq #0" = 20
+	"Qâyit Bay #0" = 20
+	"Shaik al-Mahmudi #0" = 20
+	"Timurbughâ #0" = 20
+	"'Uthman #0" = 20
+	"Yalbay #0" = 20
+	"Jânbulât #0" = 20
+	"Yûsuf #0" = 20
+	"Barqûq #1" = 15
+	"'Alî #2" = 10
+	"Baybars #2" = 10
+	"Hâjjî #2" = 10
+	"Sha'bân #2" = 10
+	"Abû Bakr #1" = 10
+	"al-Hasan #1" = 10
+	"Isma'îl #1" = 10
+	"Kûjûk #1" = 10
+	"Sâlih #1" = 10
+	"'Abd al-Malik #0" = 0
+	"Basir #0" = 0
+	"Fadl #0" = 0
+	"Ghayth #0" = 0
+	"Hatim #0" = 0
+	"Ilyas #0" = 0
+	"Jabir #0" = 0
+	"Nadim #0" = 0
+	"Nizar #0" = 0
+	"Qasim #0" = 0
+	"Sa'di #0" = 0
+	"Sayyid #0" = 0
+	"Yunus #0" = 0
+	
+	"Shahira #0" = -1
+	"Yusra #0" = -1
+	"Asma #0" = -1
+
+	"Muhammad #4" = 40
+	"Qânsawh #0" = 40
+	"Tûmân Bay #0" = 40
+	"Barakât #0" = 30
+	"Hazza #0" = 10
+	"Ahmad #2" = 50
+	"Humaida #1" = 10
+	"Qa'it #0" = 10
+	"Takaba #0" =  10
+	"Hassan #1" = 10
+	"Abu Talib #0" = 10
+	"Abu Aun Idris #0" = 10
+	"Mushin #0" = 10
+	"Mas'ud #0" = 30
+	"'Abdullah #0" = 20
+	"Zaid #0" = 10
+	"Nami #0" = 10
+	"Sa'ad #0" = 10
+	"Sa'id #0" = 20
+	"'Abdul-Karim #0" = 10
+	"'Abul Muhsin #0" = 10
+	"'Abd al-Ilah #0" = 20
+	"'Ali #2" = 10
+	"Yahya #0" = 10
+	"Mubarak #0" = 10 
+	"Masa'id #0" = 10
+	"Djafar #0" = 10
+	"Inâl #0" = 20
+	"Khusqadam #1" = 20
+	"'Abd al-'Aziz #0" = 20
+	"al-Musta'in #0" = 20
+	"al-Nasr Faraj #0" = 20
+	"Barsbay #0" = 20
+	"Jaqmaq #0" = 20
+	"Qâyit Bay #0" = 20
+	"Shaik al-Mahmudi #0" = 20
+	"Timurbughâ #0" = 20
+	"'Uthman #0" = 20
+	"Yalbay #0" = 20
+	"Jânbulât #0" = 20
+	"Yûsuf #0" = 20
+	"Barqûq #1" = 15
+	"'Alî #2" = 10
+	"Baybars #2" = 10
+	"Hâjjî #2" = 10
+	"Sha'bân #2" = 10
+	"Abû Bakr #1" = 10
+	"al-Hasan #1" = 10
+	"Isma'îl #1" = 10
+	"Kûjûk #1" = 10
+	"Sâlih #1" = 10
+	"'Abd al-Malik #0" = 0
+	"Basir #0" = 0
+	"Fadl #0" = 0
+	"Ghayth #0" = 0
+	"Hatim #0" = 0
+	"Ilyas #0" = 0
+	"Jabir #0" = 0
+	"Nadim #0" = 0
+	"Nizar #0" = 0
+	"Qasim #0" = 0
+	"Sa'di #0" = 0
+	"Sayyid #0" = 0
+	"Yunus #0" = 0
+	
+	"Rajya #0" = -1
+	"Shahira #0" = -1
+	"Yusra #0" = -1
+	"Asma #0" = -1
+
+	"Iyâsû #0" = 60
+	"Taqla Hâymânôt #0" = 60
+	"Salômôn #2" = 40
+	"Yôhannes #0" = 40
+	"Hezqeyâs #0"= 40
+	"Zar'a Yâqob #0" = 20
+	"Ba'eda Mâryâm #1" = 20
+	"Quastantînôs #3" = 20
+	"'Amda Seyôn #1" = 20
+	"Nâ'ôd #0" = 20
+	"Lebna Dengel #0" = 20
+	"Galâwdêwôs #0" = 20
+	"Mînâs #0" = 20
+	"Sarsa Dengel #0" = 20
+	"Yâ'qob #0" = 20
+	"Sûsenyôs #0" = 20
+	"Fâsîladas #0" = 20
+	"Têwôflôs #0" = 20
+	"Yôstôs #0" = 20
+	"Yônas #0" = 20
+	"Dâwît #0" = 20
+	"'Amsa Gîyôrgîs #0" = 20
+	"Tuqla Gîyôrgîs #0" = 20
+	"Demetros #0" = 20
+	"Gîyôrgîs #0" = 20
+	"Fiqtor #0" = 5
+	"Menas #0" = 5
+	"Marqos #0" = 5
+	"Hamalmal #0" = 5
+	"Saga Krestos #0" = 5
+	"Malta Krestos #0" = 5
+	"Fâsîl #0" = 5
+	"'Endreyâs #1" = 1
+	"Yeshaq #1" = 1
+	"Mika'el #0" = 0
+	"Amda Seyon #0" = 0
+	"Antenatewos #0" = 0
+	"Welde Giyorgis #0" = 0
+	"Mika'el Sehul #0" = 0
+	"Gusho #0" = 0
+	"Wand Bewossen #0" = 0
+	"Haile #0" = 0
+	"Wolda Gabrael #0" = 0
+	
+	"Abeba #0" = -1
+	"Hagos #0" = -1
+	"Tenagne #0" = -1
+}
+leader_names = {
+	Ali
+	Ibrahim
+	Issa
+	Jomaa
+	Khalil
+	Mansour
+	Saad
+	Shammas
+	Saleh
+	Saab
+	Ali
+	Aybak
+	Baibars
+	Bay
+	Bey
+	Bugha
+	Inâl
+	Kansur
+	Sayfuddin
+	Zangi
+	Youssef
+	Taleb
+	Ibrahim
+	Khalil
+	Saleh
+	Farhat
+	Chammas
+	Mansour	
+	Abbas
+	Hammoud
+	Ali
+	Aybak
+	Baibars
+	Bay
+	Bey
+	Bugha
+	Inâl
+	Kansur
+	Sayfuddin
+	Zangi
+}
+ship_names = {
+	"Ali ibn Rasul" "Mansur Umar" Zaizz Zabid
+	"Muzaffar Yusuf" "Malik al-Mujahid" 
+	"Shaykh Uthman" "Al-Kawd" Whaqra "Wadi Bana"
+	Ta'izz "At-Tubah" Dhubab "Jabal Kharaz" Musaymir
+	Mawiyah "Jabal al-Hasha" Ibb Qa'tabah "Jabal Thamar"
+	"Zaher Barqooq" "Farag Ben Barqooq"
+	"Ben Barqooq" "Muyaid Sheikh" "Ahmen Muyaid" 
+	"Zaher Tatar" "Nasser Muhamed" "Ashraf Barsbay"
+	"Aziz Gamal" "Nahr an-Nil" "Al-Farafirah"
+	"Ad-Däkhilah" "Al-Kharijah" "Al-Ali" "Al-Bahriyah"
+	Rahman Rahim Malik Quddus Salam Mu'min Muhaymin
+	Aziz Jabbar Mutakabbir Khaliq Bari Musawwir 
+	Ghaffar Qahhar Wahhab Razzaq Fattah Alim Qabid
+	Basit Khafid Rafi Mu'izz Mudhill Sami Basir Hakam Adl
+	Hijaz Jeddah Mecca Medina "Jabal Baydan"
+	"Jabal Sawda" "Jabal Abu Hasan" "Jabal al-Jurayrah" 
+	"Harrat Al-Kishb" "Harrat Rahat" "Harrat Nawasif"
+	"Harrat Hadan" "Harrat Al-Buqum" "Harrat Khaybar"
+	"Harrat Kurama" "Harrat al-Unayyir"
+	"Zaher Barqooq" "Farag Ben Barqooq"
+	"Ben Barqooq" "Muyaid Sheikh" "Ahmen Muyaid" 
+	"Zaher Tatar" "Nasser Muhamed" "Ashraf Barsbay"
+	"Aziz Gamal" "Nahr an-Nil" "Al-Farafirah"
+	"Ad-Däkhilah" "Al-Kharijah" "Al-Ali" "Al-Bahriyah"
+	Rahman Rahim Malik Quddus Salam Mu'min Muhaymin
+	Aziz Jabbar Mutakabbir Khaliq Bari Musawwir 
+	Ghaffar Qahhar Wahhab Razzaq Fattah Alim Qabid
+	Basit Khafid Rafi Mu'izz Mudhill Sami Basir Hakam Adl
+}
+army_names = {
+	"Jaish-al $PROVINCE$"
+}
+fleet_names = {
+	"Istawal-al $PROVINCE$" 
+}
