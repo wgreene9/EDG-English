@@ -1,0 +1,224 @@
+﻿l_english:
+EDG_SMO_mission_1_1_title:0 "Restore Order"
+EDG_SMO_mission_1_1_desc:0 "Yuri Rostislavich has usurped the Republic's power. The people of Smolensk, unwilling to be enslaved, vow to reclaim the fruits of the 1407 uprising!"
+EDG_SMO_mission_1_1.greate_project.tt:0 "If possessing at least §Y250§!¤"
+
+EDG_SMO_mission_1_3_title:0 "National Defense"
+EDG_SMO_mission_1_3_desc:0 "The lands of Rus are being baptized by the flames of war. To maintain our independence amidst numerous military hegemonies, we must strengthen our own military power."
+
+EDG_SMO_mission_1_5_title:0 "Tower of Freedom"
+EDG_SMO_mission_1_5_desc:0 "The people of Roxia enjoy true freedom. Our bonds of personal dependency are the lightest in all of Europe. There are no slaves or serfs on the soil of Roxia, only free people. Men do not fight for their feudal lord, but to defend their own freedom and rights."
+
+EDG_SMO_mission_1_6_title:0 "Identify Friend and Foe"
+EDG_SMO_mission_1_6_desc:0 "Are the wealthy burghers our allies, or potential enemies who might ally with the reactionary nobles?"
+
+EDG_SMO_mission_1_8_title:0 "Burn the Cold Forests"
+EDG_SMO_mission_1_8_desc:0 "The Grand Prince of Tver-Moscow, or the Grand Prince of Vladimir, in the northeast Rus' is nothing but a vile scoundrel. He has stolen the peasants' land, their wealth, and their freedom. On Roxia's path to unifying Eastern Europe, we must mobilize the people and sweep him completely into the dustbin of history, even if it means setting Rus' ablaze."
+EDG_SMO_mission_1_8.effect.tt:0 "Gain §Tcores§! on all provinces we own located in the §YRussia§! region with §Tdevelopment§! not less than §Y18§!"
+
+EDG_SMO_mission_1_10_title:0 "Plan Deep Winter"
+EDG_SMO_mission_1_10_desc:0 "Scandinavia, the land of eternal frost and snowy plains, the ancestral homeland of the Rus' people, now churns with undercurrents under the shadow of the Swedish King. Under multiple oppressions—centralization, heavy taxes, and property seizures by the church—Northern Europe has reached a historical turning point. The people are about to rise in rebellion. Let us support the struggle of our Nordic peasant brothers and overthrow the Nordic monarchies!"
+EDG_SMO_war_plan_not_start:0 "This plan has not commenced!"
+
+EDG_SMO_mission_1_12_title:0 "Incite the Populace"
+EDG_SMO_mission_1_12_desc:0 "Freedom costs a single generation, but slavery costs generations. No one is willing to be born a slave. Let us awaken the people's inner longing for freedom."
+EDG_SMO_mission_1_12.effect.tt:0 "Whenever we §Yoccupy§! a province, immediately perform the §Tprovince interaction§! 'Agitate the Populace' on that province.\n\nImmediately perform the §Tprovince interaction§! 'Agitate the Populace' on provinces §Yadjacent§! to provinces with the 'Agitated Populace' modifier."
+
+EDG_SMO_mission_1_13_title:0 "Pilgrimage to the Holy Land"
+EDG_SMO_mission_1_13_desc:0 "On the land of Roxia, there are no predatory nobles. The equality of all people is the founding principle of the Republic, attracting an increasing influx of people into our territory."
+
+EDG_SMO_mission_1_15_title:0 "Land of Struggle"
+EDG_SMO_mission_1_15_desc:0 "Within the equal and free Republic, the peasants' enthusiasm for production has reached unprecedented heights. The countryside has grown wealthy, and the surplus agricultural products provide vast amounts of industrial raw materials for the cities, further promoting the development of urbanization."
+
+EDG_SMO_mission_1_17_title:0 "Military Zeal"
+EDG_SMO_mission_1_17_desc:0 "Facing the vicious feudal powers, we must use every means to eradicate their flesh from this world. For this, we need the courage and zeal to overcome all fear and hardship."
+
+EDG_SMO_mission_1_19_title:0 "Technology Integration"
+EDG_SMO_mission_1_19_desc:0 "We have absorbed advanced artillery technology from the West. Combining it with our cannon-making techniques will help us refine our artillery manufacturing processes."
+EDG_SMO_mission_1_19.effect.tt:0 "Using §YArtillery Barrage§! against a fortress will immediately increase §Ysiege progress§! by §G25%§!."
+
+EDG_SMO_mission_1_21_title:0 "The Crimson Division"
+EDG_SMO_mission_1_21_desc:0 "The red banner of Roxia will ultimately fly across all of Europe and even the entire world!"
+
+EDG_SMO_mission_2_2_title:0 "The Fruits of Victory"
+EDG_SMO_mission_2_2_desc:0 "We have finally triumphed in the Republic's civil war. Now, the peasants have at last reclaimed state power and become the masters of the nation!"
+
+EDG_SMO_mission_2_4_title:0 "Restore the Economy"
+EDG_SMO_mission_2_4_desc:0 "The Republic has suffered severe economic devastation. Restoring the economy is an important task for our current development."
+
+EDG_SMO_mission_2_6_title:0 "Shatter the Veche"
+EDG_SMO_mission_2_6_desc:0 "Novgorod, the long-closed city, has finally opened its arms to us. Thanks to its developed transportation and the river flowing through it, its economy is exceptionally prosperous, which is precisely why we must seize it."
+
+EDG_SMO_mission_2_8_title:0 "Defend the Fertile Land"
+EDG_SMO_mission_2_8_desc:0 "Once prosperous and powerful, Ruthenia is now a land in chaos. The oppression of the church, the corvée and taxes of the princes, and the famine of war have left the common people struggling, fertile fields abandoned, and serfs fleeing. However, the fertile land where the Rus' nation began will ultimately be reforged and unified under the hands of Roxia!"
+EDG_SMO_mission_2_8.effect.tt:0 "Gain §Tcores§! on all provinces we own located in the §YRuthenia§! region with §Tterrain§! of §YFarmlands§!"
+
+EDG_SMO_mission_2_10_title:0 "Plan Heavy Hammer"
+EDG_SMO_mission_2_10_desc:0 "Baltica, the land of the Mother, the pure land, the peaceful land, has been under the oppression of Catholic fanatics since the 13th century. Whether to eliminate the Holy Roman Empire's outpost here for the Republic's security, or to liberate the Baltic people for justice and conscience, we must launch an offensive against Baltica."
+
+EDG_SMO_mission_2_12_title:0 "Armed Struggle"
+EDG_SMO_mission_2_12_desc:0 ""He who has more reserves, more manpower, and can endure better among the masses will be victorious in war." — Anton Petrov"
+EDG_SMO_mission_2_12.effect.tt:0 "Province Interaction\t§YCore Infiltration§!\tNo longer requires the 'Agitated Populace' modifier.\n\nAll §Ycore provinces§! not owned by us immediately gain §RSubstantial Revolts§! and §RHigh Separatism§!"
+
+EDG_SMO_mission_2_14_title:0 "Dissolve the Empire"
+EDG_SMO_mission_2_14_desc:0 "We shall dismantle the stronghold of feudal power in Western Europe—the Holy Roman Empire—and thereby liberate all the people of Western Europe!"
+EDG_SMO_mission_2_14.hre.tt:0 "If the §YHoly Roman Empire§! has not yet been dismantled"
+EDG_SMO_mission_2_14.effect.tt:0 "We will declare war on the §YEmperor§!. All independent §YHoly Roman Empire members§! not §Yallied§! to us or without a §Ytruce§! will §Rjoin the war§!"
+
+EDG_SMO_mission_2_16_title:0 "Vanguardism"
+EDG_SMO_mission_2_16_desc:0 "All people yearning for freedom and equality are inspired by Roxia. The entire world shall be liberated by us. The ideals of freedom and equality shall prevail across the globe."
+EDG_SMO_mission_2_16.effect.tt:0 "All countries §Tadjacent§! to us will gain §RSubstantial Revolts§!\n\nAll provinces §Tadjacent§! to our national border provinces immediately gain the following modifier."
+
+EDG_SMO_mission_2_18_title:0 "City of Artillery"
+EDG_SMO_mission_2_18_desc:0 "Smolensk's cannons are praised throughout all of Europe. Our state cannon foundry possesses the highest casting standards and the finest craftsmanship."
+EDG_SMO_mission_2_18.effect.tt:0 "Upgrade all §YArtillery§! in the province of §Y[293.GetName]§! to §YRevolutionary Guard§!\n\nUnlock a §Ydecision§! allowing us to upgrade §Yregular Artillery§! to §YRevolutionary Guard§!"
+
+EDG_SMO_mission_2_19_title:0 "Cannon-Making Industry"
+EDG_SMO_mission_2_19_desc:0 "Roxia's cannons are renowned throughout Europe, which is inseparable from our comprehensive industry related to cannon-making. Skilled blacksmiths and excellent designers alike are part of our industrial chain."
+EDG_SMO_mission_2_19.effect_1.tt:0 "Up to §Y5§! §Yeligible provinces§! (meeting mission conditions) gain the following modifier."
+EDG_SMO_mission_2_19.effect_2.tt:0 "All §Yeligible provinces§! (meeting mission conditions) gain a §YWeapons Manufactory§!"
+
+EDG_SMO_mission_2_20_title:0 "Ballistic Calibration"
+EDG_SMO_mission_2_20_desc:0 "Our artillery units not only possess the most advanced weapons, but also the most advanced thinking and concepts, providing the conditions for us to employ the most advanced tactics."
+EDG_SMO_mission_2_20.effect.tt:0 "Using §YArtillery Barrage§! against a fortress has a §G50%§! chance to directly §Rdemolish§! the local §Yfort building§! and grant §Y50§!£mil£\n\nThe §Ydemolition chance§! §Rdecreases§! as the §Yfort building§! level increases, while the §Gdemolition reward§! §Yincreases§! accordingly."
+
+EDG_SMO_mission_2_22_title:0 "General Administration"
+EDG_SMO_mission_2_22_desc:0 "Advanced legal systems and an advanced economy are the foundation and driving force for establishing a modern administrative system."
+
+EDG_SMO_mission_3_1_title:0 "One Program"
+EDG_SMO_mission_3_1_desc:0 "One program, the program of upholding national unity and territorial integrity, must be thoroughly implemented. We absolutely will not allow the dictatorial military junta to split our land."
+EDG_SMO_mission_3_1.trigger.tt:0 "The §RSecond Uprising§! disaster has erupted."
+EDG_SMO_mission_3_1.effect.tt:0 "The next time we attack @CHR §Y[CHR.GetName]§! using the §YReconquest§! Casus Belli, both sides will be unable to §Tcall allies§! into the war. §YWe have this one chance only§!\n"
+
+EDG_SMO_mission_3_2_title:0 "Reclaim the Homeland"
+EDG_SMO_mission_3_2_desc:0 "Since the dictatorial military junta seized control of the nation, we have lost half of our territory in the military struggle against the Princes of Kievan Rus'. Recovering our lands through military means will be a crucial short-term objective."
+
+EDG_SMO_mission_3_3_title:0 "Two Demands"
+EDG_SMO_mission_3_3_desc:0 "After ending the civil war and establishing the government, developing production and achieving common prosperity have become the mainstream demands of the domestic populace. We must restore our economy."
+
+EDG_SMO_mission_3_5_title:0 "Three Principles"
+EDG_SMO_mission_3_5_desc:0 "We must uphold the three great principles of liberty, equality, and opposition to oppression, and to practice these ideals, overthrow the feudal system of Rus', shattering the shackles imposed upon the peasants by the noble lords."
+
+EDG_SMO_mission_3_6_title:0 "Liberate Kiev"
+EDG_SMO_mission_3_6_desc:0 "Liberating Kiev will provide favorable conditions for expanding our revolution. Kiev's lofty political, economic, and religious status will allow more peasants and other lower-class people to see the vitality and strength we possess, as well as our historical mission to liberate our compatriots."
+
+EDG_SMO_mission_3_7_title:0 "Four Objectives"
+EDG_SMO_mission_3_7_desc:0 "For the nascent Republic of Roxia, unifying the nation, overthrowing the princes, defeating the khans, and preparing for the future are prerequisites for building the state and society. Only by achieving these four objectives can the Republic prosper."
+
+EDG_SMO_mission_3_9_title:0 "Five Plans"
+EDG_SMO_mission_3_9_desc:0 "Roxia now stands proudly independent, having accomplished the preliminary four objectives. However, numerous autocrats and enemies of the people still circle our borders, coveting the Republic's fate. To protect the fruits of our revolution, we must defeat them through meticulously crafted war plans."
+EDG_SMO_mission_3_9.effect.tt:0 "Unlocks the §YWar Plans§! series of §Tdecisions§!"
+
+EDG_SMO_mission_3_10_title:0 "Plan Reaper"
+EDG_SMO_mission_3_10_desc:0 "Poland, a shattered crown, a shattered people. After the Great Disaster of Varna, the sons of Lech, due to the princes' selfish desires, fell into prolonged chaos, even being carved up by surrounding foreign peoples. Through a swift and fierce military campaign, Roxia will help them reunite once more and return freedom to the Polish people."
+
+EDG_SMO_mission_3_11_title:0 "Four Methods"
+EDG_SMO_mission_3_11_desc:0 "The historical mission of liberating Eastern Europe has just been accomplished, but we must not become arrogant or complacent, nor slacken our efforts. A new struggle is about to begin!"
+EDG_SMO_mission_3_11.effect.tt:0 "Unlocks Province Interaction\t§YPromote Commune Development§!\nUnlocks Province Interaction\t§YImprove Production Tools§!\nUnlocks Province Interaction\t§YAgitate the Populace§!\nUnlocks Province Interaction\t§YCore Infiltration§!\n"
+
+EDG_SMO_mission_3_13_title:0 "Three Fundamentals"
+EDG_SMO_mission_3_13_desc:0 "The world situation is turbulent and volatile. Although Roxia has eliminated the chains of feudal exploitation across the lands of Eastern Europe, leaving the vast plains free of powerful feudal forces, the people beyond Eastern Europe still live in deep suffering. We must fulfill our historical mission and continue the struggle."
+
+EDG_SMO_mission_3_14_title:0 "Shatter the Chains"
+EDG_SMO_mission_3_14_desc:0 "The old world is undoubtedly cruel; the old society must be ended. We will be the main force in shattering the chains of the old world!"
+
+EDG_SMO_mission_3_15_title:0 "Two Cores"
+EDG_SMO_mission_3_15_desc:0 "Upholding equality and opposing oppression are the two core principles we must emphasize. Only by truly upholding equality and opposing oppression can we maintain our先进性 and vitality."
+
+EDG_SMO_mission_3_17_title:0 "One Ideal"
+EDG_SMO_mission_3_17_desc:0 "Eliminating exploitation and oppression is our highest ideal, and we will advance tirelessly towards this goal!"
+EDG_SMO_mission_3_17.effect.tt:0 "§RTo Be Continued§!"
+
+EDG_SMO_mission_3_18_title:0 "Ten-Year Plan"
+EDG_SMO_mission_3_18_desc:0 "The Republic of Roxia currently faces no major existential crisis, but the lingering effects of years of war still trouble this new regime. Production in the agriculture-based Republic has nearly stalled, and the economy is grinding to a halt. Under such circumstances, the government should formulate rigorous, long-term plans to intervene in the economy—for the future of all."
+EDG_SMO_mission_3_18.effect.tt:0 "Unlocks §YTen-Year Plan§! related §Ydecisions§!"
+
+EDG_SMO_mission_3_21_title:0 "Five-Year Plan"
+EDG_SMO_mission_3_21_desc:0 "The success of the Ten-Year Plan has demonstrated the feasibility of this system to all. Thus, the inspired people of Roxia have launched a Five-Year Plan aimed at accelerating the construction of an urbanized society."
+EDG_SMO_mission_3_21.effect.tt:0 "Provinces that increase their §Tdevelopment§! at least §Y5§! times §Yduring the duration§! of the above modifier and reach at least §Y25§! §Tdevelopment§! will gain the following modifier."
+
+EDG_SMO_mission_3_23_title:0 "Purifying Flame"
+EDG_SMO_mission_3_23_desc:0 "\nComrades, the time has come! Let the purifying flame blaze high!\n\nThis flame is not one of destruction, but a baptism of rebirth! It will burn away the very foundations of all injustice—the blood-soaked cages of feudal monarchs, the hypocritical parliaments of the bourgeoisie, the greedy scepters of the generals, and the people-dulling lies of the priests. It will turn the wreckage of the old order to ashes, and from these ashes, a new world shall surely rise—a new world of freedom and equality!"
+
+EDG_SMO_mission_4_2_title:0 "Resolve Divisions"
+EDG_SMO_mission_4_2_desc:0 "To address the ongoing crisis within our country, we must unite all forces that can be united."
+
+EDG_SMO_mission_4_4_title:0 "Liberating Our Compatriots"
+EDG_SMO_mission_4_4_desc:0 "Liberating our compatriots is our duty and mission, but some domestic factions do not recognize this. Therefore, we need to convene a meeting to reach a consensus."
+
+EDG_SMO_mission_4_6_title:0 "Eradicate Tyranny"
+EDG_SMO_mission_4_6_desc:0 "The successors of the Grand Prince of Vladimir, the Princes of Moscow-Tver, have long been the dominant force behind the feudal order in the northeast Rus' region. Only by overthrowing these protectors of feudal power can we dismantle the entire feudal order of the northeast Rus' lands."
+
+EDG_SMO_mission_4_8_title:0 "Baptism of the Steppe"
+EDG_SMO_mission_4_8_desc:0 "The people of the Eastern European steppes are the most agile horsemen. Here are our Bogomilist Cossack brothers who, like us, resist oppression, and also Tatar riders temporarily oppressed and driven by brutal khans, suffering bitterly. Let us promise freedom to these valiant people and spit upon the oppression of the Mongols."
+EDG_SMO_mission_4_8.effect.tt:0 "Gain §Tcores§! on all provinces we own located in the §YEastern European Steppe§! region with §Tdevelopment§! not exceeding §Y6§!"
+
+EDG_SMO_mission_4_10_title:0 "Plan Sickle"
+EDG_SMO_mission_4_10_desc:0 "Carpathia, a land of ethnic convergence, has witnessed the steadfast Roman legions, the hurried nomads, the silently living Dacians, and the peacefully laboring Slavs. Yet now, it is merely a buffer zone between the Germanic Empire and Balkan powers. As the first step in opposing the Holy Roman Empire, we will expel the oppressors from Carpathia and usher the dawn of a new era to these ancient mountains."
+
+EDG_SMO_mission_4_12_title:0 "Violent Revolution"
+EDG_SMO_mission_4_12_desc:0 ""A revolutionary army is necessary because only force can resolve great historical questions." — Maxim Sakharov"
+EDG_SMO_mission_4_12.effect.tt:0 "Unlocks Province Interaction\t§YSupport Foreign Factions§!\n\nPerform the §YSupport Foreign Factions§! province interaction on up to §Y5§! provinces that meet the §Ymission requirements§!"
+
+EDG_SMO_mission_4_14_title:0 "Return to Freedom"
+EDG_SMO_mission_4_14_desc:0 "We will expand our revolution and bring the tide of liberation to more regions, allowing more people to regain their freedom!"
+
+EDG_SMO_mission_4_16_title:0 "Spirit of Liberation"
+EDG_SMO_mission_4_16_desc:0 "Liberating the world is our historical mission. We must end all exploitation and oppression, freeing our compatriots from the ravages of feudal lords."
+EDG_SMO_mission_4_16.effect.tt:0 "High §RRevolutionary Tendency§! will now reduce §GSeparatism§!\n\nAll §Tnon-core§! provinces we own immediately lose §Y20§! years of §RSeparatism§!"
+
+EDG_SMO_mission_4_18_title:0 "Use Local Resources"
+EDG_SMO_mission_4_18_desc:0 "The vast, boundless sea of forests on the lands of Eastern Europe was once a natural barrier for peoples and an obstacle to economic development, yet now it has become an important resource for the Republic's industrial development. It is time to utilize local resources, not waste nature's bounty, and accelerate the Republic's industrial construction."
+EDG_SMO_mission_4_18.effect.tt:0 "All §YForest§! provinces we own with §Tdevelopment§! below §Y6§! and located in the §YUrals§!, §YSiberia§!, or §YRussia§! regions have their §Tdevelopment§! increased to §Y6§!"
+
+EDG_SMO_mission_4_19_title:0 "Industrial Foundation"
+EDG_SMO_mission_4_19_desc:0 "Eastern Europe is one of the world's most suitable lands for agriculture. By concentrating efforts to achieve urbanization in Eastern Europe and laying a solid industrial foundation, we can not only improve the people's quality of life but also strengthen our economy to rival all feudal lords."
+EDG_SMO_mission_4_19.effect.tt:0 "Increase the §Tdevelopment§! of up to §Y10§! §Yeligible§! provinces we own (meeting mission conditions) with §Tdevelopment§! not exceeding §Y50§! to §Y50§!"
+
+EDG_SMO_mission_4_20_title:0 "Means of Production"
+EDG_SMO_mission_4_20_desc:0 "We have achieved it; no other country in the world matches our level of industrialization and urbanization. Within our territory, tens of thousands of workers labor in factories, and countless peasants toil in the countryside, creating a continuous flow of wealth. From Smolensk to Sevastopol, from Gdańsk to Arkhangelsk, people all over the world will recognize the strength of the Roxia economy and the prosperity of the Roxia people!"
+EDG_SMO_mission_4_20.effect.tt:0 "§GUpgrade§! all province modifiers meeting the §Ymission requirements§! to the following modifier."
+
+EDG_SMO_mission_4_22_title:0 "Development Committee"
+EDG_SMO_mission_4_22_desc:0 "Ensuring the people's livelihood is one of the Republic's tasks. We must not neglect the micro-level welfare of the people for the sake of macro-economic development. If we abandon the principle of people's livelihood, we will undoubtedly tread the old path of the reactionary dictatorial military junta."
+
+EDG_SMO_mission_5_1_title:0 "Return to Fundamentals"
+EDG_SMO_mission_5_1_desc:0 "The reactionary dictatorial military junta and its remnants have been purged by us. The Military-Administrative Committee we established during the war now holds sole authority. Whether to disband this committee will be a crucial question."
+
+EDG_SMO_mission_5_3_title:0 "Unify Internally"
+EDG_SMO_mission_5_3_desc:0 "The key issue in struggle is correctly identifying enemies and friends. One must exploit contradictions, win over the majority, oppose the minority, defeat them one by one, and gain internal support to achieve victory."
+EDG_SMO_mission_5_3.effect_1.tt:0 "§YPower Distribution§! will now provide §GRepublican Tradition§!, with the §Gbonus§! reaching its §Ymaximum§! when its §Yprogress§! is at either §Yend§!"
+
+EDG_SMO_mission_5_5_title:0 "Nationalization Reform"
+EDG_SMO_mission_5_5_desc:0 "The economic foundation of feudal noble exploitation is the private ownership of manorial lands. Other feudal exploiting classes also rely on the private land ownership system to carry out exploitation; even monasteries depend on land for exploitation. To prevent the emergence of exploitation, we should confiscate land from the traditional exploiting classes."
+EDG_SMO_remove_all_landowners_modifier:0 "§GRemove§! the §YRus' Lands§! modifier from §Yall provinces§! we own."
+
+EDG_SMO_mission_5_6_title:0 "United Front"
+EDG_SMO_mission_5_6_desc:0 "We have overthrown the proxies of feudal power, united the common people, and eliminated the economic foundations of noble tyranny. Now, we must deal with the numerous old nobles across the Rus' region."
+
+EDG_SMO_mission_5_8_title:0 "Approach the Mountains"
+EDG_SMO_mission_5_8_desc:0 "In the distant east, vast and towering mountain ranges stretch continuously from the south to the farthest, coldest north. Feudal princes here have weaker rule, and there are still vast tracts of undeveloped, unclaimed, and undisturbed wilderness. However, the oppression of the Uzbek westward expansion is imminent. To defend the Republic, we must reach the Ural Mountains first and liberate this region."
+EDG_SMO_mission_5_8.effect.tt:0 "Gain §Tcores§! on all provinces we own located in the §YUrals§! region with §Tterrain§! of §YForest§! or §YWoods§!"
+
+EDG_SMO_mission_5_10_title:0 "Plan Flint"
+EDG_SMO_mission_5_10_desc:0 "Since the decline of the Eastern Roman Empire, the Bulgarian Tsars and Ottoman Sultans have become the greatest tyrants in the Balkans. In their struggle for the so-called Roman imperial crown, they have displaced tens of thousands of people. Once we have the capacity, we must teach these autocrats how terrifying the people's wrath can be."
+
+EDG_SMO_mission_5_12_title:0 "Class Solidarity"
+EDG_SMO_mission_5_12_desc:0 "We must seize every opportunity, however small, to gain a large number of allies, even if these allies may be temporary, wavering, unstable, unreliable, and conditional. This applies both before and after Roxia seizes power."
+EDG_SMO_mission_5_12.effect.tt:0 "§GClass Solidarity§! will now provide §GEstate Privilege Slots§!, with the §Gbonus§! reaching its §Ymaximum§! when its §Yprogress§! is at either §Yend§!"
+
+EDG_SMO_mission_5_13_title:0 "Collective Farms"
+EDG_SMO_mission_5_13_desc:0 "We have abolished the private land ownership systems of the clergy and the burghers. However, without reforming the small-scale peasant economy, land consolidation will continuously recur. Building collectively-owned collective farms is our only way forward."
+
+EDG_SMO_mission_5_15_title:0 "Modern Agriculture"
+EDG_SMO_mission_5_15_desc:0 "Advanced production relations provide a guarantee for our agricultural development. We will create the conditions for a world free from hunger and oppression."
+
+EDG_SMO_mission_5_17_title:0 "Supply Reform"
+EDG_SMO_mission_5_17_desc:0 "Military operations rely on advanced supply systems. Our abundant agricultural output, advanced ideological system, and well-established military institutions provide the conditions for perfecting our supply system."
+
+EDG_SMO_mission_5_19_title:0 "Forged Iron, Tempered Steel" # Forging Iron, Tempering Steel
+EDG_SMO_mission_5_19_desc:0 "Only a state supported by the most advanced system has the potential to forge the most advanced weapons. Only our modern military system and production system can provide the conditions for casting modern artillery."
+
+EDG_SMO_mission_5_21_title:0 "Steel Torrent"
+EDG_SMO_mission_5_21_desc:0 "Our army possesses the highest military quality. They forever advance courageously, unstoppable and feared by the feudal lords of Europe, who call us a scourge. Yet, we prefer to call our warriors the 'Steel Torrent'."
+EDG_SMO_mission_5_21.trigger.tt:0 "All other countries' §YArmy Sizes§! are smaller than ours."

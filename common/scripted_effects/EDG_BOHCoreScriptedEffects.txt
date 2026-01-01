@@ -17,7 +17,7 @@ EDG_define_hussite_bishop = {
 	}
 	custom_tooltip = EDG_SPACE_TT
 	define_advisor = {
-		name = "Jakub Hlaváček"
+		name = "Jakub Hlav�?ek"
 		type = EDG_tabor_bishop
 		skill = 5
 		cost_multiplier = 0.5
@@ -25,7 +25,7 @@ EDG_define_hussite_bishop = {
 }
 EDG_define_keli = {
 	define_advisor = {
-		name = "克里·埃文"
+		name = "??�??"
 		type = EDG_vagrant
 		skill = 5
 		cost_multiplier = 0.25

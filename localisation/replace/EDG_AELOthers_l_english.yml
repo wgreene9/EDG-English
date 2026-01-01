@@ -1,0 +1,11 @@
+﻿l_english:
+ability_EDG_AEL_cathari_imperial_authority_mechanic:0 "§YCathar Court Authority§!"
+EDG_AEL_cathari_imperial_authority:0 "§YCourt Authority§!"
+EDG_AEL_cathari_imperial_authority_desc:0 "The ruler's §Ythree skill§! points §Yindependently§! influence §YCathar Court Authority§!:\n§R-0.15§! - Ruler skill is §Y0§!\n§R-0.10§! - Ruler skill is §Y1§!\n§R-0.05§! - Ruler skill is §Y2§!\n§G+0.05§! - Ruler skill is §Y4§!\n§G+0.10§! - Ruler skill is §Y5§!\n§G+0.15§! - Ruler skill is §Y6§!\n\n§YCourt Authority§! will be §Gincreased§! by the following factors:\n- Inviting §Yother nations§! to join the §TCathar League§!\n- Having provinces §Yconvert§! to §TCatharism§!\n"
+EDG_AEL_cathari_imperial_authority_gain_modifier:0 "Modifiers provided by §YCourt Authority§!"
+monthly_EDG_AEL_cathari_imperial_authority:0 "Monthly §YCourt Authority§!"
+
+EDG_AELEvents.0.name:0 "Completion of the Church of the Crusade"
+EDG_AELEvents.0.desc:0 "Although the Church of the Crusade was completed in 1443, interior renovations are still required, and this expense was not anticipated in advance. The royal family must fund this work themselves.\n\nIf we have sufficient funds, we can consider undertaking the renovations. However, if we are temporarily unable to bear the cost, we can postpone them until later."
+EDG_AELEvents.0.aa:0 "Let us complete this church"
+EDG_AELEvents.0.bb:0 "We cannot afford it for now"

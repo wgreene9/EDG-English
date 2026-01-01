@@ -1,0 +1,13 @@
+﻿l_english:
+FA2:0 "Bretagne"
+FA2_ADJ:0 "Breton"
+
+EDG_gaelic_scottish:0 "Greater Scottish"
+EDG_gaelic_english:0 "Anglian"
+EDG_culture_East_Anglia:0 "East Saxon"
+EDG_culture_Northumbria:0 "Northumbrian"
+EDG_culture_mercia:0 "Mercian"
+english:0 "West Saxon"
+EDG_gaelic_Iberia:0 "Celtic Iberian"
+EDG_gaelic_French:0 "Gallic" # Gaul
+

@@ -1,6 +1,6 @@
 1435.9.18 = {
   monarch = {
-    name = "√âtienne III"  # 'Uthman Stephen
+    name = "…tienne III"  # 'Uthman Stephen
     dynasty = "de la Croix"  # Hafsid
     birth_date = 1410.9.18
     adm = 4
@@ -10,8 +10,8 @@
 }
 1441.9.18 = {
   heir = {
-    name = "Albert"  # Yahy√¢
-    monarch_name = "Albert II"  # Yahy√¢ III
+    name = "Albert"  # Yahy‚
+    monarch_name = "Albert II"  # Yahy‚ III
     dynasty = "de la Croix"  # Hafsid
     birth_date = 1441.9.18
     death_date = 1489.1.1

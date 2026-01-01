@@ -1,0 +1,254 @@
+﻿l_english:
+
+HOLY_POL:"Holy Poland"
+HOLY_POL_ADJ:"Holy Polish"
+NYGX_LER_3a_modifier:"Polish Crusader Host"
+
+NYGX_LER_tier1_2_reform:"Holy Sejm"
+NYGX_LER_tier1_2_reform_desc:"The Holy Sejm is the supreme governing body of the nation. Adhering to our orthodox doctrines, it wields absolute authority. God, Homeland, People!"
+
+ability_NYGX_LER_end_time_mechanic:"§OPurifying Zeal§!"
+NYGX_LER_end_zeal:"§OPurifying Zeal§!"
+NYGX_LER_end_zeal_desc:"The End Times Are Nigh!\nWe must hasten to cleanse our sins! How else shall we follow Jesus into the New Jerusalem?\n\nThe following actions can §Mgain§! §OPurifying Zeal§!:\n- §YConverting§! a province's religion to the §YState Religion§! §G+0.5§!\n- §RSacking§! a heretic or heathen province §G+0.25§!\n\nWhen you become a §YTier 3§! Defender of the Faith:\nAt maximum value:\nStability Cost Modifier: §G-50.0%§!"
+NYGX_LER_end_zeal_gain_modifier:"§OPurifying Zeal§! Gain"
+monthly_NYGX_LER_end_zeal:"Monthly §OPurifying Zeal§!"
+
+cb_LER_hussite_war_NYGX:"Hussite War of Retribution"
+cb_LER_hussite_war_NYGX_desc:"An eye for an eye, a tooth for a tooth!"
+wt_LER_hussite_war_NYGX:"Hussite War of Retribution"
+wt_LER_hussite_war_NYGX_desc:"War Goal is to Show Supremacy"
+
+NYGX_LER_1_t: "Comrades in Faith"
+NYGX_LER_1_d: "To the south, in Bohemia, lies the nascent Moravia, a nation also led by Hussite followers. In this Christian world surrounded by enemies, only through unity and cooperation can we survive."
+NYGX_LER_1a: "If they become our vassal, it will be more advantageous against our foes!"
+NYGX_LER_1b: "May our friendship endure!"
+NYGX_LER_1a_tt: "If they §Gaccept§!:\n@MVA §YMoravia§! will become our vassal.\n"
+NYGX_LER_1b_modifier: "Enduring Friendship"
+NYGX_LER_1b_modifier_desc: "Until the ally or vassal relationship is no longer in effect."
+
+NYGX_LER_2_t: "[From.GetName] Demands Vassalage"
+NYGX_LER_2_d: "[From.GetName] claims to be a follower of Hussitism and calls upon us to unite against our common enemies."
+NYGX_LER_2a: "United we stand!"
+NYGX_LER_2b: "What? Absolutely not!"
+
+NYGX_LER_3_t: "Poland United Under the Hussite Banner"
+NYGX_LER_3_d: "Our people have been torn apart by strife and conflict. The lands of Lechia burn and wail with no one to save them, until the agents of Hus's truth walked upon Poland. We raise the banner of faith to unite the Polish people, taking up arms, ready at all times to defend our faith and nation. The Rus', the Roman Papacy, the Holy Roman Empire—those who see us as lambs for the slaughter, those who seek our destruction, those who are ever-warring and covet our lands—will ultimately pay the price for their transgression. The purifying flames will consume their sins and cleanse our blood. From the ruins on earth, beyond the gates of Heaven, we shall create an Eden on earth, an Eden for Poland."
+NYGX_LER_3a: "Poland shall drown them in their own blood."
+
+NYGX_LER_5_t: "The Apocalypse"
+NYGX_LER_5_d: "In the past God spoke to our ancestors through the prophets at many times and in various ways, but in these last days he has spoken to us by his Son, whom he appointed heir of all things, and through whom also he made the universe. The Son is the radiance of God’s glory and the exact representation of his being, sustaining all things by his powerful word. After he had provided purification for sins, he sat down at the right hand of the Majesty in heaven.\n\nAll have sinned and fall short of the glory of God.\nSome indulge in pleasure, forgetting God's will. Some are not content with what they have, coveting the lands of others. Some have forsaken their rightful place, not submitting to God's order. This is sin, and they shall fall into eternal punishment.\n\nFor all who draw the sword will die by the sword.\nNow our enemies have come to understand this profoundly. Poland is under God's protection. We accept Jesus as our Savior, sincerely repent and confess our sins, seeking the precious blood shed by Lord Jesus on the cross to cleanse and forgive us.\n\nThe corrupt and decadent Roman Papacy does not realize this. They treat Christ's truth as a plaything, willfully distorting His divine will. The Apocalypse shall come. The unbelievers and the impure shall face the judgment of the end times. Then, we shall become followers of Christ and enter with Him into the New Jerusalem."
+NYGX_LER_5a: "Everyone who calls on the name of the Lord will be saved."
+NYGX_LER_5a_tt: "In these §Rcritical§! times, the true §Jprotagonists§! are §Mwe ourselves§!, not §Oour Lord§!.\n"
+
+NYGX_LER_a_lifetime_of_war_modifier: "A Lifetime of War"
+NYGX_LER_6_t: "Heretical Divisions"
+NYGX_LER_6_d: "As our territory expands, more and more sects are flooding into our country. Churches of all kinds are everywhere, rife with contradictions. We must find a way to handle this situation."
+NYGX_LER_6a: "We should tolerate heretics within our borders. Otherwise, how are we different from the Roman Papacy?"
+NYGX_LER_6b: "There is no room for compromise. Convert or die!"
+NYGX_LER_6a_tt: "§OPurifying Zeal§! additional effects:\n- At maximum value:\nHeretic Tolerance: §G+3.00§!\nMax Heretic Tolerance: §G+3.00§!\nMissionary Strength vs Heretics: §R-2.0%§!\n"
+NYGX_LER_6b_tt: "§OPurifying Zeal§! additional effects:\n- At maximum value:\nHeretic Tolerance: §R-3.00§!\nMissionary Strength vs Heretics: §G+2.0%§!\n"
+
+NYGX_LER_danzig_rebel_title: "£mil£ @POL Plots the Danzig Uprising"
+NYGX_LER_danzig_rebel_desc: "Gdańsk is a prosperous port. Recently, conflicts have been growing between the local merchants and the Teutonic Order. We can exploit this discord…"
+NYGX_LER_danzig_rebel: "§RThis may lead to war!§!\n"
+
+NYGX_LER_release_LIT_title: "Release Lithuania"
+NYGX_LER_release_LIT_desc: "The Lithuanians should now understand that frequent conversions are not a wise course of action."
+
+NYGX_LER_defense_religion_title: "Defend the Faith"
+NYGX_LER_defense_religion_desc: "Our faith is in peril, surrounded by enemies on all sides. We must act swiftly to raise an army capable of holding them off, however improbable it may seem."
+
+NYGX_LER_care_for_rus_title: "Beware the Rus'"
+NYGX_LER_care_for_rus_desc: "The Rus' are still locked in a bloody struggle for the Grand Prince's throne in Kyiv. But we must be vigilant. Once their civil war concludes, their gaze may very well turn towards us."
+
+NYGX_LER_moveforward_east_title: "The Time for a Great Eastern Advance"
+NYGX_LER_moveforward_east_desc: "The Rus' hold no terror for us. Their endless warmongering is mere bluster! The Hussite Crusader Host will tear asunder any enemy bold enough to stand in the path of our eastward march!"
+
+NYGX_LER_yiduan_divide_title: "Heretical Divisions"
+NYGX_LER_yiduan_divide_desc: "OMG! Unbearable! Too many heretics!"
+
+NYGX_LER_free_slowfuck_title: "Liberate Slovakia"
+NYGX_LER_free_slowfuck_desc: "The Slovaks are our kin, yet they are driven by the Magyars. We must free them!"
+
+NYGX_LER_revenge_hussite_war_title: "Hussite War of Revenge"
+NYGX_LER_revenge_hussite_war_desc: "The foolish Holy Roman Emperor Sigismund brutally suppressed the Hussite uprising in Bohemia, forcing Hussite believers into exile and scattering them far and wide. They will pay for this. From Germany to Italy, their own blood shall flow!"
+
+NYGX_LER_defense_religion_tt: "While this modifier is active, §OPurifying Zeal§! at maximum value provides:\nArmy Morale: §G+20.0%§!\n"
+
+NYGX_LER_care_for_rus_tt: "[Root.GetName] gains the '§YForce Vassalization§!' Casus Belli against §YEast Slavic§! countries with an army size §Ysmaller§! than [Root.GetName]'s for §G20§! years.\n"
+
+NYGX_LER_moveforward_east_tt: "§YEast Slavic§! provinces under our rule, with §Mheretic§! religion, gain:"
+NYGX_LER_moveforward_east_modifier_prov: "Integrate the Rus'"
+
+NYGX_LER_yiduan_divide_tt: "\n§TEvent Preview§!:\nHeh heh, too many heretics. Should we raise the banner of tolerance or persist in our zeal to the end?\n"
+
+NYGX_LER_revenge_hussite_war_tt: "§OPurifying Zeal§! additional effects:\n- At maximum value:\nProvince War Score Cost: §G-15.0%§!\n\n[Root.GetName] unlocks the '§YHussite War of Retribution§!' Casus Belli against members of the §YHoly Roman Empire§!.\n\n[Root.GetName] gains claims on all §YHoly Roman Empire§! provinces.\n"
+NYGX_LER_revenge_hussite_war_modifier: "Second Hussite War"
+NYGX_LER_revenge_hussite_war_ttt: "Achieve victory in a war against the Emperor within the last §Y2§! years."
+
+NYGX_LER_kelakefu_title: "Seize Kraków"
+NYGX_LER_kelakefu_desc: "Kraków is an excellent commercial and industrial city in the Polish region. We must control her."
+
+NYGX_LER_burn_lit_title: "Conquer Lithuania"
+NYGX_LER_burn_lit_desc: "The Lithuanians are obstinate, fond of flip-flopping between paganism and Christianity. Now we shall teach them a lesson on what it means to have a new save file."
+NYGX_LER_burn_lit_tt: "Unlocks the decision '§YRelease Lithuania§!', which can release Lithuania as our §YJunior Partner§!.\n"
+NYGX_LER_burn_lit_modifier: "Lithuanian Hegemony"
+
+NYGX_LER_teach_cossack_title: "Enlist the Cossacks"
+NYGX_LER_teach_cossack_desc: "The Cossacks are essentially a group of landless, pitiable peasants. Their long-term, unruly lifestyle has given them combat prowess slightly above the average person. Perfect, we can offer them an identity."
+NYGX_LER_teach_cossack_tt: "Spawns §G10§! regiments of §YCossack Cavalry§! in the capital.\n"
+NYGX_LER_teach_cossack_modifier: "Enlist the Cossacks"
+
+NYGX_LER_defense_nomad_title: "Steppe Crusade"
+NYGX_LER_defense_nomad_desc: "The nomadic tribes are still incessantly clamoring for us to pay tribute. Well, we have no choice but to 'pay tribute' properly—with sword and fire!"
+NYGX_LER_defense_nomad_tt: "§OPurifying Zeal§! additional effects:\n- When above §G50§!, §RSacking§! a province will convert it to the §YState Religion§!.\n\n- At maximum value:\nMorale Damage Received: §G-15.0%§!\n"
+NYGX_LER_defense_nomad_modifier: "Steppe Crusade"
+
+NYGX_LER_mazufushe_title: "Seize Warsaw"
+NYGX_LER_mazufushe_desc: "Masovia lays claim to the title of the Kingdom of Poland, but clearly, there can only be one winner here."
+
+NYGX_LER_poland_unite_again_title: "Rebuilding Poland" # Rebuild the Kingdom of Poland
+NYGX_LER_poland_unite_again_desc: "Poland rises from the ashes like a phoenix! Let your voice be heard to the world! Then burn the world to cinders!"
+NYGX_LER_poland_unite_again_tt: "\n§TEvent Preview§!:\nPoland has been §Mreborn§! under the leadership of the §OHussites§!, and everything is so §Gflourishing§!. Now, it is time for the §Rnext step§!.\n\nUnlocks the decision '§YPlot the Danzig Uprising§!'.\n"
+
+NYGX_LER_tame_the_knight_title: "Tame the Orders"
+NYGX_LER_tame_the_knight_desc: "The knightly orders eye Poland and Lithuania covetously, dreaming of tearing a piece of flesh from us. Such wishful thinking. It's time to teach them who the true master of these lands is."
+NYGX_LER_tame_the_knight_tt: "§OPurifying Zeal§! additional effects:\n- At maximum value:\nMorale Damage: §G+15.0%§!\n\nIf @TEU §Y[TEU.GetName]§! or @LIV §Y[LIV.GetName]§! is our subject:\n- State Religion changes to §YHussite§!\n- Gain '§YDefender Knights§!' until the end of the game, granting the following effects:\nLiberty Desire: §G-25.0%§!\nArmy Morale: §G+10.0%§!\nLand Force Limit Modifier: §G+25.0%§!\nMissionary Strength: §G+2.0%§!\n\nAdditionally, §GRemove§! cores of @TEU and @LIV from provinces under our rule, and lose §G10§! separatism.\n"
+NYGX_LER_tame_the_knight_modifier_prov: "Defender Knights"
+
+NYGX_LER_big_rus_war_title: "The Great Rus' War"
+NYGX_LER_big_rus_war_desc: "The Rus' are embroiled in endless strife and war, fighting solely for that title. We have but one sky; let us charge towards the dawn! Sound the war drums! Raise the banners! Let the Rus' see who truly deserves to be called Slavs!"
+NYGX_LER_big_rus_war_tt: "§OPurifying Zeal§! additional effects:\n- At maximum value:\nAggressive Expansion Impact: §G-20.0%§!\n\nReduce Aggressive Expansion by §G25§!.\n"
+NYGX_LER_big_rus_war_modifier: "Further Integration of the Rus'"
+
+NYGX_LER_pommern_title: "Conquer Pomerania"
+NYGX_LER_pommern_desc: "Pomerania was once part of the Slavs and should rightfully return to our embrace."
+
+NYGX_LER_free_slowfuck_tt: "If @SLO §Y[SLO.GetName]§! is our subject, immediately §Gintegrate§! them.\n"
+NYGX_LER_free_slowfuck_modifier_prov: "The Slovak People Lend Their Full Support"
+
+NYGX_LER_a_lifetime_of_war_title: "A Lifetime of War"
+NYGX_LER_a_lifetime_of_war_desc: "A person faces many wars in a lifetime. A person bears sins that cannot be washed clean. All things must come to an end... Our entire lives have been devoted to this final 'war'. It lies not far away..."
+NYGX_LER_a_lifetime_of_war_tt: "§GLower§! the requirements to claim hegemony.\n"
+NYGX_LER_a_lifetime_of_war_tt2: "\n§TEvent Preview§!:\n'God said, "It is finished."'\n"
+
+NYGX_LER_mazufushe_modifier_prov: "Efficient Integration"
+ 
+NYGX_LER_bozinan_title: "Conquer Poznań"
+NYGX_LER_bozinan_desc: "Poznań borders the Holy Roman Empire and is vulnerable to invasion. Let us strike first."
+NYGX_LER_bozinan_modifier: "Border Integration"
+
+NYGX_LER_danzig_title: "Secure Danzig"
+NYGX_LER_danzig_desc: "Gdańsk is a fine port. But savages are not worthy of possessing it."
+NYGX_LER_danzig_ttt: "Supported the §YDanzig Uprising§!"
+NYGX_LER_danzig_ttyes: "£yes£ If we supported the §YDanzig Uprising§!:"
+NYGX_LER_danzig_ttno: "£no£ If we supported the §YDanzig Uprising§!:"
+NYGX_LER_danzig_tt: "\n§MOtherwise§!:"
+NYGX_LER_danzig_modifier_prov: "Port of Gdańsk"
+
+NYGX_LER_poland_navy_title: "Establish the Polish Navy"
+NYGX_LER_poland_navy_desc: "What? A Polish Navy?"
+NYGX_LER_poland_navy_modifier_prov: "Gdańsk Shipyard"
+NYGX_LER_poland_navy_modifier: "The New Polish Navy"
+
+NYGX_LER_try_to_dan_title: "Break Through the Øresund"
+NYGX_LER_try_to_dan_desc: "Our maritime trade has long been stifled by the Hanseatic League and the Kalmar Union. With the construction of the new Polish Navy, we have hope of breaking through the Øresund."
+NYGX_LER_try_to_dan_modifier: "Emerging Trade"
+NYGX_LER_try_to_dan_TRADE_KEY: "Øresund Trade"
+
+NYGX_LER_inward_religion_problem_title: "Enforce Religious Unity"
+NYGX_LER_inward_religion_problem_desc: "Hussites still make up too small a proportion of the country. We must quickly make everyone believe that Hus knew the truth!"
+NYGX_LER_inward_religion_problem_tt: "Gain §G5§! Church Power upon completing a §Ymissionary conversion§!."
+NYGX_LER_inward_religion_problem_modifier: "Enforced Religious Unity"
+
+NYGX_LER_a_frined_in_empire_title: "A Friend in the Empire"
+NYGX_LER_a_frined_in_empire_desc: "Despite the Hussite Wars, we should still be able to find a like-minded ally within the Empire."
+NYGX_LER_a_frined_in_empire_modifier: "Hussite Diplomacy"
+NYGX_LER_a_frined_in_empire_ttyes: "£yes£ If @MVA §Y[MVA.GetName]§! is §Gallied§! to us:"
+NYGX_LER_a_frined_in_empire_ttno: "£no£ If @MVA §Y[MVA.GetName]§! is §Gallied§! to us:"
+NYGX_LER_a_frined_in_empire_tt2: "\n§TEvent Preview§!:\nInvite Moravia to join our alliance and together face the enemies of Catholicism!\n"
+
+NYGX_LER_reclaim_hussite_title: "Hus Knew the Truth"
+NYGX_LER_reclaim_hussite_desc: "Jan Hus knew the truth! We shall become the new Hussite center!"
+NYGX_LER_reclaim_hussite_tt: "\n§OPurifying Zeal§! additional effects:\n- At maximum value:\nTrue Faith Tolerance: §G+3.00§!\n\nEstablish a §YHussite Reformation Center§! in the capital for §G50§! years.\n"
+NYGX_LER_reclaim_hussite_modifier_prov: "New Hussite Center"
+NYGX_LER_reclaim_hussite_ttyes: "£yes£ If the owner of §Y[266.GetName]§! is not §YHussite§!:"
+NYGX_LER_reclaim_hussite_ttno: "£no£ If the owner of §Y[266.GetName]§! is not §YHussite§!:"
+
+NYGX_LER_call_of_duty_title: "Call of Duty"
+NYGX_LER_call_of_duty_desc: "Prague, the holy land in the hearts of Hussites. Like a duty, it calls us to behold her glory."
+NYGX_LER_call_of_duty_tt: "If the §YHussite Reformation Center§! from the previous mission still exists, make it permanent. Otherwise, turn §Y[266.GetName]§! into a §YHussite Reformation Center§!.\n"
+NYGX_LER_call_of_duty_modfiier: "The Duty Calls"
+
+
+
+NYGX_LER_livonia_develop_title: "Riga Cathedral"
+NYGX_LER_livonia_develop_desc: "Riga is a Christian settlement. It is fitting to build a cathedral here to preach our Lord to the surrounding areas."
+NYGX_LER_livonia_develop_modifier: "Riga Cathedral"
+
+NYGX_LER_priate_port_title: "Eliminate the Pirate Threat"
+NYGX_LER_priate_port_desc: "A gang of dishonorable pirates has entrenched itself on Gotland. They brazenly attack merchant ships at will. We must eliminate them and establish a trading post there."
+NYGX_LER_priate_port_modifier: "Hire Gotland Pirates"
+NYGX_LER_priate_port_modifier2: "Secure Trade"
+SATE_SEA: "Secure Seas"
+
+NYGX_LER_silk_secret_title: "Secret of Silk"
+NYGX_LER_silk_secret_desc: "Silk from the distant East has always been a mystery. However, we have heard that the Byzantine Empire seems to hold this secret, or perhaps we can go to the East ourselves to find out..."
+NYGX_LER_silk_secret_tt1: "£yes£ The silk we obtained from Nicaean merchants sparked a revolution in the silk weaving industry:\n[257.GetName] and the §Y5§! highest-development provinces producing §YCloth§! will switch to producing §YSilk§! and gain:"
+NYGX_LER_silk_secret_modifier_prov1: "Silk Factory"
+NYGX_LER_silk_secret_tt2: "£yes£ Through a mix of coercion and inducement of the silk artisans under our rule, we have gained §Jsome understanding§! of silk:\n[257.GetName] and the §Y2§! highest-development provinces producing §YCloth§! will switch to producing §YSilk§! and gain:"
+NYGX_LER_silk_secret_modifier_prov2: "Silk Workshop"
+NYGX_LER_silk_secret_tt3: "£no£ Unfortunately, we remain §Rcompletely ignorant§! of silk, and can only attempt to imitate it based on expensive silk purchased from foreign lands...\n"
+NYGX_LER_silk_secret_modifier_prov3: "Clumsy Imitation"
+NYGX_LER_silk_secret_modifier_prov4: "Expand Warsaw"
+
+NYGX_LER_gongyehua_title: "Industrialize Poland" # Polish Industrialization
+NYGX_LER_gongyehua_desc: "Poland's development is rapid, with numerous factories springing up. Exquisite handicrafts are continuously sold across Europe."
+NYGX_LER_gongyehua_tt: "§Y10§! provinces producing §YWool§! will begin producing §YCloth§!.\n"
+NYGX_LER_gongyehua_modifier: "Industrial Development"
+
+pol_develop_countryside_NYAB_tt: "When developing a province with this modifier, there is a §J20%§! chance to gain an additional §G1§! development point.\n"
+NYAB_plc_invest_eastern_poland_modifier: "Invest in Polish Land Development"
+
+NYAB_pol_tend_east_title: "Focus on the East"
+NYAB_pol_tend_east_desc: "The lands in the east are backward and barren. We cannot let some regions get rich first; we should develop our lands in a balanced manner!"
+NYAB_pol_tend_east_modifier: "Efficient Tax System"
+NYAB_pol_tend_east_modifier_prov: "Eastern Development"
+
+NYAB_plc_dominate_european_markets_ttyes: "£yes£ If we are an §YEconomic Hegemon§!:"
+NYAB_plc_dominate_european_markets_ttno: "£no£ If we are an §YEconomic Hegemon§!:"
+NYAB_plc_dominate_european_markets_modifier: "Dominate the Economy"
+
+
+EDG_pol_develop_countryside_title:0 "Develop the Countryside"
+EDG_pol_develop_countryside_desc:0 "Investments in the serfdom-based manorial system have proven fruitful. They have significantly increased agricultural output and brought substantial profits. According to the advisors' suggestions, we should now further improve the development of townships and rural areas, raise the living standards of peasants, and promote the growth of rural markets. This will further boost prosperity and create higher economic benefits."
+
+EDG_plc_dominate_european_markets_title:0 "Dominate the Markets"
+EDG_plc_dominate_european_markets_desc:0 "Long-term reforms, policies, and actions have enabled us to secure a dominant position in the European markets and become a major economic power on the continent."
+
+EDG_pol_support_mercantile_class_title:0 "Patronize the Merchant Class"
+EDG_pol_support_mercantile_class_desc:0 "The merchants are the pillars of our nation's towns. They have long requested more support for their commercial activities, and this may indeed be profitable for us. By encouraging their trade across the realm in exchange for their loyalty, we too can share in the profits."
+
+EDG_pol_breadbasket_europe_title:0 "Breadbasket of Europe"
+EDG_pol_breadbasket_europe_desc:0 "For centuries, Polish agricultural production has firmly relied on the distinctive manorial system based on serfdom. If we can further invest in and promote this system, we can greatly increase grain exports to the Baltic states, establishing ourselves as Europe's breadbasket."
+
+EDG_plc_invest_eastern_poland_title:0 "Invest in Eastern Poland"
+EDG_plc_invest_eastern_poland_desc:0 "When our descendants ask, 'Why didn't you invest in Eastern Poland before?', how shall we answer?"
+
+EDG_pol_expand_krakow_university_title:0 "University of Kraków"
+EDG_pol_expand_krakow_university_desc:0 "The University of Kraków was founded by King Casimir III 'the Great' and received papal approval from Pope Urban V in 1364. It is our nation's first and finest educational institution. Over the changing times, the university's success in nurturing knowledgeable scholars for state service has encouraged its further expansion, for reason triumphs over brute force."
+
+EDG_plc_edict_education_title:0 "Edict of Education"
+EDG_plc_edict_education_desc:0 "The expansion of the University of Kraków has been highly successful. Therefore, by funding new academic centers, we can extend the education of scholars nationwide to reap the benefits."
+
+EDG_pol_develop_ukraine_title:0 "Develop Ruthenia"
+EDG_pol_develop_ukraine_desc:0 "On the banks of the mighty Dnieper River, the lands of Ruthenia are fertile and full of promise. However, centuries of warfare have left it depopulated, making Ruthenia's gloomy present a stark contrast to proper governance. We must invest resources to tame this land once more."
+
+EDG_pol_polish_renaissance_title:0 "Polish Renaissance"
+EDG_pol_polish_renaissance_desc:0 "The ideas of revival and innovation have spread from their Italian heartland. Poland must not fall behind the times and must embrace the Renaissance with open arms."
+
+EDG_pol_dissemination_new_ideas_title:0 "Dissemination of New Ideas"
+EDG_pol_dissemination_new_ideas_desc:0 "After Martin Luther publicly revealed his Ninety-five Theses, a new sect broke away from the Catholic Church, and the Reformation began. New ideas have already permeated our country, forcing us to decide on future religious policy: shall we remain faithful Catholics, adopt Protestantism or Reformed as our new state religion, or become a haven tolerating diverse faiths?"
+
+EDG_plc_printing_movement_title:0 "Printing Movement"
+EDG_plc_printing_movement_desc:0 "All around us, our country is filled with lush pastures and open plains. Such fertile lands require careful planning and diligent governance. Meanwhile, new trends are constantly emerging and sweeping across Europe, such as the printing industry. If our nation wishes to keep pace with this trend, we must designate an appropriate area for it to flourish."

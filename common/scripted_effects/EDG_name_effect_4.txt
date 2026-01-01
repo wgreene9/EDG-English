@@ -1,9 +1,9 @@
 
 EDG_FYM_civil_war_9_a_effect = {
 	define_heir = {
-		name = "扎伊德"
-		monarch_name = "扎伊德 I 「拉迪-克拉法」"
-		dynasty = "萨哈达"
+		name = "Zayd"
+		monarch_name = "Zayd I 'Radi-Khafa'"
+		dynasty = "Sahada"
 		claim = 95
 		adm = 4
 		dip = 5
@@ -25,8 +25,8 @@ EDG_FYM_civil_war_9_a_effect = {
 }
 EDG_FYM_civil_war_30_a_effect = {
 	define_ruler = {
-		name = "扎伊德 I 「拉迪-克拉法」"
-		dynasty = "萨哈达"
+		name = "Zayd I 'Radi-Khafa'" # Radi-Khilafa?
+		dynasty = "Sahada"
 		claim = 95
 		adm = 4
 		dip = 5
@@ -47,8 +47,8 @@ EDG_FYM_civil_war_30_a_effect = {
 }
 EDG_FYM_Caliph_war_18_a_name_effect = {
 	define_ruler = {
-		name = "伊德里斯 海伊斯 I 「苏丹努斯-塞拉丁」"
-		dynasty = "萨哈达"
+		name = "Idris al-Hayyis I 'Sultan Saladin'"
+		dynasty = "Sahada"
 		claim = 95
 		adm = 5
 		dip = 3
@@ -72,9 +72,9 @@ EDG_FYM_Caliph_war_18_a_name_effect = {
 }
 EDG_FYM_Caliph_war_20_a_name_effect = {
 	define_heir = {
-		name = "伊德里斯 海伊斯"
-		monarch_name = "伊德里斯 海伊斯 I 「苏丹努斯-塞拉丁」"
-		dynasty = "萨哈达"
+		name = "Idris al-Hayyis"
+		monarch_name = "Idris al-Hayyis I 'Sultan Saladin'"
+		dynasty = "Sahada"
 		claim = 95
 		adm = 5
 		dip = 3
@@ -94,12 +94,12 @@ EDG_FYM_Caliph_war_20_a_name_effect = {
 	
 }
 EDG_mission_FYM_363_captial_decision_name_effect = {
-	change_province_name = "杜姆亚特-穆卡拉玛"
-	rename_capital = "杜姆亚特-穆卡拉玛"
+	change_province_name = "Dumyat-Mukarramah"
+	rename_capital = "Dumyat-Mukarramah"
 }
 EDG_flavor_FYM_211_c_name_effect = {
     define_advisor = { 
-      name = "「猎手」 奥斯曼"
+      name = "Osman 'the Hunter'"
       type = procurator
       cost_multiplier = 0.25
       skill = 3 
@@ -107,7 +107,7 @@ EDG_flavor_FYM_211_c_name_effect = {
 }
 EDG_FYM_Caliph_war_10_a_name_effect = {
 	define_general = {
-	  name = "阿卜杜勒-瓦哈卜 「矮子」"
+	  name = "Abdul-Wahhab 'the Short'"
 	  shock = 3
 	  fire = 4
 	  manuever = 2
@@ -116,7 +116,7 @@ EDG_FYM_Caliph_war_10_a_name_effect = {
 }
 EDG_FYM_Caliph_war_11_a_name_effect = {
 	define_general = {
-	  name = "尼扎尔 库屈克"
+	  name = "Nizar Küçük" # 尼扎尔 库屈克
 	  shock = 4
 	  fire = 2
 	  manuever = 4
@@ -125,9 +125,9 @@ EDG_FYM_Caliph_war_11_a_name_effect = {
 }
 EDG_FYM_vassal_war_6_a_effect = {
 	define_heir = {
-		name = "法赫达"
-		monarch_name = "法赫达 I 「沙阿-阿伊吉汗」"
-		dynasty = "萨哈达"
+		name = "Fahd"
+		monarch_name = "Fahd I 'Shah-e-Aga Khan'"
+		dynasty = "Sahada"
 		claim = 95
 		adm = 5
 		dip = 6

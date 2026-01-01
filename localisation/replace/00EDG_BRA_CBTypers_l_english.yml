@@ -1,0 +1,17 @@
+﻿l_english:
+cb_BRA_transference_elector:0 "Forced Transfer of Electorate"
+cb_BRA_transference_elector_desc:0 "We can force them to transfer the Electorate title to us"
+war_goal_BRA_transference_elector:0 "Forced Transfer of Electorate"
+war_goal_BRA_transference_elector_desc:0 "The war goal is to force them to transfer the Electorate title to us"
+po_BRA_transference_elector:0 "Forced Transfer of Electorate"
+po_BRA_transference_elector_desc:0 "Forced Transfer of Electorate"
+peace_po_BRA_transference_elector:0 "Forced Transfer of Electorate"
+peace_po_BRA_transference_elector_desc:0 "Forced Transfer of Electorate"
+BRA_transference_elector_name:0 "War of Forced Electorate Transfer"
+CB_ALLOWED_po_BRA_transference_elector:0 "Forced Transfer of Electorate"
+PEACE_po_BRA_transference_elector:0 "Forced Transfer of Electorate"
+PEACE_po_BRA_transference_elector_desc:0 "Forced Transfer of Electorate"
+
+cb_BRA_brandenburg_war:0 "Hohenzollern Hegemony"
+cb_BRA_brandenburg_war_desc:0 "We can force them to acknowledge our hegemony"
+ 

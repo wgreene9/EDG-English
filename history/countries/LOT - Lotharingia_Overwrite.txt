@@ -1,6 +1,6 @@
 1433.1.22 = {
   monarch = {
-    name = "Ludwig VII"  # 
+    name = "Louis VII"  # 
     dynasty = "Carolingian"  # de Valois
     birth_date = 1390.2.22
     adm = 2

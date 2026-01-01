@@ -1,0 +1,4 @@
+﻿l_english:
+FROM_IS_NOT_DYNASTY:0 "$NAME|Y$ is not of the same dynasty as us"
+FROM_IS_NOT_ELECTOR:0 "$NAME|Y$ is not an Elector"
+ 

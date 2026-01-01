@@ -1,0 +1,123 @@
+﻿l_english:
+EDG_H06_mission_1_16_title:0 "The Western Frontier"
+EDG_H06_mission_1_16_desc:0 "The entire Carpathian Basin is now in our hands, and the natural borders of our dream have finally been realized. However, even the natural barriers surrounding our lands are useless if we remain unprepared. We must build fortresses, strengthen garrisons, drill our armies, and guard our most vulnerable western plains, securing the prosperity of Pannonia."
+
+EDG_H06_mission_1_18_title:0 "Shatter the Frontier"
+EDG_H06_mission_1_18_desc:0 "The Holy Roman Empire has always been like a vulture, greedily eyeing our lands. The rise of Habsburg territories in the west and the military buildup of the Germans under the leadership of the House of Welf are dangerously close at hand. For the stability of the Federation, we must take the initiative, singing marching songs as we campaign into Austria, end the Germanic 'Eastern March,' and seize the final piece of the Danubian Federation puzzle."
+EDG_H06_mission_1_18.effect.tt:0 "Gain a §T Casus Belli§! to §Y Force Vassalize§! all countries whose §T capital§! is located in the §Y South Germany§! region."
+
+EDG_H06_mission_1_20_title:0 "No Longer an Empire"
+EDG_H06_mission_1_20_desc:0 "In the past, the Germanic Empire took advantage of our focus not being on the west, causing us repeated bloody defeats. But today, they can no longer bear the crown of Charlemagne. Let us resolve the German question once and for all, let Germania burn in flames, gain full control of the upper reaches of our Mother River, and deal a fatal blow to those self-important, overreaching princes — let the blood flow, spare none!"
+EDG_H06_mission_1_20.effect.tt:0 "Gain a §T Casus Belli§! to §Y Force Vassalize§! all countries whose §T capital§! is located in the §Y France§! or §Y Italy§! regions."
+
+EDG_H06_mission_1_22_title:0 "Establish Crown Land"
+EDG_H06_mission_1_22_desc:0 "Our Empire is a vast federation standing above multiple cultures, faiths, and ideals, a land that appears by no means easy to rule. Whether by establishing authority through seizing new territories in the frenzy of war, or by reclaiming vassal power through relatively peaceful integration policies, we must establish a sufficiently strong Crown Land to maintain the stability of our empire."
+EDG_H06_mission_1_22.effect.tt:0 "Whenever a subject is §T diplomatically annexed§!, we gain §G+1%§! §Y Crown Land§!."
+EDG_H06_mission_1_22.effect_1.tt:0 "Whenever another country is §T annexed through war§!, we gain §G+1%§! §Y Crown Land§!."
+
+EDG_H06_mission_1_24_title:0 "Nurture Hungary"
+EDG_H06_mission_1_24_desc:0 "Hungary's fertile lands have become Europe's most renowned granary under the Federation's careful management. The grains of the Danubian Plain are shipped along the river to all corners of Europe, the livestock of the Carpathians are agricultural products envied by all, and the Hungarian lands have become the most dazzling jewel in the Federation's crown."
+EDG_H06_mission_1_24.effect.tt:0 "§O Crown Prestige§! will now §G reduce§! §Y Development Cost§!."
+
+EDG_H06_mission_2_16_title:0 "The Southern Bulwark"
+EDG_H06_mission_2_16_desc:0 "The entire Pannonian Basin is now in our hands. To secure our position, we must consolidate our borders in the south along the Danube and the Carpathian passes, ensuring this land will never again suffer invasions by nomads and unbelievers from the East."
+
+EDG_H06_mission_2_17_title:0 "Conquer the Balkans"
+EDG_H06_mission_2_17_desc:0 "The Balkan Peninsula has been mired in constant warfare since the fall of the Eastern Empire, with conflicts sparked by ethnicity, religion, and hatred erupting here again and again, earning it the name 'the powder keg.' It lies so close to us, a geographical extension of our Empire. The gentle Danube River not only nourishes our people but has also nurtured them. Let us kick over the powder keg of old, bringing them under the governance of the Federation and freeing them from the harassment of Bulgarians and Turks."
+
+EDG_H06_mission_2_19_title:0 "Advance into Anatolia"
+EDG_H06_mission_2_19_desc:0 "With the Balkans pacified, the security of our Federation's southern flank is assured. The vast manpower and resources here are now at our disposal, making us the de facto legitimate inheritors of the Eastern Empire's legacy. We shall also inherit her will, seek revenge for the Battle of Manzikert, declare war on the Turks of Asia Minor, and re-establish the Eastern Themes, laying the foundation for even greater conquests to come."
+
+EDG_H06_mission_2_21_title:0 "Unite Slovakia"
+EDG_H06_mission_2_21_desc:0 "The once highly autonomous Principality of Nitra, under Hungarian rule, was never fully aligned with the royal court in Buda, as its dukes in Trenčín pursued their own interests. Now, with the federal government taking control of the lands along the Nitra River, the Slovak people are under the benevolent and graceful sway of the central authority. The people of the north will be fully integrated into our nation, fighting alongside us as beloved brothers and kin."
+EDG_H06_mission_2_21.effect.tt:0 "§Y Slovak§! culture is §T integrated into§! the §Y Carpathian§! culture group."
+
+EDG_H06_mission_2_23_title:0 "Assimilation Policy"
+EDG_H06_mission_2_23_desc:0 "The nascent Carpathian nation is still too weak compared to the surrounding Germanic tribes, the sons of Čech, the South Slavic brothers, and the Rus'. We lack their long history and vast, deep territories. Yet, we will not allow our national identity to be submerged by theirs. Whether through an iron-fisted approach to enforce recognition or through cultural communities for infiltration, we must expand the cultural boundaries of the Carpathian people, ensuring we stand tall among the nations of Europe."
+EDG_H06_mission_2_23.effect.tt:0 "Replaces the §T trade policy§! §Y Establish Communities§! with §Y Establish Cultural Communities§!."
+EDG_H06_mission_2_23.effect_2.tt:0 "Replaces the §T trade policy§! §Y Improve Inland Routes§! with §Y Rule with an Iron Fist§!."
+EDG_H06_mission_2_23.effect_3.tt:0 "Gain §Y10§! £adm£ every time we §T convert§! a province's §Y culture§!."
+
+EDG_H06_mission_1_25_title:0 "Resolve the Famine"
+EDG_H06_mission_1_25_desc:0 "Years of continuous warfare have devastated the Eastern world, plunging the people into famine and the economy into depression. We must now further improve the development of towns and villages across our territories, raise the living standards of the peasants, and promote the growth of rural markets. This will foster greater prosperity, create higher economic efficiency, make our lands the granary of Europe, and finally put an end to famine."
+
+EDG_H06_mission_3_15_title:0 "Heart of the Mountains"
+EDG_H06_mission_3_15_desc:0 "For a long time, the Danube Basin and the Carpathian region have been seen as an arena for the struggles of kings. Now, by ending the chaos and proclaiming the Federation, our nascent empire has clearly become a hegemon capable of rivaling the great powers of Western Europe. The Danubian Federation, the Heart of the Mountains, has become the beating heart of Europe and will remain so."
+
+EDG_H06_mission_3_17_title:0 "Danube's Pearl"
+EDG_H06_mission_3_17_desc:0 "In western lands, under sunlight,\nIn spring, blossoms grow,\nBuds sprout on treetops, fresh waters flow,\nAnd merry songbirds cheerfully sing.\nOr perhaps on clear, cloudless nights,\nWith swaying beeches, leaves cascading,\nDanube's pearl, Vienna,\nShines bright as a brilliant, gleaming white gem."
+EDG_H06_mission_3_17.effect.tt:0 "§O Crown Prestige§! will now §G reduce§! §Y Diplomatic Annexation Cost§!."
+EDG_H06_mission_3_17.effect_2.tt:0 "§G Reduces§! the §Y Global Unrest§! bonus from §R Tyranny§!."
+
+EDG_H06_mission_3_18_title:0 "Tracing the Source"
+EDG_H06_mission_3_18_desc:0 ""You are sentimental,\nYoung, beautiful, gentle, and kind,\nShining like gold within the mine,\nTrue feelings awaken there,\nBy the Danube's side,\nThe beautiful, blue Danube's side.\nFragrant blooms exhale their scent,\nSoothing the shadows and wounds in my heart,\nFlowers still bloom amidst barren thickets,\nNightingales trill their song,\nBy the Danube's side,\nThe beautiful, blue Danube's side.""
+EDG_H06_mission_3_18.trigger.tt:0 "All §T mission-highlighted§! provinces are owned by us or our subjects."
+EDG_H06_mission_3_18.effect.tt:0 "All §T mission-highlighted§! provinces gain the following effects:"
+EDG_H06_mission_3_18.effect_1.tt:0 "Whenever a subject is §T diplomatically annexed§!, we gain §G50§! £adm££dip££mil£."
+EDG_H06_mission_3_18.effect_2.tt:0 "Whenever another country is §T annexed through war§!, we gain §G50§! £adm££dip££mil£."
+
+EDG_H06_mission_3_20_title:0 "The National Question"
+EDG_H06_mission_3_20_desc:0 "The Carpathian peoples have always been a distinct group among Europe's population, with customs and languages markedly different from our neighbors. Now we have broken free from the encirclement of continental powers and established our own empire. To consolidate our Federation, we must handle the national question with care and forge a unified national identity."
+EDG_H06_mission_3_20.effect.tt:0 "§T Accepting Cultures§! grants us §G20§! §Y Government Reform Progress§!."
+EDG_H06_mission_3_20.effect_2.tt:0 "§O Crown Prestige§! now provides bonuses related to §T Culture§!."
+EDG_H06_mission_3_20.effect_3.tt:0 "§R Tyranny§! now provides bonuses related to §T Culture§!."
+
+EDG_H06_mission_3_22_title:0 "More Than a Geographical Concept"
+EDG_H06_mission_3_22_desc:0 "The majestic Carpathian Mountains encircle the Pannonian Basin to the east, curving southwards; the rushing Danube River flows through the Hungarian Plain in the west, turning south then east. This is a natural geographical boundary where Slavs, Magyars, Romanians, and Germans have all settled. To ensure our nascent nation endures for ages, we must continually advance the Carpathian national identity, making Carpathia more than just a geographical concept."
+EDG_H06_mission_3_22.effect.tt:0 "When we §Y complete this mission§! or each time we §Y accept a new culture§!, all provinces we own that are of our §Y accepted cultures§! gain the following modifier, until the province's §Y culture is converted§!."
+
+EDG_H06_mission_3_24_title:0 "Stars Around the Moon"
+EDG_H06_mission_3_24_desc:0 "The paramount people shall rule all peoples. In the land of eternal twilight, where mountains pierce the clouds, silver springs cascade, roofs are made of gold, and floors paved with silver, stars fall before us, and the moon dims in our presence. We are a brilliant beacon; we are the flame of the Western lands, the world's newly risen moon. All nations, all peoples, shall encircle the Polaris, bowing to our supreme authority."
+EDG_H06_mission_3_24.effect.tt:0 "§T Diplomatic Annexation§! of subjects §G no longer reduces§! the §Y opinion§! other subjects have of us.\n\nEach time we §T diplomatically annex§! a subject, all subjects have their §Y Liberty Desire§! reduced by §Y10§!."
+EDG_H06_mission_3_24.effect_1.tt:0 "Enacting §T Impalement§! now grants the province the following modifier."
+
+EDG_H06_mission_3_25_title:0 "Slovak Industry"
+EDG_H06_mission_3_25_desc:0 "The hills and mountains of the Northern Carpathians hold vast mineral veins, leading the region to be named 'Rudohorie'—the Ore Mountains. We must unleash Slovakia's potential, redouble our efforts to extract the wealth from these mountains, arm our armies, fund our wars, and make this land the base of our industrialization."
+
+EDG_H06_mission_3_26_title:0 "The Grand Enterprise"
+EDG_H06_mission_3_26_desc:0 "Danube, Danube! From the western mountains to the eastern sea!\n\nWestern winds blow, former kings reign,\n\nThe light of sages rains down,\n\nMajestic white walls, knights gleaming bright!\n\nThe crown adorned with wings, the throne forged of gold!\n\nDanube, Danube! To the northern snows, to the southern sands!\n\nCloaked in sunlight, singing as we ride,\n\nWinds of stars and moon sweep like fire,\n\nGlistening waters, armies clad in black steel!\n\nThe longsword in our hand, the Grand Enterprise is done!"
+EDG_H06_mission_3_26.effect.tt:0 "Gain a §T Casus Belli§! to §Y Force Vassalize§! all independent countries §Y in the world§!."
+EDG_H06_HUN_kapatia_empire:0 "Carpathia"
+EDG_H06_HUN_kapatia_empire_ADJ:0 "Carpathian"
+EDG_H06_HUN_twilight_empire:0 "Empire of the Twilight"
+EDG_H06_HUN_twilight_empire_ADJ:0 "Twilight Empire"
+EDG_H06_mission_3_26.effect_1.tt:0 "Gain a §T Casus Belli§! for a §Y Conquest War§! against all independent countries §Y in the world§!."
+
+EDG_H06_mission_4_16_title:0 "Northern Bulwark"
+EDG_H06_mission_4_16_desc:0 "Now that we control the fertile and easily defensible Nitra region in the north, we must properly fortify it. Through the gaps in the northern Carpathian defense line, we hope to foster a stronger military tradition along our borders and better defend the nation."
+
+EDG_H06_mission_4_17_title:0 "Road to the Baltic"
+EDG_H06_mission_4_17_desc:0 "The Jagiellonian dynasty of Poland once ruled vast territories from the Baltic Sea to Polonia. Yet, the lands of the sons of Lech have been divided for decades, and Władysław's legacy is lost in war. The Griffin dynasty of Pomerania once held sway from Stockholm to the Wends, but the descendants of Gryfit are no longer glorious, and the Kashubians have been submerged among German settlers. Let us show mercy, resolve their succession crises, and in return, they shall offer us their hearts, pledge undying loyalty, and pave the way for our northern advance."
+EDG_H06_mission_4_17.effect.tt:0 "Gain a §T Casus Belli§! to §Y Force Vassalize§! all countries whose §T capital§! is located in the §Y Baltic§! or §Y Scandinavia§! regions."
+
+EDG_H06_mission_4_19_title:0 "Winter Offensive"
+EDG_H06_mission_4_19_desc:0 "The rulers of Sweden still dream grand dreams of Baltic hegemony behind closed doors in the Stockholm court. We cannot allow others to intervene in our sphere of influence; they must not succeed. We must end the Viking illusion with our own hands and slay the blustering lion of the North! The rich and beautiful Baltic Sea shall belong to us, and the brave, battle-hardened warriors of the North shall obey our commands!"
+
+EDG_H06_mission_4_21_title:0 "Integrate Transylvania"
+EDG_H06_mission_4_21_desc:0 "The mountain folk of Transylvania are a unique presence within the Federation. Settled among continuous mountain ranges, a natural cultural divide has emerged between them and the citizens of the plains. The Federation's rule must not be challenged because of this, and the mountain villages of Transylvania will also receive the government's care. We shall strive to develop their towns and local structures, repay their hard work, and make them proud to be citizens of the Federation."
+
+EDG_H06_mission_4_23_title:0 "Expand Influence"
+EDG_H06_mission_4_23_desc:0 "With the Carpathian national identity established, the Federation has become a transcendent power in Central Europe. A new national concept is rising across our territories; peoples of other ethnicities look to our brilliance, yearning to become part of our Crown. Let us fulfill their wishes, promote Pan-Carpathianism, and extend our influence to more distant lands."
+EDG_H06_mission_4_23.effect.tt:0 "All subjects whose §T primary culture§! is not in our §Y culture group§! have their §T primary culture§! and §Y capital§! culture converted to our §T primary culture§!."
+EDG_H06_mission_4_23.effect_1.tt:0 "Up to §Y25§! of our provinces that §Y meet the mission conditions§! will have their §Y culture§! converted to our §T primary culture§!."
+
+EDG_H06_mission_4_25_title:0 "Industrial Expansion"
+EDG_H06_mission_4_25_desc:0 "For a long time, the Federation's economy has relied heavily on mineral extraction and agriculture—sources that are quite singular. This is highly unfavorable for building a modern state. We must vigorously encourage the development of other industries, strengthen trade with surrounding regions, diversify our economic structure, avoid all potential economic issues, and ensure the Federation's everlasting prosperity."
+
+EDG_H06_mission_5_16_title:0 "The Eastern Line"
+EDG_H06_mission_5_16_desc:0 "The Carpathian Mountains have a long history of being invaded from the east by nomadic peoples. The Huns, Avars, and Magyars all once paused here, gazing upon and ultimately conquering this fertile land. We must never let this happen again. The eastern flank of our Federation shall be guarded by fortifications impassable to enemies, finally granting our people peace."
+
+EDG_H06_mission_5_18_title:0 "Gallop Through Ruthenia"
+EDG_H06_mission_5_18_desc:0 "The lands of Kievan Rus' are infested with dim-witted scions of Rurik, self-important Hetmans, and ambitious yet incompetent Patriarchs. This rabble, having only just shaken off the Tatar yoke, has eagerly plunged into years of civil war, casting a pall over our eastern frontier. It is time to show them strength. Just as their ancestors once knelt before the Mongols, these poor Ruthenian principalities shall submit to our rule. We shall become the benevolent and superior lords of the Slavs."
+
+EDG_H06_mission_5_20_title:0 "The Long Journey Home"
+EDG_H06_mission_5_20_desc:0 ""Magyar, Dacian, where now lies your ancestral land? Why do you wander, not returning home?\n\nNot far, the lost lands shall reappear, black-armored troops returning from the south.\n\nWhite knights hold the passes, marching ever northward.\n\nMagyar, Dacian, you have lingered long beneath the trees,\n\nGrown by the vast Danube's banks, unaware of your homeland's brilliant stars!\n\nIf you see the vast sea of clouds over your homeland, your heart will no longer rest beneath the trees.""
+
+EDG_H06_mission_5_22_title:0 "Administrative System Reform"
+EDG_H06_mission_5_22_desc:0 "We summon all manner of lords and administrators from across our lands to understand the issues facing our Federation, hoping our ruler can resolve them all at once. The legitimate interests of all subjects shall be safeguarded, the authority of the Danubian Federation government is supreme, and you are all people of the Federation!"
+EDG_H06_mission_5_22.effect.tt:0 "§O Crown Prestige§! will now §G reduce§! §Y Separatism§!."
+EDG_H06_mission_5_22.effect_1.tt:0 "§R Tyranny§! will now §G reduce§! §Y Separatism§!."
+
+EDG_H06_mission_5_24_title:0 "Develop Romania"
+EDG_H06_mission_5_24_desc:0 "From Suceava to Bucharest, the fertile lands of Romania have become the most valuable frontier in the East under the Federation's management. This land, accessible in all directions and connecting Balkan and Crimean trade, has now become the coveted 'apple of the world' that all envy."
+EDG_H06_mission_5_24.effect.tt:0 "§R Tyranny§! will now §G reduce§! §Y Development Cost§!."

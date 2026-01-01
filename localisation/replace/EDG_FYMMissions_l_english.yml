@@ -1,0 +1,364 @@
+﻿l_english:
+EDG_FYM_disaster_mission_1_2_title:0 "The Bahri Conspiracy"
+EDG_FYM_disaster_mission_1_2_desc:0 "Although the Sahada Dynasty once aided the Bahri family in suppressing a rebellion, the overbearing former Sultan of the Mamluks remains unwilling to submit to our rule, deludedly hoping to one day stage a comeback. The merciful [Root.Monarch.GetTitle] will remind him of the fate of the defeated."
+
+EDG_FYM_disaster_mission_1_4_title:0 "Governor of Alexandria"
+EDG_FYM_disaster_mission_1_4_desc:0 "The Malik War has devastated the prosperity of the Egyptian region, and the Bey's betrayal serves as a reminder of the unreliability of foreigners. With the Sahada Dynasty once again in control of the Empress of the Mediterranean, let us entrust Alexandria to the most loyal retainer of the [Root.Monarch.GetTitle] within our realm." # Maliki War
+
+EDG_FYM_disaster_mission_2_1_title:0 "The Edifice Crumbles"
+EDG_FYM_disaster_mission_2_1_desc:0 "The rapid expansion of the Sahada Dynasty has sown the bitter seeds of today's chaos, with intricate political factions casting covetous eyes on the sacred authority. The Yemeni Eagle will not have its wings broken by the raging storm; the [Root.Monarch.GetTitle] will employ thunderous measures to salvage the declining empire."
+
+EDG_FYM_disaster_mission_2_2_title:0 "Divide the Asadāt"
+EDG_FYM_disaster_mission_2_2_desc:0 "The time-tested feudal warriors of Egypt are no longer as united as before, and the Mamluk leader Burji cannot recreate the formidable authority of yesteryears. Let us find any excuse to expel these super-soldiers from [361.GetName]."
+
+EDG_FYM_disaster_mission_2_3_title:0 "Stabilize Egypt"
+EDG_FYM_disaster_mission_2_3_desc:0 "Since ascending the throne, the [Root.Monarch.GetTitle] has been helpless against the undercurrents of conspiracy in Egypt. The stubborn old ministers of the former dynasty persistently slander the Sahada Dynasty as foreign opportunists. Relying on the present protracted conflict, we can separate the pure from the impure and thoroughly tame the unruly Mamluk forces."
+
+EDG_FYM_disaster_mission_2_4_title:0 "The Rosetta Accord"
+EDG_FYM_disaster_mission_2_4_desc:0 "We are not unaware of the Grand Vizier's ambition for the imperial throne, but the complex political situation does not permit the [Root.Monarch.GetTitle] to purge the achievements of the central pillar of the court. Let us momentarily swallow our pride and use goodwill to win over the well-connected Rosetta family, reminding them where they should stand in this game of power."
+
+EDG_FYM_disaster_mission_2_5_title:0 "Reshaping Authority"
+EDG_FYM_disaster_mission_2_5_desc:0 "With the vast majority of domestic military factions once again pledging allegiance to the [Root.Monarch.GetTitle], the undying banner of the Sahada Dynasty can be raised anew in the Land of the Rising Sun. From now on, none shall dare to question our supreme authority."
+
+EDG_FYM_disaster_mission_3_2_title:0 "The Mediator"
+EDG_FYM_disaster_mission_3_2_desc:0 "The Rosetta family of the Nile Delta controls the empire's military and administrative power. If the [Root.Monarch.GetTitle] wishes to secure the Sahada Dynasty's long-term rule over Egypt, we must draw closer to Ahmad."
+
+EDG_FYM_disaster_mission_3_4_title:0 "The Abbasid Caliph"
+EDG_FYM_disaster_mission_3_4_desc:0 "The Abbasid Caliph stirs restlessly under the shadow of his patrons; his harmless disguise cannot conceal his wolfish ambition to overthrow the empire. If the Sunnis still wish to hold a place within the Sahada Dynasty's rule, the Caliph must utterly submit to our indisputable sovereignty."
+
+EDG_FYM_disaster_mission_3_6_title:0 "End the Malik War"
+EDG_FYM_disaster_mission_3_6_desc:0 "All ambitious schemers have been forced into silence; all rebels have ultimately been ground to dust. The [Root.Monarch.GetTitle] has used horrifyingly brutal methods to subdue those petty individuals who dared to covet the divine regalia. The moribund empire is about to experience a second rebirth; the sun of the Sahada Dynasty has risen once more."
+
+EDG_FYM_disaster_mission_4_1_title:0 "Suppress Al-Mutahhar"
+EDG_FYM_disaster_mission_4_1_desc:0 "The very head of the empire's spirit is occupied by traitors, and the stability of the Arabian region hangs by a thread. The [Root.Monarch.GetTitle] will severely punish the instigators of this civil war, using the blood of the separatists as a warning to all."
+
+EDG_FYM_disaster_mission_4_2_title:0 "The Lantern of Muha"
+EDG_FYM_disaster_mission_4_2_desc:0 "The Rashidi faction, meritorious officials from the founding era, abuses its power in Yemen relying on past military achievements, even conspiring against the rule of the [Root.Monarch.GetTitle]. Outlaws shall not be tolerated within the domains of the Sahada Dynasty. Let us use more severe admonishments to shatter the illusions of the warlord aristocracy."
+
+EDG_FYM_disaster_mission_4_3_title:0 "Stabilize Syria"
+EDG_FYM_disaster_mission_4_3_desc:0 "The Sham League outwardly pledges loyalty to the rule of the [Root.Monarch.GetTitle], but secretly plots against the authority of the Sahada Dynasty. To prevent the expansion of the Malik War, we should tighten the reins on our vassals, firmly controlling the unruly feudal lords within the governance of the empire."
+
+EDG_FYM_disaster_mission_4_4_title:0 "The Shackles of Beja"
+EDG_FYM_disaster_mission_4_4_desc:0 "The toil of the slaves has maintained the prosperity of the Sahada Dynasty, yet they dare to exploit our moment of weakness to make demands for benefits. Before these laughable requests can be exploited by ill-intentioned parties, the [Root.Monarch.GetTitle] will use a lash imbued with love to reawaken the patriotic hearts of our fuel."
+
+EDG_FYM_disaster_mission_4_5_title:0 "The Jamshid of the Present Age"
+EDG_FYM_disaster_mission_4_5_desc:0 "The just [Root.Monarch.GetTitle] has won the wholehearted welcome of the people under his rule. Led by him, the Sahada Dynasty has become a mythical realm without severe cold or intense heat, without death, and without demons sowing envy. From now on, none shall dare to question our most sacred rule."
+
+EDG_FYM_disaster_mission_5_2_title:0 "The Fourteen Sheikhs"
+EDG_FYM_disaster_mission_5_2_desc:0 "The Bedouin Emirs have sweated and bled for the empire's campaigns north and south, but their unruliness has begun to threaten the unity of the Sahada Dynasty. Let us use the blade of restraint to revoke the Bedouins' extraterritorial privileges, ensuring these nomads understand their proper place within the empire."
+
+EDG_FYM_disaster_mission_5_4_title:0 "The Loyalty of the Copts"
+EDG_FYM_disaster_mission_5_4_desc:0 "The Dhimmi system and the Fayyum framework have granted the Egyptian Coptic Christians lenient governance, but their recklessness has begun to endanger the stability of the Sahada Dynasty. Let us use compensated trust to reclaim the extraterritorial benefits of the Copts, ensuring these infidels understand their proper place within the empire."
+
+
+EDG_FYM_mission_1_2_title:0 "The Locust Plague of Yore"
+EDG_FYM_mission_1_2_desc:0 "The unexpected invasion of 1221 led to the fall of Ifriqiya to the Franks for over two centuries. The holy city of Kairouan is filled with the sins of the Crusaders. The infidels are a locust plague upon the Maghreb, desecrating our holy sites, plundering our wealth, selling our brethren into slavery, and forcing them to apostatize. By Allah, we must overthrow these evildoers and reclaim Tunis."
+
+EDG_FYM_mission_1_3_title:0 "Expel the Crusaders"
+EDG_FYM_mission_1_3_desc:0 "Tripolitania, a desolate coast, a cruel wilderness, a land of despair shrouded by death and villains. The Knights Templar who enslaved this land are now burning before the furious uprising of the Muslims. We are the sword of Islam, the guardians of the Caliphate, and we must take up the responsibility of protecting our brethren, aiding them in completing their vengeance against this nest of evil."
+
+EDG_FYM_mission_1_5_title:0 "The Christians' Nightmare" # The Nightmare of the Christians
+EDG_FYM_mission_1_5_desc:0 "The unbelievers in the holy land of Kairouan have been uprooted by the Ghazi warriors, groveling before the [Root.Monarch.GetTitle]. No Crusader state shall ever again defile our faith in the lands of the setting sun. Since the Christians can no longer threaten our rule, we may permit them to continue their worship in peace, or send the cooperative Coptic Pope to aid their conversion, or perhaps let the clergy use a little... force, to bathe them in the light of Allah."
+
+EDG_FYM_mission_1_7_title:0 "Manage the Maghreb"
+EDG_FYM_mission_1_7_desc:0 "On the night of Baylat in 1205, as the lamps were lit along the Nile, a band of brigands took advantage of the residents' prayers to attack, loot, and engage the Ayyubid militia in fierce street battles within [361.GetName]. The last descendant of the Fatimid family, Sulayman ibn Dawud, along with several attendants, seized the chance to flee the Ayyubid Dynasty, journeying westward to the Barbary Coast where he founded the Later Fatimid Dynasty. But now, the realm of Prince Sulayman is in its twilight. We must manage the Maghreb, entering Kabylia ahead of others to rescue the descendants of the Prophet from the Berbers and Crusaders, correct the Ayyubid error, and welcome the contemporary Imam back to [361.GetName]."
+
+EDG_FYM_mission_1_8_title:0 "Capture the Mahdi"
+EDG_FYM_mission_1_8_desc:0 "The Almohad Caliphate should have perished in 1258, but it gained a respite due to the unexpected death of the Marinid Sultan, allowing it to linger on. The descendants of al-Mu'min are now slowly regaining vitality, even nurturing unwarranted ambitions for the supreme position and developing their own interpretations of Sharia. We acknowledge that their insights do have merit, but these Berbers are nothing more than unruly mounted bandits and pirates. We trust the blade of Malik will teach them and their Mahdi how to properly employ their talents in service to their sovereign."
+
+EDG_FYM_mission_1_10_title:0 "Mozarabs"
+EDG_FYM_mission_1_10_desc:0 "The Mozarabic Rite, also known as the Moorish-Arabic Rite, represents a remnant of early Christianity. Mozarabs have long lived under the rule of Moorish monarchs, isolated and conservative, preserving the most primitive Spanish liturgical traditions. They maintain a superficial harmony with the Crusader kingdoms in the north that follow the Roman Rite, while playing a significant role in the spread of Islamic culture to other European Christian nations. They have consistently enjoyed amicable cooperation with the Caliphate of Córdoba and its successors. Consequently, some ministers have proposed to the [Root.Monarch.GetTitle] that these Mozarabs, who also do not follow the Roman Rite, could be integrated into the empire's Coptic class, allowing them to assist the Malik in reconstructing the administrative system of Al-Andalus."
+
+EDG_FYM_mission_1_12_title:0 "Invade Alemannia"
+EDG_FYM_mission_1_12_desc:0 "Let us behold the Holy Roman Empire—the cursed successor of Charlemagne, the guardian of the evil pseudo-church, the last bastion of the West after the fall of France. The Germans, faced with our relentless advance, remain entangled in incessant internal strife, utterly incapable of bearing the laurels of the Roman Caesar or the burden of defending the West. Undoubtedly, the Catholic Church has reached its end, and the final legacy of Charles shall also be destroyed by us. Today marks the day of calamity for Alemannia!"
+
+EDG_FYM_mission_1_14_title:0 "Trade Routes to India"
+EDG_FYM_mission_1_14_desc:0 "The Sahada Empire grows increasingly prosperous. Our sailors frequent the ports of India, where they find the Sultanates to be so weak, yet possessing enviable wealth. Hearing of the immense profits Europeans reap from their colonies across the ocean, we too shall make India a colony of the empire, channeling its endless supply of manpower and resources into the treasuries of Sahada."
+
+EDG_FYM_mission_1_16_title:0 "Integrate the Caste System" # Consolidate the Caste System
+EDG_FYM_mission_1_16_desc:0 "India is vast, with diverse ethnicities and faiths, long maintained in a delicate balance. Preceding conquerors of India, centered on the ruling class, divided society into numerous endogamous groups based on occupation—the castes. Over millennia, with the deepening influence of Turks and Mughals on India, the caste system evolved into a highly rigid hierarchical order meticulously serving the rulers. Our [Root.Monarch.GetTitle] finds great interest in this system and gladly decides to promote a Sahada version of the caste system throughout India."
+
+EDG_FYM_mission_1_18_title:0 "Restore Production"
+EDG_FYM_mission_1_18_desc:0 "Years of continuous warfare have displaced the people of Egypt. As capable rulers, we must restore production, allowing our subjects to forget the traumas of this century."
+
+EDG_FYM_mission_1_20_title:0 "Ministry of Inspection"
+EDG_FYM_mission_1_20_desc:0 "Thanks to the [Root.Monarch.GetTitle]'s own exceptional talents, the diligent execution of duties by inspectors, and the outstanding competence of grassroots judicial officers, government decrees have been thoroughly implemented. Consequently, the [Root.Monarch.GetTitle], [Root.Monarch.GetName], has decided to strike while the iron is hot and formally establish a Ministry of Inspection."
+
+EDG_FYM_mission_1_21_title:0 "Ministry of Finance"
+EDG_FYM_mission_1_21_desc:0 "As the empire's administrative system grows increasingly vast, the former Privy Treasury Department has begun to struggle with handling the economic affairs of the entire empire. Therefore, by the authority of the [Root.Monarch.GetTitle], a Ministry of Finance has been established in accordance with the times, taking over a portion of the duties previously held by the Privy Treasury Department."
+
+EDG_FYM_mission_1_22_title:0 "Imperial Privy Council"
+EDG_FYM_mission_1_22_desc:0 "The [Root.Monarch.GetTitle] now holds great power, but unwilling to listen only to partial counsel or become intoxicated with authority, he has established the position of Grand Vizier to implement a system of checks and balances between the monarch and the minister."
+
+EDG_FYM_mission_1_23_title:0 "Imperial Thoroughfare"
+EDG_FYM_mission_1_23_desc:0 "The landmass lying between the Red Sea and the Mediterranean has inspired our advisors with an idea for an engineering project. By connecting the two seas, our fleets can navigate between them with far greater ease."
+
+EDG_FYM_mission_1_24_title:0 "Implement Shura"
+EDG_FYM_mission_1_24_desc:0 "No monarch can govern alone. Let us draw examples from the Quran and seek the opinions of the people and court members on the actions they wish the Sahada Empire to undertake."
+
+EDG_FYM_mission_1_25_title:0 "Zahiriyya Library"
+EDG_FYM_mission_1_25_desc:0 "Education is a crucial endeavor for the Sahada Dynasty's benevolent civilizing mission towards its subjects. The state has a responsibility to ensure we provide the highest quality of education to all our subjects who seek it!"
+
+EDG_FYM_mission_1_28_title:0 "Arabian Steeds"
+EDG_FYM_mission_1_28_desc:0 "During the great Islamic conquests, the fine quality of Bedouin riders and the exceptional capabilities of Arabian horses astonished the world. However, with the prolonged era of peace, the great riders of old ultimately became corrupted, their horses turned out to pasture, and the once-thriving breeding programs for these steeds were abandoned. To propel another great conquest, Sahada must revive the breeding of Arabian steeds and awaken the warriors in the oases, who are as robust and agile as those very horses."
+
+EDG_FYM_mission_1_30_title:0 "Cuirassiers with Firearms"
+EDG_FYM_mission_1_30_desc:0 "The [Root.Monarch.GetTitle] keenly observed that traditional cavalry would soon fall behind the times. Sahada has no need for old-style cavalrymen who only know how to wield sabers or show off their horsemanship and archery. Therefore, by the sovereign's decree, all must practice firearms techniques, update their armor, and establish a modern corps of cuirassiers equipped with firearms."
+
+EDG_FYM_mission_1_31_title:0 "The Marrow of the Empire"
+EDG_FYM_mission_1_31_desc:0 "The 'slaves' of the Sahada Empire consist of two strata: civil and military. The former constitutes the bureaucratic class, while the latter are mostly Mamluks, who command the armies and hold high offices such as Sultan, Governor, and Chief Justice. Civil officials participate in all aspects of the imperial administrative system. They enjoy the deep trust of the [Root.Monarch.GetTitle], serving as the sovereign's confidants, the pillars of the dynasty, and the marrow of the empire."
+
+EDG_FYM_mission_2_2_title:0 "Protect Cyrenaica"
+EDG_FYM_mission_2_2_desc:0 "In 1222, the Frankish Crusaders divided their forces into two routes: one, led by Stephen of Cloyes, landed at Alexandria by sea, while the other, composed of the Knights Templar, besieged the city of Benghazi by land, threatening the Cyrenaica region. Just as Benghazi teetered on the brink of collapse, news of a great victory arrived from [361.GetName]: the seaborne Crusader force had been completely annihilated. Upon hearing this, the Templars fled westward in panic, lifting the siege of Cyrenaica. Times have changed; we are not the declining Ayyubid Dynasty, and the Crusaders of the Maghreb are no longer as fierce and skilled in battle as they once were. Yet, the strategy of repairing Benghazi's fortifications and consolidating Egypt's defenses remains as relevant as ever."
+
+EDG_FYM_mission_2_4_title:0 "The Safety of the Nile"
+EDG_FYM_mission_2_4_desc:0 "The Nile Delta is a vast fertile plain, renowned as the Mediterranean's most famous granary since Greek and Roman times. However, the Malik War disrupted its original tranquility. We must restore order, improve the irrigation systems, revive agriculture, restart trade, and make the Nile once again our river of life."
+
+EDG_FYM_mission_2_5_title:0 "Jewel of the Mediterranean" # The Jewel of the Mediterranean
+EDG_FYM_mission_2_5_desc:0 "[363.GetName] is situated in Egypt's most fertile plains, where the Nile flows into the Mediterranean. With the resurgence of the Sahada Dynasty and its rise to hegemony over the Mediterranean, [363.GetName], thanks to its advantageous geographical location, has attracted countless merchants and travelers, becoming a city prioritized for imperial development. Meanwhile, centuries of accumulation have led to excessive growth in [361.GetName]: the city is overcrowded, its markets chaotic, and it is home to countless entrenched noble families. Bureaucratic governance is constantly hindered, troubling the [Root.Monarch.GetTitle]. \n\nAt this moment, a proposal to establish a new capital in [363.GetName] caught the eye of the [Root.Monarch.GetTitle]."
+
+EDG_FYM_mission_2_8_title:0 "The Caliphate of Córdoba"
+EDG_FYM_mission_2_8_desc:0 "The Umayyads were never a dynasty worth remembering. Their betrayal of Ali and persecution of Shia believers divided the united Islamic world; no Muslim can forget their tyranny. Their miserable demise is nothing less than what they deserved. Yet, it is undeniable that they left behind a political legacy in the West worthy of claiming—the Caliphal throne of Al-Andalus."
+
+EDG_FYM_mission_2_9_title:0 "Rule Al-Andalus"
+EDG_FYM_mission_2_9_desc:0 "In 750, 'The Falcon of the Quraysh,' Abd al-Rahman I, escaped the Abbasid hunt and slaughter, crossing the sea into exile in Al-Andalus in 755. For centuries thereafter, his descendants established the Caliphate of Córdoba, which became the jewel of Islam in the West, a colossal entity before which European Christians prostrated. However, this golden age did not last. The incompetent and unvirtuous Umayyads ultimately proved unfit for their great responsibility. In the wake of their dramatic collapse, the Crusader kings audaciously declared independence and launched their so-called Reconquista against the south, dimming the glory of Islam. Now, Sahada has firmly established itself on the peninsula, surpassing the Umayyad rulers, completing a re-reconquest, and becoming the commander of the faithful in Al-Andalus. The laughable Reconquista of the Visigoths shall also be brought to an end."
+
+EDG_FYM_mission_2_11_title:0 "Crush the Fleur-de-Lis"
+EDG_FYM_mission_2_11_desc:0 "The defeat of the Umayyad Caliph at the Battle of Tours stands as one of the most humiliating pages in 8th-century Muslim history. It nearly extinguished the possibility of northward expansion for the Islamic world for centuries to come, allowing Christians to regain their composure after the fall of Iberia. Fortunately, centuries later, the Sahada Dynasty has returned in glory with countless Ghazi warriors, crossing the Pyrenees and advancing towards Poitiers, the site of that fateful battle. This time, the glory of victory shall forever be ours."
+
+EDG_FYM_mission_2_12_title:0 "Sweep Across Britannia"
+EDG_FYM_mission_2_12_desc:0 "Britannia, the outermost edge of the Christian world, has never before been touched by the iron hooves of the Islamic world. The peoples here possess superb seafaring skills and take great pride in them. But when the colossal ships of Sahada dock at [236.GetName], even the staunchest Briton will shed tears of fear, for at that moment, all will know that the end of Britannia has come."
+
+EDG_FYM_mission_2_13_title:0 "The End of Europa"
+EDG_FYM_mission_2_13_desc:0 "The new order has arrived. This is the end of Europa—it shall bring you despair, plunge you into ruin, and seal your doom."
+
+EDG_FYM_mission_2_15_title:0 "Sahada West India Company"
+EDG_FYM_mission_2_15_desc:0 "Through some grand planning and organizational efforts, Sahada's advance conquest teams have reached the Indian subcontinent and established multiple trading posts. The first phase of the plan has concluded. It is now time to recruit and mobilize for further military campaigns."
+
+EDG_FYM_mission_2_16_title:0 "The Heart of the Mountains"
+EDG_FYM_mission_2_16_desc:0 "It is said that the first recorded diamond in India dates back to the 4th century, and since then, India has long been the world's most renowned source of diamonds. Recently, our prospecting teams appear to have made a new, significant discovery in this land of wealth."
+
+EDG_FYM_mission_2_18_title:0 "Rebuild [361.GetName]"
+EDG_FYM_mission_2_18_desc:0 "During the Malik War, Safar I, heeding Zayd's advice, moved the capital to [361.GetName] to better control the Abbasid Caliph. In the following years, the Sahada Empire achieved a revival, entering another zenith of culture and economy. At this time, the Sahada [Root.Monarch.GetTitle], [Root.Monarch.GetName], initiated a grand construction plan, which included the restoration of [361.GetName] and the final determination of its status within the imperial administrative system."
+
+EDG_FYM_mission_2_19_title:0 "City of 1,000 Minarets" # The City of a Thousand Minarets
+EDG_FYM_mission_2_19_desc:0 "Regardless of our previous choices, [361.GetName] currently is, and will long remain, a jewel upon our noble crown. Therefore, we must ensure it is polished, making its beauty match our legitimacy and power!"
+
+EDG_FYM_mission_2_20_title:0 "The Privy Treasury" # The Privy Treasury Department
+EDG_FYM_mission_2_20_desc:0 "By utilizing the ruler's private assets to complete the innovation of the economic system, we can implement unprecedented development plans without the need for financing from influential social strata."
+
+EDG_FYM_mission_2_22_title:0 "Father of African Rivers"
+EDG_FYM_mission_2_22_desc:0 "The Nile is undoubtedly the lifeblood of our people. Transporting goods, irrigating crops, or providing life-saving water—these are but a few of its uses. Investing in its banks would be a wise course of action."
+
+EDG_FYM_mission_2_24_title:0 "Traditional Tafsir"
+EDG_FYM_mission_2_24_desc:0 "As the heartland of the Islamic world, many scholars under the rule of the Sahada Empire have developed a more traditional perspective on Islamic jurisprudence. They tend to focus on the Quran and Hadith, reject Sufi practices, and pay little attention to the rulings of Islamic jurists. Of course, there are also scholars who hold the opposite view."
+
+EDG_FYM_mission_2_25_title:0 "Establish Waqf"
+EDG_FYM_mission_2_25_desc:0 "Donating money and property to support the impoverished and educational institutions. Charity is both the hallmark and the lifeblood of a pious and prosperous society!"
+
+EDG_FYM_mission_2_26_title:0 "Al-Azhar University"
+EDG_FYM_mission_2_26_desc:0 "Al-Azhar University was originally founded during the Fatimid Caliphate. Although it was later controlled by the Sunni Ayyubid and Mamluk dynasties, today, under the rule of Sahada, this great Shia institution has experienced a revival, with its prestige and reputation far surpassing its former glory."
+
+EDG_FYM_mission_2_28_title:0 "Turkic Mercenaries"
+EDG_FYM_mission_2_28_desc:0 "Despite the Bey's revolt leaving us with a somewhat unfavorable impression of the Turks, it is undeniable that these people are indeed formidable in battle. Now, another wave of Turkic mercenaries is pouring into Sahada's lands from Anatolia. Let us cautiously recruit these warriors."
+
+EDG_FYM_mission_2_29_title:0 "Cavalry Training"
+EDG_FYM_mission_2_29_desc:0 "The key to forging an elite army lies in continuous drill and exercise. By improving tactical manuals and training curricula, we can cultivate a formidable army that is nearly perfect."
+
+EDG_FYM_mission_2_31_title:0 "Breathing Gold"
+EDG_FYM_mission_2_31_desc:0 "The in-depth development and expansion of the slave trade have now become the most crucial component of Sahada's economy. As one Imperial Minister of Economy put it, 'These people (the slaves)... they are quite literally breathing gold...'"
+
+EDG_FYM_mission_3_1_title:0 "Descendant of Conquerors"
+EDG_FYM_mission_3_1_desc:0 "My great-grandfather Nasir unified Yemen, solidified Egypt with an iron fist, surveyed the two seas with the gaze of an eagle, and laid the foundation for a dynasty of ten thousand generations. My grandfather Muhammad expanded our territories into the Levant, employing wisdom to master the situation, using Rosetta to mediate with the Mamluks, and harnessing the Caliph to reconcile the schools of jurisprudence, gathering talents from all corners of the world. My father Safar suppressed rebels, stabilized the military, managed the Copts, and subdued the Bedouins, ensuring the royal banner never fell and the empire never crumbled. Now I, Zayd, have reforged the golden crown amidst the smoke of a fractured land. I vow to rouse the accumulated might of three generations—may Allah bestow His blessing!"
+
+EDG_FYM_mission_3_2_title:0 "The Supreme Malik"
+EDG_FYM_mission_3_2_desc:0 "The Malik War has subsided. The [Root.Monarch.GetTitle] of the Sahada Dynasty has become the supreme sovereign of Egypt's fertile lands. All that remains for us is to catch our breath briefly, complete the easily attainable tasks of unifying Egyptian territory and rebuilding the administrative system, before turning our sabers upstream along the Nile."
+
+EDG_FYM_mission_3_3_title:0 "The Shackles of Nubia"
+EDG_FYM_mission_3_3_desc:0 "Following the Nile upstream leads to Nubia, a region that has been subordinate to Egyptian powers since ancient times. It is said the chieftaincies here once had a glorious history, even ruling over Egypt itself—but that is now dust in the wind. Henceforth, this land shall be bound for generations by the merciful shackles of Sahada, supplying the empire with a constant stream of fresh blood."
+
+EDG_FYM_mission_3_5_title:0 "The Value of Slaves" # The Value of Black Slaves
+EDG_FYM_mission_3_5_desc:0 "The Sahada Empire is an unprecedentedly vast entity in Islamic history. Its colossal state machinery requires countless 'fuel' to sustain it, and the slaves of Nubia are precisely that prime 'fuel'." # black
+
+EDG_FYM_mission_3_6_title:0 "Malik Between Two Seas" # The Malik Between Two Seas
+EDG_FYM_mission_3_6_desc:0 "From the scorching waves of the Red Sea to the azure tides of the Mediterranean, the conqueror's bloodline has forged boundless realms. The [Root.Monarch.GetTitle] stands at the highest point of the royal capital, gazing into the distance. The bounty of Misr, the piety of Arabia, and the loyalty of the Copts have all been brought beneath the crown. Caravans laden with spices and gold traverse the sandy seas. The Nile delivers a constant stream of fresh 'blood' to the empire. The domed schools of [361.GetName] echo with Persian philosophy and Greek wisdom. The sacred sanctuary of Mecca burns with eternal light under the protection of Zayd's battle standard. The churches of Aksum bow to the mercy of the Fifth Monarchy. The crescent moon hangs high above the pyramids. The [Root.Monarch.GetTitle], [Root.Monarch.GetName], is the supreme sovereign between the two seas."
+
+EDG_FYM_mission_3_7_title:0 "The So-Called Pope"
+EDG_FYM_mission_3_7_desc:0 "The so-called Pope spoken of by the Christians is merely a descendant of the Apostle Peter, who distorted the teachings of the Prophet Isa. Driven by greed and selfish desires, these infidels have repeatedly called for Crusades against the Islamic world, igniting the fury of all Muslims. Thus, the [Root.Monarch.GetTitle], [Root.Monarch.GetName], has rightly launched a long-awaited Jihad, vowing to rekindle the flames of the great conquest and burn down the Christian world."
+
+EDG_FYM_mission_3_8_title:0 "Land in Ifriqiya"
+EDG_FYM_mission_3_8_desc:0 "The island of Ifriqiya, known to Christians as Trinacria, is the jewel of the Mediterranean, a treasure trove of converging civilizations, with fertile land and accessible seas—a promised land bestowed by Allah upon the faithful. Yet, the Normans, Byzantines, and Germans have greedily plundered this beloved Muslim land, defiling our mosques and bringing our believers to tears. We, Sahada, inheriting the glory of the legitimate Caliphate, in the name of the [Root.Monarch.GetTitle], vow to reclaim this ancient homeland with thunderous force and restore the majesty of our faith!"
+
+EDG_FYM_mission_3_10_title:0 "The Antichrist"
+EDG_FYM_mission_3_10_desc:0 "In Christian tradition, the 'Antichrist' refers to an evil figure who appears before the End Times, bringing great calamity upon the Christian world. As the Sahada Empire's armies press into the heartlands of Christendom, more and more ignorant Christians have come to believe that the 'Antichrist' has indeed been born into this world—he is none other than the Sahada [Root.Monarch.GetTitle], [Root.Monarch.GetName]."
+
+EDG_FYM_mission_3_11_title:0 "The Lies of Saint Peter"
+EDG_FYM_mission_3_11_desc:0 "The Apostle Peter, a disciple of the Prophet Isa, distorted Isa's teachings and founded the so-called Christian Church upon lies, spreading false faith across the lands of Europe for over a millennium. Today, the city of Rome—the former heart of the Roman Empire and the Christian world, the seat of the Apostle Peter's legacy—has fallen into our hands. This is the decisive victory of the Muslim faithful over the idolaters. Let us humiliate the Apostle Peter and let the world hear the true faith."
+
+EDG_FYM_mission_3_12_title:0 "Destroy Latium"
+EDG_FYM_mission_3_12_desc:0 "Latium, the region Christians call Italy, the core of the former Roman Empire, a land for which countless self-proclaimed 'successors of Rome' have bled themselves dry in contention, has now become yet another province prostrating itself at the feet of Sahada's [Root.Monarch.GetTitle], singing his praises. No further words are needed; the Shadow of Allah upon the earth has once again fallen over the infidels."
+
+EDG_FYM_mission_3_14_title:0 "Bilād Fāris"
+EDG_FYM_mission_3_14_desc:0 "We have long referred to Iran as 'Bilād Fāris'—the 'Greater Fars.' This land is both the ancestral home of Persian empires like the Achaemenids and the domain where mounted conquerors such as the Ilkhanate left their mark. To govern this region, even a power as great as ours must elevate more loyalists, hoping to inscribe a glorious page in the 'Shahnameh'."
+
+EDG_FYM_mission_3_15_title:0 "The Sword of Rajasthan"
+EDG_FYM_mission_3_15_desc:0 "The name 'Rajput' is derived from Sanskrit, meaning 'descendant of royalty.' They are former conquerors who converted to Hinduism, fanatical defenders of Indian civilization, who have brought countless troubles to previous Islamic conquerors. However, before Sahada, they too shall ultimately become yet more 'fuel' for the empire."
+
+EDG_FYM_mission_3_16_title:0 "The Deccan War"
+EDG_FYM_mission_3_16_desc:0 "The vastness and fertility of the Deccan Plateau have secretly astonished us, and the skilled Maratha warriors there have earned our quiet admiration. Many of these brave Indians have already become our slaves, with some even rising to become high-ranking Mamluk officials. These slave officers and civil officials of Maratha origin have proposed that their people be formally integrated into the imperial administrative system, serving as the empire's agents on the Deccan Plateau."
+
+EDG_FYM_mission_3_17_title:0 "Masters of the Coromandel"
+EDG_FYM_mission_3_17_desc:0 "The wealthy Coromandel Coast is Sahada's final prize in India. Although the Dravidians here are not as dark as the Nubians, our officials immediately recognized that they possess the same excellent qualities, making them outstanding 'fuel.'"
+
+EDG_FYM_mission_3_18_title:0 "Maritime Defense"
+EDG_FYM_mission_3_18_desc:0 "The sea is cold and merciless, showing no pity for sailors. A powerful fleet will ensure our dominion over the waves, further elevate our status around the Mediterranean, and allow us to reform into a professional navy."
+
+EDG_FYM_mission_3_19_title:0 "The Golden Coast"
+EDG_FYM_mission_3_19_desc:0 "The Sahada Empire prides itself on possessing the most powerful navy in the entire Mediterranean and the richest 'Golden Coast' along its shores. This is both the natural evolution of excellent management and finance, and proof of our nation's skilled mastery and extensive knowledge of maritime arts."
+
+EDG_FYM_mission_3_21_title:0 "Cultivate the Delta"
+EDG_FYM_mission_3_21_desc:0 "The interconnected waterways between the Nile and the Mediterranean coast possess immeasurably precious and fertile land. We must invest in the continued prosperity of this soil!"
+
+EDG_FYM_mission_3_22_title:0 "Mediterranean Granary" # The Granary of the Mediterranean
+EDG_FYM_mission_3_22_desc:0 "The grain trade is not only a significant private asset of the [Root.Monarch.GetTitle], but also an excellent method to expand the Sahada Dynasty's diplomatic relations with its neighbors and further enrich itself. By appointing economists and establishing better production lines, we will undoubtedly fulfill all export and internal distribution quotas, bringing greater profit to the empire."
+
+EDG_FYM_mission_3_23_title:0 "Industrialize Egypt" # The Industrialization of Egypt
+EDG_FYM_mission_3_23_desc:0 "Since the tide of modernization is unstoppable, let us be the first to draw back the curtain on economic modernization, leaving the world in awe of the jewel that is Egypt's industrialization!"
+
+EDG_FYM_mission_3_24_title:0 "The Caliph of the Alawites"
+EDG_FYM_mission_3_24_desc:0 "The Alawites branched off from Shia Islam in the mid-9th century. Based on Ismaili doctrine, deeply influenced by Neo-Platonism, Christianity, and Buddhist thought, they are highly integrated with the Druze. Having absorbed much from the Renaissance and Western European religious reform movements, they have now spread throughout the Near East. With the support of jurists, they have become an increasingly significant force within Sahada that cannot be ignored."
+
+EDG_FYM_mission_3_26_title:0 "Guardian of Three Cities" # Guardian of the Three Holy Cities
+EDG_FYM_mission_3_26_desc:0 "After the Caliphate perished by Mongol sabers, and following a span of nearly 200 years, the Three Holy Cities once again lie under the control of a single, esteemed ruler. The pious and powerful Sahada Malik will personally serve as the guardian of peace for the Three Holy Cities, indeed, as the guardian of the entire Islamic world."
+
+EDG_FYM_mission_3_27_title:0 "The Islamic Golden Age"
+EDG_FYM_mission_3_27_desc:0 "The first Islamic Golden Age was an era of great prosperity in science, culture, and economy for the many Muslim kingdoms. However, this glorious era ended in 1258 when the Mongols sacked Baghdad and terminated the rule of the Abbasid Caliphate.\n\nFor centuries, the Islamic world has been fragmented, allowing external forces to exploit our weaknesses. Division inevitably leads to failure. As the de facto successor to the Caliphate, our armies must unite the Islamic world and rekindle the torch of Islamic civilization's progress."
+
+EDG_FYM_mission_3_28_title:0 "Master of the Mamluks"
+EDG_FYM_mission_3_28_desc:0 "The martial glory and history of the Egyptian state are built upon the shoulders of powerful slave soldiers. If we are to reverse the decline that has plagued our dynasty, our first step should be to strengthen our control over the Mamluk corps."
+
+EDG_FYM_mission_3_29_title:0 "Balance of Power"
+EDG_FYM_mission_3_29_desc:0 "The Mamluks, the Bedouin tribes, and the Yemeni Emirs are all crucial components of Sahada's military power structure. By nature, each stratum attempts to weaken the authority of the [Root.Monarch.GetTitle] in order to enhance its own power. However, the [Root.Monarch.GetTitle] will not remain passive; instead, he will quietly exploit the conflicts among them, provoking internal strife and competition between the different strata, thereby gaining better control over the military."
+
+EDG_FYM_mission_3_30_title:0 "Establish Slave-Provinces"
+EDG_FYM_mission_3_30_desc:0 "The empire's need for 'slaves'—this 'strategic resource'—is growing daily, just as the imperial territory expands daily. Some ministers have proposed to the [Root.Monarch.GetTitle] that, since the 'slave' resources used to manage the provinces are becoming increasingly strained, why not designate certain provinces specifically for slave-breeding? Undoubtedly, this proposal would elevate the feudal system of the Sahada Empire to new heights."
+
+EDG_FYM_mission_3_31_title:0 "Born for War"
+EDG_FYM_mission_3_31_desc:0 "Sahada's military system is maintained by centrally appointed slave officers. They possess both supreme loyalty to the [Root.Monarch.GetTitle] and excellent military acumen cultivated from childhood. While continuously achieving great merit for the empire, they also constantly reinforce the authority of the dynasty and the [Root.Monarch.GetTitle] himself. They are, truly, born for war."
+
+EDG_FYM_mission_3_32_title:0 "The Military Caste"
+EDG_FYM_mission_3_32_desc:0 "The conquest of India allowed the Sahada Empire to study the local caste system and adapt it. Applied to the 'slave' magnates, it has formed a military caste system with imperial characteristics."
+
+EDG_FYM_mission_4_2_title:0 "Prosperous Syria"
+EDG_FYM_mission_4_2_desc:0 "The beautiful Levant once nearly slipped from our grasp, but the three northern vassals, upon recognizing the determination and resolve of the Sahada Dynasty, chose to fully submit to the [Root.Monarch.GetTitle] and relinquish their autonomy. To prevent Syria from falling out of imperial rule once more, we must appoint a trustworthy Governor of the Levant."
+
+EDG_FYM_mission_4_4_title:0 "Conquer Ethiopia"
+EDG_FYM_mission_4_4_desc:0 "A true Malik of Egypt does not halt at the banks of Nubia. The Sahada [Root.Monarch.GetTitle] began formulating war plans against Ethiopia from the very first southern expedition along the Nile, ultimately conquering it with ease and even capturing its pride—the Ark of the Covenant. Yet, how to deal with this mysterious relic is a matter worthy of contemplation."
+
+EDG_FYM_mission_4_5_title:0 "The Somali Coast"
+EDG_FYM_mission_4_5_desc:0 "Beyond the heathen lands of Ethiopia lies the long Somali coast, whose people have extensive trade ties with our Yemen region. By developing Yemen's economy and expanding our control over the Gulf of Aden trade, we can gain mastery over these lands across the water, a bloodless and excellent strategy."
+
+EDG_FYM_mission_4_8_title:0 "Campaign Against Rum"
+EDG_FYM_mission_4_8_desc:0 "Anatolia, the throat of Eurasia—the Battle of Manzikert severed its Roman chains, bringing it into the light of the Caliphate. Now, the descendants of the Rum Turks arrogantly call themselves 'Padishah,' resisting the Caliphate's civilizing influence. I, the Sahada [Root.Monarch.GetTitle], rightful Malik of both South and North, shall campaign against the tyrants of Rum, continue the conquests of the great Nasir, and bring Anatolia back into the civilized world."
+
+EDG_FYM_mission_4_9_title:0 "The City of the World's Desire" # The City Coveted by the World
+EDG_FYM_mission_4_9_desc:0 "Before us lies Constantinople, the capital of a once-mighty empire, hailed as 'the City of the World's Desire.' Conquering Byzantium—a great endeavor left unfinished by both the Umayyad and Abbasid empires—shall be inscribed in Islamic annals as the supreme proof of Allah's will and the glorious moment of Sahada's rise!"
+
+EDG_FYM_mission_4_11_title:0 "The Caucasian Mountains"
+EDG_FYM_mission_4_11_desc:0 "The desolate mountains of the Caucasus have buried the endless ambitions of countless empires and preserved the final hopes of many nations. Now, this peripheral land has also fallen into the hands of the [Root.Monarch.GetTitle] and will be transformed into yet another important 'fuel' production area for the empire, radiating with new vitality."
+
+EDG_FYM_mission_4_13_title:0 "Raid Khorasan"
+EDG_FYM_mission_4_13_desc:0 "Khorasan is the frontier of Islamic civilization, a land of intricate history and complex cultural dynamics that conquerors must handle with care. To realize the hegemony of the Sahada Dynasty sooner, we might as well hire the locally skilled and warlike Pashtuns as guides to expedite our march."
+
+EDG_FYM_mission_4_15_title:0 "Invade Hindustan"
+EDG_FYM_mission_4_15_desc:0 "Hindustan, the heartland of India, where the Ghaznavids, Ghurids, and the Delhi Sultanate successively established hegemonies spanning centuries. However, the passage of time has seen the conquerors of old assimilated by the conquered, becoming a disgrace to the Islamic world. The successors of the Tughlaq Dynasty are no longer fit to hold the glory of India's conquerors. Let Sahada take their place."
+
+EDG_FYM_mission_4_16_title:0 "The Fall of Central India"
+EDG_FYM_mission_4_16_desc:0 "The remnants of the Gajapati Empire have now been annihilated by Sahada's armies. The spine of Central India is broken; their fate lies solely in the will of the [Root.Monarch.GetTitle]."
+
+EDG_FYM_mission_4_18_title:0 "Revitalize Alexandria" # Revitalize the Bay of Alexandria
+EDG_FYM_mission_4_18_desc:0 "The [Root.Monarch.GetTitle] cannot allow foreign merchants to monopolize Sahada's Mediterranean ports. To this end, we should invest in constructing several new markets to support our own merchants."
+
+EDG_FYM_mission_4_20_title:0 "The Second Coming"
+EDG_FYM_mission_4_20_desc:0 "The delicate symbiotic relationship between the Sahada Empire and the Coptic Church has long been a subject of wonder, seen as a remarkably successful and mutually beneficial cooperation. However, all things cast shadows. When faith once again rises above profit in people's hearts, the source of calamity emerges. Thus, the occurrence of the grandiose 'Messiah' event in the first half of the 16th century seems hardly surprising."
+
+EDG_FYM_mission_4_22_title:0 "The Karimi Merchants"
+EDG_FYM_mission_4_22_desc:0 "The Karimi merchants originally emerged as a group of Indian traders; their name 'Karimi' may derive from the Tamil word karyam (meaning 'commercial affairs'). Around the late 12th century, they rose to become a significant trade consortium by purchasing naval escort services to defend against pirates in the Red Sea and the Strait of Mandeb. By the time of the Sahada Dynasty, this group had evolved into a transregional merchant alliance predominantly composed of native Egyptians, though membership was not exclusive to them. In our efforts to expand trade and increase profits from overseas investments, the Karimi merchants, responsible for transporting spices and other goods, are our powerful allies."
+
+EDG_FYM_mission_4_24_title:0 "Guardian of the Fatimids"
+EDG_FYM_mission_4_24_desc:0 "Although we once rescued the Fatimid Caliph from peril, personally served as his guardian, and truly brought Shia faith to its zenith, the absence of the Prophet's bloodline has persistently cast doubt upon our rule. Ultimately, under a confluence of various factors, many Shia believers rallied behind the so-called 'Successor of Ali' and began to rebel against Sahada's authority. In that case, we can only tell the rebels: Only the [Root.Monarch.GetTitle] and Allah are eternal."
+
+EDG_FYM_mission_4_25_title:0 "The Great al-Mustansir"
+EDG_FYM_mission_4_25_desc:0 "Having defeated the two resentful Caliphs and managed the affairs of the emerging Alawite sect, the Sahada Empire now stands simultaneously at the pinnacle of both spiritual and temporal power. We can proudly bestow upon the [Root.Monarch.GetTitle], [Root.Monarch.GetName], the title 'al-Mustansir'—'He Who Seeks Victory in God.'"
+
+EDG_FYM_mission_4_26_title:0 "One God, One State"
+EDG_FYM_mission_4_26_desc:0 "Since the passing of the Prophet Muhammad, Islam has witnessed several golden ages, but only the four Rightly Guided Caliphs who succeeded the Prophet are universally recognized as Caliphs by the Islamic world. It has been a long time since any Islamic state has attained the piety and prestige that the Four Caliphs possessed before the division of the Islamic world.\n\nAnd thus far, all we have accomplished allows the Sahada [Root.Monarch.GetTitle] to proudly proclaim himself as yet another rightful 'Caliph' among all other Muslims."
+
+EDG_FYM_mission_4_28_title:0 "The Nomoi's Balance"
+EDG_FYM_mission_4_28_desc:0 "To balance the Mamluks, the Yemeni Emirs, and the Bedouin tribes, the Sahada Dynasty has long imported mercenaries of Greek origin from both sides of the Aegean Sea. These immigrants, who have established autonomous communities of varying sizes in Egypt known as 'Emilia' (Nomoi), are also called 'Nomoi.' They maintain a high degree of personal dependence on the [Root.Monarch.GetTitle], resulting in unwavering loyalty to the Sahada Dynasty, and have thus become a tool for the [Root.Monarch.GetTitle] to counterbalance the domestic military elite."
+
+EDG_FYM_mission_4_29_title:0 "The Loyalty of the Asadāt"
+EDG_FYM_mission_4_29_desc:0 "The Mamluks primarily draw their manpower from white slaves of the northern Black Sea and Caucasian regions. These pagan slaves were either offered as tribute to the Sultan by eastern provinces or purchased directly by the Sultan. Indoctrinated with Islamic teachings and loyalty to their master from childhood, they were enrolled in specialized military training after the age of fourteen. The commander of the Royal Mamluks is called the 'Atabeg,' while the Mamluk warriors are known as the 'Asadāt' (originally meaning the Egyptian god of fertility and war), referring to the former as father. We must control these elite warriors with absolute authority to avoid a tragedy akin to that of the Ayyubid Dynasty."
+
+EDG_FYM_mission_4_31_title:0 "Revive the Ghulams"
+EDG_FYM_mission_4_31_desc:0 "Ghulams are a type of military unit originating from Caucasian slave soldiers, who were typically former Christians. They are well-trained, well-equipped, and highly proficient with firearms, constituting an indispensable part of the military strength of Iranian warlords and even serving as the origin of the present Mamluk system. Now, to balance and caution the Mamluk class, we might as well revive this ancient military group in the Persian region."
+
+EDG_FYM_mission_5_2_title:0 "Water Horses at the Gulf" # Water Horses at the Persian Gulf
+EDG_FYM_mission_5_2_desc:0 "Many tribes and minor states around the Persian Gulf have been warring over scraps of land for centuries. Now, we shall intervene with force to unify the region, watering our horses at the Persian Gulf."
+
+EDG_FYM_mission_5_3_title:0 "Wali of Aleppo"
+EDG_FYM_mission_5_3_desc:0 "Aleppo, the terminus of the Silk Road, the royal encampment of the Aq Qoyunlu, and the wealthiest land in the Levant, has now also been conquered by Sahada. To ensure control, we will replace the local officials, appoint a new 'Wali' (governor), and meticulously administer it as a bridgehead for future campaigns against Anatolia."
+
+EDG_FYM_mission_5_5_title:0 "At the Gates of Baghdad" # Swords at the Gates of Baghdad
+EDG_FYM_mission_5_5_desc:0 "Our iron steeds have advanced to the outskirts of Mesopotamia, where lies Baghdad, the Abbasid capital straddling both banks of the Tigris, the former imperial heart, representing the crowning achievements of the Islamic world's most prosperous golden age. Seizing this place, occupying the entire land between the two rivers, proclaims to the world that the great Sahada Malik is the 'Ilm' (lit. knowledge, authority) above the Caliph, the living saint of the Islamic world. The supreme authority shall be re-established, reborn from the ashes under a single sovereign."
+
+EDG_FYM_mission_5_7_title:0 "Pacify the Mashriq"
+EDG_FYM_mission_5_7_desc:0 "From a faltering, end-of-days dynasty in the Fayyum, to a nascent power unifying the 'Upper and Lower Seas' of Babylonian lore under iron hooves, the Sahada Empire has achieved countless miracles. The great [Root.Monarch.GetTitle], His Majesty [Root.Monarch.GetName], is thus already recognized as the successor of Cyrus, Alexander, and the Rightly Guided Caliphs—the true Great Conqueror, the new leader of the Muslim faithful."
+
+EDG_FYM_mission_5_8_title:0 "Invade Persia"
+EDG_FYM_mission_5_8_desc:0 "Behold, alluring Persia, the land of Iranshahr, the former domain of the Abbasid Caliphate, now merely a lamb awaiting slaughter before Sahada. The Turk and Tajik dream of unifying Persia is so utterly unrealistic. Let the benevolent Sahada sovereign employ Islamic re-education to assist them in accomplishing the great task of revival."
+
+EDG_FYM_mission_5_10_title:0 "The Battle of Tabriz"
+EDG_FYM_mission_5_10_desc:0 "Tabriz, the former capital of the Ilkhanate, now the center of activity for several Turkmen dynasties. As the homeland of a proud people, defeating the Iranian Shah and the eastern horsemen at Tabriz will add a valuable stroke to Sahada's glorious and victorious military campaigns, further instilling awe in these 'Ajami' for our conquering identity."
+
+EDG_FYM_mission_5_12_title:0 "Cross the Zagros"
+EDG_FYM_mission_5_12_desc:0 "The Zagros Mountains, running northwest-southeast, form the natural boundary between the Iranian Plateau and the Mesopotamian Plain, long hindering direct control from either side. Consequently, the Abbasid Caliphate, with its core of rule in the plains of the Two Rivers, struggled to govern Persia effectively, ultimately leading to Iran's independent course and the empire's decline. But we are the true Sword of Allah, the guardian of the Abbasid Caliph, destined to surpass the achievements of previous dynasties and ensure the land of Iranshahr submits to imperial rule for generations to come."
+
+EDG_FYM_mission_5_14_title:0 "Master the Persian Gulf"
+EDG_FYM_mission_5_14_desc:0 "From Muscat to Basra, from Basra to Hormuz—the vast sea lanes are now the private gardens of the [Root.Monarch.GetTitle], tightly securing the prosperity of the Sahada Empire."
+
+EDG_FYM_mission_5_16_title:0 "The Bengali Deluge"
+EDG_FYM_mission_5_16_desc:0 "The victory in the Bengali campaign has greatly enriched our armies. Many commanders either learned the use of war elephants or deepened their understanding of cavalry mobile warfare during this battle. The [Root.Monarch.GetTitle] is pleased with these outcomes and has decided to expand the scale, having the entire army learn the vicissitudes of warfare from the Bengali campaign."
+
+EDG_FYM_mission_5_18_title:0 "Coptic Collaboration"
+EDG_FYM_mission_5_18_desc:0 "After the Sahada Dynasty took control of Egypt, it established a strategy of cooperation with the Coptic Christians, governing the Christians within its territories by elevating the Coptic Patriarch of Alexandria. Viewed over the long course of history, this sacrilegious alliance within the state has been remarkably successful."
+
+EDG_FYM_mission_5_19_title:0 "Divide the Christians"
+EDG_FYM_mission_5_19_desc:0 "Admittedly, Christians are a vast community distinct from Muslims, posing a significant threat to dynastic rule. However, when united believers are divided by doctrinal differences and varying circumstances, they are no longer so fearsome. By favoring the Copts, we have effectively achieved the division of the Christians, proving the foresight of the Sahada rulers."
+
+EDG_FYM_mission_5_20_title:0 "The Land of Spirit"
+EDG_FYM_mission_5_20_desc:0 "When faith yields to interest, the kingdoms of the world prosper. First, Iskandar, then Antakya; today Jerusalem, tomorrow the City of Seven Hills—Sahada's domain has swept across the world like a deluge."
+
+EDG_FYM_mission_5_21_title:0 "The Fifth Monarchy"
+EDG_FYM_mission_5_21_desc:0 "The Copts believe the First Monarchy was Assyria-Babylon; the Second, Persia; the Third, Greece; the Fourth, Rome. The first three perished due to idolatry. The successor of the Fourth Monarchy, the Holy Roman Empire, also approaches its end. The Fifth Monarchy is a thousand-year kingdom with Christ as its holy king, about to descend upon the earth. Only in this kingdom can human oppression be eradicated and justice ultimately prevail. But before the millennium arrives, His Majesty the [Root.Monarch.GetTitle] of Sahada will rule on behalf of Christ."
+
+EDG_FYM_mission_5_22_title:0 "Latin Trade"
+EDG_FYM_mission_5_22_desc:0 "The seas to our north are teeming with ships and goods bound for [358.GetName]. If we wish to further grasp this lucrative business, we must determine our stance towards the Latin merchants, led by the Venetian Republic."
+
+EDG_FYM_mission_5_23_title:0 "Renaissance Art"
+EDG_FYM_mission_5_23_desc:0 "News of the European Renaissance quickly reached our realm. Undoubtedly, this is a movement seeking to reshape the world ideologically. Before its arrival, the Islamic world must not fall behind; Sahada must lead Muslims in developing their own Renaissance art."
+
+EDG_FYM_mission_5_24_title:0 "Guardian of the Abbasids"
+EDG_FYM_mission_5_24_desc:0 "The Abbasid Caliph, colluding with traitors within the country, launched a grand rebellion not inferior in scale to the Abbasid Revolution that once toppled the Umayyad Dynasty, vainly attempting to overthrow the Sahada Dynasty. However, these ambitious schemers ultimately fail to understand that only a power like Sahada is the Shadow of Allah upon the Earth!"
+
+EDG_FYM_mission_5_25_title:0 "Manage the Sunnis"
+EDG_FYM_mission_5_25_desc:0 "The moon at its brightest is but the morning star, and the Abbasid Caliph so revered by Sunni believers is but a straw dog at the feet of the [Root.Monarch.GetTitle], [Root.Monarch.GetName]. These heretics shall ultimately bow and submit to the will of Sahada's Ilm."
+
+EDG_FYM_mission_5_28_title:0 "Recruit New Mamluks"
+EDG_FYM_mission_5_28_desc:0 "In the later stages of his reign, Saladin abandoned the original Ghulam selection system. Instead of a mix of slave soldiers and free mercenaries, he began thoroughly selecting strong young men from his private slaves for military training, then uniformly issuing them equipment. This gradually formed a unique military aristocracy. They are less "true slaves" and more powerful mercenaries. The great Nasir also continued the Mamluk system after taking Egypt. Now, for military needs, we should train more loyal Mamluk warriors."
+
+EDG_FYM_mission_5_30_title:0 "Expand the Royal Mamluks"
+EDG_FYM_mission_5_30_desc:0 "Many believe the empire's Mamluks are not sufficiently loyal. Our Habashi and Ulama advise us to strengthen control over the Mamluk bloc, centralizing the training of a new generation of Mamluks under the Malik's authority, and conducting regular, thorough inspections of the Mamluk bloc's loyalty. The [Root.Monarch.GetTitle] Idris Hayis 'Sultanus-Sayf al-Din,' himself of military origin, fully agrees and is determined to completely control the Mamluks."
+
+EDG_FYM_mission_5_31_title:0 "The Frontier Provinces"
+EDG_FYM_mission_5_31_desc:0 "‘In the zenith of its rise, the provinces, Wali-Aghas, dependent territories, canals, and naval ports of the Sahada Empire spanned the terrestrial and maritime globe, unseen by any previous empire, earning the title ‘The Empire on Which the Sun Never Sets.’ Yet its dominion remains without end...’\n\n‘Those blank spaces on the map once held the allure of the unknown, now filled with the black denoting Sahadan territory. Following the Nile deep into Africa's heartland, every town flies the banner of the Shahada...’"

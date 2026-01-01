@@ -2,8 +2,8 @@ EDG_ERS_Taixifeng_effect = {
     410 = {
         set_province_flag = Taixi_Feng_Reborn_flag
         move_capital_effect = yes
-        change_province_name = "泰西封"
-        rename_capital = "亚述斯坦"
+        change_province_name = "Ctesiphon"
+        rename_capital = "Assyria"
         add_permanent_province_modifier = {
             name = EDG_ERS_buff_5
             duration = -1
@@ -18,14 +18,14 @@ EDG_ERS_4118_effect = {
             name = mission_EDGERSmission_216_1_1_modifier
             duration = -1
         }
-        change_province_name = "科克坦丁堡"
+        change_province_name = "Constantinople" # Asitane?
     }
 }
-EDG_ERS_disaters_ruler_2 = { #伊朗在分裂灾难的穆扎法尔君主
+EDG_ERS_disaters_ruler_2 = { #??????????????
     define_ruler = {
         male = yes
-        name = "阿尔达班"
-        dynasty = "穆扎法尔"
+        name = "Ardavan"
+        dynasty = "Muzaffarid"
         adm = 6
         dip = 6
         mil = 6
@@ -34,11 +34,11 @@ EDG_ERS_disaters_ruler_2 = { #伊朗在分裂灾难的穆扎法尔君主
     }
     add_ruler_personality = EDG_great_conqueror_personality
 }
-EDG_ERS_disaters_ruler_3 = { #伊朗在分裂灾难的月即别君主
+EDG_ERS_disaters_ruler_3 = { #?????????????
     define_ruler = {
         male = yes
-        name = "卜撒因"
-        dynasty = "帖木儿"
+        name = "Abu Sa'id"
+        dynasty = "Timurid"
         adm = 6
         dip = 6
         mil = 6
@@ -50,8 +50,8 @@ EDG_ERS_disaters_ruler_3 = { #伊朗在分裂灾难的月即别君主
 EDG_ERS_disaters_ruler_4 = {
     define_ruler = {
         male = yes
-        name = "路易"
-        dynasty = "德·瓦卢瓦"
+        name = "Louis"
+        dynasty = "de Valois"
         adm = 6
         dip = 6
         mil = 6
@@ -63,7 +63,7 @@ EDG_ERS_disaters_ruler_4 = {
 EDG_ERS_mission_EDGERSmission_90_opinion_1 = {
     define_advisor = {
         type = artist
-        name = "贾汉吉尔 阿夫拉希亚卜"
+        name = "Jahangir Afrasiab"
         skill = 4
         cost_multiplier = 0.75
         culture = mazandarani
@@ -72,7 +72,7 @@ EDG_ERS_mission_EDGERSmission_90_opinion_1 = {
 }
 mission_EDGERSmission_187_1_effect = {
     define_general = {
-        name = "卡斯蒂利亚"
+        name = "Castile" # ??????
         shock = 6
         fire = 6
         manuever = 6
@@ -339,9 +339,9 @@ EDG_lose_ERS_region_core_effect = {
 	}
 }
 EDG_ERS_india_effect = {
-    1616 = { change_province_name = "兴杜格-伊-阿贝本" }
-    1633 = { change_province_name = "瓦拉曼迪格-伊-阿贝本" }
-    1641 = { change_province_name = "兴杜格-伊-安达罗德" }
-    1624 = { change_province_name = "兴杜格-伊-安达罗德" }
-    1620 = { change_province_name = "瓦拉曼迪格-伊-阿贝本" }
+    1616 = { change_province_name = "Hindug?e ?beban" }
+    1633 = { change_province_name = "Var?mandig?e ?beban" }
+    1641 = { change_province_name = "Hindug?e And?rod" }
+    1624 = { change_province_name = "Hindug?e And?rod" }
+    1620 = { change_province_name = "Var?mandig?e ?beban" }
 }

@@ -26,7 +26,7 @@ EDG_SPA_economy_reform_3_modifier_desc:0 "Our developed cities, under sound gove
 
 #West Asian Mission Tree
 EDG_WEST_asian_missions_1_1_title:0 "West Asian Trade"
-EDG_WEST_asian_missions_1_2_title:0 "Imperial Religious Tolerance"
+EDG_WEST_asian_missions_1_2_title:0 "Religious Tolerance" # Imperial Religious Tolerance
 EDG_WEST_asian_missions_1_1_desc:0 "West Asia has historically been one of the most affluent regions in the ancient world. It should be economically developed and bustling with commerce, yet this golden age has often failed to materialize. With our rise, our homeland will once again reach its peak."
 EDG_WEST_asian_missions_1_2_desc:0 "Religious issues in West Asia have always been complex. We need to choose a path for our nation's development, otherwise these problems will plague us greatly."
 #Ottomans
@@ -311,13 +311,13 @@ EDG_ZAZ_special_mission_5_5_desc:0 "The lands of Little Russia encompass only si
 EDG_modifier_POL_ready_title:0 "Inheritance of the White Eagle"
 EDG_modifier_POL_ready_desc:0 "The north-south division of Poland has led to separatist tendencies in the Duchy of Masovia as well. Consequently, the central court in Kraków has effectively lost control over most of the country. The King of Poland has become an empty title, and the heavy responsibility of rebuilding the Kingdom of Poland now falls upon our shoulders."
 
-EDG_bav_claim_title:0 "Ambitious Rebuilding of the Duchy"
+EDG_bav_claim_title:0 "Rebuilding of the Duchy" # Ambitious Rebuilding of the Duchy
 EDG_bav_claim_desc:0 "The Dukes took many successful measures to develop power and unify the duchy, but they soon encountered the problem of division among different members of the family. This made Bavarian history for 250 years little more than a chronicle of war, decline, and territorial fragmentation. But all this is about to end, and we shall rebuild Bavaria."
  
  
  #Spain
 IBR_unification_effect.tooltip:0 "The Conflict in Iberia will be definitively concluded."
-EDG_IBR_unification_END_flag:0 "『Unification of Iberia』"
+EDG_IBR_unification_END_flag:0 "Unification of Iberia"
 
 EDG_DOM_cas_EDG_gc_cas_addition_3_1_title:0 "Iberian Ambition"
 EDG_DOM_cas_EDG_gc_cas_addition_3_1_desc:0 "We are destined to win the ultimate victory."
@@ -699,7 +699,7 @@ EDG_NSF_empire_Mission_3_14_desc:0 "After conquering Iberia, only two regions re
 EDG_NSF_empire_Mission_3_15_desc:0 "Now, we have restored the borders of the Roman Empire at its peak. We can proudly announce to the world that we are the true and only successor to the Roman Empire. We are Rome!"
 EDG_NSF_empire_Mission_4_7_desc:0 "After occupying the territories of Greece, Macedonia, and Serbia, we find ourselves just one step away from controlling the entire Balkans. We should immediately begin military preparations to achieve this goal."
 EDG_NSF_empire_Mission_4_8_desc:0 "After securing the entire Balkan Peninsula, we can proudly declare that we have defeated all competitors and become the sole cultural motherland of the South Slavs!"
-EDG_NSF_empire_Mission_4_9_desc:0 "We have conquered the descendants of Rum on the highlands, but they remain enthralled by past glories, unwilling to submit. Relocating them under our watchful eyes might be a good decision."
+EDG_NSF_empire_Mission_4_9_desc:0 "We have conquered the descendants of Rûm on the highlands, but they remain enthralled by past glories, unwilling to submit. Relocating them under our watchful eyes might be a good decision."
 EDG_NSF_empire_Mission_4_10_desc:0 "Although we have militarily conquered this land, the Turks' spiritual resistance remains strong. We should have the Orthodox Church establish dedicated missionary points in Anatolia to spread the glory of Christ."
 EDG_NSF_empire_Mission_4_11_desc:0 "As our army gradually expands, the need for a personal guard for the Emperor has come onto the agenda. This army is personally selected by the Emperor, with every soldier skilled in firearms. It becomes the Emperor's most reliable military force."
 EDG_NSF_empire_Mission_4_12_desc:0 "Through the relentless efforts of our gunpowder manufacturing department, we have finally made progress in research. Now, with a new method for producing pure gunpowder, our troops can inflict greater firepower damage."
@@ -784,7 +784,7 @@ EDG_akk_special_missions_1_7_title:0 "Crack Down on Conservative Sheikhs"
 EDG_akk_special_missions_1_8_title:0 "Kurdish Nobility"
 EDG_akk_special_missions_1_9_title:0 "Develop the Nile River"
 EDG_akk_special_missions_2_2_title:0 "Tribal Corps"
-EDG_akk_special_missions_2_3_title:0 "Enter the Imperial Capital"
+EDG_akk_special_missions_2_3_title:0 "The Imperial Capital" # Enter the Imperial Capital
 EDG_akk_special_missions_2_4_title:0 "Suppress the Sufi Orders"
 EDG_akk_special_missions_2_5_title:0 "Centralization Reforms"
 EDG_akk_special_missions_2_6_title:0 "Shahanshah"
@@ -1485,11 +1485,11 @@ EDG_TTS_decision_EDG_TTS_mission_2_3_title:0 "Crowned King of Naples"
 EDG_TTS_decision_EDG_TTS_mission_2_3_desc:0 "We shall don the crown of Naples and rule in the capacity of King of Naples."
 
 #Sacred Poland
-EDG_NYGX_LER_mission_1_2_title:0 "Sword of the Blessed Virgin Mary"
+EDG_NYGX_LER_mission_1_2_title:0 "Sword of the Blessed Virgin" # Sword of the Blessed Virgin Mary
 EDG_NYGX_LER_mission_1_3_title:0 "Kievan Rus' Civil War"
 EDG_NYGX_LER_mission_1_4_title:0 "First Rus' War"
 EDG_NYGX_LER_mission_2_6_title:0 "Throne of Vseslav"
-EDG_NYGX_LER_mission_3_5_title:0 "Commonwealth by Divine Mandate?"
+EDG_NYGX_LER_mission_3_5_title:0 "By Divine Mandate?" # Commonwealth by Divine Mandate?
 
 EDG_NYGX_LER_mission_1_2_desc:0 "Under the influence of extreme religious fervor, we shall be the sharpest sword in the world."
 EDG_NYGX_LER_mission_1_3_desc:0 "Kievan Rus' is embroiled in a brutal civil war, severely weakening the power of these Rus' peoples. We can intervene and secure victory for ourselves."
@@ -1918,8 +1918,8 @@ EDG_BUL_decision_form_BU1_tt:0 "We will need to choose our §Ynational path§!: 
 
 EDG_flavor_BUL_1_flag:0 "Bulgarian War of Independence"
 
-EDG_BUL_empire_roma_flag_tt:0 "We will enable the §MSnational mission tree§! and §Mnational ideas§! for the §YSuccessor of Rome§! path.\nWe will be able to claim the historical territories of the §MRoman Empire§!, conduct §YImperial Reconquest§!, and §!restore the Five Patriarchates§!.\n\n§YAuthor-recommended path§!"
-EDG_BUL_empire_slavic_flag_tt:0 "We will enable the §MSnational mission tree§! and §Mnational ideas§! for the §YGreater Slavic State§! path.\nWe will gain claims including those on §Mall Slavic peoples§! and conduct §YSlavic Invasions§!."
+EDG_BUL_empire_roma_flag_tt:0 "We will enable the §Mmission tree§! and §Mnational ideas§! for the §YSuccessor of Rome§! path.\nWe will be able to claim the historical territories of the §MRoman Empire§!, conduct §YImperial Reconquest§!, and §!restore the Five Patriarchates§!.\n\n§YAuthor-recommended path§!"
+EDG_BUL_empire_slavic_flag_tt:0 "We will enable the §Mmission tree§! and §Mnational ideas§! for the §YGreater Slavic State§! path.\nWe will gain claims including those on §Mall Slavic peoples§! and conduct §YSlavic Invasions§!."
 EDG_BUL_empire_decline_end_flag:0 "The §YGrey Army Ascendancy§! disaster has ended"
 EDG_BUL_empire_roma_flag:0 "Successor of Rome"
 EDG_BUL_empire_slavic_flag:0 "Greater Slavic State"
@@ -2739,7 +2739,7 @@ EDG_HAB_mission_5_12_artist_tt:0 "Each level of our administrative advisor §YAr
 EDG_HAB_mission_5_12_artist_flag_tt:0 "Each level of our administrative advisor §YArtist§! will grant us §G10%§! §Mnationwide institution spread§!."
 EDG_HAB_mission_5_12_philosopher_tt:0 "Each level of our administrative advisor §YPhilosopher§! will grant us §G-5%§! §MStability cost§!."
 EDG_HAB_mission_5_12_philosopher_flag_tt:0 "Each level of our administrative advisor §YPhilosopher§! will grant us §G-5%§! §MStability cost§!."
-EDG_castle_master_provide_army_tradition_flag_tt:0 "Each level of our military advisor §YFortress Master§! will grant us §G+0.25§! §Mannual army tradition§!."
+EDG_castle_master_provide_army_tradition_flag_tt:0 "Each level of our military advisor §YCastellan§! will grant us §G+0.25§! §Mannual army tradition§!." # Fortress Master
 EDG_tax_bailiff_provide_tax_flag_tt:0 "Each level of our administrative advisor §YTax Bailiff§! will grant us §G+5%§! §Mnational tax income modifier§!."
 
 EDG_economist_provide_global_trade_goods_size_modifier_flag_tt:0 "Each level of our administrative advisor §YEconomist§! will grant us §G+5%§! §Mgoods produced modifier§!."
@@ -2793,7 +2793,7 @@ EDG_levant_group_adviser_enable_adm_upgrate_event_flag_tt:0 "When hiring an advi
 EDG_west_Slavic_group_adviser_enable_adm_upgrate_event_flag_tt:0 "When hiring an advisor from the §YWest Slavic§! culture group, our ruler may gain §M1§! point of £dip£ diplomatic skill. This can only be triggered once per ruler."
 
 EDG_UKR_mission_5_4_title:0 "Recruit the Cossacks"
-EDG_UKR_mission_5_4_desc:0 "The Cossacks, renowned for their bravery and combat prowess, have long been the core of our traditional cavalry. We should demonstrate our potential to attract more Cossacks to our cause and prepare for defeating the Tatars and dominating Zaporizhia."
+EDG_UKR_mission_5_4_desc:0 "The Cossacks, renowned for their bravery and combat prowess, have long been the core of our traditional cavalry. We should demonstrate our potential to attract more Cossacks to our cause and prepare for defeating the Tatars and dominating Zaporozhie."
 
 EDG_MISSION_religion_is_orthodox_tt_yes:0 "£yes£If our state religion is §YOrthodox§!, then"
 EDG_MISSION_religion_is_orthodox_tt_no:0 "£no£If our state religion is §YOrthodox§!, then"

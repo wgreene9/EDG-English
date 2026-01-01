@@ -1,0 +1,242 @@
+﻿l_english:
+EDG_SWI_mission_1_1_title:0 "Offer a Gift to Württemberg"
+EDG_SWI_mission_1_1_desc:0 "For over thirty years, from a single province raising the banner of resistance against the Habsburgs to eight provinces uniting to oppose Habsburg rule, we have experienced much. Now, let us end this and bring peace back to our lands."
+
+EDG_SWI_mission_1_2_title:0 "Diplomatic Impasse" # Reverse the Diplomatic Impasse
+EDG_SWI_mission_1_2_desc:0 "Free Switzerland needs to reverse its diplomatic predicament. We must actively seek more allies to safeguard our national security."
+EDG_SWI_mission_1_2.effect.tt:0 "All §TAllies§! and we mutually gain §G15§! §YTrust§!\n"
+
+EDG_SWI_mission_1_3_title:0 "A Deal"
+EDG_SWI_mission_1_3_desc:0 "Lübeck is a major Free City of the Holy Roman Empire and the leader of the powerful Hanseatic League. The wealth of Northern Germany and the Baltic converges here. As a prosperous capital, Lübeck is not only a commercial hegemon but also the Holy Roman Emperor's most loyal supporter. We should properly manage our relations with Lübeck to bring more assistance for our stable development."
+EDG_SWI_mission_1_3.bouns.tt:0 "Obtain §Ydifferent rewards§! based on the §Ycompletion conditions§! of the mission.\n"
+EDG_SWI_mission_1_3.modifier.tt:0 "As long as we maintain an §TAlliance§! with @HSA §Y[HSA.GetName]§!, both parties will receive §Ycertain bonuses§!.\n"
+EDG_SWI_mission_1_3.effect.tt:0 "If @HSA §Y[HSA.GetName]§! has at least §G100§! attitude towards us and we have at least §G5k§! manpower, we will receive §Tadditional rewards§!.\n"
+
+EDG_SWI_mission_1_4_title:0 "Establish the Free League"
+EDG_SWI_mission_1_4_desc:0 "If Free Switzerland grows strong, what path should we choose? In his sleep, Noah Hu Markus saw this vision: Free Switzerland establishes a free and equal Eden.\n\nCountless allied nations span the five continents and four seas, from Britain to Novgorod, from Tunis to Jerusalem. The people are prosperous, beautiful, and civilized, freed from poverty and war. Everyone can travel freely without fearing for their safety. Everyone needs to work only one-third of the day; the rest can be used for leisure and learning.\n\nHe also saw God smiling upon him, faintly glimpsing the angels of heaven and hearing melodious hymns, anticipating this beautiful world.\n\nIn the morning, awakening from his dream, golden sunlight filled the entire bedroom. The gentle sun kissed Noah Hu Markus's forehead. With a smile, he walked to his desk, picked up a pen, and wrote these bold words: 'By God's expectation, Free Switzerland shall lead the Free League, and indeed the world, towards Eden.'"
+EDG_SWI_mission_1_4.effect.tt:0 "Unlocks several special diplomatic actions:\n- Invite to join the §TFree League§!\n- Authorize an §OSwiss Canton§!\n- Free League §RCoalition§!\n"
+EDG_SWI_mission_1_4.modifier.tt:0 "If our §YGovernment Reform§! is not at level §G5§!, gain the following §Ymodifier§!"
+EDG_SWI_mission_1_4.effect_1.tt:0 "If @SAR §Y[SAR.GetName]§! is our §Yally§! or §Ysubject§!, convert it to the special subject type §TFree League§!\n"
+EDG_SWI_mission_1_4.effect_2.tt:0 "If @MLO §Y[MLO.GetName]§! is our §Ysubject§!, convert it to the special subject type §OSwiss Canton§!\n"
+
+EDG_SWI_mission_1_5_title:0 "The Rains of South Germany" # Southern Germany in the Rain / Rains of South Germany
+EDG_SWI_mission_1_5_desc:0 "Southern Germany has been divided for a long time. This fertile land has been embroiled in constant strife. The Habsburgs have always coveted this territory, seeking to ignite war and forcibly annex Southern Germany. We absolutely cannot agree. Southern Germany needs a rain—a torrential downpour to extinguish the flames of ambition in these warmongers' hearts."
+EDG_SWI_mission_1_5.effect.tt:0 "All nations meeting the §Ymission conditions§! will become our §TFree League§! allies.\n"
+
+EDG_SWI_mission_1_6_title:0 "Expand Influence"
+EDG_SWI_mission_1_6_desc:0 "To fulfill Eden's Dream, let us share the glory of the Free League with our neighboring countries, letting the song of freedom resound throughout Southern Germany!"
+EDG_SWI_mission_1_6.effect.tt:0 "Each nation satisfying the §Ymission conditions§! will increase §G2§! §OEden's Dream§! progress\n"
+
+EDG_SWI_mission_1_7_title:0 "Congress of Vienna"
+EDG_SWI_mission_1_7_desc:0 "We have crossed the Danube. The armies of the Free League have crushed Austria's forces, their vanguard pointing directly at Vienna. Vienna is tightly besieged. Any ambitious schemer attempting to provoke strife must be destroyed."
+
+EDG_SWI_mission_1_8_title:0 "Trust from the Pope"
+EDG_SWI_mission_1_8_desc:0 "Swiss mercenaries have long been renowned across Europe for their superb combat skills and honest reputation. The independence of the Swiss cantons also relied heavily on our strong support from the Holy See in Rome. Let Free Switzerland continue our traditional friendship with His Holiness the Pope."
+
+EDG_SWI_mission_1_9_title:0 "Savior of Rome"
+EDG_SWI_mission_1_9_desc:0 "Let us fight for Rome. Any enemy who dares to violate or offend the Holy See shall face the edge of Swiss steel."
+
+EDG_SWI_mission_1_10_title:0 "Byzantine Veterans"
+EDG_SWI_mission_1_10_desc:0 "In the distant Eastern Roman Empire, the Varangian Guard served as the Emperor's personal guard, renowned for their valor in battle and unwavering loyalty. However, following a series of military missteps by the Eastern Roman Empire, it has grown increasingly weak. Now, the Empire is in decline, unable to even pay the salaries of these elite guards. Compelled by necessity, it can only discharge these experienced warriors. For us, this is an opportunity."
+
+EDG_SWI_mission_1_11_title:0 "Consecrated Nation of God" # Consecrated as the Beloved Nation of God
+EDG_SWI_mission_1_11_desc:0 "The Free Swiss Republic, through war after war, has repeatedly saved Rome and defeated heretics. Now, the Holy See trusts us completely. Let us propose our aspirations to the Holy See, so that a nation that truly embodies the essence of Christ may attain its rightful status and reverence within the Catholic world."
+
+EDG_SWI_mission_1_12_title:0 "Paradise of Piety"
+EDG_SWI_mission_1_12_desc:0 "Free Switzerland must undertake the mission of spreading the glory of the Catholic Gospel. Let us build churches one after another, allowing people to hear the teachings within."
+EDG_SWI_mission_1_12.effect.tt:0 "Each province under our rule with a §YChurch§! grants us §G2§! §OEden's Dream§! progress\n"
+
+EDG_SWI_mission_1_13_title:0 "The Treaty of Bern"
+EDG_SWI_mission_1_13_desc:0 "The Free Swiss Republic must protect the Catholic world from foreign invasion, becoming the sword against heresy. Let us sign a treaty with the Holy See; the great right of Crusade shall ultimately be entrusted to us."
+
+EDG_SWI_mission_1_14_title:0 "Holy Land"
+EDG_SWI_mission_1_14_desc:0 "His gaze traverses the Pyrenees, crosses the Strait of Gibraltar. Whether in Great Britain, Scandinavia, the vast Eastern European steppes, the beautiful Balkans, ancient Anatolia, the exotic Persia, or mysterious Egypt, Christ's holy light rises from Italy, blessing the Holy Land for ten thousand years."
+
+EDG_SWI_mission_2_2_title:0 "Unification of Switzerland" # The Unification of Switzerland
+EDG_SWI_mission_2_2_desc:0 "The Three Leagues can no longer remain aloof. We must reclaim the other provinces to complete the unification of Switzerland. May God bless Switzerland!"
+EDG_SWI_mission_2_2.effect.tt:0 "§YRemoves§! the §TCores§! of all other countries located in the §YSwitzerland region§!\n"
+
+EDG_SWI_mission_2_3_title:0 "The Sardinian Magistrate's Aid" # The Sardinian Magistrate Extends Aid
+EDG_SWI_mission_2_3_desc:0 "As the situation evolves, France, Arles, and Austria have all turned their gaze towards the Free Swiss Republic, unabashedly revealing their greed to make Switzerland their next target of annexation.\n\nIn our most perilous hour, the Republic of Sardinia timely extended a helping hand, providing us with supplies and a declaration protecting the freedom and independence of the Free Swiss Republic. We express our utmost gratitude to this ally with profound respect!"
+
+EDG_SWI_mission_2_4_title:0 "Ambivalent Distance"
+EDG_SWI_mission_2_4_desc:0 "We have gradually escaped fate, growing stronger each day. We should carefully consider the position of the Free Swiss Republic within the Holy Roman Empire!"
+EDG_SWI_mission_2_4.modifier.tt:0 "Obtain §Ydifferent rewards§! based on the §Ycompletion conditions§! of the mission.\n"
+
+EDG_SWI_mission_2_5_title:0 "Infiltration of the North"
+EDG_SWI_mission_2_5_desc:0 "Northern Germany is poor and fragmented. Bohemia's ambition seeks to swallow it whole. The Empire's Grand Marshal, Saxony, dissatisfied with its current status, craves more land. Lotharingia of the Low Countries casts greedy eyes upon Northern Germany's borders. Today's Northern Germany is an empty shell, indefensible. We must shoulder the responsibility; Northern Germany needs Free Switzerland!"
+EDG_SWI_mission_2_5.effect.tt:0 "§G3§! random countries meeting the §Ymission requirements§! will become our §TFree League§! allies.\n"
+
+EDG_SWI_mission_2_6_title:0 "Act of Union"
+EDG_SWI_mission_2_6_desc:0 "Germany must unite against greedy schemers. Let us come together. Dispatch all our diplomats to Northern Germany, conveying our goodwill and our Eden's Dream."
+
+EDG_SWI_mission_2_7_title:0 "Republican Manifesto"
+EDG_SWI_mission_2_7_desc:0 "The Republic makes no secret of its disdain for feudal monarchs. Republicanism is the true path leading humanity to Eden, genuinely capable of liberating the majority and achieving the broadest equality among people. To realize our dream, we proclaim our Republican Manifesto to the entire world!"
+EDG_SWI_mission_2_7.effect.tt:0 "Unlocks a §TEspionage§! operation §YSpread Republican Ideas§!, allowing us to spend a certain cost to §TSubvert§! the §YGovernment§! of smaller nations.\n\n§OSwiss Cantons§! no longer occupy §YDiplomatic Relations§! slots.\n"
+
+EDG_SWI_mission_2_8_title:0 "Religious Resistance"
+EDG_SWI_mission_2_8_desc:0 "Facing the aggressive missionary attitude of the Cathars, Free Switzerland must staunchly defend our faith in God. Let us build churches to resist the Cathar incursion."
+
+EDG_SWI_mission_2_9_title:0 "Crush the Cathars"
+EDG_SWI_mission_2_9_desc:0 "Free Switzerland must take the initiative to strike the aggressive Cathars and the Kingdom of Arles that consistently supports them. The glory of God shall soon shine anew upon Provence and Savoy."
+
+EDG_SWI_mission_2_10_title:0 "The Decree of Michael"
+EDG_SWI_mission_2_10_desc:0 "If Free Switzerland wishes to grow stronger, it must remove restrictions, be inclusive as the ocean, and liberate thought. Let us present our request to the Holy See."
+
+EDG_SWI_mission_2_11_title:0 "The Village Priest"
+EDG_SWI_mission_2_11_desc:0 "The Free Swiss Republic actively reformed the domestic church. The church's vast power was curtailed, and it became part of the government, no longer an independent force. Priests are dispatched to villages for education and spiritual guidance, serving as one of the government's executive units at the grassroots level."
+EDG_SWI_mission_2_11.effect.tt:0 "Each province under our rule with a §YChurch§! grants us §G5§! §YPapal Influence§!\n\nAllows the use of the §YIberian Religious Orders§! mechanic\n"
+
+EDG_SWI_mission_2_12_title:0 "Geneva Seminary"
+EDG_SWI_mission_2_12_desc:0 "In Geneva, the government founded a magnificent and splendid seminary to train our clergy, teaching doctrine, literature, and science, making it the cradle of our intellectual development."
+
+EDG_SWI_mission_2_13_title:0 "God and the Spirit of Reason"
+EDG_SWI_mission_2_13_desc:0 "The world is an exquisite mechanism created by God. As mortals, we learn, contemplate, and summarize, exploring the unknown with the spirit of reason. The more we discover and the deeper our understanding, the more we admire the Creator's greatness and benevolence. The more rational and civilized we become, the better we can comprehend God's greatness in another dimension."
+
+EDG_SWI_mission_3_1_title:0 "Switzerland's Choice" # Free Switzerland's Choice
+EDG_SWI_mission_3_1_desc:0 "The region north of the Alps has always been a difficult land. After gaining independence, Switzerland also lost its protective umbrella. Where does the future lead? Faced with a perilous situation, should we choose to yield or to resist?"
+
+EDG_SWI_mission_3_2_title:0 "In Name Only"
+EDG_SWI_mission_3_2_desc:0 "The heretical monarch of Arles cunningly defeated the Catholic world's counterattack, thinking himself secure henceforth, unaware that his doom approaches. What he believed to be an impregnable, unbreakable defense line? Perhaps not so unbreakable after all.\n\nSwiss warriors have long explored those small paths. We will achieve a military miracle, make our name known throughout Arles, and capture Robert alive!"
+EDG_SWI_mission_3_2.effect.tt:0 "§YEach§! province §Toccupied§! by us provides 10£dip£ and 10¤\n"
+
+EDG_SWI_mission_3_3_title:0 "The Turin Trial"
+EDG_SWI_mission_3_3_desc:0 "That man stood solemnly in the square in his military uniform, surrounded by a group of soldiers. He picked up sheets of indictments, each detailing the crimes committed by princes and nobles. With each name read aloud, cheers erupted from the countless gathered people. A noble was fitted with a noose, and moments later, his neck was broken. Merchants who had committed atrocities against the people met the guillotine, blood splattering, fine heads piling up like a mountain.\n\nFacing the encirclement of Cathar nations, thrice traversing the Alps, no one imagined he would launch a surprise attack on Turin and hold a grand trial here. Amidst the unanimous cheers of the people of Turin, the Free Swiss Republic's fame spread throughout the land!"
+
+EDG_SWI_mission_3_4_title:0 "Intervene in Lombardy"
+EDG_SWI_mission_3_4_desc:0 "The Philosopher's Council from Lombardy pleads for us to save the Republic of Lombardy. Let us await the opportune moment, intervene in Lombardy's calamity, resolve the threat to our rear, and return to our beloved Italy!"
+EDG_SWI_mission_3_4.condition.tt:0 "The fate of @MLO §Y[MLO.GetName]§! is already revealed!"
+EDG_SWI_mission_3_4.effect.tt:0 "Unlocks the decision 'Stabilize @MLO §Y[MLO.GetName]§!'.\n"
+
+EDG_SWI_mission_3_5_title:0 "Genoa-Firenze Agreement" # Genoa-Florence Agreement
+EDG_SWI_mission_3_5_desc:0 "In Northern Italy, the city economies are highly developed. Trade between various city-states is prosperous, with a multitude of goods, making it the wealthiest region in all of Europe, possessing long history and great riches. Let us sign agreements with these city-states, placing them under our protection."
+EDG_SWI_mission_3_5.condition_1.tt:0 "All countries whose §Tcapital§! is in the §YEmilia-Romagna§! region have at least §G100§! §Topinion§! of us, or we have at least §G30§! §Tspy network§! in them.\n"
+EDG_SWI_mission_3_5.condition_2.tt:0 "All countries whose §Tcapital§! is in the §YTuscany§! region have at least §G100§! §Topinion§! of us, or we have at least §G30§! §Tspy network§! in them.\n"
+EDG_SWI_mission_3_5.effect.tt:0 "All countries whose §Tcapital§! is in the §YEmilia-Romagna§! or §YTuscany§! regions and have no more than §G3§! cities will become our §TFree League§! allies.\n"
+
+EDG_SWI_mission_3_6_title:0 "Prevent the Restoration"
+EDG_SWI_mission_3_6_desc:0 "Venice is a rather complex major power. It once had glory, but all that has changed. Since the Dandolo family's dictatorial rule, Venice has become a hereditary, corrupt, and despotic monarchy. We must prevent the Dandolo family's restoration and bring the Republic back to Venice!"
+
+EDG_SWI_mission_3_7_title:0 "Swiss Peace"
+EDG_SWI_mission_3_7_desc:0 "Through the unremitting efforts of Free Switzerland, whether it be France, Austria, or Bohemia, a clear consensus has emerged across Europa: Free Switzerland truly is not afraid to fight for its dream. From the Baltic to the Mediterranean, the iron curtain of the Free League's peace slowly descends upon Europa. All warmongers have sheathed their claws, not daring to act rashly before this iron curtain. Thus, the Swiss Peace is achieved!"
+EDG_SWI_mission_3_7.effect.tt:0 "We and all §TFree League§! subjects gain §Ysignificant bonuses§! during §Tpeacetime§! and §Ycertain bonuses§! during §Twartime§!.\n\nWe can now convert §TFree League§! members into §OSwiss Cantons§!, at a cost of §G100§! £dip£, §Y20§! §Yprestige§!, and §G10§! §Yrepublican tradition§!.\n"
+
+EDG_SWI_mission_3_8_title:0 "Rebuilding from the Ashes"
+EDG_SWI_mission_3_8_desc:0 "During the Thirty Years' War of Independence, continuous wars and conflicts destroyed our past development. Now is the moment for rebuilding from the ashes. Let us rally and focus on economic growth."
+
+EDG_SWI_mission_3_9_title:0 "Land Reform"
+EDG_SWI_mission_3_9_desc:0 "Most of Free Switzerland's land is mountainous, with only a small portion being flat and suitable for cultivation. However, land ownership among the populace is intricately complex. All classes seize the good land, leaving the impoverished commoners to farm on slopes. Faced with this situation, Free Switzerland must cut the Gordian knot swiftly. If we wish to grow strong, we must resolve the land issue."
+
+EDG_SWI_mission_3_10_title:0 "Livestock Cooperative" # Alpine Livestock Cooperative
+EDG_SWI_mission_3_10_desc:0 "The beautiful Alps have long had a tradition of animal husbandry, with unique cowbells and festive celebrations. Therefore, we should vigorously develop our livestock industry. Let the state uniformly allocate and manage, inviting villagers to join our livestock cooperatives to build our beautiful highland pastures together and enrich our people."
+EDG_SWI_mission_3_10.effect.tt:0 "All provinces under our rule with §YHills§! or §YMountain§! terrain and producing §TLivestock§! gain the following §Ymodifier§!:"
+
+EDG_SWI_mission_3_11_title:0 "New Rural Movement"
+EDG_SWI_mission_3_11_desc:0 "South of the Alps lies fertile, flat land. Since ancient times, the Lombardy region has had a tradition of textile production, with its exquisite cloth sold to areas like Southern France, Austria, and Croatia. Let us adapt to local conditions, build our new rural areas, and vigorously develop the textile industry."
+EDG_SWI_mission_3_11.effect.tt:0 "All provinces §Ymeeting the mission conditions§! will gain the building §TTextile Manufactory§! and the following §Ymodifier§!:"
+
+EDG_SWI_mission_3_12_title:0 "Nationalization Reform"
+EDG_SWI_mission_3_12_desc:0 "As our nation's economy develops, we are gradually prospering, but this is not enough. Many urgent problems still require our attention. Perhaps it is time for us to take this step: nationalizing agriculture, handicrafts, and commerce, so they can better create wealth for the nation and benefit the people."
+
+EDG_SWI_mission_3_13_title:0 "Ministry of Commerce" # Establish the National Ministry of Industry and Commerce
+EDG_SWI_mission_3_13_desc:0 "Given the continuous development of our country's economy and trade, we should establish a unified institution to manage trade affairs uniformly and resolve trade disputes. We should approve the establishment of the National Ministry of Industry and Commerce for standardized management."
+EDG_SWI_mission_3_13.effect.tt: "§YAll provinces§! under our rule gain §G1§! §YBase Production§!\n"
+
+EDG_SWI_mission_3_14_title:0 "Economic Integration"
+EDG_SWI_mission_3_14_desc:0 "With the expansion and joining of the Free League, we have also achieved better cooperation and mutual benefit in commerce. Now, let the spring breeze of reform reach our friends. We should not only share hardships but also prosperity."
+EDG_SWI_mission_3_14.effect.tt:0 "All §TFree League§! members and §OSwiss Cantons§! will also gain the following modifier\n"
+
+EDG_SWI_mission_4_2_title:0 "Song of the Tyrolean Valley"
+EDG_SWI_mission_4_2_desc:0 "He rode a beautiful chestnut steed over the snow-capped peaks. A flag bearing a white cross on a red field fluttered behind him. His mighty army stretched as far as the eye could see, red specks of fire swaying and dancing beneath the snow-capped peaks. Songs echoed from the valley below, resonating in every blade of grass and every drop of water in the Tyrolean valley.\nNoah Hu Markus smiled and greeted the people, warmly saying in his mother tongue: 'Overthrow tyranny! Relieve the oppressed!' Followed by cheers that pierced the heavens!"
+EDG_SWI_mission_4_2.effect.tt:0 "@TIR §Y[TIR.GetName]§! will gain all our §Yprovinces§! and §Tcores§! in the §YTyrol§! region.\n"
+
+EDG_SWI_mission_4_3_title:0 "Wheat Fields of the Po Valley"
+EDG_SWI_mission_4_3_desc:0 "South of the Alps, snowmelt feeds the rivers, flowing gently across the Po Valley. Sunlight slowly spills over, and as far as the eye can see, golden waves of wheat sway like an ocean. Cooking smoke rises, farmers toil in the fields, and from the nearby city, faint sounds of hawking drift over. What a rich and beautiful land! With the Po Valley, we no longer need to fear hunger. For the people of the Free Swiss Republic, let us strive to cultivate diligently."
+EDG_SWI_mission_4_3.effect.tt:0 "Each §Ymission province§! with a §YProduction Building§! gains a §TFarm§!.\n"
+
+EDG_SWI_mission_4_5_title:0 "Alpine Fortress" # Alpine Mountain Fortress
+EDG_SWI_mission_4_5_desc:0 "The Alps are the guardian of Free Switzerland, possessing a natural geographical advantage. If we can establish a strong Alpine defensive line, heavily fortifying our positions, it will surely make us unbeatable against foreign invasion."
+EDG_SWI_mission_4_5.effect.tt:0 "All provinces meeting the §Ymission conditions§! gain a §Yprovince modifier§! that §Tenhances provincial defenses§!.\n"
+
+EDG_SWI_mission_4_6_title:0 "Geneva Academy" # Geneva Military Academy
+EDG_SWI_mission_4_6_desc:0 "As wars become increasingly frequent, we need to establish a professional military academy to provide us with officers possessing specialized military expertise. We shall build a great army."
+
+EDG_SWI_mission_4_7_title:0 "Valais Arsenal"
+EDG_SWI_mission_4_7_desc:0 "The iron mines of the Alps provide convenience for us to build an arsenal. We shall establish an excellent arsenal to improve our weapons and tools, arming our troops with high-quality weaponry, advancing our army further towards greatness!"
+EDG_SWI_mission_4_7.effect.tt:0 "Unlocks a series of §Tdecisions§! to optimize our §YA army quality§!.\n"
+
+EDG_SWI_mission_4_8_title:0 "Sicilian Convention"
+EDG_SWI_mission_4_8_desc:0 "Beautiful Sicily is filled with the weight of history and the wealth of abundance. The legacy of Roman culture, the pearl of Mediterranean trade, and the charm of Sicily are captivating. To better spread our dream across the Mediterranean, we need to protect Sicily."
+EDG_SWI_mission_4_8.effect.tt:0 "Obtain §Ydifferent rewards§! based on the §Ycompletion conditions§! of the mission.\n"
+
+EDG_SWI_mission_4_9_title:0 "Develop the Economy"
+EDG_SWI_mission_4_9_desc:0 "We must use every means to increase the nation's revenue. From the government's daily expenses to military funds for foreign wars, every step of the nation's operation is driven by money."
+EDG_SWI_mission_4_9.effect.tt:0 "§YUpgrade§! all §Ymission-compliant§! provinces' §TTrade Buildings§!.\n"
+
+EDG_SWI_mission_4_10_title:0 "Mining Technology" # Improve Mineral Mining Technology
+EDG_SWI_mission_4_10_desc:0 "The abundant iron ore in the Alps is a gift from heaven. Let us improve our mining technology to provide a continuous supply of steel for the nation's industrial development and livelihood construction."
+EDG_SWI_mission_4_10.effect.tt:0 "All provinces with §YHills§! or §YMountain§! terrain producing §TIron§! gain the following §Ymodifier§!:"
+
+EDG_SWI_mission_4_11_title:0 "Swiss Trading Company" # Swiss Chartered Trading Company
+EDG_SWI_mission_4_11_desc:0 "To develop our economy amidst the perilous market competition, let us establish a unified commercial institution for foreign trade. This will help us avoid more risks and earn greater profits."
+
+EDG_SWI_mission_4_12_title:0 "Free Swiss National Bank" # Establish the Free Swiss National Bank
+EDG_SWI_mission_4_12_desc:0 "As Free Switzerland's economic progress accelerates, large amounts of capital require savings, while more opportunities stimulate people to borrow for entrepreneurship. We urgently need a bank to provide financial services to companies and the public."
+EDG_SWI_mission_4_12.effect.tt:0 "The ¤ required for the decision §Y'Rebuild the Bank of Saint George in Genoa'§! is §Yreduced§! from §G10000§! to §G1000§!. The aforementioned decision will §Tunlock§! after §Ywe or our subject§! owns §Y[101.GetName]§!.\n"
+
+EDG_SWI_mission_4_13_title:0 "Capitalist Development" # Promote Capitalist Development
+EDG_SWI_mission_4_13_desc:0 "The Swiss miracle has occurred. Switzerland has developed from a backward, impoverished mountainous country into a famously wealthy nation. Vast wealth pours in, enormous quantities of goods are produced by diligent hands, ships come and go in an endless stream, and merchant caravans stretch continuously. Looking out, it is truly a scene of everything striving to flourish, full of vitality."
+
+EDG_SWI_mission_4_14_title:0 "Three-Tiered Supervision"
+EDG_SWI_mission_4_14_desc:0 "As capitalism develops further, the problems it brings also increase. Therefore, we must establish institutional constraints. We will implement a three-tiered supervision system: internal oversight, external oversight, and societal oversight. This is to regulate the disorderly development of capitalism and to ensure the well-being of the nation and its people."
+
+EDG_SWI_mission_5_1_title:0 "Republic's Standing Army" # Establish the Republic's Standing Army
+EDG_SWI_mission_5_1_desc:0 "For a long time, the Swiss region has been a source of mercenaries, with private conflicts rampant. After decades of war for independence, our manpower losses have been severe, and the population has declined sharply. We have decided to abandon the mercenary system. The Free Swiss Republic should establish its own standing army."
+EDG_SWI_mission_5_1.effect.tt:0 "Unlocks the decision §Y'Establish the Free Swiss Republic's Standing Army'§!.\n"
+
+EDG_SWI_mission_5_2_title:0 "Independent and Self-Reliant" # Independent and Self-Reliant Strategy
+EDG_SWI_mission_5_2_desc:0 "The Free Swiss Republic must be independent and self-reliant, not subject to others' control. We have already shaken off the suzerain that bound us. We must defend this hard-won freedom. No one shall bring Free Switzerland under their thumb. We will fight our enemies to the end. We choose our own independent destiny; we reject a fate of destruction or enslavement. Even if we fight to the last soldier, we will never yield!"
+
+EDG_SWI_mission_5_3_title:0 "Don Quixote Tactics"
+EDG_SWI_mission_5_3_desc:0 "Military tactics from France have been swiftly introduced into our army's development. We should vigorously learn advanced tactical experience to strengthen our military and protect our country."
+
+EDG_SWI_mission_5_4_title:0 "Forest Cantons Army Manual"
+EDG_SWI_mission_5_4_desc:0 "After decades of combat, Free Switzerland has continuously studied advanced military tactics and has now synthesized its own military experience into a newly compiled Army Manual. This will train our troops, temper our warriors, and forge a stronger core for our military."
+
+EDG_SWI_mission_5_5_title:0 "Citizen Service System"
+EDG_SWI_mission_5_5_desc:0 "During our defense of the nation, amidst countless battles where warriors fell one after another, our military has faced a generational gap. To protect our dream and Free Switzerland, we need to change our conscription system. All adult citizens should participate in compulsory national military service."
+EDG_SWI_mission_5_5.effect.tt:0 "When our §YManpower Percentage§! is below §G25%§! and we are in a §Ystate of war§!, we will gain the following modifier:"
+
+EDG_SWI_mission_5_6_title:0 "The Petrel in the Thunderstorm"
+EDG_SWI_mission_5_6_desc:0 "Over the English Channel, a petrel struggles through the storm. Suddenly, a massive wave crashes over. The petrel courageously pierces through the wave, soaring amidst the thunder and rain. Can the petrel traverse this perilous sea to reach its desired destination?"
+EDG_SWI_mission_5_6.effect.tt:0 "Obtain §Ydifferent rewards§! based on the §Ycompletion conditions§! of the mission.\n"
+
+EDG_SWI_mission_5_7_title:0 "The Sword of Gabriel"
+EDG_SWI_mission_5_7_desc:0 "When the Last Judgment comes, Gabriel will blow his horn, and all the dead shall rise to stand before God for judgment. He is also the guardian of Eden, the embodiment of wisdom. Our army shall become the sword that defeats all enemies hindering our establishment of Eden. With wisdom, we will better protect Eden. Let our great army bring peace to the world!"
+EDG_SWI_mission_5_7.condition.tt:0 "We §Yhave completed§! all §YValais Arsenal§! §Tdecisions§!"
+
+EDG_SWI_mission_5_8_title:0 "Sons of the Alps"
+EDG_SWI_mission_5_8_desc:0 "The Alps are great and inclusive. French, Germans, Italians, and Slavs all live within her embrace. We should learn from our mother, uniting all peoples under the Alps. We shall create a different world, a new, equal, and fraternal Eden. Switzerland actively engages in this trial by God, composing a journey of freedom, equality, unity, fraternity, and the convergence of truth, goodness, and beauty."
+
+EDG_SWI_mission_5_9_title:0 "Raphael's Decree"
+EDG_SWI_mission_5_9_desc:0 "We should actively embrace other peoples. We firmly believe in an ideal, a conviction. The Free Swiss Republic will not discriminate based on ethnicity; in the name of God."
+EDG_SWI_mission_5_9.effect.tt:0 "Unlocks the §YClergy§! privilege §TRaphael's Decree§!"
+
+EDG_SWI_mission_5_10_title:0 "Let a Hundred Flowers Bloom"
+EDG_SWI_mission_5_10_desc:0 "Though the Free Swiss Republic is located in mountainous terrain with difficult transportation, our curiosity for knowledge and our pursuit of liberating thought are unceasing. Only by promoting progress and liberating thought can we create a better future."
+EDG_SWI_mission_5_10.effect.tt:0 "All provinces under our rule with §YDevelopment§! not less than §G12§! will gain the following §Ymodifier§!:"
+
+EDG_SWI_mission_5_11_title:0 "Rebuild the Tower of Babel"
+EDG_SWI_mission_5_11_desc:0 "There is a story from the distant past. It tells of a time before the Great Dispersion when all people lived together, their languages and writings were shared, and there was no suspicion or strife. They lived together in harmony. We hope all peoples and nations can be like in the story, without distinction or suspicion."
+EDG_SWI_mission_5_11.effect.tt:0 "Each time we §TIncrease Development§!, we can gain §G1§! §OEden's Dream§! progress.\n\nWhen we §Yactively§! form an §TAlliance§! with another country, both sides gain §G10§! §YTrust§!; when we §Yactively§! §RBreak§! an §TAlliance§! with another country, both sides lose §R10§! §YTrust§!.\n"
+
+EDG_SWI_mission_5_12_title:0 "The Path of Kabbalah" # Retreading the Path of Kabbalah
+EDG_SWI_mission_5_12_desc:0 "The Path of Kabbalah is the path of heroes, greatness, and perfection. For the Free Swiss Republic to realize its Eden's Dream, it must lead all people to retread the Path of Kabbalah. War, conspiracy, death, money, differences... none can truly obstruct our forward march."
+EDG_SWI_mission_5_12.effect.tt:0 "After each §YGovernment Interaction§!, §Gincrease§! a random province under our rule by §G1§! §YBase Manpower§!.\n"
+
+EDG_SWI_mission_5_13_title:0 "Until Eden"
+EDG_SWI_mission_5_13_desc:0 "Human life is finite, yet within this finite existence lies infinite potential. Let us advance! March towards the place of our dreams. Eden's Dream must be realized."
+EDG_SWI_mission_5_13.effect.tt:0 "After each §YGovernment Interaction§!, §Gincrease§! a random province under our rule by §G1§! §YBase Tax§! and §G1§! §YBase Production§!.\n"
+
+EDG_SWI_mission_5_14_title:0 "God's Covenant" # God's Covenant with the People
+EDG_SWI_mission_5_14_desc:0 "God created the world and bequeathed it to humanity. Between creation and destruction, we shall here renew our covenant with God, bringing peace, prosperity, civilization, and equality to the world, enabling all humanity to equally build, share, and inhabit Eden!"

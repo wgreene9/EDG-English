@@ -1,0 +1,13 @@
+﻿l_english:
+ability_EDG_PAP_papal_authority_mechanic:0 "Catholic §YPapal Authority§!"
+EDG_PAP_papal_authority:0 "§YPapal Authority§!"
+EDG_PAP_papal_authority_desc:0 "§YPapal Authority§! does not automatically increase or naturally decay; it can only be modified through interactions between §YCatholic nations§! and §YCatholic provinces§!.\n\n§YPapal Authority§! will be §Gincreased§! by the following means:\n-§G+0.1§! when a province §Tconverts§! to §YCatholicism§!\n-§G+0.5§! when a §YCatholic§! nation wins a §Twar§! against a §Yheretic§! or §Yheathen§! nation\n-§G+0.5§! when a nation converts to §YCatholicism§!\n\n§YPapal Authority§! will be §Rdecreased§! by the following means:\n-§R-0.1§! when a province §Tconverts§! to a §Yheretic§! faith\n-§R-0.5§! when a §YCatholic§! nation loses a §Twar§! against a §Yheretic§! or §Yheathen§! nation\n-§R-0.5§! when a nation converts to a §Yheretic§! faith\n"
+EDG_PAP_papal_authority_gain_modifier:0 "Modifier provided by §YPapal Authority§!"
+monthly_EDG_PAP_papal_authority:0 "Monthly §YPapal Authority§!"
+
+EDG_PAP_mediate_war_first_title:0 "§YDemand Mediation§!"
+EDG_PAP_mediate_war_first_desc:0 "We shall demand they cease war with another §YCatholic§! nation"
+EDG_PAP_mediate_war_first_tooltip:0 ""
+EDG_PAP_mediate_war_second_title:0 "§TSelect Mediation Target§!"
+EDG_PAP_mediate_war_second_desc:0 "This nation will reach §Yunconditional peace§! with the nation we previously §Ydemanded mediation§! from"
+EDG_PAP_mediate_war_second_tooltip:0 ""

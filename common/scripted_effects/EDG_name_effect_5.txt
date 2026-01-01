@@ -1,7 +1,7 @@
 
 EDG_flavor_GSR_mission_2_a_effect = {
 	define_general = {
-	  name = "维耶科斯拉夫 布兰卡"
+	  name = "Vjekoslav Branka"
 	  fire = 3
 	  shock = 4
 	  manuever = 4
@@ -10,7 +10,7 @@ EDG_flavor_GSR_mission_2_a_effect = {
 }
 EDG_flavor_GSR_mission_3_effect = {
 	define_heir = {
-		name = "奥比利奇"
+		name = "Obili?"
 		dynasty = ROOT
 		claim = 95
 		adm = 4
@@ -21,7 +21,7 @@ EDG_flavor_GSR_mission_3_effect = {
 }
 EDG_TUR_Salim_disaster_3_a_effect = {
 	define_ruler = {
-		name = "赛利姆 I 「冷酷者」"
+		name = "Selim I 'the Grim'"
 		dynasty = original_dynasty
 		claim = 95
 		adm = 6
@@ -34,7 +34,7 @@ EDG_TUR_Salim_disaster_3_a_effect = {
 }
 EDG_TUR_Salim_disaster_5_b_name_effect = {
 	define_ruler = {
-		name = "艾哈迈德 I"
+		name = "Ahmed I"
 		dynasty = original_dynasty
 		claim = 95
 		adm = 3
@@ -45,7 +45,7 @@ EDG_TUR_Salim_disaster_5_b_name_effect = {
 }
 EDG_TUR_Salim_disaster_6_c_name_effect = {
 	define_ruler = {
-		name = "科尔库德 I"
+		name = "Korkud I"
 		dynasty = original_dynasty
 		claim = 95
 		adm = 4
@@ -57,8 +57,8 @@ EDG_TUR_Salim_disaster_6_c_name_effect = {
 }
 EDG_flavor_TUR_37_a_name_effect = {
 	define_heir = {
-		name = "赛利姆 「酒鬼」"
-		monarch_name = "赛利姆 II 「酒鬼」"
+		name = "Selim"
+		monarch_name = "Selim II 'the Drunkard'"
 		dynasty = original_dynasty
 		claim = 95
 		adm = 4
@@ -71,7 +71,7 @@ EDG_flavor_TUR_37_a_name_effect = {
 }
 EDG_flavor_TUR_38_a_name_effect = {
 	define_heir = {
-		name = "穆斯塔法"
+		name = "Mustafa"
 		dynasty = original_dynasty
 		claim = 95
 		adm = 5
@@ -83,8 +83,8 @@ EDG_flavor_TUR_38_a_name_effect = {
 }
 EDG_flavor_TUR_40_a_name_effect = {
 	define_consort = {
-		name = "许蕾姆苏丹"
-		dynasty = "安娜斯塔西娅"
+		name = "H�rrem Sultan"
+		dynasty = "Anastazja Lisowska" # or just Anastazja
 		adm = 4
 		dip = 5
 		mil = 3
@@ -93,7 +93,7 @@ EDG_flavor_TUR_40_a_name_effect = {
 }
 EDG_flavor_TUR_43_A_effect = {
 	define_heir = {
-		name = "巴耶济德"
+		name = "Bayezid"
 		dynasty = original_dynasty
 		claim = 95
 		adm = 3
@@ -106,7 +106,7 @@ EDG_flavor_TUR_43_A_effect = {
 }
 EDG_flavor_TUR_47_a_name_effect = {
 	define_heir = {
-		name = "穆斯塔法"
+		name = "Mustafa"
 		dynasty = original_dynasty
 		claim = 95
 		adm = 5
@@ -118,7 +118,7 @@ EDG_flavor_TUR_47_a_name_effect = {
 }
 EDG_TUR_original_disaster_1_a_name_effect = {
 	define_heir = {
-		name = "艾哈迈德"
+		name = "Ahmed"
 		dynasty = original_dynasty
 		claim = 95
 		adm = 5
@@ -130,7 +130,7 @@ EDG_TUR_original_disaster_1_a_name_effect = {
 }
 EDG_TUR_original_disaster_2_a_name_effect = {
 	define_heir = {
-		name = "穆斯塔法"
+		name = "Mustafa"
 		dynasty = original_dynasty
 		claim = 95
 		adm = 0
@@ -142,7 +142,7 @@ EDG_TUR_original_disaster_2_a_name_effect = {
 }
 EDG_TUR_original_disaster_3_a_name_effect = {
 	define_heir = {
-		name = "奥斯曼"
+		name = "Osman"
 		dynasty = original_dynasty
 		claim = 95
 		adm = 4
@@ -154,7 +154,7 @@ EDG_TUR_original_disaster_3_a_name_effect = {
 }
 EDG_TUR_original_disaster_4_a_name_effect = {
 	define_heir = {
-		name = "穆拉德"
+		name = "Murad"
 		dynasty = original_dynasty
 		claim = 95
 		adm = 6
@@ -169,7 +169,7 @@ EDG_flavor_TUR_49_a_name_effect = {
 	  type = theologian
 	  culture = greek
 	  religion = orthodox
-	  name = "真纳迪乌斯"
+	  name = "Gennadius"
 	  skill = 2
 	  cost_multiplier = 0.25
 	  culture = ROOT
@@ -177,8 +177,8 @@ EDG_flavor_TUR_49_a_name_effect = {
 }
 EDG_flavor_TUR_57_a_name_effect = {
 	define_consort = {
-		name = "努尔巴努苏丹"
-		dynasty = "威尼亚-巴佛"
+		name = "Nurbanu Sultan"
+		dynasty = "Venier-Baffo"
 		adm = 5
 		dip = 4
 		mil = 4
@@ -188,7 +188,7 @@ EDG_flavor_TUR_57_a_name_effect = {
 EDG_flavor_TUR_59_a_name_effect = {
 	define_advisor = {
 	  type = army_reformer
-	  name = "鲁斯坦帕夏"
+	  name = "R�stem Pasha"
 	  skill = 3
 	  cost_multiplier = 0.25
 	  culture = ROOT
@@ -196,7 +196,7 @@ EDG_flavor_TUR_59_a_name_effect = {
 }
 EDG_flavorFRA_48_a_effect = {
 	define_heir = {
-		name = "弗朗索瓦"
+		name = "Fran�ois"
 		dynasty = original_dynasty
 		claim = 95
 		adm = 5
@@ -207,7 +207,7 @@ EDG_flavorFRA_48_a_effect = {
 }
 EDG_flavorFRA_49_a_effect = {
 	define_heir = {
-		name = "路易"
+		name = "Louis"
 		dynasty = original_dynasty
 		claim = 95
 		adm = 6

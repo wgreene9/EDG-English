@@ -1,0 +1,670 @@
+﻿l_english:
+FOI_SPA_1_3_title:0 "The Iberian Flame"
+FOI_SPA_1_3_desc:0 "\n'Hear me, my valiant knights:\n\n'God-blessed Iberian soil shall not endure the heathen's tread! Since the Visigothic crown fell, seven centuries our blades have not rested. Now the war banner of Saint James unfurls, the holy sword of Toledo gleams anew - Heaven's will is clear!\n\n'Over Granada's red fortress, the crescent wanes; in the fertile lands of Al-Andalus, the wheat weeps. The bones of our forefathers still yearn for their homeland, the baptized still languish in chains. The blood-oath before the Cross is not yet cold, shall the Way of Saint James end here?\n\n'I swear by the Holy Trinity: He who seizes the enemy standard shall be granted hereditary title; he who falls on the field shall enjoy eternal bliss in Paradise. Let the roar of the León lion shake the walls of the Alhambra, let the Cordoba Mosque once more hear the Mass!\n\n'This is no war for temporal power, but to reclaim the land God promised. The swords at your hips shall break earthly shackles and open Heaven's gates. Heaven grants you courage, divine grace protects you. Fight for righteousness, die for faith, glory be to the Lord!\n\n'I shall drink the wine of resolve with you all. Upon the day of victory, before the Holy Altar we shall sing psalms of praise together!'\n\n—King Ignacio III of Asturias\nFeast of Saint James, Year of Our Lord 1444, Burgos Military Camp"
+FOI_SPA_2_3_title:0 "Securing the North"
+FOI_SPA_2_3_desc:0 "Asturias and Pamplona are not merely the strongest bastions of Christendom on the Iberian Peninsula, but also the ruling centers of two illustrious dynasties, the Jiménez and the Trastámara. Their importance is self-evident. Only by firmly controlling this region can [Root.GetName] proclaim its leading role in the Reconquista. This is a mission bestowed by history, a path of glory, and must not be failed."
+FOI_SPA_3_3_title:0 "Iberian Ambition"
+FOI_SPA_3_3_desc:0 "The Kingdom of Castile, once ruled by the great Iberian monarch Fernando III, is now defiled by Muslim occupation. Fernando's untimely death and the discord among his sons allowed the Taifa of Tulaytulah to usurp the nest. We must inherit the great king's unfinished will and liberate our Christian brethren!"
+FOI_SPA_4_3_title:0 "Push Southward!"
+FOI_SPA_4_3_desc:0 "In the past, internal discord and fierce resistance in the south delayed the completion of the Reconquista. But our enemies have suffered immense losses in this long struggle. Rally once more, warriors, and deliver the merciful blow to the Iberian usurpers and false kings!"
+FOI_SPA_2_1_title:0 "Western Strategy"
+FOI_SPA_2_1_desc:0 "Galicia and Porto, situated at the westernmost edge of Iberia, possess a long maritime culture that draws their gaze more towards the ocean, dreaming of unknown realms beyond the Pillars of Hercules, while paying less heed to the conflicts on the peninsula. However, though the tree desires calm, the wind will not cease. Those who yearn for the sea will inevitably be swept into the flames of Iberian unification."
+FOI_SPA_3_1_title:0 "Unify the West"
+FOI_SPA_3_1_desc:0 "The disastrous defeat at Coimbra in 1414 brought the Lisbon Crusade to a gloomy end and earned Abdallah, the 24-year-old Taifa of Badajoz, the name 'Sword of Al-Andalus,' extending the Taifa era by decades. Yet Abdallah is now aged; his hesitation between Christian and Islamic faiths has made him increasingly indecisive. The once-renowned general can no longer protect these fanatical Saracens. The Badajoz lion grows old; the Reconquistadors are destined to avenge the past disgrace."
+FOI_SPA_2_2_title:0 "Unite the Interior"
+FOI_SPA_2_2_desc:0 "As storms rage over Iberia, if we are to reclaim all the lands of Hispania, the Christian states must set aside past grievances and unite once more, so that the Saracens dare not act rashly."
+FOI_SPA_2_2.tt:0 "Each eligible ally will grant us §G50§!£adm£, §G50§!£dip£, §G50§!£mil£"
+FOI_SPA_2_4_title:0 "External Support" # Secure External Support
+FOI_SPA_2_4_desc:0 "The shadow of Islam still looms over Iberia. To defend against the potential Jihad from the Muslims, we must form alliances with our devout Christian brothers beyond, protecting the nation through pragmatic diplomatic policies."
+FOI_SPA_2_4.tt:0 "Each eligible ally will grant us §G0.5§! years of yearly income and §G0.5§! years of yearly manpower"
+FOI_SPA_2_5_title:0 "Eastern Strategy"
+FOI_SPA_2_5_desc:0 "The butterfly effect of the Albigensian Crusade and the Battle of Tolosa led to the destruction of the Kingdom of Aragon over doctrinal分歧, allowing Catharism to make its debut on the Iberian stage. [Root.GetName] should, with a conqueror's stance, bring this region under her dominion without shedding a single drop of Christian blood, proving she is the true heir to the Aragonese legacy."
+
+FOI_SPA_3_5_title:0 "Unify the East"
+FOI_SPA_3_5_desc:0 "The radiant moon over Valencia witnessed de Vivar raising his arm and shouting 'Forward, for glory and faith!' and beheld the Sultan of Murcia imposing exorbitant taxes on Christians after the collapse of the Kingdom of Aragon. Our return to this ancestral land is not driven by mere profit, but because the chivalric spirit of El Cid calls out, shining once more in the hearts of Iberian Christians, rekindling the light of faith."
+FOI_SPA_4_2_title:0 "Advance into [225.GetName]"
+FOI_SPA_4_2_desc:0 "The Taifa of Córdoba, usurpers holed up in the former capital of the Umayyad Caliphate, possess ambitions far exceeding their strength. They are neither as skilled in warfare as the Taifa of Badajoz to the west, nor as fanatical as the Mufti of Ishbiliya to the south. Their incompetence and arrogance are truly laughable. Let us begin the dismantling of Al-Andalus from the old Umayyad capital."
+FOI_SPA_4_4_title:0 "Press into [223.GetName]"
+FOI_SPA_4_4_desc:0 "The Mufti of Ishbiliya, a formidable obstacle blocking the Crusaders' advance. They hide amidst the rolling southern mountains, plotting one conspiracy after another. Their various acts are like thorns, continually hindering the unification of Iberia. Faced with such a thorny enemy, we must show no mercy, nor any hesitation. We must decisively employ all necessary means to uproot this extremist Sufi order entirely, erasing them and their Mufti from this land without a trace. Only then can the great cause of Iberian unification proceed smoothly."
+FOI_SPA_5_3_title:0 "Purify Iberia"
+FOI_SPA_5_3_desc:0 "\nO Lord most high,\nWith Christ's grace nigh,\nIberian land,\nBy blessing spanned.\n\nKnights wield the blade,\nKings' banners displayed,\nSeven centuries' strife,\nEnds in holy life.\n\nDispel the night, break the chain,\nReclaim the mountains and plain,\nWhere iron hooves tread,\nThe Cross stands ahead.\n\nPraise the Lord's name, cleanse the strife's blight,\nEvery inch of soil restored to the light,\nThe long night returns to its destined flight.\n\nGlory and praise to the Lamb on the throne,\nA new heaven, new earth, the Temple's light shone."
+ 
+FOI_ADU_1_3_title:0 "The Flames of Al-Andalus"
+FOI_ADU_1_3_desc:0 "Al-Andalus is burning. Unending warfare scorches all who bear arms. From Jabal Ṭāriq to the Basque lands, from Galicia to Catalonia, I see the Horseman of Death on the march."
+FOI_ADU_2_2_title:0 "Unite the Taifas"
+FOI_ADU_2_2_desc:0 "Excessive fragmentation of power is a dagger plunged into the heart of Muslim dynasties. The loss of Iberia from the hands of the former caliphate was precisely due to the disunity among the Taifa lords, yet we still require the aid of this legacy today."
+FOI_ADU_2_2.tt:0 "Each eligible ally will grant us §G100§!£adm£, §G100§!£dip£, §G100§!£mil£"
+FOI_ADU_2_4_title:0 "Seek New Allies"
+FOI_ADU_2_4_desc:0 "We need friends, just as a state needs allies. Although allies may not keep their promises as recorded on parchment, with the jingle of profit, some things can be written off."
+FOI_ADU_2_4.tt:0 "Each eligible ally will grant us §G0.5§! years of yearly income and §G0.5§! years of yearly manpower"
+FOI_ADU_2_3_title:0 "Pacify the South"
+FOI_ADU_2_3_desc:0 "Looking south from Madrid, the lands embraced by the Sierra Morena and the Andalusian mountains were once the cradle of the Moors' rise in Iberia. The importance of consolidating rule there is self-evident."
+FOI_ADU_3_3_title:0 "The Counter Reconquista" # The Counter-Reconquista
+FOI_ADU_3_3_desc:0 "The Crescent and the Cross, the heretic and the infidel. A century of conquest, a century of reconquest, and now a century of counter-reconquest."
+FOI_ADU_4_3_title:0 "Push Northward!"
+FOI_ADU_4_3_desc:0 "We once drove those feeble Christians into the mountains of Asturias. Why not send them scrambling back there once more?"
+
+FOI_ADU_2_1_title:0 "Lost Western Lands"
+FOI_ADU_2_1_desc:0 "Galicia, Braganza, Beja - the rocks that bear these ancient names are ceaselessly eroded by the sea. Yet tomorrow, it will no longer be Christians who tread upon these stones."
+FOI_ADU_3_1_title:0 "Reclaim the West"
+FOI_ADU_3_1_desc:0 "The children of the West have now returned beneath the green and white robes, no longer wounded by that blinding sun."
+FOI_ADU_2_5_title:0 "Lost Eastern Lands"
+FOI_ADU_2_5_desc:0 "Campeador is indeed valiant beyond measure. Then let us achieve greatness among the great. Defeat the king, and become the king among kings."
+FOI_ADU_3_5_title:0 "Reclaim the East"
+FOI_ADU_3_5_desc:0 "After countless years and untold sacrifices, the lonely lands of the East finally open their gates to us. As the Moors walk among ruins centuries old, will they remember their original dream?"
+FOI_ADU_4_2_title:0 "Seize [207.GetName]"
+FOI_ADU_4_2_desc:0 "'Let the city burn, let the river scream! I want no living souls, only victory kneeling before me!'"
+FOI_ADU_4_4_title:0 "Capture [210.GetName]"
+FOI_ADU_4_4_desc:0 "'In the empty valley, death echoes. Not a soul is seen in the city, only ravens circling over the dry well. Should anyone inquire, I fear only the sabre will provide an answer.'"
+FOI_ADU_5_3_title:0 "Unify Al-Andalus"
+FOI_ADU_5_3_desc:0 "'We have won... and then what? When the green and white banners are planted across Iberia, who can still see the grievous crimson that has covered the charred edges?'"
+
+FOI_SPA_6_3_title:0 "Reconstruction Efforts"
+FOI_SPA_6_3_desc:0 "\nOn the wasteland outside Madrid, cold winds sweep across scorched earth, whistling past the wreckage beneath the crosses. Beneath the broken walls of Granada, half of an Andalusian relief has been devoured by moss. In the irrigation channels that once flowed with olive oil and wine, fragments of knights' rusted swords and Moorish scimitars lie intertwined, the blood-soaked soil shimmering with an eerie patina under the moonlight.\n\nTattered remnants of Crusader banners hang from a dead fig tree like faded mummies. In the charred cellar of a monastery, the ashes of Visigothic manuscripts and Persian carpets are indistinguishable. A shepherd herding gaunt sheep through a pile of rubble suddenly kicks aside half a skull inlaid with blue glaze—seven centuries of wind and sand have failed to smooth away the petrified terror in its eye sockets.\n\nThe Tagus weeps through crumbling aqueducts, where thorns and Arabian fennel grow side by side in the riverbank's crevices. Deep within a collapsed watchtower, forgotten Andalusian strings still quiver in the Atlantic's tempest, echoing the funeral bells of distant Santiago de Compostela. All glory comes at the cost of countless lives; Iberia burns. The conclusion of the Reconquista brought not only the glory of the powerful, but also fields strewn with the wails of the bereaved. When the fervour of reconquest recedes, we must wipe away all traces of tears and restore the lands of Saint James to their former splendour."
+FOI_SPA_6_3.cat.tt:0 "§YPath of Chasing Light§! Enabled"
+
+FOI_FOI_unify_iberia_country:0 "§YWe Are the Unifiers of Iberia!§!"
+FOI_SPA_7_3_title:0 "Iberian Infrastructure" # Iberian Infrastructure Bill
+FOI_SPA_7_3_desc:0 "Our people have suffered too long from years of war with the Moors. If we wish to stabilize our newly established kingdom, we must restore and surpass the wealth of our realm beyond the era when the Caliphate of Córdoba usurped Iberia."
+FOI_enable_infrastructure_building:0 "Enable Decision: Construct §YIberian Region§! Infrastructure"
+
+
+FOI_SPA_8_3_title:0 "Córdoba Cathedral"
+FOI_SPA_8_3_desc:0 "Gurtuba, the ancient capital of Al-Andalus, now Córdoba under [Root.GetName]'s rule, holds the pride of the Moriscos firmly in our grasp. Only through Christianising this land, restoring Visigothic sovereignty and the divine word of God, can we utterly destroy the legitimacy of pagan rule."
+FOI_SPA_9_3_title:0 "Gold Mines of [2754.GetName]" # Uncovering the Gold Mines of [2754.GetName]
+FOI_SPA_9_3_desc:0 "[2754.GetName] has long been renowned across the peninsula for its rich gold deposits. The Tule-Tula Taifa, which has lorded over Castilian lands, has failed to manage these resources properly. Let us take their place, harnessing this wealth to bolster our minting operations and provide fiscal backing for our restoration endeavours."
+FOI_SPA_10_3_title:0 "National Identity"
+FOI_SPA_10_3_desc:0 "Seven centuries have passed since the Iron Crown of the Visigoths fell, and the Moorish scimitar stained the peninsula crimson. Like Christ of old, the faithful wove a crown of thorns and reignited the flame of struggle in the Asturian mountains during days of tribulation. For eight centuries, day and night, banners and iron horses converged beneath the gates of Andalusian cities. As the banners of the infidels fell into the Mediterranean's waves, every rock of the peninsula was saturated with the rust of Rodrigo's sword and the marks of his horses' hooves. \n\nThe past is gone, yet we hold golden thread to embroider the shattered coat of arms anew upon the sovereign's mantle. Let us forge the fervour of northern reconquerors, the scriptures of central Mughirab, and the celestial charts of southern Andalusia into the cross of Iberia reborn. The winds of the Asturian mountains shall yet carry the fragrance of Cordoba's roses along the pilgrim's path to Santiago. \n\n[Root.GetName] strides towards her own luminous destiny—this land inscribed in three tongues, destined to return to the same resurrected Christ."
+FOI_SPA_10_3.tt:0 "Provinces in §YIberia§! which share our §YState Religion§! will assimilate §Rextremely slowly§! into §YIberian§! culture, a process projected to take §Y150§! years."
+
+FOI_SPA_7_1_title:0 "The Funding Issue"
+FOI_SPA_7_1_desc:0 "For a long time, the merchant class in Iberia has been oppressed by the nobility and their self-interest. Many among them have amassed considerable wealth but lack the political capacity to serve the state. We must provide them with opportunities to contribute to the reconstruction efforts of [Root.GetName]."
+FOI_SPA_get_ten_loan:0 "We will receive §G5§! loans at §Y0§!% interest"
+FOI_ADU_get_ten_loan:0 "We will receive §G5§! loans at §Y0§!% interest"
+FOI_SPA_8_1_title:0 "The Port of Lisbon"
+FOI_SPA_8_1_desc:0 "As early as the 12th century BC, Phoenicians established a commercial port on the north bank of the Tagus River. In 205 BC, Romans conquered the region, naming it "Olisipo." By then, Lisbon had already become one of Rome's important strongholds in Iberia.\nIn the 5th century AD, the Suebi and later the Visigoths conquered the area. In 714 AD, Moors captured Lisbon, expanding the port further and enhancing its trade connections with both the Mediterranean and the Atlantic.\nThereafter, Lisbon changed hands repeatedly between the rulers of Portucale and Badajoz, until it was firmly secured by Abdallah I, the Taifa of Badajoz. Since then, it gradually stabilized, becoming a crucial center of trade and navigation in western Iberia, where Muslims and Christians engaged in prosperous commercial activities.\nAfter the first pioneering fleet from Iberia sets sail, the Port of Lisbon, now a vital harbor of [Root.GetName], is about to enter its own era of glory."
+
+FOI_SPA_8_2_title:0 "The Port of Valencia"
+FOI_SPA_8_2_desc:0 "Valencia originated as a small settlement established by the Greeks in the 2nd century BC. In the 2nd century AD, it rose to prominence under Roman rule, becoming a prosperous city featuring public structures such as a large circus capable of seating ten thousand. The city was organized around a forum, the center of power and the intersection of its two main roads.\nIn the 8th century, the city fell into the clutches of the Saracens. In 1094, the valiant 'El Cid,' Rodrigo Díaz de Vivar, captured the region around Valencia and briefly became its de facto ruler, until the Almoravid invasion returned it to Muslim control.\nSubsequently, the Kingdom of Aragon also ruled here, but not for long. Ultimately, the land where El Cid's spirit returned to Heaven fell into the hands of the Taifa of Murcia.\nAfter the Iberian Reconquista, under the governance of [Root.Monarch.Title] [Root.Monarch.GetName] of [Root.GetName], Valencia entered an era of economic and artistic prosperity. The establishment of the Silk Exchange and the Maritime Tribunal enhanced its importance, transforming it into a key entrepôt for trade between Italian, Western European, and North African ports."
+
+FOI_SPA_9_2_title:0 "The Port of Barcelona"
+FOI_SPA_9_2_desc:0 "In the 2nd century BC, Romans established the first port in the Barcelona area. It soon became a vital military and commercial harbor for the Roman Empire, playing a significant role in imperial expansion and trade across the Mediterranean.\nFollowing the Empire's decline, Barcelona was successively ruled by the Visigoths, Moors, Franks, the County of Catalonia, the Kingdom of Aragon, and the Catalan Republic. Despite political turbulence, the city continued to rise. By the 15th century, the Port of Barcelona had become a crucial trade hub in the western Mediterranean, attracting a constant stream of merchants from Genoa, Naples, Arles, and Iberia, fostering increasingly prosperous commercial activities.\nAfter the unification of Iberia by [Root.GetName], Barcelona, with its advantageous geographical position, is destined to become a pivotal forward outpost for the Empire's projection of influence towards Italy, Occitania, and North Africa."
+
+FOI_SPA_10_2_title:0 "Construct Churches"
+FOI_SPA_10_2_desc:0 "The Reconquista of Iberia has long been completed, yet the Moriscos, adherents of heretical doctrines and false gods, still linger among us, polluting this hallowed land. We shall construct churches so that the glory of the Holy Church may once again illuminate the lands of the Visigoths."
+
+FOI_SPA_8_4_title:0 "Port of Marín"
+FOI_SPA_8_4_desc:0 "The Pontevedra region, where the Port of Marín is located, was originally established by the Romans as an important trading harbor. Later, due to siltation, the port's activities gradually shifted nine kilometers southwest to Marín, which slowly developed into the new port.\nDuring the Middle Ages, the Marín area produced numerous navigators, laying a foundation for the port's development. Under the growth of the Galician Republic, the Port of Marín has become a crucial maritime transportation hub for the region, engaging in frequent trade with other parts of Europe.\nWith the rise of Iberian maritime power following the completion of the Reconquista, the Port of Marín has encountered new opportunities for growth and is destined to become the window through which countless explorers venture to the New World."
+
+FOI_SPA_7_5_title:0 "The Stability Issue"
+FOI_SPA_7_5_desc:0 "Across the barren lands of Iberia, there remain many restless, defiant nobles and infidels who resist governance. But after [Root.GetName] rules over all Hispania, everything shall change—seven centuries after the fall of the Visigoths, a new order led by Christian states will be re-established in this land of turmoil."
+
+FOI_SPA_9_4_title:0 "The Port of Seville"
+FOI_SPA_9_4_desc:0 "Around the 7th century BC, Phoenicians established an initial trading post at the mouth of the Guadalquivir River, in what is now Seville, for the trade of precious metals. In the 2nd century BC, Romans referred to the settlement as 'Hispalis' and developed it into a significant port. After the 1st century AD, local shipyards were capable of constructing large grain carriers, transporting vast quantities of supplies to Rome from here.\nIn the 8th century AD, Saracens began their rule, constructing structures such as the Torre del Oro for port and city defense. Even during the most intense years of the Reconquista, the port remained prosperous, with goods shipped to all corners of Europe.\nBy the grace of the Lord, [Root.Monarch.Title] [Root.Monarch.GetName] of [Root.GetName] has now established the Casa de Contratación (House of Trade) here. It is foreseeable that this place is destined to become the maritime trade center not only of Iberia but of all Western Europe."
+
+FOI_SPA_10_4_title:0 "Trading System"
+FOI_SPA_10_4_desc:0 "The Iberians are renowned for many things, not least of which is their commercial prowess, which rivals that of the Latins and Greeks.\nIn Lisbon, Seville, and Barcelona, we have constructed grand and well-equipped ports. These harbors boast spacious docks capable of accommodating numerous merchant vessels, alongside advanced storage facilities for various goods. Supporting institutions such as customs and financial establishments are also fully in place, providing convenience and security for trade.\nIn Madrid, Toledo, and Córdoba, we have built extensive networks of roads, closely linking coastal ports with inland cities. This allows agricultural products, handicrafts, and other inland goods to be smoothly transported to the ports for shipment worldwide, while imported commodities from overseas can be swiftly distributed throughout the interior."
+
+EDG_SPA_8_5_title:0 "Port of Gijón"
+EDG_SPA_8_5_desc:0 "During the Roman Empire, settlements already existed in the Gijón region. It served as a significant regional hub for the empire and witnessed early maritime trade activities.\nAfter the Middle Ages, the Visigothic Kingdom and later the Moors successively ruled this area. In 722, Pelagius defeated the Moors and founded the Kingdom of Asturias. Since then, the Port of Gijón has become a vital commercial port for the Iberian Crusader kings to receive diplomatic and material aid. Following the restoration of the Asturian royal title by Fernando III, the port experienced a second renaissance, serving as a window for the kingdom's exchanges with France and other foreign nations. With the gradual economic recovery and reconstruction of Iberia, the Port of Gijón is poised for continued development, destined to become a maritime expansion base for [Root.GetName]."
+
+FOI_SPA_11_3_title:0 "The Rebirth of Iberia"
+FOI_SPA_11_3_desc:0 "As the dawn light pierces the long night over the Pyrenees, the folds of the Iberian Peninsula conceal seven centuries of blood and fire. From the first cry of freedom echoing among the rocks of Covadonga to the last strand of Islamic moonlight falling upon the Alhambra in Granada, this land, woven with faith and steel, has forged an epic rebirth.\n\nWhat was reclaimed was not merely land, but the very spine of civilization. The rebirth of Iberia is the breaking of dawn after a long night, a poem rising from the ruins. As the bells of Córdoba tolled one final lament for the Islamic era, the Atlantic waves were already lifting the sun of an empire."
+
+
+FOI_ADU_6_3_title:0 "Rebuilding Efforts"
+FOI_ADU_6_3_desc:0 "The long war has left villages abandoned. Children have lost fathers, wives have lost husbands, and even the fields lie untilled. Even in our victory on the peninsula, we, severely weakened, are now most in need of rest and recuperation."
+
+FOI_ADU_7_3_title:0 "Andalusi Infrastructure" # The Al-Andalus Infrastructure Bill
+FOI_ADU_7_3_desc:0 "Beneath the green and white banners, one can see not only the glint of blades, but also the golden hue of wheat."
+
+FOI_ADU_8_3_title:0 "The Imperial Capital"
+FOI_ADU_8_3_desc:0 "The crown of Iberia needs a gemstone worthy of it, just as the glory of victory needs a legend worthy of its name."
+
+FOI_ADU_9_3_title:0 "Gold Mines of [2754.GetName]" # Exploit the Gold Mine of [2754.GetName]
+FOI_ADU_9_3_desc:0 "Look, it's gold! Glittering, so much that even the sight of it stirs restlessness within."
+
+FOI_ADU_10_3_title:0 "National Identity"
+FOI_ADU_10_3_desc:0 "The vast peninsula has always faced one issue: its exceedingly fragmented peoples. From the Andalusians at the foot of Jabal Ṭāriq to the Basques in the Pyrenees, different languages and cultures fill this land. If we are to stand united, we must have a shared identity!"
+FOI_ADU_10_3.tt:0 "All provinces we and our subjects own within the §YIberia region§! will be §Rvery slowly§! assimilated into the §YAndalusian§! culture. This process is estimated to take §Y150§! years."
+
+FOI_ADU_11_3_title:0 "The Rebirth of Al-Andalus"
+FOI_ADU_11_3_desc:0 "Rising from the ruins, ascending with tomorrow's dawn, is the banner of Al-Andalus. For this day, how many can no longer see tomorrow, and how many lie eternally in the fields…"
+
+FOI_ADU_7_1_title:0 "The Funding Issue"
+FOI_ADU_7_1_desc:0 "Wealth is like a clear spring, nourishing all things. Yet now, the proud sun scorches the earth, the rivers of fortune gradually run dry, and the fields yield not even a single sprout."
+
+FOI_ADU_8_1_title:0 "The Port of [223.GetName]"
+FOI_ADU_8_1_desc:0 "What arrives with the merchant ships…"
+
+FOI_ADU_8_2_title:0 "The Port of [220.GetName]"
+FOI_ADU_8_2_desc:0 "Besides money and silk…"
+
+FOI_ADU_9_2_title:0 "The Port of [213.GetName]"
+FOI_ADU_9_2_desc:0 "There are also songs and legends…"
+
+FOI_ADU_10_2_title:0 "Construct Mosques"
+FOI_ADU_10_2_desc:0 "The messengers of Allah on earth also need a place to dwell. Just as orphans need an embrace, the abodes of the messengers shall become havens for their souls."
+
+FOI_ADU_8_4_title:0 "The Port of [206.GetName]"
+FOI_ADU_8_4_desc:0 "Look, ships approach from afar…"
+
+FOI_ADU_9_4_title:0 "The Port of [224.GetName]"
+FOI_ADU_9_4_desc:0 "Listen to the chant of the sea breeze…"
+
+FOI_ADU_10_4_title:0 "Trading System"
+FOI_ADU_10_4_desc:0 "When seagulls once again circle over the harbors, Al-Andalus is reconnected to the world through trade. Our goods can reach the world, and the world's wealth will flow into the peninsula."
+
+FOI_ADU_7_5_title:0 "The Stability Issue"
+FOI_ADU_7_5_desc:0 "The newly reborn nation is immersed in cheers, but even the most radiant figure will inevitably cast a shadow under the sun. As we look forward, we must not forget the shade behind us."
+
+FOI_SPA_8_5_title:0 "The Port of [207.GetName]"
+FOI_SPA_8_5_desc:0 "Off to the seaside for some chips…"
+
+FOI_ADU_expand_1_3_title:0 "Reborn from the Ashes" # Phoenix Reborn from Ashes
+FOI_ADU_expand_1_3_desc:0 "The white phoenix, reborn from fire!"
+FOI_ADU_expand_1_3.tt:0 "\nWhile this modifier is active, when at war with countries whose §Ycapital§! is located in the §YMaghreb§! region, all provinces we occupy within the §YMaghreb§! region will be immediately ceded to us.\n"
+
+FOI_ADU_expand_2_3_title:0 "Crossing Gibraltar"
+FOI_ADU_expand_2_3_desc:0 "Centuries ago, we crossed the Strait of Gibraltar and set foot on Iberian soil. Centuries later, we shall cross it once more to reclaim our ancestral homeland."
+
+FOI_ADU_expand_4_3_title:0 "Boundless Vastness"
+FOI_ADU_expand_4_3_desc:0 "What are the limits of conquest? Leave that question to the weak, and reserve the glory of victory for ourselves."
+
+FOI_ADU_expand_3_4_title:0 "Reclaim Algiers"
+FOI_ADU_expand_3_4_desc:0 "Moorish warriors tread upon the scorching earth of Algiers. The lands of North Africa have finally returned to our hands. It is ours—past, present, and future..."
+
+FOI_ADU_expand_6_3_title:0 "Desert Storm"
+FOI_ADU_expand_6_3_desc:0 "The Mediterranean wind sweeps across, lifting the yellow sands that ceaselessly smooth the relics in the vast desert. Past histories are buried beneath the dunes, but our indomitable will shall once more erect new monuments upon this shifting earth."
+
+FOI_ADU_expand_5_2_title:0 "Unify the Maghreb"
+FOI_ADU_expand_5_2_desc:0 "The land of the setting sun welcomes a new sunrise. The yellow sands and the distant daylight together frame the banner that stands between heaven and earth: the radiance of Al-Andalus, standing firm in the world."
+
+FOI_ADU_expand_9_3_title:0 "Wildfire on the Plains" # Wildfire Across the Plains
+FOI_ADU_expand_9_3_desc:0 "Upon the yellow sands, even fire finds little to burn. Yet now, across this barren land, raging flames surge forth. What feeds the inferno is not grass or wood, but the corpses of our enemies."
+FOI_ADU_expand_9_3.tt:0 "\nWhile at war with countries whose §Ycapital§! is located in the §YSahel§! or §YNiger§! regions, all provinces we occupy within the §YSahel§! or §YNiger§! regions will be immediately ceded to us.\n"
+
+FOI_ADU_expand_11_3_title:0 "Forests Verdant and Sweltering" # The Verdant and Sweltering Forest
+FOI_ADU_expand_11_3_desc:0 "The people of Al-Andalus are the embodiment of endurance. Whether it be yellow sands or rainforests, our feet shall tread upon them."
+FOI_ADU_expand_11_3.tt:0 "\n§OAge of Splendor§! will provide a §YColony Settlement Chance§! bonus.\n"
+
+FOI_ADU_expand_10_2_title:0 "The Sands of the Sahara"
+FOI_ADU_expand_10_2_desc:0 "The Sahara Desert stretches endlessly. Many see it as a symbol of death, but when people sharpen their gaze, they can discern the caravans gradually appearing on the horizon."
+FOI_ADU_expand_10_2.tt:0 "\n§OAge of Splendor§! will provide a §YTrade Efficiency§! bonus.\n"
+
+FOI_ADU_expand_10_4_title:0 "The Torrents of the Niger"
+FOI_ADU_expand_10_4_desc:0 "The waves of the Niger carry diamonds, sending canoes and life downstream. Following the great river southward, we may uncover the wealth that lies beyond the sands."
+FOI_ADU_expand_10_4.tt:0 "\n§OAge of Splendor§! will provide a §YTrade Steering§! bonus.\n"
+
+FOI_ADU_expand_12_3_title:0 "Continuing the Legacy"
+FOI_ADU_expand_12_3_desc:0 "From the shores of Algiers to the savannas of Africa, our footprints span the north and south of Africa. In the past, this would only be part of tribal legends, but we have turned legend into reality."
+
+FOI_ADU_expand_13_3_title:0 "The Congo Basin"
+FOI_ADU_expand_13_3_desc:0 "It resembles a vast sea basin, or a natural rainforest. No one can say for certain where it came from, so it must be the great work of Allah, sublime!"
+FOI_ADU_expand_13_3.tt:0 "\nWhile at war with countries whose §Ycapital§! is located in the §YCongo§!, §YCentral Africa§!, §YSouthern Africa§!, or §YEast Africa§! regions, all provinces we occupy within these regions will be immediately ceded to us.\n"
+
+FOI_ADU_expand_14_3_title:0 "Africa's Bounty"
+FOI_ADU_expand_14_3_desc:0 "The lands of North Africa are fertile, uplifted high by the Mediterranean. The savannas of Central Africa are wild, where beasts dwell and people struggle against one another. People assume these unknown lands are poor, but they do not know how precious the wealth hidden behind the barrenness truly is."
+
+FOI_ADU_expand_8_1_title:0 "Downstream"
+FOI_ADU_expand_8_1_desc:0 "Following the clear river, the green and white banners spread downstream. The sovereignty of Al-Andalus travels with the flow; wherever the water reaches, our presence shall surely be seen."
+
+FOI_ADU_expand_7_2_title:0 "Western Passage"
+FOI_ADU_expand_7_2_desc:0 "The western trails are difficult to traverse, not only due to mountain barriers but, more critically, because wind and sand erosion have made every step a struggle."
+
+FOI_ADU_expand_15_1_title:0 "The Path to Zimbabwe"
+FOI_ADU_expand_15_1_desc:0 "The path to Zimbabwe is the path to wealth. Zimbabwe and affluence are synonymous. May inflation never catch up to Zimbabwe."
+
+FOI_ADU_expand_16_1_title:0 "The Treasures of Southern Africa"
+FOI_ADU_expand_16_1_desc:0 "What does Southern Africa have? The savannah stretches beyond sight, this barren land seemingly holds nothing. Since there is nothing on the surface, then look below…"
+
+FOI_ADU_expand_3_2_title:0 "Crush the Almohads"
+FOI_ADU_expand_3_2_desc:0 "Allah favors only the just, and the just shall always prevail. His justice is with us, just as death is with the enemy. Roar, this blade strikes only the unjust!"
+
+FOI_ADU_expand_4_4_title:0 "Expel the Crusaders"
+FOI_ADU_expand_4_4_desc:0 "Driven by hypocrisy, the Latins and Christians invaded the lands of the North African natives. The grave crimes they committed here shall be settled, and the filth upon this earth shall be thoroughly cleansed!"
+
+FOI_ADU_expand_9_2_title:0 "The Savanna of [1114.GetName]"
+FOI_ADU_expand_9_2_desc:0 "What's on the savanna? You can see hippos flash their teeth!"
+
+FOI_ADU_expand_14_2_title:0 "March into Egypt"
+FOI_ADU_expand_14_2_desc:0 "Misr, known as the granary of the Mediterranean, has been a contested strategic point since ancient times. He who holds the Nile holds victory—this is an eternal truth."
+FOI_ADU_expand_14_2.tt:0 "\nWhile at war with countries whose §Ycapital§! is located in the §YEgypt§! region, all provinces we occupy within the §YEgypt§! region will be immediately ceded to us.\n"
+
+FOI_ADU_expand_17_2_title:0 "The Scorching Lands"
+FOI_ADU_expand_17_2_desc:0 "When the scorching sun becomes unbearable, to the point where even the sabre cannot be held firmly, how difficult must it be to conquer such territory?"
+
+FOI_ADU_expand_14_4_title:0 "Link the Horn of Africa"
+FOI_ADU_expand_14_4_desc:0 "The lands of East Africa are not fertile, but as a window linking East and West, the Horn of Africa's role in trade far surpasses its contribution to production and taxation."
+FOI_ADU_expand_14_4.tt:0 "\nWhile at war with countries whose §Ycapital§! is located in the §YHorn of Africa§! region, all provinces we occupy within the §YHorn of Africa§! region will be immediately ceded to us.\n"
+
+FOI_ADU_expand_16_5_title:0 "The Wealth of East Africa"
+FOI_ADU_expand_16_5_desc:0 "What wealth does East Africa hold? Beyond towering peaks and scorching climate, there is coffee and foreign gold coins. Although these treasures are alluring, the cost to obtain them is by no means small."
+
+FOI_ADU_expand_7_4_title:0 "Eastern Passage"
+FOI_ADU_expand_7_4_desc:0 "Integrating the rugged eastern mountains into the empire's transportation network is no easy task. But for the projection of imperial power and the transport of supplies, it must be done, even if the cost far outweighs the return."
+
+FOI_ADU_expand_9_4_title:0 "The Plateau of [1219.GetName]"
+FOI_ADU_expand_9_4_desc:0 "The land upon the plateau is still land. Though plateaus are inhospitable, the foundation of Al-Andalus is countless plots of land. Even if this land cannot produce, it remains a part of us."
+
+FOI_ADU_expand_8_5_title:0 "Upstream"
+FOI_ADU_expand_8_5_desc:0 "Rivers do not reverse their flow, but that does not mean the upstream is forever secure. Even going against the current, those enemies who slander our Lord shall ultimately face the condemnation of the righteous faith!"
+
+FOI_ADU_expand_17_4_title:0 "The Heart of Fire"
+FOI_ADU_expand_17_4_desc:0 "The blazing African earth imposes a dizzying sensation upon all who seek to conquer this land. But we still have fervent blood, and this fire will bring our conquests to their peak!"
+
+FOI_ADU_expand_15_5_title:0 "Along the Zambezi"
+FOI_ADU_expand_15_5_desc:0 "Great river, immense river, the wonders of the Zambezi are beyond description. But all who have witnessed it agree on one thing: traversing its entire length is impossible."
+
+FOI_ADU_expand_1_5_title:0 "Andalusian Renaissance" # The Andalusian Renaissance
+FOI_ADU_expand_1_5_desc:0 "By the grace of Allah, the holy words of the Quran are not empty talk. Unlike the shackles of the Cross, the wisdom of the learned will bring Allah's enlightenment to every gentle and humble soul, allowing thought to blossom in the oasis."
+FOI_ADU_expand_1_5.tt:0 "\nAll provinces we own with development higher than §Y20§! will gain §G100§! §YRenaissance§! embracement.\n\n§OAge of Splendor§! will provide an additional §YMonthly Splendor§! bonus.\n"
+
+FOI_ADU_expand_2_5_title:0 "Patron of the Arts"
+FOI_ADU_expand_2_5_desc:0 "Patronage of the arts requires funds, and we happen to have them. Who wouldn't want their palace to be more magnificent? It's just a small price to pay."
+FOI_ADU_expand_2_5.tt:0 "\n§OAge of Splendor§! will provide a §YYearly Prestige§! bonus.\n"
+
+FOI_ADU_expand_3_5_title:0 "§OAge of Splendor§!"
+FOI_ADU_expand_3_5_desc:0 "§OSplendor, unparalleled in the world!§! We are the people of Al-Andalus, which means the history we forge shall be engraved upon marble slabs with gold leaf for all to behold. Whether past or future, the splendor of faith endures forever!"
+FOI_ADU_expand_3_5.tt:0 "Enable Decision: §YExtend the Age of Splendor§!\nThis decision allows you to expend §YSplendor Points§! to extend the §YAge of Splendor§! modifier."
+
+FOI_ADU_expand_2_4_title:0 "Scientific Thought"
+FOI_ADU_expand_2_4_desc:0 "Why do raindrops fall? Should pineapple go on pizza? Which came first, the chicken or the egg? Countless questions, countless answers."
+FOI_ADU_expand_2_4.tt:0 "\n§OAge of Splendor§! will provide a §YYearly Innovation§! bonus.\n"
+
+FOI_ADU_expand_1_1_title:0 "Rebuild the Army"
+FOI_ADU_expand_1_1_desc:0 "The ravages of war have once eroded our army's discipline. This is not a good sign, so we must rally our troops anew!"
+FOI_ADU_expand_1_1.tt:0 "\n§OAge of Splendor§! will provide a §YLand Morale§! bonus.\n"
+
+FOI_ADU_expand_2_1_title:0 "Desert Tactics"
+FOI_ADU_expand_2_1_desc:0 "Our ancestors were desert warriors. Though life in Iberia has shaped us differently, some things cannot be erased."
+FOI_ADU_expand_2_1.tt:0 "\n§OAge of Splendor§! will reduce §YMonthly War Exhaustion§! and increase §YYearly Army Professionalism§!.\n"
+
+FOI_ADU_expand_3_1_title:0 "Fierce Advance into the Sands" # Fierce Advance Through the Sands
+FOI_ADU_expand_3_1_desc:0 "The desert is a forbidden zone for life, yet we can tame it. The land of death now heeds our command; with the sound of the horn, it devours enemy bones and nourishes the endless yellow sands."
+FOI_ADU_expand_3_1.tt:0 "\n§OAge of Splendor§! will provide bonuses to §YDiscipline§! and §YArmy Movement Speed§!.\n"
+
+FOI_ADU_expand_4_1_title:0 "Gazing Beyond" # Balancing Internal and External
+FOI_ADU_expand_4_1_desc:0 "True wisdom is not isolation. The holy words of Allah preach inclusion, not prohibition."
+FOI_ADU_expand_4_1.tt:0 "\n§OAge of Splendor§! will provide a §YNavy Morale§! bonus.\n"
+
+FOI_ADU_expand_6_1_title:0 "Crescent Fleet"
+FOI_ADU_expand_6_1_desc:0 "Some say looking into the water reveals one's reflection. Yet when the fleet of Al-Andalus sets sail, what mirage remains in the water?"
+FOI_ADU_expand_6_1.tt:0 "\n§OAge of Splendor§! will provide bonuses to §YHeavy Ship Combat Ability§! and §YLight Ship Combat Ability§!.\n"
+
+FOI_ADU_expand_11_1_title:0 "Openness and Inclusion"
+FOI_ADU_expand_11_1_desc:0 "Bring divine punishment upon enemies, but extend hands to friends. If the so-called price of progress is silencing other voices, can such progress truly be called progress for us?"
+FOI_ADU_expand_11_1.tt:0 "\nTwo Catholic provinces we own in the §YIberia§! region will have their religion changed to §YProtestant§! and §YReformed§!.\n\nIf we have completed the §YHumanist§! idea group:\nIncrease the §YHeretic Tolerance§! and §YMax Heretic Tolerance§! provided by §TAndalusian Religious Tolerance§!\n\nReduce the impact of §TAndalusian Religious Tolerance§! on §YTrue Faith Tolerance§!\n"
+
+FOI_ADU_expand_13_5_title:0 "Progress and Innovation"
+FOI_ADU_expand_13_5_desc:0 "When stone turns to gold, when seawater becomes mercury, past perplexities are answered in melodious tunes, nourishing the roots of confusion, drop by drop."
+FOI_ADU_expand_13_5.tt:0 "\nIf we have completed the §YInnovative§! idea group:\n§TAndalusian Religious Tolerance§! will reduce §YTechnology Cost§! and §YIdea Cost§!.\n"
+
+FOI_ADUEvents_no_core_province_modifier_tooltip:0 "The aforementioned provinces belonging to §Y[Root.GetName]§! that are not §Ycores§! will receive the modifiers above."
+
+FOI_ADU_expand_5_4_title:0 "Andalusi Religious Studies" # Andalusian Institute of Religious Studies
+FOI_ADU_expand_5_4_desc:0 "Whilst Christians remained fixated upon rigid dogma, the Andalusians had already turned their gaze towards the written word. Merely contemplating the sacred text does not confer sanctity; only through understanding does one attain true anointing."
+FOI_ADU_expand_5_4.tt:0 "\n§TReligious Tolerance in Al-Andalus§! reduces §YAll Power Costs§!\n"
+
+FOI_ADU_expand_6_5_title:0 "Religious Exchange"
+FOI_ADU_expand_6_5_desc:0 "We are open and inclusive. A golden nation welcomes all thought, whether correct or erroneous, for before understanding, the erroneous may be correct, while the correct may more easily lead people astray."
+FOI_ADU_expand_6_5.tt:0 "\nUnlocks two §YDiplomatic Actions§! allowing Andalusia to introduce §YChristianity§! from other countries into Iberia.\n\n§TAndalusian Religious Tolerance§! will increase §YReligious Unity§!.\n"
+
+FOI_ADU_expand_11_5_title:0 "Civilizing Mission"
+FOI_ADU_expand_11_5_desc:0 "As the Almighty Allah has spoken, we are beloved. Now, we shall pass on this divine love, to civilize and reform those lost and ignorant customs."
+FOI_ADU_expand_11_5.tt:0 "\nUp to §Y10§! provinces we own with religions in the §YPrimitive Group§! will have their religion randomly changed to a §YChristian§! faith present in the §YIberia§! region.\n"
+
+FOI_ADU_expand_12_4_title:0 "Free Preaching"
+FOI_ADU_expand_12_4_desc:0 "Let speech be free, let thought blossom, not heads."
+FOI_ADU_expand_12_4.tt:0 "\nProvinces we own with religions in the §YPrimitive Group§! will slowly and randomly have their religion changed to a §YChristian§! faith present in the §YIberia§! region.\n"
+
+FOI_ADU_expand_12_2_title:0 "Bridging the Divide"
+FOI_ADU_expand_12_2_desc:0 "Divides exist naturally; we need not feel helpless about them. Bridging this barrier requires efforts across generations, but when we truly melt the ice, the ultimate glory shall also be ours."
+FOI_ADU_expand_12_2.tt:0 "\n§TAndalusian Religious Tolerance§! will reduce §YAccepted Culture Cost§!.\n"
+
+FOI_ADU_expand_13_1_title:0 "Cultural Melting Pot"
+FOI_ADU_expand_13_1_desc:0 "Why is everything always so complicated in Iberia? Although we have long been troubled by cultural blending, we have now turned misfortune into fortune. The experience in handling multiculturalism is invaluable for a vast green and white empire."
+FOI_ADU_expand_13_1.tt:0 "\n§TAndalusian Religious Tolerance§! will provide a §YAccepted Culture Limit§! bonus.\n"
+
+FOI_ADU_expand_17_3_title:0 "Continue Exploration"
+FOI_ADU_expand_17_3_desc:0 "When Alexander conquered India, what greeted him was not joy, but bitter disappointment, for there were no more lands to conquer. We are fortunate; Al-Andalus, at one end of the ocean, still has vast blue waters to tread upon."
+FOI_ADU_expand_17_3.tt:0 "\n§OAge of Splendor§! will provide a §YYearly Colony Growth§! bonus.\n"
+
+FOI_ADU_expand_19_3_title:0 "Land in India"
+FOI_ADU_expand_19_3_desc:0 "The land of Bharata nurtures the great secrets of Maha. Undoubtedly, this path of the wheel will become another treasury for us, adding a new luster to the resplendent throne."
+FOI_ADU_expand_20_3_title:0 "South India Company"
+FOI_ADU_expand_20_3_desc:0 "Managing the whole of India is quite impractical for us across the sea. The excessive cost makes every action arduous, so it is necessary to have an independent yet beneficial company take over these affairs."
+FOI_ADU_expand_21_3_title:0 "Deccan Taifa"
+FOI_ADU_expand_21_3_desc:0 "The conflicts in Iberia were not without benefit; past memories have endowed the Deccan with the Taifa system, allowing this unfamiliar land to utter familiar holy words."
+FOI_ADU_expand_22_3_title:0 "East India Company"
+FOI_ADU_expand_22_3_desc:0 "East Indian trade is indispensable for us, therefore we need to improve local administration, such as establishing a separate mechanism capable of independently handling any crisis."
+FOI_ADU_expand_23_3_title:0 "Oceanic Trade"
+FOI_ADU_expand_23_3_desc:0 "From coast to coast, ships come and go without cease, wealth circulates unendingly, business never closes—it has always been so."
+FOI_ADU_expand_24_3_title:0 "Modern Customs"
+FOI_ADU_expand_24_3_desc:0 "Although maritime trade can bring us almost everything, we do not want everything to reach our shores. We wish for the gold to flow in, while keeping conflict and discord far from our homeland."
+FOI_ADU_expand_25_3_title:0 "Center of the World" # Center of the World Economy
+FOI_ADU_expand_25_3_desc:0 "If anyone dares question Al-Andalus's position in world trade, then hit them squarely in the face with gold coins."
+FOI_ADU_expand_25_3.tt:0 "\nFrom now on, when §OAge of Splendor§! progress reaches §Y100§!, it will not reset completely but retain §Y50§! progress.\n"
+
+FOI_ADU_expand_24_2_title:0 "Wealth of the World"
+FOI_ADU_expand_24_2_desc:0 "The wealth of the world, gathered in my hands."
+
+FOI_ADU_expand_24_4_title:0 "Colonial Empire"
+FOI_ADU_expand_24_4_desc:0 "The title 'Empire on which the sun never sets' perfectly matches our splendor. The sun rises in the east and then never sets."
+
+FOI_ADU_expand_18_1_title:0 "Azure Sea"
+FOI_ADU_expand_18_1_desc:0 "The ocean is mysterious and perilous, but peril implies wealth. Once we traversed the deserts, and now we shall set sail once more, seeking poetry and treasure in distant lands."
+
+FOI_ADU_expand_19_1_title:0 "Conquer Mesoamerica"
+FOI_ADU_expand_19_1_desc:0 "The land of Yucatán is the abode of Quetzalcoatl, yet unfortunately, their false god could not save them."
+
+FOI_ADU_expand_21_1_title:0 "West Coast of North America" # North American West Coast
+FOI_ADU_expand_21_1_desc:0 "Crossing oceans and rivers, we have reached the edge of the world. It greatly resembles the west of Iberia, yet it is still not the end of our journey."
+
+FOI_ADU_expand_23_1_title:0 "Land of Bitter Cold"
+FOI_ADU_expand_23_1_desc:0 "The frigid north is a forbidden zone as difficult to tread as the scorching desert is a realm of unending turbulence."
+
+FOI_ADU_expand_18_2_title:0 "Expand Colonization"
+FOI_ADU_expand_18_2_desc:0 "One step further, and further still, what treasures does that mysterious land hold? No one can say for sure, but at least we will be the first to taste the crab, and that is enough."
+FOI_ADU_expand_18_2.tt:0 "\n§OAge of Splendor§! will increase the §YProvince Development§! after colonization is complete.\n"
+
+FOI_ADU_expand_20_2_title:0 "Applying the Printing Press" # Application of the Printing Press
+FOI_ADU_expand_20_2_desc:0 "Let the machines roar, let ink splatter, sheets of paper, identical yet different, continuously fly from that great maw with a speed that even surpasses the warhorses of conquest. Noble steeds conquer land for us; books conquer civilization for us."
+
+FOI_ADU_expand_22_2_title:0 "Global Trade"
+FOI_ADU_expand_22_2_desc:0 "If the world was once an inland sea, then today's inland sea is our world."
+
+FOI_ADU_expand_18_4_title:0 "Colonial Economy" # Colonial Economic Theory
+FOI_ADU_expand_18_4_desc:0 "'I'm not an economist, nor do I understand sustainability theory. But I know one thing: I can spend others' money to buy things for myself.'"
+FOI_ADU_expand_18_4.tt:0 "\n§OAge of Splendor§! will provide an additional §YColonist§!.\n"
+
+FOI_ADU_expand_20_4_title:0 "Expand Islamic Influence"
+FOI_ADU_expand_20_4_desc:0 "We are correct, we are just, we are victorious. Precisely for this reason, the scripture of Allah must be known to all people."
+
+FOI_ADU_expand_22_4_title:0 "Civilizing Policy"
+FOI_ADU_expand_22_4_desc:0 "Muslims are devout believers. We shall civilize others, guiding the lost children to find their way home."
+
+EDG_ADU_expand_23_5_title:0 "Florida Trade"
+EDG_ADU_expand_23_5_desc:0 "Our haven is not the Bay of Biscay, but Mexico. Trade across the ocean now brings our wealth to Florida."
+
+FOI_ADU_expand_18_5_title:0 "Brazilian Coast"
+FOI_ADU_expand_18_5_desc:0 "What lies along the Brazilian coast? The precious brazilwood and gemstones here can bring us all the wealth we need, and perhaps even Persians might be found there… perhaps..."
+
+FOI_ADU_expand_19_5_title:0 "Into the Río de la Plata"
+FOI_ADU_expand_19_5_desc:0 "This is a fertile plain unlike any we have seen before, its richness surpassing even the lands of all Iberia. It is Allah's blessing, unparalleled."
+
+FOI_ADU_expand_21_5_title:0 "Peruvian Silver Mines"
+FOI_ADU_expand_21_5_desc:0 "Who would have thought that on the other side of the world, we would find silver again. It glitters so brightly that even across the entire Atlantic, we can see the flash of that wealth."
+
+FOI_UCI_expand_1_1_title:0 "A Glimmer of Firelight"
+FOI_UCI_expand_1_1_desc:0 "In this dark period, we are not alone. We must seek out all who can be united to advance together."
+
+FOI_UCI_expand_1_3_title:0 "Flames Spread, Springs Flow"
+FOI_UCI_expand_1_3_desc:0 "The Republics that once surrounded the victorious Catalonia are now rotten and decayed. We must gather the militias from all communes to shatter the last remnants of Republican resistance!"
+FOI_UCI_expand_1_3.tt:0 "All our provinces in the §YIberia§! region will immediately undergo a §YRally Communal Militias§! action."
+
+FOI_UCI_expand_1_5_title:0 "Marching Together"
+FOI_UCI_expand_1_5_desc:0 ""
+FOI_UCI_expand_1_5.tt:0 "We and our allies mutually gain §Y50§! trust.\n\nOur allied §YPeasant Republics§!, §YRevolutionary States§!, and §YNational Governments§! will receive certain bonuses."
+
+FOI_UCI_expand_2_3_title:0 "Voice of the People"
+FOI_UCI_expand_2_3_desc:0 "Our revolution has finally triumphed, and the cheers of the people shall echo throughout all of Europe!"
+
+FOI_UCI_expand_3_3_title:0 "Commune of [213.GetName]"
+FOI_UCI_expand_3_3_desc:0 ""
+FOI_UCI_update_or_build_building_tooltip:0 "If the §Ymission area§! does not have §YTax§!, §YProduction§!, or §YManpower§! buildings, immediately construct the aforementioned buildings in the §Ymission area§!; if the §Ymission area§! already has §YTax§!, §YProduction§!, or §YManpower§! buildings, upgrade the corresponding existing buildings in the §Ymission area§!.\n\nAll provinces in the §Ymission area§! gain the modifier §YDevelop Autonomous Communes§!\n"
+
+FOI_UCI_harbour_development_tooltip:0 "All coastal provinces in the §Ymission area§! gain the modifier §YDevelop Harbor§!;"
+
+EDG_FOI_UCI_add_random_development_tooltip:0 "Distribute §Y15§! development points randomly across the §Ymission area§!\n"
+
+FOI_UCI_expand_4_3_title:0 "Commune of [220.GetName]"
+FOI_UCI_expand_4_3_desc:0 ""
+
+FOI_UCI_expand_5_3_title:0 "Commune of [333.GetName]"
+FOI_UCI_expand_5_3_desc:0 ""
+
+FOI_UCI_expand_6_3_title:0 "Iberian Spring"
+FOI_UCI_expand_6_3_desc:0 "Development is an eternal and unchanging principle. With such minimal external impetus, we must rely on our own strength to develop and arm ourselves. After discarding the old system and embracing new tools of production along with increased productivity, the communal union will welcome its own springtime."
+FOI_UCI_expand_6_3.tt:0 "All our provinces in the §YIberia§! region will slowly gain development while §YProspering§!, while provinces with §YDevastation§! greater than §Y10%§! will slowly lose development."
+ FOI_UCI_expand_5_1_title:0 "Commune of [227.GetName]"
+ FOI_UCI_expand_5_1_desc:0 ""
+ FOI_UCI_expand_5_2_title:0 "Commune of [208.GetName]"
+ FOI_UCI_expand_5_2_desc:0 ""
+ FOI_UCI_expand_3_1_title:0 "Commune of [206.GetName]"
+ FOI_UCI_expand_3_1_desc:0 ""
+ FOI_UCI_expand_5_4_title:0 "Commune of [223.GetName]"
+ FOI_UCI_expand_5_4_desc:0 ""
+ FOI_UCI_expand_5_5_title:0 "Commune of [219.GetName]"
+ FOI_UCI_expand_5_5_desc:0 ""
+ FOI_UCI_expand_4_1_title:0 "Commune of [231.GetName]"
+ FOI_UCI_expand_4_1_desc:0 ""
+ FOI_UCI_expand_3_2_title:0 "Commune of [207.GetName]"
+ FOI_UCI_expand_3_2_desc:0 ""
+ FOI_UCI_expand_4_2_title:0 "Commune of [217.GetName]"
+ FOI_UCI_expand_4_2_desc:0 ""
+ FOI_UCI_expand_3_4_title:0 "Commune of [218.GetName]"
+ FOI_UCI_expand_3_4_desc:0 ""
+ FOI_UCI_expand_4_4_title:0 "Commune of [225.GetName]"
+ FOI_UCI_expand_4_4_desc:0 ""
+ FOI_UCI_expand_3_5_title:0 "Commune of [210.GetName]"
+ FOI_UCI_expand_3_5_desc:0 ""
+ FOI_UCI_expand_4_5_title:0 "Commune of [214.GetName]"
+ FOI_UCI_expand_4_5_desc:0 ""
+FOI_UCI_expand_7_3_title:0 "Brilliant as Light Itself" # A Torch Brilliant as Light
+FOI_UCI_expand_7_3_desc:0 "The age of darkness is ending. We shall raise high the torch to illuminate Europa and the entire world!"
+
+FOI_UCI_expand_8_3_title:0 "Storm and Tempest"
+FOI_UCI_expand_8_3_desc:0 "With footholds secured in Corsica and Sardinia, our fleet shall advance towards Sicily, consolidating our dominance in the western Mediterranean and preparing us for the future liberation of the southern Mediterranean regions."
+
+EDG_FOI_UCI_separatism_war_effect_tt:0 "§YCore provinces§! in the §Ymission area§! not §Yowned§! by us will gain §Y20§! years of separatism, §Y+20§! unrest, and a rebel faction will immediately spawn.\nIf we own §Yall mission provinces§!, other rewards will be granted."
+
+FOI_UCI_expand_9_3_title:0 "Land of Crimson"
+FOI_UCI_expand_9_3_desc:0 "Southern Italy is under our control. The rotten core of Catholicism—Rome—is now within reach. Let us press onward!"
+
+FOI_UCI_expand_10_3_title:0 "Erase the Papal States"
+FOI_UCI_expand_10_3_desc:0 "The den of iniquity is finally breached by us. The treasury hoarding countless ill-gotten gains opens its doors, and this city will be handed over to its people for judgment."
+
+FOI_UCI_expand_11_3_title:0 "Glimmering Waters"
+FOI_UCI_expand_11_3_desc:0 "The Po Valley is one of Italy's richest regions, yet oppression remains widespread. To open the path to Venice and Genoa, we must first liberate the people of this area."
+
+FOI_UCI_expand_12_3_title:0 "Liberate the Apennines"
+FOI_UCI_expand_12_3_desc:0 "After relentless efforts, the Apennine Peninsula is finally completely liberated. The Union will divide the region into communes and begin preparing to fully integrate the Italian territories into the administrative system."
+
+FOI_UCI_expand_13_3_title:0 "Springtime of the Peoples"
+FOI_UCI_expand_13_3_desc:0 "Let us unite together and march towards more distant horizons. The Front of Progress will sound the horn of revolution, liberating all peoples still trapped in hardship!"
+
+FOI_UCI_expand_14_3_title:0 "Cold Flame Forges Iron"
+FOI_UCI_expand_14_3_desc:0 "A well-trained army is not organized in a day or two. Only through the trials of war can it endure even harster tests."
+FOI_UCI_expand_14_3.tt:0 "Each time a §Yvictory§! is achieved in battle against troops of §YMonarchy§! or §YTheocracy§! countries, gain §G0.5§! §YRevolutionary Zeal§!"
+
+FOI_UCI_battle_win_count:0 "§YNumber of Battle Victories§!"
+FOI_UCI_expand_15_3_title:0 "True Fire"
+FOI_UCI_expand_15_3_desc:0 ""
+
+FOI_UCI_expand_12_2_title:0 "Judging the Mahdi"
+FOI_UCI_expand_12_2_desc:0 "The fanatical believers have finally been completely erased. We need to carry out a series of actions to establish a new administrative system ensuring the Union's control over this region."
+
+FOI_UCI_expand_12_4_title:0 "Burn the Fleur-de-lis"
+FOI_UCI_expand_12_4_desc:0 "The dreadful absolutism of France has now come to an end. The Union will begin integrating the entire vast nation. Establishing a separate subordinate council to administer the French region would be an excellent choice."
+
+FOI_UCI_expand_16_3_title:0 "Tempering Valor into Steel"
+FOI_UCI_expand_16_3_desc:0 ""
+FOI_UCI_expand_16_3.tt:0 "Each time a §Yvictory§! is achieved in battle against troops of §YMonarchy§! or §YTheocracy§! countries, gain §G0.3§! progress towards §RLiberation Zeal§!"
+
+FOI_UCI_expand_8_1_title:0 "Crossing Gibraltar"
+FOI_UCI_expand_8_1_desc:0 "The Strait of Gibraltar protects us from southern incursions but also makes advancing into North Africa more difficult. Nevertheless, we must push southward to crush that barbaric and bloodthirsty fanatical state."
+
+FOI_UCI_expand_9_1_title:0 "The Crimson Path"
+FOI_UCI_expand_9_1_desc:0 "We have secured a foothold in North Africa. Now we shall formally engage the Muslims in battle. Differing religions may slow our liberation, but the soldiers' will declares that ultimate victory shall be ours."
+
+FOI_UCI_expand_10_1_title:0 "Curb the Zealots"
+FOI_UCI_expand_10_1_desc:0 "Morocco is now fully under our control. With just one final step, the Union will completely shatter that state which should have been buried long ago—and this time, they will have no chance to rise again."
+
+FOI_UCI_expand_11_1_title:0 "Mirage"
+FOI_UCI_expand_11_1_desc:0 "Near the North African desert, there have always been scattered tribes of various sizes, continuously harassing villages. If diplomacy proves ineffective, war will teach them a lesson."
+
+FOI_UCI_expand_11_2_title:0 "Uniting the Mediterranean"
+FOI_UCI_expand_11_2_desc:0 "With Venice and Tunis under our control, the Union can now dominate most of the Mediterranean Sea, which will facilitate our subsequent military plans."
+
+FOI_UCI_expand_15_2_title:0 "Annealing"
+FOI_UCI_expand_15_2_desc:0 ""
+
+FOI_UCI_expand_11_4_title:0 "Connecting the Alps"
+FOI_UCI_expand_11_4_desc:0 "Directly crossing from one side of the Alps to the other is highly unwise. Therefore, our plan involves advancing from both flanks of the Alps simultaneously. Now that we have opened a land route from Iberia to the Apennine Peninsula, our troop movements will be more convenient and rapid."
+
+FOI_UCI_expand_15_4_title:0 "Tempering"
+FOI_UCI_expand_15_4_desc:0 ""
+
+FOI_UCI_expand_10_5_title:0 "Purge the Oppressors"
+FOI_UCI_expand_10_5_desc:0 "Arles indeed made significant contributions to the Republic's unification of Iberia. However, it is undeniable that our past relationship was merely one of mutual exploitation. After the Republic's collapse, a series of disastrous incidents due to profit distribution caught everyone off guard—making the Union's motive to end the Kingdom of Arles even clearer."
+
+FOI_UCI_expand_11_5_title:0 "Radiant Splendor"
+FOI_UCI_expand_11_5_desc:0 "Following France's border to reach the territories of the Holy Roman Empire. On a future day, war will blaze here once more, and true revolution will then commence."
+
+FOI_UCI_expand_8_5_title:0 "Cross the Pyrenees"
+FOI_UCI_expand_8_5_desc:0 "The Pyrenees are both our sturdy shield and our stumbling block. For those on the other side and for us alike, this barrier marks both the beginning of conquest and the return journey of liberation."
+
+FOI_UCI_expand_9_5_title:0 "Heart of Fire"
+FOI_UCI_expand_9_5_desc:0 "After stabilizing Occitania, the fertile plains of France lie before us. The exorbitant taxes under French rule have caused immense suffering among the common people. We shall bring them liberation, shattering the shackles that bind all."
+
+FOI_FWF_17_3_title:0 "Fuel to the Flames"
+FOI_FWF_17_3_desc:0 ""
+FOI_FWF_17_3_tt:0 ""
+
+FOI_FWF_18_3_title:0 "Raging Seas, Swelling Tides"
+FOI_FWF_18_3_desc:0 ""
+FOI_FWF_18_3_effect_tt:0 "§YCore provinces§! in the §Ymission area§! not §Yowned§! by us will gain §Y20§! years of separatism, §Y+20§! unrest, and a rebel faction will immediately spawn.\n\nIf we own §Yall mission provinces§! and possess the modifier §YDream of Europa§!, the duration of that modifier is extended indefinitely.\n\n§YGain permanent claims on all provinces in the area not owned by us§!"
+
+
+EDG_spa_take_over_venice_title:0 "Seize Control of Venice"
+EDG_spa_take_over_venice_desc:0 "The avaricious Dandolo Monarchy and the corrupt Council of Ten have plunged the Eastern Mediterranean order into complete chaos. The intrigues among Greeks, Slavs, Turks, and Latins have turned the former Roman lands into a perpetual battlefield. Venice has proven incapable of leading the Eastern Mediterranean order. As the rising Mediterranean hegemon, we should tame the Golden Lion of Saint Mark, remove the crown of the Most Serene Republic, and ensure trade routes flow freely once more."
+
+EDG_spa_log_in_sicily_title:0 "Land in Sicily"
+EDG_spa_log_in_sicily_desc:0 "The history of the Kingdom of Sicily over the past 200 years can be summarized in one word: betrayal. Genoese mercenaries betrayed their Latin brethren, joining Greeks to overthrow the Hohenstaufen kingdom. The Angelos dynasty, backed by Venice, then betrayed Sicilian Catholic families to establish their own Orthodox kingdom. Finally, his own son was betrayed by the ambitious Theodore Vatatzes, ending the sovereignty of Trinacria. Let us end this two-century-long farce, allow the glory of the Spanish Empire and the Roman Catholic Church to shine upon Roger II's kingdom, and cement our dominance over the Mediterranean."
+
+EDG_spa_reform_armada_title:0 "Ocean Fleet"
+EDG_spa_reform_armada_desc:0 "Our coastal cities hold vital strategic positions along the Atlantic. We must enhance naval construction here, establishing a formidable fleet to lay the groundwork for our naval operations and maritime expansion."
+EDG_spa_reform_armada.tt:0 "\nOur owned provinces in the §YIberia§! region that are §Ycoastal§! with development not less than §Y15§! will gain the building §YShipyard§!. If a §YShipyard§! already exists, it will be upgraded to a §YDrydock§!. If a §YDrydock§! already exists, the province will gain §Y3§! base production.\n"
+
+EDG_spa_army_ready_title:0 "War Preparations"
+EDG_spa_army_ready_desc:0 "Both the undying Almohad dynasty and the rising Marinid tribe harbor deep resentment over the failure of the Moriscos in Iberia. They covet Spain's sacred rule and envy the power God has bestowed upon us. We must sharpen our blades and ready our horses to destroy the Berber strongholds along the Mediterranean coast."
+
+EDG_spa_navy_title:0 "Inland Sea Fleet"
+EDG_spa_navy_desc:0 "We are, and always will be, the children of the peninsula. Forming a formidable fleet is crucial to us. For the imperial ambitions of Spain, a navy capable of dominating the Mediterranean must be established."
+EDG_spa_navy.tt:0 "\nOur owned provinces in the §YIberia§! region that are §Ycoastal§! with development not less than §Y15§! will gain the building §YDocks§!. If §YDocks§! already exist, they will be upgraded to a §YDrydock§!. If a §YDrydock§! already exists, the province will gain §Y3§! base production.\n"
+
+EDG_spa_set_up_an_armada_title:0 "The Spanish Armada" # Establish the Spanish Armada
+EDG_spa_set_up_an_armada_desc:0 "'The figurehead of the Santa María is not an ornament, but a blade for judging heretics. When the gilded Virgin's pupils reflect the English Channel, even the cod of the North Sea swim upstream into the baptismal shadow cast by the fleet. The cross formed by 18,000 Toledo steel swords on the deck nails the ports one by one to the yellowed Papal Meridian—so-called 'invincibility' is the thorny holy crown God himself placed upon the Iberian Peninsula.\nThe tempests of Gibraltar shatter before the ship's nails; 130 behemoth warships rewrite the laws of the sea with bronze rams. The three gun decks of the Trinidad churn with infernal fire; the roar of its 64 heavy cannons freezes the North Sea waves into ice. From Lisbon to the Caribbean, every wave crest is branded with the Cross of Saint Andrew; the seas crushed beneath the oak keels are automatically incorporated into the Empire's domain.'"
+EDG_spa_set_up_an_armada.tt:0 "\nUnlocks decision\t§YForm the Invincible Armada§!\t\n"
+
+EDG_spa_lord_of_the_sea_title:0 "Lord of the Sea"
+EDG_spa_lord_of_the_sea_desc:0 "This fleet is itself a walking Mercator projection: the banner of Santa María brushes past Cape Verde, and the sugarcane in plantations turns collectively toward the Iberian Peninsula; when the stern lanterns illuminate the Cape of Good Hope, the blue-and-white porcelain of Eastern Empires automatically arranges itself into the Iberian coat of arms in the holds; the treasure fleets departing Havana scatter silver dust from their deck seams, paving a starry path straight to heaven; when the Manila galleons cross the Pacific, even the monsoons chant Latin prayers. When the Armada's iron anchors sink into Gibraltar, the Mediterranean waves instantly freeze into a posture of prostration, and the Ottoman Sultan's scimitars rust into dust within their scabbards. The sounding lines cast by eight thousand sailors measure the length of the imperial scepter; the drawing of eighteen thousand soldiers' swords restructures the order of the seas."
+EDG_spa_lord_of_the_sea.tt:0 "As long as we maintain §YGreat Power§! status and remain §Ybankruptcy-free§!, all other countries that are §Ynot at war§! with us will suffer §Ysignificant penalties§!."
+
+
+EDG_ibr_provinces_of_egypt_title:0 "Reclaim Egypt"
+EDG_ibr_provinces_of_egypt_desc:0 "For nearly a century, Egypt's yellow sands and oases have witnessed countless rises and falls. The conflicts of the Sahada dynasty, Mamluks, Nomes, and Copts have buried a desert empire, leaving the granary of the East in faded glory. In the name of the Catholic faith, we shall inherit Rome's legacy and launch a holy war of reconquest into the vast sea of sand, allowing glory and faith to once more illuminate the province of Aegyptus."
+
+EDG_ibr_gaul_province_title:0 "Gallic Province"
+EDG_ibr_gaul_province_desc:0 "Doctrinal divisions have kept France and Arles locked in a north-south standoff for centuries, sweeping away the authority of the Capetian dynasty in a long era of complacent isolation. Whether to reclaim the Visigothic heritage or restore the glory of the Catholic Church, let us conquer the land of the fleur-de-lis, bringing the crown of Charlemagne into the fold of the Iberian Empire and reviving the splendor of the Western Empire."
+
+EDG_ibr_provinces_of_balkan_title:0 "Retake the Balkans"
+EDG_ibr_provinces_of_balkan_desc:0 "The Fourth Crusade, born of Venetian and Frankish greed, left a significant stain upon the Catholic Church, creating a deep rift between the Orthodox and Catholic faiths. We shall bring prosperity to all devout Christians; the flames of hatred in the Balkans will ultimately be extinguished."
+
+EDG_ibr_imperial_declaration_title:0 "Imperial Declaration"
+EDG_ibr_imperial_declaration_desc:0 "Iberia was once one of the richest and most important provinces of the Roman Empire. Today, the subjects of the Iberian Empire inhabit seven continents, its flags fly across Mediterranean and New World shipping lanes, its noble language is spoken in courts throughout Europe, and increasingly, people see the Iberian Empire and recall the glory of Rome. The Greek crown is in our hands, Africa heeds our commands, Italy is within our grasp. Let us formally lay claim to the Roman imperial crown, making Iberia a true empire in name and fact."
+EDG_ibr_imperial_declaration_tt:0 "\nWhile this modifier is active, when at war with countries whose §Ycapital§! is located in the §YFrance§!, §YItaly§!, §YMaghreb§!, §YEgypt§!, §YMashriq§!, §YBritain§!, §YSouth Germany§!, §YBalkans§!, §YAnatolia§!, or §YCarpathia§! regions, all provinces we occupy in those regions for which we hold a §Yclaim§! will be immediately ceded to us.\n"
+
+EDG_ibr_march_on_the_apennine_title:0 "March on the Apennines"
+EDG_ibr_march_on_the_apennine_desc:0 "Faith is the sword and shield of the Iberian Empire; the Lord has granted us victory in the Reconquista. The Roman Papacy is in the throes of intense turmoil. The Italians need a crown, a banner, and a voice. We must fulfill our piety towards the Holy Church by controlling the Apennines and ensuring the safety of the land and the Holy Father."
+
+EDG_ibr_eastern_provinces_title:0 "Eastern Provinces"
+EDG_ibr_eastern_provinces_desc:0 "With the lands of the former Western Empire now in our hands, Iberia's gaze can finally turn to the lost legacy of the Eastern Empire. Though the glory of Greece has long faded, we shall become the Justinian of the West, realizing the lifelong, unfulfilled dream for which he strove."
+
+EDG_ibr_northern_provinces_title:0 "Northern Provinces"
+EDG_ibr_northern_provinces_desc:0 "Charlemagne once built the empire in Western Europe that most closely approached the glory of the Western Roman Empire, yet his legacy has been deeply torn apart by the struggles between the French and Germans. With the southern provinces now secured, none dare question that we are the new Augustus, the new Dominus. In this light, the German emperor, suffering from schism and beset by enemies on all sides, appears feeble and laughable.\n'A single monastery can harbor countless faithful, yet this world cannot tolerate two emperors.' Let us take up Charlemagne's sacred crown, end this unworthy, false regime, and become the sole inheritor of Rome's legacy and the true representative of the Holy Church."
+
+EDG_ibr_rome_reborn_title:0 "Rome Reborn"
+EDG_ibr_rome_reborn_desc:0 "\nThe dawn light of the Pyrenees pierces the Mediterranean mist; the measured steps of the tercio legions tread over the ruins of ancient Rome. The banner of Saint Andrew's Cross rustles beyond Hadrian's Wall; Caesar's laurel wreath has been donned by Spain's Imperator.\n\nFrom the Rock of Gibraltar to the fertile soil of Mesopotamia, from the cold waves of the Rhine to the tides of the Nile, Iberian knights measure the world with their sword's edge. We are no longer conquerors confined to a peninsula, but the masters of Europa: the plains of France submit to Aragonese mail, the sandy seas of North Africa prostrate before the Asturian cross, and the waning crescent over Constantinople is replaced by Madrid's rising sun. Merchant ships laden with silks of the East and cloth of the Low Countries weave the Mediterranean's waves into the imperial purple robe.\n\nThe prayers of the Spanish Emperor penetrate the Vatican's dome, scattering Catholic hymns into former heretical churches. The minarets of Córdoba transform into church spires; the Wailing Wall in Jerusalem echoes with Latin Mass. The monarchs of Iberia are both warriors and saints: they take the Bible as their code of law, their warhorses as pens, writing the final chapter of the 'Reconquista' on the borders of the Eastern Empire. The flames of the Inquisition forge a sword that unifies faith and territory—from the Danube to the Euphrates, all peoples praise one Triune God and one supreme sovereign.\n\nUpon Rome's ruins, Spaniards plant the olive branch of the Renaissance. Scholars in Salamanca use Arabic numerals to chart the stars' courses; in the courtyards of Granada, Greek philosophy and Islamic law mingle by the fountains. In the imperial viceroyalties, documents signed in Latin, Greek, and Arabic let Athenian democracy and Persian centralism govern side by side—this is not merely a battlefield of conquerors' iron and gold, but a sanctuary where the wisdom of a universal empire crystallizes.\n\nWhen the Invincible Armada sails through the Bosporus, its sails already obscure the Aegean waves; from the harbor of Alexandria to the reefs of Britain, every inch of sea bears the imprint of Iberia's coat of arms. The silver of the Americas and the spices of the Ganges flow into the imperial treasury, but more brilliant than wealth is the rebirth of the name 'Rome' beneath the throne of Madrid—Spain knows no twilight, only glory that never sets.\n\nPerhaps future poets will sing thus: 'With sword and cross, they pieced the shattered Rome into an immortal map; their bloodline was molten gold, pouring forth the most magnificent imperial dream in human history.'"
+
+EDG_ibr_reconquest_title:0 "The Reconquista"
+EDG_ibr_reconquest_desc:0 "The isolated Children's Crusade, beset by internal and external crises, has plunged into unprecedented peril. In this era of lurking dangers and crumbling faith, we shall deliver Tunis, and in God's name, set Africa ablaze!"
+
+EDG_ibr_the_province_of_africa_title:0 "The Province of Africa"
+EDG_ibr_the_province_of_africa_desc:0 "The Berber tribes who followed the words of the false prophet now bow before the Crusader King. God's blessing and the Empire's grace once again reign over Africa."
+
+EDG_ibr_provinces_of_anatolia_title:0 "Return to Asia"
+EDG_ibr_provinces_of_anatolia_desc:0 "The disastrous defeat at Manzikert allowed the Turks to take root in Anatolia like weeds, bringing endless suffering upon the Eastern Empire. We are both the Imperator of Iberia and the Basileus of Rome; we shall correct the mistakes of the Eastern Empire. The iron legions of the True Faith shall return to Asia, letting the imperial banners fly once more, offering solace to the Christian brethren lost under foreign rule."
+
+EDG_ibr_provinces_of_mashriq_title:0 "Advance to the Two Rivers"
+EDG_ibr_provinces_of_mashriq_desc:0 "The sudden rise of the Saracens tore Syria from the body of Eastern Rome, and the once-vibrant eastern frontier was lost forever. Although the infidel's empire also vanished in the Mongol invasions, the storm of fanatical faith dissipated, yet the seeds of hatred, once sown, are destined to sprout. Let us march toward the lands of Assyria and Babylon, destroy the heart of Islam, plant the cross atop the House of Wisdom, avenge Heraclius, and sound the paean for the rise of the New Rome."
+
+gc_ara_banking2.tt:0 "Provinces we own in the §YIberia§! region that have §YTax Buildings§! will gain §Y1§! base tax."
+
+FOI_UCI_17_3_title:0 "Communal Society"
+FOI_UCI_17_3_desc:0 ""
+FOI_UCI_17_3.tt:0 "Unlock Province Interaction\t§YPromote Commune Development§!\nUnlock Province Interaction\t§YImprove Production Tools§!\n"
+
+FOI_UCI_18_3_title:0 "Collective Labor"
+FOI_UCI_18_3_desc:0 ""
+FOI_UCI_18_3.tt:0 "Province Interactions\t§YPromote Commune Development§!, §YImprove Production Tools§!, §YMerge Small Communes§! will provide an additional §Y1§! base production.\n"
+
+FOI_UCI_19_3_title:0 "March Toward Prosperity"
+FOI_UCI_19_3_desc:0 ""
+
+FOI_UCI_19_1_title:0 "Conscription Plan"
+FOI_UCI_19_1_desc:0 ""
+FOI_UCI_19_1.tt:0 "Province Interaction\t§YRally Communal Militias§!\twill no longer require the province to be of an §YAccepted Culture§!.\n"
+
+FOI_UCI_20_1_title:0 "Mobilization Plan"
+FOI_UCI_20_1_desc:0 ""
+FOI_UCI_20_1.tt:0 "Province Interaction\t§YRally Communal Militias§!\tcan be used again more quickly.\n"
+
+FOI_UCI_18_2_title:0 "Revitalization Plan"
+FOI_UCI_18_2_desc:0 ""
+FOI_UCI_18_2.tt:0 "Reset the cooldown for Province Interaction\t§YPromote Commune Development§!\n\nProvince Interaction\t§YPromote Commune Development§!\twill provide an additional §Y2§! base production.\n"
+
+FOI_UCI_19_2_title:0 "Support Plan"
+FOI_UCI_19_2_desc:0 ""
+FOI_UCI_19_2.tt:0 "Reset the cooldown for Province Interaction\t§YPromote Commune Development§!\n\nFor each §Ybase tax§! lost via the Province Interaction\t§YPromote Commune Development§!, the Union will gain §Y500§! manpower.\n"
+
+FOI_UCI_18_4_title:0 "Production Plan"
+FOI_UCI_18_4_desc:0 ""
+FOI_UCI_18_4.tt:0 "Reset the cooldown for Province Interaction\t§YImprove Production Tools§!\n\nFor each §Ybase production§! lost via the Province Interaction\t§YImprove Production Tools§!, the Union will gain §Y5§! ducats.\n"
+
+FOI_UCI_19_4_title:0 "Construction Plan"
+FOI_UCI_19_4_desc:0 ""
+FOI_UCI_19_4.tt:0 "Reset the cooldown for Province Interaction\t§YImprove Production Tools§!\n\nUsing the Province Interaction\t§YImprove Production Tools§!\twill refund §Y100§!£dip£.\n"
+
+FOI_UCI_19_5_title:0 "Defense Plan"
+FOI_UCI_19_5_desc:0 ""
+FOI_UCI_19_5.tt:0 "Province Interaction\t§YPurge Rebel Forces§!\twill increase §Yless§! devastation.\n"
+
+FOI_UCI_20_5_title:0 "Cleansing Plan"
+FOI_UCI_20_5_desc:0 ""
+FOI_UCI_20_5.tt:0 "Province Interaction\t§YPurge Rebel Forces§!\twill no longer require the province to be of an §YAccepted Culture§!.\n"
+
+FOI_UCI_20_3_title:0 "Congress System"
+FOI_UCI_20_3_desc:0 ""
+FOI_UCI_20_3.tt:0 "The aforementioned §Ymodifiers§! and added §Ydevelopment§! will §Ymove with the capital§!.\n"
+
+FOI_UCI_23_3_title:0 "Trial by Fire"
+FOI_UCI_23_3_desc:0 ""
+FOI_UCI_23_3.tt:0 "While simultaneously experiencing §Yany disaster§! and being §Yat war§!, we will gain certain bonuses.\n\nIf a province we are §Yoccupying§! is our §Ycore§!, that province will be immediately ceded to us.\n"
+
+FOI_UCI_22_1_title:0 "Fire on Ice"
+FOI_UCI_22_1_desc:0 ""
+FOI_UCI_22_1.tt:0 "Immediately apply the §TProvince Interaction§! 'Agitate the Populace' to provinces §Yadjacent§! to those possessing the modifier §YAgitate the Populace§!.\n\nThe §TProvince Interaction§! 'Agitate the Populace' can be directly executed in provinces for which we hold a §Yclaim§!.\n"
+
+FOI_UCI_21_2_title:0 "One Method"
+FOI_UCI_21_2_desc:0 ""
+FOI_UCI_21_2.tt:0 "Choosing §YComplete Restructuring§! during the Congress elections will randomly grant §Y1§! point of ability increase.\n"
+
+FOI_UCI_21_4_title:0 "Two Choices"
+FOI_UCI_21_4_desc:0 ""
+FOI_UCI_21_4.tt:0 "Choosing §YPartial Restructuring§! during the Congress elections will grant §Y50§! points of §Yexperience§!.\n"
+
+FOI_UCI_22_5_title:0 "Smoke Without Flame"
+FOI_UCI_22_5_desc:0 ""
+FOI_UCI_22_5.tt:0 "Gain §Ycores§! on all provinces possessing the modifier §YAgitate the Populace§!.\n\nReduce the cost of Province Interactions\t§YAgitate the Populace§!\tand\t§YCore Infiltration§!.\n"

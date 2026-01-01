@@ -1,0 +1,201 @@
+﻿l_english:
+ #---------------------------------------------------------
+ # Edg Teu Mission 1
+ #---------------------------------------------------------
+
+EDG_TEU_mission_1_2_title: "Beneath the Empire"
+EDG_TEU_mission_1_2_desc: "The fate of the Holy Roman Empire is closely intertwined with our own; we must carefully consider our relationship with them."
+
+EDG_TEU_mission_1_3_title: "The Order and the Empire"
+EDG_TEU_mission_1_3_desc: "Our entry into the Holy Roman Empire was not due to any fraternal bond or ambition towards the German states, but solely for the sake of protection. However, the Kingdom of Poland has now crumbled to dust, and the threat from our neighbor has vanished.\nNow is the time to convene the estates and our advisors to reassess our political standing within the Empire."
+
+EDG_TEU_mission_1_5_title: "Constructing Churches"
+EDG_TEU_mission_1_5_desc: "Our holy crusade must not only turn the peoples of Eastern Europe to the true faith but also ensure they remain steadfast in Catholicism. Therefore, even the smallest villages must have a church obedient to the Pope."
+
+EDG_TEU_mission_1_6_title: "Renovating Chapels"
+EDG_TEU_mission_1_6_desc: "The church is the house of God, and the cathedral is the most visible testament of our faith. For the supreme glory of the Lord, we shall build grand cathedrals across our lands!"
+
+EDG_TEU_mission_1_8_title: "Army Reforms"
+EDG_TEU_mission_1_8_desc: "What distinguishes an army from a mob is discipline. We must ensure our soldiers are well-trained, well-equipped, and above all, strictly disciplined."
+
+EDG_TEU_mission_1_9_title: "Professional Army"
+EDG_TEU_mission_1_9_desc: "It is evident that we cannot let our armies be led by peasants who claim to be well-versed in Chinese military strategy. We must ensure that our [Root.GetNobilityOrFallbackName] is always ready to serve as commanders in the ranks."
+
+EDG_TEU_mission_1_10_title: "The Prussian Iron Army"
+EDG_TEU_mission_1_10_desc: "A new army cannot be deemed useful without enduring the crucible of war. We should test our tactics, manpower, and equipment on the battlefield, proving that our forces are capable of standing against any foe."
+
+EDG_TEU_mission_1_12_title: "Invade Poland"
+EDG_TEU_mission_1_12_desc: "The Teutonic Order and the Kingdom of Poland have long disputed whether our conflicts constitute holy wars. Since our settlement in Prussia in 1225, the Polish Kingdom has continuously sought to expel us. We must conquer Poland—not for religion, but for survival."
+
+EDG_TEU_mission_1_13_title: "Advance into Red Ruthenia"
+EDG_TEU_mission_1_13_desc: "We must continue our southward push to eliminate the Polish threat once and for all. Red Ruthenia is the last bastion of these heretics."
+
+EDG_TEU_mission_1_14_title: "Take Over Moldavia"
+EDG_TEU_mission_1_14_desc: "Moldavia possesses fertile lands and is renowned for its wine industry. It is also the gateway for the Ottomans into Ruthenia. We should annex Moldavia to halt the Turks' expansion into Eastern Europe—and, of course, for the wine."
+
+EDG_TEU_mission_1_15_title: "Southern Defensive Line"
+EDG_TEU_mission_1_15_desc: "Our [Root.GovernmentName] territory stretches broadly from the Baltic Sea to the Black Sea. To guard against future threats, we must construct fortresses as a precaution!"
+
+
+ #---------------------------------------------------------
+ # Edg Teu Mission 2
+ #---------------------------------------------------------
+
+EDG_TEU_mission_2_1_title: "Sword and Shield"
+EDG_TEU_mission_2_1_desc: "The Livonian Order is another knightly order founded on the Baltic coast. Established in Riga in 1202, its initial goal was to Christianize the Baltic Samogitians. After suffering a crushing defeat in 1236, it allied with our Teutonic Order. Together, we successfully helped convert the lands along the Baltic coast to the one true faith.\n\nWe should forge an alliance with them once more, so that we may rely on each other in times of difficulty."
+
+EDG_TEU_mission_2_2_title: "Blade and Lance"
+EDG_TEU_mission_2_2_desc: "Although both Livonia and the Teutonic Order are religious brotherhoods, the two Orders have shared few common interests since the conversion of the pagans. Therefore, our nation and Livonia are not a guaranteed alliance. We should strengthen our position in relation to the two states, either by improving diplomacy—or by conquering them."
+
+EDG_TEU_mission_2_4_title: "Imperial Diplomacy"
+EDG_TEU_mission_2_4_desc: "We were once a monastic order that fought to convert pagans. Having completed our crusading mission, our diplomatic skills were barely sufficient to prevent Poland from annexing us twice. However, by the standards of the Holy Roman Empire, our diplomatic capabilities are on par with those of barbarians.\nWe must improve our diplomatic skills to survive in this new political environment."
+
+EDG_TEU_mission_2_6_title: "A Competent Cabinet"
+EDG_TEU_mission_2_6_desc: "[Root.GetName] cannot rely solely on the [Root.Monarch.GetTitle]. After all, the [Root.Monarch.GetTitle] is also human and prone to human error. We need a cabinet composed of competent advisors who can ensure the state functions normally even in the most critical times."
+
+EDG_TEU_mission_2_7_title: "Renovate Königsberg"
+EDG_TEU_mission_2_7_desc: "[41.GetName], adjacent to [43.GetName], is the most important city in Prussia. Due to its location, the city has become a renowned commercial hub, attracting merchants, scholars, and citizens. We should expand this city to make it our splendid capital."
+
+EDG_TEU_mission_2_10_title: "Industrial Foundation"
+EDG_TEU_mission_2_10_desc: "An impressive army requires a strong economy. We need to construct workshops in our country so that our economic development can match the growth of our military power."
+
+EDG_TEU_mission_2_11_title: "Army and State"
+EDG_TEU_mission_2_11_desc: "Inconsequential states have an army; our army shall have a state."
+
+EDG_TEU_mission_2_13_title: "Into the Hinterland"
+EDG_TEU_mission_2_13_desc: "The Ruthenian region is vast, with endless fields of farmland and pasture. We must conquer this land to obtain sufficient resources to support our future war plans."
+
+EDG_TEU_mission_2_14_title: "Ancient Rus' Lands"
+EDG_TEU_mission_2_14_desc: "Ruthenia is almost entirely incorporated into our territory; only a few more campaigns are needed to complete the task."
+
+EDG_TEU_mission_2_15_title: "Along the Dnieper River"
+EDG_TEU_mission_2_15_desc: "Those Rus' people from Tver have repeatedly attempted to meddle in Eastern Europe. Their westward expansion makes their intention to conquer all lands in their path unmistakably clear. We must fortify the Dnieper River and use it to resist the fierce attacks of the Rus'!"
+
+EDG_TEU_mission_2_16_title: "Crusade on the Steppe"
+EDG_TEU_mission_2_16_desc: "Our extensive conquests have brought us deep into Central Asia, shaping a vast territory that many empires could only dream of.\nBefore we continue our eastward campaigns, we must first take a step back and reorganize our administrative structure."
+
+ #---------------------------------------------------------
+ # Edg Teu Mission 3
+ #---------------------------------------------------------
+
+EDG_TEU_mission_3_1_title: "The Prussian Confederation"
+EDG_TEU_mission_3_1_desc: "Since our defeat at the Battle of Grunwald in 1410, our noble Order has been forced to pay war reparations to the King of Poland, pushing us to the brink of bankruptcy. Thus, the Grand Master was compelled to commit a necessary evil: increasing taxes on the estates and cities.\nNaturally, the estates, particularly the burghers, were outraged. Eventually, in 1440, representatives of the estates gathered in the Prussian city of Elbing and formed the Prussian Confederation. Since then, the Confederation has spared no effort in financially supporting our longstanding enemy, the Kingdom of Poland, to dismantle the Order's structure from the outside in.\nFor the Order to survive, it must confront this issue head-on."
+
+EDG_TEU_mission_3_2_title: "Strike While the Iron is Hot"
+EDG_TEU_mission_3_2_desc: "The grudge between the Kingdom of Poland and us has lasted for a century, yet it has dramatically crumbled. While they remain disunited, we should teach them a lesson, ensuring the past threat of Poland never looms over us again! We must defeat their remaining principalities on the open plains; breaking the enemy's battle line will prove our boundless might!"
+
+EDG_TEU_mission_3_3_title: "Holy Alliance"
+EDG_TEU_mission_3_3_desc: "The Order exists for the Pope and serves the Pope. Therefore, maintaining a solid alliance with the Papacy is of utmost importance."
+
+EDG_TEU_mission_3_4_title: "Theological Ideas"
+EDG_TEU_mission_3_4_desc: "Ours is a religious nation, a devout nation, a nation of faith. Therefore, we should embrace the Order's intrinsic nature in religion and adopt our unique theological ideas."
+
+EDG_TEU_mission_3_5_title: "Holy Land"
+EDG_TEU_mission_3_5_desc: "Though we were born of the sword and raised by its cold edge, let us not forget that warfare and slaughter are not our ultimate goals. Compared to defeating pagans, converting them to the true faith is the Order's foremost priority. We must spare no effort in bringing this land under the true faith."
+
+EDG_TEU_mission_3_7_title: "Develop Prussia"
+EDG_TEU_mission_3_7_desc: "Our core region of Prussia is a vast fertile land with immense economic potential. However, after years of continuous war with Poland and Lithuania, we have been unable to focus on local economic development. Now is the time to remedy this shortcoming."
+
+EDG_TEU_mission_3_8_title: "National Reforms"
+EDG_TEU_mission_3_8_desc: "Our laws and government must reflect the character of our nation. Through a series of reforms, we will construct a comprehensive system of governance."
+
+EDG_TEU_mission_3_9_title: "Absolutism and Autocracy"
+EDG_TEU_mission_3_9_desc: "Feudal rule breeds chaos and calamity; divided estates vie for power and influence—such a state is doomed to destruction. To achieve greatness, no one but the [Root.Monarch.GetTitle] shall share the reins of power."
+
+EDG_TEU_mission_3_10_title: "Enlightenment and Reason"
+EDG_TEU_mission_3_10_desc: "The people of our land are not fools. They question absolutist rule, questioning its purpose as the core ideology of monarchy and theocracy. Faced with these questions, some rulers remain silent, others prepare to yield power. But we shall embrace the Enlightenment to legitimize our rule—not by God's grace, but through logic and reason."
+
+EDG_TEU_mission_3_11_title: "Dealing with Revolution"
+EDG_TEU_mission_3_11_desc: "The Great Revolution shakes Europe. Monarchs cling to power, filled with anxiety; citizens rejoice, growing ever more fervent. What was once a kingdom is now called the fatherland.\nIn response to this revolution, we must make a clear declaration: embrace it—or suppress it."
+
+EDG_TEU_mission_3_12_title:0 "Empire of Iron and Blood"
+EDG_TEU_mission_3_12_desc:0 "The imperial crown of the Holy Roman Empire is now in our hands, granting us even greater strength to continue our crusading vision!"
+
+EDG_TEU_mission_3_14_title:0 "The Grand Expedition"
+EDG_TEU_mission_3_14_desc:0 "The banners of the crusade on the steppe have been raised. Let us follow the footsteps across the great plains and march even further!"
+
+EDG_TEU_mission_3_15_title:0 "Past and Present"
+EDG_TEU_mission_3_15_desc:0 "The Mongol Empire was once called the Scourge of God. Now, we shall surpass them!"
+
+EDG_TEU_mission_3_16_title:0 "The Eastern Crown"
+EDG_TEU_mission_3_16_desc:0 "Distant eastern lands possess a feudal system they call the Celestial Empire. If we possess sufficient strength, perhaps we can bring it under our control as well."
+
+EDG_TEU_mission_3_17_title:0 "Dual Rome"
+EDG_TEU_mission_3_17_desc:0 "Two Emperors, East and West—a Dual Rome!"
+ 
+
+
+ #---------------------------------------------------------
+ # Edg Teu Mission 4
+ #---------------------------------------------------------
+
+EDG_TEU_mission_4_1_title: "Armed Knights"
+EDG_TEU_mission_4_1_desc: "From 1409 to 1411 and 1431 to 1435, we fought two wars against Poland and Lithuania, which significantly weakened our military strength. Although our old rivals have fallen, this does not mean we are now safe. Therefore, we should expand our army and recruit as many new soldiers as possible."
+
+EDG_TEU_mission_4_2_title: "Pearl of the Baltic"
+EDG_TEU_mission_4_2_desc: "Even the dullest mind can see the importance of the Baltic trade connecting Eastern and Western Europe, as evidenced by the many entrepôts and trade centers around the Baltic Sea.\nThese trading cities are priceless pearls, and among them, Danzig stands out. We must develop it to provide us with even more profitable trade!"
+
+EDG_TEU_mission_4_4_title: "Trade Relations"
+EDG_TEU_mission_4_4_desc: "Baltic trade is one of the main sources of our nation's economy. We must protect it from the Hanseatic merchants and the Danes, or we will lose this vital source of wealth."
+
+EDG_TEU_mission_4_6_title: "Economy and Development"
+EDG_TEU_mission_4_6_desc: "Though few members of the Order are willing to admit it, maintaining the economy is also a crucial part of our nation. Swords, armor, horses, cannons—everything has its price. We must increase our income to ensure the victory of our crusade."
+
+EDG_TEU_mission_4_7_title: "Strong-Walled Fortifications" # Strong Walls and Heavy Fortifications
+EDG_TEU_mission_4_7_desc: "While offense is one path to victory, we cannot neglect the importance of fortresses and castles. We should build and maintain fortresses at key strategic points in our country, so that no invader can surprise us from an unexpected blind spot."
+
+EDG_TEU_mission_4_10_title: "Military Clergy"
+EDG_TEU_mission_4_10_desc: "If our own [Root.GetChurchOrFallbackName] does not support us, our holy crusade risks collapse. Therefore, we must ensure their loyalty and grant them privileges to guarantee they will work in unison with the [Root.Monarch.GetTitle]."
+
+EDG_TEU_mission_4_11_title: "Gallop Across the Steppe" # Galloping Across the Steppe
+EDG_TEU_mission_4_11_desc: "Our battles with the nomadic tribes have shown that infantry is no longer viable on these vast open steppes. We need to adjust our army once more, establishing a formidable cavalry force for the Order. Only then can we contend with the savage nomadic tribes."
+
+EDG_TEU_mission_4_13_title: "Avenge Lake Peipus"
+EDG_TEU_mission_4_13_desc: "Novgorod is a stubborn bastion of the Orthodox heresy, sitting right at the doorstep of our brethren, the Livonian Order. We must destroy this barbaric and filthy merchant republic and conquer these lands."
+
+EDG_TEU_mission_4_14_title: "Crush Northeast Rus'" # Crush Northeastern Rus'
+EDG_TEU_mission_4_14_desc: "We must thoroughly crush these heretics before Northeastern Rus' unifies!"
+
+EDG_TEU_mission_4_15_title: "East and West"
+EDG_TEU_mission_4_15_desc: "Christendom has been divided for too long over minor differences in faith. Successive Popes seem unmotivated to heal the schism, while the fools of the Byzantine Empire are busy being conquered by the Muslim onslaught. The responsibility of mending the schism and ending the heresy falls upon our shoulders."
+
+EDG_TEU_mission_4_16_title: "Prussian Empire"
+EDG_TEU_mission_4_16_desc: "After conquering Poland, Lithuania, and Ruthenia, the extent of our [Root.GovernmentName] has reached a peak, even overshadowing the Holy Roman Empire. However, vast swathes of our territory remain undeveloped.\nWe should expand our infrastructure so that we are not only larger in territory than the Empire but also superior in quality to the Holy Roman Empire! Let us forge our [Root.GetAdjective] Empire!"
+
+ #---------------------------------------------------------
+ # Edg Teu Mission 5
+ #---------------------------------------------------------
+
+EDG_TEU_mission_5_2_title: "The Prussian Navy"
+EDG_TEU_mission_5_2_desc: "Although our primary focus has been on continental military affairs, there is no doubt that, should conflict arise with the Hanseatic League or Scandinavia, controlling the seas would be crucial. We should establish a formidable navy."
+
+EDG_TEU_mission_5_3_title: "Baltic Marketplace"
+EDG_TEU_mission_5_3_desc: "Both the Hanseatic League and Scandinavia are attempting to squeeze us out of the Baltic market. We must establish trading posts in key provinces and elevate the status of our trade centers to compete on equal footing."
+
+EDG_TEU_mission_5_5_title: "Resist the Reformation"
+EDG_TEU_mission_5_5_desc: "The Reformation—the handiwork of the Devil himself! Once faithful Catholics have forsaken the Holy See and embraced blasphemous practices. We must not allow ourselves to sink into such sinful behavior!"
+
+EDG_TEU_mission_5_6_title: "Crush the Heresy"
+EDG_TEU_mission_5_6_desc: "The Reformation has spawned numerous heresies, which seek to spread their venomous ideas to other Catholics. We must put an end to this heresy immediately and crush this Reformation!"
+
+EDG_TEU_mission_5_8_title: "Learn from Experience"
+EDG_TEU_mission_5_8_desc: "It is clear that our army has become outdated. Our forces still employ medieval Western European tactics, which are scarcely suited to the terrain of Eastern Europe. We must reform!"
+
+EDG_TEU_mission_5_9_title: "Integration of Knowledge"
+EDG_TEU_mission_5_9_desc: "Our army suffered several defeats in the last Polish-Teutonic War, which naturally dealt a heavy blow to our morale. Now, we must reclaim victory on the battlefield and allow our new recruits to accumulate valuable combat experience."
+
+EDG_TEU_mission_5_10_title: "Adapt to the Plains"
+EDG_TEU_mission_5_10_desc: "It is evident that our army has fallen behind the times. Our forces continue to use medieval Western European tactics, which are largely unsuited to the terrain of Eastern Europe. We must undertake reforms!"
+
+EDG_TEU_mission_5_12_title: "Annex Lithuania"
+EDG_TEU_mission_5_12_desc: "In 1225, Duke Conrad of Masovia invited us to campaign in the Balkans. Our enemies were the Baltic pagan tribes who refused to convert to Christianity. One of those tribes grew into what is now Lithuania.\nThey now claim to be devout Catholics, but their actions and aggression against us betray their hypocrisy. We must continue the holy war against the Lithuanians and seize their lands!"
+
+EDG_TEU_mission_5_13_title: "Baptize the Steppe"
+EDG_TEU_mission_5_13_desc: "The peoples living on the Eastern European steppe are no longer primitive pagans, but the local Muslims pose a significant threat to Christendom. We must gallop across the steppe and launch a crusade against the nomadic tribes!"
+
+EDG_TEU_mission_5_14_title: "Reach the Caucasus"
+EDG_TEU_mission_5_14_desc: "The Caucasus Mountains form the natural southern boundary between Europe and Asia. As this range becomes the border between our nation and the Ottoman Empire, the risk of a sudden Turkish incursion persists. We must conquer the northern slopes of the Caucasus Mountains and establish deep trenches and high fortifications here."
+
+EDG_TEU_mission_5_15_title: "Press Ever Forward"
+EDG_TEU_mission_5_15_desc: ""
+

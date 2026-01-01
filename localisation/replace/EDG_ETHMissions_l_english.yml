@@ -1,0 +1,209 @@
+﻿l_english:
+EDG_ETH_mission_1_1_title:0 "Stabilize the Nation"
+EDG_ETH_mission_1_1_desc:0 "The rebellion of the Beta Israel has unsettled our nation to some degree. We must consolidate our position before attending to other matters."
+
+EDG_ETH_mission_1_3_title:0 "Train the Chewa"
+EDG_ETH_mission_1_3_desc:0 "The Chewa are our feudal warrior nobility, originally professional soldiers personally appointed by the King of Kings. They form the backbone of our army, maintaining peace in the frontier provinces. However, nothing is perfect and there is always room for improvement. We should recruit more of these valiant warriors and train them to be impeccable."
+EDG_ETH_mission_1_3.modifier.tt:0 "The following §Ymodifier§! will follow the §TMobile Capital§!\n"
+
+EDG_ETH_mission_1_7_title:0 "Subjugate the Coastline"
+EDG_ETH_mission_1_7_desc:0 "Trade flows continuously through seas that are rightfully ours. If the newly consolidated [Root.GetName] wishes to profit from it, we must establish our presence to the Swahili along the Zanj coast. We need to conquer anything that might stand in our way."
+EDG_ETH_mission_1_7.effect.tt:0 "All provinces we own in §YEast Africa§! with §Tterrain§! of §YCoast§! will gain the following §Ybonus§!\n"
+
+EDG_ETH_mission_1_9_title:0 "Wealth from Afar"
+EDG_ETH_mission_1_9_desc:0 "The lands of East Africa are rich in gold. We must conquer them to seize this wealth and make [Root.GetName] a land of gold. Only then will we have the economic strength to permit further expansion."
+EDG_ETH_mission_1_9.effect.tt:0 "Provinces in the §YSouthern Africa§! subcontinent that produce §TGold§!"
+
+EDG_ETH_mission_1_11_title:0 "Liberate Alexandria"
+EDG_ETH_mission_1_11_desc:0 "Alexandria is the seat of the ancient Coptic Patriarchate and the residence of the Coptic Pope. However, the Church and a significant portion of the Coptic community still suffer under the rule of the foreign Mamluks. We must liberate this city from the Muslims and aid those Coptic Orthodox believers who remain in hiding."
+
+EDG_ETH_mission_1_14_title:0 "Revitalize Agriculture"
+EDG_ETH_mission_1_14_desc:0 "In our ceaseless expansion and restoration of Aksum's borders, our territorial gains on the northern and southern fronts have brought us immense prestige and glorious achievements. However, conquest is but a small part of success. If we wish to leave a lasting mark on history, we must invest more time, money, and sweat in internal development, starting with revitalizing agriculture in the Gondar region."
+EDG_ETH_mission_1_14.effect.tt:0 "All provinces in the §Ymission area§! will gain the following §Ybonus§!\n"
+
+EDG_ETH_mission_1_15_title:0 "Resolve the Sabbath Issue"
+EDG_ETH_mission_1_15_desc:0 "Though it may seem a trivial matter, a disagreement has persisted within our Church for nearly a full century regarding the observance of the Biblical Sabbath. Adherents of the Alexandrian position hold that the Sabbath should be observed on Sunday, while followers of Ewostatewos believe it should be observed on both Saturday and Sunday. If we wish to maintain religious unity, we must bring these two factions to a compromise."
+
+EDG_ETH_mission_1_18_title:0 "Connect the Mountains"
+EDG_ETH_mission_1_18_desc:0 "The continuous mountain ranges of the East African plateau hinder the enforcement of the King of Kings' will, leading to the evolution of the 'Mobile Capital' system in [Root.GetName]. The Emperor periodically relocates the court, frequently visiting every corner of the empire, connecting the mountains, and communicating with local elites and nobles to maintain control over the imperial situation."
+
+EDG_ETH_mission_2_2_title:0 "United as One"
+EDG_ETH_mission_2_2_desc:0 "Our vassal, Damot, was once a state that conquered the Sultanate of Shewa. Another vassal, the Sultanate of Hadiya, was once part of Shewa.\nThough both nations have their own histories, since 1309, when Zara Amda Seyon I brought them under his overarching rule, they have been our subjects. The time has come for these two realms to join our great empire! But to achieve this, their rulers may first require some persuasion."
+EDG_ETH_mission_2_2.event.tt:0 "When @DAM§Y[DAM.GetName]§! and @HDY§Y[HDY.GetName]§! are both our §Yvassals§! and their §Yopinion§! of us is above §G150§!, event §T'Subjects of [Root.GetName]'§! will trigger.\n"
+
+EDG_ETH_mission_2_4_title:0 "Form the Royal Guard"
+EDG_ETH_mission_2_4_desc:0 "The Imperial Guard of [Root.GetName] are warriors renowned throughout the world, famous for their superb fighting spirit, absolute loyalty, and strict discipline. However, we cannot rest idly on the laurels of past achievements. Instead, we must formalize the recruitment of the Guard, hire experts, promote generals, and expand the military resources allocated to them, forming a formidable new Royal Army to meet the more intense warfare of the future."
+EDG_ETH_mission_2_4.modifier.tt: "The following §Ymodifier§! will follow the §TMobile Capital§!\n"
+
+EDG_ETH_mission_2_5_title:0 "Eliminate the Threat"
+EDG_ETH_mission_2_5_desc:0 "The infidels who follow false gods have long been a persistent threat to [Root.GetName], like an ulcer on our flank. Now our efforts have borne fruit; the banner of the Solomonic Empire dominates the Horn of Africa, and the East African plateau heeds the true faith of the Coptic Orthodox Church. [Root.GetName] shall bring faith and prosperity to this land."
+
+EDG_ETH_mission_2_6_title:0 "The Southern Passage"
+EDG_ETH_mission_2_6_desc:0 "We have already established our rule over the entire Horn of Africa, creating a blessed empire worthy of our noble lineage. However, we have heard rumors of lands to the east, where Muslim rulers are said to control untold quantities of gold and ivory, all the while maintaining close ties with infidels from Persia and elsewhere, casting covetous eyes upon [Root.GetName]. For the future of the Solomonic Empire and the Coptic faith, we must open a passage and seriously prepare for a holy war in this region."
+EDG_ETH_mission_2_6.effect.tt:0 "Gain a §THoly War§! §Ycasus belli§! against all §YMuslim§! nations whose §Ycapital§! is in §YEast Africa§!.\n"
+
+EDG_ETH_mission_2_8_title:0 "Crush Kilwa"
+EDG_ETH_mission_2_8_desc:0 "With comprehensive victories over the infidels, the land from the Horn of Africa to the northern coast of East Africa lies open for our conquest. Although most of the native tribes and Muslim states have accepted our rule, the Sultanate of Kilwa still defies Solomon's authority. We must destroy the last Muslim power in East Africa, sweep away the infidel faiths, and establish a complete monopoly over Zanj."
+
+EDG_ETH_mission_2_10_title:0 "The Pilgrimage Route"
+EDG_ETH_mission_2_10_desc:0 "Ancient Cairo has for centuries been the seat of the Patriarch of Alexandria, the largest remaining Coptic Orthodox city. In the past, the pilgrimage caravans from [Root.GetName] would travel downriver, passing through the oases of Sa'id and Wastani to reach Cairo. Now, however, this region has become a contested center for feuding Mamluk warlords, leaving the vulnerable Coptic community in peril. In the name of blessed Solomon, we cannot allow our pilgrimage route to be blocked by infidel armies. We must descend the river, liberate the faithful along the Nile, and deliver the Coptic Orthodox Church of Cairo and all Copts of Egypt."
+
+EDG_ETH_mission_2_13_title:0 "Reclaim Jerusalem"
+EDG_ETH_mission_2_13_desc:0 "The ancient and holy Ark of the Covenant has remained within the lands of [Root.GetName] ever since it was entrusted by King Solomon to Emperor Menelik I, thus spared from the turmoil and displacement that has plagued the Levant for a millennium. Now, with the fall of the Sahada dynasty, some clergy propose returning the Ark to its rightful place. However, sending the Ark back to a city beyond our control is undoubtedly naive and foolish. Therefore, we must seize Jerusalem and the surrounding lands, reclaim the ancient domain of King Solomon, and make the Holy City our new center of power. We shall march in procession through its streets, celebrating our rightful restoration of this ancestral heritage."
+
+EDG_ETH_mission_2_15_title:0 "Highland Operations"
+EDG_ETH_mission_2_15_desc:0 "People, of course, are bound to be discontent when their sovereignty is handed over to foreigners. After all, this is war, this is conquest, and the conquered need time to adapt to their new masters. But sometimes, the conquerors must invest more effort in the transition. Kaffa is such a case. Their gold is invaluable to our nation, but as long as the locals are unwilling, we cannot simply go and mine it. We need to build some infrastructure in Kaffa and Damot, to let them know of our benevolence."
+
+EDG_ETH_mission_2_17_title:0 "Administrative Reform"
+EDG_ETH_mission_2_17_desc:0 "The Kings of Kings of the past crafted meticulous governance codes for [Root.GetName]. However, over the centuries, time has eroded the relevance of these documents. Therefore, we must modernize our administrative system to include all our subjects and eliminate a great deal of unnecessary red tape."
+EDG_ETH_mission_2_17.effect.tt:0 "The progress of §YEthiopian Modernization§! will now §Greduce§! §Tgoverning cost§!.\n"
+
+EDG_ETH_mission_2_19_title:0 "Pave the Way"
+EDG_ETH_mission_2_19_desc:0 "Lands beyond the scope of our current borders have always been shrouded in mystery. Who knows what incredible wealth lies there? If we wish to exploit them, we must first adjust our mobile capital system to pave the way for the pioneers."
+
+EDG_ETH_mission_2_20_title:0 "The Mobile Court"
+EDG_ETH_mission_2_20_desc:0 "The purpose of reforming the mobile court system is not for a radical revolution, but for gradual modernization. For centuries, decay, famine, and constant warfare allowed the peoples of Africa and the East only a fleeting glimpse of the majestic silhouette of the empires of old. Now, however, the glorious court of the Solomonic King of Kings, moving with the mobile capital of [Root.GetName], has once again brought the light of civilization to the Dark Continent! All peoples shall be drawn into the burgeoning [Root.GetName] Empire!"
+EDG_ETH_mission_2_20.condition.tt:0 "§YCourthouse§! building has been constructed for the §TMobile Capital§!"
+EDG_ETH_mission_2_20.effect.tt:0 "The following §Ymodifier§! will follow the §TMobile Capital§!\n"
+
+EDG_ETH_mission_3_1_title:0 "Arm the Militias"
+EDG_ETH_mission_3_1_desc:0 "Our nation is surrounded by infidels and enemies of the Empire. If we wish to survive and expand our borders in the foreseeable collapse of the Sahada Empire, we must recruit more soldiers and formidable generals for our army."
+
+EDG_ETH_mission_3_3_title:0 "The Legacy of Menelik I"
+EDG_ETH_mission_3_3_desc:0 "The great Menelik I, descendant of King Solomon and the Queen of Sheba, heir to the Ark of the Covenant, founded the Solomonic dynasty, allowing the glorious Aksumite Empire to flourish and endure on African soil. Despite a millennium of endless conflict with infidels and complex internal struggles that led to the decline of [Root.GetName], we are now back on track under the reign of Emperor Zara Yaqob. We will not await death like our kindred Roman Empire. [Root.GetName] will take the offensive, restart the holy wars, reclaim the legacy of Menelik I, and re-establish the great Aksumite Empire!"
+EDG_ETH_mission_3_3.effect.tt:0 "Gain a §THoly War§! §Ycasus belli§! against all §YMuslim§! nations whose §Ycapital§! is in the §YHorn of Africa§!.\n"
+
+EDG_ETH_mission_3_4_title:0 "Preparations for Holy War"
+EDG_ETH_mission_3_4_desc:0 "[Root.GetName] has long held a grudge against the Sultanate of Adal. This duplicitous infidel regime survived by our forefathers' mercy, paying tribute and groveling to [Root.GetName] for its existence. However, after 1380, with Nasir I of Sahada taking control of Egypt, the Adalites once again established connections with the northern Muslim states, stubbornly refusing tribute and now even arrogantly attempting to unite the nations of the Horn of Africa to destroy us. We shall reveal to them the folly of their errors and fulfill their own prophecies of doom!"
+EDG_ETH_mission_3_4.effect.tt:0 "§YFor every§! nation we are §Yat war§! with, we gain §G3k§! §Ymanpower§! and recruit §G1§! unit of §YChewa§! in the capital.\n"
+
+EDG_ETH_mission_3_5_title:0 "Correcting Past Mistakes"
+EDG_ETH_mission_3_5_desc:0 "The Sultanate of Adal, this infidel state born from the Sultanate of Ifat, has been a thorn in our side for centuries. Our failure to completely eradicate them in 1308 led to the current situation. But now, we have personally corrected the mistakes of the past; the old Aksumite Empire is once again emerging. Now, the rulers of East Africa must also make a decision: if they cannot admit their past errors before the words of [Root.GetName], they will submit to its blade."
+EDG_ETH_mission_3_5.effect.tt:0 "All §YMuslim§! nations §Ysouth§! of @ETH§Y[ETH.GetName]§! whose §Tcapital§! is in the §YHorn of Africa§! will face a choice: submit to @ETH§Y[ETH.GetName]§! or continue as its enemy.\n"
+
+EDG_ETH_mission_3_7_title:0 "Surpassing Former Glory"
+EDG_ETH_mission_3_7_desc:0 "Our ancestors' empire may have fallen, but its legacy lives on within us. Therefore, the power we now possess allows us not only to rebuild the empire that was once destroyed but also to surpass it!"
+
+EDG_ETH_mission_3_8_title:0 "Follow the River Downstream"
+EDG_ETH_mission_3_8_desc:0 "Our kingdom was once the great Aksumite Empire, stretching from the Dongola Desert to the coast of Mocha in Yemen. However, circumstances took a drastic turn after Queen Gudit and her Semien warriors sacked Aksum and brought the Aksumite dynasty to an end. Not long after, the empire fractured into several tribal states. In the past, we were preoccupied with wars against the Sultanate of Ifat in the southeast and unable to focus on the north. The Sahada dynasty, which controlled vast territories in Arabia, took control of Egypt in 1380, ousting the Mamluks and becoming the Great Maliks of Egypt. Since the death of Nasir I in 1391, the Sahada dynasty has faced continuous rebellion and turmoil. Now, their complete collapse is only a matter of time, presenting us with a perfect opportunity to restore our northern borders. With our internal issues gradually being resolved, we can finally turn our attention to the Nubian region above us and begin the work of reclaiming Aksum's legacy!"
+EDG_ETH_mission_3_8.event.tt:0 "If @ALO§Y[ALO.GetName]§! and @MAK§Y[MAK.GetName]§! exist, have an §Yopinion§! of us of at least §G100§!, and are under our §Yguarantee of independence§!, event §T'Northern Tribes'§! will trigger.\n"
+
+EDG_ETH_mission_3_9_title:0 "A Shift in Fortunes"
+EDG_ETH_mission_3_9_desc:0 "With the collapse of the Sahada dynasty, we must not let this excellent opportunity slip away. We should immediately organize a holy war towards Cairo to liberate our holy sites and the Christians who have long suffered under infidel oppression!"
+EDG_ETH_mission_3_9.condition.tt:0 "The fate of @FYM§Y[FYM.GetName]§! is §Tsealed§!."
+EDG_ETH_mission_3_9.effect.tt:0 "When @ALO§Y[ALO.GetName]§! and @MAK§Y[MAK.GetName]§! have an opinion of us above §G150§! and all their §Ycore provinces§! are under their own control, we will be able to §Tpeacefully vassalize§! @ALO§Y[ALO.GetName]§! and @MAK§Y[MAK.GetName]§!.\n"
+
+EDG_ETH_mission_3_11_title:0 "Buried by the Torrent"
+EDG_ETH_mission_3_11_desc:0 "Ever since the accession of Safar I, the Sahada Empire has been mired in chaos from which it cannot extricate itself: Bedouin sheikhs enjoy near-autonomy under loose control; the vast majority of Egypt's lands remain in the hands of Sunni imams and Mamluks, who hold many key offices; the Abbasid Caliph, heavily guarded by Sunni believers, has become a banner for Sunnis everywhere to oppose the Shiite Sahada dynasty; the Yemeni emirs who entered Egypt with Nasir I each have their own agendas, firmly grasping military and political power. Now, all this has been ignited by the grand Malik Wars, and the once-mighty Fayoum system has crumbled. Today, neither the Sahada dynasty nor the Mamluk warlords can stand as enemies of the [Root.GovernmentName]. The armies of the King of Kings shall bury Muslim rule in the torrents of the Nile, and the Copts shall restore the order of Aegyptus."
+
+EDG_ETH_mission_3_12_title:0 "Heir of Solomon"
+EDG_ETH_mission_3_12_desc:0 "The wise King Solomon, son of David, was perhaps the greatest ruler ever. Blessed by the Lord, granted incredible wisdom, he was also one of the noblest men to have ever lived. Our ancestor, the Queen of Sheba, visited the holy city of Jerusalem, forging from that union the rulers of [Root.GetName]—the Solomonic dynasty. Today, we have restored Coptic rule over Aegyptus, achieving feats that would make our ancestors proud. But we must go further, following in our ancestor's footsteps back to the lands of King Solomon to reclaim his heritage."
+
+EDG_ETH_mission_3_14_title:0 "King of Kings"
+EDG_ETH_mission_3_14_desc:0 "In ancient, powerful, and glorious times, Christianity was the cornerstone of the faith and culture of the Egyptian people, and the rulers of Aksum were the most renowned monarchs in Africa. Now, with the support of faithful clergy, a righteous army, and a devout people, we have miraculously recovered from the decay of once-great states, brushed off the dust, and become greater than ever before. The glory of the Copts has descended upon the Dark Continent, and the descendants of Solomon are undoubtedly the rightful Kings of Kings. God is with us! Long live the Golden Century of [Root.GetName]!"
+
+EDG_ETH_mission_3_15_title:0 "Beyond This World"
+EDG_ETH_mission_3_15_desc:0 "In the time of King of Kings Dawit I, our [Root.GovernmentName] had contact with Europeans. However, due to the vast distance and interference by Egyptian Muslims, we were often unable to establish lasting connections with Europe. Yet this situation changed with the accession of the ambitious Zara Yaqob. Through our northern Coptic brethren, we learned news of distant Christian compatriots. Our nation, long isolated amidst a sea of infidels, must promptly establish alliances with fellow believers who share our interests and learn from their science and technology."
+
+EDG_ETH_mission_3_16_title:0 "Centralize the State"
+EDG_ETH_mission_3_16_desc:0 "The political and feudal system established by Amda Seyon I has endured to this day, but has proven to be rigid. While the Mobile Capital system has demonstrated its effectiveness in controlling a region, it also highlights how dispersed—and therefore, weak—the state truly is. If we wish for our empire to endure, we must reform the government, centralize power, and establish a permanent capital."
+
+EDG_ETH_mission_3_17_title:0 "Industrial Upgrade"
+EDG_ETH_mission_3_17_desc:0 "At the height of Aksum's power, our merchants were spread along the coasts of the Red Sea and the Gulf of Aden, and trade with the East brought us continuous profit. With the resurgence of [Root.GetName], authorizing the citizen class to participate in national reconstruction, we should learn from past experience. We must undertake a production revolution, transforming the treasures of the East into exquisite goods, making the empire's economic system healthier and more regulated."
+EDG_ETH_mission_3_17.effect.tt:0 "The progress of §YEthiopian Modernization§! will now provide a §Gbonus§! to §TProduction Efficiency§!\n"
+
+EDG_ETH_mission_3_18_title:0 "The Lion of Judah"
+EDG_ETH_mission_3_18_desc:0 "Our nation has faced many challenges and overcome them. It has restored contact with European Catholics and achieved modernization in technology and society! It has not only reclaimed the borders of the ancient empire but even expanded them further! It basks in the holy light of the Lord Himself! We are truly the most blessed of all empires!"
+
+EDG_ETH_mission_3_19_title:0 "The Ancestral Capital"
+EDG_ETH_mission_3_19_desc:0 "Although the greatest legends of our nation speak of the great King Menelik and the Queen of Sheba, our history stretches back far beyond these tales. Our great state was once part of our ancestors' empire—the Aksumite Empire. The glory days of Aksum are long gone, lost to Muslim invasions and the warrior queen Gudit, yet the empire's ancient capital, Aksum, still stands. Today, it is the coronation site of our rulers. However, the relentless passage of time has left countless scars upon the old city. We should refurbish it to preserve our history."
+
+EDG_ETH_mission_3_21_title:0 "The Gondar Edict"
+EDG_ETH_mission_3_21_desc:0 "As the centralization of our state grows ever stronger, the administrative apparatus of our old Mobile Capital system can finally be put to effective use by us, and this progress is sure to lead us into the distant future!"
+EDG_ETH_mission_3_21.effect.tt:0 "The §YImperial Capital§! modifier in all provinces §Gno longer requires§! being the §Tcapital§! to take effect.\n\n"
+
+EDG_ETH_mission_4_2_title:0 "The Southern Kingdoms"
+EDG_ETH_mission_4_2_desc:0 "Potential adversaries lie along the southern border of our great [Root.GovernmentName]. The Kingdom of Kaffa, while perhaps also adhering to the Coptic faith, shows no interest in sharing its gold with our legitimate [Root.Monarch.GetTitle]. The Kingdom of Ennaria is a pitiful and inept minor state, likely only to be used by the fetishist savages of the east to bolster their own strength.\nWe should conquer the southern kingdoms and consolidate the entire Ethiopian region."
+
+EDG_ETH_mission_4_4_title:0 "Restore the Fleet"
+EDG_ETH_mission_4_4_desc:0 "Now that our nation possesses the technology to construct ships, it follows naturally that to ensure a permanent link with our other Christian brethren, a capable fighting fleet is of paramount importance."
+EDG_ETH_mission_4_4.effect.tt:0 "We will dispatch a fleet down the Nile to reach the Mediterranean Sea.\n"
+
+EDG_ETH_mission_4_5_title:0 "End the Feuds"
+EDG_ETH_mission_4_5_desc:0 "Since the fall of ancient Aksum, the peoples of the Horn of Africa have endured a millennium of war and turmoil. The Coptic faith has stood like a solitary lamp, alone on the African continent. By the grace of God and our Emperor [Root.Monarch.GetName], under [Root.Monarch.GetHerHis] rule, tribe after tribe, nation after nation, has been brought under the governance of [Root.GetName]. These former infidels have now been integrated into our nation, becoming its most faithful adherents. All feuds have been extinguished; we shall share a glorious destiny."
+
+EDG_ETH_mission_4_6_title:0 "Gateway to the East"
+EDG_ETH_mission_4_6_desc:0 "During the zenith of the Eastern dynasties and our ancestor's Aksumite Empire, we once had a robust trade history with these mysterious Asians, but it is unlikely we can directly restore such ancient trade relations now. However, we need not lament this—the wealth of East Asia flows through India, eventually reaching the Persian Gulf and the Gulf of Aden. Perhaps the Persian Gulf is still too distant for us, but the Gulf of Aden lies close at hand. All we need to do is repair the [1215.GetName] base seized from Adal, organize a powerful fleet, and launch an offensive against the feeble petty states of South Arabia."
+
+EDG_ETH_mission_4_8_title:0 "Pacify Arabia"
+EDG_ETH_mission_4_8_desc:0 "The Aksumite Empire once ruled the Yemeni coast in the 3rd century, establishing prosperous commercial cities, but later lost its Arabian territories in conflicts with Persia. Today, our achievements have far surpassed those of past kings. The descendants of Ishmael now bow respectfully before the descendants of Isaac, the heirs of Solomon. The so-called holy cities of the Muslim world are within our grasp. The spiritual heartlands of our enemies are now covered by churches of the true Coptic faith. These followers of false gods are demoralized and can no longer threaten the King of Kings. Now, we must turn our gaze to the land where our ancestors faltered—Eranshahr."
+EDG_ETH_mission_4_8.effect.tt:0 "All our provinces in the §YArabia§! region that have a §YChurch§! will §Tconvert§! to our §Ystate religion§!.\n"
+EDG_ETH_mission_4_8.cb.tt:0 "If @PER§Y[PER.GetName]§! exists, we will gain a §TConquest§! casus belli against @PER§Y[PER.GetName]§!.\n"
+
+EDG_ETH_mission_4_10_title:0 "Baptize the Red Sea"
+EDG_ETH_mission_4_10_desc:0 "For the ancient Aksumite Empire, no port was more important than the city of Adulis. It was a key point in Red Sea trade and close to both the Ancient Greek and Byzantine empires. Its advantageous location made Aksum a Red Sea power. Sadly, around 702, Muslims captured the city, isolating it and ultimately contributing to the inevitable decline of the Aksumite Empire. But there is hope! The city's infrastructure remains remarkably sound. If we can recapture this port, we can rebuild Adulis into a city greater than ever before."
+EDG_ETH_mission_4_10.event.tt:0 "If all provinces on the §YRed Sea Coast§! are §Yowned§! by us, event §T'The Heart of Aksum'§! will trigger.\n"
+
+EDG_ETH_mission_4_13_title:0 "Rebuild Antioch"
+EDG_ETH_mission_4_13_desc:0 "The ancient city of Antioch was once a cradle and major center of Christianity. Due to the Crusades and the spread of Islam, it is now but a shadow of its former self. Although Christian clergy in Antioch have all but vanished, it remains an important holy site for our faith. We must reclaim this ancient see and restore Christian authority in the Middle East."
+
+EDG_ETH_mission_4_15_title:0 "Western Markets"
+EDG_ETH_mission_4_15_desc:0 "Red Sea trade was once among the most important trade nodes in the world, connecting the wealth of the Roman Empire and India, allowing Romans to enjoy Indian goods without conflict with the Persians. However, circumstances changed when Rome's successor, the Byzantine Empire, fell to foreign hands. Since then, the Red Sea has not been as profitable as before, and with European colonial activities, that golden age seems difficult to revive. Yet we still have options. Thanks to our recent contact with Europeans, we can now access their more active trade nodes. What we must do is reach their prosperous markets by one route or another."
+
+EDG_ETH_mission_4_17_title:0 "Military Innovation"
+EDG_ETH_mission_4_17_desc:0 "Our nation has witnessed the efficiency and ferocity of European armies in the past, especially during conflicts with Mediterranean states. Thanks to our European Christian brethren, [Root.GetName] has glimpsed Western military technology. We must modernize our army, adopting Western technology; otherwise, the cause of the Solomonic Empire's revival may face ruin under the assault of formidable neighbors."
+EDG_ETH_mission_4_17.effect.tt:0 "The progress of §YEthiopian Modernization§! will now provide a §Gbonus§! to §TArmy Morale§!.\n"
+
+EDG_ETH_mission_4_19_title:0 "Local Militias"
+EDG_ETH_mission_4_19_desc:0 "Centuries of decline and warfare have left our nation surrounded by numerous enemies, yet our resolve remains unshaken. To restore our great state, we must establish a recruitment system that ensures local compliance."
+EDG_ETH_mission_4_19.condition.tt:0 "§YManpower§! building has been constructed for the §TMobile Capital§!"
+EDG_ETH_mission_4_19.modifier.tt:0 "The following §Ymodifier§! will follow the §TMobile Capital§!\n"
+
+EDG_ETH_mission_4_20_title:0 "Mighty Hosts"
+EDG_ETH_mission_4_20_desc:0 "Discipline, inspiration, loyalty, and duty are the cornerstones of the glorious army of [Root.GetName]. If we wish to overcome our many old foes, conquer them utterly, and expand the Lion of Solomon to every continent, we must ensure our army is entirely obedient to the majesty of the King of Kings. Let every lord offer their heart to the mighty hosts of the King of Kings!"
+EDG_ETH_mission_4_20.condition.tt:0 "§YBarracks§! building has been constructed for the §TMobile Capital§!"
+EDG_ETH_mission_4_20.effect.tt:0 "The following §Ymodifier§! will follow the §TMobile Capital§!\n"
+
+EDG_ETH_mission_5_1_title:0 "End the Rebellion"
+EDG_ETH_mission_5_1_desc:0 "The treacherous King Gideon V of Semien has incited a rebellion against [Root.Monarch.GetName] in an attempt to secede his realm from the empire. We should teach this traitor a proper lesson and send his followers along with him."
+
+EDG_ETH_mission_5_3_title:0 "Enter the Red Sea"
+EDG_ETH_mission_5_3_desc:0 "Since the fall of the Aksumite Empire, our nation has had no seaport to contact other Christian countries in the world. To change this, we must capture a port and expand it into a true shipyard! After all, our troops and diplomats cannot turn into ships once they get wet."
+EDG_ETH_mission_5_3.effect.tt:0 "A §YShipyard§! will be immediately constructed in a §Yrandom port§! we own.\n\nThe above province also instantly gains §G3§! §Ymerchant ships§!.\n"
+
+EDG_ETH_mission_5_7_title:0 "Cross the Gulf of Aden"
+EDG_ETH_mission_5_7_desc:0 "As long as the Gulf of Aden remains in the hands of enemies of our great empire, they will deprive us of profits from Indian trade and could attack our heartlands at any time. We must cross the gulf and establish a frontier at Mocha, not only as a buffer to organize against attacks on our insufficiently defended lands but also as a bridgehead for preaching the true faith to the Arabs."
+EDG_ETH_mission_5_7.effect.tt:0 "Gain a §THoly War§! §Ycasus belli§! against all §YMuslim§! nations whose §Ycapital§! is in §YArabia§!.\n"
+
+EDG_ETH_mission_5_9_title:0 "Long-Awaited Vengeance"
+EDG_ETH_mission_5_9_desc:0 "The ancient holy fire has been extinguished. The newborn Imam has adorned the turquoise throne with lion and sun, but the ancient foe of the empire is no longer what it was. Yet the heirs of Aksum will never forget the banners and drums of the Sasanians. Now, the false King of Kings has finally bowed before the glory of Solomon. Dawn comes again; there is no more revenge or darkness to heal. All orchards will bloom, the specter of war has vanished, and the tragedy of Aksum shall not repeat."
+
+EDG_ETH_mission_5_11_title:0 "Following Saint Anthony"
+EDG_ETH_mission_5_11_desc:0 "Saint Anthony was a pioneer of Christian monasticism, revered as a Desert Father. Quiet and of excellent character, he prayed and lived as a hermit in a deserted fortress in the Egyptian desert, seen as a model by the world. He withdrew from the world but did not abandon it; during Roman persecutions, he twice went to Alexandria willing to share martyrdom with his brethren, fearlessly proclaiming the true faith, so much so that even his enemies were moved by his virtue and spirit. Reflecting on Saint Anthony's life, Saint Augustine exclaimed, 'We were amazed to hear that, in such a recent age, in our own time, your miraculous signs displayed irrefutable proof within the pure faith of the Catholic Church.' Now that we have restored Coptic rule over Egypt, we should repair the remnants of the Monastery of Saint Anthony and continue his spirit of piety."
+
+EDG_ETH_mission_5_14_title:0 "Restart Trade"
+EDG_ETH_mission_5_14_desc:0 "The port city of Suakin is clearly an important harbor in Red Sea trade. Although no records mention it as part of the Aksumite Empire, until it fell into Muslim hands, many [Root.GetAdjective] Christians still lived there. Therefore, we have ample reason to seize this port city, liberate the few Christians who may still remain hidden there, and restart our once-flourishing trade port."
+
+EDG_ETH_mission_5_15_title:0 "Mint Currency"
+EDG_ETH_mission_5_15_desc:0 "An empire of our immense prestige and scale often faces multiple problems, such as mismanagement and rampant corruption. By imposing our trade practices on key foreign trade ports and formalizing our own economic system, we can introduce a new currency that will undoubtedly reshape the world, its influence and power extending far beyond our borders."
+
+EDG_ETH_mission_5_18_title:0 "Border Guard Act"
+EDG_ETH_mission_5_18_desc:0 "The defense of our mobile capital has always been problematic. Perhaps establishing a specialized institution to provide defense plans for our mobile capital is a good option."
+EDG_ETH_mission_5_18.condition.tt:0 "§YFort§! building has been constructed for the §TMobile Capital§!"
+
+
+EDG_AKS_mission_1_20_title:0 "The Western Frontier"
+EDG_AKS_mission_1_20_desc:0 "To the west of the Horn of Africa lies the Sahel region, a passable strip between the desolate Sahara Desert and the dense jungles of the Congo Basin. It would be best for us to control this corridor, establishing a bridge between West Africa and the Horn of Africa."
+EDG_AKS_mission_1_20.effect.tt:0 "Gain a §THoly War§! §Ycasus belli§! against all §YMuslim§! nations whose §Ycapital§! is in §YWest Africa§!.\n"
+
+EDG_AKS_mission_1_21_title:0 "New Opportunities"
+EDG_AKS_mission_1_21_desc:0 "A powerful trading nation requires two things to enforce its will: ports and land. Whether on land or sea, new opportunities for Aksum may lie hidden, and we must grasp them all."
+EDG_AKS_mission_1_21.effect.tt:0 "§GUpgrade§! all our §TTrade Centers§! in the §YWest Africa§! region.\n"
+
+EDG_AKS_mission_5_20_title:0 "The Central Heartland"
+EDG_AKS_mission_5_20_desc:0 "Our pioneers have traversed dense rainforests to reach the heartland of Central Africa. The people here are almost completely foreign to us, and their current systems remain vastly underdeveloped compared to Aksum. Without a doubt, we must kindly preach the Coptic faith to them and assist them in modernization."
+EDG_AKS_mission_5_20.event.tt:0 "We will dispatch several §Tmissionary teams§! to the §YCongo§! and §YCentral Africa§! regions.\n"
+
+EDG_AKS_mission_5_21_title:0 "Connect East and West"
+EDG_AKS_mission_5_21_desc:0 "Now, Central Africa is no longer a chaotic collection of small tribes but part of a globalized, modern empire. Modernized armies, capable cabinets, and numerous cultural innovations mean no one can mock the people here anymore. The seeds sown by the King of Kings years ago have grown into towering trees, and we shall gladly enjoy their abundant rewards."
+EDG_AKS_mission_5_21.effect.tt:0 "If @KON§Y[KON.GetName]§! exists and meets the §Ymission conditions§!, we will establish a §TPersonal Union§! with @KON§Y[KON.GetName]§!.\n"

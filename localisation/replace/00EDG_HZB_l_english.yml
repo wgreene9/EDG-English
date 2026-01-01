@@ -1,0 +1,169 @@
+﻿l_english:
+
+#Modifiers
+EDG_HZB_succession_critic_2_A_modifier:0 "Legitimate Khanate Court"
+EDG_HZB_succession_critic_3_a_modifier:0 "Submissive Puppet Ilkhan"
+EDG_MISSION_HZB_1_1_modifier:0 "Reorganized Government"
+EDG_MISSION_HZB_3_1_modifier:0 "Khanate Diplomacy"
+EDG_MISSION_HZB_5_1_modifier:0 "Support of the Mongol Nobility"
+EDG_flavor_HZB_mission_0_a_modifier:0 "Regent of the Ilkhanate"
+EDG_MISSION_HZB_3_2_ruler_modifier:0 "Ilkhanate Reconquest"
+EDG_MISSION_HZB_1_3_modifier:0 "Reign Over Baghdad"
+EDG_MISSION_HZB_1_4_province_modifier:0 "Integration of the Nestorians"
+EDG_MISSION_HZB_2_3_modifier:0 "Execution of the Sons of Sassan"
+EDG_MISSION_HZB_1_6_modifier:0 "Bey of Syria"
+EDG_MISSION_HZB_1_7_modifier:0 "Integration of Mamluk Forces"
+EDG_MISSION_HZB_1_8_modifier_a:0 "Integration of the Iqta'"
+EDG_MISSION_HZB_1_8_modifier_b:0 "Preservation of Nomadic Tribal Privileges"
+EDG_MISSION_HZB_1_10_modifier:0 "Tolerance of the Sons of the Steppe"
+EDG_MISSION_HZB_1_21_province_modifier:0 "Imperial Capital Tabriz"
+EDG_MISSION_HZB_1_11_ruler_modifier:0 "Protector of the Caliph"
+EDG_MISSION_HZB_1_14_province_modifier:0 "Reimposition of the Tatar Yoke"
+EDG_MISSION_HZB_4_3_modifier:0 "Submission of the Khorasani Tribes"
+EDG_MISSION_HZB_5_4_modifier:0 "Subjugation of the Pashtuns"
+EDG_MISSION_HZB_2_4_modifier:0 "Extinguishing the Sacred Fire"
+EDG_MISSION_HZB_4_7_modifier:0 "Opening the Gates to Europe"
+EDG_MISSION_HZB_4_8_modifier:0 "Fatih (The Conqueror)"
+EDG_MISSION_HZB_5_7_modifier:0 "Diwan of India"
+EDG_MISSION_HZB_2_10_modifier:0 "Caliph of the Iranian Land"
+EDG_MISSION_HZB_2_9_modifier:0 "Support of the Sufis"
+EDG_MISSION_HZB_3_9_modifier:0 "Continuation of the Endless Conquests"
+EDG_MISSION_HZB_1_17_modifier:0 "Slaying the Lion of the North"
+EDG_MISSION_HZB_4_22_modifier:0 "Reconstruction of the Immortals"
+EDG_MISSION_HZB_5_22_modifier:0 "Reconstruction of the Kheshig"
+EDG_MISSION_HZB_5_21_modifier:0 "Formation of a New Army"
+EDG_MISSION_HZB_5_23_modifier:0 "A Lifetime of Campaigns"
+EDG_MISSION_HZB_2_22_province_modifier:0 "Development of Iranian Handicrafts"
+EDG_MISSION_HZB_1_23_modifier:0 "Golden Age of the Iranian Land"
+EDG_MISSION_HZB_4_24_modifier:0 "Invincible in Battle"
+EDG_MISSION_HZB_3_23_modifier:0 "Administrative Persianization"
+EDG_MISSION_HZB_3_17_modifier:0 "Destruction of Rome"
+EDG_MISSION_HZB_2_19_modifier:0 "Ambition for the World"
+EDG_MISSION_HZB_1_19_province_modifier:0 "Farangistan (Land of the Franks)"
+EDG_MISSION_HZB_3_18_modifier:0 "Scourge of God"
+EDG_MISSION_HZB_4_17_modifier:0 "Diwan of Hindustan"
+EDG_MISSION_HZB_5_17_modifier:0 "Integration of the Mandala System"
+EDG_MISSION_HZB_5_18_modifier:0 "Master of the Archipelago"
+EDG_MISSION_HZB_5_19_modifier:0 "Master of the New World"
+EDG_MISSION_HZB_5_13_modifier:0 "Southern Korean Slave Labor"
+EDG_MISSION_HZB_5_12_modifier:0 "Integration of the Eight Banners"
+
+
+
+
+#Missions
+EDG_MISSION_HZB_3_1_tt:0 "All our §Ysubject states§! will provide us with §M5§! §Yprestige§! and will be affected as follows:"
+
+EDG_MISSION_HZB_1_4_tt:0 "All our provinces following the §YNestorian§! faith will provide us with §M10§! £adm£ Administrative power, and these provinces will gain the following effects:"
+
+edg_all_caliph_died_trigger_tt:0 "Controls the §YSunni Caliph§! or the §YShia Caliph§!, or both the §YSunni Caliph§! and §YShia Caliph§! have perished."
+
+EDG_MISSION_HZB_3_8_flag_tt_yes:0 "We will unlock the decision §Y'Implement Imperial Reforms'§!, which will allow us to trigger the disaster §R'The Elamite Revolution'§!.\n£yes£ If we have chosen the §YIlkhanate Path§!, we will be able to gain a subsequent mission tree after the disaster ends."
+EDG_MISSION_HZB_3_8_flag_tt_no:0 "We will unlock the decision §Y'Implement Imperial Reforms'§!, which will allow us to trigger the disaster §R'The Elamite Revolution'§!.\n£no£ If we have chosen the §YIlkhanate Path§!, we will be able to gain a subsequent mission tree after the disaster ends."
+
+EDG_HZB_ILK_future_flag_tt:0 "This will set us on the §YIlkhanate Path§!, allowing us to unlock the exclusive subsequent missions for @HZB§YHazaraspid§! and @ILK§YIlkhanate§! after the §R'Elamite Revolution'§! disaster."
+EDG_HZB_enable_forem_Persian_flag_tt:0 "We will form @PER§YPersia§!.\nForming @PER§YPersia§! will enable Persia's subsequent missions for us, instead of the exclusive subsequent missions for @HZB§YHazaraspid§! and @ILK§YIlkhanate§!."
+
+EDG_MISSION_HZB_3_9_trigger_tt:0 "The disaster §R'The Elamite Revolution'§! or §R'Qizilbash Ascendancy'§! or §R'Age of the Blood Lion'§! has ended"
+EDG_MISSION_HZB_3_9_trigger_tt_ab:0 "The disaster §R'The Elamite Revolution'§! has ended"
+
+EDG_MISSION_HZB_2_3_tt:0 "All our provinces following the §YZoroastrian§! faith will grant us §M500§! §Ymanpower§!."
+EDG_MISSION_HZB_1_6_tt:0 "Each of our subject states whose primary culture is §YSyrian§! or whose capital is located in §GAleppo§!, §GSyria§!, §GSyrian Desert§!, §GPalestine§!, or §GTransjordan§! will provide us with §M10§! prestige, and they gain the following modifier:"
+
+EDG_MISSION_HZB_1_7_STRONG_MERCHANTS:0 "Monopoly on Eastern Trade"
+
+edg_we_have_200_army_trigger_tt:0 "If our §Yarmy size§! reaches §M200§!"
+
+EDG_MISSION_HZB_1_8_a_trigger_tt:0 "If our §YCrown Land§! reaches §M50%§!"
+EDG_MISSION_HZB_1_8_b_trigger_tt:0 "If we have enacted the §Y'Great Yassa' Privilege§! reform"
+
+EDG_MISSION_HZB_1_10_tt:0 "This mission is mutually exclusive with the right-side mission §Y'Caliph of the Iranian Land'§!; completing this mission will automatically complete the mission on the right."
+EDG_MISSION_HZB_2_10_tt:0 "This mission is mutually exclusive with the left-side mission §Y'Legacy of the Eternal Sky'§!; completing this mission will automatically complete the mission on the left."
+
+EDG_MISSION_HZB_1_10_tt_2:0 "Each §Yheathen§! province belonging to us and our subjects will grant us §M5§! Administrative power, and [Root.GetName] will gain the following modifier:"
+
+EDG_MISSION_HZB_1_14_a_trigger_tt:0 "If province §YKiev§! has been looted in the past 20 years"
+EDG_MISSION_HZB_2_14_a_trigger_tt:0 "If province §YTver§! has been looted in the past 20 years"
+EDG_MISSION_HZB_4_13_a_trigger_tt:0 "If provinces §YBeijing§! and §YKaifeng§! have been looted in the past 20 years"
+
+EDG_MISSION_HZB_5_3_tt:0 "Each of our provinces producing §YLivestock§! will grant us §M1000§! manpower."
+EDG_MISSION_HZB_5_4_tt:0 "Each of our provinces with §YAfghan§! culture will grant us §M1§! point of §YKavian Glory§!, and gain the following modifier:"
+
+EDG_MISSION_HZB_4_6_tt:0 "Each of our provinces with §YTurkish§! culture will grant us §M250§! §Ymanpower§!, and lose §M10§! §Yseparatism§!"
+EDG_MISSION_HZB_4_7_tt:0 "Each of our subject states whose capital is located in the §YEastern Europe§! subcontinent will provide us with §M50§! £mil£ Military power, and lose §M25§! §Yliberty desire§!"
+
+EDG_MISSION_HZB_5_7_tt:0 "Each of our subject states whose capital is located in the §YIndia§! subcontinent will provide us with §M50§! £adm£ Administrative power, and lose §M25§! §Yliberty desire§!"
+
+EDG_MISSION_HZB_3_9_modifier_effect_tt_yes:0 "£yes£ If the national modifier §Y'Continuation of the Endless Conquests'§! is still active, we will reset its duration to §M20 years§!"
+EDG_MISSION_HZB_3_9_modifier_effect_tt_no:0 "£no£ If the national modifier §Y'Continuation of the Endless Conquests'§! is still active, we will reset its duration to §M20 years§!"
+
+EDG_MISSION_HZB_1_17_tt:0 "Each province owned by us or our subjects located in §YScandinavia§! will provide us with §M3§! £mil£ Military power."
+
+EDG_MISSION_HZB_3_15_tt:0 "Gain §Yclaims§! on §Yall provinces§! in the world."
+EDG_HZB_great_conquer_enable_flag_tt:0 "Unlocks the §Y'Plan Great Invasion'§! diplomatic action. This action will cost us §M35§! §YPersian Influence§! and, after §Mtwo months§!, allow us to declare war on the target using the §Y'Great Invasion'§! casus belli, ignoring truces without incurring stability loss for breaking them.\nThis casus belli allows for the complete conquest of all neighboring countries. Its effects are as follows:\n-§YAggressive Expansion Impact§!: §M90%§!\n-§YPrestige from Battles§!: §M125%§!\n-§YProvince War Score Cost§!: §M75%§!"
+
+EDG_Transforming_tributary_state_into_cultural_sphere_of_influence_subject_state_action_enable_flag_tt:0 "Unlocks the diplomatic action §Y'Transform Tributary State into Cultural Sphere of Influence Subject'§!"
+EDG_Transforming_cultural_sphere_of_influence_subject_state_into_tributary_state_action_enable_flag_tt:0 "Unlocks the diplomatic action §Y'Transform Cultural Sphere of Influence Subject into Tributary State'§!"
+
+EDG_MISSION_HZB_2_22_tt:0 "All provinces belonging to the §YIranian§! culture group that have a §YWorkshop§! will gain the following effect:"
+
+EDG_HZB_set_mongol_brother_realm_enable_flag_tt:0 "Unlocks the diplomatic action §Y'Enfeoff a Princely Domain'§!, which allows us to transform a non-colonial subject into a §YMongol Brother Realm§! at the cost of §M100§! §YPersian Influence§!."
+
+EDG_MISSION_HZB_2_16_tt:0 "Provinces in §YWestern Europe§! owned by us or our non-tributary subjects will grant us §M1§! point of §YPersian Influence§!"
+EDG_MISSION_HZB_4_16_tt:0 "Each independent country with which we have a truce will grant us §M5§! points of §YPersian Influence§!"
+EDG_MISSION_HZB_2_17_tt:0 "Provinces in the §YHoly Roman Empire§! owned by us or our non-tributary subjects will grant us §M1§! point of §YPersian Influence§!"
+EDG_MISSION_HZB_1_19_tt:0 "Provinces located in §YFrance§! that follow our state religion and are owned by us or our non-tributary subjects will grant us §M2§! points of §YPersian Influence§!"
+
+EDG_MISSION_HZB_3_18_flag_tt:0 "When declaring war on a country whose capital is in §YWestern Europe§!, we will gain an additional §M10§! points of §YPersian Influence§!."
+EDG_MISSION_HZB_3_20_modifier_effect_tt:0 "Regardless of whether we still possess the national modifier §Y'Continuation of the Endless Conquests'§!, we will §Ypermanently§! maintain it."
+
+EDG_MISSION_HZB_4_17_tt:0 "Provinces in the §YIndia§! subcontinent that follow our state religion and are owned by us or our non-tributary subjects will grant us §M1§! point of §YPersian Influence§!"
+EDG_MISSION_HZB_4_19_tt:0 "Provinces in the §YItaly§! region that follow our state religion and are owned by us or our non-tributary subjects will grant us §M2§! points of §YPersian Influence§!"
+EDG_MISSION_HZB_4_22_tt:0 "All eligible provinces under our rule will gain §M1§! point of §Ybase manpower§!"
+EDG_MISSION_HZB_5_22_tt:0 "All eligible provinces under our rule will provide us with §M1000§! points of §Ymanpower§!"
+
+
+#Decisions
+EDG_HZB_Persian_critic_enable_decision_title:0 "@HZBRevoke Persian Bureaucratic Privileges"
+EDG_HZB_Persian_critic_enable_decision_desc:0 "The Persian landlords hold too many state resources. If we do not address them, the empire will struggle to sustain itself."
+EDG_HZB_Persian_critic_enable_flag_tt:0 "The disaster §R'The Elamite Revolution'§! will §Ybegin its progress§!."
+
+EDG_HZB_make_416_captial_decision_enable_flag_tt:0 "Unlocks the decision §Y'Relocate the Capital to Tabriz'§!"
+EDG_HZB_make_416_captial_decision_title:0 "Relocate the Capital to Tabriz"
+EDG_HZB_make_416_captial_decision_desc:0 "The great Ilkhanate once used Tabriz as its capital. We should return to the old capital to consolidate our rule."
+
+
+#Events
+
+EDG_flavor_HZB_mission.0.title:0 "The Hazaraspid Clan"
+EDG_flavor_HZB_mission.0.desc:0 "The Hazaraspid dynasty was established by Kurds and once ruled the Lorestan region as the Ilkhanate's governor of Lorestan. The Hazaraspid rulers adopted the title 'Thousand Horses' and gradually expanded their power during the Ilkhanate period. When the great khans forgot their tradition of galloping on horseback and became intoxicated with the comforts of Soltaniyeh, only those who held the reins could remain unscathed in the empire's total collapse of 1335. Several successors warmed the throne of the Ilkhanate's khan only briefly before passing it on. Of course, compared to the Chobanids of the Tayichi'ud tribe controlling the northwest and the Jalayirids holding the fertile lands, the Hazaraspids, nestled in the mountains, clearly had little power to contend with them.\n\nHowever, the Hazaraspids' keen sense of smell discovered a means to enhance their own legitimacy. After the Golden Horde's army breached the city of Tabriz, the so-called Ilkhanate monarch, the obscure Noshiwan, disappeared amidst the flames of war. The Hazaraspids secretly welcomed the deposed former great khan, Sati Beg Khanum, to ascend the throne once more. Regarding the necessity of installing a female monarch, these Kurds engaged in intense internal debate, but to boost legitimacy, a group of Kurds disguised as merchants ultimately chose to smuggle this daughter of Öljaitü out of the city hidden within a rolled Persian carpet. Sati Beg entered into her fourth matrimonial alliance following marriages to Amir Choban, Arpa Ke'un, and Sulayman Khan. As various claimants either met untimely deaths or succumbed to illness, by 1330, Khanum Sati Beg became the sole legitimate heir, and various factions reluctantly acknowledged the legitimacy of this puppet female khan. In 1345, Khan Sati Beg passed away, and her son Surgan and his descendants inherited the puppet khanate to this day. As for Lorestan, the cradle of the Hazaraspid clan's rise, after the Hazaraspid ruler was elevated to the rank of Pillar of State, it was bestowed upon their trusted confidants—a family utterly subservient to the Hazaraspid rulers—turning Lorestan into a highly autonomous yet loyally obedient fiefdom under central authority.\n\nAlthough the Hazaraspid rulers effectively control the highest power of the Ilkhanate under the title 'Pillar of State,' they are not the nominal legitimate rulers of the Ilkhanate. The legitimacy of successive 'Pillars of State' has been constantly questioned, and waves of opposition against the Hazaraspid clan leaders have never ceased. We must strive to consolidate our rule."
+EDG_flavor_HZB_mission.0.a:0 "Hail to the Pillar of State of the Ilkhanate!"
+EDG_flavor_HZB_mission.0.b:0 ""
+
+EDG_flavor_HZB_mission.1.title:0 "The Ruler's Identity"
+EDG_flavor_HZB_mission.1.desc:0 "For a long time, the Hazaraspid clan has controlled the Ilkhanate's Great Khan, ruling a vast empire in the name of the Ilkhan. As the Ilkhanate's extensive territories are gradually reclaimed, more and more tribes have grown dissatisfied with this status quo. They are weary of the Hazaraspid clan's illegitimate rule and wish for the Ilkhan himself to represent their interests."
+EDG_flavor_HZB_mission.1.a:0 "The Ilkhan must regain power!"
+EDG_flavor_HZB_mission.1.b:0 "The [Root.GetName] clan should continue to hold power."
+
+EDG_flavor_HZB_mission.2.title:0 "The Empire's Banner"
+EDG_flavor_HZB_mission.2.desc:0 "We have resolved the internal legitimacy dispute. Now, we should consider the future direction of the empire..."
+EDG_flavor_HZB_mission.2.a:0 "We must rebuild the Ilkhanate!"
+EDG_flavor_HZB_mission.2.b:0 "We do not need an Ilkhan; it is time to depose him."
+EDG_flavor_HZB_mission.2.c:0 "We could choose a path of Persianization..."
+
+EDG_flavor_HZB_mission.3.title:0 "Establishing the Capital at Constantinople"
+EDG_flavor_HZB_mission.3.desc:0 ""
+EDG_flavor_HZB_mission.3.a:0 ""
+EDG_flavor_HZB_mission.3.b:0 ""
+
+EDG_flavor_HZB_mission.4.title:0 "The Great Invasion of [From.GetName]"
+EDG_flavor_HZB_mission.4.desc:0 "Our iron hooves can wait no longer. Two months have passed, and the great expedition we launched against [From.GetName] has officially begun!"
+EDG_flavor_HZB_mission.4.a:0 "We shall crush them!"
+EDG_flavor_HZB_mission.4.b:0 ""
+
+EDG_flavor_HZB_mission.5.title:0 ""
+EDG_flavor_HZB_mission.5.desc:0 ""
+EDG_flavor_HZB_mission.5.a:0 ""
+EDG_flavor_HZB_mission.5.b:0 ""
+
+

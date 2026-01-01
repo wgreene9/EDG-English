@@ -353,8 +353,8 @@ mechanic_EDG_converte_provide_per_influence_ability_yes:0 "Converting a province
 mechanic_EDG_catharism_vassal_Clare_unable_ability:0 "§MCathar Alliance member states§! are prohibited from declaring war on each other."
 mechanic_EDG_catharism_vassal_Clare_unable_ability_yes:0 "§MCathar Alliance member states§! are prohibited from declaring war on each other."
 
-mechanic_EDG_HRE_Annexate_imperial_territories_ability:0 "Unlocks the decision §YAnnex Imperial Free Villages by Force§!"
-mechanic_EDG_HRE_Annexate_imperial_territories_ability_yes:0 "Unlocks the decision §YAnnex Imperial Free Villages by Force§!"
+mechanic_EDG_HRE_Annexate_imperial_territories_ability:0 "Unlocks the decision §YRevoke Imperial Free Villages by Force§!" # Annex
+mechanic_EDG_HRE_Annexate_imperial_territories_ability_yes:0 "Unlocks the decision §YRevoke Imperial Free Villages by Force§!" # Annex
 
 mechanic_EDG_Lithuanian_Cabinet_reform_ability:0 "Enables the §YPermanent Cabinet§!"
 mechanic_EDG_Lithuanian_Cabinet_reform_ability_yes:0 "Enables the §YPermanent Cabinet§!"

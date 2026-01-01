@@ -1,0 +1,111 @@
+﻿l_english:
+EDG_MEN_1_2_title:0 "Regroup and Rebuild"
+EDG_MEN_1_2_desc:0 "Before the Ottomans and Bulgarians attack, there is little time left to prepare. For that elusive dream of Rome, Ilyas III, after years of wasted time, is determined to regroup and rebuild."
+
+EDG_MEN_1_3_title:0 "Learn from Our Friends"
+EDG_MEN_1_3_desc:0 "Those willing to fight for the revival of Rome are our allies. Befriend them and jointly build a defensive line against Rome's enemies."
+EDG_MEN_1_3_tt:0 "Have at least §Y1§! country §Yallied§! with relations above §Y150§!"
+
+EDG_MEN_1_5_title:0 "Economic Development"
+EDG_MEN_1_5_desc:0 "After 1204, successive emperors turned our markets into prized assets for Latin merchants, granting them various privileges and even exempting them from the 'Kommerkion'—the 10% tariff on goods arriving in Constantinople. These measures have had lasting detrimental effects, destroying our merchants' trust and leaving them at a disadvantage in competition. We must reclaim those markets."
+
+EDG_MEN_1_7_title:0 "Commercial Relations"
+EDG_MEN_1_7_desc:0 "Rome has regained control of Eastern trade; thus, we must ensure the trade routes remain unobstructed. Greedy barbarians always covet these lands; we need new trade partners."
+EDG_MEN_1_7_tt:0 "Unlocks §TDecision: Request Funding§!"
+
+EDG_MEN_1_8_title:0 "Black Sea Trade Route"
+EDG_MEN_1_8_desc:0 "In previous interactions, the Gothic Grand Duke established good relations with us, and the rogue state of Azov also requires punishment. We have reached an agreement on dealing with the traitors."
+EDG_MEN_mission_1_8_tt:0 "§GEvent Preview:§!\nDeclare war on @AZO Azov with §G'Conquest'§! as the casus belli"
+EDG_MEN_mission_1_8_a_yes:0 "£yes£ Complete the mission through diplomacy"
+EDG_MEN_mission_1_8_a_no:0 "£no£ Complete the mission through diplomacy"
+EDG_MEN_mission_1_8_b_yes:0 "£yes£ Complete the mission through conquest"
+EDG_MEN_mission_1_8_b_no:0 "£no£ Complete the mission through conquest"
+
+EDG_MEN_2_2_title:0 "The Precarious Situation"
+EDG_MEN_2_2_desc:0 "On the same side of the Aegean, [318.GetName] is home to a group of Greeks who claim to have been abandoned. We share similar circumstances. They possess excellent maritime skills and ideals close to ours, but we must tell them—Rome is not dead!"
+EDG_MEN_mission_2_2_a_yes:0 "£yes£@SUG Smyrna is our ally"
+EDG_MEN_mission_2_2_a_no:0 "£no£@SUG Smyrna is our ally"
+EDG_MEN_mission_2_2_tt_1:0 "§GEvent Preview:§!\n§TAnnex§! Smyrna"
+EDG_MEN_mission_2_2_b_yes:0 "£yes£@SUG Smyrna does not exist"
+EDG_MEN_mission_2_2_b_no:0 "£no£@SUG Smyrna does not exist"
+EDG_MEN_mission_2_2_tt_2:0 "§GEvent Preview:§!\nDeclare war on Smyrna with §G'Conquest'§! as the casus belli"
+EDG_MEN_mission_2_2_c_yes:0 "£yes£@SUG Smyrna views us as an enemy"
+EDG_MEN_mission_2_2_c_no:0 "£no£@SUG Smyrna views us as an enemy"
+
+EDG_MEN_2_4_title:0 "Trade with a Sword"
+EDG_MEN_2_4_desc:0 "The Akhī Brotherhood does not shun trading with infidels. Exploited for their trade value by the Ottomans for years, their longstanding grievances make them a sharp blade we can wield against the Ottoman states."
+EDG_MEN_mission_2_4_tt:0 "§GEvent Preview:§!\nThe Akhī Brotherhood will betray Rumelia and §Tally§! with us."
+
+EDG_MEN_2_6_title:0 "Blinded by Mercy"
+EDG_MEN_2_6_desc:0 "The Bulgarians have no respect for Rome. They covet Konstantiniyye, audaciously seeking to usurp the Basileus's throne. We shall emulate Emperor Basil II, punishing these rebels and burying their ambitions."
+EDG_MEN_mission_2_6_tt:0 "§GEvent Preview:§!\n§TAnnex§! @BUL Bulgaria"
+EDG_MEN_mission_2_6_a_yes:0 "£yes£@ALB Albania is a belligerent"
+EDG_MEN_mission_2_6_a_no:0 "£no£@ALB Albania is a belligerent"
+
+EDG_MEN_2_8_title:0 "Rejoice with the People"
+EDG_MEN_2_8_desc:0 "Peace on both shores of the Aegean gives Greek merchants another chance. To strengthen control over the Aegean, we will support them and resist Muslim and Latin merchant influence here."
+
+EDG_MEN_3_1_title:0 "Awakening from a Dream"
+EDG_MEN_3_1_desc:0 "Ilyas III has ruled Mentese for over thirty years, yet Mentese has always remained confined to a corner of Anatolia. A visitor from Constantinople might bring about new changes."
+EDG_MEN_mission_3_1_tt:0 "§GEvent Preview:§!\nA @BYZ Roman imperial family member will come here to discuss certain matters with us."
+
+EDG_MEN_3_3_title:0 "Like Morning Dew"
+EDG_MEN_3_3_desc:0 "Time grows increasingly urgent, and the ambitions of Rome's enemies swell. Opportunities to break the stalemate are as fleeting as morning dew; the decisive moment is about to begin."
+
+EDG_MEN_3_5_title:0 "A Poor Steed's Perseverance"
+EDG_MEN_3_5_desc:0 "The ambitions of the ruler of Rumelia are known to all, and he indeed possesses strength matching those ambitions. Powerful like a steed, while we are but nags. Though not advantaged, we can still fight them with all our might. A fine steed cannot cover ten paces in one leap; a poor steed, persisting for ten stages, achieves success through perseverance!"
+EDG_MEN_mission_3_5_tt:0 "§GEvent Preview:§!\n@MHM Rumelia will be annexed by us. Both we and the Basileus will receive a certain amount of gold and monarch points."
+
+EDG_MEN_3_7_title:0 "Reborn from Despair"
+EDG_MEN_3_7_desc:0 "Rome's influence has been restored in the Balkans and Asia Minor. King of Kings, protect our ruler!"
+
+EDG_MEN_3_9_title:0 "Pillar of the Imperial Court"
+EDG_MEN_3_9_desc:0 "As the powerful Grand Duke who has recovered vast territories for Rome, we are now the Basileus's most trusted confidant. Our loyal service to Rome will endure forever."
+EDG_MEN_mission_3_9_tt:0 "§GEvent Preview:§!\nGain Cultural Union for the Byzantine culture group and a Tier 2 government reform."
+
+EDG_MEN_4_2_title:0 "An Old Steed in the Stable"
+EDG_MEN_4_2_desc:0 "Despite lofty ambitions, Ilyas III is already an old man in his sixties. In his limited time, this elder must strive even more for Rome's survival."
+
+EDG_MEN_4_4_title:0 "Negotiating with a Tiger"
+EDG_MEN_4_4_desc:0 "The return of Morea allows Roman influence to smoothly extend westward. However, expecting the Latins to willingly withdraw from the Aegean is wishful thinking. It's time to take action and drive them out."
+EDG_MEN_mission_4_4_1_tt:0 "§GEvent Preview:§!\nDeclare war on Arta with §G'Conquest'§! as the casus belli."
+EDG_MEN_mission_4_4_2_tt:0 "§GEvent Preview:§!\n@NAX Naxos will return to Greek hands and come under our sovereignty."
+EDG_MEN_mission_4_4_d_tt:0 "We can use decisions to have the Greeks of @KNI Rhodes and @CYP Cyprus join us."
+
+EDG_MEN_4_6_title:0 "Enfeoff the Territories"
+EDG_MEN_4_6_desc:0 "After dealing with the primary enemy, Rumelia, we must swiftly fill the power vacuum in Asia Minor to prevent the rise of the next great adversary of Rome."
+EDG_MEN_anatolia_tt:0 "Own at least 15 provinces in the Anatolia region."
+EDG_MEN_mission_4_6_yes_tt:0 "£yes£ If @KAR Karaman has been eliminated when this mission is completed."
+EDG_MEN_mission_4_6_no_tt:0 "£no£ If @KAR Karaman has been eliminated when this mission is completed."
+
+EDG_MEN_4_8_title:0 "Sea Fire"
+EDG_MEN_4_8_desc:0 "Greek fire is one of Rome's most significant innovations, known by various names among the Greeks. It refers to an incendiary substance that could be projected onto enemy ships and ignited, similar to an early flamethrower. Greek fire gave the Byzantine navy a distinct advantage in naval warfare until its formula was lost and its use ceased."
+
+EDG_MEN_5_2_title:0 "Even Thieves Have a Code" # Even Thieves Have Their Code
+EDG_MEN_5_2_desc:0 "From the Aegean to the Black Sea, numerous pirates are active. Some are recruited by hypocritical crusaders, others form their own factions. The seasoned Ilyas III knows how to deal with them."
+EDG_MEN_mission_5_2_tt:0 "§GEvent Preview:§!\n@CRT Crete will return to Greek hands and come under our sovereignty."
+
+EDG_MEN_5_3_title:0 "Eastward and Westward" # Eastward and Westward Expeditions
+EDG_MEN_5_3_desc:0 "Rome's traitors still hold Morea. Theodore, who betrayed the Basileus's trust, will face our brutal reprisal."
+EDG_MEN_mission_5_3_tt:0 "§GEvent Preview:§!\nDeclare war on @MOE Morea with §G'Conquest'§! as the casus belli."
+
+EDG_MEN_5_5_title:0 "Naval Endeavor"
+EDG_MEN_5_5_desc:0 "The decline of the Dromon, the dominance of the Latin Galea, and Rome's reliance on naval support from various Latin republics have all combined to render Rome's maritime power barely existent. Now that we have shaken off the shackles of the past, it is time to re-arm our naval forces. Greek shipwrights and Turkish resolve will make our navy invincible."
+
+EDG_MEN_5_7_title:0 "Brave the Winds & Waves" # Brave the Winds and Waves
+EDG_MEN_5_7_desc:0 "Rome's traitors fled long ago to distant Sicily, using their strategic position to interfere with Roman rule. Once, we were powerless, but now Rome's retribution will strip the betrayers of everything."
+EDG_MEN_mission_5_7_tt:0 "§GEvent Preview:§!\nDeclare war on @SIC Sicily with §G'Conquest'§! as the casus belli."
+
+EDG_MEN_5_8_title:0 "Tomorrow Still Exists"
+EDG_MEN_5_8_desc:0 "The revived navy provides security for Rome's rise. We must protect this hard-won maritime authority."
+EDG_MEN_mission_5_8_tt:0 "No nation in the Eastern Mediterranean has a larger navy than ours."
+
+EDG_Pamukkale:0 "Pamukkale"
+EDG_Safranbolu:0 "Safranbolu"
+EDG_Ephesus:0 "Ephesus"
+EDG_Pamukkale_title:0 "Pamukkale"
+EDG_Safranbolu_title:0 "Safranbolu"
+EDG_Ephesus_title:0 "Ephesus"
+great_project_EDG_Pamukkale:0 "Pamukkale"
+great_project_EDG_Safranbolu:0 "Safranbolu"
+great_project_EDG_Ephesus:0 "Ephesus"

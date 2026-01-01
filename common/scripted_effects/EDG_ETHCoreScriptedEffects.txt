@@ -1,7 +1,7 @@
 EDG_ETH_define_eth_mate ={
 	define_consort = {
-		name = "爱兰妮"
-		dynasty = "海伦"
+		name = "Eleni"
+		dynasty = "Helena"
 		adm = 5
 		dip = 5
 		mil = 4
@@ -17,9 +17,9 @@ EDG_ETH_define_eth_mate ={
 	set_consort_flag = EDG_ETH_Errani_flag
 }
 EDG_ETH_rename_1230 = {
-	change_province_name = "阿杜利斯"
-	rename_capital = "阿杜利斯"
+	change_province_name = "Adulis"
+	rename_capital = "Adulis"
 }
 EDG_ETH_rename_1213 = {
-	rename_capital = "德布瑞 贝尔翰"
+	rename_capital = "Debre Birhan"
 }

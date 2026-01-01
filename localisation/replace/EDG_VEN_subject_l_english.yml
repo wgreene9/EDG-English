@@ -1,0 +1,30 @@
+﻿l_english:
+EDG_VEN_personal_union:0 "Dandolo Personal Union"
+EDG_VEN_personal_union_title:0 "Dandolo Personal Union"
+EDG_VEN_personal_union_title_plural:0 "Dandolo Personal Unions"
+EDG_VEN_personal_union_long_desc:0 "A Dandolo Personal Union is a special type of personal union. In addition to all the standard personal union mechanics and interactions, Dandolo Personal Unions can also transfer trade power to their overlord. They automatically transfer 50% of their trade power to the overlord by default, and the overlord can use the 'Transfer Trade Power' interaction to demand they transfer 100%. Furthermore, Dandolo Personal Unions also increase Dandolo Family Control."
+EDG_VEN_personal_union_is_our:0 "$NAME|Y$ is one of our §MDandolo Personal Unions§!"
+
+EDG_VEN_trade_state:0 "Venetian Trade Partner"
+EDG_VEN_trade_state_title:0 "Venetian Trade Partner"
+EDG_VEN_trade_state_title_plural:0 "Venetian Trade Partners"
+EDG_VEN_trade_state_long_desc:0 "A Venetian Trade Partner is a special type of trading protectorate and tributary. Venetian Trade Partners pay tribute and transfer trade power to their overlord in exchange for protection. In addition to all the standard protectorate and tributary interactions, Venetian Trade Partners can be called into the overlord's wars. Calling a Venetian Trade Partner into a war requires a one-time cost of 100 opinion points. When opinion falls below 100, the overlord cannot call the Venetian Trade Partner into wars. Furthermore, Venetian Trade Partners also increase the Prosperity of the Venetian Trade Sphere."
+EDG_VEN_trade_state_is_our:0 "$NAME|Y$ is one of our §MVenetian Trade Partners§!"
+
+EDG_VEN_personal_union_state_action:0 "Demand to Become a Dandolo Personal Union"
+EDG_VEN_personal_union_state_action_title:0 "Demand to Become a Dandolo Personal Union"
+EDG_VEN_personal_union_state_action_desc:0 "Demand to become a Dandolo Personal Union. A Dandolo Personal Union is a special type of personal union. In addition to all the standard personal union mechanics and interactions, Dandolo Personal Unions can also transfer trade power to their overlord. They automatically transfer 50% of their trade power to the overlord by default, and the overlord can use the 'Transfer Trade Power' interaction to demand they transfer 100%. Furthermore, Dandolo Personal Unions also increase Dandolo Family Control."
+EDG_VEN_personal_union_state_action_tooltip:0 "Demand to Become a Dandolo Personal Union"
+EDG_VEN_personal_union_state_action_alert_tooltip:0 "Demand to Become a Dandolo Personal Union"
+
+EDG_VEN_trade_state_action:0 "Demand to Become a Trade Partner"
+EDG_VEN_trade_state_action_title:0 "Demand to Become a Trade Partner"
+EDG_VEN_trade_state_action_desc:0 "Demand to become a Trade Partner. A Venetian Trade Partner is a special type of trading protectorate and tributary. Venetian Trade Partners pay tribute and transfer trade power to their overlord in exchange for protection. In addition to all the standard protectorate and tributary interactions, Venetian Trade Partners can be called into the overlord's wars. Calling a Venetian Trade Partner into a war requires a one-time cost of 100 opinion points. When opinion falls below 100, the overlord cannot call the Venetian Trade Partner into wars. Furthermore, Venetian Trade Partners also increase the Prosperity of the Venetian Trade Sphere."
+EDG_VEN_trade_state_action_tooltip:0 "Demand to Become a Trade Partner"
+EDG_VEN_trade_state_action_alert_tooltip:0 "Demand to Become a Trade Partner"
+
+EDG_VEN_call_trade_state_into_wars:0 "Call Trade Partner into Wars"
+EDG_VEN_call_trade_state_into_wars_title:0 "Call Trade Partner into Wars"
+EDG_VEN_call_trade_state_into_wars_desc:0 "Call Trade Partner into Wars. Calling a Trade Partner into wars does not cost favors; instead, it costs opinion. Calling a Trade Partner into a war costs 100 opinion points."
+EDG_VEN_call_trade_state_into_wars_tooltip:0 "Call Trade Partner into Wars"
+EDG_VEN_call_trade_state_into_wars_alert_tooltip:0 "Call Trade Partner into Wars"

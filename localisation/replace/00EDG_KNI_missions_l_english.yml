@@ -1,0 +1,390 @@
+﻿l_english:
+EDG_KNI_mission_1_1_title:0 "Reconciliation with the Locals"
+EDG_KNI_mission_1_1_desc:0 "Orthodox Christians do not actively interfere with the faith of the Order's members, yet discrimination against the Greeks has significantly hindered the Order's cause. Now is a time of crisis and survival; everyone should serve the Order."
+
+EDG_KNI_mission_1_2_title:0 "Island of the Labyrinth"
+EDG_KNI_mission_1_2_desc:0 "Crete is the southernmost pearl of the Aegean Sea and its largest island. Once the significant Minoan Kingdom of Greek mythology, it is now merely an inconsequential colony in the hands of the Doge of Venice. They will support our cause by offering this island as a defensive territory. The Order will purchase sovereignty over this island to restore its former glory."
+EDG_KNI_mission_1_2_a_yes:0 "£yes£ Venice is not excommunicated"
+EDG_KNI_mission_1_2_a_no:0 "£no£ Venice is not excommunicated"
+EDG_KNI_mission_1_2_b_yes:0 "£yes£ Venice is excommunicated"
+EDG_KNI_mission_1_2_b_no:0 "£no£ Venice is excommunicated"
+EDG_KNI_mission_1_2_c_yes:0 "£yes£ Complete the mission through conquest"
+EDG_KNI_mission_1_2_c_no:0 "£no£ Complete the mission through conquest"
+
+EDG_KNI_mission_1_5_title:0 "Convert the Holy Land"
+EDG_KNI_mission_1_5_desc:0 "A grave disgrace! Our most holy cities have fallen into dens of heresy and sin. We must restore the Catholic faith in the Holy Land."
+
+EDG_KNI_mission_1_8_title:0 "Mother of Cities"
+EDG_KNI_mission_1_8_desc:0 "Cairo is a jewel of the Patriarchate of Alexandria. Therefore, we must ensure it is polished to match the splendor befitting our legitimacy and power!"
+
+EDG_KNI_mission_1_9_title:0 "Taming the Nile"
+EDG_KNI_mission_1_9_desc:0 "The Nile is the lifeline of Egyptian civilization. With the irrigation from this great river, any civilization can obtain sufficient food to nurture its people. After reclaiming this land, we should maximize our use of the Nile's bounty."
+EDG_KNI_mission_1_9_tt:0 "Unlocks the estate privilege for the Order: §GOrder Farmland Development§!."
+
+EDG_KNI_mission_1_12_title:0 "Expand the Port of Aden"
+EDG_KNI_mission_1_12_desc:0 "Aden has long been a vital entrepôt and trade center. Let us end the conflict in Yemen and restore market confidence; soon we will benefit from the wealth there."
+
+EDG_KNI_mission_1_13_title:0 "Preach in the Levant"
+EDG_KNI_mission_1_13_desc:0 "Christians have lost control of the Levant for too long. To guide the locals back to the right path, we will establish more churches, infirmaries, and gradually improve infrastructure."
+EDG_KNI_hajimi_end_flag:0 "The disaster §RA Land Deceitful of Milk and Honey§! has ended"
+
+EDG_KNI_mission_1_14_title:0 "Professional Nurses"
+EDG_KNI_mission_1_14_desc:0 "As early as the time of the Hospital of Saint John, the Order's sisters were involved in patient care. Now, as part of medical reforms, we will separate nursing personnel from the sisters to form a distinct profession."
+
+EDG_KNI_mission_1_15_title:0 "Healthcare System" # Refine the National Healthcare System
+EDG_KNI_mission_1_15_desc:0 "Our hospitals gather medical talents from all over the world, and medical techniques circulating in various regions are quite chaotic. From this chaos, we can ultimately develop a practical and effective medical system to apply in our infirmaries."
+EDG_KNI_medical_research_5_flag:0 "All interactions for sponsoring medical research have been completed"
+EDG_KNI_mission_1_15_tt_1:0 "Unlocks the estate privilege for the Order: §GOrder Hospital Management Rights§!."
+EDG_KNI_mission_1_15_tt:0 "Upgrades the benefits of the interaction §YSponsor Medical Research§!, granting §G-2.5% All Power Costs§!."
+
+EDG_KNI_mission_1_16_title:0 "Revive Eastern Patriarchates" # Revive the Eastern Patriarchates
+EDG_KNI_mission_1_16_desc:0 "The Patriarchates of Constantinople, Antioch, Jerusalem, and Alexandria in the East have returned to the embrace of God. The faithful in these dioceses are now more numerous than ever before. It is time to restore the ancient patriarchates."
+EDG_KNI_mission_1_16_tt_a:0 "§GEvent Preview:§!\nThe ancient Eastern patriarchates, under the governance of the Order, have regained the splendor of the Roman era. Their development will be §Yenhanced§!."
+EDG_KNI_mission_1_16_tt:0 "Holy Orders may be used"
+
+EDG_KNI_mission_1_19_title:0 "Spirit of the Crusades"
+EDG_KNI_mission_1_19_desc:0 "After the defeat of the Ninth Crusade, Crusader territories in the East gradually fell into Muslim hands. We, who possess the spirit of the Crusades, shall inherit the will of the nine crusades and march toward the eastern shores of the Mediterranean."
+
+EDG_KNI_mission_1_20_title:0 "Hold Fast to the Holy Land"
+EDG_KNI_mission_1_20_desc:0 "The Crusades were a starting point, propelling Europe from a dark age of isolation toward an open golden age. More than a century has passed since the Ninth Crusade, during which we have analyzed the causes of failure and improved our tactics. Now that the Holy City is back in our hands, it is time to teach our enemies a lesson."
+
+EDG_KNI_mission_1_21_title:0 "Knights Don't Die Unarmed" # A Knight Does Not Die Unarmed
+EDG_KNI_mission_1_21_desc:0 "Damascus is not the origin of the mysterious metal, but we have successfully won over local craftsmen after the calamity and gained control of the trade route for this steel known as 'Wootz.' Damascus steel blades are renowned far and wide. Now it is time to upgrade the Order's equipment. A knight shall never die unarmed!"
+EDG_KNI_mission_1_21_tt_a:0 "§GEvent Preview:§!\nUnder a series of secularizing reforms, the Order has agreed to lift restrictions on tournaments. We will allow §Yeach Grand Master to hold one tournament§!, gaining a certain amount of §YSplendor§!."
+EDG_KNI_mission_1_21_tt:0 "Unlocks decision: §YHost a Tournament§!"
+
+EDG_KNI_mission_1_22_title:0 "Order Firearm Reform"
+EDG_KNI_mission_1_22_desc:0 "The Knights Hospitaller have always maintained an open attitude toward firearms. Firearms are our good companions in breaching enemy walls. With ample finances now available, we should undertake reforms to promote the use of firearms."
+EDG_kni_save_people_5_flag:0 "All interactions for protecting pilgrim believers have been completed"
+EDG_KNI_mission_1_22_tt:0 "Upgrades the benefits of the interaction §YProtect Pilgrim Believers§!, granting an equivalent amount of §GArmy Fire Damage Received Reduction§!."
+
+EDG_KNI_mission_1_25_title:0 "Victorious in 10,000 Battles" # Victorious in Ten Thousand Battles
+EDG_KNI_mission_1_25_desc:0 "Many surround me, but in the name of the Lord, I will surely defeat them. They encircle and besiege me, but in the name of the Lord, I will surely defeat them. They swarm around me like bees, like a fire among thorns, yet they shall be extinguished. In the name of the Lord, I will surely defeat them. With a heart of utmost sincerity, we shall be victorious in ten thousand battles!"
+EDG_KNI_mission_1_25_tt_a:0 "§GEvent Preview:§!\nWe have gained recognition from all Catholic powers for our resistance against the infidels. The §YPapal Influence§! provided by cardinals will increase."
+
+EDG_KNI_mission_2_2_title:0 "Rebuild the Knights" # Rebuild the Knights Hospitaller
+EDG_KNI_mission_2_2_desc:0 "Compared to their past glory, the current Knights Hospitaller are insignificant. If we can reclaim the former Crusader Kingdom of Antioch, it can serve as a springboard for restoring order."
+EDG_KNI_mission_2_1_tt_a:0 "§GEvent Preview:§!\nGain permanent modifiers for §YMorale§! and §YManpower Recovery§!"
+
+EDG_KNI_mission_2_3_title:0 "Inland Defense"
+EDG_KNI_mission_2_3_desc:0 "Aleppo is a key transportation hub from the Mesopotamian plains to the Mediterranean. We will restore the ancient fortress to safeguard the gains of the holy war. While this may render our fortress in Homs obsolete, we can ensure the security of the lands in Syria."
+EDG_KNI_mission_2_3_tt_a:0 "§GEvent Preview:§!\nWe will restore the inland Citadel of Aleppo, increasing its §YFort Level§!. Additionally, the province of §YHoms§!—the original site of Krak des Chevaliers—will receive a powerful province modifier."
+
+EDG_KNI_mission_2_5_title:0 "Rebuild Jerusalem"
+EDG_KNI_mission_2_5_desc:0 "Jerusalem, already battered in the civil strife, has suffered further devastation. This is our sin, and it is our duty to make amends."
+
+EDG_KNI_mission_2_6_title:0 "Miracle of the Desert"
+EDG_KNI_mission_2_6_desc:0 "The Arabs emerged from this desert to invade Christian lands. The Crusaders shall enter this desert and utterly destroy their faith."
+EDG_KNI_arabia_tt:0 "Own ten provinces in the Arabia region"
+
+EDG_KNI_mission_2_10_title:0 "End the Cossacks"
+EDG_KNI_mission_2_10_desc:0 "The northern Cossack barbarians repeatedly hinder our merchants. It is time to teach them a lesson."
+
+EDG_KNI_mission_2_11_title:0 "Shatter the Scourge of God"
+EDG_KNI_mission_2_11_desc:0 "The Mongols came from the East, burning, killing, and plundering without restraint. We shall tread upon their lands of origin and utterly crush these barbarians who falsely claim God's name."
+
+EDG_KNI_mission_2_12_title:0 "Expand the Port of Jeddah"
+EDG_KNI_mission_2_12_desc:0 "Jeddah is the main port of Mecca and the essential passage for any maritime pilgrim. Expanding this city will make it easier for people to reach the new Christian Holy City and will aid the economic development of our humble nation."
+
+EDG_KNI_mission_2_17_title:0 "Restore Glory to Rome"
+EDG_KNI_mission_2_17_desc:0 "Once, the Pope accused the Order of corruption, and we agreed wholeheartedly. Now, the corruption within the Papal State is equally staggering. The reforms of the Order and those of the entire Catholic Church are mutually reinforcing. The Pope's authority should not be under the control of the devil. Having received divine revelation, it is time to eradicate the persistent ailments under God's governance. We shall once again restore glory to Rome!"
+EDG_KNI_mission_2_17_tt:0 "Allows us to legally hold Rome"
+
+EDG_KNI_mission_2_20_title:0 "Maghrebi Crusaders" # Unite the Maghrebi Crusaders
+EDG_KNI_mission_2_20_desc:0 "It is time to fight on the Barbary Coast. We must unite our fellow crusaders, drive out the infidels, and use this as a springboard for greater campaigns."
+EDG_KNI_mission_2_20_a_yes:0 "£yes£ Complete the mission through conquest"
+EDG_KNI_mission_2_20_a_no:0 "£no£ Complete the mission through conquest"
+EDG_KNI_mission_2_20_b_yes:0 "£yes£ Complete the mission through diplomatic means"
+EDG_KNI_mission_2_20_b_no:0 "£no£ Complete the mission through diplomatic means"
+
+EDG_KNI_mission_2_21_title:0 "End North African Islam" # End the North African Muslims
+EDG_KNI_mission_2_21_desc:0 "We must deal with the wicked infidels once and for all. We will seize every one of their ports and put an end to their sinful Christian slave trade."
+EDG_KNI_mission_2_21_tt:0 "Have 10 port provinces in the Maghreb region"
+
+EDG_KNI_mission_2_22_title:0 "Arabian Horses"
+EDG_KNI_mission_2_22_desc:0 "The price of an ordinary warhorse is equivalent to about twelve plough oxen, greatly impacting the Order's finances. Now, there is no need to import horses from Europe, as Arabia possesses excellent horse breeds. Of course, breeding them will take some time."
+
+EDG_KNI_mission_2_23_title:0 "Outremer Identity" # Outremer Cultural Identity
+EDG_KNI_mission_2_23_desc:0 "Relying on transfusions of Franks, Latins, or Spaniards is far from sufficient to meet our manpower needs. We must incorporate converted Levantines and forge our own culture."
+EDG_KNI_mission_2_23_tt_a:0 "§GEvent Preview:§!\nWe will change the primary culture to Levantine (Frankish Outremer)."
+EDG_KNI_mission_2_23_tt:0 "Unlocks multiple decisions for §YOutremer and Levantine Cultural Integration§!. These decisions will bring several §YPermanent Modifiers§!."
+
+
+EDG_KNI_mission_3_1_title:0 "Crusader Fleet"
+EDG_KNI_mission_3_1_desc:0 "If our navy is vastly outnumbered by the infidels, we will have no chance of reclaiming territory. To balance the power between both sides, we must establish a fleet."
+
+EDG_KNI_mission_3_2_title:0 "Intervene in the Malik War" # Intervene in the War of the Malik
+EDG_KNI_mission_3_2_desc:0 "Just as the Crusaders did before, we must seize the opportunity of internal strife within the Islamic world to capture the Holy City."
+EDG_FYM_civil_war_global_flag:0 "Sahada Disaster: Malik War has been triggered"
+EDG_KNI_mission_3_2_tt_a:0 "§GEvent Preview:§!\nAfter lying dormant for over a century, we will once again launch a crusade against the §Yholder of the Holy City§!. At this critical juncture of survival, Crusaders will receive §Yadditional support§!."
+
+EDG_KNI_mission_3_3_title:0 "Jerusalem!"
+EDG_KNI_mission_3_3_desc:0 "The most sacred city of Christendom awaits our return. Let us muster our courage and, in the name of God, reclaim this Holy City. Onward to Jerusalem!"
+EDG_KNI_mission_3_3_tt_a:0 "§GEvent Preview:§!\nThe return of the Holy City will gain us the support of the Catholic world and allow us to hire §YMercenaries of the Knights Templar§!."
+
+EDG_KNI_mission_3_4_title:0 "Kingdom of Heaven"
+EDG_KNI_mission_3_4_desc:0 "Jerusalem is ours. However, to survive here, we must press deeper into the Holy Land. We must secure our position in the deserts of Syria."
+EDG_KNI_mission_3_4_tt:0 "§RDisaster: A Land Deceitful of Milk and Honey will occur§!"
+EDG_KNI_hajimi_ready_flag:0 "Completed mission Kingdom of Heaven"
+
+EDG_KNI_mission_3_5_title:0 "Rebuild Antioch"
+EDG_KNI_mission_3_5_desc:0 "The Patriarchate of Antioch should not fall into ruin. As servants of the Lord, we must build it up."
+
+EDG_KNI_mission_3_6_title:0 "Fertile Rivers of Two Lands" # Fertile Rivers of the Two Lands
+EDG_KNI_mission_3_6_desc:0 "To the east of the Patriarchate of Antioch flow the parallel rivers of the Euphrates and the Tigris. This is a fertile land, capable of sustaining our people, freeing us from reliance on European grain."
+EDG_KNI_mashriq_tt:0 "Own 15 provinces in the Mashriq region"
+
+EDG_KNI_mission_3_7_title:0 "Outremer Empire"
+EDG_KNI_mission_3_7_desc:0 "Only when the light of the golden cross shines from Ascalon to Oman, and all infidels are expelled from the Holy Land, will the Crusaders' most sacred mission be accomplished. In this land overseas, we shall become the Shield of God, establishing an empire capable of defending Christendom."
+EDG_KNI_mission_3_7_tt_a:0 "§GEvent Preview:§!\nWe have become legends in Crusader history, and our §YIdeas§! will be enhanced."
+
+EDG_KNI_mission_3_8_title:0 "Heart of Islam"
+EDG_KNI_mission_3_8_desc:0 "Mecca is the center of the Muslim world. It is the very place where the Caliphate originated; they once seized vast territories from the disintegrating Byzantine Empire. It would be supremely ironic if we were to capture their most sacred city."
+EDG_KNI_mission_3_8_tt_a:0 "After this pagan temple is demolished, we will establish an academic center, gaining §YMonthly Government Reform Progress§! and §GA large sum of Ducats§!"
+
+EDG_KNI_mission_3_9_title:0 "Tame Arabia"
+EDG_KNI_mission_3_9_desc:0 "Since the era of the first Caliph, Arab tribes have never sworn allegiance to a single ruler; even then, they frequently rebelled, leading to civil wars within the Caliphate—the Fitna. Under the benevolent guidance of Christians, this shall not happen. We will restore an era of unity in Arabia."
+EDG_KNI_mission_3_9_tt:0 "Unlocks the estate privilege for the Order: §GOrder Desert Agriculture§!."
+
+EDG_KNI_mission_3_10_title:0 "Outremer Hegemony"
+EDG_KNI_mission_3_10_desc:0 "Our prestige and power, wisdom and wealth of gold in the eyes of the world will surely cause our great nation to be hailed as the master of our age, the preeminent great power."
+
+EDG_KNI_mission_3_12_title:0 "Revitalize Alexandria" # Revitalize the Port of Alexandria
+EDG_KNI_mission_3_12_desc:0 "Foreign merchants are plundering our rightful interests. We cannot allow foreign merchants to monopolize our own Mediterranean ports. To this end, we should invest in establishing several new markets to support our own merchants."
+EDG_KNI_mission_3_12_tt_a:0 "§GEvent Preview:§!\nThe §YGreat Lighthouse of Alexandria§! will be rebuilt."
+
+EDG_KNI_mission_3_13_title:0 "The Empire's Highway"
+EDG_KNI_mission_3_13_desc:0 "The land separating the Red Sea and the Mediterranean has inspired one of our advisors with an engineering project. By connecting the two seas, our ships can navigate more conveniently between them."
+EDG_KNI_mission_3_13_tt_a:0 "§GEvent Preview:§!\nAllows construction of the §YSuez Canal§!"
+
+EDG_KNI_mission_3_14_title:0 "Hegemon of the Five Seas" # Trade Hegemon of the Five Seas and Three Continents
+EDG_KNI_mission_3_14_desc:0 "In every trade center of the Levant, no nation holds more power, influence, or wealth than we do. Now is the time to usher in a new era of trade and diplomacy as we march toward a great future."
+
+EDG_KNI_mission_3_16_title:0 "Equality for All" # Equal Treatment for All
+EDG_KNI_mission_3_16_desc:0 "Lutheranism easily gives rise to various strange heresies and rural folklore, yet its emergence has not corrected the Church's chaos. The deceived are merely poor souls unwilling to be exploited by the Church's vermin. If the lost only seek to resist oppression, we can offer them the freedom they desire, provided they return to the right path."
+
+EDG_KNI_mission_3_18_title:0 "Maritime Alliance"
+EDG_KNI_mission_3_18_desc:0 "We are currently in a perilous strategic position. Our survival is only due to our enemies not yet being determined to fully confront us. We must seek an ally in the West and persuade them to donate some defensive territories to support our cause."
+
+EDG_KNI_mission_3_19_title:0 "Fortify Malta"
+EDG_KNI_mission_3_19_desc:0 "The island of Malta will serve as an excellent base for our operations against the African infidels and as a bridge to Europe. We must transform it into an impregnable fortress."
+
+EDG_KNI_mission_3_24_title:0 "Secularization Reforms"
+EDG_KNI_mission_3_24_desc:0 "Our nation is one of religion, piety, and faith. But one day, we shall rely not on God's mercy but on logic and reason. Drawing upon the scholarly achievements of the Catholic Church and local traditions, we will implement a series of secular reforms tailored to our circumstances to strengthen the nation."
+
+EDG_KNI_mission_3_25_title:0 "The Jerusalem Edict"
+EDG_KNI_mission_3_25_desc:0 "Laws and government must reflect our nation's unique character. Through a series of reforms, we will construct a comprehensive governance system."
+
+EDG_KNI_mission_3_21_title:0 "Hail the White Cross"
+EDG_KNI_mission_3_21_desc:0 "Hail the White Cross, the supreme emblem of piety. Hail the White Cross, the source of our health and hope. Ignite the hearts of the faithful with abundant grace. With sincere hearts, all difficulties shall be overcome. With sincere hearts, victory shall be ours in every battle!"
+EDG_KNI_SAVIOR_ALL_tt:0 "All interactions for 'The Savior's Will' have been completed, and the upgraded modifiers have been obtained."
+
+EDG_KNI_mission_3_26_title:0 "Rebuild the Tower of Babel"
+EDG_KNI_mission_3_26_desc:0 "Our people speak different languages and observe varied customs—this is God's punishment. Yet they are now united—this is our teaching. The Tower of Babel in the Bible was destroyed for the sin of blasphemy, but we shall rebuild it under God's trial, within our devout hearts."
+EDG_KNI_mission_3_26_tt_a:0 "§GEvent Preview:§!\nGain modifiers related to §YMaximum Number of Cultures§! and §YCultural Acceptance§!."
+
+EDG_KNI_mission_4_1_title:0 "Win Over the Pope"
+EDG_KNI_mission_4_1_desc:0 "Since the defeat at the Battle of Varna, support for launching a new crusade against the Greek heretics has sharply declined. We must persuade the Pope to legitimize our steadfast cause—to reclaim Greece in the name of God."
+
+EDG_KNI_mission_4_2_title:0 "A Foothold in Greece"
+EDG_KNI_mission_4_2_desc:0 "Conquering Greece and establishing a foothold from the south is the wisest course. Whether through direct conflict with the infidels or by ousting other Christian lords from their castles is irrelevant. This land is crucial for our crusade."
+
+EDG_KNI_mission_4_3_title:0 "Integrate Arta"
+EDG_KNI_mission_4_3_desc:0 "Arta guards the gateway to our northward advance. These Italians are both greedy and indolent. The Balkan Crusade is not proceeding smoothly; the Order should take over their lands."
+EDG_KNI_mission_4_3_tt_a:0 "§GEvent Preview:§!\nGain a casus belli for annexation against Arta."
+EDG_KNI_mission_4_3_a_yes:0 "£yes£ Complete the mission via spy network"
+EDG_KNI_mission_4_3_a_no:0 "£no£ Complete the mission via spy network"
+EDG_KNI_mission_4_3_b_yes:0 "£yes£ Complete the mission via conquest"
+EDG_KNI_mission_4_3_b_no:0 "£no£ Complete the mission via conquest"
+
+EDG_KNI_mission_4_4_title:0 "Crusader Empire"
+EDG_KNI_mission_4_4_desc:0 "The Fourth Crusade established the Latin Empire in Constantinople, granting us claims over the lands of the former Byzantine Empire. We shall rebuild this empire and inherit the mantle of Rome."
+EDG_KNI_mission_4_4_tt_a:0 "§GEvent Preview:§!\n§YConstantinople§! will receive a powerful modifier."
+
+EDG_KNI_mission_4_5_title:0 "Rebuild Alexandria"
+EDG_KNI_mission_4_5_desc:0 "Devastated by the War of the Malik and the Order's internal strife, the Patriarchate of Alexandria is in peril. We must rebuild this city."
+
+EDG_KNI_mission_4_6_title:0 "Land of Moses"
+EDG_KNI_mission_4_6_desc:0 "We must control Egypt, rebuild the Patriarchate of Alexandria, and ensure the safety of pilgrims to secure the fruits of our Crusade's victory."
+
+EDG_KNI_mission_4_7_title:0 "The Ark of the Covenant"
+EDG_KNI_mission_4_7_desc:0 "The Ark of the Covenant is the legendary sacred chest containing the stone tablets of the Ten Commandments, and Abyssinia claims to hold it. Such a holy relic can only be safeguarded by us. We must locate it and bring it to the capital for protection."
+EDG_KNI_mission_4_7_tt_a:0 "§GEvent Preview:§!\nThe §YCapital§! will receive a powerful modifier. Your ruler may §Rdie§!, or you may gain a powerful permanent modifier."
+
+EDG_KNI_mission_4_10_title:0 "Levantine Counterattack"
+EDG_KNI_mission_4_10_desc:0 "In the past, the fragmented Levant lacked a strong regime to resist the Persians, leading to the loss of the Two Rivers' lands. Now, we will decisively end the Persian threat."
+
+EDG_KNI_mission_4_11_title:0 "Prester John is but a Legend"
+EDG_KNI_mission_4_11_desc:0 "We have reached India, and beyond lie lost heretics and ignorant polytheists. Regrettably, the legendary Prester John is not here."
+
+EDG_KNI_mission_4_12_title:0 "City of the World's Desire"
+EDG_KNI_mission_4_12_desc:0 "Constantinople, the capital of the Eastern Roman Empire, has many epithets. From Byzantium to New Rome, even 'Queen of Cities,' yet the most fitting alias remains 'City of the World's Desire,' perfectly illustrating the envy of surrounding nations."
+
+EDG_KNI_mission_4_17_title:0 "God Wills It"
+EDG_KNI_mission_4_17_desc:0 "Under the majesty of the Holy Father, we have decided to establish the Anatolian peninsula as a re-education zone for heretics. Accepting them may come at a considerable cost, but it is necessary to alleviate suffering."
+EDG_KNI_mission_4_17_tt:0 "Unlocks decision: §YAnatolian Re-education Zone§!"
+
+EDG_KNI_mission_4_20_title:0 "Knights of the New World"
+EDG_KNI_mission_4_20_desc:0 "The New World holds opportunities. It is not only a source of abundant and primitive wealth and funds for our Crusade but also home to many natives who have yet to hear the Gospel. We must establish a colony and spread our mission westward."
+
+EDG_KNI_mission_4_21_title:0 "Fountain of Youth"
+EDG_KNI_mission_4_21_desc:0 "The Fountain of Youth, it is said that its blessed waters can cure all ailments and grant eternal youth. If such a miracle truly exists, we must search for it for our sacred Order. Immortality awaits us!"
+
+EDG_KNI_mission_4_22_title:0 "King of the East African Sea" # Defeat the East African Sea King
+EDG_KNI_mission_4_22_desc:0 "Kilwa monopolizes East African trade, and Muslims exiled here threaten the safety of our caravans. It is time for these infidels to understand who truly rules the seas of the Indian Ocean."
+
+EDG_KNI_mission_4_23_title:0 "Order Renaissance"
+EDG_KNI_mission_4_23_desc:0 "A prosperous and esteemed order such as ours is poised to embrace the Renaissance movement. There is a renewed interest in art, science, and what some call 'humanism.' We should do all we can to support this movement."
+
+EDG_KNI_mission_5_2_title:0 "Unite with Cyprus"
+EDG_KNI_mission_5_2_desc:0 "Cyprus is one of the last bastions of the Crusader decline after the failure of the Crusades, and we once resided there. The throne of Jerusalem exists in name only within the Lusignan family, yet the crusaders under their command could be of great assistance to us. In this critical hour of survival, allying with the House of Lusignan is also an option."
+EDG_KNI_mission_5_2_a_yes:0 "£yes£ Complete the mission through diplomatic means"
+EDG_KNI_mission_5_2_a_no:0 "£no£ Complete the mission through diplomatic means"
+EDG_KNI_mission_5_2_b_yes:0 "£yes£ Complete the mission through conquest"
+EDG_KNI_mission_5_2_b_no:0 "£no£ Complete the mission through conquest"
+EDG_KNI_mission_5_2_tt_a:0 "§GEvent Preview:§!\nCyprus may reunite with the Order, but its influence within the Order will also increase."
+EDG_KNI_mission_5_2_tt_b:0 "Unlocks a decision allowing us to merge with Cyprus."
+
+EDG_KNI_mission_5_3_title:0 "Anatolian Bridgehead"
+EDG_KNI_mission_5_3_desc:0 "Smyrna was unfortunately lost during the Crusade against the Ottomans and later became a refuge for Greeks amid Ottoman fragmentation. We have witnessed the revival and prosperity of this city. With a great enemy at our gates, it is time for the Order to reclaim sovereignty over this city."
+EDG_KNI_mission_5_3_tt_a:0 "§GEvent Preview:§!\nWith a great enemy at our gates, it is time to reclaim §YSmyrna§!."
+EDG_KNI_mission_5_3_a_yes:0 "£yes£ Complete the mission via rival mechanism"
+EDG_KNI_mission_5_3_a_no:0 "£no£ Complete the mission via rival mechanism"
+EDG_KNI_mission_5_3_b_yes:0 "£yes£ Complete the mission via conquest"
+EDG_KNI_mission_5_3_b_no:0 "£no£ Complete the mission via conquest"
+
+EDG_KNI_mission_5_5_title:0 "Reconquest of Asia Minor"
+EDG_KNI_mission_5_5_desc:0 "Although the Ottoman Turks have long occupied and settled in eastern Anatolia, many Christians there still require our protection. A significant number of Greeks reside in coastal towns, and reclaiming these territories would greatly benefit our maritime trade and overall national strength."
+
+EDG_KNI_mission_5_6_title:0 "Fortify the Caucasus"
+EDG_KNI_mission_5_6_desc:0 "The peoples living on the Eastern European steppes are not primitive pagans, but the local Muslims pose a significant threat to Christendom. We must conquer the Caucasus Mountains and establish formidable defenses here with deep trenches and high walls."
+
+EDG_KNI_mission_5_7_title:0 "Shield of God"
+EDG_KNI_mission_5_7_desc:0 "The Word of God shall spread to all corners of the earth. Heretics and infidels must convert to the true faith, or they shall be cursed for eternity."
+
+EDG_KNI_mission_5_8_title:0 "City of Peace"
+EDG_KNI_mission_5_8_desc:0 "As one of the most renowned cities in the Islamic world, this City of Peace will live up to its name only in our hands."
+
+EDG_KNI_mission_5_9_title:0 "Tame Mesopotamia"
+EDG_KNI_mission_5_9_desc:0 "The cradle of civilization, Mesopotamia, is surrounded by powerful enemies and lacks natural barriers. Let us ensure that no great power other than ourselves can interfere here. Persians have no say in this region!"
+
+EDG_KNI_mission_5_12_title:0 "Rhodes Naval Base"
+EDG_KNI_mission_5_12_desc:0 "The sea is merciless, showing no pity to sailors. A powerful fleet will ensure our dominance at sea, further elevating our nation's status around the Mediterranean, and allow us to reform into a professional navy. As the Order's long-standing fortified city, Rhodes has the potential to become a naval base."
+EDG_KNI_mission_5_12_tt:0 "No Mediterranean coastal nation's total navy surpasses ours"
+
+EDG_KNI_mission_5_13_title:0 "Our Path of Faith"
+EDG_KNI_mission_5_13_desc:0 "After the great calamity that enveloped the nation, the monks have broken free from confusion. We shall follow our own path of faith."
+EDG_KNI_mission_5_13_tt:0 "After missionary work is completed, the province gains 1 §YTax§!"
+
+EDG_KNI_mission_5_14_title:0 "Flock of the Levant"
+EDG_KNI_mission_5_14_desc:0 "Our missionaries should return to their original purpose. Let the lost personally experience God's benevolence, and then wholeheartedly convert to the true faith."
+EDG_KNI_mission_5_14_tt:0 "After missionary work is completed, the province gains 1 §YManpower§!"
+
+EDG_KNI_mission_5_15_title:0 "Spread Gospel Far and Wide" # Spread the Gospel Far and Wide
+EDG_KNI_mission_5_15_desc:0 "Our nation's missionaries should promote cultural exchange, disseminate scientific knowledge, and engage in charitable relief activities. They shoulder far greater responsibilities than missionaries of other nations. Of course, this benefits local development."
+EDG_kni_hornor_knights_5_flag:0 "Completed all 'Appoint Honorary Knights' interactions"
+EDG_KNI_mission_5_15_tt:0 "After missionary work is completed, the province gains 1 §YProduction§!, and the decision §YOrder's Grand Preaching§! is unlocked."
+EDG_KNI_mission_5_15_a_tt:0 "Upgrades the benefits of the interaction §YAppoint Honorary Knights§!, granting §G-5 National Unrest§!."
+
+EDG_KNI_mission_5_16_title:0 "Defend Faith, Ease Suffering" # Defend the Faith, Relieve the Suffering
+EDG_KNI_mission_5_16_desc:0 ""Defend the Faith, Relieve the Suffering." As the Order's motto shows, from its early days, we have had a strong charitable nature, once operating the famous hospital in Jerusalem, which is the origin of the name Knights Hospitaller. With the refinement of our nation's missionary system, this motto has been fully implemented."
+EDG_KNI_mission_5_16_tt:0 "After missionary work is completed, the province gains §Y+1 Local Development§!, and the estate privilege §GOrder Almshouses§! gains 10 Absolutism."
+
+EDG_KNI_mission_5_19_title:0 "Red Sea Operations"
+EDG_KNI_mission_5_19_desc:0 "The Order has arrived at Suez, mapping the narrow Red Sea. A complete map can save considerable effort for future planning."
+EDG_KNI_mission_5_19_tt:0 "Create a fleet of three light ships in Suez."
+
+EDG_KNI_mission_5_20_title:0 "Eastern Sea Route"
+EDG_KNI_mission_5_20_desc:0 "Through the relentless efforts of explorers and the help of locals, we have charted a new sea route. Seekers of springs and missionaries are eager; it is time to set sail."
+EDG_KNI_mission_5_20_tt:0 "Have 10 port provinces in the Arabia region"
+
+
+EDG_KNI_mission_5_21_title:0 "Indian Ocean Navy"
+EDG_KNI_mission_5_21_desc:0 "As our influence in the Indian Ocean expands, our navy should not be confined to the Mediterranean. The construction of an Indian Ocean fleet is an urgent priority."
+
+EDG_KNI_mission_5_22_title:0 "Seekers of the Eastern Spring" # Eastern Seekers of the Spring
+EDG_KNI_mission_5_22_desc:0 "The search for the Fountain of Youth has become a popular topic in our nation, yet colonial ventures in the West have stalled. Meanwhile, the spice-laden East has captured our attention."
+EDG_KNI_mission_5_22_a_tt:0 "Have 10 provinces in the Moluccas region"
+EDG_KNI_mission_5_22_b_tt:0 "Have 10 provinces in the Indonesia region"
+
+EDG_KNI_mission_5_25_title:0 "All Shall Be Overcome" # All Difficulties Shall Be Overcome
+EDG_KNI_mission_5_25_desc:0 "They pushed me hard to make me fall, but the Lord helped me. The Lord is my strength and my song; he has become my salvation. Shouts of joy and victory resound in the tents of the righteous. The Lord's right hand is lifted high; the Lord's right hand has done mighty things. I will not die but live, and will proclaim what the Lord has done. With sincere hearts, all difficulties shall be overcome."
+EDG_KNI_mission_5_25_tt_a:0 "§GEvent Preview§!\nGain tolerance for heretics and heathens."
+
+
+
+
+###ideas
+EDG_idea_crown_of_levant:0 "Guardian of the Holy Sepulchre"
+EDG_idea_crown_of_levant_desc:0 "The site of the Holy Sepulchre should not be ruled by any secular monarch. Our ruler should always style himself as the Guardian of the Holy Sepulchre."
+
+EDG_idea_latin_patriarch:0 "Patriarch of the East"
+EDG_idea_latin_patriarch_desc:0 "The multiple patriarchates established by the Pope in the East are now entirely under our control. Exerting influence on the Pope has become effortless."
+
+EDG_idea_frontier_state:0 "Resolve of Steel"
+EDG_idea_frontier_state_desc:0 "Outremer is the frontline in the war against the infidels. In battles against brutal enemies, our warriors have been tempered endlessly, their bodies like forged iron, their hearts like clear crystal."
+
+EDG_idea_land_of_the_heathen:0 "Call of Duty"
+EDG_idea_land_of_the_heathen_desc:0 "The duty of faith calls us. We must correct the infidels and bring them into the true faith."
+
+EDG_idea_crusader_king:0 "King of the Crusaders"
+EDG_idea_crusader_king_desc:0 "Among the many crusades in history, only we have achieved great and lasting victory. Though we hold no secular crown, we are the uncrowned kings of the Crusades."
+
+EDG_idea_shield_of_christendom:0 "Shield of Christendom"
+EDG_idea_shield_of_christendom_desc:0 "We are the mighty protectors of Christendom. Enemies of Christians such as the Turks, Persians, and Tatars have all been defeated beneath our iron hooves."
+
+EDG_idea_kingdom_of_heaven:0 "Kingdom of Heaven"
+EDG_idea_kingdom_of_heaven_desc:0 "Though not secular monarchs, a considerable number of nobles from Europe contribute to the Order. Thus, we maintain extensive connections with Europe, which we can leverage in our diplomacy."
+
+EDG_OTM_ideas:0 "Outremer Ideas"
+EDG_OTM_ideas_start:0 "Outremer Traditions"
+EDG_OTM_ideas_bonus:0 "Outremer Ambition"
+
+
+EDG_KNI_mission_1_1_modifier:0 "United from Top to Bottom"
+EDG_KNI_mission_1_2_modifier:0 "Ode to Our Lands"
+EDG_KNI_mission_1_8_modifier:0 "Mother of Cities"
+EDG_KNI_mission_1_13_modifier:0 "Preaching in the Levant"
+EDG_KNI_mission_1_14_modifier:0 "Nursing Sisters"
+EDG_KNI_seeyouagain_modifier:0 "Return of the Crusaders"
+EDG_KNI_mission_1_19_modifier:0 "Crusader Landing Tactics"
+EDG_KNI_mission_1_21_modifier:0 "Damascus Steel"
+EDG_KNI_mission_1_22_modifier:0 "Firearm Reforms"
+EDG_KNI_Crac:0 "Krak des Chevaliers"
+EDG_KNI_Crac_land:0 "Krak des Chevaliers Controlled Area"
+EDG_KNI_mission_2_5_modifier:0 "Patriarchate Almshouses"
+EDG_KNI_mission_2_6_modifier:0 "Patriarchate of Jerusalem"
+EDG_KNI_mission_2_10_modifier:0 "Eradicate Banditry"
+EDG_KNI_mission_2_11_modifier:0 "End the Mongol Threat"
+EDG_KNI_mission_2_20_modifier:0 "Crusader Alliance"
+EDG_KNI_mission_2_22_modifier:0 "Arabian Horses"
+
+
+EDG_KNI_mission_3_6_modifier:0 "Patriarchate of Antioch"
+EDG_KNI_mission_3_10_modifier:0 "Pax Ordines"
+EDG_KNI_mission_3_16_modifier:0 "Equal Treatment for All"
+EDG_KNI_mission_3_25_modifier:0 "The Jerusalem Edict"
+EDG_KNI_mission_4_10_modifier:0 "No More Persia"
+EDG_KNI_mission_4_11_modifier:0 "But the Order Endures Forever"
+EDG_KNI_mission_4_23_modifier:0 "Order Renaissance"
+EDG_KNI_mission_5_3_modifier:0 "The Watchful Eye"
+EDG_KNI_mission_5_6_modifier:0 "Northern Fortress"
+EDG_KNI_mission_5_8_modifier:0 "City of Peace"
+EDG_KNI_mission_5_12_modifier:0 "Rhodes Naval Base"
+EDG_KNI_mission_5_13_modifier:0 "Missionary Aid Funds"
+EDG_KNI_mission_5_14_modifier:0 "Increased Missionary Cost"
+EDG_KNI_mission_5_15_modifier:0 "Missionary Training"
+EDG_KNI_mission_5_16_modifier:0 "Missionaries Sent to the Countryside"
+EDG_KNI_mission_5_20_modifier:0 "Exploring the East"
+EDG_KNI_mission_5_21_modifier:0 "Indian Ocean Fleet"
+EDG_KNI_mission_5_22_modifier:0 "Seekers of the Spring"
+EDG_KNI_kaaba:0 "Kaaba for All"
+EDG_KNI_BabelTower_modfier:0 "Hymn of Babel"
+EDG_KNI_crusader_king_modifier:0 "King of the Crusaders"
+
+
+
+
+
+
+

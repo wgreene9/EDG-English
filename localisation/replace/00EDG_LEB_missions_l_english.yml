@@ -1,0 +1,270 @@
+﻿l_english:
+EDG_LEB_1_3_title:0 "South into Egypt" # Southern Campaign into Egypt
+EDG_LEB_1_3_desc:0 "We promised the Egyptians we would reclaim their homeland; now is the time to fulfill that promise."
+EDG_flavorLEB_mission.1_tt:0 "§GEvent Foreshadowing:§!\nDeclare war with an annexation casus belli against the owner of Cairo"
+
+EDG_LEB_1_5_title:0 "Lord of Egypt"
+EDG_LEB_1_5_desc:0 "Having expelled the brutal Mamluk regime, we need to establish a new order. It is then that Muhammad al-Hariri speaks of what he witnessed in the West."
+
+EDG_LEB_1_7_title:0 "To the Blessed Land of Arabia"
+EDG_LEB_1_7_desc:0 "Let us march south, reclaim the Holy Sites, and conquer and unify the warring tribes of Yemen. 'The Blessed Land of Arabia,' Yemen—a populous and fertile Arab region—has long been rife with conflict. This makes them an easy target on our path to unify the peninsula once and for all."
+
+EDG_LEB_1_9_title:0 "Integrating the Maghreb"
+EDG_LEB_1_9_desc:0 "The name 'Maghreb' comes from Arabic, literally meaning 'the West.' Traditionally, it refers to much of North and Northwest Africa, a region currently embroiled in the chaos of Crusader and heretic conflicts. Let us bring them under the Republic's rule and advance onward to Al-Andalus."
+
+EDG_LEB_1_11_title:0 "Emirate of Sicily"
+EDG_LEB_1_11_desc:0 "The island of Sicily in the Mediterranean was once continuously controlled by Arab forces for centuries. Later, the island was reconquered by Christians, but it remains a crucial stepping stone for the conquest of Italy. Our navy can launch raids on the Italian coast from Sicily and ultimately threaten Rome—the heart of Western Christianity."
+
+EDG_LEB_2_2_title:0 "Welcoming Refugees" # Welcoming Egyptian Refugees
+EDG_LEB_2_2_desc:0 "The internal strife of the Sāhada Dynasty has led to a large influx of refugees into Lebanon. We welcome them and pledge to reclaim their homeland."
+
+EDG_LEB_2_4_title:0 "Securing the Holy City"
+EDG_LEB_2_4_desc:0 "Conquering Jerusalem is an essential step to bolster the influence of the Ibadis. Since its conquest by the Rashidun Caliphate's armies in 637, the city has endured much turmoil and been the target of many infidel Crusades. Today, the city is back in our hands."
+
+EDG_LEB_2_5_title:0 "Fate of the Sunni Caliph" # The Fate of the Sunni Caliph
+EDG_LEB_2_5_desc:0 "The Muslim community should publicly elect its own leader; the chosen one need not necessarily be from the Quraysh tribe. Any devout believer who can uphold justice and possesses recognized competence is qualified to be elected as leader. Once a leader fails to uphold justice, loses the people's support, or personally deviates from the righteous path and commits injustices, they can be removed by the Muslims, or even legally held accountable through military action if necessary. Now, it is for us to decide the fate of this leader."
+EDG_LEB_mission_2_5_a_yes:0 "£yes£Complete the mission by protecting the Caliph."
+EDG_LEB_mission_2_5_a_no:0 "£no£Complete the mission by protecting the Caliph."
+EDG_LEB_mission_2_5_b_yes:0 "£yes£Complete the mission by deposing the Caliph."
+EDG_LEB_mission_2_5_b_no:0 "£no£Complete the mission by deposing the Caliph."
+
+EDG_LEB_2_6_title:0 "Settling Tribal Conflicts"
+EDG_LEB_2_6_desc:0 "Although Najd is not the most prosperous land in Arabia, its central location on the peninsula has made it a battleground where many foreign empires have vied for regional hegemony with local tribes. We will not allow these long-standing feuds to continue."
+
+EDG_LEB_2_10_title:0 "Where the Dream Began"
+EDG_LEB_2_10_desc:0 "Al-Andalus was once a vital part of the Islamic world, home to many scholars and philosophers, and the birthplace of our republican ideals. Yet now, they are trapped under the yoke of Western tyrants. Let us cross the Strait of Gibraltar and deliver a powerful lesson to those tyrants."
+
+EDG_LEB_2_11_title:0 "Revenge on the Crusaders" # Revenge Against the Crusaders
+EDG_LEB_2_11_desc:0 "The nine Crusades in history were undeniably acts of barbaric aggression. Tyrants plundered our lands in the name of faith. Today, the Caliph will once again follow the path of Muslim predecessors in their conquest of France. This time, the power of Allah will be supreme."
+
+EDG_LEB_3_1_title:0 "Declaration of Independence"
+EDG_LEB_3_1_desc:0 "The decline of the Sāhada is inevitable. The people of Lebanon and even the Syrian states should not be dragged into the mire of Sāhada's collapse."
+EDG_flavorLEB_mission.8_tt:0 "§GEvent Foreshadowing:§!\n@LEB Lebanon, @DMA Damascus, and @FAD Fadl will gain independence from @FYM Sāhada. We will increase our military technology by one level and gain some temporary powerful modifiers."
+
+EDG_LEB_3_3_title:0 "The Syrian Alliance"
+EDG_LEB_3_3_desc:0 "Lebanon, Damascus, and Fadl are nations that gained independence after the Bahri Mamluk Sultanate lost control of the Syrian region. In this critical moment of Sāhada's collapse, the three states will form an unbreakable alliance to resist the aggression of Turkic marauders and the resurgence of the Mamluks."
+EDG_flavorLEB_mission.2_tt:0 "§GEvent Foreshadowing:§!\n@DMA Damascus and @FAD Fadl will choose whether to become our allies."
+
+EDG_LEB_3_4_title:0 "Religion in the Alliance" # Religious Issues Within the Alliance
+EDG_LEB_3_4_desc:0 "An alliance without a unified guiding ideology is fragile. We must place the alliance under the noble ideals of Ibadism!"
+EDG_flavorLEB_mission.3_tt:0 "§GEvent Foreshadowing:§!\n@DMA Damascus and @FAD Fadl will convert to Ibadism."
+
+EDG_LEB_3_5_title:0 "One Sovereignty"
+EDG_LEB_3_5_desc:0 "Multiple sovereignties lead to chaos; all of Syria must be placed under the control of a single regime."
+EDG_flavorLEB_mission.4_tt:0 "§GEvent Foreshadowing:§!\nAnnex @DMA Damascus and @FAD Fadl."
+
+EDG_LEB_3_7_title:0 "Expel the Jabrid Dynasty"
+EDG_LEB_3_7_desc:0 "Most of the eastern coast is controlled by the Jabrid Dynasty, a Shiite dynasty with ambitions extending to the south and west. Let us curb their power before we become their target."
+
+EDG_LEB_3_8_title:0 "Unify the Homeland"
+EDG_LEB_3_8_desc:0 "Since the era of the first Caliph, Arab tribes have never sworn allegiance to a single ruler; even then, they frequently rebelled, leading to civil wars within the Caliphate—the Fitnas. This will not happen under our rule. We will restore the era of Islamic unity."
+
+EDG_LEB_3_9_title:0 "Tyrants Reap Their Due"
+EDG_LEB_3_9_desc:0 "For centuries, the Islamic world has not seen a wise ruler like the first three Caliphs; the people have suffered endlessly under hardship. Distorting sacred teachings and oppressing the people—these are the deeds of tyrants. We will spread the ideals of Ibadism and put an end to all tyrants. Secular bloodlines are meaningless, and tyrants shall reap their due!"
+EDG_LEB_3_10_tt:0 "Unlock the §GSpread Islam§! casus belli. War declaration regions will be unlocked by subsequent missions."
+EDG_LEB_3_10_a_tt:0 "Unlock the §ROverthrow the Tyrant§! casus belli, usable only against monarchies."
+
+EDG_LEB_3_10_title:0 "Zanzibar Trade"
+EDG_LEB_3_10_desc:0 "Through Muslim merchants, the word of Allah has already reached the southeastern corner of Africa. That said, Islam in this region is only superficially based among the trading elites and remains weak. It is evident that the local Sultans and Chieftains are unwilling to spread the faith, so we must take matters into our own hands."
+
+EDG_LEB_3_12_title:0 "The Rightly Guided"
+EDG_LEB_3_12_desc:0 "Since the passing of the Prophet Muhammad, Islam has experienced several golden ages, yet only the four Rightly Guided Caliphs who succeeded the Prophet are universally recognized by the Islamic world. It has been a long time since any Islamic state could claim the piety and prestige that the Rashidun Caliphs possessed before the division of the Islamic world. Have our actions so far earned us the right to declare ourselves 'The Rightly Guided' among all other Muslims?"
+
+EDG_LEB_4_2_title:0 "Infrastructure Development"
+EDG_LEB_4_2_desc:0 "Construct infrastructure to enhance control within our borders, gathering strength to resist enemies that threaten the Republic."
+
+EDG_LEB_4_4_title:0 "Star of Fortresses"
+EDG_LEB_4_4_desc:0 "The Northern Expedition has achieved a phased victory. To protect our compatriots, we will actively construct defensive fortifications in Syria, rebuilding the prosperity of the Umayyad era."
+
+EDG_LEB_4_5_title:0 "Control Trade"
+EDG_LEB_4_5_desc:0 "After gaining control of the Levantine coast, trade has begun to recover, and the Republic's economy is improving."
+
+EDG_LEB_4_6_title:0 "Cedars and Crescent"
+EDG_LEB_4_6_desc:0 "Lebanon is known as the 'Land of Cedars,' with a deep connection to these trees. The pharaohs' ships of ancient Egypt, the Temple of Solomon in Jerusalem, even the thrones of Roman emperors were crafted from Lebanese cedar wood. Now, beneath these cedars and upon this fertile soil, a new Republic is rising, our blades as sharp as the crescent moon."
+EDG_flavorLEB_mission.5_tt:0 "§GEvent Foreshadowing:§!\nForm the nation @M06 Crescent Alliance and unlock the diplomatic interaction to export grain."
+
+EDG_LEB_5_3_title:0 "North Against the White Sheep" # Northern Expedition Against the Aq Qoyunlu
+EDG_LEB_5_3_desc:0 "The ambitious Aq Qoyunlu tribe to the north is a threat. Before their blades fall upon us, we should seize the opportunity to strike first."
+EDG_flavorLEB_mission.6_tt:0 "§GEvent Foreshadowing:§!\nDeclare war on the Aq Qoyunlu with an annexation casus belli.\n\n§YMission conditions and rewards will change if the Aq Qoyunlu lose Aleppo.§!"
+
+EDG_LEB_5_5_title:0 "Maritime Outpost"
+EDG_LEB_5_5_desc:0 "The Crusades brought immense suffering to the people of the Levant, and remnants of these Crusaders, representing European tyrants, still lurk along the Palestinian coast. Destroy their stronghold on Cyprus and cut off their supplies."
+EDG_flavorLEB_mission.7_tt:0 "§GEvent Foreshadowing:§!\nGain a small amount of Mercantilism and add a province modifier to the island of Cyprus."
+
+EDG_LEB_5_7_title:0 "Master of the Two Rivers"
+EDG_LEB_5_7_desc:0 "The Euphrates and Tigris rivers have nurtured numerous civilizations. Iraq is renowned in the Muslim world for its scientific advancements during the Abbasid Caliphate. Both the land and its knowledge will contribute to the Republic's strength."
+
+EDG_LEB_5_1_title:0 "Spice Trade"
+EDG_LEB_5_1_desc:0 "Spices are highly valuable commodities worldwide. Controlling the global supply of these goods will indeed make us wealthy."
+
+EDG_LEB_5_2_title:0 "Silk Road"
+EDG_LEB_5_2_desc:0 "For millennia, nations that controlled major portions of the Silk Road reaped immense wealth from its trade. Now, it is our turn to enjoy these benefits."
+
+EDG_LEB_4_10_title:0 "Defeat Persia"
+EDG_LEB_4_10_desc:0 "Iranian culture has greatly influenced neighboring countries. Regrettably, this land is currently torn apart by powerful factions. Let us conquer Persia once more and end all its internal conflicts."
+
+EDG_LEB_4_11_title:0 "Enter the Sulaimans" # Enter the Sulaiman Mountains
+EDG_LEB_4_11_desc:0 "Though the Caliphate's influence once halted at the Sulaiman Mountains, the word of Allah has spread further, reaching Nusantara, India, and along the Silk Road. However, many in these regions tend to blend Islam with local beliefs, promoting false idolatry. We need to penetrate these societies."
+
+EDG_LEB_5_9_title:0 "Enter the North"
+EDG_LEB_5_9_desc:0 "Our lands in the Mashriq are defended only by a few local fortresses standing on open plains formed by river alluvium. We need to expand our buffer zones to deny our enemies any room for maneuver."
+
+EDG_LEB_5_11_title:0 "Defeat the Aspirants"
+EDG_LEB_5_11_desc:0 "The Anatolian Peninsula is a crucial strategic point. Whether it is held by Bulgarians or Ottomans, it poses a significant threat to us. We must ensure its security."
+
+
+
+
+
+EDG_LEB_1_13_title:0 "Liberate the Mamluks"
+EDG_LEB_1_13_desc:0 "Mamluks originally were slaves, most of them non-Muslim youths captured from the Caucasus and the northern Black Sea regions. Some were seized by slave traders and sold to the Middle East, then formed into mercenary armies by Caliphs and Sultans, while others came from certain eastern tribes who were selected by Caliphs and Sultans to serve as their mercenaries. We will put an end to the Mamluk system; no one should be a slave."
+
+EDG_LEB_1_15_title:0 "Multicultural Republic"
+EDG_LEB_1_15_desc:0 "Multiple cultures intertwine within the Republic. The balance of a multi-ethnic nation is of great importance."
+
+EDG_LEB_1_18_title:0 "Military Education"
+EDG_LEB_1_18_desc:0 "Military academy education refers to the activities of military academies in cultivating various types of personnel at all levels. It encompasses military education and is distinct from military vocational training. Military academy education is the main channel for cultivating military talent. Its primary functions are to impart fundamental theories, basic knowledge, and essential skills, and to foster ways of thinking, learning abilities, and innovative awareness."
+
+EDG_LEB_1_20_title:0 "Damascus Arsenal"
+EDG_LEB_1_20_desc:0 "An arsenal is a place for manufacturing weapons and armor. In peacetime, it is used for repairing and storing armaments. Soldiers only carry weapons and armor when about to engage in close combat with the enemy. The first arsenals appeared alongside the first professional armies of Sumer and Akkad. Every standing army has its arsenal, which might be a simple yet heavily guarded warehouse or equipped only for producing firearms."
+EDG_LEB_mission_1_20_tt:0 "Upon completing full military Westernization, the Republic Military Reform event chain will be triggered."
+
+EDG_LEB_1_21_title:0 "Republic's Peasants"
+EDG_LEB_1_21_desc:0 "Our Republic emulates the Catalan system, granting a large number of peasants and artisans political power for the first time. Though the future remains uncertain, this has undoubtedly mobilized their productive enthusiasm."
+EDG_LEB_mission_1_21_tt:0 "When we §Ymanually increase§! province development, gain one point of §GSplendor§!"
+
+EDG_LEB_1_23_title:0 "Guard the Mother River"
+EDG_LEB_1_23_desc:0 "The Nile River is the lifeline of the Republic, playing an irreplaceable role in its development. It is the artery of the land, nourishing the earth and sustaining the people generation after generation, serving as the cradle for the development of human civilization. Guard our Mother River, and end the suffering of the Islamic world."
+EDG_LEB_mission_1_23_tt:0 "Allows the use of the Water Council government reform."
+
+
+EDG_LEB_2_12_title:0 "Consolidate the Republic"
+EDG_LEB_2_12_desc:0 "The Ibadi school emphasizes that a leader's duty is to remain loyal to Allah's commandments, implement Sharia law, uphold justice and fairness, resist enemies, and protect the faithful. All leaders, including the sect's Imams Jabir and Abdullah ibn Ibad, are equal to ordinary Muslims in terms of rights and obligations as defined by Sharia. This aligns perfectly with republicanism. Republicanism is the foundation of Lebanon's statehood; we must never allow Lebanon to fall into the hands of tyrants!"
+
+EDG_LEB_2_14_title:0 "Pacify Local Emirs"
+EDG_LEB_2_14_desc:0 "In territories beyond the large towns and settlements, numerous emirs and sheikhs are scattered across the land. Their loyalty is certainly questionable. Let us ensure their allegiance through various means by forging alliances with them."
+
+EDG_LEB_2_15_title:0 "Levantine Renaissance"
+EDG_LEB_2_15_desc:0 "The Arab Golden Age has long passed, but with the rise of the Republic, a movement akin to the Western 'Renaissance' has emerged. Our technology and culture are once again bursting with vitality."
+EDG_LEB_mission_2_15_tt:0 "Enable the §YLevantine Renaissance§! event group."
+
+EDG_LEB_2_16_title:0 "Complete Modernization"
+EDG_LEB_2_16_desc:0 "We have learned much from the West. Now, the fully modernized Republic will take the next step and forge its own path."
+EDG_LEB_EGY_ALL_tt:0 "Complete all Egyptian modernization interactions."
+
+EDG_LEB_2_17_title:0 "Popular Front"
+EDG_LEB_2_17_desc:0 "In the endless struggle, our soldiers will form the Republic's unbreakable line of defense!"
+
+EDG_LEB_2_18_title:0 "Courage and Freedom"
+EDG_LEB_2_18_desc:0 "The Bedouins dedicate themselves to maintaining the pure bloodline of their desert steeds, cultivating exceptional traits and quality. Mares are the most prized possession of the Bedouins, and the harsh desert environment allows only the strongest horses to survive. These factors collectively shape the characteristics of the Arabian horse we see today. 'Flight requires no wings; victory requires no sword.' These spirited horses symbolize our courage and freedom. Together with their iron hooves, we will shatter all shackles!"
+EDG_LEB_mission_2_18_tt:0 "When we §Ymanually increase§! development in an Arabian or Bedouin-cultured province that produces livestock, there is a one-quarter chance to trigger the §O'Desert Steeds'§! event, which enhances our cavalry. This event can be triggered repeatedly until the province gains the §OLegendary Arabian Horses§! province modifier."
+
+EDG_LEB_2_19_title:0 "Republican Guard"
+EDG_LEB_2_19_desc:0 "The Mamluk system was built upon the foul slave trade and bloody rule, yet it has left a valuable legacy of warfare for the Republic. By reorganizing and incorporating the former Mamluks, they will become our loyal Republican Guard."
+EDG_LEB_mission_2_19_tt:0 "Unlock the privilege for the Emir estate to recruit Mamluks."
+
+EDG_LEB_2_21_title:0 "Establish Republican Military Authority"
+EDG_LEB_2_21_desc:0 "A prosperous empire requires a powerful military for its protection. After a long period of reform, we have established a military authority belonging to the Republic."
+
+EDG_LEB_2_22_title:0 "Cultivate the Nile Delta"
+EDG_LEB_2_22_desc:0 "The interconnected waterways between the Nile and the Mediterranean coast possess incredibly precious and fertile land. We must invest in the continued prosperity of this region!"
+
+EDG_LEB_2_23_title:0 "Cultivate Mesopotamia"
+EDG_LEB_2_23_desc:0 "The land between the banks of the Euphrates and Tigris rivers is incredibly precious and fertile. We must invest in the continued prosperity of this region!"
+EDG_LEB_2_23_tt:0 "Ten random Iraqi provinces gain +1 to all development categories."
+
+EDG_LEB_2_24_title:0 "Struggle for the Source"
+EDG_LEB_2_24_desc:0 "Fighting over water sources is a rule passed down from the tribal era. The major water sources of the Islamic world are now entirely under the Republic's control. It is time to plan the next step in our development."
+EDG_LEB_mission_2_24_tt:0 "Expand the capabilities of the Great River Wardens and provide §M+0.10 Monthly Source Power§!"
+
+EDG_LEB_3_14_title:0 "Implement Shura"
+EDG_LEB_3_14_desc:0 "No monarch can rule alone. Let us draw examples from the Quran and seek counsel from the people and court members regarding the actions they wish [Root.Country.GetName] to take."
+
+EDG_LEB_3_15_title:0 "Traditionalist Tafsir"
+EDG_LEB_3_15_desc:0 "As a nation in the heartland of Islam, many scholars in the Arabian Peninsula have developed a more traditionalist view of Islamic jurisprudence. They tend to focus on the Quran and Hadith, reject Sufi practices, and pay little attention to the rulings of Islamic jurists."
+
+EDG_LEB_3_17_title:0 "The Glory is Ours"
+EDG_LEB_3_17_desc:0 "Through successive reforms, the Republic has finally achieved renewed glory for the Islamic world. Rejoice, for this victory belongs to us."
+
+EDG_LEB_3_18_title:0 "Alexandrian Trade"
+EDG_LEB_3_18_desc:0 "We cannot allow foreign merchants to monopolize our own Mediterranean ports. To this end, we should fund the construction of several new markets to support our own merchants."
+
+EDG_LEB_3_19_title:0 "Consolidate Maritime Defenses"
+EDG_LEB_3_19_desc:0 "Maritime defenses are as important as those on land; they lay the foundation for a favorable trading environment."
+
+EDG_LEB_3_20_title:0 "Superior Navy"
+EDG_LEB_3_20_desc:0 "The sea is merciless, showing no pity for sailors. A powerful fleet will secure our dominion over the seas, further elevate our standing around the Mediterranean, and allow us to reform into a professional navy."
+
+EDG_LEB_3_22_title:0 "Traverse the Harsh Sands"
+EDG_LEB_3_22_desc:0 "Many outsiders wonder how the Najdi people sustain their tribes in the extreme, arid environment of Najd. This remarkable environmental adaptation allows Bedouin tribes to thrive in lands where little else can."
+
+EDG_LEB_3_23_title:0 "Cities Among the Dunes"
+EDG_LEB_3_23_desc:0 "Built on rugged terrain, establishing these cities among the dunes is fundamental to ruling Arabia. The Republic will not abandon any of its people, even those living in the harsh desert."
+
+EDG_LEB_3_24_title:0 "Build Riyadh"
+EDG_LEB_3_24_desc:0 "Let us construct a new trading city for our nation. Despite the difficult terrain, this city will serve as a crucial stop on the pilgrimage from Iraq to Mecca."
+EDG_LEB_3_24_tt:0 "When we §Ymanually increase§! development in desert or coastal desert provinces with the §YSand Barrier§! modifier, there is a one-quarter chance to trigger the §O'Sacred Path'§! event."
+
+EDG_LEB_3_25_title:0 "The Great Nation"
+EDG_LEB_3_25_desc:0 "Whether it is the surging rivers or the untamed deserts, all are part of the Republic's prosperous land. We wrestle with nature, taming the earth. The Republic has become the unparalleled hegemon of this land!"
+
+
+EDG_LEB_4_12_title:0 "Protector of the Holy Cities"
+EDG_LEB_4_12_desc:0 "The holy cities of Islam are ruled by weak and decadent dynasties. We need to claim and control these cities."
+
+EDG_LEB_4_14_title:0 "Establish Madrassas"
+EDG_LEB_4_14_desc:0 "Madrassas are the primary educational institutions in the Islamic world. They are usually built near mosques and have given rise to a prosperous class of Ulama."
+
+EDG_LEB_4_15_title:0 "Rights of the Dhimmi"
+EDG_LEB_4_15_desc:0 "Dhimmis have the right to live in an Islamic state based on Sharia law, with their personal rights protected by the state. However, they may not wear green clothing, ride horses, build new religious sites, or have religious sites taller than mosques. They must pay the Jizya tax, and their testimony in court may not be accepted by the judge. If they renounce their Dhimmi status or knowingly violate the norms of the Islamic state, they are no longer protected."
+EDG_LEB_4_15_tt:0 "Unlocks the Dhimmi privilege: Local Specialty Industries."
+
+EDG_LEB_4_16_title:0 "Balance of Faith"
+EDG_LEB_4_16_desc:0 "Ibadism is the unquestionable guiding ideology of the Republic, yet we still treat Muslims of other sects and non-believers with equal regard. This delicate balance of faith is hard-won and serves as a symbol of the Republic's openness and inclusiveness."
+EDG_LEB_4_16_tt:0 "When we §Ymanually increase§! development in a non-state-religion province, there is a one-quarter chance to convert the local religion to the state religion."
+
+EDG_LEB_4_17_title:0 "Protect Caravans"
+EDG_LEB_4_17_desc:0 "Numerous caravans carrying fine goods and pilgrims pass through our arid territories towards the west and south. There are many who would attempt to raid these caravans, so we need to protect them."
+
+EDG_LEB_4_18_title:0 "Wealth and Power"
+EDG_LEB_4_18_desc:0 "Many Arabs also reside in this rich strategic crossroads. Located at the intersection of important trade routes, they act as middlemen in the prosperous spice trade, allowing the Republic to grow strong through commerce."
+
+EDG_LEB_4_19_title:0 "Between Two Seas"
+EDG_LEB_4_19_desc:0 "The maritime trade between the Indian Ocean and the Mediterranean brought immense wealth to the rise of the Arab empires. As the successor to the Caliphate, the Republic should safeguard this hard-earned prosperity."
+
+EDG_LEB_4_21_title:0 "Establish Republican Trade Authority"
+EDG_LEB_4_21_desc:0 "The Republic's strength has once again stabilized trade in the Eastern Mediterranean. With the Gulf Arabs rejoining the Republic, the Eastern trade routes they preserved during the tumultuous times now hold our precious wealth. We will rebuild Arab influence in world trade."
+EDG_LEB_4_21_tt:0 "Enable the §YMaritime Silk Road§! event group."
+
+EDG_LEB_4_22_title:0 "Traverse the Wilderness" # Traverse the Wilderness Mountains
+EDG_LEB_4_22_desc:0 "The Sarawat Mountain region is a vital economic zone of the Arabian Peninsula. Many wadis originate here, providing precious water resources to surrounding areas. Natural passages within the mountains connect the interior to the coast and the north to the south, facilitating communication and trade across the Arabian Peninsula."
+EDG_LEB_4_22_tt:0 "Unlocks the decision: Construct Sarawat Mountain Passes."
+EDG_LEB_has_developed_mountain_provinces:0 "Need to increase development in §YMountain§!, §YHighlands§!, or §YHills§! provinces at least §G20§! times. (Current count: §Y[Root.EDG_num_of_times_developed_mountain.GetValue]§!.)"
+
+EDG_LEB_4_23_title:0 "Expand Jeddah Port"
+EDG_LEB_4_23_desc:0 "Jeddah is the main port for Mecca and a necessary stop for any pilgrim arriving by sea. Expanding this city will make it easier for people to reach the Holy City and will contribute to the Republic's economic development."
+
+EDG_LEB_4_24_title:0 "Creating Prosperity" # Create Prosperity with Our Hands
+EDG_LEB_4_24_desc:0 "The Arabian Peninsula lacks the favorable environment of other regions; wealth always stems from our hard work. The diligent people of the Republic will create prosperity with their own hands."
+EDG_LEB_4_24_tt:0 "When §TSource Power§! reaches its maximum, provides us with §G-5% All Power Costs§!"
+
+EDG_LEB_5_13_title:0 "Safeguard the Pilgrimage Route"
+EDG_LEB_5_13_desc:0 "Every year, thousands of Muslims travel to Mecca to fulfill their pilgrimage obligation. It is our duty to protect them from any harm. Failure to uphold this responsibility may bring consequences."
+
+EDG_LEB_5_15_title:0 "Spirit of the Hajj"
+EDG_LEB_5_15_desc:0 "Our role as protectors of the Holy Cities and guardians of the brave pilgrims has earned us a positive reputation in the Islamic world. Let us continue to develop the Holy Sites and ensure peace in our corner of the world."
+
+EDG_LEB_5_18_title:0 "Basra Trade"
+EDG_LEB_5_18_desc:0 "The trade revenue from the markets of Basra will surely be a valuable addition to our treasury!"
+EDG_LEB_5_18_tt:0 "Enable the §YCultural Borderlands§! event group."
+
+EDG_LEB_5_20_title:0 "Complete the Republic's Lifeline"
+EDG_LEB_5_20_desc:0 "The land separating the Red Sea and the Mediterranean has inspired our advisors with an engineering project. By connecting the two seas, our ships can navigate between them with much greater ease."
+
+EDG_LEB_5_21_title:0 "Beginning in Fertile Land"
+EDG_LEB_5_21_desc:0 "The Fertile Crescent and the Nile Delta possess the finest agricultural conditions in the entire Eastern Mediterranean. Developing the farmlands of this fertile region to nourish the Republic's people is the first step in the Republic's grand plan."
+EDG_LEB_5_21_tt:0 "When §TSource Power§! reaches its maximum, provides us with §G-10% Development Cost§!"
+
+EDG_LEB_5_23_title:0 "Guardian of the Holy Cities" # Guardianship of the Two Holy Cities
+EDG_LEB_5_23_desc:0 "As the owner of the Holy Cities of Mecca and Medina, our sacred duty is to appoint suitable administrators and do everything in our power to ensure the prosperity of the city streets and the safety of the Holy Sites. Any Muslim wishing to perform pilgrimage here should be able to do so free from fear."
+EDG_LEB_5_23_tt:0 "Periodically triggers the §O'Pilgrimage Economy'§! event, granting a random province in the Mecca region §G+1 to a random development category§!."

@@ -1,0 +1,135 @@
+﻿l_english:
+EDG_FEO_missions_event.1.t:0 "Successor of Rome?"
+EDG_FEO_missions_event.1.d:0 "Many emperors came before us. Some lived glorious lives, reclaiming territories that once belonged to Rome, while others were the cause of Rome's decline. Now, standing within the Hagia Sophia, it is time to make a decision. Should we inherit the legacy of Rome, or choose a different path?"
+EDG_FEO_missions_event.1.a:0 "We are the rightful successors of the Eastern Roman Empire!"
+EDG_FEO_missions_event.1.b:0 "We are not successors of Rome, but the remnant of the Goths."
+
+EDG_FEO_missions_event.2.t:0 "The Fate of the Doukas"
+EDG_FEO_missions_event.2.d:0 "Supporters of the Doukas dynasty, seeing his power wane, have submitted to us, bowing their heads in allegiance.\nTatar tribal leaders wish for us to reclaim pastures that belong to them. They are willing to provide military support, but agreeing to their request will inevitably entangle us in the wars of Rus'."
+EDG_FEO_missions_event.2.a:0 "Without the help of the Tatars, we would not be where we are today."
+EDG_FEO_missions_event.2.b:0 "Set it aside for now."
+
+EDG_FEO_missions_event.3.t:0 "Seek the Aid of the Tatars?"
+EDG_FEO_missions_event.3.d:0 "In the Tatar lands we recently conquered, we brought them under our rule. Due to our friendly policies, many Tatar tribal leaders have engaged in extensive trade and marital alliances with us. Now, at this critical moment, the brave and skilled Tatar warriors will surely agree to fight alongside us. We have prepared gifts to visit the most respected leader among the Tatar tribes."
+EDG_FEO_missions_event.3.a:0 "The Tatars declined our gifts, asking only for a share of the spoils."
+EDG_FEO_missions_event.3.b:0 "No need."
+
+EDG_FEO_missions_event.4.t:0 "Crimean Marriage Alliance"
+EDG_FEO_missions_event.4.d:0 "The King of Theodoro wed the most influential tribal princess of Crimea in a ceremony held in Crimea. However, it was not love that brokered this union, but political calculation—Theodoro yearns to control the nomadic tribes of the steppe, while the nomadic leaders need assistance to reclaim territories occupied by the Rus'."
+EDG_FEO_missions_event.4.a:0 "Seize the opportunity."
+EDG_FEO_missions_event.4.b:0 "Let it be. It is better to marry a worthy person from our own land."
+
+EDG_FEO_missions_event.5.t:0 "Integrating with the Tatars"
+EDG_FEO_missions_event.5.d:0 "Due to years of living intermingled with the Tatars, many of our officers wish to incorporate Tatars into our ranks as part of our cavalry forces, for they are the most fearsome riders we have ever seen.\nAfter the marriage alliance with the Tatars, a daughter was born. She is so lovely that she will surely restore Gothic glory in the future."
+EDG_FEO_missions_event.5.a:0 "Integrate with the Tatars"
+
+EDG_FEO_missions_event.6.t:0 "Gothic Rebirth"
+EDG_FEO_missions_event.6.d:0 "The Gothic state has been reborn from the ashes, yet the Gothic way of life has not. Our homeland has not been returned, the occupiers have not knelt in submission to us, and they shall ultimately bow before our blades."
+EDG_FEO_missions_event.6.a:0 "Reborn from the Ashes"
+
+EDG_FEO_missions_event.7.t:0 "Our Faith"
+EDG_FEO_missions_event.7.d:0 "It is time to decide our faith. If we wish to avoid doom, we must attend to these religious matters.\nThe northern steppe nomads follow Islam; joining them might secure us aid.\nThe Latin merchants trading here are subjects of the Pope. Perhaps we can use their hand to seek the Pontiff's help."
+EDG_FEO_missions_event.7.a:0 "Have the Latin merchants deliver this letter to the Pope"
+EDG_FEO_missions_event.7.b:0 "Let us coexist peacefully with the Tatars"
+EDG_FEO_missions_event.7.c:0 "The rising Safavid Order is a fine alternative"
+EDG_FEO_missions_event.7.e:0 "The Last Guardians of the Orthodox Faith"
+
+EDG_FEO_missions_event.8.t:0 "Discussions on Trade Company Territories and their City-States"
+EDG_FEO_missions_event.8.d:0 "We have gathered the heads of various merchant groups to discuss policies regarding the deployment of trade company territories and their city-states."
+EDG_FEO_missions_event.8.a:0 "Expand Scale"
+EDG_FEO_missions_event.8.b:0 "Submit Tribute"
+EDG_FEO_missions_event.8.c:0 "Increase Tariffs"
+
+EDG_FEO_missions_event.9.t:0 "Strengthening Control over the Gothic Corps"
+EDG_FEO_missions_event.9.d:0 "We must enhance our control over the Gothic Corps to prevent their betrayal."
+EDG_FEO_missions_event.9.a:0 "Accelerate Annexation"
+EDG_FEO_missions_event.9.b:0 "Diplomatic Immunity"
+EDG_FEO_missions_event.9.c:0 "Compulsory Service"
+EDG_FEO_missions_event.9.e:0 "Forced Conscription"
+EDG_FEO_missions_event.9.f:0 "Manpower Supply"
+EDG_FEO_missions_event.9.g:0 "Promote Vassal Officers"
+
+EDG_FEO_missions_event.10.t:0 "Granting Privileges to the Gothic Corps"
+EDG_FEO_missions_event.10.d:0 "We must appropriately delegate power to the Corps, so they understand to whom their loyalty is owed."
+EDG_FEO_missions_event.10.a:0 "Reduce Independence"
+EDG_FEO_missions_event.10.b:0 "Train Vassal Armies"
+EDG_FEO_missions_event.10.c:0 "Cultivate Senior Officers"
+EDG_FEO_missions_event.10.e:0 "Wartime Conscription"
+EDG_FEO_missions_event.10.f:0 "Absolute Loyalty"
+EDG_FEO_missions_event.10.g:0 "Conscript Vassal Manpower"
+
+EDG_FEO_D4_1_modifier:0 "Theater Commander"
+EDG_FEO_E4_1_modifier:0 "Commander of the Praetorian Guard"
+EDG_FEO_D1_5_modifier:0 "Legacy of the Seljuks"
+EDG_FEO_D4_3_modifier:0 "Wings of Freedom"
+EDG_FEO_E4_2_modifier:0 "Return of the Four Hounds"
+
+EDG_FEO_missions_event.13.t:0 "The Submission of Genghis Khan"
+EDG_FEO_missions_event.13.d:0 "Genghis Khan, descendant of the Golden Horde, has bowed in submission before our mighty force. Now the steppe tribes hail us as the new Khan, the Gothic Khan."
+EDG_FEO_missions_event.13.a:0 "The Gothic Khan"
+
+EDG_FEO_missions_event.14.t:0 "The First Migration Movement"
+EDG_FEO_missions_event.14.d:0 "Under the protection of the [FEO.GetName] Empire, the Greek people have successively migrated to this fertile and safe land to toil diligently."
+EDG_FEO_missions_event.14.a:0 "Very Effective"
+EDG_FEO_missions_event.14.b:0 "Gain Benefits"
+
+EDG_FEO_missions_event.15.t:0 "The Second Migration Movement"
+EDG_FEO_missions_event.15.d:0 "Under the protection of the [FEO.GetName] Empire, the Greek people have successively migrated to this fertile and safe land to toil diligently."
+EDG_FEO_missions_event.15.a:0 "Very Effective"
+EDG_FEO_missions_event.15.b:0 "Gain Benefits"
+
+EDG_FEO_missions_event.16.t:0 "The Third Migration Movement"
+EDG_FEO_missions_event.16.d:0 "Under the protection of the [FEO.GetName] Empire, the Greek people have successively migrated to this fertile and safe land to toil diligently."
+EDG_FEO_missions_event.16.a:0 "Very Effective"
+EDG_FEO_missions_event.16.b:0 "Gain Benefits"
+
+EDG_FEO_missions_event.17.t:0 "Migration Movement"
+EDG_FEO_missions_event.17.d:0 "Under the protection of the [FEO.GetName] Empire, the Greek people have successively migrated to this fertile and safe land to toil diligently."
+EDG_FEO_missions_event.17.a:0 "Very Effective"
+
+EDG_FEO_missions_event.18.t:0 "Inviting Germanic Brethren"
+EDG_FEO_missions_event.18.d:0 "Under the protection of the [FEO.GetName] Empire, the German people have successively migrated to this fertile and safe land to toil diligently."
+EDG_FEO_missions_event.18.a:0 "Very Effective"
+
+EDG_FEO_missions_event.19.t:0 "The First Invitation Movement"
+EDG_FEO_missions_event.19.d:0 "Under the protection of the [FEO.GetName] Empire, the German people have successively migrated to this fertile and safe land to toil diligently."
+EDG_FEO_missions_event.19.a:0 "Very Effective"
+EDG_FEO_missions_event.19.b:0 "Gain Benefits"
+
+EDG_FEO_missions_event.20.t:0 "The Second Invitation Movement"
+EDG_FEO_missions_event.20.d:0 "Under the protection of the [FEO.GetName] Empire, the German people have successively migrated to this fertile and safe land to toil diligently."
+EDG_FEO_missions_event.20.a:0 "Very Effective"
+EDG_FEO_missions_event.20.b:0 "Gain Benefits"
+
+EDG_FEO_missions_event.21.t:0 "The Third Invitation Movement"
+EDG_FEO_missions_event.21.d:0 "Under the protection of the [FEO.GetName] Empire, the German people have successively migrated to this fertile and safe land to toil diligently."
+EDG_FEO_missions_event.21.a:0 "Very Effective"
+EDG_FEO_missions_event.21.b:0 "Gain Benefits"
+
+EDG_FEO_missions_event.22.t:0 "Assimilating the Rus' People"
+EDG_FEO_missions_event.22.d:0 "Rus' culture, like its people, is barbaric and ignorant. Now we teach them etiquette and morality, making them learn like we, the Great Germanic people, do."
+EDG_FEO_missions_event.22.a:0 "Very Effective"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

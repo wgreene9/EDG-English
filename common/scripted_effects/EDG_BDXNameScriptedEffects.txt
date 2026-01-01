@@ -1,7 +1,7 @@
 EDG_BDX_define_ruler_iskander_effect = {
 	define_ruler = {
-		name = "伊斯坎德尔"
-		dynasty = "阿吉德"
+		name = "Iskander"
+		dynasty = "Argead"
 		adm = 6
 		dip = 4
 		mil = 6
@@ -14,8 +14,9 @@ EDG_BDX_define_ruler_iskander_effect = {
 
 EDG_BDX_define_heir_iskander_effect = {
 	define_heir = {
-		name = "伊斯坎德尔"
-		dynasty = "阿吉德"
+		
+		name = "Iskander"
+		dynasty = "Argead"
 		adm = 6
 		dip = 4
 		mil = 6
@@ -27,150 +28,165 @@ EDG_BDX_define_heir_iskander_effect = {
 }
 
 EDG_BDX_rename_to_bactra_effect = {
-	change_province_name = "巴克特拉"
-	rename_capital = "巴克特拉"
+	change_province_name = "Bactria"
+	rename_capital = "Bactria"
 }
 
 EDG_BDX_rename_to_babylon_effect = {
-	change_province_name = "巴比伦"
-	rename_capital = "巴比伦"
+	change_province_name = "Babylon"
+	rename_capital = "Babylon"
 }
 
 EDG_BDX_rename_to_sagala_effect = {
-	change_province_name = "奢羯罗"
-	rename_capital = "奢羯罗"
+	change_province_name = "Sagala"
+	rename_capital = "Sagala"
 }
 
 EDG_BDX_rename_to_taxila_effect = {
-	change_province_name = "呾叉始罗"
-	rename_capital = "呾叉始罗"
+	change_province_name = "Taxila"
+	rename_capital = "Taxila"
 }
 
 EDG_BDX_rename_to_tylos_effect = {
-	change_province_name = "提洛斯"
-	rename_capital = "提洛斯"
+	change_province_name = "Tylos"
+	rename_capital = "Tylos"
 }
 
 EDG_BDX_rename_to_tyre_effect = {
-	change_province_name = "推罗"
-	rename_capital = "推罗"
+	change_province_name = "Tyre"
+	rename_capital = "Tyre"
 }
 
 EDG_BDX_rename_to_egyptian_babylon_effect = {
-	change_province_name = "埃及的巴比伦"
-	rename_capital = "埃及的巴比伦"
+	change_province_name = "Egyptian Babylon"
+	rename_capital = "Egyptian Babylon"
 }
 
 EDG_BDX_rename_to_byzantine_effect = {
-	change_province_name = "拜占庭"
-	rename_capital = "拜占庭"
+	change_province_name = "Byzantium"
+	rename_capital = "Byzantium"
 }
 
 EDG_BDX_rename_to_pella_effect = {
-	change_province_name = "佩拉"
-	rename_capital = "佩拉"
+	change_province_name = "Pella"
+	rename_capital = "Pella"
 }
 
 EDG_BDX_rename_to_alexandria_eschate_effect = {
-	change_province_name = "极域亚历山大里亚"
-	rename_capital = "极域亚历山大里亚"
+	change_province_name = "Alexandria Eschatos"
+	rename_capital = "Alexandria Eschatos"
 }
 
 EDG_BDX_rename_to_alexandria_oxiana_effect = {
-	change_province_name = "乌浒河畔亚历山大里亚"
-	rename_capital = "乌浒河畔亚历山大里亚"
+	change_province_name = "Alexandria Oxiana"
+	rename_capital = "Alexandria Oxiana"
 }
 
 EDG_BDX_rename_to_alexandria_caucasus_effect = {
-	change_province_name = "高加索亚历山大里亚"
-	rename_capital = "高加索亚历山大里亚"
+	change_province_name = "Alexandria Caucasiana"
+	rename_capital = "Alexandria Caucasiana"
 }
 
 EDG_BDX_rename_to_alexandria_ariana_effect = {
-	change_province_name = "阿里安那亚历山大里亚"
-	rename_capital = "阿里安那亚历山大里亚"
+	change_province_name = "Alexandria Ariana"
+	rename_capital = "Alexandria Ariana"
 }
 
 EDG_BDX_rename_to_alexandria_arachosia_effect = {
-	change_province_name = "阿拉霍西亚亚历山大里亚"
-	rename_capital = "阿拉霍西亚亚历山大里亚"
+	change_province_name = "Alexandria Arachosia"
+	rename_capital = "Alexandria Arachosia"
 }
 
 EDG_BDX_rename_to_alexandria_orietai_effect = {
-	change_province_name = "奥里埃塔亚历山大里亚"
-	rename_capital = "奥里埃塔亚历山大里亚"
+	change_province_name = "Alexandria Orientalis"
+	rename_capital = "Alexandria Orientalis"
 }
 
 EDG_BDX_rename_to_alexandria_on_indus_effect = {
-	change_province_name = "印度河畔亚历山大里亚"
-	rename_capital = "印度河畔亚历山大里亚"
+	change_province_name = "Alexandria Indiana"
+	rename_capital = "Alexandria Indiana"
 }
 
 EDG_BDX_rename_to_alexandria_nicaea_effect = {
-	change_province_name = "胜利亚历山大里亚"
-	rename_capital = "胜利亚历山大里亚"
+	change_province_name = "Alexandria Victoria"
+	rename_capital = "Alexandria Victoria"
 }
 
 EDG_BDX_rename_to_alexandria_margiana_effect = {
-	change_province_name = "马尔吉亚纳亚历山大里亚"
-	rename_capital = "马尔吉亚纳亚历山大里亚"
+	change_province_name = "Alexandria Margiana"
+	rename_capital = "Alexandria Margiana"
 }
 
 EDG_BDX_rename_to_alexandria_carmania_effect = {
-	change_province_name = "卡曼尼亚亚历山大里亚"
-	rename_capital = "卡曼尼亚亚历山大里亚"
+	change_province_name = "Alexandria Carmania"
+	rename_capital = "Alexandria Carmania"
 }
 
 EDG_BDX_rename_to_alexandria_issum_effect = {
-	change_province_name = "伊苏斯亚历山大里亚"
-	rename_capital = "伊苏斯亚历山大里亚"
+	change_province_name = "Alexandria Isum"
+	rename_capital = "Alexandria Isum"
 }
 
 EDG_BDX_rename_to_alexandria_latmos_effect = {
-	change_province_name = "拉特摩斯亚历山大里亚"
-	rename_capital = "拉特摩斯亚历山大里亚"
+	change_province_name = "Alexandria Latmos"
+	rename_capital = "Alexandria Latmos"
 }
 
 EDG_BDX_rename_to_alexandria_troas_effect = {
-	change_province_name = "特洛阿斯亚历山大里亚"
-	rename_capital = "特洛阿斯亚历山大里亚"
+	change_province_name = "Alexandria Troas"
+	rename_capital = "Alexandria Troas"
 }
 
 EDG_BDX_rename_to_alexandropolis_maedica_effect = {
-	change_province_name = "密底卡亚历山德罗波利斯"
-	rename_capital = "密底卡亚历山德罗波利斯"
+	change_province_name = "Alexandropolis Maedica" # Mytilini
+	rename_capital = "Alexandropolis Maedica"
 }
 
 EDG_BDX_create_flagship_effect = {
   create_flagship = {
-    name = "涅阿尔霍斯"
+    name = "Nearchos"
     type = heavy_ship
   }
 }
 
 EDG_BDX_rename_to_pushkalavati_effect = {
-	change_province_name = "犍陀罗"
-	rename_capital = "莲花城"
+	change_province_name = "Gandhara"
+	rename_capital = "Pushkalavati" # lotus City
 }
 
 EDG_BDX_rename_to_mathura_effect = {
-	change_province_name = "秣菟罗"
+	change_province_name = "Mathura"
 }
 
 EDG_BDX_rename_to_pataliputra_effect = {
-	change_province_name = "华氏城"
-	rename_capital = "华氏城"
+	change_province_name = "Pataliputra" # 华氏城
+	rename_capital = "Pataliputra"
 }
 
 EDG_BDX_rename_to_sarnath_effect = {
-	change_province_name = "鹿野苑"
-	rename_capital = "鹿野苑"
+	change_province_name = "Sarnath"
+	rename_capital = "Sarnath"
+}
+
+EDG_BDX_rename_to_persepolis_effect = {
+	change_province_name = "Persepolis"
+	rename_capital = "Persepolis"
+}
+
+EDG_BDX_rename_to_qocho_effect = {
+	change_province_name = "Qocho"
+	rename_capital = "Qocho"
+}
+
+EDG_BDX_rename_to_seleucia_ctesiphon_effect = {
+	change_province_name = "Seleucia-Ctesiphon"
+	rename_capital = "Seleucia-Ctesiphon"
 }
 
 EDG_BDX_define_ruler_menander_effect = {
 	define_ruler = {
-		name = "米南德"
-		dynasty = "阿吉德"
+		name = "Menander"
+		dynasty = "Argead"
 		adm = 4
 		dip = 4
 		mil = 2
@@ -183,8 +199,8 @@ EDG_BDX_define_ruler_menander_effect = {
 
 EDG_BDX_define_ruler_menander_updated_effect = {
 	define_ruler = {
-		name = "米南德"
-		dynasty = "阿吉德"
+		name = "Menander"
+		dynasty = "Argead"
 		adm = 4
 		dip = 6
 		mil = 5

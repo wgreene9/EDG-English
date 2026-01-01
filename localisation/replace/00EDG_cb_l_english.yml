@@ -14,7 +14,7 @@ EDG_WG_superiority_PER_war_desc:0 "Our goal is to demonstrate hegemony and annex
 cb_EDG_WG_superiority_PER_war:0 "§YPersian Hegemony War§!"
 cb_EDG_WG_superiority_PER_war_desc:0 "We will have the right to wage hegemony wars against other Persian states."
 
-cb_EDG_WG_superiority_PER_war_enable_flag_tt:0 "We will enable the war justification §YPersian Hegemony War§!.\n- This war justification allows us to claim all provinces belonging to the §YPersia§! or §YKhorasan§! regions, or to the §YIranian§! culture group.\n- This war justification can only be used while the §YIranian Reunification War§! is active and has not yet concluded."
+cb_EDG_WG_superiority_PER_war_enable_flag_tt:0 "We will enable the §YPersian Hegemony War§! Casus Belli.\n- This casus belli allows us to claim all provinces belonging to the §YPersia§! or §YKhorasan§! regions, or to the §YIranian§! culture group.\n- This casus belli can only be used while the §YIranian Reunification War§! is active and has not yet concluded."
 
 #Horde Invasion of Iran
 EDG_horde_to_iranian:0 "Invade Iran"

@@ -1,0 +1,275 @@
+﻿l_english:
+EDG_tve_conquer_mos_1_1_title:0 "The Throne of Moscow"
+EDG_tve_conquer_mos_1_1_desc:0 "The Tver–Moscow civil war is time to end. The throne of Moscow shall forever belong to the Grand Prince of Tver!"
+EDG_tve_conquer_mos_tooltip:0 "We will unlock a decision to integrate Nizhny Novgorod."
+EDG_tve_unite_nzh_flag:0 "Integrate Nizhny Novgorod"
+
+EDG_tve_unite_northeast_rus_1_2_title:0 "Integrate Vassals"
+EDG_tve_unite_northeast_rus_1_2_desc:0 "Our vassal princes do not need so much power. We should abolish their autonomy and independent status, incorporating them into our administrative system. Unification will make us stronger."
+EDG_tve_unite_northeast_rus_modifier:0 "Unification of Principalities"
+
+EDG_tve_unite_nzhnov_2_2_title:0 "Merge the Nizhny Novgorod Lands"
+EDG_tve_unite_nzhnov_2_2_desc:0 "The lands of Nizhny Novgorod have been subject to us for decades, but that alone is not enough. The Nizhny Novgorod lands should fully become part of Greater Tver."
+EDG_tve_unite_nzhnov_modifier:0 "Integration of Lands"
+
+EDG_tve_improve_army_2_3_title:0 "Assemble the Army"
+EDG_tve_improve_army_2_3_desc:0 "A unified Northeastern Rus' is rising. To step onto the world stage, a strong and powerful army is essential."
+EDG_tve_improve_army_modifier:0 "On the March"
+
+EDG_tve_great_tver_3_1_title:0 "Greater Tver"
+EDG_tve_great_tver_3_1_desc:0 "Glory to the Grand Prince of Tver! Tver has undoubtedly become the undisputed focal point of Northeastern Rus'. However, we also need the loyalty of the clergy, merchants, and boyars. They are the pillars of the Rus' principalities."
+EDG_tve_estate_1_tooltip:0 "We will unlock three one-time estate interaction decisions to secure their loyalty."
+#  EDG_tve_church_1:0 ""
+#  EDG_tve_boyal_1:0 ""
+#  EDG_tve_merchant_1:0 ""
+
+EDG_tve_estate_loyalty_3_2_title:0 "Ensure Estate Loyalty"
+EDG_tve_estate_loyalty_3_2_desc:0 "In a Rus' principality, everyone must be loyal to the Grand Prince, and the Grand Prince's power is limitless!"
+EDG_tve_honest_estate_modifier:0 "Loyal Court"
+
+EDG_tve_god_will_3_3_title:0 "Guidance of God"
+EDG_tve_god_will_3_3_desc:0 "Heretics and pagans surround Rus' from all sides, but our wise and mighty Grand Prince is guided by God. The Grand Prince of Tver—he is the Lord of Rus' ordained by God!"
+EDG_tve_god_will_modifier:0 "God's Blessing"
+
+EDG_tve_real_heir_vladimir_4_1_title:0 "The True Successor of Vladimir"
+EDG_tve_real_heir_vladimir_4_1_desc:0 "After Vladimir was utterly destroyed by the iron hooves of the Tatars, the princes of Northeastern Rus', as heirs to the Principality of Vladimir, slaughtered each other. Now, our Tver has emerged victorious from this slaughter. We are the true successors to the Principality of Vladimir!"
+EDG_tve_real_heir_vladimir_tooltip:0 "The Novgorod Veche will receive our threat to elect our great Grand Prince as the Prince of Novgorod. (If their military strength is weaker than ours, they will likely agree.)"
+
+EDG_tve_conquer_novgorod_4_3_title:0 "Control Novgorod"
+EDG_tve_conquer_novgorod_4_3_desc:0 "Novgorod has always been the commercial and trade center of Northern Rus'. Through this, Novgorod has amassed immense wealth. Now, this immense wealth should flow into our coffers."
+EDG_ownner_of_novgorod_modifier:0 "Control of Novgorod"
+
+EDG_tve_improve_5_1_title:0 "Tver's Prosperity"
+EDG_tve_improve_5_1_desc:0 "Tver's geographical location is exceptionally favorable, with convenient transportation and easy development. After the cities of Northeastern Rus' were destroyed by the Tatar invasion, she was the first Rus' city to revive. She should become the new 'mother of Rus' cities'!"
+EDG_tve_tve_1_modifier:0 "Prosperous Tver"
+
+EDG_tve_center_northeast_rus_5_2_title:0 "Center of Northeastern Rus'"
+EDG_tve_center_northeast_rus_5_2_desc:0 "Northeastern Rus' needs a central city. She is the example and template for Rus' cities, the city Rus' yearns for. In the past, this city was Vladimir; now, this city should be Tver!"
+EDG_tve_tve_2_modifier:0 "Center of Northeastern Rus'"
+EDG_tve_center_northeast_rus_tooltip:0 "Replace 'Prosperous Tver' with 'Center of Northeastern Rus',' doubling all effects."
+
+EDG_tve_conquer_kazan_1_4_title:0 "Conquer Kazan"
+EDG_tve_conquer_kazan_1_4_desc:0 "Kazan has always been the primary target for Northeastern Rus' expansion. They lie on our eastern trade routes. Even before the Tatar invasion, several grand princes attempted to conquer Volga Bulgaria, yet none achieved a complete victory. Now we have finally conquered Kazan; this is a great step forward for our Rus'!"
+EDG_tve_conquer_kazan_modifier:0 "Conquest of Kazan"
+
+EDG_tve_end_tatar_1_5_title:0 "End of the Tatar People"
+EDG_tve_end_tatar_1_5_desc:0 "The Tatar invasion changed all of Rus', bringing destruction and suffering to Rus' lands. With our complete defeat of the steppe nomads, we can proudly declare that we have ended them and washed away the shame of the Tatar yoke."
+
+EDG_tve_rus_border_1_7_title:0 "The Lands of Rus' Have No Borders!"
+EDG_tve_rus_border_1_7_desc:0 "Someone asks where exactly the borders of Rus' lie. Our answer is: the lands of Rus' have no borders!"
+EDG_tve_rus_border_tooltip:0 "We will unlock a series of decisions to claim lands in the East."
+
+EDG_tve_protect_perm_2_4_title:0 "Protect Perm"
+EDG_tve_protect_perm_2_4_desc:0 "The Permians should attach themselves to Rus'. They must understand that only Rus' can protect them."
+EDG_tve_protect_perm_1_yes_tooltip:0 "£yes£If Perm is our vassal"
+EDG_tve_protect_perm_1_no_tooltip:0 "£no£If Perm is our vassal"
+EDG_tve_protect_perm_2_yes_tooltip:0 "£yes£If Perm is our ally"
+EDG_tve_protect_perm_event_tooltip:0 "We will be able to make Perm our vassal."
+EDG_tve_protect_perm_2_no_tooltip:0 "£no£If Perm is our ally"
+
+EDG_tve_reunite_rus_2_6_title:0 "Reunification of Northern and Southern Rus'"
+EDG_tve_reunite_rus_2_6_desc:0 "Southern Rus'? Northern Rus'? Northeastern Rus'? Undoubtedly, they are all part of the lands of Rus'. We have been divided for far too long. The lands of Rus' must be united! This is the tide of history; no one can stop it!"
+EDG_tve_reunite_rus_modifier:0 "Reunification of Northern and Southern Rus'"
+
+EDG_tve_the_name_of_rus_3_4_title:0 "In the Name of Rus'"
+EDG_tve_the_name_of_rus_3_4_desc:0 "The era of divided principalities is about to end, because Rus' must be unified!"
+
+EDG_tve_run_to_kiev_3_5_title:0 "Rush to Kyiv"
+EDG_tve_run_to_kiev_3_5_desc:0 "Kyiv was the political, economic, and cultural center of ancient Rus'. Capturing Kyiv is the greatest pursuit of every Rus' prince. Only by capturing Kyiv can we claim to be the strongest power in all Rus'."
+
+EDG_tve_rus_kniaz_3_7_title:0 "Ruler of All Rus'"
+EDG_tve_rus_kniaz_3_7_desc:0 "The era of inter-state strife and mutual revenge has ended. A new Rus' is rising!"
+EDG_tve_found_rus_nation_tooltip:0 "If we choose Vladimir Rus', then we will be able to form Rus' regardless of administrative technology."
+
+EDG_tve_kiev_3_6_title:0 "The Historical Significance of Kyiv"
+EDG_tve_kiev_3_6_desc:0 "Although we have occupied Kyiv, we do not possess an absolute claim to it. However, since we have already demonstrated our power to all Rus', we can adjust our rhetoric slightly. After all, history is written by the living; the dead cannot speak."
+
+EDG_tve_chuds_4_4_title:0 "The Ancient Pact with the Chuds"
+EDG_tve_chuds_4_4_desc:0 "Since ancient times, the Chuds have paid tribute to the Rus' princes. Whoever occupies the Chud region and rules over the Chuds must recognize the rightful authority of the Rus' princes over the Chuds."
+
+EDG_tve_poltck_4_5_title:0 "Conquer Polotsk"
+EDG_tve_poltck_4_5_desc:0 "Polotsk is the most independent part of the Rus' principalities. The Rurikid prince ruling there is the most distantly related by blood to the Rurikids of other principalities. However, they cannot remain independent forever, because Rus' will be unified by us, Tver."
+
+EDG_tve_conquer_belarus_4_6_title:0 "Reclaim the Lands of White Rus'"
+EDG_tve_conquer_belarus_4_6_desc:0 "The White Rus' region—the Lithuanians have long had their eyes on it. To prevent the White Rus' region from falling into Lithuanian hands, we must first reclaim it, bringing White Rus' under our rule."
+
+EDG_tve_conquer_finland_5_4_title:0 "The Finnish Region"
+EDG_tve_conquer_finland_5_4_desc:0 "The Finnish region has long been a contested area between Novgorod and Sweden. It possesses sufficient strategic value and also produces furs. To contend with Sweden for Baltic hegemony, we must seize Finland."
+
+EDG_tve_baltic_embition_5_5_title:0 "Baltic Ambition"
+EDG_tve_baltic_embition_5_5_desc:0 "The Scandinavians have always threatened Rus'—a comprehensive threat from sea to land to commercial trade. It is best if we can utterly defeat them, thereby becoming the sole hegemon of the Baltic."
+
+EDG_tve_rus_new_land_5_7_title:0 "An Eastern Power"
+EDG_tve_rus_new_land_5_7_desc:0 "The Rus' people have been absent from the European stage for a long time. But with the Mongol invasion and the dissolution of Kievan Rus', the former glory is gone forever. However, now we can tell Europe: Rus' will return to the great stage of the European continent and will become a European power, leading the entire continent!"
+
+EDG_tve_hi_slavics_1_9_title:0 "Hej, Sloveni!"
+EDG_tve_hi_slavics_1_9_desc:0 "Hej, Sloveni, the spirit of our ancient nation remains invincible. The people's goal, the Slavic youth have not forgotten. Undying through the ages, eternally evergreen. The Slavic spirit, all schemes and intrigues, all violence and coercion are in vain. Let storms unleash their fury, sweeping everything, cliffs shattering, oaks uprooted, the earth trembling. But we stand firm like rocks. All who betray the homeland shall die without a place for burial."
+EDG_tve_hi_slavics_tooltip:0 "We will gain claims on all provinces with Slavic culture."
+
+EDG_tve_poland_1_10_title:0 "Sons of Lech"
+EDG_tve_poland_1_10_desc:0 "In ancient legend, Lech, Czech, and Rus were three brothers. These three each founded a Slavic state: Poland, Czechia, and Rus'. The Poles are closely related to us Rus'. Yet, a weak and feeble Poland cannot protect its people. Therefore, as a brotherly nation, we have a duty to protect them together, bringing them under our rule."
+
+EDG_tve_pan_slavism_1_11_title:0 "The Birth of Pan-Slavism"
+EDG_tve_pan_slavism_1_11_desc:0 "We already rule the vast majority of Slavs. It is time to establish an empire never before seen—the Empire of Slavia. All Slavs united, our alliance will be unbreakable!"
+
+EDG_tve_boyal__2_9_title:0 "Assembly of the Land (Zemsky Sobor)"
+EDG_tve_boyal__2_9_desc:0 "The boyars, though loyal to the prince, can become a detriment if their power grows too vast. We must handle them with care."
+
+EDG_tve_poyal_reform_2_10_title:0 "Abolish the Seniority System"
+EDG_tve_poyal_reform_2_10_desc:0 "The traditional Russian system of selecting officials based on seniority hinders our ability to appoint based on merit. It is time to change this ancient tradition!"
+
+EDG_tve_rus_empire_3_8_title:0 "Imperial Ambition"
+EDG_tve_rus_empire_3_8_desc:0 "The Russian people have endured many years of suffering, yet now they are finally united under the rule of a Tsar. We, the Rus', whose fate was once controlled by others, now forge our own future!"
+
+EDG_tve_orthodox_3_9_title:0 "The Orthodox Church"
+EDG_tve_orthodox_3_9_desc:0 "The Church is the source and cornerstone of social stability and state legitimacy in Russia. We must ensure the Church's loyalty and carefully appease them."
+
+EDG_tve_nation_reform_3_10_title:0 "Reform the State Bureaucracy"
+EDG_tve_nation_reform_3_10_desc:0 "To carry out reforms, we must reform the Empire's existing bureaucratic apparatus to better implement other government policies."
+
+EDG_tve_new_rus_empire_3_11_title:0 "Make Rus' Great Again"
+EDG_tve_new_rus_empire_3_11_desc:0 "Though Rus' once sank low, shackled by the Tatar yoke, the suffering is past. A glorious era has arrived; Rus' will be great once more!"
+
+EDG_tve_shejijun_4_9_title:0 "The Mission of the Streltsy"
+EDG_tve_shejijun_4_9_desc:0 "The Streltsy are the backbone of our army. We must make good use of them."
+
+EDG_tve_army_reform_4_10_title:0 "Military Reorganization"
+EDG_tve_army_reform_4_10_desc:0 "The armies of the past are increasingly inadequate for modern warfare. We must learn from all strong armies. The Russian army must not fall behind, neither in quantity nor in quality!"
+
+EDG_tve_nongmin_5_9_title:0 "The Fate of the Peasants"
+EDG_tve_nongmin_5_9_desc:0 "Serfdom can increase our productivity, but is it too cruel for the peasants?"
+
+EDG_tve_stepan_cosak_5_11_title:0 "Cossacks on the Steppe"
+EDG_tve_stepan_cosak_5_11_desc:0 "The Cossacks have already become a significant force within the Empire. Now that the Cossacks have sworn allegiance to the Empire, how should we utilize them?"
+
+EDG_tve_time_to_wake_up_1_13_title:0 "Era of Awakening"
+EDG_tve_time_to_wake_up_1_13_desc:0 "?"
+
+EDG_tve_voice_of_rev_2_12_title:0 "Voice of Enlightenment"
+EDG_tve_voice_of_rev_2_12_desc:0 "?"
+
+EDG_tve_sad_world_2_13_title:0 "Les Misérables"
+EDG_tve_sad_world_2_13_desc:0 "?"
+
+EDG_tve_choice_3_12_title:0 "Crossroads of the Era"
+EDG_tve_choice_3_12_desc:0 "?"
+
+EDG_tve_factory_mechine_4_12_title:0 "Factories and Machinery"
+EDG_tve_factory_mechine_4_12_desc:0 "?"
+
+EDG_tve_the_best_time_4_13_title:0 "The Best of Times"
+EDG_tve_the_best_time_4_13_desc:0 "?"
+
+EDG_tve_the_worst_time_5_13_title:0 "The Worst of Times"
+EDG_tve_the_worst_time_5_13_desc:0 "?"
+
+EDG_tve_output_rev_2_15_title:0 "Export Revolution"
+EDG_tve_output_rev_2_15_desc:0 "?"
+
+EDG_tve_fire_of_rev_3_14_title:0 "Fire of Revolution"
+EDG_tve_fire_of_rev_3_14_desc:0 "?"
+
+EDG_tve_fanatical_of_rev_3_16_title:0 "Revolutionary Fanaticism"
+EDG_tve_fanatical_of_rev_3_16_desc:0 "?"
+
+EDG_tve_lef_4_15_title:0 "Liberty! Equality! Fraternity!"
+EDG_tve_lef_4_15_desc:0 "?"
+
+EDG_tve_absolute_monarch_2_15_title:0 "Absolute Monarch"
+EDG_tve_absolute_monarch_2_15_desc:0 ""
+
+EDG_tve_eu_gendarmerie_3_14_title:0 "Gendarme of Europe"
+EDG_tve_eu_gendarmerie_3_14_desc:0 ""
+
+EDG_tve_fanatical_of_monarch_3_16_title:0 "Reactionary Fanaticism"
+EDG_tve_fanatical_of_monarch_3_16_desc:0 ""
+
+EDG_tve_anti_rev_4_15_title:0 "Suppress Revolution"
+ EDG_tve_anti_rev_4_15_desc:0 "?"
+
+EDG_tve_stability_1_16_title:0 "Restoring Peace to Rus'"
+EDG_tve_stability_1_16_desc:0 "Rus' has finally welcomed peace. Without war, the people can build their homes and construct our Rus' motherland."
+EDG_tve_peace_of_rus_modifier:0 "Peace of Rus'"
+
+EDG_tve_improve_south_rus_1_17_title:0 "Fertile Lands of Southern Rus'"
+EDG_tve_improve_south_rus_1_17_desc:0 "The Ruthenian region possesses fertile land. If we develop it properly, this will become the most prosperous region of our Empire."
+EDG_tve_ruthenia_modifier:0 "Fertile Lands of Southern Rus'"
+
+EDG_tve_water_in_south_rus_1_19_title:0 "Southern Rus' Water Conservancy Projects"
+EDG_tve_water_in_south_rus_1_19_desc:0 "Southern Rus' is excellent in every way, but to develop agriculture, water conservancy projects are essential. This can reduce losses in lean years and increase harvests in bountiful years."
+EDG_tve_ruthenia_water_modifier:0 "Southern Rus' Water Conservancy"
+
+EDG_tve_improve_northeast_rus_forest_2_17_title:0 "Develop Northeastern Rus'"
+EDG_tve_improve_northeast_rus_forest_2_17_desc:0 "The Northeastern Rus' region, though its development history is later than Southern Rus', possesses abundant timber and vast land, allowing us to build up this region."
+EDG_tve_northeast_rus_modifier:0 "Develop Northeastern Rus'"
+
+EDG_tve_rus_grain_2_18_title:0 "Granary of Rus'"
+EDG_tve_rus_grain_2_18_desc:0 "Grain is of paramount importance. With sufficient grain, we can maintain national stability and sustain a vast army. Grain and farmers constitute national strength."
+EDG_tve_rus_grain_modifier:0 "Granary of Rus'"
+
+EDG_tve_vodga_2_19_title:0 "State Vodka Monopoly"
+EDG_tve_vodga_2_19_desc:0 "The people of Rus' are fond of drink. Vodka is a cheap liquor. We should have state institutions monopolize it, not only bringing revenue but also serving a purpose in other areas."
+
+EDG_tve_improve_belarus_3_17_title:0 "Forests and Swamps of White Rus'"
+EDG_tve_improve_belarus_3_17_desc:0 "?"
+
+EDG_tve_rus_construction_3_19_title:0 "Rus' Construction Paradigm"
+EDG_tve_rus_construction_3_19_desc:0 "Construction is booming all across Rus'. We need a unified construction standard, which will greatly reduce our construction costs."
+EDG_tve_rus_art_construct_modifier:0 "Rus' Construction Paradigm"
+
+EDG_tve_rus_art_construct_3_18_title:0 "Rus' Building Art"
+EDG_tve_rus_art_construct_3_18_desc:0 "Western Europe possesses its unique construction techniques. By introducing these techniques, buildings can be constructed faster, saving significant time and cost. The influx of Western European building techniques brought revolutionary changes to the Rus' construction industry, not only improving the quality and efficiency of buildings but also further advancing the pace of modern societal construction in Rus'."
+EDG_tve_rus_construction_modifier:0 "Rus' Building Art"
+
+EDG_tve_neva_4_17_title:0 "Develop the Neva"
+EDG_tve_neva_4_17_desc:0 "At the mouth of the Neva River, we shall build a city the world yearns for!"
+
+EDG_tve_eu_windows_4_18_title:0 "Window to Europe, Gate of Rus'"
+EDG_tve_eu_windows_4_18_desc:0 "The meeting of East and West has created Russia's window to Europe; she is Rus' gateway to Europe. With the Gate of Rus' open, she becomes Rus' frontline for external exchange. She shall become Rus' most open and inclusive city."
+EDG_tve_eu_windows_modifier:0 "Window to Europe, Gate of Rus'"
+
+EDG_tve_rus_navy_5_19_title:0 "Rus' Two-Seas Fleet"
+EDG_tve_rus_navy_5_19_desc:0 "?"
+
+EDG_tve_fur_trade_5_16_title:0 "Dominate the Fur Trade"
+EDG_tve_fur_trade_5_16_desc:0 "Fur, also known as the soft gold of the North and Siberia. The demand for high-quality fur never dries up, and of course, we must monopolize the fur trade."
+
+EDG_tve_from_atlantic_to_pacific_5_18_title:0 "From the Atlantic to the Pacific"
+EDG_tve_from_atlantic_to_pacific_5_18_desc:0 "The territory of Rus' spans the Eurasian continent, from the Atlantic to the Pacific. We shall become one of the greatest empires in human history."
+EDG_tve_from_atlantic_to_pacific_modifier:0 "From the Atlantic to the Pacific"
+
+EDG_tve_east_navy_5_19_title:0 "Rus' Naval Fleet"
+EDG_tve_east_navy_5_19_desc:0 "An empire lacking a navy is incomplete. A proper empire must have a powerful fleet ready to project power overseas at any time."
+
+EDG_tve_fall_hre_1_12_title:0 "Defeat the Holy Roman Empire"
+EDG_tve_fall_hre_1_12_desc:0 "The Holy Roman Emperor is crowned by the Pope. The Holy Roman Emperor believes he possesses the highest secular authority. Unfortunately, this is merely their wishful fantasy. Now we shall shatter that fantasy!"
+
+EDG_tve_saxon_wall_1_13_title:0 "To the Saxon Marches"
+EDG_tve_saxon_wall_1_13_desc:0 "Long, long ago, there was a Saxon frontier wall between the Germanic peoples and the Slavs... On one side of the wall lay the lands of the Slavs, known as the Wends. Now the eastward advance of the Germans has long surpassed the original boundary. We should push the border line back."
+
+EDG_tve_wendish_2_13_title:0 "Tale of the Wends"
+EDG_tve_wendish_2_13_desc:0 "The Wends is a term used by Germans to collectively refer to the Slavs living in the Pomerania region. These Wends are under German rule, and our wise and mighty Tsar should liberate these compatriots."
+
+EDG_tve_slavic_invade_2_14_title:0 "Slavic Invasion"
+EDG_tve_slavic_invade_2_14_desc:0 "Hey! Germans! Your days of constant eastward expansion are over. Now it's our turn for westward expansion. Give us the lands under the sun!"
+
+EDG_tve_conquer_france_3_14_title:0 "Gallic Wars"
+EDG_tve_conquer_france_3_14_desc:0 "In ancient times, Gaul was the domain of the Celts, but Rome conquered Gaul, and later Gaul was thoroughly assimilated into Romans. We should follow the Roman story and rule Gaul."
+
+EDG_tve_conquer_brtain_3_15_title:0 "Cross the Channel"
+EDG_tve_conquer_brtain_3_15_desc:0 "A narrow strait separates Britain from the European continent. But this strait cannot stop our brave warriors or the ambitions of our sovereign. Cross the great channel and rule all of Europe!"
+
+EDG_tve_greek_roma_4_12_title:0 "Greeks, or Romans?"
+EDG_tve_greek_roma_4_12_desc:0 "The Greeks have completely lost their identity for Greece, yet they are still Greek in culture. Though that once Hellenized Roman Empire is no longer glorious, we can still claim Constantinople and inherit Rome's legacy."
+
+EDG_tve_invade_italia_4_13_title:0 "March into Italia"
+EDG_tve_invade_italia_4_13_desc:0 "Italia, the location of Rome. It was from here that Rome originated and rose to glory."
+
+EDG_invade_spain_4_14_title:0 "Land in Iberia"
+EDG_invade_spain_4_14_desc:0 "The Iberian Peninsula is home to Christians and Muslims. This land was once a province of the Roman Empire, and later it shall be our province as well."
+
+EDG_tve_annatolia_5_13_title:0 "Rule Anatolia"
+EDG_tve_annatolia_5_13_desc:0 "Anatolia is one of the foundations of the Byzantine Empire. By occupying this region, we can move south into the Mediterranean and further dominate Mesopotamia."
+
+EDG_tve_egypt_5_14_title:0 "Conquer Egypt"
+EDG_tve_egypt_5_14_desc:0 "Egypt was the granary of the Roman Empire in ancient times. The fertile Nile irrigates the fertile lands on both banks, supporting a large population. Egypt will be our best center of rule on the southern shore of the Mediterranean."

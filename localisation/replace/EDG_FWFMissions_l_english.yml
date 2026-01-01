@@ -1,0 +1,131 @@
+﻿l_english:
+EDG_FWF_mission_1_23_title:0 "The Western Front"
+EDG_FWF_mission_1_23_desc:0 ""
+EDG_FWF_mission_1_23.effect_1.tt:0 "Immediately raise a §Ogrand§! §YMain Fleet§! in §Y[209.GetName]§!"
+EDG_FWF_mission_1_23.effect_2.tt:0 "For the duration of the following §YModifier§!, whenever we §TOccupy§! a province in the §YWest Europe§! subcontinent that §Ydoes not belong to us§!, we will §Ggain§! a §TCore§! on that province!"
+
+EDG_FWF_mission_1_27_title:0 "Redemption in Flames"
+EDG_FWF_mission_1_27_desc:0 ""
+EDG_FWF_mission_1_27.effect.tt:0 "Convert all §TBase Tax§! in all provinces under §Your rule§! into §TBase Production§!, retaining at least §Y1§! point of §TBase Tax§!\n\nFrom now on, §TBase Tax§! in provinces liberated by us will be §Ycompletely§! converted into §TBase Production§!, retaining at least §Y1§! point of §TBase Tax§!"
+
+EDG_FWF_mission_1_30_title:0 "Lust"
+EDG_FWF_mission_1_30_desc:0 "Lust, if not the foremost of the Seven Deadly Sins, is one that deeply afflicts the world, with people drowning in activities of a highly sexual nature in the most heretical ways. We must maintain the purity of the people's thoughts and combat the sins of feudalism and empire, but they have found other methods of infiltration."
+
+EDG_FWF_mission_1_31_title:0 "Equal Rights Act"
+EDG_FWF_mission_1_31_desc:0 ""
+EDG_FWF_mission_1_31.effect.tt:0 "Unlocks the §TDecree§! 'Equal Rights Act'\n\nConverts up to §Y100§! provinces with §Yfulfilled mission conditions§!, changing §YChurches§! into §TUniversities§!\n\nWhen we build a §YChurch§! in a province with the decree §YEqual Rights Act§!, if the province does not have a §TUniversity§! building, replace that §YChurch§! with a §TUniversity§!; §YCathedrals are unaffected§!\n\nWhen we §Rrevoke§! the decree §YEqual Rights Act§!, the local University buildings will also be destroyed"
+
+EDG_FWF_mission_1_33_title:0 "Public Order Act"
+EDG_FWF_mission_1_33_desc:0 ""
+EDG_FWF_mission_1_33.effect.tt:0 "Unlocks the §TDecree§! 'Public Order Act'\n\nEnacting the decree §YPublic Order Act§! will §Gincrease§! the province's §TBase Manpower§! by §Y1§!\n\nWhen we §Rrevoke§! the decree §YHealth Act§!, the province will §Rlose§! §Y1§! point of §TBase Manpower§!"
+
+EDG_FWF_mission_1_35_title:0 "Clothing"
+EDG_FWF_mission_1_35_desc:0 ""
+
+EDG_FWF_mission_2_24_title:0 "Turbulent Seas and Surging Tides"
+EDG_FWF_mission_2_24_desc:0 ""
+EDG_FWF_mission_2_24.effect.tt:0 "§TSeparatism§! in §Yall§! provinces under our rule located in the §YWest Europe§! subcontinent is reduced to §G0§!\n\nConvert all §TBase Tax§! in §Yall§! provinces under our rule located in the §YWest Europe§! subcontinent into §TBase Production§!, retaining at least §Y1§! point of §TBase Tax§!"
+
+EDG_FWF_mission_2_26_title:0 "The Fire of Ardor"
+EDG_FWF_mission_2_26_desc:0 ""
+EDG_FWF_mission_2_26.effect.tt:0 "§YRandomly replace§! the trade good of all provinces under §Your rule§! whose §TTrade Good§! is §YSlaves§!\n\nFrom now on, §Yrandomly replace§! the §TTrade Good§! of all provinces §Yliberated§! by us whose §TTrade Good§! is §YSlaves§!"
+
+EDG_FWF_mission_2_30_title:0 "Gluttony"
+EDG_FWF_mission_2_30_desc:0 "Gluttony, one could say, is the hallmark of imperialism. It's not just that European empires greedily plunder resources from across the world; princes and nobles also seize wealth and food from those who truly need it. They fill their coffers and satisfy their appetites at the cost of others' suffering. We cannot sit idly by as such a canker corrodes the people's soul. All goods will be allocated according to need, no more and no less. If everyone takes only what they need, the vice of gluttony will cease to exist."
+
+EDG_FWF_mission_2_31_title:0 "Health Act"
+EDG_FWF_mission_2_31_desc:0 ""
+EDG_FWF_mission_2_31.effect.tt:0 "Unlocks the §TDecree§! 'Health Act'\n\nEnacting the decree §YHealth Act§! in a province with the trade good §TGrain§! will increase the province's §TBase Production§! by §Y2§!\n\nWhen we §Rrevoke§! the decree §YHealth Act§!, it will also decrease the corresponding province's §TBase Production§! by §Y2§!"
+
+EDG_FWF_mission_2_32_title:0 "Wrath"
+EDG_FWF_mission_2_32_desc:0 "Though we are most reluctant to admit it, wrath is perhaps the most useful of the Seven Deadly Sins. It is an extremely powerful emotion, leaving ruins in its wake after it is unleashed. Sometimes, even after enduring immense suffering, people continue to turn to wrath, merely to fill an inner void, or perhaps just to have a purpose. Occasional anger is no problem and entirely understandable, but it cannot be allowed to destroy everything. We will not destroy wrath as we do other cancers; instead, we will filter out its impurities and control it for our own use. In times of peace, exercise restraint and composure; in times of war, open the floodgates and vent its fury."
+
+EDG_FWF_mission_2_34_title:0 "Prerequisites"
+EDG_FWF_mission_2_34_desc:0 ""
+
+EDG_FWF_mission_2_35_title:0 "Food"
+EDG_FWF_mission_2_35_desc:0 ""
+
+EDG_FWF_mission_3_24_title:0 "Adding Fuel to the Fire"
+EDG_FWF_mission_3_24_desc:0 ""
+
+EDG_FWF_mission_3_25_title:0 "Raising the Banner, Setting the Course"
+EDG_FWF_mission_3_25_desc:0 ""
+EDG_FWF_mission_3_25.effect.tt:0 "From now on, at the §Ystart of each year§!, a §TProvince Interaction§! 'Agitate the Masses' will be §Gperformed§! on provinces §Yadjacent§! to our §TCore§! provinces or provinces with the §YAgitate the Masses§! modifier.\n\nGain §YPermanent Claims§! on all provinces in the §YOld World§!"
+
+EDG_FWF_mission_3_27_title:0 "The Tide Advances"
+EDG_FWF_mission_3_27_desc:0 ""
+EDG_FWF_mission_3_27.effect.tt:0 "From now on, provinces §Yliberated§! by us will §Glose§! all §TSeparatism§!.\n\nFrom now on, at the start of each year, a §TProvince Interaction§! 'Core Infiltration' will be §Gperformed§! on §Yall§! provinces with the §YAgitate the Masses§! modifier."
+
+EDG_FWF_mission_3_28_title:0 "Only War..."
+EDG_FWF_mission_3_28_desc:0 ""
+EDG_FWF_mission_3_28.effect.tt:0 "§GGain§! all §TCore Provinces§! that §Ydo not belong to us§!.\n\n§RDeclare War§! on all nations whose §YCapital§! is located in the §YOld World§!"
+
+EDG_FWF_mission_3_29_title:0 "The Seven Deadly Sins"
+EDG_FWF_mission_3_29_desc:0 "Lust breeds debauchery and prostitution, corrupting our nation. Gluttony causes people to over-indulge, leaving others to starve. Greed is the essence of imperialism. Sloth makes people complacent, thinking everything should be left to others. Wrath only breeds crime and conflict; we must only suppress enemies who threaten the motherland. Envy is the source of discrimination and class prejudice. Finally, Pride leads people to overvalue their own contributions. The nation and its people suffer deeply from these seven sins; we must address them one by one."
+EDG_FWF_mission_3_29.effect.tt:0 "To achieve that §TGreat Ideal§!, we §Rmust eradicate all sin§!"
+EDG_FWF_degenerate_var:0 "§RSin§!"
+
+EDG_FWF_mission_3_31_title:0 "Pride"
+EDG_FWF_mission_3_31_desc:0 "The sin of Pride, like many other transgressions, plays a complex role in the course of human history. Everyone feels a degree of pride about their own life. This could be pride in their work, pride in success, or pride for a united and happy family. Celebrating one's own achievements and feeling proud of them is completely reasonable and understandable. However, we cannot allow the arrogant among them to rise to prominence, creating an atmosphere of personality cult around themselves. From politics to personal life, Pride breeds Envy, allowing injustice to take root. All can be proud of their own achievements; each will receive fair compensation. Let us nip the problems of Pride and Envy in the bud."
+
+EDG_FWF_mission_3_32_title:0 "Justice Act"
+EDG_FWF_mission_3_32_desc:0 ""
+EDG_FWF_mission_3_32.effect.tt:0 "Unlocks the §TDecree§! 'Justice Act'\n\nEnacting the decree §YJustice Act§! will immediately §Greduce§! the province's §YUnrest§! by §Y20§!\n\nWhen we §Rrevoke§! the decree §YJustice Act§!, it will also §Rincrease§! the province's §YUnrest§! by §Y10§!"
+
+EDG_FWF_mission_3_33_title:0 "Means of Production"
+EDG_FWF_mission_3_33_desc:0 ""
+EDG_FWF_mission_3_33.effect.tt:0 "Increase the §TDevelopment§! of all provinces under §Your rule§! with less than §Y15§! §TDevelopment§! to §Y15§!.\n\nFor the duration of the following §YModifier§!, when we increase §TDevelopment§!, we will §Gadditionally increase§! the corresponding Development by §Y1§! point!"
+
+EDG_FWF_mission_3_36_title:0 "Red Utopia"
+EDG_FWF_mission_3_36_desc:0 ""
+
+EDG_FWF_mission_4_24_title:0 "Canopy of the High Heavens"
+EDG_FWF_mission_4_24_desc:0 ""
+EDG_FWF_mission_4_24.effect.tt:0 "§TSeparatism§! in §Yall§! provinces under our rule located in the §YEast Europe§! subcontinent is reduced to §G0§!\n\nConvert all §TBase Tax§! in §Yall§! provinces under our rule located in the §YEast Europe§! subcontinent into §TBase Manpower§!, retaining at least §Y1§! point of §TBase Tax§!"
+
+EDG_FWF_mission_4_26_title:0 "Breath of the Wild"
+EDG_FWF_mission_4_26_desc:0 ""
+EDG_FWF_mission_4_26.effect.tt:0 "From now on, whenever we §YOccupy§! an enemy province with a §TFort§!, immediately occupy §Yall adjacent§! provinces that do not have a §TFort§! building."
+
+EDG_FWF_mission_4_30_title:0 "Greed"
+EDG_FWF_mission_4_30_desc:0 "Greed, quite similar to Gluttony, is a persistent illness of imperialist thought. On a national level, Greed is the leader's craving for power, territory, and the unwilling acclaim of the people. However, Greed at the regional level is even worse. Hoarding wealth leads to class stratification, which in turn gives rise to class discrimination and the gap between rich and poor. Greed drives people to seize what others need, and we cannot stand idly by. Property shall be distributed according to need, the landlord class eliminated, and everyone ensured the materials they require to earn their livelihood, preventing the accumulation of wealth in one place. Our greatest enemy may well be Greed, and we must redouble our efforts to eradicate it."
+
+EDG_FWF_mission_4_31_title:0 "Equal Distribution Act"
+EDG_FWF_mission_4_31_desc:0 ""
+EDG_FWF_mission_4_30.effect.tt:0 "Unlocks the §TDecree§! 'Equal Distribution Act'\n\nEnacting the decree §YEqual Distribution Act§! will immediately remove §TCores§! held by §Yother countries§! §Yexcept us§! in that province.\n\nWhen we §Rrevoke§! the decree §YEqual Distribution Act§!, we will §Rlose§! our §TCore§! on that province."
+
+EDG_FWF_mission_4_32_title:0 "Envy"
+EDG_FWF_mission_4_32_desc:0 "Envy has always threatened our efforts to build a just and equal society. If a person achieves significantly more than others, envy will fester in the hearts of those left behind. This is not only the psychological foundation of all revolution but also breeds hatred and injustice. People envy the perceived or real advantages of others in various forms. We cannot allow such emotions to cause social division; we must establish a fair and equitable society where all are born equal. If everyone is treated the same, what place is there for envy?"
+
+EDG_FWF_mission_4_34_title:0 "Primary Conditions"
+EDG_FWF_mission_4_34_desc:0 ""
+
+EDG_FWF_mission_4_35_title:0 "Shelter"
+EDG_FWF_mission_4_35_desc:0 ""
+
+EDG_FWF_mission_5_23_title:0 "The Eastern Front"
+EDG_FWF_mission_5_23_desc:0 ""
+EDG_FWF_mission_5_23.effect_1.tt:0 "For the duration of the following §YModifier§!, whenever we §TOccupy§! a province in the §YEast Europe§! subcontinent that §Ydoes not belong to us§!, we will §Ggain§! a §TCore§! on that province!"
+EDG_FWF_mission_5_23.effect_2.tt:0 "A §Ysizeable force§! of §YRevolutionary Guards§! will be mustered in the §TCapital§!"
+
+EDG_FWF_mission_5_27_title:0 "Shadow of the Depths"
+EDG_FWF_mission_5_27_desc:0 ""
+EDG_FWF_mission_5_27.effect.tt:0 "From now on, provinces §Yliberated§! by us will §Grandomly gain§! §Y1§! point of §YDevelopment§!"
+
+EDG_FWF_mission_5_30_title:0 "Sloth"
+EDG_FWF_mission_5_30_desc:0 "Sloth does not originate from any specific action. Rather, it stems from inaction, making it unique among the Seven Deadly Sins. We must acknowledge the sad truth: the previously oppressed people, having achieved a better life, may gradually become lazy, living off the dividends of the era and indulging in extravagance and debauchery instead of improving themselves. While ensuring the people live comfortably, we must also free them from inertia, enabling and inspiring them to contribute spontaneously to the collective."
+
+EDG_FWF_mission_5_31_title:0 "Commune Act"
+EDG_FWF_mission_5_31_desc:0 ""
+EDG_FWF_mission_5_31.effect.tt:0 "Unlocks the §TDecree§! 'Commune Act'\n\nEnacting the decree §YCommune Act§! will immediately §Gbuild§! or §Gupgrade§! the province's §YProduction Buildings§!\n\nWhen we §Rrevoke§! the decree §YCommune Act§!, it will also §Rdemolish§! the province's §YProduction Buildings§!"
+
+EDG_FWF_mission_5_33_title:0 "Emancipation Act"
+EDG_FWF_mission_5_33_desc:0 ""
+EDG_FWF_mission_5_33.effect.tt:0 "Unlocks the §TDecree§! 'Emancipation Act'\n\nEnacting the decree §YEmancipation Act§! will immediately §Greduce§! the province's §YDevastation§! by §Y100§! and put it into a §GProsperity§! state\n\nWhen we §Rrevoke§! the decree §YEmancipation Act§!, the province will §Rincrease§! Devastation by §R100§! and §Rlose§! all §YProsperity Progress§!"
+
+EDG_FWF_mission_5_35_title:0 "Transport"
+EDG_FWF_mission_5_35_desc:0 ""
+
+EDG_FWF_end_battle_of_the_sun.tt:0 "§YThe Battle of the Blazing Sun§! has ended"
+EDG_FWF_mission_urpgrade_modifier.tt:0 "The following §YModifier§! can be §Gupgraded§! by §Ycompleting other missions§!"

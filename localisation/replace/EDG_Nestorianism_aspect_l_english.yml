@@ -1,0 +1,144 @@
+﻿l_english:
+SYNAGOGUE_OF:0 "$COUNTRY$ Church Sanctuary"
+EDG_Nestorianism_aspects:0 "Aspects"
+EDG_Nestorianism_aspects_POWER_NAME:0 "Church Power"
+EDG_Nestorianism_aspects_LONG:0 "Nestorian Aspects"
+EDG_Nestorianism_aspects_SHORT:0 "Aspects"
+EDG_Nestorianism_celebrate:0 "Celebrate Feast"
+EDG_Nestorianism_celebrate_tooltip:0 "Select at least one Administrative Aspect"
+
+EDG_Nestorianism_event_9_tt:0 "Reset the §Mcooldown§! for §YFeast Interaction§!"
+
+EDG_Nestorianism_aspects_A1:0 "Sanctuary: Baghdad"
+EDG_Nestorianism_aspects_A2:0 "Sanctuary: Tehran"
+EDG_Nestorianism_aspects_A3:0 "Sanctuary: Jerusalem"
+EDG_Nestorianism_aspects_A4:0 "Sanctuary: Samarkand"
+EDG_Nestorianism_aspects_A5:0 "Sanctuary: Rome"
+EDG_Nestorianism_aspects_A6:0 "Sanctuary: Antioch"
+
+EDG_Nestorianism_aspects_A1_modifier:0 "Sanctuary: Baghdad"
+EDG_Nestorianism_aspects_A2_modifier:0 "Sanctuary: Tehran"
+EDG_Nestorianism_aspects_A3_modifier:0 "Sanctuary: Jerusalem"
+EDG_Nestorianism_aspects_A4_modifier:0 "Sanctuary: Samarkand"
+EDG_Nestorianism_aspects_A5_modifier:0 "Sanctuary: Rome"
+EDG_Nestorianism_aspects_A6_modifier:0 "Sanctuary: Antioch"
+
+desc_EDG_Nestorianism_aspects_A1:0 "In glorious Baghdad, the lamp of Nestorian wisdom once illuminated East and West. Here converged the writings of the Church Fathers, the disputations of bishops, and the prayers of monks; it was also the seat of the Patriarch and the birthplace of the faith's canon law. The Sanctuary is more than a stone-built hall—it is a sacred and inviolable beacon of the soul in the hearts of generations of believers.\nGrants an additional §Mpowerful modifier§!."
+
+desc_EDG_Nestorianism_aspects_A2:0 "Tehran, once a gathering place of paganism and royal authority, now basks in the light of Heaven. The establishment of this Sanctuary proclaims not only the triumph of Nestorianism in Persia but also symbolizes the implementation of divine law in the East. This new holy site will become a center for mission, education, healing, and judgment, much like the Baghdad and Antioch of old.\nGrants an additional §Mpowerful modifier§!."
+
+desc_EDG_Nestorianism_aspects_A3:0 "Golden sunlight falls upon ancient stone walls; the sanctuary's bells pierce through time and space, awakening slumbering souls. This is the land of covenant between God and man, an undying beacon of faith's flame. Every brick is inscribed with tales of piety and sacrifice.\nGrants an additional §Mpowerful modifier§!."
+
+desc_EDG_Nestorianism_aspects_A4:0 "Amidst the ancient city's yellow sands, the Sanctuary gleams in the dawn light. Prayers here drift like the wind across steppes and valleys, carrying the spark of faith. Samarkand—a legend woven of sacred and secular, a beacon of holy land in the hearts of Nestorian believers.\nGrants an additional §Mpowerful modifier§!."
+
+desc_EDG_Nestorianism_aspects_A5:0 "Beneath ancient walls, the sanctuary's bells resound with a lingering echo, awakening dormant faith. Rome is a stage where divine and secular intertwine, the foundation of belief and the home of the soul. Every stone here bears the imprint of saints' footsteps and the glory of history.\nGrants an additional §Mpowerful modifier§!."
+
+desc_EDG_Nestorianism_aspects_A6:0 "Antioch, the ancient beacon of faith, is a core stronghold of Nestorian tradition. Here converges the devotion of Patriarchs and believers; the Sanctuary stands among them, guarding the Church's heritage and soul. The faithful pilgrimage here, feeling divine grace and the weight of history.\nGrants an additional §Mpowerful modifier§!."
+
+EDG_Nestorianism_aspects_B1:0 "Educate Clergy"
+EDG_Nestorianism_aspects_B2:0 "Monastic Network"
+EDG_Nestorianism_aspects_B3:0 "Messiah's Entry into the Holy City"
+EDG_Nestorianism_aspects_B4:0 "Patriarch of Nestorius"
+EDG_Nestorianism_aspects_B5:0 "People of God"
+
+EDG_Nestorianism_aspects_B1_modifier:0 "Educate Clergy"
+EDG_Nestorianism_aspects_B2_modifier:0 "Monastic Network"
+EDG_Nestorianism_aspects_B3_modifier:0 "Messiah's Entry into the Holy City"
+EDG_Nestorianism_aspects_B4_modifier:0 "Patriarch of Nestorius"
+EDG_Nestorianism_aspects_B5_modifier:0 "People of God"
+
+desc_EDG_Nestorianism_aspects_B1:0 "At the end of the Silk Road, Nestorian Patriarchs long faced challenges of language and culture. To adapt to the Eastern world, clergy must undergo multilingual training and study local customs. Education shaped not only their souls but also enabled the voice of the Gospel to cross mountains and rivers, reaching distant lands.\n\nSelecting §Gthis Aspect§! grants additional §Ytechnology cost§! and §Yidea cost§!.\nGrants additional §Greduced corruption§!.\nWill §Rnot recur§! until the §Yadditional modifier§! ends."
+
+desc_EDG_Nestorianism_aspects_B2:0 "Like winding rivers bringing life to deserts, the monastic network sows seeds of faith in pagan lands. The toll of bells in isolated valleys, the flickering lights in the wilderness—all are echoes of divine response to prayers in silence. Each monastery is a meeting point between the earthly and the heavenly realms.\n\nSelecting §Gthis Aspect§! grants additional §Ymissionary strength§!.\nGrants additional §Gone year's income§!.\nWill §Rnot recur§! until the §Yadditional modifier§! ends."
+
+desc_EDG_Nestorianism_aspects_B3:0 "On that day, holy light shall rise from the East, Christ shall enter the city gates, all peoples shall bow, and the chasm between the mortal world and Heaven shall vanish. Every monastery, every sermon, is a stone step paving the Lord's path of return. Believers wait amidst wind and sand, solely to witness that glorious coming.\nRequires selecting §YSanctuary: Jerusalem§! first.\n\nSelecting §Gthis Aspect§! grants additional §Ynational unrest reduction§! and §Ytrue faith tolerance§!.\nResets the §Mcooldown§! for §YFeast Interaction§! and refunds §MChurch Power§!.\nWill §Rnot recur§! until the §Yadditional modifier§! ends."
+
+desc_EDG_Nestorianism_aspects_B4:0 "He holds the staff, gazing eastward. He is no king, yet can summon clergy from many nations; no prophet, yet remembers ancient teachings like fire. The name of Nestorius has not been forgotten, and the Patriarch he established still tends the heavenly path for the flock amidst mountains and sandy seas.\nRequires selecting §YSanctuary: Antioch§! first.\n\nSelecting §Gthis Aspect§! grants additional §Yreform progress growth§! and §Yreduced national focus cooldown§!.\nGrants additional §Ggovernment reform progress§!.\nWill §Rnot recur§! until the §Yadditional modifier§! ends."
+
+desc_EDG_Nestorianism_aspects_B5:0 ""People of God" is not merely a title but a communal mission. They are called together under the Church, in fellowship with one another, jointly proclaiming the glad tidings of salvation. Nestorians, wherever they are, encourage themselves with this conviction, establishing synagogues, translating scriptures, nurturing believers, allowing the fire of the Gospel to spread to the ends of the earth.\n\nSelecting §Gthis Aspect§! grants additional §Yaggressive expansion impact reduction§! and §Ydiplomatic annexation cost§!.\nGrants §G-10 aggressive expansion§! towards all neighboring countries.\nWill §Rnot recur§! until the §Yadditional modifier§! ends."
+
+EDG_Nestorianism_aspects_C1:0 "Nestorian Order"
+EDG_Nestorianism_aspects_C2:0 "Iron Cross Crusade"
+EDG_Nestorianism_aspects_C3:0 "Baptism of the Khan"
+EDG_Nestorianism_aspects_C4:0 "Throne of the Rex Sacrorum"
+EDG_Nestorianism_aspects_C5:0 "In the Name of God"
+
+EDG_Nestorianism_aspects_C1_modifier:0 "Nestorian Order"
+EDG_Nestorianism_aspects_C2_modifier:0 "Iron Cross Crusade"
+EDG_Nestorianism_aspects_C3_modifier:0 "Baptism of the Khan"
+EDG_Nestorianism_aspects_C4_modifier:0 "Throne of the Rex Sacrorum"
+EDG_Nestorianism_aspects_C5_modifier:0 "In the Name of God"
+
+desc_EDG_Nestorianism_aspects_C1:0 "In the frontiers far from the empire's heart, believers arm themselves to defend their faith. The Nestorian Order, composed of loyal nobles and devout warriors, are both monks and swordsmen. They vow to defend the Holy Way, protect pilgrims, and repel heretics and marauders, establishing bloody covenants in the name of Christ amidst wastelands and sandy seas.\n\nSelecting §Gthis Aspect§! grants additional §Yregiment cost§! and §Ymercenary maintenance§!.\nGrants §Gone year's manpower§!.\nWill §Rnot recur§! until the §Yadditional modifier§! ends."
+
+desc_EDG_Nestorianism_aspects_C2:0 "When pagan flames reach the borders of the diocese, the clergy summon the faithful to bear the Iron Cross and raise the sword of faith. The Iron Cross Crusade is not for plunder but to redeem lost souls; it is the first faith-driven campaign jointly launched by the Nestorian Church with believers from various lands. They cross deserts and scale snow-capped mountains, striving to replant the torch of truth upon the high ground of the sanctuary.\nRequires selecting §YSanctuary: Tehran§! first.\n\nSelecting §Gthis Aspect§! grants additional §Ywarscore cost vs other religions§!.\nWill §Rnot recur§! until the §Yadditional modifier§! ends."
+
+desc_EDG_Nestorianism_aspects_C3:0 "He once drove ten thousand steeds to trample kingdoms, yet now bows before the altar. In the cold wind, holy water drips upon his forehead, washing away the dust of conquest and igniting the flame of his soul. The gazes of the shepherd and the king converge in this moment; heaven and earth fall silent, with only God witnessing the transformation.\nRequires selecting §YSanctuary: Samarkand§! first.\n\nSelecting §Gthis Aspect§! grants additional §Yloot amount§! and §Yshock damage§!.\nWill §Rnot recur§! until the §Yadditional modifier§! ends."
+
+desc_EDG_Nestorianism_aspects_C4:0 "The Throne is not wrought of wood and stone, but forged from faith, blood, and fire. He who sits upon it wields not only power but bears the duty of preaching. The Throne of the Rex Sacrorum is the boundary between heaven and earth, a symbol of earthly order submitting to celestial law. The Nestorian ruler is not merely a governor of the state but also God's scepter-bearer in the mortal realm.\nRequires selecting §YSanctuary: Rome§! first.\n\nSelecting §Gthis Aspect§! grants additional §Yreduced army drill loss§! and §Yarmy tradition decay§!.\n§YMonarch military skill +1§!£mil£.\nWill §Rnot recur§! until the §Yadditional modifier§! ends."
+
+desc_EDG_Nestorianism_aspects_C5:0 "Since the times of prophets and apostles, all deeds of the Church have been carried out in the sacred name of God. Nestorianism's establishment of parishes and preaching of the true way in foreign lands are all rooted in "In the Name of God" as the source of authority and basis of faith. This is not merely a slogan but a holy covenant running through Nestorian history, manifesting the legitimacy and responsibility of acts of faith.\n\nSelecting §Gthis Aspect§! grants additional §Ysiege ability§! and §Ywar exhaustion decay§!.\nWill §Rnot recur§! until the §Yadditional modifier§! ends."
+
+EDG_Nestorianism_event.1.t:0 "Pilgrimage to Baghdad"
+EDG_Nestorianism_event.1.d:0 "The former city of wisdom is once again under the control of the faithful. In Baghdad, the erstwhile seat of the Great Patriarch, faith and knowledge intertwine, and doctrine resonates with civilization. Monks, scholars, and believers journey from all directions, entering this sacred land with reverence and hope.\nA pilgrimage to the Sanctuary is not merely a physical journey but a purification of the soul."
+EDG_Nestorianism_event.1.a:0 "We shall organize a grand pilgrimage."
+
+EDG_Nestorianism_event.2.t:0 "Pilgrimage to Tehran"
+EDG_Nestorianism_event.2.d:0 "The once desolate valleys now stand as a beacon of Nestorian faith. Since the Sanctuary was rebuilt in Tehran, it has become a spiritual pillar for Persian believers, symbolizing the rekindling of divine light in the East. The faithful flock along the pilgrim path, hoping to witness grace before the Sanctuary and rekindle the flame of faith.\nNow, shall we personally visit this holy site or pray for its eternal flame from afar?"
+EDG_Nestorianism_event.2.a:0 "I shall personally set out for the Sanctuary!"
+
+EDG_Nestorianism_event.3.t:0 "Pilgrimage to Jerusalem"
+EDG_Nestorianism_event.3.d:0 "Jerusalem—the city favored by God, the land where prophets were martyred. Since apostolic times, believers have regarded this place as the fountainhead of faith. Now, with the Sanctuary returned to the true path, its splendor once again illuminates all peoples.\nCountless Nestorians traverse mountains and rivers merely to kneel before the Sanctuary, hear ancient hymns, and feel the stirring of drawing closer to God. The path of pilgrimage opens—how shall we answer this call?"
+EDG_Nestorianism_event.3.a:0 "To the Holy City I go, to bathe in divine grace!"
+
+EDG_Nestorianism_event.4.t:0 "Pilgrimage to Samarkand"
+EDG_Nestorianism_event.4.d:0 "At the end of the Silk Road, faith remains unextinguished. Samarkand—a city bearing ancient Persian and Turkic civilizations—now witnesses the sacred fire of Nestorianism reignited in the East. The Sanctuary stands, prayers echo beneath turquoise domes, and believers from afar gather to hear the Patriarch proclaim the Holy Word.\nThe road is long. A pilgrimage to Samarkand is a baptism of body and soul, as well as proof of Nestorianism spreading far and wide."
+EDG_Nestorianism_event.4.a:0 "I shall go personally to pay homage to the Eastern holy fire!"
+
+EDG_Nestorianism_event.5.t:0 "Pilgrimage to Rome"
+EDG_Nestorianism_event.5.d:0 "Since ancient times, Rome has been hailed as the “Mother City of the Church,” where the blood of Peter and Paul witnessed the pinnacle of early Christian faith. A millennium after Nestorianism spread eastward, its believers now tread the pilgrim path to this Western Holy City.\nThey come not to seek approval nor proclaim victory, but to witness the stream of faith that flows through East and West, transcending suffering—amidst the ruins and remnants of sanctuaries, the prayers of Nestorians resound once more."
+EDG_Nestorianism_event.5.a:0 "I shall go to Rome myself, my steps bearing witness to grace."
+
+EDG_Nestorianism_event.6.t:0 "Pilgrimage to Antioch"
+EDG_Nestorianism_event.6.d:0 "Antioch—the city where apostles Paul and Barnabas preached, an indispensable starting point in the Nestorian legacy. Here, believers were first called “Christians”; here also once stood the patriarchal cathedral of the Eastern Church, later ravaged by war, schism, and oblivion.\nNow, as Nestorianism revives, pilgrims tread upon this ancient land, seeking the roots of faith and proclaiming the reunification of a broader, more ancient church."
+EDG_Nestorianism_event.6.a:0 "I shall go to Antioch in person, to venerate the path of the earliest saints."
+
+EDG_Nestorianism_event.7.t:0 "Translation of Nestorian Scriptures"
+EDG_Nestorianism_event.7.d:0 "As Nestorianism steadily spreads across foreign lands, missionaries have come to realize that language barriers present a significant obstacle to the expansion of the faith. To enable local believers to gain a deeper understanding of its core tenets, church scholars have begun translating the Bible and doctrinal texts into Persian, Syriac, Sogdian, and even Chinese and Turkic languages, disseminating divine revelation to all peoples. This grand cultural endeavor not only strengthens the foundations of faith but also shapes emerging local theological traditions."
+EDG_Nestorianism_event.7.a:0 "God's truth should not be confined to the tongues of the few."
+
+EDG_Nestorianism_event.8.t:0 "Monastic Network"
+EDG_Nestorianism_event.8.d:0 "For centuries, Nestorian monks have quietly toiled in distant valleys, along trade route outposts, and within frontier settlements. They copy sacred texts, teach doctrine, shelter orphans, and instruct in literacy. Now, these scattered monasteries are gradually forming an organized holy network. Church leadership is beginning to recognize that, if institutionalized and supported, this network could become the invisible backbone that maintains doctrinal unity, trains missionaries, and resists heresy. However, such centralization may also provoke suspicion from local nobles."
+EDG_Nestorianism_event.8.a:0 "Let faith be the cornerstone of reason, shaping the next generation of theologians."
+
+EDG_Nestorianism_event.9.t:0 "Messiah's Entry into the Holy City"
+EDG_Nestorianism_event.9.d:0 "After centuries of strife and turmoil, Nestorian believers have finally risen up to reclaim the Holy City of Jerusalem—once occupied by pagans—into the embrace of faith once more. Muslim forces have been expelled, and the gates of the Holy City are open again to the glory of the Messiah, Jesus Christ. This is not merely a military victory, but a triumph of faith. Believers are convinced that the Messiah's grace aided them in retaking the sacred land, cleansing the wounds of war, and bestowing newfound peace and redemption. The light of the Holy City shines again, becoming a beacon of faith and hope, drawing pilgrims from all directions to return."
+EDG_Nestorianism_event.9.a:0 "Glory to the Messiah, the Holy City is returned to the faithful!"
+
+EDG_Nestorianism_event.10.t:0 "Patriarch of Nestorius"
+EDG_Nestorianism_event.10.d:0 "After enduring the fires of conflict, the Holy City of Antioch has finally returned from the hands of pagans to Nestorian believers. This moment is not merely a victory of force but a symbol of faith's light shining once more. To honor the great pioneer who steadfastly defended doctrine and expanded the frontiers of faith—Nestorius—the Church has established the title of 'Patriarch of Nestorius,' conferring this sacred honorific upon the Patriarch of Antioch to embody his spirit and authority. This act, like the passing of a holy flame, urges believers to safeguard the truth, remain true to their origins, and stride hand in hand toward an even more glorious future."
+EDG_Nestorianism_event.10.a:0 "May the name of Nestorius be forever inscribed upon Antioch!"
+
+EDG_Nestorianism_event.11.t:0 "People of God"
+EDG_Nestorianism_event.11.d:0 "Amidst worldly chaos and suffering, a group of devout believers has stepped forward, calling themselves the 'People of God' and steadfastly upholding sacred faith and mission. However powerful the opposing forces, they remain united, proclaiming the truth and guarding doctrine. This power not only brings spiritual cohesion but also endows them with boundless courage and wisdom, enabling them to stand firm in turbulent times. As the people chosen by God, they bear the solemn responsibility of guiding humanity toward the light, sworn to spread divine radiance across the earth."
+EDG_Nestorianism_event.11.a:0 "Unite as one, hold fast to the faith!"
+
+EDG_Nestorianism_event.12.t:0 "Nestorian Order"
+EDG_Nestorianism_event.12.d:0 "Beneath the holy light of faith, a corps of iron-blooded guardians has quietly risen. They are the sword of God, the shield of the Church—the Nestorian Order. Sworn to protect the Sanctuary and the faithful with their lives, to resist heresy and invasion, this Order embodies the loyalty and courage of believers. Clad in armor and wielding longswords, they march to the battlefield, becoming the Church's unshakable bastion. The establishment of the Order marks not only the birth of an army but the incarnation of faith's power—a silent declaration of holy light against the darkness."
+EDG_Nestorianism_event.12.a:0 "Bestow upon the Order the highest honors!"
+
+EDG_Nestorianism_event.13.t:0 "Iron Cross Crusade"
+EDG_Nestorianism_event.13.d:0 "War drums thunder in distant lands, and the banner of the Iron Cross flaps fiercely upon the sandy fields. To defend the Holy Land and protect the faith, the Nestorian Order has answered the call, embarking on a crusade of blood and fire. The Iron Cross Crusade is not merely a military campaign but a trial of faith and will. The knights vow to pave the way of faith with their lives, bringing light back to lands tainted by heresy. Amidst raging battles, the loyalty and courage of the faithful become the key to the crusade's success or failure."
+EDG_Nestorianism_event.13.a:0 "“The Iron Cross flies high, holy light illuminates the path ahead; the knights inscribe the epic of faith with their blood."
+
+EDG_Nestorianism_event.14.t:0 "Baptism of the Khan"
+EDG_Nestorianism_event.14.d:0 "Upon the vast steppes, whispers ride the wind as a nomadic dynasty of a century reaches its fateful turning point. The Khan steps into the holy water, washing away bloodshed and dust, receiving the sacred baptism. At this moment, ancient faith and power intertwine, weaving a new legend. His faith becomes the foundation of his rule, and the holy light of Nestorianism spreads across the expansive grasslands. The baptism is not only a purification of the soul but also a divine affirmation of sovereignty. The Khan's conversion is like the dawn's first light, illuminating countless lost souls and heralding the arrival of a new era."
+EDG_Nestorianism_event.14.a:0 "The holy water cleanses not only the Khan's body but also the destiny and sacred mission upon his shoulders."
+
+EDG_Nestorianism_event.15.t:0 "Throne of the Rex Sacrorum"
+EDG_Nestorianism_event.15.d:0 "The Throne of the Rex Sacrorum—symbol of power, pinnacle of faith—yet behind its glory lie endless strife and conspiracy. Power struggles among the Church's high echelons surge like undercurrents; the Rex Sacrorum must not only meet the expectations of the faithful but also tread carefully amidst nobles and secular forces.\nEvery coronation upon the Throne shifts the political landscape within and beyond the empire; the scales of power sway as loyalty and betrayal dance together. Each decision by the Rex Sacrorum may alter the Church's fate or ignite new conflicts and crises.\nIn this chessboard of power, the Throne is both a holy sanctuary and a battlefield of covert warfare. He who controls the Throne controls faith, and controls destiny."
+EDG_Nestorianism_event.15.a:0 "The Throne of the Rex Sacrorum is not only the beacon of faith but also the symbol of power, guiding the faithful forward."
+
+EDG_Nestorianism_event.16.t:0 "In the Name of God"
+EDG_Nestorianism_event.16.d:0 "In an age of shifting powers and imperial upheaval, the Nestorian Church once again puts forth an ancient and solemn proposition: 'All that I do, I do in the Name of God.' This conviction is becoming the spiritual banner for a new generation of believers and rulers—whether expanding territory, unifying faith, or governing the people, all just deeds may be carried out by the authority of the Holy Name.\nThe Church's leadership proposes: We should more explicitly unite divine right with secular power, strengthening the legitimacy of our rule 'In the Name of God.' This may spark a revival of faith, but it could also invite doubt, resistance, or even the call to war."
+EDG_Nestorianism_event.16.a:0 "Yes, we shall govern all peoples in the Name of God."

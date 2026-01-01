@@ -1,0 +1,310 @@
+﻿l_english:
+EDG_GOT_pirate_haven:0 "Pirate Free Haven"
+desc_EDG_GOT_pirate_haven:0 "This province has become a free haven where pirates can come and go as they please."
+EDG_GOT_afraid_of_shadow:0 "Afraid of One's Own Shadow"
+desc_EDG_GOT_afraid_of_shadow:0 ""
+EDG_GOT_intruder_operation:0 "Intruder Operation"
+desc_EDG_GOT_intruder_operation:0 ""
+EDG_GOT_pirate_haven_other:0 "Pirate Black Cove"
+desc_EDG_GOT_pirate_haven_otherc:0 "This place has become a safe haven for pirates!\n"
+#EDG_GOT_pirate_haven_other.tt:0 "@GOT\t§YGotland§! will be able to perform special §Yprovince interactions§! in provinces with the §Y「Pirate Black Cove」§! modifier"
+EDG_GOT_pirate_haven_other.tt:0 "After one year, this modifier will disappear, granting us §G50§!£icon_gold£ and §G500§!£icon_sailors£ when removed.\n"
+EDG_GOT_equality_among_pirates:0 "Equality Among Pirates"
+desc_EDG_GOT_equality_among_pirates:0 ""
+EDG_GOT_sea_wolf:0 "Wolves of the Sea"
+desc_EDG_GOT_sea_wolf:0 "A captain without crew is helpless, a pirate without comrades is doomed. As pirates, we must trust our companions, tearing at our prey like a pack of wolves, that we may survive the sieges of other nations."
+EDG_GOT_notorious:0 "Notorious"
+desc_EDG_GOT_notorious:0 ""
+EDG_GOT_exploration:0 "Oceanic Exploration"
+desc_EDG_GOT_exploration:0 ""
+EDG_GOT_morle_up:0 "Morale Boost"
+desc_EDG_GOT_morle_up:0 ""
+
+
+po_EDG_plunder_war_trophies:0 "Plunder Provinces"
+po_EDG_plunder_war_trophies_desc:0 "All provinces we occupy belonging to this country will be plundered, losing §Y1§! base tax, §Y1§! base production, and §Y1§! base manpower. For every §Y1§! point of development lost, we will gain §Y10§!£allmana£ of the corresponding type and §G20§!£icon_gold£."
+CB_ALLOWED_po_EDG_plunder_war_trophies:0 "The plundered country must have at least one province with development higher than 3!"
+PEACE_po_EDG_plunder_war_trophies:0 "Plunder Provinces"
+cb_EDG_pirate_raid:0 "Pirate Raid"
+cb_EDG_pirate_raid_desc:0 "Catch them off guard!"
+EDG_plunder_war:0 "Demonstrate Naval Supremacy"
+EDG_plunder_war_desc:0 "Gain war score through naval superiority"
+EDG_PLUNDER_WAR_NAME:0 "$ORDER$$FIRST$'s §YRaid War§! against $SECOND_NAME$"
+po_EDG_plunder_war_trophies_count:0 "Number of Provinces Plundered"
+
+EDG_GOT_scare_fleet_reform:0 "Terror Fleet"
+EDG_GOT_scare_fleet_reform_desc:0 "Upon the Seven Seas, no ship that sights our black flag remains unshaken. Our pirate fleet has become the very embodiment of terror across the oceans!"
+
+DDF:0 "Terror Fleet"
+DDF_ADJ:0 ""
+
+DDF_ideas:0 "Terror Fleet Ideas"
+DDF_ideas_bonus:0 "Terror Fleet Ambition"
+DDF_ideas_start:0 "Terror Fleet Traditions"
+DDF_ideas_1:0 "Hoist the Sails!"
+DDF_ideas_1_desc:0 ""
+DDF_ideas_2:0 "We Are the Deep"
+DDF_ideas_2_desc:0 ""
+DDF_ideas_3:0 "Blazing Inferno"
+DDF_ideas_3_desc:0 ""
+DDF_ideas_4:0 "Gunpowder, Cannons and Rum"
+DDF_ideas_4_desc:0 ""
+DDF_ideas_5:0 "Rolling Black Clouds"
+DDF_ideas_5_desc:0 ""
+DDF_ideas_6:0 "Wolves of the Sea"
+DDF_ideas_6_desc:0 ""
+DDF_ideas_7:0 "Lords of the Archipelago"
+DDF_ideas_7_desc:0 ""
+
+
+EDG_GOT_infarmy_mechanic:0 "§RInfamy§!"
+ability_EDG_GOT_infarmy_mechanic:0 "§RInfamy§!"
+EDG_GOT_infarmy:0 "§RInfamy§!"
+EDG_GOT_infarmy_desc:0 "§RInfamy§! will §Gincrease§! through the following factors:\n-Being a §YGreat Power§! §G+0.1§!\n-Naval Tradition (up to §G+0.2§!)\n-Prestige (up to §G+0.2§!)\n-Power Projection (up to §G+0.2§!)\n-Using '§YPlunder Provinces§!' peace term §G+5.0§!\n-Winning a battle §G+0.5§!\n\n§RInfamy§! will §Rdecrease§! through the following factors:\n-Naval Tradition below §Y25§! §R-0.25§!\n-Naval Tradition below §Y50§! §R-0.25§!\n-Prestige below §Y25§! §R-0.25§!\n-Prestige below §Y50§! §R-0.25§!\n-Being at peace §R-0.1§!\n-Losing a battle §R-1.0§!\n"
+EDG_GOT_infarmy_gain_modifier:0 "§RInfamy§! Gain Modifier"
+monthly_EDG_GOT_infarmy:0 "Monthly §RInfamy§! Change"
+EDG_GOT_assemble_fleet:0 "Assemble Raiding Fleet"
+EDG_GOT_assemble_fleet_desc:0 "Too few ships - I don't feel secure."
+EDG_GOT_ocean_exploration:0 "Launch Oceanic Expedition"
+EDG_GOT_ocean_exploration_desc:0 "Tidings from distant lands have reached us. Clearly in the ungoverned New World, our talents will find even greater opportunities."
+
+EDG_GOT_extended_raiding:0 "Commence Hunting Season"
+EDG_GOT_extended_raiding_desc:0 "Seeing these plump merchant ships coming and going before your very eyes - how could your heart not be stirred?"
+EDG_GOT_look_for_treasure:0 "Expand Raiding Range"
+EDG_GOT_look_for_treasure_desc:0 "Not enough!"
+EDG_GOT_share_the_spoils:0 "Share the Spoils"
+EDG_GOT_share_the_spoils_desc:0 "Wealth should sometimes be shared with the crew, so they'll serve us with even greater loyalty."
+EDG_GOT_invite_the_legendary_pirate:0 "Rising Notoriety"
+EDG_GOT_invite_the_legendary_pirate_desc:0 "The fearsome reputation of our beloved Grand Captain [Root.Monarch.GetName] spreads far and wide!\nIt's time to build his personal pirate ship!"
+EDG_GOT_invite_the_legendary_pirate.tt:0 "A §YLegendary Pirate§! will join with his §YPirate Ship§! as leader of @DDF §YTerror Fleet§!!\n\nThe §YLegendary Pirate§! will have lower §YAdministrative§! points but higher §YDiplomatic§! and §YMilitary§! points"
+
+EDG_GOT_look_for_treasure_modifier:0 "Seeking New Targets"
+EDG_GOT_assemble_fleet_modifier:0 "Assemble Raiding Fleet"
+EDG_GOT_assemble_fleet_tt:0 "While this modifier is active, recruiting §YAdmirals§! grants an additional §G2§! Naval Tradition.\n"
+EDG_GOT_extended_raiding_tt2:0 "Extends the duration of the §YNotorious§! modifier by §G10§! years.\n"
+
+EDG_GOT_look_for_treasure_tt:0 "While this modifier is active, §RPillaging§! provinces grants an additional §G10§!£icon_gold£ and §G100§! Manpower.\n"
+EDG_GOT_share_the_spoils_tt:0 "While this modifier is active, §RInfamy§! §Rno longer§! provides the Available Spoils modifier.\n"
+EDG_GOT_extended_raiding_tt:0 "While this modifier is active, the §Rnegative effects§! of §RInfamy§! on Trade Efficiency and Diplomatic Reputation are doubled.\n"
+EDG_GOT_ocean_exploration_tt:0 "While this modifier is active, §RPillaging§! coasts has a §G10.0%§! chance to add §G100§!£icon_colonial_growth£ to a random colony.\n"
+
+EDG_PLUNDER_WAR_CALL:0 "We cannot call allies during §YRaid Wars§!!"
+ 
+EDG_got_pirate_sink_the_swe_title:0 "Crush the Crusaders"
+EDG_got_pirate_sink_the_swe_desc:0 "The Swedish king eyes us with hostility, but thanks to this island, we need only destroy their fleet to ensure our survival."
+
+EDG_got_sink_the_lubeck_title:0 "Bury the Hansa" # Bury the Hanseatic League
+EDG_got_sink_the_lubeck_desc:0 "The Hanseatic League and Norsemen have been at each other's throats for a century. Look at that merchant city full of traders - their veins flow with sin! Even the lowliest pirate is nobler than those cold-blooded merchants!\nIt's time to drown them in their own harbor!"
+
+EDG_got_sink_the_castle_title:0 "Brother's Blood Feud"
+EDG_got_sink_the_castle_desc:0 "Though Denmark shares our Norse faith, they're our greatest rivals in the Mediterranean. Let's take Kronborg Castle - only our black flag shall fly over the Øresund!"
+
+EDG_got_sink_the_danzig_title:0 "Profitable Venture"
+EDG_got_sink_the_danzig_desc:0 "Danzig's port teems with German immigrants daily, generating unimaginable profits. Taking this city would be... satisfying."
+
+EDG_got_sink_the_riga_title:0 "Faith's End"
+EDG_got_sink_the_riga_desc:0 "The Bishop of Riga still clings to his 'holy' mission. Rather than waste resources on such fantasies, let us introduce something more... worldly."
+
+EDG_got_pirate_economy_title:0 "Pirate Economics"
+EDG_got_pirate_economy_desc:0 "Pirate economics follows four simple principles: Burn, Kill, Steal, Plunder. Thus is wealth obtained. Risks? As fate wills - we live by fortune's whim."
+
+EDG_got_robin_hood_title:0 "Rob from the Rich"
+EDG_got_robin_hood_desc:0 "Some hoard wealth beyond need, refusing to share while daring us to take it. Well then, we 'needy' souls shall gladly oblige."
+
+EDG_got_sea_wolf_title:0 "Wolves of the Sea"
+EDG_got_sea_wolf_desc:0 "A captain without crew is helpless; a pirate without comrades is doomed. We must trust our pack, tearing at prey like wolves, that we may survive the sieges of nations."
+
+EDG_got_scare_fleet_title:0 "Storm and Fury"
+EDG_got_scare_fleet_desc:0 "Europe's seas shall know their true masters again. We've sailed past the world's edge, through storms and calamity, through realms of death and ruin. Our fleet fears neither tempest nor challenge. Glory and crowns matter not - we shall reign as the legendary, uncrowned kings of these waters!"
+
+EDG_got_pirate_economy.tt:0 "Each province with the §YPirate Black Cove§! modifier grants §Y50§!¤ and §Y1k§!£icon_sailors£ yearly"
+
+got_pirate_raid_the_baltics_tt1: "When declaring war, the target gains §YAfraid of One's Shadow』§! for §Y1§! year with these effects:\nDefensiveness: §R-25.0%§!\nForeign Spy Detection: §R-25.0%§!\n\nWe gain:"
+
+got_pirate_raid_the_baltics.tt: "Enables CB §YPirate Raid§\n\nIf declaring with §YPirate Raid§!, neither side may call allies for §Y2§! years.\n\nEnables peace term §YPlunder Provinces§!, letting us sack all occupied provinces (losing up to §R3§! development), converting each lost development into §G10§!£allmana£ and §G20§!£icon_gold£.\n"
+
+EDG_got_pirate_economy_ttt: "Plundered §Y40§! provinces. (Current: §G[Root.raid_times_var.GetValue]§!)"
+EDG_got_robin_hood_ttt: "Plundered §Y200§! provinces. (Current: §G[Root.raid_times_var.GetValue]§!)"
+EDG_got_robin_hood_tt: "§RPillaging§! provinces has §G10.0%§! chance to apply modifier §YPirate Black Cove§! for §Y1§! year with effects:\nLocal Unrest: §R+6.00§!\nLocal Devastation: §R+0.1§!\n"
+EDG_got_robin_hood_tt2: "§GDoubled§! chance for §YTrade Centers§! or §YEstuaries§!.\n(Counts provinces plundered by our §YPirate League§! subjects too)\n"
+EDG_got_robin_hood_tt3: "§GDoubles§! the chance for §RPillaged§! provinces to gain §YPirate Black Cove§! modifier.\n"
+
+got_pirate_raid_the_north_sea_modifier: "Expanded Raiding"
+got_pirate_raid_the_north_sea_tt: "Each §RPillage§! §Gextends§! this modifier by §G30§! days.\n"
+NYAB_make_a_pirate_country_effect_tt: "Raised the black flag and became a Pirate Republic."
+NYAB_pirate_subject_modifier: "Pirate League"
+
+got_pirate_CRN_captain_title: "Captain of Cornwall"
+got_pirate_CRN_captain_desc: "A raiding craze has recently emerged in Cornwall - perhaps inspired by us. Regardless, we welcome new friends to join our Pirate League."
+got_pirate_king_of_island_title: "King of the Isles"
+got_pirate_king_of_island_desc: "These isles were once the Vikings' most important stronghold in Britain. Raiding the British here is... particularly satisfying."
+got_pirate_norse_ship_title: "Northern Route"
+got_pirate_norse_ship_desc: "Beyond Britain lies Iceland - as renowned pirates, we must raid even this northernmost outpost."
+got_pirate_raid_everything_title: "Mark the Prey"
+got_pirate_raid_everything_desc: "Countless prey still wander the Seven Seas! Let our lads catch their sails and tighten the chains!"
+got_pirate_raid_adu_title: "Through Hell's Gate"
+got_pirate_raid_adu_desc: "Our brave fleet has braved storms to reach the Mediterranean. Now we shall pass the Pillars of Hercules - the very Gates of Hell!"
+got_pirate_saila_title: "Sirena of Saïda"
+got_pirate_saila_desc: "The distant Moroccan pirates share much with us. Rumor says their pirate queen is a beauty - let's claim her for ourselves!"
+got_pirate_maerta_title: "Assault Malta"
+got_pirate_maerta_desc: "Malta sits at the Mediterranean's heart - impregnable and perfect as our base for... unrestricted activities."
+_title: ""
+_desc: ""
+
+EDG_got_sink_the_castle_ttyes1: "£yes£If we §Mcontrol§! §Y[1981.GetName]§!:"
+EDG_got_sink_the_castle_ttyes2: "£yes£If we §Gown§! §Y[12.GetName]§!:"
+EDG_got_sink_the_castle_ttno1: "£no£If we §Mcontrol§! §Y[1981.GetName]§!:"
+EDG_got_sink_the_castle_ttno2: "£no£If we §Gown§! §Y[12.GetName]§!:"
+EDG_got_sink_the_danzig_ttyes1: "£yes£If we are §Mat war§! with @DNZ§YDanzig§!:"
+EDG_got_sink_the_danzig_ttno1: "£no£If we are §Mat war§! with @DNZ§YDanzig§!:"
+got_pirate_saila_ttyes: "£yes£If completed via §Mdiplomacy§! or §Mwar§!:"
+got_pirate_saila_ttno: "£no£If completed via §Mdiplomacy§! or §Mwar§!:"
+got_pirate_king_of_island_tt: "\n§RPillaging§! provinces in §YBritain§! grants extra §G5§!£icon_gold£ and §G50§!£icon_manpower£ per province.\n"
+NYAB_got_pirate_create_the_pirate_federation_modifier: "Pirate League"
+got_pirate_raid_everything_modifier: "Endless Prey"
+got_pirate_raid_everything_tt: ""
+EDG_got_sea_wolf_tt: "This modifier also applies to our §YPirate League§! subjects.\n"
+pirate_vassal_bonus: "Pirate Vassal Bonus"
+NYAB_Pirates_9a_modifier: "Victory Through Raiding"
+got_pirate_global_piracy_tt2: "§YCoastal Raiding§! now extends worldwide, even outside colonial range.\n\nDuring the §Yfirst year§! of a §YCoastal Raiding§! war, occupying §Munpillaged§! §Ycoastal§! provinces will §RSack§! them, causing §R3§! development loss. Each lost development grants §Y10§!£allmana£ and §G20§!£icon_gold£\nEach province can only be §Rsacked§! once per §Y25§! years.\n"
+got_pirate_maerta_tt: "Enables the Great Project §YPirate Haven of Medina§!.\n"
+
+NYAB_GOT_naval_doctrines: "Gotland Pirate Fleet"
+NYAB_GOT_naval_doctrines_desc: "Let them tremble - they face the world's most fearsome pirates. The black flag flies high!"
+
+NYAB_pirate_subject: "Pirate League"
+NYAB_pirate_subject_title:0 "Pirate League"
+NYAB_pirate_subject_title_plural:0 "Pirate Leagues"
+NYAB_pirate_subject_is_our:0 "$NAME|Y$ is in our Pirate League."
+NYAB_pirate_subject_long_desc:0 "The Pirate League is an alliance of pirates united against 'hegemonic powers'. Each member must pay §G5§!£icon_gold£ and §G50§!£icon_sailors£ to the leader when raiding."
+NYAB_pirate_subject_no_overlord_dow:0 "You cannot declare war on your Pirate League."
+NYAB_pirate_subject_overlord_title:0 "Pirate League Overlord"
+
+NYAB_Pirates_2_t: "The Equalizers of the North Sea"
+NYAB_Pirates_2_d: "The Likedeelers, a Germanic pirate group whose name meant 'Equal Share', once made Rügen their stronghold. Operating as the 'Victual Brothers', they plundered northern merchant ships and distributed their spoils to the poor. They resisted Denmark, struck against the Hanseatic League, and at their peak even controlled Visby where we now stand. Yet their leader Klaus Störtebeker and his crew were ultimately cornered by the oppressors of Nordic nations on Heligoland, meeting their fated end.\n\nNow the tides have turned - Rügen is under our control. The righteous pirates of old are gone, leaving only rotting shipwrecks along the coast, while tyrannical oppressors still run rampant. Let us rebuild the Victual Brotherhood and restore the glory of the Likedeelers, the 'Equal Share', making the Baltic tyrants tremble before the storms of the North Sea."
+NYAB_Pirates_2a: "Behold! We are the storm gathering on the horizon!"
+NYAB_Pirates_2b: "Let this legendary island serve our cause!"
+
+NYAB_Pirates_3_t: "The Danzig Alliance"
+NYAB_Pirates_3_d: "Danzig fell not to heathens, but to us. Though the city has been raided by our kind many times before, this complete subjugation is unprecedented. Many crew members clamor to turn Danzig into our next pirate haven, a base across the waters. But [Root.Monarch.GetName] proposes a more tempting plan - if Danzig continues to exist, maintaining its former appearance, it could lure an endless stream of ships from the western Baltic for us to plunder."
+NYAB_Pirates_3a: "Let Danzig continue to exist."
+NYAB_Pirates_3b: "Turn Danzig into a pirate paradise."
+
+NYAB_Pirates_4_t: "The Saga of Thorfinn"
+NYAB_Pirates_4_d: "Thorfinn Hær, descendant of a pirate family born in Visby, capital of Gotland, carried in his veins the courage and wisdom of legendary pirates. Growing up aboard his father's ship, his childhood was filled with tempestuous seas and distant voyages - experiences that forged him into a skilled pirate sailor. In Visby, where ancient pirate spirits still lingered, every breath seemed to imbue him with ancestral wisdom and valor. Before turning eleven, Thorfinn joined his father raiding Baltic coastal villages and merchant ships, seeing this life as both family tradition and the natural Gotland way of living. Yet this ended abruptly when his father was betrayed and murdered by former friend Askeladd, shattering Thorfinn's world. Consumed by vengeance, the orphaned boy assumed a false identity to follow his father's killer, biding his time.\n\nFor four years aboard Askeladd's ship, Thorfinn observed and learned while icy currents of hatred swirled beneath his calm surface. His chance came during a chaotic battle north of Riga. There, using his deep understanding of ships and combat, he drove his father's dagger into Askeladd's back, seizing both vengeance and command of the vessel and crew - beginning a new chapter in his pirate saga.\n\nYet as years passed, Thorfinn grew discontent with mere plunder. He hungered for true power to shape Gotland's destiny and the Baltic's future. Drawing on five years of maritime connections and experience, he entered the ruthless competition for Gotland's pirate leadership - a contest where only the most cunning and brutal prevailed.\n\nThrough calculated schemes, assassinations, bribes and threats, Thorfinn systematically eliminated rivals until he alone stood victorious as leader of the Gotland Pirate Republic."
+NYAB_Pirates_4a: "Now THIS is piracy!"
+NYAB_Pirates_4a_modifier: "Thorfinn's Reign"
+
+NYAB_Pirates_5_t: "The Windy Capital of the White Sea"
+NYAB_Pirates_5_d: "Riga - the Baltic's commercial heart, the Hanseatic League's northern trade nexus, this wind-swept city of wealth. Eastern merchants gather here, Novgorod's goods stockpile here, and the German trade alliance uses it as their base to claim the East's abundant treasures.\n\nNow this glorious northern capital flies our colors! Endless, absolutely endless! Countless riches now lie within our grasp! Leaning upon Riga's golden throne, we hold the entire White Sea in our palm. Our free fleets have united the northern waters, where ocean wealth flows endlessly to us with the tides - crushing order, crushing laws, crushing chains! From this windy capital of the White Sea, we gaze upon our undisputed dominion over the Baltic! Now let this city join our mighty fleet."
+NYAB_Pirates_5a: "We were born of the storm."
+NYAB_Pirates_5b: "Let hurricanes roar at our command."
+NYAB_Pirates_5b_tt: "Gain §R20§! Aggressive Expansion.\n"
+NYAB_Pirates_5a_modifier: "Baltic Pirate Stronghold"
+desc_NYAB_Pirates_5a_modifier: "This province has become a pirate base, granting benefits to all Baltic provinces under their control."
+NYAB_Pirates_5a_modifier_prov: "Baltic Safe Haven"
+desc_NYAB_Pirates_5a_modifier_prov: "The Baltic hosts an active pirate operations base, allowing free pillaging and plundering here."
+NYAB_Pirates_5a_tt: "Check this conditional modifier through §Y[38.GetName]§! province. When conditions are met, §YBaltic§! region provinces gain:"
+
+NYAB_Pirates_6_t: "The Ever-Blowing Winds of Freedom"
+NYAB_Pirates_6_d: "The Hebrides have always been the most mysterious, wondrous, and untamed realm of the British Isles. Here, majestic landscapes are often veiled in twilight and rainstorms, where crashing waves meet ever-shifting skies. The treacherous waters surrounding these isles demand respect even from the world's most skilled captains.\n\nThis forged the Hebrides' reputation as a haven of freedom - where wolf-like privateer fleets lurk within the mist and waves. The people of these isles have frequently risen against the tyrants of Scotland or England to defend their liberty. Now we bring the winds of freedom to this land of Fenrir. Let us lead the islanders to shatter their chains with the storm itself."
+NYAB_Pirates_6a: "We shall chase sun and moon until Ragnarök."
+NYAB_Pirates_6b: "We shall tame the monstrous wolf and forge a paradise."
+NYAB_Pirates_6b_modifier: "Pirate Heart of Britain"
+
+NYAB_Pirates_7_t: "Jörmungandr Circling Midgard"
+NYAB_Pirates_7_d: "Iceland - this desolate island at the world's edge, scarred by volcanoes and frozen rivers - is far from barren. Its surrounding cod fisheries generate immense wealth. More importantly, Iceland stands as the gateway between Old World and New, controlling this island means controlling half the routes to the New World and half its treasures.\n\nThis aurora-crowned frozen isle floats above the bottomless deep that encircles mortal realms. The Old World and distant New Lands connect through Iceland like the world-serpent biting its own tail, placing all ships under the gaze of the glacial leviathan. Now, should we choose, we can command the wealth of both worlds. Even Jörmungandr sleeping beneath endless seas shall stir colossal waves for us today. The serpent encircling Midgard will bring all the world's riches under our control."
+NYAB_Pirates_7a: "Let the World-Serpent raise tidal waves for us!"
+NYAB_Pirates_7a_tt: "\n@ICE§YIceland's§! missions §YGreenland Colony§!, §YSettle Greenland§!, and §YConquer the Arctic§! can be §Gcompleted§! as our subject, from which we shall also §Gbenefit§!.\n"
+NYAB_Pirates_7b: "Let both worlds' glory and wealth be ours!"
+NYAB_Pirates_7b_modifier: "Norse Shipcraft"
+
+NYAB_Pirates_8_t: "Voyage Beyond Helheim"
+NYAB_Pirates_8_d: "The Pillars of Hercules - gateway to the Mediterranean, landmark of Gibraltar. Our fleet has traversed these narrow straits, entering Europe's inland sea from distant waters beyond the Seven Seas. Iberian winds billow our sails as they snap triumphantly. Gotland's glorious fleet, like our ancestors before us, once again enters this sea of boundless wealth.\n\nGibraltar shall become the chain by which we control the Mediterranean's throat. Europe's waters shall welcome their true masters once more. We've sailed past the world's edge, through storms and calamity, through realms of death and ruin. Our fleet fears neither tempest nor challenge. Helheim, Hela's domain, shall not open for us; instead of glory and crowns, we shall reign as legendary, uncrowned kings of these magnificent waters!"
+NYAB_Pirates_8a: "Asgard's halls open wide for us!"
+NYAB_Pirates_8a_modifier: "Passage Through Hell's Gate"
+NYAB_Pirates_8b: "Valhalla shall sing our victories!"
+NYAB_Pirates_8b_tt: "Gain §R10§! Aggressive Expansion.\n"
+
+NYAB_Pirates_9_t: "Land of Blooming Cornflowers"
+NYAB_Pirates_9_d: "Malta - heart of the Mediterranean, where crashing waves meet gentle sea breezes, haven for merchant ships and sails. This prosperous port now lies under our control, freed from the oppression of Sicily's Muslim tyrants. The waves pound against the cliffs, sweeping all remnants of the past into the boundless deep.\n\nCornflowers - the coastal fields blaze with their vibrant colors. Even amidst the flames of war, Malta's cornflowers bloom defiantly. This pure and beautiful heart of the sea, this unyielding land of blossoming cornflowers, these serene and peaceful shores - shall now reveal themselves for us. Malta, the Mediterranean's trade hub, shall become our operational base for future raids. The cornflowers of Malta shall bloom for us alone."
+NYAB_Pirates_9a: "May these flowers forever bloom in our hearts."
+NYAB_Pirates_9b: "May these sea breezes nurture prosperity."
+
+NYAB_Pirates_17_t: "The Sack of Miklagard"
+NYAB_Pirates_17_d: "[Root.Monarch.GetName] stood before the Hagia Sophia, savoring the surrounding beauty and tranquility while chaos reigned in the streets below. From this vantage point, he watched his warriors rushing through opulent districts - dragging prisoners ruthlessly, setting buildings ablaze, and staggering away with armfuls of plunder. Where hours earlier the lower city had been an inferno, now only choking smoke and the occasional clash from remaining pockets of resistance remained. The City of the World's Desire had been reduced to a smoldering husk; legendary Miklagard now tamed by the very Varangians it once employed. The king turned back to the gilded doors of Hagia Sophia and strode triumphantly inside, his followers fanning out to strip the mosaics and ornaments. All wondered: why had the Greeks worshipped a god who abandoned them in their darkest hour? Not that it mattered now. From this day, the old gods would rule these halls."
+NYAB_Pirates_17a: "Burn whatever you can't carry back to the ships!"
+
+got_pirate_the_curia_treasure_tt: "Completed §YPillage§! targets:\n    -§Y[151.GetName]§!\n    -§Y[358.GetName]§!\n    -§Y[112.GetName]§!\n    -§Y[125.GetName]§!\n    -§Y[118.GetName]§!\n    -§Y[596.GetName]§!\n    -§Y[667.GetName]§!\n    -§Y[1021.GetName]§!"
+
+NYAB_GOT_raid_modifier_356: "Knowledge of Alexandria"
+NYAB_GOT_raid_modifier_112: "Venetian Armaments" 
+NYAB_GOT_raid_modifier_125: "Kindred Pirate Spirits"
+NYAB_GOT_raid_modifier_118: "Judgment of the Gods"
+NYAB_GOT_raid_modifier_499: "Norse Parish"
+NYAB_GOT_raid_modifier_667: "Seres Engineers"
+NYAB_GOT_raid_modifier_1021: "Way of the Warrior"
+NYAB_GOT_raid_modifier_151: "Secret of Greek Fire"
+
+EDG_got_scare_fleet_modifier: "Fearless"
+
+NYAB_GOT_treasury_decision_title: "@GOTConstruct Gotland's §YTreasury§!"
+NYAB_GOT_treasury_decision_desc: ""
+NYAB_GOT_treasury_decision2_title: "@GOT§GInvest§! in Gotland"
+NYAB_GOT_treasury_decision2_desc: ""
+
+NYAB_Pirates_18_t: "Invest in Gotland"
+NYAB_Pirates_18_d: "It's time to store our plundered gold in our magnificent Gotland Treasury."
+NYAB_Pirates_18a: "Maybe next time."
+NYAB_Pirates_18b: "Invest §Y100§!£icon_gold£"
+NYAB_Pirates_18c: "Invest §Y250§!£icon_gold£" 
+NYAB_Pirates_18d: "Invest §Y500§!£icon_gold£"
+NYAB_Pirates_18e: "Invest §Y1000§!£icon_gold£"
+
+got_treasure: "Treasury Wealth"
+NYAB_GOT_treasure_modifier_prov: "Gotland's Hoard"
+desc_NYAB_GOT_treasure_modifier_prov: "All pirate treasures are stored here - if lost, they will be §Rcompletely gone§!.\n\n§YTreasury§!: §G[Root.Owner.got_treasure.GetValue]§!£icon_gold£\n\nEach year, if the §YTreasury§! contains over §Y1000§!, it will randomly convert to §Jdevelopment§!, §Tprovince modifiers§! or §GRepublican tradition§!.\n\nThe Treasury is affected by:\n-§RPillaging§! provinces §G+5§!\n-§RSacking§! provinces §G+5§!\n-§YPlunder Provinces§! peace term (per province) §G+2§!\n-§YInvest in Gotland§! decision\n\n§gOnly possible to gain development if Gotland's development is below 60.\n§!"
+
+got_pirate_the_pirate_fleet_tt: "Unlocks the §YConstruct Gotland Treasury§! decision.\n"
+NYAB_GOT_treasury_decision_tt: "Check province interface for details on how §MGotland Treasury§! works.\n\nUnlocks the §YInvest in Gotland§! decision, allowing us to store plundered wealth in §YGotland§!.\n"
+
+NYAB_GOT_treasure_reward_1: "Production Boom"
+desc_NYAB_GOT_treasure_reward_1: "Pirate wealth has attracted a surge of craftsmen to Gotland."
+
+NYAB_GOT_treasure_reward_2: "Trade Nexus"
+desc_NYAB_GOT_treasure_reward_2: "With the Baltic swept clean by pirates, only Gotland's merchants dare to sail now."
+
+NYAB_GOT_treasure_reward_3: "Mercenary Influx" 
+desc_NYAB_GOT_treasure_reward_3: "Rumors of pirate treasures have drawn hordes of mercenaries to Gotland."
+
+NYAB_GOT_treasure_reward_4: "Development Focus"
+desc_NYAB_GOT_treasure_reward_4: "All wealth is being poured into developing Gotland's infrastructure."
+
+NYAB_GOT_treasure_reward_5: "Administrative Expansion"
+desc_NYAB_GOT_treasure_reward_5: "Countless riches allow us to hire swarms of clerks to aid governance."
+
+NYAB_GOT_treasure_reward_6: "Academic Hub"
+desc_NYAB_GOT_treasure_reward_6: "Though most pirates are illiterate, their squandered wealth accidentally advanced Gotland's research."
+
+NYAB_GOT_treasure_reward_7: "Naval Drills"
+desc_NYAB_GOT_treasure_reward_7: "Constant naval training is essential for maintaining year-round seafaring."
+
+NYAB_GOT_treasure_reward_8: "Fortified Defenses"
+desc_NYAB_GOT_treasure_reward_8: "The best way to protect our treasures is to strengthen our walls."
+
+NYAB_GOT_treasure_reward_9: "Talent Recruitment" 
+desc_NYAB_GOT_treasure_reward_9: "With endless wealth, why not recruit more learned men?"
+
+NYAB_GOT_treasure_reward_10: "Glory Praised"
+desc_NYAB_GOT_treasure_reward_10: "For enough gold, even notorious pirates can have artists sing their praises."
+
+NYAB_GOT_level_up_port_tt: "Spend §R1000§!£icon_gold£ and §R100§!£allmana£ to randomly §Gupgrade§! a §YPirate Free Haven§! modifier in one of our provinces, changing effects to:\nProvince Governing Cost: §G-25.0%§!\nLand Force Limit: §G+5.0§!\nNaval Force Limit: §G+5.0§!\nLocal Goods Produced: §G+20.0%§!\nTrade Value: §G+20.0%§!\nLocal Development Cost: §G-5.0%§!\nAvailable Building Slots: §G+2§!\nPossible Manufactories: §G+1§!\nState Maintenance: §R+100.0%§!\n"
+
+NYAB_GOT_level_up_port_title: "@GOT§JUpgrade§! §YPirate Free Haven§!"
+NYAB_GOT_level_up_port_desc: "Ports are our lifeblood - if we have spare resources, let's improve them!"
+NYAB_GOT_level_up_port_ttt: "Has upgradable §YPirate Free Haven§!"
+
+EDG_GOT_pirate_haven2: "Prosperous Pirate Free Haven"
+desc_EDG_GOT_pirate_haven2: "This thriving port shows no signs of pirate control - it rivals major cities in prosperity."
+
+string_start_GOT: "Gotland, an isolated maritime realm in the Baltic Sea, became part of the Swedish kingdom as a vassal during the 11th and early 12th centuries. Under King Karl, appointed by §YEngland's Edgar 'the Ætheling'§!, English clergy flooded this traditional Norse kingdom. Yet Gotland, this island fortress floating on the White Sea, remained a deeply-rooted Norse stronghold, largely impervious to Christian influence.\n\nDuring the following half-century of turmoil later called the §YNorthern Crusades§!, the Swedish kingdom sought to spread both God's light and royal authority across Scandinavia, driving streams of pagan refugees to these shores. The crown's grip on these waters grew slack, its laws increasingly unenforced. In subsequent chaotic centuries, the Danish renegade §YErik Griffon§! from the Wendish coast rallied Baltic pirate fleets and, with help from Visby's Norse traditionalists, captured Gotland, declaring himself Grand Admiral. Mercenaries, outlaws, refugees, and desperate adventurers from across Scandinavia flocked to this free city. In this lawless era, Gotland became the new master of the White Sea, its black-flagged alliance terrorizing merchants across the azure waters.\n\nBut as wars subsided and order returned, with Nordic kingdoms consolidating power, Gotland's regime grew precarious. Every ruler longed to obliterate this den of maritime outlaws threatening their coasts. The pirate alliance's domain shrank from northern waters to Gotland's immediate surroundings. Now besieged, will Visby's captains meet their end, or carry their black banner to greater seas? The time has come for all northern waters to know who truly rules as the §YUncrowned Kings§! of the Seven Seas - where free harbors shelter those fearless before the storm."

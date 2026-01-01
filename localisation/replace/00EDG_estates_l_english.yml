@@ -220,7 +220,7 @@ EDG_estate_noble_LOT_privilege_old_right:0 "Ancient Rights of Person"
 EDG_estate_noble_LOT_privilege_old_right_desc:0 "Since the time of Charlemagne, our nobility has possessed inviolable rights of person. The monarch has no authority to arbitrarily arrest nobles or subject them to torture."
 
 EDG_estate_noble_LOT_privilege_exemption:0 "Military Service Exemption for German Nobility"
-EDG_estate_noble_LOT_privilege_exemption_desc:0 "To maintain stability in the German regions, Ludwig VII granted military service exemptions to the German nobility. However, we all know this is only temporary."
+EDG_estate_noble_LOT_privilege_exemption_desc:0 "To maintain stability in the German regions, Louis VII granted military service exemptions to the German nobility. However, we all know this is only temporary."
 
 #Burghers / Merchants
 estate_EDG_Latin_National_privilege:0 "Expand the National Militia"

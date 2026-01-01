@@ -1,0 +1,1446 @@
+﻿l_english:
+RIG_EXPAND_BOOKMARK:0 "§GRegional Scenario§! - Land of Mary" # Land of the Virgin Mary
+RIG_EXPAND_BOOKMARK_DESC:0 "At the confluence of the Daugava River and the Gulf of Riga stands a magnificent city. From its beginnings in 1150 with Gotlandic merchants developing the mouth of the Western Dvina, to the arrival of the first crusaders in Livonia and the building of a fortress in 1201, through the end of the Northern Crusades, to the archbishopric becoming a free city in 1366, Riga has now witnessed nearly three centuries.\nIf an opportunity exists, seize what you can grasp, and this city will be reborn anew.\nReawaken the knightly orders that have lost their original purpose, guiding them back on the path under your leadership; retrieve the sword broken at Saule and the Crusader banners frozen on the ice lake, reigniting the Northern Crusades, letting the dust-covered past shine again under the Lord's light; gaze upon the homeland, shoulder the mission of purging heresies across the lands of Europa, re-establishing the authority of the Catholic Church; look to distant horizons, spreading the Lord's radiance across the vast steppes and Balkan lands, reaching even the Holy City of Jerusalem...\n§YAnd the Land of the Virgin Mary remains prosperous; Riga shall march on towards the future.§!"
+ 
+rig_riga_episcopal_ties_modifier:0 "Papal Envoy"
+desc_rig_riga_episcopal_ties_modifier:0 ""
+
+rig_restructure_internal_affairs:0 "Administrative Restructuring"
+desc_rig_restructure_internal_affairs_desc:0 ""
+
+rig_restructure_internal_affairs_subject:0 "Administrative Restructuring"
+desc_rig_restructure_internal_affairs_subject:0 ""
+
+riga_stability_city_modifier:0 "Riga City Guard"
+desc_riga_stability_city_modifier:0 ""
+
+riga_reinforce_the_wall_modifier:0 "Fortified Walls"
+desc_riga_reinforce_the_wall_modifier:0 ""
+
+rig_trade_city_overlord_modifier:0 "Rigan Chartered Trade Zone"
+desc_rig_trade_city_overlord_modifier:0 ""
+
+rig_trade_city_subject_modifier:0 "Rigan Chartered Trade Zone"
+desc_rig_trade_city_subject_modifier:0 ""
+
+rig_knightage_vissal_subject_modifier:0 "Knightly Order"
+desc_rig_knightage_vissal_subject_modifier:0 ""
+
+rig_knightage_vissal_subject_modifier_more:0 "Elite Knightly Order"
+desc_rig_knightage_vissal_subject_modifier_more:0 ""
+
+rig_knightage_vissal_subject_modifier_one_city:0 "Defend Riga"
+desc_rig_knightage_vissal_subject_modifier_one_city:0 ""
+
+rig_knightage_vissal_overlord_modifier:0 "Support for Knightly Orders"
+desc_rig_knightage_vissal_overlord_modifier:0 ""
+
+rig_episcopal_administrative_district_subject_modifier:0 "Episcopal Administrative Region"
+desc_rig_episcopal_administrative_district_subject_modifier:0 ""
+
+rig_episcopal_administrative_district_overlord_modifier:0 "Administrative Region Operations"
+desc_rig_episcopal_administrative_district_overlord_modifier:0 ""
+
+rig_episcopal_economic_district_subject_modifier:0 "Episcopal Economic Region"
+desc_rig_episcopal_economic_district_subject_modifier:0 ""
+
+rig_episcopal_economic_district_subject_modifier_more_1:0 "Prosperous Economic Region"
+desc_rig_episcopal_economic_district_subject_modifier_more_1:0 ""
+
+rig_episcopal_economic_district_subject_modifier_more_2:0 "Develop Economic Region"
+desc_rig_episcopal_economic_district_subject_modifier_more_2:0 ""
+
+rig_episcopal_economic_district_overlord_modifier:0 "Economic Region Operations"
+desc_rig_episcopal_economic_district_overlord_modifier:0 ""
+
+rig_episcopal_military_district_subject_modifier:0 "Episcopal Military District"
+desc_rig_episcopal_military_district_subject_modifier:0 ""
+
+rig_episcopal_military_district_subject_modifier_more:0 "Great Frontier Region"
+desc_rig_episcopal_military_district_subject_modifier_more:0 ""
+
+rig_episcopal_military_district_subject_TEU:0 "Teutonic Order Guidance"
+desc_rig_episcopal_military_district_subject_TEU:0 ""
+
+rig_episcopal_military_district_subject_LIV:0 "Livonian Order Guidance"
+desc_rig_episcopal_military_district_subject_LIV:0 ""
+
+rig_episcopal_military_district_subject_KNI:0 "Knights Hospitaller Guidance"
+desc_rig_episcopal_military_district_subject_KNI:0 ""
+
+rig_episcopal_military_district_subject_KTP:0 "Knights Templar Guidance"
+desc_rig_episcopal_military_district_subject_KTP:0 ""
+
+rig_episcopal_military_district_overlord_modifier:0 "Military District Operations"
+desc_rig_episcopal_military_district_overlord_modifier:0 ""
+
+cathedral_of_riga_modifier:0 "Cathedral of Riga"
+desc_cathedral_of_riga_modifier:0 ""
+
+market_of_riga_modifier:0 "Riga's Maritime Gateway"
+desc_market_of_riga_modifier:0 ""
+
+fortification_of_riga_modifier:0 "Riga Castle"
+desc_fortification_of_riga_modifier:0 ""
+
+rig_integrated_the_danzig_confederacy:0 "Integration of the Knightly Orders"
+desc_rig_integrated_the_danzig_confederacy:0 ""
+
+riga_barrier_modifier:1 "Riga Barrier Complex"
+desc_riga_barrier_modifier:0 ""
+
+rig_scandinavian_strategy_modifier:0 "Scandinavian Strategy"
+desc_rig_scandinavian_strategy_modifier:0 ""
+
+rig_commercial_espionage_modifier:0 "Commercial Espionage"
+desc_rig_commercial_espionage_modifier:0 ""
+
+rig_safety_north_tt:0 "Riga's Baltic Trade Hegemony"
+rig_great_north_war_sca_modifier:0 "The Great Northern War"
+desc_rig_great_north_war_sca_modifier:0 ""
+
+rig_great_north_war_modifier:0 "The Great Northern War"
+desc_rig_great_north_war_modifier:0 ""
+
+rig_hansa_league_mercantile_modifier:0 "Rigan Commercial Strategy"
+desc_rig_hansa_league_mercantile_modifier:0 "The Bishopric of Riga's strategy towards the Hanseatic League relinquishes its own control over trade, fully entrusting it to the market and subject states for trade steering. As a subject of Riga, we can reap significant benefits from this. However, the shift in trade focus may leave us with little capacity to attend to military matters."
+
+rig_hansa_league_goods_output_modifier:0 "Rigan Commercial Strategy"
+desc_rig_hansa_league_goods_output_modifier:0 ""
+
+rig_hsa_trade_solution:0 "Hanseatic Trade Strategy"
+desc_rig_hsa_trade_solution:0 ""
+
+rig_riga_hansa_trade_conflict_normal:0 "Riga-Hansa Trade Dispute Scale: §GMinor§!"
+desc_rig_riga_hansa_trade_conflict_normal:0 ""
+
+rig_riga_hansa_trade_conflict_aggravate:0 "Riga-Hansa Trade Dispute Scale: §YModerate§!"
+desc_rig_riga_hansa_trade_conflict_aggravate:0 ""
+
+rig_riga_hansa_trade_conflict_seriousness:0 "Riga-Hansa Trade Dispute Scale: §OSignificant§!"
+desc_rig_riga_hansa_trade_conflict_seriousness:0 ""
+
+rig_riga_hansa_trade_conflict_extremely_seriousness:0 "Riga-Hansa Trade Dispute Scale: §MMajor§!"
+desc_rig_riga_hansa_trade_conflict_extremely_seriousness:0 ""
+
+rig_riga_hansa_trade_conflict_out_of_control:0 "Riga-Hansa Trade Dispute Scale: §ROut of Control§!"
+desc_rig_riga_hansa_trade_conflict_out_of_control:0 ""
+
+rig_the_rigan_trade_league_modifier:0 "Rigan Trade League"
+desc_rig_the_rigan_trade_league_modifier:0 ""
+
+rig_north_german_trade_battle_seriousness:0 "Trade War Disaster Area"
+desc_rig_north_german_trade_battle_seriousness:0 ""
+
+rig_north_german_trade_battle_common:0 "Trade War Affected Region"
+desc_rig_north_german_trade_battle_common:0 ""
+
+rig_north_german_trade_battle_rig_subject_modifier:0 "North German Trade War Plan"
+desc_rig_north_german_trade_battle_rig_subject_modifier:0 ""
+
+rig_north_german_trade_victor:0 "North German Trade War Victor"
+desc_rig_north_german_trade_victor:0 ""
+
+rig_rus_war_modifier:0 "Northeastern Rus' Strategy"
+desc_rig_rus_war_modifier:0 ""
+
+rig_hide_an_weapon:0 "Await the Opportune Moment"
+desc_rig_hide_an_weapon:0 ""
+
+rig_rus_war_modifier_1:0 "War of Attrition Strategy"
+desc_rig_rus_war_modifier_1:0 ""
+
+rig_rus_war_modifier_2:0 "Blitz Strategy"
+desc_rig_rus_war_modifier_2:0 ""
+
+rig_an_unexpected_war:0 "An Unexpected War"
+desc_rig_an_unexpected_war:0 "The sudden uprising in Pskov disrupted our strategic deployment. Therefore, until our strategic plans are reconstructed, our forces' coordination will be significantly reduced."
+
+rig_rus_war_psk_uprising:0 "Ancient Rus' Homeland"
+desc_rig_rus_war_psk_uprising:0 ""
+
+rig_liv_morale_is_high:0 "Avenging the Ice"
+desc_rig_liv_morale_is_high:0 ""
+
+rig_poland_ruthenia_strategy:0 "Polish-Ruthenian Strategy" # Polish-Ruthenian Strategy
+desc_rig_poland_ruthenia_strategy:0 ""
+
+rig_advance_slowly_fight_quickly:0 "Advance Slowly, Attack Swiftly Strategy"
+desc_rig_advance_slowly_fight_quickly:0 ""
+
+rig_riga_high_devotion_modifier:0 "Riga Has High Devotion"
+desc_rig_riga_high_devotion_modifier:0 ""
+
+rig_riga_low_devotion_modifier:0 "Riga Has Low Devotion"
+desc_rig_riga_low_devotion_modifier:0 ""
+
+rig_riga_high_prestige_modifier:0 "Riga Has High Prestige"
+desc_rig_riga_high_prestige_modifier:0 ""
+
+rig_riga_high_diplomatic_reputation_modifier:0 "Riga Has High Diplomatic Reputation"
+desc_rig_riga_high_diplomatic_reputation_modifier:0 ""
+
+rig_province_adm_integration:0 "Integration and Reconstruction"
+desc_rig_province_adm_integration:0 ""
+
+rig_estate_rig_knightage_enlarge_the_knight_modifier:0 "Expand the Knightly Orders"
+desc_rig_estate_rig_knightage_enlarge_the_knight_modifier:0 ""
+
+rig_joint_operation_subject:0 "Joint Operations"
+desc_rig_joint_operation_subject:0 ""
+
+rig_joint_operation_overlord:0 "Joint Operations"
+desc_rig_joint_operation_overlord:0 ""
+
+the_heart_of_baltic_modifier:0 "Heart of the Baltic"
+desc_the_heart_of_baltic_modifier:0 ""
+
+rig_riga_military_system:0 "Rigan Military System"
+desc_rig_riga_military_system:0 ""
+
+rig_foreign_missionary_reform_modifier:0 "Foreign Missionaries"
+desc_rig_foreign_missionary_reform_modifier:0 ""
+
+rig_armed_pilgrimage_reform_modifier:0 "Armed Pilgrimage"
+desc_rig_armed_pilgrimage_reform_modifier:0 ""
+
+rig_the_holy_knights_reform_modifier:0 "Holy Knightly Orders"
+desc_rig_the_holy_knights_reform_modifier:0 ""
+
+rig_riga_legate_of_holy_see_reform_modifier:0 "Rigan Papal Legate"
+desc_rig_riga_legate_of_holy_see_reform_modifier:0 ""
+
+rig_riga_military_region_system_reform_modifier:0 "Rigan Military Districts"
+desc_rig_riga_military_region_system_reform_modifier:0 ""
+
+rig_northern_crusades_reform_modifier:0 "Northern Crusades"
+desc_rig_northern_crusades_reform_modifier:0 ""
+
+rig_congress_of_the_people_and_dioceses_of_all_riga_reform_modifier:0 "Administrative Expansion"
+desc_rig_congress_of_the_people_and_dioceses_of_all_riga_reform_modifier:0 ""
+
+rig_riga_administrative_system_reform_modifier:0 "Regional Administrative System"
+desc_rig_riga_administrative_system_reform_modifier:0 ""
+
+rig_feed_the_people_reform_modifier:0 "Nourish the People"
+desc_rig_feed_the_people_reform_modifier:0 ""
+
+rig_city_expand_project:0 "City Expansion Project"
+desc_rig_city_expand_project:0 ""
+
+rig_world_city_fulcrum:0 "§GUniversal City Project Fulcrum City§!"
+desc_rig_world_city_fulcrum:0 ""
+
+rig_adm_system_of_riga:0 "§YFunctioning Rigan Administrative System§!"
+desc_rig_adm_system_of_riga:0 ""
+
+rig_military_system_of_riga:0 "§RCorrupt Rigan Military System§!"
+desc_rig_military_system_of_riga:0 ""
+
+rig_riga_religious_dilemma:0 "§YRigan Religious Dilemma§!"
+desc_rig_riga_religious_dilemma:0 ""
+
+rig_riga_religious_dilemma_subject:0 "§YRigan Religious Dilemma§!"
+desc_rig_riga_religious_dilemma_subject:0 ""
+
+rig_military_reorganization_modifier:0 "Military Reorganization"
+desc_rig_military_reorganization_modifier:0 ""
+
+rig_military_theory_innovation_modifier:0 "Military Theory Innovation"
+desc_rig_military_theory_innovation_modifier:0 ""
+
+rig_promotion_of_new_talent_modifier:0 "Promotion of New Talent"
+desc_rig_promotion_of_new_talent_modifier:0 ""
+
+rig_uniform_order_modifier_overlord:0 "Uniform Order"
+desc_rig_uniform_order_modifier_overlord:0 ""
+
+rig_uniform_order_modifier_subject:0 "Uniform Order"
+desc_rig_uniform_order_modifier_subject:0 ""
+
+rig_military_organization_reform_modifier:0 "Military Organization Reform"
+desc_rig_military_organization_reform_modifier:0 ""
+
+rig_riga_steel_guardian_modifier:0 "Riga Steel Guardian"
+desc_rig_riga_steel_guardian_modifier:0 ""
+
+rig_border_brave_army_modifier:0 "Borderland Brave Army"
+desc_rig_border_brave_army_modifier:0 ""
+
+rig_new_army_of_riga:0 "Rigan New Army"
+desc_rig_new_army_of_riga:0 ""
+
+rig_use_more_army_modifier_overlord:0 "Advanced Supply Lines"
+desc_rig_use_more_army_modifier_overlord:0 ""
+
+rig_use_more_army_modifier_subject:0 "Advanced Supply Lines"
+desc_rig_use_more_army_modifier_subject:0 ""
+
+rig_rig_use_less_army_modifier_overlord:0 "Advanced Drill System"
+desc_rig_rig_use_less_army_modifier_overlord:0 ""
+
+rig_use_less_army_modifier_subject:0 "Advanced Drill System"
+desc_rig_use_less_army_modifier_subject:0 ""
+
+rig_riga_campaign_planning_department_reform_modifier:0 "Rigan War Planning Department"
+desc_rig_riga_campaign_planning_department_reform_modifier:0 ""
+
+rig_government_stability_low:0 "Current Government Stability: Low"
+desc_rig_government_stability_low:0 ""
+
+rig_government_stability_seriousness:0 "Current Government Stability: Very Low"
+desc_rig_government_stability_seriousness:0 ""
+
+rig_government_stability_collapse:0 "Current Government Stability: Collapsed"
+desc_rig_government_stability_collapse:0 ""
+
+rig_make_war_plans_1_modifier:0 "Rigan War Plan Focus: Offense"
+desc_rig_make_war_plans_1_modifier:0 ""
+
+rig_make_war_plans_2_modifier:0 "Rigan War Plan Focus: Defense"
+desc_rig_make_war_plans_2_modifier:0 ""
+
+rig_make_war_plans_3_modifier:0 "Rigan War Plan Focus: Attrition"
+desc_rig_make_war_plans_3_modifier:0 ""
+
+rig_riga_military_preparations:0 "All is Prepared"
+desc_rig_riga_military_preparations:0 ""
+
+rig_great_war_of_riga_modifier:0 "Great Campaign"
+desc_rig_great_war_of_riga_modifier:0 ""
+
+rig_administrative_restructuring_modifier:0 "Administrative Restructuring"
+desc_rig_administrative_restructuring_modifier:0 ""
+
+riga_be_ready_for_battle:0 "Rest on Arms, Await Battle"
+desc_riga_be_ready_for_battle:0 ""
+
+riga_conflagration_modifier:0 "The Great Riga Fire"
+desc_riga_conflagration_modifier:0 ""
+
+KNI_stronghold_modifier:0 "Knights Hospitaller Headquarters"
+desc_KNI_stronghold_modifier:0 "The headquarters of the Knights Hospitaller is established here, managing the island, protecting Baltic trade routes, developing Gotland's economy, and fighting for the faith when necessary."
+
+rig_church_state:0 "Church State"
+desc_rig_church_state:0 ""
+
+rgl_the_promised_land:0 "The Promised Land"
+desc_rgl_the_promised_land:0 ""
+
+rgl_material_shortage:0 "Material Shortage"
+desc_rgl_material_shortage:0 ""
+
+rig_overseas_mission_reform_modifier:0 "Overseas Mission"
+desc_rig_overseas_mission_reform_modifier:0 ""
+
+rig_joint_publicity_reform_modifier:0 "Joint Mission"
+desc_rig_joint_publicity_reform_modifier:0 ""
+
+rig_cultural_melting_pot:0 "Cultural Melting Pot"
+desc_rig_cultural_melting_pot:0 ""
+
+rig_adm_military_readiness_act_reform_modifier:0 "Military Readiness Act"
+desc_rig_adm_military_readiness_act_reform_modifier:0 ""
+
+rig_adm_cultural_integration_act_reform_modifier:0 "Cultural Integration Act"
+desc_rig_adm_cultural_integration_act_reform_modifier:0 ""
+
+rig_adm_decentralization_act_reform_modifier:0 "Decentralization Act"
+desc_rig_adm_decentralization_act_reform_modifier:0 ""
+
+rig_adm_administrative_expansion_act_modifier:0 "Administrative Expansion Act"
+desc_rig_adm_administrative_expansion_act_modifier:0 ""
+
+rig_eco_self_defence_act_reform_modifier:0 "Self-Defense Act"
+desc_rig_eco_self_defence_act_reform_modifier:0 ""
+
+rig_eco_emancipation_act_reform_modifier:0 "Emancipation Act"
+desc_rig_eco_emancipation_act_reform_modifier:0 ""
+
+rig_eco_chartered_economic_zone_ordinance_reform_modifier:0 "Chartered Ordinance"
+desc_rig_eco_chartered_economic_zone_ordinance_reform_modifier:0 ""
+
+rig_mil_integration_act_reform_modifier:0 "Military Integration Act"
+desc_rig_mil_integration_act_reform_modifier:0 ""
+
+rig_mil_garrison_act_reform_modifier:0 "Garrison Act"
+desc_rig_mil_garrison_act_reform_modifier:0 ""
+
+rig_use_lightning_war_modifier:0 "Focus on Offense"
+desc_rig_use_lightning_war_modifier:0 ""
+
+rig_use_protracted_war_modifier:0 "Focus on Defense"
+desc_rig_use_protracted_war_modifier:0 ""
+
+rig_use_more_supplies_modifier:0 "Focus on Supplies"
+desc_rig_use_more_supplies_modifier:0 ""
+
+rig_use_faster_replenishment_modifier:0 "Focus on Reinforcements"
+desc_rig_use_faster_replenishment_modifier:0 ""
+
+rig_add_modifier_for_subject_and_self:0 "Our subjects will also receive the above modifiers."
+
+rig_a_thriving_shipbuilding_industry:0 "Thriving Shipbuilding Industry"
+desc_rig_a_thriving_shipbuilding_industry:0 ""
+
+rig_riga_combined_fleet_reform_overlord_modifier:0 "Rigan Combined Fleet"
+desc_rig_riga_combined_fleet_reform_overlord_modifier:0 ""
+
+rig_riga_combined_fleet_reform_subject_modifier:0 "Rigan Combined Fleet"
+desc_rig_riga_combined_fleet_reform_subject_modifier:0 ""
+
+rig_riga_city_size_1:0 "§YRiga City Size (§G1§!)§!"
+desc_rig_riga_city_size_1:0 "Maximum Developable Development: §Y100§!"
+
+rig_riga_city_size_2:0 "§YRiga City Size (§G2§!)§!"
+desc_rig_riga_city_size_2:0 "Maximum Developable Development: §Y200§!"
+
+rig_riga_city_size_3:0 "§YRiga City Size (§G3§!)§!"
+desc_rig_riga_city_size_3:0 "Maximum Developable Development: §Y300§!"
+
+rig_riga_city_size_4:0 "§YRiga City Size (§G4§!)§!"
+desc_rig_riga_city_size_4:0 "Maximum Developable Development: §Y400§!"
+
+rig_riga_city_size_5:0 "§YRiga City Size (§G5§!)§!"
+desc_rig_riga_city_size_5:0 "Maximum Developable Development: §Y500§!"
+
+rig_riga_city_size_6:0 "§YRiga City Size (§G6§!)§!"
+desc_rig_riga_city_size_6:0 "Maximum Developable Development: §Y600§!"
+
+rig_riga_city_size_7:0 "§YRiga City Size (§G7§!)§!"
+desc_rig_riga_city_size_7:0 "Maximum Developable Development: §Y700§!"
+
+rig_riga_city_size_8:0 "§YRiga City Size (§G8§!)§!"
+desc_rig_riga_city_size_8:0 "Maximum Developable Development: §Y800§!"
+
+rig_riga_city_size_9:0 "§YRiga City Size (§G9§!)§!"
+desc_rig_riga_city_size_9:0 "Maximum Developable Development: §Y900§!"
+
+rig_riga_city_size_10:0 "§YRiga City Size (§G10§!)§!"
+desc_rig_riga_city_size_10:0 "Maximum Developable Development: §Y1000§!"
+
+rig_urban_renewal:0 "Urban Renewal Plan"
+desc_rig_urban_renewal:0 ""
+
+rig_support_rigalia_modifier:0 "Rigaeria Support Plan"
+desc_rig_support_rigalia_modifier:0 ""
+
+rig_heading_for_the_dense_forest:0 "Advancing into the Dense Forest"
+desc_rig_heading_for_the_dense_forest:0 ""
+
+rig_early_coffee_plantations:0 "Early Coffee Plantations"
+desc_rig_early_coffee_plantations:0 ""
+
+rig_unified_mining_system:0 "Unified Mining System"
+desc_rig_unified_mining_system:0 ""
+
+rig_urban_revitalization_plan:0 "Urban Revitalization Plan"
+desc_rig_urban_revitalization_plan:0 ""
+
+rig_egy_mediterranean_granary:0 "Mediterranean Granary"
+desc_rig_egy_mediterranean_granary:0 ""
+
+rig_country_rehabilitate:0 "Recuperation"
+desc_rig_country_rehabilitate:0 ""
+
+rig_build_largely_modifier:0 "Large-Scale Construction"
+desc_rig_build_largely_modifier:0 ""
+
+rig_build_silk_farm:0 "Establish Silk Farms"
+desc_rig_build_silk_farm:0 ""
+
+rig_siberian_fur_exchange:0 "Establish Fur Exchanges"
+desc_rig_siberian_fur_exchange:0 ""
+
+rig_riga_ideal_city_complex_modifier:0 "Riga Ideal City Complex"
+desc_rig_riga_ideal_city_complex_modifier:0 "We shall fuse the world into one city, building the city as a world."
+
+rig_heavenly_praise:0 "Heavenly Praise"
+desc_rig_heavenly_praise:0 ""
+
+rig_heavenly_praise_subject:0 "Heavenly Onslaught"
+desc_rig_heavenly_praise_subject:0 ""
+
+great_war_of_riga_name:0 "$ORDER$$FIRST$'s §YGreat Campaign§! against $SECOND_NAME$"
+po_rig_dismemberment_country:0 "Dismember Nation"
+po_rig_dismemberment_country_desc:0 ""
+CB_ALLOWED_po_rig_dismemberment_country:0 "Dismembered nation must have development greater than 350."
+PEACE_po_rig_dismemberment_country:0 "Dismember Nation"
+
+cb_great_war_of_riga_conquer_province:0 "Great Campaign"
+cb_great_war_of_riga_conquer_province_desc:0 ""
+riga_great_war_conquer_province:0 "Great Campaign"
+riga_great_war_conquer_province_desc:0 ""
+
+cb_great_war_of_riga_vassalize:0 "Great Campaign"
+cb_great_war_of_riga_vassalize_desc:0 ""
+riga_great_war_vassalize:0 "Great Campaign"
+riga_great_war_vassalize_desc:0 ""
+
+cb_great_war_of_riga_dismemberment_country:0 "Great Campaign"
+cb_great_war_of_riga_dismemberment_country_desc:0 ""
+riga_great_war_dismemberment_country:0 "Great Campaign"
+riga_great_war_dismemberment_country_desc:0 ""
+
+riga_paper_need:0 "Rigan Administrative Demand"
+rig_overseas_episcopate_overlord_modifier:0 "Overseas Bishopric"
+desc_rig_overseas_episcopate_overlord_modifier:0 ""
+rig_overseas_episcopate_subject_modifier:0 "Overseas Bishopric"
+desc_rig_overseas_episcopate_subject_modifier:0 ""
+
+rig_ecumenopolis_ideal_modifier:0 "Universal City Ideal"
+desc_rig_ecumenopolis_ideal_modifier:0 ""
+
+rig_faith_and_people_modifier:0 "Faith and People"
+desc_rig_faith_and_people_modifier:0 ""
+
+rig_heart_of_world_modifier:0 "Heart of the World"
+desc_rig_heart_of_world_modifier:0 ""
+
+rig_change_subject_trade_city_actions_title:0 "Convert to §GRigan Chartered Trade Zone§!"
+rig_change_subject_trade_city_actions_desc:0 "Converts the target subject into a special vassal: §GRigan Chartered Trade Zone§!\n\n§GRigan Chartered Trade Zones§! have the following characteristics:\n\n1. Can possess only one city.\n\n2. Will not join §YRiga's§! offensive wars.\n\n3. Each §GRigan Chartered Trade Zone§! provides §YRiga§! with minor bonuses to goods produced, trade efficiency, yearly tax income, and production efficiency.\n\n4. Subjects of this type have §Gadditional§! §Ymerchants§! and §Ytrade-related bonuses§!."
+rig_change_subject_trade_city_actions_tooltip:0 "Convert the target subject into a special vassal: §GRigan Chartered Trade Zone§!"
+
+rig_end_inspection_of_vassal_title:0 "§YEnd Inspection§!"
+rig_end_inspection_of_vassal_desc:0 "Conclude the inspection of the subject and return to Riga."
+rig_end_inspection_of_vassal_tooltip:0 "Time to return home"
+
+rig_inspection_of_vassal_title:0 "§YInspect Subject§!"
+rig_inspection_of_vassal_desc:0 "Switch to playing as this nation, allowing us to micro-manage its ongoing actions. If you don't want the AI controlling Riga, §Rplease pause the game!§!"
+rig_inspection_of_vassal_tooltip:0 "Switch to playing as this nation."
+rig_inspection_of_vassal.effect.tt:0 "You can select §YEnd Inspection§! in the §YDiplomatic Actions§! menu to switch back to §YRiga§!"
+
+rig_change_subject_episcopal_administrative_district_actions_title:0 "Convert to §YEpiscopal Administrative Region§!"
+rig_change_subject_episcopal_administrative_district_actions_desc:0 "Converts the target subject into a special vassal: §YEpiscopal Administrative Region§!\n\n§YEpiscopal Administrative Regions§! possess §Gadditional administrative capacity§! and §Gmissionary-related bonuses§!, along with §Gstrong stability modifiers§!, enabling effective management of large amounts of newly conquered heathen and foreign-culture lands. They also have the following characteristics:\n\n1. Each §YEpiscopal Administrative Region§! will §Rreduce§! §YRiga's§! §Ytrade efficiency§!, §Ytax income, and manpower§!.\n\n2. Gains additional §Yreligious unity§! when §YRiga§! has §Yhigh devotion§!.\n\n3. When §YRiga§! has §Ylow devotion§! or §Ylow prestige§!, it §Rincreases liberty desire§!; conversely, it §Gdecreases liberty desire§!."
+rig_change_subject_episcopal_administrative_district_actions_tooltip:0 "Convert the target subject into a special vassal: §YEpiscopal Administrative Region§!"
+
+rig_change_subject_episcopal_economic_district_actions_title:0 "Convert to §MEpiscopal Economic Region§!"
+rig_change_subject_episcopal_economic_district_actions_desc:0 "Converts the target subject into a special vassal: §MEpiscopal Economic Region§!\n\n§MEpiscopal Economic Regions§! have §Ghigher goods produced§!, §Gproduction efficiency bonuses§!, and possess §Gstrong trade power modifiers§!. Due to having §Rhigher army maintenance costs§! and §Rlower land force limits§!, their combat effectiveness is not high, making them suitable for maintaining stability and developing the economy. They also have the following characteristics:\n\n1. §MEpiscopal Economic Regions§! have §Rvery low trade efficiency§! but high trade competitiveness, so it is recommended to have them §Ytransfer trade power§!.\n\n2. Gains additional §Yreligious unity§! when §YRiga§! has §Yhigh devotion§!.\n\n3. When §YRiga§! has §Ylow devotion§! or §Ylow prestige§!, it §Rincreases liberty desire§!; conversely, it §Gdecreases liberty desire§!."
+rig_change_subject_episcopal_economic_district_actions_tooltip:0 "Convert the target subject into a special vassal: §MEpiscopal Economic Region§!"
+
+rig_change_subject_episcopal_military_district_actions_title:0 "Convert to §REpiscopal Military District§!"
+rig_change_subject_episcopal_military_district_actions_desc:0 "Converts the target subject into a special vassal: §REpiscopal Military District§!\n\n§REpiscopal Military Districts§! possess army-related bonuses in various aspects, making them highly powerful in combat. They also have the following characteristics:\n\n1. When an §REpiscopal Military District§! owns more than §Y25§! cities, it gains §Gfurther military bonuses§!.\n\n2. §REpiscopal Military Districts§! have §Rvery high core creation cost§!, so it is not recommended to delegate coring tasks to subjects of this type.\n\n3. §REpiscopal Military Districts§! will receive additional bonuses from each of §YRiga's§! §Rknightly order subjects§!.\n\n4. Gains additional §Yreligious unity§! when §YRiga§! has §Yhigh devotion§!.\n\n5. When §YRiga§! has §Ylow devotion§! or §Ylow prestige§!, it §Rincreases liberty desire§!; conversely, it §Gdecreases liberty desire§!."
+rig_change_subject_episcopal_military_district_actions_tooltip:0 "Convert the target subject into a special vassal: §REpiscopal Military District§!"
+
+rig_transfer_control_area_to_subject_title:0 "Transfer Controlled Area to this Country"
+rig_transfer_control_area_to_subject_desc:0 "We will transfer all our wartime occupied areas to this country."
+rig_transfer_control_area_to_subject_tooltip:0 "Transfer all controlled areas to this country"
+
+rig_transfer_control_area_to_overlord_title:0 "Reclaim Controlled Area from this Country"
+rig_transfer_control_area_to_overlord_desc:0 "We will reclaim all wartime occupied areas from our subject."
+rig_transfer_control_area_to_overlord_tooltip:0 "Reclaim all controlled areas from this country"
+
+rig_take_back_the_vassal_title:0 "Reclaim Subject"
+rig_take_back_the_vassal_desc:0 "Transfer this country's suzerainty to our nation."
+rig_take_back_the_vassal_tooltip:0 "Since our §Ybishopric§! is this country's overlord, we can legitimately transfer its suzerainty to us"
+
+rig_select_the_client_to_transfer_title:0 "Select Target for Subject Transfer"
+rig_select_the_client_to_transfer_desc:0 "We will designate this country as the target for our subject transfer.\n\nA new diplomatic action, §YTransfer Subject to this Country§!, will appear in each §Ybishopric§! to accept the subject."
+rig_select_the_client_to_transfer_tooltip:0 "Designate this country as the target subject we wish to transfer. After completing this diplomatic action, a new diplomatic action, §YTransfer Subject to this Country§!, will appear in each of our §Ybishoprics§! to transfer suzerainty to another §Ybishopric§!"
+
+rig_transfer_of_client_to_the_country_title:0 "§YTransfer Subject to this Country§!"
+rig_transfer_of_client_to_the_country_desc:0 "Transfer the suzerainty of our previously selected subject to this country."
+rig_transfer_of_client_to_the_country_tooltip:0 "Since we selected a subject whose suzerainty needs to be transferred, we can transfer its suzerainty to any §Ybishopric§! subject"
+
+rig_change_vassal_to_rig_vassal_title:0 "Establish §JRigan Chartered Subject§!"
+rig_change_vassal_to_rig_vassal_desc:0 "Convert this country into a §JRigan Chartered Subject§!."
+rig_change_vassal_to_rig_vassal_tooltip:0 "Convert an ordinary vassal into a §JRigan Chartered Subject§!. Subjects of this type are identical to ordinary vassals in all aspects except they cannot be annexed."
+
+rig_change_rig_vassal_to_vassal_title:0 "Convert to Ordinary Vassal"
+rig_change_rig_vassal_to_vassal_desc:0 "Convert this country into an ordinary vassal."
+rig_change_rig_vassal_to_vassal_tooltip:0 "Convert a §JRigan Chartered Subject§! into an ordinary vassal, making it eligible for annexation."
+
+rig_drag_into_battle_title:0 "§YCall Subject into War§!"
+rig_drag_into_battle_desc:0 "This subject will be drawn into all wars we are currently fighting."
+rig_drag_into_battle_tooltip:0 "This §Ysubject§! will join all §Ywars§! we are currently engaged in."
+
+rig_concession_trade_ordinance_title:0 "§GChartered Trade Grant§!"
+rig_concession_trade_ordinance_desc:0 "A basic trade league can no longer satisfy the relationship between our two nations. Perhaps we should consider deeper cooperation."
+rig_concession_trade_ordinance_tooltip:0 "The target country will become our §GRigan Chartered Trade Zone§!"
+
+BASE_AI_ACCEPTANCE:0 "Base Acceptance"
+
+rig_episcopal_administrative_district_title:0 "§YEpiscopal Administrative Region§!"
+rig_episcopal_administrative_district_title_plural:0 "§YEpiscopal Administrative Regions§!"
+rig_episcopal_administrative_district_long_desc:0 "§YEpiscopal Administrative Region§!"
+rig_episcopal_administrative_district_is_our:0 "§YEpiscopal Administrative Region§!"
+
+rig_episcopal_economic_district_title:0 "§MEpiscopal Economic Region§!"
+rig_episcopal_economic_district_title_plural:0 "§MEpiscopal Economic Regions§!"
+rig_episcopal_economic_district_long_desc:0 "§MEpiscopal Economic Region§!"
+rig_episcopal_economic_district_is_our:0 "§MEpiscopal Economic Region§!"
+
+rig_episcopal_military_district_title:0 "§REpiscopal Military District§!"
+rig_episcopal_military_district_title_plural:0 "§REpiscopal Military Districts§!"
+rig_episcopal_military_district_long_desc:0 "§REpiscopal Military District§!"
+rig_episcopal_military_district_is_our:0 "§REpiscopal Military District§!"
+
+rig_trade_city:0 "§GEpiscopal Trade City§!"
+rig_trade_city_title:0 "§GEpiscopal Trade City§!"
+rig_trade_city_title_plural:0 "§GEpiscopal Trade Cities§!"
+rig_trade_city_long_desc:0 "§GEpiscopal Trade City§!"
+rig_trade_city_is_our:0 "§GEpiscopal Trade City§!"
+
+rig_knightage_vissal:0 "§OKnightly Order§!"
+rig_knightage_vissal_title:0 "§OKnightly Order§!"
+rig_knightage_vissal_title_plural:0 "§OKnightly Orders§!"
+rig_knightage_vissal_long_desc:0 "§OKnightly Order§!"
+rig_knightage_vissal_is_our:0 "§OKnightly Order§!"
+
+rig_overseas_episcopate:0 "§TOverseas Bishopric§!"
+rig_overseas_episcopate_title:0 "§TOverseas Bishopric§!"
+rig_overseas_episcopate_title_plural:0 "§TOverseas Bishoprics§!"
+rig_overseas_episcopate_long_desc:0 "§TOverseas Bishopric§!"
+rig_overseas_episcopate_is_our:0 "§TOverseas Bishopric§!"
+
+rig_vassal:0 "§JRigan Chartered Subject§!"
+rig_vassal_title:0 "§JRigan Chartered Subject§!"
+rig_vassal_title_plural:0 "§JRigan Chartered Subjects§!"
+rig_vassal_long_desc:0 "§JRigan Chartered Subject§!"
+rig_vassal_is_our:0 "§JRigan Chartered Subject§!"
+
+incident_north_german_trade_war:0 "North German Trade War"
+incident_north_german_trade_war_member_alert:0 "Due to commercial conflicts, the Bishopric of Riga and the Hanseatic leader, Lübeck, have engaged in a series of trade disputes. Recently, the newly formed trade alliance between the Bishopric of Riga and various Danish city-states has escalated this conflict to a climax. North German princes, seeking to protect their interests, have begun leaning toward one side, implementing supportive policies and actions to secure greater profits. However, this has further fractured the already strained relations among the discontented princes. Minor skirmishes involving mercenaries occur frequently across the region, and economic instability has led to more frequent peasant uprisings. As the trade war continues, the entire Empire is more or less affected by the North German trade war."
+incident_north_german_trade_war_emperor_alert:0 "Due to commercial conflicts, the Bishopric of Riga and the Hanseatic leader, Lübeck, have engaged in a series of trade disputes. Recently, the newly formed trade alliance between the Bishopric of Riga and various Danish city-states has escalated this conflict to a climax. North German princes, seeking to protect their interests, have begun leaning toward one side, implementing supportive policies and actions to secure greater profits. However, this has further fractured the already strained relations among the discontented princes. Minor skirmishes involving mercenaries occur frequently across the region, and economic instability has led to more frequent peasant uprisings. As the trade war continues, the entire Empire is more or less affected by the North German trade war. The Emperor must intervene to prevent the situation from worsening."
+
+north_german_trade_war_opinion_good:0 "North German Trade Cooperation"
+north_german_trade_war_opinion_bad:0 "North German Trade Conflict"
+
+rig_danmark_trade_league:0 "Danish-Rigan Trade Alliance"
+
+skn_liberty_desire_modifier:0 "Dream of Independence"
+
+riga_hansa_trade_war_modifier_for_trade_goods:0 "Riga-Hansa Trade War Impact"
+
+estate_rig_knightage:0 "Knightly Orders"
+estate_rig_knightage_desc:0 ""
+estate_rig_knightage_ownership:0 "Lands Held by the Knightly Orders"
+rig_knightage_loyalty_modifier:0 "Knightly Order Loyalty"
+rig_knightage_influence_modifier:0 "Knightly Order Influence"
+rig_knightage_privilege_slots:0 "Knightly Order Privilege Slots"
+EST_RIG_KNIGHTAGE_ONE_KNIGHT_COUNTRY:0 "Teutonic Order"
+EST_RIG_KNIGHTAGE_TWO_KNIGHT_COUNTRY:0 "Livonian Order"
+EST_RIG_KNIGHTAGE_THREE_KNIGHT_COUNTRY:0 "Knights Hospitaller"
+EST_RIG_KNIGHTAGE_FOUR_KNIGHT_COUNTRY:0 "Knights Templar"
+
+estate_rig_knightage_land_rights:0 "Grant Lands to Knightly Orders"
+estate_rig_knightage_land_rights_desc:0 ""
+estate_rig_knightage_TEU_quartered:0 "Teutonic Order"
+estate_rig_knightage_TEU_quartered_desc:0 ""
+estate_rig_knightage_LIV_quartered:0 "Livonian Order"
+estate_rig_knightage_LIV_quartered_desc:0 ""
+estate_rig_knightage_KNI_quartered:0 "Knights Hospitaller"
+estate_rig_knightage_KNI_quartered_desc:0 ""
+estate_rig_knightage_KTP_quartered:0 "Knights Templar"
+estate_rig_knightage_KTP_quartered_desc:0 ""
+
+estate_rig_knightage_enlarge_the_knight:0 "Expand the Knightly Orders"
+estate_rig_knightage_enlarge_the_knight_desc:0 ""
+estate_rig_knightage_enlarge_the_knight_tt:0 "Our §Oknightly order§! subjects will receive the following bonuses:\n§Y§G+50%§! land force limit§!\n§Y§G+50%§! national manpower§!\n§Y§G-20%§! land maintenance modifier§!"
+
+estate_rig_knightage_armed_escort:0 "Establish the Rigan Knightly Guard"
+estate_rig_knightage_armed_escort_desc:0 ""
+
+estate_rig_invite_the_knights_for_guidance:0 "Invite Knightly Orders for Guidance"
+estate_rig_invite_the_knights_for_guidance_desc:0 ""
+
+estate_rig_enlist_the_knights:0 "Recruit Knights from the Orders"
+estate_rig_enlist_the_knights_desc:0 ""
+
+merc_rig_TEU_knight:0 "Teutonic Order"
+merc_rig_LIV_knight:0 "Livonian Order"
+merc_rig_KNI_knight:0 "Knights Hospitaller"
+merc_rig_KTP_knight:0 "Knights Templar"
+merc_rig_riga_holy_knight:0 "Rigan Holy Knights"
+mer_rig_knights_of_saintess:0 "Order of the Saintess"
+
+rig_deal_with_prussian_confederation_title:0 "@RIG Deal with the Prussian Confederation"
+rig_deal_with_prussian_confederation_desc:0 ""
+
+rig_integration_scandinavia_title:0 "@RIG Merge §YScandinavian§! Nations"
+rig_integration_scandinavia_desc:0 ""
+
+rig_integration_russia_title:0 "@RIG Merge §YNortheastern Rus'§! Nations"
+rig_integration_russia_desc:0 ""
+
+rig_integration_ruthenia_title:0 "@RIG Merge §YKievan Rus'§! Nations"
+rig_integration_ruthenia_desc:0 ""
+
+rig_integration_iberia_title:0 "@RIG Merge §YIberian§! Nations"
+rig_integration_iberia_desc:0 ""
+
+rig_integration_italy_title:0 "@RIG Merge §YItalian§! Nations"
+rig_integration_italy_desc:0 ""
+
+rig_integration_Netherlands_title:0 "@RIG Merge §YLow Countries§! Nations"
+rig_integration_Netherlands_desc:0 ""
+
+rig_integration_german_title:0 "@RIG Merge §YGerman§! Nations"
+rig_integration_german_desc:0 ""
+
+rig_integration_france_title:0 "@RIG Merge §YFrench§! Nations"
+rig_integration_france_desc:0 ""
+
+rig_integration_britain_title:0 "@RIG Merge §YBritish§! Nations"
+rig_integration_britain_desc:0 ""
+
+rig_integration_malaya_title:0 "@RIG Merge §YMalay§! Nations"
+rig_integration_malaya_desc:0 ""
+
+rig_integration_rajput_title:0 "@RIG Merge §YIndian§! Nations"
+rig_integration_rajput_desc:0 ""
+
+rig_integration_myanmar_title:0 "@RIG Merge §YSoutheast Asian§! Nations"
+rig_integration_myanmar_desc:0 ""
+
+rig_papal_influence_to_improvement_title:0 "@RIG Invest All Papal Influence into Development"
+rig_papal_influence_to_improvement_desc:0 "§!Every §Y6§! papal influence converts to §Y3§! development (§Y1§! tax + §Y1§! production + §Y1§! manpower).\n\nEach city level has a maximum amount of development that can be invested, which is §Y100§! times the §YRiga City Size§!.\n\nWhen development exceeds the maximum for each level, you can no longer increase development through this decision.\n\nYou can increase the §YRiga City Size§! via the decision §YExpand Riga City Size§!.\n\nStarting from §YRiga City Size (§G1§!)§!, for every §Yincrease§! of §G1§! level in §YCity Size§!, an additional §Y3§! papal influence will be consumed.\n\nThe papal influence cost increases up to a maximum of §Y30§! papal influence per §Y3§! development."
+rig_papal_influence_to_improvement_tt:0 "Convert all papal influence into development"
+
+rig_expand_riga_city_title:0 "@RIG §YExpand Riga City Size§!"
+rig_expand_riga_city_desc:0 "This will take some time; the larger the expansion, the longer the time required."
+
+rig_expand_riga_city_progress_title:0 "@RIG Check §YRiga City Expansion§! Progress"
+rig_expand_riga_city_progress_desc:0 ""
+rig_expand_riga_city_progress.tt:0 "[root.rig_riga_city_building_progress_per.GetName]: §Y[root.rig_riga_city_building_progress_per.GetValue]§!%"
+rig_riga_city_building_progress_per:0 "Construction Progress"
+
+rig_riga_change_religion_title:0 "@RIG Return from Error"
+rig_riga_change_religion_desc:0 ""
+
+rig_riga_world_city_project_title:0 "@RIG §GUniversal City Project§!: Start the Universal City Project"
+rig_riga_world_city_project_desc:0 ""
+
+rig_riga_stop_world_city_project_title:0 "@RIG §GUniversal City Project§!: Pause the Universal City Project"
+rig_riga_stop_world_city_project_desc:0 ""
+
+world_city_project_investment_pool:0 "Total Resources"
+world_city_project_base_development_cost:0 "Base Development Cost"
+world_city_project_base_development_cost_1:0 "§YFirst Node§! Development Cost"
+world_city_project_base_development_cost_2:0 "§YSecond Node§! Development Cost"
+world_city_project_base_development_cost_3:0 "§YThird Node§! Development Cost"
+world_city_project_base_development_speed:0 "Time required to increase development once"
+
+rig_riga_add_investment_pool_title:0 "@RIG §GUniversal City Project§!: Increase Resource Pool"
+rig_riga_add_investment_pool_desc:0 ""
+
+rig_riga_check_world_city_project_title:0 "@RIG §GUniversal City Project§!: View Universal City Project Information"
+rig_riga_check_world_city_project_desc:0 "The Universal City Development Plan will begin at selected fulcrum cities and spread development to surrounding provinces. Once a province reaches 25 development, it will continue to radiate development to neighboring provinces."
+rig_riga_check_world_city_project.tt:0 "Current Universal City Project Information:\n\n§Y[root.world_city_project_investment_pool.GetName]§!: §Y[root.world_city_project_investment_pool.GetValue]§!\n§Y[root.world_city_project_base_development_cost.GetName]§! is §Y[root.world_city_project_base_development_cost.GetValue]§!\n\n§YFirst Node§! located at: §Y[rig_world_city_project_fulcrum_target_1.GetName]§!\n§YFirst Node§! development target: §Y[rig_world_city_project_fulcrum_province_work_target_1.GetName]§!\n[world_city_project_base_development_cost_1.GetName]: [world_city_project_base_development_cost_1.GetValue]\n\n§YSecond Node§! located at: §Y[rig_world_city_project_fulcrum_target_2.GetName]§!\n§YSecond Node§! development target: §Y[rig_world_city_project_fulcrum_province_work_target_2.GetName]§!\n[world_city_project_base_development_cost_2.GetName]: [world_city_project_base_development_cost_2.GetValue]\n\n§YThird Node§! located at: §Y[rig_world_city_project_fulcrum_target_3.GetName]§!\n§YThird Node§! development target: §Y[rig_world_city_project_fulcrum_province_work_target_3.GetName]§!\n[world_city_project_base_development_cost_3.GetName]: [world_city_project_base_development_cost_3.GetValue]\n\n[root.world_city_project_base_development_speed.GetName]: [root.world_city_project_base_development_speed.GetValue] days"
+
+rig_add_word_city_project_investment_pool_power_title:0 "@RIG §GUniversal City Project§!: Exchange Monarch Points for Resources"
+rig_add_word_city_project_investment_pool_power_desc:0 ""
+rig_add_word_city_project_investment_pool_power.tt:0 "Consumes §Y33§! points of each monarch power type."
+
+rig_add_word_city_project_investment_pool_pap_influence_title:0 "@RIG §GUniversal City Project§!: Exchange Papal Influence for Resources"
+rig_add_word_city_project_investment_pool_pap_influence_desc:0 ""
+rig_add_word_city_project_investment_pool_pap_influence.tt:0 ""
+
+rig_add_word_city_project_investment_pool_all_pap_influence_title:0 "@RIG §GUniversal City Project§!: Exchange All Papal Influence for Resources"
+rig_add_word_city_project_investment_pool_all_pap_influence_desc:0 ""
+rig_add_word_city_project_investment_pool_all_pap_influence.tt:0 ""
+
+rig_add_word_city_project_investment_pool_all_power_title:0 "@RIG §GUniversal City Project§!: Exchange All Monarch Points for Resources"
+rig_add_word_city_project_investment_pool_all_power_desc:0 ""
+rig_add_word_city_project_investment_pool_all_power.tt:0 ""
+
+rig_enable_automatic_investment_title:0 "@RIG §GUniversal City Project§!: Enable Automatic Resource Investment"
+rig_enable_automatic_investment_desc:0 ""
+rig_enable_automatic_investment.tt:0 "Every §Y30§! days, §Y3§! points of each monarch power type and §G6§! papal influence will be automatically exchanged for a certain amount of resources."
+
+rig_dye_for_subject_title:0 "Colorize Subjects"
+rig_dye_for_subject_desc:0 ""
+rig_dye_for_subject.tt:0 "This will color all subjects with our color!"
+
+rig_reset_color_for_subject_title:0 "Restore Subject Colors"
+rig_reset_color_for_subject_desc:0 ""
+rig_reset_color_for_subject.tt:0 "This will restore all subjects to their original colors!"
+
+rig_disable_automatic_investment_title:0 "@RIG §GUniversal City Project§!: Stop Automatic Resource Investment"
+rig_disable_automatic_investment_desc:0 ""
+
+rig_make_war_plans_title:0 "@RIG Plan a War"
+rig_make_war_plans_desc:0 "Due to our unique administrative and military system, we cannot declare war on enemies hastily. We must prepare thoroughly to initiate a war."
+rig_make_war_plans_cd.tt:0 "We can only initiate a war plan every §Y3§! years!"
+
+rig_start_great_campaign_title:0 "@RIG §YLaunch Great Campaign§!"
+rig_start_great_campaign_desc:0 ""
+rig_great_campaign_cd_flag.tt:0 "We can only initiate a §YGreat Campaign§! every §Y5§! years!"
+
+rig_stop_all_war_project_title:0 "@RIG §YTerminate All War Plans§!"
+rig_stop_all_war_project_desc:0 "Sometimes unforeseen events severely impact our plans, so abandoning our plans at critical moments is not unacceptable."
+rig_stop_all_war_project.tt:0 "§RThis will terminate all ongoing war plans§!"
+
+fennoscandia_nation_title:0 "Unify the Fennoscandian Region"
+fennoscandia_nation_desc:0 "For a long time, the crowns of the far north have been scattered, and ultimately no one has prevailed. The unification of the Scandinavian Peninsula remains distant. With neighboring European powers watching closely, we should turn our gaze eastward: embrace the Fennoscandian region and forge a new northern empire..."
+
+rig_relocate_KNI_title:0 "@RIG Negotiate with the Grand Master of the §YKnights Hospitaller§!"
+rig_relocate_KNI_desc:0 "Due to various factors, the Knights Hospitaller were forced to abandon their fortress and territories on Rhodes. Although the Knights Hospitaller have now returned to operate in the Italian region, the Grand Master still hopes to obtain a small fief as a base for the Order—for the Archbishop of Riga, the island of Gotland is a suitable choice. The Archbishop will personally travel to Italy to meet with the Pope and the Grand Master of the Knights Hospitaller. The Knights Hospitaller will pledge allegiance to us in exchange for Gotland Island and the Archbishop's economic support to continue their mission."
+
+rig_relocate_KTP_title:0 "@RIG Negotiate with the Grand Master of the §YKnights Templar§!"
+rig_relocate_KTP_desc:0 "Although the 'French Crusade' did not achieve its initial objectives, it still raised the banner of Christianity in North Africa—but this does not mean victory is eternal. With the loss of the §YKnights Templar's§! North African territories and the fall of the Kingdom of Tunisia, the legacy of the 'French Crusade' has turned to ashes. Now they can only return to operate in France. For the Order, lacking their own territory leaves them in a precarious position, subject to others' will. Therefore, the Archbishop hopes to secure the Crimea peninsula in exchange for the allegiance of the §YKnights Templar§! to continue their mission."
+
+rig_check_riga_authority_of_the_diocese_title:0 "@RIG Check §Y[riga_authority_of_the_diocese.GetName]§!"
+rig_check_riga_authority_of_the_diocese_desc:0 ""
+rig_check_riga_authority_of_the_diocese.tt:0 "Current §Y[riga_authority_of_the_diocese.GetName]§!: §O[riga_authority_of_the_diocese.GetValue]§!\n\n§Y[riga_authority_of_the_diocese.GetName]§! decreases by §R1§! monthly. Its value can be increased or decreased through the §Ymission tree§! and §Yvarious random events§! during disasters.\n\nLower §Y[riga_authority_of_the_diocese.GetName]§! will trigger more severe negative events."
+
+rig_support_rigalia_title:0 "@RIG Support §YRigaeria§!"
+rig_support_rigalia_desc:0 ""
+
+rig_dividing_the_administrative_system_of_the_new_world_title:0 "Divide the New World Administrative System"
+rig_dividing_the_administrative_system_of_the_new_world_desc:0 ""
+
+rig_check_vassal_property_title:0 "@RIG View Bonuses Granted by Subjects"
+rig_check_vassal_property_desc:0 "This decision displays the various bonuses granted to §YRiga§! by different types of §Ysubjects§!, helping to understand their impact on Riga."
+rig_check_vassal_property.tt:0 "All §Ybishopric§! subjects of Riga (except §TOverseas Bishoprics§!) grant the overlord the following modifiers:\n§R-0.5§! yearly prestige\n§G+0.5§! yearly papal influence\n\n§YClick the decision to expand the explanatory event§!\n\nEach §GRigan Chartered Trade Zone§! grants the overlord the following modifiers:\n§G+2%§! trade efficiency\n§G+1%§! trade steering\n§G+12§! yearly tax income\n§G+2%§! production efficiency\n§G+1%§! global goods produced\n\nEach §YEpiscopal Administrative Region§! grants the overlord the following modifiers:\n§G+15%§! production efficiency\n§G+5%§! land force limit modifier\n§R-15%§! tax income\n§R-15%§! national manpower\n§R-15%§! trade efficiency\n\nEach §MEpiscopal Economic Region§! grants the overlord the following modifiers:\n§G+0.3§! global goods produced modifier\n§G+2%§! global goods produced\n§G+10%§! national manpower\n§G+10%§! tax income\n§G+1§! merchant\n§R-15%§! global trade power\n§R-10%§! production efficiency\n\nEach §REpiscopal Military District§! grants the overlord the following modifiers:\n§G+5%§! national manpower\n§R-15%§! land force limit modifier\n§R-10%§! tax income\n\nEach §OKnightly Order§! grants the overlord the following modifiers:\n§G+0.25%§! yearly army professionalism\n§G+10%§! defensiveness\n§R+10%§! land maintenance modifier\n§R-24§! yearly tax income\n\nEach §TOverseas Bishopric§! grants the overlord the following modifiers:\n§G+3§! merchant\n§G+25%§! global trade power\n§R-25%§! national manpower\n§R-25%§! national sailors\n\n"
+
+rig_declare_war_with_all_world_title:0 "@RIG §YHeavenly Offensive§!"
+rig_declare_war_with_all_world_desc:0 "All traditional wars will pale before our great objective. To achieve our ultimate goal, this method of war is necessary!"
+rig_declare_war_with_all_world_tooltip:0 "§YWe will declare war on all nations not allied with us§!"
+
+rig_construction_EDG_Ruins_Gate_title:0 "@RIG Construct §YEntrance to the Desolate Ground§!"
+rig_construction_EDG_Ruins_Gate_desc:0 ""
+ 
+
+
+rig_episcopal_administrative_district_structural_reform:0 "Episcopal Administrative Region Structure"
+rig_land_military_doctrines:0 "Land Military Doctrines and Organization"
+rig_naval_military_doctrines:0 "Naval Military Doctrines and Organization"
+rig_episcopal_economic_district_structural_reform:0 "Episcopal Economic Region Structure"
+rig_episcopal_military_district_structural_reform:0 "Episcopal Military District Structure"
+
+rig_episcopal_administrative_district_special_reform:0 "Rigan Episcopal Administrative Region"
+rig_episcopal_administrative_district_special_reform_desc:0 ""
+rig_common_administrative_system:0 "General Administrative System"
+rig_common_administrative_system_desc:0 ""
+
+rig_episcopal_economic_district_special_reform:0 "Rigan Episcopal Economic Region"
+rig_episcopal_economic_district_special_reform_desc:0 ""
+rig_common_economic_system:0 "General Economic System"
+rig_common_economic_system_desc:0 ""
+
+rig_episcopal_military_district_special_reform:0 "Rigan Episcopal Military District"
+rig_episcopal_military_district_special_reform_desc:0 "General Military System"
+rig_common_military_system:0 "General Military System"
+rig_common_military_system_desc:0 ""
+
+rig_adm_military_readiness_act_reform:0 "Military Readiness Act"
+rig_adm_military_readiness_act_reform_desc:0 ""
+mechanic_subject_adm_military_readiness_act_yes:0 "All §YEpiscopal Administrative Region§! subjects gain the following modifiers:\n\n§G+25%§! land force limit modifier\n§G-15%§! land maintenance modifier\n§G+10%§! land morale\n§G+25%§! national manpower\n§R-400§! governing capacity\n§R-10%§! governing capacity modifier"
+
+rig_adm_cultural_integration_act_reform:0 "Cultural Integration Act"
+rig_adm_cultural_integration_act_reform_desc:0 ""
+mechanic_subject_adm_cultural_integration_act_yes:0 "All §YEpiscopal Administrative Region§! subjects gain the following modifiers:\n\n§G+6§! accepted cultures capacity\n§G-25%§! promote culture cost\n§G+100§! governing capacity\n§G-2§! national unrest\n§R+1000%§! culture conversion cost\n§R+1000%§! culture conversion time"
+
+rig_adm_decentralization_act_reform:0 "Decentralization Act"
+rig_adm_decentralization_act_reform_desc:0 ""
+mechanic_subject_adm_decentralization_act_yes:0 "All §YEpiscopal Administrative Region§! subjects gain the following modifiers:\n\n§G+4§! diplomatic relations\n§R-10%§! land force limit modifier\n§R-10%§! governing capacity modifier"
+
+rig_adm_administrative_expansion_act:0 "Administrative Expansion Act"
+rig_adm_administrative_expansion_act_desc:0 ""
+mechanic_subject_adm_administrative_expansion_yes:0 "All §YEpiscopal Administrative Region§! subjects gain the following modifiers:\n\n§G+250§! governing capacity\n§G+25%§! governing capacity modifier\n§R-25%§! tax income\n§R-25%§! production efficiency"
+
+rig_eco_self_defence_act_reform:0 "Self-Defense Act"
+rig_eco_self_defence_act_reform_desc:0 "All §MEpiscopal Economic Region§! subjects gain the following modifiers:\n\n§G+10%§! infantry combat ability\n§G+10%§! cavalry combat ability\n§G+10%§! artillery combat ability\n§G+25%§! land force limit modifier\n§G-25%§! land maintenance modifier"
+mechanic_subject_eco_self_defence_act_yes:0 ""
+
+rig_eco_emancipation_act_reform:0 "Emancipation Act"
+rig_eco_emancipation_act_reform_desc:0 ""
+
+mechanic_subject_eco_emancipation_act_yes:0 "All §MEpiscopal Economic Region§! subjects gain the following modifiers:\n\n§R-100%§! tax income\n§G+50%§! production efficiency\n§G+25%§! land morale"
+
+rig_eco_chartered_economic_zone_ordinance_reform:0 "Chartered Ordinance"
+rig_eco_chartered_economic_zone_ordinance_reform_desc:0 ""
+mechanic_subject_eco_chartered_economic_zone_ordinance_yes:0 "All §MEpiscopal Economic Region§! subjects gain the following modifiers:\n\n§G+200§! governing capacity\n§G+15%§! governing capacity modifier\n§R-25%§! production efficiency"
+
+rig_mil_integration_act_reform:0 "Military District Integration Act"
+rig_mil_integration_act_reform_desc:0 ""
+mechanic_subject_mil_integration_act_yes:0 "All §REpiscopal Military District§! subjects gain the following modifiers:\n\n§G+25%§! tax income\n§G+25%§! production efficiency\n§G+25%§! trade efficiency\n§G+250§! governing capacity\n§G+15%§! governing capacity modifier\n§R-25%§! defensiveness\n§R-15%§! land morale"
+
+rig_mil_garrison_act_reform:0 "Garrison Act"
+rig_mil_garrison_act_reform_desc:0 ""
+mechanic_subject_mil_garrison_act_yes:0 "All §REpiscopal Military District§! subjects gain the following modifiers:\n\n§G+25%§! defensiveness\n§G+25%§! land morale\n§R-25%§! tax income\n§R-25%§! production efficiency\n§R-25%§! trade efficiency\n§R-250§! governing capacity"
+
+rig_diocesan_renovation_ordinace_desc:0 ""
+
+rig_crusader_states:0 "Crusader States"
+rig_crusader_states_desc:0 ""
+
+rig_theocracy_name:0 "Rigan Theocracy"
+rig_theocracy_desc:0 ""
+
+rig_rigalia_theocratic_republic:0 "Rigaeria Holy Republic"
+rig_rigalia_theocratic_republic_desc:0 ""
+
+rig_theocracy_mechanic:0 "Rigan Theocracy"
+rig_theocracy_mechanic_desc:0 ""
+
+rig_world_peace_territory:0 "World Peace Territory"
+rig_world_peace_territory_desc:0 ""
+
+rig_rigalia_world_peace_territory:0 "World Peace Territory"
+rig_rigalia_world_peace_territory_desc:0 ""
+
+rig_riga_archdiocese_reform:0 "Archbishopric of Riga"
+mechanic_enables_estate_rig_knightage_yes:0 "Enables the §OKnightly Orders§! estate"
+mechanic_can_use_pap_influence_for_development_yes:0 "Enables the §YRigan City Investment and Development§! mechanism"
+rig_riga_archdiocese_reform_desc:0 ""
+
+rig_riga_archdiocese_reorganization_reform:0 "Transitional Government of Riga" # Transitional Government of the Archbishopric of Riga
+rig_riga_archdiocese_reorganization_reform_desc:0 ""
+
+rig_land_of_maria_reform:0 "Land of Mary"
+rig_land_of_maria_reform_desc:0 ""
+
+rig_knightage_order_reform:0 "Knightly Orders"
+rig_knightage_order_reform_desc:0 ""
+
+rig_knights_of_apologetics_reform:0 "Knights of Apologetics"
+rig_knights_of_apologetics_reform_desc:0 ""
+
+rig_leading_clergy_reform:0 "Reform the Episcopal Administrative System"
+rig_leading_clergy_reform_desc:0 ""
+
+rig_trading_city_reform:0 "Rigan Chartered Trade Zone"
+rig_trading_city_reform_desc:0 ""
+
+rig_foreign_missionary_reform:0 "Foreign Missionaries"
+rig_foreign_missionary_reform_desc:0 ""
+mechanic_subject_foreign_missionary_yes:0 "All §Ybishopric§! and §Oknightly order§! subjects gain §G+5%§! missionary strength\n"
+
+rig_overseas_mission_reform:0 "Overseas Mission"
+rig_overseas_mission_reform_desc:0 ""
+mechanic_subject_overseas_mission_yes:0 "All §TOverseas Bishopric§! subjects gain the following modifiers:\n\nCan establish §YSiberian Frontier§!\n§G+5%§! administrative efficiency"
+
+rig_armed_pilgrimage_reform:0 "Armed Pilgrimage"
+rig_armed_pilgrimage_reform_desc:0 ""
+mechanic_subject_armed_pilgrimage_yes:0 "All §Ybishopric§! and §Oknightly order§! subjects, when at war with heathen nations, have manpower recovery increased to §G300%§! of normal\n"
+
+rig_joint_publicity_reform:0 "Joint Mission"
+rig_joint_publicity_reform_desc:0 ""
+mechanic_subject_joint_publicity_yes:0 "All §Ybishopric§! and §Oknightly order§! subjects gain the following modifiers:\n\nWhen at war with heathen nations, manpower recovery increased to §G300%§! of normal\n§G+1§! missionary\n§G+3%§! missionary strength\n"
+
+rig_the_holy_knights_reform:0 "Holy Knightly Orders"
+rig_the_holy_knights_reform_desc:0 ""
+mechanic_subject_the_holy_knights_yes:0 "All §Ybishopric§! and §Oknightly order§! subjects have §G-2§! unrest in Catholic provinces\n"
+
+rig_riga_legate_of_holy_see_reform:0 "Rigan Papal Legate"
+rig_riga_legate_of_holy_see_reform_desc:0 ""
+mechanic_subject_riga_legate_of_holy_see_yes:0 "All §Ybishopric§! and §Oknightly order§! subjects gain §G+1§! yearly papal influence\n"
+
+rig_components_of_the_holy_order_of_riga_reform:0 "Form the Rigan Holy Order"
+rig_components_of_the_holy_order_of_riga_reform_desc:0 ""
+mechanic_components_of_the_holy_order_of_riga_yes:0 "Can recruit the special mercenary company §YRigan Holy Knights§!\n"
+
+rig_riga_military_region_system_reform:0 "Rigan Military District System"
+rig_riga_military_region_system_reform_desc:0 ""
+mechanic_subject_riga_military_region_yes:0 "All §REpiscopal Military Districts§! gain the following:\n §G-100%§! War Taxes Cost; §G+25%§! Land Force Limit Modifier"
+# mechanic_subject_riga_military_region_yes:0 "All §REpiscopal Military District§! subjects gain the following modifiers:\n\n§G-100%§! war taxes cost\n§G+25%§! land force limit modifier\n"
+
+rig_northern_crusades_reform:0 "Northern Crusades"
+rig_northern_crusades_reform_desc:0 ""
+mechanic_subject_northern_crusades_yes:0 "All §OKnightly Orders§! gain the following:\n §G-100%§! War Taxes Cost; §G+10%§! Land Force Limit Modifier; §G+10§! Land Force Limit; §G+5%§! Discipline"
+# mechanic_subject_northern_crusades_yes:0 "All §Oknightly order§! subjects gain the following modifiers:\n\n§G-100%§! war taxes cost\n§G+10%§! land force limit modifier\n§G+10§! land force limit\n§G+5%§! discipline\n"
+
+rig_riga_campaig_planig_departmet_reform:0 "Rigan War Planning Department"
+rig_riga_campaig_planig_departmet_reform_desc:0 ""
+mechanic_greate_battle_of_riga_yes:0 "Enables the §YRigan Great Campaign§! mechanism"
+mechanic_subject_riga_campaig_planig_departmet_yes:0 "All §YBishoprics§! and §OKnightly Orders§! gain the following:\n §G-50%§! General Cost; §G+2§! Land Leader Fire; §G+2§! Land Leader Shock; §G+2§! Land Leader Maneuver; §G+2§! Land Leader Siege"
+# mechanic_subject_riga_campaign_planing_departmet_yes:0 "All §Ybishopric§! and §Oknightly order§! subjects gain the following modifiers:\n\n§G-50%§! general cost\n§G+2§! general fire pips\n§G+2§! general shock pips\n§G+2§! general maneuver pips\n§G+2§! general siege pips\n"
+
+rig_commercial_fleet_reform:0 "Commercial Fleet"
+rig_commercial_fleet_reform_desc:0 ""
+
+rig_inland_sea_fleet_reform:0 "Inland Sea Fleet"
+rig_inland_sea_fleet_reform_desc:0 ""
+
+rig_riga_combined_fleet_reform:0 "Rigan Combined Fleet"
+rig_riga_combined_fleet_reform_desc:0 ""
+mechanic_subject_riga_combined_fleet_yes:0 "Each §Ybishopric§! subject we own grants us the following modifiers:\n\n§G+1§! flagship capacity\n§G+1§! free leader slot (navy)\n\nAll our §Ybishopric§! subjects gain §G+25%§! naval force limit modifier."
+
+rig_riga_administrative_system_reform:0 "Regional Administrative System"
+rig_riga_administrative_system_reform_desc:0 ""
+mechanic_subject_riga_administrative_system_yes:0 "All §Ybishopric§! and §Oknightly order§! subjects gain the following modifiers:\n\nMonthly §G+1§! administrative power\nMonthly §G+1§! diplomatic power\nMonthly §G+1§! military power\n§G-5%§! all power costs\n§G-0.1§! yearly corruption\n"
+
+rig_combined_trading_system_reform:0 "Joint Trade System"
+rig_combined_trading_system_reform_desc:0 ""
+mechanic_subject_combined_trading_system_yes:0 "All §Ybishopric§! subjects gain the following modifiers:\n\n§G+0.5§! global goods produced modifier\n§G+20%§! global goods produced\n"
+
+rig_feed_the_people_reform:0 "Nourish the People"
+rig_feed_the_people_reform_desc:0 ""
+mechanic_subject_feed_the_people_yes:0 "All §Ybishopric§! and §Oknightly order§! subjects gain the following modifiers:\n\n§G+25%§! production efficiency\n§G-5%§! technology cost\n"
+
+rig_conferring_power_on_diocesan_assembly_reform:0 "Congress of the Bishopric of Riga"
+rig_conferring_power_on_diocesan_assembly_reform_desc:0 ""
+mechanic_riga_parliament_yes:0 "Enables the §YCongress of the Bishopric of Riga§!\n"
+
+rig_congress_of_the_people_and_dioceses_of_all_riga_reform:0 "Congress of All Peoples and Dioceses of Riga" # Congress of All the People and Dioceses of Riga
+rig_congress_of_the_people_and_dioceses_of_all_riga_reform_desc:0 ""
+mechanic_subject_congress_of_the_people_and_dioceses_of_all_riga_yes:0 "All §Ybishopric§! and §Oknightly order§! subjects gain §G20%§! administrative efficiency."
+
+rig_inspection_regulations_reform:0 "Inspection Regulations"
+rig_inspection_regulations_reform_desc:0 ""
+mechanic_subject_inspection_regulations_yes:0 "Unlocks the §YDiplomatic Action§!: §TInspect Subject§!"
+
+rig_faith_and_people_reform:0 "Faith and People"
+rig_faith_and_people_reform_desc:0 ""
+mechanic_subject_faith_and_people_yes:0 "Each §Ybishopric§! subject we own grants us the following modifier:\n\n§G-1%§! received morale damage"
+
+rig_heart_of_world_center_reform:0 "Heart of the World"
+rig_heart_of_world_center_reform_desc:0 ""
+mechanic_subject_heart_of_world_center_yes:0 "All §Ybishopric§! subjects gain the following modifiers:\n\n§G-50%§! development cost\n§G-25%§! development cost modifier\n"
+
+rig_ecumenopolis_ideal_reform:0 "Universal City Ideal"
+rig_ecumenopolis_ideal_reform_desc:0 ""
+mechanic_subject_ecumenopolis_ideal_yes:0 "All §Ybishopric§! subjects gain the following modifiers:\n\n§G-50%§! construction time\n§G-50%§! great project upgrade cost\n§G-50%§! great project upgrade time"
+
+mechanic_expansion_of_war_city_project_yes:0 "We will be able to expand the Universal City Project into non-Baltic regions."
+
+ability_rig_administrative_reform_mechanic:0 "§YRigan Administrative Reforms§!"
+rig_administrative_reform:0 "Rigan Administrative Reforms"
+rig_administrative_reform_desc:0 ""
+rig_administrative_reform_gain_modifier:0 "Modifiers granted by Rigan Administrative Reforms"
+monthly_rig_administrative_reform:0 "Monthly Rigan Administrative Reforms Progress"
+
+ability_rig_military_reform_mechanic:0 "§YRigan Military Reforms§!"
+rig_military_reform:0 "Rigan Military Reforms"
+rig_military_reform_desc:0 ""
+rig_military_reform_gain_modifier:0 "Modifiers granted by Rigan Military Reforms"
+monthly_rig_military_reform:0 "Monthly Rigan Military Reforms Progress"
+
+ability_rig_government_mechanics:0 "§YRigan Bishopric Subject Interactions§!"
+rig_government_mechanics_adm_power:0 "Administrative Integration Progress"
+rig_government_mechanics_adm_power_gain_modifier:0 "Modifiers granted by Administrative Integration"
+monthly_rig_government_mechanics_adm_power:0 "Monthly Administrative Integration Progress"
+
+rig_government_mechanics_dip_power:0 "Diplomatic Mediation Progress"
+rig_government_mechanics_dip_power_gain_modifier:0 "Modifiers granted by Diplomatic Mediation"
+monthly_rig_government_mechanics_dip_power:0 "Monthly Diplomatic Mediation Progress"
+
+rig_government_mechanics_mil_power:0 "Military Readiness Act"
+rig_government_mechanics_mil_power_gain_modifier:0 "Modifiers granted by Military Readiness"
+monthly_rig_government_mechanics_mil_power:0 "Military Readiness Progress"
+
+rig_government_ability_adm:0 "Administrative Integration Act"
+rig_government_ability_adm_desc:0 ""
+rig_government_ability_adm.tt:0 "All subjects except §YRigan Chartered Trade Zones§! and §YTributaries§! gain §G250§! administrative power."
+
+rig_government_ability_dip:0 "Diplomatic Mediation Act"
+rig_government_ability_dip_desc:0 ""
+rig_government_ability_dip.tt:0 "All subjects except §YRigan Chartered Trade Zones§! and §YTributaries§! have all rebel faction progress reduced by §G50§!."
+
+rig_government_ability_mil:0 "Military Readiness Act"
+rig_government_ability_mil_desc:0 ""
+rig_government_ability_mil.tt:0 "All subjects except §YRigan Chartered Trade Zones§! and §YTributaries§! lose §G5§! war exhaustion."
+
+rig_cultivate_act:0 "Cultivation Act"
+rig_cultivate_act_desc:0 ""
+rig_cultivate_act.effect.tt:0 "Randomly increases the development of §Y1§! province owned by our subjects with development less than §Y10§! to §Y10§!\n"
+
+rig_building_act:0 "Infrastructure Act"
+rig_building_act_desc:0 ""
+rig_building_act.effect.tt:0 "All our subjects' §Yrandom provinces§! gain §Y5§! random development.\n"
+
+rig_architecture_act:0 "Architecture Act"
+rig_architecture_act_desc:0 ""
+rig_architecture_act.effect.tt:0 "All §Ybuildings§! and §Ywonders§! currently under construction in our subjects' territories are immediately §Gcompleted§!"
+
+rig_reform_regulation:0 "Reform Regulation"
+rig_reform_regulation_desc:0 ""
+rig_reform_regulation.tt:0 "All our subjects gain §G+50§! government reform progress."
+
+rig_joint_draft_act:0 "Joint Conscription Act"
+rig_joint_draft_act_desc:0 ""
+rig_joint_draft_act.tt:0 "All our subjects gain manpower equal to §G2.5§! times their yearly manpower recovery."
+
+rig_military_parade_ordinance:0 "Military Parade Ordinance"
+rig_military_parade_ordinance_desc:0 ""
+rig_military_parade_ordinance.tt:0 "All our subjects gain §Y50§! prestige."
+
+rig_tax_reduction_regulations:0 "Tax Reduction Regulations"
+rig_tax_reduction_regulations_desc:0 ""
+
+rig_monetary_regulations:0 "Monetary Management Regulations"
+rig_monetary_regulations_desc:0 ""
+rig_monetary_regulations.tt:0 "All our subjects' inflation is reduced by §G5§!."
+
+rig_ordinances_of_papal_legations:0 "Ordinance of Papal Legations"
+rig_ordinances_of_papal_legations_desc:0 ""
+rig_ordinances_of_papal_legations.tt:0 "All our subjects gain §G+25§! papal influence."
+
+rig_relief_ordinance:0 "Relief Ordinance"
+rig_relief_ordinance_desc:0 ""
+rig_relief_ordinance.tt:0 "All our subjects gain an amount of ducats equal to their §Yyearly income§!."
+
+rig_joint_exercise_act:0 "Joint Exercise Act"
+rig_joint_exercise_act_desc:0 ""
+rig_joint_exercise_act.tt:0 "All our subjects gain §G5%§! army professionalism."
+
+rig_diplomatic_regulations:0 "Diplomatic Regulations"
+rig_diplomatic_regulations_desc:0 ""
+rig_diplomatic_regulations.tt:0 "All our subjects' liberty desire is reduced by §G10%§!."
+
+rig_penetration_regulation:0 "Infiltration Regulation"
+rig_penetration_regulation_desc:0 ""
+rig_penetration_regulation.tt:0 "Our spy network size in countries where we already have a spy network is increased by §G+50§!."
+
+rig_inventory_ordinance:0 "Inventory Ordinance"
+rig_inventory_ordinance_desc:0 ""
+rig_inventory_ordinance.tt:0 "All our subjects' corruption is reduced by §G5§!."
+
+rig_riga_festival_act:0 "Riga Festival Act"
+rig_riga_festival_act_desc:0 ""
+rig_riga_festival_act.tt:0 "All our subjects gain §G+1§! stability."
+
+rig_joint_draft_act_carolin:0 "Special Recruitment Act: §YCaroleans§!"
+rig_joint_draft_act_carolin_desc:0 ""
+rig_joint_draft_act_carolin.tt:0 "This will recruit §G5§! regiments of §YCaroleans§! in our capital and the capital of §Y[SWE.GetName]§!."
+
+rig_joint_draft_act_winged_cavalry:0 "Special Recruitment Act: §YWinged Hussars§!"
+rig_joint_draft_act_winged_cavalry_desc:0 ""
+rig_joint_draft_act_winged_cavalry.tt:0 "This will recruit §G5§! regiments of §YWinged Hussars§! in our capital and the capital of §Y[POL.GetName]§!."
+
+rig_joint_draft_act_carolin_infantry_reform:0 "§YInfantry§! Special Recruitment Act: §YCaroleans§!"
+rig_joint_draft_act_carolin_infantry_reform_desc:0 ""
+
+rig_joint_draft_act_hussars_cavalry_reform:0 "§YCavalry§! Special Recruitment Act: §YHussars§!"
+rig_joint_draft_act_hussars_cavalry_reform_desc:0 ""
+
+rig_joint_draft_act_streltsy_infantry_reform:0 "§YInfantry§! Special Recruitment Act: §YStreltsy§!"
+rig_joint_draft_act_streltsy_infantry_reform_desc:0 ""
+
+rig_joint_draft_act_cawa_infantry_reform:0 "§YInfantry§! Special Recruitment Act: §YCawa§!"
+rig_joint_draft_act_cawa_infantry_reform_desc:0 ""
+
+rig_joint_draft_act_tercio_infantry_reform:0 "§YInfantry§! Special Recruitment Act: §YTercio§!"
+rig_joint_draft_act_tercio_infantry_reform_desc:0 ""
+
+rig_joint_draft_act_janissaries_infantry_reform:0 "§YInfantry§! Special Recruitment Act: §YJanissaries§!"
+rig_joint_draft_act_janissaries_infantry_reform_desc:0 ""
+
+rig_joint_draft_act_musketeer_infantry_reform:0 "§YInfantry§! Special Recruitment Act: §YMusketeers§!"
+rig_joint_draft_act_musketeer_infantry_reform_desc:0 ""
+
+rig_joint_draft_act_cossacks_cavalry_reform:0 "§YCavalry§! Special Recruitment Act: §YCossacks§!"
+rig_joint_draft_act_cossacks_cavalry_reform_desc:0 ""
+
+rig_joint_draft_act_carolin_cavalry_reform:0 "§YCavalry§! Special Recruitment Act: §YCaroleans§!"
+rig_joint_draft_act_carolin_cavalry_reform_desc:0 ""
+
+rig_joint_draft_act_streltsy_artillery_reform:0 "§YArtillery§! Special Recruitment Act: §YStreltsy§!"
+rig_joint_draft_act_streltsy_artillery_reform_desc:0 ""
+
+rig_joint_draft_act_musketeer_artillery_reform:0 "§YArtillery§! Special Recruitment Act: §YMusketeers§!"
+rig_joint_draft_act_mustekeer_artillery_reform_desc:0 ""
+
+rig_revitalization_act:0 "Revitalization Act"
+rig_revitalization_act_desc:0 ""
+rig_revitalization_act.tt:0 "All our subjects' provinces lose §G10%§! devastation."
+
+rig_rodeo_act:0 "Knightly Tournament Act"
+rig_rodeo_act_desc:0 ""
+rig_rodeo_act.tt:0 "All our subjects' liberty desire is reduced by §G50%§!."
+
+rig_conversion_religion_act:0 "Conversion Act"
+rig_conversion_religion_act_desc:0 ""
+rig_conversion_religion_act.tt:0 "Removes §YReligious Zeal§! from all heathen provinces owned by our §Ysubjects§! and our §Ysubjects' subjects§!.\n\nConverts up to §G5§! §Gheretic provinces§! owned by our §Ysubjects§! or our §Ysubjects' subjects§! to our state religion."
+
+rig_joint_research_act:0 "Joint Research Act"
+rig_joint_research_act_desc:0 ""
+rig_joint_research_act.tt:0 "All our subjects gain §G200§! of each monarch power type."
+
+rig_land_acquisition_act:0 "Land Acquisition Act"
+rig_land_acquisition_act_desc:0 ""
+rig_land_acquisition_act.tt:0 "All our §Ybishopric§! and §Oknightly order§! subjects gain §G5§! crownland."
+
+rig_placate_maid_act:0 "Maid Placation Act"
+rig_placate_maid_act_desc:0 ""
+rig_placate_maid_act.tt:0 "All our subjects' liberty desire is reduced by §G20%§!."
+
+rig_knights:0 "Knights"
+rig_knights_influence:0 "Knights' Influence"
+rig_knights_FACTION_DESC:0 "The bishoprics have long been protected by the knightly orders, especially during wartime. The knights have always been the most loyal guardians of the bishoprics. On the battlefield, they use their experience and practical actions to instruct soldiers on how to fight more effectively."
+
+support_rig_knights_title:0 "Fund the Knights"
+support_rig_knights_desc:0 ""
+
+FSD:0 "Fennoscandia"
+FSD_ADJ:0 "Fennoscandian"
+FSD_ADJ2:0 "Fennoscandian"
+FSD_ideas:0 "Fennoscandian Ideas"
+FSD_ideas_bonus:0 "Fennoscandian Devotion"
+FSD_ideas_start:0 "Fennoscandian Legacy"
+
+WORLD_PEACE_TERRITORY:0 "World Peace Territory"
+WORLD_PEACE_TERRITORY_ADJ:0 "World Peace Territory"
+
+RGL:0 "Rigaeria"
+RGL_ADJ:0 "Rigaerian"
+RGL_ADJ2:0 "Rigaerian"
+RGL_ideas:0 "Rigaerian Ideas"
+RGL_ideas_bonus:0 "Rigaerian Devotion"
+RGL_ideas_start:0 "Rigaerian Legacy"
+
+fsd_land_of_snow_and_aurora:0 "Land of Snow and Aurora"
+fsd_land_of_snow_and_aurora_desc:0 "Our nation is covered in snow and ice. Far from discouraging our people, this has strengthened us in our struggle against nature, as we develop this land under the splendid aurora."
+
+fsd_a_trip_to_baltic:0 "Journey to the Baltic"
+fsd_a_trip_to_baltic_desc:0 "Our nation controls vast coastlines along the Baltic Sea, granting us a significant advantage in Baltic trade."
+
+fsd_northern_border_region:0 "Northern Frontier Region"
+fsd_northern_border_region_desc:0 "For a long time, we have been Europe's northernmost nation. At all times, we shall defend this land with our swords and uphold our faith."
+
+fsd_country_of_god_and_church:0 "Country of God and Church"
+fsd_country_of_god_and_church_desc:0 "Piety is the reason for our existence. No infidel invasion can shake our faith."
+
+rig_riga_free_city:0 "Free City of Riga"
+rig_riga_free_city_desc:0 "Riga has long been a major port city in the Baltic. However, neither the protection of the Livonian Order nor the Hanseatic League was sufficient to ensure our safety. Only the Emperor's guarantee can provide the most stable security for us in the Baltic."
+
+rig_new_hanseatic_unity:0 "New Hanseatic Unity"
+rig_new_hanseatic_unity_desc:0 "The Hanseatic League, as an organization run purely by merchants, produces no tangible goods itself, relying solely on price differences between regions for profit. While this may yield some profit now, it is clearly not sustainable. Riga will not stand idly by; a new Hanseatic League shall rise in the Baltic."
+
+rig_hearts_of_baltic:0 "Heart of the Baltic"
+rig_hearts_of_baltic_desc:0 "Located at the center of the Baltic, Riga has, after centuries of development, become the undeniable heart of the Baltic Sea."
+
+rig_church_state:0 "Church State"
+rig_church_state_desc:0 "Our nation is a vast church, and the church is integrated into the lives of our people."
+
+rig_restart_the_northern_crusade:0 "Restart the Northern Crusade"
+rig_restart_the_northern_crusade_desc:0 "The banner of the Northern Crusades finally fell after the Battle on the Ice. Now, we are stronger than ever before, and we shall resume our unfinished mission!"
+
+rig_idea_city_project:0 "Universal City Ideal"
+rig_idea_city_project_desc:0 "One day, Riga shall realize its grandest ideal: the Land of Mary will heal all the suffering of the world."
+
+rgl_peace_mission:0 "Peace Mission"
+rgl_peace_mission_desc:0 ""
+
+rgl_riga_bond:0 "Rigan Bond"
+rgl_riga_bond_desc:0 ""
+
+rgl_vanguard_spirit:0 "Vanguard Spirit"
+rgl_vanguard_spirit_desc:0 ""
+
+rig_west_pilgrimage_road:0 "Western Pilgrimage Route"
+rig_west_pilgrimage_road_desc:0 ""
+
+rgl_ocean_song:0 "Ocean's Song"
+rgl_ocean_song_desc:0 ""
+
+rig_riga_vassal_system:0 "Regional Vassal System"
+rig_riga_vassal_system_desc:0 ""
+
+rgl_universal_ideal:0 "Universal Vision"
+rgl_universal_ideal_desc:0 ""
+
+riga_dawn_of_war:0 "The Dawn War"
+desc_riga_dawn_of_war:0 ""
+riga_dawn_of_war_end.tt:0 "§RThere is no compromise—Riga shall either rule or perish!§!"
+
+riga_dawn_of_war_subject:0 "The Dawn War"
+
+rig_battle_of_heaven:0 "@RIG §RWar in Heaven§!"
+desc_rig_battle_of_heaven:0 ""
+
+rig_battle_of_hell:0 "§RWar in Hell§!"
+desc_rig_battle_of_hell:0 ""
+
+riga_supporter_rebel_name:0 "Insurgents"
+riga_supporter_rebel_title:0 "Insurgents"
+riga_supporter_rebel_demands_description:0 ""
+riga_supporter_rebel_desc:0 "Sovereignty supporters are dedicated to liberating the nation and restoring its independence."
+riga_supporter_rebel_army:0 "Insurgent Army"
+
+riga_opponent_rebel_name:0 "Rigan Insurgents"
+riga_opponent_rebel_title:0 "Rigan Insurgents"
+riga_opponent_rebel_demands_description:0 ""
+riga_opponent_rebel_desc:0 "Rigan sovereignty supporters are dedicated to liberating Riga and restoring its independence."
+riga_opponent_rebel_army:0 "Insurgent Army"
+
+rig_universal_ideas:0 "Universal"
+rig_universal_ideas_bonus:0 "Complete Universal Ideas"
+rig_universal_ideas_friendly:0 "Friendly"
+rig_universal_ideas_friendly_desc:0 ""
+rig_universal_ideas_equality:0 "Equality"
+rig_universal_ideas_equality_desc:0 ""
+rig_universal_ideas_fair:0 "Just"
+rig_universal_ideas_fair_desc:0 ""
+rig_universal_ideas_devout:0 "Devout"
+rig_universal_ideas_devout_desc:0 ""
+rig_universal_ideas_advance:0 "Progressive"
+rig_universal_ideas_advance_desc:0 ""
+rig_universal_ideas_unity:0 "Unity"
+rig_universal_ideas_unity_desc:0 ""
+rig_universal_ideas_vision:0 "Vision"
+rig_universal_ideas_vision_desc:0 ""
+
+
+rig_missionary_unite_act:0 "Missionary Unity Act"
+desc_rig_missionary_unite_act:0 ""
+
+rig_economic_average_act:0 "Equal Distribution Act"
+desc_rig_economic_average_act:0 ""
+
+rig_diversity_act:0 "Diversity Act"
+desc_rig_diversity_act:0 ""
+
+rig_ideal_city_construction_act:0 "Ideal City Construction Act"
+desc_rig_ideal_city_construction_act:0 ""
+
+rig_forward_act:0 "Forward Act"
+desc_rig_forward_act:0 ""
+
+rig_mutual_aid_act:0 "Mutual Aid Act"
+desc_rig_mutual_aid_act:0 ""
+
+rig_harmony_act:0 "Harmony Act"
+desc_rig_harmony_act:0 ""
+
+rig_infiltration_act:0 "Infiltration Act"
+desc_rig_infiltration_act:0 ""
+
+rig_joint_act:0 "Joint Act"
+desc_rig_joint_act:0 ""
+
+rig_sailing_act:0 "Set Sail Act"
+desc_rig_sailing_act:0 ""
+
+rig_icebreaking_act:0 "Icebreaking Act"
+desc_rig_icebreaking_act:0 ""
+
+rig_amnesty_act:0 "Amnesty Act"
+desc_rig_amnesty_act:0 ""
+
+rig_crusade_act:0 "Crusade Act"
+desc_rig_crusade_act:0 ""
+
+rig_border_defense_act:0 "Border Defense Act"
+desc_rig_border_defense_act:0 ""
+
+rig_knighthood_recruit_act:0 "Knighthood Recruitment Act"
+desc_rig_knighthood_recruit_act:0 ""
+
+rig_pioneer_deployment_act:0 "Pioneer Deployment Act"
+desc_rig_pioneer_deployment_act:0 ""
+
+rig_country_stability_act:0 "National Stability Act"
+desc_rig_country_stability_act:0 ""
+
+rig_fulcrum_act:0 "Fulcrum Act"
+desc_rig_fulcrum_act:0 ""
+
+riga_great_war_area_carpathia:0 "Carpathia"
+riga_great_war_area_balkan:0 "Balkans"
+riga_great_war_area_crimea:0 "Eastern European Plains"
+riga_great_war_area_russia:0 "Russia"
+riga_great_war_area_scandinavia:0 "Scandinavia"
+riga_great_war_area_north_german:0 "North Germany"
+riga_great_war_area_south_german:0 "South Germany"
+riga_great_war_area_anatolia:0 "Anatolia"
+riga_great_war_area_arabia:0 "Arabia"
+riga_great_war_area_persia:0 "Persia"
+riga_great_war_area_egypt:0 "Egypt"
+riga_great_war_area_maghreb:0 "Maghreb"
+riga_great_war_area_iberia:0 "Iberia"
+riga_great_war_area_horn_of_africa:0 "Horn of Africa"
+riga_great_war_area_khorasan_region:0 "Khorasan"
+riga_great_war_area_europe_superregion:0 "Western Europe"
+riga_great_war_area_india_superregion:0 "India"
+riga_great_war_area_china_superregion:0 "China"
+riga_great_war_area_south_america_superregion:0 "Amazon"
+riga_great_war_area_oceania_superregion:0 "Oceania"
+riga_great_war_area_tartary_superregion:0 "Tartary"
+riga_great_war_area_andes_superregion:0 "Andes"
+riga_great_war_area_east_indies_superregion:0 "East Indies"
+riga_great_war_area_central_america_superregion:0 "Central America"
+riga_great_war_area_southern_africa_superregion:0 "Southern Africa"
+riga_great_war_area_far_east_superregion:0 "Far East"
+riga_great_war_area_north_america_superregion:0 "North America"
+
+riga_great_war_target_conquer_province:0 "Conquer Provinces"
+riga_great_war_target_vassalize:0 "Subjugate Nation"
+riga_great_war_target_dismemberment_country:0 "Dismember Region"
+ 
+riga_subject_of_subject_owned_land.tt:0 "Owned by us, our §Ysubject§!, or §Your subject's subject§!"
+enable_great_battle_for_arabia_persia_egypt:0 "We will unlock §YGreat Battles§! targeting the §YArabyan§!, §YPersian§!, and §YEgyptian§! regions.\n"
+enable_great_battle_for_maghreb_horn_of_africa_khorasan_flag:0 "We will unlock §YGreat Battles§! targeting the §YMaghreb§!, §YIberian§!, §YHorn of Africa§!, and §YKhorasan§! regions.\n"
+enable_great_battle_for_europe:0 "We will unlock §YGreat Battles§! targeting the §YWestern European§! subcontinent.\n"
+enable_great_battle_for_india:0 "We will unlock §YGreat Battles§! targeting the §YIndian§! subcontinent.\n"
+enable_great_battle_for_word:0 "We will unlock §YGreat Battles§! targeting all §Ysubcontinents§!.\n"
+riga_Saint_Mary_Basilica:0 "Riga Saint Mary Basilica"
+riga_Saint_Mary_Basilica_title:0 "Riga Saint Mary Basilica"
+great_project_riga_Saint_Mary_Basilica:0 "Riga Saint Mary Basilica"
+riga_world_city:0 "Riga World City"
+riga_world_city_title:0 "Riga World City"
+great_project_riga_world_city:0 "Riga World City"
+riga_hall_of_representatives_of_the_people_and_diocese_of_riga:0 "Hall of Representatives of the People and Diocese of Riga"
+riga_hall_of_representatives_of_the_people_and_diocese_of_riga_title:0 "Hall of Representatives of the People and Diocese of Riga"
+great_project_riga_hall_of_representatives_of_the_people_and_diocese_of_riga:0 "Hall of Representatives of the People and Diocese of Riga"
+EDG_Ruins_Gate:0 "Entrance to the Desolate Ground"
+EDG_Ruins_Gate_title:0 "Entrance to the Desolate Ground"
+great_project_EDG_Ruins_Gate:0 "Entrance to the Desolate Ground"
+EDG_Ruins_Gate.tier_1:0 "§RThe gate to paradise slowly opens at my knock\n\nI come from the end, I have no attachments, I only pause here\n\nI am the one who lit the lamp of hope, facing the world\n\nI will show you the most wonderful, most brilliant path§!"
+EDG_Ruins_Gate.tier_2:0 "§RMy disciples, those blessed by me\n\nOnce you follow my steps and find me\n\nIt means you have already left the path of evil\n\nOn that day, I will descend upon the land you live upon\n\nAnd your sins shall be pardoned by my hand§!"
+EDG_Ruins_Gate.tier_3:0 "§RThe time is ripe, the ancient bell tolls once more\n\nA new world is about to come\n\nArise, my servants, sing joyfully to greet my arrival\n\nI am death, I am life. I am darkness, and I am also light!§!"
+EDG_Alexandria_Lighthouse:0 "Alexandria Lighthouse"
+EDG_Alexandria_Lighthouse_title:0 "Alexandria Lighthouse"
+great_project_EDG_Alexandria_Lighthouse:0 "Alexandria Lighthouse"
+EDG_Library_of_Alexandria:0 "Library of Alexandria"
+EDG_Library_of_Alexandria_title:0 "Library of Alexandria"
+great_project_EDG_Library_of_Alexandria:0 "Library of Alexandria"
+EDG_St_Peter_Cave_Church:0 "St. Peter's Cave Church"
+EDG_St_Peter_Cave_Church_title:0 "St. Peter's Cave Church"
+great_project_EDG_St_Peter_Cave_Church:0 "St. Peter's Cave Church"
+
+EDG_Temple_of_the_Prophets:0 "The Prophet's Mosque" # Al-Masjid an-Nabawi (The Prophet's Mosque)
+EDG_Temple_of_the_Prophets_desc:0 "Al-Masjid an-Nabawi, the second holiest mosque in Islam, also known as the Medina Mosque, is the second mosque built in Islamic history after the Quba Mosque. Construction began in 622 AD and the Islamic Prophet Muhammad personally participated in its building. It was rebuilt during the reign of Caliph al-Walid I, who merged the tombs of the Prophet, along with the first two Caliphs Abu Bakr and Umar, into the mosque, largely forming today's architectural layout. After numerous expansions, the mosque has become a vast complex covering 16,326 square meters and can accommodate one million worshippers, making it one of the largest mosques in the world. Located in the center of Medina, it is visited by millions of Muslims during Hajj for prayer, worship, and visiting the holy sites."
+EDG_Temple_of_the_Prophets_title:0 "The Prophet's Mosque"
+great_project_EDG_Temple_of_the_Prophets:0 "The Prophet's Mosque"
+EDG_Hanging_Church:0 "The Hanging Church"
+EDG_Hanging_Church_title:0 "The Hanging Church"
+EDG_Hanging_Church_desc:0 "The Church of the Virgin Mary, also known as the Hanging Church, is located in Coptic Cairo (Old Cairo). It is called the Hanging Church because it is built atop the southern gate of an earlier Roman fortress, not literally suspended in mid-air. It is considered one of the most beautiful churches in the area. The white towers and exquisite crosses stand out against the azure sky, radiating the unique sanctity and brilliance of a Christian church. In the sunlight, the plants in the church garden seem to glow with an incredible light, filling the heart with emotion."
+great_project_EDG_Hanging_Church:0 "The Hanging Church"
+EDG_Monastery_of_St_Anthony:0 "Monastery of Saint Anthony"
+EDG_Monastery_of_St_Anthony_desc:0 "The Monastery of Saint Anthony was founded by followers of Saint Anthony, who are considered among the first anchoritic monks. It is one of the most important monasteries in Egypt, having significantly influenced several other Coptic institutions and popularized the monastic system among the populace."
+
+EDG_Saint_Catherine_Monastery:0 "Saint Catherine's Monastery"
+EDG_Saint_Catherine_Monastery_desc:0 "Saint Catherine's Monastery is one of the oldest continuously operating Christian monasteries in the world. It was built on the site believed to be where Moses saw the Burning Bush, as mentioned in the Old Testament. Located at the foot of Mount Sinai (also known as Mount Horeb or Mount Moses) on the Sinai Peninsula in Egypt, the site is associated with the biblical land of Midian and sits at an altitude of approximately 1,570 meters. Ascending from the monastery to the summit of Mount Sinai leads to the Holy Peak, the place where God gave Moses the Ten Commandments. Having stood for seventeen centuries since its foundation, the monastery has remained remarkably intact through invasions by Arabs, the Crusades, Ottoman rule, Napoleonic rule, and the Arab-Israeli wars. The monks within continue to observe ancient traditions passed down from the 6th century."
+EDG_Church_Santa_Maria_Mount_Zion:0 "Church of Our Lady Mary of Zion"
+EDG_Church_Santa_Maria_Mount_Zion_desc:0 "The Church of Our Lady Mary of Zion in Axum was originally built in 372 AD by order of King Ezana. The initial rectangular basilica had twelve altars and was dedicated to the Virgin Mary as the "Eternal Queen of Ethiopia." This church is the most important and holiest site in the Ethiopian Orthodox Tewahedo Church. According to Ethiopian tradition, King Ezana personally brought the Ark of the Covenant from the island of Tana Kirkos on Lake Tana to Axum and enshrined it within this church."
+EDG_Zurich_St_Peter_Basilica:0 "St. Peter's Church, Zürich"
+EDG_Zurich_St_Peter_Basilica_desc:0 "St. Peter's Church is one of the four main churches in Zurich's old town, Switzerland. The church is situated next to the Lindenhof hill, the site of a former Roman fort, built upon the ruins of a Temple of Jupiter. An early church measuring 10 by 7 meters from the 8th or 9th century was rebuilt around the year 1000 into a Romanesque church. It was modified into a late Romanesque style around 1230 and reconstructed as a Gothic church in 1460. The interior is richly decorated in Baroque style, featuring a magnificent high altar and statues of four Church Fathers. The statues in the main nave are resplendent with gold and convey solemn dignity. A statue of Saint Peter is placed at the center of the high altar, with four beautifully crafted statues of saints positioned slightly below it."
+
+EDG_Monastery_of_St_Maurice:0 "Abbey of Saint-Maurice"
+EDG_Monastery_of_St_Maurice_desc:0 "This famous abbey, nestled beneath a cliff, was founded in 515 AD and houses many precious artifacts. The Abbey of Saint-Maurice is the oldest continuously operating monastery in the Western world. Archaeological evidence suggests its location against the mountain and facing the plain, chosen over 1500 years ago, was initially for defensive purposes. Unfortunately, this very location led to its downfall, as the abbey was ultimately destroyed by boulders falling from the cliff above. The most severe rockfall occurred in 1611, and in 1942, debris flow struck and broke the abbey's spire. Founded in 515 AD, the Abbey of Saint-Maurice has survived numerous fires and a major rockslide, yet for 1500 years it has remained a place of prayer."
+EDG_Chillon_Castle:0 "Chillon Castle"
+EDG_Chillon_Castle_desc:0 "Chillon Castle is an impressive medieval fortress situated on the shores of Lake Geneva near Montreux in the canton of Vaud. Surrounded by the beautiful Lake Geneva and the majestic Alps, its unique construction on a rock in the lake gives it the surreal appearance of floating on the water's surface. This has earned it the reputation of being a singular pearl in architectural history and one of Switzerland's most famous historical sites, often listed among the "Top 10 Castles of Europe.""
+EDG_Habichtsburg:0 "Habichtsburg"
+EDG_Habichtsburg_desc:0 "Habichtsburg (Hawk's Castle) is a castle in the Swiss canton of Aargau, the ancestral seat of the House of Habsburg. According to legend, in 1020, Radbot, while chasing a hawk (Habicht), climbed the hill, was impressed by the strategic location, and ordered a castle to be built there, thus founding Habichtsburg. In 1108, Radbot's grandson Otto, who followed Emperor Henry IV on a campaign to Hungary, signed a document as "Count of Habsburg", which is the earliest record of the castle's name being used as a family surname. Over the next two centuries, the castle was expanded several times and served as the family's base. The earlier-built front castle is to the east, the rear castle to the west, with a central courtyard containing a chapel, servants' quarters, and water-drawing and storage facilities. By the early 13th century, this "double castle" reached its maximum size of 80 meters long and 30 meters wide."
+enable_EDG_Habichtsburg_condition.tt:0 "Owner is @WUR§Y[WUR.GetName]§! or @HAB§Y[HAB.GetName]§!"
+
+EDG_Sans_Souci:0 "Sanssouci Palace"
+EDG_Sans_Souci_desc:0 "Sanssouci Palace is a renowned German royal palace and garden complex located in the northern outskirts of Potsdam. It was built by Prussian King Frederick the Great, inspired by the Palace of Versailles in France. The palace's name derives from the French term meaning "without a care" or "carefree." The entire palace and its gardens cover an area of 90 hectares. Because it is constructed on a sandy hill, it is also known as the "Palace on the Hill." Frederick, who had a passion for various cultures and was particularly curious and fascinated by the ancient East, especially China, commissioned its construction. He diligently collected items from around the world, such as silks and porcelain, to decorate Sanssouci, striving for opulence in its arrangement to match his vision of a rich and splendid ideal world."
+
+EDG_Schloss_Charlottenburg:0 "Charlottenburg Palace"
+EDG_Schloss_Charlottenburg_desc:0 "Charlottenburg Palace, situated on Luisenplatz, is a Baroque palace. It is the largest surviving Hohenzollern palace in Berlin, Germany, and the most significant and best-preserved Prussian royal palace in the Berlin area. The palace's Baroque courtyard offers a serene and secluded space for leisurely strolls and relaxation. The gardens house a court teahouse, the neoclassical New Pavilion in the style of a Neapolitan villa, and the mausoleum of Queen Louise. The interior halls and rooms of the palace are luxuriously and elegantly decorated, featuring exquisite tapestries, finely painted harpsichords, and French oil paintings. The Red Brocade Room dazzles with intricate damask and gilded stuccowork, while the Porcelain Chamber boasts a magnificent painted ceiling. All these elements serve as a reminder that the ambitions of the House of Hohenzollern extended far beyond military expansion."
+
+EDG_Draculas_Castle:0 "Castle Dracula"
+EDG_Draculas_Castle_desc:0 "Castle Dracula was constructed by nobles and commoners for Prince Dracula after he assumed the throne of Wallachia. Perched atop the sole hill in the surrounding fields, the castle features eight watchtowers and towering walls. It is perpetually shrouded in gloomy clouds, symbolizing the terrifying and eternal reign of Prince Dracula."
+
+EDG_Suchevita:0 "Sucevita"
+EDG_Suchevita_desc:0 "The church at Sucevita is unique in all of Europe because its exterior walls are entirely decorated with frescoes painted using the buon fresco technique. Created between the 15th and 16th centuries and directly influenced by Byzantine art, these murals systematically cover all the church's outer architectural surfaces. They are notable not only for their unique composition, elegant figures, and harmonious colors but also for how they integrate perfectly with the surrounding landscape. It is also the only church that depicts the Ladder of Divine Ascent of Saint John Climacus."
+
+riga_authority_of_the_diocese:0 "Diocesan Authority of Riga"
+refresh_modifier_rig_heavenly_praise:0 "We will refresh the duration of the §YHeavenly Praise§! modifier\n\nOur subject states will also refresh the duration of the §YHeavenly Torrent§! modifier\n"
+add_rig_heavenly_praise_modifier:0 "All our non-§GRiga Chartered Trade Zone§! subject states will gain the §YHeavenly Torrent§! modifier for §G5§! years\n"
+remove_religious_zeal_at_conv_modifier:0 "Remove the §YReligious Zeal§! modifier from all §YHeretic/Heathen§! provinces owned by us and our subjects\n"
+
+estate_rig_knightage_monetary_support:0 "Grant Monetary Support to the §OKnightly Order§!"
+estate_rig_knightage_monetary_support_desc:0 "The §OKnightly Order§! is currently facing financial difficulties and hopes that the Archbishop will allocate funds to address this urgent need."
+
+rig_assisted_core_for_subject_tooltip:0 "Assist in Core Creation"
+rig_assisted_core_for_subject_effect_tooltip:0 "We will spend £adm£ §Y5§! per §Y1§! development to grant the province owner a §YCore§!"
+
+ab_EDG_RIG_vassl_system:0 "Riga Diocese Vassal System"
+
+ wuyan1:0 "Exec_Cosmoflips - KOKIA"
+ CHANNEL_music_EDG_Songs:0 "EDG"

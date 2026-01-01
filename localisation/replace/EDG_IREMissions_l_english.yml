@@ -3,7 +3,7 @@ EDG_IRE_mission_3_1_title:0 "Storm Brewing"
 EDG_IRE_mission_3_1_desc:0 "Ever since Patrick unified Ireland and was crowned Ard Rí of Ireland, those arrogant nobles have ceased to obey the Ard Rí's commands, turning instead to governing their own domains and openly opposing the High King's policies over time. As the conflict between the High King and them escalates, a great rebellion sweeping across all of Ireland is imminent. Before that, we must first handle external affairs."
 EDG_IRE_mission_3_1.effect.tt:0 "We will sign §Ttruces§! with all our §Yrivals§!.\n"
 
-EDG_IRE_mission_3_2_title:0 "Struggle of Letters and Arrows"
+EDG_IRE_mission_3_2_title:0 "Of Letters and Arrows" # Struggle of Letters and Arrows
 EDG_IRE_mission_3_2_desc:0 "Those presumptuous great nobles have lost patience with the High King and have risen in rebellion! We must make them aware of their place. No matter the means, we need to calm them down and make them realize there is only one indispensable thing at the Round Table!"
 
 EDG_IRE_mission_3_3_title:0 "Smooth Sailing"
@@ -26,7 +26,7 @@ EDG_IRE_mission_3_5_event.effect.tt:0 "When @SCO§Y[SCO.GetName]§! exists, the 
 EDG_IRE_mission_3_7_title:0 "Aria of Fortitude"
 EDG_IRE_mission_3_7_desc:0 "Initial victory in war does not mean we can let our guard down. Steadily advancing into the heartland of Albion is the wisest course of action."
 
-EDG_IRE_mission_3_6_title:0 "Resonant Melody of the Organ"
+EDG_IRE_mission_3_6_title:0 "Melody of the Organ" # Resonant Melody of the Organ
 EDG_IRE_mission_3_6_desc:0 "A resounding and sweeping victory! We have defeated the Scots. Now it is our turn to play our own tune!"
 EDG_IRE_mission_3_6.event.effect.tt:0 "When @SCO§Y[SCO.GetName]§! §Tdoes not exist§! and we own the province §Y[248.GetName]§!, the event §T"The Crown of Scotland"§! will be triggered.\n"
 EDG_IRE_mission_3_6.give_cb_annex.effect.tt:0 "When @ENG§Y[ENG.GetName]§! exists, we will gain a §TConquest§! casus belli against @ENG§Y[ENG.GetName]§!.\n"
@@ -116,7 +116,7 @@ EDG_IRE_mission_2_3_desc:0 "An unstable triangular alliance has thus formed acro
 EDG_IRE_mission_2_3.effect.tt:0 "When we are simultaneously in an §Talliance§! with both @WLS§YWales§! and @BRI§YBrittany§!, the event §T"Union of Leinster"§! will be triggered.\n"
 EDG_IRE_mission_2_3_break_effect.tt:0 "If @SCO§YScotland§! is in an §Talliance§! with either @WLS§YWales§! or @BRI§YBrittany§!, remove the §Talliance§! between @SCO§YScotland§! and @WLS§YWales§! or @BRI§YBrittany§!.\n"
 
-EDG_IRE_mission_2_6_title:0 "Dance of Breaking the Mold"
+EDG_IRE_mission_2_6_title:0 "Dance of the Broken Mold" # Dance of Breaking the Mold
 EDG_IRE_mission_2_6_desc:0 "We have already proven ourselves to others; Scotland is not invincible. Now it is their turn to prove themselves!"
 EDG_IRE_mission_2_6.condition.tt:0 "The §Yadditional conditions§! for this mission depend on the choice we made in the event §T"Union of Leinster"§!."
 EDG_IRE_mission_2_6.effect.tt:0 "After triggering the event §T"Union of Leinster"§!, if @WLS§YWales§! or @BRI§YBrittany§! exists, is a §Ysovereign state§!, and is in an §Talliance§! with us, the event §T"Terms of the Union"§! will be triggered.\n"

@@ -426,7 +426,7 @@ BEV_desc:0 "Benevento"
 
 EDG_SIC_1:0 "Protectorate Council"
 EDG_SIC_2:0 "Military Dictatorship"
-EDG_SIC_1_desc:0 "In 1254, Conrad IV died, and his illegitimate brother Manfred usurped the Sicilian throne from his nephew Conradin. This resulted in Sicily losing all support from Germany, and Hohenstaufen rule in Sicily began to weaken. The Greek communities now became a ticking time bomb within the Kingdom of Sicily. In 1266, through Genoese mediation, Greeks from Messina and Syracuse took up arms. Using the vesper bells of Sicilian churches as their signal, both eastern and western coasts of Sicily swiftly fell to Greek control. The Syracuse Catholic Cathedral was consumed by flames. Prepared for this opportunity, General di Savoy saw the beacon fires and led his forces onto Sicilian shores. Manfred disappeared - some say he hid in a mountain village, others claim he perished in a shipwreck while fleeing Sicily. For the first time since Archimedes' death, Sicily's coastal regions belonged to Greeks again. In 1411, Michael Angelos, a prince of the exiled Epirote dynasty who had become the son-in-law of the Doge of Venice, gained fame in Venice for his diplomatic eloquence and courageous bearing. To counter Genoese influence over Mediterranean trade routes, Michael Angelos led a fleet core of Swiss and Lombard mercenaries to land at Syracuse. Before the landing, his deputy Paolo Nosati infiltrated Sicilian mountains, claiming to be Catholic crusaders coming to rescue locals from Greek control. Sicilian mountain families, believing this, provided detailed maps and garrison information, and after Michael's landing, actively supplied his troops. Yet they were betrayed from the beginning, as Sicily became Angelos dynasty territory. When Emperor Isaac IV died in 1443, his 9-year-old son Isaac V succeeded, with real power held by Theodore Vatatzes - a young, capable, and ambitious militarist supported by most military nobles. In November 1443, Theodore gave Isaac V his ultimate gift: he deposed the young emperor and, with military aristocratic support, became 'Lord Protector' with supreme military and political authority. Theodore established a Protectorate Council composed of military noble commanders, personally appointed by the Lord Protector, to manage regional military and administrative affairs."
+EDG_SIC_1_desc:0 "In 1254, Conrad IV died, and his illegitimate brother Manfred usurped the Sicilian throne from his nephew Conradin. This resulted in Sicily losing all support from Germany, and Hohenstaufen rule in Sicily began to weaken. The Greek communities now became a ticking time bomb within the Kingdom of Sicily. In 1266, through Genoese mediation, Greeks from Messina and Syracuse took up arms. Using the vesper bells of Sicilian churches as their signal, both eastern and western coasts of Sicily swiftly fell to Greek control. The Syracuse Catholic Cathedral was consumed by flames. Prepared for this opportunity, General di Savoy saw the beacon fires and led his forces onto Sicilian shores. Manfred disappeared - some say he hid in a mountain village, others claim he perished in a shipwreck while fleeing Sicily. For the first time since Archimedes' death, Sicily's coastal regions belonged to Greeks again. In 1411, Michael Angelos, a prince of the exiled Epirote dynasty who had become the son-in-law of the Doge of Venice, gained fame in Venice for his diplomatic eloquence and courageous bearing. To counter Genoese influence over Mediterranean trade routes, Michael Angelos led a fleet core of Swiss and Lombard mercenaries to land at Syracuse. Before the landing, his deputy Paolo Nosati infiltrated Sicilian mountains, claiming to be Catholic crusaders coming to rescue locals from Greek control. Sicilian mountain families, believing this, provided detailed maps and garrison information, and after Michael's landing, actively supplied his troops. Yet they were betrayed from the beginning, as Sicily became Angelos dynasty territory. When Emperor Isaakios IV died in 1443, his 9-year-old son Isaakios V succeeded, with real power held by Theodore Vatatzes - a young, capable, and ambitious militarist supported by most military nobles. In November 1443, Theodore gave Isaakios V his ultimate gift: he deposed the young emperor and, with military aristocratic support, became 'Lord Protector' with supreme military and political authority. Theodore established a Protectorate Council composed of military noble commanders, personally appointed by the Lord Protector, to manage regional military and administrative affairs."
 EDG_SIC_2_desc:0 "Theodore established a Protectorate Council composed of military noble commanders, personally appointed by the Lord Protector to manage regional military and administrative affairs. Since these central and local officials all originated from military backgrounds, they generally possessed high military competence, and their forces demonstrated considerable combat morale."
 
 two_sicilies_nation_title:0 "Form the Kingdom of Trinacria"
@@ -1109,7 +1109,7 @@ LER_ideas_start:0 "Sandomieran Traditions"
 LER_ideas_bonus:0 "Sandomieran Ambition"
 EDG_LER_1:0 "Purification Committee"
 EDG_LER_1_desc:0 "In 1415, Jan Hus was burned at the stake for heresy at the Council of Constance, with his followers collectively known as Hussites. While the Hussite Wars raged in Bohemia, some Polish minor nobles in Sandomierz simultaneously absorbed Hussite ideas, convinced Hus's views represented Christian truth. After Władysław III's death, the already unstable Poland effectively fragmented into three states, including Sandomierz. Through bloody conflict, Sandomierz's Hussite minor nobles ultimately defeated local Catholic magnates, seizing state power and establishing a republic based on Hussite doctrines and Polish Sejm traditions, with the fanatical Purification Committee as the supreme authority."
-EDG_LER_2:0 "Hus Knew the Truth"
+EDG_LER_2:0 "Jan Hus Knew the Truth"
 EDG_LER_2_desc:0 "Jan Hus's teachings have spread to our land, embraced by many common people. The Pope condemns this as heresy, and adopting this faith would set us against most of Christendom. Yet, with righteousness in our hearts, we can overcome even the greatest enemies."
 EDG_LER_3:0 "Crusader Discipline"
 EDG_LER_3_desc:0 "Our foreign wars often take the form of religious conflicts. Undoubtedly, crusading represents Sandomierz's normal state, making a strong, well-disciplined crusader army essential."
@@ -1362,7 +1362,8 @@ EDG_CDC_6_desc:0 "Though Martin Luther's ideas represent outright heresy, they s
 EDG_CDC_7_desc:0 "Crusading appeals have lost their former attraction, with many viewing crusades as mere political/military stunts rather than paths to salvation. This mentality doesn't exist in our Crusader Kingdom - every Christian resident receives rigorous ideological education from childhood, instilling crusading and holy war as fundamental principles."
 
 
-
+# Added for English version
+KNI:0 "Knights Hospitaller"
 
 KTP:0 "Knights Templar"
 KTP_ADJ:0 "Templar"
@@ -2273,9 +2274,9 @@ TAB_new_idea_7:0 "The Bavandids Return"
 TAB_new_idea_7_desc:0 "After the Bavand Dynasty that ruled the Iranian plateau for 700 years was overthrown by the Jalali family in 1349 and disappeared temporarily, this wasn't exile of the defeated but a king's patience. Now the time has come - the Bavandids shall return to rule this land blessed by Ahura Mazda."
 
 
-EDG_MEN_ideas:0 "Menteshe Ideas"
-EDG_MEN_ideas_start:0 "Menteshe Traditions"
-EDG_MEN_ideas_bonus:0 "Menteshe Ambition"
+EDG_MEN_ideas:0 "Mentese Ideas"
+EDG_MEN_ideas_start:0 "Mentese Traditions"
+EDG_MEN_ideas_bonus:0 "Mentese Ambition"
 EDG_MEN_ideas_1:0 "Zeal of the Convert"
 EDG_MEN_ideas_2:0 "Integration into the Greek World"
 EDG_MEN_ideas_3:0 "Champions of Rome"
@@ -2334,7 +2335,7 @@ EDG_PTU_4:0 "Heroic Epics"
 EDG_PTU_5:0 "Poitou Wine"
 EDG_PTU_6:0 "Western Sea Charts"
 EDG_PTU_7:0 "Travertine"
-EDG_PTU_1_desc:0 "As one of France's greatest principalities, Poitou long enjoyed eminent status. Several Poitou dukes were appointed Chancellor of France. Philip II became the 15th century's most renowned French chancellor - during his administration, Victorious Hugh maintained excellent relations with French nobles."
+EDG_PTU_1_desc:0 "As one of France's greatest principalities, Poitou long enjoyed eminent status. Several Poitou dukes were appointed Chancellor of France. Philip II became the 15th century's most renowned French chancellor - during his administration, Victorious Hugues maintained excellent relations with French nobles."
 EDG_PTU_2_desc:0 "Duke Philip II displayed an enormous tapestry in his court. Amplifying such terrifying narratives across hundreds of feet of textile art inevitably stunned viewers into submitting to divine will. Who was chosen by God's will to rule these lands? Indeed... you. When understanding that obeying the duke meant obeying almighty God, none retreated from battlefields. Any fallen would resurrect immediately after the tapestry's depicted Judgment Day."
 EDG_PTU_3_desc:0 "With coastal access, fishing and maritime exploration became vital Poitevin development directions. Poitou navigators harbored curiosity and yearning for unknown worlds, constructing sturdy yet agile vessels to sail the vast Atlantic."
 EDG_PTU_4_desc:0 "Poitou literature primarily features poetry and legends recounting heroic deeds and romantic tragedies. This unique literary style shaped distinctive Poitevin lifestyles and intellectual culture."
@@ -2424,10 +2425,10 @@ lot_legacy_of_the_carolingians:0 "Carolingian Bloodline"
 lot_legacy_of_the_carolingians_desc:0 "The Carolingian dynasty stands among Europe's oldest royal houses. As Charlemagne's descendants, our rule possesses unquestionable legitimacy. Through our patronage, our ancestors' great achievements shall become common knowledge not only among our people but throughout all European courts."
 
 lot_glory_of_charlemagne:0 "Legacy of the Four Nations' War"
-lot_glory_of_charlemagne_desc:0 "The Four Nations' War was a prolonged conflict between France, England, Arles, and Lotharingia, involving England's Richard VI, Lotharingia's Ludwig VII, France's Hugh VII, and Arles' Robert II. This massive war concluded with France repelling the triple invasion. Though the Kingdom of Lotharingia failed to conquer France, the conflict enhanced its military traditions - Ludwig VII gained loyal, skilled officers while Lotharingian soldiers gained valuable experience."
+lot_glory_of_charlemagne_desc:0 "The Four Nations' War was a prolonged conflict between France, England, Arles, and Lotharingia, involving England's Richard VI, Lotharingia's Louis VII, France's Hugues VII, and Arles' Robert II. This massive war concluded with France repelling the triple invasion. Though the Kingdom of Lotharingia failed to conquer France, the conflict enhanced its military traditions - Louis VII gained loyal, skilled officers while Lotharingian soldiers gained valuable experience."
 
 BRG_heirs_of_lotharingia:0 "Descendants of Louis the Child"
-BRG_heirs_of_lotharingia_desc:0 "Our lineage traces back to Carolingian 'Louis the Child,' widely considered Lotharingia's rightful heir over Ludwig VII's ancestor Zwentibold. Thus we're recognized as Lotharingia's more legitimate successors, with our house regarded as truly noble."
+BRG_heirs_of_lotharingia_desc:0 "Our lineage traces back to Carolingian 'Louis the Child,' widely considered Lotharingia's rightful heir over Louis VII's ancestor Zwentibold. Thus we're recognized as Lotharingia's more legitimate successors, with our house regarded as truly noble."
 
 BRG_julich_berg:0 "Restore the Duchies"
 BRG_julich_berg_desc:0 "We once ruled territories from Berg to Jülich. We should restore the former duchies and reestablish our authority, even gaining control over Cologne's entire domain."

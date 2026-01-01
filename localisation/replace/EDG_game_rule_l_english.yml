@@ -126,15 +126,15 @@ EDG_game_rule_3_2_common_desc:0 "@MAM §YMamluks§! §Tmay randomly form§! one 
 EDG_game_rule_3_2_disable_title:0 "Internal Authority" # Consolidated Authority
 EDG_game_rule_3_2_disable_desc:0 "@MAM §YMamluks§! will §Rnot form§! any other country"
 
-EDG_game_rule_3_3_tooltip:0 "@BDH §YBadajoz§!"
+EDG_game_rule_3_3_tooltip:0 "@BDH §YBatalyaws§!"
 EDG_game_rule_3_3_title:0 "[From.GetGameRuleTitle33]"
 EDG_game_rule_3_3_desc:0 "[From.GetGameRuleDesc33]"
 EDG_game_rule_3_3_common_title:0 "§TFate-Determined§!"
-EDG_game_rule_3_3_common_desc:0 "@BDH §YBadajoz§! will §Trandomly choose§! its path"
+EDG_game_rule_3_3_common_desc:0 "@BDH §YBatalyaws§! will §Trandomly choose§! its path"
 EDG_game_rule_3_3_catholicism_title:0 "§OConvert to Catholic§!" # Convert to Catholicism
-EDG_game_rule_3_3_catholicism_desc:0 "@BDH §YBadajoz§! will convert to §OCatholicism§! and attempt to form @ADC §YMorisco§!"
+EDG_game_rule_3_3_catholicism_desc:0 "@BDH §YBatalyaws§! will convert to §OCatholicism§! and attempt to form @ADC §YMorisco§!"
 EDG_game_rule_3_3_sunni_title:0 "§GMaintain Tradition§!"
-EDG_game_rule_3_3_sunni_desc:0 "@BDH §YBadajoz§! will remain §OSunni§! and attempt to form @ADU §YAl-Andalus§!"
+EDG_game_rule_3_3_sunni_desc:0 "@BDH §YBatalyaws§! will remain §OSunni§! and attempt to form @ADU §YAl-Andalus§!"
 
 EDG_game_rule_main_open_button.tt:0 "Press §YCtrl+G§! to reopen this menu.\n\nPlease §Gconfirm settings§! at the §Ystart of the game§!. §YChanging settings mid-game§! may lead to §Runforeseeable errors§!, and the development team §Rwill not fix any issues caused by mid-game rule changes!§!"
 

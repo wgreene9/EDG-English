@@ -1,0 +1,195 @@
+﻿l_english:
+EDG_LIT_mission_1_2_title:0 "The Seat of Vilnius"
+EDG_LIT_mission_1_2_desc:0 "In Lithuania, the most revered is naturally our legitimate Grand Duke of Lithuania. But when it comes to the best reputation, none can surpass High Duke Casimir Jagiellon. Renowned for his bravery and martial prowess, this duke has just reclaimed the long-lost Podlasie region from the ruins of the Kingdom of Poland. The Jagiellon family in Vilnius has become one of the most influential noble houses. However, since ancient times, excessive merit overshadowing the sovereign has never been an empty saying. Lithuania must make a decision."
+EDG_LIT_mission_1_2.modifier.effect.tt:0 "Unlocks Decision: §YManipulating the Factions§!\n"
+
+EDG_LIT_mission_1_3_title:0 "The Vadatmas System"
+EDG_LIT_mission_1_3_desc:0 "Such a massive rebellion has sounded an alarm for the Lithuanians. Those people from foreign lands cannot simply be scattered like seeds on the wilderness and left to grow on their own. Among the countless residents speaking different languages and holding different customs, a firm arbiter is needed. We urgently need to establish a more efficient management system. Vadatmas is a Lithuanian term referring to peasants whose social status lies between laukininkai (free peasants) and serfs. This was a form of land tenure in early Lithuanian serfdom."
+EDG_LIT_mission_1_3.condition.tt:0 "Event §YThe 1508 Armed Revolt of Mykhailo Hlynsky§! has occurred"
+
+EDG_LIT_mission_1_5_title:0 "Conquer Zaporizhzhia"
+EDG_LIT_mission_1_5_desc:0 "The Cossacks of the Zaporizhzhia region pride themselves on being 'lawless' steppe ruffians. Their herdsmen plunder our frontier settlers; their men, women, and children carry gleaming sabers on their backs. It is time to teach these unruly brutes the meaning of Lithuanian wrath."
+
+EDG_LIT_mission_1_7_title:0 "Crush Ryazan"
+EDG_LIT_mission_1_7_desc:0 "The people of Ryazan are, in a sense, a blend of Tatars and Rus'. In Ryazan, there are many Russified Tatars or barbarized Rus'. Undoubtedly, these heathens from the steppe are a dark cloud hanging over Lithuania, constantly harassing our vast frontiers. However, if we can make them serve our purpose, they could also become the finest sword for conquering the steppes."
+
+EDG_LIT_mission_1_9_title:0 "The Great Northern War"
+EDG_LIT_mission_1_9_desc:0 "Among the windswept Scandinavian mountains, countless Norse heroes led their longships sailing from the Baltic all the way to Constantinople, establishing numerous Varangian states. But today, those Swedes have become the greatest enemy encroaching upon our lands. Our westward merchant ships face their impudent inspections, and our northern border defense cannot afford complacency due to their presence. It is time to take the initiative and crush the descendants of these pirates."
+
+EDG_LIT_mission_1_10_title:0 "The August Constitution"
+EDG_LIT_mission_1_10_desc:0 "The system imposed upon Sweden by Gustav III operated on the assumption of harmonious cooperation between executive and legislative powers, the latter being shared between the Estates and the King. The August Constitution introduced several modifications to the organization and authority of the Parliament. Simultaneously, the August Constitution represents the commitment and vision of us Lithuanians for the newly conquered territories in Scandinavia. In this land, we are not merely conquerors, but also builders and peacemakers. The Constitution ensures the rights and dignity of every individual, regardless of background or ethnicity. We integrate cultures and values into the legal system to ensure future generations can continue to enjoy this beautiful land. All who come to Lithuania are Lithuanians. The August Constitution symbolizes our promise for the future, the dawn of a new era blending Lithuanian and Scandinavian cultures."
+
+EDG_LIT_mission_1_11_title:0 "Lithuanian Boyars"
+EDG_LIT_mission_1_11_desc:0 "Within our lands reside some Rus' boyars, who are among the most influential political and military forces in our vast territories. We must manage our relationship with these military nobles appropriately."
+
+EDG_LIT_mission_1_12_title:0 "The Council of Vytautas"
+EDG_LIT_mission_1_12_desc:0 "The Lithuanian Council of Lords is an institution traceable to the era of Grand Duke Vytautas the Great in the early 15th century. In terms of its function, it is comparable to the Western institution of the Royal Council. Following the establishment of the Union of Lublin in 1569, it was incorporated into the Senate of the Polish-Lithuanian Commonwealth."
+
+EDG_LIT_mission_1_14_title:0 "The Art of Artillery" # The Art of Artillery Warfare
+EDG_LIT_mission_1_14_desc:0 "Across the vast, boundless expanse of Eastern Europe, artillery has become the master of war. Whenever the smoke of battle spreads over this ancient land, the roar of cannons echoes like the wrath of gods, shaking the soul of every person. When artillery fire blankets enemy positions, its devastating force seems capable of making the very earth tremble. The artillerymen are the true masters of this land. They master every detail of the cannon, from aiming to firing, each step executed with precision. Their eyes are filled with steadfast conviction and resolve; they know that with a cannon in hand, they can fight for the honor of their homeland."
+
+EDG_LIT_mission_1_17_title:0 "Unify the Lands of Rus'"
+EDG_LIT_mission_1_17_desc:0 "Just as the glory of Kievan Rus' vanished under the impact of the Mongol cavalry, the vast lands of Rus' seemed like shattered treasures scattered among countless princes. Some of these princes descended from ancient Rus' families, while others represented rising powers; they each established their own realms on this land, demarcating borders and vying for power. But by now, those fragments have passed like fleeting clouds. The great Lithuanians have gathered, piece by piece, the expansive lands belonging to the Slavs, extending Lithuania's eastern frontier all the way to the icy snow plains."
+
+EDG_LIT_mission_2_1_title:0 "Dark Clouds Over the City" # Dark Clouds Gather Over the City
+EDG_LIT_mission_2_1_desc:0 "Eastern Europa is shrouded in turmoil and discord. To the west, the Kingdom of Poland has crumbled under relentless internal strife; the ancient glory of the Piast dynasty was destroyed by misguided benevolence, and Sandomierz has fallen into the hands of death-worshipping fanatics. The Grand Duke of Lithuania greatly fears that the next land to follow Poland's path towards disintegration will be his own. He is rallying all the armies he can muster, hoping that, like the young scions of the Piast dynasty, he might yet retain a foothold."
+EDG_LIT_mission_2_1.disaster.effect.tt:0 "Begins the disaster §RThe Shattered Crown§!\n"
+
+EDG_LIT_mission_2_3_title:0 "Invade White Ruthenia"
+EDG_LIT_mission_2_3_desc:0 "The White Ruthenian region lies adjacent to Vilnius—the fastest steed could run from Minsk to Vilnius without rest. It is so close to our core territories that if an enemy were to occupy it, Lithuania would know no peace. Therefore, we must strike first to secure a sufficient buffer zone. Of course, should the local Bronze Council be willing to pledge their loyalty, we would not be averse to demonstrating Lithuanian magnanimity."
+
+EDG_LIT_mission_2_4_title:0 "The Rus' War"
+EDG_LIT_mission_2_4_desc:0 "Minsk cannot satisfy the hungry stomachs of the Lithuanians. The Lithuanians have now set their sights on the broader lands of Eastern Europe. They need not only living space but also the population of Rus'. Lithuania is ambitious; in its vision, the demographic resources of the Rus' are a crucial component, indispensable for supporting its great-power aspirations. Thus, the Lithuanians actively plan how to attract, assimilate, and integrate the Rus' population to achieve dominion and control over Eastern Europe. Behind this grand blueprint lies a Lithuania discontent with the present, aspiring to become the master of the Eastern European plains. For this, they will spare no effort and stop at nothing."
+
+EDG_LIT_mission_2_5_title:0 "Tame the Black Eagle"
+EDG_LIT_mission_2_5_desc:0 "The Duke of Chernigov has always taken pride in the black eagle of their coat of arms. They sought to avoid entanglement in the endless conflicts of Kievan Rus', but as the saying goes, the tree may prefer calm, yet the wind will not cease. In history, it is hardest to remain aloof. Meanwhile, the mobs of Smolensk have exhausted the city's former glory and splendor. Those fanatical rioters are sharpening their weapons and preparing their horses, threatening the new order we have established. It is time to break the black eagle's neck."
+
+EDG_LIT_mission_2_7_title:0 "Trample the Varangians"
+EDG_LIT_mission_2_7_desc:0 "The northernmost lands of the Rus' cannot even grow crops. The merchants of Novgorod learned long ago to band together for warmth, and their princes are also elected from among the merchant class. But these Novgorodians control the trade routes to the Northern Sea. Lithuanian goods, whether entering or leaving, are often squeezed dry of their last drop of surplus value by them. Lithuania's trade routes must be controlled by its own hand. If they refuse to recognize their place, we will force them with sabers to surrender the wealth of these trade routes to us."
+
+EDG_LIT_mission_2_8_title:0 "Lord of All Rus'"
+EDG_LIT_mission_2_8_desc:0 "‘I, the Grand Duke of Lithuania, swear to become the Lord of All Rus'! On this land, I see boundless possibilities, I see the potential of our great people. Regardless of storm or wind, I shall lead our people toward a glorious future! We shall unify all of Rus', bringing every inch of land under our control. Let the world witness the strength of our Grand Duchy of Lithuania, shining across the entire European continent! From this day forth, all Rus' shall be united under a single lord, and a millennium of fragmented history shall be reforged!’"
+
+EDG_LIT_mission_2_9_title:0 "The Blood of Tokhtamysh"
+EDG_LIT_mission_2_9_desc:0 "Since the Great Khan Tokhtamysh met his demise, the once-mighty Golden Horde that straddled Eurasia has now been reduced to a gasping lamb awaiting slaughter, fighting over mere pasturelands. It is hard to imagine these Tatars were once the direct descendants of one of history's greatest conquerors. If the Mongols have forgotten who the greatest conqueror is, we can now help them recall how the Khwarezmian Empire was drowned beneath waves of cavalry."
+
+EDG_LIT_mission_2_11_title:0 "Registered Cossacks"
+EDG_LIT_mission_2_11_desc:0 "For us, those Cossacks truly are a double-edged sword. On one hand, they are undoubtedly Europa's finest light cavalry—before the Cossacks' lances, sabers, and steeds, any infantry is sent to hell with skill and elegance. But at the same time, the Cossacks are also the most undisciplined of men, often disregarding military orders for the lure of plunder. The newly enacted Registered Cossack system requires Cossacks to register on the ruler's rolls, allowing the government to control their scope of activity and numbers. This means they must obey government commands and assignments, participate in government-organized military campaigns, and pay taxes. Simultaneously, the government will grant them certain military and administrative privileges to encourage them to serve the Empire's interests."
+
+EDG_LIT_mission_2_12_title:0 "Standing Foreign Legion"
+EDG_LIT_mission_2_12_desc:0 "The Standing Foreign Legion in service to Lithuania is a force composed of elite soldiers from various nations. They form a crucial part of Lithuania's defense, aimed at supporting the nation's security and stability. This legion consists of rigorously selected and trained soldiers, possessing exceptional combat skills and rich operational experience. Whether in maintaining domestic security or participating in international peacekeeping and stability operations, the Standing Foreign Legion plays a vital role. Renowned for their loyalty, bravery, and professionalism, they strive tirelessly for the safety and well-being of the Lithuanian people."
+
+EDG_LIT_mission_2_13_title:0 "Military Census"
+EDG_LIT_mission_2_13_desc:0 "Due to the extensive recruitment of troops speaking diverse languages, the Lithuanians have conducted a military census aimed at clarifying command relationships. This census seeks to ensure effective communication and cooperation among forces of different linguistic and cultural backgrounds to guarantee the smooth execution of military operations. By reviewing and adjusting the internal organizational structure, communication procedures, and chain of command, the Lithuanian military is committed to establishing a more efficient and unified command system. This addresses the potential challenges posed by multilingual troops and ensures that the defense forces can respond optimally to any threat."
+
+EDG_LIT_mission_2_14_title:0 "Quarterly Troops"
+EDG_LIT_mission_2_14_desc:0 "We classify the conscripted inhabitants of the frontier regions into two categories: 'Quarterly Troops' and 'Annual Troops'. Quarterly Troops refer to those levied for military service only during specific seasons each year (typically summer), primarily responsible for the defense of border areas and patrol duties. Annual Troops, on the other hand, are in a state of military service year-round, tasked with broader military missions and combat operations. The establishment of the Quarterly Troops system allows the Lithuanian government to effectively utilize the human resources of the frontier regions and promptly respond to security threats along the borders. It also provides frontier inhabitants with an opportunity to participate in national security affairs, enhancing their sense of belonging and responsibility towards the state."
+
+EDG_LIT_mission_2_15_title:0 "A Lifetime of Campaigns"
+EDG_LIT_mission_2_15_desc:0 "No matter how long a jackal mingles among sheep, it never forgets to bare its innate fangs. A steadfast warrior does not lose himself in the lap of luxury like a Hannibal besotted with wine and women. His sword is ever at his side, his spirit immortal as bedrock. This is the creed of us Lithuanians: to sever the heads of our enemies in a lifetime of campaigns. Wherever the war drums sound in the distance, there the Lithuanian stands, a warrior."
+
+EDG_LIT_mission_2_17_title:0 "Develop Ruthenia"
+EDG_LIT_mission_2_17_desc:0 "The underdevelopment of the Ruthenian region has surpassed our previous expectations. A vast plain that cannot be transformed into boundless fertile fields would betray the blood shed by generations of Lithuanian ancestors defending this land. Countless people from across Europe, speaking with diverse accents, come with their families to Ruthenia, favored by fate. They will use their sweat and labor to turn the wilderness into rich soil."
+
+EDG_LIT_mission_2_18_title:0 "The Little Father of the People"
+EDG_LIT_mission_2_18_desc:0 ""
+
+EDG_LIT_mission_3_2_title:0 "Son of Vytautas"
+EDG_LIT_mission_3_2_desc:0 "The life of Vytautas may well be a microcosm of Lithuania. He was both a war hero who crushed the Livonian Order at the Battle of Saule, and a lifelong rival of King Mindaugas. Lithuania has long been considered synonymous with isolation and internal strife, but Lithuania will not fall into the same river twice."
+EDG_LIT_mission_3_2.condition.tt:0 "Disaster §RThe Shattered Crown§! has ended"
+
+EDG_LIT_mission_3_3_title:0 "Seize Volhynia"
+EDG_LIT_mission_3_3_desc:0 "Volhynia lies directly south of Lithuania. This fertile land was once part of Kievan Rus' but is now ruled by haughty boyars. For the Grand Duke of Lithuania, reclaiming Volhynia is not just about territorial expansion; it is also about driving a wedge between Poland and Rus', opening the path for southern campaigns. The Grand Duke has begun secretly assembling his army, preparing for a sudden strike against Volhynia. This war will be a severe test for the Lithuanian army, but the Grand Duke firmly believes that as long as the army is united, nothing can stop their advance."
+
+EDG_LIT_mission_3_5_title:0 "Rule Kiev"
+EDG_LIT_mission_3_5_desc:0 "If Rome is the heart of the Catholic world, then Kiev is the Mother of Cities for the Rus'. However, as the tide of history rolled on, Kiev's power and influence gradually waned, leaving a legacy of chaos and division. In the fractured lands of Eastern Europe, Lithuania's rise became a bright spot on the historical stage. Lithuania's conquerors, with their fearlessness and resolve, turned their gaze upon this ancient and glorious city. With formidable military strength and wise strategy, they incorporated it into Lithuania's grand realm."
+
+EDG_LIT_mission_3_6_title:0 "Grand Duke of Ruthenia"
+EDG_LIT_mission_3_6_desc:0 "The former principalities of Kievan Rus' have utterly vanished like smoke before the Mongol hordes. As the empire created by the Khans on horseback crumbled, the Kievan Rus' region plunged into prolonged fragmentation. Even the glory and unity of Kievan Rus' have been continuously forgotten in the torrent of time. Yet, to the world's astonishment, it was a Lithuanian who achieved the great unification of Kievan Rus'. Courtiers and nobles have successively petitioned, hoping to honor our Grand Duke of Lithuania as the Grand Duke of All Ruthenia."
+
+EDG_LIT_mission_3_7_title:0 "Destroy Moscow"
+EDG_LIT_mission_3_7_desc:0 "That city by the Moskva River, bearing the river's name, has already been severely weakened by civil war. Evidently, this is the perfect time for us to conquer her. Like a jewel embedded in the earth, Moscow is the pearl of Eastern Europe, the dreamland of countless ambitious men and conquerors. Amidst the fires of civil war, Moscow has suffered great wounds; her defenses totter, her people's hearts are scattered, and disorder reigns. In this chaotic land, the Lithuanians see an opportunity for conquest. Their ambitions soar high, determined to seize control of this city. Thus, in the light of dawn, Lithuania's warriors raise their battle standards and march to the field. They carry passion in their hearts, dreaming of toppling Moscow's walls and drawing her into their embrace. Their swords gleam with resolute light, their shields guard fearless conviction. Before them lies the path to glory and victory, the birth of a great nation, a new chapter for the lands of Eastern Europe. Moscow is no longer a distant legend, but the land of victory they are destined to conquer."
+
+EDG_LIT_mission_3_9_title:0 "Invade Germania"
+EDG_LIT_mission_3_9_desc:0 "In the eyes of the Germans to the west, Eastern Europe is seen as a land of barbarians, incomparable to the empires built by steadfast Germanic nobility. However, Lithuania's warriors, filled with lofty aspirations, dare to challenge this notion. Bearing grand designs, they advance towards the western frontier. Fearless, they dream of conquering the lands of the Holy Roman Empire, etching them onto Lithuania's map. In their vision, the cities of the West will bow to Lithuanian rule, and the states of the Holy Roman Empire will swear fealty. This is a magnificent campaign. Amidst blazing warfare, the Lithuanians will write their epic of glory with unwavering will and fearless courage, bringing new radiance and splendor to the lands of Eastern Europe."
+
+EDG_LIT_mission_3_10_title:0 "Lithuanian Hegemony"
+EDG_LIT_mission_3_10_desc:0 "There was a time when Lithuania was but a minor state on the world's periphery, nearly forgotten by the world. Yet today, the Lithuanians have achieved a conquest that can be called a miracle. Even the great Macedonian conqueror Alexander did not rule over such vast populations speaking different tongues. But Lithuania, with its all-encompassing tolerance, has accomplished just that. Lithuanian hegemony..."
+
+EDG_LIT_mission_3_11_title:0 "The Casimir Code"
+EDG_LIT_mission_3_11_desc:0 "In Lithuania's past, even laws carved in stone were often mere empty words. The High Dukes of Lithuania did as they pleased within their domains; their word was divine decree in the eyes of the peasants. As for their lords' lords, to the peasants they might as well have been mythical figures like Adam and Eve. We need to promulgate a new code to clear away the chaos accumulated over centuries."
+EDG_LIT_mission_3_11.effect.tt:0 "Abolishes the §YHigh Ducal System§!\n\n§YNobility§! will be renamed to §YJynys§!\n"
+
+EDG_LIT_mission_3_12_title:0 "Court Reforms"
+EDG_LIT_mission_3_12_desc:0 "Vague court offices have caused us great trouble. The court serving the personal needs of the lord has increasingly proven inadequate for governing a state. Lithuanians urgently need to learn how to transform from a lord's fiefdom into a true nation."
+
+EDG_LIT_mission_3_14_title:0 "Regional Conscription" # Regional Conscription System
+EDG_LIT_mission_3_14_desc:0 "Lithuania's population mobility has brought endless trouble to our conscription departments. By the time conscription orders reach local areas, they often encounter the embarrassing situation of 'no such person found.' Meanwhile, foreign nationals arriving in Lithuania, having no records in the registers, cannot 'serve Lithuania.' Therefore, Lithuania has enacted the Regional Conscription Law, raising conscription quotas to the regional level rather than targeting specific individuals. As for whom they manage to conscript? That's another matter."
+
+EDG_LIT_mission_3_16_title:0 "The Legacy of Rurik"
+EDG_LIT_mission_3_16_desc:0 ""
+
+EDG_LIT_mission_3_18_title:0 "Crush the Tatars Utterly"
+EDG_LIT_mission_3_18_desc:0 "Batu scourged the lands of Eastern Europe like Satan, and the Lithuanians shall save this land like angels. The rise of the Golden Horde brought endless enslavement, fear, and suffering to Eastern Europe; the iron hooves of Genghis Khan's descendants swept across, bringing war and destruction. However, Lithuania's warriors are determined not to let this land remain forever in darkness. They rose in resistance, stepping forward to end the legacy of the Golden Horde with formidable will and martial strength."
+
+EDG_LIT_mission_3_19_title:0 "Beyond Doubt"
+EDG_LIT_mission_3_19_desc:0 ""
+
+EDG_LIT_mission_3_20_title:0 "The Land Has No End"
+EDG_LIT_mission_3_20_desc:0 ""
+
+EDG_LIT_mission_4_1_title:0 "The Choice of Faith"
+EDG_LIT_mission_4_1_desc:0 "As the last European nation to embrace the teachings of Jesus Christ, Catholic sacraments among the Lithuanian folk are often intermingled with pagan cultures. This phenomenon stems from Lithuania's long and diverse religious history, as well as its pre-Christian pagan traditions. Although Lithuania formally accepted Christianity in the late 14th century, traces of folk beliefs persist to this day. In the lives of many Lithuanians, Catholic doctrine intertwines with traditional pagan beliefs, forming a unique religious and cultural landscape. For example, during certain religious festivals and rituals, people may participate in both Catholic sacraments and traditional pagan ceremonies to seek divine protection and favor. This vacillating attitude towards faith reflects the Lithuanians' inclusivity and openness towards religion, as well as their cherishing and preservation of traditional culture. In such a religious environment, the Lithuanian people retain memories and respect for the past while also embracing the new faith brought by Christianity, resulting in a distinct and multifaceted religious character."
+EDG_LIT_mission_4_1.condition.tt:0 "Event §YThe Pope's Proposal§! has fired"
+
+EDG_LIT_mission_4_3_title:0 "The Battle of Saule"
+EDG_LIT_mission_4_3_desc:0 "In the ancient legends blending history and myth, the Battle of Saule represents the pinnacle of Grand Duke Vytautas's life. The Livonian Order was left half-crippled by the Lithuanian maces; the Sword Brethren of Livonia should be ashamed of their rusted weapons. Those desperados groveled to their brethren, the Teutonic Order, merely to survive until today. Now is the time to bring Livonia under our rule."
+
+EDG_LIT_mission_4_4_title:0 "Sword and Scepter"
+EDG_LIT_mission_4_4_desc:0 "For many, the distance from Vilnius to Rome is farther than that from birth to death. Peasants bound to the land may never cross Lithuania's borders in their lifetime. In Rome, the presence of Lithuanians might be less noticeable than a Cardinal's newly acquired, splendid mastiff. However, as we solidify our footing in Eastern Europe, the Pope urgently needs our loyalty to defend against heresy and Mongol incursions. They have extended an olive branch to us; now the initiative lies in our hands."
+
+EDG_LIT_mission_4_5_title:0 "The Ruthenian Church"
+EDG_LIT_mission_4_5_desc:0 "Although the Pope in Rome is, in theory, the universal head of the Catholic Church, for obvious reasons, the Lithuanian Church, while unwavering in its religious allegiance, still retains considerable autonomy. Many clergy desire both the transcendent status akin to that of the Catholic Church and the freedom from guidance by a so-called universal patriarch, similar to the Orthodox Church. These Ruthenian bishops have privately formed an organization known as the Ruthenian Church. Any efforts to interfere with Lithuania on religious grounds will prove to be overreaching."
+
+EDG_LIT_mission_4_7_title:0 "Invade Moldavia"
+EDG_LIT_mission_4_7_desc:0 "Compared to crossing the Carpathian Mountains, descending along the low-lying Moravian Plain is clearly an easier approach. The Moldavians have always been lacking in ambition, occupying the most fertile lands yet achieving little. However, their indolence provides us with the best means to reach into the Balkans."
+
+EDG_LIT_mission_4_8_title:0 "Protect Romania"
+EDG_LIT_mission_4_8_desc:0 "Although the Romanians' claims to the Roman Empire are quite laughable, incorporating Wallachia and Transylvania into Lithuania's domain is currently a pressing priority. Of course, we are not concerned about whether the Wallachians are oppressed by the Bulgarians. Controlling Romania will not only provide a springboard for attacking the Eternal City but also curb any eastward expansion attempts by the Magyars and Germans."
+
+EDG_LIT_mission_4_9_title:0 "Conquer the Carpathians"
+EDG_LIT_mission_4_9_desc:0 "No matter how high the Carpathian Mountains are, the Lithuanians can level them. This statement is not merely an expression of bold ambition but a symbol of the Lithuanians' invincible conviction. In the long history of Eastern Europe, Hungary has always been a tough nut to crack, a seemingly insurmountable peak. Yet the Lithuanian people have never faltered; they advance with unparalleled courage and determination."
+
+EDG_LIT_mission_4_11_title:0 "Immigration & Reclamation" # Immigration and Land Reclamation
+EDG_LIT_mission_4_11_desc:0 "‘All who come here may till the wasteland; all may become our people.’ These few words are all that those coming to Lithuania need to rely upon."
+
+EDG_LIT_mission_4_12_title:0 "Magdeburg Law"
+EDG_LIT_mission_4_12_desc:0 "Lithuania urgently needs to recast its commercial system to ensure its vitality. Therefore, we selectively adopted the Magdeburg Law from the Germans, adding a touch of Lithuanian interpretation—including the absorption of more immigrants. After continuous revisions, Lithuania's Magdeburg Law has become a more refined legal code than in its place of origin."
+
+EDG_LIT_mission_4_13_title:0 "Universal Values"
+EDG_LIT_mission_4_13_desc:0 "‘Regardless of your faith, you are equal before God.’"
+
+EDG_LIT_mission_4_14_title:0 "University of Vilnius"
+EDG_LIT_mission_4_14_desc:0 "Science and technology are the primary productive forces. Having witnessed how cities in Western Europa earn substantial gold and silver from Lithuanians by producing exotic handicrafts, the Lithuanian government decided to gather the nation's foremost scientific minds in Vilnius to establish a University of Vilnius, modeled after Aristotle's Lyceum."
+
+EDG_LIT_mission_4_15_title:0 "Industry and Westernization"
+EDG_LIT_mission_4_15_desc:0 "The Lithuanians have endured hardship for centuries. When the Roman Empire shone brightly, Lithuanians left no historical records; when Charlemagne and his descendants dominated Europe, Lithuanians were undeniably barbarians. Lithuania's development lagged from the very start. Time waits for no one; we must shatter the history of centuries of hardship."
+
+EDG_LIT_mission_4_17_title:0 "Conquer Constantinople"
+EDG_LIT_mission_4_17_desc:0 "New Rome—the Mother of Cities—the final witness to the Roman Empire's decline. This city, standing between Europa and Asia, was the center of the world in the Middle Ages, the convergence point of all trade routes, to which all glory belonged. If we cannot seize this city, we cannot claim to be the guardians of the Balkans."
+
+EDG_LIT_mission_4_18_title:0 "Giant of Europe"
+EDG_LIT_mission_4_18_desc:0 ""
+
+EDG_LIT_mission_5_2_title:0 "Religious Stance"
+EDG_LIT_mission_5_2_desc:0 "Lithuania was the last nation in continental Europa to accept Christian baptism. When the Grand Duke of Lithuania married Jadwiga from Poland, the Lithuanians, who once revered the altars of Romuva, slowly waded into the gently flowing waters. But Lithuania is too remote and isolated for Rome; not a single Lithuanian Cardinal has ever participated in a Papal election. In matters of religious faith, the Lithuanians remain indecisive."
+
+EDG_LIT_mission_5_3_title:0 "The Battle of Grunwald"
+EDG_LIT_mission_5_3_desc:0 "From its inception, the Teutonic Order in the West became the vanguard of German aggression against Lithuania. They acted under God's banner, yet their hearts harbored only the desire to drive Lithuanians from their ancestral lands and claim them for themselves. The blood spilled on the fields of Grunwald, or Tannenberg, has not yet been completely washed away by rain. The day we were baptized, the so-called Teutonic Order lost its reason for existence. They must and can only be destroyed."
+
+EDG_LIT_mission_5_5_title:0 "Religious Leader"
+EDG_LIT_mission_5_5_desc:0 "The Lithuanians face a significant choice. As Lithuania emerges from chaos into a new era, an increasing number of exiles from neighboring countries pour into its territory. Diverse individuals bring a tumult of languages and ideas. We need to prudently decide our religious policy, for it may influence Lithuania's destiny for a century."
+
+EDG_LIT_mission_5_7_title:0 "Intervene in Poland"
+EDG_LIT_mission_5_7_desc:0 "The Kingdom of Poland met its end amid clamor and disintegration. While we took the opportunity to conquer Poland's eastern border provinces, countless Poles hoped our Grand Duchy of Lithuania would shelter them from war and the Hussite heresy. A weakened Poland provides us with the perfect window for westward expansion. Should the Poles reunite towards victory, we would once again fall under the shadow of a powerful neighbor."
+EDG_LIT_mission_5_5.effect.tt:0 "If @POL§Y[POL.GetName]§! exists, we gain a §YCasus Belli§! on @POL§Y[POL.GetName]§! for §TReestablishing the Personal Union§!\n"
+
+EDG_LIT_mission_5_9_title:0 "Manipulate the Electoral Sejm"
+EDG_LIT_mission_5_9_desc:0 "At this unique historical moment, the Grand Duchy of Lithuania demonstrates its boundless potential as a powerful and noble state. With steadfast conviction and unyielding will, they have inaugurated a new era, injecting fresh vitality and hope into the prosperity and development of Eastern Europe. On these lands just ravaged by war, the Unionist faction sings a hymn of victory, celebrating the arrival of a new ruler. Grateful for the Grand Duke's favor, they are willing to join him in building a strong and prosperous Kingdom of Poland."
+EDG_LIT_mission_5_9.effct.tt:0 "Allows us to §TForm Early§! @PLC§YThe Polish-Lithuanian Commonwealth§!\n"
+
+EDG_LIT_mission_5_10_title:0 "Constitution of May 3" # The Constitution of May 3
+EDG_LIT_mission_5_10_desc:0 "The Constitution of May 3 was initially intended to address the longstanding deficiencies of the Polish-Lithuanian Commonwealth and its traditional political system, the Nobles' Democracy. The Constitution proposed equal political rights between the bourgeoisie and the nobility (known in Poland as the "Szlachta") and placed peasants under government protection, thus mitigating the abuse of serfs. The Constitution also abolished harmful institutions like the Liberum Veto. The Liberum Veto, for example, rendered the Sejm powerless against dissenting opinions or legislators bribed by interested parties or foreign powers, making it impossible to curb unlawful actions."
+
+EDG_LIT_mission_5_11_title:0 "Florentine Thought"
+EDG_LIT_mission_5_11_desc:0 "The Renaissance-era 'Odrodzenie (Rebirth)' thought entered Poland in the early 16th century. King Sigismund's marriage to Bona Sforza, daughter of the Duke of Milan, was one of the events that helped foster this new intellectual current in Poland. Under the Queen's influence, many Renaissance artists were invited from Italy to Poland, bringing new ideas to the lands of Lithuania as well."
+
+EDG_LIT_mission_5_12_title:0 "Religious Immigration"
+EDG_LIT_mission_5_12_desc:0 "On the soil of Lithuania, Catholicism, Protestantism, and Orthodoxy are like a multicolored beam of light, interweaving and jointly illuminating this sacred land. In this religiously diverse nation, people of all faiths come together to build a harmonious and hopeful religious community. In Lithuania's churches, the air is filled with devout prayers and sweet hymns. Catholic and Protestant believers join hands, hearts full of gratitude, offering reverent prayers to God. Meanwhile, Orthodox followers express their awe and love for God through sacred and solemn rituals. They adhere to ancient and mystical doctrines, immersing their pious souls in holy ceremonies, feeling the power and wisdom of the divine."
+
+EDG_LIT_mission_5_14_title:0 "Cultural Melting Pot"
+EDG_LIT_mission_5_14_desc:0 "Lithuania, a nation situated on the eastern shore of the Baltic Sea, carries endless layers of history and cultural sedimentation. In this mysterious and captivating land, Eastern and Western cultures converge and fuse, creating a unique and charming Lithuanian soul. Strolling through Lithuania's streets and alleys, you will find ancient castles and churches bearing witness to the land's glorious past. Old legends are softly whispered by the wind, and folk art quietly blooms in corners."
+EDG_LIT_mission_5_14.condition.tt:0 "Has accepted at least §G20§! §YCultures§!"
+
+EDG_LIT_mission_5_17_title:0 "The Grey Tide"
+EDG_LIT_mission_5_17_desc:0 ""

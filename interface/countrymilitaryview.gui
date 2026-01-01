@@ -3627,7 +3627,7 @@ guiTypes = {
 
 		windowType = {
 			name = "BYZ_mil_panel_window"
-			position = { x=-567 y=310 }
+			position = { x=-567 y=320 }
 			# show_position = { x=0 y =140 }
 			# hide_position = { x=0 y =0 }
 			# animation_type = "decelerated"
@@ -3801,7 +3801,7 @@ guiTypes = {
 			
 			guiButtonType = {
 				name = "EDG_refresh_mil_panel_button"
-				position = { x = 685 y = 518 }
+				position = { x = 685 y = 508 } # position = { x = 685 y = 518 }
 				quadTextureSprite ="GFX_button_reset_shortcuts"
 				scripted = yes
 			}

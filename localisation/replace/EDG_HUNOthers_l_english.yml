@@ -1,0 +1,32 @@
+﻿l_english:
+EDG_HUN_fire_faraway:0 "Distant Fires"
+desc_EDG_HUN_fire_faraway:0 ""
+EDG_HUN_mil_tradition:0 "Military Tradition"
+desc_EDG_HUN_mil_tradition:0 ""
+EDG_HUN_strong_government:0 "Strong Government"
+desc_EDG_HUN_strong_government:0 ""
+EDG_HUN_recovery_of_estate:0 "Recover the Patrimony"
+desc_EDG_HUN_recovery_of_estate:0 ""
+EDG_HUN_wing_cavalry_tactics:0 "Winged Hussar Tactics"
+desc_EDG_HUN_wing_cavalry_tactics:0 ""
+EDG_HUN_black_legion:0 "Black Legion"
+desc_EDG_HUN_black_legion:0 ""
+EDG_HUN_patrons_of_art:0 "Flourishing Arts and Culture"
+desc_EDG_HUN_patrons_of_art:0 ""
+EDG_HUN_rule_the_balkans:0 "Rule the Balkans"
+desc_EDG_HUN_rule_the_balkans:0 ""
+
+EDG_apostolic_kingdom:0 "Apostolic Kingdom"
+EDG_apostolic_kingdom_desc:0 ""
+EDG_extend_the_crown:0 "Extend Noble Estates"
+EDG_extend_the_crown_desc:0 ""
+
+ability_EDG_HUN_crown_prominence_mechanic:0 "§OCrown Prominence§!"
+EDG_HUN_crown_prominence_mechanic:0 "§OCrown Prominence§!"
+EDG_HUN_crown_prominence:0 "§OCrown Prominence§!"
+EDG_HUN_crown_prominence_desc:0 "§OCrown Prominence§! will be §Gincreased§! by the following factors:\n§G+0.05§!—Being a §YGreat Power§!\n§G+0.05§!—Being in a §YGolden Age§!\n§G+0.1§!—Having §Y100§! §YPower Projection§!\n§G+0.1§!—Having §Y100§! §YPrestige§!\n§G+0.05§!—Having §Y100§! §YLegitimacy§!\n\n§OCrown Prominence§! will be §Rreduced§! by the following factors:\n-§RHigh Corruption§!\n-§RHigh Provincial Autonomy§!\n-§ROver Administrative Capacity§!\n-§RHigh Inflation§!\n\nFurthermore, each §Tsubject§! will grant us a §Y+0.05§! bonus to §OCrown Prominence§!, with a maximum of §Y20§! subjects being counted."
+EDG_HUN_crown_prominence_gain_modifier:0 "Modifier from §OCrown Prominence§!"
+monthly_EDG_HUN_crown_prominence:0 "Monthly §OCrown Prominence§!"
+
+EDG_carpathian_slovakia:0 "Slovakia"
+

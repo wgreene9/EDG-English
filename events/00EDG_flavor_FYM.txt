@@ -1,0 +1,3963 @@
+namespace = EDG_flavor_FYM
+normal_or_historical_nations = yes
+
+country_event = {#征收奴隶
+  id = EDG_flavor_FYM.0
+  title = "EDG_flavor_FYM.0.title"
+  desc = "EDG_flavor_FYM.0.desc"
+	picture = ADVISOR_eventPicture
+	is_triggered_only = yes
+  trigger = {
+    NOT = { has_country_flag = EDG_EDG_flavor_FYM_0_bb_flag }
+    has_government_attribute = EDG_enable_create_slave_ability
+  }
+  immediate = {
+    #算奴隶
+    hidden_effect = {
+      set_variable = {
+        which = EDG_EDG_flavor_FYM_0_value
+        value = 1
+      }
+      every_province = {
+        limit = {
+          trade_goods = slaves
+          owned_by = ROOT
+        }
+        ROOT = {
+          change_variable = {
+            which = EDG_EDG_flavor_FYM_0_value
+            value = 1
+          }
+        }
+      }
+      every_province = {
+        limit = {
+          trade_goods = slaves
+          owner = {
+            is_subject_of = ROOT
+            is_subject_of_type = EDG_FYM_slave_vassal
+          }
+        }
+        ROOT = {
+          change_variable = {
+            which = EDG_EDG_flavor_FYM_0_value
+            value = 2
+          }
+        }
+      }
+    }
+    #加政府条
+    hidden_effect = {
+      set_variable = {
+        which = EDG_EDG_flavor_FYM_0_value_view
+        which = EDG_EDG_flavor_FYM_0_value
+      }
+      while = {
+        limit = {
+          check_variable = {
+            which = EDG_EDG_flavor_FYM_0_value
+            value = 1
+          }
+        }
+        change_variable = {
+          which = EDG_EDG_flavor_FYM_0_value
+          value = -1
+        }
+        add_government_power = {
+          mechanic_type = EDG_FYM_Monarchy_ability_3
+          power_type = EDG_FYM_Monarchy_power_3
+          value = 1
+        }
+      }
+    }
+  }
+  
+	mean_time_to_happen = {
+    
+	}
+	option = {#大丰收。
+		name = "EDG_flavor_FYM.0.aa"
+    custom_tooltip = EDG_flavor_FYM_0_a_tt
+  }
+	option = {#不要再通知我。
+		name = "EDG_flavor_FYM.0.bb"
+    custom_tooltip = EDG_flavor_FYM_0_a_tt
+    
+    set_country_flag = EDG_EDG_flavor_FYM_0_bb_flag
+    custom_tooltip = EDG_EDG_flavor_FYM_0_bb_flag_tt
+  }
+
+
+}
+country_event = {#征收奴隶
+  id = EDG_flavor_FYM.1000
+  title = "EDG_flavor_FYM.0.title"
+  desc = "EDG_flavor_FYM.0.desc"
+	picture = ADVISOR_eventPicture
+	is_triggered_only = yes
+  hidden = yes
+  trigger = {
+    has_country_flag = EDG_EDG_flavor_FYM_0_bb_flag
+    has_government_attribute = EDG_enable_create_slave_ability
+  }
+  immediate = {
+    #算奴隶
+    hidden_effect = {
+      set_variable = {
+        which = EDG_EDG_flavor_FYM_0_value
+        value = 1
+      }
+      every_province = {
+        limit = {
+          trade_goods = slaves
+          owned_by = ROOT
+        }
+        ROOT = {
+          change_variable = {
+            which = EDG_EDG_flavor_FYM_0_value
+            value = 1
+          }
+        }
+      }
+      every_province = {
+        limit = {
+          trade_goods = slaves
+          owner = {
+            is_subject_of = ROOT
+            is_subject_of_type = EDG_FYM_slave_vassal
+          }
+        }
+        ROOT = {
+          change_variable = {
+            which = EDG_EDG_flavor_FYM_0_value
+            value = 2
+          }
+        }
+      }
+    }
+    #加政府条
+    hidden_effect = {
+      set_variable = {
+        which = EDG_EDG_flavor_FYM_0_value_view
+        which = EDG_EDG_flavor_FYM_0_value
+      }
+      while = {
+        limit = {
+          check_variable = {
+            which = EDG_EDG_flavor_FYM_0_value
+            value = 1
+          }
+        }
+        change_variable = {
+          which = EDG_EDG_flavor_FYM_0_value
+          value = -1
+        }
+        add_government_power = {
+          mechanic_type = EDG_FYM_Monarchy_ability_3
+          power_type = EDG_FYM_Monarchy_power_3
+          value = 1
+        }
+      }
+    }
+  }
+  
+	mean_time_to_happen = {
+    
+	}
+	option = {#大丰收。
+		name = "EDG_flavor_FYM.0.aa"
+
+  }
+
+}
+
+country_event = {#[From.GetName]请求购买奴隶
+  id = EDG_flavor_FYM.1001
+  title = "EDG_flavor_FYM.1001.title"
+  desc = "EDG_flavor_FYM.1001.desc"
+	picture = BUCCANEERS_eventPicture
+	is_triggered_only = yes
+  trigger = {
+    
+  }
+  immediate = {
+    
+  }
+  
+	option = {#我们乐意出售我们的奴隶！
+		name = "EDG_flavor_FYM.1001.aa"
+    ai_chance = {
+      factor = 100
+    }
+    from = { country_event = { id = EDG_flavor_FYM.1002 } }
+    custom_tooltip = EDG_flavor_FYM_1001_aa_tt
+    random_owned_province = {
+      limit = {
+				NOT = { culture_group = from }
+				NOT = { religion_group = from }
+				trade_goods = slaves
+      }
+      add_devastation = 10
+    }
+
+	}
+	option = {#我们才不干。
+		name = "EDG_flavor_FYM.1001.bb"
+    ai_chance = {
+      factor = 0
+    }
+
+	}
+
+}
+country_event = {#[From.GetName]同意出售奴隶
+  id = EDG_flavor_FYM.1002
+  title = "EDG_flavor_FYM.1002.title"
+  desc = "EDG_flavor_FYM.1002.desc"
+	picture = BUCCANEERS_eventPicture
+	is_triggered_only = yes
+  trigger = {
+    
+  }
+  immediate = {
+    hidden_effect = {
+			export_to_variable = {
+				which = money_to_transfer
+				value = years_of_income
+				who = From
+			}
+			multiply_variable = {
+				which = money_to_transfer
+				value = 1
+			}
+			set_variable = {
+				which = money_to_transfer_info
+				which = money_to_transfer
+			}
+      set_variable = {
+        which = EDG_EDG_flavor_FYM_1002_value
+        value = 0
+      }
+
+      from = {
+        every_owned_province = {
+          limit = {
+            trade_goods = slaves
+          }
+          ROOT = {
+            change_variable = {
+              which = EDG_EDG_flavor_FYM_1002_value
+              value = 3
+            }
+          }
+        }
+
+      }
+    }
+    #加政府条
+    hidden_effect = {
+      set_variable = {
+        which = EDG_EDG_flavor_FYM_0_value
+        which = EDG_EDG_flavor_FYM_1002_value
+      }
+      while = {
+        limit = {
+          check_variable = {
+            which = EDG_EDG_flavor_FYM_0_value
+            value = 1
+          }
+        }
+        change_variable = {
+          which = EDG_EDG_flavor_FYM_0_value
+          value = -1
+        }
+        add_government_power = {
+          mechanic_type = EDG_FYM_Monarchy_ability_3
+          power_type = EDG_FYM_Monarchy_power_3
+          value = 1
+        }
+      }
+    }
+  }
+  
+	mean_time_to_happen = {
+    
+	}
+	option = {#太好了！
+		name = "EDG_flavor_FYM.1002.aa"
+    custom_tooltip = EDG_flavor_FYM_1002_aa_tt
+    transfer_treasury = {
+		  custom_tooltip = flavor_rus.295.a.tt
+      giver = ROOT
+      taker = FROM
+      variable = money_to_transfer
+    }
+	}
+
+}
+
+
+
+country_event = {#委任行政官员
+  id = EDG_flavor_FYM.1
+  title = "EDG_flavor_FYM.1.title"
+  desc = "EDG_flavor_FYM.1.desc"
+	picture = ADVISOR_eventPicture
+	is_triggered_only = yes
+  trigger = {
+    
+  }
+  immediate = {
+    
+  }
+  
+	mean_time_to_happen = {
+    
+	}
+	option = {#我们没什么可做的。
+		name = "EDG_flavor_FYM_1_nope"
+    if = {
+      limit = { not = { has_country_flag = EDG_FYM_Monarchy_interactions_1_power_free_flag } }
+      add_adm_power = 25
+    }
+	}
+	option = {#秘书长(dawādār kabīr)
+		name = "EDG_flavor_FYM.1.aa"
+    trigger = { NOT = { has_country_modifier = EDG_flavor_FYM_1_aa_modifier } has_country_flag = EDG_flavor_FYM_1_aa_flag }
+    add_adm_power = 50
+    add_country_modifier = {
+      name = EDG_flavor_FYM_1_aa_modifier
+      duration = 3650
+    }
+	}
+	option = {#检察长(kās̲h̲if al-kus̲h̲s̲h̲āf)
+		name = "EDG_flavor_FYM.1.bb"
+    trigger = { NOT = { has_country_modifier = EDG_flavor_FYM_1_bb_modifier } has_country_flag = EDG_flavor_FYM_1_bb_flag }
+    if = {
+      limit = {
+			  has_government_attribute = EDG_FYM_kushshaf_reform_ability
+      }
+      add_corruption = -2
+    }
+    define_advisor = {
+      type = procurator
+      skill = 3
+      cost_multiplier = 0.75
+      culture = ROOT
+    }
+    add_corruption = -2
+    add_country_modifier = {
+      name = EDG_flavor_FYM_1_bb_modifier
+      duration = 3650
+    }
+	}
+	option = {#总督(Nāʾib al-Salṭana)
+		name = "EDG_flavor_FYM.1.cc"
+    trigger = { NOT = { has_country_modifier = EDG_flavor_FYM_1_cc_modifier } }
+    
+    custom_tooltip = RUSABIL_SUDEBNIK_EFFECT_TT
+    tooltip = {
+      add_local_autonomy_no_authority_effect = -15
+    }
+    hidden_effect = {
+      every_owned_province = {
+        add_local_autonomy_no_authority_effect = -15
+      }
+    }
+    add_country_modifier = {
+      name = EDG_flavor_FYM_1_cc_modifier
+      duration = 3650
+    }
+	}
+	option = {#马穆鲁克导师(mudabbir)
+		name = "EDG_flavor_FYM.1.dd"
+    trigger = { NOT = { has_country_modifier = EDG_flavor_FYM_1_dd_modifier } }
+    
+    add_estate_loyalty_modifier = {
+      estate = estate_edg_caledonia
+      desc = VAL_HAB_BALANCED_ESTATES
+      loyalty = 20
+      duration = 7300
+    }
+    add_country_modifier = {
+      name = EDG_flavor_FYM_1_dd_modifier
+      duration = 3650
+    }
+	}
+	option = {#瓦利(Wali)
+		name = "EDG_flavor_FYM.1.ee"
+    trigger = { NOT = { has_country_modifier = EDG_flavor_FYM_1_ee_modifier } }
+    every_subject_country = {
+      add_liberty_desire = -25
+    }
+    add_country_modifier = {
+      name = EDG_flavor_FYM_1_ee_modifier
+      duration = 3650
+      hidden = yes
+    }
+  }
+  option = {#副苏丹(nāʾib al-salṭana)
+    name = "EDG_flavor_FYM.1.ff"
+    trigger = { NOT = { has_country_modifier = EDG_flavor_FYM_1_ff_modifier } }
+    add_stability_or_adm_power = yes
+    add_country_modifier = {
+      name = EDG_flavor_FYM_1_ff_modifier
+      duration = 3650
+    }
+  }
+  option = {#遗产官(kassam)
+    name = "EDG_flavor_FYM.1.gg"
+    trigger = { NOT = { has_country_modifier = EDG_flavor_FYM_1_gg_modifier } }
+    add_years_of_income = 0.3
+    add_country_modifier = {
+      name = EDG_flavor_FYM_1_gg_modifier
+      duration = 3650
+    }
+  }
+  option = {#首席财务官(Defterdar)
+    name = "EDG_flavor_FYM.1.hh"
+    trigger = { NOT = { has_country_modifier = EDG_flavor_FYM_1_hh_modifier } has_country_flag = EDG_flavor_FYM_1_hh_flag }
+    
+    define_advisor = { 
+      type = treasurer
+      cost_multiplier = 0.5
+      skill = 3 
+    }
+    add_country_modifier = {
+      name = EDG_flavor_FYM_1_hh_modifier
+      duration = 3650
+      hidden = yes
+    }
+  }
+  option = {#掌玺大臣(Nişancı)
+    name = "EDG_flavor_FYM.1.ii"
+    trigger = { NOT = { has_country_modifier = EDG_flavor_FYM_1_ii_modifier } }
+    add_government_power = {
+      mechanic_type = EDG_FYM_Monarchy_ability_2
+      power_type = EDG_FYM_Monarchy_power_2
+      value = -5
+    }
+    add_country_modifier = {
+      name = EDG_flavor_FYM_1_ii_modifier
+      duration = 3650
+    }
+  }
+  option = {#铸币官(Darphane emini)
+    name = "EDG_flavor_FYM.1.jj"
+    trigger = { NOT = { has_country_modifier = EDG_flavor_FYM_1_jj_modifier } has_country_flag = EDG_flavor_FYM_1_jj_flag }
+    add_inflation = -2
+    add_country_modifier = {
+      name = EDG_flavor_FYM_1_jj_modifier
+      duration = 3650
+    }
+  }
+  option = {#治安官(Subaşıs)
+    name = "EDG_flavor_FYM.1.kk"
+    trigger = { NOT = { has_country_modifier = EDG_flavor_FYM_1_kk_modifier } }
+    random_owned_province = {
+      limit = {
+        unrest = 5
+      }
+      add_unrest = -10
+    }
+    add_country_modifier = {
+      name = EDG_flavor_FYM_1_kk_modifier
+      duration = 3650
+    }
+  }
+  after = {
+    hidden_effect = {
+      add_country_modifier = {
+        name = EDG_flavor_FYM_1_in_10_years_modifier
+        duration = 3650
+      }
+      add_country_modifier = {
+        name = EDG_flavor_FYM_1_in_5_years_modifier
+        duration = 1825
+      }
+    }
+  }
+}
+
+country_event = {#改变[From.GetName]的权力结构
+  id = EDG_flavor_FYM.4
+  title = "EDG_flavor_FYM.4.title"
+  desc = "EDG_flavor_FYM.4.desc"
+	picture = ADVISOR_eventPicture
+	is_triggered_only = yes
+  trigger = {
+    
+  }
+  immediate = {
+    
+  }
+  
+	mean_time_to_happen = {
+    
+	}
+	option = {#委任萨哈达族裔。
+		name = "EDG_flavor_FYM.4.dd"
+    if = {
+      limit = {
+        NOT = { government = monarchy }
+      }
+			change_government = monarchy
+    }
+    FROM = {
+			add_government_reform = EDG_FYM_vassal_Agha_reform_royal
+      define_ruler = {
+        dynasty = ROOT
+        age = 30
+        claim = 95
+      }
+      define_heir = {
+        dynasty = ROOT
+        age = 15
+        claim = 95
+      }
+    }
+	}
+	option = {#委任马穆鲁克。
+		name = "EDG_flavor_FYM.4.aa"
+    trigger = {
+    }
+    if = {
+      limit = {
+        NOT = {  government = monarchy }
+      }
+			change_government = monarchy
+    }
+    FROM = {
+			add_government_reform = mamluk_government
+    }
+	}
+	option = {#委任瓦哈比宦官。
+		name = "EDG_flavor_FYM.4.bb"
+    FROM = {
+			add_government_reform = EDG_FYM_vassal_Agha_reform_wahabi
+    }
+	}
+	option = {#委任贝都因谢赫。
+		name = "EDG_flavor_FYM.4.cc"
+    FROM = {
+			add_government_reform = EDG_FYM_vassal_Agha_reform_Bedouin
+    }
+	}
+  
+
+}
+country_event = {#[From.GetName]要求改变的权力结构
+  id = EDG_flavor_FYM.5
+  title = "EDG_flavor_FYM.5.title"
+  desc = "EDG_flavor_FYM.5.desc"
+	picture = ADVISOR_eventPicture
+	is_triggered_only = yes
+  trigger = {
+    
+  }
+  immediate = {
+    Overlord = { country_event = { id = EDG_flavor_FYM.4 } }
+  }
+  
+	mean_time_to_happen = {
+    
+	}
+	option = {#好吧。
+		name = "EDG_flavor_FYM.5.aa"
+
+	}
+  
+
+}
+
+country_event = {#改变[From.GetName]的权力结构
+  id = EDG_flavor_FYM.6
+  title = "EDG_flavor_FYM.6.title"
+  desc = "EDG_flavor_FYM.6.desc"
+	picture = ADVISOR_eventPicture
+	is_triggered_only = yes
+  trigger = {
+    
+  }
+  immediate = {
+
+  }
+  
+	mean_time_to_happen = {
+    
+	}
+	option = {#我们改变主意了。
+		name = "EDG_flavor_FYM_6_0"
+		change_government_reform_progress = 10
+	}
+	option = {#轻徭薄赋
+		name = "EDG_flavor_FYM.6.aa"
+    trigger = {
+      FROM = { not = { has_country_modifier = EDG_flavor_FYM_7_a_modifier } }
+    }
+    FROM = {
+      EDG_flavor_FYM_6_remove_modifier_effect = yes
+      add_country_modifier = {
+        name = EDG_flavor_FYM_7_a_modifier
+        duration = -1
+      }
+    }
+	}
+	option = {#繁刑重赋
+		name = "EDG_flavor_FYM.6.bb"
+    trigger = {
+      FROM = { not = { has_country_modifier = EDG_flavor_FYM_7_b_modifier } }
+    }
+    FROM = {
+      EDG_flavor_FYM_6_remove_modifier_effect = yes
+      add_country_modifier = {
+        name = EDG_flavor_FYM_7_b_modifier
+        duration = -1
+      }
+    }
+	}
+	option = {#厉兵秣马
+		name = "EDG_flavor_FYM.6.cc"
+    trigger = {
+      FROM = { not = { has_country_modifier = EDG_flavor_FYM_7_c_modifier } }
+    }
+    FROM = {
+      EDG_flavor_FYM_6_remove_modifier_effect = yes
+      add_country_modifier = {
+        name = EDG_flavor_FYM_7_c_modifier
+        duration = -1
+      }
+    }
+	}
+	option = {#重商主义
+		name = "EDG_flavor_FYM.6.dd"
+    trigger = {
+      FROM = { not = { has_country_modifier = EDG_flavor_FYM_7_d_modifier } }
+    }
+    FROM = {
+      EDG_flavor_FYM_6_remove_modifier_effect = yes
+      add_country_modifier = {
+        name = EDG_flavor_FYM_7_d_modifier
+        duration = -1
+      }
+    }
+	}
+	option = {#重视生产
+		name = "EDG_flavor_FYM.6.ee"
+    trigger = {
+      FROM = { not = { has_country_modifier = EDG_flavor_FYM_7_e_modifier } }
+    }
+    FROM = {
+      EDG_flavor_FYM_6_remove_modifier_effect = yes
+      add_country_modifier = {
+        name = EDG_flavor_FYM_7_e_modifier
+        duration = -1
+      }
+    }
+	}
+	option = {#边区卫戍
+		name = "EDG_flavor_FYM.6.ff"
+    trigger = {
+      FROM = { not = { has_country_modifier = EDG_flavor_FYM_7_f_modifier } }
+    }
+    FROM = {
+      EDG_flavor_FYM_6_remove_modifier_effect = yes
+      add_country_modifier = {
+        name = EDG_flavor_FYM_7_f_modifier
+        duration = -1
+      }
+    }
+	}
+  
+
+}
+country_event = {#[From.GetName]要求改变的国家重心
+  id = EDG_flavor_FYM.7
+  title = "EDG_flavor_FYM.7.title"
+  desc = "EDG_flavor_FYM.7.desc"
+	picture = ADVISOR_eventPicture
+	is_triggered_only = yes
+  trigger = {
+    
+  }
+  immediate = {
+    Overlord = { country_event = { id = EDG_flavor_FYM.6 } }
+  }
+  
+	mean_time_to_happen = {
+    
+	}
+	option = {#好吧。
+		name = "EDG_flavor_FYM.7.aa"
+
+	}
+  
+
+}
+
+country_event = {#萨法尔一世
+  id = EDG_flavor_FYM.8
+  title = "EDG_flavor_FYM.8.title"
+  desc = "EDG_flavor_FYM.8.desc"
+	picture = DEATH_OF_HEIR_eventPicture
+	is_triggered_only = yes
+  fire_only_once = yes
+  trigger = {
+
+  }
+  immediate = {
+
+  }
+  
+	mean_time_to_happen = {
+    
+	}
+	option = {#我知道了。
+		name = "EDG_flavor_FYM.8.aa"
+    custom_tooltip = EDG_flavor_FYM_8_aa_t
+	}
+  
+
+}
+#下面的没汉化
+
+country_event = {#扎伊德一世「拉迪-克拉法」
+  id = EDG_flavor_FYM.9
+  title = "EDG_flavor_FYM.9.title"
+  desc = "EDG_flavor_FYM.9.desc"
+	picture = DEATH_OF_HEIR_eventPicture
+	is_triggered_only = yes
+  fire_only_once = yes
+  trigger = {
+    ruler_has_personality = EDG_personality_zhayide
+    NOT = { has_country_flag = EDG_flavor_FYM_9_flag }
+  }
+  immediate = {
+    set_country_flag = EDG_flavor_FYM_9_flag
+  }
+  
+	mean_time_to_happen = {
+    
+	}
+	option = {#「拉迪-克拉法」万岁！
+		name = "EDG_flavor_FYM.9.aa"
+    add_stability_or_adm_power = yes
+    add_prestige_or_monarch_power = { amount = 20 }
+	}
+}
+country_event = {#[Root.Monarch.GetName]  #伊德里斯
+  id = EDG_flavor_FYM.10
+  title = "EDG_flavor_FYM.10.title"
+  desc = "EDG_flavor_FYM.10.desc"
+	picture = DEATH_OF_HEIR_eventPicture
+	is_triggered_only = yes
+  fire_only_once = yes
+  trigger = {
+    ruler_has_personality = EDG_personality_yidelisi
+    NOT = { has_country_flag = EDG_flavor_FYM_10_flag }
+  }
+  immediate = {
+    set_country_flag = EDG_flavor_FYM_10_flag
+  }
+  
+	mean_time_to_happen = {
+    
+	}
+	option = {#至高无上的「苏丹努斯-塞拉丁」将带领我们征服世界。
+		name = "EDG_flavor_FYM.10.aa"
+    add_army_tradition = 10
+    add_prestige_or_monarch_power = { amount = 20 }
+    hidden_effect = {
+      country_event = { id = EDG_flavor_FYM.242 days = 360 }
+      country_event = { id = EDG_flavor_FYM.243 days = 700 }
+    }
+	}
+}
+country_event = {#[Root.Monarch.GetName]  #法赫达
+  id = EDG_flavor_FYM.11
+  title = "EDG_flavor_FYM.11.title"
+  desc = "EDG_flavor_FYM.11.desc"
+	picture = DEATH_OF_HEIR_eventPicture
+	is_triggered_only = yes
+  fire_only_once = yes
+  trigger = {
+    always = no
+    ruler_has_personality = EDG_personality_faheda
+    NOT = { has_country_flag = EDG_flavor_FYM_11_flag }
+  }
+  immediate = {
+    set_country_flag = EDG_flavor_FYM_11_flag
+  }
+  
+	mean_time_to_happen = {
+    
+	}
+	option = {#帝国将得到长久的稳定。
+		name = "EDG_flavor_FYM.11.aa"
+    add_stability_or_adm_power = yes
+    add_prestige_or_monarch_power = { amount = 20 }
+	}
+}
+country_event = {#[Root.Monarch.GetName]  #海伊斯
+  id = EDG_flavor_FYM.12
+  title = "EDG_flavor_FYM.12.title"
+  desc = "EDG_flavor_FYM.12.desc"
+	picture = DEATH_OF_HEIR_eventPicture
+	is_triggered_only = yes
+  fire_only_once = yes
+  trigger = {
+    always = no
+    ruler_has_personality = EDG_personality_faheda
+    NOT = { has_country_flag = EDG_flavor_FYM_12_flag }
+  }
+  immediate = {
+    set_country_flag = EDG_flavor_FYM_12_flag
+  }
+  
+	mean_time_to_happen = {
+    
+	}
+	option = {#我们的征途并没有结束。
+		name = "EDG_flavor_FYM.12.aa"
+    add_army_tradition = 10
+    add_prestige_or_monarch_power = { amount = 20 }
+	}
+}
+country_event = {#黄昏终临
+  id = EDG_flavor_FYM.13
+  title = "EDG_flavor_FYM.13.title"
+  desc = "EDG_flavor_FYM.13.desc"
+	picture = DEATH_OF_HEIR_eventPicture
+	is_triggered_only = yes
+  fire_only_once = yes
+  trigger = {
+    NOT = { has_any_disaster = yes }
+    has_ruler_flag = EDG_FYM_ruler_1_flag
+    heir_has_personality = EDG_personality_zhayide
+  }
+  immediate = {
+    
+  }
+  
+	mean_time_to_happen = {
+    
+	}
+	option = {#夕阳终究会落下，新日终究会升起。
+		name = "EDG_flavor_FYM.13.aa"
+    kill_ruler = yes
+	}
+}
+country_event = {#孩童岂可统治萨哈达？
+  id = EDG_flavor_FYM.14
+  title = "EDG_flavor_FYM.14.title"
+  desc = "EDG_flavor_FYM.14.desc"
+	picture = DEATH_OF_HEIR_eventPicture
+	is_triggered_only = yes
+  trigger = {
+    OR = {
+      has_regency = yes
+      #is_female = yes
+    }
+    tag = FYM
+    not = { heir_has_personality = EDG_personality_zhayide }
+    not = { heir_has_personality = EDG_personality_yidelisi }
+    not = { heir_has_personality = EDG_personality_faheda }
+    not = { heir_has_personality = EDG_personality_haiyisi }
+    has_government_mechanic = EDG_FYM_Monarchy_ability
+  }
+  immediate = {
+    hidden_effect = {
+      define_ruler = {
+        culture = ROOT
+        religion = ROOT
+        dynasty = original_dynasty
+        max_random_adm = 4
+        max_random_dip = 4
+        max_random_mil = 4
+        claim = 95
+        age = 40
+      }
+		  set_ruler_flag = EDG_flavor_FYM_14_ruler_flag
+      # random_country = {
+      #   limit = {
+      #     dynasty = root
+      #     is_subject_of = root
+      #   }
+      #   set_country_flag = EDG_flavor_FYM_14_subject_ruler_country_flag
+      # }
+    }
+  }
+  
+	mean_time_to_happen = {
+    
+	}
+	option = {#[Root.Monarch.GetName]万岁！
+		name = "EDG_flavor_FYM.14.aa"
+    random_owned_province = { limit = { is_core = ROOT controlled_by = root } pretender_rebels = 2 }
+    random_owned_province = { limit = { is_core = ROOT controlled_by = root } pretender_rebels = 2 }
+    random_owned_province = { limit = { is_core = ROOT controlled_by = root } pretender_rebels = 2 }
+	}
+	option = {#应该让一名老成的萨哈达族裔践祚。
+		name = "EDG_flavor_FYM.14.dd"
+    add_stability = -1
+    define_ruler = {
+      culture = ROOT
+      religion = ROOT
+      dynasty = original_dynasty
+      claim = 95
+      age = 50
+    }
+    capital_scope = { limit = { is_core = ROOT controlled_by = root } pretender_rebels = 3 }
+    random_owned_province = { limit = { is_core = ROOT controlled_by = root } pretender_rebels = 2 }
+    random_owned_province = { limit = { is_core = ROOT controlled_by = root } pretender_rebels = 2 }
+	}
+	option = {#文官们另有人选。
+		name = "EDG_flavor_FYM.14.bb"
+    add_stability = -1
+    add_army_tradition = -10
+    add_faction_influence = {
+      faction = EDG_FYM_DIP_faction
+      influence = 10
+    }
+    add_estate_loyalty_modifier = {
+      estate = estate_church
+      desc = EDG_Favoritism_estate_loyalty_modifier
+      loyalty = 20
+      duration = 3650
+    }
+    define_ruler = {
+      culture = ROOT
+      religion = ROOT
+      dynasty = original_dynasty
+      change_adm = 1
+      max_random_mil = 4
+      claim = 95
+      age = 40
+    }
+    capital_scope = { limit = { is_core = ROOT controlled_by = root } pretender_rebels = 3 }
+    random_owned_province = { limit = { is_core = ROOT controlled_by = root } pretender_rebels = 2 }
+    random_owned_province = { limit = { is_core = ROOT controlled_by = root } pretender_rebels = 2 }
+	}
+	option = {#马穆鲁克们拥护另一位人选。
+		name = "EDG_flavor_FYM.14.ff"
+    add_stability = -1
+    add_corruption = 2
+    add_faction_influence = {
+      faction = EDG_FYM_ADM_faction
+      influence = 10
+    }
+    add_estate_loyalty_modifier = {
+      estate = estate_edg_caledonia
+      desc = EDG_Favoritism_estate_loyalty_modifier
+      loyalty = 20
+      duration = 3650
+    }
+    define_ruler = {
+      culture = ROOT
+      religion = ROOT
+      dynasty = original_dynasty
+      change_mil = 2
+      max_random_adm = 4
+      max_random_dip = 4
+      claim = 95
+      age = 40
+    }
+    capital_scope = { limit = { is_core = ROOT controlled_by = root } pretender_rebels = 3 }
+    random_owned_province = { limit = { is_core = ROOT controlled_by = root } pretender_rebels = 2 }
+    random_owned_province = { limit = { is_core = ROOT controlled_by = root } pretender_rebels = 2 }
+	}
+	option = {#地方的埃米尔和谢赫们有更青睐的君主。
+		name = "EDG_flavor_FYM.14.cc"
+    add_stability = -1
+    add_adm_power = -100
+    add_faction_influence = {
+      faction = EDG_FYM_MIL_faction
+      influence = 10
+    }
+    add_estate_loyalty_modifier = {
+      estate = estate_nobles
+      desc = EDG_Favoritism_estate_loyalty_modifier
+      loyalty = 20
+      duration = 3650
+    }
+    add_estate_loyalty_modifier = {
+      estate = estate_nomadic_tribes
+      desc = EDG_Favoritism_estate_loyalty_modifier
+      loyalty = 20
+      duration = 3650
+    }
+    define_ruler = {
+      culture = ROOT
+      religion = ROOT
+      dynasty = original_dynasty
+      change_mil = 1
+      max_random_adm = 4
+      claim = 95
+      age = 40
+    }
+    capital_scope = { limit = { is_core = ROOT controlled_by = root } pretender_rebels = 3 }
+    random_owned_province = { limit = { is_core = ROOT controlled_by = root } pretender_rebels = 2 }
+    random_owned_province = { limit = { is_core = ROOT controlled_by = root } pretender_rebels = 2 }
+	}
+	option = {#一位受科普特枢机团资助的竞争者……
+		name = "EDG_flavor_FYM.14.gg"
+    add_stability = -1
+    add_years_of_income = -1
+    add_estate_loyalty_modifier = {
+      estate = estate_edg_copt
+      desc = EDG_Favoritism_estate_loyalty_modifier
+      loyalty = 20
+      duration = 3650
+    }
+    define_ruler = {
+      culture = ROOT
+      religion = ROOT
+      dynasty = original_dynasty
+      change_adm = 1
+      change_dip = 1
+      max_random_mil = 4
+      claim = 95
+      age = 40
+    }
+    capital_scope = { limit = { is_core = ROOT controlled_by = root } pretender_rebels = 3 }
+    random_owned_province = { limit = { is_core = ROOT controlled_by = root } pretender_rebels = 2 }
+    random_owned_province = { limit = { is_core = ROOT controlled_by = root } pretender_rebels = 2 }
+	}
+	# option = {#我们应该让一名皇室总督继承大统。
+	# 	name = "EDG_flavor_FYM.14.ee"
+  #   trigger = {
+  #     any_country = {
+  #       has_country_flag = EDG_flavor_FYM_14_subject_ruler_country_flag
+  #     }
+  #   }
+  #   add_stability = -1
+  #   random_country = {
+  #     limit = {
+  #       has_country_flag = EDG_flavor_FYM_14_subject_ruler_country_flag
+  #     }
+  #     add_liberty_desire = -20
+  #     exile_heir_as = EDG_flavor_FYM_14_subject_heir
+  #     exile_ruler_as = EDG_flavor_FYM_14_subject_ruler
+  #     ROOT = {
+  #       set_ruler = EDG_flavor_FYM_14_subject_ruler
+  #       set_heir = EDG_flavor_FYM_14_subject_heir
+  #     }
+  #   }
+  #   capital_scope = { limit = { is_core = ROOT controlled_by = root } pretender_rebels = 3 }
+  #   random_owned_province = { limit = { is_core = ROOT controlled_by = root } pretender_rebels = 2 }
+  #   random_owned_province = { limit = { is_core = ROOT controlled_by = root } pretender_rebels = 2 }
+	# }
+  after = {
+    clr_ruler_flag = EDG_flavor_FYM_14_ruler_flag
+  }
+}
+country_event = {#逊尼派运动的暗流
+  id = EDG_flavor_FYM.15
+  title = "EDG_flavor_FYM.15.title"
+  desc = "EDG_flavor_FYM.15.desc"
+	picture = ADVISOR_eventPicture
+	is_triggered_only = yes
+  fire_only_once = yes
+  trigger = {
+    is_year = 1460
+    has_any_disaster = no
+    tag = FYM
+    egypt_region = {
+      owned_by = root
+    }
+  }
+  immediate = {
+    
+  }
+  
+	mean_time_to_happen = {
+    
+	}
+	option = {#我们必须有所准备……
+		name = "EDG_flavor_FYM.15.aa"
+    custom_tooltip = EDG_flavor_FYM_15_a_tt
+    egypt_region = {
+      limit = { country_or_non_sovereign_subject_holds = root }
+      add_province_modifier = {
+        name = EDG_flavor_FYM_15_a_province_modifier
+        duration = 3650
+      }
+    }
+	}
+}
+# country_event = {#犹太人请求收留
+#   id = EDG_flavor_FYM.16
+#   title = "EDG_flavor_FYM.16.title"
+#   desc = "EDG_flavor_FYM.16.desc"
+# 	picture = ECONOMY_eventPicture
+# 	is_triggered_only = yes
+#   fire_only_once = yes
+#   trigger = {
+#     tag = FYM
+#     OR = {
+#       has_any_disaster = yes
+#       is_year = 1449
+#     }
+#   }
+#   immediate = {
+    
+#   }
+  
+# 	mean_time_to_happen = {
+    
+# 	}
+# 	option = {#欢迎他们！
+# 		name = "EDG_flavor_FYM.16.aa"
+#     custom_tooltip = EDG_flavor_FYM_16_A_tt
+#     add_treasury = 1000
+#     add_country_modifier = {
+#       name = EDG_flavor_FYM_16_a_modifier
+#       duration = 9125
+#     }
+#     hidden_effect = {
+#       country_event = { id = EDG_flavor_FYM.17 days = 1400 }
+#     }
+# 	}
+# 	option = {#他们休想。
+# 		name = "EDG_flavor_FYM.16.bb"
+#     add_estate_loyalty_modifier = {
+#       estate = estate_edg_copt
+#       desc = EDG_Favoritism_estate_loyalty_modifier
+#       loyalty = 20
+#       duration = 3650
+#     }
+# 	}
+# }
+# country_event = {#加沙银行
+#   id = EDG_flavor_FYM.17
+#   title = "EDG_flavor_FYM.17.title"
+#   desc = "EDG_flavor_FYM.17.desc"
+# 	picture = ECONOMY_eventPicture
+# 	is_triggered_only = yes
+#   fire_only_once = yes
+#   trigger = {
+#     has_country_modifier = EDG_flavor_FYM_16_a_modifier
+#     tag = FYM
+#   }
+#   immediate = {
+    
+#   }
+  
+# 	mean_time_to_happen = {
+    
+# 	}
+# 	option = {#这不是挺好的吗？
+# 		name = "EDG_flavor_FYM.17.aa"
+#     custom_tooltip = EDG_flavor_FYM_16_A_tt
+#     add_treasury = 250
+#     add_country_modifier = {
+#       name = EDG_flavor_FYM_17_a_modifier
+#       duration = 9125
+#     }
+#     hidden_effect = {
+#       country_event = { id = EDG_flavor_FYM.18 days = 1400 }
+#     }
+# 	}
+# 	option = {#这不太对，把这些犹太人都赶出去。
+# 		name = "EDG_flavor_FYM.17.bb"
+#     add_treasury = -1750
+#     remove_country_modifier = EDG_flavor_FYM_16_a_modifier
+# 	}
+# }
+# country_event = {#剧毒的蜜糖
+#   id = EDG_flavor_FYM.18
+#   title = "EDG_flavor_FYM.18.title"
+#   desc = "EDG_flavor_FYM.18.desc"
+# 	picture = ECONOMY_eventPicture
+# 	is_triggered_only = yes
+#   fire_only_once = yes
+#   trigger = {
+#     has_country_modifier = EDG_flavor_FYM_16_a_modifier
+#     tag = FYM
+#   }
+#   immediate = {
+    
+#   }
+  
+# 	mean_time_to_happen = {
+    
+# 	}
+# 	option = {#该死！
+# 		name = "EDG_flavor_FYM.18.aa"
+#     custom_tooltip = EDG_flavor_FYM_18_A_tt
+#     add_treasury = -750
+#     remove_country_modifier = EDG_flavor_FYM_17_a_modifier
+#     add_country_modifier = {
+#       name = EDG_flavor_FYM_18_a_modifier
+#       duration = 9125
+#     }
+#     hidden_effect = {
+#       country_event = { id = EDG_flavor_FYM.19 days = 1400 }
+#     }
+# 	}
+  
+# }
+# country_event = {#糖衣炮弹
+#   id = EDG_flavor_FYM.19
+#   title = "EDG_flavor_FYM.19.title"
+#   desc = "EDG_flavor_FYM.19.desc"
+# 	picture = ECONOMY_eventPicture
+# 	is_triggered_only = yes
+#   fire_only_once = yes
+#   trigger = {
+#     has_country_modifier = EDG_flavor_FYM_16_a_modifier
+#     tag = FYM
+#   }
+#   immediate = {
+    
+#   }
+  
+# 	mean_time_to_happen = {
+    
+# 	}
+# 	option = {#你们为什么向着他们说话？
+# 		name = "EDG_flavor_FYM.19.aa"
+#     custom_tooltip = EDG_flavor_FYM_18_A_tt
+#     add_corruption = 2
+#     add_treasury = -1000
+#     add_country_modifier = {
+#       name = EDG_flavor_FYM_19_a_modifier
+#       duration = 9125
+#     }
+#     hidden_effect = {
+#       country_event = { id = EDG_flavor_FYM.20 days = 1400 }
+#     }
+# 	}
+  
+# }
+# country_event = {#窃国大盗
+#   id = EDG_flavor_FYM.20
+#   title = "EDG_flavor_FYM.20.title"
+#   desc = "EDG_flavor_FYM.20.desc"
+# 	picture = ECONOMY_eventPicture
+# 	is_triggered_only = yes
+#   fire_only_once = yes
+#   trigger = {
+#     has_country_modifier = EDG_flavor_FYM_16_a_modifier
+#     tag = FYM
+#   }
+#   immediate = {
+    
+#   }
+  
+# 	mean_time_to_happen = {
+    
+# 	}
+# 	option = {#他们迟早要付出代价！
+# 		name = "EDG_flavor_FYM.20.aa"
+#     custom_tooltip = EDG_flavor_FYM_18_A_tt
+#     add_treasury = -1500
+#     add_country_modifier = {
+#       name = EDG_flavor_FYM_20_a_modifier
+#       duration = 9125
+#     }
+# 	}
+  
+# }
+# country_event = {#肃清犹太人
+#   id = EDG_flavor_FYM.21
+#   title = "EDG_flavor_FYM.21.title"
+#   desc = "EDG_flavor_FYM.21.desc"
+# 	picture = EDG_EVENT_PICTURE_hell_1
+# 	is_triggered_only = yes
+#   trigger = {
+    
+#   }
+#   immediate = {
+    
+#   }
+  
+# 	mean_time_to_happen = {
+    
+# 	}
+# 	option = {#以眼还眼，以牙还牙！
+# 		name = "EDG_flavor_FYM.21.aa"
+# 			remove_country_modifier = EDG_flavor_FYM_18_a_modifier
+# 			remove_country_modifier = EDG_flavor_FYM_19_a_modifier
+# 			remove_country_modifier = EDG_flavor_FYM_20_a_modifier
+# 			add_treasury = 1000
+# 	}
+  
+# }
+
+country_event = {#心碎
+  id = EDG_flavor_FYM.22
+  title = "EDG_flavor_FYM.22.title"
+  desc = "EDG_flavor_FYM.22.desc"
+	picture = DEATH_OF_HEIR_eventPicture
+	is_triggered_only = yes
+  fire_only_once = yes
+  trigger = {
+    tag = FYM
+    has_heir = yes
+    NOT = { has_any_disaster = yes }
+    NOT = { heir_has_personality = EDG_personality_zhayide }
+    NOT = { heir_has_personality = EDG_personality_yidelisi }
+    NOT = { heir_has_personality = EDG_personality_haiyisi }
+    NOT = { heir_has_personality = EDG_personality_faheda }
+  }
+  immediate = {
+    
+  }
+  
+	mean_time_to_happen = {
+    
+	}
+	option = {#我的孩子，我可怜的孩子……愿真主垂怜你。
+		name = "EDG_flavor_FYM.22.aa"
+    kill_heir = {  }
+    add_prestige = -10
+    if = {
+      limit = {
+        not = { has_country_modifier = EDG_flavor_FYM_flavor_psychology_depressed_modifier_b_1 }
+        not = { has_country_modifier = EDG_flavor_FYM_flavor_psychology_depressed_modifier_c_1 }
+        not = { has_country_modifier = EDG_flavor_FYM_flavor_psychology_depressed_modifier_d_1 }
+      }
+      random_list = {
+        25 = { add_ruler_modifier = { name = EDG_flavor_FYM_flavor_psychology_depressed_modifier_b_1 duration = -1 } }
+        25 = { add_ruler_modifier = { name = EDG_flavor_FYM_flavor_psychology_depressed_modifier_c_1 duration = -1 } }
+        25 = { add_ruler_modifier = { name = EDG_flavor_FYM_flavor_psychology_depressed_modifier_d_1 duration = -1 } }
+      }
+    }
+	}
+}
+country_event = {#提拔奴隶军官
+  id = EDG_flavor_FYM.23
+  title = "EDG_flavor_FYM.23.title"
+  desc = "EDG_flavor_FYM.23.desc"
+	picture = EDG_EVENT_PICTURE_hell_1
+	is_triggered_only = yes
+  trigger = {
+    
+  }
+  immediate = {
+    
+  }
+  
+	mean_time_to_happen = {
+    
+	}
+	option = {#我们没什么可做的。
+		name = "EDG_flavor_FYM_1_nope"
+    if = {
+      limit = { not = { has_country_flag = EDG_FYM_Monarchy_interactions_3_power_free_flag } }
+      add_mil_power = 25
+    }
+	}
+	option = {#御马监
+		name = "EDG_flavor_FYM.23.aa"
+    trigger = { NOT = { has_country_modifier = EDG_flavor_FYM_23_aa_modifier } }
+    add_country_modifier = {
+      name = EDG_flavor_FYM_23_aa_modifier
+      duration = 3650
+    }
+	}
+	option = {#执剑埃米尔
+		name = "EDG_flavor_FYM.23.bb"
+    trigger = { NOT = { has_country_modifier = EDG_flavor_FYM_23_bb_modifier } }
+    add_country_modifier = {
+      name = EDG_flavor_FYM_23_bb_modifier
+      duration = 3650
+    }
+	}
+	option = {#陆军司令
+		name = "EDG_flavor_FYM.23.cc"
+    trigger = { NOT = { has_country_modifier = EDG_flavor_FYM_23_cc_modifier } }
+    add_country_modifier = {
+      name = EDG_flavor_FYM_23_cc_modifier
+      duration = 3650
+    }
+	}
+	option = {#弓箭统领
+		name = "EDG_flavor_FYM.23.dd"
+    trigger = { NOT = { has_country_modifier = EDG_flavor_FYM_23_dd_modifier } }
+    add_country_modifier = {
+      name = EDG_flavor_FYM_23_dd_modifier
+      duration = 3650
+    }
+	}
+	option = {#炮兵长官
+		name = "EDG_flavor_FYM.23.ee"
+    trigger = { NOT = { has_country_modifier = EDG_flavor_FYM_23_ee_modifier } }
+    add_country_modifier = {
+      name = EDG_flavor_FYM_23_ee_modifier
+      duration = 3650
+    }
+	}
+	option = {#马穆鲁克导师
+		name = "EDG_flavor_FYM.23.ff"
+    trigger = { NOT = { has_country_modifier = EDG_flavor_FYM_23_ff_modifier } }
+    add_country_modifier = {
+      name = EDG_flavor_FYM_23_ff_modifier
+      duration = 3650
+    }
+	}
+	option = {#军事司库
+		name = "EDG_flavor_FYM.23.gg"
+    trigger = { NOT = { has_country_modifier = EDG_flavor_FYM_23_gg_modifier } }
+    add_country_modifier = {
+      name = EDG_flavor_FYM_23_gg_modifier
+      duration = 3650
+    }
+	}
+	option = {#亲卫队长官
+		name = "EDG_flavor_FYM.23.hh"
+    trigger = { NOT = { has_country_modifier = EDG_flavor_FYM_23_hh_modifier } }
+    add_country_modifier = {
+      name = EDG_flavor_FYM_23_hh_modifier
+      duration = 3650
+    }
+	}
+	option = {#军团阿迦
+		name = "EDG_flavor_FYM.23.ii"
+    trigger = { NOT = { has_country_modifier = EDG_flavor_FYM_23_ii_modifier } has_government_attribute = EDG_FYM_Silahtar_aga_reform_ability }
+    add_country_modifier = {
+      name = EDG_flavor_FYM_23_ii_modifier
+      duration = 3650
+    }
+	}
+  
+}
+
+country_event = {#迎立法蒂玛哈里发
+  id = EDG_flavor_FYM.24
+  title = "EDG_flavor_FYM.24.title"
+  desc = "EDG_flavor_FYM.24.desc"
+	picture = ADVISOR_eventPicture
+	is_triggered_only = yes
+  fire_only_once = yes
+  trigger = {
+    tag = FYM
+    NOT = { exists = FDM }
+    religion_group = muslim
+    is_great_power = yes
+    NOT = {
+      had_global_flag = {
+        flag = EDG_FDM_died_global_flag
+        days = 9125
+      }
+    }
+    NOT = { 
+      any_province = {
+        has_province_modifier = EDG_Fatima_Caliphate_province_modifier
+      }
+    }
+  }
+  immediate = {
+    
+  }
+  
+	mean_time_to_happen = {
+    
+	}
+	option = {#法蒂玛哈里发回到了他忠诚的埃及！
+		name = "EDG_flavor_FYM.24.aa"
+    capital_scope = {
+      add_permanent_province_modifier = {
+        name = EDG_Fatima_Caliphate_province_modifier
+        duration = -1
+      }
+    }
+    EDG_Caliph_target_update_effect = yes
+    clr_global_flag = EDG_shiite_Caliph_moving_global_flag
+	}
+	option = {#我们不需要他。
+		name = "EDG_flavor_FYM.24.bb"
+    EDG_shiite_Caliph_interaction_button_3_effect = yes
+	}
+}
+country_event = {#艾哈迈德·罗塞塔逝世
+  id = EDG_flavor_FYM.25
+  title = "EDG_flavor_FYM.25.title"
+  desc = "EDG_flavor_FYM.25.desc"
+	picture = ADVISOR_eventPicture
+	is_triggered_only = yes
+  trigger = {
+    tag = FYM
+    is_year = 1470
+  }
+  immediate = {
+    
+  }
+  
+	mean_time_to_happen = {
+    
+	}
+	option = {#我们可以委任信的大维齐尔了。
+		name = "EDG_flavor_FYM.25.aa"
+    add_stability = -1
+    add_faction_influence = {
+      faction = EDG_FYM_ADM_faction
+      influence = -20
+    }
+		add_government_power = {
+			mechanic_type = EDG_FYM_Monarchy_ability
+			power_type = EDG_FYM_Monarchy_power
+			value = 5
+		}
+    set_country_flag = EDG_FYM_enable_primary_chancellor_flag
+    custom_tooltip = EDG_FYM_enable_primary_chancellor_flag_tt
+    country_event = { id = EDG_flavor_FYM.26 }
+	}
+}
+country_event = {#委任新的大维齐尔
+  id = EDG_flavor_FYM.26
+  title = "EDG_flavor_FYM.26.title"
+  desc = "EDG_flavor_FYM.26.desc"
+	picture = ADVISOR_eventPicture
+	is_triggered_only = yes
+  trigger = {
+    has_country_flag = EDG_FYM_enable_primary_chancellor_flag
+    NOT = { has_country_flag = EDG_FYM_primary_chancellor_change_decision_ing_flag }
+  }
+  immediate = {
+    set_country_flag = EDG_FYM_primary_chancellor_change_decision_ing_flag
+  }
+  
+	mean_time_to_happen = {
+    
+	}
+	option = {#还是维持现状好了。
+		name = "EDG_flavor_FYM_26_0_2"
+    trigger = {
+      OR = {
+        has_country_modifier = EDG_flavor_FYM_26_0_modifier_1
+        has_country_modifier = EDG_flavor_FYM_26_0_modifier_2
+        has_country_modifier = EDG_flavor_FYM_26_0_modifier_3
+        has_country_modifier = EDG_flavor_FYM_primary_chancellor_1_modifier
+        has_country_modifier = EDG_flavor_FYM_primary_chancellor_2_modifier
+        has_country_modifier = EDG_flavor_FYM_primary_chancellor_3_modifier
+        has_country_modifier = EDG_flavor_FYM_primary_chancellor_4_modifier
+        has_country_modifier = EDG_flavor_FYM_primary_chancellor_5_modifier
+        has_country_modifier = EDG_flavor_FYM_primary_chancellor_6_modifier
+        has_country_modifier = EDG_flavor_FYM_primary_chancellor_7_modifier
+        has_country_modifier = EDG_flavor_FYM_primary_chancellor_8_modifier
+        has_country_modifier = EDG_flavor_FYM_primary_chancellor_9_modifier
+        has_country_modifier = EDG_flavor_FYM_primary_chancellor_10_modifier
+        has_country_modifier = EDG_flavor_FYM_primary_chancellor_11_modifier
+        has_country_modifier = EDG_flavor_FYM_primary_chancellor_12_modifier
+        has_country_modifier = EDG_flavor_FYM_primary_chancellor_13_modifier
+        has_country_modifier = EDG_flavor_FYM_primary_chancellor_14_modifier
+        has_country_modifier = EDG_flavor_FYM_primary_chancellor_15_modifier
+      }
+    }
+    add_adm_power = 100
+	}
+	option = {#[Root.Monarch.GetTitle]将乾坤独断。
+		name = "EDG_flavor_FYM_26_0"
+    trigger = {
+      NOT = { has_country_modifier = EDG_flavor_FYM_26_0_modifier_1 }
+      NOT = { has_country_modifier = EDG_flavor_FYM_26_0_modifier_2 }
+      NOT = { has_country_modifier = EDG_flavor_FYM_26_0_modifier_3 }
+    }
+    EDG_flavor_FYM_primary_chancellor_modifier_remove_effect = yes
+    if = {
+      limit = { adm = 5 }
+      add_ruler_modifier = {
+        name = EDG_flavor_FYM_26_0_modifier_1
+        duration = -1
+      }
+    }
+    else_if = {
+      limit = { adm = 3 }
+      add_ruler_modifier = {
+        name = EDG_flavor_FYM_26_0_modifier_2
+        duration = -1
+      }
+    }
+    else = {
+      add_ruler_modifier = {
+        name = EDG_flavor_FYM_26_0_modifier_3
+        duration = -1
+      }
+    }
+	}
+	option = {#我们将委任谢赫·马哈茂迪。
+		name = "EDG_flavor_FYM_26_1"
+    trigger = {
+      NOT = { is_year = 1490 }
+      NOT = { has_country_modifier = EDG_flavor_FYM_primary_chancellor_1_modifier }
+    }
+    EDG_flavor_FYM_primary_chancellor_modifier_remove_effect = yes
+    add_country_modifier = {
+      name = EDG_flavor_FYM_primary_chancellor_1_modifier
+      duration = -1
+    }
+	}
+	option = {#布拉特·穆斯塔因是可塑之才。
+		name = "EDG_flavor_FYM_26_2"
+    trigger = {
+      NOT = { is_year = 1498 }
+      NOT = { has_country_modifier = EDG_flavor_FYM_primary_chancellor_2_modifier }
+    }
+    EDG_flavor_FYM_primary_chancellor_modifier_remove_effect = yes
+    add_country_modifier = {
+      name = EDG_flavor_FYM_primary_chancellor_2_modifier
+      duration = -1
+    }
+	}
+	option = {#吐曼·贝伊是最佳人选。
+		name = "EDG_flavor_FYM_26_3"
+    trigger = {
+      NOT = { is_year = 1506 }
+      NOT = { has_country_modifier = EDG_flavor_FYM_primary_chancellor_3_modifier }
+    }
+    EDG_flavor_FYM_primary_chancellor_modifier_remove_effect = yes
+    add_country_modifier = {
+      name = EDG_flavor_FYM_primary_chancellor_3_modifier
+      duration = -1
+    }
+	}
+	option = {#我们应该让胡思卡丹执掌大权。
+		name = "EDG_flavor_FYM_26_4"
+    trigger = {
+      is_year = 1490
+      NOT = { is_year = 1533 }
+      NOT = { has_country_modifier = EDG_flavor_FYM_primary_chancellor_4_modifier }
+    }
+    EDG_flavor_FYM_primary_chancellor_modifier_remove_effect = yes
+    add_country_modifier = {
+      name = EDG_flavor_FYM_primary_chancellor_4_modifier
+      duration = -1
+    }
+	}
+	option = {#阿卜杜勒·帖木儿不花更匹配帝国的野心。
+		name = "EDG_flavor_FYM_26_5"
+    trigger = {
+      is_year = 1501
+      NOT = { is_year = 1521 }
+      NOT = { has_country_modifier = EDG_flavor_FYM_primary_chancellor_5_modifier }
+    }
+    EDG_flavor_FYM_primary_chancellor_modifier_remove_effect = yes
+    add_country_modifier = {
+      name = EDG_flavor_FYM_primary_chancellor_5_modifier
+      duration = -1
+    }
+	}
+	option = {#机敏忠诚的阿布·哈桑令我们心怡。
+		name = "EDG_flavor_FYM_26_6"
+    trigger = {
+      is_year = 1522
+      NOT = { is_year = 1571 }
+      NOT = { has_country_modifier = EDG_flavor_FYM_primary_chancellor_6_modifier }
+    }
+    EDG_flavor_FYM_primary_chancellor_modifier_remove_effect = yes
+    add_country_modifier = {
+      name = EDG_flavor_FYM_primary_chancellor_6_modifier
+      duration = -1
+    }
+	}
+	option = {#尤努斯能够胜任。
+		name = "EDG_flavor_FYM_26_7"
+    trigger = {
+      is_year = 1544
+      NOT = { is_year = 1580 }
+      NOT = { has_country_modifier = EDG_flavor_FYM_primary_chancellor_7_modifier }
+    }
+    EDG_flavor_FYM_primary_chancellor_modifier_remove_effect = yes
+    add_country_modifier = {
+      name = EDG_flavor_FYM_primary_chancellor_7_modifier
+      duration = -1
+    }
+	}
+	option = {#我们信任纳赛尔·穆罕默德。
+		name = "EDG_flavor_FYM_26_8"
+    trigger = {
+      is_year = 1559
+      NOT = { is_year = 1594 }
+      NOT = { has_country_modifier = EDG_flavor_FYM_primary_chancellor_8_modifier }
+    }
+    EDG_flavor_FYM_primary_chancellor_modifier_remove_effect = yes
+    add_country_modifier = {
+      name = EDG_flavor_FYM_primary_chancellor_8_modifier
+      duration = -1
+    }
+	}
+	option = {#法西利德斯不会让我们失望。
+		name = "EDG_flavor_FYM_26_9"
+    trigger = {
+      is_year = 1566
+      NOT = { is_year = 1602 }
+      NOT = { has_country_modifier = EDG_flavor_FYM_primary_chancellor_9_modifier }
+    }
+    EDG_flavor_FYM_primary_chancellor_modifier_remove_effect = yes
+    add_country_modifier = {
+      name = EDG_flavor_FYM_primary_chancellor_9_modifier
+      duration = -1
+    }
+	}
+	option = {#让吉约吉斯来干。
+		name = "EDG_flavor_FYM_26_10"
+    trigger = {
+      is_year = 1571
+      NOT = { is_year = 1611 }
+      NOT = { has_country_modifier = EDG_flavor_FYM_primary_chancellor_10_modifier }
+    }
+    EDG_flavor_FYM_primary_chancellor_modifier_remove_effect = yes
+    add_country_modifier = {
+      name = EDG_flavor_FYM_primary_chancellor_10_modifier
+      duration = -1
+    }
+	}
+	option = {#曼苏尔·法赖吉符合我们的要求。
+		name = "EDG_flavor_FYM_26_11"
+    trigger = {
+      is_year = 1583
+      NOT = { is_year = 1607 }
+      NOT = { has_country_modifier = EDG_flavor_FYM_primary_chancellor_11_modifier }
+    }
+    EDG_flavor_FYM_primary_chancellor_modifier_remove_effect = yes
+    add_country_modifier = {
+      name = EDG_flavor_FYM_primary_chancellor_11_modifier
+      duration = -1
+    }
+	}
+	option = {#我们再也找不到比苏莱曼·穆雅赫德更合适的人了。
+		name = "EDG_flavor_FYM_26_12"
+    trigger = {
+      is_year = 1599
+      NOT = { is_year = 1625 }
+      NOT = { has_country_modifier = EDG_flavor_FYM_primary_chancellor_12_modifier }
+    }
+    EDG_flavor_FYM_primary_chancellor_modifier_remove_effect = yes
+    add_country_modifier = {
+      name = EDG_flavor_FYM_primary_chancellor_12_modifier
+      duration = -1
+    }
+	}
+	option = {#扎比德·勒布纳能让帝国继续辉煌！
+		name = "EDG_flavor_FYM_26_13"
+    trigger = {
+      is_year = 1603
+      NOT = { is_year = 1644 }
+      NOT = { has_country_modifier = EDG_flavor_FYM_primary_chancellor_13_modifier }
+    }
+    EDG_flavor_FYM_primary_chancellor_modifier_remove_effect = yes
+    add_country_modifier = {
+      name = EDG_flavor_FYM_primary_chancellor_13_modifier
+      duration = -1
+    }
+	}
+	option = {#我们需要更多像沙里赫·克里斯托这样的人。
+		name = "EDG_flavor_FYM_26_14"
+    trigger = {
+      is_year = 1611
+      NOT = { is_year = 1660 }
+      NOT = { has_country_modifier = EDG_flavor_FYM_primary_chancellor_14_modifier }
+    }
+    EDG_flavor_FYM_primary_chancellor_modifier_remove_effect = yes
+    add_country_modifier = {
+      name = EDG_flavor_FYM_primary_chancellor_14_modifier
+      duration = -1
+    }
+	}
+	option = {#穆罕默德·阿里怎么样？
+		name = "EDG_flavor_FYM_26_15"
+    trigger = {
+      is_year = 1655
+      NOT = { is_year = 1700 }
+      NOT = { has_country_modifier = EDG_flavor_FYM_primary_chancellor_15_modifier }
+    }
+    EDG_flavor_FYM_primary_chancellor_modifier_remove_effect = yes
+    add_country_modifier = {
+      name = EDG_flavor_FYM_primary_chancellor_15_modifier
+      duration = -1
+    }
+	}
+
+
+	option = {#随便找一位忠诚的奴才吧……
+		name = "GetFYMtheChancellorName_none"
+    EDG_flavor_FYM_primary_chancellor_modifier_remove_effect = yes
+    add_country_modifier = {
+      name = EDG_flavor_FYM_primary_chancellor_none_modifier
+      duration = -1
+    }
+	}
+  after = {
+    clr_country_flag = EDG_FYM_primary_chancellor_change_decision_ing_flag
+  }
+}
+
+
+country_event = {#建立埃米利塔社区
+  id = EDG_flavor_FYM.27
+  title = "EDG_flavor_FYM.27.title"
+  desc = "EDG_flavor_FYM.27.desc"
+	picture = ADVISOR_eventPicture
+	is_triggered_only = yes
+  trigger = {
+    tag = FYM
+    is_year = 1460
+    NOT = {
+      num_of_owned_provinces_with = {
+        value = 20
+        has_province_modifier = EDG_FYM_mission_4_28_province_modifier
+      }
+    }
+    any_owned_province = {
+      not = { has_province_modifier = EDG_FYM_mission_4_28_province_modifier }
+      not = { religion = sunni }
+      region = egypt_region
+    }
+  }
+  immediate = {
+    
+  }
+  
+	mean_time_to_happen = {
+    
+	}
+	option = {#让他们定居在此。
+		name = "EDG_flavor_FYM.27.aa"
+    custom_tooltip = EDG_flavor_FYM_27_a_tt
+
+    custom_tooltip = EDG_SPACE_TT
+    random_owned_province = {
+      limit = {
+        not = { has_province_modifier = EDG_FYM_mission_4_28_province_modifier }
+        not = { religion = sunni }
+        region = egypt_region
+      }
+      add_province_modifier = {
+        name = EDG_FYM_mission_4_28_province_modifier
+        duration = -1
+      }
+    }
+	}
+	option = {#我们更仰赖本国的埃米尔，而非希腊人。
+		name = "EDG_flavor_FYM.27.bb"
+    add_faction_influence = {
+      faction = EDG_FYM_MIL_faction
+      influence = 10
+    }
+    add_estate_loyalty_modifier = {
+      estate = estate_nobles
+      desc = EDG_Favoritism_estate_loyalty_modifier
+      loyalty = 10
+      duration = 3650
+    }
+	}
+}
+country_event = {#科普特社区的扩大
+  id = EDG_flavor_FYM.28
+  title = "EDG_flavor_FYM.28.title"
+  desc = "EDG_flavor_FYM.28.desc"
+	picture = HARBOUR_eventPicture
+	is_triggered_only = yes
+  goto = EDG_flavor_FYM_28_province
+  trigger = {
+    tag = FYM
+    has_any_disaster = no
+    has_government_attribute = EDG_enables_estate_edg_copt
+    any_province = {
+      is_city = yes
+      country_or_non_sovereign_subject_holds = root
+      owner = { religion_group = muslim }
+      not = { religion_group = muslim }
+      not = { religion = coptic }
+      not = { religion = owner }
+    }
+  }
+	immediate = {
+		hidden_effect = {
+			random_province = {
+				limit = {
+          is_city = yes
+          country_or_non_sovereign_subject_holds = root
+          owner = { religion_group = muslim }
+          not = { religion_group = muslim }
+          not = { religion = coptic }
+          not = { religion = owner }
+				}
+				save_event_target_as = EDG_flavor_FYM_28_province
+			}
+		}
+	}
+  
+  
+	mean_time_to_happen = {
+    
+	}
+	option = {#他们可以去他们想去的任何地方。
+		name = "EDG_flavor_FYM.28.aa"
+    event_target:EDG_flavor_FYM_28_province = {
+      change_religion = coptic
+    }
+	}
+	option = {#阻止他们！
+		name = "EDG_flavor_FYM.28.bb"
+    add_adm_power = -5
+	}
+}
+#阿勒颇
+#安卡拉
+#君士坦丁堡
+#突尼西亚
+#科尔多瓦
+#马拉喀什
+#阿斯图里亚斯
+#艾克斯
+#巴黎
+#伦敦
+#罗马
+#米兰
+#威尼斯
+#巴勒莫
+#维也纳
+#克拉科夫
+#伊斯法罕
+#贡德尔
+
+
+
+country_event = {#耶路撒冷的犹太人
+  id = EDG_flavor_FYM.201
+  title = "EDG_flavor_FYM.201.title"
+  desc = "EDG_flavor_FYM.201.desc"
+	picture = ANGRY_MOB_eventPicture
+	is_triggered_only = yes
+  fire_only_once = yes
+  trigger = {
+    tag = FYM
+    is_year = 1464
+    owns = 379
+    religion_group = muslim
+  }
+  immediate = {
+    
+  }
+  
+	mean_time_to_happen = {
+    
+	}
+	option = {#他们应当受到同等的保护。
+		name = "EDG_flavor_FYM.201.aa"
+    add_country_modifier = {
+      name = EDG_flavor_FYM_201_aa_modifier
+      duration = 3650
+    }
+	}
+	option = {#乌理玛的意见最为重要。
+		name = "EDG_flavor_FYM.201.bb"
+    add_adm_power = -50
+    add_estate_loyalty_modifier = {
+      estate = estate_church
+      desc = EDG_Favoritism_estate_loyalty_modifier
+      loyalty = 20
+      duration = 3650
+    }
+	}
+	option = {#这是一个敲诈犹太人的好机会！
+		name = "EDG_flavor_FYM.201.cc"
+    add_years_of_income = 0.35
+    add_estate_loyalty_modifier = {
+      estate = estate_church
+      desc = EDG_Discontent_estate_loyalty_modifier
+      loyalty = -10
+      duration = 3650
+    }
+	}
+	option = {#把这些犹太人送到君士坦丁堡去吧。
+		name = "EDG_flavor_FYM.201.dd"
+    add_estate_loyalty_modifier = {
+      estate = estate_church
+      desc = EDG_Favoritism_estate_loyalty_modifier
+      loyalty = 20
+      duration = 3650
+    }
+    379 = {
+      if = { limit = {  base_tax = 2 } add_base_tax = -1 }
+      if = { limit = {  base_production = 2 } add_base_production = -1 }
+      if = { limit = {  base_manpower = 2 } add_base_manpower = -1 }
+    }
+    151 = {
+      owner = {
+        country_event = { id = EDG_flavor_FYM.202 }
+      }
+    }
+	}
+
+}
+country_event = {#来自耶路撒冷的犹太人
+  id = EDG_flavor_FYM.202
+  title = "EDG_flavor_FYM.202.title"
+  desc = "EDG_flavor_FYM.202.desc"
+	picture = ADVISOR_eventPicture
+	is_triggered_only = yes
+  fire_only_once = yes
+  trigger = {
+    
+  }
+  immediate = {
+    
+  }
+  
+	mean_time_to_happen = {
+    
+	}
+	option = {#没收他们的财产并让他们滚蛋。
+		name = "EDG_flavor_FYM.202.aa"
+    add_treasury = 150
+	}
+	option = {#我们愿意接纳他们！
+		name = "EDG_flavor_FYM.202.bb"
+    151 = {
+      add_base_production = 1
+    }
+	}
+
+}
+country_event = {#萨哈达治下的和平
+  id = EDG_flavor_FYM.203
+  title = "EDG_flavor_FYM.203.title"
+  desc = "EDG_flavor_FYM.203.desc"
+	picture = FEAST_eventPicture
+	is_triggered_only = yes
+  fire_only_once = yes
+  trigger = {
+    tag = FYM
+    stability = 3
+    total_development = 800
+    is_great_power = yes
+  }
+  immediate = {
+    
+  }
+  
+	mean_time_to_happen = {
+    
+	}
+	option = {#这是属于我们的美好时代。
+		name = "EDG_flavor_FYM.203.aa"
+    add_country_modifier = {
+      name = EDG_flavor_FYM_203_aa_modifier
+      duration = 3650
+    }
+	}
+	option = {#趁机大肆敛财。
+		name = "EDG_flavor_FYM.203.bb"
+    add_years_of_income = 1
+    add_adm_power = 100
+	}
+
+}
+country_event = {#公正的[Root.Monarch.GetTitle]
+  id = EDG_flavor_FYM.204
+  title = "EDG_flavor_FYM.204.title"
+  desc = "EDG_flavor_FYM.204.desc"
+	picture = ADVISOR_eventPicture
+	is_triggered_only = yes
+  trigger = {
+    tag = FYM
+    primary_culture = yemeni_culture
+    religion_group = muslim
+    has_regency = no
+    NOT = { adm = 6 }
+    NOT = { mil = 6 }
+    NOT = { has_ruler_flag = EDG_flavor_FYM_204_ruler_flag }
+    is_at_war = no
+  }
+  immediate = {
+    set_ruler_flag = EDG_flavor_FYM_204_ruler_flag
+  }
+  
+	mean_time_to_happen = {
+    
+	}
+	option = {#我们坚守这样的传统。
+		name = "EDG_flavor_FYM.204.aa"
+    add_adm_power = -100
+    change_mil = 1
+    add_faction_influence = {
+      faction = EDG_FYM_MIL_faction
+      influence = 10
+    }
+	}
+	option = {#[Root.Monarch.GetName]是一个实用主义者。
+		name = "EDG_flavor_FYM.204.bb"
+    add_faction_influence = {
+      faction = EDG_FYM_MIL_faction
+      influence = -10
+    }
+    add_estate_loyalty_modifier = {
+      estate = estate_nobles
+      desc = EDG_Discontent_estate_loyalty_modifier
+      loyalty = -20
+      duration = 7300
+    }
+    add_estate_loyalty_modifier = {
+      estate = estate_nomadic_tribes
+      desc = EDG_Discontent_estate_loyalty_modifier
+      loyalty = -20
+      duration = 7300
+    }
+    change_adm = 1
+	}
+
+}
+country_event = {#一个名为拜巴尔斯的马穆鲁克
+  id = EDG_flavor_FYM.205
+  title = "EDG_flavor_FYM.205.title"
+  desc = "EDG_flavor_FYM.205.desc"
+	picture = ADVISOR_eventPicture
+	is_triggered_only = yes
+  fire_only_once = yes
+  trigger = {
+    tag = FYM
+    is_year = 1496
+    has_government_mechanic = EDG_FYM_Monarchy_ability
+  }
+  immediate = {
+    
+  }
+  
+	mean_time_to_happen = {
+    
+	}
+	option = {#让他成为我们的将军。
+		name = "EDG_flavor_FYM.205.aa"
+    EDG_flavor_FYM_205_aa_effect = yes
+	}
+	option = {#让他进入我们的内阁。
+		name = "EDG_flavor_FYM.205.bb"
+    EDG_flavor_FYM_205_bb_effect = yes
+	}
+	option = {#我们不需要一个功高震主的马穆鲁克。
+		name = "EDG_flavor_FYM.205.cc"
+    add_prestige_or_monarch_power = { amount = 10 }
+    add_faction_influence = {
+      faction = EDG_FYM_MIL_faction
+      influence = 10
+    }
+    add_estate_loyalty_modifier = {
+      estate = estate_edg_caledonia
+      desc = EDG_Discontent_estate_loyalty_modifier
+      loyalty = -20
+      duration = 7300
+    }
+	}
+
+}
+country_event = {#贝都因谢赫的忠诚
+  id = EDG_flavor_FYM.206
+  title = "EDG_flavor_FYM.206.title"
+  desc = "EDG_flavor_FYM.206.desc"
+	picture = ADVISOR_eventPicture
+	is_triggered_only = yes
+  trigger = {
+    tag = FYM
+    has_government_mechanic = EDG_FYM_Monarchy_ability
+    NOT = { has_country_modifier = EDG_flavor_FYM_206_modifier }
+  }
+  immediate = {
+    
+  }
+  
+	mean_time_to_happen = {
+    
+	}
+	option = {#我们需要经验丰富的指挥官。
+		name = "EDG_flavor_FYM.206.aa"
+    add_army_tradition = 10
+    add_country_modifier = {
+      name = EDG_flavor_FYM_206_modifier
+      duration = 7300
+    }
+	}
+	option = {#我们急需更多的兵源。
+		name = "EDG_flavor_FYM.206.bb"
+    add_manpower = 7.5
+    add_country_modifier = {
+      name = EDG_flavor_FYM_206_modifier
+      duration = 7300
+    }
+	}
+	option = {#谢赫们的俯首帖耳即可。
+		name = "EDG_flavor_FYM.206.cc"
+    add_prestige_or_monarch_power = { amount = 10 }
+    add_country_modifier = {
+      name = EDG_flavor_FYM_206_modifier
+      duration = 7300
+    }
+	}
+
+}
+country_event = {#有关阿拔斯的流言
+  id = EDG_flavor_FYM.207
+  title = "EDG_flavor_FYM.207.title"
+  desc = "EDG_flavor_FYM.207.desc"
+	picture = DIPLOMACY_eventPicture
+	is_triggered_only = yes
+  fire_only_once = yes
+  trigger = {
+    tag = FYM
+    has_government_mechanic = EDG_FYM_Monarchy_ability
+    EDG_sunni_Caliph_ability_trigger = yes
+    religion_group = muslim
+		has_any_disaster = no
+    is_year = 1563
+  }
+  immediate = {
+    
+  }
+  
+	mean_time_to_happen = {
+    
+	}
+	option = {#废黜这个不听话的傀儡，扶持一个新的哈里发。
+		name = "EDG_flavor_FYM.207.aa"
+    add_stability = -1
+    if = {
+      limit = { religion = sunni }
+      add_country_modifier = {
+        name = EDG_flavor_FYM_207_a_modifier_2
+        duration = 7300
+      }
+    }
+    else = {
+      add_country_modifier = {
+        name = EDG_flavor_FYM_207_a_modifier_1
+        duration = 7300
+      }
+    }
+	}
+	option = {#他必须被软禁。
+		name = "EDG_flavor_FYM.207.bb"
+    custom_tooltip = EDG_sunni_Caliph_interaction_button_5_effect_tt
+    every_neighbor_country = {
+      limit = { religion = sunni }
+      add_opinion = {
+        who = ROOT
+        modifier = EDG_sunni_Caliph_interaction_button_5_effect_opinion_modifier
+      }
+    }
+    add_country_modifier = {
+      name = EDG_sunni_Caliph_interaction_button_5_effect_modifier
+      duration = 3650
+    }
+	}
+	option = {#我们不会被流言所激怒。
+		name = "EDG_flavor_FYM.207.cc"
+    custom_tooltip = EDG_flavor_FYM_207_cc_tt
+    hidden_effect = {
+      country_event = { id = EDG_flavor_FYM.208 days = 300 }
+    }
+	}
+
+}
+country_event = {#阿拔斯哈里发逃出开罗
+  id = EDG_flavor_FYM.208
+  title = "EDG_flavor_FYM.208.title"
+  desc = "EDG_flavor_FYM.208.desc"
+	picture = DIPLOMACY_eventPicture
+	is_triggered_only = yes
+  fire_only_once = yes
+  trigger = {
+    NOT = { has_country_modifier = EDG_sunni_Caliph_interaction_button_5_effect_modifier }
+    tag = FYM
+    has_government_mechanic = EDG_FYM_Monarchy_ability
+		has_any_disaster = no
+  }
+  immediate = {
+    
+  }
+  
+	mean_time_to_happen = {
+    
+	}
+	option = {#哈里发何故谋反？
+		name = "EDG_flavor_FYM.208.aa"
+    add_prestige = -10
+    custom_tooltip = EDG_flavor_FYM_208_aa_tt
+    hidden_effect = {
+      country_event = { id = EDG_flavor_FYM.209 days = 300 }
+    }
+	}
+  
+}
+country_event = {#阿拔斯哈里发叛乱
+  id = EDG_flavor_FYM.209
+  title = "EDG_flavor_FYM.209.title"
+  desc = "EDG_flavor_FYM.209.desc"
+	picture = ANGRY_MOB_eventPicture
+	is_triggered_only = yes
+  fire_only_once = yes
+  trigger = {
+    tag = FYM
+    has_government_mechanic = EDG_FYM_Monarchy_ability
+    owns = 361
+		has_any_disaster = no
+  }
+  immediate = {
+    
+  }
+  
+	mean_time_to_happen = {
+    
+	}
+	option = {#他们给过他机会了。
+		name = "EDG_flavor_FYM.209.aa"
+    random_owned_province = {
+      limit = { religion = sunni NOT = { is_core = ABS } }
+      add_core = ABS
+		  spawn_rebels = {
+        type = nationalist_rebels
+        size = 3
+        unrest = 10
+        win = yes
+		  }
+    }
+    random_owned_province = {
+      limit = { religion = sunni NOT = { is_core = ABS } }
+      add_core = ABS
+		  spawn_rebels = {
+        type = nationalist_rebels
+        size = 2
+        unrest = 10
+        win = yes
+		  }
+    }
+    random_owned_province = {
+      limit = { religion = sunni NOT = { is_core = ABS } }
+      add_core = ABS
+		  spawn_rebels = {
+        type = nationalist_rebels
+        size = 2
+        unrest = 10
+        win = yes
+		  }
+    }
+	}
+  
+}
+country_event = {#帖木儿塔什
+  id = EDG_flavor_FYM.210
+  title = "EDG_flavor_FYM.210.title"
+  desc = "EDG_flavor_FYM.210.desc"
+	picture = ADVISOR_eventPicture
+	is_triggered_only = yes
+  fire_only_once = yes
+  trigger = {
+    tag = FYM
+    has_government_mechanic = EDG_FYM_Monarchy_ability
+    is_year = 1499
+    army_tradition = 75
+  }
+  immediate = {
+    
+  }
+  
+	mean_time_to_happen = {
+    
+	}
+	option = {#让他成为我们的将军。
+		name = "EDG_flavor_FYM.210.aa"
+    EDG_flavor_FYM_210_aa_effect = yes
+	}
+	option = {#让他进入我们的内阁。
+		name = "EDG_flavor_FYM.210.bb"
+    EDG_flavor_FYM_210_bb_effect = yes
+	}
+	option = {#蒙古人将军不值得信任。
+		name = "EDG_flavor_FYM.210.cc"
+    add_prestige_or_monarch_power = { amount = 10 }
+    add_faction_influence = {
+      faction = EDG_FYM_MIL_faction
+      influence = 10
+    }
+    add_estate_loyalty_modifier = {
+      estate = estate_edg_caledonia
+      desc = EDG_Discontent_estate_loyalty_modifier
+      loyalty = 10
+      duration = 7300
+    }
+	}
+
+}
+country_event = {#「猎手」奥斯曼
+  id = EDG_flavor_FYM.211
+  title = "EDG_flavor_FYM.211.title"
+  desc = "EDG_flavor_FYM.211.desc"
+	picture = ADVISOR_eventPicture
+	is_triggered_only = yes
+  fire_only_once = yes
+  trigger = {
+    tag = FYM
+    has_government_mechanic = EDG_FYM_Monarchy_ability
+  }
+  immediate = {
+    
+  }
+  
+	mean_time_to_happen = {
+    
+	}
+	option = {#他怎敢？！
+		name = "EDG_flavor_FYM.211.aa"
+		add_government_power = {
+			mechanic_type = EDG_FYM_Monarchy_ability
+			power_type = EDG_FYM_Monarchy_power
+			value = 1
+		}
+		add_government_power = {
+			mechanic_type = EDG_FYM_Monarchy_ability_2
+			power_type = EDG_FYM_Monarchy_power_2
+			value = 1
+		}
+	}
+	option = {#他是帝国的忠臣。
+		name = "EDG_flavor_FYM.211.bb"
+		add_government_power = {
+			mechanic_type = EDG_FYM_Monarchy_ability_2
+			power_type = EDG_FYM_Monarchy_power_2
+			value = -1
+		}
+	}
+	option = {#先囚禁他以示惩罚，再提拔他。
+		name = "EDG_flavor_FYM.211.cc"
+    add_adm_power = -15
+		add_government_power = {
+			mechanic_type = EDG_FYM_Monarchy_ability
+			power_type = EDG_FYM_Monarchy_power
+			value = 1
+		}
+    EDG_flavor_FYM_211_c_name_effect = yes
+	}
+  
+}
+country_event = {#扎伊德大厅
+  id = EDG_flavor_FYM.212
+  title = "EDG_flavor_FYM.212.title"
+  desc = "EDG_flavor_FYM.212.desc"
+	picture = FORT_eventPicture
+	is_triggered_only = yes
+  fire_only_once = yes
+  trigger = {
+    tag = FYM
+    EDG_FYM_zhayide_alive_trigger = yes
+    has_government_mechanic = EDG_FYM_Monarchy_ability
+    has_any_disaster = no
+  }
+  immediate = {
+    
+  }
+  
+	mean_time_to_happen = {
+    
+	}
+	option = {#大马利克喜欢这个。
+		name = "EDG_flavor_FYM.212.aa"
+    add_treasury = -500
+    add_prestige_or_monarch_power = { amount = 35 }
+    capital_scope = {
+      add_permanent_province_modifier = {
+        name = EDG_flavor_FYM_212_a_procinde_modifier
+        duration = 7300
+      }
+    }
+	}
+	option = {#这是在浪费钱。
+		name = "EDG_flavor_FYM.212.bb"
+    add_prestige = -5
+	}
+  
+}
+
+country_event = {#为科普特人进口没药
+  id = EDG_flavor_FYM.213
+  title = "EDG_flavor_FYM.213.title"
+  desc = "EDG_flavor_FYM.213.desc"
+	picture = DHIMMI_ESTATE_eventPicture 
+	fire_only_once = yes
+  is_triggered_only = yes
+	goto = 388
+	trigger = {
+    is_year = 1477
+		tag = FYM
+		owns_or_non_sovereign_subject_of = 388
+		religion_group = muslim
+    stability = 2
+	}
+  
+	
+	option = {#以仁慈的安拉之名，祝他们生意兴盛！
+		name = "EDG_flavor_FYM.213.aa"
+		388 = { 
+			add_permanent_province_modifier = {
+				name = tur_major_centre_myrrh_production_modifier
+				duration = -1 
+			}
+		}
+		add_estate_loyalty = {
+			estate = estate_edg_copt
+			loyalty = 10
+		}
+	}
+}
+
+country_event = {#霍尔木兹海湾通行税
+  id = EDG_flavor_FYM.214
+	title = flavor_tur.271.t 
+	desc = flavor_tur.271.desc
+	picture = CORSAIR_eventPicture
+	fire_only_once = yes
+  is_triggered_only = yes
+	goto = 2999
+	trigger = {
+		tag = FYM
+		owns_or_non_sovereign_subject_of = 2999
+	}
+  
+	option = { 
+		name = flavor_tur.271.a 
+		2999 = {
+			add_permanent_province_modifier = {
+				name = tur_hormuz_toll_modifier
+				duration = -1 
+			}
+		}
+		add_mercantilism = 2
+	}
+}
+
+country_event = {#先知生平记
+  id = EDG_flavor_FYM.215
+	title = EDG_flavor_FYM.215.title
+	desc = EDG_flavor_FYM.215.desc
+	picture = BIG_BOOK_eventPicture
+	fire_only_once = yes 
+	is_triggered_only = yes
+
+	trigger = { 
+		tag = FYM
+		is_year = 1600 
+		religion_group = muslim 
+		is_bankrupt = no 
+	}
+  
+	option = { 
+		name = flavor_tur.282.a 
+		
+		if = { 
+			limit = { has_dlc = "Cradle of Civilization" } 
+			add_piety = 0.25
+		}
+		else = { add_adm_power = 100 } 
+		add_estate_loyalty = { 
+			estate = estate_church 
+			loyalty = 15 
+		}
+		if = { 
+			limit = { has_dlc = "Mandate of Heaven" } 
+			add_splendor = 200 
+		}
+		else = { add_dip_power = 50 } 
+	}
+}
+
+country_event = {#[Root.Monarch.GetName]年间的伊斯兰知识论
+  id = EDG_flavor_FYM.216
+	title = EDG_flavor_FYM.216.title
+	desc = EDG_flavor_FYM.216.desc
+	picture = DEBATE_REPUBLICAN_eventPicture
+	fire_only_once = yes 
+	is_triggered_only = yes
+
+	trigger = { 
+		tag = FYM
+    adm_tech = 10
+    adm = 5
+		is_at_war = no 
+		has_regency = no 
+	}
+
+	option = { 
+		name = flavor_tur.284.a 
+		
+		if = { 
+			limit = { 
+				has_dlc = "Rule Britannia" 
+				NOT = { innovativeness = 95 } 
+			}
+			change_innovativeness = 1 
+		}
+		else = { add_adm_power = 50 } 
+	}
+}
+
+country_event = {#穆罕默德·贾祖里和《祝福的证明》
+  id = EDG_flavor_FYM.217
+  title = "EDG_flavor_FYM.217.title"
+  desc = "EDG_flavor_FYM.217.desc"
+	picture = DHIMMI_ESTATE_eventPicture 
+	fire_only_once = yes
+  is_triggered_only = yes
+	trigger = {
+		tag = FYM
+		northern_morocco_area = { type = all country_or_non_sovereign_subject_holds = ROOT }
+		religion_group = muslim
+    stability = 2
+    is_at_war = no
+	}
+  
+	
+	option = {#以仁慈的安拉之名。
+		name = "EDG_flavor_FYM.217.aa"
+    add_faction_influence = {
+      faction = EDG_FYM_DIP_faction
+      influence = 10
+    }
+    add_country_modifier = {
+      name = EDG_flavor_FYM_217_a_modifier
+      duration = 7300
+    }
+	}
+	option = {#我们不能允许民间传播新思想。
+		name = "EDG_flavor_FYM.217.bb"
+    add_faction_influence = {
+      faction = EDG_FYM_DIP_faction
+      influence = -10
+    }
+		add_estate_loyalty = {
+			estate = estate_church
+			loyalty = 10
+		}
+	}
+}
+
+country_event = {#高门改革
+  id = EDG_flavor_FYM.218
+  title = "EDG_flavor_FYM.218.title"
+  desc = "EDG_flavor_FYM.218.desc"
+	picture = ENCOMIENDA_eventPicture 
+	fire_only_once = yes
+  is_triggered_only = yes
+	trigger = {
+		tag = FYM
+    total_development = 1000
+	}
+  
+	
+	option = {#让我们扩大官僚机构。
+		name = "EDG_flavor_FYM.218.aa"
+    add_faction_influence = {
+      faction = EDG_FYM_ADM_faction
+      influence = 10
+    }
+    add_country_modifier = {
+      name = EDG_flavor_FYM_217_a_modifier
+      duration = 9125
+    }
+	}
+	option = {#进行一定限度的改革即可。
+		name = "EDG_flavor_FYM.218.bb"
+    add_adm_power = 50
+	}
+	option = {#我们应该裁减我们的官僚机构。
+		name = "EDG_flavor_FYM.218.cc"
+    add_faction_influence = {
+      faction = EDG_FYM_ADM_faction
+      influence = -10
+    }
+    add_country_modifier = {
+      name = EDG_flavor_FYM_217_c_modifier
+      duration = 9125
+    }
+	}
+}
+
+country_event = {#摩尔难民
+  id = EDG_flavor_FYM.219
+  title = "EDG_flavor_FYM.219.title"
+  desc = "EDG_flavor_FYM.219.desc"
+	picture = ENCOMIENDA_eventPicture
+	fire_only_once = yes
+  is_triggered_only = yes
+	trigger = {
+		tag = FYM
+    any_country = { has_country_flag = end_of_granada }
+	}
+  
+	
+	option = {#欢迎他们的到来！
+		name = "EDG_flavor_FYM.219.aa"
+		add_country_modifier = {
+			name = "mor_andalucian_moors"
+			duration = 3650
+		}
+	}
+	option = {#把他们赶出去。
+		name = "EDG_flavor_FYM.219.bb"
+    add_dip_power = 50
+	}
+}
+
+country_event = {#拉加里·哈桑·切莱比的飞行
+  id = EDG_flavor_FYM.220
+	title = flavor_tur.245.t 
+	desc = flavor_tur.245.desc
+	picture = ADVISOR_eventPicture 
+	fire_only_once = yes 
+	is_triggered_only = yes
+
+	trigger = { 
+		tag = FYM
+		is_year = 1620 
+		NOT = { is_year = 1700 }
+	}
+	
+  
+	option = { 
+		name = flavor_tur.245.a 
+		
+		add_years_of_income = -0.5
+		random_list = { 
+			50 = { 
+				define_advisor = { 	
+					type = natural_scientist
+					name = "Legari Hasan Celebi" 
+					skill = 3 
+					cost_multiplier = 0.25
+				}
+			}
+			50 = { custom_tooltip = tur_celebi_goes_bye_bye }
+		}
+	}
+	
+	option = { 
+		name = flavor_tur.245.b 
+		
+		add_prestige = -5
+	}
+}
+
+country_event = {#行于亚洲商路
+  id = EDG_flavor_FYM.221
+	title = flavor_tur.272.t 
+	desc = flavor_tur.272.desc
+	picture = CORSAIR_eventPicture
+	fire_only_once = yes
+  is_triggered_only = yes
+	trigger = {
+		tag = FYM
+		454 = { has_merchant = ROOT } 
+		OR = { 
+			454 = { 
+				trade_share = {
+					country = ROOT 
+					share = 40
+				}
+			}
+			any_ally = {
+				OR = { 
+					technology_group = chinese 
+					technology_group = indian
+				}
+				has_opinion = { 
+					who = ROOT 
+					value = 150 
+				}
+				if = {
+					limit = { has_dlc = "Leviathan" }
+					trust = {
+						who = ROOT 
+						value = 60 
+					}
+				}
+			}
+		}
+	}
+	goto = 1764
+	
+	option = { 
+		name = flavor_tur.272.a 
+		change_price = {
+			trade_goods = chinaware
+			key = TUR_SILK_ROAD_TRADE
+			value = 0.5
+			duration = 18250
+		}
+		1764 = { 	
+			change_trade_goods = chinaware 
+			add_province_modifier = {
+				name = tur_jade_techniques_of_far_east_modifier
+				duration = -1 
+			}
+			add_base_production = 3 
+		}
+	}
+}
+
+country_event = {#米马尔·杰拉勒
+  id = EDG_flavor_FYM.222
+  title = "EDG_flavor_FYM.222.title"
+  desc = "EDG_flavor_FYM.222.desc"
+	picture = ADVISOR_eventPicture 
+	fire_only_once = yes
+  is_triggered_only = yes
+	trigger = {
+		tag = FYM
+    is_year = 1554
+    is_great_power = yes
+	}
+  
+	
+	option = {#任命他为皇家工程师。
+		name = "EDG_flavor_FYM.222.aa"
+    add_treasury = -500
+		add_ruler_modifier = {
+			name = EDG_flavor_FYM_222_a_modifier
+      duration = 9125
+		}
+	}
+	option = {#是吗？让他来[Root.Capital.GetName]建一座清真寺。
+		name = "EDG_flavor_FYM.222.bb"
+    capital_scope = { add_base_tax = 1 }
+	}
+}
+
+country_event = {#阿拉比卡咖啡
+  id = EDG_flavor_FYM.223
+  title = "EDG_flavor_FYM.223.title"
+  desc = "EDG_flavor_FYM.223.desc"
+	picture = ADVISOR_eventPicture 
+	fire_only_once = yes
+  is_triggered_only = yes
+	trigger = {
+		tag = FYM
+    is_year = 1554
+    is_great_power = yes
+	}
+  
+	
+	option = {#任命他为皇家工程师。
+		name = "EDG_flavor_FYM.223.aa"
+		add_mercantilism = 5
+
+		custom_tooltip = mam_1_prod_in_coffee_tt
+		hidden_effect = {
+			every_owned_province = {
+				limit = { trade_goods = coffee }
+				add_base_production = 1
+			}
+		}
+	}
+	option = {#让我们榨取一点商业税。
+		name = "EDG_flavor_FYM.223.bb"
+    add_treasury = 500
+	}
+}
+
+country_event = {#空空如也的内帑部
+  id = EDG_flavor_FYM.224
+  title = "EDG_flavor_FYM.224.title"
+  desc = "EDG_flavor_FYM.224.desc"
+	picture = ECONOMY_eventPicture
+	fire_only_once = yes
+  is_triggered_only = yes
+	trigger = {
+		tag = FYM
+    is_year = 1490
+    is_great_power = yes
+		NOT = { months_of_ruling = 12 }
+		NOT = { years_of_income = 0.5 }
+		has_regency = no
+	}
+  
+	
+	option = {#向所有人征税。
+		name = "EDG_flavor_FYM.224.aa"
+		add_years_of_income = 2.0
+		add_adm_power = -50
+    add_faction_influence = {
+      faction = EDG_FYM_ADM_faction
+      influence = 10
+    }
+		random_owned_province = {
+			anti_tax_rebels = 1
+		}
+		random_owned_province = {
+			anti_tax_rebels = 2
+		}
+		capital_scope = {
+			anti_tax_rebels = 3
+		}
+	}
+	option = {#向科普特人征税。
+		name = "EDG_flavor_FYM.224.bb"
+		add_years_of_income = 0.15
+	}
+}
+
+country_event = {#清算罗塞塔家族
+  id = EDG_flavor_FYM.225
+  title = "EDG_flavor_FYM.225.title"
+  desc = "EDG_flavor_FYM.225.desc"
+	picture = DEBATE_REPUBLICAN_eventPicture 
+	fire_only_once = yes
+  is_triggered_only = yes
+	trigger = {
+		tag = FYM
+    is_year = 1473
+    ruler_has_personality = EDG_personality_zhayide
+	}
+  
+	
+	option = {#她也必须为政治牺牲！
+		name = "EDG_flavor_FYM.225.aa"
+    add_faction_influence = {
+      faction = EDG_FYM_MIL_faction
+      influence = 10
+    }
+    if = {
+      limit = {
+        has_heir = yes
+		    heir_age = 5
+      }
+      custom_tooltip = EDG_flavor_FYM_225_aa_tt
+      set_heir_flag = EDG_flavor_FYM_Monchy_27_enable_flag
+      hidden_effect = {
+        country_event = { id = EDG_flavor_FYM_Monchy.28 days = 3700 }
+      }
+    }
+    else_if = {
+      limit = {
+        has_heir = yes
+      }
+      custom_tooltip = EDG_flavor_FYM_225_aa_tt
+      set_heir_flag = EDG_flavor_FYM_Monchy_27_enable_flag
+      hidden_effect = {
+        country_event = { id = EDG_flavor_FYM_Monchy.28 days = 7300 }
+      }
+    }
+    else = {
+      add_stability = -1
+    }
+	}
+	option = {#夫妻一场，还是算了吧。
+		name = "EDG_flavor_FYM.225.bb"
+    add_faction_influence = {
+      faction = EDG_FYM_MIL_faction
+      influence = 10
+    }
+    add_estate_loyalty_modifier = {
+      estate = estate_nobles
+      desc = EDG_Discontent_estate_loyalty_modifier
+      loyalty = -20
+      duration = 7300
+    }
+	}
+	option = {#将她软禁起来即可。
+		name = "EDG_flavor_FYM.225.cc"
+    add_prestige = -5
+	}
+	option = {#谁敢对[Root.Monarch.GetName]指手画脚？！让他下油锅！
+		name = "EDG_flavor_FYM.225.dd"
+    add_stability = -1
+    add_faction_influence = {
+      faction = EDG_FYM_MIL_faction
+      influence = -10
+    }
+    add_estate_loyalty_modifier = {
+      estate = estate_nobles
+      desc = EDG_Discontent_estate_loyalty_modifier
+      loyalty = -20
+      duration = 7300
+    }
+		add_government_power = {
+		  mechanic_type = EDG_FYM_Monarchy_ability
+		  power_type = EDG_FYM_Monarchy_power
+		  value = 2
+		}
+	}
+}
+country_event = {#「鲁塞尼亚」音乐会
+  id = EDG_flavor_FYM.226
+  title = "EDG_flavor_FYM.226.title"
+  desc = "EDG_flavor_FYM.226.desc"
+	picture = FEAST_eventPicture 
+	fire_only_once = yes
+  is_triggered_only = yes
+	trigger = {
+		tag = FYM
+    is_year = 1524
+    is_at_war = no
+	}
+  
+	
+	option = {#这是当代社会中对浪漫和性的令人兴奋和着迷的阐述！
+		name = "EDG_flavor_FYM.226.aa"
+    add_treasury = -100
+    add_prestige_or_monarch_power = { amount = 20 }
+	}
+	option = {#这算什么鬼？
+		name = "EDG_flavor_FYM.226.cc"
+    add_prestige_or_monarch_power = { amount = 5 }
+	}
+	option = {#令人陶醉！
+		name = "EDG_flavor_FYM.226.bb"
+    add_dip_power = 25
+	}
+	option = {#孩子，你一点天赋都没有。
+		name = "EDG_flavor_FYM.226.dd"
+    trigger = {
+      OR = {
+        has_country_modifier = EDG_flavor_FYM_flavor_psychology_extreme_modifier_a_1
+        has_country_modifier = EDG_flavor_FYM_flavor_psychology_extreme_modifier_a_2
+      }
+    }
+    highlight = yes
+    add_adm_power = 25
+	}
+	option = {#让我回想起了吸大麻的感觉！
+		name = "EDG_flavor_FYM.226.ee"
+    trigger = {
+      OR = {
+        has_country_modifier = EDG_flavor_FYM_flavor_psychology_depressed_modifier_c_1
+        has_country_modifier = EDG_flavor_FYM_flavor_psychology_depressed_modifier_c_2
+      }
+    }
+    highlight = yes
+    add_mil_power = 25
+	}
+}
+country_event = {#$YEAR$年税法
+  id = EDG_flavor_FYM.227
+  title = "EDG_flavor_FYM.227.title"
+  desc = "EDG_flavor_FYM.227.desc"
+	picture = FEAST_eventPicture 
+	fire_only_once = yes
+  is_triggered_only = yes
+	trigger = {
+		tag = FYM
+    is_at_war = no
+    is_in_deficit = yes
+    is_year = 1500
+    num_of_loans = 10
+	}
+	option = {#我们确实需要一套新的税法。
+		name = "EDG_flavor_FYM.227.aa"
+    add_years_of_income = 0.5
+    add_country_modifier = {
+      name = EDG_flavor_FYM_226_a_modifier
+      duration = 7300
+    }
+	}
+	option = {#这会动摇既得利益者的蛋糕。
+		name = "EDG_flavor_FYM.227.bb"
+    add_stability_or_adm_power = yes
+	}
+  hidden_effect = {
+    country_event = { id = EDG_flavor_FYM.233 days = 3600 random = 1000 }
+  }
+}
+country_event = {#帝国意识形态
+  id = EDG_flavor_FYM.228
+  title = "EDG_flavor_FYM.228.title"
+  desc = "EDG_flavor_FYM.228.desc"
+	picture = FEAST_eventPicture 
+	fire_only_once = yes
+  is_triggered_only = yes
+	trigger = {
+    
+	}
+	option = {#在埃及的稳固统治是帝国长治久安的基石。
+		name = "EDG_flavor_FYM.228.aa"
+    custom_tooltip = EDG_flavor_FYM_yemeni_vs_egy_tt
+    add_faction_influence = {
+      faction = EDG_FYM_ADM_faction
+      influence = 10
+    }
+    add_country_modifier = {
+      name = EDG_flavor_FYM_228_a_modifier
+      duration = 7300
+    }
+	}
+	option = {#我们还是喜欢也门的传统。
+		name = "EDG_flavor_FYM.228.bb"
+    custom_tooltip = EDG_flavor_FYM_yemeni_vs_egy_tt
+    add_faction_influence = {
+      faction = EDG_FYM_MIL_faction
+      influence = 10
+    }
+    add_country_modifier = {
+      name = EDG_flavor_FYM_228_b_modifier
+      duration = 7300
+    }
+	}
+  after = {
+    hidden_effect = {
+      country_event = { id = EDG_flavor_FYM.230 days = 3650 random = 1000 }
+    }
+  }
+}
+country_event = {#摈斥也门人
+  id = EDG_flavor_FYM.229
+  title = "EDG_flavor_FYM.229.title"
+  desc = "EDG_flavor_FYM.229.desc"
+	picture = FEAST_eventPicture 
+	fire_only_once = yes
+  is_triggered_only = yes
+	trigger = {
+    tag = FYM
+    primary_culture = yemeni_culture
+    not = { religion = sunni }
+    has_regency = no
+    is_year = 1490
+	}
+	option = {#但在今天，我们才是主人！
+		name = "EDG_flavor_FYM.229.aa"
+    custom_tooltip = EDG_flavor_FYM_yemeni_vs_egy_tt
+    add_prestige = -10
+    add_faction_influence = {
+      faction = EDG_FYM_ADM_faction
+      influence = 10
+    }
+    add_faction_influence = {
+      faction = EDG_FYM_MIL_faction
+      influence = 10
+    }
+    hidden_effect = {
+      country_event = { id = EDG_flavor_FYM.228 days = 1825 }
+    }
+	}
+}
+country_event = {#[Root.Monarch.GetName]盛世
+  id = EDG_flavor_FYM.230
+  title = "EDG_flavor_FYM.230.title"
+  desc = "EDG_flavor_FYM.230.desc"
+	picture = FEAST_eventPicture 
+	fire_only_once = yes
+  is_triggered_only = yes
+	trigger = {
+    tag = FYM
+    primary_culture = yemeni_culture
+    not = { religion = sunni }
+    has_regency = no
+    is_year = 1490
+	}
+	option = {#这是埃及制度的功劳！
+		name = "EDG_flavor_FYM.230.aa"
+    custom_tooltip = EDG_flavor_FYM_yemeni_vs_egy_tt
+    add_faction_influence = {
+      faction = EDG_FYM_ADM_faction
+      influence = 10
+    }
+    add_country_modifier = {
+      name = EDG_flavor_FYM_230_a_modifier
+      duration = 9125
+    }
+	}
+	option = {#我们还是坚持也门的传统。
+		name = "EDG_flavor_FYM.230.bb"
+    custom_tooltip = EDG_flavor_FYM_yemeni_vs_egy_tt
+    add_faction_influence = {
+      faction = EDG_FYM_MIL_faction
+      influence = 10
+    }
+    add_country_modifier = {
+      name = EDG_flavor_FYM_230_b_modifier
+      duration = 9125
+    }
+    
+	}
+  after = {
+    hidden_effect = {
+      country_event = { id = EDG_flavor_FYM.232 days = 7300 random = 1000 }
+      country_event = { id = EDG_flavor_FYM.231 days = 7300 random = 1000 }
+    }
+  }
+}
+country_event = {#王朝传统
+  id = EDG_flavor_FYM.231
+  title = "EDG_flavor_FYM.231.title"
+  desc = "EDG_flavor_FYM.231.desc"
+	picture = FEAST_eventPicture 
+	fire_only_once = yes
+  is_triggered_only = yes
+	trigger = {
+    tag = FYM
+    primary_culture = yemeni_culture
+    not = { religion = sunni }
+    has_regency = no
+    is_year = 1490
+	}
+	option = {#我们定当以马利克的身份统治世界。
+		name = "EDG_flavor_FYM.231.aa"
+    custom_tooltip = EDG_flavor_FYM_yemeni_vs_egy_tt
+    add_faction_influence = {
+      faction = EDG_FYM_ADM_faction
+      influence = 10
+    }
+    add_country_modifier = {
+      name = EDG_flavor_FYM_231_a_modifier
+      duration = -1
+    }
+	}
+	option = {#萨哈达不能忘记位于也门的根！
+		name = "EDG_flavor_FYM.231.bb"
+    custom_tooltip = EDG_flavor_FYM_yemeni_vs_egy_tt
+    add_faction_influence = {
+      faction = EDG_FYM_MIL_faction
+      influence = 10
+    }
+    add_country_modifier = {
+      name = EDG_flavor_FYM_231_b_modifier
+      duration = -1
+    }
+    
+	}
+}
+country_event = {#孔雀王座的陪衬
+  id = EDG_flavor_FYM.232
+  title = "EDG_flavor_FYM.232.title"
+  desc = "EDG_flavor_FYM.232.desc"
+	picture = FEAST_eventPicture 
+	fire_only_once = yes
+  is_triggered_only = yes
+	trigger = {
+    tag = FYM
+    primary_culture = yemeni_culture
+    not = { religion = sunni }
+    has_regency = no
+    is_year = 1490
+	}
+	option = {#我们会选择埃及雕。
+		name = "EDG_flavor_FYM.232.aa"
+    custom_tooltip = EDG_flavor_FYM_yemeni_vs_egy_tt
+    add_adm_power = 50
+    add_faction_influence = {
+      faction = EDG_FYM_ADM_faction
+      influence = 10
+    }
+	}
+	option = {#也门的游隼是最好的选择。
+		name = "EDG_flavor_FYM.232.bb"
+    custom_tooltip = EDG_flavor_FYM_yemeni_vs_egy_tt
+    add_mil_power = 50
+    add_faction_influence = {
+      faction = EDG_FYM_MIL_faction
+      influence = 10
+    }
+  
+	}
+}
+country_event = {#官僚体系的膨胀
+  id = EDG_flavor_FYM.233
+  title = "EDG_flavor_FYM.233.title"
+  desc = "EDG_flavor_FYM.233.desc"
+	picture = FEAST_eventPicture 
+	fire_only_once = yes
+  is_triggered_only = yes
+	trigger = {
+    tag = FYM
+    
+	}
+	option = {#钦点更多的行政官员。
+		name = "EDG_flavor_FYM.233.aa"
+    custom_tooltip = EDG_flavor_FYM_government_tt
+    add_adm_power = -100
+    add_country_modifier = {
+      name = EDG_flavor_FYM_233_a_modifier
+      duration = 7300
+    }
+    add_faction_influence = {
+      faction = EDG_FYM_ADM_faction
+      influence = 10
+    }
+    hidden_effect = {
+      country_event = { id = EDG_flavor_FYM.234 days = 5000 random = 1000 }
+    }
+	}
+	option = {#我们可以靠现有人手应付问题。
+		name = "EDG_flavor_FYM.233.bb"
+    custom_tooltip = EDG_flavor_FYM_government_tt
+    add_country_modifier = {
+      name = EDG_flavor_FYM_233_b_modifier
+      duration = 7300
+    }
+	}
+  after = {
+    hidden_effect = {
+      country_event = { id = EDG_flavor_FYM.235 days = 8300 random = 1000 }
+    }
+  }
+}
+country_event = {#官僚体系的膨胀
+  id = EDG_flavor_FYM.234
+  title = "EDG_flavor_FYM.234.title"
+  desc = "EDG_flavor_FYM.234.desc"
+	picture = FEAST_eventPicture 
+	fire_only_once = yes
+  is_triggered_only = yes
+	trigger = {
+    tag = FYM
+    
+	}
+	option = {#裁撤冗员是必须的。
+		name = "EDG_flavor_FYM.234.aa"
+    custom_tooltip = EDG_flavor_FYM_government_tt
+    add_adm_power = -100
+    hidden_effect = {
+      remove_country_modifier = EDG_flavor_FYM_233_a_modifier
+    }
+    add_country_modifier = {
+      name = EDG_flavor_FYM_233_a_modifier
+      duration = 7300
+    }
+	}
+	option = {#我们需要行政人员。
+		name = "EDG_flavor_FYM.234.bb"
+    custom_tooltip = EDG_flavor_FYM_government_tt
+    add_faction_influence = {
+      faction = EDG_FYM_ADM_faction
+      influence = 10
+    }
+    remove_country_modifier = EDG_flavor_FYM_233_a_modifier
+    add_country_modifier = {
+      name = EDG_flavor_FYM_233_b_modifier
+      duration = 7300
+    }
+	}
+}
+country_event = {#外国官员
+  id = EDG_flavor_FYM.235
+  title = "EDG_flavor_FYM.235.title"
+  desc = "EDG_flavor_FYM.235.desc"
+	picture = FEAST_eventPicture 
+	fire_only_once = yes
+  is_triggered_only = yes
+	trigger = {
+    tag = FYM
+    
+	}
+	option = {#聘用他们。
+		name = "EDG_flavor_FYM.235.aa"
+    custom_tooltip = EDG_flavor_FYM_government_tt
+    add_adm_power = -100
+    hidden_effect = {
+      remove_country_modifier = EDG_flavor_FYM_233_a_modifier
+    }
+    add_country_modifier = {
+      name = EDG_flavor_FYM_233_a_modifier
+      duration = 7300
+    }
+	}
+	option = {#我们不需要外来人才。
+		name = "EDG_flavor_FYM.235.bb"
+    custom_tooltip = EDG_flavor_FYM_government_tt
+    add_faction_influence = {
+      faction = EDG_FYM_ADM_faction
+      influence = 10
+    }
+    remove_country_modifier = EDG_flavor_FYM_233_a_modifier
+    add_country_modifier = {
+      name = EDG_flavor_FYM_233_b_modifier
+      duration = 7300
+    }
+	}
+}
+country_event = {#萨哈达帝国的阿拉维派
+  id = EDG_flavor_FYM.236
+  title = "EDG_flavor_FYM.236.title"
+  desc = "EDG_flavor_FYM.236.desc"
+	picture = FEAST_eventPicture 
+	fire_only_once = yes
+  is_triggered_only = yes
+	trigger = {
+    tag = FYM
+    is_year = 1522
+    NOT = { religion = EDG_Alawite }
+	}
+	option = {#他们必须被镇压！
+		name = "EDG_flavor_FYM.236.aa"
+    set_global_flag = EDG_FYM_Alawite_resist_global_flag
+    add_stability = -1
+    custom_tooltip = EDG_flavor_FYM_236_a_tt
+    hidden_effect = {
+      every_owned_province = {
+        limit = { religion = EDG_Alawite }
+        add_unrest = 10
+      }
+    }
+	}
+}
+country_event = {#巩固马穆鲁克之链
+  id = EDG_flavor_FYM.237
+  title = "EDG_flavor_FYM.237.title"
+  desc = "EDG_flavor_FYM.237.desc"
+	picture = BANKRUPTCY_eventPicture 
+	fire_only_once = yes
+  is_triggered_only = yes
+	trigger = {
+    tag = FYM
+    is_year = 1524
+	}
+	option = {#马穆鲁克必须被束缚。
+		name = "EDG_flavor_FYM.237.aa"
+    custom_tooltip = EDG_flavor_FYM_mam_link_tt
+    add_country_modifier = {
+      name = EDG_flavor_FYM_237_a_modifier
+      duration = -1
+    }
+	}
+	option = {#来吧，自由的马穆鲁克人！
+		name = "EDG_flavor_FYM.237.bb"
+    custom_tooltip = EDG_flavor_FYM_mam_link_tt
+    add_country_modifier = {
+      name = EDG_flavor_FYM_237_b_modifier
+      duration = -1
+    }
+	}
+  after = {
+    hidden_effect = {
+      country_event = { id = EDG_flavor_FYM.238 days = 3650 }
+    }
+  }
+}
+country_event = {#严酷的训练
+  id = EDG_flavor_FYM.238
+  title = "EDG_flavor_FYM.238.title"
+  desc = "EDG_flavor_FYM.238.desc"
+	picture = BANKRUPTCY_eventPicture 
+	fire_only_once = yes
+  is_triggered_only = yes
+	trigger = {
+	}
+	option = {#马穆鲁克必须被束缚。
+		name = "EDG_flavor_FYM.238.aa"
+    if = {
+      limit = { has_country_modifier = EDG_flavor_FYM_237_b_modifier_2 }
+      remove_country_modifier = EDG_flavor_FYM_237_b_modifier_2
+      add_country_modifier = {
+        name = EDG_flavor_FYM_237_c_modifier_3
+        duration = -1
+      }
+    }
+    else_if = {
+      limit = { has_country_modifier = EDG_flavor_FYM_237_a_modifier }
+      remove_country_modifier = EDG_flavor_FYM_237_a_modifier
+      add_country_modifier = {
+        name = EDG_flavor_FYM_237_b_modifier_2
+        duration = -1
+      }
+    }
+    else = {
+      add_country_modifier = {
+        name = EDG_flavor_FYM_237_a_modifier
+        duration = -1
+      }
+    }
+	}
+	option = {#他们应当自由。
+		name = "EDG_flavor_FYM.238.bb"
+    if = {
+      limit = { has_country_modifier = EDG_flavor_FYM_237_b_modifier }
+      add_mil_power = 100
+    }
+    else = {
+      add_country_modifier = {
+        name = EDG_flavor_FYM_237_b_modifier
+        duration = -1
+      }
+    }
+	}
+  after = {
+    hidden_effect = {
+      country_event = { id = EDG_flavor_FYM.239 days = 3650 }
+    }
+  }
+}
+country_event = {#帝国柱石
+  id = EDG_flavor_FYM.239
+  title = "EDG_flavor_FYM.239.title"
+  desc = "EDG_flavor_FYM.239.desc"
+	picture = BANKRUPTCY_eventPicture 
+	fire_only_once = yes
+  is_triggered_only = yes
+	trigger = {
+	}
+	option = {#马穆鲁克必须被束缚。
+		name = "EDG_flavor_FYM.239.aa"
+    if = {
+      limit = { has_country_modifier = EDG_flavor_FYM_237_b_modifier_2 }
+      remove_country_modifier = EDG_flavor_FYM_237_b_modifier_2
+      add_country_modifier = {
+        name = EDG_flavor_FYM_237_c_modifier_3
+        duration = -1
+      }
+    }
+    else_if = {
+      limit = { has_country_modifier = EDG_flavor_FYM_237_a_modifier }
+      remove_country_modifier = EDG_flavor_FYM_237_a_modifier
+      add_country_modifier = {
+        name = EDG_flavor_FYM_237_b_modifier_2
+        duration = -1
+      }
+    }
+    else = {
+      add_country_modifier = {
+        name = EDG_flavor_FYM_237_a_modifier
+        duration = -1
+      }
+    }
+	}
+	option = {#他们应当自由。
+		name = "EDG_flavor_FYM.239.bb"
+    if = {
+      limit = { has_country_modifier = EDG_flavor_FYM_237_b_modifier }
+      add_mil_power = 100
+    }
+    else = {
+      add_country_modifier = {
+        name = EDG_flavor_FYM_237_b_modifier
+        duration = -1
+      }
+    }
+	}
+  after = {
+    set_country_flag = EDG_FYM_mission_5_30_trigger_flag
+  }
+}
+country_event = {#忠诚的文官
+  id = EDG_flavor_FYM.240
+  title = "EDG_flavor_FYM.240.title"
+  desc = "EDG_flavor_FYM.240.desc"
+	picture = BATTLE_eventPicture 
+	fire_only_once = yes
+  is_triggered_only = yes
+	trigger = {
+    tag = FYM
+    ruler_has_personality = EDG_personality_yidelisi
+	}
+	option = {#我们应得的。
+		name = "EDG_flavor_FYM.240.aa"
+    change_adm = 1
+    add_ruler_modifier = {
+      name = EDG_flavor_FYM_240_a_modifier
+      duration = -1
+    }
+	}
+  
+}
+country_event = {#「伊德里斯宴」
+  id = EDG_flavor_FYM.241
+  title = "EDG_flavor_FYM.241.title"
+  desc = "EDG_flavor_FYM.241.desc"
+	picture = BATTLE_eventPicture
+	fire_only_once = yes
+  is_triggered_only = yes
+	trigger = {
+    tag = FYM
+    ruler_has_personality = EDG_personality_yidelisi
+	}
+	option = {#强权是最好的菜肴。
+		name = "EDG_flavor_FYM.241.aa"
+    change_mil = 1
+    add_ruler_modifier = {
+      name = EDG_flavor_FYM_241_a_modifier
+      duration = -1
+    }
+	}
+  
+}
+country_event = {#伊德里斯的计划
+  id = EDG_flavor_FYM.242
+  title = "EDG_flavor_FYM.242.title"
+  desc = "EDG_flavor_FYM.242.desc"
+	picture = BATTLE_eventPicture
+	fire_only_once = yes
+  is_triggered_only = yes
+	trigger = {
+    tag = FYM
+    ruler_has_personality = EDG_personality_yidelisi
+	}
+	option = {#让我们期待……
+		name = "EDG_flavor_FYM.242.aa"
+    custom_tooltip = EDG_flavor_FYM_242_A_tt
+    hidden_effect = {
+      country_event = { id = EDG_flavor_FYM.241 days = 900  }
+    }
+	}
+	option = {#我们不能屠戮我们的马穆鲁克。
+		name = "EDG_flavor_FYM.242.bb"
+    add_prestige = -5
+	}
+  
+}
+country_event = {#残忍的马利克
+  id = EDG_flavor_FYM.243
+  title = "EDG_flavor_FYM.243.title"
+  desc = "EDG_flavor_FYM.243.desc"
+	picture = BATTLE_eventPicture
+	fire_only_once = yes
+  is_triggered_only = yes
+	trigger = {
+    tag = FYM
+    ruler_has_personality = EDG_personality_yidelisi
+	}
+	option = {#[Root.Monarch.GetName]杀错谁了？
+		name = "EDG_flavor_FYM.243.aa"
+    add_government_power = {
+      mechanic_type = EDG_FYM_Monarchy_ability
+      power_type = EDG_FYM_Monarchy_power
+      value = 10
+    }
+    add_ruler_modifier = {
+      name = EDG_flavor_FYM_243_a_modifier
+      duration = -1
+    }
+	}
+	option = {#我们应该心平气和……
+		name = "EDG_flavor_FYM.243.bb"
+    add_prestige = -5
+    add_government_power = {
+      mechanic_type = EDG_FYM_Monarchy_ability
+      power_type = EDG_FYM_Monarchy_power
+      value = -10
+    }
+	}
+  
+}
+country_event = {#[Root.Monarch.GetName]的驾崩  #扎伊德的驾崩
+  id = EDG_flavor_FYM.244
+  title = "EDG_flavor_FYM.244.title"
+  desc = "EDG_flavor_FYM.244.desc"
+	picture = BATTLE_eventPicture
+	fire_only_once = yes
+  is_triggered_only = yes
+	trigger = {
+    tag = FYM
+    ruler_has_personality = EDG_personality_zhayide
+    ruler_age = 70
+	}
+  immediate = {
+    
+  }
+	option = {#「父亲，我来见你了。」
+		name = "EDG_flavor_FYM.244.aa"
+    kill_ruler = yes
+    tooltip = {
+      add_stability = -1
+    }
+	}
+  
+}
+country_event = {#伊德里斯的篡权
+  id = EDG_flavor_FYM.245
+  title = "EDG_flavor_FYM.245.title"
+  desc = "EDG_flavor_FYM.245.desc"
+	picture = BATTLE_eventPicture
+	fire_only_once = yes
+  is_triggered_only = yes
+	trigger = {
+    tag = FYM
+    heir_has_personality = EDG_personality_yidelisi
+	}
+  immediate = {
+    
+  }
+	option = {#「仁慈是最危险的毒药。」
+		name = "EDG_flavor_FYM.245.aa"
+    kill_ruler = yes
+    tooltip = {
+      add_stability = -1
+    }
+	}
+	option = {#我们决不允许僭越！
+		name = "EDG_flavor_FYM.245.bb"
+    kill_heir = {}
+    add_stability = -1
+	}
+  
+}
+country_event = {#耳边风
+  id = EDG_flavor_FYM.246
+  title = "EDG_flavor_FYM.246.title"
+  desc = "EDG_flavor_FYM.246.desc"
+	picture = BATTLE_eventPicture
+	fire_only_once = yes
+  is_triggered_only = yes
+	trigger = {
+    tag = FYM
+    is_year = 1536
+    is_at_war = yes
+    has_any_disaster = no
+    stability = 1
+    not = { heir_has_personality = EDG_personality_zhayide }
+    not = { heir_has_personality = EDG_personality_yidelisi }
+    not = { heir_has_personality = EDG_personality_faheda }
+    not = { heir_has_personality = EDG_personality_haiyisi }
+	}
+  immediate = {
+    
+  }
+	option = {#「仁慈是最危险的毒药。」
+		name = "EDG_flavor_FYM.246.aa"
+    custom_tooltip = EDG_flavor_FYM_246_a_tt
+    add_stability = -1
+		add_government_power = {
+		  mechanic_type = EDG_FYM_Monarchy_ability
+		  power_type = EDG_FYM_Monarchy_power
+		  value = 5
+		}
+	}
+	option = {#他们是最忠诚的马穆鲁克。
+		name = "EDG_flavor_FYM.246.bb"
+    custom_tooltip = EDG_flavor_FYM_246_b_tt
+    add_ruler_modifier = {
+      name = EDG_flavor_FYM_246_b_modifier
+      duration = -1
+    }
+    hidden_effect = {
+      country_event = { id = EDG_flavor_FYM.247 days = 700  }
+    }
+	}
+  
+}
+country_event = {#阿斯雷斯政变
+  id = EDG_flavor_FYM.247
+  title = "EDG_flavor_FYM.247.title"
+  desc = "EDG_flavor_FYM.247.desc"
+	picture = BATTLE_eventPicture
+	fire_only_once = yes
+  is_triggered_only = yes
+	trigger = {
+    tag = FYM
+	}
+  immediate = {
+    
+  }
+	option = {#「仁慈是最危险的毒药。」
+		name = "EDG_flavor_FYM.247.aa"
+    kill_ruler = yes
+    tooltip = {
+      add_stability = -2
+    }
+    hidden_effect = {
+      add_stability = -1
+    }
+    add_adm_power = -100
+    add_dip_power = -100
+    add_mil_power = -100
+    add_country_modifier = {
+      name = EDG_flavor_FYM_247_a_modifier
+      duration = 3650
+    }
+	}
+  
+}
+country_event = {#美丽的阿诗玛，尼罗河畔的花朵
+  id = EDG_flavor_FYM.248
+  title = "EDG_flavor_FYM.248.title"
+  desc = "EDG_flavor_FYM.248.desc"
+	picture = GOOD_WITH_MONARCH_eventPicture
+	fire_only_once = yes
+  is_triggered_only = yes
+	trigger = {
+    tag = FYM
+    is_year = 1550
+	}
+  immediate = {
+    
+  }
+	option = {#这个妖妇！将她碎尸万段！
+		name = "EDG_flavor_FYM.248.aa"
+    add_prestige = -10
+    custom_tooltip = EDG_flavor_FYM_248_a_tt
+	}
+	option = {#但她是多么美丽！
+		name = "EDG_flavor_FYM.248.bb"
+    add_prestige_or_monarch_power = { amount = 10 }
+    set_ruler = EDG_flavor_FYM_248_b_ruler_flag
+    hidden_effect = {
+      country_event = { id = EDG_flavor_FYM.249 days = 500 }
+    }
+    add_ruler_modifier = {
+      name = EDG_flavor_FYM_248_b_modifier
+      duration = -1
+    }
+	}
+}
+country_event = {#至美之花，至毒之心
+  id = EDG_flavor_FYM.249
+  title = "EDG_flavor_FYM.249.title"
+  desc = "EDG_flavor_FYM.249.desc"
+	picture = BAD_WITH_MONARCH_eventPicture
+	fire_only_once = yes
+  is_triggered_only = yes
+	trigger = {
+    tag = FYM
+    has_ruler_flag = EDG_flavor_FYM_248_b_ruler_flag
+	}
+  immediate = {
+    
+  }
+	option = {#你……为什么？！
+		name = "EDG_flavor_FYM.249.aa"
+    remove_country_modifier = EDG_flavor_FYM_248_b_modifier
+    add_prestige = -20
+    add_ruler_modifier = {
+      name = EDG_flavor_FYM_249_a_modifier
+      duration = -1
+    }
+	}
+  
+}
+country_event = {#入侵伊比利亚
+  id = EDG_flavor_FYM.250
+  title = "EDG_flavor_FYM.250.title"
+  desc = "EDG_flavor_FYM.250.desc"
+	picture = BATTLE_eventPicture
+	fire_only_once = yes
+  is_triggered_only = yes
+	trigger = {
+    tag = FYM
+    any_country = {
+      capital_scope = { region = iberia_region }
+      defensive_war_with = ROOT
+    }
+	}
+  immediate = {
+    
+  }
+	option = {#好戏即将上演。
+		name = "EDG_flavor_FYM.250.aa"
+    add_mil_power = 50
+    add_ruler_modifier = {
+      name = EDG_flavor_FYM_250_a_modifier
+      duration = 3650
+    }
+	}
+  
+}
+country_event = {#决战奥斯曼王朝
+  id = EDG_flavor_FYM.251
+  title = "EDG_flavor_FYM.251.title"
+  desc = "EDG_flavor_FYM.251.desc"
+	picture = BATTLE_eventPicture
+	fire_only_once = yes
+  is_triggered_only = yes
+	trigger = {
+    tag = FYM
+    OR = {
+      MHM = { defensive_war_with = ROOT }
+      TUR = { defensive_war_with = ROOT }
+    }
+	}
+  immediate = {
+    
+  }
+	option = {#他们不过是突厥野夫。
+		name = "EDG_flavor_FYM.251.aa"
+    add_mil_power = 50
+    add_ruler_modifier = {
+      name = EDG_flavor_FYM_251_a_modifier
+      duration = 3650
+    }
+	}
+  
+}
+country_event = {#萨哈达与意大利战争
+  id = EDG_flavor_FYM.252
+  title = "EDG_flavor_FYM.252.title"
+  desc = "EDG_flavor_FYM.252.desc"
+	picture = BATTLE_eventPicture
+	fire_only_once = yes
+  is_triggered_only = yes
+	trigger = {
+    tag = FYM
+    any_country = {
+      capital_scope = { region = italy_region }
+      defensive_war_with = ROOT
+    }
+	}
+  immediate = {
+    
+  }
+	option = {#我们会直搞基督教的心脏。
+		name = "EDG_flavor_FYM.252.aa"
+    add_army_tradition = 10
+    add_ruler_modifier = {
+      name = EDG_flavor_FYM_252_a_modifier
+      duration = 3650
+    }
+	}
+  
+}
+country_event = {#鸢尾花战争
+  id = EDG_flavor_FYM.253
+  title = "EDG_flavor_FYM.253.title"
+  desc = "EDG_flavor_FYM.253.desc"
+	picture = BATTLE_eventPicture
+	fire_only_once = yes
+  is_triggered_only = yes
+	trigger = {
+    tag = FYM
+    FRA = { defensive_war_with = ROOT }
+	}
+  immediate = {
+    
+  }
+	option = {#我们会复仇图尔战役。
+		name = "EDG_flavor_FYM.253.aa"
+    add_army_tradition = 10
+    add_ruler_modifier = {
+      name = EDG_flavor_FYM_253_a_modifier
+      duration = 3650
+    }
+	}
+  
+}
+country_event = {#学术败类
+  id = EDG_flavor_FYM.254
+  title = "EDG_flavor_FYM.254.title"
+  desc = "EDG_flavor_FYM.254.desc"
+	picture = EDG_EVENT_PICTURE_hell_4
+	fire_only_once = yes
+  is_triggered_only = yes
+	trigger = {
+    tag = FYM
+    ruler_has_personality = EDG_personality_yidelisi
+	}
+  immediate = {
+    
+  }
+	option = {#这就是学术败类的下场！
+		name = "EDG_flavor_FYM.254.aa"
+    add_adm_power = 50
+		add_government_power = {
+		  mechanic_type = EDG_FYM_Monarchy_ability
+		  power_type = EDG_FYM_Monarchy_power
+		  value = 5
+		}
+    add_estate_loyalty_modifier = {
+      estate = estate_church
+      desc = EDG_Discontent_estate_loyalty_modifier
+      loyalty = -20
+      duration = 3650
+    }
+	}
+	option = {#这样是不是太极端了？
+		name = "EDG_flavor_FYM.254.bb"
+    add_corruption = 3
+		add_government_power = {
+		  mechanic_type = EDG_FYM_Monarchy_ability
+		  power_type = EDG_FYM_Monarchy_power
+		  value = -10
+		}
+    add_estate_loyalty_modifier = {
+      estate = estate_church
+      desc = EDG_Favoritism_estate_loyalty_modifier
+      loyalty = 20
+      duration = 3650
+    }
+	}
+  
+}

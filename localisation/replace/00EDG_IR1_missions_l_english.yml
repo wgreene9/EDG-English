@@ -17,7 +17,7 @@
 00EDG_IR1_B1_5_title:0 ""
 00EDG_IR1_B1_5_desc:0 ""
 
-00EDG_IR1_C1_1_title:0 "Like a Phantom Mirage"
+00EDG_IR1_C1_1_title:0 "A Phantom Mirage" # Like a Phantom Mirage
 00EDG_IR1_C1_1_desc:0 ""
 
 00EDG_IR1_C1_2_title:0 "Northern Expedition"
@@ -38,7 +38,7 @@
 00EDG_IR1_D1_3_title:0 "Chakravartin Kingdom"
 00EDG_IR1_D1_3_desc:0 ""
 
-00EDG_IR1_E1_1_title:0 "Raid the Grand Trunk Road"
+00EDG_IR1_E1_1_title:0 "Raid the Grand Trunk" # Raid the Grand Trunk Road
 00EDG_IR1_E1_1_desc:0 ""
 
 00EDG_IR1_E1_2_title:0 "Ganges Delta"
@@ -50,7 +50,7 @@
 00EDG_IR1_A2_1_title:0 "Aid the Northern Yuan"
 00EDG_IR1_A2_1_desc:0 ""
 
-00EDG_IR1_A2_2_title:0 "Land Ends Here, Sea Without End"
+00EDG_IR1_A2_2_title:0 "Land's End, Boundless Sea" # Land Ends Here, Sea Without End
 00EDG_IR1_A2_2_desc:0 ""
 
 00EDG_IR1_A2_3_title:0 "Destroy the False Tang"
@@ -65,7 +65,7 @@
 00EDG_IR1_C2_1_title:0 "The Return of the Kaiyuan Era"
 00EDG_IR1_C2_1_desc:0 ""
 
-00EDG_IR1_C2_2_title:0 "Heavenly Kingdom on Earth"
+00EDG_IR1_C2_2_title:0 "Kingdom of Heaven" # Heavenly Kingdom on Earth
 00EDG_IR1_C2_2_desc:0 ""
 
 00EDG_IR1_D2_1_title:0 "Campaign into Burma"
@@ -77,7 +77,7 @@
 00EDG_IR1_E2_1_title:0 "Ayutthaya Supa"
 00EDG_IR1_E2_1_desc:0 ""
 
-00EDG_IR1_E2_2_title:0 "Control the Indochinese Peninsula"
+00EDG_IR1_E2_2_title:0 "Control Indochina" # Control the Indochinese Peninsula
 00EDG_IR1_E2_2_desc:0 ""
 
 00EDG_IR1_E2_3_title:0 "Governor of Malacca"
@@ -137,7 +137,7 @@
 00EDG_IR1_B4_1_title:0 "Form the Topçu Corps"
 00EDG_IR1_B4_1_desc:0 ""
 
-00EDG_IR1_B4_2_title:0 "The Transformation of War"
+00EDG_IR1_B4_2_title:0 "Transformation of War" # The Transformation of War
 00EDG_IR1_B4_2_desc:0 ""
 
 00EDG_IR1_C4_1_title:0 "Establish a New Army"
@@ -152,10 +152,10 @@
 00EDG_IR1_D4_1_title:0 "The Ghulam in the Army"
 00EDG_IR1_D4_1_desc:0 ""
 
-00EDG_IR1_D4_2_title:0 "Imperial Military Academy"
+00EDG_IR1_D4_2_title:0 "State Military Academy" # Imperial Military Academy
 00EDG_IR1_D4_2_desc:0 ""
 
-00EDG_IR1_E4_1_title:0 "New Generation of the Military"
+00EDG_IR1_E4_1_title:0 "New Military Generation" # New Generation of the Military
 00EDG_IR1_E4_1_desc:0 ""
 
 00EDG_IR1_A5_1_title:0 "Imperial Silk Fabrics"

@@ -967,11 +967,11 @@ EDG_incident_aachen_free_city_event.1.b:0 "We care not for so-called Free City s
 
 
 #Princely Decisions
-EDG_HRE_decision_require_to_remove_free_twon_by_emp_title:0 "£icon_EDG_icon_hre_member£Annex Imperial Village by Edict" # £icon_EDG_icon_hre_member£Annex Imperial Free Village Through Imperial Edict
+EDG_HRE_decision_require_to_remove_free_twon_by_emp_title:0 "£icon_EDG_icon_hre_member£Revoke Reichsdorf Privileges by Edict" # £icon_EDG_icon_hre_member£Annex Imperial Free Village Through Imperial Edict
 EDG_HRE_decision_require_to_remove_free_twon_by_emp_desc:0 "The existence of Imperial Free Villages (Reichsdörfer) hinders our centralization efforts. We must apply to the Emperor to lawfully annex this autonomous entity."
 EDG_HRE_decision_require_to_remove_free_twon_by_emp_cash_50_tt:0 "The §YEmperor§! may §Gapprove§!, §Gdemand a bribe§!, or §Rrefuse§!.\nIf our treasury holds §Y50§! ducats, the §!Emperor§! is more likely to §Gdemand a bribe§! rather than outright refuse.\n\n£icon_EDG_icon_hre_memberr£ The Emperor will have the authority to approve or refuse, influenced by the following factors:\n\n-§MPositive Influences§!\n-[Root.GetAdjective]'s §Gdiplomatic reputation§!\n-[Root.GetAdjective]'s §Gprestige§!\n-Favorable opinion of [Root.GetAdjective] §G§!\n-Is a §Gmilitary ally§! of [Root.GetAdjective]\n-Is a §Gsubject§! of [Root.GetAdjective]\n\n-§MNegative Influences§!\n-Is a §Rrival§! of [Root.GetAdjective]\n-Is §Rat war§! with [Root.GetAdjective]\n-[Root.GetAdjective]'s §Rdevelopment§!\n-[Root.GetAdjective]'s §Rprestige§!\n-[Root.GetAdjective]'s §Rfinancial situation§!"
 
-EDG_HRE_decision_require_to_remove_free_twon_by_self_title:0 "£icon_EDG_icon_hre_member£Annex Imperial Village by Force" # £icon_EDG_icon_hre_member£Annex Imperial Free Village Through Forceful Means
+EDG_HRE_decision_require_to_remove_free_twon_by_self_title:0 "£icon_EDG_icon_hre_member£Revoke Reichsdorf Privileges by Force" # £icon_EDG_icon_hre_member£Annex Imperial Free Village Through Forceful Means
 EDG_HRE_decision_require_to_remove_free_twon_by_self_desc:0 "We can annex the Imperial Free Village through forceful measures..."
 
 EDG_HRE_decision_be_HRE_archbishop_title:0 "£icon_EDG_icon_hre_member£Adopt the Title of Imperial Archbishop"
@@ -1003,7 +1003,7 @@ EDG_appeal_to_be_Generalissimo_decision_desc:0 "According to Imperial tradition,
 EDG_Generalissimo_ask_be_alliance_to_EMP_decision_title:0 "£icon_EDG_icon_hre_member£'Imperial Field Marshal' Requests Alliance with the Emperor"
 EDG_Generalissimo_ask_be_alliance_to_EMP_decision_desc:0 "Within the Holy Roman Empire, the relationship between the Emperor and the Field Marshal should be close. The Emperor appoints the Field Marshal and grants certain privileges, while the Field Marshal stands with the Emperor, aiding in the defense of the Empire."
 
-EDG_EMP_ask_be_alliance_to_Generalissimo_decision_title:0 "£icon_EDG_icon_hre_member£Emperor Requests Alliance with the Field Marshal"
+EDG_EMP_ask_be_alliance_to_Generalissimo_decision_title:0 "£icon_EDG_icon_hre_member£Request Alliance with the Field Marshal" # Emperor Requests Alliance with the Field Marshal
 EDG_EMP_ask_be_alliance_to_Generalissimo_decision_desc:0 "Within the Holy Roman Empire, the relationship between the Emperor and the Field Marshal should be close. The Emperor appoints the Field Marshal and grants certain privileges, while the Field Marshal stands with the Emperor, aiding in the defense of the Empire."
 
 EDG_incident_schmalkaldic_league_emp_war_decision_in_20_years_modifier:0 "Has Not Declared War on the Schmalkaldic League Within 20 Years"

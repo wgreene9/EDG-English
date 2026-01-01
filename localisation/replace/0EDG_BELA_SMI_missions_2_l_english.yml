@@ -1,0 +1,108 @@
+﻿l_english:
+EDG_BELA_LPL_1_1_title:0 "Unite the Brother Peoples"
+EDG_BELA_LPL_1_1_desc:0 "Whether Sámi, Suomi, or Karelian, we share similar languages and customs. We should unite as one!"
+
+EDG_BELA_LPL_1_4_title:0 "Lapland Parliament"
+EDG_BELA_LPL_1_4_desc:0 "The Lapland Parliament should represent all the people of Lapland. We need to ensure that the majority can participate in its operation."
+
+EDG_BELA_LPL_1_5_title:0 "An Equal Society"
+EDG_BELA_LPL_1_5_desc:0 "Everyone's rights should be guaranteed. Therefore, our parliament must represent all the people of Lapland."
+
+EDG_BELA_LPL_2_2_title:0 "Unify Lapland"
+EDG_BELA_LPL_2_2_desc:0 "Regardless of one's original identity, upon coming to Lapland, you become a Laplander."
+
+EDG_BELA_LPL_2_4_title:0 "Lapland Defense"
+EDG_BELA_LPL_2_4_desc:0 "Although we have no intention of invading other countries, we must also guard against others invading us!"
+
+EDG_BELA_LPL_2_5_title:0 "Defend the Pure Land"
+EDG_BELA_LPL_2_5_desc:0 "Lapland is the shared homeland of each and every one of us. Therefore, we must defend her. People, come and serve Lapland!"
+
+EDG_BELA_LPL_3_1_title:0 "Form the Anjala Alliance"
+EDG_BELA_LPL_3_1_desc:0 "On August 12th, 112 Finnish nobles founded the 'Anjala Alliance' and began negotiations with the Russians. They believed the war with Russia was unlawful and explored the possibility of Finnish independence."
+
+EDG_BELA_LPL_3_2_title:0 "Lapland Renaissance"
+EDG_BELA_LPL_3_2_desc:0 "Lapland never had any serious literature and arts before. But with the Renaissance spreading from Italy to Lapland, we too have gained arts in the modern sense."
+
+EDG_BELA_LPL_3_3_title:0 "Northern Paradise"
+EDG_BELA_LPL_3_3_desc:0 "Perhaps Lapland is not a powerful nation, but she is peaceful, prosperous, and free... In any case, while Lapland may not be a land flowing with milk and honey, she is always a place worth yearning for."
+
+EDG_BELA_LPL_3_4_title:0 "Lapland Construction"
+EDG_BELA_LPL_3_4_desc:0 "Economic development and population growth bring about urban expansion. Therefore, we must construct essential buildings in our towns and cities to better sustain the functioning of society."
+
+EDG_BELA_LPL_3_5_title:0 "Prosperous Unity"
+EDG_BELA_LPL_3_5_desc:0 "Our society has perfected social services. Every province is thriving and flourishing."
+
+EDG_BELA_LPL_3_6_title:0 "True Utopia"
+EDG_BELA_LPL_3_6_desc:0 "Utopia, originally meaning 'no place' or 'good place,' never existed in history. But from now on, Utopia can be Lapland."
+
+EDG_BELA_LPL_4_2_title:0 "Convene the Diet of Porvoo" # Convene the Porvoo Assembly
+EDG_BELA_LPL_4_2_desc:0 "In Porvoo, we will gather representatives from all classes of Laplander society to decide the future and destiny of our nation."
+
+EDG_BELA_LPL_4_4_title:0 "Lapland Education"
+EDG_BELA_LPL_4_4_desc:0 "Education is the foremost priority of the state. Through literacy and skill acquisition in schools, our people can achieve higher productivity and develop discerning insights."
+
+EDG_BELA_LPL_4_5_title:0 "Land of the Wise"
+EDG_BELA_LPL_4_5_desc:0 "Our nation is now known as the 'Land of the Wise' and the 'Philosophers' Land.' All these achievements are due to our widespread education."
+
+EDG_BELA_LPL_5_1_title:0 "Additional Tribute"
+EDG_BELA_LPL_5_1_desc:0 "Our overlord is a powerful and civilized nation. Therefore, we need to prove our worth to the overlord. At the same time, as a subject, we must regularly have audiences with the overlord to demonstrate our loyalty. During these audiences, we may also present some reasonable and lawful requests to our benevolent overlord."
+
+EDG_BELA_LPL_5_4_title:0 "Lapland Administration"
+EDG_BELA_LPL_5_4_desc:0 "State administration involves transmitting directives from above and reporting information from below. We must ensure that government instructions are swiftly implemented at the grassroots level, and grassroots information is promptly reflected back to the government."
+
+EDG_BELA_LPL_5_5_title:0 "Efficient Governance"
+EDG_BELA_LPL_5_5_desc:0 "High efficiency, high effectiveness—with an administrative network spanning the entire nation, the Lapland government's governance will far surpass that of other countries."
+
+EDG_BELA_LPL_1_1_province_trigger_tt:0 "We have already controlled all §YLapland provinces§! (§YSámi§!, §YFinnish§!, and §YKarelian§! provinces)."
+EDG_BELA_LPL_1_1_province_tt:0 "We will receive monarch points equivalent to §Yfive times§! the current development from each §YLapland province§! under our control, and increase the tax, production, and manpower development of all §YLapland provinces§!."
+EDG_BELA_LPL_1_1_tt:0 "Unlocks the §Yspecial cultural assimilation mechanism§!, which gives us a chance to convert the culture of §YLapland provinces§! to our §Yprimary culture§! when increasing their development. The §Yhigher§! the local development, the §Ygreater§! the conversion chance.\n§RNote§!: This §Ymechanism§! is only §Yactive§! while the modifier '§YUnification of the Lapland Peoples§!' is present."
+EDG_BELA_LPL_1_4_has_humanist_ideas_no_tt:0 "£no£If we have opened the §YHumanist idea group§!:"
+EDG_BELA_LPL_1_4_has_humanist_ideas_yes_tt:0 "£yes£If we have opened the §YHumanist idea group§!:"
+EDG_BELA_LPL_1_5_tt:0 "The modifier '§YLapland National Assembly§!' will be upgraded:"
+EDG_BELA_LPL_1_5_full_humanist_ideas_no_tt:0 "£no£If we have completed the §YHumanist idea group§!, the modifier '§YLapland Humanism§!' will be upgraded:"
+EDG_BELA_LPL_1_5_full_humanist_ideas_yes_tt:0 "£yes£If we have completed the §YHumanist idea group§!, the modifier '§YLapland Humanism§!' will be upgraded:"
+
+EDG_BELA_LPL_2_2_province_trigger_tt:0 "All §YLapland provinces§! are under our control and are of our §Yprimary culture§!."
+EDG_BELA_LPL_2_4_has_defensive_ideas_no_tt:0 "£no£If we have opened the §YDefensive idea group§!:"
+EDG_BELA_LPL_2_4_has_defensive_ideas_yes_tt:0 "£yes£If we have opened the §YDefensive idea group§!:"
+EDG_BELA_LPL_2_4_has_naval_ideas_no_tt:0 "£no£If we have opened the §YNaval idea group§!:"
+EDG_BELA_LPL_2_4_has_naval_ideas_yes_tt:0 "£yes£If we have opened the §YNaval idea group§!:"
+EDG_BELA_LPL_2_4_has_quality_ideas_no_tt:0 "£no£If we have opened the §YQuality idea group§!:"
+EDG_BELA_LPL_2_4_has_quality_ideas_yes_tt:0 "£yes£If we have opened the §YQuality idea group§!:"
+EDG_BELA_LPL_2_5_tt:0 "The modifier '§YLapland National Guard§!' will be upgraded:"
+EDG_BELA_LPL_2_5_full_defensive_ideas_no_tt:0 "£no£If we have completed the §YDefensive idea group§!, the modifier '§YLapland Defense Theory§!' will be upgraded:"
+EDG_BELA_LPL_2_5_full_defensive_ideas_yes_tt:0 "£yes£If we have completed the §YDefensive idea group§!, the modifier '§YLapland Defense Theory§!' will be upgraded:"
+EDG_BELA_LPL_2_5_full_naval_ideas_no_tt:0 "£no£If we have completed the §YNaval idea group§!, the modifier '§YLapland Naval Theory§!' will be upgraded:"
+EDG_BELA_LPL_2_5_full_naval_ideas_yes_tt:0 "£yes£If we have completed the §YNaval idea group§!, the modifier '§YLapland Naval Theory§!' will be upgraded:"
+EDG_BELA_LPL_2_5_full_quality_ideas_no_tt:0 "£no£If we have completed the §YQuality idea group§!, the modifier '§YLapland Corps Theory§!' will be upgraded:"
+EDG_BELA_LPL_2_5_full_quality_ideas_yes_tt:0 "£yes£If we have completed the §YQuality idea group§!, the modifier '§YLapland Corps Theory§!' will be upgraded:"
+EDG_BELA_LPL_3_1_tt:0 "Our overlord will be more likely to choose non-interference in our future in the '§YPorvoo Ultimatum§!'. If war breaks out, we will also receive §Rpowerful bonuses§! until the war ends."
+
+EDG_BELA_LPL_3_4_has_economic_ideas_no_tt:0 "£no£If we have opened the §YEconomic idea group§!:"
+EDG_BELA_LPL_3_4_has_economic_ideas_yes_tt:0 "£yes£If we have opened the §YEconomic idea group§!:"
+EDG_BELA_LPL_3_4_has_infrastructure_ideas_no_tt:0 "£no£If we have opened the §YInfrastructure idea group§!:"
+EDG_BELA_LPL_3_4_has_infrastructure_ideas_yes_tt:0 "£yes£If we have opened the §YInfrastructure idea group§!:"
+EDG_BELA_LPL_3_5_tt:0 "The modifier '§YLapland National Economy§!' will be upgraded:"
+EDG_BELA_LPL_3_5_full_economic_ideas_no_tt:0 "£no£If we have completed the §YEconomic idea group§!, the modifier '§YLapland Economic Theory§!' will be upgraded:"
+EDG_BELA_LPL_3_5_full_economic_ideas_yes_tt:0 "£yes£If we have completed the §YEconomic idea group§!, the modifier '§YLapland Economic Theory§!' will be upgraded:"
+EDG_BELA_LPL_3_5_full_infrastructure_ideas_no_tt:0 "£no£If we have completed the §YInfrastructure idea group§!, the modifier '§YLapland Construction Planning§!' will be upgraded:"
+EDG_BELA_LPL_3_5_full_infrastructure_ideas_yes_tt:0 "£yes£If we have completed the §YInfrastructure idea group§!, the modifier '§YLapland Construction Planning§!' will be upgraded:"
+EDG_BELA_LPL_allowed_polwo_flag_tt:0 "We will unlock the decision '§YConvene the Porvoo Assembly§!' to determine §Your future§!."
+EDG_BELA_LPL_4_4_has_innovativeness_ideas_no_tt:0 "£no£If we have opened the §YInnovativeness idea group§!:"
+EDG_BELA_LPL_4_4_has_innovativeness_ideas_yes_tt:0 "£yes£If we have opened the §YInnovativeness idea group§!:"
+EDG_BELA_LPL_4_4_has_innovativeness_50_no_tt:0 "£no£If our Innovativeness reaches §G50§!:"
+EDG_BELA_LPL_4_4_has_innovativeness_50_yes_tt:0 "£yes£If our Innovativeness reaches §G50§!:"
+
+EDG_BELA_LPL_4_5_tt:0 "The modifier '§YLapland National Education§!' will be upgraded:"
+EDG_BELA_LPL_4_5_full_innovativeness_ideas_no_tt:0 "£no£If we have completed the §YInnovativeness idea group§!, the modifier '§YLapland Innovative Thought§!' will be upgraded:"
+EDG_BELA_LPL_4_5_full_innovativeness_ideas_yes_tt:0 "£yes£If we have completed the §YInnovativeness idea group§!, the modifier '§YLapland Innovative Thought§!' will be upgraded:"
+EDG_BELA_LPL_4_5_full_innovativeness_50_no_tt:0 "£no£If our Innovativeness reaches §G100§!, the modifier '§YMass Innovation§!' will be upgraded:"
+EDG_BELA_LPL_4_5_full_innovativeness_50_yes_tt:0 "£yes£If our Innovativeness reaches §G100§!, the modifier '§YMass Innovation§!' will be upgraded:"
+EDG_BELA_LPL_allowed_atribute_flag_tt:0 "We will unlock the decisions '§YAdditional Tribute§!' and '§YHave an Audience with the Overlord§!' to interact with our overlord.\n'§YAdditional Tribute§!' will pay a tribute proportional to our number of provinces in either money ¤, manpower £icon_manpower£, or monarch points £adm££dip££mil£.\n'§YHave an Audience with the Overlord§!' can give us the opportunity to §Yreclaim§! all §YLapland provinces§!, §Yrenegotiate the vassal treaty§! with the overlord, and, if our §Ytechnology gap§! with the overlord is too large, receive §Yadditional technological aid§! from the overlord."
+EDG_BELA_LPL_5_4_has_administrative_ideas_no_tt:0 "£no£If we have opened the §YAdministrative idea group§!:"
+EDG_BELA_LPL_5_4_has_administrative_ideas_yes_tt:0 "£yes£If we have opened the §YAdministrative idea group§!:"
+EDG_BELA_LPL_5_5_tt:0 "The modifier '§YLapland National Government§!' will be upgraded:"
+EDG_BELA_LPL_5_5_full_administrative_ideas_no_tt:0 "£no£If we have completed the §YAdministrative idea group§!, the modifier '§YLapland Administrative Standards§!' will be upgraded:"
+EDG_BELA_LPL_5_5_full_administrative_ideas_yes_tt:0 "£yes£If we have completed the §YAdministrative idea group§!, the modifier '§YLapland Administrative Standards§!' will be upgraded:"
+EDG_BELA_LPL_3_6_tt_yes:0 "£no£If we are in a Golden Age:"
+EDG_BELA_LPL_3_6_tt_no:0 "£yes£If we are in a Golden Age:"

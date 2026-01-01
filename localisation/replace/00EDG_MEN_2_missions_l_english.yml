@@ -1,0 +1,344 @@
+﻿l_english:
+EDG_MEN_1_10_title:0 "Chanting Hymns"
+EDG_MEN_1_10_desc:0 "As Orthodoxy rises with Rome's revival, we must also firmly control the Church to avoid repeating the errors of the Catholic heresy."
+EDG_MEN_city_r_1_after:0 "§TReligious City-State Phase (1/5)§!"
+EDG_MEN_city_c_1_after:0 "§TCultural City-State Phase (1/5)§!"
+
+EDG_MEN_1_15_title:0 "Imperial Faith"
+EDG_MEN_1_15_desc:0 "Establish a new Church system with imperial authority as primary and Orthodoxy as auxiliary. This will offend the Orthodox Church but benefit imperial rule."
+EDG_MEN_city_r_2_after:0 "§TReligious City-State Phase (2/5)§!"
+
+EDG_MEN_1_14_title:0 "The Sacred Path"
+EDG_MEN_1_14_desc:0 "The path we tread is absolutely correct. Where our Emperor's sword points, there our hearts shall follow."
+EDG_MEN_city_r_3_after:0 "§TReligious City-State Phase (3/5)§!"
+EDG_MEN_city_r_4_after:0 "§TReligious City-State Phase (4/5)§!"
+EDG_MEN_city_r_5_after:0 "§TReligious City-State Phase (5/5)§!"
+EDG_MEN_1_15_tt:0 "Allows §TActivation of Government Reform: Imperial Faith§!"
+EDG_MEN_1_15_flag:0 "Allows §TActivation of Government Reform: Imperial Faith§!"
+
+EDG_MEN_1_11_title:0 "Universal Church"
+EDG_MEN_1_11_desc:0 "We should construct a universal and inclusive religious perspective for the Orthodox Church. Rigid old systems only grant the Church excessive power, endangering royal authority."
+
+EDG_MEN_1_13_title:0 "Orthodox Authority"
+EDG_MEN_1_13_desc:0 "After announcing the Orthodox Church's reforms, many bishops in other countries chose to sever ties with us, establishing autocephalous churches independent of the Patriarch of Constantinople. Nevertheless, the empire's religious authority brooks no usurpation!"
+
+EDG_MEN_1_21_title:0 "Heroic Epic"
+EDG_MEN_1_21_desc:0 "In this exceedingly dark age, the earth is filled with sorrow. Just as the Morning Star rises, you are born smoothly within the tent..."
+EDG_MEN_1_21_tt:0 "Gain unique mechanic §TDisseminate Epic§! (located in the diplomacy interface).\nUnlock §TLegendary Seed: Epic of Ibash§!"
+EDG_MEN_1_21_flag:0 "Gain §TLegendary Seed: Epic of Ibash§!"
+
+EDG_MEN_2_18_title:0 "A Time of Survival"
+EDG_MEN_2_18_desc:0 "The sun and moon foretell calamity, mountains and hills crumble and split, Chaoge has fallen, Chaoge has fallen."
+EDG_MEN_disaster_flag:0 "Within the disaster §RCut Down in Mid-Course§!"
+EDG_MEN_disaster_1_flag:0 "Event §TThe Lion Roars from the East§! has been triggered."
+EDG_MEN_disaster_2_flag:0 "Event §TThe Miracle Recurs§! has been triggered."
+
+EDG_MEN_2_14_title:0 "Religious Art"
+EDG_MEN_2_14_desc:0 "The empire's revival leads to artistic splendor. The creation of religious art helps us enhance our authority."
+
+EDG_MEN_2_10_title:0 "Repel the Barbarians" # Expand Territory and Repel Barbarians
+EDG_MEN_2_10_desc:0 "Since the empire's decline, former Romans have been trapped under barbarian rule. Let us expel these barbarians."
+
+EDG_MEN_2_12_title:0 "Return to the True Faith"
+EDG_MEN_2_12_desc:0 "That aggressive, arrogant false pope has been driven from Rome, along with the heretics. Rome has returned to the embrace of the true Roman faith."
+
+EDG_MEN_3_16_title:0 "All for Our Emperor"
+EDG_MEN_3_16_desc:0 "Offer everything for Rome!"
+EDG_MEN_city_s_5_after:0 "§TScientific City-State Phase (5/5)§!"
+EDG_MEN_city_s_4_after:0 "§TScientific City-State Phase (4/5)§!"
+EDG_MEN_city_s_3_after:0 "§TScientific City-State Phase (3/5)§!"
+EDG_MEN_city_s_2_after:0 "§TScientific City-State Phase (2/5)§!"
+EDG_MEN_city_s_1_after:0 "§TScientific City-State Phase (1/5)§!"
+EDG_MEN_city_t_5_after:0 "§TTrade City-State Phase (5/5)§!"
+EDG_MEN_city_t_4_after:0 "§TTrade City-State Phase (4/5)§!"
+EDG_MEN_city_t_3_after:0 "§TTrade City-State Phase (3/5)§!"
+EDG_MEN_city_t_2_after:0 "§TTrade City-State Phase (2/5)§!"
+EDG_MEN_city_t_1_after:0 "§TTrade City-State Phase (1/5)§!"
+EDG_MEN_city_i_5_after:0 "§TIndustrial City-State Phase (5/5)§!"
+EDG_MEN_city_i_4_after:0 "§TIndustrial City-State Phase (4/5)§!"
+EDG_MEN_city_i_3_after:0 "§TIndustrial City-State Phase (3/5)§!"
+EDG_MEN_city_i_2_after:0 "§TIndustrial City-State Phase (2/5)§!"
+EDG_MEN_city_i_1_after:0 "§TIndustrial City-State Phase (1/5)§!"
+EDG_MEN_3_16_tt:0 "Allows §TActivation of Government Reform: Supreme Directive§!"
+EDG_MEN_3_16_flag:0 "Allows §TActivation of Government Reform: Supreme Directive§!"
+EDG_MEN_3_16_oa_tt:0 "§TBattle victories increase §T10 Splendor points§!"
+
+EDG_MEN_3_11_title:0 "The Return of Rome"
+EDG_MEN_3_11_desc:0 "Rome, the birthplace of the empire, now returns to our hands."
+EDG_MEN_italy_tt:0 "Hold at least §T15 provinces§! in the §TItaly region§!"
+EDG_MEN_3_11_tt:0 "Accept all the primary §TItalian cultures§! (excluding Latin Gallic, Latin Persian, etc.)"
+
+EDG_MEN_3_13_title:0 "Conversion of the Holy City"
+EDG_MEN_3_13_desc:0 "Two of the five Patriarchates are located in Syria. This land has been inhabited since ancient times and is also the homeland of Jesus Christ himself. We must gain full control of this province, returning this crucial region to the Roman Empire."
+EDG_MEN_city_m_1_after:0 "§TMilitary City-State Phase (1/5)§!"
+EDG_MEN_city_m_2_after:0 "§TMilitary City-State Phase (2/5)§!"
+EDG_MEN_city_m_3_after:0 "§TMilitary City-State Phase (3/5)§!"
+EDG_MEN_city_m_4_after:0 "§TMilitary City-State Phase (4/5)§!"
+EDG_MEN_city_m_5_after:0 "§TMilitary City-State Phase (5/5)§!"
+
+EDG_MEN_3_14_title:0 "Iron Walls of the Mountains"
+EDG_MEN_3_14_desc:0 "The Caucasus is easy to defend and hard to attack, making it the preferred choice whether resisting nomads or the Persians."
+
+EDG_MEN_3_15_title:0 "Recast the Glory"
+EDG_MEN_3_15_desc:0 "Egypt holds the Patriarchate of Alexandria and the Nile Delta; its importance to the empire is self-evident. Controlling this province should be the foremost priority; it will bring us immense wealth and power. Unlike previous rulers, Egypt will realize its true potential under our governance."
+
+EDG_MEN_4_20_title:0 "Toil the Land"
+EDG_MEN_4_20_desc:0 "War and disaster have ravaged Rome's lands. Famine rages, corpses litter the fields. We must support the empire's farmers."
+
+EDG_MEN_4_12_title:0 "Bodies of Steel"
+EDG_MEN_4_12_desc:0 "Strengthen army defense, improve army quality to resist the incursions of Rome's enemies."
+
+EDG_MEN_4_10_title:0 "Exterminate the Traitors" # Honor the Emperor, Exterminate the Traitors
+EDG_MEN_4_10_desc:0 "Enemies exist not only externally but also internally as insects. Internal purity is the prerequisite for making Rome great again."
+
+EDG_MEN_4_14_title:0 "Heart Like Glass"
+EDG_MEN_4_14_desc:0 "The army should harbor love for home and country; a sincere heart should be as clear as glass, not trampled by the greed and ambition of the nobility."
+
+EDG_MEN_4_18_title:0 "Strategize and Maneuver"
+EDG_MEN_4_18_desc:0 "Whether the nation holds an advantage or disadvantage, it can unite numerous weak forces to form a strong power against the strong, or ally with one strong power to conquer many weak ones."
+EDG_MEN_disaster_4_flag:0 "Event §TLambs for Slaughter§! has been triggered."
+EDG_MEN_4_18_tt:0 "During the §RDisaster: Cut Down in Mid-Course§!, adds a §Tconditional modifier§! during wartime."
+EDG_MEN_4_18_flag:0 "Strategize and Maneuver"
+
+EDG_MEN_5_11_title:0 "The Sword on the Hill" # Forge the Sword on the Hill
+EDG_MEN_5_11_desc:0 "We are the sword of Rome, born to protect Rome. Although the empire's military currently functions well, it is quite outdated for modern needs. We must reform it to better adapt to the future."
+
+EDG_MEN_5_13_title:0 "Forged by the Sword"
+EDG_MEN_5_13_desc:0 "The sword of Rome is unstoppable; the reform will be equally momentous."
+
+EDG_MEN_5_15_title:0 "Blood Stains Our Name"
+EDG_MEN_5_15_desc:0 "When raging flames surround you, hellhounds chase you, blood soaks through our name."
+EDG_MEN_5_15_tt:0 "Allows §TActivation of Government Reform: Leader of the Legions§!"
+EDG_MEN_5_15_flag:0 "Allows §TActivation of Government Reform: Leader of the Legions§!"
+
+EDG_MEN_5_14_title:0 "Unwavering Without Regret"
+EDG_MEN_5_14_desc:0 "Having become a member of the Roman legions, there is no possibility of regret. We will fight various enemies until death!"
+
+EDG_MEN_5_10_title:0 "No Venture, No Gain" # No Destruction, No Construction
+EDG_MEN_5_10_desc:0 "The empire's military system is highly antiquated; the few reforms have only adopted the dregs of Western Europe, with nobles exploiting power and combat effectiveness low. Now, as we command the legions of Rome, a thorough reform is imperative."
+
+EDG_MEN_5_21_title:0 "Blazing Fires Underfoot" # Blazing Underground Fires
+EDG_MEN_5_21_desc:0 "Blazing underground fires, burning all away; overt strife and covert struggles follow the old fate. Wandering in the mirage of a chaotic world, struggling to rise and touch reality, the disaster is just one step away from ending."
+EDG_MEN_5_21_tt:0 "Allows §TActivation of Government Reform: Anti-Land Annexation Oversight Bureau§!"
+EDG_MEN_5_21_flag:0 "Allows §TActivation of Government Reform: Anti-Land Annexation Oversight Bureau§!"
+
+EDG_MEN_1_17_title:0 "Clearing the Undergrowth" # Clearing the Undergrowth and Purging the Vermin
+EDG_MEN_1_17_desc:0 "Vermin-like Greek nobles are again dissatisfied with their power; those who seek to usurp authority will cause the empire to decline once more. Rome's founding ministers of the past have clearly become obstacles to the empire's development."
+EDG_MEN_city_c_2_after:0 "§TCultural City-State Phase (2/5)§!"
+EDG_MEN_city_c_3_after:0 "§TCultural City-State Phase (3/5)§!"
+EDG_MEN_city_c_4_after:0 "§TCultural City-State Phase (4/5)§!"
+EDG_MEN_city_c_5_after:0 "§TCultural City-State Phase (5/5)§!"
+EDG_MEN_1_17_tt:0 "Disaster event §YCrumbling from Within§! will no longer occur."
+
+EDG_MEN_1_23_title:0 "Gallic Wars"
+EDG_MEN_1_23_desc:0 "The land beyond the northern Italian mountains is Gaul, now known as France. Its inhabitants are descendants of Gauls and invading Germans, now ruling a powerful kingdom. Let us muster the armies of Italy and conquer this kingdom dreaming of imperial glory."
+EDG_MEN_1_23_yes_tt:0 "£yes£Our country is the Holy Roman Emperor"
+EDG_MEN_1_23_no_tt:0 "£no£Our country is the Holy Roman Emperor"
+EDG_MEN_1_23_tt:0 "Available decision: Royal French Vineyard (requires completing the 'Imperial Industries' mission to unlock)."
+EDG_MEN_1_23_flag:0 "French Vineyard available"
+
+EDG_MEN_1_25_title:0 "The Sword Reforged"
+EDG_MEN_1_25_desc:0 "Poland and Hungary directly border the Orthodox region. These unreasonable barbarians are called the Spear and Shield of Catholicism. Now, we shall utterly topple these fanatical barbarians obstructing Church unity and reforge them into the sharp sword of Rûm."
+
+EDG_MEN_1_27_title:0 "Horn of Gold"
+EDG_MEN_1_27_desc:0 "The Horn of Africa is the birthplace of many ancient kingdoms. These states rose and fell over centuries, yet none ever unified the entire region. We should take up this responsibility, sweeping away the endless strife of the Horn of Africa once and for all."
+EDG_MEN_1_27_tt:0 "Available decision: Royal Arabica Coffee Industrial Park (requires completing the 'Imperial Industries' mission to unlock)."
+EDG_MEN_1_27_flag:0 "Coffee Industrial Park available"
+
+EDG_MEN_2_26_title:0 "Empire in the Sands"
+EDG_MEN_2_26_desc:0 "This is the birthplace of the Caliphate. They once seized vast territories from our crumbling empire. We shall make these infidels understand that civilization will inevitably triumph over barbarism!"
+EDG_MEN_2_26_tt:0 "Available decision: Royal Arabian Horse Industrial Park (requires completing the 'Imperial Industries' mission to unlock)."
+EDG_MEN_2_26_flag:0 "Arabian Horse Industrial Park available"
+
+EDG_MEN_2_20_title:0 "Turn the Tide"
+EDG_MEN_2_20_desc:0 "The Roman Empire has been in decline for nearly a millennium. Although there have been brief revivals, we may now have entered an irreversible twilight. As the Purple Chamber crumbles, we must act decisively to preserve the Roman state."
+
+EDG_MEN_2_24_title:0 "Nothing Beyond"
+EDG_MEN_2_24_desc:0 "The westernmost point of the Mediterranean is the Strait of Gibraltar, flanked by the Pillars of Hercules. Ancient Romans believed nothing existed beyond Iberia. Mariners of old were warned, 'Beyond this point, there is nothing.' Now we know the Spanish have conquered vast territories west of Iberia. Let our armies advance, making Spain and its colonies the sacred and inseparable territory of Rome."
+EDG_MEN_2_24_tt:0 "Available Iberian Expansion Company decisions (require completing the 'Imperial Industries' mission to unlock)."
+EDG_MEN_2_24_flag:0 "Iberian Expansion Company available"
+
+EDG_MEN_3_17_title:0 "Growing Tumult"
+EDG_MEN_3_17_desc:0 "Crises rise like dust once more; how to find redemption for Rome."
+EDG_3_17_tt:0 "§TSlow the disaster's progress§!"
+EDG_3_17_flag:0 "Ease tensions"
+
+EDG_MEN_3_18_title:0 "An Orphaned Constantinople"
+EDG_MEN_3_18_desc:0 "A coup has once again overthrown Roman rule. With the pretender regime's large-scale invasion, what comes next?"
+EDG_MEN_disaster_3_flag:0 "Event §TA Mantis Trying to Stop a Chariot§! has been triggered."
+
+EDG_MEN_3_19_title:0 "Return to the Old Capital"
+EDG_MEN_3_19_desc:0 "The pretender regime's puppet proved utterly feeble. We have welcomed the Basilissa back to [151.GetName]; it's time to settle the final account with them."
+
+EDG_MEN_3_21_title:0 "False Emperor Must Die" # The False Emperor Must Die
+EDG_MEN_3_21_desc:0 "Neither holy, nor Roman, nor an empire—a laughable dynasty where even succession requires voting. But the title of Holy Roman Empire inherits the Western Empire's legacy; its people also hold Roman identity. We shall spare this land belonging to Romans, but sooner or later, this loose confederation will belong to our sacred Emperor. Only we can make it a true Roman Empire in name and reality."
+EDG_MEN_3_21_tt:0 "§GEvent Preview:§!\nThe Emperor will cede provinces in the §YCarpathian§! and §YBalkan§! regions, and §Yrelease§! all releasable nations and their subjects. @MEN Mentese will become a member of the Holy Roman Empire. §OGlorious City-States§! will also function as §TFree Cities§!."
+
+EDG_MEN_3_22_title:0 "Imperial Ambition"
+EDG_MEN_3_22_desc:0 "When did the ancient double-headed eagle emblem originate? Unknown. Why has the Basilissa retreated behind the scenes, unwilling to be crowned? Unknown. But Rûm has rightfully inherited Rome's legacy. Its rise will be unstoppable; we shall make the world submit!"
+EDG_MEN_3_22_tt:0 "Allows §TActivation of Government Reform: Heir of Rome§!"
+EDG_MEN_3_22_flag:0 "Allows §TActivation of Government Reform: Heir of Rome§!"
+
+EDG_MEN_3_23_title:0 "Land of the Setting Sun"
+EDG_MEN_3_23_desc:0 "The Province of Africa was once core territory of the Roman Empire. Since the empire's division, it fell into Vandal hands within a century. Thanks to Justinian's great ambition, it once returned to Roman rule; then it fell again to the Caliphate in the 7th century."
+
+EDG_MEN_3_26_title:0 "In the Name of the Father"
+EDG_MEN_3_26_desc:0 "The Rus are like maidens in their chambers, fearing outsiders yet longing for the protection of a strong father. The Emperor of the Romans clearly has this qualification. We shall uproot the princes here and protect the people."
+EDG_MEN_3_26_tt:0 "Available Rus Pioneer Corps decisions (require completing the 'Imperial Industries' mission to unlock)."
+EDG_MEN_3_26_flag:0 "Rus Pioneer Corps available"
+
+EDG_MEN_3_27_title:0 "Ancestral Homeland"
+EDG_MEN_3_27_desc:0 "The vast steppes of Central Asia, where the wind bows the grass and cattle roam, whisper tales of our ancestors, the mighty Oghuz Turks, who once galloped across this land. As their inheritors, our veins flow with the blood of these tenacious nomads. Their legacy lingers not only in our hearts but also upon the arid soil of Central Asia. Now is the time to reforge kinship with our ancestral lands and bring these territories under our control."
+
+EDG_MEN_3_28_title:0 "My Will is the Heavens"
+EDG_MEN_3_28_desc:0 "All under heaven is the king's land; all within the borders are the king's subjects. The king permits, the king acknowledges, the king bears the entire world!"
+EDG_MEN_3_28_tt:0 "Unlock §TLegendary Seed: Will of the Heavens§!"
+EDG_MEN_3_28_flag:0 "§TLegendary Seed: Will of the Heavens§!"
+
+EDG_MEN_3_25_title:0 "Imperial Identity"
+EDG_MEN_3_25_desc:0 "Over a millennium has passed since the Roman Empire's East-West division. When the empire split in 395, people hoped this measure would alleviate the decline of the empire and its political system. However, contrary to expectations, the Western Empire fell in 476, with the Frankish empire inheriting its legacy. The Eastern Empire's inheritance lies in our hands. Holding the crowns of both Eastern and Western Roman Emperors, we shall decide the empire's identity."
+EDG_MEN_3_25_tt:0 "Unlock §TLegendary Seed: Rome Reborn§!"
+EDG_MEN_3_25_flag:0 "§TLegendary Seed: Rome Reborn§!"
+
+EDG_MEN_4_24_title:0 "Sea at the Edge"
+EDG_MEN_4_24_desc:0 "Britain is the land at the map's edge. These uncivilized barbarians dream of offshore balancing, stirring storms on the continent. End them, eliminate the threat completely!"
+
+EDG_MEN_4_26_title:0 "King of Kings"
+EDG_MEN_4_26_desc:0 "Historically, the Roman Empire has vied with the Persians for hegemony over Mesopotamia and the Caucasus. Let us act decisively, delivering a crushing blow to their ambitions and dignity, forever shattering their attempts to occupy lands west of the Zagros Mountains. They must be humiliated!"
+
+EDG_MEN_5_17_title:0 "Shifting Winds"
+EDG_MEN_5_17_desc:0 "The situation is ever-changing, urgently needing stability. Bandit forces within the country grow restless; we must suppress them before the situation escalates."
+EDG_MEN_5_17_tt:0 "Disaster event §YRampant Banditry§! will no longer occur."
+
+EDG_MEN_5_23_title:0 "Forest Kingdom"
+EDG_MEN_5_23_desc:0 "Germany possesses vast forests and abundant resources. Though dense woods pose an obstacle, they cannot hinder the empire's rise."
+
+EDG_MEN_5_25_title:0 "North Sea Empire"
+EDG_MEN_5_25_desc:0 "Barbarians from the Baltic Sea once ruled several European nations. But before true civilization, they can only serve as our Varangian Guard."
+
+EDG_MEN_5_27_title:0 "Peacock Throne"
+EDG_MEN_5_27_desc:0 "Since the Maurya Empire, the feat of unifying India under a single banner has never been achieved. Alexander the Great also halted here. We shall surpass Alexander the Great and become the conqueror of India."
+EDG_MEN_5_27_tt:0 "Available decision: Royal East India Company (requires completing the 'Imperial Industries' mission to unlock)."
+EDG_MEN_5_27_flag:0 "Royal East India Company available"
+
+EDG_MEN_1_28_title:0 "Dream's Spark"
+EDG_MEN_1_28_desc:0 "The gap between Catholic and Orthodox adherents within the Holy Roman Empire is vast, but the emergence of Protestants helps us bridge it. Seizing this opportunity, we will proselytize within the empire, amassing strength for Roman Orthodoxy."
+EDG_MEN_1_28_flag:0 "Ecumenical Church Union unlocked"
+EDG_MEN_1_28_tt:0 "Unlocks decision: Ecumenical Church Union"
+
+EDG_MEN_1_31_title:0 "Gate of Dawn"
+EDG_MEN_1_31_desc:0 "The Emperor is the source of the empire's sanctity. Independent dioceses within the empire should not retain privileges from the Catholic era; they too must be subject to the Emperor's authority."
+EDG_MEN_1_31_tt:0 "The diplomatic interaction to become an §TImperial Free City§! is enabled for theocracies."
+EDG_men_1_31_flag:0 "The diplomatic interaction to become an §TImperial Free City§! is enabled for theocracies."
+
+EDG_MEN_1_33_title:0 "Economic Foundation"
+EDG_MEN_1_33_desc:0 "Years of disaster have left the empire's people destitute. Now that we have recovered, we should rebuild the empire's glory."
+
+EDG_MEN_1_34_title:0 "Imperial Industries"
+EDG_MEN_1_34_desc:0 "The Imperial House amasses much of the empire's wealth and should also fulfill its duty to create value for the empire. Investing imperial assets into the empire's industries will promote vigorous development."
+EDG_MEN_1_34_tt:0 "Unlocks §TImperial Industries§! related decisions."
+EDG_MEN_1_34_flag:0 "§TImperial Industries§! related decisions unlocked."
+
+EDG_MEN_1_36_title:0 "Land of Prosperity"
+EDG_MEN_1_36_desc:0 "From the barrels of muskets to fireworks in the sky, new sources of power continuously emerge. Even the quiet words in newly printed publications hold immense potential for change. The tide of industrialization rolls forward. In prosperous Rûm, you can witness all beautiful aspirations."
+
+EDG_MEN_2_29_title:0 "Blessed Royal Name" # Divinely Blessed Royal Name
+EDG_MEN_2_29_desc:0 "On the evening before the Battle of the Milvian Bridge in 312 AD, Constantine I saw a divine light suddenly appear in the sky. Reflected in this light, a cloud shone golden, its pattern forming the Greek words "In this sign, conquer!" Not only the Emperor himself but all the soldiers of the army witnessed this miracle, the entire army exclaiming in awe. That night, Christ appeared before the Roman Emperor in a dream, instructing him to recreate the sign he saw in the sky. The Roman Emperor then placed the Greek abbreviation for Christ's name on their military standards. This emblem's meaning is: Under the illumination of the Holy Light, with this divine blessing, you shall surely prevail!"
+EDG_MEN_2_29_tt:0 "Unlocks §TBard Privilege: Divinely Blessed Royal Name§!"
+EDG_MEN_2_29_flag:0 "Divinely Blessed Royal Name privilege unlocked"
+
+EDG_MEN_2_30_title:0 "Divinely Inspired Rules" # Heaven-Sanctioned Rules
+EDG_MEN_2_30_desc:0 "The empire's legal code is personally compiled by the divine agent on Earth—the Rûmi Emperor. All imperial members must obey."
+EDG_MEN_2_30_tt:0 "§TImperial Free Cities§! no longer occupy §Ydiplomatic relation§! slots."
+EDG_MEN_2_30_flag:0 "Imperial Free Cities no longer occupy diplomatic relation slots."
+
+EDG_MEN_2_32_title:0 "All Seas Pay Homage"
+EDG_MEN_2_32_desc:0 "The Holy Roman Empire has stabilized internally. The empire's primary members have all offered us their permanent loyalty."
+EDG_MEN_2_32_tt:0 "Enables a diplomatic action, allowing §Yone-province subjects§! to become §OGlorious City-States§!."
+EDG_MEN_2_32_flag:0 "Allows §Yone-province subjects§! to become §OGlorious City-States§!."
+EDG_MEN_2_32_A_tt:0 "Unlocks special casus belli: §TExpand Territory and Repel Barbarians§!"
+EDG_MEN_2_32_A_flag:0 "Special casus belli §TExpand Territory and Repel Barbarians§! unlocked."
+
+EDG_MEN_2_34_title:0 "Land Reform"
+EDG_MEN_2_34_desc:0 "Lands seized by Greek nobles before the great disaster will now rightfully belong to the people. Farmers who receive land will engage in active production, while we will also strictly control land annexation within the empire. It is foreseeable that harvests in the coming years will see a qualitative leap."
+
+EDG_MEN_2_35_title:0 "Win-Win Cooperation"
+EDG_MEN_2_35_desc:0 "The empire's development requires active participation from all, propelling our empire forward."
+
+EDG_MEN_3_29_title:0 "Laying Out the Board"
+EDG_MEN_3_29_desc:0 "There will be no compromise in this game. With shallow foundations, we shall use our vast national power to lay out the board."
+EDG_MEN_3_29_tt:0 "Enables a diplomatic action, allowing us to change a subject's §Yprimary culture§! to §YTurkish§!."
+EDG_MEN_3_29_flag:0 "Allows us to change a subject's §Yprimary culture§! to §YTurkish§!."
+
+EDG_MEN_3_30_title:0 "No Second Sun in the Sky"
+EDG_MEN_3_30_desc:0 "There is only one sun in the sky; Rome should also have only one Emperor!"
+
+EDG_MEN_3_31_title:0 "True to Its Name"
+EDG_MEN_3_31_desc:0 "The Holy Roman Empire is holy and Roman only in the hands of the true Rome. We are the Holy Roman Emperor in name and truth."
+
+EDG_MEN_3_33_title:0 "Granting Stars to the Sky..."
+EDG_MEN_3_33_desc:0 "Give up? Don't be ridiculous. At this moment, I still breathe. Clad in the moonlight of the silver sea, embarking on a distant voyage, my fervent heartbeat screams—I will chase stars and light."
+EDG_MEN_3_33_tt:0 "Enhances §OBard Privilege: Divinely Blessed Royal Name§!"
+EDG_MEN_3_33_flag:0 "Enhances §OBard Privilege: Divinely Blessed Royal Name§!"
+
+EDG_MEN_3_34_title:0 "...and Flowers to the Earth" # Granting Flowers to the Earth
+EDG_MEN_3_34_desc:0 "Welcome tomorrow, turning sorrowful days into joyful ones. In a world where the sun still exists, it is like a profusion of spring flowers."
+EDG_MEN_3_34_tt:0 "Enhances §OBard Privilege: Divinely Blessed Royal Name§!"
+EDG_MEN_3_34_flag:0 "Enhances §OBard Privilege: Divinely Blessed Royal Name§!"
+
+EDG_MEN_3_35_title:0 "Granting Love to Humanity"
+EDG_MEN_3_35_desc:0 "A devout maiden prays with her soul; her wish is for him, battling on the sands, to have a smooth journey and good health—nothing else is coveted."
+EDG_MEN_3_35_tt:0 "Enhances §OBard Privilege: Divinely Blessed Royal Name§!"
+EDG_MEN_3_35_flag:0 "Enhances §OBard Privilege: Divinely Blessed Royal Name§!"
+
+EDG_MEN_3_36_title:0 "Imperial Might"
+EDG_MEN_3_36_desc:0 "Advance, awaken your slumbering legend. My lads, when you hear the call of your ancestors, you shall march forward, and the entire nation will follow you."
+
+EDG_MEN_3_37_title:0 "Heaven on Earth"
+EDG_MEN_3_37_desc:0 "The man, with his creation, reached the Heavenly Kingdom like a bird! Heart set on freedom, riding the wind, miracles and glory thus fill the universe! Glory!"
+
+EDG_MEN_4_29_title:0 "United Front"
+EDG_MEN_4_29_desc:0 "Years of management by the Menteseoglu family have successfully gained us acceptance into the Holy Roman Empire. Some wise electors are willing to submit to us."
+EDG_MEN_4_29_tt:0 "§T1§! eligible country becomes our §OFamily Domain§!."
+EDG_MEN_4_29_flag:0 "§TForced Mediation§!"
+EDG_MEN_4_29_a_tt:0 "Unlocks a §Tdecision§! allowing us to §Tforce mediation§! during the Holy Roman Empire's religious wars."
+
+EDG_MEN_4_30_title:0 "Unbreakable"
+EDG_MEN_4_30_desc:0 "The rulers of many duchies within the empire have become our beloved relatives. As the head of the clan, we should stand shoulder-to-shoulder with them, forming an unbreakable alliance."
+EDG_MEN_4_30_tt:0 "§TFamily Domains§! no longer occupy diplomatic relation slots."
+EDG_MEN_4_30_flag:0 "§TFamily Domains§! no longer occupy diplomatic relation slots."
+
+EDG_MEN_4_32_title:0 "Eternal Throne" # Eternal Imperial Throne
+EDG_MEN_4_32_desc:0 "The throne of the Holy Roman Emperor is ours and shall always be ours. Hegemony is our inborn destiny. We must seize it with our own hands, ensuring no one questions our supremacy."
+EDG_MEN_4_32_tt:0 "§OGlorious City-States§!, §OImperial Free Cities§!, and §OFamily Domains§! provide §OMonthly Roman Glory§!."
+
+EDG_MEN_4_34_title:0 "Suppress Bandits"
+EDG_MEN_4_34_desc:0 "Bandits must be suppressed at all times; there is no alternative."
+
+EDG_MEN_4_35_title:0 "Distant Wealth"
+EDG_MEN_4_35_desc:0 "In the tide of the empire's expansion, we increasingly realize the vastness of the world and the smallness of Rome. There is much wealth in the world awaiting us."
+
+EDG_MEN_5_28_title:0 "Three Pillars"
+EDG_MEN_5_28_desc:0 "To maintain influence within the empire's religion, we need a group of allies within the empire, allowing us to rapidly infiltrate it."
+EDG_MEN_5_28_A_tt:0 "Enables special subjects §OImperial Free Cities§! and §OFamily Domains§!.\n\n§OImperial Free Cities§! are converted via diplomatic action from non-§OGlorious City-States§! subjects and non-Free City §TRepublican§! countries meeting certain conditions; conversion costs §Y200§!¤.\n\n§OFamily Domains§! are converted via diplomatic action from non-§OGlorious City-States§! subjects and §TMonarchies§! meeting certain conditions; conversion costs §Y200§!¤."
+EDG_MEN_5_28_A_flag:0 "Enables Imperial Free Cities and Family Domains"
+
+EDG_MEN_5_31_title:0 "Prosperous Nation, Secure State" # Prosper the Nation, Secure the State
+EDG_MEN_5_31_desc:0 "Now that the empire is prosperous and stable, to ensure the quality of life for every Roman citizen, we should deepen reforms."
+EDG_MEN_5_31_tt:0 "§OGlorious City-States§!, §OImperial Free Cities§!, and §OFamily Domains§! provide §OSplendor points§!."
+
+EDG_MEN_5_33_title:0 "Trade Foundation"
+EDG_MEN_5_33_desc:0 "Years of disaster have had a massive impact on trade. Now that we have recovered, rebuilding the empire's trade is of utmost urgency."
+
+EDG_MEN_5_34_title:0 "Protect Trade Routes"
+EDG_MEN_5_34_desc:0 "Trade routes between East and West flourish with our expansion. Safeguarding these routes is vital for us."
+EDG_MEN_5_34_tt:0 "Enables local organization: §ORoyal Caravanserai§!"
+EDG_MEN_5_34_flag:0 "§ORoyal Caravanserai§! is enabled."
+EDG_MEN_caravanserai_holy_order:0 "Royal Caravanserai"
+EDG_MEN_caravanserai_order:0 "Royal Caravanserai"
+
+EDG_MEN_5_36_title:0 "Silk Road Revival"
+EDG_MEN_5_36_desc:0 "For centuries, the Silk Road has been the link between European nations and Asian civilizations. However, after the collapse of the Mongol Empire, this trade route became fragmented and no longer as safe as before. Now we have restored its safety and importance."
+EDG_MEN_5_36_flag:0 "One Thousand and One Nights"
+EDG_MEN_5_36_tt:0 "Unlocks §TLegendary Seed: One Thousand and One Nights§!"
+ 

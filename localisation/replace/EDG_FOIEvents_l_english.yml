@@ -1,0 +1,631 @@
+﻿l_english:
+FOICommonEvents.1.name:0 "The Iberian Flame"
+FOICommonEvents.1.desc:0 "After meticulous planning, [From.GetName] recently launched a war against the infidels. As a nation sharing our faith, we have a legitimate reason to support their actions or to ignore them altogether."
+FOICommonEvents.1.aa:0 "We will support them"
+FOICommonEvents.1.bb:0 "This is none of our concern"
+
+FOICommonEvents.2.name:0 "The Iberian Flame"
+FOICommonEvents.2.desc:0 "[From.GetName] has been attacked by infidels! They now request our aid. As brothers of the same faith, we should understand the principle that when the lips are gone, the teeth will be cold. We must decide whether to offer help or remain uninvolved."
+FOICommonEvents.2.aa:0 "We will support them"
+FOICommonEvents.2.bb:0 "This is none of our concern"
+
+FOICommonEvents.3.name:0 "Aid from [From.GetName]"
+FOICommonEvents.3.desc:0 "We have received aid from [From.GetName], which will surely make our war effort proceed more smoothly."
+FOICommonEvents.3.aa:0 "Excellent!"
+
+FOICommonEvents.4.name:0 "The Explorers' Association"
+FOICommonEvents.4.desc:0 "The discovery of the New World has inspired an increasing number of people to seek exploration further afield. They often gather together to venture into the unknown for various goals.\n\nOver time, groups of individuals with a passion for adventure have gradually formed sizable organizations in some ports. Although these loose associations are relatively weak in influence, if we can manage them properly, encourage their development, and utilize their extensive maritime experience, we will hold greater sway at sea in the future."
+FOICommonEvents.4.aa:0 "The Crown shall sponsor the Explorers' Association"
+FOICommonEvents.4.bb:0 "Allow the Explorers' Association autonomy"
+FOICommonEvents.4.cc:0 "Merchants shall take over the Explorers' Association"
+FOICommonEvents.4.dd:0 "The state shall manage them"
+FOICommonEvents.4.ee:0 "Pirates have their own rules!"
+FOICommonEvents.4.ff:0 "They shall expand the Empire's territories"
+FOICommonEvents.4.gg:0 "They shall continue our sacred mission!"
+
+FOICommonEvents.500.name:0 "Shadow of War"
+FOICommonEvents.500.desc:0 "War in Iberia never ceases. Now, it draws us toward [FOI_the_random_war_target.GetName], and we must decide whether to heed this call."
+FOICommonEvents.500.aa:0 "War will reveal all"
+FOICommonEvents.500.bb:0 "We must still wait"
+
+FOIMissionEvents.0.name:0 "Take Up the Sword"
+FOIMissionEvents.0.desc:0 "The unification of Iberia can never be achieved with the tip of a pen; it must be paved with swords and blood. Now is the time to demonstrate our strength in Iberia to all others!"
+FOIMissionEvents.0.aa:0 "The time has come!"
+FOIMissionEvents.0.bb:0 "We must not act hastily"
+
+FOIMissionEvents.8.name:0 "Declaration of Unification"
+FOIMissionEvents.8.desc:0 "After centuries of struggle, we control the vast majority of Iberia. Now we can proclaim our dominance over Iberia and issue a final ultimatum to all other unsubmitted powers, demanding unification, or else we shall wage the final war upon them."
+FOIMissionEvents.8.aa:0 "Issue an ultimatum to the remaining states"
+FOIMissionEvents.8.bb:0 "And war will be the most effective means"
+FOIMissionEvents.8.aa.tt:0 "We will declare war on all independent nations whose capital is located in §YIberia§!"
+
+FOIMissionEvents.9.name:0 "[From.GetName] Demands Unification!"
+FOIMissionEvents.9.desc:0 ""
+FOIMissionEvents.9.aa:0 "We acknowledge the authority of [From.GetName]."
+FOIMissionEvents.9.bb:0 "We do not recognize them."
+
+FOIMissionEvents.21.name:0 "The Iberian Unification War"
+FOIMissionEvents.21.desc:0 "With the rise of [From.GetName] in Iberia, [From.GetName] has undeniably become the most influential power on the Iberian Peninsula. Our nation's holdings on the Iberian Peninsula have provoked [From.GetName]'s dissatisfaction, demanding that we immediately return all territories in Iberia, or else war shall befall both sides."
+FOIMissionEvents.21.aa:0 "We do not desire war"
+FOIMissionEvents.21.bb:0 "If they want it, let them come and take it!"
+
+FOIMissionEvents.22.name:0 "[From.GetName] Refuses to Return Territories"
+FOIMissionEvents.22.desc:0 "[From.GetName] refuses to return their lands in Iberia. Perhaps we should employ other means!"
+FOIMissionEvents.22.aa:0 "War will reveal all!"
+FOIMissionEvents.22.bb:0 "We must still await the opportune moment..."
+
+FOIMissionEvents.23.name:0 "The Religious Question"
+FOIMissionEvents.23.desc:0 "Although we have conquered Iberia, the religious question still lingers over it. Due to prolonged conflict between Christians and Muslims, coupled with Iberia's intricate terrain, the region's religious distribution is highly complex.\n\nNorthern Iberia has long been held by Crusaders, making Roman Catholicism the dominant faith. The central Iberian region and parts of the western coast are inhabited by native Mozarabic Christians, and remnants of Mozarabism persist in the Aragonese mountains due to the Kingdom of Aragon's fragmentation. Influenced by Arles, the Catalan Republic converted to Catharism, making it the mainstream religion in northeastern Iberia. Southern Iberia, long controlled by various Taifas, is primarily Sunni Muslim.\n\nClearly, before rebuilding the nation, we must find a suitable way to handle these intricate religious issues. Should we grant tolerance and pardon, or enforce religious uniformity?"
+FOIMissionEvents.23.aa:0 "The Iberian Peninsula shall adhere to one faith!"
+FOIMissionEvents.23.bb:0 "Tolerance is superior to persecution"
+
+FOIMissionEvents.24.name:0 "The Rebirth of Iberia"
+FOIMissionEvents.24.desc:0 "As we re-establish our rule over the Iberian Peninsula, unifying it in religion, economy, politics, and culture, we now have the capability and should embrace a greater culture and national identity than before. Now we must decide our future path.\n\nFrom this moment on, we shall welcome a brighter future!"
+FOIMissionEvents.24.aa:0 "A new Kingdom shall rule the Iberian Peninsula!"
+FOIMissionEvents.24.bb:0 "Al-Andalus shall be reborn!"
+FOIMissionEvents.24.cc:0 "Afonso Henriques's vision shall be realized!"
+FOIMissionEvents.24.dd:0 "We must continue our sacred mission!"
+FOIMissionEvents.24.ee:0 "The rebirth of Iberia!"
+
+FOIMissionEvents.25.name:0 "Expand the Great Mosque of Córdoba"
+FOIMissionEvents.25.desc:0 "In the 8th century AD, the Moors occupied Spain, marking the beginning of Córdoba's golden age. During this period of peak prosperity, approximately 300 mosques, countless palaces, and public buildings were constructed, making the city rival the splendor and prosperity of Constantinople, Damascus, and Baghdad.\n\nAmong these, the Great Mosque of Córdoba was built in the 8th century, blending Moorish and Spanish architectural styles. Around 786 AD, the Umayyad Caliph Abd al-Rahman I sought to make Córdoba a great religious center to rival the East. He converted a Roman and Visigothic church into this mosque. Later expanded by Abd al-Rahman II and Al-Hakam II, by 1236 the mosque's area had tripled compared to its initial construction, capable of accommodating over 20,000 worshippers at once.\n\nDuring the reign of Caliph Hisham II, the vizier Al-Mansur expanded the prayer hall. By the time of Caliph Abd al-Rahman III, construction reached its zenith. Despite multiple expansions, the architectural style and characteristics remained unchanged, only growing in scale and richness of decoration.\n\nHowever, during the Reconquista, prolonged warfare caused the city's development to stagnate. At this moment of reconstruction, we should once again expand this magnificent mosque."
+FOIMissionEvents.25.aa:0 "We shall continue expanding this mosque"
+FOIMissionEvents.25.bb:0 "We have more pressing matters"
+
+FOI_ADUEvents.0.name:0 "The Andalusian Path"
+FOI_ADUEvents.0.desc:0 "The newly born Andalusia must choose its future path: to establish a devout and theocratic state, or to follow a more tolerant and enlightened road?"
+FOI_ADUEvents.0.aa:0 "We should return to tradition"
+FOI_ADUEvents.0.aa.tt:0 "§YAuthor's Recommendation§!"
+FOI_ADUEvents.0.bb:0 "We shall re-establish authority"
+FOI_ADUEvents.0.bb.tt:0 "Some §Tmissions§! will be §Rimpossible to complete§!"
+
+FOI_ADUEvents.1.name:0 "Cultural Identity"
+FOI_ADUEvents.1.desc:0 "Each region we conquer possesses diverse cultures, and handling the various ethnic groups is a challenge faced by any vast empire: should we accept them, or exclude them?"
+FOI_ADUEvents.1.aa:0 "We shall accept them"
+FOI_ADUEvents.1.bb:0 "We shall assimilate them"
+
+FOI_ADUEvents.2.name:0 "The Fate of the Crusaders"
+FOI_ADUEvents.2.desc:0 "In the spring of 1221, French Crusaders crossed south through Switzerland, bypassing Cathar-held territories, and set sail from Genoa. Their objective was not to sail directly to Egypt, but to capture Tunis as a springboard for attacking Egypt.\n\nWhen the lookouts of Tunis saw endless sails approaching from the north, they never imagined they would become the target of a Christian landing. The garrison, after putting up symbolic resistance, was driven from the city. The governor of Tunis, Abu Zakariya Yahya, was captured. His brother, Abdallah, gathered remnants of the army, occupied Kairouan, and confronted the Crusaders within Tunis, while appealing for aid from the Almohad Caliph. However, deeply mired in the Moroccan quagmire, the Almohads provided little substantial assistance beyond dispatching a small force of over a thousand men. In their eyes, the Hafsids entrenched in Tunis were as detestable as the Crusaders, and they adopted a largely wait-and-see attitude.\n\nIn the winter of 1121, Kairouan fell. The Great Mosque within the city was thoroughly looted by the Crusaders, and the spiritual heart of North African Muslims now flew Christian banners. This was undoubtedly a significant victory for Christendom.\n\nIn [GetYear], the armies of [Root.GetName] breached the walls of Tunis. The Crusaders formally surrendered to [Root.Monarch.Title] [Root.Monarch.GetName], marking the final cleansing of Crusader presence in North Africa after two centuries by Muslim forces. However, after centuries of separation from the Muslim world, the mainstream religion in the Tunis region is now predominantly Christian. We must consider how to handle them."
+FOI_ADUEvents.2.aa:0 "Rebuild the holy city of Kairouan and pardon the remaining Christians"
+FOI_ADUEvents.2.bb:0 "An eye for an eye, a tooth for a tooth"
+
+FOI_ADUEvents.3.name:0 "Shifting Sands"
+FOI_ADUEvents.3.desc:0 "For a long time, the lands south of the Sahara Desert remained unknown to us. Occasionally, merchants would come to trade with northern nations, describing the vibrant, gold-laden scenes south of the Sahara.\n\nNow, [Root.GetName] has completely secured control north of the Sahara. [Root.Monarch.Title] [Root.Monarch.GetName] has decided to advance south of the Sahara to conquer those once-unexplored, fertile lands, and the whole of Africa shall henceforth be ruled under the banner of [Root.GetName]."
+FOI_ADUEvents.3.aa:0 "Wait and see"
+FOI_ADUEvents.3.aa.tt:0 "Unlock the §YConstruct the Golden Road§! decision"
+
+FOI_ADUEvents.4.name:0 "Cultural Identity"
+FOI_ADUEvents.4.desc:0 "Each region we conquer possesses diverse cultures, and handling the various ethnic groups is a challenge faced by any vast empire: should we accept them, or exclude them?"
+FOI_ADUEvents.4.aa:0 "We shall accept them"
+FOI_ADUEvents.4.bb:0 "We shall assimilate them"
+
+FOI_ADUEvents.5.name:0 "Cultural Identity"
+FOI_ADUEvents.5.desc:0 "Each region we conquer possesses diverse cultures, and handling the various ethnic groups is a challenge faced by any vast empire: should we accept them, or exclude them?"
+FOI_ADUEvents.5.aa:0 "We shall accept them"
+FOI_ADUEvents.5.bb:0 "We shall assimilate them"
+
+FOI_ADUEvents.6.name:0 "Cultural Identity"
+FOI_ADUEvents.6.desc:0 "Each region we conquer possesses diverse cultures, and handling the various ethnic groups is a challenge faced by any vast empire: should we accept them, or exclude them?"
+FOI_ADUEvents.6.aa:0 "We shall accept them"
+FOI_ADUEvents.6.bb:0 "We shall assimilate them"
+
+
+
+FOIDisasterEvents.0.name:0 "The Great Iberian Famine"
+FOIDisasterEvents.0.desc:0 "For a long time, Iberia has been regarded by other traditional European regions such as France and Italy as a backwater, and indeed this holds true.\n\nThe barren Iberian Peninsula restricts agricultural activities, resulting in a very weak agricultural foundation. Coupled with the centuries-long Reconquista, warfare has destroyed most of the agricultural and artisanal infrastructure established during peacetime.\n\nThese issues were overlooked during wartime when supplies flowed in from other regions. However, with the unification of the Iberian Peninsula, agricultural problems intensified. By the time rulers truly began to address the issue, the ravaged agricultural landscape within Iberia had become an undeniable reality, and domestic agricultural production was hanging by a thread.\n\nThe arrival of a great drought then completely shattered agricultural production in the Iberian region. The great famine that loomed over Iberia has now finally descended."
+FOIDisasterEvents.0.aa:0 "No egg remains unbroken when the nest is in peril"
+FOIDisasterEvents.0.aa.tt:0 "During the disaster, provinces in the Iberian region with §YInfrastructure§!, development higher than §Y10§!, and producing §YLivestock§! or §YWool§! have a chance to change their production to §YGrain§!.\n\nUnlocks the diplomatic action §YRequest Food Aid§!, spending favors to gain §YIberian Reconstruction Progress§!."
+
+FOIDisasterEvents.1.name:0 "Riots"
+FOIDisasterEvents.1.desc:0 "Famine breeds unrest; unrest spawns rebellion. Villages stricken by famine expect local government to allocate relief funds; otherwise, they will have to fight for their own survival."
+FOIDisasterEvents.1.aa:0 "And what of the others?"
+FOIDisasterEvents.1.bb:0 "As they wish."
+
+FOIDisasterEvents.2.name:0 "Famine Spreads"
+FOIDisasterEvents.2.desc:0 "Although famine is not a disease, its effects require time to propagate, and all within its reach will suffer its consequences."
+FOIDisasterEvents.2.aa:0 "No egg remains unbroken when the nest is in peril"
+
+FOIDisasterEvents.3.name:0 "Additional Supplies"
+FOIDisasterEvents.3.desc:0 "A new batch of reconstruction supplies has arrived in the capital. These supplies were donated by various estates, so we can decide how to handle them."
+FOIDisasterEvents.3.aa:0 "Replenish the treasury"
+FOIDisasterEvents.3.bb:0 "Invest in construction"
+
+FOIDisasterEvents.10.name:0 "The Grain Issue"
+FOIDisasterEvents.10.desc:0 "Grain cultivation in the Iberian region has always been on a small scale. At this critical juncture, someone has proposed expanding cultivation in a province to alleviate the famine's long-term impact on the nation."
+FOIDisasterEvents.10.aa:0 "Approve"
+FOIDisasterEvents.10.bb:0 "Maintain the status quo"
+
+FOIDisasterEvents.11.name:0 "Upgrade the Irrigation System"
+FOIDisasterEvents.11.desc:0 "As we gradually pay more attention to agricultural production, the continuous upgrading of hydraulic infrastructure is greatly benefiting farming. It is believed that this crisis can be completely resolved in the near future."
+FOIDisasterEvents.11.aa:0 "Continue the efforts"
+
+FOIDisasterEvents.12.name:0 "Handicraft Prosperity"
+FOIDisasterEvents.12.desc:0 "With the construction of random infrastructure, the handicraft industries in certain provinces have begun to gradually develop and recover from the wounds of war. This will be a step towards prosperity for Iberia."
+FOIDisasterEvents.12.aa:0 "Keep up the good work"
+
+FOIDisasterEvents.20.name:0 "Restore Production"
+FOIDisasterEvents.20.desc:0 "After relentless efforts, the great famine that ravaged the Iberian Peninsula has finally ended. However, its impact is profound. The weak agricultural foundation will grow more robust following this famine, and this crisis will be remembered by all Iberian people."
+FOIDisasterEvents.20.aa:0 "Agriculture is the foundation of the state"
+
+FOIDisasterEvents.30.name:0 "The Andalusian Religious War"
+FOIDisasterEvents.30.desc:0 "Although [Root.GetName] was once relatively tolerant towards non-Muslims, it imposed strict taxes as a limitation. The newly reborn [Root.GetName], however, has abandoned the latter, attempting to foster harmony between Christians and Muslims by enacting a series of laws, privileges, and establishing religious institutes dedicated to studying various Christian heresies, hoping to find common ground while accepting differences between Muslims and Christians.\n\nYet, long-term tolerance towards other faiths has led [Root.GetName] to neglect attention to orthodox belief. Dissatisfaction among the domestic Muslim population and the upper class with the rule of [Root.Monarch.Title] [Root.Monarch.GetName] has intensified. Without state intervention, this discontent has transformed into protests and uprisings.\n\nTo uphold orthodox faith, classes and masses across various Muslim communities have revolted, demanding the state reduce privileges granted to non-Muslims and strengthen religious unity. The dhimmi class, representing various non-Muslim faiths, stands with [Root.Monarch.GetName], urging the preservation of current policies and suppression of protests from Muslim classes. Thus, a peculiar scene has emerged within [Root.GetName]: supporters of orthodox faith have become opponents of the state government, while non-Muslims have instead become supporters of state rule.\n\nSmall-scale conflicts across various regions of [Root.GetName] finally escalated into a religious conflict engulfing the entire [Root.GetName] in [GetYear]. A fanatical Taifa governing the Córdoba region of Iberia declared that [Root.Monarch.Title] [Root.Monarch.GetName] had betrayed Allah and openly rebelled. This act gained support from Muslims in various regions. Since Muslims held an absolute majority in the capital, [225.GetName], the rebels quickly seized the area and declared independence. Before the capital fell, [Root.Monarch.Title] [Root.Monarch.GetName] fled the city, regrouping with remaining loyalists and dhimmi support, intending to crush the rebellion.\n\nThus, a historically unprecedented religious war commenced."
+FOIDisasterEvents.30.aa:0 "Rule transcends religion; the state precedes all"
+FOIDisasterEvents.30.aa.tt:0 "\nDuring this war, territories occupied by either side will be §Yimmediately§! ceded; therefore, it is §Rnot recommended§! to §Ycall allies into the war§!\n"
+
+FOIDisasterEvents.40.name:0 "The Dust Settles"
+FOIDisasterEvents.40.desc:0 "After prolonged warfare across various regions, the tumultuous Andalusian Religious War has finally concluded.\n\nThis conflict has made [Root.Monarch.Title] [Root.Monarch.GetName] acutely aware that the sentiments of the domestic Muslim population cannot be ignored. Upholding orthodox faith is also part of tolerance. All people, regardless of religion, should be treated equally, and religious issues shall be thoroughly eradicated in the future."
+FOIDisasterEvents.40.aa:0 "And [Root.GetName] shall be reborn once more"
+
+FOIDisasterEvents.50.name:0 "The Great Purge"
+FOIDisasterEvents.50.desc:0 "Although [Root.GetName] has undertaken a series of successful actions in the past, sweeping away corrupt Republican elements, significant numbers of oppositionists still remain within various communes, constantly threatening their survival and ready to restore the Republic or even monarchy at any moment.\n\nWith the end of the civil war, the people of each commune have increasingly called for cleansing these potential reactionaries. Those who were once oppressed are the most vocal, demanding a communal vote to determine the future course of action.\n\nFollowing the latest round of voting, the purge of reactionaries within the communes has arrived."
+FOIDisasterEvents.50.aa:0 "Let's see who's still acting recklessly?"
+FOIDisasterEvents.50.aa.tooltip:0 "We will unlock a §Ydecision§! to investigate reactionaries hidden within the communes."
+
+FOIDisasterEvents.51.name:0 "Accusation"
+FOIDisasterEvents.51.desc:0 "Our administrative advisor, [Root.Adm_Advisor.GetName], is currently accused by a commune of corruption. After a series of investigations, the evidence currently held is insufficient to substantiate the accusation. However, with slight interference, the advisor could be sent to prison."
+FOIDisasterEvents.51.aa:0 "As they wish"
+FOIDisasterEvents.51.bb:0 "The accusation is baseless"
+
+FOIDisasterEvents.52.name:0 "Accusation"
+FOIDisasterEvents.52.desc:0 "Our diplomatic advisor, [Root.Dip_Advisor.GetName], is currently accused by a commune of being a foreign spy. After a series of investigations, the evidence currently held is insufficient to substantiate the accusation. However, with slight interference, the advisor could be sent to prison."
+FOIDisasterEvents.52.aa:0 "As they wish"
+FOIDisasterEvents.52.bb:0 "The accusation is baseless"
+
+FOIDisasterEvents.53.name:0 "Accusation"
+FOIDisasterEvents.53.desc:0 "Our military advisor, [Root.Mil_Advisor.GetName], is currently accused by a commune of disloyalty to the Union. After a series of investigations, the evidence currently held is insufficient to substantiate the accusation. However, with slight interference, the advisor could be sent to prison."
+FOIDisasterEvents.53.aa:0 "As they wish"
+FOIDisasterEvents.53.bb:0 "The accusation is baseless"
+
+FOIDisasterEvents.54.name:0 "Purge"
+FOIDisasterEvents.54.desc:0 "In this extremely intense political struggle, both the guilty and the innocent may face the most dangerous accusations and end up imprisoned. Recently, an anonymous letter accused three advisors within the Union of treason and collusion with the enemy. During verification, the contents of the letter were somehow disseminated and became known to the people of various communes. Although the congressional investigation indicated insufficient evidence to convict the three advisors of treason, this is not enough to quell public outcry. Therefore, we must immediately decide the fate of these three advisors."
+FOIDisasterEvents.54.aa:0 "The people will decide"
+FOIDisasterEvents.54.bb:0 "This is the truth"
+
+FOIDisasterEvents.55.name:0 "Conspiracy"
+FOIDisasterEvents.55.desc:0 "One of our army generals has been accused of treason in recent days. After investigation, all evidence indicates the certainty of this fact, and thus he must pay for his actions."
+FOIDisasterEvents.55.aa:0 "Good riddance"
+
+FOIDisasterEvents.55.aa:0 "Good riddance"
+FOIDisasterEvents.56.name:0 "Conspiracy"
+FOIDisasterEvents.56.desc:0 "One of our naval admirals has been accused of treason in recent days. After investigation, all evidence indicates the certainty of this fact, and thus he must pay for his actions."
+FOIDisasterEvents.56.aa:0 "Good riddance"
+
+FOIDisasterEvents.57.name:0 "Shackles"
+FOIDisasterEvents.57.desc:0 "Today we received a report that a member of the Congress is suspected of corruption. After a series of investigations, this claim has been substantiated. The change in membership has also led to a decline in the efficiency of the Congress's operations."
+FOIDisasterEvents.57.aa:0 "Administrative functions will be affected"
+FOIDisasterEvents.57.bb:0 "Foreign affairs will be impacted"
+FOIDisasterEvents.57.cc:0 "Military organization will be diminished"
+
+FOIDisasterEvents.60.name:0 "Aftershocks"
+FOIDisasterEvents.60.desc:0 "After prolonged investigations across various communes, the Congress can finally declare the complete end of this great purge. Counter-revolutionaries within have been executed, though there were indeed misjudgments and wrongful accusations. The Congress has also delivered final justice to those wronged—making mistakes is not terrible, but refusing to acknowledge one's errors is the greatest folly.\n\nHowever, this process was not without gain. Having endured this ordeal, the Congress has learned many valuable lessons."
+FOIDisasterEvents.60.aa:0 "Begin anew"
+
+FOIDisasterEvents.70.name:0 "War on Ice"
+FOIDisasterEvents.70.desc:0 "Due to the unique nature of the [Root.GetName] regime, we are perceived by other nations as a threat that must be eliminated. Therefore, the Congress has consistently maintained a policy of focusing on internal development, avoiding external interference, and preserving a fragile yet peaceful situation. However, this delicate balance is about to be shattered.\n\nIn the past, the people of [Root.GetName] merely desired the free life they had never before experienced. Yet, as revolutionary fervor continues to rise domestically, the populace increasingly realizes that our brethren beyond our borders still suffer under dire conditions. Gradually, calls have emerged urging the Congress to shift its foreign policy and liberate those still oppressed by feudal systems.\n\nRecently, such voices have spread throughout the nation. The Congress must convene a meeting to address the people's passion. We must carefully deliberate whether to alter our foreign policy. Exporting our ideals is inevitable and a duty we must fulfill, but are the communes currently capable of realizing our vision?"
+FOIDisasterEvents.70.aa:0 "The people's will shall be realized"
+FOIDisasterEvents.70.bb:0 "We still need time..."
+
+FOIDisasterEvents.80.name:0 "Conclusion"
+FOIDisasterEvents.80.desc:0 "As the voices of demands from various communes and the populace gradually diminish, this period of transformation finally draws to a close. Whether the flames of revolution have cooled to ice or continue to burn, their light still illuminates all the people within the Union."
+FOIDisasterEvents.80.aa:0 "So be it"
+
+FOIDisasterEvents.90.name:0 "The Ember War"
+FOIDisasterEvents.90.desc:0 "A deathly silence permeates every corner of [Root.GetName]. The revolutionary fervor of the past has vanished, replaced by confusion about the future. No one knows how to navigate what lies ahead; everything is like dead ashes.\n\nThus, things once buried begin to silently breed, grow, and thrive... Internal reactionary forces start to stir; external powers watch with covetous eyes. All hope to gain a share from the impending storm within [Root.GetName]. No one in [Root.GetName] can remain aloof, and everything begins to crumble at this moment. If the existence of [Root.GetName] is merely to bring people together simply, then a populace no longer sharing a common ideal will naturally depart from it. When individual interests surpass those of the state, [Root.GetName] will cease to exist.\n\nA great schism is approaching. Yet for [Root.GetName], the situation has not reached its final moment. Before all becomes irreparable, we must rekindle our lost passion and reclaim the great dream we once held—\n\n§ROnly through facing death can we be reborn§!"
+FOIDisasterEvents.90.aa:0 "'Sing praises to your death, die like a hero returning home'"
+FOIDisasterEvents.90.aa.tt:0 "§ROnly in death does duty end§!" # Only death is the finale of duty
+FOIDisasterEvents.90.bb:0 "'Amidst raging flames, it shall be reborn'"
+FOIDisasterEvents.90.bb.tt:0 "Set §YRepublican Tradition§! to §Y75§! and §YRevolutionary Zeal§! to §Y50§!.\n\n§RIf during the disaster, §YRepublican Tradition§! falls below §Y50§! or §YRevolutionary Zeal§! falls below §Y25§!, §Y[Root.GetName]§! will collapse§!"
+
+FOIDisasterEvents.91.name:0 "Dead Silence"
+FOIDisasterEvents.91.desc:0 "\n\nThe collapse of [Root.GetName] was never instantaneous; it was the result of accumulated neglect, coupled with guidance—and no one can remain untouched.\n\n[Root.GetName] must make a choice. As the first commune declares its secession from [Root.GetName], a great schism begins. Communes start to break away from [Root.GetName] for various reasons, declaring independence one after another. Now, [Root.GetName] is but an empty shell, with only a few communes remaining. Nothing remains as it once was.\n\n[Root.GetName] must choose how to complete its final journey—whether to let everything return to the past, or to seek another path..."
+FOIDisasterEvents.91.aa:0 "Let everything fade away now..."
+
+ FOIDisasterEvents.92.name:0 ""
+ FOIDisasterEvents.92.desc:0 ""
+ FOIDisasterEvents.92.aa:0 ""
+
+FOIDisasterEvents.100.name:0 "Reborn"
+FOIDisasterEvents.100.desc:0 "With the dissipation of past crises, we shall set forth once more to embrace our future!"
+FOIDisasterEvents.100.aa:0 "Let us begin anew"
+
+FOIDisasterEvents.110.name:0 "Turbulent Times"
+FOIDisasterEvents.110.desc:0 "As we continuously liberate people in various regions, the surrounding reactionary forces have grown increasingly anxious and seem to be secretly plotting unknown schemes."
+FOIDisasterEvents.110.aa:0 "We will eradicate them sooner or later"
+
+FOIDisasterEvents.111.name:0 "Holding Breath"
+FOIDisasterEvents.111.desc:0 "Over the past few months, reports from border communes indicate unusually frequent military movements in certain countries. These movements are not confined to their own territories but involve deployments between nations. This abnormal phenomenon requires our additional attention."
+FOIDisasterEvents.111.aa:0 "A ragtag bunch, not worth fearing"
+
+FOIDisasterEvents.112.name:0 "Unrest"
+FOIDisasterEvents.112.desc:0 "Without warning, significant turbulence has emerged across our border regions. Former oppositionists have suddenly revived, persistently harassing various areas. Armed conflicts have become frequent, and we can observe that external forces are beginning to stir.\n\nThis is no coincidence; a great war is imminent."
+FOIDisasterEvents.112.aa:0 "The war horn is about to sound"
+FOIDisasterEvents.112.aa.tt:0 "All provinces we own outside the Iberian region gain §Y20§! years of separatism."
+
+FOIDisasterEvents.113.name:0 "War of the Blazing Sun"
+FOIDisasterEvents.113.desc:0 "A scorching sun blazes over the European continent; the flames of war ceaselessly sear this land. After prolonged military and economic preparations, along with exchanges between nations, a vast alliance has united against a common threat, intending to completely dismantle this regime they perceive as Europe's malignant tumor. Today, the counter-revolutionary alliance led by [EDG_FOI_counter_revolutionary_alliance_organizer_target.GetName] formally declares war on [Root.GetName].\n\nAlthough the counter-revolutionary alliance arrives with great fanfare, it has not intimidated [Root.GetName]. Instead, this act has ignited an even more fervent revolutionary wave within [Root.GetName]. However, excessive zeal has also led to a significant increase in radical actions among the people of various communes. Violent incidents abound; such contradictory behavior pervades the communes, and in some ways, it actually weakens [Root.GetName]'s overall strength. Yet, in the impending war, this may not be entirely detrimental.\n\n[Root.GetName] must emerge victorious in this situation of internal strife and external threat. Amidst the fierce clash between autocratic, monolithic rule and fanatical, violent revolutionary tides, an unprecedented war commences."
+FOIDisasterEvents.113.aa:0 "Let blood spill upon the earth, fertilizing this revolutionary soil!"
+
+FOIDisasterEvents.114.name:0 "The Counter-Revolutionary Alliance"
+FOIDisasterEvents.114.desc:0 "With the establishment of [FWF.GetName], this nation composed of peasant communes has become the most threatening political entity in all of Europe, constantly inciting rebellion among the lower classes within our own countries. Now, a number of states have begun secretly uniting to launch a thorough war of encirclement and annihilation against [FWF.GetName], aiming to completely eradicate this cancer.\n\nWe must carefully consider our stance—whether to remain neutral or to participate."
+FOIDisasterEvents.114.aa:0 "We must utterly crush them!"
+FOIDisasterEvents.114.bb:0 "This offers us no benefit"
+
+FOIDisasterEvents.120.name:0 "Resurgence"
+FOIDisasterEvents.120.desc:0 "In this revolutionary war, sufficient to alter the course of history, our people have coalesced their blood and passion into a force that shakes the soul, thoroughly shattering the challenges from the old order. As the last banner of the counter-revolutionary alliance falls, we have finally emerged victorious from this war, and those reactionaries have fled in disarray, scattering to the winds.\n\nNews of victory quickly spread throughout Europe and, via Central Asia, reached the distant East... After decades of arduous warfare, victory inspires all peoples to rise up and struggle for a freer, brighter future. The springtime for the people of Europe and indeed the world is about to arrive. Let us push the tide of revolution to even more distant shores!"
+FOIDisasterEvents.120.aa:0 "Let us continue forward"
+FOIDisasterEvents.120.aa.tt:0 "Provinces in the §YEurope§! and §YEastern Europe§! superregions not yet owned by us will gain the modifier §YAgitate the Populace§!"
+
+FOIDisasterEvents.130.name:0 "War of Incineration"
+FOIDisasterEvents.130.desc:0 "As we shift our foreign policy, other nations perceive a threat from us. Some regional powers have already begun planning wars against us, attempting to crush this premature revolution.\n\nReactionary forces are gathering; conspiracies beneath various communes are stirring. Whether through violence or other means, all actions seek to overthrow the Union's current regime and extinguish the flames of revolution. As the roar of artillery echoes through streets and alleys, the people are forced into the fires of war. The iron fist of reaction has struck the Union, and only war can resolve this."
+FOIDisasterEvents.130.aa:0 "The flames of revolution shall burn brightly!"
+
+FOIDisasterEvents.131.name:0 "Echo"
+FOIDisasterEvents.131.desc:0 "Occupied territories are typically lifeless or rife with rebellion, but there are always exceptions. After we occupied [EDG_FOI_FOIDisasterEvents_131_target.GetName], we engaged in a series of exchanges with the local populace. During this time, they gained a fuller understanding of the cause we are pursuing, leading the local people to hope we can liberate them from this oppressive rule and together stride toward a brighter future."
+FOIDisasterEvents.131.aa:0 "We will achieve it"
+
+FOIDisasterEvents.140.name:0 ""
+FOIDisasterEvents.140.desc:0 "With the failure of the war aimed at crushing our revolution, we have finally achieved a temporary victory. Those reactionary forces that sought to target us must now think twice."
+FOIDisasterEvents.140.aa:0 "This is yet another victory for the people!"
+
+
+
+FOIDisasterEvents.150.name:0 "Forged in Blazing Flame"
+FOIDisasterEvents.150.desc:0 "The Union is founded on the principle of seeking a brighter future for the masses; thus, armed struggle is an indispensable part. Our people await the liberation of more brethren. If this common ideal is abandoned, we shall cease to exist. Simultaneously, radical ideologies frequently propagate among various communes. When the majority of the populace embraces and acts upon such ideas, the rising revolutionary fervor across [Root.GetName] will push the Union to the brink of war, continuing to illuminate the vast, dark land."
+FOIDisasterEvents.150.aa:0 "Let's see who's next"
+FOIDisasterEvents.150.bb:0 "The tide of revolution never ceases!"
+FOIDisasterEvents.150.bb.tt:0 "We will declare war on all non-§YRevolutionary Regime§! states adjacent to us."
+FOIDisasterEvents.150.cc:0 "Their passion should be channeled elsewhere"
+
+FOIDisasterEvents.160.name:0 "Passion Subsides"
+FOIDisasterEvents.160.desc:0 "Every wave eventually recedes. As the people's revolutionary passion subsides, the atmosphere in the communes returns to calmness, and its aftereffects will influence the Union for years to come."
+FOIDisasterEvents.160.aa:0 "Tides ebb and flow; such is nature"
+
+FOIDisasterEvents.170.name:0 "Heat Wave"
+FOIDisasterEvents.170.desc:0 "The religious issue within the Union has always been a troublesome one. Catharism, a heresy spread to the Iberian Peninsula, saw its adherents expand during Catalonia's unification of Iberia, yet it never became a mainstream faith. Most people in the north adhered to Roman Catholicism, the central regions were dominated by the native Spanish church, while the south was long ruled by Islam. Catharism remained largely confined to Catalonia, a situation not easily altered. Its distribution within the Union was sparse, and it remained a non-dominant religion for a long time, sowing the seeds for future turmoil.\n\nAlthough the Union had an overarching religious policy, not every commune adhered to the standards set by the Congress, as implementation difficulty varied with the demographic base of other believers. Thus, while the Union nominally had an official state religion, the actual distribution of mainstream faiths across regions saw little significant change. Instead, increased mobility and exchange between adjacent communes further complicated religious communities.\n\nBefore the Reformation, tensions existed among followers of different religions within the Union. However, individual communes possessed the capacity and were accustomed to handling such matters, preventing them from becoming a significant problem for the Union. Yet, the sweeping Reformation movement acted as a magnifying glass on the Union's religious issues.\n\nWith the progress of the Reformation, Protestant teachings reached the Iberian Peninsula. Mainstream religions shifted in some regions, and the number of Protestants began to increase across various areas, causing dramatic changes in the Union's religious distribution. Simultaneously, more heresies emerged, further fueling religious discord. The fault lines of religious division now extended beyond traditional binary conflicts. Uncontrolled religious fanatics appeared across the Union, and religious conflicts infiltrated the political administration of various communes while exacerbating cultural and ethnic tensions. Religious fervor, driven by the Reformation and deep-seated divisions within the Union, led to a series of rebellions and uprisings. Followers of different religious sects sought to preserve their original rights and ensure their supreme doctrines remained untouched by adherents of other faiths, while some fanatics attempted to impose their beliefs on others.\n\nCurrently, the state of religious communities across the Union is characterized by fanaticism, violence, persecution, and wanton destruction of religious sites. Local communes are overwhelmed by such large-scale religious turmoil and are calling on the Congress to make a decision to definitively end the religious dilemma that has existed since the nation's founding: pluralistic coexistence or a single faith. However, before beginning, we must first determine our stance in this sweeping Reformation—in what form the Union shall continue forward."
+FOIDisasterEvents.170.aa:0 "Catharism"
+FOIDisasterEvents.170.bb:0 "Mozarabic Christianity"
+FOIDisasterEvents.170.cc:0 "Protestantism"
+FOIDisasterEvents.170.dd:0 "Reformed"
+FOIDisasterEvents.170.ee:0 "Maintain the status quo"
+FOIDisasterEvents.170.tt:0 "We will unlock two decisions to determine our attitude towards various religions: tolerance or one true faith."
+
+FOIDisasterEvents.180.name:0 "Ebb Tide"
+FOIDisasterEvents.180.desc:0 "As our religious communities gradually stabilize, religious conflicts across the Union have also diminished. Although religious issues have caused considerable impact in various regions, we believe our path forward will be smoother and brighter."
+FOIDisasterEvents.180.aa:0 "Time will heal all wounds"
+
+FOIDisasterEvents.190.name:0 "Dead Fire"
+FOIDisasterEvents.190.desc:0 "The Military Commission was originally tasked with the vital mission of enhancing the Union's military capabilities, a duty it performed with commendable efficiency at its inception. Its establishment yielded substantial results, genuinely strengthening the nation's military organization and combat effectiveness. Meanwhile, as the Commission's status and influence grew, its original responsibilities gradually eroded under the trials of war, paving the way for corrupt reactionary forces to take root within.\n\nDue to continuous warfare, the Union's demand for military force increased dramatically. Unlike other reactionary states, the Union had virtually no potential external military aid, leading to the nation's progressive militarization. The need for a powerful army, coupled with the ideal of exporting revolution and the dilemmas faced in reality, allowed a decaying condition to quietly spread amidst the flames of revolution. As the military expanded, the Military Commission gained unprecedented power and influence. This newfound authority, combined with the temptation of absolute control, proved a potent catalyst for the Commission's leadership. Ultimately, they succumbed to the lure of unchecked power, nurturing ambitions beyond their initial mandate.\n\nFrom its outset, the structure of the Military Commission made it impossible for the Congress to impose rigid constraints; the central authority lacked coercive means to counter it. This fostered the gradual entrenchment of corruption within its corridors. The absence of strong oversight mechanisms, alongside the Commission's centralized and increasingly oligarchic power, provided opportunities for greedy reactionaries to foster self-serving agendas and manipulate the system for personal gain.\n\nAs the vines of corruption entwined the Commission, the character of its leadership underwent a noticeable transformation. This institution, once driven by commitment to national defense and revolutionary ideals, became a clique of individuals craving further authority and power. This transformation culminated at a critical moment when the Commission's leaders, tempted by absolute power, made a fatal decision to orchestrate a coup against the Congress.\n\nThe coup did not succeed. Congress members immediately relocated, declared a state of emergency, and proclaimed the Military Commission an illegal organization, mobilizing communal forces to suppress it. As orders were not instantly transmitted everywhere and loyalist factions within the Military Commission still existed, the nation entered a civil war phase. However, local militias and rebel forces continuously contested control of various communes, resulting in a complex, interwoven situation.\n\nThe vibrant crimson flames of this revolution neither burned brighter nor dissipated; instead, they grew listless, like ghostly will-o'-the-wisps. Can the Union rekindle this dead fire—or will it be consumed, releasing these wandering flames to poison this revolutionary soil?"
+FOIDisasterEvents.190.aa:0 "A sense of déjà vu..."
+FOIDisasterEvents.190.aa.tt:0 "Set §YRevolutionary Zeal§! to §Y0§!.\n\n§YClear all manpower§!.\n\n§YThe Union's current military has proven disloyal. We must §Rdisband all troops§! immediately before the Military Commission completely controls the situation; otherwise, §Rthe Union will cease to exist§!§!\n\n§YIt is strongly advised to disband all troops before clicking this option!§!"
+
+FOIDisasterEvents.191.name:0 "Counterattack"
+FOIDisasterEvents.191.desc:0 "Despite the Military Commission's initial coup failure, they quickly mobilized active forces to dissolve the Congress by force. We must assemble communal forces to deal with these traitors!"
+FOIDisasterEvents.191.aa:0 "Organize resistance, suppress them!"
+FOIDisasterEvents.191.bb:0 "What?!"
+
+FOIDisasterEvents.192.name:0 "Epilogue"
+FOIDisasterEvents.192.desc:0 "As the Union falls under military rule, various local communes begin to secede. We no longer hold any legitimacy; everything returns to square one."
+FOIDisasterEvents.192.aa:0 "So it ends"
+
+FOIDisasterEvents.193.name:0 "Rebel Assault"
+FOIDisasterEvents.193.desc:0 "Supporters of the Military Commission have launched rebellions in several provinces and seized local strongholds. We must act."
+FOIDisasterEvents.193.aa:0 "Crush them"
+
+FOIDisasterEvents.194.name:0 "Armed Mobilization"
+FOIDisasterEvents.194.desc:0 "During the civil war, contests between communal militias and rebel forces have been ongoing. Recently, local forces in [event_province.GetName] regained control of the area after battling rebels."
+FOIDisasterEvents.194.aa:0 "Excellent"
+
+FOIDisasterEvents.195.name:0 "Conflict"
+FOIDisasterEvents.195.desc:0 "The commune of [event_province.GetName] was recently attacked by rebels. After hastily assembling militias, a struggle for control of the region ensued."
+FOIDisasterEvents.195.aa:0 "Dispatch troops in support"
+
+FOIDisasterEvents.196.name:0 "Support"
+FOIDisasterEvents.196.desc:0 "Despite the chaotic times, while each commune is busy safeguarding itself, they are also finding ways to support the Union. Recently, a local commune delivered a batch of supplies to the Congress, hoping we can swiftly crush the rebellion."
+FOIDisasterEvents.196.aa:0 "Use these supplies to train new recruits"
+FOIDisasterEvents.196.bb:0 "Use these supplies to replenish the treasury"
+
+FOIDisasterEvents.197.name:0 "Local Militias"
+FOIDisasterEvents.197.desc:0 "Although the Military Commission's rebellion necessitated the near-complete reorganization of our revolutionary forces, a few communes still possess the capacity to train such troops. Recently, a local commune transferred a revolutionary unit to the Congress, hoping we can completely crush the traitors."
+FOIDisasterEvents.197.aa:0 "Timely support"
+
+FOIDisasterEvents.198.name:0 "Raid"
+FOIDisasterEvents.198.desc:0 "During the civil war, rebels have continuously assaulted and occupied neighboring communes from military bases previously established across regions. Recently, the commune of [event_province.GetName] suffered a sudden rebel attack. The local militia was overpowered and forced to retreat, leaving the area temporarily under rebel control."
+FOIDisasterEvents.198.aa:0 "Damn it"
+
+FOIDisasterEvents.200.name:0 "Reignition"
+FOIDisasterEvents.200.desc:0 "The coup meticulously orchestrated by the Military Commission, once the Union's sharp sword, marks the lowest point in the Union's history, with chaos and rebellion rampant throughout the nation. As the rebels were purged and most members of the Military Commission eliminated, this crisis has concluded. The reckoning with individuals associated with the Military Commission also implicated a series of corrupt members within the Congress. These individuals have been interrogated, and efforts to restore the Union's military structure have begun. The Military Commission will be thoroughly restructured under congressional mandate to ensure its members remain loyal to the Union and prevent such incidents from recurring.\n\nThe Union's future remains bright; the flames of revolution shall continue to burn fiercely hereafter."
+FOIDisasterEvents.200.aa:0 "Excellent"
+
+FOIDisasterEvents.210.name:0 "Countercurrent"
+FOIDisasterEvents.210.desc:0 "For the Union, the concept of a vassal state does not exist. All nations within the Union hold equal status; they must integrate into the Union as communes, or other communes will refuse to recognize them as part of the Union.\n\nSince we have violated this principle, ignored protests from various communes, and maintained multiple vassal states, a motion has been placed on the agenda. The Congress must choose: either have these so-called vassal states merge with us immediately—which is clearly unlikely to be agreed upon by them—or sever ties completely and draw a clear line.\n\nRegardless of the choice, we must relinquish something."
+FOIDisasterEvents.210.aa:0 "It seems only war can resolve this"
+FOIDisasterEvents.210.bb:0 "Let them go"
+
+FOIDisasterEvents.220.name:0 "Calm"
+FOIDisasterEvents.220.desc:0 "With the Union no longer possessing any vassal states, everything has settled into calm. Regardless of how this was achieved, it will be a lesson worth learning from."
+FOIDisasterEvents.220.aa:0 "Hopefully there won't be a next time"
+
+FOIDisasterEvents.230.name:0 "Shackles"
+FOIDisasterEvents.230.desc:0 "The most critical factor for the Union's survival is the cohesion among its communes. However, due to a series of decision-making errors and other issues, this cohesion has been called into question by the communes.\n\nCommunes no longer trust the decisions made by the Congress. Neighboring communes have begun making their own judgments on various matters, and rifts between communes are gradually emerging. As the Congress's credibility erodes, its regulatory role is likewise discarded, and latent contradictions between communes have reached a tipping point.\n\nSuspicion and doubt pervade the entire Union; the whole is no longer intact. The seeds of division have been sown, and we must reunite the communes before everything spirals out of control."
+FOIDisasterEvents.230.aa:0 "Mending the pen after the sheep are lost is too late"
+
+FOIDisasterEvents.240.name:0 "Breaking the Ice"
+FOIDisasterEvents.240.desc:0 "With the restoration of the Congress's credibility, communes once again submit to coordination, and conflicts between communes have been resolved one by one, restoring harmony.\n\nAlthough the process did not go as everyone hoped, after paying a certain price, the Congress can hopefully recognize how to handle relations and affairs among the communes.\n\nRegardless, this crisis has been successfully navigated, and it is hoped such crises will not recur."
+FOIDisasterEvents.240.aa:0 "Mending the pen after the sheep are lost is not too late"
+
+FOI_CATEvents.0.name:0 "A Request from [From.GetName]"
+FOI_CATEvents.0.desc:0 "[From.GetName], as the most important stronghold of Catharism in Iberia, is now requesting military assistance to intervene in Iberian affairs. This is a great opportunity for us to consolidate our position as the world leader of Catharism. The more such military support we provide, the stronger our control over Iberia will become.\n\nOf course, on the other hand, the possibility of [From.GetName] breaching treaties is not impossible, so whether we should intervene remains debatable."
+FOI_CATEvents.0.aa:0 "Let us join"
+FOI_CATEvents.0.bb:0 "This does not serve our interests"
+
+FOI_CATEvents.1.name:0 "Response"
+FOI_CATEvents.1.desc:0 "Due to various factors, [From.GetName] has rejected our request for military assistance. We must now face the war alone."
+FOI_CATEvents.1.aa:0 "Bad news"
+
+
+
+
+
+FOI_UCIEvents.0.name:0 "Voice of Freedom"
+FOI_UCIEvents.0.desc:0 "A century after Peter II's patronage of the Cathars, Cathar communities migrated south along the coastline to Catalonia. As Cathar communities were established and Catharism's inherent appeal to the lower classes oppressed by Catholicism grew, Catalonia gradually turned to the Cathar camp over decades. After years of conflict, Cathar believers finally dominated Catalonia, and with the fall of the Kingdom of Aragon, a republic was established by the will of the people at this most important Cathar stronghold in Iberia and a key site for the European Cathar movement.\n\nSituated in the southeastern part of Iberia and pursuing a pro-Arles policy, the Catalan Republic was largely untouched by the fires of war on the peninsula. Yet this did not mean the fledgling republic would refrain from conquest. Decades after King Ignacio III of Asturias launched his crusade against Tulaytulah, reigniting Iberia's blazing flames, this new Cathar republic proclaimed to the world the unification of Iberia.\n\nHowever, events did not unfold as the republic anticipated. What greeted unification was not public jubilation but an unprecedented famine. The barren Iberian Peninsula restricted agricultural activities, resulting in a weak agricultural foundation. Coupled with centuries of Reconquista warfare, which destroyed much of the agricultural and artisanal infrastructure built during peacetime, the situation worsened.\n\nMaking matters worse, the republican government was already riddled with corruption. Due to excessive reliance on Arles' assistance during the unification war, the republic signed a series of treaties that sold out national interests. While these treaties were barely sustainable in the past, the Iberian famine shattered the republic's finances. The Kingdom of Arles would not miss this opportunity, pressing for the implementation of previous treaties while seeking further control over the republic.\n\nFiscal deficits led the republic to a ruinous decision: further taxing peasants already devastated by famine. Such an unpopular policy naturally faced strong opposition across regions. To stabilize the nation, the republic decided to request Arles' military intervention to suppress rebellions. This move ignited the fury of the middle and lower classes. The republic, once established to protect the people, had become an instrument of their persecution, sparking a massive uprising across Iberia.\n\nWith experience seceding from the Kingdom of Aragon, this great uprising initially focused on Catalonia. The middle and lower classes, already scarred by the Iberian wars, had lost all trust in the government, believing no state institution could grant them true freedom. An unprecedented 'libertarian' ideology rapidly spread from Catalonia, aiming to establish a fully free society where everyone has dignity. Under normal circumstances, such radical ideas would not have spread so widely, but in turbulent Iberia, they gained broad support among the lower classes. Soon, angry crowds seized Barcelona, demanding the dissolution of the current government. Such absurdity was naturally rejected by the republic, but uprisings elsewhere left republican leaders fearing for their safety, choosing to flee to the Kingdom of Arles.\n\nAt this moment, Catalonia has become a nominal 'hollow republic,' and now the people must make their choice."
+FOI_UCIEvents.0.aa:0 "Victory shall belong to the people!"
+FOI_UCIEvents.0.aa.tt:0 "In the disaster §RThe Great Iberian Uprising§!, we will support the §Ypeople§!.\n\n§RArles will not stand idly by§!\n"
+FOI_UCIEvents.0.bb:0 "The Republic is not yet dead!"
+FOI_UCIEvents.0.bb.tt:0 "In the disaster §RThe Great Iberian Uprising§!, we will support the §YRepublic§!"
+
+FOI_UCIEvents.1.name:0 "The Iberian Civil War"
+FOI_UCIEvents.1.aa.desc:0 "Although the Catalan Republic was swept away, the influence of the Kingdom of Arles upon us remains immense, and this power has intensified following the overthrow of the Catalan Republic.\n\nFinally today, a new republic called the Spanish Alliance has been established, attempting to replace the communes, and Arles has issued an ultimatum to us.\n\nIt is evident that this so-called Spanish Alliance is merely Arles' second puppet, and the people of the communes will defend the freedom they fought for—war will be the final answer."
+FOI_UCIEvents.1.bb.desc:0 ""
+FOI_UCIEvents.1.cc.desc:0 "Catalonia's unification of Iberia was merely fleeting; its unstable foundations have now been uprooted. With the fall of the Catalan Republic, the new Spanish Alliance republic has been re-established. However, the enraged Iberian people refuse to recognize this state. Separatism once again sweeps across the Iberian Peninsula, and only war can resolve the dispute."
+FOI_UCIEvents.1.aa:0 "We shall be victorious!"
+
+FOI_UCIEvents.2.name:0 "Catalan Unrest"
+FOI_UCIEvents.2.desc:0 "The establishment of the communes was quite hasty; various mixed-interest groups merely gathered under a common goal. Yet when one faction's demands exceed tolerable limits, discontent inevitably arises.\n\nRecent war preparation activities in the Catalonia region have caused dissatisfaction among local communes. Unlike other communes, the Catalonia region is known for its radical ideas and once proposed abolishing government altogether, establishing a region completely free from state constraints. This proposal was ultimately rejected, replaced by demands for extremely high autonomy; otherwise, they would secede from the entire communal union."
+FOI_UCIEvents.2.aa:0 "Agree to their demands"
+FOI_UCIEvents.2.bb:0 "We treat all equally"
+
+FOI_UCIEvents.3.name:0 "A Spark Can Start a Prairie Fire"
+FOI_UCIEvents.3.desc:0 "Although we have liberated the people of the entire Iberian Peninsula, our ideals are not confined to this. In the world we know, countless brethren still suffer oppression and exploitation; we must free them from the landlords and nobles.\n\nAlthough few in number, there are state regimes in Europe that share our ideals. We should connect with and support them, advancing together for our common cause."
+FOI_UCIEvents.3.aa:0 "Convey our ideals to them!"
+
+FOI_UCIEvents.4.name:0 "Shared Ideals"
+FOI_UCIEvents.4.desc:0 "Recently we received a letter from [From.GetName], claiming to fight for the people's interests like us and hoping we could unite against other nations eyeing us covetously.\n\nIf we agree, the supplies provided by [From.GetName] would significantly improve our military and economic situation. Moreover, having such a capable ally would further ensure our security. From any perspective, this is a highly beneficial choice, yet we still have the right to refuse."
+FOI_UCIEvents.4.aa:0 "Let us march forward together"
+FOI_UCIEvents.4.bb:0 "We have other plans"
+
+FOI_UCIEvents.5.name:0 "Shared Ideals"
+FOI_UCIEvents.5.desc:0 "Unlike other peasant republics, this peasant regime in the Rus region shares almost identical ideals and principles with us, steadfastly standing on the side of the peasants and continuously struggling against other reactionary forces for its existence.\n\nWe need to engage in deep cooperation and exchange with them, advancing together for our shared ideals."
+FOI_UCIEvents.5.aa:0 "Let us state our purpose"
+
+FOI_UCIEvents.6.name:0 "A Letter from Afar"
+FOI_UCIEvents.6.desc:0 "Recently, we received a letter from a distant place. After centuries of conflict and a series of upheavals, the Iberian Peninsula has come under the control of peasants, forming a union of dozens of communes—a concept that aligns with our republic's ideals and aspirations.\n\nThey recently reached out to us, hoping to join hands and shatter all chains that bind the people of various nations, liberating all those still suffering in dire conditions."
+FOI_UCIEvents.6.aa:0 "Let us realize this great ideal together!"
+FOI_UCIEvents.6.bb:0 "They are not worthy of our trust"
+
+FOI_UCIEvents.7.name:0 "The Communal Revolutionary Army"
+FOI_UCIEvents.7.desc:0 "The Union has not been established for long; various communes still rely on militias conscripted during wartime for combat. Therefore, while numerical superiority can be achieved during war, troops without professional training lead to significant losses even after victory.\n\nFor these reasons, the Congress approved the establishment of an elite force: the Revolutionary Army. It will recruit outstanding soldiers and officers from various communes for centralized professional training and development, ensuring they fight for the people of the Union. Ordinary communal militias will henceforth serve as secondary forces on the battlefield, supporting the Revolutionary Army.\n\nSince nobles previously controlled the training and composition of cavalry in the Republic, after purging the nobility, it is difficult for us to form proper cavalry units. We must adapt to this situation and gradually recover from the current predicament."
+FOI_UCIEvents.7.aa:0 "Excellent"
+FOI_UCIEvents.7.aa.tt:0 "Our §YRevolutionary Guard§! will negate the negative effects of the §YCommunal Militias§! modifier.\n\nUnlock the §YRevolutionary Army Development Focus§! ability in the §YMilitary Interface§!, allowing us to strengthen the §YRevolutionary Guard§! in one of three aspects."
+
+FOI_UCIEvents.8.name:0 "The Communal First Artillery Corps"
+FOI_UCIEvents.8.desc:0 "With the continuous development of artillery technology, our means of warfare should also be upgraded. Currently, artillery is primarily used in sieges to breach walls, but its applicability in field battles is limited due to significant constraints, making it less versatile.\n\nHowever, domestic experts suggest that if we can improve the ammunition it fires, allowing it to burst and scatter into smaller caliber projectiles at a certain distance after launch, and deploy such weapons on a large scale on the battlefield, we could project vast amounts of ordnance to utterly destroy enemy troops with overwhelming firepower.\n\nAfter a period of research, we have successfully experimentally formed a corps based on this concept. Although it has many issues, one thing is certain: the firepower of this corps is sufficient to crush all enemies before it—provided you can fire first."
+FOI_UCIEvents.8.aa:0 "What is the doctrine of firepower supremacy?"
+FOI_UCIEvents.8.aa.tt:0 "We will be able to hire a mercenary regiment entirely composed of §Yartillery§!: the §YCommunal First Artillery Corps§!"
+
+FOI_UCIEvents.9.name:0 "A Torch Brilliant as Light"
+FOI_UCIEvents.9.desc:0 "As internal issues within the Union are resolved one by one, the Iberian region is rejuvenated. We can now look elsewhere, to liberate those still suffering in hardship. Let us raise high the torch to illuminate every corner of the world!"
+FOI_UCIEvents.9.aa:0 "The flames of revolution begin to burn fiercely now!"
+FOI_UCIEvents.9.aa.tt:0 "All allied nations that are §YRevolutionary Regimes§! or §YPeasant Republics§! with development below §Y200§! will merge with us."
+
+FOI_UCIEvents.10.name:0 "Strike While the Iron is Hot"
+FOI_UCIEvents.10.desc:0 "Having secured our foothold in southern Italy, the Catholic center of Rome is within reach. Some among us propose marching on Rome immediately to destroy this corrupt papacy, which would further ignite the people's revolutionary fervor. However, we must weigh the severe consequences of such an action."
+FOI_UCIEvents.10.aa:0 "Act now!"
+FOI_UCIEvents.10.aa.tt:0 "We will immediately declare war on the owner of §YRome§!. If the owner is the §YPapal States§!, other Catholic nations will not stand idly by."
+FOI_UCIEvents.10.bb:0 "Discuss later"
+
+FOI_UCIEvents.11.name:0 "Storm and Tempest"
+FOI_UCIEvents.11.desc:0 "As the Union solidifies its foothold in southern Italy, its ambitions expand further. Recently, it declared war on the Holy See, attempting to completely eradicate the Papacy.\n\nPredictably, if Rome falls, the Union's revolutionary fervor will grow, threatening the rule of the entire Catholic world and monarchical states. We must carefully consider whether to intervene in this war."
+FOI_UCIEvents.11.aa:0 "We shall protect the Holy See"
+FOI_UCIEvents.11.bb:0 "This is none of our concern"
+
+FOI_UCIEvents.12.name:0 "Dissolve the Papacy"
+FOI_UCIEvents.12.desc:0 "With Rome breached by the Revolutionary Army, the people long exploited and oppressed by the Catholic Church are finally liberated by us. The papal treasury, hoarding immense wealth, now serves the Union. After congressional deliberation, this vast fortune is decided to be distributed among the people of various communes.\n\nAfter this battle, the authority of the Catholic Church has been utterly annihilated—a great victory for the people!"
+FOI_UCIEvents.12.aa:0 "The heart of Italy has been liberated!"
+FOI_UCIEvents.12.aa.tt:0 "Distribute §Y50§! development points randomly across our core provinces."
+
+FOI_UCIEvents.13.name:0 "Preaching in North Africa"
+FOI_UCIEvents.13.desc:0 "As we secure our foothold in North Africa, religious issues arise. This land has long been under Muslim rule; we need to determine our preaching policy here.\n\nRadicals believe they should immediately convert to our state religion, while moderates advocate a gradual approach. Regardless of our attitude, the people of this land will ultimately embrace our faith."
+FOI_UCIEvents.13.aa:0 "Adopt traditional preaching methods"
+FOI_UCIEvents.13.bb:0 "Take it slowly"
+FOI_UCIEvents.13.bb.tt:0 "Provinces we own with religions in the §YMuslim§! group will receive a modifier; provinces with this modifier will slowly convert to our state religion."
+
+FOI_UCIEvents.14.name:0 "Moroccan Commune"
+FOI_UCIEvents.14.desc:0 "As the Moroccan region is integrated, we need to provide it with a suitable administrative system. Currently, there are two proposals.\n\nIf we grant the region greater autonomy, the commune within the Union will develop more prosperously. Alternatively, we could implement the system used in Iberia, fully integrating Morocco into our administrative framework."
+FOI_UCIEvents.14.aa:0 "Grant them higher autonomy"
+FOI_UCIEvents.14.bb:0 "We do not practice differential treatment"
+
+FOI_UCIEvents.15.name:0 "The Trial of Aix"
+FOI_UCIEvents.15.desc:0 "In [GetYear], the capital of Arles, Aix, fell, marking the complete defeat of the reactionary forces that once interfered with the Union. The city's palaces were looted to replenish the finances of various communes. Meanwhile, we must handle another matter.\n\nAfter the siege of Aix, numerous nobles and royals were captured or surrendered to us. We must decide their fate: hand them over to the people for judgment, or have the Congress collectively try them."
+FOI_UCIEvents.15.aa:0 "The people shall decide"
+FOI_UCIEvents.15.aa.tt:0 "Distribute §Y15§! development points randomly across our core provinces."
+FOI_UCIEvents.15.bb:0 "Let us personally judge these scoundrels"
+
+FOI_UCIEvents.16.name:0 "Military Committee"
+FOI_UCIEvents.16.desc:0 "As our army size continues to grow, we must consider that our current limited management capacity cannot support the administration and organization of such a vast force.\n\nTo address this, some Congress members propose establishing a specialized organization for military management: the Communal Military Committee. This department would transfer overall military command to a group of generals dedicated to military administration, greatly enhancing our ability to manage and mobilize large-scale forces. It would also promote the selection of new talents from various regions, allowing them to stand out and contribute to our common revolutionary cause.\n\nHowever, transferring military authority would inevitably undermine the Union's longstanding republican tradition. Such an act would nurture the soil for autocracy and dictatorship, potentially breeding unforeseen consequences..."
+FOI_UCIEvents.16.aa:0 "A great proposal!"
+FOI_UCIEvents.16.bb:0 "But who will manage them?"
+
+FOI_UCIEvents.17.name:0 "Establish Stronghold"
+FOI_UCIEvents.17.desc:0 "Recently, the Military Committee drafted a proposal to expand armed forces in the [event_target.GetName] region and submitted it to the Congress. The plan is self-funded by the Committee; the Congress only needs to approve it.\n\nIf agreed, the [event_target.GetName] region will have a more ample source of troops, and the Congress can more effectively issue orders to the area. Since this action will certainly provoke discontent among the local populace, we can also choose to reject it. However, the Military Committee will likely be displeased if the Congress refuses this request."
+FOI_UCIEvents.17.aa:0 "Approve the proposal"
+FOI_UCIEvents.17.bb:0 "Reject their request"
+
+FOI_UCIEvents.18.name:0 "Expand Stronghold"
+FOI_UCIEvents.18.desc:0 "Recently, the Military Committee drafted a proposal to expand fortifications in the [event_target.GetName] region and submitted it to the Congress. The plan is self-funded by the Committee; the Congress only needs to approve it.\n\nIf agreed, the defensive capabilities of the [event_target.GetName] region will be further strengthened, making it harder for enemies to capture. Since this action will certainly provoke discontent among the local populace, we can also choose to reject it. However, the Military Committee will likely be displeased if the Congress refuses this request."
+FOI_UCIEvents.18.aa:0 "Approve the proposal"
+FOI_UCIEvents.18.bb:0 "Reject their request"
+
+FOI_UCIEvents.19.name:0 "Recruitment"
+FOI_UCIEvents.19.desc:0 "The Military Committee has been tasked with the recruitment and training of the Revolutionary Army; thus, it can train Revolutionary Guard units with congressional approval.\n\nRecently, the Military Committee has requested congressional support to train Revolutionary Guard units to enhance the Union's overall military strength."
+FOI_UCIEvents.19.aa:0 "Approve the proposal"
+FOI_UCIEvents.19.bb:0 "Reject their request"
+
+FOI_UCIEvents.20.name:0 "Conflict"
+FOI_UCIEvents.20.desc:0 "Recently, local communal militias and Military Committee forces clashed over the allocation of military supplies. The local commune was unable to mediate the dispute, so the issue was transferred to the Congress.\n\nThe origin of these military supplies is quite complex; in principle, both sides have a right to use them. Therefore, assigning them to either party will provoke resentment from the other."
+FOI_UCIEvents.20.aa:0 "Assign to the Military Committee"
+FOI_UCIEvents.20.bb:0 "Assign to the local communal militias"
+FOI_UCIEvents.20.cc:0 "The Congress has the authority to allocate these supplies"
+
+FOI_UCIEvents.21.name:0 "Cult of Reason"
+FOI_UCIEvents.21.desc:0 "Ancient gods and their idols have fallen before the civilized world. The people, long bound by the shackles of ignorance, have awakened to a new reality. It is time to cast aside religious rituals. God is dead; everything is permitted. Let us embrace a more rational future."
+FOI_UCIEvents.21.aa:0 "Advance further!"
+FOI_UCIEvents.21.bb:0 "I think it's fine as it is"
+
+FOI_UCIEvents.22.name:0 "Communal Union"
+FOI_UCIEvents.22.desc:0 "Due to the unique nature of this nation's government, here are some suggestions that may optimize your gameplay experience:\n\n1. Since §RIberian Communes - Front of Progress§! is primarily driven by disasters, there are various disasters, some repeatable. In most cases, multiple disasters are on cooldown, so be mentally prepared. These disasters are not as frightening as they seem and may even have positive effects.\n2. It is not recommended to establish trade companies in any region.\n3. It is not recommended to release any vassals (except those created by events).\n4. It is not recommended to rely heavily on mercenaries as main forces, as their combat effectiveness is lower and costs are higher (except for special mercenaries unlocked by events).\n5. The UI on the right side of the advisor panel allows you to unconditionally select three Congress traits. Click on an idea slot once, select a trait, then click the idea slot again to complete the selection. Both the button in the upper left and the button in the upper right of the UI are interactive.\n6. Provinces owned by other countries and yourself have unique interaction buttons, which can be found in the province building interface.\n\nAs for other content, please explore through gameplay. Wishing you a pleasant gaming experience."
+FOI_UCIEvents.22.aa:0 "Understood"
+FOI_UCIEvents.22.aa.tt:0 "Please read the above instructions carefully and have a basic understanding of the commune's foundational modifiers."
+
+FOI_UCIEvents.23.name:0 "The Means of Production Issue"
+FOI_UCIEvents.23.desc:0 "With the outbreak of civil war in the Communal Union, we must determine the resources currently available and potential class support. Although the clergy and merchant classes have supported us in the past, if the resources they possess are not under our direct control, the Union will remain passive. Therefore, an action targeting these two classes has begun. Under the pretext of defending the Union, most means of production can be transferred to various communes. The Congress needs to decide whether to fully control them or unite with them to advance together."
+FOI_UCIEvents.23.aa:0 "This is not a suggestion, but a notice"
+FOI_UCIEvents.23.bb:0 "Perhaps we need their support"
+
+FOI_UCIEvents.500.name:0 "Rotation"
+FOI_UCIEvents.500.desc:0 "It's time again for personnel replacement in the 'All-Communes Congress.' Although in principle each replacement should involve a complete reorganization of all members to thoroughly restructure the Congress, this may result in the loss of many experienced individuals.\n\nRegardless, we must make a choice."
+FOI_UCIEvents.500.aa:0 "Make only partial member changes"
+FOI_UCIEvents.500.bb:0 "Completely restructure the Congress"
+
+FOI_UCIEvents.600.name:0 "Investigation"
+FOI_UCIEvents.600.desc:0 "We have completed preparations for the commune investigation. Now we need to decide the direction of our inquiry."
+FOI_UCIEvents.600.aa:0 "Investigate militia organizations"
+FOI_UCIEvents.600.bb:0 "Investigate the bourgeois class"
+FOI_UCIEvents.600.cc:0 "Investigate the clergy class"
+
+FOI_UCIEvents.601.name:0 "Militia Organizations"
+FOI_UCIEvents.601.desc:0 "In the early days of the Union's establishment, various communes hastily conscripted militias to protect themselves from invasion. However, these militia organizations were not screened at the time, resulting in mixed forces. With the investigation concluded, we must provide an account to the people."
+FOI_UCIEvents.601.aa:0 "Punish the leaders"
+FOI_UCIEvents.601.bb:0 "The military advisor should be held accountable"
+FOI_UCIEvents.601.cc:0 "Let it end here"
+
+FOI_UCIEvents.602.name:0 "Bourgeois Class"
+FOI_UCIEvents.602.desc:0 "The Union was founded upon resistance against a republic that had decayed into aristocracy. Therefore, cooperation with the merchant class was necessary during the revolution. However, the current situation does not allow for stable continued cooperation with this class. Communes are calling for an end to collaboration with them. Having already seized most merchant assets in the commune, it is time to decide their fate."
+FOI_UCIEvents.602.aa:0 "Thoroughly investigate them"
+FOI_UCIEvents.602.bb:0 "An advisor can replace them"
+FOI_UCIEvents.602.cc:0 "Let it end here"
+
+FOI_UCIEvents.603.name:0 "Clergy Class"
+FOI_UCIEvents.603.desc:0 "Religion has always been a challenge for the communes, as our state religion is not widely accepted in most of Iberia, limiting the clergy's influence across classes. However, since Catharism was previously adapted to serve the king, we should now take this opportunity to reshape it into a religion that serves the communes, allowing our revolution to spread further. This must begin with dealing with the conservatives."
+FOI_UCIEvents.603.aa:0 "Purge the hardliners"
+FOI_UCIEvents.603.bb:0 "Send away an advisor"
+FOI_UCIEvents.603.cc:0 "Let it end here"
+
+FOI_UCIEvents.700.name:0 "The Dust Settles"
+FOI_UCIEvents.700.desc:0 "With Arles' forces withdrawn from Iberia, the rule of the Spanish Alliance has been completely shattered by the Union. The Union has finally liberated the entire Iberian Peninsula. This premature revolution will now take root here. Though the road ahead is not optimistic, the people of the Union will continue to strive for their ideals."
+FOI_UCIEvents.700.aa:0 "Continue forward!"
+
+FOI_ActionEvents.2.name:0 "The Path of Light"
+FOI_ActionEvents.2.desc:0 "To provide a better and more challenging gameplay experience for the §RCatalonia - Iberian Communes - Front of Progress§! path, this event has been set up for your choice.\n\nIf you enable the Path of Light mode, your enemies will be stronger than usual, but you may also gain unexpected rewards...\n\nEnabling Path of Light mode will §Rdirectly affect§! your gameplay content, so please choose carefully."
+FOI_ActionEvents.2.aa:0 "A Torch Brilliant as Light!"
+FOI_ActionEvents.2.aa.tt:0 "Enable §YPath of Light§! mode.\n\nIf you wish to experience the §RCatalonia - Iberian Communes - Front of Progress§! path, §Rplease be sure to select this option§!!\n\n§RDisables§! the mission §YRebuilding Efforts§!."
+FOI_ActionEvents.2.bb:0 "A bit of ease is not unwelcome"
+FOI_ActionEvents.2.bb.tt:0 "Disable §YPath of Light§! mode. This will §Rprevent the formation§! of the §Y[UCI.GetName]§!.\n\n§GEnables§! the mission §YRebuilding Efforts§!.\n\n§RDo not select this unless you have completed the necessary conditions§!"
+
+FOI_ActionEvents.3.name:0 "Administrative Idea"
+FOI_ActionEvents.3.desc:0 "After prolonged work and training, individuals accumulate experience, ultimately improving their skills in this field. Such progress and enhancement will eventually reflect upon the entire organization."
+FOI_ActionEvents.3.aa:0 "Excellent"
+
+FOI_ActionEvents.4.name:0 "Diplomatic Idea"
+FOI_ActionEvents.4.desc:0 "After prolonged work and training, individuals accumulate experience, ultimately improving their skills in this field. Such progress and enhancement will eventually reflect upon the entire organization."
+FOI_ActionEvents.4.aa:0 "Diplomatic Idea"
+
+FOI_ActionEvents.5.name:0 "Military Idea"
+FOI_ActionEvents.5.desc:0 "After prolonged work and training, individuals accumulate experience, ultimately improving their skills in this field. Such progress and enhancement will eventually reflect upon the entire organization."
+FOI_ActionEvents.5.aa:0 "Military Idea"
+
+FOI_ActionEvents.6.name:0 "Administrative Chaos"
+FOI_ActionEvents.6.desc:0 "Recently, key members of the Congress have become conservative regarding the current situation, resulting in greater resistance across various aspects compared to before. We must overcome this difficult period."
+FOI_ActionEvents.6.aa:0 "This is not good"
+
+FOI_ActionEvents.7.name:0 "Diplomatic Failure"
+FOI_ActionEvents.7.desc:0 "Recently, key members of the Congress have become conservative regarding the current situation, resulting in greater resistance across various aspects compared to before. We must overcome this difficult period."
+FOI_ActionEvents.7.aa:0 "This is not good"
+
+FOI_ActionEvents.8.name:0 "Military Stagnation"
+FOI_ActionEvents.8.desc:0 "Recently, key members of the Congress have become conservative regarding the current situation, resulting in greater resistance across various aspects compared to before. We must overcome this difficult period."
+FOI_ActionEvents.8.aa:0 "This is not good"
+
+FOI_ActionEvents.9.name:0 "Soaring Morale"
+FOI_ActionEvents.9.desc:0 "As the war progresses, our nation's production activities have been severely impacted. However, recently, driven by soaring revolutionary fervor, production has recovered to some extent. We shall surely achieve victory!"
+FOI_ActionEvents.9.aa:0 "The struggle continues"
+ 
+FOI_ActionEvents.10.name:0 "Bumper Harvest"
+FOI_ActionEvents.10.desc:0 "A few years after overcoming the famine, our agricultural production has finally fully recovered and is more prosperous than ever. Through the labor of people in various communes, this year's agricultural production achieved a great harvest. After distributing the yield among the communes, substantial surplus remains. The Union will make good use of these resources to continue developing the communes."
+FOI_ActionEvents.10.aa:0 "May everyone be free from hunger"
+FOI_ActionEvents.10.aa.tt:0 "All our core provinces gain §Y1§! base tax, §Y1§! base production, and §Y1§! base manpower."
+
+FOI_ActionEvents.11.name:0 "Religious Situation"
+FOI_ActionEvents.11.desc:0 "As the Reformation arrives with great fervor, we must respond. In the past, Catharism led by Arles remained the mainstream religion of the Union. As our influence continues to expand, we should seize this moment to raise our banner in this religious reformation.\n\nOur ideals will spread outward with the religion. Those still oppressed by the Church and kings will surely rise up under our leadership; we will never cease."
+FOI_ActionEvents.11.aa:0 "A new era, new opportunities"
+
+FOI_ActionEvents.14.name:0 "Abolish the Slave Trade"
+FOI_ActionEvents.14.desc:0 "[Root.GetName] was once primarily engaged in the slave trade. After we liberated and integrated the region, we completely abolished slave trading there. With the people of [Root.GetName] liberated, commodity output will also change."
+FOI_ActionEvents.14.aa:0 "Everyone should have the rights they are born with"
+
+FOI_ActionEvents.15.name:0 "Lone Lamp, Bright Flame"
+FOI_ActionEvents.15.desc:0 "As the Union gradually stabilizes, communes have begun developing step by step, all looking forward to a brighter future. However, it is undeniable that behind this beautiful vision lies suffocating darkness: how many covet this land, and how many nations seek to shatter us completely to restore their so-called order... Even if we are but a lone lamp, we shall burn brightly, illuminating all people still trapped in hardship."
+FOI_ActionEvents.15.aa:0 "If there is no more torchlight hereafter, we shall be the sole light"
+
+FOI_ActionEvents.16.name:0 "Communal Recruitment"
+FOI_ActionEvents.16.desc:0 "Although Revolutionary Army training should be centralized, exceptions occasionally occur. If a commune has sufficient capacity to bear the expense of training revolutionary troops, small-scale training is permitted.\n\nRecently, a commune has expressed a desire to reinforce us with a Revolutionary Army for national deployment, supplementing understrength forces."
+FOI_ActionEvents.16.aa:0 "We expect to deploy an infantry regiment"
+FOI_ActionEvents.16.bb:0 "Cavalry would be more helpful"
+FOI_ActionEvents.16.cc:0 "The key lies in the number of artillery"
+FOI_ActionEvents.16.dd:0 "Current troop numbers are just fine"
+
+FOI_ActionEvents.17.name:0 "Cavalry Reform"
+FOI_ActionEvents.17.desc:0 "With the continuous development of firearms, the battlefield situation is constantly changing. Following the completion of the Union's cavalry reforms, we should systematically study this branch. Adhering to the most traditional cavalry role, we could adopt a shock-centric strategy. However, recent arguments suggest exploring alternative approaches, leveraging the burgeoning firearms to combine cavalry mobility with firearm lethality, forming a new type of cavalry unit."
+FOI_ActionEvents.17.aa:0 "Let's see how reforms work"
+FOI_ActionEvents.17.bb:0 "We'll stick to the old ways"
+
+FOI_ActionEvents.18.name:0 "Fire Cavalry"
+FOI_ActionEvents.18.desc:0 "With the proliferation of muskets, firearm application on the battlefield has expanded. However, the limitations of matchlocks still restrict their equipment on cavalry. Technological advancement has spurred more sophisticated weapon production, giving rise to the wheellock mechanism.\n\nThe wheellock ignition principle is similar to modern lighters: an iron wheel driven by a spring rotates, its rough surface striking iron pyrite to produce sparks. This invention greatly improved the portability and usability issues of matchlock muskets, allowing firearms to be carried and used instantly. Correspondingly, various safety devices emerged, enhancing wheellock safety during carriage.\n\nYet due to the wheellock's complex mechanism, only highly skilled gunsmiths could manufacture it, making it expensive. No army could equip it universally, but we can still attempt to arm a cavalry unit as mobile firepower to counter infantry."
+FOI_ActionEvents.18.aa:0 "Excellent"
+FOI_ActionEvents.18.aa.tt:0 "§YWe will unlock a decision to first arm a portion of cavalry with wheellocks§!"
+
+FOI_ActionEvents.19.name:0 "Flintlock Proliferation"
+FOI_ActionEvents.19.desc:0 "The advent of flintlocks enabled large-scale firearm application, offering greater convenience and speed. Thus, wheellocks gradually faded from history. We should keep pace with military weapon updates, equipping more advanced armaments."
+FOI_ActionEvents.19.aa:0 "Organize production line updates"
+
+EDG_FWFEvents.0.name:0 "United Front"
+EDG_FWFEvents.0.desc:0 "We have successfully liberated most of Europe. The people we liberated are cheering for the dawn of a new era. We should discard regional national boundaries, unite comrades sharing our ideals, and all people still oppressed by imperialism to struggle for a brighter future. In the name of progress and enterprise, with the will of freedom and equality, let us answer a greater call!"
+EDG_FWFEvents.0.aa:0 "The United Front shall continue to advance"
+EDG_FWFEvents.0.effect.tt:0 "High §RRevolutionary Zeal§! no longer provides §Ynegative modifiers§!"
+
+EDG_FWFEvents.1.name:0 "United Front"
+EDG_FWFEvents.1.desc:0 "With the establishment of the United Front, domestic calls for forming a unified revolutionary front are growing louder. We must make our choice now!"
+EDG_FWFEvents.1.aa:0 "Let us advance together!"
+EDG_FWFEvents.1.bb:0 "Ridiculous, we will not join them"
+EDG_FWFEvents.1.bb.tt:0 "§YThe United Front§! will gain §Ycores§! on provinces we own, and also increase §Y10§! unrest."
+
+EDG_FWFEvents.2.name:0 "Entrance to the Desolate Ground"
+EDG_FWFEvents.2.desc:0 "The torrent of history surges forward; all rivers flow into the vast abyss.\n\nSince the beginning in 1444, the Front of Progress has traversed over a century, and the history before remains vivid: After Fernando III's death, Christian kingdoms ultimately failed to unite; the Reconquista stalled, and Iberia remains fragmented. The Golden Horde disintegrated, the Black Sea steppes carved up by wolf packs, Orthodox believers reclaiming the vast grasslands. Kievan Rus gained freedom from the Mongols, yet internal conflicts are acute; civil war looms, and this land shall soon be engulfed in flames of war. The aftershocks of Stefan the Great still reverberate in Anatolia; a massive crusade was again dismantled by the Turks, the ruler of Edirne like a released arrow, vowing to restore the glory of the Ottoman Empire. The Serbian Empire, like a centipede that dies but does not stiffen, after betraying the crusaders, still failed to secure lasting peace; now the Balkans are once again ablaze with war. The Albigensian Crusade fell short; the Cathars established the Kingdom of Arles, together with the northern Kingdom of Lotharingia and the rising Kingdom of England, plunging the Capetian Kingdom of France into dire straits. The Mamluk faction ultimately split; the Burji dynasty entrenched in Cairo may reunify Egypt and advance north into Syria...\n\nIn the endless river of time, we cannot change the past, so we should continue forward to write our own chapter. Perhaps one day we will gaze upon more distant horizons, with all united—as we are now—pursuing a brighter tomorrow, answering a greater call. Then, future generations might call this origin: Prosperity and Unity.\n\nThe great wheel of history rolls on; we finally step into the Entrance to the Desolate Ground."
+EDG_FWFEvents.2.aa:0 "And the river of time shall continue to flow..."
+EDG_FWFEvents.2.aa.tt:0 "@[Root.GetTag] §Y[Root.GetName]§! content concludes here. §YThank you for playing§!"
+
+FOI_SPAEvents.0.name:0 "The Invincible Armada"
+FOI_SPAEvents.0.desc:0 "After years of preparation and construction, a mighty navy has finally been assembled. Our enemies shall tremble beneath the skies darkened by the Invincible Armada; all oceans of the world shall bow to [Root.GetName]!"
+FOI_SPAEvents.0.aa:0 "This is our era!"
+FOI_SPAEvents.0.aa.tt:0 "A fleet composed entirely of §YFlagships§! will be assembled in §YBarcelona§!"
+
+FOI_SPAEvents.1.name:0 "The Iberian Empire"
+FOI_SPAEvents.1.desc:0 "With continuous exchanges among the peoples of the Iberian Peninsula, cultures represented by different religions, beliefs, and customs have ultimately fused under the witness of time.\n\nWe should forge an empire of our own and leave a profound mark in the long river of world history."
+FOI_SPAEvents.1.aa:0 "The Empire on which the sun never sets"
+
+FOI_SPAEvents.100.tt:0 "Restoring Authority"
+FOI_SPAEvents.100.desc:0 "The Iberian Crusade of 1147 failed due to the betrayal of King Peter II of Aragon. The Kingdom of Castile, serving as the vanguard, suffered heavy losses. Coupled with King Alfonso IX of León's covetousness toward his son Ferdinand III's throne, a marriage declared illegal by the Pope ultimately led to father and son turning against each other.\n\nIn the end, the son, Ferdinand III, achieved absolute victory—a victory secured by 'accidentally' taking his father's life on the battlefield. To appease the León nobility still hostile to him, Ferdinand attempted to promote the inherent ruling legitimacy of the House of Ivrea within his realm. He revived the royal title of 'Asturias.' Two hundred years after the death of Alfonso III, this kingdom returned to Iberia, but it was no longer united as before.\n\nInternal division persisted within the kingdom. The Kingdom of Galicia had been de facto independent for centuries, and nobles entrenched in various regions maintained considerable autonomy. After fully reclaiming the lands of the united kingdom, this loose confederation must end.\n\nRegardless of whether the nobles agree, the United Kingdom of León-Castile-Galicia is reunited. We must ensure the disaster of five centuries ago does not recur. The three crowns shall be merged into one. Which crown should take the leading role? Or shall the ancient Kingdom of Asturias endure, witnessing Spain's unification?"
+FOI_SPAEvents.100.aa:0 "@CAS Castile"
+FOI_SPAEvents.100.bb:0 "@LON León"
+FOI_SPAEvents.100.cc:0 "@GAL Galicia"
+FOI_SPAEvents.100.dd:0 "@ASU It's fine as it is now"
+FOI_SPAEvents.100.remove_core.tt:0 "§GRemove§! all §Tprovince cores§! of the §Yother three kingdoms§! under our rule."

@@ -22,7 +22,7 @@
 		value = 0
 	}
   monarch = {
-    name = "Hughes VII 'the Victorious'"  # 
+    name = "Hugues VII 'the Victorious'"  # 
     dynasty = "Capet"  # de Valois
     birth_date = 1411.2.22
     adm = 4

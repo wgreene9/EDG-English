@@ -1,0 +1,671 @@
+﻿l_english:
+rig_benefit_of_sword_title:0 "Edge of the Sword"
+rig_benefit_of_sword_desc:0 "The Livonian Order has long protected us; we can learn from their tactics."
+
+rig_eve_of_war_title:0 "Ante Bellum" # The Eve of War
+rig_eve_of_war_desc:0 "Riga's current situation is uncertain. Although Eastern Europe currently lacks strong powers, this will not last long. It is foreseeable that in the near future, Riga will be surrounded by formidable enemies. Therefore, we must arm ourselves and unite all possible forces to defend ourselves."
+
+rig_stabilze_country_title:0 "Stabilize the City Internally"
+rig_stabilze_country_desc:0 "The internal situation of Riga city is currently unstable. Before undertaking any external actions, we must first stabilize ourselves."
+
+rig_baltic_union_title:0 "Baltic Union"
+rig_baltic_union_desc:0 "After a period of administrative integration, both we and the knightly orders have now adapted to each other's military and administrative systems. It is time to reclaim our initiative in the Baltic."
+
+rig_furor_treatment_danzig_title:0 "Dealing with the Prussians" # Dealing with the Prussian Confederation
+rig_furor_treatment_danzig_desc:0 "Due to the Teutonic Order's mismanagement of Danzig, several cities within its territory have grown discontent. Perhaps we should address this thorny issue first."
+
+rig_furor_teutonicus_title:0 "Furor Teutonicus"
+rig_furor_teutonicus_desc:0 "The Teutonic Order was highly warlike in the past, accumulating extensive combat experience. Our forces can learn much valuable knowledge from them."
+
+rig_pru_confederation_curtailed:0 "If §Ythe Teutonic Order§! is our subject, we will unlock a decision to handle the §YPrussian Confederation§!."
+teu_allready_pru_confederation_curtailed:0 "We have already dealt with the Prussian Confederation issue."
+
+rig_under_the_sword_title:0 "Under the Sword"
+rig_under_the_sword_desc:0 "The Grand Duchy of Lithuania is currently weak. We should strike immediately to unify the Baltic region."
+
+rig_riga_conference_title:0 "The Council of Riga"
+rig_riga_conference_desc:0 "Unlike the administrative systems of traditional states, Riga aims to establish an extensive vassal system. Therefore, we need to convene a council to discuss our future policies."
+
+rig_city_of_faith_title:0 "City of Faith"
+rig_city_of_faith_desc:0 "Faith is the reason for our existence, enabling us to continue our mission after the Northern Crusades. It is not merely an ordinary city but a city of faith."
+
+rig_unruly_city_title:0 "Unruly City"
+rig_unruly_city_desc:0 "Unlike traditional bishoprics, the Archbishopric of Riga actively engages in commercial activities while spreading the faith, propagating belief through trade."
+
+rig_road_to_riga_title:0 "All Roads Lead to Riga"
+rig_road_to_riga_desc:0 "The fall of the Hanseatic League is not the end of the Baltic commercial alliance but a beginning. We will continue to build a vast commercial network in the Baltic region, with its center no longer Lübeck but Riga."
+
+rig_heart_of_baltic_title:0 "Heart of the Baltic"
+rig_heart_of_baltic_desc:0 "After decades of development, Riga's influence in the Baltic region has become irreplaceable, undoubtedly establishing itself as the very heart of the Baltic!"
+
+rig_heart_of_baltic.tt:0 "Unlocks the diplomatic action §YChartered Trade Grant§!\nThis action allows us to convert countries in the same trade league as us into a §GRigan Chartered Trade Zone§!"
+
+rig_sealand_agreement_title:0 "The Zealand Agreement"
+rig_sealand_agreement_desc:0 "The Hanseatic League, led by Lübeck, has ultimately been defeated by us. We shall reshape Baltic trade and place it under our control."
+
+rig_neva_agreement_title:0 "The Neva Agreement"
+rig_neva_agreement_desc:0 "With the conclusion of the Novgorod campaign, we have gained dominance over the crucial ports and trade centers upstream in the Baltic, which will significantly boost our trade income."
+
+rig_scandinavian_strategy_title:0 "Scandinavian Strategy"
+rig_scandinavian_strategy_desc:0 "The power vacuum in Scandinavia has been filled by Sweden, whose presence constantly threatens our trade routes in the Baltic. Therefore, it is necessary for us to contend with them."
+
+rig_gotland_bridgehead_title:0 "Gotland Bridgehead"
+rig_gotland_bridgehead_desc:0 "The pirates of Gotland have long made a living through privateering in the Baltic Sea. However, Sweden has constantly threatened their safety. If we offer them terms, allowing them to continue plundering in exchange for our protection, we can expand our Baltic base and prepare for future confrontations with Sweden."
+
+rig_divede_norway_title:0 "Divide Norway"
+rig_divede_norway_desc:0 "The union between Sweden and Norway is not unbreakable. At an opportune moment, we can sow discord between them to alleviate the pressure of our war with Sweden."
+
+rig_divede_norway.tt:0 "If, at the completion of the mission §YThe Loose Arrow§!, we have a §Gsignificant spy network§! in Sweden and maintain §Ggood relations§! with Norway—or if Norway shows signs of disloyalty—we may reap unexpected benefits."
+
+rig_waiting_in_wings_title:0 "Waiting in the Wings"
+rig_waiting_in_wings_desc:0 "Skåne has accepted our treaty supporting their independence. We need only wait quietly for them to fire the first shot."
+
+rig_waiting_in_wings.tt:0 "All we must do is wait..."
+
+rig_skona_agreement_title:0 "The Skåne Agreement"
+rig_skona_agreement_desc:0 "The dissolution of the Kingdom of Denmark has split the Danish region into various free cities. The only significant legacy that can be called the Kingdom of Denmark's inheritance, the County of Skåne, is controlled by Sweden. We should approach them to test whether they harbor ambitions of independence—and we shall help them achieve it."
+
+rig_administrative_integration_title:0 "Administrative Integration"
+rig_administrative_integration_desc:0 "Newly conquered regions have always been difficult to govern. If we wish to rule them long-term, we must show mercy to the local populace."
+
+rig_plus_loin_title:0 "A Step Further"
+rig_plus_loin_desc:0 "Our advances in Poland and Ruthenia have been remarkably smooth. Perhaps we should set our sights even further, aiming to fully unify these two regions."
+
+rig_shield_of_south_title:0 "Shield of the South"
+rig_shield_of_south_desc:0 "Having gained full control over the territories of the Polish Kingdom, we can justifiably establish the Kingdom of Poland—albeit in a 'different' form."
+
+rig_much_will_have_more_title:0 "Give an Inch, Take a Mile" # Give an Inch and Take a Mile
+rig_much_will_have_more_desc:0 "The stability of the Polish-Ruthenian region is not the ultimate goal. If we can secure the Romanian region, it will grant us a significant advantage for future advances into the Balkans. However, all this depends on whether we possess the strength to seize control of the Romanian area."
+
+rig_hansa_league_title:0 "The Hanseatic League"
+rig_hansa_league_desc:0 "Since the 12th century, North German merchants organized the 'Cologne Hanse' and 'Hamburg Hanse' to trade with England and Flanders. From the mid-12th to mid-13th century, trade along the Rhine River in Germany flourished, and the focus of foreign trade gradually expanded to the Baltic region. In the 1280s, merchant organizations in the Rhineland cooperated to protect common interests and allied with Lübeck and other North German cities controlling Baltic trade to guard against bandits and pirates, ensuring trade security. This was the precursor to the Hanseatic League. After its formation, the League's aims quickly shifted from protecting commerce—suppressing piracy, combating raids, and abolishing unreasonable tolls—to expanding commercial influence overseas, monopolizing trade interests, and suppressing competition from non-League German cities as well as from England, Russia, and Flanders itself."
+
+rig_hansa_league.tt:0 "§YWe will begin contending with the Hanseatic League for control over Baltic trade§!"
+
+rig_sharpen_the_sword_title:0 "Sharpen the Sword"
+rig_sharpen_the_sword_desc:0 "We face the highly skilled warriors of the Northeastern Rus'. Having suffered several defeats against these heathens during the Northern Crusades, we must make thorough preparations to confront our enemies."
+
+rig_rus_departments_title:0 "The Rus' Principalities"
+rig_rus_departments_desc:0 "Northeastern Rus' recently descended into civil war, but this situation did not last long. We must prepare to face a rising power."
+
+rig_enemy_of_enemy_title:0 "The Enemy of My Enemy"
+rig_enemy_of_enemy_desc:0 "From 1368 to 1370, the combined fleets of the Hanseatic League defeated Denmark, forcing it to sign the Treaty of Stralsund. This treaty endowed the Hanseatic League with the character of a Nordic political alliance, expanding its control over Baltic and North Sea trade as well as Scandinavian politics. Subsequently, the fragmentation of Denmark further solidified the Hanseatic League's trade hegemony in the Baltic. Should we seek allies, the various free cities in Denmark would be our primary choice. Although we were once part of the Hanseatic League and hostile to Denmark, matters of interest may lead these city-states to reconsider cooperation with us."
+rig_enemy_of_enemy_tt:0 "All single-province states in the §YDenmark§! and §YNorth Jutland§! regions must meet at least one of the following conditions:\nHave an opinion of §YRiga§! of at least §Y150§!\n§YRiga§! has a spy network of at least §Y25§! within them\nAre in the same trade league as us\nAre our subject"
+rig_enemy_of_enemy_effect:0 "We will make contact with all single-province states in the §YDenmark§! and §YNorth Jutland§! regions.\nThis will escalate the Riga-Hansa trade dispute."
+
+rig_permeate_hansa_league_title:0 "Infiltrate the Hansa" # Infiltrate the Hanseatic League
+rig_permeate_hansa_league_desc:0 "Due to the League's relatively loose internal organization—lacking a constitution, written regulations, or executive bodies—and the fact that each member state maintains largely independent foreign policies, we can easily obtain the information we need within the Hanseatic League. This will expand our intelligence sources and give us a strategic advantage over the League's layout."
+rig_permeate_hansa_league_tt:0 "All members of the trade league led by §YLübeck§! must have an opinion of §YRiga§! of at least §Y75§! or §YRiga§! must have a spy network of at least §Y35§! within them."
+
+rig_whip_the_horse_title:0 "Whip the Horse"
+rig_whip_the_horse_desc:0 ""
+rig_whip_the_horse.tt.1:0 "We will recover from the negative effects of the sudden attack."
+
+rig_ready_for_battle_title:0 "Standing Ready for Battle"
+rig_ready_for_battle_desc:0 ""
+
+rig_ready_for_battle_tt_1:0 "It is too early."
+rig_ready_for_battle_tt_2:0 "We are still preparing!"
+
+rig_disaster_of_lubeck_title:0 "The Lübeck Disaster"
+rig_disaster_of_lubeck_desc:0 ""
+
+incident_north_german_trade_war_begin_tt:0 "We are awaiting responses from the North German princes."
+rigaExpandIncident_option_tt:0 "We need to await the Emperor's decision regarding the situation in North Germany."
+
+rig_advantages_and_disadvantages_title:0 "Survival of the Fittest"
+rig_advantages_and_disadvantages_desc:0 ""
+rig_advantages_and_disadvantages_tt:0 "All §YDanish free cities§! that sign the treaty will join our trade league.\nThis will further escalate the Riga-Hansa trade dispute, impacting trade production across the North German principalities, who will react to this over time.\n§RIf mishandled, our trade dispute with the Hanseatic League could escalate into war!§!"
+
+rig_in_the_name_of_god_title:0 "In the Name of God"
+rig_in_the_name_of_god_desc:0 "The Northern Crusades are hereby resumed. Let us drive out the heathens!"
+
+rig_crown_of_poland_title:0 "The Polish Crown"
+rig_crown_of_poland_desc:0 "The fragmentation of the Polish crown allows us to advance easily into Poland. However, it should be noted that some principalities may seek the protection of the Holy Roman Empire."
+
+rig_advance_slowly_fight_quickly_title:0 "Advance Slow, Attack Swift" # Advance Slowly, Attack Swiftly
+rig_advance_slowly_fight_quickly_desc:0 ""
+
+rig_poish_ruthenia_strategy_title:0 "Ruthenian Polish Strategy" # Polish-Ruthenian Strategy
+rig_poish_ruthenia_strategy_desc:0 "The lands of Poland and Ruthenia are highly fertile. If we can control this region, we will dominate the grain production of all Eastern Europe. Thus, war is inevitable."
+
+rig_city_of_ross_title:0 "City of the Rus'"
+rig_city_of_ross_desc:0 "Kiev holds a very high status among the Rus', celebrated as 'the mother of all cities' in ancient Rus' chronicles. If we can capture this city, we will solidify our ruling position in the Ruthenian region."
+
+rig_on_the_verge_of_war_title:0 "Arrow Loose from the Bow" # The Arrow Loose from the Bow
+rig_on_the_verge_of_war_desc:0 "Skåne has ignited the flames of war. Now it is time for us to contend with Sweden."
+
+not_has_rig_already_pre_for_uprising_tt:0 "The time is not yet ripe."
+has_rig_already_pre_for_uprising_tt:0 "The time has come."
+
+rig_safty_north_title:0 "Secure the North" # Secure the Northern Frontier
+rig_safty_north_desc:0 "After defeating Sweden, we will undoubtedly become one of the most formidable trade powers in the Baltic."
+
+rig_greate_north_war_title:0 "§RThe Great Northern War§!"
+rig_greate_north_war_desc:0 "Scandinavia lies before us; we must bring it under our rule!"
+
+rig_expand_libran_title:0 "Develop Livonia"
+rig_expand_libran_desc:0 "A city's development never happens in an instant; it must be shaped over time, gradually progressing toward prosperity."
+
+rig_expand_vilnius_title:0 "Develop Vilnius"
+rig_expand_vilnius_desc:0 "A city's development never happens in an instant; it must be shaped over time, gradually progressing toward prosperity."
+
+rig_expand_marianburg_title:0 "Develop Marienburg"
+rig_expand_marianburg_desc:0 "A city's development never happens in an instant; it must be shaped over time, gradually progressing toward prosperity."
+
+rig_expand_koenigsberg_title:0 "Develop Königsberg"
+rig_expand_koenigsberg_desc:0 "A city's development never happens in an instant; it must be shaped over time, gradually progressing toward prosperity."
+
+
+rig_riga_fulcrum_title:0 "Riga Fulcrum"
+rig_riga_fulcrum_desc:0 "Our plan requires fulcrum cities to sustain it. Therefore, cities with sufficiently strategic locations and adequate scale are necessary to achieve our expected outcomes."
+
+rig_terra_mariana_title:0 "§GLand of Mary§!"
+rig_terra_mariana_desc:0 "The preparations for the Universal City Project have finally reached their conclusion. We are about to officially launch this grand endeavor!"
+
+rig_danzig_fulcrum_title:0 "Danzig Fulcrum"
+rig_danzig_fulcrum_desc:0 "Our plan requires fulcrum cities to sustain it. Therefore, cities with sufficiently strategic locations and adequate scale are necessary to achieve our expected outcomes."
+
+rig_advance_both_by_land_and_warter_title:0 "Advance by Land and Water"
+rig_advance_both_by_land_and_warter_desc:0 "Simultaneously transporting supplies by both land and water routes can accelerate our plan's progress. Therefore, expanding the port facilities in the area is imperative."
+rig_advance_both_by_land_and_warter.tt:0 "§YThis will lay the groundwork for the subsequent plan§!"
+
+rig_vilnius_fulcrum_title:0 "Vilnius Fulcrum"
+rig_vilnius_fulcrum_desc:0 "Our plan requires fulcrum cities to sustain it. Therefore, cities with sufficiently strategic locations and adequate scale are necessary to achieve our expected outcomes."
+
+rig_direct_planning_title:0 "Direct Planning"
+rig_direct_planning_desc:0 "If clever shortcuts are unavailable, directly expanding the city's scale becomes the only effective method."
+rig_direct_planning.tt:0 "§YThis will lay the groundwork for the subsequent plan§!"
+
+rig_what_must_be_done_title:0 "What Must Be Done"
+rig_what_must_be_done_desc:0 "Compared to administrative reforms, military reform is already urgently needed. This is something we must undertake."
+
+rig_religion_reformation_title:0 "Religious Reform" # Rigan Religious Reform
+rig_religion_reformation_desc:0 "We will steadfastly defend our faith. Change and progress are acceptable, but this does not mean Riga will deviate from its original path."
+rig_religion_reformation.tt:0 "Removes all §Yheresy and heathen§! province modifiers from us and our subjects."
+
+rig_ordinance_of_piety_title:0 "Ordinance of Piety"
+rig_ordinance_of_piety_desc:0 "Before external missionary work, we must first focus on internal evangelization."
+
+rig_propaganda_act_title:0 "Propaganda Act"
+rig_propaganda_act_desc:0 "Through large-scale preaching campaigns, we will counter the rising tide of religious reform. If necessary, more extreme measures might be employed..."
+rig_propaganda_act.tt:0 "§RThis will escalate tensions between Protestants and Catholics§!"
+
+rig_sword_of_god_title:0 "Sword of God"
+rig_sword_of_god_desc:0 "The Protestant League has been crushed by us. Now Catholicism is the sole true faith!"
+rig_sword_of_god_1.tt:0 "All §YProtestant§!, §YHussite§!, and §YReformed§! provinces owned by us and our subjects will convert to §YCatholicism§!.\nAll §YProtestant§!, §YHussite§!, and §YReformed§! centers of reformation will be removed."
+rig_sword_of_god_2.tt:0 "We will declare war on the §YHoly Roman Emperor§! and all §YElectors§! not allied with us, to §Ydissolve the Holy Roman Empire§! and destroy this no-longer-holy empire."
+
+rig_statute_of_religious_unity_title:0 "Statute of Religious Unity"
+rig_statute_of_religious_unity_desc:0 ""
+rig_statute_of_religious_unity_trigger.tt:0 "All provinces owned by us and our subjects must be Catholic."
+rig_statute_of_religious_unity.tt:0 "All our §Ybishopric§! and §Oknightly order§! subjects will receive the same modifier."
+
+rig_administrative_restructuring_title:0 "Administrative Restructuring"
+rig_administrative_restructuring_desc:0 "Administrative restructuring is a necessary process for large-scale reforms, and we are no exception."
+
+rig_thngs_to_do_title:0 "Things That Must Be Done"
+rig_thngs_to_do_desc:0 "Administrative reform is not an urgent matter; it is something we need to undertake. We should proceed steadily, step by step, moving forward."
+
+rig_diocesan_renovation_ordinace_title:0 "Diocesan Renovations" # Diocesan Renovation Ordinance
+rig_diocesan_renovation_ordinace_desc:0 ""
+
+rig_second_allegiance_act_title:0 "Second Allegiance Act"
+rig_second_allegiance_act_desc:0 ""
+
+rig_second_association_act_title:0 "Second Association Act"
+rig_second_association_act_desc:0 ""
+
+rig_concerning_civil_government_title:0 "On Civil Government"
+rig_concerning_civil_government_desc:0 ""
+
+rig_impermeable_plane_title:0 "Impenetrable Plane"
+rig_impermeable_plane_desc:0 ""
+
+rig_one_night_of_riga_title:0 "One Night in Riga"
+rig_one_night_of_riga_desc:0 ""
+rig_one_night_of_riga_tt_false:0 "The time is not yet ripe."
+rig_one_night_of_riga_tt_right:0 "The time has come."
+
+rig_summarize_past_experience_title:0 "Summarize Past Experience"
+rig_summarize_past_experience_desc:0 ""
+
+rig_learning_thought_title:0 "Learning Thought"
+rig_learning_thought_desc:0 ""
+rig_learning_thought.tt:0 "All our §Ybishopric§! and §Oknightly order§! subjects' military technology increases by §Y1§! level."
+
+rig_promotion_of_new_talent_title:0 "Promotion of New Talent"
+rig_promotion_of_new_talent_desc:0 ""
+
+rig_uniform_oreder_title:0 "Uniform Order"
+rig_uniform_oreder_desc:0 ""
+rig_uniform_oreder.tt:0 "All our §Ybishopric§! and §Oknightly order§! subjects gain the following modifiers:\nArmy movement speed §G+10%§!\nLand attrition §G-10%§!\nReinforce speed §G+25%§!"
+
+rig_riga_steel_guardian_title:0 "Riga Steel Guardian"
+rig_riga_steel_guardian_desc:0 ""
+
+rig_border_brave_army_title:0 "Borderland Brave Army"
+rig_border_brave_army_desc:0 ""
+rig_border_brave_army.tt:0 "Our §YEpiscopal Military District§! subjects gain §G5§! army tradition."
+
+rig_thngs_which_lackluster_title:0 "Lackluster Performance"
+rig_thngs_which_lackluster_desc:0 ""
+
+rig_a_day_in_riga_title:0 "A Day in Riga"
+rig_a_day_in_riga_desc:0 ""
+
+rig_sweep_away_corruption_title:0 "Sweep Away Corruption"
+rig_sweep_away_corruption_desc:0 ""
+
+rig_scour_the_bureaucracy_title:0 "Investigate the Bureaucracy"
+rig_scour_the_bureaucracy_desc:0 ""
+
+rig_kinght_seconde_reorganization_title:0 "Second Reorganization"
+rig_kinght_seconde_reorganization_desc:0 ""
+
+rig_clarify_responsibilities_title:0 "Clarify Responsibilities"
+rig_clarify_responsibilities_desc:0 ""
+
+rig_be_sharply_demarcated_from_title:0 "Draw Clear Boundaries"
+rig_be_sharply_demarcated_from_desc:0 ""
+
+rig_each_performs_its_owned_functions_title:0 "Each Performs Its Own Functions"
+rig_each_performs_its_owned_functions_desc:0 ""
+
+rig_military_reorganization_title:0 "Military Reorganization"
+rig_military_reorganization_desc:0 ""
+rig_military_reorganization_trigger.tt:0 "We must disband all our armies to reorganize our military system!"
+rig_military_reorganization.tt:0 "§YWe will immediately take measures to prevent subjects from rebelling during our military reorganization§!"
+
+rig_military_theory_innovation_title:0 "Military Innovations" # Military Theory Innovation
+rig_military_theory_innovation_desc:0 ""
+
+rig_military_organization_reform_title:0 "Organization Reforms" # Military Organization Reform
+rig_military_organization_reform_desc:0 ""
+
+rig_military_joint_exercise_title:0 "Joint Military Drills"
+rig_military_joint_exercise_desc:0 ""
+
+rig_treatise_on_campaigns_title:0 "Treatise on Campaigns"
+rig_treatise_on_campaigns_desc:0 ""
+
+rig_be_able_but_modest_title:0 "Harmonious Yet Discreet"
+rig_be_able_but_modest_desc:0 ""
+
+rig_at_the_crack_of_dawn_title:0 "At the Crack of Dawn"
+rig_at_the_crack_of_dawn_desc:0 ""
+rig_at_the_crack_of_dawn.tt:0 "§REverything around us is collapsing; we must begin to save our nation§!"
+
+rig_economic_recovery_act_title:0 "Economic Recovery Act"
+rig_economic_recovery_act_desc:0 ""
+rig_economic_recovery_act.tt:0 "§YWe will partially mitigate the effects of bankruptcy§!\n\nWe will receive §Y20§! loans with §!0§! interest."
+
+rig_urban_renewal_ordinance_title:0 "Urban Renewal Ordinance"
+rig_urban_renewal_ordinance_desc:0 ""
+
+rig_military_support_act_title:0 "Military Support Act"
+rig_military_support_act_desc:0 ""
+
+rig_resource_reserve_act_title:0 "Resource Reserve Act"
+rig_resource_reserve_act_desc:0 ""
+
+rig_stabilization_act_title:0 "Stabilization Act"
+rig_stabilization_act_desc:0 ""
+rig_stabilization_act.tt:0 "§RAnd do what must be done§!"
+
+rig_resistance_act_title:0 "Resistance Act"
+rig_resistance_act_desc:0 ""
+rig_resistance_act.tt:0 "§RRise from the ashes or be reduced to dust—all hinges on this battle§!"
+
+rig_at_dawn_time_title:0 "Time at Dawn"
+rig_at_dawn_time_desc:0 ""
+rig_at_dawn_time.tt:0 "§GEnd the disaster §YThe Dawn War§!§!"
+
+rig_expand_stockholm_title:0 "Develop Stockholm"
+rig_expand_stockholm_desc:0 "A city's development never happens in an instant; it must be shaped over time, gradually progressing toward prosperity."
+
+rig_expand_londe_title:0 "Develop Lund"
+rig_expand_londe_desc:0 "A city's development never happens in an instant; it must be shaped over time, gradually progressing toward prosperity."
+
+rig_expand_moscow_title:0 "Develop Moscow"
+rig_expand_moscow_desc:0 "A city's development never happens in an instant; it must be shaped over time, gradually progressing toward prosperity."
+
+rig_expand_smolensk_title:0 "Develop Smolensk"
+rig_expand_smolensk_desc:0 "A city's development never happens in an instant; it must be shaped over time, gradually progressing toward prosperity."
+
+rig_expand_volhynia_title:0 "Develop Volhynia"
+rig_expand_volhynia_desc:0 "A city's development never happens in an instant; it must be shaped over time, gradually progressing toward prosperity."
+
+rig_expand_podolia_title:0 "Develop Podolia"
+rig_expand_podolia_desc:0 "A city's development never happens in an instant; it must be shaped over time, gradually progressing toward prosperity."
+
+rig_expand_warsaw_title:0 "Develop Warsaw"
+rig_expand_warsaw_desc:0 "A city's development never happens in an instant; it must be shaped over time, gradually progressing toward prosperity."
+
+rig_expand_posen_title:0 "Develop Poznań"
+rig_expand_posen_desc:0 "A city's development never happens in an instant; it must be shaped over time, gradually progressing toward prosperity."
+
+rig_the_curtain_is_rising_title:0 "The Curtain Rises"
+rig_the_curtain_is_rising_desc:0 ""
+rig_the_curtain_is_rising.tt:0 "§GAct II§!"
+
+rig_back_on_track_title:0 "Back on Track"
+rig_back_on_track_desc:0 "After centuries of development, Riga has gradually strayed from its original mission. Now we must correct course and reclaim our former purpose."
+
+rig_before_the_soldiers_title:0 "Before the Troops Move..."
+rig_before_the_soldiers_desc:0 ""
+rig_before_the_soldiers_trigger.tt:0 "All provinces producing §Ycopper§! or §Yiron§! owned by us or our subjects must have a §Yweapons manufactory§!"
+
+rig_grain_and_grass_go_title:0 "...Provisions Go First"
+rig_grain_and_grass_go_desc:0 ""
+rig_grain_and_grass_go_trigger.tt:0 "All provinces in the §YBaltic region§! owned by us or our subjects that produce §Ygrain§! or §Ylivestock§! must have a §Ysoldiers' household§! or §Yfarm estate§!"
+
+rig_one_size_fits_all_title:0 "A Sweeping Strategy" # A Comprehensive Strategy
+rig_one_size_fits_all_desc:0 ""
+
+rig_in_the_name_of_the_sword_title:0 "In the Name of the Sword"
+rig_in_the_name_of_the_sword_desc:0 ""
+
+rig_repeat_the_banners_title:0 "Rally the Banners"
+rig_repeat_the_banners_desc:0 ""
+
+rig_dust_off_title:0 "Dust Off"
+rig_dust_off_desc:0 ""
+
+rig_tver_fulcrum_title:0 "Tver Fulcrum"
+rig_tver_fulcrum_desc:0 ""
+
+rig_be_ready_for_battle_title:0 "Rest on Arms, Await Battle"
+rig_be_ready_for_battle_desc:0 ""
+
+rig_Kiev_fulcrum_title:0 "Kiev Fulcrum"
+rig_Kiev_fulcrum_desc:0 ""
+
+rig_krakow_fulcrum_title:0 "Krakow Fulcrum"
+rig_krakow_fulcrum_desc:0 ""
+
+rig_lift_the_curtain_title:0 "Lift the Curtain"
+rig_lift_the_curtain_desc:0 ""
+
+rig_new_world_mission_act_title:0 "New World Mission Act"
+rig_new_world_mission_act_desc:0 ""
+
+rig_expansion_of_the_baltic_shipbuilding_title:0 "Expand Baltic Shipbuilding"
+rig_expansion_of_the_baltic_shipbuilding_desc:0 ""
+rig_expansion_of_the_baltic_shipbuilding.tt:0 "All qualifying provinces in the §YBaltic Sea§! trade node and the §YSouth Karelia§! region will receive the above modifiers"
+
+rig_formation_of_the_riga_combined_fleet_title:0 "A Combined Rigan Fleet" # Formation of the Rigan Combined Fleet
+rig_formation_of_the_riga_combined_fleet_desc:0 ""
+
+rig_formation_of_black_sea_fleet_title:0 "Expand Black Sea Ports"
+rig_formation_of_black_sea_fleet_desc:0 ""
+rig_formation_of_black_sea_fleet.tt:0 "All qualifying provinces in the §YEastern European Steppe§! region will receive the above modifiers."
+
+rig_across_the_bosphorus_title:0 "Across the Bosphorus"
+rig_across_the_bosphorus_desc:0 ""
+
+rig_far_east_area_title:0 "Far Eastern Strategy"
+rig_far_east_area_desc:0 ""
+rig_far_east_area.tt:0 "After brief preparations, we will declare war on all nations whose capitals are located in the §YUral§!, §YEastern European Steppe§!, §YCaucasus§!, §YCentral Asia§!, or §YWest Siberia§! regions\n\nAdditionally, we will declare war on nations holding the provinces of §YTyumen§!, §YSamarqand§!, §YAstrakhan§!, §YKazan§!, or §YYerevan§!\n\nNations whose independence is §Yguaranteed§! by us, those in a §Ymilitary alliance§! with us, those in the §Ysame trade league§! as us, and §Ynon-sovereign states§! will not be declared war upon"
+
+rig_give_subject_prestige_and_war_exhaustion:0 "Grant all our subjects §Y10§! prestige; any overflow will convert into §Ymonarch points§!\nReduce §Y2§! war exhaustion for all our subjects"
+
+rig_be_the_first_title:0 "First to Bear the Brunt"
+rig_be_the_first_desc:0 ""
+
+rig_over_the_urals_title:0 "Cross the Urals"
+rig_over_the_urals_desc:0 ""
+
+rig_penetrate_deeply_into_title:0 "Penetrate Deeply"
+rig_penetrate_deeply_into_desc:0 ""
+
+rig_second_piece_of_domijo_title:0 "Second Domino Piece"
+rig_second_piece_of_domijo_desc:0 ""
+
+rig_across_the_caucasus_title:0 "Across the Caucasus"
+rig_across_the_caucasus_desc:0 ""
+
+rig_the_crossroad_title:0 "The Crossroad"
+rig_the_crossroad_desc:0 ""
+
+rig_great_victory_in_the_east_title:0 "Thunder in the East"
+rig_great_victory_in_the_east_desc:0 ""
+
+rig_southern_strategy_title:0 "Southern Strategy"
+rig_southern_strategy_desc:0 ""
+rig_southern_strategy.tt:0 "After brief preparations, we will declare war on all nations whose capitals are located in the §YBalkans§!, §YAnatolia§!, §YMashriq§!, or §YEgypt§! regions\n\nAdditionally, we will declare war on nations holding the provinces of §YConstantinople§!, §YAntioch§!, §YJerusalem§!, §YAlexandria§!, or §YBaghdad§!\n\nNations whose independence is §Yguaranteed§! by us, those in a §Ymilitary alliance§! with us, those in the §Ysame trade league§! as us, and §Ynon-sovereign states§! will not be declared war upon"
+
+rig_balkan_tour_title:0 "Balkan Tour"
+rig_balkan_tour_desc:0 ""
+
+rig_the_road_to_asia_minor_title:0 "The Road to Asia Minor"
+rig_the_road_to_asia_minor_desc:0 ""
+
+rig_mesopotamia_plain_title:0 "Mesopotamian Plain"
+rig_mesopotamia_plain_desc:0 ""
+
+rig_liberation_of_jerusalem_title:0 "Liberation of Jerusalem"
+rig_liberation_of_jerusalem_desc:0 ""
+
+rig_the_city_the_world_desires_title:0 "The City of the World's Desire" # The City the World Desires
+rig_the_city_the_world_desires_desc:0 ""
+
+rig_march_on_antioch_title:0 "March on Antioch"
+rig_march_on_antioch_desc:0 ""
+
+rig_return_to_the_holy_land_title:0 "Return to the Holy Land"
+rig_return_to_the_holy_land_desc:0 ""
+
+rig_steady_front_title:0 "Steady the Front"
+rig_steady_front_desc:0 ""
+
+rig_rebuild_antiochus_title:0 "Rebuild Antioch"
+rig_rebuild_antiochus_desc:0 ""
+
+rig_rebuild_alexander_title:0 "Revive Alexandria"
+rig_rebuild_alexander_desc:0 ""
+
+rig_the_gift_of_the_nile_title:0 "The Gift of the Nile"
+rig_the_gift_of_the_nile_desc:0 ""
+
+rig_the_legacy_of_the_french_crusaders_title:0 "Legacy of the Crusaders" # Legacy of the French Crusaders
+rig_the_legacy_of_the_french_crusaders_desc:0 ""
+
+rig_to_solomon_land_title:0 "To the Land of Solomon"
+rig_to_solomon_land_desc:0 ""
+
+rig_in_the_sand_title:0 "Amidst the Sands"
+rig_in_the_sand_desc:0 ""
+
+rig_patrol_the_mountains_title:0 "Patrol the Mountains"
+rig_patrol_the_mountains_desc:0 ""
+
+rig_below_the_junction_title:0 "Beneath the Junction"
+rig_below_the_junction_desc:0 ""
+
+rig_western_frontier_title:0 "Western Frontier" # Western Frontier Stronghold
+rig_western_frontier_desc:0 ""
+
+rig_the_fire_of_africa_title:0 "The Fire of Africa"
+rig_the_fire_of_africa_desc:0 ""
+rig_the_fire_of_africa.tt:0 "All provinces in the §YMaghreb§! region producing §Yslaves§! will have their trade goods replaced, with the following probabilities:\n\n20% Livestock\n20% Grain\n20% Salt\n20% Wool\n10% Spices\n10% Sugar\n"
+
+rig_uniting_the_horn_of_africa_title:0 "Advancing on the Horn" # Advancing on the Horn of Africa
+rig_uniting_the_horn_of_africa_desc:0 ""
+rig_uniting_the_horn_of_africa.tt:0 "All provinces in the §YHorn of Africa§! region producing §Yslaves§! will have their trade goods replaced, with the following probabilities:\n\n40% Livestock\n40% Grain\n10% Coffee\n10% Gold\n"
+
+rig_deep_in_the_forest_title:0 "Deep in the Forest"
+rig_deep_in_the_forest_desc:0 ""
+
+rig_western_passage_title:0 "Western Passage"
+rig_western_passage_desc:0 ""
+
+rig_euphrates_and_tigris_rivers_title:0 "The Euphrates and Tigris" # The Euphrates and Tigris Rivers
+rig_euphrates_and_tigris_rivers_desc:0 ""
+rig_euphrates_and_tigris_rivers.tt:0 "All qualifying provinces in the §YMashriq§! region will receive the above modifiers\n"
+
+rig_along_the_gulf_of_aden_title:0 "Along the Gulf of Aden..."
+rig_along_the_gulf_of_aden_desc:0 ""
+rig_along_the_gulf_of_aden.tt:0 "All qualifying provinces will receive the above modifiers.\n"
+
+rig_islamic_wine_title:0 "Islamic Wine"
+rig_islamic_wine_desc:0 ""
+rig_islamic_wine.tt:0 "All qualifying provinces in the §YArabia§! and §YHorn of Africa§! regions will receive the above modifiers\n"
+
+rig_gold_miner_title:0 "Gold Miner"
+rig_gold_miner_desc:0 ""
+
+rig_to_hormuz_title:0 "...To Hormuz"
+rig_to_hormuz_desc:0 ""
+rig_to_hormuz.tt:0 "All qualifying provinces will receive the above modifiers.\n"
+
+rig_mediterranean_granary_title:0 "Mediterranean Granary"
+rig_mediterranean_granary_desc:0 ""
+rig_mediterranean_granary.tt:0 "All qualifying provinces in the §YEgypt§! region will receive the above modifiers\n"
+
+rig_gain_a_firm_foothold_title:0 "Gain a Firm Foothold"
+rig_gain_a_firm_foothold_desc:0 ""
+
+rig_four_way_access_title:0 "Four-Way Access"
+rig_four_way_access_desc:0 ""
+rig_four_way_access.tt:0 "All qualifying provinces in the §YKhorasan§! region will gain §Y2§! base tax and §Y2§! base manpower\n"
+
+rig_eastern_entrance_title:0 "Eastern Entrance"
+rig_eastern_entrance_desc:0 ""
+
+rig_look_far_into_the_distance_title:0 "Gaze into the Distance"
+rig_look_far_into_the_distance_desc:0 ""
+rig_look_far_into_the_distance.tt:0 "We will unlock decisions to alleviate the administrative pressure on §YRigaeria§!"
+
+rig_cease_all_activities_title:0 "Cease All Activities"
+rig_cease_all_activities_desc:0 ""
+rig_cease_all_activities.tt:0 "During the duration of the above modifier, we cannot initiate §YGreat Campaigns§! or general war decisions"
+
+rig_build_largely_title:0 "Large-Scale Construction"
+rig_build_largely_desc:0 ""
+rig_build_largely.tt:0 "Our non-§GRigan Chartered Trade Zone§! subjects will also receive the above modifiers"
+
+rig_jerusalem_fulcrum_title:0 "Jerusalem Fulcrum"
+rig_jerusalem_fulcrum_desc:0 ""
+
+rig_kilk_roads_title:0 "Silk Roads"
+rig_kilk_roads_desc:0 ""
+rig_kilk_roads.tt:0 "All qualifying provinces in the §YPersia§! region will receive the above modifiers\n"
+
+rig_constantinople_fulcrum_title:0 "Constantinople Fulcrum"
+rig_constantinople_fulcrum_desc:0 ""
+
+rig_tabriz_fulcrum_title:0 "Tabriz Fulcrum"
+rig_tabriz_fulcrum_desc:0 ""
+
+rig_siberian_trade_route_title:0 "Siberian Trade Route"
+rig_siberian_trade_route_desc:0 ""
+rig_siberian_trade_route.tt:0 "All qualifying provinces in the §YWest Siberia§! region will receive the above modifiers\n"
+
+rig_connection_origin_title:0 "Connect the Origin"
+rig_connection_origin_desc:0 ""
+rig_connection_origin.tt:0 "All qualifying provinces in the §YScandinavia§! and §YRussia§! regions will receive the above modifiers\n"
+
+rig_everything_is_ready_title:0 "Everything is Ready"
+rig_everything_is_ready_desc:0 ""
+
+rig_broad_view_about_taking_title:0 "Observations & Acquisitions" # Broad Observation and Selective Acquisition
+rig_broad_view_about_taking_desc:0 ""
+
+rig_accumulate_steadily_title:0 "Accumulate and Release" # Accumulate Steadily, Release Swiftly
+rig_accumulate_steadily_desc:0 ""
+
+rig_make_the_world_a_city_and_the_city_a_world_title:0 "All the World in One City" # Fuse the World into One City; Build the City as a World
+rig_make_the_world_a_city_and_the_city_a_world_desc:0 ""
+
+rig_expand_macedonia_title:0 "Develop Macedonia"
+rig_expand_macedonia_desc:0 ""
+
+rig_expand_athens_title:0 "Develop Athens"
+rig_expand_athens_desc:0 ""
+
+rig_expand_ankara_title:0 "Develop Ankara"
+rig_expand_ankara_desc:0 ""
+
+rig_expand_adana_title:0 "Develop Adana"
+rig_expand_adana_desc:0 ""
+
+rig_expand_cairo_title:0 "Develop Cairo"
+rig_expand_cairo_desc:0 ""
+
+rig_expand_damascus_title:0 "Develop Damascus"
+rig_expand_damascus_desc:0 ""
+
+rig_expand_delanje_title:0 "Develop Tehran"
+rig_expand_delanje_desc:0 ""
+
+rig_expand_isfahan_title:0 "Develop Isfahan"
+rig_expand_isfahan_desc:0 ""
+
+rig_universal_declaration_title:0 "§RUniversal Declaration§!"
+rig_universal_declaration_desc:0 "Bind her, torment her, exile her, grind her bones to dust, scatter them into the sea... she will awaken, she will rise, she will return to liberate all!"
+rig_universal_declaration.tt:0 "We will be able to convert subjects into §Ybishopric§! subjects unconditionally and without cost\n\nAll §Ybishopric§! subjects will no longer occupy diplomatic relation slots\n\nUnlocks the decision §YHeavenly Offensive§!\n\n§YGreat Campaigns§! will no longer enter a §Ycooldown§! after declaring war"
+
+rig_riga_unify_europe_superregion_title:0 "West Europe Subcontinent" # Western Europe Subcontinent
+rig_riga_unify_europe_superregion_desc:0 ""
+
+rig_riga_unify_china_superregion_title:0 "Chinese Subcontinent"
+rig_riga_unify_china_superregion_desc:0 ""
+
+rig_riga_unify_south_america_superregion_title:0 "Amazonian Subcontinent" # Amazon Subcontinent
+rig_riga_unify_south_america_superregion_desc:0 ""
+
+rig_riga_unify_oceania_superregion_title:0 "Oceania Subcontinent"
+rig_riga_unify_oceania_superregion_desc:0 ""
+
+rig_riga_unify_eastern_europe_superregion_title:0 "East Europe Subcontinent" # Eastern Europe Subcontinent
+rig_riga_unify_eastern_europe_superregion_desc:0 ""
+
+rig_riga_unify_tartary_superregion_title:0 "Tatar Subcontinent"
+rig_riga_unify_tartary_superregion_desc:0 ""
+
+rig_riga_unify_andes_superregion_title:0 "Andean Subcontinent"
+rig_riga_unify_andes_superregion_desc:0 ""
+
+rig_riga_unify_east_indies_superregion_title:0 "East Indies Subcontinent"
+rig_riga_unify_east_indies_superregion_desc:0 ""
+
+rig_riga_unify_africa_superregion_title:0 "North African Subcontinent" # North Africa Subcontinent
+rig_riga_unify_africa_superregion_desc:0 ""
+
+rig_riga_unify_central_america_superregion_title:0 "Mesoamerica Subcontinent" # Central America Subcontinent
+rig_riga_unify_central_america_superregion_desc:0 ""
+
+rig_riga_unify_persia_superregion_title:0 "Persian Subcontinent"
+rig_riga_unify_persia_superregion_desc:0 ""
+
+rig_riga_unify_southern_africa_superregion_title:0 "South African Subcontinent" # Southern Africa Subcontinent
+rig_riga_unify_southern_africa_superregion_desc:0 ""
+
+rig_riga_unify_near_east_superregion_title:0 "Levant Subcontinent"
+rig_riga_unify_near_east_superregion_desc:0 ""
+
+rig_riga_unify_india_superregion_title:0 "Indian Subcontinent"
+rig_riga_unify_india_superregion_desc:0 ""
+
+rig_riga_unify_far_east_superregion_title:0 "Far East Subcontinent"
+rig_riga_unify_far_east_superregion_desc:0 ""
+
+rig_riga_unify_north_america_superregion_title:0 "North America Subcontinent" # North America Subcontinent
+rig_riga_unify_north_america_superregion_desc:0 ""
+
+rig_one_country_title:0 "One Lord, One Country" # One Sphere, One Faith
+rig_one_country_desc:0 ""
+rig_one_country.tt:0 "§RThe performance reaches its final chapter§!\n\nWe will annex all subjects except §YRigaeria§! within §Y30§! days, and §YRigaeria§! will also annex all subjects under its control"
+
+rig_the_heavenly_praise_title:0 "§YHeavenly Praise§!"
+rig_the_heavenly_praise_desc:0 ""
+
+rig_internal_affairs_title:0 "Internal Affairs"
+rig_internal_affairs_desc:0 ""
+rig_internal_affairs.tt:0 "We will increase stability by §G2§! for all non-§GRigan Chartered Trade Zone§! subjects; each non-§GRigan Chartered Trade Zone§! subject will cost us §Y50§! administrative power"
+
+rig_external_affairs_title:0 "External Affairs"
+rig_external_affairs_desc:0 ""
+rig_external_affairs_1.tt:0 "This will allow us to unlock a decision to support §YRigaeria§!\n"
+rig_external_affairs_2.tt:0 "We will work to restore our §Ydiplomatic reputation§!"

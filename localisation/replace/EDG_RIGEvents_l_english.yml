@@ -1,0 +1,698 @@
+﻿l_english:
+rigaExpand.0.name:0 "Ante Bellum" # The Eve of War
+rigaExpand.0.desc:0 "The current state of the Bishopric of Riga is far from optimistic. Although we are surrounded by the Livonian Order and under its protection, their past performances in battle worry [Root.Monarch.GetTitle] [Root.Monarch.GetName] about [Root.Monarch.GetHerHis] ability to protect the bishopric once more—neither the Battle of Saule in 1236 nor the Battle on the Ice in 1242 showcased satisfactory results.\n\nThus, [Root.Monarch.GetName] hopes to unite the Livonian Order and the Teutonic Order. The Livonian Order has long protected the Bishopric of Riga; although it was previously dissolved and incorporated into the Teutonic Order, it now enjoys considerable autonomy, effectively acting as an entity independent of the Teutonic Order. The Teutonic Order, meanwhile, has persistently sought expansion toward Poland and Lithuania, making it increasingly isolated diplomatically and less likely to heed [Root.Monarch.GetName]'s advice. Nonetheless, we can still attempt to propose it."
+rigaExpand.0.aa:0 "Send our request to the Grand Masters of both Orders"
+
+rigaExpand.1.name:0 "The Archbishop's Invitation"
+rigaExpand.1.desc:0 "The Archbishop of Riga wishes for us to unite under his banner to defend the Baltic region. This would undoubtedly cost us our sovereignty, but such a union would greatly enhance our influence in the Baltic and even Eastern Europe."
+rigaExpand.1.aa:0 "We accept."
+rigaExpand.1.bb:0 "Preposterous!"
+rigaExpand.1.cc:0 "Perhaps there is another way?"
+
+rigaExpand.2.name:0 "The Response"
+rigaExpand.2.desc:0 "[From.GetName] has accepted our request!"
+rigaExpand.2.aa:0 "Excellent."
+
+rigaExpand.3.name:0 "The Response"
+rigaExpand.3.desc:0 "[From.GetName] has rejected our request!"
+rigaExpand.3.aa:0 "How dare they!"
+
+rigaExpand.4.name:0 "Dealing with the Prussian Confederation"
+rigaExpand.4.desc:0 "The Prussian Confederation has always been a major problem for the Teutonic Order. The First Prussian Uprising, triggered after the defeat at the Battle on the Ice, shook the foundation of the Teutonic Order. If we grant this organization a degree of autonomy by separating Danzig from the Teutonic Order as their self-governing territory, this issue could be resolved. However, this would clearly provoke the Teutonic Order's discontent and further weaken their strength."
+rigaExpand.4.aa:0 "Grant Autonomy to the Prussian Confederation"
+rigaExpand.4.bb:0 "Maintain the Status Quo"
+
+rigaExpand.10.name:0 "Strategic Direction"
+rigaExpand.10.desc:0 "After completing a comprehensive review of Riga's political, economic, and military systems, [root.Monarch.GetTitle] [root.Monarch.GetName] pondered deeply. To further expand the bishopric's interests and extend the 'business' of selling indulgences, the [root.GovernmentName] must plan its strategic priorities. Thus, [root.Monarch.GetTitle] [root.Monarch.GetName] has today gathered elites from various strata to chart the next course of action. Where will Riga's future lie?\n\nTo the north, Sweden's control over the Baltic Sea is growing stronger daily. If we aim to monopolize Baltic trade, Sweden will be our primary foe. Defeating Sweden will be no easy task, but perhaps we can leverage the crowns of Norway and the County of Skåne.\n\nAlthough the Baltic region is under our control, we do not hold the initiative in Baltic trade. The gradual decline of the Hanseatic League, represented downstream by Lübeck, forces us to seek alternative paths. The commercial city league born from the Danish revolt of 1439 may be an excellent choice; they compete with Lübeck, and perhaps we can draw them into our own commercial alliance. Upstream, trade is controlled by the Novgorodian heretics. Given that the Grand Duchy of Tver in the east is rising and seems intent on unifying northeastern Rus', perhaps we should act sooner rather than later.\n\nTo the south, the fragmentation of the Polish crown and the civil war in Kievan Rus' have created a vacuum of regional power, but this situation will not last long. As another upstream power in the Baltic, we must secure control over Kraków and cleanse the legacy of the Hussites. Regarding Kiev, whether it is the unexpected rise of the Bogomils or the Orthodox Church, they will be enemies we must face. The civil war in Kievan Rus' will not last forever; we hope to achieve our objectives before another power emerges.\n\nNow, let us choose our target."
+rigaExpand.10.aa:0 "Advance North to Counter the Swedish Threat"
+rigaExpand.10.bb:0 "Protect the Baltic Trade Routes"
+rigaExpand.10.cc:0 "Head South to Stabilize the Polish and Ruthenian Situations"
+rigaExpand.10.dd:0 "Now, We Should Focus on Ourselves"
+
+rigaExpand.11.name:0 "New Strategic Direction"
+rigaExpand.11.desc:0 "We have completed one strategic direction; now it is time to choose a new objective."
+
+rigaExpand.12.name:0 "Making Contact with Gotland"
+rigaExpand.12.desc:0 "As a pirate republic in the Baltic Sea, Gotland has long been a thorn in the side of neighboring states. However, if we seek a bridgehead to resist Sweden, Gotland is the perfect choice.\n\nWe can offer Gotland a proposal they cannot refuse—to continue their piratical ways without harming our interests, while we provide them protection and become their nominal suzerain. Of course, we could also adopt more... traditional methods..."
+rigaExpand.12.aa:0 "Present our proposal to Gotland"
+rigaExpand.12.bb:0 "I prefer the traditional approach"
+
+rigaExpand.13.name:0 "The Proposal from the Archbishop of Riga"
+rigaExpand.13.desc:0 "A messenger from the Bishopric of Riga has arrived, stating that if we agree to become their vassal in name, provided we do not harm Riga's interests, they will guarantee our safety and offer further financial support, and we may continue our plundering activities.\n\nThis is clearly a mutually beneficial proposal, but we have the right to refuse—provided we can bear the consequences of doing so."
+rigaExpand.13.aa:0 "A win-win arrangement, is it not?"
+rigaExpand.13.bb:0 "Pirates bow to no one!"
+
+rigaExpand.14.name:0 "The Response"
+rigaExpand.14.desc:0 "Gotland has accepted our proposal. Now we can proceed to the next phase of our plans."
+rigaExpand.14.aa:0 "Excellent!"
+
+rigaExpand.15.name:0 "The Response"
+rigaExpand.15.desc:0 "Gotland has rejected our proposal. It seems we must resort to arms."
+rigaExpand.15.aa:0 "Outrageous!"
+
+rigaExpand.16.name:0 "The Shattered Crown"
+rigaExpand.16.desc:0 "Although the Kingdom of Denmark exists in name only, there are still those who seek to reunite this fractured realm. The County of Skåne, currently a Swedish subject, is precisely the target we need. Skåne was seized from Denmark by Swedish force years ago, yet it has unexpectedly become the most suitable candidate to reforge the Danish crown. However, given the current circumstances, all of this seems nothing more than a fantasy.\n\nA secret meeting might reveal their resolve—if they dare to openly rebel against Sweden, we will offer our support. Of course, this will not come free; we shall receive commercial privileges in the Øresund to secure our trade advantage in the Baltic and Lübeck region, and it could also lay the groundwork for our future advance into Scandinavia. If their so-called determination proves lacking, then we will personally 'assist' them in achieving their goal."
+rigaExpand.16.aa:0 "Await the Good News"
+
+rigaExpand.17.name:0 "A Proposal from the Archbishop of Riga"
+rigaExpand.17.desc:0 "Perhaps due to their struggle with Sweden for Baltic trade, a messenger from the Bishopric of Riga has approached us. In a secret location, they brought a promise: if we openly declare opposition to Sweden and announce our independence, the Bishopric of Riga will fully support our independence and, thereafter, form a military alliance with us.\n\nBeneath such tempting conditions lies a corresponding cost. The treaty stipulates that Riga will thereafter receive commercial privileges within our nation. However, compared to independence, the terms proposed by Riga remain highly attractive.\n\nIf we gain the support of the Bishopric of Riga, our path to independence will be smooth. Most importantly, we retain the freedom to choose whether to honor the promises, for we have the right to reconsider."
+rigaExpand.17.aa:0 "Let us first escape our current predicament"
+
+rigaExpand.18.name:0 "The Response"
+rigaExpand.18.desc:0 "The County of Skåne has agreed to sign a treaty with us. [RIG.Monarch.GetTitle] [RIG.Monarch.GetName] will assist them in achieving independence and form an alliance. In return, they will grant us commercial privileges in Lübeck, providing full support for our trade endeavors."
+rigaExpand.18.aa:0 "Another deal is sealed"
+
+rigaExpand.19.name:0 "On the Brink"
+rigaExpand.19.desc:0 "We are prepared. The forces of the Bishopric of Riga await our signal to attack. According to the plan, we will bypass the Swedish garrisons in the County and launch a surprise assault on the fortress at Kalmar, making ready for the Rigan landing forces."
+rigaExpand.19.aa:0 "Commence the Operation"
+
+rigaExpand.20.name:0 "The Scanian Uprising"
+rigaExpand.20.desc:0 "The Scanian region, forcibly seized by Sweden years ago, has never truly submitted to Swedish rule. The escalating conflict of interest between the Bishopric of Riga and Sweden in the Baltic has led the former to support the independence of the County of Skåne.\n\nFinally, amidst the roar of cannons at Kalmar, war has arrived."
+rigaExpand.20.aa:0 "The First Step in Restoring the Danish Kingdom!"
+rigaExpand.20.bb:0 "We Must Not Act Rashly!"
+
+rigaExpand.21.name:0 "The Norwegian Crown"
+rigaExpand.21.desc:0 "Since Denmark established a personal union with Norway in 1380, the Norwegian crown has passed between Swedish and Danish hands. With the outbreak of the Scanian War of Independence, Norway realizes it should not fight for Swedish hegemony in the Baltic. This time, Norway will defend its rights through independence. If the Swedes wish to place the Norwegian crown upon their heads again, they must pay in blood."
+rigaExpand.21.aa:0 "The Norwegian Crown Shall Shine Once More!"
+
+rigaExpand.22.name:0 "The Great Northern War"
+rigaExpand.22.desc:0 "In [GetYear], the strategic advance of the Bishopric of Riga into Scandinavia has far exceeded expectations, progressing with remarkable, even overwhelming, success. This has given [Root.Monarch.GetTitle] [Root.Monarch.GetName] a grander vision—to shift the war aim from merely aiding the independence of the County of Skåne to the complete subjugation of the Scandinavian Peninsula.\n\nThis action will inevitably provoke fierce resistance from the people of the peninsula. We must also tear up the treaty made with the Count of Skåne. Failure could result in the Bishopric of Riga losing all influence in Scandinavia."
+rigaExpand.22.aa:0 "By God's will, the path is clear!"
+rigaExpand.22.aa.tt:0 "§YIf we fail to complete the mission §RThe Great Northern War§! within five years, §Rour Scandinavian strategy will end in total failure§!."
+rigaExpand.22.bb:0 "Proceed steadily; haste is unnecessary"
+
+rigaExpand.23.name:0 "The Blizzard Ultimatum"
+rigaExpand.23.desc:0 "Riga's ambition is no longer satisfied with merely controlling Baltic trade. They demand our immediate submission, or they will end this war with the sword. The situation for the peninsular nations is dire. Whatever differences lie between us, the primary issue now is to first defeat the invaders."
+rigaExpand.23.aa:0 "Put aside grievances and unite the front!"
+rigaExpand.23.bb:0 "We cannot do this..."
+
+rigaExpand.24.name:0 "The Blizzard Ultimatum"
+rigaExpand.24.desc:0 "The Bishopric of Riga has torn up the treaty they had with us. Now we must make a choice: submit to them or fight for our freedom."
+rigaExpand.24.aa:0 "We have no choice..."
+rigaExpand.24.bb:0 "They shall have to step over my corpse!"
+
+rigaExpand.100.name:0 "A Sudden Downturn"
+rigaExpand.100.desc:0 "As we failed to achieve our objectives, all social classes within our nation, as well as our subject states, have lost patience with this war and have forcibly halted all military operations. Perhaps the [Root.Monarch.GetTitle]'s vision is about to vanish like a bubble..."
+rigaExpand.100.aa:0 "A grave miscalculation..."
+
+rigaExpand.30.name:0 "Hanseatic Strategy"
+rigaExpand.30.desc:0 "The term 'Hanseatic League' first appeared in 1344, initially as a commercial union sharing privileges. By 1356, the merchant Hansa evolved into a city Hansa, with its members including most North German coastal cities. Lübeck, Hamburg, and Bremen were its core, later joined by Cologne, Danzig, and Königsberg. In 1358, cities on the eastern Baltic coast like Riga also joined the Hanseatic League. The league monopolized the intermediary trade between Eastern Europe, Northern Europe, and Western Europe, and also traded in Eastern products such as spices and precious textiles through Italian merchants. In 1367, representatives from 77 member cities held their first meeting in Cologne. The league established a supreme council and a supreme court; member cities had to abide by the decisions of its governing bodies. The cities shared public finances and a navy, and had the authority to conduct diplomacy, declare war, make peace, and sign treaties.\n\nBy the mid-14th century, the Hanseatic League had expanded to include all German port cities along the southern and eastern Baltic coasts and spread to various parts of Europe. While the league's influence was immense, for present-day Riga, this is not a sustainable long-term strategy. The Hanseatic League's longstanding principle of 'procuring only from the cheapest regions' hindered the development of agriculture and handicrafts in its core territories, a potentially fatal flaw. If merchants rely solely on commercial means to reap huge profits, they are bound to face backlash from their own policies. Although the Hanseatic League currently faces no strong commercial competition, as regional powers consolidate and new powers emerge, a purely mercantilist and protectionist approach will become increasingly inadequate.\n\nNow, there is an urgent need to develop our commerce in a form distinct from traditional trade. We should reduce our emphasis on trade within the traditional business model, and instead encourage handicrafts and agriculture to increase the quantity and quality of our products, achieving commercial 'self-sufficiency.' This approach would not rely solely on 'buying low and selling high' to secure profits, and it would also ensure a degree of robustness in our commercial activities during times of war."
+rigaExpand.30.aa:0 "Let it begin!"
+
+rigaExpand.31.name:0 "The Future of the Hanseatic League"
+rigaExpand.31.desc:0 "Within the Hanseatic League, as it is a loose confederation of multiple cities, members prioritize their own interests over the collective good of the league. Thus, in the face of complex threats to their interests, internal divisions are beginning to emerge. Some member cities seek to gain advantageous positions at the expense of others. With Riga formally announcing its challenge for Baltic trade hegemony, this tendency will immediately intensify. Hanseatic League members are becoming restless, with some already expressing concern that the situation may develop unfavorably for us. Therefore, the Hanseatic League must also reunite to address the impact brought by Riga."
+rigaExpand.31.aa:0 "The Hanseatic League's trade position shall not be challenged!"
+rigaExpand.31.aa.tt:0 "This will escalate the Riga-Hansa trade dispute"
+rigaExpand.31.bb:0 "We should not further escalate the situation"
+
+rigaExpand.32.name:0 "The Danish-Rigan Trade Alliance"
+rigaExpand.32.desc:0 "Riga has recently engaged in a fierce trade war with the Hanseatic League, employing almost every means short of war to compete for trade in Lübeck and the Baltic region. Now, Riga has reached out to us, hoping to form a new trade alliance to jointly oppose Lübeck and expand our respective trade spheres."
+rigaExpand.32.aa:0 "We support the establishment of this alliance"
+rigaExpand.32.aa.tt:0 "This will escalate the Riga-Hansa trade dispute"
+rigaExpand.32.bb:0 "We have our own plans"
+
+rigaExpand.33.name:0 "The Riga-Hansa Trade War"
+rigaExpand.33.desc:0 "In recent days, the newly formed trade alliance by the Bishopric of Riga has further expanded its trade war with the Hanseatic League, leading to turbulent commercial conditions in Northern Germany. If we choose to support one side, we could extract some profit from the situation, but this would inevitably intensify the scale of the North German trade war."
+rigaExpand.33.aa:0 "We support the Riga-Danish alliance"
+rigaExpand.33.bb:0 "We support the Hanseatic League"
+rigaExpand.33.cc:0 "We remain neutral"
+
+rigaExpand.34.name:0 "Imperial Decree"
+rigaExpand.34.desc:0 "The protracted North German trade war has compelled the Emperor to make a decision to address the grievances of the Imperial Estates. After some deliberation, the Emperor has chosen to demand that the Bishopric of Riga immediately and unconditionally cease this trade war. Otherwise, the Emperor will resort to military means to end the North German trade dispute."
+rigaExpand.34.aa:0 "The answer lies with sword and steel!"
+rigaExpand.34.aa.tooltip:0 "The Emperor will lead the Hanseatic League in launching an attack\n\nAll North German princes who supported us in the trade dispute will join our side, while those who opposed will join the opposing side\n\nMembers of both trade alliances will also join the war"
+rigaExpand.34.bb:0 "We must not provoke the Emperor..."
+rigaExpand.34.bb.tt:0 "This will immediately halt our trade war with the Hanseatic League, and all related modifiers will be removed"
+
+rigaExpandIncident.0.name:0 "The North German Trade War"
+rigaExpandIncident.0.desc:0 "For a long time, commerce in Northern Germany has been largely dominated by the Wendish and Saxon circles of the Hanseatic League. Through the activities of Hanseatic merchants, the secular princes within the Empire, whose economies were mostly based on the manorial system with limited and inefficient production, gained significant commercial benefits after establishing trade relations with the Hanseatic League. Upon joining the League, the raw materials produced in their own territories could be sold at higher prices in foreign markets, while they could obtain higher-quality imported goods. The import and export duties levied by Hanseatic merchants also provided the state treasuries with a stable and reliable source of revenue. Consequently, various principalities welcomed the Hanseatic League to set up trading posts in their lands.\n\nHowever, with the rise of another Baltic city, Riga, the commercial dominance of the Hanseatic League in the Baltic region began to waver, and competition between the two intensified. The Bishopric of Riga and the Hanseatic leader, Lübeck, have engaged in a series of commercial conflicts over the past period. Recently, the newly formed trade alliance between the Bishopric of Riga and various Danish city-states has brought this war to a climax. North German principalities, seeking to protect their own interests, have begun to lean towards one side or the other, implementing supportive policies and actions to secure greater profits. This, in turn, has further fractured the already strained relations among the princes, each with their own grievances. Minor skirmishes involving mercenaries are frequent across the region, and economic instability has led to more frequent peasant uprisings. As the trade war continues, the entire Empire is now more or less affected by the North German trade war. Rebellion, famine, and conflict loom over the Empire constantly."
+rigaExpandIncident.0.aa:0 "Only war can end the dispute"
+rigaExpandIncident.0.bb:0 "The Emperor should mediate the conflict"
+rigaExpandIncident.0.cc:0 "This dispute will settle on its own"
+
+rigaExpand.35.name:0 "Dust Settles"
+rigaExpand.35.desc:0 "During the conflict with the combined forces of the Emperor and the Hanseatic League, we gradually gained the upper hand. The blockade of the Hanseatic League by our fleet diminished their will to continue fighting. Meanwhile, the Emperor's declaration of war met resistance from many North German princes who supported Riga. Faced with the deteriorating war situation, the Emperor also began negotiations with the Bishopric of Riga.\n\nThe economic losses from the war were severe. Although we held the advantage, we still suffered heavy costs. Continuing the war would bring no benefit and only cause further deterioration of the North German economy, which clearly contradicted our original intentions. Therefore, Riga presented the Emperor with a treaty. This treaty confirmed the absolute dominance of the Bishopric of Riga over the Hanseatic League. All Hanseatic members except Lübeck would become our trade zones and our nominal vassals."
+rigaExpand.35.aa:0 "Excellent!"
+rigaExpand.35.aa.tt:0 "The protracted trade war now comes to an end"
+
+rigaExpand.36.name:0 "The Zealand Agreement"
+rigaExpand.36.desc:0 "Our victory in the trade war with the Hanseatic League has earned us the admiration of various Danish cities. We will further collaborate with the free cities in the Danish region. They will become our nominal vassals, and we will assist them in urban construction and development.\n\nThe agreement was passed with almost no opposition. Henceforth, we have secured complete control over North German trade."
+rigaExpand.36.aa:0 "Excellent"
+
+rigaExpand.37.name:0 "North-Eastern Rus' Strategy"
+rigaExpand.37.desc:0 "The past internal conflicts in North-Eastern Rus' could not halt its rise. We must act swiftly in this region to control Novgorod, a crucial upstream point for Baltic trade, and to curb the potential emergence of a powerful Rus' Grand Prince.\n\nOur first objective is to seize Pskov, located to the right of the Livonian Order. The Northern Crusades once faltered here. This city is a vital fortress on the path to Novgorod. We must take it with a §Ymeticulous plan§!. It is unwise to act rashly before our strategic deployment is fully complete.\n\nIf we successfully capture Pskov, we can immediately advance on Novgorod, aiming to resolve our eastern troubles in one decisive move."
+rigaExpand.37.aa:0 "Begin our plans"
+
+rigaExpand.38.name:0 "A Meticulous Plan"
+rigaExpand.38.desc:0 "We need to undertake a series of preparations to build up for the future offensive. Until then, our strategic goals in the North-Eastern Rus' region should focus primarily on reconnaissance and infiltration, ensuring we are fully prepared for the coming war."
+rigaExpand.38.aa:0 "Gather the supplies!"
+rigaExpand.38.aa.tt:0 "We need time for war preparations; launching an attack during this period would be most unwise"
+
+rigaExpand.39.name:0 "An Unexpected Complication"
+rigaExpand.39.desc:0 "After a series of less-than-meticulous preparations, we still managed to capture Pskov. However, this operation has forced us to adjust our entire strategic system to ensure the success of subsequent offensives."
+rigaExpand.39.aa:0 "We still need to wait"
+
+rigaExpand.40.name:0 "Storm Clouds Gather"
+rigaExpand.40.desc:0 "The fall of Pskov compels us to consider whether we need to adjust our strategic direction, first driving the heathen invaders from our lands. Other Rus' states will also react to this. If they agree to the plan, we shall temporarily unite for the fight."
+rigaExpand.40.aa:0 "Let them remember the lesson of 1242"
+rigaExpand.40.bb:0 "We are not concerned with such matters"
+
+rigaExpand.41.name:0 "War Doctrine"
+rigaExpand.41.desc:0 "Based on our current preparations, we can decide our preferred combat approach: whether to wage a war of attrition or a war of raids.\n\nThe former will prolong the conflict but correspondingly reduce supply consumption for large-scale operations. The latter focuses on using small, elite units for swift strikes against the enemy. If executed well, it can greatly shorten the war's duration, but it will significantly increase our army's attrition."
+rigaExpand.41.aa:0 "Wage a war of attrition"
+rigaExpand.41.bb:0 "A war of raids is preferable"
+
+rigaExpand.43.name:0 "The Pskov Uprising"
+rigaExpand.43.desc:0 "Despite the Bishopric of Riga's successful campaigns in Pskov, its control over the city has always been tenuous. Today, Pskov has officially broken free from the Bishopric's control and is attempting to garner support from surrounding Rus' states for their rebellion."
+rigaExpand.43.aa:0 "Drive the heretics from our city!"
+rigaExpand.43.bb:0 "We are not ready..."
+
+rigaExpand.44.name:0 "Pskov's Betrayal"
+rigaExpand.44.desc:0 "News from Pskov: they have completely broken free from our control and declared a war of independence against us. This disrupts our long-laid plans. We must urgently coordinate the armies of our subject states, or our own forces will be rendered immobile."
+rigaExpand.44.aa:0 "Immediately begin restoring military order"
+
+rigaExpand.45.name:0 "The Pskov Uprising"
+rigaExpand.45.desc:0 "Pskov has risen in revolt. We must decide whether to support their actions to undermine the Bishopric of Riga's influence in the Rus' region."
+rigaExpand.45.aa:0 "We will support Pskov"
+rigaExpand.45.bb:0 "The risks are too great"
+
+rigaExpand.46.name:0 "Avenging the Ice"
+rigaExpand.46.desc:0 "On April 15, 1242, the Northern Crusaders suffered a crushing defeat on the ice. Today, with our meticulous preparations, we have utterly routed the garrison near Pskov and captured the city. After two centuries, we are finally back on the path of conquest."
+rigaExpand.46.aa:0 "A major victory!"
+rigaExpand.46.bb:0 "Stay vigilant; the enemy is not yet broken"
+
+rigaExpand.47.name:0 "The Neva Agreement"
+rigaExpand.47.desc:0 "With our victory in the Novgorod war, we have gained control over most of the trade in the Novgorod region. This will solidify our Baltic trade and lay the groundwork for future conquests in the Rus' lands."
+rigaExpand.47.aa:0 "On to the next plan"
+
+rigaExpand.50.name:0 "Polish-Ruthenian Strategy"
+rigaExpand.50.desc:0 "Following the death of Władysław III, Poland has effectively fragmented into three states, with Sandomierz still under the control of the Hussite heretics. As the Duke of Greater Poland maintains close ties with the Holy Roman Empire, he may enjoy imperial protection. Therefore, Polish unification may not proceed swiftly or smoothly. The Teutonic Order's ongoing friction with the Polish states makes gaining their trust difficult. However, we can use the pretext of eradicating heresy to intervene in Poland, thereby consolidating our Baltic trade and further enhancing our influence.\n\nAlthough Kievan Rus' descended into civil war in 1443, this situation will not last long. As a legacy of the Northern Crusades, there can be no compromise with the infidels—only war can achieve our goals. We must secure our southern frontier."
+rigaExpand.50.aa:0 "Begin the planning"
+
+rigaExpand.51.name:0 "Steppe Doctrine"
+rigaExpand.51.desc:0 "Due to their constant conflicts with eastern nomads, the Kievan Rus' cavalry tactics differ significantly from those of traditional Western European knights. The Order lacks sufficient experience fighting on the open steppes of Eastern Europe. Therefore, we must leverage our strengths and quickly adapt to this new battlefield."
+rigaExpand.51.aa:0 "We must find tactics suited to us"
+
+rigaExpand.60.name:0 "The Heart of the Baltic"
+rigaExpand.60.desc:0 "At the confluence of the Daugava River and the Gulf of Riga stands a magnificent city. From its beginnings in 1150 with Gotlandic merchants developing the mouth of the Western Dvina, to the arrival of the first crusaders in Livonia and the building of a fortress in 1201, through the end of the Northern Crusades, and to the archbishopric becoming a free city in 1366, arriving now in the year [GetYear]...\n\nThe [Root.Monarch.GetTitle][Root.Monarch.GetName] gazes upon this prosperous city—ablaze with lights, teeming with merchants, its towers reaching for the sky. Whether in Stockholm, Danzig, or even the distant Neva, one can glimpse this city, seeming both far away and yet so close, the city that rules the entire Baltic Sea. Constantinople, Paris, Vienna, Lübeck, Milan... any city you can imagine pales before it. Perhaps only the distant, mysterious kingdoms of the East can compare.\n\nWithin this city, all are united under the [Root.Religion.GetName] and the [Root.Monarch.GetTitle][Root.Monarch.GetName]. Cultures converge and blend here; people of all classes meet as equals. And all of the Land of Mary dances, sings, and raves for it! This is the heart of the Land of Mary—Riga!\n\nJust as the [Root.Monarch.GetTitle][Root.Monarch.GetName] is lost in admiration and awe at this vision, a faint, ethereal voice echoes in their mind. It floats, barely there, yet clear, calling them to look upon the entire Land of Mary..."
+rigaExpand.60.aa:0 "The story is not over..."
+
+rigaExpand.61.name:0 "Divine Revelation"
+rigaExpand.61.desc:0 "At an urgently convened assembly of the Rigan Bishopric, the [Root.Monarch.GetTitle][Root.Monarch.GetName] announced having received a divine mandate to spread prosperity and well-being to all regions of the Baltic.\n\nNo one questioned the [Root.Monarch.GetTitle][Root.Monarch.GetName]'s declaration. Discussions then began on how to realize this plan. After several days, a project named the 'Universal City' was conceived. Its aim is to foster the development of every city in the Baltic through various means. This will be a long-term endeavor, requiring extensive planning. How long it can actually be sustained, however, no one knows."
+rigaExpand.61.aa:0 "Let us begin"
+
+rigaExpand.70.name:0 "The Journey Begins"
+rigaExpand.70.desc:0 "The long-prepared Universal City project is now officially launched. This grand undertaking will elevate the standard of living for all people across the Baltic region. The Land of the Virgin shall nourish all her people, tending to the multitude under divine guidance.\n\nThe plan's implementation will be a lengthy process, during which the [Root.Monarch.GetTitle][Root.Monarch.GetName] will have ample time to contemplate matters beyond the Universal City itself..."
+rigaExpand.70.aa:0 "Raise the Curtain"
+rig_terra_mariana.tt:0 "§YWe will officially commence the Universal City Project§!"
+rigaExpand.70.aa.tt:0 "We can now construct buildings for our §Ysubject nations§! through a §TSpecial Interaction§! in the §YProvince Interface§!\n\nThis interaction consumes §YManpower§!£manpower£ instead of §YDucats§!¤ and §GIgnores technology level§! for construction\n\nIt allows the construction of §Yhigher-tier§! buildings via this §Tinteraction§! and unlocks some §Yunique buildings§!\n\nIf we have §Ynot§! unlocked the §TInfrastructure§! idea group, we immediately and §Yunconditionally§! unlock the §TInfrastructure§! idea group\n\nUnlocks the §YGovernment Reform§!: §TUniversal City Ideal§!\n\nThe §YArchbishop requires further time for contemplation§!"
+
+rigaExpand.71.name:0 "Interlude"
+rigaExpand.71.desc:0 "At present, Riga's vast episcopal administrative system appears to be functioning quite well, but only the [Root.Monarch.GetTitle][Root.Monarch.GetName] knows that all is not as splendid as it seems in Riga.\n\nThe administrative system is adequate for now, maintaining stable operations across the various bishoprics, but this is temporary. Over time, the power and development of each bishopric grow daily. Although there are currently no signs of rebellion, this does not mean it cannot happen in the future. The local administrative bodies hold an ambivalent attitude towards Riga's rule: administrative regions possess substantial military forces and overall strength, yet they require Riga's administrative support; economic regions boast robust economies but need the protection of Riga's armies; military districts, as vital frontier defenses, maintain massive armies but depend on Riga's economic backing. The current situation exists in a fragile equilibrium. Should any disturbance occur, circumstances could deteriorate rapidly. If left unchecked, the military districts we entrusted with military missions will be the first domino to fall.\n\nThe Archbishopric of Riga staunchly upholds Catholicism, yet heresies sprout like weeds across Europe, impossible to eradicate entirely. The spread of the Devotio Moderna within the Empire, the propagation of Hussitism, and the firmly entrenched Catharism in Provence all threaten the Catholic world. However, beyond these established, tangible enemies, the [Root.Monarch.GetTitle][Root.Monarch.GetName] is even more concerned about the future. Due to the failures of the Albigensian Crusades and the rise of imperial authority, various Catholic sovereign states in Europe are beginning to slip from papal control. Concurrently, the Italian Renaissance severely impacts local Catholic churches. The growing merchant class and the actions of the Roman Catholic Church in the German lands breed widespread discontent. It is foreseeable that in the near future, a religious reformation targeting Catholicism will unfold, and Riga must then make its choice.\n\nCompared to the problems we may face in the future, the state of Riga's military is our most pressing concern now. For a long time, we have relied on the independent forces of various bishoprics, combined with knightly orders and military districts for warfare. Consequently, the problems of the Archbishopric's direct forces have not been exposed in battle. Yet the [Root.Monarch.GetTitle][Root.Monarch.GetName] knows the quality of these troops is far from optimistic. The mobilizable manpower of a single city is always limited. Conscripting widely within Riga's walls would not only drastically reduce the urban population but also breed local resentment. Historically, we have conducted recruitment across various bishoprics, then gathered and reorganized the troops. This results in a chaotic mix of recruits, with significant differences in language and customs—a fatal flaw for a force requiring high coordination. Moreover, in past conflicts, we over-relied on the better-trained forces of knightly orders and military districts. While we achieved continuous victories, this fostered complacent generals and increasingly corrupt armies, as they realized they could win wars without even taking the field. To them, training seemed pointless. Fortunately, our bishoprics have not yet extensively questioned our military prowess. Maintaining a sufficiently large army can still command their respect—but the paper tiger will inevitably be exposed one day. §RWhen that time comes, we shall surely crumble§!."
+rigaExpand.71.aa:0 "The path ahead is unknown..."
+rigaExpand.71.aa.tt:0 "§YYet the Land of Mary remains prosperous, and Riga shall march on towards the future§!"
+rig_riga_religious_dilemma.tt:0 "Due to Riga's current religious predicament, all our §Ybishopric§! and §Oknightly order§! subjects will be unable to convert provinces and will receive a penalty to religious unity.\n"
+
+rigaExpand.72.name:0 "The Second Council of Riga"
+rigaExpand.72.desc:0 "Many years have passed since the First Council of Riga. This council will enact thorough reforms across Riga. The [Root.Monarch.GetTitle][Root.Monarch.GetName] has proposed two major reforms, one targeting administration and the other the military. Due to Riga's administrative inertia, we can only focus on one reform at a time.\n\nThe question is which reform we should prioritize: the urgent military reform or the precautionary administrative reform? The [Root.Monarch.GetTitle][Root.Monarch.GetName] must make the choice."
+rigaExpand.72.aa:0 "We will focus on military reform"
+rigaExpand.72.bb:0 "We will focus on administrative reform"
+
+rigaExpand.73.name:0 "The State of the Rigan Army"
+rigaExpand.73.desc:0 "The current state of the Rigan army is deeply concerning. In terms of organization and discipline, from generals down to common soldiers, the situation is uniformly poor, and corruption is rampant. The [Root.Monarch.GetTitle][Root.Monarch.GetName] has attempted military reforms on several occasions, but the present circumstances have exceeded [Root.Monarch.GetName]'s expectations. During several tentative military reform meetings, the generals gave superficial promises of change, but in practice, they only made token efforts where reform was needed. Some even ignored the directives entirely.\n\nThis time, the [Root.Monarch.GetTitle] requires stronger measures to carry out military reform—by any means necessary."
+rigaExpand.73.aa:0 "We shall see"
+
+rigaExpand.74.name:0 "A Flawless Plan"
+rigaExpand.74.desc:0 "The [Root.Monarch.GetTitle] has devised a scheme. Our [Root.Mil_Advisor.GetTitle] [Root.Mil_Advisor.GetName] will organize and execute a covert operation targeting key Rigan army commanders. The [Root.Monarch.GetTitle] demands utmost secrecy and that no vital military leaders come to harm—though some 'unfortunate accidents' may be permissible."
+rigaExpand.74.aa:0 "Proceed with caution"
+rigaExpand.74.aa.tt:0 "We require time to prepare the operation"
+
+rigaExpand.75.name:0 "Under Cover of Night"
+rigaExpand.75.desc:0 "All is prepared. Those generals have noticed nothing amiss; some are even lost in drunken stupor at a feast. This allows our plan to proceed to its final stage almost unimpeded."
+rigaExpand.75.aa:0 "Let us hope they sleep soundly tonight"
+
+rigaExpand.76.name:0 "Dawn"
+rigaExpand.76.desc:0 "With the break of dawn, our operation is complete. Almost all senior Rigan commanders have been apprehended. The following day, the [Root.Monarch.GetTitle][Root.Monarch.GetName] announced the expulsion or 'removal' of the majority of high-ranking military personnel on charges of treason, publicizing evidence of their past misconduct to legitimize the [Root.Monarch.GetTitle]'s actions.\n\nSuch measures will undoubtedly cause the populace to doubt whether our army can still protect them and will impact our standing among our subjects. Yet these are necessary steps for reform. The Rigan military system is now fully under the [Root.Monarch.GetTitle]'s control, and the military reform of Riga shall officially commence."
+rigaExpand.76.aa:0 "Short-term pain for long-term gain"
+rigaExpand.76.aa.tt:0 "Liberty desire of all our subjects §R+10%§!\n\n§YRiga's military reform officially begins§!"
+
+rigaExpand.77.name:0 "Emergency Conscription Act"
+rigaExpand.77.desc:0 "We have now reorganized all our military forces. Our diplomats are dispatched to various subject states to stabilize the current situation. Today, the [Root.Monarch.GetTitle][Root.Monarch.GetName] also promulgated the Emergency Conscription Act to mitigate the collapse of Riga's national defense system.\n\nSimultaneously, the first batch of our reorganized soldiers has completed its formation and is ready for deployment to the battlefield."
+rigaExpand.77.aa:0 "The first step"
+rigaExpand.77.aa.tt:0 "We will deploy a force consisting of §Y35§! infantry and §Y15§! cavalry regiments in our capital"
+
+rigaExpand.78.name:0 "Military Doctrine Guidance"
+rigaExpand.78.desc:0 "Riga has long relied on pre-war consultations and coordination with subject states to formulate meticulous war plans for combined operations. This approach not only allows us to make extensive preparations before engaging the enemy—including familiarizing ourselves with the foe, considering local terrain and weather, analyzing enemy tactics to gain greater advantage on the battlefield—but also ensures effective coordination with allied subject armies and provides greater readiness for unforeseen developments in war.\n\nOf course, the drawbacks are evident: we cannot prepare for sudden outbreaks of war and find it difficult to organize swiftly when faced with unexpected declarations of war. Reverting to the traditional declaration of war mechanism might be an alternative choice."
+rigaExpand.78.aa:0 "Resolutely follow our nation's unique strategic system path"
+rigaExpand.78.aa.tt:0 "Upon completion of the reform, we will activate the §YGreat Rigan Campaign§! mechanism"
+rigaExpand.78.bb:0 "We should return to traditional warfare methods!"
+rigaExpand.78.bb.tt:0 "Continue using the original declaration of war mechanics, with no unique features (though perhaps that itself is a feature?)\n§RNote: This option may lead to some strange issues§!"
+
+rigaExpand.79.name:0 "Military Organization Guidance"
+rigaExpand.79.desc:0 "In facing different military forces and organizational scales, we have proposed reforms in two directions. Should we focus on reforming the supply system for large-scale armies, or on training smaller, elite units?"
+rigaExpand.79.aa:0 "We need to improve our supply system first"
+rigaExpand.79.aa.tt:0 "After the reform concludes, we will field larger and more coordinated armies"
+rigaExpand.79.bb:0 "We need to prioritize training elite troops"
+rigaExpand.79.bb.tt:0 "After the reform concludes, we will field smaller and more elite armies"
+
+rigaExpand.80.name:0 "Joint Military Drills"
+rigaExpand.80.desc:0 "In the year [GetYear], following the directives of the [Root.Monarch.GetTitle][Root.Monarch.GetName], the Archbishopric of Riga and its subsidiary bishoprics dispatched their most outstanding troops to Riga for a military exchange. This included sharing insights on strategy, tactics, operational methods, weaponry, siege equipment, and various other aspects.\n\nThrough this process, we have not only thoroughly overhauled our military system and forces but also gained a more comprehensive understanding of our subjects' troops, significantly influencing their military development in many areas. This exchange also marks the culmination of Riga's military reforms—a new Rigan army is about to be born!"
+rigaExpand.80.aa:0 "One final push"
+
+rigaExpand.81.name:0 "On Strategy"
+rigaExpand.81.desc:0 "Military force cannot solve all problems, but it is a necessary condition for solving them. For a long time, the war models of various nations have remained highly inefficient, with unsatisfactory performance in mobilization, army coordination, and deployment speed. Traditional warfare methods can no longer meet the needs of our military system. We shall establish a specialized department for planning wars, thereby breaking the constraints imposed by traditional declaration-of-war mechanisms.\n\nThe establishment of the War Planning Department will enable us to declare a §YGreat Campaign§! against all sovereign states in a region. However, declaring war on a nation without adequate preparation will severely impact our government's stability.\n\nRegardless, the era of Riga is about to dawn."
+rigaExpand.81.aa:0 "War is the continuation of politics"
+rigaExpand.81.aa.tt.1:0 "Our §YBishoprics§! and §OKnightly Orders§!, will receive the above modifiers, as well as §G+25%§! National Supply Limit\n"
+rigaExpand.81.aa.tt.2:0 "Our §YBishoprics§! and §OKnightly Orders§!, will receive the above modifier, as well as §G+10%§! Army Movement Speed\n"
+# rigaExpand.81.aa.tt.1:0 "Our §Ybishopric§! and §Oknightly order§! subjects, while receiving the aforementioned modifiers, will also gain §G+25%§! national supply limit\n"
+# rigaExpand.81.aa.tt.2:0 "Our §Ybishopric§! and §Oknightly order§! subjects, while receiving the aforementioned modifiers, will also gain §G+10%§! army movement speed\n"
+
+rigaExpand.82.name:0 "The State of the Rigan Administrative System"
+rigaExpand.82.desc:0 "Overall, Riga's administrative system is beyond reproach, effectively maintaining the administrative affairs of its various bishoprics. However, Riga is clearly not content with the status quo. The demands of expansion necessitate reforms to the administrative system. Governing a larger state requires a more robust administrative framework, especially for a nation like Riga, built upon control over individual bishoprics. The prosperity and stability of these subject states are essential, potentially even more crucial than the development of Riga city itself.\n\nWith the continuous growth of Baltic commerce, the increasing volume of trade has caused Riga's outer districts to expand into the territories of the Livonian Order. This expansion, focused on trade and production, does nothing to improve our administrative system. On the contrary, it forces us to allocate more administrative capacity to manage Riga's increasingly vast trade and production networks. The expansion rate of the inner city's administrative system merely keeps pace with our current needs. We must find suitable methods to enhance the city's administrative capabilities, whether through streamlining the inner-city bureaucracy or through physical expansion. The immediate priority is to increase paper production—an indispensable tool for governing a state."
+rigaExpand.82.aa:0 "Paper is the future!"
+
+rigaExpand.83.name:0 "Calm Waters"
+rigaExpand.83.desc:0 "Within the intricate streets of Riga's inner city, robed clerical administrators are a common sight. The process of managing the various bishoprics is not particularly complex in theory. If the [Root.Monarch.GetTitle] wishes to send an order to a subject state, the command must first be relayed to the specific administrative department within Riga responsible for that subject. Personnel from that department then transmit the order to the target state. The communication of requests from subject states simply reverses this process.\n\nTo maintain up-to-date knowledge of each subject's situation, each bishopric is required to periodically report its finances, active military strength, population, etc., to Riga. This allows Riga to coordinate trade and economic distribution among the subjects and provide appropriate guidance on their developmental focus. Although our subject states enjoy considerable autonomy in policy implementation, they lack Riga's extensive administrative system and information sources. While each bishopric may manage its own affairs well and respond to sudden crises, ultimately, this relies on their individual capacity to alleviate pressure. Intervention by the Archbishopric of Riga can mobilize other subjects to assist, each contributing their strengths to achieve coordinated development and collectively overcome crises.\n\nThe drawbacks of this system are also evident. The perennial issue of corruption is unavoidable, meaning the data Riga receives on paper sometimes requires personnel to be dispatched for verification, affecting the timeliness of information and potentially leading to erroneous orders. More importantly, as the bishoprics develop, new cities are established and expanded. The growth of subject administrative bodies necessitates corresponding adjustments in Riga's own administration, and an increase in the number of subjects will further escalate Riga's administrative expenditures."
+rigaExpand.83.aa:0 "We need a plan"
+
+rigaExpand.84.name:0 "Dawn"
+rigaExpand.84.desc:0 "Reform is never an easy task, especially when aiming to restructure a system as vast and intricate as the present one. The [Root.Adm_Advisor.GetTitle] [Root.Adm_Advisor.GetName] has proposed a reform plan: overhaul Riga's administrative system from the ground up. At the lower level, streamline the administrative structures of subject states and consolidate redundant entities to alleviate pressure on the upper echelons. At the upper level, expand administrative bodies to bolster administrative capacity.\n\nHowever, merging the administrative organs of our subjects will require time and resources, leading to increased administrative strain in the short term. Yet, once completed, it will yield substantial long-term benefits."
+rigaExpand.84.aa:0 "Let the reform begin now"
+
+rigaExpand.85.name:0 "Administrative Restructuring"
+rigaExpand.85.desc:0 "Unlike reforms in other nations, Riga's administrative reform is far more complex and challenging. It involves not only the interests of our own internal classes but also the interests of various classes within our subject states. Large-scale changes to the administrative structure will inevitably entangle the interests of all parties, leading to evident issues such as decreased administrative efficiency due to poor inter-departmental coordination and uprisings fueled by discontent with policy implementation. However, this is not without solution—opposition is inevitable during transformation. If we possess sufficient 'strength' and employ a mix of persuasion and coercion, we can make them understand their place.\n\nCompared to radical, rapid reform, perhaps a gradual approach is more suited to Riga's current situation. It is not necessary for all subject states to reform immediately. We can first select a subject state deemed suitable for reform and proceed to the next only after its completion. While this method prolongs the overall reform period, it helps maintain the stability of the Archbishopric during the process."
+rigaExpand.85.aa:0 "We do not have much time; we must push the reforms swiftly"
+rigaExpand.85.bb:0 "Haste makes waste; we should proceed steadily"
+
+rigaExpand.87.name:0 "Unrest"
+rigaExpand.87.desc:0 "Recent reform measures by the Rigan government have stirred unrest and riots among classes discontent with Riga's rule across various districts of the city. The temporary disarray in the central administration during the reform period has provided these radical opposition elements with an opportunity.\n\nRadical rebels claim that Riga has amassed immense wealth during its rule without using it to improve living conditions in the outer districts. They widely publicize the disparities between the inner and outer districts, pressuring the [Root.Monarch.GetTitle] to demand fairer treatment. Coincidentally, rumors of the outer district unrest have sparked disturbances in the middle districts as well—though initially not threatening, until a ship laden with gold and silver bound for Riga was seized by a group of radical insurgents. The wealth accumulated through Riga's long prosperity has now become another fuse for rebellion.\n\nSuch incidents are hardly uncommon. However, due to the ongoing reforms, the government's response has been slow. By the time action was taken, it became clear that unrest was spreading through Riga like wildfire. Equal distribution cannot satisfy everyone, and when faced with vast, seemingly attainable wealth, desire becomes the driving force behind all actions.\n\nGiven Riga's immense urban scale, deploying the army for suppression would cause severe damage to the city districts. Therefore, hope rests on Riga's city guard to quickly quell this unrest."
+rigaExpand.87.aa:0 "A storm is brewing"
+
+rigaExpand.88.name:0 "Mutiny"
+rigaExpand.88.desc:0 "As the earlier unrest persists, the [Root.Monarch.GetTitle] considers that involving subject states in suppression would severely damage Riga's prestige and could lead to unforeseeable consequences in the current situation. Therefore, the outside world remains unaware of what is truly happening within Riga's walls. The subject states have received no communication from Riga, but such a significant incident cannot be concealed indefinitely.\n\nThis morning, a force led by the [riga_rebel_target.GetName] [riga_rebel_target.Monarch.GetTitle][riga_rebel_target.Monarch.GetName] suddenly appeared outside Riga, preparing to enter the city under the banner of 'cleansing the rebellion.' The [Root.Monarch.GetTitle] strictly forbade this overreaching action, but the order was ignored, and the troops proceeded directly into the city."
+rigaExpand.88.aa:0 "Traitors!"
+
+rigaExpand.89.name:0 "The Dust Settles"
+rigaExpand.89.desc:0 "Clearly, the mutinous forces of [riga_rebel_target.GetName] did not anticipate the complexity of the situation within the city. After assisting the city guard in quelling the urban riots, they were left with no strength for further action and withdrew from the city.\n\nThe [Root.Monarch.GetTitle] reprimanded this behavior. However, since their actions were publicly portrayed in a positive light, the [Root.Monarch.GetTitle] does not intend to formally respond to this transgression."
+rigaExpand.89.aa:0 "Bring them down!"
+
+rigaExpand.90.name:0 "Bishopric Reforms"
+rigaExpand.90.desc:0 "The traditional functions of the various bishoprics can no longer meet our current administrative needs. Whether they are economic zones, military districts, or administrative regions, all require transformation—a more efficient administrative system is needed, demanding sweeping reforms.\n\nAfter a period of administrative adaptation and government restructuring, we have established a more efficient administrative network. This will significantly enhance the administrative efficiency of our bishoprics and allocate them more administrative functions to handle increasingly demanding tasks."
+rigaExpand.90.aa:0 "Proceed"
+
+rigaExpand.91.name:0 "Knightly Order Reorganization"
+rigaExpand.91.desc:0 "Knightly orders have long existed as Riga's most important military organizations. However, we have never clearly defined their territorial rights and responsibilities. Another aspect of the reforms is to establish the duties and obligations each order should bear, as well as the rights they are entitled to.\n\nTraditionally, members of the orders would be enfeoffed within the lands they controlled, operating a traditional feudal manorial system. However, this led to the exploitation of peasants and inefficient productivity, posing serious issues. Therefore, it is necessary to alter this traditional structure. Knights' fiefs will be limited to residential properties and no longer include land. Riga will take over the various estates and establish a new system called 'military merit' to provide all knights with additional income to compensate for their losses."
+rigaExpand.91.aa:0 "The next step is..."
+
+rigaExpand.110.name:0 "The Third Council of Riga"
+rigaExpand.110.desc:0 "Unlike the calm between the First and Second Councils of Riga, the consequences of the reforms following the Second Council remain vivid, constantly reminding the [Root.Monarch.GetTitle][Root.Monarch.GetName] never to take anything lightly. Now, Riga's vast vassal system is gradually solidifying. Having undergone military and political reforms, Riga shall set forth once more to meet new challenges. With the increase in bishopric subject states, the number of representatives has grown considerably. To prepare for this council, the [Root.Monarch.GetTitle] had no choice but to prioritize expanding the assembly hall of the Rigan Congress.\n\nThe First and Second Councils of Riga focused on addressing Riga's internal issues: the First resolved matters of living space, while the Second tackled the long-standing problems of Riga's administrative, religious, and military systems. This council, however, will shift Riga's gaze toward more ambitious goals.\n\nThe failure of the Northern Crusades left Riga struggling for survival for a long time. Yet, after a century of development, Riga is no longer as weak as before; it possesses the strength and opportunity to resume its once-abandoned mission. Therefore, at the council, the [Root.Monarch.GetTitle][Root.Monarch.GetName] announced that Riga would prepare for a new crusade in the coming years.\n\nUnlike previous crusades, this campaign will involve meticulous planning, with everything managed by the [Root.Monarch.GetTitle] and Riga's various bishopric subjects, eliminating other potential interfering factors. The crusade is divided into two major directions: The first will march south from Podolia, crossing Moldavia and Wallachia to Constantinople, then cross the Bosporus to besiege Ankara and Karaman, proceed south along the Gulf of Cyprus to Antioch, and finally capture the Holy City of Jerusalem. The second crusade will set out from Kiev and Tver to purge the heretics of the Eastern European steppes and the Ural region, then advance into Central Asia and Siberia. Unlike the first crusade with a defined route, the second has only a broad directive: to expand Riga's influence in Central Asia and Siberia and spread the Gospel of Christ to the East.\n\nSuch an enormous war plan would have been a fantasy in the past, but today Riga possesses the capability to realize it. The [Root.Monarch.GetTitle][Root.Monarch.GetName] will put this plan into practice. The next step requires more detailed planning and military preparation for these two campaigns."
+rigaExpand.110.aa:0 "With that, the council is adjourned"
+
+rigaExpand.111.name:0 "United in Purpose"
+rigaExpand.111.desc:0 "Riga's most persistent administrative challenges continue to trouble us. The administrative burden of executing two crusades simultaneously would exceed Riga's capacity. Therefore, the [Root.Monarch.GetTitle][Root.Monarch.GetName] must choose which crusade to prioritize.\n\nIf we choose the first crusade, we must establish a Black Sea fleet to secure naval dominance in the Aegean and Eastern Mediterranean. Adhering strictly to the original overland route would severely prolong the war. If we can land at Antioch, Jaffa, and other ports, it would greatly accelerate our progress toward the objective.\n\nIf we choose the second crusade, we must develop tactics to counter nomadic forces. Before fully understanding our adversaries, we need a more measured approach, advancing step by step towards Central Asia.\n\nThe [Root.Monarch.GetTitle][Root.Monarch.GetName] shall make the choice."
+rigaExpand.111.aa:0 "The East takes priority"
+rigaExpand.111.bb:0 "The South takes priority"
+
+rigaExpand.112.name:0 "In the Name of the Sword"
+rigaExpand.112.desc:0 "After a series of preparations, all armies are assembled and ready, awaiting the call to march.\n\nThe vast steppe shall soon echo with the call of war..."
+rigaExpand.112.aa:0 "And blood shall once again soak its soil"
+rigaExpand.112.aa.tt:0 "We will also declare war on nations holding §YTyumen§!, §YSamarqand§!, §YAstrakhan§!, §YKazan§!, and §YYerevan§!"
+
+rigaExpand.113.name:0 "Armed Pilgrimage"
+rigaExpand.113.desc:0 "After a series of preparations, all armies are assembled and ready, awaiting the call to march.\n\nCenturies after the fall of Jerusalem, the banner of Christ shall once again fly over the Holy Land."
+rigaExpand.113.aa:0 "The path of pilgrimage shall be paved with sword and steel"
+rigaExpand.113.aa.tt:0 "We will also declare war on nations holding §YConstantinople§!, §YAntioch§!, §YJerusalem§!, §YAlexandria§!, and §YBaghdad§!"
+
+rigaExpandGlobal.0.name:0 "Impact of the Trade War"
+rigaExpandGlobal.0.desc:0 "The Riga-Hansa trade war has stimulated productivity in Northern Germany, particularly fostering a boom in the shipbuilding industry. Consequently, timber prices continue to rise, and the demand for naval supplies is increasing daily."
+rigaExpandGlobal.0.aa:0 "This will have long-term effects"
+rigaExpandGlobal.0.bb:0 "We shall profit from this"
+
+rigaExpandGlobal.1.name:0 "City of a Thousand Cities"
+rigaExpandGlobal.1.desc:0 "Regardless of how people once described the grandeur of any city, they all pale in comparison to the present-day city of Riga. Anyone seeing this city for the first time will exhaust all words in awe of this magnificent metropolis, the heart of the Baltic, the city that stands above all cities—the City of a Thousand Cities!\n\nToday, Riga possesses the capability to realize its once-distant ideals. It shall carry forward all its noble aspirations.\n\nSo let the curtain fall softly, and when it rises again, the entire world shall dance."
+rigaExpandGlobal.1.aa:0 "The curtain rises"
+rigaExpandGlobal.1.tt:0 "\nAwaiting good news\n"
+
+rigaExpandGlobal.2.name:0 "A Choice of Fate"
+rigaExpandGlobal.2.desc:0 "This country possesses two playable TAGs. Please choose at game start which nation you wish to play."
+rigaExpandGlobal.2.aa:0 "Play as Riga"
+rigaExpandGlobal.2.aa.tt:0 "This will begin our campaign as @RIG§Y[RIG.GetName]§!\n\n@RIG§Y[RIG.GetName]§! aims, through its unique §Yvassal system§! and the §YUniversal City Project§!, to bring §Ythe entire world§! under its rule\n\nIn the §Yfuture§!, we may also play as @RGL§Y[RGL.GetName]§! through certain means\n"
+rigaExpandGlobal.2.bb:0 "Play as Rigaeria"
+rigaExpandGlobal.2.bb.tt:0 "This will begin our campaign as @RGL§Y[RGL.GetName]§!\n\n@RGL§Y[RGL.GetName]§! aims to spread the faith to the New World, liberating and civilizing its peoples\n"
+
+RigaExpandSupplement.0.name:0 "The Council of Riga"
+RigaExpandSupplement.0.desc:0 "In the year [GetYear], Riga has effectively unified the entire Baltic region. However, Riga currently lacks a well-defined administrative, economic, and military system. Therefore, the [Root.Monarch.GetTitle][Root.Monarch.GetName] has convened a council to determine Riga's future path."
+RigaExpandSupplement.0.aa:0 "Administration is the primary agenda"
+RigaExpandSupplement.0.aa.tt:0 "The council will make progress after some time"
+
+
+RigaExpandSupplement.1.name:0 "The Rigan Administrative System"
+RigaExpandSupplement.1.desc:0 "After extensive discussion, Riga has established a new political system: the Archbishopric of Riga will focus solely on and directly rule only the city of Riga itself. This greatly enhances Riga's developmental capacity while also limiting its potential for direct territorial expansion in the future.\n\nFollowing reorganization, the knightly orders will be fully subordinate to the Archbishop. They possess highly elite military capabilities, serving as garrison territories to protect the archbishopric. However, due to their limited size, the orders cannot efficiently manage large areas of land; therefore, their territorial scope should be kept at a reasonable level.\n\nThe other subsidiary bishoprics of Riga represent the administrative extension of the Archbishopric of Riga. They possess relatively independent political and military systems, but each bishopric also has distinct functional tendencies: Administrative Regions focus on administrative planning and maintaining stability in their areas, allowing them to manage large territories efficiently but with certain limitations in military and economic aspects. Economic Regions prioritize economic development, reducing taxes on peasants within their areas and encouraging agriculture and handicrafts to boost production and foster regional prosperity. However, due to their focus on economic affairs, they have significant shortcomings in military and administrative capabilities, making it difficult to manage large areas or maintain local stability effectively. Military Districts possess high potential for military development and directly represent Riga's military strength alongside the knightly orders. Larger military districts provide stronger military power, but the risk of them breaking away from the archbishopric also increases accordingly."
+RigaExpandSupplement.1.aa:0 "Next, the economy"
+rig_can_assisted_core_for_subject.tt:0 "\nUnlocks a province interaction allowing us to help subjects core provinces\n"
+
+RigaExpandSupplement.2.name:0 "The Rigan Economic System"
+RigaExpandSupplement.2.desc:0 "Unlike the great estate system under monarchical feudalism or other feudal theocratic systems, although Riga collects taxes and levies military service from its various administrative extensions (i.e., vassal states), for areas not specialized in economic development, these taxes are largely symbolic, insignificant to Riga.\n\nDue to Riga's natural geographic location, commerce has become its primary source of income. Joining the Hanseatic League brought considerable profits, but such gains are not permanent. Only substantial development of resources can yield longer-term benefits. This has led to the formation of a unique economic system in Riga: subsidiary states will fully transfer their trade systems to the Archbishopric of Riga, retaining only a portion, or even no independent trade system at all. Riga will centralize the trade of its subjects' goods for profit.\n\nCoordinating such vast trade clearly cannot be done by the city of Riga alone. Therefore, Trade Zones were established to help alleviate Riga's burden. These specialized trading cities focus primarily on commerce. Although dependent on Riga, to maintain a certain level of operation during wartime, they do not participate in Riga's offensive wars."
+RigaExpandSupplement.2.aa:0 "Next, the military"
+
+RigaExpandSupplement.3.name:0 "The Rigan Military System"
+RigaExpandSupplement.3.desc:0 "Due to the current decentralized system, warfare heavily relies on the participation of subsidiary states. The military experience accumulated by the knightly orders during the Northern Crusades, though somewhat outdated by modern standards, had waned before their unification. However, after unification, the orders have once again demonstrated their renewed military prowess to all.\n\nThanks to the guidance of the knightly orders, Rigan forces, while not as elite as the orders themselves, remain capable in battle. However, since recruitment must largely take place in subject cities, employing mercenaries is also a viable option. In summary, Riga's current military engagements primarily rely on the forces of various subjects, such as the knightly orders and military districts, as the mainstay. Nevertheless, Riga itself retains significant potential and economic capacity for substantial military development."
+RigaExpandSupplement.3.aa:0 "Finally, the strategic aspect"
+
+RigaExpandSupplement.4.name:0 "In the Name of the Sword"
+RigaExpandSupplement.4.desc:0 "In 1236, the Battle of Saule shattered the Livonian Order, ultimately leading to the end of the Order as an independent military brotherhood. In the year [GetYear], the Archbishop announced a renewed campaign into Lithuania to stabilize the Baltic region.\n\nWith this military operation being meticulously prepared and the knights' fighting spirit running high, the shadow of Saule shall surely be swept away in this war!"
+RigaExpandSupplement.4.aa:0 "The call of the Land of Mary!"
+
+RigaExpandSupplement.5.name:0 "Romanian Strategy"
+RigaExpandSupplement.5.desc:0 "Having secured complete control over Kiev, the path to the Balkans is now firmly established. If we wish to intervene more readily in the Balkan region in the future, a stable bridgehead is essential, and the long-divided Romanian principalities present an excellent target. Given sufficient time and patience, we can extend our southern strategy into the Romanian region, establishing a firm foothold for our presence in the Balkans."
+RigaExpandSupplement.5.aa:0 "We shall advance into Romania"
+RigaExpandSupplement.5.bb:0 "I have no interest in this region"
+
+RigaExpandSupplement.6.name:0 "Wildfire"
+RigaExpandSupplement.6.desc:0 "No one knows where this wildfire began. Perhaps the moment the first flame ignited in Riga, the outcome was already sealed.\n\nChaotic governance, disorganized responses, terrified civilians, and enraged rioters—all seem destined to be reduced to ashes in this inferno. Any measures to quell the flames are but a drop in the ocean against a blaze of this magnitude.\n\nBeneath the silhouette of Riga city, cast against the Baltic Sea and intertwined with towering flames, what the fire consumes is not merely countless fortunes and lives, but perhaps also the great ideals of the [Root.Monarch.GetTitle]..."
+RigaExpandSupplement.6.aa:0 "Everything is crumbling..."
+RigaExpandSupplement.6.aa.tt.1:0 "§YRiga's§! development is §Yhalved§!"
+RigaExpandSupplement.6.aa.tt.2:0 "§RIf rebirth is hopeless, then let it burn to ashes§!"
+
+RigaExpandSupplement.7.name:0 "Betrayal"
+RigaExpandSupplement.7.desc:0 "The worst has happened. The [riga_rebel_target.GetName] [riga_rebel_target.Monarch.GetTitle][riga_rebel_target.Monarch.GetName] has declared that, due to the large-scale rebellion within the city, Riga is incapable of maintaining control over its subject states. They will "assist" Riga in rebuilding its governmental institutions and will fully take over Riga in the interim.\n\nInitially, the [riga_rebel_target.GetName] forces did employ brutal methods to suppress all riots. However, within days, these soldiers revealed their true nature, beginning to plunder the great churches across Riga's districts. This further cripples Riga's already devastated economy, reeling from the riots and fire.\n\nTo ensure control over the Archbishopric of Riga and legitimize their actions, the [riga_rebel_target.GetName] [riga_rebel_target.Monarch.GetTitle][riga_rebel_target.Monarch.GetName] immediately installed a new Archbishop, publicly claiming the previous Archbishop perished in the rebellion. Clearly, Riga now faces a grave crisis."
+RigaExpandSupplement.7.aa:0 "This is blatant treason!"
+
+RigaExpandSupplement.8.name:0 "The Rigan Mutiny"
+RigaExpandSupplement.8.desc:0 ""
+RigaExpandSupplement.8.aa:0 "We recognize only the authority of the Archbishopric of Riga!"
+RigaExpandSupplement.8.bb:0 "The current situation suits us just fine"
+
+RigaExpandSupplement.9.name:0 "Claim on Fennoscandia"
+RigaExpandSupplement.9.desc:0 ""
+RigaExpandSupplement.9.aa:0 "We shall embrace a new future!"
+RigaExpandSupplement.9.bb:0 "It is not yet time..."
+
+RigaExpandSupplement.10.name:0 "The Knights Hospitaller"
+RigaExpandSupplement.10.desc:0 "The full name of the Knights Hospitaller is the 'Order of Knights of the Hospital of Saint John of Jerusalem,' also known as the Knights of Saint John. It was founded in 1099. In 1113, the Papacy recognized its status as an independent order and granted it a series of economic and political privileges, such as exemption from tithes and from the authority of any secular power, answering only to the Pope.\n\nIn its early years, it was merely a charitable organization. It was not until around 1120 that the Knights Hospitaller began to operate as a military order, using force to protect pilgrims from attacks by infidels. It evolved into a significant military force within the Kingdom of Jerusalem and exerted considerable influence on its politics.\n\nDuring the Battle of Hattin in 1187, the Knights Hospitaller also committed its main forces. Due to command errors, the Christian army, including the Hospitallers and Templars, was nearly annihilated. With the end of the 'Crusade of France' in 1222, the Hospitallers received no reinforcements. Finally, in 1291, the Order abandoned Palestine, moving to Cyprus, and then to Rhodes in 1309, where they eventually lost their last territorial holdings.\n\nAccording to the terms offered by the [Root.Monarch.GetTitle][Root.Monarch.GetName], the Knights Hospitaller will receive territorial rights to the island of Gotland and will pledge fealty to the [Root.Monarch.GetTitle]. The transfer of territory does not mean the abandonment of their duties. The Knights Hospitaller shall continue their traditional mission: to protect pilgrims from infidel attacks through armed force, provide medical assistance, and safeguard trade vessels in the Baltic Sea from privateers."
+RigaExpandSupplement.10.aa:0 "Excellent"
+RigaExpandSupplement.10.aa.tt:0 "We will unlock a decision to settle the §YKnights Hospitaller§!"
+
+RigaExpandSupplement.11.name:0 "The Knights Templar"
+RigaExpandSupplement.11.desc:0 "The Knights Templar, officially known as 'The Poor Fellow-Soldiers of Christ and of the Temple of Solomon,' were founded in 1119 by the French noblemen Hugues de Payens and Godfrey de Saint-Omer. They established a monastic order based at the Al-Aqsa Mosque on the Temple Mount to protect pilgrims and attack infidels. The mosque was built on the ruins of the ancient Temple of Solomon, hence the order's name. Initially, it had nine members.\n\nIn 1129, the Roman Church convened the Council of Troyes in France, where the Pope formally recognized their status. This council was a milestone, establishing the Rule for the Knights Templar and confirming their legitimate position throughout Christendom and the supreme authority of the Papacy over them. Papal recognition further expanded the Templars' influence in Europe and legitimized their receipt of donations from Christians.\n\nThe Battle of Hattin in 1187 saw the Templars besieged by Saladin's forces, with most members either killed or wounded. That same year, Saladin captured Jerusalem. The Templars retreated, eventually reaching Cyprus and finally returning to France.\n\nIn 1221, the Templars supported a new 'French Crusade' initiated by the Dauphin, Count Louis of Artois. Although this crusade did not achieve its initial objectives, Christians still gained a foothold in North Africa. Following a series of military and diplomatic failures, the Kingdom of Tunisia ultimately fell, and the Templars lost their lands in North Africa, returning once more to France.\n\nDespite accumulating considerable wealth in the past, a stark reality is that the Templars currently hold no actual territory, rendering their actions subject to the will of others. The [Root.Monarch.GetTitle][Root.Monarch.GetName] has offered the Grand Master of the Knights Templar a proposition: to grant them territories in the Eastern European steppes in exchange for their fealty to the [Root.Monarch.GetTitle]. There, the Knights Templar can continue their mission."
+RigaExpandSupplement.11.aa:0 "Excellent"
+RigaExpandSupplement.11.aa.tt:0 "We will unlock a decision to settle the §YKnights Templar§!"
+
+RigaExpandSupplement.12.name:0 "Another Reform"
+RigaExpandSupplement.12.desc:0 "We have completed one reform. Now we should promptly embark on another."
+
+RigaExpandSupplement.13.name:0 "The Great Campaign"
+RigaExpandSupplement.13.desc:0 "The Great Campaign aims to achieve dominance over all nations in a region through a single, meticulously prepared military operation—whether by conquest, disintegration, or subjugation. This war model places extremely high demands on a nation's overall military strength, and Riga's military system is exceptionally well-suited for such war models requiring ample pre-war preparation.\nWe will sequentially select the target region and the conquest objective. When final preparations are complete, we will §Rdeclare war on all nations whose capitals are located within the campaign region, based on our chosen war goals§!. However, nations that §Ymeet any of the following conditions§! will not be declared war upon:\n\n§RIn a military alliance with you§!;\n§RGuaranteed independence by you§!;\n§RIn the same trade league as you§!;\n§RA subject nation§!;\n\nPlease choose your target carefully. §ROnce war begins, it cannot easily be stopped§!"
+RigaExpandSupplement.13.aa:0 "Begin planning"
+
+RigaExpandSupplement.14.name:0 "Plan Confirmation"
+RigaExpandSupplement.14.desc:0 "The current §YGreat Campaign§! plan is as follows:\n\nTarget Region: §R[Root.GetGreateWarArea]§!\nCampaign Requirement: §R[Root.GetGreateWarTarget]§!\n\nOnce confirmed, we can begin preparations for the impending war."
+RigaExpandSupplement.14.aa:0 "Let it begin!"
+
+RigaExpandSupplement.16.name:0 "The Protestant League"
+RigaExpandSupplement.16.desc:0 "Due to the escalating conflict between Catholics and Protestants and the political leanings of various nations, a religious war sweeping across Europe has already begun. Regardless of our past disagreements with the Emperor, we must now defend the authority of the Catholic Church!"
+RigaExpandSupplement.16.aa:0 "Take up arms!"
+
+RigaExpandSupplement.17.name:0 "Overseas Mission"
+RigaExpandSupplement.17.desc:0 "As news of the New World's discovery spreads across Europe, governments everywhere are raising funds to organize maritime expeditions, seeking greater benefits for themselves in the newly discovered lands.\n\nAlthough current technology prevents explorers from accurately measuring longitude, wooden hulls are vulnerable to shipworm, stored provisions are unsuitable for long voyages, and living conditions on board are abysmal, the dual drives of economic and political gain ensure that such exploratory ventures continue unabated.\n\nIn 1474, a group of passionate explorers petitioned the [Root.Monarch.GetTitle][Root.Monarch.GetName] to support their expedition to the New World, hoping to spread the Gospel of Christ. This group is diverse, comprising sailors, fishermen, clergy... individuals of different professions and classes united under a single goal, striving to reach the New World brimming with opportunity.\n\nAlthough long-term commercial activities have allowed Riga to accumulate considerable wealth, supporting an expedition remains a significant expense. The [Root.Monarch.GetTitle] has ample reason to refuse them—preparing ships and crew, procuring supplies, planning routes, all for a goal that could easily fail.\n\nBut if they succeed, Riga's influence could extend to even more distant lands. Providing further support through established, successful routes could spread the Gospel across the entire New World—a highly enticing outcome. Everything hinges on the level of support the [Root.Monarch.GetTitle] grants the explorers. Publicizing the expedition will attract more participants, increasing costs, but upon success, they would be better prepared to face potential dangers and various challenges...\n\nThe [Root.Monarch.GetTitle][Root.Monarch.GetName] shall make the choice."
+RigaExpandSupplement.17.aa:0 "It is God's will. We shall support them to the best of our ability!"
+RigaExpandSupplement.17.bb:0 "We will provide substantial support"
+RigaExpandSupplement.17.cc:0 "We can offer only limited support"
+
+RigaExpandSupplement.18.name:0 "Rigaeria"
+RigaExpandSupplement.18.desc:0 "A fleet flying the banner of the Bishopric of Riga appeared on the horizon of the New World, signaling that after years of preparation and voyage, this expedition had finally reached its destination.\n\nRegardless of the hardships endured along the way, the outcome was gratifying. Upon arrival, the explorers established an outpost, which would grow and flourish into a prosperous city in the years to come. Everyone performed their duties diligently. Missionary work proceeded vigorously, with missionaries extending goodwill to native tribes and spreading the Gospel of Christ among them. Knights who had crossed the vast ocean faithfully defended this newly founded land... everything was proceeding in an orderly fashion.\n\nAfter a series of discussions, a nation named 'Rigaeria' was born on this land far from Riga. Its governmental functions were exercised by a council of clergy and representatives elected every ten years, a structure termed the 'Holy Republic,' dedicated to spreading the Gospel of Christ throughout the New World.\n\nTime will determine the future of this nascent nation, but for now, the opportunities of this land belong to them."
+RigaExpandSupplement.18.aa:0 "Await good news"
+RigaExpandSupplement.18.bb:0 "This is our mission!"
+
+RigaExpandSupplement.19.name:0 "Tactical Selection"
+RigaExpandSupplement.19.desc:0 "As per convention, the War Planning Department has provided two sets of general tactical choices to guide the two crusades. Although various factors will significantly impact the battlefield during war, an overarching guiding principle remains indispensable."
+RigaExpandSupplement.19.aa:0 "We will focus on offense"
+RigaExpandSupplement.19.aa.tt:0 "When both crusades are launched, we and our subjects will gain a certain amount of §Ysige efficiency§! and other modifiers"
+RigaExpandSupplement.19.bb:0 "We will focus on defense"
+RigaExpandSupplement.19.bb.tt:0 "When both crusades are launched, we and our subjects will gain a certain amount of §Ydefensiveness§! and other modifiers"
+
+RigaExpandSupplement.20.name:0 "Logistics Planning"
+RigaExpandSupplement.20.desc:0 "In any war, logistics are a crucial component. The War Planning Department has provided us with two logistical plans, each optimizing our existing supply system from different angles."
+RigaExpandSupplement.20.aa:0 "We will focus on large-scale army operations"
+RigaExpandSupplement.20.aa.tt:0 "When both crusades are launched, we and our subjects will gain a certain amount of §Ynational supply limit§! and other modifiers"
+RigaExpandSupplement.20.bb:0 "We will focus on troop replenishment"
+RigaExpandSupplement.20.bb.tt:0 "When both crusades are launched, we and our subjects will gain a certain amount of §Yreinforce speed§! and other modifiers"
+
+RigaExpandSupplement.21.name:0 "Crossing the Vast Ocean"
+RigaExpandSupplement.21.desc:0 "Leaves bring a message:\n\nBeyond the sea, in our homeland of Riga, sails from afar have reached the horizon.\n\nOur investment has clearly exceeded expectations. Those explorers have settled in the New World and are expanding into even more distant lands.\n\nCurrently, we lack sufficient transoceanic capacity to provide them with further support. We can only guarantee their independence in diplomatic matters. Perhaps one day in the future, we can change this situation."
+RigaExpandSupplement.21.aa:0 "May they continue to thrive"
+
+RigaExpandSupplement.22.name:0 "Overseas Affairs"
+RigaExpandSupplement.22.desc:0 "With the advancement of navigation technology and the exploration of sea routes, we now finally possess the capability for transoceanic transport, allowing us to extend our influence to the New World. The previously established Rigaeria, which we supported, has already taken root in the New World. Perhaps it is time to discuss how to approach them.\n\nAccording to past agreements, we have sent our terms to Rigaeria. They may maintain their current governmental structure and enjoy autonomy in most affairs. In return, Rigaeria needs only to be our nominal vassal to receive economic support from the Archbishopric of Riga for missionary activities.\n\nRigaeria swiftly agreed to this request. The [Root.Monarch.GetTitle] must now decide whether to provide them with further economic support to accelerate Rigaeria's missionary efforts in the New World."
+RigaExpandSupplement.22.aa:0 "We will spare some effort to assist them"
+RigaExpandSupplement.22.bb:0 "We have more pressing matters"
+
+RigaExpandSupplement.23.name:0 "The Crown of Rome"
+RigaExpandSupplement.23.desc:0 "On May 11, 330 AD, the Roman Emperor Constantine I established a new capital at Byzantium, naming it Nova Roma. However, the city was commonly known as Constantinople after its founder. From the mid-4th century to the early 13th century, Constantinople was the largest and most prosperous city in all of Europe. Later, the Eastern Roman Empire gradually declined, its territory shrinking to Constantinople and its surrounding regions. By the mid-14th century, the once-great Eastern Roman Empire breathed its last after the fall of Constantinople.\n\nNow, this once-magnificent city is under our control. If we wish to maintain lasting rule over the Balkans and Anatolia, a legitimate regime is essential to stabilize our governance in these regions. The Latin Empire, established by the Fourth Crusade, presents the best option."
+RigaExpandSupplement.23.aa:0 "The Latin Empire shall be reborn here"
+
+RigaExpandSupplement.24.name:0 "The Liberation of Jerusalem"
+RigaExpandSupplement.24.desc:0 "Since the defeat at the Battle of Hattin in 1187, the situation of the Crusader banner in the Holy Land has been precarious. After the fall of Acre in 1291, Jerusalem remained under Muslim control. For centuries, various plans to recapture the Holy City ended in failure.\n\nIn the year [GetYear], Rigan forces captured Jerusalem and its surrounding areas. The [Root.Monarch.GetTitle][Root.Monarch.GetName] declared that the Holy City had returned to Christian hands. Centuries after the fall of the Kingdom of Jerusalem, the banner of Christ finally flies once again over the Holy City."
+RigaExpandSupplement.24.aa:0 "Jerusalem deserves to be rebuilt"
+
+RigaExpandSupplement.25.name:0 "On Government"
+RigaExpandSupplement.25.desc:0 "With the conclusion of the final administrative council, Riga's administrative reforms have essentially come to an end. Regardless of the twists and turns, we have achieved our intended objectives.\n\nHowever, reform is not a one-time solution. Only through continuous institutional refinement in step with the times can the most efficient and stable governance be maintained. Perhaps one day in the future, we will require an even more thorough transformation. For now, we should turn our attention to other matters."
+RigaExpandSupplement.25.aa:0 "Let us proceed to the next step"
+
+RigaExpandSupplement.26.name:0 "The Combined Fleet of All Riga and Its Bishoprics"
+RigaExpandSupplement.26.desc:0 "Historically, Riga's fleets have primarily consisted of merchant vessels for trade, with less focus on the development of heavy warships and galleys. With the dawn of the Age of Discovery, advancements in shipbuilding and growing demands for overseas exploration have prompted Riga to vigorously develop ocean-going fleets. As transoceanic trade rises, Riga's naval development must also adapt.\n\nSimilar to Riga's past army situation, each bishopric subject state maintains a relatively independent navy, with vessels of varying specifications and types built and owned locally. However, the scale of these bishopric fleets is clearly not as extensive as Riga's. Therefore, we only need to spend a certain amount of time to standardize the construction and management of all subject vessels, subsequently placing them under Riga's direct command. This will significantly enhance the overall strength of the Rigan fleet."
+RigaExpandSupplement.26.aa:0 "We shall rule the seas!"
+
+RigaExpandSupplement.27.name:0 "The Place Where the Schism Began"
+RigaExpandSupplement.27.desc:0 "In 858 AD, the Roman Emperor appointed Photios as Patriarch of Constantinople. The Pope in Rome refused to recognize this and excommunicated Photios. Photios, believing his authority was no less than the Pope's, excommunicated Pope Nicholas I in 867, marking the beginning of the rupture between the two.\n\nIn the 6th century, Spain converted to Catholicism. Without the consent of the Orthodox Church, the Spanish Church first altered the Nicene Creed phrase regarding the Holy Spirit proceeding 'from the Father' to 'from the Father and the Son.' The Orthodox Church considered this a violation of the commonly held creed, leading to prolonged dispute—the so-called 'Filioque' controversy—which was temporarily resolved. In 1014, the Pope reintroduced the 'Filioque' clause into the Nicene Creed, reigniting the conflict.\n\nIn 1054, Patriarch Michael I Cerularius of Constantinople accused the Western Church of using unleavened bread for the Eucharist. Pope Leo IX sent Cardinal Humbert and two others with a sternly worded letter to Constantinople that April, demanding negotiations over alleged heresies within the Constantinopolitan Church. Leo IX died on April 19th. Humbert and his delegation, feeling slighted in Constantinople and with Cerularius refusing to discuss the accusations, became infuriated. On July 16th, Humbert marched into the Hagia Sophia and, before a large assembly, placed a 'bull' of excommunication condemning the Eastern Church and deposing the Patriarch on the altar, then stormed out. This bull accused the Orthodox Church of harboring various heresies—Arianism, Valesianism, Donatism, Nicolaitism, simony, etc.—and announced the excommunication of Patriarch Cerularius. This greatly angered Cerularius. With the Byzantine Emperor's support, Cerularius retaliated, convening a synod at the Hagia Sophia on July 20th. He condemned and burned the Pope's letter, denounced Humbert and his envoys as 'impious men,' and declared the excommunication of the Pope and his legates, proclaiming himself the head of the Eastern Church. This marked the definitive schism between the Eastern and Western Churches.\n\nAlthough we currently control the Orthodox Church of Constantinople, healing a schism that has lasted centuries cannot be accomplished overnight. We must await a more opportune moment to complete this great task."
+RigaExpandSupplement.27.aa:0 "We have other matters to attend to"
+
+RigaExpandSupplement.28.name:0 "Journey to Jerusalem"
+RigaExpandSupplement.28.desc:0 "According to the Bible, before the Israelites settled in Jerusalem, many peoples had intermixed in this area. When the Israelites entered Canaan, a Canaanite tribe—the Jebusites—lived near Jerusalem. The Israelite tribe of Judah conquered the city of Jerusalem, and the tribe of Benjamin occupied it, coexisting peacefully with the Jebusites living within. Around 1000 BC, King David led the Israelites in conquering the city, expanding it southward, establishing it as his capital, and changing its name to Yerushalayim (Jerusalem). He also brought the Ark of the Covenant to Jerusalem and set up a tabernacle for it.\n\nDuring the First Crusade in 1099, the Crusaders' most significant victory against the Muslims in the Eastern wars was the capture of the Holy City of Jerusalem and the Lord's Holy Sepulchre. This caused an unprecedented sensation in the Western Christian world, a perfect triumph Pope Urban II could never have imagined before his death. Naturally, it was celebrated and recounted for generations throughout Christendom. Many accompanying clergy and later ecclesiastical chroniclers strove to record this event, praising Christ's power, spreading the tale as if it were a miracle. At the same time, this war and the subsequent establishment of Latin Outremer profoundly impacted the entire Eastern Mediterranean landscape, like a stone causing ripples, drawing intense attention from all sides. Byzantines, Armenians, Turks, Arabs—historians of various religious backgrounds and different statuses all wrote accounts, detailing the event for reflection and learning.\n\nAlthough fraught with difficulties, Jerusalem was not returned to Christian hands until centuries after the fall of Acre in 1291. However, having been under Muslim control for so long, many Muslims still reside within the city. Expelling the infidels would increase our authority within the Papacy, but this is not the only solution. A more moderate approach would be to pardon these infidels. This Holy City still needs to grow and prosper..."
+RigaExpandSupplement.28.aa:0 "We shall continue to build this sacred city"
+
+RigaExpandSupplement.29.name:0 "Rebuilding Antioch"
+RigaExpandSupplement.29.desc:0 "According to the Bible, Antioch was where Saint Paul first preached Christianity in a Jewish assembly. As Christianity spread, Antioch became one of the earliest four patriarchates. Located on the essential route between East and West, it was called the Pearl of the East. During the Roman Empire, Antioch was one of the Empire's most prosperous cities, with a population reaching a staggering 500,000 at its peak. However, after a major earthquake in 526 AD, the city was almost entirely destroyed, and Antioch fell into decline.\n\nOver the following centuries, Antioch changed hands multiple times but was always recaptured by Christians. Until 1268, when Baybars began its siege and captured Antioch on May 18th. Baybars ordered the city razed to the ground, all men killed, and women enslaved. The once-great city of Antioch vanished. Twenty years later, the last Crusader stronghold in Jerusalem, Acre, fell. The Crusader flags that had flown over the Christian Holy Cities for 200 years disappeared from the Near Eastern horizon.\n\nAs we raise the Crusader banners once more in the Holy Land, this sacred city deserves to regain its former prosperity."
+RigaExpandSupplement.29.aa:0 "We must press forward"
+
+RigaExpandSupplement.30.name:0 "The Revival of Alexandria"
+RigaExpandSupplement.30.desc:0 "Alexandria was founded in 332 BC, named after its founder, Alexander the Great, serving as the seat of the governor of the Egyptian province of the Macedonian Empire. After Alexander's death, the Egyptian governor Ptolemy established the Ptolemaic Dynasty here, crowning himself as Ptolemy I. Alexandria then became the capital of the Egyptian kingdom and quickly grew into the largest city in Hellenistic culture, second only to Rome in size and wealth in the ancient Western world. It was also home to the famous Lighthouse of Alexandria and the Library of Alexandria.\n\nHowever, after Egypt's Islamic rulers founded Cairo in 969 and moved the capital there, Alexandria's status gradually declined. The discovery of the Cape of Good Hope route in 1498 dealt a final blow to Alexandria's economy, and the city began to shrink in size year by year.\n\nWe have no reason to allow this once-glorious city to continue its decline. This port shall be rebuilt to greater heights."
+RigaExpandSupplement.30.aa:0 "Excellent"
+
+RigaExpandSupplement.31.name:0 ""
+RigaExpandSupplement.31.desc:0 ""
+RigaExpandSupplement.31.aa:0 ""
+RigaExpandSupplement.31.bb:0 ""
+
+RigaExpandSupplement.32.name:0 "Resource Consolidation"
+RigaExpandSupplement.32.desc:0 "The scale of Riga city has now reached an unprecedented level, yet this is not its final destination.\n\nWe are but one step away from completing this monumental project, an endeavor unparalleled in the past and unlikely to be matched in the future!"
+RigaExpandSupplement.32.aa:0 "Let us await the outcome"
+
+RigaExpandSupplement.33.name:0 "Intermezzo"
+RigaExpandSupplement.33.desc:0 "Built brick by brick over centuries, Riga has today completed its final expansion plan. The scale of this city is unprecedented and will never be surpassed. It has undeniably become the center of the world, a city that stands above all cities...\n\nThe curtain has not fallen here; now the entire world is our stage."
+RigaExpandSupplement.33.aa:0 "And Riga is ready"
+RigaExpandSupplement.33.aa.tt:0 "§RThe performance now reaches its climax§!"
+
+RigaExpandSupplement.34.name:0 "Heavenly Offensive"
+RigaExpandSupplement.34.desc:0 "The world has boundaries, and we know their limits. Beyond us, countless peoples suffer in hardship, awaiting liberation to bask in the Lord's light. We shall spread it to every corner of the world—and this is our final and most important mission."
+RigaExpandSupplement.34.aa:0 "What has been will be again, what has been done will be done again."
+RigaExpandSupplement.34.aa.tt:0 "All our non-§GRigan Chartered Trade Zone§! subjects will receive the §YHeavenly Onslaught§! modifier for §G5§! years\n"
+
+RigaExpandSupplement.35.name:0 "Entrance to the Desolate Ground"
+RigaExpandSupplement.35.desc:0 "The tide of history surges forward, all streams and rivers flow toward their eventual end.\n\nFrom the opening in 1444 to the present, Riga has journeyed for over a century, and the history before that remains vivid: After the death of Fernando III, the Christian kingdoms ultimately failed to unify, the Reconquista stalled, and Iberia remains fragmented to this day; the Golden Horde disintegrated, the Black Sea steppes were carved up by wolves, and Orthodox believers reclaimed the vast grasslands; Kievan Rus' gained freedom from the Mongols, but internal conflicts are sharp, and a civil war looms, destined to ignite flames across this land; the aftershocks of Stefan the Great's era have yet to subside in Anatolia, a great crusade was once again dismantled by the Turks, and the ruler of Edirne, like a released arrow, vows to restore the glory of the Ottoman Empire; the Serbian Empire, like a centipede that dies but does not stiffen, failed to secure lasting peace after betraying the crusade, and now war rages again in the Balkans; the Albigensian Crusade ended in failure, the Cathars established the Kingdom of Arles, joining with the northern Kingdom of Lotharingia and the rising Kingdom of England to besiege the Capetian dynasty of France, plunging it into dire straits; the Mamluk bloc ultimately fractured, the Burji dynasty holds Cairo like a tiger, perhaps able to reunify Egypt and push north into Syria...\n\nIn the relentless flow of time, we cannot change the past, so we must continue forward to write our own chapter. Perhaps one day in the future, we will gaze toward more distant horizons, with all people united—as they are now—pursuing a brighter tomorrow and answering a greater calling. Perhaps then, posterity will name the origin of it all: Shared Destiny.\n\nThe great wheel of history rolls onward, and we finally step into the Entrance to the Desolate Ground."
+RigaExpandSupplement.35.aa:0 "And the river of time shall continue to flow"
+RigaExpandSupplement.35.aa.tt:0 "@RIG §Y[RIG.GetName]§!'s content concludes here. §YThank you for playing§!\n"
+
+rigExpandAction.4.name:0 "Completed Development Goal"
+rigExpandAction.4.desc:0 "[compelete_buid_world_city_target.GetName] has achieved the development goal we set, growing from a small town into a major city. This marks a small step forward in realizing our Universal City Project."
+rigExpandAction.4.aa:0 "A journey of a thousand miles begins with a single step"
+
+rigExpandAction.5.name:0 "War Plan"
+rigExpandAction.5.desc:0 "We shall formulate a plan to prepare for the upcoming war effort. We need to select our strategic focus to maximize our advantages.\n\nThe war plan will require one year of preparation time, and upon completion, all our §Ybishopric§! and §Oknightly order§! subjects will also receive the same bonuses."
+rigExpandAction.5.aa:0 "We will focus on offense"
+rigExpandAction.5.aa.tt:0 "This will strengthen our artillery and siege efficiency"
+rigExpandAction.5.bb:0 "We will focus on defense"
+rigExpandAction.5.bb.tt:0 "This will strengthen our morale and defensiveness"
+rigExpandAction.5.cc:0 "We will wage a war of attrition"
+rigExpandAction.5.cc.tt:0 "This will increase enemy army attrition in our territories"
+rigExpandAction.5.dd:0 "Let me consider further"
+
+rigExpandAction.6.name:0 "All is Prepared"
+rigExpandAction.6.desc:0 "Our war plan is complete. All that remains is to deliver the declaration of war to our target!"
+rigExpandAction.6.aa:0 "Let us select the target"
+
+rigExpandAction.8.name:0 "Select Campaign Region"
+rigExpandAction.8.desc:0 "Please select the region where we will launch the §YGreat Campaign§!.\n\nNote: If there are no valid war targets in the region, unexpected issues may arise. §REnsure there are valid war targets with capitals in the selected region§!"
+rigExpandAction.8.aa:0 "Carpathia Region"
+rigExpandAction.8.bb:0 "Balkans Region"
+rigExpandAction.8.cc:0 "Eastern European Steppe Region"
+rigExpandAction.8.dd:0 "Russia Region"
+rigExpandAction.8.ee:0 "Scandinavia Region"
+rigExpandAction.8.ff:0 "North Germany Region"
+rigExpandAction.8.gg:0 "South Germany Region"
+rigExpandAction.8.hh:0 "Anatolia Region"
+rigExpandAction.8.ii:0 "Arabia Region"
+rigExpandAction.8.jj:0 "Persia Region"
+rigExpandAction.8.kk:0 "Egypt Region"
+rigExpandAction.8.ll:0 "Maghreb Region"
+rigExpandAction.8.ll.expand:0 "Iberia Region"
+rigExpandAction.8.mm:0 "Horn of Africa Region"
+rigExpandAction.8.nn:0 "Khorasan Region"
+rigExpandAction.8.oo:0 "Western Europe Subcontinent"
+rigExpandAction.8.pp:0 "Indian Subcontinent"
+rigExpandAction.8.qq:0 "Chinese Subcontinent"
+rigExpandAction.8.rr:0 "Amazon Subcontinent"
+rigExpandAction.8.ss:0 "Oceania Subcontinent"
+rigExpandAction.8.tt:0 "Tatar Subcontinent"
+rigExpandAction.8.uu:0 "Andean Subcontinent"
+rigExpandAction.8.vv:0 "East Indies Subcontinent"
+rigExpandAction.8.ww:0 "Central American Subcontinent"
+rigExpandAction.8.xx:0 "South Africa Subcontinent"
+rigExpandAction.8.yy:0 "Far East Subcontinent"
+rigExpandAction.8.zz:0 "North America Subcontinent"
+rigExpandAction.8.00:0 "Let me consider further"
+
+rigExpandAction.9.name:0 "Select Campaign Objective"
+rigExpandAction.9.desc:0 "We need to select an objective for our campaign.\n\nConquest of provinces is the most traditional objective, allowing us to annex all target provinces.\n\nSubjugation of nations provides a peace treaty option to vassalize the target country, but if the target's development exceeds 350, it will be replaced by Conquest of provinces.\n\nDisintegration of regions grants a 'Dismantle Nation' peace treaty, which will release all possible nations from the target country. If the target's development is below 350, it will be replaced by Conquest of provinces."
+rigExpandAction.9.aa:0 "Conquest of provinces"
+rigExpandAction.9.bb:0 "Subjugation of nations"
+rigExpandAction.9.cc:0 "Disintegration of regions"
+rigExpandAction.9.dd:0 "Return to campaign region selection"
+rigExpandAction.9.00:0 "Let me consider further"
+
+rigExpandAction.10.name:0 "Ante Bellum" # The Eve of War
+rigExpandAction.10.desc:0 "After years of preparation, we have completed everything necessary for war. Now it is time to formally declare war on our enemies!"
+rigExpandAction.10.aa:0 "Begin our great conquest!"
+
+rigExpandAction.50.name:0 "Rigan Religious Reform"
+rigExpandAction.50.desc:0 "The Renaissance laid the intellectual groundwork for religious reform, with the humanist movement challenging medieval authority.\n\nHumanists like Erasmus focused on establishing schools, printing the Bible and works of the Church Fathers, hoping to reform society and restore Christian unity by opening new fields of learning. Although they did not question traditional fundamental doctrines and even opposed schismatic activities to maintain the traditional church structure, through their study of primitive Christianity, they recognized that the contemporary church's hierarchy, secularization of the clergy, and the tedious debates of scholasticism had all deviated from the original Christian teachings, signaling the impending collapse of Christianity.\n\nA few thinkers boldly challenged traditional notions. For instance, the biblical scholar Wycliffe first proposed that the authority of the Bible surpassed that of the Pope, that only God could forgive sins, and that salvation was achieved through faith and direct communion with God. In this theological view, the status of divine authority and the visible organization of the church was greatly diminished.\n\nMartin Luther praised Wycliffe's teachings and published them in 1522, forming the blueprint for the fundamental doctrines of the Reformation. By the 14th and 15th centuries, the Bible had been translated into several languages. Coupled with the invention and application of the printing press, more people could read the Bible directly, gradually enhancing religious awareness among people everywhere.\n\nIn the year [GetYear], numerous churches and theologians in Riga engaged in a series of debates on the current state of religion. At the final council presided over by the [Root.Monarch.GetTitle][Root.Monarch.GetName], Catholicism was confirmed as the sole faith in Riga. However, on the premise of maintaining core doctrines, it was acknowledged that some compromise on certain teachings was necessary. Although this move would displease the Pope, the progress of the age constantly reminds us of the need for change; stubborn adherence to the past brings no benefit."
+rigExpandAction.50.aa:0 "We must begin to address this"
+
+rigExpandAction.20.name:0 ""
+rigExpandAction.20.desc:0 ""
+rigExpandAction.20.aa:0 ""
+
+rigExpandAction.202.tile:0 "City Expansion Completed"
+rigExpandAction.202.desc:0 "After a period of extensive construction, Riga's expansion is finally complete. The city can now sustain greater development."
+rigExpandAction.202.aa:0 "Steady progress"
+
+rigaExpandDisaster.0.name:0 "The Dawn War"
+rigaExpandDisaster.0.desc:0 "After [riga_rebel_target.GetName] announced control over Riga, loyalists to the Archbishopric of Riga both inside and outside the city protested this act of treason on multiple occasions, but without exception, they were purged and suppressed.\n\nHowever, actions such as those by [riga_rebel_target.GetName] have not eliminated opposition but instead allowed it to fester and spread in the face of increasingly clear facts. The various bishopric subject states also hold their own attitudes toward the situation—some opposing the current state, others waiting to see—all acting to maximize their own interests.\n\nYet the unrest among the Archbishopric's loyalists is merely the surface manifestation. Following two major disasters, the administrative efficiency of the Archbishopric of Riga has significantly declined. The bishopric subjects now must not only deliberate on the sovereignty of the Archbishopric but also stabilize the disrupted economic and political structures.\n\nDue to Riga's current state, the problems faced by each subject state have intensified over the past months, with various violent incidents occurring frequently. Any class, group, or individual seeking to achieve their goals has begun to act, attempting to secure the greatest benefit from this disaster. The most expedient and effective way to legitimize these benefits is to participate in the struggle over the sovereignty of the Archbishopric of Riga.\n\nThus, diverse and complex forces have begun to clash under a unified overarching objective. A massive civil war sweeping through Riga's vassal system has commenced."
+rigaExpandDisaster.0.aa:0 "This is a trial"
+rigaExpandDisaster.0.aa.tt:0 "All our subjects will also begin the disaster §YThe Dawn War§!"
+
+rigaExpandDisaster.1.name:0 "Riots"
+rigaExpandDisaster.1.desc:0 "A group of [riga_rebel_target.GetName] loyalists have incited rebellion in [riga_dawn_of_war_unrstprovince_target.GetName], aiming to sway the government toward [riga_rebel_target.GetName]. We must take necessary measures."
+rigaExpandDisaster.1.aa:0 "Crush them"
+
+rigaExpandDisaster.2.name:0 "Clashes"
+rigaExpandDisaster.2.desc:0 "The turbulent times have led various class factions to seek profit from the chaos. Such conflicts are often ultimately expressed through violence, and the victors will continue the methods they once employed."
+rigaExpandDisaster.2.aa:0 "Crush them"
+
+rigaExpandDisaster.3.name:0 "Clashes"
+rigaExpandDisaster.3.desc:0 "The turbulent times have led various class factions to seek profit from the chaos. Such conflicts are often ultimately expressed through violence, and the victors will continue the methods they once employed."
+rigaExpandDisaster.3.aa:0 "Crush them"
+
+rigaExpandDisaster.4.name:0 "Clashes"
+rigaExpandDisaster.4.desc:0 "The turbulent times have led various class factions to seek profit from the chaos. Such conflicts are often ultimately expressed through violence, and the victors will continue the methods they once employed."
+rigaExpandDisaster.4.aa:0 "Crush them"
+
+rigaExpandDisaster.5.name:0 "Clashes"
+rigaExpandDisaster.5.desc:0 "The turbulent times have led various class factions to seek profit from the chaos. Such conflicts are often ultimately expressed through violence, and the victors will continue the methods they once employed."
+rigaExpandDisaster.5.aa:0 "Crush them"
+
+rigaExpandDisaster.6.name:0 "Clashes"
+rigaExpandDisaster.6.desc:0 "The turbulent times have led various class factions to seek profit from the chaos. Such conflicts are often ultimately expressed through violence, and the victors will continue the methods they once employed."
+rigaExpandDisaster.6.aa:0 "Crush them"
+
+rigaExpandDisaster.7.name:0 "Clashes"
+rigaExpandDisaster.7.desc:0 "The turbulent times have led various class factions to seek profit from the chaos. Such conflicts are often ultimately expressed through violence, and the victors will continue the methods they once employed."
+rigaExpandDisaster.7.aa:0 "Crush them"
+
+rigaExpandDisaster.8.name:0 "Clashes"
+rigaExpandDisaster.8.desc:0 "The turbulent times have led various class factions to seek profit from the chaos. Such conflicts are often ultimately expressed through violence, and the victors will continue the methods they once employed."
+rigaExpandDisaster.8.aa:0 "Crush them"
+
+rigaExpandDisaster.100.name:0 "End Point"
+rigaExpandDisaster.100.desc:0 "As the flag over the capital of [riga_rebel_target.GetName] burned in flames, it marked the final end of the disaster that had swept through Riga.\n\nFor neither the opposition nor Riga was there a winner in this catastrophe; everything simply returned to its starting point. The Baltic region suffered immense devastation during this disaster. Both sides in the war exhausted every means to defeat the other, and ultimately, it was the common people who endured the suffering. Once prosperous cities and villages were now either reduced to smoldering ruins or looted, with corpses littering the streets...\n\nWe currently hold the instigators and those involved in this disaster, and the method of dealing with them lies in the hands of the [Root.Monarch.GetTitle][Root.Monarch.GetName]. If we handle the matter extensively, we can effectively demonstrate our authority, serving as a warning to others. However, considering the recent catastrophe, we also have ample reason to show leniency.\n\nRiga's reforms are not yet complete. Regardless of the choice the [Root.Monarch.GetTitle] makes, the past is past. Riga must continue its journey; this act has not yet reached its curtain call."
+rigaExpandDisaster.100.aa:0 "No more blood needs to be shed"
+rigaExpandDisaster.100.bb:0 "Make an example of them!"
+
+rigaExpandDisaster.200.name:0 "War in Heaven"
+rigaExpandDisaster.200.desc:0 "Throughout history, no empire has stood unshaken for millennia. Even the Eastern Roman Empire, which endured repeated devastation, has ultimately crumbled to dust.\n\nRegardless of the measures the [Root.Monarch.GetTitle][Root.Monarch.GetName] once took to prevent decline or the efforts made to resolve disputes among the bishoprics, we now face an undeniable reality: Riga's vast state machinery has developed severe malfunctions.\n\nWhen Riga's vassal system was small, central authority over the various subjects remained feasible. However, as the system expanded, the speed of information acquisition from distant subject regions continuously decreased. Moreover, various issues arose during the transmission of this information, and the cost for Riga to verify and screen such information grew increasingly high, giving rise to necessary decentralization policies. While other European nations were intensifying centralization, Riga could only expand its vassal system by continually delegating power.\n\nPast reforms may have, to some extent, prevented subordinates from overpowering superiors, but this did not permanently solve the stability of the entire vassal system. As the military and economic strength of each bishopric developed, the classes beneath them also began active maneuvers, seeking to maximize their interests in various ways. Among these participants were numerous 'ruffians'.\n\nWhen the scale was smaller, Riga could still regulate internal affairs within each subject. With territorial expansion, the actions of various separatists and religious rebels grew more severe and widespread. Violent incidents in distant bishoprics far from Riga occurred frequently and spread like wildfire. Different rebel groups within the jurisdictions of various bishoprics colluded, continuously disrupting the bishoprics' operations. Moreover, various classes within the bishoprics were restless, attempting to extract greater benefits from this vast machinery.\n\nThe problems caused by excessive and unchecked expansion extend beyond internal strife. External powers have detected that Riga is mired in internal governance conflicts, quietly awaiting the collapse of this massive administrative machine, ready to seize a share from its wreckage. For our enemies, war is a viable solution.\n\nFacing internal troubles and external threats, Riga must make its choice."
+rigaExpandDisaster.200.aa:0 "Which path to take?"
+rigaExpandDisaster.200.aa.tt:0 "During the §RWar in Heaven§!, if our §Ybishopric§! subjects' liberty desire exceeds §Y50%§!, they will §Rbreak free§! from our control and seek independence\n\nAs we must currently focus on our internal turmoil, §YRigaeria§! will be left without support, leading to §Rextremely severe§! consequences\n\nPlease ensure §Y[riga_authority_of_the_diocese.GetName]§! remains at a high level; if it falls too low, §Runforeseeable§! consequences may occur\n"
+
+rigaExpandDisaster.201.name:0 "War in Heaven"
+rigaExpandDisaster.201.desc:0 "As our overlord's control weakens day by day, unrest within our bishopric is intensifying. We must unite immediately to confront this disaster!"
+rigaExpandDisaster.201.aa:0 "War and peace, the eternal topics"
+
+rigaExpandDisaster.210.name:0 "Levantine Counterattack"
+rigaExpandDisaster.210.desc:0 "Since its conquest, separatist movements in the Mashriq region have been severe, continuously harassing normal productive activities and demanding independence.\n\nRecently, with external support, they have seized several cities and fortresses and declared independence."
+rigaExpandDisaster.210.aa:0 "We cannot tolerate such actions"
+
+rigaExpandDisaster.251.name:0 "Collapse of the [rig_subject_unrest_target.GetName] Bishopric"
+rigaExpandDisaster.251.desc:0 "Due to various reasons, internal conflicts within the [rig_subject_unrest_target.GetName] bishopric have escalated to a point where the government could no longer bear them and collapsed. State institutions have largely ceased functioning, and various separatists have occupied cities and fortresses, declaring independence.\n\nThis action severely challenges the authority of the [Root.Monarch.GetTitle][Root.Monarch.GetName]. If we cannot reclaim these territories, our prestige among the bishoprics will greatly diminish."
+rigaExpandDisaster.251.aa:0 "Crush the rebels"
+rigaExpandDisaster.251.aa.tt:0 "We will declare war on all seceded nations with §Yannexation§! as the casus belli"
+rigaExpandDisaster.251.bb:0 "We currently lack the resources..."
+
+
+rigaExpandDisaster.300.name:0 "War in Hell"
+rigaExpandDisaster.300.desc:0 "Our overlord, Riga, is engulfed in a great calamity. Rebellion has swept through Riga's entire vassal system, with conquered regions continuously declaring independence. Unrest and riots pervade all bishoprics. Exhausted by domestic turmoil, Riga can no longer provide us with any form of support. We must now rely on ourselves to overcome the coming difficulties.\n\nSince its founding, Rigaeria has established a highly autonomous republican system where each region possesses considerable military and economic self-governance, not vastly different from Riga. However, the distinction lies in how Rigaeria unites the entire nation through a 'confederation' rather than a hierarchical vassal relationship like Riga's. This has its pros and cons: the advantage is the highly efficient speed of colonization and missionary activities in unexplored territories; the disadvantage, however, is now being demonstrated 'vividly'.\n\nJust a few months ago, when news arrived that distant Riga could no longer spare any resources to support Rigaeria, domestic unrest began. Rigaeria had to cut expenses and open new revenue streams to maintain normal state operations. However, it became clear that various regions were unwilling to implement cost-cutting policies on themselves. Simultaneously, they gradually realized that seceding from the nation better served their interests, marking the beginning of Rigaeria's collapse.\n\nWithin a few short weeks, regions across Rigaeria ceased obeying the central government's control and recently declared independence. More egregiously, unsatisfied with the status quo, they turned their gaze toward Rigaeria, seeking wealth from its directly controlled areas. Under the banner of 'liberation,' they demanded the [Root.Monarch.GetTitle][Root.Monarch.GetName] immediately dissolve the Holy Republic and return all power to the people, thereby plundering the wealth of Rigaeria's churches.\n\nIn this critical moment, the [Root.Monarch.GetTitle][Root.Monarch.GetName] must make a choice."
+rigaExpandDisaster.300.aa:0 "This is our path!"
+rigaExpandDisaster.300.bb:0 "Only death marks the end of duty"
+rigaExpandDisaster.300.bb.tt:0 "§RThis is not a request but a declaration§!\n\nAll seceded nations will jointly declare war on §YRigaeria§!"
+
+RigaExpandFlavour.0.name:0 "City Log: Königsberg"
+RigaExpandFlavour.0.desc:0 "Originally, the location of Königsberg was home to several settlements established by the Old Prussians, known as Twangste. In 1255, the Teutonic Order conquered the Prussian Sambian tribe, Twangste was destroyed, and a new fortress was built on the site, named Königsberg, meaning 'King's Mountain,' in honor of the Bohemian King Ottokar II Přemysl. It was King Ottokar who funded the construction of the first castle here, Königsberg Castle. Around the new castle, three towns gradually developed along the Pregolya River: Altstadt, Kneiphof, and Löbenicht, approximately 4.5 miles from the Vistula Lagoon. The Teutonic Order used Königsberg as a base for conquering the Sambian Peninsula and fighting the Grand Duchy of Lithuania. From 1262 to 1263, Prussians revolted against the Teutonic Knights' forced religious conversion, besieging Königsberg. The fortress was ultimately relieved with the help of the Livonian Order.\n\nIn 1340, Königsberg became a member of the Hanseatic League. The city rapidly developed into a major port in the southeastern Baltic, trading goods from Prussia, the Kingdom of Poland, and the Grand Duchy of Lithuania. Between 1324 and 1330, the writer Peter of Dusburg likely composed his masterwork, the Chronicon terrae Prussiae, in Königsberg. Despite suffering a devastating defeat at the Battle of Grunwald, Königsberg remained under Teutonic control throughout the Polish-Lithuanian-Teutonic War. However, the Livonian Order took over the defense of Königsberg and participated in the reconstruction of towns occupied by the forces of Władysław II Jagiełło.\n\nAs military conflicts in the Teutonic Order's heartland diminished, Königsberg began to expand its urban areas outward, seeking faster development. The surrounding economy also began to grow under its influence."
+RigaExpandFlavour.0.aa:0 "Excellent"
+
+RigaExpandFlavour.1.name:0 "Marienburg"
+RigaExpandFlavour.1.desc:0 "In 1274, after suppressing the 'Great Prussian Uprising,' the Teutonic Order began constructing a high castle, with work continuing into the early 14th century. Upon completion, the high castle served as an integrated complex for both religious and defensive purposes, unique among contemporary European castle architecture, thus becoming a model for later castles built by the Order. In 1309, the Grand Master of the Order moved its headquarters from Venice to Marienburg, initiating a new phase of castle construction. Gradually, a middle castle was built around Marienburg, roughly square in shape, consisting of three connected buildings surrounding a square courtyard. The northwest side housed the Grand Master's Palace and the Knights' Hall, the northeast side contained the entrance and guest reception area, the southeast side accommodated guest quarters, and the fourth side opened toward the high castle, accessible via a passageway. Simultaneously, Marienburg underwent extensive renovations, expanding in area and increasing in overall height.\n\nThis castle currently covers an area four times that of Windsor Castle and can accommodate approximately 3,000 members of the Order. By area, Marienburg ranks among the world's largest European-style castles and is Europe's largest brick-built structure. As the Teutonic Order's headquarters continued to expand, further enlargement of this castle was planned. Although Marienburg remained primarily a military facility, due to the Order's growing size and the decreasing frequency of local conflicts, various industries gradually developed around the castle. Supported by merchants arriving via the port of Danzig, the Marienburg region gradually prospered."
+RigaExpandFlavour.1.aa:0 "Excellent"
+
+RigaExpandFlavour.3.name:0 "City Log: Vilnius"
+RigaExpandFlavour.3.desc:0 "The Vilnius region has been inhabited since ancient times, located at the confluence of the Vilnia and Neris rivers. It is believed the name Vilnius derives from the Vilnia River that flows through the city. In 1323, the Grand Duchy of Lithuania established its capital in Vilnius. The city was first mentioned in records in 1323, when Grand Duke Gediminas wrote to German cities inviting Germans and Jews to settle in the capital.\n\nAfter Riga established its governance, the city quickly built walls and rapidly developed, leveraging Riga's influence in Baltic trade. The Vilnius Jesuit University was founded. The city became highly active politically, economically, and socially. Due to its location at the junction of Eastern Europe and the Baltic, after relaxing immigration policies, Vilnius saw a large influx of immigrant groups, each contributing uniquely to the city's life, fostering prosperity in handicrafts, trade, and science.\n\nAlthough under a theocratic government, Lithuania maintained a remarkably tolerant attitude toward various religions. Vilnius is not only a multicultural city but also a multi-religious one, earning the well-known nickname 'the Jerusalem of Lithuania.' Several other religious communities also developed within the city, and Vilnius provided sanctuary to religious refugees from other regions."
+RigaExpandFlavour.3.aa:0 "Excellent"
+
+RigaExpandFlavour.4.name:0 "City Log: Danzig"
+RigaExpandFlavour.4.desc:0 "The city's name was established only after the investiture of Saint Adalbert in 997 AD. In the local Kashubian language, it is called Gduńsk, but due to the predominance of Germans in the city, the German name Danzig was also widely used.\n\nDanzig lies to the north, bordering the Gulf of Danzig, a semi-circular bay in the southeastern Baltic Sea, partly separated from the main Baltic by the Hel Peninsula. The Vistula River flows into the gulf, branching into many distributaries at its mouth. The city of Danzig is situated on both banks of one such distributary, the Motława River, on the left bank of the main Vistula channel. The riverbanks were the birthplace of this port city.\n\nSome scholars believe Danzig Fortress was established by Polish King Mieszko I in the 980s, while others consider 997 as the city's founding date because that year, Polish King Bolesław I the Brave sent Saint Adalbert of Prague to baptize the inhabitants of Danzig. The Duke of Pomerania's coat of arms subsequently marked Danzig as a major center under the rule of the Pomeranian dukes, a Polish fragmented duchy. The most notable duke was Świętopełk II, who granted Danzig its municipal charter around 1235 when the city had 2,000 inhabitants. By 1308, Danzig had developed into a prosperous trading city with 10,000 residents—a population size few cities could match at the time. On November 13, 1308, the Teutonic Order conquered and destroyed this thriving city, perpetrating the Danzig Massacre. This massacre led to the city's decline and sparked a series of wars between the Teutonic Knights and Poland until the Treaty of Kalisz in 1343, where the Teutonic Order acknowledged that the Pomeranian lands they occupied were held as a 'fief' from the Polish king. Despite lingering legal disputes over territorial ownership, this agreement ultimately confirmed Danzig's municipal status in 1343 and developed the trade route for Polish grain imports via the Vistula River. During the period of Teutonic control, the city's size and trade recovered and expanded, and German influence increased. In 1361, Danzig became a member of the Hanseatic League and served as the chief city of the Prussian and Livonian circles within the League, trading with Prussia, the Teutonic Order's territories along the eastern Baltic coast, Poland, and Sweden.\n\nSubsequently, Danzig changed hands repeatedly between the Kingdom of Poland and the Teutonic Order until the complete fragmentation of the Polish kingdom ended the century-long conflict over Danzig. For centuries since the Hanseatic era, Danzig has remained a vital shipping and trading center along the Baltic coast. Although it declined several times during various wars, it has always leveraged its geographical advantages to restore its former prosperity shortly after each decline. We should continue to develop and improve this city."
+RigaExpandFlavour.4.aa:0 "Excellent"
+
+
+RigaExpandFlavour.100.name:0 "Overview of Rigan Subject Bonuses"
+RigaExpandFlavour.100.desc:0 "All §Ybishopric§! subjects of Riga (except §TOverseas Bishoprics§!) grant the overlord the following modifiers:\n§R-0.5§! yearly prestige\n§G+0.5§! yearly papal influence\n\nBonuses granted by other subject types can be viewed by selecting from the options below. Riga must remain §Ra city-state§! to benefit from subject bonuses and the subjects' own modifiers."
+RigaExpandFlavour.100.aa:0 "§GRigan Chartered Trade Zone§!"
+RigaExpandFlavour.100.bb:0 "§YEpiscopal Administrative Region§!"
+RigaExpandFlavour.100.cc:0 "§MEpiscopal Economic Region§!"
+RigaExpandFlavour.100.dd:0 "§REpiscopal Military District§!"
+RigaExpandFlavour.100.ee:0 "§OKnightly Order§!"
+RigaExpandFlavour.100.ff:0 "§TOverseas Bishopric§!"
+RigaExpandFlavour.100.00:0 "Exit"
+
+RigaExpandFlavour.101.name:0 "Rigan Chartered Trade Zone"
+RigaExpandFlavour.101.desc:0 "Each §GRigan Chartered Trade Zone§! grants the overlord the following modifiers:\n§G+2%§! trade efficiency\n§G+1%§! trade steering\n§G+12§! yearly tax income\n§G+2%§! production efficiency\n§G+1%§! global goods produced\n\n"
+RigaExpandFlavour.101.aa:0 "Return"
+
+RigaExpandFlavour.102.name:0 "Episcopal Administrative Region"
+RigaExpandFlavour.102.desc:0 "Each §YEpiscopal Administrative Region§! grants the overlord the following modifiers:\n§G+15%§! production efficiency\n§G+5%§! land force limit modifier\n§R-15%§! tax income\n§R-15%§! national manpower\n§R-15%§! trade efficiency\n\n"
+RigaExpandFlavour.102.aa:0 "Return"
+
+RigaExpandFlavour.103.name:0 "Episcopal Economic Region"
+RigaExpandFlavour.103.desc:0 "Each §MEpiscopal Economic Region§! grants the overlord the following modifiers:\n§G+0.3§! global goods produced modifier\n§G+2%§! global goods produced\n§G+10%§! national manpower\n§G+10%§! tax income\n§G+1§! merchant\n§R-15%§! global trade power\n§R-10%§! production efficiency\n\n"
+RigaExpandFlavour.103.aa:0 "Return"
+
+RigaExpandFlavour.104.name:0 "Episcopal Military District"
+RigaExpandFlavour.104.desc:0 "Each §REpiscopal Military District§! grants the overlord the following modifiers:\n§G+5%§! national manpower\n§R-15%§! land force limit modifier\n§R-10%§! tax income\n\n"
+RigaExpandFlavour.104.aa:0 "Return"
+
+RigaExpandFlavour.105.name:0 "Knightly Order"
+RigaExpandFlavour.105.desc:0 "Each §OKnightly Order§! grants the overlord the following modifiers:\n§G+0.25%§! yearly army professionalism\n§G+10%§! defensiveness\n§G+0.5§! yearly prestige\n§R-0.5§! yearly papal influence\n§R+10%§! land maintenance modifier\n§R-24§! yearly tax income\n\n"
+RigaExpandFlavour.105.aa:0 "Return"
+
+RigaExpandFlavour.106.name:0 "Overseas Bishopric"
+RigaExpandFlavour.106.desc:0 "Each §TOverseas Bishopric§! grants the overlord the following modifiers:\n§G+3§! merchant\n§G+25%§! global trade power\n§R-25%§! national manpower\n§R-25%§! national sailors\n\n"
+RigaExpandFlavour.106.aa:0 "Return"
+
+estate_privileges_and_agendas_events.3.00:0 "§OKnightly Order§! Agenda"

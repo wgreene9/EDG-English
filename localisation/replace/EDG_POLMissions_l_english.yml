@@ -1,0 +1,36 @@
+﻿l_english:
+EDG_MAZ_mission_1_1_title:0 "A Tree Maketh Not a Forest" # A Lone Tree Cannot Make a Forest
+EDG_MAZ_mission_1_1_desc:0 "The situation among the West Slavs is intricate and complex. The Piast dynasty stands alone, hard-pressed in the political storm. We must seek external support."
+
+EDG_MAZ_mission_1_3_title:0 "Expand the Estates"
+EDG_MAZ_mission_1_3_desc:0 "The vast lands of Poland are not lacking in fertile farmland. Well-managed estates provide the nation with ample manpower and gold. It is time to focus on restoring production."
+EDG_MAZ_mission_1_3.effect.tt:0 "§YAll provinces§! fulfilling the mission conditions gain the following §Geffects§!"
+
+EDG_MAZ_mission_2_2_title:0 "The Fate of the Defectors"
+EDG_MAZ_mission_2_2_desc:0 "Duke Siemowit III of Greater Poland, unwilling to accept the leadership of the Polish King, attempts to seek autonomy by siding with the German Emperor. We will make an example of him, crushing the ambitions of the defectors."
+
+EDG_MAZ_mission_3_1_title:0 "The Calamity of Varna"
+EDG_MAZ_mission_3_1_desc:0 "The unfortunate demise of Władysław has left Poland divided and disloyal. Factions of all stripes covet the vacant throne. Mazovia, caught in the whirlpool, can no longer remain aloof. Let us follow the guidance of fate."
+EDG_MAZ_mission_3_1.trigger.tt:0 "We have made our choice in the §Tevent§! 'The Name Falls Short of the Reality'"
+EDG_MAZ_mission_3_1.effect.tt:0 "Receive §Ydifferent rewards§! based on our choice in the §Tevent§! 'The Name Falls Short of the Reality'"
+
+EDG_MAZ_mission_3_2_title:0 "Recover Kraków"
+EDG_MAZ_mission_3_2_desc:0 "The vacant crown lies unclaimed. The court of Kraków needs a new master. Let us utilize the legacy of the Piast dynasty to reclaim the kingdom's center of power."
+
+EDG_MAZ_mission_3_3_title:0 "The Name Matches Reality" # The Name Matches the Reality
+EDG_MAZ_mission_3_3_desc:0 "The Piast dynasty has united and led the kingdom for centuries. The Polish Crown shall regain its vitality in the hands of the Prince of Mazovia. We will heal the division and end the succession crisis."
+EDG_MAZ_mission_3_3.effect.tt:0 "§GRemove§! the §Tcores§! of §Yother countries§! from all provinces in the §YPolish§! region under our rule!"
+
+EDG_MAZ_mission_3_4_title:0 "The Polish Crown"
+EDG_MAZ_mission_3_4_desc:0 "The threat of heretics, the conspiracies of rebels.\n\nAll vanish before the King.\n\nHark, brave warriors,\n\nThe war drums are sounding.\n\nAs long as we still live, Poland shall not perish."
+
+EDG_MAZ_mission_4_2_title:0 "The End of the Unbelievers"
+EDG_MAZ_mission_4_2_desc:0 "The nobles of Lesser Poland have used the ideas of Jan Hus to deceive the people, attempting to wield power on God's land through heretical doctrines. Poland's sacred traditions cannot be profaned. We shall judge the crimes of the unbelievers."
+
+EDG_MAZ_mission_5_1_title:0 "Military Preparations"
+EDG_MAZ_mission_5_1_desc:0 "A regime without an army cannot command the respect of others. Only by resorting to force can we seek a sliver of survival amidst encircling wolves."
+
+EDG_MAZ_mission_5_3_title:0 "Noble Obligation"
+EDG_MAZ_mission_5_3_desc:0 "The Szlachta have enjoyed the King's favor in the past. Loyalists are willing to fulfill their military obligations when necessary. In these troubled times, it is time to demand aid from the nobility."
+
+

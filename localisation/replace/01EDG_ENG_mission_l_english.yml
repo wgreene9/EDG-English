@@ -229,7 +229,7 @@ EDG_ENG_mission_4_13_royal_strength_4_tt:0 "When §YPlantagenet Royal Authority�
 EDG_ENG_mission_4_13_a_yes_tt:0 "£yes£If §Y[248.GetName]§! is owned by us and is our §YFull Core§!, then:"
 EDG_ENG_mission_4_13_a_no_tt:0 "£no£If §Y[248.GetName]§! is owned by us and is our §YFull Core§!, then:"
 
-EDG_defender_of_faith_claim_provide_strength_tt_1:0 "After completing this mission, when we claim the title of §YDefender of the Faith§!, we will immediately gain §M100§! §YAdministrative Power§! £adm£, §M100§! §YDiplomatic Power§! £dip£, and §M100§! §YMilitary Power§! £mil£, and receive a permanent modifier equivalent to the following:\n——§YTolerance of the True Faith§! §G+1§!\n\n§RWarning§!: If we have already claimed the title of §YDefender of the Faith§! before completing this mission, the above rewards will be void."
+EDG_defender_of_faith_claim_provide_strength_tt_1:0 "After completing this mission, when we claim the title of §YDefender of the Faith§!, we will immediately gain §M100§! §YAdministrative Power§! £adm£, §M100§! §YDiplomatic Power§! £dip£, and §M100§! §YMilitary Power§! £mil£, and receive a permanent modifier equivalent to the following:\n —§YTolerance of the True Faith§! §G+1§!\n\n§RWarning§!: If we have already claimed the title of §YDefender of the Faith§! before completing this mission, the above rewards will be void."
 EDG_ENG_mission_4_14_unlock_decision_1_tt:0 "Unlock §YDecision§!: §MEstablish the Diocese of Canterbury§!"
 EDG_ENG_mission_4_14_unlock_decision_2_tt:0 "Unlock §YDecision§!: §MEstablish the Diocese of Westminster§!"
 EDG_ENG_mission_4_14_unlock_decision_3_tt:0 "Unlock §YDecision§!: §MEstablish the Diocese of Gloucester§!"

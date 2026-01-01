@@ -1,0 +1,268 @@
+﻿l_english:
+#trigger
+EDG_great_power_rank_1_tooltip:0 "Great Power rank is §Y1§!"
+EDG_India_religion_conflict_flag:0 "Indian Religious Conflict"
+#Trigger for being an Iberian homeland country
+EDG_IBR_conflict_trigger_tooltip:0 "Is an existing or formable §YIberian§! nation at the start of the game"
+
+#Iberia will enter xx state
+EDG_flavor_IBR_badahuosi_tiaoyue_flag:0 "Muslims successfully signed the §Y'Pact of Batalyaws'§!."
+EDG_flavor_IBR_badahuosi_tiaoyue_flag_tooltip:0 "Muslims successfully signed the §Y'Pact of Batalyaws'§!."
+EDG_flavor_IBR_badahuosi_tiaoyue_flag_2_tooltip:0 "Muslims failed to sign the §Y'Pact of Batalyaws'§!."
+EDG_flavor_IBR_laiang_tiaoyue_flag:0 "Christians successfully signed the §Y'Pact of León'§!."
+EDG_flavor_IBR_laiang_tiaoyue_flag_tooltip:0 "Christians successfully signed the §Y'Pact of León'§!."
+EDG_flavor_IBR_laiang_tiaoyue_flag_2_tooltip:0 "Christians failed to sign the §Y'Pact of León'§!."
+
+set_EDG_IBR_religion_conflict_situation_1.tt:0 "§Y'The Iberian Struggle'§! will enter a state of §Y'Enforced Peace'§!."
+set_EDG_IBR_religion_conflict_situation_2.tt:0 "§Y'The Iberian Struggle'§! will enter a state of §Y'Detente'§!."
+set_EDG_IBR_religion_conflict_situation_3.tt:0 "§Y'The Iberian Struggle'§! will enter a state of §R'Tension'§!."
+set_EDG_IBR_religion_conflict_situation_4.tt:0 "§Y'The Iberian Struggle'§! will enter a state of §R'Conflict'§!."
+set_EDG_IBR_religion_conflict_situation_5.tt:0 "§Y'The Iberian Struggle'§! will enter a state of §R'Deadlock'§!."
+#Global modifiers for the Iberian xx state
+EDG_flavor_IBR_religion_conflict_situation_1:0 "§Y'The Iberian Struggle'§! state is §Y'Enforced Peace'§!"
+EDG_flavor_IBR_religion_conflict_situation_2:0 "§Y'The Iberian Struggle'§! state is §Y'Detente'§!"
+EDG_flavor_IBR_religion_conflict_situation_3:0 "§Y'The Iberian Struggle'§! state is §R'Tension'§!"
+EDG_flavor_IBR_religion_conflict_situation_4:0 "§Y'The Iberian Struggle'§! state is §R'Conflict'§!"
+EDG_flavor_IBR_religion_conflict_situation_5:0 "§Y'The Iberian Struggle'§! is in the §R'Deadlock'§! state"
+EDG_flavor_IBR_badahuosi_tiaoyue_flag:0 "The §Y'Pact of Batalyaws'§! has been signed"
+#Global modifier buffs for the Iberian xx state
+EDG_flavor_IBR_badahuosi_tiaoyue_modifier:0 "§Y'Pact of Batalyaws'§!"
+EDG_flavor_IBR_laiang_tiaoyue_modifier:0 "§Y'Pact of León'§!"
+EDG_flavor_IBR_badahuosi_tiaoyue_modifier_desc:0 "We have signed a pact to defend against the heathens, enhancing our military capabilities."
+EDG_flavor_IBR_laiang_tiaoyue_modifier_desc:0 "We have signed a pact to defend against the heathens, enhancing our military capabilities."
+EDG_flavor_IBR_religion_conflict_situation_1_modifier:0 "§Y'The Iberian Struggle'§! state is §Y'Enforced Peace'§!"
+EDG_flavor_IBR_religion_conflict_situation_2_modifier:0 "§Y'The Iberian Struggle'§! state is §Y'Detente'§!"
+EDG_flavor_IBR_religion_conflict_situation_3_modifier:0 "§Y'The Iberian Struggle'§! state is §R'Tension'§!"
+EDG_flavor_IBR_religion_conflict_situation_4_modifier:0 "§Y'The Iberian Struggle'§! state is §R'Conflict'§!"
+EDG_flavor_IBR_religion_conflict_situation_5_modifier:0 "§Y'The Iberian Struggle'§! is in the §R'Deadlock'§! state"
+EDG_flavor_IBR_religion_conflict_situation_1_modifier_desc:0 "The nations of Iberia demand a prohibition on warfare; any act of initiating war will be deemed unjust."
+EDG_flavor_IBR_religion_conflict_situation_2_modifier_desc:0 "The situation on the Iberian Peninsula remains in a state of detente, where peoples of different faiths coexist relatively harmoniously."
+EDG_flavor_IBR_religion_conflict_situation_3_modifier_desc:0 "The situation on the Iberian Peninsula has become tense; nations are mobilizing their armies, wary of the outbreak of war, or preparing to wage war themselves."
+EDG_flavor_IBR_religion_conflict_situation_4_modifier_desc:0 "Major conflict has erupted on the Iberian Peninsula. Trust between different nations has broken down, borders are being sealed, and all are preoccupied with military operations."
+EDG_flavor_IBR_religion_conflict_situation_5_modifier_desc:0 "An immensely deadlocked confrontation has persisted on Iberian soil for a long time. Iberia has entered an unprecedented state of tension. Locals have torn off their masks of civility, ruthlessly oppressing local heathens. Nations have fallen into a degree of chaos, impacting social stability and the exchange of advanced ideas. State institutions have funneled most resources into the military, leaving them incapable of pursuing other developments."
+
+#State Escalation or De-escalation
+effect_IBR_conflict_situation_upgrade_tooltip:0 "We wish for the state of §Y'The Iberian Struggle'§! to become more §R'Confrontational'§!."
+effect_IBR_conflict_situation_Demote_tooltip:0 "We wish for the state of §Y'The Iberian Struggle'§! to become more §Y'Peaceful'§!."
+
+#They will vote
+the_will_IBR_conflict_vote_tooltip:0 "They will vote"
+#The End of the Iberian Struggle
+IBR_conflict_end_flag:0 "§Y'The Iberian Struggle'§! Ends"
+set_EDG_IBR_conflict_end_flag_4.tt:0 "§Y'The Iberian Struggle'§! will end."
+#Modifiers
+EDG_flavor_IBR_religion_conflict_1_modifier:0 "Religious Hostility"
+EDG_flavor_IBR_religion_conflict_2_modifier:0 "Religious Tolerance"
+EDG_flavor_IBR_religion_conflict_1_modifier_desc:0 "We have shown cruelty towards heathens, which has greatly displeased them both at home and abroad."
+EDG_flavor_IBR_religion_conflict_2_modifier_desc:0 "We have shown tolerance towards heathens, which has earned us their gratitude both at home and abroad."
+EDG_flavor_IBR_religion_conflict_val_modifier:0 "El Cid's Legacy"
+EDG_flavor_IBR_religion_conflict_val_modifier_desc:0 "We vow to avenge El Cid, which has greatly stirred our military fervor."
+EDG_flavor_IBR_religion_conflict_val_modifier_tooltip:0 "For the next ten years, when at war with heathen nations, manpower recovery will be increased to 300% of the normal rate."
+
+#Events
+# Ending the Iberian Struggle
+EDG_flavor_IBR_religion_conflict.0.t:0 "The End of §Y'The Iberian Struggle'§!."
+EDG_flavor_IBR_religion_conflict_desc_0.1:0 "Muslims and Christians have been in conflict in Iberia for centuries. Since the Arab invasion of the Iberian Peninsula in 711, the native Visigoths fled to the north of the peninsula. Subsequently, kingdoms such as Asturias, Navarre, Aragon, and Castile were established in the northern regions. These kingdoms sometimes united and sometimes split, advancing southward from the Cantabrian Mountains and the Pyrenees in northern Spain to launch the Reconquista—a movement to expel the Arabs and reclaim lost territory.\n\nIn 718, King Pelayo of the Kingdom of Asturias clashed with the invading Arabs at the Battle of Covadonga. In the eastern part of the Iberian Peninsula, the kingdoms of Navarre, Aragon, and Catalonia also waged their struggles for the Reconquista, yet decisive victory remained elusive.\n\nFernando III, a great ruler who had the potential to destroy the southern Taifa kingdoms, died prematurely in 1235, failing to achieve his grand ambition. Moreover, due to sharp internal conflicts, weak royal authority, and succession disputes, the United Kingdom of León-Castile ultimately dissolved into the three kingdoms of Galicia, Asturias, and Castile, which would experience constant friction in the years to come.\n\nThe Reconquista long failed to achieve significant results. In 1403, a Christian coalition army was formed to attack the Taifa of Córdoba, only to be defeated at Córdoba, with King João I of Valencia even losing his life there. Meanwhile, the Muslims also found it difficult to return to the north of Iberia.\n\nUntil today, in the year $YEAR$, [Root.Monarch.GetTitle][Root.Monarch.GetName] has successfully unified the peninsula and brought an end to the long-standing conflict. The great achievements of [Root.Monarch.GetName] are destined to be remembered by all the people of Iberia."
+EDG_flavor_IBR_religion_conflict_desc_0.2:0 "Muslims and Christians have been in conflict in Iberia for centuries. Since the Arab invasion of the Iberian Peninsula in 711, the native Visigoths fled to the north of the peninsula. Subsequently, kingdoms such as Asturias, Navarre, Aragon, and Castile were established in the northern regions. These kingdoms sometimes united and sometimes split, advancing southward from the Cantabrian Mountains and the Pyrenees in northern Spain to launch the Reconquista—a movement to expel the Arabs and reclaim lost territory.\n\nIn 718, King Pelayo of the Kingdom of Asturias clashed with the invading Arabs at the Battle of Covadonga. In the eastern part of the Iberian Peninsula, the kingdoms of Navarre, Aragon, and Catalonia also waged their struggles for the Reconquista, yet decisive victory remained elusive.\n\nFernando III, a great ruler who had the potential to destroy the southern Taifa kingdoms, died prematurely in 1235, failing to achieve his grand ambition. Moreover, due to sharp internal conflicts, weak royal authority, and succession disputes, the United Kingdom of León-Castile ultimately dissolved into the three kingdoms of Galicia, Asturias, and Castile, which would experience constant friction in the years to come.\n\nThe Reconquista long failed to achieve significant results. In 1403, a Christian coalition army was formed to attack the Taifa of Córdoba, only to be defeated at Córdoba, with King João I of Valencia even losing his life there. Meanwhile, the Muslims also found it difficult to return to the north of Iberia.\n\nUntil today, Iberia remains divided. However, the era of religious conflict has passed. A new dawn shines upon the land of Iberia, and religious strife no longer holds the scorching allure it once did."
+EDG_flavor_IBR_religion_conflict.0.b:0 "It is destined."
+EDG_flavor_IBR_religion_conflict.0.a:0 "By the grace of the Holy Lord, [Root.Monarch.GetTitle] [Root.Monarch.GetName]!"
+
+FOICommonEvents.0.name:0 "Crusade of Tulaytulah"
+FOICommonEvents.0.aa:0 "The flames of war reignite."
+    #The Great Upheaval
+EDG_flavor_IBR_religion_conflict.1.t:0 "The Great Upheaval"
+EDG_flavor_IBR_religion_conflict.1.d:0 "While the Christian kings of the north were embroiled in internal strife, with the Marinids putting up stubborn resistance in northern Morocco, the Almohad Caliphate, caught in civil war, saw its influence increasingly confined to the outskirts of Marrakesh. The hereditary governors initially appointed to rule Iberian territories scrambled to declare independence one after another. Once again, hegemony from Africa crumbled to dust in Iberia. Although the governors had once signed a mutual defense pact vowing "eternal peace among themselves," the seeds of discord sprouted with a force no mere document could restrain. Iberia once again entered an era of warring states. In the eyes of later historians, the first half of the 13th and 14th centuries became known as the "Third Taifa Period." Throughout these 150 years, border conflicts between Christians and Muslims never fully ceased. The most significant among them was a grand offensive against Lisbon launched by the King of Portugal and the King of Asturias. However, due to overextension, they were ambushed by Muslims south of Coimbra, and the campaign ultimately came to naught.\n\nAs the Cathar forces steadily consolidated and grew stronger in southern France, and Catholic states grew increasingly weary of the very concept of crusades, the lands south of the Pyrenees gradually evolved into a relatively independent "small world," somewhat detached from the wider Catholic sphere. Although external interference occurred from time to time, it ultimately failed to alter the strategic stalemate between the two sides.\n\nYet, when King Ignacio III of Asturias launched a crusade against Tulaytulah, the flames of the Iberian Struggle were reignited once more."
+EDG_flavor_IBR_religion_conflict.1.a:0 "The nations shall burn."
+FOICommonEvents_0_a_tt:0 "Based on historical setup, the Kingdom of @ASU§YAsturias§! will be at war with the §YTulaytulah§! Taifa in 1444.\n\n§YIberia§! follows the special §Y'Iberian Struggle'§! mechanic. Nations cannot §Rdeclare war independently§!, and warring parties are forced into §Rseparate peaces§!, preventing them from calling in allies.\n\nAll member states within the Struggle §Yshare§! the initial mission tree, with unified progress. They also possess special §Gpowerful bonuses§! when at §Gpositive stability§!.\n\nNon-Iberian nations are advised not to §Yannex§! Iberian provinces while the Struggle is ongoing, or you will be forced into §Rseparate war§! with Struggle nations that possess powerful bonuses.\n\nAfter §Yunification§! is achieved in Iberia, the unifier will face the §Y'Great Iberian Famine'§!, which will significantly weaken the nation's power."
+
+    #The Treaty of Tulaytulah
+EDG_flavor_IBR_religion_conflict.2.t:0 "The Treaty of Tulaytulah"
+EDG_flavor_IBR_religion_conflict.2.d:0 "The multi-faceted war centered around Asturias, Batalyaws, and Tulaytulah has finally ended. This conflict strained the nerves of everyone on the Iberian Peninsula, with people across the nations debating its implications. A single war itself may not have such immense influence, but it has left us all troubled about Iberia's future geopolitics. To address this, a conference is being convened in Tulaytulah. All Iberian nations are eligible to vote and reach a consensus."
+EDG_flavor_IBR_religion_conflict.2.a:0 "We will not be cowards!"
+EDG_flavor_IBR_religion_conflict.2.b:0 "We desire peace for Iberia."
+
+EDG_flavor_IBR_religion_conflict.3.t:0 "The Treaty of Tulaytulah"
+EDG_flavor_IBR_religion_conflict.3.d:0 "The multi-faceted war centered around Asturias, Batalyaws, and Tulaytulah has finally ended. This conflict strained the nerves of everyone on the Iberian Peninsula, with people across the nations debating its implications. A single war itself may not have such immense influence, but it has left us all troubled about Iberia's future geopolitics. To address this, a conference is being convened in Tulaytulah. All Iberian nations are eligible to vote and reach a consensus."
+EDG_flavor_IBR_religion_conflict.3.a:0 "We will not be cowards!"
+EDG_flavor_IBR_religion_conflict.3.b:0 "We desire peace for Iberia."
+
+EDG_flavor_IBR_religion_conflict.4.t:0 "The Treaty of Tulaytulah"
+EDG_flavor_IBR_religion_conflict.4.d:0 "The conference held in Tulaytulah has concluded. In this assembly, all Iberian nations were eligible to vote and have reached a consensus. This will change the situation on the Iberian Peninsula."
+EDG_flavor_IBR_religion_conflict.4.a:0 "Regardless, we shall be prepared."
+
+EDG_flavor_IBR_religion_conflict_5_bonus_1_tooltip:0 "If the vote passes to make the §Y'Iberian Struggle'§! state more §R'Confrontational'§!, we will receive §YMilitary Power§! and §YArmy Tradition§!."
+EDG_flavor_IBR_religion_conflict_5_bonus_2_tooltip:0 "If the vote passes to make the §Y'Iberian Struggle'§! state more §R'Confrontational'§!, we will receive §YDiplomatic Power§! and §YStability§!."
+
+
+    #The Council of Toledo
+EDG_flavor_IBR_religion_conflict.5.t:0 "The Council of [219.GetName]"
+EDG_flavor_IBR_religion_conflict.5.d:0 "[219.GetName] is the heart of Iberia and has long been its front line. For the past two hundred years, [219.GetName] has stood at the very forefront where Muslim and Christian powers confront each other. But today, what emerges from [219.GetName] is not the call of war, but streams of messengers. After [219.GetName] was chosen as the venue for this general Iberian assembly, [Root.Monarch.GetTitle][Root.Monarch.GetName] heightened the city's security alert level. A month ago, guards began patrolling fixed points on every major thoroughfare of the city.\n\nOn the morning of the day the conference was set to begin, [Root.Monarch.GetTitle][Root.Monarch.GetName] paced restlessly in his court. The Court of Toledo was draped with silks from Valencia, and the air was thick with intoxicating incense from Athens. The master of the court, [Root.Monarch.GetTitle][Root.Monarch.GetName], seemed to try to display his strength through opulent decorations, but all external forms could not conceal the worry in his heart.\n\nThis assembly was about to shape the situation of all Iberia for the next two decades, and its direction remained shrouded in dense clouds of uncertainty."
+EDG_flavor_IBR_religion_conflict.5.a:0 "The dark clouds shall be torn asunder by the blazing sun."
+EDG_flavor_IBR_religion_conflict.5.b:0 "Winds blow, rains pass, and the flames of war shall die down."
+
+EDG_flavor_IBR_religion_conflict.6.t:0 "The Council of [219.GetName]"
+EDG_flavor_IBR_religion_conflict.6.d:0 "[219.GetName] is the heart of Iberia and has long been its front line. For the past two hundred years, [219.GetName] has stood at the very forefront where Muslim and Christian powers confront each other. But today, what emerges from [219.GetName] is not the call of war, but streams of messengers. After [219.GetName] was chosen as the venue for this general Iberian assembly, [Root.Monarch.GetTitle][Root.Monarch.GetName] heightened the city's security alert level. A month ago, guards began patrolling fixed points on every major thoroughfare of the city.\n\nOn the morning of the day the conference was set to begin, [Root.Monarch.GetTitle][Root.Monarch.GetName] paced restlessly in his court. The Court of Toledo was draped with silks from Valencia, and the air was thick with intoxicating incense from Athens. The master of the court, [Root.Monarch.GetTitle][Root.Monarch.GetName], seemed to try to display his strength through opulent decorations, but all external forms could not conceal the worry in his heart.\n\nThis assembly was about to shape the situation of all Iberia for the next two decades, and its direction remained shrouded in dense clouds of uncertainty."
+EDG_flavor_IBR_religion_conflict.6.a:0 "The dark clouds shall be torn asunder by the blazing sun."
+EDG_flavor_IBR_religion_conflict.6.b:0 "Winds blow, rains pass, and the flames of war shall die down."
+
+EDG_flavor_IBR_religion_conflict.7.t:0 "The Council of [219.GetName] Concludes"
+EDG_flavor_IBR_religion_conflict.7.d:0 "The Council of [219.GetName] has finally drawn to a close. Every Iberian ruler has expressed their will, and the course of Iberia's next two decades has been quietly altered."
+EDG_flavor_IBR_religion_conflict.7.a:0 "The road ahead is long and arduous."
+
+    #Our Choice (Council of Madrid)
+EDG_flavor_IBR_religion_conflict.8.t:0 "The Council of [217.GetName]"
+EDG_flavor_IBR_religion_conflict.8.d:0 "On Christmas of the previous year, as golden sunlight spilled onto the plaza of [217.GetName], the citizens discovered a giant pentagram drawn in the square's center. At each of the pentagram's five points, thirteen doves were placed, and in the middle lay a ghastly pale goat skull. This event caused an uproar. Who could have created such a blasphemous spectacle under curfew and guard patrols? Some Christians believed it was clearly impossible and thus concluded that everything in the plaza was the work of God, a sign that He wished for the Iberians to cease their transgressions.\n\nNo one would deny that Iberia had been embroiled in war for far too long.\n\nBoth Christians and heathens hoped the current state of chaos would end, whether through military action or by maintaining peace. With such expectations, the Council of [217.GetName] was convened. The rulers of Iberia gathered once more to jointly decide the future fate of Iberia.\n\nThis might be the final council."
+EDG_flavor_IBR_religion_conflict.8.a:0 "The sword prevails over the book; only the unification of rule heralds true peace."
+EDG_flavor_IBR_religion_conflict.8.b:0 "We should not let hatred blind our eyes."
+
+EDG_flavor_IBR_religion_conflict.9.t:0 "The Council of [217.GetName]"
+EDG_flavor_IBR_religion_conflict.9.d:0 "On Christmas of the previous year, as golden sunlight spilled onto the plaza of [217.GetName], the citizens discovered a giant pentagram drawn in the square's center. At each of the pentagram's five points, thirteen doves were placed, and in the middle lay a ghastly pale goat skull. This event caused an uproar. Who could have created such a blasphemous spectacle under curfew and guard patrols? Some Christians believed it was clearly impossible and thus concluded that everything in the plaza was the work of God, a sign that He wished for the Iberians to cease their transgressions.\n\nNo one would deny that Iberia had been embroiled in war for far too long.\n\nBoth Christians and heathens hoped the current state of chaos would end, whether through military action or by maintaining peace. With such expectations, the Council of [217.GetName] was convened. The rulers of Iberia gathered once more to jointly decide the future fate of Iberia.\n\nThis might be the final council."
+EDG_flavor_IBR_religion_conflict.9.a:0 "The sword prevails over the book; only the unification of rule heralds true peace."
+EDG_flavor_IBR_religion_conflict.9.b:0 "We should not let hatred blind our eyes."
+
+EDG_flavor_IBR_religion_conflict.10.t:0 "The Council of [217.GetName] Concludes"
+EDG_flavor_IBR_religion_conflict.10.d:0 "The Council of [217.GetName] has concluded.\n\nOn the day the council formally ended, a heavy downpour fell upon [217.GetName]. Even before the results were publicly announced, people in [217.GetName] began claiming the outcome had betrayed their brethren—that Christians had defied God's will, and Muslims had strayed from Allah's path.\n\nThat same night, a riot erupted in [224.GetName]. Frightened citizens took to the streets, locals smashed heathen shops, set fire to heathen residential areas, and killed many Jews.\n\nNevertheless, the Council of [217.GetName] is over, and its impact cannot be undone."
+EDG_flavor_IBR_religion_conflict.10.a:0 "There will be no more time-wasting councils in the future."
+
+    #The Pact of Seville
+EDG_flavor_IBR_religion_conflict.11.t:0 "Sufi Uprising in [224.GetName]"
+EDG_flavor_IBR_religion_conflict.11.d:0 "In the year $YEAR$, a Sufi order in Seville called upon local Muslims to launch an uprising. The order's leader demanded that [Root.Monarch.GetTitle][Root.Monarch.GetName] cease the oppression of Muslims. They took to the streets, using anything they could find as weapons.\n\nIt is said the trigger was an incident a month prior, where a Christian tax collector accidentally caused the death of a Muslim child during tax collection, and the tax collector faced no subsequent punishment.\n\n[Root.Monarch.GetTitle][Root.Monarch.GetName] learned of this late at night. Upon understanding the full course of events, he keenly realized that failure to handle the matter properly would send shockwaves throughout all Iberia."
+EDG_flavor_IBR_religion_conflict.11.a:0 "Disband the local order and execute the Mufti."
+EDG_flavor_IBR_religion_conflict.11.b:0 "We should all remain calm."
+EDG_flavor_IBR_religion_conflict.11.c:0 "Bribe them."
+
+EDG_flavor_IBR_religion_conflict.12.t:0 "Sufi Order Zealotry in [224.GetName]"
+EDG_flavor_IBR_religion_conflict.12.d:0 "This morning, a Mufti from a Sufi order in [224.GetName] met with [Root.Monarch.GetTitle][Root.Monarch.GetName]. He began with the Quran, recounting how their ancestors launched great conquests and spread Islam across the world. His tone was passionate, his demeanor earnest, as he pleaded with [Root.Monarch.GetTitle][Root.Monarch.GetName] to embrace his ideas and wage a great jihad against the heathens."
+EDG_flavor_IBR_religion_conflict.12.a:0 "We shall incite jihad!"
+EDG_flavor_IBR_religion_conflict.12.b:0 "We should all remain calm."
+EDG_flavor_IBR_religion_conflict.12.c:0 "They should not incite fanaticism."
+
+    #The Plasencia Incident
+EDG_flavor_IBR_religion_conflict.13.t:0 "Unrest in [4788.GetName]"
+EDG_flavor_IBR_religion_conflict.13.d:0 "The Muslims of [4788.GetName] have long been known for their fervor. They yearn for the rule of the Taifa of Abdalu and despise Christian tyranny. In the year $YEAR$, dissatisfied with the rule of the Christian [Root.Monarch.GetTitle][Root.Monarch.GetName], the fanatical Muslims of [4788.GetName] launched an organized uprising. They killed the garrison in [4788.GetName], tore down local churches, and demanded a return to Batalyaws."
+EDG_flavor_IBR_religion_conflict.13.a:0 "Suppress the uprising. Execute every rebellious Muslim."
+EDG_flavor_IBR_religion_conflict.13.b:0 "Grant them more autonomy to placate them."
+
+EDG_flavor_IBR_religion_conflict.14.t:0 "Support from the People of [4788.GetName]"
+EDG_flavor_IBR_religion_conflict.14.d:0 "The Muslims of [4788.GetName] have long been known for their fervor. They yearn for the rule of the Taifa of Abdalu and despise Christian tyranny. In the year $YEAR$, to avoid falling back under Christian rule, the local Muslims took up arms and applied to join the army of [Root.Monarch.GetTitle][Root.Monarch.GetName]."
+EDG_flavor_IBR_religion_conflict.14.a:0 "Welcome them to join our jihad!"
+EDG_flavor_IBR_religion_conflict.14.b:0 "Let them direct their passion elsewhere."
+
+    #The Diwan of Lisbon
+EDG_flavor_IBR_religion_conflict.15.t:0 "Disband the Sheikh Diwan of [227.GetName]"
+EDG_flavor_IBR_religion_conflict.15.d:0 "In 1433, under the leadership of the Taifa of Abdalu of Batalyaws, a Sheikh Diwan composed of local sheikhs was established in [227.GetName]. This Diwan has long managed [227.GetName] as the representative of the Taifa of Abdalu. Now that [227.GetName] has been conquered by Christians, these sheikhs still secretly manipulate the city's politics and economy."
+EDG_flavor_IBR_religion_conflict.15.a:0 "Disband the Diwan and execute the sheikhs."
+EDG_flavor_IBR_religion_conflict.15.b:0 "Pacify these sheikhs."
+
+EDG_flavor_IBR_religion_conflict.16.t:0 "The Diwan of [227.GetName]"
+EDG_flavor_IBR_religion_conflict.16.d:0 "In 1433, under the leadership of the Taifa of Abdalu of Batalyaws, a Sheikh Diwan composed of local sheikhs was established in [227.GetName]. This Diwan has long managed [227.GetName] as the representative of the Taifa of Abdalu.\n\nNot long ago, rumors spread that Christian residents near [227.GetName] were preparing an uprising to attack the city. The local sheikhs promptly organized an armed force, vigorously promoted jihadist ideology, oppressed local Christians, and executed numerous zealous Christian elements. This event caused significant repercussions.\n\n[Root.Monarch.GetTitle][Root.Monarch.GetName] did not address the matter immediately. He believed it could be used to expand his political influence, for instance, by redirecting the center of jihadist ideology to [227.GetName], thereby attracting more Muslims to his banner.\n\nTo ensure the further expansion of his political ambitions, [Root.Monarch.GetName] wrote to the various Taifas, seeking their opinion."
+EDG_flavor_IBR_religion_conflict.16.a:0 "We shall support the jihadist ideology."
+EDG_flavor_IBR_religion_conflict.16.b:0 "Wait... such thinking is somewhat paranoid and dangerous."
+
+EDG_flavor_IBR_religion_conflict.17.t:0 "The Diwan of [227.GetName]"
+EDG_flavor_IBR_religion_conflict.17.d:0 "In 1433, under the leadership of the Taifa of Abdalu of Batalyaws, a Sheikh Diwan composed of local sheikhs was established in [227.GetName]. This Diwan has long managed [227.GetName] as the representative of the Taifa of Abdalu.\n\nNot long ago, rumors spread that Christian residents near [227.GetName] were preparing an uprising to attack the city. The local sheikhs promptly organized an armed force, vigorously promoted jihadist ideology, oppressed local Christians, and executed numerous zealous Christian elements. This event caused significant repercussions.\n\n[Root.Monarch.GetTitle][Root.Monarch.GetName] did not address the matter immediately. He believed it could be used to expand his political influence, for instance, by redirecting the center of jihadist ideology to [227.GetName], thereby attracting more Muslims to his banner.\n\nTo ensure the further expansion of his political ambitions, [Root.Monarch.GetName] wrote to the various Taifas, seeking their opinion."
+EDG_flavor_IBR_religion_conflict.17.a:0 "We shall support the jihadist ideology."
+EDG_flavor_IBR_religion_conflict.17.b:0 "Wait... such thinking is somewhat paranoid and dangerous."
+
+EDG_flavor_IBR_religion_conflict.18.t:0 "Conclusion of the [227.GetName] Diwan"
+EDG_flavor_IBR_religion_conflict.18.d:0 "With the participation of numerous Taifas, the [227.GetName] Diwan has finally concluded. The decisions of the various Taifas have led Muslims to form a relatively unified consensus, altering the current situation in Iberia."
+EDG_flavor_IBR_religion_conflict.18.a:0 "By Allah."
+
+
+    #The Treaty of Badajoz
+EDG_flavor_IBR_religion_conflict.19.t:0 "The Abdalu Mosque of [218.GetName]"
+EDG_flavor_IBR_religion_conflict.19.d:0 "The Muslims of [218.GetName] deeply revere Taifa Abdalu. They built a mosque for Abdalu and widely praised his great achievements within the city, which sparked discontent among many Christians. Initially, clashes broke out in the streets, and then Christian guards joined the fray.\n\nAfter the guards of [218.GetName] got involved, the conflict escalated sharply. The Muslims occupied the Abdalu Mosque, using it as a sturdy fortress to resist the demands of the [218.GetName] garrison, turning this street brawl into a large-scale rebellion."
+EDG_flavor_IBR_religion_conflict.19.a:0 "Kill all these fanatical heathens."
+EDG_flavor_IBR_religion_conflict.19.b:0 "Pacify them, allow them to keep the mosque."
+
+EDG_flavor_IBR_religion_conflict.20.t:0 "The Treaty of [218.GetName]"
+EDG_flavor_IBR_religion_conflict.20.d:0 "This is a day of immense significance for [218.GetName].\n\nTo maintain the city's stability, [Root.Monarch.GetTitle][Root.Monarch.GetName] ordered a city-wide market closure. [Root.Monarch.GetTitle]'s Moorish arquebusier guards secured every entrance and major thoroughfare of [218.GetName]. Every street in the city fell into profound silence; only the Berber cavalry patrolling the streets each hour were permitted to leave behind noise and the neighing of horses on today's [Root.Monarch.GetTitle] Boulevard.\n\n[Root.Monarch.GetTitle]'s most trusted viziers and walis had entered the city at dawn and met with the supreme [Root.Monarch.GetTitle]. Nearing noon, the first invited [Root.Monarch.GetTitle] arrived at the court situated in [218.GetName], their escorted caravans filing endlessly through the city gates.\n\nAt sunset, the Taifa Diwan of [218.GetName] finally commenced. Other Taifas sat on either side of the rectangular table, while [Root.Monarch.GetTitle][Root.Monarch.GetName] sat at one end. After a long silence, he commanded his attendant to unfurl a vast map on the table, detailing every mountain and river of Iberia.\n\nNext, servants placed numerous exquisite pieces on the map, representing Muslim and Christian armies respectively. After [Root.Monarch.GetName] circled the table, the servants finally finished arranging everything and respectfully withdrew from the council chamber.\n\n'My brothers,' [Root.Monarch.GetName] spoke in a measured tone, 'we face a great problem. These Christians refuse to abandon their aggression; they cling to the land of Al-Andalus, sucking the fresh blood from this soil. This should not happen; this will never be condoned by Allah!'\n\n[Root.Monarch.GetName]'s tone grew increasingly impassioned, his voice echoing in the room: 'Not long ago, Allah bestowed upon me a new, devout plan—one that will allow us to completely expel the Christians from our lands. As long as we prepare our forces and wage jihad according to this great plan, we shall achieve final victory!'\n\nAttending this conference were not only the rulers of various Taifas but also delegations from other Christian states. Some envoys whispered beside the Taifas during breaks, exerting influence upon them. In essence, Christians and Muslims together determined the outcome of this assembly."
+EDG_flavor_IBR_religion_conflict.20.a:0 "Muslims should sign the 'Pact of Batalyaws'."
+EDG_flavor_IBR_religion_conflict.20.b:0 "We should remain calm."
+
+EDG_flavor_IBR_religion_conflict.21.t:0 "The Treaty of [218.GetName]"
+EDG_flavor_IBR_religion_conflict.21.d:0 "This is a day of immense significance for [218.GetName].\n\nTo maintain the city's stability, [Root.Monarch.GetTitle][Root.Monarch.GetName] ordered a city-wide market closure. [Root.Monarch.GetTitle]'s Moorish arquebusier guards secured every entrance and major thoroughfare of [218.GetName]. Every street in the city fell into profound silence; only the Berber cavalry patrolling the streets each hour were permitted to leave behind noise and the neighing of horses on today's [Root.Monarch.GetTitle] Boulevard.\n\n[Root.Monarch.GetTitle]'s most trusted viziers and walis had entered the city at dawn and met with the supreme [Root.Monarch.GetTitle]. Nearing noon, the first invited [Root.Monarch.GetTitle] arrived at the court situated in [218.GetName], their escorted caravans filing endlessly through the city gates.\n\nAt sunset, the Taifa Diwan of [218.GetName] finally commenced. Other Taifas sat on either side of the rectangular table, while [Root.Monarch.GetTitle][Root.Monarch.GetName] sat at one end. After a long silence, he commanded his attendant to unfurl a vast map on the table, detailing every mountain and river of Iberia.\n\nNext, servants placed numerous exquisite pieces on the map, representing Muslim and Christian armies respectively. After [Root.Monarch.GetName] circled the table, the servants finally finished arranging everything and respectfully withdrew from the council chamber.\n\n'My brothers,' [Root.Monarch.GetName] spoke in a measured tone, 'we face a great problem. These Christians refuse to abandon their aggression; they cling to the land of Al-Andalus, sucking the fresh blood from this soil. This should not happen; this will never be condoned by Allah!'\n\n[Root.Monarch.GetName]'s tone grew increasingly impassioned, his voice echoing in the room: 'Not long ago, Allah bestowed upon me a new, devout plan—one that will allow us to completely expel the Christians from our lands. As long as we prepare our forces and wage jihad according to this great plan, we shall achieve final victory!'\n\nAttending this conference were not only the rulers of various Taifas but also delegations from other Christian states. Some envoys whispered beside the Taifas during breaks, exerting influence upon them. In essence, Christians and Muslims together determined the outcome of this assembly."
+EDG_flavor_IBR_religion_conflict.21.a:0 "Muslims should sign the 'Pact of Batalyaws'."
+EDG_flavor_IBR_religion_conflict.21.b:0 "We should remain calm."
+
+EDG_flavor_IBR_religion_conflict.22.t:0 "Success or Failure of the [218.GetName] Treaty"
+EDG_flavor_IBR_religion_conflict.22.d:0 "As the conference in [218.GetName] finally concludes, all participants have discussed the Pact of Batalyaws. This treaty is of great significance; if passed, it will bring substantial influence to the Muslim Taifa states of Iberia."
+EDG_flavor_IBR_religion_conflict.22.a:0 "Heaven intends rain, but man desires not stillness."
+    
+    #Night of La Mancha
+EDG_flavor_IBR_religion_conflict.23.t:0 "Muslim Movement in [2754.GetName]"
+EDG_flavor_IBR_religion_conflict.23.d:0 "The prosperity of [2754.GetName] has long masked its underlying danger. Since [2754.GetName] was conquered by us, the local Muslims have remained dissatisfied with our rule. Not long ago, they launched an uprising, demanding that local clergy cease interfering with their faith."
+EDG_flavor_IBR_religion_conflict.23.a:0 "Absurd! They should convert to Christ!"
+EDG_flavor_IBR_religion_conflict.23.b:0 "Grant their demands."
+
+    # Night of Almería
+EDG_flavor_IBR_religion_conflict.24.t:0 "The Night of [222.GetName]"
+EDG_flavor_IBR_religion_conflict.24.d:0 "[222.GetName] has long been on the border of religious conflict yet ultimately remained unconquered by Christians. Some renowned ulama attribute this to the wise rule of [Root.Monarch.GetTitle][Root.Monarch.GetName] and have proposed to [Root.Monarch.GetTitle][Root.Monarch.GetName] that if he is willing to conquer the Christian kingdoms to the north, all Muslims across the land would gladly devote their strength to the cause."
+EDG_flavor_IBR_religion_conflict.24.a:0 "We are willing to call for jihad!"
+EDG_flavor_IBR_religion_conflict.24.b:0 "We should not be overly proud."
+
+    #The Treaty of León
+EDG_flavor_IBR_religion_conflict.25.t:0 "The Treaty of [208.GetName]"
+EDG_flavor_IBR_religion_conflict.25.d:0 "Since [Root.Monarch.GetTitle][Root.Monarch.GetName] ascended the throne, he has been troubled by the presence of heathens in Iberia like a malignant tumor, to the point where he often startles at the slightest rustle of his bedroom curtains.\n\nSince last Christmas, [Root.Monarch.GetName] has been contemplating a new, grand plan—a scheme to unite all Christians in Iberia.\n\nIn the year $YEAR$, he invited delegations from various nations, both Christian kings and heathen envoys—summoning them all to his throne room. He deliberately incited his own clergy to anger the Muslim envoys present with fanatical and radical rhetoric, sparking heated altercations between the two sides. Only when the situation grew sufficiently chaotic did he have guards enter and escort the Muslim envoys away.\n\nThe Christian kings present looked tense; they did not realize this was [Root.Monarch.GetName]'s deliberate ploy. [Root.Monarch.GetName] then persuasively told the kings that Muslims and Christians are ultimately incompatible, and a decisive conflict between them is inevitable. 'We should sign a military treaty to defend against our heathen enemies,' [Root.Monarch.GetName] told the kings in a sincere tone, followed by a heavy silence in the hall."
+EDG_flavor_IBR_religion_conflict.25.a:0 "You must understand, there is no peace between us and the heathens."
+EDG_flavor_IBR_religion_conflict.25.b:0 "Wait... we might be getting too agitated."
+
+EDG_flavor_IBR_religion_conflict.26.t:0 "The Treaty of [208.GetName]"
+EDG_flavor_IBR_religion_conflict.26.d:0 "Since [Root.Monarch.GetTitle][Root.Monarch.GetName] ascended the throne, he has been troubled by the presence of heathens in Iberia like a malignant tumor, to the point where he often startles at the slightest rustle of his bedroom curtains.\n\nSince last Christmas, [Root.Monarch.GetName] has been contemplating a new, grand plan—a scheme to unite all Christians in Iberia.\n\nIn the year $YEAR$, he invited delegations from various nations, both Christian kings and heathen envoys—summoning them all to his throne room. He deliberately incited his own clergy to anger the Muslim envoys present with fanatical and radical rhetoric, sparking heated altercations between the two sides. Only when the situation grew sufficiently chaotic did he have guards enter and escort the Muslim envoys away.\n\nThe Christian kings present looked tense; they did not realize this was [Root.Monarch.GetName]'s deliberate ploy. [Root.Monarch.GetName] then persuasively told the kings that Muslims and Christians are ultimately incompatible, and a decisive conflict between them is inevitable. 'We should sign a military treaty to defend against our heathen enemies,' [Root.Monarch.GetName] told the kings in a sincere tone, followed by a heavy silence in the hall."
+EDG_flavor_IBR_religion_conflict.26.a:0 "We agree with him; heathens can never coexist."
+EDG_flavor_IBR_religion_conflict.26.b:0 "We see through [Root.Monarch.GetName]'s little game."
+
+EDG_flavor_IBR_religion_conflict.27.t:0 "Signatories of the [208.GetName] Treaty"
+EDG_flavor_IBR_religion_conflict.27.d:0 "The conference held in [208.GetName] has drawn to a close. Both Muslim Taifas and Christian kings exerted their influence over the proceedings. The outcome of the [208.GetName] conference will shape the future situation in Iberia—will the nations become more confrontational, or more peaceful?"
+EDG_flavor_IBR_religion_conflict.27.a:0 "Regardless, there is no peace among heathens."
+
+    #The Barcelona Conference
+EDG_flavor_IBR_religion_conflict.28.t:0 "The Conference of [213.GetName]"
+EDG_flavor_IBR_religion_conflict.28.d:0 "A month ago, a cook of [Root.Monarch.GetTitle][Root.Monarch.GetName] attempted to assassinate him.\n\nThe culprit was a Muslim man, young and handsome, fanatical and devout. [Root.Monarch.GetName]'s interrogators spent a week extracting the motive for the murder from his lips. It turned out he was dissatisfied with [Root.Monarch.GetTitle]'s recent religious intolerance—specifically, a Christian magistrate under [Root.Monarch.GetName] had beaten to death his Muslim mother and sister while performing official duties and faced no punishment. After receiving help from a Mufti, he came to assassinate [Root.Monarch.GetName] to avenge his mother and sister.\n\n[Root.Monarch.GetName] admired the culprit, so he tacitly permitted the judge to sentence him to death by burning. Then, from his windowsill, he watched the man scream his way out of life amidst the flames.\n\nAfter this incident, [Root.Monarch.GetName] often pondered the relationship between Christianity and Islam. Is one of us definitely wrong? What truly lies behind the mutual slaughter between Christians and Muslims?\n\nOne morning, after sitting on a garden bench in deep thought for a long time, he instructed his servants to write a letter on his behalf to the rulers of Iberia, asking them to send envoys to [213.GetName] for a conference."
+EDG_flavor_IBR_religion_conflict.28.b:0 "Blind jihad is wrong; we should pursue peace together."
+EDG_flavor_IBR_religion_conflict.28.a:0 "Only the complete elimination of heathens can end the cycle of vengeance."
+
+EDG_flavor_IBR_religion_conflict.29.t:0 "The Conference of [213.GetName]"
+EDG_flavor_IBR_religion_conflict.29.d:0 "A month ago, a cook of [Root.Monarch.GetTitle][Root.Monarch.GetName] attempted to assassinate him.\n\nThe culprit was a Muslim man, young and handsome, fanatical and devout. [Root.Monarch.GetName]'s interrogators spent a week extracting the motive for the murder from his lips. It turned out he was dissatisfied with [Root.Monarch.GetTitle]'s recent religious intolerance—specifically, a Christian magistrate under [Root.Monarch.GetName] had beaten to death his Muslim mother and sister while performing official duties and faced no punishment. After receiving help from a Mufti, he came to assassinate [Root.Monarch.GetName] to avenge his mother and sister.\n\n[Root.Monarch.GetName] admired the culprit, so he tacitly permitted the judge to sentence him to death by burning. Then, from his windowsill, he watched the man scream his way out of life amidst the flames.\n\nAfter this incident, [Root.Monarch.GetName] often pondered the relationship between Christianity and Islam. Is one of us definitely wrong? What truly lies behind the mutual slaughter between Christians and Muslims?\n\nOne morning, after sitting on a garden bench in deep thought for a long time, he instructed his servants to write a letter on his behalf to the rulers of Iberia, asking them to send envoys to [213.GetName] for a conference."
+EDG_flavor_IBR_religion_conflict.29.b:0 "Blind jihad is wrong; we should pursue peace together."
+EDG_flavor_IBR_religion_conflict.29.a:0 "Only the complete elimination of heathens can end the cycle of vengeance."
+
+EDG_flavor_IBR_religion_conflict.30.t:0 "Conclusion of the [213.GetName] Conference"
+EDG_flavor_IBR_religion_conflict.30.d:0 "The conference held in [213.GetName] has finally concluded. This farce born from vengeance ended in the form most people expected."
+EDG_flavor_IBR_religion_conflict.30.a:0 "Some never understand how to truly extinguish vengeance."
+
+    #The Legacy of El Cid
+EDG_flavor_IBR_religion_conflict.31.t:0 "El Cid's Legacy"
+EDG_flavor_IBR_religion_conflict.31.d:0 "The conference held in [213.GetName] has finally concluded. This farce born from vengeance ended in the form most people expected."
+EDG_flavor_IBR_religion_conflict.31.a:0 "Some never understand how to truly extinguish vengeance."
+EDG_flavor_IBR_religion_conflict.31.b:0 "Some never understand how to truly extinguish vengeance."
+
+    #Wonders
+# Galicia - The Port of Galicia
+EDG_IBR_monuments_event.1.t:0 "The Thriving Port of Galicia"
+EDG_IBR_monuments_event.1.d:0 "Galicia is located in the northwest of the Iberian Peninsula, along the Atlantic coast, serving as one of the vital gateways connecting Europe and the Americas. Thus, its port enjoys a superior geographical location, facilitating maritime trade. The 16th century was a period of flourishing European trade, and the port of Galicia prospered accordingly. Major trading partners included goods from Europe, the Americas, and Africa, such as gold and silver, textiles, spices, and slaves. Additionally, significant pirate activity also contributed somewhat to the port's prosperity. In the 16th century, Galicia's port facilities were highly comprehensive, including the famous ports of A Coruña and Vigo. These ports were fully equipped with docks, warehouses, and cranes, meeting the loading and unloading needs of ships and cargo of various types and scales. Due to its advantageous location, active trade, comprehensive port infrastructure, and advancements in navigation technology, the port of Galicia thrived, becoming one of the key hubs for trade between Europe and the Americas. However, the aging port now seems to somewhat hinder the city's development."
+EDG_IBR_monuments_event.1.a:0 "Impose an infidel tax on heathens to fund the port's expansion."
+EDG_IBR_monuments_event.1.b:0 "We will expand the port for everyone."
+EDG_IBR_monuments_event.1.c:0 "It is unnecessary."
+
+# Galicia - Plaza de María Pita
+EDG_IBR_monuments_event.2.t:0 "Plaza de María Pita"
+EDG_IBR_monuments_event.2.d:0 "María Pita holds significant importance in the history of A Coruña. In 1589, a war besieged people within the old city. Despite the stubborn resistance of the trapped women and children, the invaders breached the defenses. At this critical moment, María Pita stepped forward and killed an enemy sergeant. This heroic act both uplifted the morale of her own people and severely damaged the enemy's spirit, thereby protecting the city. A bronze statue of María Pita stands in the plaza."
+EDG_IBR_monuments_event.2.b:0 "We shall construct a plaza to commemorate her."
+EDG_IBR_monuments_event.2.a:0 "Impose a tax on heathens to fund the plaza's construction."
+EDG_IBR_monuments_event.2.c:0 "A fine story."
+    
+    #León - Palacio de Alfonso
+EDG_IBR_monuments_event.3.t:0 "Renovating Palacio de Alfonso"
+EDG_IBR_monuments_event.3.d:0 "Palacio de Alfonso features a unique architectural style, combining Gothic and Renaissance elements. The exterior facade is adorned with extensive reliefs and sculptures, and the walls are painted with vibrant colors and patterns, making the entire structure exceptionally ornate. The palace is exquisitely designed; the halls, corridors, and rooms inside are lavishly furnished with rich and diverse decorations and artworks, such as paintings, sculptures, and carpets. The palace is of immense scale, containing multiple courtyards and gardens within, covering a vast area. Different buildings are interconnected by corridors, rendering the entire palace extraordinarily grand and majestic. However, due to long-term neglect, Palacio de Alfonso no longer appears as magnificent and splendid as it once did."
+EDG_IBR_monuments_event.3.a:0 "Let us tax the heathens for this!"
+EDG_IBR_monuments_event.3.b:0 "The royal house will fund the palace's renovation."
+EDG_IBR_monuments_event.3.c:0 "This is too wasteful of money."
+
+    # Córdoba - The Cathedral-Mosque of Córdoba
+EDG_IBR_monuments_event.4.t:0 "The Pearl of Córdoba"
+EDG_IBR_monuments_event.4.d:0 "The Mosque of Córdoba, also known as the Great Mosque, is a famous Islamic building in Spain and one of the largest mosques in the world. In 711 AD, Arabs conquered Córdoba, and the city was divided equally between Muslims and Christians. This peculiar arrangement continued until 784 AD, when Abd al-Rahman I decided to build a new mosque here, completed in 790 by his son, Hisham I. Later, Hisham II further expanded the mosque. He added eight aisles to the east of the mosque, planted extensive orange groves, and constructed four large fountains. In 1523, the prayer hall was rebuilt according to Renaissance principles. The engineers promised that if the final phase proceeded smoothly, the hall's decoration would be the most luxurious in the Caliphal style, featuring meticulously carved floral and leaf patterns around the arches, colorful domes, and unique ornamentation—all of which would be magnificent. Córdoba would gain another brilliant pearl."
+EDG_IBR_monuments_event.4.b:0 "Provide the remaining funds and open it to all."
+EDG_IBR_monuments_event.4.a:0 "Provide the remaining funds but deny entry to heathens."
+EDG_IBR_monuments_event.4.c:0 "I have no money."
+

@@ -1,7 +1,7 @@
 EDG_ADC_define_ruler_abdullah = {
 	define_ruler = {
-		name = "雅各伯 I 「受洗者」"
-		dynasty = "阿费泰西"
+		name = "Jacob I 'the Baptized'"
+		dynasty = "Afeitasi" # Afetesi?
 		age = 55
 		adm = 5
 		dip = 4

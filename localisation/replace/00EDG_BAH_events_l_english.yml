@@ -1,0 +1,188 @@
+﻿l_english:
+EDG_BAH_missions_event.1.t:0 "The Fall of Delhi"
+EDG_BAH_missions_event.1.d:0 "While Delhi is in many ways the undisputed capital of Northern India, it has also been conquered by numerous conquerors. The Bahmani Sultan, once a subject of the empire founded in this city, has now joined the list of conquerors. As the city burns, Bahmani soldiers gather their spoils. Wealth is plundered, monuments are dismantled and will be transported to [Root.Capital.GetCapitalName] for reassembly."
+EDG_BAH_missions_event.1.a:0 "The Sack of Delhi"
+
+EDG_BAH_missions_event.2.t:0 "Send a Modest Gift to Other Governors"
+EDG_BAH_missions_event.2.d:0 "Now that Delhi's fate is sealed, we should seek aid from the other governors to overthrow the rule of Delhi."
+EDG_BAH_missions_event.2.a:0 "Send a modest gift to the Governor of Jaunpur"
+EDG_BAH_missions_event.2.b:0 "Send a modest gift to the Governor of Multan"
+EDG_BAH_missions_event.2.c:0 "Send a modest gift to the Governor of Sirhind"
+EDG_BAH_missions_event.2.e:0 "Quickly send generous gifts to all three governors"
+EDG_BAH_missions_event.2.g:0 "No need to seek aid from cowards"
+
+EDG_BAH_missions_event.3.t:0 "Bahmani's Goodwill"
+EDG_BAH_missions_event.3.d:0 "Esteemed Governor, this is a request for aid from the Bahmanis. Please give it your consideration."
+EDG_BAH_missions_event.3.a:0 "Send some men to assist him"
+EDG_BAH_missions_event.3.b:0 "We should join this war"
+EDG_BAH_missions_event.3.c:0 "Cease the campaign"
+EDG_BAH_missions_event.3.e:0 "We should prepare for our own independence"
+EDG_BAH_missions_event.3.f:0 "We have our own plans"
+
+EDG_BAH_missions_event.4.t:0 "Reinforcements Have Arrived"
+EDG_BAH_missions_event.4.d:0 "Our dispatched requests for aid have borne fruit. Reinforcements have been sent to support us, though they harbor other intentions regarding their suzerain and have promised to cease their campaign against us."
+EDG_BAH_missions_event.4.a:0 "Support from the other governors"
+
+EDG_BAH_missions_event.5.t:0 "Our School - The Zaydi Sect"
+EDG_BAH_missions_event.5.d:0 "Our School - The Zaydi Sect"
+EDG_BAH_missions_event.5.a:0 "Agree"
+EDG_BAH_missions_event.5.b:0 "Refuse"
+
+EDG_BAH_missions_event.6.t:0 "Maldives Friendship Treaty"
+EDG_BAH_missions_event.6.d:0 "Maldives Friendship Treaty"
+EDG_BAH_missions_event.6.a:0 "Accept"
+EDG_BAH_missions_event.6.b:0 "Refuse"
+
+EDG_BAH_missions_event.7.t:0 "Vijayanagara Friendship Treaty"
+EDG_BAH_missions_event.7.d:0 "The weakened Vijayanagara has lost much territory in a rebellion. To prevent it from being carved up by the Deccan states, we should send a letter offering our protection."
+EDG_BAH_missions_event.7.a:0 "Make Vijayanagara our vassal"
+EDG_BAH_missions_event.7.b:0 "Now is not the time to stir up conflict"
+
+EDG_BAH_missions_event.8.t:0 "Threat from the Bahmanis"
+EDG_BAH_missions_event.8.d:0 "An envoy from the Bahmanis has arrived with immense arrogance, delivering a letter whose contents are nothing but a threat for us to become their subject. A grave insult!"
+EDG_BAH_missions_event.8.a:0 "Behead the Bahmani envoy and send the head back"
+EDG_BAH_missions_event.8.b:0 "In the face of the Bahmani threat, we can only submit"
+
+EDG_BAH_missions_event.9.t:0 "Refusal from Vijayanagara"
+EDG_BAH_missions_event.9.d:0 "Our envoy sent to Vijayanagara has returned as nothing but a severed head. Great Padishah, we must deliver punishment immediately."
+EDG_BAH_missions_event.9.a:0 "Prepare the horses, we depart at once"
+EDG_BAH_missions_event.9.b:0 "Do not provoke conflict for now"
+
+EDG_BAH_missions_event.10.t:0 "The Submission of the Vijayanagara Raja"
+EDG_BAH_missions_event.10.d:0 "The fierce confrontation at Vijayanagara has ended with the victory of the [Root.GetAdjective] Sultan. The fall of this City of Victory has sent shockwaves through the Deccan. It is said the city was plundered for days. It remains a major settlement in the region, but it seems it will no longer be the metropolis it once was. While the Vijayanagara state still holds some of its old territories, many subordinate chieftains and vassals are seeking other protectors, a more worthy object of allegiance. This appears to be the end of the empire once built by the Sangama dynasty."
+EDG_BAH_missions_event.10.a:0 "The Submission of the Vijayanagara Raja"
+
+EDG_BAH_missions_event.11.t:0 "The Submission of the Vijayanagara Raja"
+EDG_BAH_missions_event.11.d:0 "The fierce confrontation at Vijayanagara has ended with the victory of the [Root.GetAdjective] Sultan. The fall of this City of Victory has sent shockwaves through the Deccan. It is said the city was plundered for days. It remains a major settlement in the region, but it seems it will no longer be the metropolis it once was. While the Vijayanagara state still holds some of its old territories, many subordinate chieftains and vassals are seeking other protectors, a more worthy object of allegiance. This appears to be the end of the empire once built by the Sangama dynasty."
+EDG_BAH_missions_event.11.a:0 "The Submission of the Vijayanagara Raja"
+
+EDG_BAH_missions_event.12.t:0 "Lay Claim to Keladi"
+EDG_BAH_missions_event.12.d:0 "The Nayaka of Keladi broke away from us not long ago. Now that we have reclaimed our lost lands, and Keladi has conquered Vijayanagara, shall we return the territory? If we return it, the Vijayanagara nobility will be grateful and more loyal to us. However, claiming this territory will anger them.\n(Continuing to claim in subsequent events will grant core creation modifiers but make the vassal more desirous of independence. Continuing to return in subsequent events will grant annexation modifiers and make the vassal more loyal.)"
+EDG_BAH_missions_event.12.a:0 "Lay Claim to Keladi"
+EDG_BAH_missions_event.12.b:0 "Return Keladi"
+
+EDG_BAH_missions_event.13.t:0 "Push Southward"
+EDG_BAH_missions_event.13.d:0 "Having advanced into the southern heartland of the Deccan, we have reclaimed vast territories lost by Vijayanagara. Now, shall we take these lands for ourselves, or return them?\n(Continuing to claim in subsequent events will grant core creation modifiers but make the vassal more desirous of independence. Continuing to return in subsequent events will grant annexation modifiers and make the vassal more loyal.)"
+EDG_BAH_missions_event.13.a:0 "Claim the Southern Lands"
+EDG_BAH_missions_event.13.b:0 "Return the Southern Lands"
+
+EDG_BAH_missions_event.14.t:0 "The Tiger of Mysore"
+EDG_BAH_missions_event.14.d:0 "The heir from Mysore is the noblest and bravest warrior in our realm. Now that the religious turmoil has ended, his stature grows ever more prominent. He has launched a devastating, crushing suppression against the rebellious Deccan states, establishing our dominance in the Deccan and laying the foundation for a great expedition in a new era. Now, he shall lead this nation."
+EDG_BAH_missions_event.14.a:0 "He shall lead this nation reborn from disaster!"
+EDG_BAH_missions_event.14.b:0 "I am not yet old. Grant him the highest honors and let him continue to serve the state."
+
+EDG_BAH_missions_event.15.t:0 "Guardian of the Thanjavur Holy Site"
+EDG_BAH_missions_event.15.d:0 "The holy site of Thanjavur has been conquered by us. We have promised the Brahmins that all Hindus will be permitted to make pilgrimage here, granting the Brahmins the highest courtesy."
+EDG_BAH_missions_event.15.a:0 "Guardian of the Thanjavur Holy Site"
+
+EDG_BAH_missions_event.16.t:0 "Successor to the Chola Empire"
+EDG_BAH_missions_event.16.d:0 "The erstwhile Chola Empire once unified the Deccan, only to collapse in disaster. Now we have reunited what was divided. For Ahmad, this seemed like a distant, unreachable dream, yet now it is realized. Challenges and opportunities coexist. We should lay claim to all of India and become its master!"
+EDG_BAH_missions_event.16.a:0 "Successor to the Chola Empire"
+
+EDG_BAH_missions_event.17.t:0 "Purge the Vijayanagara Rajas"
+EDG_BAH_missions_event.17.d:0 "We have not fulfilled our promise of protection; instead, we have repeatedly confiscated vast Vijayanagara territories. This has caused the subjugated Rajas to harbor thoughts of rebellion. To eliminate the possibility of their revolt, we should strike first and incorporate all of Vijayanagara into our domain. While this may destabilize the domestic situation, this pain can help root out more rebels, allowing us to deal with them all at once."
+EDG_BAH_missions_event.17.a:0 "Purge the Vijayanagara Rajas"
+EDG_BAH_missions_event.17.b:0 "Purge the Vijayanagara Rajas"
+
+EDG_BAH_missions_event.18.t:0 "Support from the Nobility"
+EDG_BAH_missions_event.18.d:0 "We have promised, and even granted, the nobility numerous privileges and lands. They have led their elite guards to support us in winning this war."
+EDG_BAH_missions_event.18.a:0 "Support from the Nobility"
+
+EDG_BAH_missions_event.19.t:0 "Hindu Pilgrimage"
+EDG_BAH_missions_event.19.d:0 "In ancient times, the Ganges flowed with turbulent, raging waters, often flooding, destroying fertile fields, and claiming lives. A king, seeking to cleanse the sins of his ancestors, beseeched a heavenly goddess to help tame the Ganga for the benefit of humanity. Lord Shiva came to the foot of the Himalayas, spread his hair, and let the torrential river flow gently over his head, irrigating the fields on both banks. The inhabitants on both shores have lived in peace and prosperity ever since."
+EDG_BAH_missions_event.19.a:0 "Guardian of Varanasi"
+
+EDG_BAH_missions_event.20.t:0 "Buddhist Pilgrimage"
+EDG_BAH_missions_event.20.d:0 "Dispatch craftsmen to restore the Mahabodhi Temple. Permit Buddhists from other lands to come on pilgrimage. Promise governance of this place to the high monks of Sri Lanka, but make them understand whose territory this is. Now, prepare horses and escort the high monk to Bodh Gaya to deliver sermons."
+EDG_BAH_missions_event.20.a:0 "Guardian of Bodh Gaya"
+
+EDG_BAH_missions_event.21.t:0 "Gujarat Friendship Treaty"
+EDG_BAH_missions_event.21.d:0 "Gujarat Friendship Treaty"
+EDG_BAH_missions_event.21.a:0 "Seek Protection"
+EDG_BAH_missions_event.21.b:0 "Seek Protection"
+EDG_BAH_missions_event.21.c:0 "We Should Assert Independence"
+
+EDG_BAH_missions_event.22.t:0 "Supreme Directive"
+EDG_BAH_missions_event.22.d:0 "We have risen from disaster and healed from ethnic division. We must conquer them not only militarily but also in terms of identity, assimilating foreign cultures and incorporating them into our military-administrative system. Now, establish the Supreme Command, reorganize the armies, and prepare to conquer the stars and seas."
+EDG_BAH_missions_event.22.a:0 "Establish the Supreme Command"
+
+EDG_BAH_missions_event.23.t:0 "Supreme Council Chamber"
+EDG_BAH_missions_event.23.d:0 "Honorable Padishah, the situation is now in your hands. Please select a military doctrine to aid in strengthening our army's training. Give the order!"
+EDG_BAH_missions_event.23.a:0 "Unyielding Assault"
+EDG_BAH_missions_event.23.b:0 "Superior Firepower"
+EDG_BAH_missions_event.23.c:0 "Flesh and Iron Wall"
+EDG_BAH_missions_event.23.e:0 "Fight Through Fire"
+EDG_BAH_missions_event.23.f:0 "Overwhelming Momentum"
+EDG_BAH_missions_event.23.g:0 "Undaunted in Crisis"
+
+EDG_BAH_missions_event.24.t:0 "National Focus Doctrine"
+EDG_BAH_missions_event.24.d:0 "Honorable Padishah, please select our national focus doctrine to more effectively stabilize the nation and facilitate external expansion."
+EDG_BAH_missions_event.24.a:0 "Administrative Management"
+EDG_BAH_missions_event.24.b:0 "Diplomatic Systems"
+EDG_BAH_missions_event.24.c:0 "Military Strengthening"
+
+EDG_BAH_missions_event.25.t:0 "The Treacherous Four-Province Governors"
+EDG_BAH_missions_event.25.d:0 "Although we successfully broke free from Delhi's rule, we lost vast territories several years ago. Now these governors are secretly plotting something. We must find a way to appease them to prevent our realm from fracturing again. Completing the §GDeccan Religious Conflicts Disaster§! will remove the negative effects."
+EDG_BAH_missions_event.25.a:0 "Remain silent for now."
+
+EDG_BAH_missions_event.26.t:0 "Ahmad's Dream"
+EDG_BAH_missions_event.26.d:0 ""Speak not to me of petty land conflicts!"\n\nFrom the hilltops of the brooding city to the whole of the Deccan, wherever Ahmad went, all submitted to him. From youthful vigor to a head of white hair, victory embraced him, and glory bowed before him. He knew not when to stop, nor wished to, chasing only the afterglow on the horizon.\n\nQuickly, Ahmad must be quicker. He had no time to take prisoners. Galloping cavalry charged recklessly through Bahmani, washing away the humiliations of the past. Ahmad yearned to outrun time; he now had to race against Death himself. City after city raised its flag in surrender before him, while Time pursued closely behind.\n\nBe it day or night, dream or reality, he rode on, galloping. He knew not when to stop, dared not stop, fearing that a single moment of negligence would see Time drag him from his horse into the cold, dark abyss.\n\nWhere his horse's hooves had not yet trod, the lands of Bahmani were gradually unified. Gazing into the distance from his saddle, Ahmad's eyes caught a glimmer of light on the horizon—a future belonging to himself: "A unified Deccan, gleaming under the scorching sun."\n\n"Hyah!"\n\nHe spurred his horse and whipped the reins, charging towards the hope of unification. He knew he would succeed; he knew the Deccan would ultimately be united by him. But unknowingly, he had grown old. The horse whinnied in pain under the reins, its eyes no longer sharp, its senses no longer keen, its pace ever slowing, until finally, it stopped.\n\nGasping for breath, Ahmad cursed the horse's old age. A chill touched his shoulder. He turned his head sharply. Where the horse's hooves had trod, the lands of the Deccan began to crack and crumble. He refused to see this dark future. He refused to stop. He wanted to keep chasing.\n—A tribute to the legendary player "lyq", who unified India in 1483.\nThanks to the Guild Leader."
+EDG_BAH_missions_event.26.a:0 ""But he was old now, no longer in his prime.""
+EDG_BAH_missions_event.26.b:0 ""But he was old now, no longer in his prime.""
+
+EDG_BAH_missions_event.27.t:0 "Ahmad's Dream"
+EDG_BAH_missions_event.27.d:0 ""Speak not to me of petty land conflicts!"\n\nFrom the hilltops of the brooding city to the whole of the Deccan, wherever Ahmad went, all submitted to him. From youthful vigor to a head of white hair, victory embraced him, and glory bowed before him. He knew not when to stop, nor wished to, chasing only the afterglow on the horizon.\n\nQuickly, Ahmad must be quicker. He had no time to take prisoners. Galloping cavalry charged recklessly through Bahmani, washing away the humiliations of the past. Ahmad yearned to outrun time; he now had to race against Death himself. City after city raised its flag in surrender before him, while Time pursued closely behind.\n\nBe it day or night, dream or reality, he rode on, galloping. He knew not when to stop, dared not stop, fearing that a single moment of negligence would see Time drag him from his horse into the cold, dark abyss.\n\nWhere his horse's hooves had not yet trod, the lands of Bahmani were gradually unified. Gazing into the distance from his saddle, Ahmad's eyes caught a glimmer of light on the horizon—a future belonging to himself: "A unified Deccan, gleaming under the scorching sun."\n\n"Hyah!"\n\nHe spurred his horse and whipped the reins, charging towards the hope of unification. He knew he would succeed; he knew the Deccan would ultimately be united by him. But unknowingly, he had grown old. The horse whinnied in pain under the reins, its eyes no longer sharp, its senses no longer keen, its pace ever slowing, until finally, it stopped.\n\nGasping for breath, Ahmad cursed the horse's old age. A chill touched his shoulder. He turned his head sharply. Where the horse's hooves had trod, the lands of the Deccan began to crack and crumble. He refused to see this dark future. He refused to stop. He wanted to keep chasing.\n—A tribute to the legendary player "lyq", who unified India in 1483.\nThanks to the Guild Leader."
+EDG_BAH_missions_event.27.a:0 ""But he was old now, no longer in his prime.""
+
+EDG_BAH_missions_event.28.t:0 "Disloyal Governor of Golconda"
+EDG_BAH_missions_event.28.d:0 "The Governor of Golconda controls the great diamond mines. If this source of wealth were cut off, we would be left with no recourse.\nThe decision §GReward the Governor§! can be used to mitigate the effect. Completing the §GUnify the Deccan mission§! will refresh the mission tree and provide a mission to remove the negative effect."
+EDG_BAH_missions_event.28.a:0 "Grant partial privileges"
+
+EDG_BAH_missions_event.29.t:0 "Disloyal Governor of Berar"
+EDG_BAH_missions_event.29.d:0 "The Governor of Berar controls the northern rainforests. This area is harsh in environment and also a necessary passage to the Ganges.\nThe decision §GReward the Governor§! can be used to mitigate the effect. Completing the §GUnify the Deccan mission§! will refresh the mission tree and provide a mission to remove the negative effect."
+EDG_BAH_missions_event.29.a:0 "Allow them autonomy"
+
+EDG_BAH_missions_event.30.t:0 "Disloyal Governor of Bijapur"
+EDG_BAH_missions_event.30.d:0 "Once, Bijapur rebelled right before our eyes. At that time, we were mired in the struggle for independence. To prevent schemers from taking advantage, we must grant certain privileges in exchange for peace.\nThe decision §GReward the Governor§! can be used to mitigate the effect. Completing the §GUnify the Deccan mission§! will refresh the mission tree and provide a mission to remove the negative effect."
+EDG_BAH_missions_event.30.a:0 "Exchange for peace"
+
+EDG_BAH_missions_event.31.t:0 "Disloyal Governor of Ahmadnagar"
+EDG_BAH_missions_event.31.d:0 "The Ahmadnagar region is a gathering area for many nobles within the country. To continue external expansion, we need the assistance of these nobles, which inevitably entails certain expenditures.\nThe decision §GReward the Governor§! can be used to mitigate the effect. Completing the §GUnify the Deccan mission§! will refresh the mission tree and provide a mission to remove the negative effect."
+EDG_BAH_missions_event.31.a:0 "Bestow rewards upon them"
+
+EDG_BAH_missions_event.32.t:0 "Appease the Governors"
+EDG_BAH_missions_event.32.d:0 "The four provincial governors are now willing to pledge absolute loyalty to the Padishah. We can now set our sights further afield.\nThe decision §GReward the Governor§! can be used to mitigate the effect. Completing the §GUnify the Deccan mission§! will refresh the mission tree and provide a mission to remove the negative effect."
+EDG_BAH_missions_event.32.a:0 "Absolute loyalty"
+
+EDG_BAH_missions_event.34.t:0 "Like a Fleeting Illusion"
+EDG_BAH_missions_event.34.d:0 ""Fifty years of human life, like a dream, like an illusion..."\n\nAhmad lay on his bed, lamenting the hardships of life. His dreaming mind drifted back fifty years, when the master of Delhi with a million fierce troops loomed over the Deccan, the tiny Bahmanis could only endure humiliation, and this endurance lasted a full fifty years. Only when the old Sultan finally aged and the shackles binding the south began to loosen did the Bahmanis at last seize the crucial moment, winning their independent status—a victory that was delayed a full fifty years.\n\nNow, Delhi's cavalry sweeps down from the north in a great invasion. Seated upon gold and jade is that exceedingly aged old Sultan, his purpose to utterly extinguish the flames of Bahmani independence and freedom. The old Sultan spoke thus:\n\n"The Bahmanis once belonged to Delhi in the past; our two peoples are as close as flesh and blood, as brothers."\n\nEven as he spoke, he commanded his troops to slaughter these "brothers." City after city, the sabers of Delhi's horsemen cut down innocent men, women, and children like harvesting wheat.\n\nThe distant pain and screams startled the sleeping Ahmad awake. The dream was like a sharp knife, foretelling that "fated death." The merciful Allah had sent him a prophecy: when Ahmad is pierced in the heart by the Sword of Fate, an angel will stroke his face and accompany him on his final journey.\n\nBut before that, he will burn his remaining life, using his last moments to secure a future for the Bahmanis. Ahmad does not fear death, but he fears not having tried his utmost.\n\nAllah has promised him victory, provided he can forge the §MBahmanis§! into a §Tgreat empire§!.\nThat life-taking §R"Sword of Fate"§!...\n\nAhmad will die in thirty years. If he fulfills Allah's promise and becomes an empire before his fated death, he can break free from the shackles of fate."
+EDG_BAH_missions_event.34.a:0 ""Victory belongs to the people of the §MBahmanis§!, to those who dare to grapple with the great elephant.""
+
+EDG_BAH_missions_event.35.t:0 "Transformation of War"
+EDG_BAH_missions_event.35.d:0 "Our military today is composed of various legions and units, which has made our nation renowned for its military strength, particularly in firearms. Beyond our famed artillery, our cavalry also strikes fear into our enemies. Moreover, as an Indian empire, our armies can utilize war elephants—a force few neighboring realms can truly muster."
+EDG_BAH_missions_event.35.a:0 "Sweeping All Before Us"
+EDG_BAH_missions_event.35.b:0 "Overwhelming Force"
+
+EDG_BAH_missions_event.36.t:0 "Banners Obscure the Sky"
+EDG_BAH_missions_event.36.d:0 "Banners obscure the entire sky; wherever our armies tread becomes our land."
+EDG_BAH_missions_event.36.a:0 "Offense"
+EDG_BAH_missions_event.36.b:0 "Defense"
+EDG_BAH_missions_event.36.c:0 "Quality"
+EDG_BAH_missions_event.36.e:0 "Quantity"
+EDG_BAH_missions_event.36.f:0 "Never Mind"
+
+EDG_BAH_missions_event.38.t:0 "Upon the Turquoise Throne"
+EDG_BAH_missions_event.38.d:0 "From the Gupta Empire to the Delhi Sultanate, all took the unification of India as their great task, yet they all foundered upon this so-called fate.\nNow we have broken the shackles of fate, seated upon the Turquoise Throne."
+EDG_BAH_missions_event.38.a:0 "Upon the Turquoise Throne"
+
+EDG_BAH_missions_event.39.t:0 "Mandate of India"
+EDG_BAH_missions_event.39.d:0 "Now the Three Cities of the Mandate are under our control, while the former Son of Heaven has long been displaced. It is I who shall now claim the Mandate."
+EDG_BAH_missions_event.39.a:0 "Commissioned by Heaven"
+
+EDG_BAH_missions_event.40.t:0 "The Tower Crumbles"
+EDG_BAH_missions_event.40.d:0 "The Indian Empire should fall—this has been its destiny for millennia. But Allah has long promised us the shattering of these chains. This is the final trial: reverse the grand course of fate."
+EDG_BAH_missions_event.40.a:0 "The Tower Crumbles"
+
+EDG_BAH_missions_event.42.t:0 "Inquiring of Ministers on Key Considerations for Governing Bahmanis"
+EDG_BAH_missions_event.42.d:0 "Honorable Padishah, while the Bahmani State appears stable, prosperous, and thriving on the surface, beneath it, hidden undercurrents and open rivalries churn. Allow this old minister to explain in detail.\n 1. First, in 1450, the §BDisloyal Four-Province Governors§! event will trigger. We must complete the first Deccan disaster, the §BDeccan Religious Strife§!, to remove it.\n 2. Next is the §BDisloyalty of the Four Provincial Governors§! near Bidar. Although they have accompanied us for a long time, since §BBijapur§! and §BKadira§! successively declared independence... alas. The solution is that we can mitigate the debuff through the decision §GReward the Governor§!. Afterward, completing the mission §GUnify the Deccan States§! will refresh the mission tree and provide missions to resolve the governors' disloyalty. Completing the §GPacify the Four Governors§! mission will remove all buffs.\n 3. Our bureaucratic system is primarily Shia, while the common people are Hindu. They will become dissatisfied with our rule, potentially triggering the §Gmodifier§! §BIndian Religious Conflicts§!. The solution is to adopt the §GHumanist Ideas§! or achieve §G+9 Tolerance of Heretics§!. How to achieve §G+9 Tolerance§!? It's simple: completing missions to gain the Dhimmī estate can provide substantial tolerance. Surviving the §BDeccan Religious Strife§! disaster also grants significant tolerance and its cap. Later, completing the Northern Expedition missions (requires completing §GUnify the Deccan States§!) can provide substantial tolerance, potentially reaching exactly +9.\n 4. How to resolve the §Gmodifier§! §BIndian National Fragmentation§!? First, the starting ruler's 4/4/5 abilities ensure it absolutely will not trigger initially. Therefore, for a smooth transition, the player must reach §G1000 development§! §Gbefore 1475§!. If not reached by 1475, don't panic; develop peacefully. Overextension may cause minor rebellions, but it's manageable.\n 5. Next are matters concerning disasters. First, the §BDeccan Religious Strife§!. How to quickly overcome this disaster? We don't need to engage enemy armies directly, only siege their provinces. §BAnnex all Deccan tags completely (note: vassalization is not allowed)§!. If you can't swallow them all at once, you can break truces. Then wait for the event §GAbsolute Power§! to trigger, which will end the disaster.\n 6. How to overcome the disaster §GThe Collapse of the Deccan Empire§!? I designed this disaster as a trial to test the player's understanding of the combat system and application of military tactics. It requires setting up a fortress network near the capital for defense. What if I'm just bad, can't win, or am simply unskilled? Don't worry; after 5 years, all debuffs will disappear. The AI will also reduce its armies during this time, allowing you to handle things slowly later. Enemy strength is carefully calculated to avoid overwhelming advantages either way—me crushing you OR you crushing me. The main goal is to make players sweat while experiencing the thrill of battle, and to think strategically about troop movement.\n 7. For other questions or bugs, please contact §GEDG Bahmanis Author - Guan Muhua§!. Thank you for playing. Wishing you a pleasant life and success in all endeavors! May you enjoy every moment, and stay healthy!"
+EDG_BAH_missions_event.42.a:0 "I understand"

@@ -687,7 +687,7 @@ EDG_TIM_if_done_via_conquer:0 "If completed via §MConquest§! then:"
 EDG_TIM_if_done_via_diplomacy:0 "If completed via §MDiplomacy§! then:"
 EDG_TIM_if_done_via_other:0 "If completed via §MOther means§! then:"
 
-EDG_TIM_mission_end_crisis_title:0 "Resolve the Succession Crisis"
+EDG_TIM_mission_end_crisis_title:0 "Resolve the Succession" # Resolve the Succession Crisis
 EDG_TIM_mission_end_crisis_desc:0 "With the passing of the old Sultan Shah Rukh, the long-standing balance of power was shattered. Abu'l-Khayr Khan of the Uzbeks sought to install Baysunghur's eldest son, Ala al-Dawla, as a puppet heir. However, we did not allow this conspiracy to succeed. The rightful Sultan Ulugh Beg, with the support of his loyalists, repelled Abu'l-Khayr Khan's interfering armies, and the usurper's rebellion has been suppressed. It is time to restore order."
 EDG_TIM_mission_punish_title:0 "Punish the Traitors"
 EDG_TIM_mission_punish_desc:0 "His Majesty Ulugh Beg's nephew, Ala al-Dawla, the governor of Fergana, openly conspired with the Uzbeks to usurp the throne from the rightful heir. More alarmingly, such treasonous actions garnered support from some local nobles, townsfolk, and even wealthy merchants who funded the rebellion. This is intolerable! All traitors must be held to account!"
@@ -697,7 +697,7 @@ EDG_TIM_mission_transoxiana_title:0 "Consolidate Transoxiana"
 EDG_TIM_mission_transoxiana_desc:0 "The Syr Darya and Amu Darya, the mother rivers of Central Asia. The land between these two rivers, Transoxiana, has been a cradle of civilization. Samarkand, Bukhara, Kesh, Andijan, Khujand, Urgench... Around these prosperous cities, numerous dynasties established brilliant civilizations—and we are the greatest among them. After our rule in Iran crumbled, we retreated to our heartland in Transoxiana. As long as our rule here remains secure, we retain the foundation for a resurgence."
 EDG_TIM_mission_transoxiana_tooltip:0 "Each region of §YTransoxiana§!, §YFergana§!, and §YKhwarezm§! has at least one §YFort building§!"
 
-EDG_TIM_mission_turkmen_title:0 "Recruit Turkmen Regiments"
+EDG_TIM_mission_turkmen_title:0 "Turkmen Regiments" # Recruit Turkmen Regiments
 EDG_TIM_mission_turkmen_desc:0 "The usage and definition of 'Turkmen' have always been vague throughout history. Early Turkmen tribes roamed the Karakum Desert and the oases along its southern fringe without stable political order. Since Turkmen began entering the Iranian region, numerous Turkmen tribes settled there, serving as enforcers for Iranian warlords. Some assimilated into groups like the Azerbaijanis and even established their own regimes. We can recruit these Turkmen to serve in our armies."
 EDG_TIM_mission_turkmen_tooltip_1:0 "Unlocks the §OTurkmen Regiments§! mercenary company. This company is located in §Y[2349.GetName]§!, costs §G50% less§! than the normal price, and does not reduce §YArmy Professionalism§!. The company has the following modifiers:\nLoot Speed: §G+50.0%§!\nCavalry Ratio: §G+25.0%§!\nCavalry Shock: §G+1§!"
 EDG_TIM_mission_turkmen_tooltip_2:0 "All provinces of §YTurkmen§! or §YTurco-Iranian§! culture under our rule:"
@@ -846,7 +846,7 @@ EDG_TIM_mission_caliph_option_4:0 "If the §MSunni Caliphate has already been de
 EDG_TIM_mission_caliph_tooltip_1:0 "Upgrades the reward from mission '§YLord of the Mashriq§!':\nWhen claiming to be §YDefender of the Faith§!, the modifier '§YAfterglow of the Caliphate§!' additionally grants:\nDiplomatic Reputation: §G+1.00§!\nRelations with Same Religion Countries: §G+10§!\nAdvisor Cost for Ruler's Faith: §G-15.0%§!"
 EDG_TIM_mission_caliph_tooltip_2:0 "Skips this mission; no rewards are obtained."
 
-EDG_TIM_mission_holy_city_title:0 "Guardian of the Two Holy Cities"
+EDG_TIM_mission_holy_city_title:0 "Guardian of the Holy Cities" # Guardian of the Two Holy Cities
 EDG_TIM_mission_holy_city_desc:0 "Mecca and Medina, the holy cities of Muslims. Whoever controls these two cities becomes the leader of the Islamic world. We shall follow the Prophet's teachings, become the Guardians of the Holy Cities, protect the Muslims who come on pilgrimage, and we shall be the spokesmen of Allah."
 EDG_TIM_mission_holy_city_tooltip_1:0 "Unlocks decision: §MRenovate the Kaaba§!"
 EDG_TIM_mission_holy_city_tooltip_2:0 "Upgrades the reward from mission '§YSword of Islam§!':\nWhen claiming to be §YDefender of the Faith§!, the modifier '§YSword of Islam§!' additionally grants:\nReligious Unity: §G+15.0%§!"

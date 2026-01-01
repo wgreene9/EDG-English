@@ -1,0 +1,237 @@
+﻿l_english:
+EDG_MISSION_HZB_1_1_title:0 "Corrupt Government"
+EDG_MISSION_HZB_1_1_desc:0 "Corrupt Mongol warlords and opportunistic tribal traitors plague our nation, a seemingly insurmountable obstacle stemming from our nomadic heritage. We must ensure the state is reformed with a more stable image."
+
+EDG_MISSION_HZB_1_3_title:0 "Roast the Red Sheep" # Cook the Red Sheep
+EDG_MISSION_HZB_1_3_desc:0 "The Qizil Qoyunlu tribe, claiming descent from the Seljuks, initially obeyed the Jalayirids who held Baghdad as the khanate crumbled, then treacherously overthrew their employer of different faith and established their own Nestorian kingdom in Baghdad. Betrayal is always the most disgraceful act. Let us destroy this Turkmen dynasty, return to Mesopotamia, and restore the great city of Harun al-Rashid."
+
+EDG_MISSION_HZB_1_4_title:0 "The Lost Nestorians"
+EDG_MISSION_HZB_1_4_desc:0 "At the Council of Seleucia-Ctesiphon in 410, the Mesopotamian Christian Church, supported by Sassanid Emperor Yazdegerd I, severed all ties with the Western Church. Yet, Eastern Christians did not become rootless flowers blooming in Persia. These self-styled 'Assyrian' heretics settled in the Iranian lands for a millennium until the Ilkhanate fell into disaster. When Muzaffarid governor enacted harsh religious policies, a significant number of Nestorians fled to the heartland of the ancient Persian Empire—the Fars region—and eventually established the Nestorian Sargu Kingdom during the Muzaffarid internal strife. Their history is indeed moving, but soon they themselves will be nothing more than a historical footnote."
+
+EDG_MISSION_HZB_1_6_title:0 "Punish the Levant"
+EDG_MISSION_HZB_1_6_desc:0 "The Levantines first broke free from Mamluk rule, and now they have betrayed the Sahada dynasty. How long do these petty men think they can roam free? The Levant being ruled by forces other than us is an insult to the humiliation our Mongol ancestors suffered there. We shall avenge our forebears and bring the prosperous cities of the Sham under our dominion."
+
+EDG_MISSION_HZB_1_7_title:0 "Revenge for Ain Jalut" # Revenge for the Battle of Ain Jalut
+EDG_MISSION_HZB_1_7_desc:0 "In the past, the newly formed Mamluk Sultanate repelled our first invasion of Egypt at the Battle of Ain Jalut. This humiliation has lingered hauntingly in our hearts. Today, the Mamluks are troubled by religious issues, no longer as valiant as they were in Baybars' time, while the Khanate is stronger than ever before. We shall return and launch a war of vengeance against the Mamluks."
+
+EDG_MISSION_HZB_1_8_title:0 "The Great Yassa"
+EDG_MISSION_HZB_1_8_desc:0 "The Mongol Great Yassa is undoubtedly the fundamental law and tradition of the Khanate, though it has dissatisfied many ulama and civil officials, granting the military significant power in administrative affairs. We must choose whether to ease tensions within the court or reinforce the privileges of the Mongol nobility."
+
+EDG_MISSION_HZB_1_10_title:0 "Legacy of the Eternal Sky"
+EDG_MISSION_HZB_1_10_desc:0 "Tengri, Lord of the Skies, forgive us; it is time to say farewell. The old ways are outdated; our court has turned our minds to a new faith. Allah will lead us to victory, but I will not forget you; you will always be with me."
+
+EDG_MISSION_HZB_1_11_title:0 "Shadow of Allah on Earth"
+EDG_MISSION_HZB_1_11_desc:0 "The Caliph is the designated successor of the Prophet Muhammad (peace be upon him) after his ascension, the common leader of all Islamic nations. However, after the era of the Rashidun Caliphs, this throne has been shrouded in shadow. The prolonged struggles among the Umayyad, Abbasid, and Fatimid dynasties have diluted its sanctity. Although we were once the steppe's horselords, since Ghazan Khan, we have become devout Muslims. It is our duty to defend the Caliph—whether Abbasid or Fatimid—we must rescue him and punish the thugs who imprison him."
+
+EDG_MISSION_HZB_1_12_title:0 "One Lord, One State"
+EDG_MISSION_HZB_1_12_desc:0 "The Islamic Caliphate once ruled a vast territory stretching from al-Andalus in the west to the Indus River Valley in the east. However, the long passage of time corrupted the once-proud Arab conquerors, and Persian culture eroded the devout jurists. Long before the Mongol westward expeditions, the Abbasid Caliphate had become a puppet in the hands of Turkic warlords; the arrival of our Mongols merely helped end its miserable fate of being manipulated ahead of schedule. Today, [Root.GetName] has proven her greatness by surpassing the boundaries of the Caliphate, and the [Root.Monarch.GetTitle] has demonstrated the fine qualities worthy of being the Caliph. From Muawiyah's usurpation to the Abbasid Revolution, from the rise of the Fatimid dynasty to the Mamluks' control of the Caliph, the farce of the Islamic world must cease. This time, it will be the Mongols who rebuild the Ummah and rule over all Muslims."
+
+EDG_MISSION_HZB_1_14_title:0 "Flames of Ruthenia"
+EDG_MISSION_HZB_1_14_desc:0 "The Ruthenian princes have truly learned nothing, forgetting how formidable the Mongols are. Since the Golden Horde lost its authority, their actions have grown increasingly unrestrained. This reckless freedom will not continue. We shall destroy them and make them know who their true master is."
+
+EDG_MISSION_HZB_1_17_title:0 "A Thousand Miles of Frozen Land"
+EDG_MISSION_HZB_1_17_desc:0 "Scandinavia's climate is harsh, its soil barren, with ice and snow covering the sky, and its subjects fierce and warlike—conquering this land is no easy task. But beyond it lie the undefended coastlines of northern Germany and the bountiful North Sea. If our armies can conquer these thousand miles of frozen land, it will provide us with a forward base for our next phase of expansion."
+
+EDG_MISSION_HZB_1_19_title:0 "Invasion of Farangistan"
+EDG_MISSION_HZB_1_19_desc:0 "France is the most powerful nation in Western European Christendom, even bearing the laudatory title 'Eldest Daughter of the Church,' having launched numerous crusades. However, before the great armies of the [Root.Monarch.GetTitle], the French must submit. We shall destroy the Frankish legacy and establish a Muslim Farangistan!"
+
+EDG_MISSION_HZB_1_21_title:0 "Rebuild the Imperial Capital"
+EDG_MISSION_HZB_1_21_desc:0 "The glorious city of Tabriz is the heart of our nation, where life, culture, and commerce pulse. It is time to elevate the city further, transforming it into the 'Pearl of the Empire,' possessing unparalleled prestige and wealth. Tabriz shall become a city of wonder coveted by the world, attracting scholars, merchants, and artisans from all nations."
+
+EDG_MISSION_HZB_1_22_title:0 "Construct Madrassas"
+EDG_MISSION_HZB_1_22_desc:0 "Timur brought calamity upon his enemies, and Persia was not spared from his iron hooves. Now that our nation holds this land, it is time to restore the former glory of Iranian architectural craftsmanship and rebuild these destroyed great structures."
+
+EDG_MISSION_HZB_1_23_title:0 "Golden Age of Iranzamin"
+EDG_MISSION_HZB_1_23_desc:0 "After reforming our religion, court, and state, we gladly embrace a new national identity—Iranzamin. Henceforth, the world shall know Iranzamin as the sole successor of the ancient Achaemenid Empire and the true master of Iran."
+
+EDG_MISSION_HZB_2_3_title:0 "Execute the Elamites" # Execute the Elamite Remnants
+EDG_MISSION_HZB_2_3_desc:0 "In 1358, southern Persia suffered a great drought. The Muzaffarid governor of Yazd demanded all non-believers pay triple the jizya to fund military needs. The Zoroastrians believed the governor was the incarnation of the drought demon Apusha, an evil spirit sent by the wicked god Ahriman to torment the followers of Ahura Mazda. The governor's son, Shah Shuja, secretly allied with the Zoroastrians. Armed with their own weapons, the Zoroastrians besieged Yazd. The governor's forces abandoned the city, and the governor himself was imprisoned and blinded by Shah Shuja. The Zoroastrian sacred fire, once extinguished with the decline of the Sassanid dynasty, was rekindled. The Muzaffarids, ungrateful for the khanate's benevolence, turned apostate and treasonous during the khanate's crisis, establishing their own rule. The [Root.Monarch.GetTitle] harbors deep hatred for them and swears to personally execute them."
+
+EDG_MISSION_HZB_2_4_title:0 "Extinguish Fire of Baluchistan" # Extinguish the Sacred Fire of Baluchistan
+EDG_MISSION_HZB_2_4_desc:0 "The sparsely populated region of Baluchistan is now controlled by the Zoroastrian Guhistan people. This land has always been the frontier of Iranian civilization, overlooked by conquerors throughout history. However, they too shall not escape the iron hooves of the [Root.Monarch.GetTitle]. Let us conquer them, or they will remain a threat at our very bedside."
+
+EDG_MISSION_HZB_2_6_title:0 "Masters of the Gulf"
+EDG_MISSION_HZB_2_6_desc:0 "The Persian Gulf is a prosperous region where trade from India flows into Arabia and Persia. By controlling the edges of the strait, we can control this vital artery of global trade."
+
+EDG_MISSION_HZB_2_7_title:0 "Conquer Arabia"
+EDG_MISSION_HZB_2_7_desc:0 "Following the collapse of the Sahada dynasty, Arabia is in a power vacuum. Like the Sassanids before us, we will conquer the endless sands of the south. It is only right that the peninsula's subjects and ideologies be ruled by Persian rulers. Even if Arabia cannot quickly bring substantial benefits to the empire, preventing it from falling into enemy hands is worthwhile."
+
+EDG_MISSION_HZB_2_8_title:0 "Alawites? …"
+EDG_MISSION_HZB_2_8_desc:0 "The Alawite sect is a Shiite branch founded by Ibn Nusayr in the mid-9th century. After the death of the Eleventh Imam, Nusayr declared himself the 'Hidden Imam' and recognized Ali as the 'manifestation of God.' His successor, Husayn ibn Hamdan al-Khasibi, further developed the sect's doctrines and spread them into Syria, where they merged with the Druze faith.\n\nBecause Alawite jurists in the southeastern Mediterranean had constant access to new information from Italy, Tunisia, and Iberia, they embraced many ideas from the Renaissance and Reformation. For the first time, this inspired and gave rise to numerous ideologies demanding change, national independence, and unity. Moreover, like us, they advocate for the deification of the monarch. More importantly, Alawite thought is highly popular among the urban class, and many cities have prospered due to the lubrication of Alawite influence. Since the Alawite sect spread to our country, some progressive jurists and the bourgeoisie have recognized its high value and believe we can cooperate with the Alawites."
+
+EDG_MISSION_HZB_2_9_title:0 "The Safavids and the Sufis"
+EDG_MISSION_HZB_2_9_desc:0 "The Safavid order was founded by Sheikh Safi al-Din in 1301 in Ardabil, northwestern Persia. Originally a Sunni Sufi order primarily composed of local Turkomans, it rapidly expanded, with members spreading across parts of Persia, Iraq, Anatolia, and Syria, and once received the support and patronage of the Ilkhanate. To this day, the Safavid order has gained widespread backing in Azerbaijan and western Iran. If the [Root.Monarch.GetTitle] wishes to consolidate his rule, he must seek religious support from the Safavid order."
+
+EDG_MISSION_HZB_2_10_title:0 "Caliph of Iranzamin"
+EDG_MISSION_HZB_2_10_desc:0 "The religious situation in the Iranian land is precarious and likely to breed rebels opposing our rule in the future. We must enforce absolute religious unity, inherit the mantle of the Abbasid Caliphate, establish the name of the Caliph of Iranzamin, and forge a homogeneous [Root.GetAdjective] identity."
+
+EDG_MISSION_HZB_2_12_title:0 "Cross the Mountains"
+EDG_MISSION_HZB_2_12_desc:0 "For many empires, the Caucasus Mountains serve as a natural border, but not for us. We shall conquer the highlanders to pave the way into the fertile lands beyond."
+
+EDG_MISSION_HZB_2_13_title:0 "Jochi's Legacy"
+EDG_MISSION_HZB_2_13_desc:0 "The Ulus of Jochi, the fief of Genghis Khan's eldest son Jochi, known to the Rus as the Golden Horde, has now collapsed and splintered into many Tatar tribes hoping to inherit its mantle. Rather than letting the Tatars futilely attempt to unify their divided lands, let us unite this territory. We shall be the ones to restore Jochi's legacy."
+
+EDG_MISSION_HZB_2_14_title:0 "The Wound of Ruthenia"
+EDG_MISSION_HZB_2_14_desc:0 "Foolish Rus princes believe we have been left behind by the times and have long ceased paying tribute. We shall destroy their cities, take their wives captive, burn their fields, and remind them who is the true master of the steppe."
+
+EDG_MISSION_HZB_2_16_title:0 "Western Expedition to Europa"
+EDG_MISSION_HZB_2_16_desc:0 "The untimely death of Möngke Khan interrupted the westward march of the Mongol Empire's symphony of conquest. Since then, the four khanates split the land, the empire fragmented, allowing Europa to linger on. A new Genghis Khan shall resume the great conquest. We will trample Europe flat, making the destruction of Kievan Rus pale in comparison."
+
+EDG_MISSION_HZB_2_17_title:0 "No Longer Holy"
+EDG_MISSION_HZB_2_17_desc:0 "In 1241, the Mongol army led by Batu Khan crushed the allied forces of the Holy Roman Empire. However, due to the news of Möngke Khan's death, the westward campaign did not continue. We have now surpassed the furthest reach of the Mongol western expeditions of old and once again defeated the coalition of these states that are neither holy, nor Roman, nor an empire. They are utterly insignificant before the Mongols!"
+
+EDG_MISSION_HZB_2_19_title:0 "Invasion of Hispania"
+EDG_MISSION_HZB_2_19_desc:0 "The House of Islam has long been lifeless; the outwardly fierce yet inwardly weak Sahada dynasty and the Ottoman Empire have only brought further disappointment. Following the initial failures of the Caliphate to capture Constantinople, cross the Pyrenees, and unify Iberia, the Islamic world turned inward, nurturing rich cultural and scientific achievements but achieving little in external expansion. We are the great conquerors who will reverse the apathy and stagnation of the Muslim world, unite it under the sacred sovereignty of the Great Khan, and expand the territories of the House of Islam for the first time in centuries."
+
+EDG_MISSION_HZB_2_22_title:0 "Pearls of Azerbaijan"
+EDG_MISSION_HZB_2_22_desc:0 "For the hundred years since the khanate's total collapse, war, plague, and the displacement of peoples have left Iranian cities depopulated and handicrafts withered. This status quo can persist, but it is unstable and makes the jewels of our [Root.Monarch.GetTitle], our beautiful cities, appear desolate. We should focus on addressing this issue by providing economic aid to handicrafts to incentivize the repopulation of our cities."
+
+EDG_MISSION_HZB_2_24_title:0 "The Enlightened Age"
+EDG_MISSION_HZB_2_24_desc:0 "Knowledge is a gift from Allah to the humble. Medicine, mathematics, and physics—these are fields of thought we should embrace and promote. We shall establish universities so that more may be blessed with the bounty of knowledge."
+
+EDG_MISSION_HZB_3_1_title:0 "The Ilkhanate Regent" # The Unacknowledged Ilkhanate Regent
+EDG_MISSION_HZB_3_1_desc:0 "The Hazaraspid dynasty was originally a Kurdish tribe of the Zagros, bearing the title 'Thousand Horses,' ruling the barren mountainous regions that the Mongol conquerors were unwilling to govern. After the Golden Horde army breached Tabriz, the so-called Ilkhanate monarch vanished amidst the flames of war. The Hazaraspid secretly welcomed the deposed former great khan, Sati Beg Khanum, to the throne, and she entered into matrimony with the Hazaraspid clan leader. As various claimants met untimely deaths or succumbed to illness, by 1340, the female great khan became the sole legitimate heir. In 1345, Khan Sati Beg passed away, and her son Surgan and his descendants inherited the puppet khanate to this day.\n\nTimur's conquests brought shame upon the khan's court, stripping it of influence over the Iranian lands. The Hazaraspid Pillar of State is no longer acknowledged, even stirring ambitions within the great khan himself. We must prove the resilience of the regency and once again proclaim the name of the great state."
+
+EDG_MISSION_HZB_3_2_title:0 "The Faltering Edifice" # Support the Faltering Edifice
+EDG_MISSION_HZB_3_2_desc:0 "The iron fist of Timur-i-Lang did not destroy us, the uprisings of the khan's court did not crush us, and the other Iranian tribes cannot stop us. We are determined to support the faltering edifice, reverse the raging tide, and rebuild the Ulus of Hulagu!"
+
+EDG_MISSION_HZB_3_3_title:0 "Recapture Tabriz"
+EDG_MISSION_HZB_3_3_desc:0 "The Qara Qoyunlu tribe dares to ignore our suzerainty and has usurped the khanate's former capital, Tabriz. Moreover, they have raided border towns including Qazvin and Soltaniyeh. We shall curb their ambitions and punish their insolence."
+
+EDG_MISSION_HZB_3_5_title:0 "The Ruler's Identity"
+EDG_MISSION_HZB_3_5_desc:0 "The dream of the Supreme Pillar of State is fulfilled; the land of Iran-Shahr is entirely in our hands. Yet now, a new issue emerges: due to the long intermarriage between the Khan's court and the Hazaraspid clan, the two families have become interwoven, as close as one. Some ministers—including key family elders—believe that the Pillar's nephew, the current Ilkhan, possesses both civil and martial prowess, even to the point of pressuring the Pillar of State to return power to the Great Khan and step into the background. What shall we do? Continue maintaining the Hazaraspid Supreme Pillar's regency, or allow the Ilkhan to step back into the forefront? Only Heaven knows."
+
+EDG_MISSION_HZB_3_6_title:0 "The Empire's Banner"
+EDG_MISSION_HZB_3_6_desc:0 "With our conquest of Persia, we have now become a resurgent force, seemingly on the path to restoring the long-lost Mongol glory. However, we will not stop here but aim even higher."
+
+EDG_MISSION_HZB_3_8_title:0 "Surpassing Hulagu"
+EDG_MISSION_HZB_3_8_desc:0 "The great Hulagu Khan successfully conquered most of Western Asia, establishing the glorious Ulus of Hulagu. After decades of campaigning north and south, we have now surpassed Hulagu Khan. Our name will be immortalized alongside his for eternity."
+
+EDG_MISSION_HZB_3_9_title:0 "A New Dawn for the Empire"
+EDG_MISSION_HZB_3_9_desc:0 "We have returned. While other uluses crumble, the Ulus of Hulagu has returned! The kings who once doubted us have declined like other foolish warlords, either falling within our sphere of influence or vanishing entirely into the torrent of history. Our might is insurmountable, our vision ever-expanding. A new dawn for the empire has arrived, and the full restoration of the Mongol Empire is within reach—Onward!"
+
+EDG_MISSION_HZB_3_17_title:0 "The Fall of the Holy City"
+EDG_MISSION_HZB_3_17_desc:0 "Is this the most sacred city in Christendom today? How pitiful. They are nothing significant, merely an ancient, small town atop seven hills near a river estuary. We should level its miserable existence and continue our conquest."
+
+EDG_MISSION_HZB_3_18_title:0 "Scourge of God"
+EDG_MISSION_HZB_3_18_desc:0 "Today, the vast majority of the world lies directly or indirectly prostrate under our rule. What once seemed an expansive world ultimately amounts to nothing more than a small chessboard. We are the 'Scourge of God' as the Christians call us. Our campaign is far from its end. Ahead lie infinite wealth, endless territories, and supreme power awaiting us..."
+
+EDG_MISSION_HZB_3_19_title:0 "Invasion of Britannia"
+EDG_MISSION_HZB_3_19_desc:0 "The English Channel controls the throat to the British Isles, and the Britons妄想 to block us with their pitiful, weak fleet! Let them see how the Mongol warhorses charge across the Channel!"
+
+EDG_MISSION_HZB_3_20_title:0 "Padishah of the World and Khan of Humankind"
+EDG_MISSION_HZB_3_20_desc:0 "Legend has it that in the past, under the rule of the Great Khan, a woman could carry a gold nugget fearlessly from one end of the empire to the other. Today, under the reign of the Padishah of the World and Khan of Humankind, we have restored such a peaceful and prosperous scene across all our domains."
+
+EDG_MISSION_HZB_3_21_title:0 "Stabilize the Political Center"
+EDG_MISSION_HZB_3_21_desc:0 "Our state must focus on administrative management, making it operate as efficiently as possible. We will no longer rely on hearsay from lazy representatives of the nobility but will listen to our subjects' voices across the entire empire using advanced judicial bodies, a powerful military, and supervisory institutions."
+
+EDG_MISSION_HZB_3_23_title:0 "The Indisputable Shahanshah"
+EDG_MISSION_HZB_3_23_desc:0 "Iranzamin, the land of the Aryans, the heart of the ancient Persian Empire, calls to us. Throughout its long and storied history, it has witnessed the rise and fall of great empires, each leaving its mark upon its sands. To restore its former glory, we have toiled day and night, and now we stand on the verge of embracing a great destiny. Our people, culture, and economy are flourishing once more, resonating with the splendors of the past. Our mission is to press onward, embarking on yet another great conquest, reviving the ancient lineage of leaders whose fate is intertwined with the pulse of Iranzamin."
+
+EDG_MISSION_HZB_3_11_title:0 "Seeking Our Roots"
+EDG_MISSION_HZB_3_11_desc:0 "Our ruler is the Genghis Khan and Shahanshah. We must rebuild the Mongol Khanate, return to the old capitals of Karakorum and Xanadu, convene the Kurultai, and demand all tribes acknowledge our authority!"
+
+EDG_MISSION_HZB_3_12_title:0 "Ögedei's Legacy"
+EDG_MISSION_HZB_3_12_desc:0 "Persia is under our control, but we must not neglect the central steppes. At the height of Mongol power, all the grasslands were in our grasp. One could ride unimpeded from Khanbaliq to Sarai. Let us once again extend our territory across the entire Great Steppe, reclaim the legacy of Kaidu, grandson of Ögedei Khan, and remind those humble lords who their Khan is."
+
+EDG_MISSION_HZB_3_14_title:0 "Chagatai's Legacy"
+EDG_MISSION_HZB_3_14_desc:0 "The Chagatai Khanate, once the hegemon of the entire western steppe ruled by the descendants of Genghis Khan, has long since crumbled under the assaults of the Uzbeks. As the foremost among the western princes, it is our duty to gather the countless fragments of this long-shattered empire and rebuild it. We will make this empire stronger than it ever was before."
+
+EDG_MISSION_HZB_3_15_title:0 "Surpassing Genghis Khan"
+EDG_MISSION_HZB_3_15_desc:0 "We rose from humble beginnings in the Zagros Mountains, but now we have swept across the former territories of the Mongol Empire, restoring the honor of the Great Khan. For a long time, the four khanates fragmented, splitting into many pieces. Yet we have replicated the Khan's conquests and restored his legacy. Re-conquering the Mongol Empire—even the ancestor Temüjin himself was not as great as the current [Root.Monarch.GetTitle] is today!"
+
+EDG_MISSION_HZB_4_3_title:0 "Subdue the Sarbadars"
+EDG_MISSION_HZB_4_3_desc:0 "The Sarbadars are military leaders who fled from the Khorasan region; they are warlords by nature, and their chieftain is the greatest among them. Only by force can we make these unruly warlords obey us. They claim to be a confederation; under their hegemon's leadership, they even once ambushed and defeated Timur. The harshest measures must be used against them. We shall tame the Sarbadar warlords like lions, making them understand they are but an ordinary tribe among the many in Khorasan under the Great Khan's banner."
+
+EDG_MISSION_HZB_4_4_title:0 "Unite the Tribes"
+EDG_MISSION_HZB_4_4_desc:0 "After the Ilkhanate's fragmentation a century ago, the mountainous Iranian lands became an arena for tribal conflicts. Turkomans, Pashtuns, Mongols, and Uzbeks took turns on the stage, one after another settling and flourishing in Iran. Now, the reins around the necks of these tribes are once again held by the [Root.Monarch.GetTitle]. We have proven to the world that the ruler of [Root.GetName] is not only the King of Kings of Iranzamin but was, is, and always will be the favored son of Heaven on horseback!"
+
+EDG_MISSION_HZB_4_6_title:0 "Supreme Turk"
+EDG_MISSION_HZB_4_6_desc:0 "The Sultanate of Rum and their Seljuk overlords were both defeated by the Khanate. Now, the Ottoman dynasty in the west is merely another overconfident upstart attempting to challenge the authority of the Khan's court. We will show these Seljuk underlings who the true Supreme Turk is!"
+
+EDG_MISSION_HZB_4_7_title:0 "Land of the Purple Yurt"
+EDG_MISSION_HZB_4_7_desc:0 "The former territories of the once-mighty Byzantine Empire are now entirely under our control. Let us extend a merciful hand to the Greeks, lost in their past glory, and borrowing the purple they revere, become their Purple Yurt Khan!"
+
+EDG_MISSION_HZB_4_8_title:0 "Sack Constantinople"
+EDG_MISSION_HZB_4_8_desc:0 "Upon the shimmering waters of the Bosphorus stands an eternal city—Constantinople, named by its founder and pioneer to bring the Roman power structure closer to the borders of Iran, thereby containing the Persian Empire. Our [Root.Monarch.GetTitle] is the Great Khan from the steppe, the King of Kings of Iran-Shahr, the great Fatih of the Muslim world. Capturing Constantinople, conquering Thrace, and advancing into the desolate coastlines of Greece will prove we have surpassed the former Sassanid and even Caliphal states, telling the world that [Root.GetName] is the heir to the Achaemenid Empire, the sole master of Iranzamin."
+
+EDG_MISSION_HZB_4_9_title:0 "Appoint Darughachis"
+EDG_MISSION_HZB_4_9_desc:0 "Darughachis were the enforcers of the Mongol Empire, known as 'Baskaks' in Turkic, responsible for maintaining order and collecting taxes. They formed a decentralized system of administrative and military officials ensuring Mongol rule was obeyed across the vast territories."
+
+EDG_MISSION_HZB_4_10_title:0 "Reestablish the Tributaries" # Reestablish the Tributary System
+EDG_MISSION_HZB_4_10_desc:0 "To spare themselves from the invasion of the Khanate's iron hooves, nations have successively become vassals or paid tribute to us. This is proof of the revival of the Ulus tributary system, the best evidence that we are destined to rule the entire world."
+
+EDG_MISSION_HZB_4_12_title:0 "Cross the Great Wall"
+EDG_MISSION_HZB_4_12_desc:0 "The Great Wall protects the dragon seated upon the throne in [EmperorOfChina.Capital.GetCapitalName]. Once it falls, we can enter China and destroy the empire that once scorned us."
+
+EDG_MISSION_HZB_4_13_title:0 "Kublai's Legacy"
+EDG_MISSION_HZB_4_13_desc:0 "Our eastern brothers, the Yuan dynasty, have now been driven out of the Central Plains by the hawk-eyed and wolf-hearted Zhu Ming emperor, losing the Mandate of Heaven. The Mongols are disgraced. As the new Great Khan, we must recast the empire of Kublai Khan and reclaim the Mandate!"
+
+EDG_MISSION_HZB_4_14_title:0 "Tame the Dragon"
+EDG_MISSION_HZB_4_14_desc:0 "We have finally returned to China—this eternal dragon from the distant East, which is an empire, a civilization, and a world unto itself. It is so remote, isolated, gazing down upon everything beyond its borders with Celestial arrogance, demanding submission and reverence from other lands. However, we are not barbarians; we are not petty agrarian tribes to be bullied and vassalized. We are the Mongols, and they will remember this—by any means necessary."
+
+EDG_MISSION_HZB_4_16_title:0 "The World's Gasp"
+EDG_MISSION_HZB_4_16_desc:0 "The world yearns to see the Great Khan's iron cavalry halt, yet all they witness are Mongol riders still galloping across the land. Our campaign will never cease; the entire world shall have no respite before the storm of the Khanate's onslaught!"
+
+EDG_MISSION_HZB_4_17_title:0 "The Mughal Empire"
+EDG_MISSION_HZB_4_17_desc:0 "'Mughal' is a Persian variation of the word 'Mongol' (moghol). During the conquest of India, although we consistently called ourselves the army of the Ilkhan, the Indians still referred to us as 'Mughals' and the khanate as the 'Mughal Empire.' Regardless, we have accomplished Genghis Khan's unfinished task, incorporating Hindustan—where the remnants of the Khwarazmian once hid—into our domain!"
+
+EDG_MISSION_HZB_4_19_title:0 "Invade Latium"
+EDG_MISSION_HZB_4_19_desc:0 "Latium, or Italy, was the heartland of the ancient Roman Empire. The Romans' old foe, the Persians, have become the Khanate's most obedient servants. Italy too shall offer its heart to the [Root.Monarch.GetTitle]."
+
+EDG_MISSION_HZB_4_22_title:0 "The Immortals"
+EDG_MISSION_HZB_4_22_desc:0 "Our proud history has become murky and diluted over time. Yet, various legends still stand tall—the most prominent being that of the Immortals. Ancient Persian and Roman scholars documented this elite force of powerful heavy infantry, the Immortals, consistently maintained at ten thousand strong, never increasing or decreasing. They not only guarded our rulers but defended the entire empire. Given the strength of our military and the empire's growing might, it is time to revive this legend. Let the enemy tremble!"
+
+EDG_MISSION_HZB_4_24_title:0 "Invincible in Battle"
+EDG_MISSION_HZB_4_24_desc:0 "The path of the steppe calls to us. If our ancestors were alive today and stood by our side, they would not hesitate at the composition of our present army. Let us pay homage to them, return to the ways of the great steppe—mounted, unstoppable, becoming the terror that is invincible."
+
+EDG_MISSION_HZB_5_1_title:0 "Reins of the Mongol Nobles" # Reins of the Mongol Nobility
+EDG_MISSION_HZB_5_1_desc:0 "We are a conglomeration of different tribes. Turkic aristocrats, Kipchak elites, and Mongol nobles all form the cornerstone of our empire. However, these tribes often disregard our rules, seeking only their own glory. We need to show them who the [Root.Monarch.GetTitle] is and remind them of the consequences rebellious subjects face."
+
+EDG_MISSION_HZB_5_3_title:0 "Submission of Naiman-Kerait" # Submission of the Naiman-Kerait Tribes
+EDG_MISSION_HZB_5_3_desc:0 "Since Genghis Khan unified the steppe, the descendants of the Kerait and Naiman tribes, led by the last Naiman Khan Küchlüg, fled to the Western Liao. After twenty years of the Western Liao refusing shelter for fear of Mongol pressure, a Mongol tribe following the Nestorian faith emerged around the city of Farah—this was the Farah tribe. In the early days of the Mongol westward expeditions, the Farah people were still a submissive tribe under Mongol suzerainty. However, after Ghazan Khan converted to Islam, disrupting the Ilkhanate's policy of religious parity and demanding non-Muslims pay the jizya tax, the Farah people were among the first major separatist forces to break away when the khanate crumbled. They initially cooperated with Timur the Lame but swiftly betrayed the agreement after Timur's defeat by the warlord coalition. Nevertheless, the current [Root.Monarch.GetTitle] is willing to show them mercy, allowing them to once again submit to the Khanate's saber. After all, 'If I can forgive the descendants of the Naiman, what reason do other enemies have not to surrender to me?'"
+
+EDG_MISSION_HZB_5_4_title:0 "Pacify Afghanistan"
+EDG_MISSION_HZB_5_4_desc:0 "Afghanistan, the graveyard of empires, the gateway to India, Bactria, and the Persian Gulf, is home to the hardy, fierce, semi-nomadic Pashtuns. Fortunately, they are currently divided among several dynasties. Let us attack and conquer them while they are weak and disorganized. This will be a wise move to put the Khanate a step ahead."
+
+EDG_MISSION_HZB_5_6_title:0 "Invade India"
+EDG_MISSION_HZB_5_6_desc:0 "The Ganges River basin possesses some of the world's most fertile soil, as evidenced by the wealth of northern India. Although we have secured most of the natural borders adjacent to India, it is only a matter of time before other steppe empires rise and enter India from other directions to challenge us. We should preemptively seize the lands of Hindustan for ourselves."
+
+EDG_MISSION_HZB_5_7_title:0 "Your Lord Must Prevail"
+EDG_MISSION_HZB_5_7_desc:0 "'I am the scourge of Heaven. If you have not committed monstrous sins, why would you incur Heaven's punishment upon yourself?' The heart of India is firmly clenched in our grasp. We should continue our conquest to assert absolute rule as the master of India!"
+
+EDG_MISSION_HZB_5_8_title:0 "Khans of the North Frontier" # Khans of the Northern Frontier
+EDG_MISSION_HZB_5_8_desc:0 "The northern flank of the ulus has repeatedly been violated by Uzbeks and Mughals, who seek to claim parts of our territory as their own. The uluses of Shiban and Chagatai never aligned with the Ilkhanate; they did not lend aid during its collapse, and they remained indifferent when the Hazaraspid clan later attempted to reunify it. The Khans of the Northern Frontier must be punished! Let them see who is the greatest successor of Genghis Khan!"
+
+EDG_MISSION_HZB_5_10_title:0 "The Call of the Steppe"
+EDG_MISSION_HZB_5_10_desc:0 "The tribes of the khanate are not always unified. Many still maintain subordination relationships and take pride in their lineage and ancestors. This division cannot continue. The [Root.Monarch.GetTitle] has heard the call of the steppe. To achieve political stability and return to our long-yearned homeland, all tribes must be united."
+
+EDG_MISSION_HZB_5_11_title:0 "The Mantle of the Great Khan"
+EDG_MISSION_HZB_5_11_desc:0 "Although the peerless Genghis Khan passed away centuries ago, his successors still live on. It is our duty to inherit his mantle and create the greatest empire the world has ever seen."
+
+EDG_MISSION_HZB_5_12_title:0 "Conquer Manchuria"
+EDG_MISSION_HZB_5_12_desc:0 "The Jurchens and their led Jin dynasty once competed with us in conquering the steppe and advancing south into the Central Plains, making them ancestral foes of our forebears. Ultimately, they were conquered by the Great Khan, and Genghis Khan proclaimed an unprecedented slaughter upon the Jurchen tribes. However, over time, a group of 'New Jurchens,' the Manchus, who migrated from farther regions into the former Jurchen lands, seem to be attempting once more to expand into the Central Plains under the banner of Jin. We must destroy them again."
+
+EDG_MISSION_HZB_5_13_title:0 "Zhengdong Province"
+EDG_MISSION_HZB_5_13_desc:0 "Möngke Khan once compelled the Koreans to accept Mongol rule. Goryeo later became the most obedient and loyal vassal of the Yuan dynasty. However, present-day Joseon has distanced itself from the Yuan court and has long ceased kneeling before Karakorum. As the heirs of Kublai Khan, we must remind them who their true master is."
+
+EDG_MISSION_HZB_5_14_title:0 "The Reversed Divine Wind"
+EDG_MISSION_HZB_5_14_desc:0 "The encounter with the Japanese Kamikaze is perhaps the most famous defeat in Mongol Empire history. Because storms destroyed all ships unfortunate enough to dare attack, the Japanese effortlessly wiped out Kublai Khan's army. However, no matter how miraculous this demonic wind, we are Mongols, and even the greatest storm we shall conquer. When the fleet of [Root.GetName] sets sail from the west, there will be no 'Divine Wind' to obstruct our campaign!"
+
+EDG_MISSION_HZB_5_17_title:0 "Annihilate Bharat"
+EDG_MISSION_HZB_5_17_desc:0 "Although India lies in ruins, the myriad small Southeast Asian states influenced by it still survive across the vast lands from the Arakan Mountains to the South China Sea. We shall extinguish the Buddhist realms spanning thousands of miles, destroy the remnants of Greater Bharat, and integrate their mandala system into our own vassal-tributary system."
+
+EDG_MISSION_HZB_5_18_title:0 "Genghis Khan of the Vast Ocean"
+EDG_MISSION_HZB_5_18_desc:0 "Many years ago, the Mongol army suffered defeat in the expedition to Java, tarnishing the myth of Mongol invincibility. This time we shall not fail again! Let their blood consecrate our battle standards!"
+
+EDG_MISSION_HZB_5_19_title:0 "Invade the New World"
+EDG_MISSION_HZB_5_19_desc:0 "Our conquest nears its end, but beyond what the Westerners call the 'Pillars of Hercules,' there seems to be a new land. According to the Iberians, there are more unplundered treasures, more pastures for horses, and more uncivilized barbarians fit for enslavement. It appears our western campaign is not yet over."
+
+EDG_MISSION_HZB_5_21_title:0 "Rebuild the Army"
+EDG_MISSION_HZB_5_21_desc:0 "Since the total collapse of 1335 and the subsequent Timurid invasion, the military structure of the Ilkhanate has been burdened with deep-seated problems. To realize our ideal of restoring the Mongol Empire, we must rebuild our army."
+
+EDG_MISSION_HZB_5_22_title:0 "Kheshig Guard"
+EDG_MISSION_HZB_5_22_desc:0 "Our [Root.Monarch.GetTitle] is the symbol of our mighty tribe, and our [Root.Monarch.GetTitle] is feared across the world. However, his power is envied by many, and some would not hesitate to kill the [Root.Monarch.GetTitle] to take his place. For this reason, the [Root.Monarch.GetTitle] needs loyal guards to protect him at all times and at any cost, day and night. We can take a cue from our ancestor Genghis Khan: restore the Kheshig Guard!"
+
+EDG_MISSION_HZB_5_23_title:0 "A Lifetime of Campaigns"
+EDG_MISSION_HZB_5_23_desc:0 "Since embarking on the path of restoration, our nation has been building a strong and well-trained army to protect our ability to move from one victory to another on the battlefield. If we wish to continuously push the empire's frontiers forward, we must leverage the lessons learned from war and thoroughly reform our military."

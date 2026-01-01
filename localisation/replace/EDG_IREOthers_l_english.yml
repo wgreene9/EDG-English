@@ -117,7 +117,7 @@ merc_EDG_IRE_fianna:0 "§TOrder of the Fianna§!"
 EDG_bard_loyalty_modifier:0 "Bard Loyalty"
 EDG_bard_influence_modifier:0 "Bard Influence"
 EDG_bard_privilege_slots:0 "Bard Privilege Slots"
-mechanic_enables_estate_EDG_bard_yes:0 "Enable\t§YBards§!\tEstate"
+mechanic_enables_estate_EDG_bard_yes:0 "Enable §YBards§! Estate"
 estate_EDG_bard:0 "Bards"
 estate_EDG_bard_desc:0 "Minstrels thrived in the Middle Ages, themselves often geniuses and talents who might hail from noble and wealthy families or from lowly and poor ones. Relying on their wit, they crafted many novel tales.\n\nIn ancient Celtic society, bards enjoyed privileges. They composed poems praising clan chieftains, extolling heroic deeds, and celebrating the promulgation of laws. Moreover, within certain non-Celtic social systems, bards could also become significant components of the royal court."
 

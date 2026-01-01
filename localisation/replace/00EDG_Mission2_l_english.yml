@@ -241,7 +241,7 @@ EDG_FYM_mission_4_28_flag_tt:0 "We will unlock the following §YMercenary Compan
 EDG_FYM_mission_5_7_trigger_tooltip:0 "All countries with provinces in the §YAnatolia§! and §YPersia§! regions have an §YArmy Size§! smaller than that of [Root.GetName]."
 EDG_FYM_mission_5_8_tt:0 "All provinces in the §YPersia§! region owned by us or our subjects that follow a §Ynon-Islamic§! religion will gain the following modifier:"
 
-EDG_flavor_PER_war_3_enable_flag_tt:0 "After annexing countries of the §YPersian culture group§! through military means, we will be able to trigger the event §Y'Annexing Persian Princes'§!"
+EDG_flavor_PER_war_3_enable_flag_tt:0 "After annexing countries of the §YIranian culture group§! through military means, we will be able to trigger the event §Y'Annexing Persian Princes'§!"
 
 EDG_FYM_mission_5_10_flag_tt:0 "We will unlock the following decisions:\n-§MIntensify Religious Persecution§!\n-§MForcibly Relocate Non-Believers§!\n-§MIranian Religious Unity§!"
 EDG_FYM_mission_5_12_flag_tt:0 "We will unlock the following decisions:\n-§MWeaken Clan Power§!\n-§MStrengthen Ruler's Sanctity§!\n-§MEmbrace Absolutist Administration§!\n-§MIntegrate Kurdish Emirs§!\n-§MIntegrate Turkmen Sheikhs§!\n-§MIntegrate Turkic Beys§!"
@@ -522,17 +522,17 @@ EDG_TUR_disable_MAM_flag_trigger_tooltip:0 "We have already completed the decisi
 
 EDG_TUR_cancel_MAM_egy_reform_enable_flag_tt:0 "Unlocks the decision §Y'Revoke Mamluk Privileges'§!."
 
-EDG_TUR_Kapikulu_enable_flag_tt:0 "We will enable the §YKapıkulu§! mechanic. This mechanic is accessed via the §Ybutton on the right side of the military interface§! §M(right-hand button)§!. (If this button cannot be found, it indicates a mod conflict. Please remove all other mods, especially UI mods, including cosmetic mods and large modifier panel mods.)\n\nUnlocks the decision §Y'Assign Timar Estates'§!, allowing us to exchange §Mcrown land§! for §MTimar Estate§! allocation."
+EDG_TUR_Kapikulu_enable_flag_tt:0 "We will enable the §YKapikulu§! mechanic. This mechanic is accessed via the §Ybutton on the right side of the military interface§! §M(right-hand button)§!. (If this button cannot be found, it indicates a mod conflict. Please remove all other mods, especially UI mods, including cosmetic mods and large modifier panel mods.)\n\nUnlocks the decision §Y'Assign Timar Estates'§!, allowing us to exchange §Mcrown land§! for §MTimar Estate§! allocation."
 
 EDG_MISSION_TUR_reform_1_13_tt:0 "All eligible provinces we §Yown§! will gain §M1§! point of §Ybase manpower§!."
 EDG_janisary_3_modifier_decision_enable_flag_tt:0 "Unlocks the decision §Y'Expand the Mehter Band'§!"
 
 EDG_TUR_Kapikulu_we_need_land_tt:0 "We need to expend §M1§! unit of §YTimar Estate§! to increase the §YTimar Estate Quantity§! for this military unit.\nWe can obtain more §YTimar Estates§! through §Ymissions§! and §Ydecisions§!."
 
-EDG_MISSION_TUR_reform_3_15_flag_tt:0 "Allows us to invest Timar Estates into the §Y'New Army'§! within the §Y'Kapıkulu'§! mechanic.\n\nIncreases the §YTimar Estates§! held by the §Y'New Army'§! by §M1§! unit."
+EDG_MISSION_TUR_reform_3_15_flag_tt:0 "Allows us to invest Timar Estates into the §Y'New Army'§! within the §Y'Kapikulu'§! mechanic.\n\nIncreases the §YTimar Estates§! held by the §Y'New Army'§! by §M1§! unit."
 
-EDG_TUR_Kapikulu_decree_button_1_unlock_flag_tt:0 "Unlocks the §Y'Kapıkulu'§! §M'military decree'§! §Y'Increase Janissary Subsidies'§!"
-EDG_TUR_Kapikulu_decree_button_2_unlock_flag_tt:0 "Unlocks the §Y'Kapıkulu'§! §M'military decree'§! §Y'Review the Janissaries'§!"
+EDG_TUR_Kapikulu_decree_button_1_unlock_flag_tt:0 "Unlocks the §Y'Kapikulu'§! §M'military decree'§! §Y'Increase Janissary Subsidies'§!"
+EDG_TUR_Kapikulu_decree_button_2_unlock_flag_tt:0 "Unlocks the §Y'Kapikulu'§! §M'military decree'§! §Y'Review the Janissaries'§!"
 
 EDG_MISSION_TUR_reform_1_12_tt:0 "All provinces with an established §YBektashi Order§! will gain the following effect:"
 
@@ -659,11 +659,11 @@ EDG_Mission_TUR_conquest_2_mission_5_5_tt_2:0 "All provinces belonging to the §
 EDG_Mission_TUR_conquest_2_mission_5_3_tt:0 "All provinces with §YGeorgian§! culture owned by us or our subjects will produce the following effect:"
 EDG_Mission_TUR_conquest_2_mission_5_1_tt:0 "All provinces in the §YCaucasus§! region owned by us or our subjects with §Yunrest§! below 1 will provide us with §M5§! points of £adm£ administrative power and reduce §Mcorruption§! by §M0.5§!:"
 
-EDG_flavor_TUR_mission_24_name_b:0 "Supreme Rum"
+EDG_flavor_TUR_mission_24_name_b:0 "Supreme Rûm"
 EDG_flavor_TUR_mission_24_name_c:0 "Ottoman Rome"
 EDG_flavor_TUR_mission_24_name_d:0 "Büyük Ulku"
 
-EDG_flavor_TUR_mission_24_name_b_ADJ:0 "Supreme Rum"
+EDG_flavor_TUR_mission_24_name_b_ADJ:0 "Supreme Rûmi"
 EDG_flavor_TUR_mission_24_name_c_ADJ:0 "Ottoman Roman"
 EDG_flavor_TUR_mission_24_name_d_ADJ:0 "Büyük Ulku"
 
@@ -758,11 +758,11 @@ EDG_mission_LOT_1_2_b_tt_no:0 "£no£If we complete the mission by §Mimproving 
 EDG_mission_LOT_1_3_a_tt:0 "Each of our subjects belonging to the §YGermanic§! culture group will produce the following effect:\n- Lose §M25%§! §Gindependence desire§!\n- Provide us with §M25§! points of £adm£ administrative power.\n\nAll §Mtheocracies§! within @PAP the Papal State and the £icon_EDG_icon_hre_emperor£ §YHoly Roman Empire§! will increase their §Gopinion§! of us by §M50§! points.\n\nThe §YClergy§! estate privilege §Y'Guardian of the Catholic Church'§! will additionally grant the following modifiers:\n- §M+1§! §Gdiplomatic reputation§!\n- §M+0.5§! §Gyearly prestige§!"
 EDG_mission_LOT_1_3_opinion:0 "Protect the Bishopric"
 
-EDG_mission_LOT_2_1_a_tt_yes:0 "£yes£If our ruler is §YLudwig VII§!, then"
-EDG_mission_LOT_2_1_a_tt_no:0 "£no£If our ruler is §YLudwig VII§!, then"
+EDG_mission_LOT_2_1_a_tt_yes:0 "£yes£If our ruler is §YLouis VII§!, then"
+EDG_mission_LOT_2_1_a_tt_no:0 "£no£If our ruler is §YLouis VII§!, then"
 
-EDG_mission_LOT_2_1_b_tt_yes:0 "£yes£If our ruler is not §YLudwig VII§!, then"
-EDG_mission_LOT_2_1_b_tt_no:0 "£no£If our ruler is not §YLudwig VII§!, then"
+EDG_mission_LOT_2_1_b_tt_yes:0 "£yes£If our ruler is not §YLouis VII§!, then"
+EDG_mission_LOT_2_1_b_tt_no:0 "£no£If our ruler is not §YLouis VII§!, then"
 
 EDG_mission_LOT_2_2_tt:0 "Each province we own that follows our §Ystate religion§! will provide us with the following rewards:\n- §M1§! point of £adm£ administrative power\n- §M1§! point of §Gprestige§!"
 EDG_flavor_LOT_mission_10_insight_tt:0 "This event will provide us with the §YFrankish Successor§! casus belli, which we can use to declare war on @FRA France."

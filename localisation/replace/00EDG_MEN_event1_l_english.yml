@@ -1,0 +1,245 @@
+﻿l_english:
+EDG_flavorMEN_mission.1.t:0 "Suppress the Doukas Rebellion"
+EDG_flavorMEN_mission.1.d:0 "At the accession of Andronikos III, Nikephoros of the Doukas family wielded considerable power within the Empire. Aware that he might be attacked by the Emperor and doubtful of his ability to prevail militarily, he secretly withdrew the imperial forces loyal to him. Leading a mercenary army and allying with the Gothic rulers of Theodoro, he invaded the Genoese territories along the Black Sea coast. The Republic of Genoa, beset by internal and external troubles at the time, was unable to organize an effective resistance, thus losing its colonies near the Black Sea. Now, we shall eradicate the traitors for the Basileus."
+EDG_flavorMEN_mission.1.a:0 "Now is the time to eliminate the treacherous!"
+EDG_flavorMEN_mission.1.b:0 "The time is not yet right."
+
+EDG_flavorMEN_mission.2.t:0 "Return to Roman Orthodoxy"
+EDG_flavorMEN_mission.2.d:0 ""
+EDG_flavorMEN_mission.2.a:0 "We are Romans, of course"
+
+EDG_flavorMEN_mission.3.t:0 "The Prodigal Shall Return"
+EDG_flavorMEN_mission.3.d:0 "The people of Smyrna claim to have been abandoned by Rome, yet when we extended our aid, they cast it aside like worn-out shoes. This shows they are nothing but arrogant fools. Now, we shall eradicate the traitors for the Basileus."
+EDG_flavorMEN_mission.3.a:0 "If Rome has come, why still call yourselves Greeks?"
+
+EDG_flavorMEN_mission.4.t:0 "Betrayal of the Brotherhood"
+EDG_flavorMEN_mission.4.d:0 ""
+EDG_flavorMEN_mission.11.a:0 "Just you wait"
+
+EDG_flavorMEN_mission.5.t:0 "Funeral Pyre of Terror"
+EDG_flavorMEN_mission.5.d:0 ""
+EDG_flavorMEN_mission.5.a:0 "Dare not transgress again"
+
+EDG_flavorMEN_mission.6.t:0 "A Visitor from Constantinople"
+EDG_flavorMEN_mission.6.d:0 "Tonight, the city of Mylasa is unusually lively, for a member of the Eastern Empire's imperial family is not a common sight. The Greeks in the city are thrilled by this royal arrival. Ilyas III's yearning for Rome is well known; his multiple failed pledges of allegiance to Rome in previous years have even become a subject of popular ridicule. Should this Turkic Bey successfully submit, they would soon be Romans once more.\n\nThe visitor is Konstantinos of the Palaiologos family, brother of the late Eastern Emperor Ioannes VIII—a valiant middle-aged man. Ilyas warmly receives this uncle of the Basileus, expressing his own longing for Rome while vehemently condemning the corrupt officials and faded glory of the Empire. Though their meeting is brief, the two become kindred spirits. Konstantinos is accompanied by a young man named Pavlos, who claims to have been rescued by Konstantinos while crossing the Aegean Sea to join his father, making them sworn brothers. After conversing with him, the elder Ilyas realizes this Pavlos is the child he had with a Greek mistress many years ago, now his sole heir in the absence of a legitimate wife or other offspring. Pavlos likewise urges Ilyas to become part of Rome, to repay the imperial family for saving his life. He believes that only by embracing the mission of restoring the Eastern Roman Empire can the perilous state of Orthodoxy be changed. Uniting Greeks discontent with Muslim rule under their banner is the only path forward for the Principality of Mentese, founded on Orthodox faith.\n\nThough the banquet conversation is delightful, Ilyas hesitates to board what seems a doomed ship. Even fragmented, the Ottoman Empire far surpasses the decrepit Rome. Their tolerant religious policies and shared ethnic ties offer a viable alternative through submission. His youthful dream of Rome feels distant; Ioannes VIII and his Greek nobles had rejected the title for this 'barbarian.' Now, with the loss of Morea, the Basileus finally shows interest in his allegiance, but it seems more like Rome seeking to drain his lifeblood as it faces oblivion. Ilyas III is caught in a dilemma..." # city of Mentese
+EDG_flavorMEN_mission.6.a:0 "Take the revival of Rome as our duty"
+EDG_flavorMEN_mission.6.b:0 "All lies in ruins, Rome is no more"
+
+EDG_flavorMEN_mission.7.t:0 "The Tragedy of Rumelia"
+EDG_flavorMEN_mission.7.d:0 "After the fragmentation of the Ottoman Sultanate, numerous factions in the Balkans and Anatolia plunged into a series of chaotic wars. Among them, Rumelia stood out as the foremost, inheriting the wealthiest territories of the Ottomans and boasting a powerful ruler, forming a stark contrast with the decrepit Rome. But now, we shall annihilate these arrogant barbarians. The glory of the Basileus brooks no usurpation!"
+EDG_flavorMEN_mission.7.a:0 "They are mere poultry and pottery dogs!"
+
+EDG_flavorMEN_mission.8.t:0 "Pillars of the Imperial Court"
+EDG_flavorMEN_mission.8.d:0 "Grand Duke [MEN.Monarch.GetName] of Mentese, summoned by the Basileus, arrived in Constantinople. Once withered alongside Rome's decline, this city is now the undisputed Queen of Cities, a transformation inseparable from the efforts of the Menteseoglu family. The Basileus praised [Root.$MONARCH$name] and bestowed honors upon the Kingdom of Mentese. The Greek nobles participating in the court, their eyes filled with fear, dreaded becoming a thorn in the Grand Duke's side, while simultaneously inquiring about young men and women within the Menteseoglu clan, hoping to deepen ties through marriage. At this moment, the Mentese family indisputably holds overwhelming power within the court.\n\n'To you, our Champion Leader, triumphant in battle, for your rescue from disaster, we, your city, dedicate hymns of thanksgiving to the Theotokos. But as you possess invincible might, set us free from every peril, so that we may cry to you: Hail, unwedded Bride!'"
+EDG_flavorMEN_mission.8.a:0 "Our loyalty to Rome is absolute!"
+EDG_flavorMEN_mission.8.tt:0 "Gain §YCultural Union§! for the §TByzantine culture group§!\nCulture in some areas will slowly convert to a §Tculture within the Byzantine culture group§!\nAllowed to recruit §TJanissaries§! in provinces sharing the §YSame Religion§!"
+
+EDG_flavorMEN_mission.9.t:0 "Revenge from Rome"
+EDG_flavorMEN_mission.9.d:0 "John Uroš, long since gray at the temples, had abdicated the throne of Epirus to his son-in-law and retired to a monastery, not emerging even when his son-in-law lost the crown to the Latins. Arta, as part of the Balkan Crusaders, had wrought havoc for years. These despicable Crusaders, not only incapable of defeating the Ottomans, had also drawn their blades against the people of Rome. Now, we shall eradicate the traitors for the Basileus."
+
+EDG_flavorMEN_mission.10.t:0 "The Resurgence of the Greek Nation"
+EDG_flavorMEN_mission.10.d:0 ""
+EDG_flavorMEN_mission.10.a:0 "Drive the Latins out"
+
+EDG_flavorMEN_mission.11.t:0 "The Black Sails of Crete"
+EDG_flavorMEN_mission.11.d:0 ""
+EDG_flavorMEN_mission.11.a:0 "Damn them"
+
+EDG_flavorMEN_mission.12.t:0 "Punish Theodore"
+EDG_flavorMEN_mission.12.d:0 "In early 1444, Andronikos III entrusted Theodore with the defense of Morea and appointed him as its Despot. Theodore of the Laskaris dynasty, after being appointed Despot and stationed in Morea, ultimately betrayed Andronikos III. He secured the support of the Duke of Venice and Isaac IV, the ruler of Sicily, raised his own army, declared himself Basileus as Theodoros III, and openly opposed Andronikos III. He is not the only one to betray for ambition. Now, we shall eradicate the traitors for the Basileus."
+
+EDG_flavorMEN_mission.13.t:0 "Judgment Across the Sea"
+EDG_flavorMEN_mission.13.d:0 "In 1411, a rebellion was led by military nobles, foremost among them Isaac of the Angelos family. Although the rebels were defeated by Manuel II, Isaac of the Angelos led his forces west across the sea to the Kingdom of Sicily, then embroiled in civil war. He conquered the strife-torn kingdom and established an Orthodox Greek regime there. Later, these traitors even provided aid to Theodore, making their crime utterly unforgivable. Now, we shall eradicate the traitors for the Basileus."
+
+EDG_flavorMEN_mission.14.t:0 "Rome Endures"
+EDG_flavorMEN_mission.14.d:0 ""
+
+EDG_flavorMEN_mission.15.t:0 "On the Eve of Assembly"
+EDG_flavorMEN_mission.15.d:0 "Ibash has taken on this present mess: the endless quarrels of Greek nobles, Zoe's insufficient authority as a girl, and countless enemies on the open battlefield. His entire force seems like dwarves beneath a giant's foot before the Germans, ready to be crushed in a single step.\n\nBefore the march, Ibash, heavy-hearted yet feigning composure, recited vows of certain victory to Zoe, though clearly distracted. Suddenly, a soft touch made him realize Zoe had stood up and embraced him.\n\n'Come back safely. You can do it, right?' Zoe struggled to draw Ibash's Roman short sword, pointing it northwest of Constantinople—from where the marauding Germans were coming. Her sword hand trembled, tears flowing uncontrollably; clearly, she too was feigning composure.\n\nAt that moment, gazing in the direction Zoe pointed, Ibash seemed to receive some revelation, shedding all prior hesitation.\n\nThe young man departed, leading his army toward the direction the girl had indicated, clutching the short sword that still held a trace of warmth.\n\n'My body belongs to the Empire's people, yet there is no Empire to defend. With the blood of barbarians, Rome shall surely be revived!'"
+EDG_flavorMEN_mission.15.a:0 "Where our Emperor's sword points, there our hearts shall follow!"
+
+EDG_flavorMEN_mission.16.t:0 "Rainy Night, Princess, Attendant"
+EDG_flavorMEN_mission.16.d:0 "On that rainy night when the Constantinople coup occurred, Ibash was bewildered.\n\nAs the youngest son of the Grand Duke of Mentese, he had never contemplated inheritance rights. Under his father's arrangement, he had early on become an attendant to Zoe, the Basileus's youngest daughter. Though called an attendant, he was more of a playmate. The still-childish princess was mischievous, often playing pranks in the imperial palace and pinning them on him, causing him much grief. When he took the blame for others, she would cheekily come to mock him, only to be caught instantly, leaving him laughing heartily at the spectacle of the princess being disciplined by the etiquette minister, furious yet not daring to speak.\n\nBut this farcical life ended today. Fires raged, black smoke billowed, and the sounds of killing filled the entire palace. In his confusion, he encountered his father, covered in wounds.\n\n'I will draw off the pursuers. The boat is ready. You must go and save His Majesty!'\n\nWith that, his father left without looking back, leaving Ibash only with these words and his resolute, desperate silhouette.\n\nYet when Ibash found the Basileus, a flash of lightning split the night sky, illuminating everything—this most esteemed person of the empire had become a corpse, eyes wide open as if alive, the imperial crown symbolizing the empire's lineage fallen to the ground, blood still wet upon it.\n\n'Have I failed even my father's dying wish? If only I had come a little earlier...' Ibash slumped to the ground in despair, tears flowing, his sobs drowned out by the thunder. Only when the thunder ceased did he realize he was not the only one crying. It was Zoe, curled beneath the chair hidden by the Basileus's body, desperately trying to make no sound.\n\n'Your Highness...!' Ibash quickly scooped up Zoe, grabbed the crown from the floor, and mustered all his strength to reach the harbor. By the time they boarded the boat, the young man was utterly exhausted, collapsing unconscious without even removing his armor.\n\nThe wind howled, lightning flashed, and thunder roared. The once frivolous girl, with the most devout posture of her life, prayed to the Lord. The fishing boat trembled as it sailed through the storm, mirroring the fate of Rome."
+EDG_flavorMEN_mission.16.a:0 "The fishing boat drifts on the sea like a candle in the wind. What will become of their fate?"
+
+EDG_flavorMEN_mission.17.t:0 "Dawn's First Light"
+EDG_flavorMEN_mission.17.d:0 "The walls of Constantinople that [MEN.Monarch.GetName] once guarded now have a gaping hole blasted through them. The siege is over; the armies of the illegitimate regime, utterly ignorant of Constantinople's defensive systems, had no idea how to hold the city. The loyal Roman forces quickly gained control of the situation.\n\nJust as [MEN.Monarch.GetName] was about to rest, a blinding light suddenly struck [Root.Monarch.GetHimHer]. It was the sail falling away, revealing the slowly rising sun."
+EDG_flavorMEN_mission.17.a:0 "Let us enter the city"
+
+EDG_flavorMEN_mission.18.t:0 "Guardian of the Holy Roman Empire"
+EDG_flavorMEN_mission.18.d:0 "The vile invaders from the Germanic pretender regime have been utterly repelled. The once-overbearing Holy Roman Emperor was escorted by our soldiers to the tribunal. Ibash, rarely dressed in formal attire, appeared as the true master of this empire. He invited almost all the Holy Roman nobility to participate in this trial — the centralized power, so hard-won by the Holy Roman Empire, was once again dispersed by Ibash. No sensible German noble would miss a chance to claim their share.\n\nDuring the trial, Ibash neither proposed that the Eastern Empire concurrently hold the title of Holy Roman Emperor nor demanded to become an Elector himself. He merely stripped the condemned on the tribunal of most of their ducal titles, allowed the Orthodox Church to proselytize in Vienna, and integrated Mentese into the Holy Roman Empire. The nobles who gained power were overjoyed, but some of the more astute could only stare helplessly at Ibash.\n\nWhile these measures seemed like nothing more than a lenient treaty of surrender, with such a united, powerful, and fearless imperial member—who dared to judge the emperor and defied the Pope—present, even the emperor was but a caged bird, let alone these petty states. Once this young man, akin to an imperial guardian, consolidates his footing, what recourse would there be, even if imperial authority in the Holy Roman Empire were recentralized?"
+EDG_flavorMEN_mission.18.a:0 "Rumor has it your family rose from humble beginnings. Now, enjoy building from scratch!" # Rumor has it your family rose from humble beginnings. Now, savor the taste of building from scratch!
+
+EDG_flavorMEN_mission.19.t:0 "The Vow"
+EDG_flavorMEN_mission.19.d:0 "'Ah, lovely and beautiful maiden, I am deeply captivated by you. Grant me your affection and approval! I have fallen deeply in love with you. From the moment I saw you, ah, I lost my senses...'\n\nAt the wedding in Konstantiniyye, facing Zoe draped in a white robe and holding the crown, Ibash still felt it was all somewhat dreamlike.\n\nRecalling the hardships along the way—the awkwardness of being an attendant in his youth, the perilous escape from Constantinople on that rainy night, the life-threatening encounters with assassins in the guildhall, the desperate gamble against the pretender armies, and finally his triumphant return. That day, Zoe led the citizens out of the city to welcome him. He stared dumbfounded as the girl produced an ancient marriage contract, bearing the signatures of the late Emperor and his own father.\n\n'Don't think you can wriggle out of this!'\n\nThe girl smiled brightly, seemingly regaining the vitality of the pre-war days, but soon both their faces flushed crimson. In a daze, he learned he was to become co-emperor of the empire. Ibash's mind buzzed; by the time he felt clear-headed, he was already at his wedding with Zoe.\n\nIbash knew Zoe was beautiful, but only today did he realize he had fallen irrevocably in love with her.\n\nSo, they were no longer children, after all. Ibash and Zoe gazed deeply into each other's eyes. Before the assembled witnesses, they exchanged their vows. The wedding concluded, and that night, the crown they had fled with together was finally placed upon Ibash's head."
+EDG_flavorMEN_mission.19.a:0 "The weight of the crown, borne by the sovereign"
+EDG_flavorMEN_mission.19.tt:0 "With the wedding music, this prolonged and tumultuous upheaval comes to an end."
+
+EDG_flavorMEN_mission.20.t:0 "Supporting Production"
+EDG_flavorMEN_mission.20.d:0 "[MEN.Monarch.GetName] fell into deep thought while observing the refugees wandering along the march route. This should not be Rome's fate. Roman citizens should proudly declare themselves Roman, not cower timidly among refugee crowds.\n\nThe vast populace of farmers and herders has endured enough—natural disasters, war, and exploitation by domestic nobles. They can hold on no longer. For the empire's survival, disaster relief is urgently needed."
+EDG_flavorMEN_mission.20.a:0 "Water can carry a boat, but also capsize it."
+
+EDG_flavorMEN_mission.21.t:0 "Burn All Away"
+EDG_flavorMEN_mission.21.d:0 "The disaster relief effort surpassed expectations. Our mission to save the nation and ensure its survival gained the support of the empire's farmers and herders. The counterattack against land annexation also proved effective, as we severely punished nobles who arrogantly seized land. Under the authority of [MEN.Monarch.GetName], these grievances were forcibly suppressed.\n\nAfter acquiring land of their own, more and more farmers and herders are willing to offer their wholehearted loyalty to Rome. Perhaps we should establish new institutions to enable these subjects, who toil diligently for the empire's sustenance, to check the overbearing power of the nobility.\n\nAmidst this great calamity, the flames of reform have ignited, burning away all unacceptable dross to usher in a new birth for the empire."
+EDG_flavorMEN_mission.21.a:0 "The invaders are being repelled; the empire's recovery is within sight."
+
+EDG_flavorMEN_mission.22.t:0 "The Empire's Glory"
+EDG_flavorMEN_mission.22.d:0 "Under the rule of [MEN.Monarch.GetName], we have finally restored the Roman Empire to its former territorial extent. Glory! [MEN.Monarch.GetName] and the empire's ministers agree that a new state title is warranted. Now, [MEN.Monarch.GetName] will decide the name of this reborn empire.\n\n'I am the herald of the undefeated blazing sun, the restorer of the world!'"
+EDG_flavorMEN_mission.22.a:0 "The Roman Empire shall be reborn here!"
+EDG_flavorMEN_mission.22.b:0 "Holy! Roman! Empire!"
+EDG_flavorMEN_mission.22.c:0 "I am the phoenix reborn from ashes, I am my own sovereign!"
+
+EDG_flavorMEN_mission.23.t:0 "The Empire's True Faith"
+EDG_flavorMEN_mission.23.d:0 "As the conflict between the Catholic League and the Protestant League intensifies, we, as leaders of the Orthodox Church, are doing more than merely standing by.\n\nWhen they fight on their own lands to the point of exhaustion, they will discover they are surrounded by the quietly advancing Orthodox Church. All they can do is submit before the true faith."
+EDG_flavorMEN_mission.23.a:0 "I laugh at the corruption of the Catholics, laugh at the folly of the Protestants; only Orthodoxy is the true faith."
+
+EDG_flavorMEN_mission.100.t:0 "The Miracle Recurs"
+EDG_flavorMEN_mission.100.d:0 "At the moment the first ray of dawn pierced the darkness, the old retainers of the Grand Duke of Mentese, who had waited for three days and nights at the port of Mylasa, finally witnessed Ibash's miraculous return. Though weak, Ibash, who had been lying unconscious on the boat, miraculously awoke.\n\nLeaving the port, Ibash rested briefly before joining the discussions on the crisis. This sixteen-year-old youth, in the face of this horrific coup, had successfully braved the storm to bring forth the Eastern Empire's sole legitimate heir and the imperial crown—an act akin to a divine miracle.\n\nDuring the assembly, Zoe was hastily crowned Basilissa, stabilizing the issue of legitimacy within the realm. Ibash's miraculous journey was regarded by the attending bishops and city-state lords as the will of the Lord. Now, with both the Grand Duke and his heir deceased, the 'Miracle-Worker' would become the leader of the Principality of Mentese." # the port of Mentese
+EDG_flavorMEN_mission.100.a:0 "With this divine blessing, you shall surely prevail!"
+EDG_MEN_mission_100_a_tt:0 "Young Ibash raises the banner of rebellion. Will §T'Miracle'§! favor him once more?"
+
+EDG_MEN_middle_ruin.1.t:0 "Reduced to Ashes"
+EDG_MEN_middle_ruin.1.d:0 "The late Emperor Andronikos accompanied the Eastern Empire through its most perilous times. Yet with his passing, the internal contradictions within the empire have intensified, erupting completely today.\n\nThe late Emperor was diligent and dedicated, but the brief revival did not resolve the issues plaguing this ancient empire: chaotic bureaucracy and the unchecked power of the nobility. The heir lacked governance experience and commanded insufficient prestige, leading many Greek nobles to entertain treacherous thoughts of seizing power. Border tribes, seemingly sensing the empire's outward strength masking inner weakness, repeatedly probed along Rome's frontiers.\n\nThe fate of Constantinople is inextricably linked to that of Mentese. The fuel that kept the empire stable has burned out, and an unprecedented dark age will envelop every soul in Rome...\n\n§R'The city faces the threat of iron and fire; only through bloody struggle to the end is there a glimmer of hope.'§!"
+EDG_MEN_middle_ruin.1.a:0 "Suddenly, madmen sharpen swords at night; the imperial star wavers, Mars blazes high."
+
+EDG_MEN_middle_ruin.2.t:0 "Reignited"
+EDG_MEN_middle_ruin.2a.t:0 "Ibash, King of Miracles, Emperor of Rûm.\n\n'The people's slogan is Ibash, the people's choice is Ibash. To celebrate your great victory, the people will shout your name, the people will call themselves Ibash, striking fear in enemies, delighting friends. Born for the people, you are the hero among heroes!'"
+EDG_MEN_ruin_2_a:0 "At this very moment, let my history begin to be written."
+EDG_MEN_middle_ruin.2b.t:0 "Following the assassination of Ibash, the Holy Roman Empire's military operations soon achieved victory. They found that the Turks, who once terrified the empire, were nothing special, though they might make decent dogs."
+EDG_MEN_ruin_2_b:0 "Merely the final value of ashes."
+
+EDG_MEN_middle_ruin.3.t:0 "Crumbling from Within"
+EDG_MEN_middle_ruin.3.d:0 "Numerous Greek nobles have fled, taking imperial secrets with them, leaving behind only a mess."
+EDG_MEN_middle_ruin.3.a:0 "Damn them"
+
+EDG_MEN_middle_ruin.4.t:0 "Rampant Banditry"
+EDG_MEN_middle_ruin.4.d:0 "Refugees have formed bandit communes, posing a severe threat to the state's finances."
+EDG_MEN_middle_ruin.4.a:0 "Damn them"
+
+EDG_MEN_middle_ruin.5.t:0 "Lambs for Slaughter"
+EDG_MEN_middle_ruin.5.d:0 "The Nile River basin has been occupied by barbarians for a long time, and they have recently set their sights on us—an ancient empire, strong in appearance but weak within. A great holy war! Ghazi warriors and Mamluk soldiers sharpen their knives; we are like lambs awaiting slaughter."
+EDG_MEN_middle_ruin.5.a:0 "Prepare for battle"
+EDG_MEN_RUIN5_TT:0 "§RAll allies will betray you. Challengers from Egypt will invade§!"
+
+EDG_MEN_middle_ruin.6.t:0 "The Lion Roars from the East"
+EDG_MEN_middle_ruin.6.d:0 "East of the Two Rivers, the empire's ancient rival, Persia, quietly revives. A leader famed from youth will march toward Constantinople. The ancient lion opens its bloodied maw, issuing a declaration of war upon the empire."
+EDG_MEN_middle_ruin.6.a:0 "Prepare for battle"
+EDG_MEN_RUIN6_TT:0 "§RAll allies will betray you. Challengers from Persia will invade§!"
+
+EDG_MEN_middle_ruin.7.t:0 "A Mantis Trying to Stop a Chariot"
+EDG_MEN_middle_ruin.7.d:0 "While the Grand Duke of Mentese was returning to Constantinople to report on his duties, a long-planned coup took place in Constantinople. The imperial capital changed banners, and both the Grand Duke of Mentese and the heir apparent died heroically. A Greek Catholic noble became the newly enthroned 'Basileus.' This clown, without imperial blood or honor, demands our loyalty. How laughable.\n\nSubsequently, the Holy Roman Emperor declared intervention and accepted this puppet as a vassal—they had long been allied through marriage, coveting Rome's wealth for themselves.\n\nClearly, this coup is a complete conspiracy. While we were engaged with the ancient nemesis across the Mediterranean, these traitors were already plotting.\n\n'Form is like a gathering of foam, sensation like a water bubble, perception like a mirage, volition like a plantain trunk, consciousness like a dream illusion. What you intend to do is absurd; what you are about to undertake is preposterous.' As if the devil's mockery echoes in our hearts. Do we still have a future?\n\n'Do not weep, our mother, Rome, you shall shine once more!'"
+EDG_MEN_middle_ruin.7.a:0 "Lord, why is this so?"
+EDG_MEN_RUIN7_TT:0 "§RAll allies will betray you. Both you and the Basileus you serve will die in this coup. The Holy Roman Empire will invade§!"
+
+EDG_MEN_middle_ruin.8.t:0 "The Fate of the Basilissa"
+EDG_MEN_middle_ruin.8.d:0 "[LAE.Monarch.GetName], that false Basileus, has sent us a letter. He claims profound admiration for the Basilissa. If we are willing to allow the Basilissa to return to Constantinople and become his wife, he is prepared to relinquish military command and disclose the Holy Roman Empire's offensive plans.\n\nRecovering the old capital promptly is crucial for restoring our control over the empire. The ministers argue incessantly over the Basilissa's fate, utterly disregarding the peculiar expression on Zoe's face from her seat of honor. Perhaps in their eyes, she is merely a decorative vase to be traded for profit.\n\nNow, [MEN.Monarch.GetName] must decide the Basilissa's fate.\n\n§R'If you are the wise ruler you claim to be, do not harm our mother.'§!"
+EDG_MEN_middle_ruin.8.a:0 "'I want to see who dares to make her leave!'"
+EDG_MEN_middle_ruin.8.b:0 "The Basilissa must make a sacrifice for the empire."
+
+EDG_MEN_middle_ruin.9.t:0 "Arrows from the Shadows"
+EDG_MEN_middle_ruin.9a.d:0 "During an internal council meeting, Ibash was discussing counterattack strategies with his ministers, though Zoe's absence left him feeling somewhat desolate. Suddenly, an arrow shot forth from the wall..."
+EDG_MEN_middle_ruin.9b.d:0 "During an internal council meeting, Ibash was discussing counterattack strategies with his ministers, though Zoe's interruptions beside him were somewhat annoying—she insisted on sitting close to him instead of her proper seat. Yet he understood this was the girl's way of helping him muster his spirits. Suddenly, an arrow shot forth from the wall..."
+EDG_MEN_middle_ruin.9.a:0 "The arrow struck the temple; the young, formidable leader met his end here."
+EDG_MEN_middle_ruin.9.b:0 "Zoe pushed Ibash aside. The mastermind was swiftly uncovered; everyone emerged unharmed."
+
+EDG_MEN_middle_ruin.100.t:0 "A Hard-Won Victory"
+EDG_MEN_middle_ruin.100.d:0 "This hard-won victory will completely shatter Persia's backbone. We shall eradicate the chaotic Muslim orders; Rome's ancient foe will never stir up trouble again."
+
+EDG_MEN_middle_ruin.101.t:0 "Egypt Returns to Rome"
+EDG_MEN_middle_ruin.101.d:0 "Egypt holds the Patriarchate of Alexandria and the Nile Delta; its importance to [Root.GetName] is self-evident. Controlling this province should be the foremost priority; it will bring us immense wealth and power. Unlike previous rulers, Egypt will realize its true potential under our governance."
+
+EDG_MEN_middle_ruin.102.t:0 "Crushing Defeat"
+EDG_MEN_middle_ruin.102.d:0 ""
+EDG_MEN_middle_ruin.102.a:0 "Dare not transgress again"
+
+EDG_MEN_middle_ruin.102.t:0 "Crushing Defeat"
+EDG_MEN_middle_ruin.102.d:0 ""
+
+EDG_MEN_middle_ruin.105.t:0 "A Fragmented Egypt"
+EDG_MEN_middle_ruin.105.d:0 "Egypt, mired in prolonged chaos, failed to unify. Its factions are complex and intertwined, with none daring to challenge the empire's authority."
+EDG_MEN_middle_ruin.105.a:0 "The empire catches its breath"
+EDG_MEN_middle_ruin.105.tt:0 "Triggering this event is considered as having §Ttriggered 'Lambs for Slaughter'§!"
+
+
+EDG_MEN_middle_ruin.106.d:0 "Although Egypt has returned to Rome, those who refuse to submit to imperial rule have unhesitatingly raised the banner of rebellion. The strong in arms become Basileus; Egypt's butcher has already struck. We are like lambs awaiting slaughter."
+
+EDG_MEN_middle_ruin.108.t:0 "A Preoccupied Persia"
+EDG_MEN_middle_ruin.108.d:0 "Since the decline of the Ilkhanate, Persia has failed to produce a unified power. Although the empire has somewhat declined since the demise of Emperor Andronikos, a crippled lion poses insufficient threat to us. The Persians have chosen to remain silent at this time."
+EDG_MEN_middle_ruin.108.tt:0 "Triggering this event is considered as having §Ttriggered 'The Lion Roars from the East'§!"
+
+EDG_flavorMEN.0.t:0 "Personal Campaign"
+EDG_flavorMEN.0.d:0 ""
+EDG_flavorMEN.0.a:0 "Lead the campaign personally"
+
+EDG_flavorMEN.1.t:0 "Glorious City-State: Chios"
+EDG_flavorMEN.1.d:0 "This is the birthplace of the Homeric School of bards; legend holds that Homer himself once settled here. The people of Smyrna left behind many plans in their search for a way out; they have unified and entered Chios, contributing to the empire's development. Now, under the Grand Duke of Mentese, the Athenians will bear the responsibility for scientific advancement."
+EDG_flavorMEN.1.a:0 "The people of Chios only need to conduct research; we frontline warriors have far more to consider."
+EDG_MEN_SUG_HOTM_name:0 "Chios"
+EDG_MEN_SUG_HOTM_name_ADJ:0 "Chian"
+
+EDG_flavorMEN.2.t:0 "Glorious City-State: Athens"
+EDG_flavorMEN.2.d:0 "Athens played a significant role in the Greco-Persian Wars, swiftly becoming the leader of the Delian League established in 478 BCE. This greatly promoted the development of Athens' slave-owning economy, caused shifts in the balance of power among different strata within the Athenian citizenry, and led to the reforms spearheaded by Ephialtes and Pericles in 462 BCE (or 461 BCE). These reforms stripped the Areopagus Council, composed of former archons, of its powers, transferring them to the Ecclesia (Assembly), the Heliaea (People's Court), and the Boule (Council of Five Hundred), propelling democracy to a new stage. The military cleruchy system, various public benefactions and stipends for citizens, and extensive construction projects ensured a relatively secure material and cultural life for the majority of small-producer citizens. During Pericles' rule, Athens reached its zenith economically, politically, and culturally, becoming the hegemonic power influencing the Greek world and a major cultural center. Now, under the Grand Duke of Mentese, the Athenians will bear the responsibility for cultural transmission."
+EDG_flavorMEN.2.a:0 "The Athenians only need to study; we frontline warriors have far more to consider."
+
+EDG_flavorMEN.3.t:0 "Glorious City-State: Crete"
+EDG_flavorMEN.3.d:0 "Crete, due to its geographical location, became the capital of the slave trade in the Eastern Mediterranean region and, for the same reason, was constantly threatened by various powers. It underwent significant development, becoming a center for maritime trade and artistic creation. After allying with Greek pirates, we took it from the Venetians. Now, under the Grand Duke of Mentese, the Cretans will bear the responsibility for expanding trade."
+EDG_flavorMEN.3.a:0 "The Cretans only need to make money; we frontline warriors have far more to consider."
+
+EDG_flavorMEN.4.t:0 "Glorious City-State: Rhodes"
+EDG_flavorMEN.4.d:0 "The city of Rhodes was founded in 408 BCE. Historically, it was a military stronghold in Eastern Mediterranean civilization and along the entire Mediterranean sea route. Since 1309 CE, the Knights Hospitaller of Jerusalem occupied the city of Rhodes and began fortifying it; the Greeks on the island became their soldiers. This gave the islanders some military understanding; the populace of Rhodes is a powerful logistical force. Now, under the Grand Duke of Mentese, the Cretans will bear the responsibility for military logistics."
+EDG_flavorMEN.4.a:0 "The Rhodians only need to handle logistics; we frontline warriors have far more to consider."
+EDG_MEN_KNI_HOTM_name:0 "Rhodes"
+EDG_MEN_KNI_HOTM_name_ADJ:0 "Rhodian"
+
+EDG_MEN_RUM_HOTM_name:0 "Supreme Rûmi Empire"
+EDG_MEN_RUM_HOTM_name_ADJ:0 "Supreme Rûm"
+EDG_MEN_HLR_HOTM_name:0 "Holy Rûmi Empire"
+EDG_MEN_HLR_HOTM_name_ADJ:0 "Holy Rûm"
+EDG_MEN_ROM_HOTM_name:0 "Rûmi Empire"
+EDG_MEN_ROM_HOTM_name_ADJ:0 "Rûm"
+
+EDG_flavorMEN.5.t:0 "Glorious City-State: Naxos"
+EDG_flavorMEN.5.d:0 "Greece complained to God, so God scattered the last remaining grains of sand in His hand toward Greece. These sands fell upon the beautiful Aegean Sea and instantly transformed into beautiful islands, with Naxos being the most beautiful, the brightest pearl among them. Naxos boasts the most developed commerce and most glorious art in the Cyclades, making it the most dazzling gem among the islands. The archipelago has many churches, creating a strong religious atmosphere. Now, under the Grand Duke of Mentese, the Athenians will bear the responsibility for strengthening faith."
+EDG_flavorMEN.5.a:0 "The Naxians only need to chant sutras; we frontline warriors have far more to consider."
+
+EDG_flavorMEN.6.t:0 "Glorious City-State: Cyprus"
+EDG_flavorMEN.6.d:0 "The island of Cyprus, from Greek meaning 'copper-producing island.' Cyprus possesses mineral resources such as pyrite, copper, and asbestos, rich in mineral wealth, and serves as a hub between Asia, Europe, and Africa. Now, under the Grand Duke of Mentese, the Athenians will bear the responsibility for industrial development."
+EDG_flavorMEN.6.a:0 "The Cypriots only need to mine; we frontline warriors have far more to consider."
+
+EDG_flavorMEN.7.t:0 "Return to Sicily"
+EDG_flavorMEN.7.d:0 "The traitors' combat prowess is insignificant before our most loyal armies. We have shattered these rebels' ambitions. The beautiful and fertile island of Sicily has returned to Rome's hands."
+EDG_flavorMEN.7.a:0 "With the Sicilian sea breeze blowing, it's time to set sail."
+
+EDG_flavorMEN.100.t:0 "Like an Illusion"
+EDG_flavorMEN.100.d:0 "Recalling the past, Ilyas III had repeatedly petitioned the Byzantine Basileus Ioannes VIII to pledge allegiance, yet the timid Greek nobles rejected him time and again—perhaps fearing this outsider would seize power, or perhaps fearing to provoke the rising behemoth, the Ottomans. Now, he could only lament the destruction these insects have wrought upon Rome.\n\nDespite the constant wars surrounding it, the Aegean's nightscape remains profoundly beautiful, with merchants of all kinds still pursuing their interests here. But Ilyas III had no mood to admire the scenery; he retired early. Approaching his seventies, his mental state was not what it used to be. He could no longer drink wine heartily as in his youth, and his longing for Rome gradually burned out with age.\n\nIn his dream, he arrived in Classical Rome, becoming a glorious Roman general, battling various barbarians, displaying true heroism. In this haze, he lived an extraordinary life. Just as he was about to achieve fame and enjoy his twilight years, he awoke with regret—he was an unrecognized duke, and Rome was reduced to Constantinople alone."
+EDG_flavorMEN.100.a:0 "Upon waking, will Rome still be there to see?"
+
+EDG_flavorMEN.101.t:0 "Mentese Playthrough Notes"
+EDG_flavorMEN.101.d:0 "§R'Only through bloody struggle to the end is there a glimmer of hope.'§!\nHere are the notes:\n1. The first phase of missions primarily focus on expansion, reform, and disaster. The disaster is triggered by the death of the Eastern Empire's starting emperor, 'Andronikos'.\n2. After triggering the disaster, you will be forced to complete the prerequisite missions for the disaster line (i.e., row 17). The events listed in the disaster mission conditions will all occur, but in a certain order. Disaster events will provide some hints. §RAdditionally, do not actively seek peace or accept peace treaties during the wars triggered by disaster events (you can make separate peace with non-war leaders).§! No further spoilers here; please experience it yourself.\n3. During the disaster, please do not use console commands to annex countries. As mentioned, the disaster has a specific sequence; using console annexation may break it. Surviving the disaster 'Cut Down in Mid-Course' unlocks the next phase of the mission tree.\n4. Please ensure the special subject 'Glorious City-State' has only one province; otherwise, it may block missions. The mission trees for the city-state nations specified in decisions have been adjusted and will not interfere with the player's missions.\n5. A significant portion of the first phase of missions require being a subject of Eastern Rome to complete. This subject type is similar to a tributary; you can form alliances, §Rbut due to game hardcode, you cannot form alliances during a truce with your overlord§!, so time your alliances carefully.\n6. Do not actively declare independence from Byzantium; you are responsible for any blocked missions. §RByzantium will actively declare war on neighboring countries; you can use this to fulfill territorial acquisition needs, provided you act fast enough.§!\n7. Before playing, please review the mission tree once to understand the general flow.\n8. If you start the game rivaled by Smyrna and Smyrna allies with the Eastern Empire, for a smoother mission tree experience, restarting is recommended.\n9. Try to avoid putting your ruler in command of armies; in practice, Ilyas III is very prone to sudden death.\n10. Wishing you an enjoyable and pleasant playthrough."
+
+EDG_flavorMEN.102.t:0 "The Fate of Theodore"
+EDG_flavorMEN.102.d:0 "As the Mentese armies advanced, the battle to reclaim Morea quickly neared its end. Before the war, the Basileus had given a strict order to capture Theodore alive. By the time [MEN.Monarch.GetName] arrived at the interrogation scene, the Basileus's trial of Theodore was almost concluded.\n\nOut of respect for [MEN.Monarch.GetName], the Basileus decided to consider the Grand Duke of Mentese's opinion."
+EDG_flavorMEN.102.a:0 "To rebel immediately upon accession—this man is terrifying; he must not be spared!"
+EDG_flavorMEN.102.b:0 "There must be more to this story; spare his life."
+EDG_flavorMEN.102.c:0 "For a traitor, no punishment is too cruel!"
+
+EDG_flavorMEN.103.t:0 "A Return Like Thunder"
+EDG_flavorMEN.103.d:0 "Like that rainy night years ago, thunder roared tonight. Yet Ibash's heart was more anxious than the day he fled the palace with Zoe—Zoe had entered the purple birthing chamber, and he was about to become a father.\n\nA flash of lightning illuminated the area outside the chamber, followed by rolling thunder and the cry of an infant. Soon, the attending midwife opened the door. The child's mother, exhausted from the night's labor, had fallen asleep. Ibash rushed in eagerly, yet feared disturbing Zoe's rest.\n\nThe young emperor took his child from the midwife's hands. The unbaptized child wailed, the cries strong and vigorous, not due to the thunder outside but more like a proclamation of his existence to the world.\n\nThough the storm still raged, utterly disregarding this tender scene, under this emperor's presence, it seemed to become a blessed accompaniment. Ibash gazed deeply at his child. He knew his child's name would one day resound throughout the world. Lifting his child high, he declared:\n\n'One day, my life will reach its end, and you, shall be crowned king!'"
+EDG_flavorMEN.103.a:0 "My son possesses the makings of a great emperor!"
+
+EDG_flavorMEN.104.t:0 "The End of an Era"
+EDG_flavorMEN.104.d:0 "At the start of Andronikos's reign, he possessed only a ravaged, broken city and its dying empire. Now, the empire is flourishing, striving to restore its former glory. Sadly, his body is utterly exhausted.\n\nHe sacrificed too much for this empire. A reign exceeding fifty years is rare throughout history. The burdens of governance left Andronikos little leisure. Years of toil have taken their toll; the once vigorous emperor is now bedridden, wracked by illness. People gather by his bedside, listening as this restorer of Rome whispers the name of the Grand Duke of Mentese.\n'Lord [MEN.Monarch.GetName], night has fallen.'\n'Yes, Your Majesty.'\n'Lord [MEN.Monarch.GetName], is it a new era already?'\n'Yes, Your Majesty.'\n'In the new era, Rome will endure, won't it?'\n'Yes, Your Majesty. Rome shall endure forever.'\n\nHearing [MEN.Monarch.GetName]'s promise, Andronikos seemed to release a lingering worry and slowly closed his eyes..."
+EDG_flavorMEN.104.d.a:0 "At the start of Andronikos's reign, he possessed only a ravaged, broken city and its dying empire. Now, the empire is flourishing, striving to restore its former glory. Sadly, his body is utterly exhausted.\n\nHe sacrificed too much for this empire. The burdens of governance left Andronikos little leisure. Years of toil have taken their toll; the once vigorous emperor is now bedridden, wracked by illness. People gather by his bedside, listening as this restorer of Rome whispers the name of the Grand Duke of Mentese.\n'Lord [MEN.Monarch.GetName], night has fallen.'\n'Yes, Your Majesty.'\n'Lord [MEN.Monarch.GetName], is it a new era already?'\n'Not yet, Your Majesty.'\n'In the new era, Rome will endure, won't it?'\n'Yes, Your Majesty. Rome shall endure forever.'\n\nHearing [MEN.Monarch.GetName]'s promise, Andronikos seemed to release a lingering worry and slowly closed his eyes..."
+EDG_flavorMEN.104.a:0 "Good night, Your Majesty"
+EDG_flavorMEN.104.tt:0 "§RThe Emperor falls, the wolves begin their feast§!\nIf there are sufficiently powerful rulers in the §TEgypt region§! and the §TPersia region§!, the disaster events will differ."
+
+EDG_flavorMEN.105.t:0 "Integrating into the Civilized World"
+EDG_flavorMEN.105.d:0 "The savage Slavs have long coveted the Eastern Empire's throne. Now, under our tutelage, they are loyal to the empire!"
+EDG_flavorMEN.105.a:0 "As all desire"
+
+EDG_flavorMEN.106.d:0 "The savage Magyars occupy fertile lands but remain uncivilized. Now, under our tutelage, they are loyal to the empire!"
+
+EDG_flavorMEN.107.d:0 "The tribes in the Caucasus mountains once stubbornly held our borders alongside invaders. Now, under our tutelage, they are loyal to the empire!"
+
+EDG_flavorMEN.108.d:0 "Scythians, Khazars, Gothic remnants—we have bid farewell to too many foes on these steppes. Now, under our tutelage, the steppe people are loyal to the empire!"
+

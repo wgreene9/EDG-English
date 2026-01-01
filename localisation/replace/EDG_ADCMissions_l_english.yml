@@ -1,0 +1,48 @@
+﻿l_english:
+EDG_ADC_mission_1_2_title:0 "Sacred Bond"
+EDG_ADC_mission_1_2_desc:0 ""
+
+EDG_ADC_mission_1_4_title:0 "Rekindle the Fire of Santiago"
+EDG_ADC_mission_1_4_desc:0 ""
+
+EDG_ADC_mission_1_6_title:0 "The Singular Candidate"
+EDG_ADC_mission_1_6_desc:0 ""
+EDG_ADC_mission_1_6.effect_1.tt:0 "Because we §Gpossess§! the modifier §YThe Candidate§!, the §Yfollowing modifiers§! will be converted into §Ypermanent modifiers§!"
+EDG_ADC_mission_1_6.effect_2.tt:0 "If we possess the modifier §YThe Candidate§! when §Ycompleting this mission§!, the §Yfollowing modifiers§! will be converted into §Ypermanent modifiers§!"
+
+EDG_ADC_mission_2_2_title:0 "Grain..."
+EDG_ADC_mission_2_2_desc:0 ""
+
+EDG_ADC_mission_2_5_title:0 "Future Affairs"
+EDG_ADC_mission_2_5_desc:0 ""
+
+EDG_ADC_mission_3_1_title:0 "Trinity"
+EDG_ADC_mission_3_1_desc:0 ""
+
+EDG_ADC_mission_3_3_title:0 "Zeal of the Convert"
+EDG_ADC_mission_3_3_desc:0 ""
+
+EDG_ADC_mission_3_4_title:0 "Present Troubles"
+EDG_ADC_mission_3_4_desc:0 ""
+
+EDG_ADC_mission_3_5_title:0 "Fervor of the Mujahideen"
+EDG_ADC_mission_3_5_desc:0 ""
+
+EDG_ADC_mission_3_7_title:0 "Rightful Unification"
+EDG_ADC_mission_3_7_desc:0 ""
+
+EDG_ADC_mission_4_3_title:0 "Ghosts of the Past"
+EDG_ADC_mission_4_3_desc:0 ""
+
+EDG_ADC_mission_4_6_title:0 "...Manpower"
+EDG_ADC_mission_4_6_desc:0 ""
+
+EDG_ADC_mission_5_2_title:0 "The Unlikely Candidate"
+EDG_ADC_mission_5_2_desc:0 ""
+
+EDG_ADC_mission_5_4_title:0 "Break the Sword of Al-Andalus"
+EDG_ADC_mission_5_4_desc:0 ""
+
+EDG_ADC_mission_5_6_title:0 "Pilgrimage Highways"
+EDG_ADC_mission_5_6_desc:0 ""
+EDG_ADC_mission_5_6.trigger.tt:0 "All §Yhighlighted provinces for this mission§! are §Yowned by us§! and have a §Tdevelopment§! of no less than §Y15§!"

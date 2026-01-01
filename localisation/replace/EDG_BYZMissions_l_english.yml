@@ -15,7 +15,7 @@ EDG_BYZ_mission_1_6_desc:0 "The isles of Greece, the isles of Greece!\n\nWhere b
 EDG_BYZ_mission_1_8_title:0 "Theme of Carpatica"
 EDG_BYZ_mission_1_8_desc:0 "Octavian conquered Pannonia, Trajan conquered Dacia, yet they never reached the Carpathian Mountains beyond the known world. Eventually, this fertile plain was lost to nomadic attacks. This time, we will not give any other nomads the chance."
 
-EDG_BYZ_mission_1_10_title:0 "Crown of the Usurper Emperor"
+EDG_BYZ_mission_1_10_title:0 "Crown of the Usurper" # Crown of the Usurper Emperor
 EDG_BYZ_mission_1_10_desc:0 "The Emperor of Rome never derives legitimacy from any Patriarch, but from the Senate and the People. The barbarians of the West, aping the crown since Charlemagne, have conspired with the false Western Church. For centuries, the Empire in its decline was forced to acknowledge these pretenders. Now that our true Roman Emperor has returned to Rome, the usurping Germanic barbarians must face their doom."
 EDG_BYZ_mission_1_10.effect.tt:0 "Gain a §YSubjugation§! §TCasus Belli§! against all countries with their §Tcapital§! in §YSouth Germany§!, §YNorth Germany§!, or §Ythe Low Countries§! for §Y25§! years"
 
@@ -81,14 +81,14 @@ EDG_BYZ_mission_2_13_title:0 "Restoring the Shipyards"
 EDG_BYZ_mission_2_13_desc:0 "The foundation for restoring the fleet lies in reviving the old shipyards. This not only helps us build a sufficiently powerful navy but also promotes maritime shipping and commerce, thereby squeezing the Latins out of our markets."
 EDG_BYZ_mission_2_13.effect.tt:0 "Gain §Ygalleys§! equal to the number of our §Tcoastal provinces§! in the capital\n\nUp to §Y5§! of our §Tcoastal provinces§! receive the following effect:"
 
-EDG_BYZ_mission_2_14_title:0 "New Shipbuilding Industry"
+EDG_BYZ_mission_2_14_title:0 "Shipbuilding Industry" # New Shipbuilding Industry
 EDG_BYZ_mission_2_14_desc:0 "As a type of galley utilizing a hybrid of sail and oar propulsion, the Galleass relied more on sails than the standard galley, being larger and heavier. The displacement of a galleass typically exceeded 600 tons, with some giant galleasses even surpassing 1000 tons, making them behemoths of the contemporary Mediterranean. With their 'unmatched' size, galleasses could carry several times more guns and armed personnel than traditional galleys, with firepower and manpower being their greatest advantages. Guns were usually concentrated in the bow turret and stern castles. Early galleasses carried just over 20 guns (mainly conventional cannons capable of breaching enemy hulls, not counting smaller pieces like swivel guns or breech-loaders), a number increased to 30-40 by the 17th century to meet the demands of naval warfare for greater firepower. Galleass tactics were simple yet effective: before engaging in traditional boarding actions, they would first use their powerful firepower to damage and weaken enemy vessels (a decisive blow), and could even employ their massive metal rams to strike enemy hulls. If neither method succeeded, they could deploy their large complement of armed troops to board the enemy ship and deliver the final blow with swords and crossbows."
 EDG_BYZ_mission_2_14.effect.tt:0 "Up to §Y5§! of our §Tcoastal provinces§! receive the following effect:"
 
 EDG_BYZ_mission_2_16_title:0 "Ecclesiastical Dilemma"
 EDG_BYZ_mission_2_16_desc:0 "In reality, the Roman Emperor is not as popular among his subjects as one might imagine. Under military pressure, Andronikos V's father, John VIII, was compelled to attend the Council of Florence, risking the rebellion of all Romans by announcing that the Eastern Church would henceforth submit to Western jurisdiction. However, the deaths of Albert of Habsburg and Władysław III of Jagiellon taught us that surrendering one's church yields no benefit. Indeed, the Eastern Church and its people refused any Western oversight; not even the Emperor could control them—or perhaps, though the Emperor has not yet publicly announced the restoration of the Eastern Orthodox Church, is he truly so different from other Greeks as to willingly accept the leadership of the Western Church?"
 
-EDG_BYZ_mission_2_18_title:0 "Suppressing the Autocephaly of the Russian Church"
+EDG_BYZ_mission_2_18_title:0 "Suppress Rus Autocephaly" # Suppressing the Autocephaly of the Russian Church
 EDG_BYZ_mission_2_18_desc:0 "Centuries of Constantinople's weakness have caused the Eastern Orthodox Church to lose almost all control over its dioceses, with the Russian diocese being the largest. Now that the Empire has revived, it is necessary to restore the jurisdictional authority of the Ecumenical Patriarch of Constantinople over local churches—starting with the Russians."
 
 EDG_BYZ_mission_2_19_title:0 "Mending the Great Schism"
@@ -97,7 +97,7 @@ EDG_BYZ_mission_2_19_desc:0 "Rome has returned to the Empire's embrace, and the 
 EDG_BYZ_mission_2_21_title:0 "Supporting the Weavers"
 EDG_BYZ_mission_2_21_desc:0 "The Empire's silk industry, unmatched in Europe since Justinian introduced silkworms over a millennium ago, has long been coveted by various barbarians. With the old territories now restored, we must revive this industry."
 
-EDG_BYZ_mission_2_23_title:0 "Encouraging the Textile Industry"
+EDG_BYZ_mission_2_23_title:0 "The Textile Industry" # Encouraging the Textile Industry
 EDG_BYZ_mission_2_23_desc:0 "The textile industry is arguably the most important handicraft industry, without equal. From high officials to common laborers, everyone needs clothing. To gain greater profit, the Empire must develop its own silk, wool, and cotton textile industries."
 EDG_BYZ_mission_2_23.effect.tt:0 "All provinces under our and our subjects' control whose §Ttrade good§! is §YCloth§! will be converted to §YSilk§!.\n\nAll provinces under our and our subjects' control whose §Ttrade good§! is §YWool§! will be converted to §YCloth§!."
 
@@ -111,7 +111,7 @@ EDG_BYZ_mission_2_26.burghers.tt:0 "If the §YBurghers§! estate loyalty is not 
 EDG_BYZ_mission_2_26.church.tt:0 "If the §YClergy§! estate loyalty is not less than §Y60§!:"
 EDG_BYZ_mission_2_26.nobles.tt:0 "If the §YNobility§! estate loyalty is not less than §Y60§!:"
 
-EDG_BYZ_mission_2_28_title:0 "The Urban Praetor's Manual"
+EDG_BYZ_mission_2_28_title:0 "Urban Praetor Manual" # The Urban Praetor's Manual
 EDG_BYZ_mission_2_28_desc:0 "With the Empire's renewed prosperity, ancient cities are being liberated from barbarian hands one by one and flourishing once more. To better manage the growing and expanding cities, it is essential to establish a proper system of urban praetors and issue a Praetor's Manual."
 
 EDG_BYZ_mission_2_30_title:0 "Winds of Change"
@@ -134,7 +134,7 @@ EDG_BYZ_mission_3_4_desc:0 "Bulgaria, or Moesia-Thrace, is not only fertile but 
 EDG_BYZ_mission_3_6_title:0 "Reborn from Ashes"
 EDG_BYZ_mission_3_6_desc:0 "Starting in the 6th century AD, Slavs continuously flooded into the Empire's Dacia, Dalmatia, and Praevalitana regions, gradually forming Serbian tribes. From the 10th century onward, these barbarians grew increasingly restless, launching repeated rebellions that were never fully suppressed. Amid the Empire's collapse, the Serbs repeatedly seized advantage, swallowing all of Macedonia after the civil war between the two Johns. The Turks could not defeat these defiant barbarians, nor could the Serbian kings after Stefan Dušan. On the other hand, once we subdue Serbia, the loyal Serbian noble cavalry will become an exceptionally powerful force for the Empire. Simultaneously, reclaiming Dacia and Praevalitana will mark the Empire's ability to restore its dominance in the Balkans for the first time in four centuries since Basil II."
 
-EDG_BYZ_mission_3_7_title:0 "Reclaiming Isaakios's Legacy"
+EDG_BYZ_mission_3_7_title:0 "Isaakios's Legacy" # Reclaiming Isaakios's Legacy
 EDG_BYZ_mission_3_7_desc:0 "General Isaakios Angelos reclaimed Sicily, lost for seven centuries—but not for the Empire. Long ago, Rome began its conquest of the Greeks from Sicily; now we too shall begin reclaiming Italy from Sicily."
 
 EDG_BYZ_mission_3_8_title:0 "Journey to Magna Graecia"
@@ -176,7 +176,7 @@ EDG_BYZ_mission_3_20_desc:0 "Two centuries of endless invasions, civil wars, pla
 EDG_BYZ_mission_3_22_title:0 "The Premier Capital"
 EDG_BYZ_mission_3_22_desc:0 "Since the West's fall, all of Europe sank into a Dark Age—except for our New Rome, the Eternal City. Here was the most prosperous, wealthy, and fortified city in the known world, gathering the wealth and knowledge of the entire globe, until the disaster of 1204 destroyed it. We cannot allow this situation to continue. As the heart of Rome, the stronger Constantinople is, the stronger the Empire's body. Therefore, New Rome must once again become the world's greatest city."
 
-EDG_BYZ_mission_3_24_title:0 "The Pearl of the Mediterranean"
+EDG_BYZ_mission_3_24_title:0 "Pearl of the Mediterranean" # The Pearl of the Mediterranean
 EDG_BYZ_mission_3_24_desc:0 "Constantinople, capital of the Eastern Roman Empire, has many epithets. From Byzantium to New Rome, even the Queen of Cities, yet the most fitting remains [the City of the World's Desire]. When the envoys of Kievan Rus first came to Constantinople, to the Hagia Sophia, and brought the miracles they witnessed back to their pagan Grand Prince, from their uncultured language, the ministers at a loss for words could only find one phrase to describe it all—'We knew not whether we were on earth or in heaven.'"
 
 EDG_BYZ_mission_3_25_title:0 "The Land of Prosperity"
@@ -189,13 +189,13 @@ EDG_BYZ_mission_3_27_title:0 "Taxation Reform"
 EDG_BYZ_mission_3_27_desc:0 "With the gradual recovery of the homeland and the revitalization of the economy, it is necessary for us to find a new path for local governance to avoid repeating the failures of previous dynasties—especially the Komnenian and Angelos periods. The most urgent task is tax system innovation."
 EDG_BYZ_mission_3_27.effect.tt:0 "Unlocks the §YTaxation Reform§! government reform."
 
-EDG_BYZ_mission_3_28_title:0 "The Peloponnesian Renaissance"
+EDG_BYZ_mission_3_28_title:0 "Peloponnesian Renaissance" # The Peloponnesian Renaissance
 EDG_BYZ_mission_3_28_desc:0 "Gemistos Plethon, a native of Constantinople, spent most of his life in Mistra, the Peloponnese. In 1426, he held a prominent position under Manuel II.\n\nIn 1438, when the Council of Florence convened to seek reconciliation between the Catholic and Orthodox Churches, Gemistos was among the representatives of the Greek Church. Initially, he opposed union due to disagreements with the Catholic Church over the nature of the Holy Spirit. Though his views on this matter did not change, he later actively promoted union. However, the goal of union was not achieved.\n\nIn Gemistos's time, Aristotelian philosophy was prevalent but growing stale. Displeased with Aristotelian scholasticism, Gemistos specialized in Platonic philosophy and dedicated himself to its propagation. Cardinal Bessarion was his student. In Florence, he was introduced to Cosimo de' Medici, persuading him of the superiority of Platonic philosophy over Aristotelianism. Thus, Gemistos became a leading figure in the new intellectual currents of Western philosophy, and Platonism became fashionable in Florence, beginning to overshadow Aristotle throughout Italy. Consequently, some accused Gemistos and his followers of intending to replace Christianity with Platonism. Until the end of the 15th century, Plato remained an idol in Italian philosophical circles. Both in Byzantium and the West, he engaged in numerous debates with Aristotelian schools.\n\nIn 1441, the elderly Gemistos returned to the Peloponnese as an imperial official. In 1452 (or perhaps 1454), Gemistos Plethon died in Mistra."
 
 EDG_BYZ_mission_3_29_title:0 "The Classical City"
 EDG_BYZ_mission_3_29_desc:0 "Maid of Athens, ere we part,\nGive, oh, give me back my heart!\nOr, since that has left my breast,\nKeep it now, and take the rest!\nHear my vow before I go,\nMy life, I love you.\nBy those tresses unconfined,\nWooed by each Aegean wind;\nBy those lids whose jetty fringe\nKiss thy soft cheeks' blooming tinge;\nBy those wild eyes like the roe,\nMy life, I love you.\nBy that lip I long to taste;\nBy that zone-encircled waist;\nBy all the token-flowers that tell\nWhat words can never speak so well;\nBy love's alternate joy and woe,\nMy life, I love you.\nMaid of Athens! I am gone:\nThink of me, sweet! when alone.\nThough I fly to Istanbul,\nAthens holds my heart and soul:\nCan I cease to love thee? No!\nMy life, I love you."
 
-EDG_BYZ_mission_3_30_title:0 "Theology, Philosophy, and Science"
+EDG_BYZ_mission_3_30_title:0 "Theology and Science" # Theology, Philosophy, and Science
 EDG_BYZ_mission_3_30_desc:0 "For a long time, theology, philosophy, and science were not distinctly separated, often intertwining. However, scholars today propose a new perspective: natural philosophy is a necessary path to understanding God and the great laws of His creation. This notion is worth encouraging."
 EDG_BYZ_mission_3_30.effect.tt:0 "§OImperial Centralization§! will now reduce §Ytechnology§! and §Yidea§! costs."
 
@@ -204,7 +204,7 @@ EDG_BYZ_mission_3_31_desc:0 "Rome has once again become the master of the known 
 
 EDG_BYZ_mission_4_2_title:0 "Biding Our Time"
 EDG_BYZ_mission_4_2_desc:0 "Warriors, you know what awaits you beyond these walls. But do not fear.\n\nIt is our glory to defend this Eternal City, founded by Constantine the Great himself!\n\nWe are the guardians of the world! For a millennium, the guardians who have defended Europe from the scourge of infidels!\n\nThis will be the hardest fight. If the great Roman Empire is fated to fall tonight, let her not fall easily.\n\nSharpen your blades, grip them tight! For we are Romans.\n\nWe will fight for glory, we will fight for God, we will fight for our comrades!"
-EDG_BYZ_mission_4_2.effect.tt:0 "Releases all §Ystored troops§! from the mission '§TKeeping Our Strength Hidden§!'\n"
+EDG_BYZ_mission_4_2.effect.tt:0 "Releases all §Ystored troops§! from the mission '§TConcealing Our Strength§!'\n" # Keeping Our Strength Hidden
 
 EDG_BYZ_mission_4_4_title:0 "Crossing the Bosporus"
 EDG_BYZ_mission_4_4_desc:0 "The civil war between the two Andronikoses a century ago destroyed the Empire's frontier defenses. In 1337, Andronikos III completely lost Anatolia to the Ottomans. Now, the people of Asia Minor have suffered enough under barbarian oppression. It is time for another Andronikos to reclaim this land lost for a century."
@@ -228,7 +228,7 @@ EDG_BYZ_mission_4_11_desc:0 "Iberia has long suffered turmoil and the scourge of
 EDG_BYZ_mission_4_13_title:0 "Varangian Guard"
 EDG_BYZ_mission_4_13_desc:0 "The Varangian Guard, also known as the Nordic Guard, was a heavy infantry royal guard unit of the Byzantine Empire, primarily composed of Nordic peoples who migrated into the South Russian steppes. 'Varangian' was their self-designation, derived from the Old Norse 'Var,' meaning 'oath,' referring to a group sworn to another, bound by their lord's rules and sharing profits equally. Subsequently, the Byzantines broadly referred to all Norsemen and even Rus as 'Varangians.'"
 
-EDG_BYZ_mission_4_14_title:0 "Registered Foreign Officers"
+EDG_BYZ_mission_4_14_title:0 "Foreign Officers" # Registered Foreign Officers
 EDG_BYZ_mission_4_14_desc:0 "For centuries, foreign mercenaries have been an almost inseparable part of the imperial army. There is no need to remove them; rather, we should organically integrate foreign troops into our military system to gain fresh military experience and thinking."
  
 
@@ -246,7 +246,7 @@ EDG_BYZ_mission_4_21_title:0 "Agriculture as the Foundation"
 EDG_BYZ_mission_4_21_desc:0 "'I do not want to send them away hungry, for they might faint on the way.' (Matthew 15:32; Mark 8:3)\n\nUndoubtedly, the first step in economic revival is to restore the population and replenish Rome's countryside. To increase population, ensuring ample food is paramount. Only when everyone is well-fed can the Empire have a chance for revival."
 EDG_BYZ_mission_4_21.effect.tt:0 "All provinces under our control with the §YGrain§! §Ttrade good§! gain §Y2§! base production\n\nGain §Y500§! manpower from each province under our control with the §YGrain§! §Ttrade good§!\n"
 
-EDG_BYZ_mission_4_23_title:0 "Replenishing the Rural Population"
+EDG_BYZ_mission_4_23_title:0 "Replenishing the Population" # Replenishing the Rural Population
 EDG_BYZ_mission_4_23_desc:0 "Prolonged warfare has left the Empire's lands depopulated. Restoring the rural population is essential to increase societal vitality and wealth, thereby enhancing the nation's overall strength."
 EDG_BYZ_mission_4_23.effect.tt:0 "Up to §Y50§! provinces under our and our subjects' control with §Tdevelopment§! below §Y12§! will receive the following effect:"
 
@@ -257,13 +257,13 @@ EDG_BYZ_mission_4_26_title:0 "Royal Authority"
 EDG_BYZ_mission_4_26_desc:0 "Although the Palaiologos dynasty is already the longest-lasting in Roman imperial history, the chronic disease of civil war has never been cured, especially now when the Empire is financially and militarily exhausted. Only by maintaining the monarchy's prestige can we suppress challengers from all regions and ensure national stability.
 EDG_BYZ_mission_4_26.effect.tt:0 "If §Yall estates§! have §Tinfluence§! below §Y45§!:"
 
-EDG_BYZ_mission_4_28_title:0 "Enacting the '[Root.Monarch.GetName] Code'"
+EDG_BYZ_mission_4_28_title:0 "[Root.Monarch.GetName] Code" # Enacting the '[Root.Monarch.GetName] Code'
 EDG_BYZ_mission_4_28_desc:0 "The Orthodox Church was born at the First Council of Nicaea in 325, where the Bishop of Constantinople was declared Archbishop and Ecumenical Patriarch. Later, with the schism of the Eastern Church, the loss of Eastern territories, and the betrayal of the Western Church, the Archbishop of Constantinople, the Ecumenical Patriarch, became almost the sole bishop leading the Empire's Christians. As the Empire gradually reclaimed its ancestral lands and spread the Gospel, his position grew increasingly crucial and unshakable. Indeed, the Ecumenical Patriarch also wielded significant influence in the Empire's internal politics. We need explicit laws to ensure the Ecumenical Patriarch remains under the Emperor's control and endorses our imperial authority. A loyal and efficient clerical system within the imperial structure will greatly enhance the Empire's stability and the government's ability to control local regions."
 
 EDG_BYZ_mission_4_30_title:0 "Gazing at the World"
 EDG_BYZ_mission_4_30_desc:0 "Although Rome once conquered the entire known world, the known world is now constantly expanding. Western barbarians, relying on ancient Greek prophecies, have discovered entirely new continents; we too should seek out the New World and claim our share."
 
-EDG_BYZ_mission_5_1_title:0 "Keeping Our Strength Hidden"
+EDG_BYZ_mission_5_1_title:0 "Concealing Our Strength" # Keeping Our Strength Hidden
 EDG_BYZ_mission_5_1_desc:0 "The Empire certainly lacks the wealth to maintain a large army. Drawing from the experience of ancient Roman city-states, the Emperor realizes that to have sufficient forces to resist the Turks, we must embed soldiers among the people. When war arrives, we can quickly mobilize these trained civilians to form new armies."
 EDG_BYZ_mission_5_1.effect.tt:0 "All §Ytroops§! located in §Y[151.GetName]§! will be temporarily §Ystored§!; completing the mission '§TBiding Our Time§!' will allow them to be §Yrecalled§!.\n"
 
@@ -277,7 +277,7 @@ EDG_BYZ_mission_5_5_desc:0 "After Pompey defeated Mithridates VI, the Bosporan K
 EDG_BYZ_mission_5_6_title:0 "Children of the Caucasus"
 EDG_BYZ_mission_5_6_desc:0 "In 301 AD, the Kingdom of Armenia converted en masse to Christianity; in 337 AD, the Kingdom of Iberia also converted. However, after the Battle of Manzikert, these two Caucasian nations were submerged in a sea of infidels. Though Georgia once rose to prominence, it ultimately fragmented under Mongol assaults. Let us emulate Maurice I in driving out the infidels and welcoming the children of the Caucasus back into Rome's embrace."
 
-EDG_BYZ_mission_5_8_title:0 "A Millennium-Long Aspiration"
+EDG_BYZ_mission_5_8_title:0 "A Millennium Long Aspiration" # A Millennium-Long Aspiration
 EDG_BYZ_mission_5_8_desc:0 "The Roman-Persian wars are perhaps the longest in human history. These conflicts began with the military disaster stemming from Crassus's ambition, leading to his beheading. Though Rome withstood Parthian assaults, Antony's expedition likewise ended in defeat. Thereafter, Rome and Parthia clashed every few decades until Parthia's fall—and the rise of the new Sassanid Persian dynasty. The Sassanids were even stronger than the Parthians, frequently engaging Rome and even capturing Emperor Valerian at Edessa in 260 under Shapur I. Rome also achieved some advantages, yet Carus died campaigning after capturing Ctesiphon, and Julian perished besieging the same city without success. It was almost called the curse of the Persian expedition.\n\nThe 5th century saw a century of peace due to frontier crises, until Kavadh I of Persia reignited the conflict. From the 6th century, Persian incursions intensified, even breaching Antioch. Maurice I eventually counterattacked, captured Ctesiphon, and Rome and Persia signed a 'Perpetual Peace' treaty—seemingly defying the curse.\n\nDoes such a thing as 'Perpetual Peace' truly exist? The Sassanian Khosrow II exploited Roman civil strife to launch a massive western campaign in 606, conquering all of Rome's Asian territories. Emperor Heraclius turned the tide, and by 631, both sides returned to pre-war borders. This twenty-five-year war nearly exhausted both Rome and Persia; ultimately, the Arabs rose while neither could recover. The seven-century Roman-Persian wars finally paused. Of course, if one considers the Seljuk Empire and the Ilkhanate as Persian, then Persians once again occupied Syria and Asia Minor, and Romanos IV fell victim to the curse.\n\nNow, Rome has revived! Persia has long been weak. Seizing this opportunity, we shall forever end this millennium-long conflict."
 EDG_BYZ_mission_5_8.prev.tt:0 "If @PER §Y[PER.GetName]§! exists:"
 
@@ -307,7 +307,7 @@ EDG_BYZ_mission_5_22_title:0 "Settling Refugees"
 EDG_BYZ_mission_5_22_desc:0 "'God sets the lonely in families, he leads out the prisoners with singing; but the rebellious live in a sun-scorched land.' (Psalm 68:6)\n\nThe Empire's collapse and endless wars in the Balkans and Anatolia have created multitudes of homeless refugees. Coincidentally, we now need to restore our population. We must seize this opportunity to repopulate and rebuild our countryside and cities."
 EDG_BYZ_mission_5_22.effect.tt:0 "Increases §Ydevelopment§! to §Y12§! in up to §Y10§! of our provinces with §Tdevelopment§! below §Y12§!"
 
-EDG_BYZ_mission_5_24_title:0 "Developing Animal Husbandry"
+EDG_BYZ_mission_5_24_title:0 "Animal Husbandry" # Developing Animal Husbandry
 EDG_BYZ_mission_5_24_desc:0 "Not all land is suitable for cultivation, but most land can be used for grazing. Animal husbandry can nourish our nation's children, making them strong, and also provide essential draft power for production and military needs."
 
 EDG_BYZ_mission_5_25_title:0 "Nourishing the People"
@@ -319,6 +319,6 @@ EDG_BYZ_mission_5_27_title:0 "National Identity"
 EDG_BYZ_mission_5_27_desc:0 "Rome is not a nation of a single ethnicity, but a union of the world's peoples under Roman law. All Roman citizens have the right to proudly call themselves Romans."
 EDG_BYZ_mission_5_27.effect.tt:0 "§YPronoia estates§! with a §Ydifferent primary culture group§! from ours will grant us §G+1§! §Taccepted culture§! slot\n"
 
-EDG_BYZ_mission_5_29_title:0 "Establishing New Universities"
+EDG_BYZ_mission_5_29_title:0 "New Universities" # Establishing New Universities
 EDG_BYZ_mission_5_29_desc:0 "For a long time, the Empire had only the University of Constantinople as an institution of higher learning, while multiple universities emerged in Italy. With the growth of imperial population and wealth, it is necessary for us to establish a number of new universities to promote talent development and philosophical research."
 EDG_BYZ_mission_5_29.effect.tt:0 "Unlocks the §TState Edict§! 'Universal Education'"

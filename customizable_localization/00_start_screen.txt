@@ -242,7 +242,7 @@ defined_text = {
     localisation_key = string_start_title_hisn_kayfa
     trigger = {
       tag = HSN
-      dynasty = "尤布"  # Ayyubid
+      dynasty = "Ayyubid"  # Ayyubid
     }
   }
   text = {

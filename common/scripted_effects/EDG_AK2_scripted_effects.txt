@@ -1,7 +1,7 @@
 EDG_AK2_exploison_effect_1 = {#乌尊哈桑
 	define_ruler = {
-		dynasty = "阿克 科雍鲁"
-		name = "乌尊 哈桑"
+		dynasty = "Aq Qoyunlu"
+		name = "Uzun Hasan"
 		age = 55
 		claim = 100
 		adm = 4
@@ -12,8 +12,8 @@ EDG_AK2_exploison_effect_1 = {#乌尊哈桑
 
 EDG_AK2_exploison_effect_2 = {#贾沙 汗
 	define_ruler = {
-		dynasty = "卡拉 科雍鲁"
-		name = "贾沙 汗"
+		dynasty = "Qara Qoyunlu"
+		name = "Jashar Khan"
 		age = 58
 		claim = 100
 		adm = 3
@@ -24,8 +24,8 @@ EDG_AK2_exploison_effect_2 = {#贾沙 汗
 
 EDG_AK2_exploison_effect_3 = {#伊斯坎达尔
 	define_ruler = {
-		dynasty = "伊斯坎达尔"
-		name = "安卡拉"
+		dynasty = "Iskandar"
+		name = "Ankara"
 		age = 35
 		claim = 100
 		adm = 4
@@ -36,8 +36,8 @@ EDG_AK2_exploison_effect_3 = {#伊斯坎达尔
 
 EDG_AK2_event_53_effect_4 = {#凯萨拉
 	define_heir = {
-		dynasty = "卡拉伊斯坎达尔"
-		name = "凯萨拉"
+		dynasty = "Qara Iskandar"
+		name = "Kaisara"
 		age = 1
 		claim = 100
 		adm = 4
@@ -50,8 +50,8 @@ EDG_AK2_event_53_effect_4 = {#凯萨拉
 
 EDG_AK2_event_58_effect_a = {#玛努切赫尔「参孙」
 	define_ruler = {
-		dynasty = "卡拉伊斯坎达尔"
-		name = "玛努切赫尔「参孙」"
+		dynasty = "Qara Iskandar"
+		name = "Manuchehr 'Samson'"
 		age = 35
 		claim = 75
 		adm = 4
@@ -63,8 +63,8 @@ EDG_AK2_event_58_effect_a = {#玛努切赫尔「参孙」
 
 EDG_AK2_event_58_effect_b = {#玛阿尔伯兹「所罗门」
 	define_ruler = {
-		dynasty = "卡拉伊斯坎达尔"
-		name = "阿尔伯兹「所罗门」"
+		dynasty = "Qara Iskandar"
+		name = "Alborz 'Solomon'"
 		age = 27
 		claim = 75
 		adm = 4
@@ -76,8 +76,8 @@ EDG_AK2_event_58_effect_b = {#玛阿尔伯兹「所罗门」
 
 EDG_AK2_event_58_effect_c = {#奥尔玛兹德「伟大者」
 	define_ruler = {
-		dynasty = "卡拉伊斯坎达尔"
-		name = "奥尔玛兹德「伟大者」"
+		dynasty = "Qara Iskandar"
+		name = "Ormazd 'the Great'"
 		age = 15
 		claim = 100
 		adm = 0

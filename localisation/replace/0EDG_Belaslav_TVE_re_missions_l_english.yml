@@ -1,0 +1,41 @@
+﻿l_english:
+EDG_TVE_re_1_1_title:0 "Develop Tver"
+EDG_TVE_re_1_1_desc:0 "Tver's geographical location is exceptionally favorable, with convenient transportation and easy development. After the cities of Northeastern Rus' were destroyed by the Tatar invasion, she was the first Rus' city to revive. She should become the new 'mother of Rus' cities'!"
+
+EDG_TVE_re_1_3_title:0 "Greater Tver"
+EDG_TVE_re_1_3_desc:0 "Glory to the Grand Prince of Tver! Tver has undoubtedly become the undisputed focal point of Northeastern Rus'. Great Tver will lead the rebirth of Rus'."
+
+EDG_TVE_re_2_1_title:0 "The Throne of Moscow"
+EDG_TVE_re_2_1_desc:0 "The Tver-Moscow civil war is time to end. The throne of Moscow shall forever belong to the Grand Prince of Tver!"
+EDG_tve_conquer_mos_tooltip:0 "We will unlock a decision to integrate Nizhny Novgorod."
+
+EDG_TVE_re_2_2_title:0 "Claim Nizhny Novgorod" # Nizhny Novgorod Lands
+EDG_TVE_re_2_2_desc:0 "The lands of Nizhny Novgorod have been subject to us for decades, but that alone is not enough. The Nizhny Novgorod lands should fully become part of Greater Tver."
+
+EDG_TVE_re_3_1_title:0 "Ensure Estate Loyalty"
+EDG_TVE_re_3_1_desc:0 "We need the loyalty of the clergy, merchants, and boyars. They are the pillars of the Rus' principalities."
+EDG_tve_estate_1_tooltip:0 "We will unlock three one-time estate interaction decisions to secure their loyalty."
+
+EDG_TVE_re_3_3_title:0 "Power of the Grand Prince" # The Power of the Grand Prince
+EDG_TVE_re_3_3_desc:0 "In Tver, everyone should be loyal to the Grand Prince. The Grand Prince's power is limitless!"
+
+EDG_TVE_re_3_4_title:0 "The Path to Vladimir"
+EDG_TVE_re_3_4_desc:0 "Tver is often criticized for not being the successor to Kyiv and, as a Rus' principality, should follow Kyiv's guidance rather than act independently. But so what? Tver is the glorious successor to the Principality of Vladimir. As for Kyiv, it should have been tossed into the dustbin of history long ago!"
+EDG_tve_road_to_vladimir_tooltip:0 "§RThis will be a path of thorns, filled with bloodshed...§!"
+EDG_tve_road_to_vladimir_1_tooltip:0 "§YThrough the disaster of the War of Hawovo, you will be able to form Vladimir Rus'. It is recommended to start this mission only after thorough preparation.§!"
+
+EDG_TVE_re_4_2_title:0 "Lord of Novgorod"
+EDG_TVE_re_4_2_desc:0 "Novgorod has always been the commercial and trade center of Northern Rus'. Through this, Novgorod has amassed immense wealth. Now, this immense wealth should flow into our coffers."
+
+EDG_TVE_re_5_1_title:0 "True Successor of Vladimir" # The True Successor of Vladimir
+EDG_TVE_re_5_1_desc:0 "After Vladimir was utterly destroyed by the iron hooves of the Tatars, the princes of Northeastern Rus', as heirs to the Principality of Vladimir, slaughtered each other. Now, our Tver has emerged victorious from this slaughter. We are the true successors to the Principality of Vladimir!"
+
+EDG_TVE_re_5_3_title:0 "God's Chosen One"
+EDG_TVE_re_5_3_desc:0 "Heretics and pagans surround Rus' from all sides, but our wise and mighty Grand Prince is guided by God. The Grand Prince of Tver—he is the Lord of Rus' ordained by God!"
+
+EDG_TVE_re_3_5_title:0 "End the Turmoil"
+EDG_TVE_re_3_5_desc:0 "The great boyars' rebellion has been suppressed with an iron fist. It is time to end this turmoil. Royal authority must be above all secular powers!"
+EDG_tve_vladimir_rus_reform_tooltip: "All §YVladimir Rus' Reforms§! have been completed."
+EDG_tve_end_of_civil_war_tooltip:0 "We will end §Ythe War of Hawovo§!."
+EDG_tve_re_start_civil_war_tooltip:0 "We have started §Ythe Path to Vladimir§!."
+EDG_tve_re_end_civil_war_tooltip:0 "We have ended the §RTurmoil§!."

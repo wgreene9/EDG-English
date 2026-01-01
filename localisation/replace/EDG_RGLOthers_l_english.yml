@@ -1,0 +1,22 @@
+﻿l_english:
+EDG_RGL_forge_ahead:0 "Forge Ahead"
+desc_EDG_RGL_forge_ahead:0 ""
+
+EDG_RGL_give_sermons:0 "Preach Doctrines"
+desc_EDG_RGL_give_sermons:0 ""
+
+EDG_RGL_concentrated_winemaking:0 "Wine Production"
+desc_EDG_RGL_concentrated_winemaking:0 ""
+
+ability_EDG_RGL_vanguard_spirit_mechanics:0 "Enables Government Ability §YVanguard Spirit§!"
+EDG_RGL_vanguard_spirit:0 "§YMissionary Zeal§!"
+EDG_RGL_vanguard_spirit_desc:0 ""
+EDG_RGL_vanguard_spirit_gain_modifier:0 "Modifiers provided by §YMissionary Zeal§!"
+monthly_EDG_RGL_vanguard_spirit:0 "Monthly §YMissionary Zeal§!"
+
+EDG_RGL_vanguard_spirit_interaction_1:0 "Explore the New World"
+ EDG_RGL_vanguard_spirit_interaction_1_desc:0 ""
+ EDG_RGL_vanguard_spirit_interaction_2:0 ""
+ EDG_RGL_vanguard_spirit_interaction_2_desc:0 ""
+ EDG_RGL_vanguard_spirit_interaction_3:0 ""
+ EDG_RGL_vanguard_spirit_interaction_3_desc:0 ""

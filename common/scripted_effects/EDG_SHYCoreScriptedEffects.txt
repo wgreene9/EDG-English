@@ -1,7 +1,7 @@
 EDG_SHY_Sibanihan = {
 	define_ruler = {
-		name = "穆罕默德 V 昔班尼"
-		dynasty = "月即别"
+		name = "Muhammad V Shaybani"
+		dynasty = "Uzbek"
 		age = 17
 		adm = 3
 		dip = 5

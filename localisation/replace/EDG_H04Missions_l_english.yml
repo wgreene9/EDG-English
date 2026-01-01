@@ -6,7 +6,7 @@ EDG_H04_mission_1_3_title:0 "The County of Holland" # Reclaim the County of Holl
 EDG_H04_mission_1_3_desc:0 "'Crossing the sea, I return to my homeland; I and my descendants shall dwell here forever.' —[Root.Monarch.GetName]"
 
 EDG_H04_mission_1_4_title:0 "The Call on the Scheldt"
-EDG_H04_mission_1_4_desc:0 "Lotharingia has been lingering on the brink for centuries; the kingdom of Lothair is utterly decayed. With the passing of Ludwig, the last Carolingian must inevitably fall. The fate of Middle Francia is already clear; the call on the Scheldt is resounding. The Low Countries are once again stirring with vitality. Let us personally deliver our southern brothers and sisters, and unify the Netherlands."
+EDG_H04_mission_1_4_desc:0 "Lotharingia has been lingering on the brink for centuries; the kingdom of Lothair is utterly decayed. With the passing of Louis, the last Carolingian must inevitably fall. The fate of Middle Francia is already clear; the call on the Scheldt is resounding. The Low Countries are once again stirring with vitality. Let us personally deliver our southern brothers and sisters, and unify the Netherlands."
 EDG_H04_mission_1_4.trigger.tt:0 "The §Tfate§! of @LOT §Y[LOT.GetName]§! is already foretold!"
 
 

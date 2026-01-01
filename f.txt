@@ -29,4 +29,393 @@
 
 # set_country_flag = EDG_mission_LOT_1_21_flag
 
-1878 = { add_construction_progress = 0.99 }
+# 1878 = { add_construction_progress = 0.99 }
+
+# set_country_flag = EDG_DMR_MARKET_enable_flag
+
+			# hidden_effect = {
+			# 	set_country_flag = compelte_rig_baltic_union_flag
+			# }
+			# swap_non_generic_missions = yes
+
+				# set_country_flag = tall_riga_mission_flag
+				# country_event = {
+				# 	id = rigaExpand.60
+				# 	days = 15
+				# }
+
+			# country_event = {
+			# 	id = rigaExpand.84
+			# }
+			# hidden_effect = {
+			# 	set_country_flag = rig_adm_system_of_riga_reform_begin
+			# 	swap_non_generic_missions = yes
+			# }
+
+			# hidden_effect = {
+			# 	set_country_flag = rig_administrative_restructuring_flag
+			# }
+			# country_event = {
+			# 	id = rigaExpand.85
+			# }
+			# hidden_effect = {
+			# 	set_country_flag = rig_scour_the_bureaucracy_flag
+			# 	swap_non_generic_missions = yes
+			# }
+
+			# hidden_effect = {
+			# 	set_country_flag = rig_diocesan_renovation_ordinace_flag
+			# 	swap_non_generic_missions = yes
+			# }
+
+			# hidden_effect = {
+			# 	set_country_flag = rig_clarify_responsibilities_flag
+			# 	swap_non_generic_missions = yes
+			# }
+
+			# hidden_effect = {
+			# 	set_country_flag = rig_second_allegiance_act_flag
+			# 	swap_non_generic_missions = yes
+			# }
+
+			# hidden_effect = {
+			# 	set_country_flag = rig_each_performs_its_owned_functions_flag
+			# 	swap_non_generic_missions = yes
+			# }
+
+			# hidden_effect = {
+			# 	set_country_flag = rig_uniform_oreder_flag
+			# 	swap_non_generic_missions = yes
+			# }
+
+			# hidden_effect = {
+			# 	set_country_flag = rig_border_brave_army_flag
+			# 	swap_non_generic_missions = yes
+			# }
+
+			# set_country_flag = EDG_MISSION_GSR_formal_unlock_flag
+			# swap_non_generic_missions = yes
+
+			# change_tag = LPL
+			# on_change_tag_effect = yes
+			# restore_country_name = yes
+			# swap_non_generic_missions = yes
+			# remove_non_electors_emperors_from_empire_effect = yes
+			# if = {
+			# 	limit = {
+			# 		has_custom_ideas = no
+			# 	}
+			# 	country_event = { id = ideagroups.1 } #Swap Ideas
+			# }
+			# if = {
+			# 	limit = {
+			# 		is_subject = yes
+			# 	}
+			# 	add_idea_group = diplomatic_ideas
+			# 	add_adm_power = -100
+			# 	add_mil_power = -100
+			# 	add_dip_power = 400
+			# }
+			# #custom_tooltip = EDG_BELA_SMI_lapland_sovereignty_flag_tt
+			# hidden_effect = {
+			# 	every_province = {
+			# 		limit = {
+			# 			or = {
+			# 				culture = sapmi
+			# 				culture = karelian
+			# 				culture = finnish
+			# 				area = finland_area
+			# 			}
+			# 		}
+			# 		set_province_flag = EDG_BELA_SMI_lapland_sovereignty_flag
+			# 	}
+			# }
+
+			# country_event = {
+			# 	id = EDG_AK2_event.23
+			# }
+			# set_country_flag = EDG_AK2_C1_3_decisions_flag
+
+			# change_tag = BU1
+			# set_country_flag = had_EDG_BUL_decision_form_BU1_flag
+			# set_ruler_flag = EDG_flavor_BUL_Mission_9_ruler_flag
+			# country_event = { id = EDG_flavor_BUL_Mission.5 }
+
+			# if = {
+			# 	limit = {
+			# 		NOT = { has_country_flag = enable_unite_balkans_cb_flag }
+			# 	}
+			# 	custom_tooltip = EDG_SPACE_TT
+			# 	set_country_flag = enable_unite_balkans_cb_flag
+			# 	custom_tooltip = enable_unite_balkans_cb_tt
+			# }
+
+			# custom_tooltip = EDG_SPACE_TT
+			# custom_tooltip = EDG_BUL_decision_form_BU1_tt
+
+			# custom_tooltip = EDG_SPACE_TT
+			# add_government_reform = EDG_GREAT_Bulgaria_tsardom_government
+
+			# set_country_flag = EDG_Mission_TUR_conquest_1_end_flag
+			# set_country_flag = EDG_Mission_TUR_conquest_2_flag
+			# country_event = { id = EDG_flavor_TUR_mission.7 }
+			# swap_non_generic_missions = yes
+
+			# set_country_flag = EDG_Mission_TUR_conquest_2_end_flag
+			# set_country_flag = EDG_Mission_TUR_conquest_3_flag
+			# swap_non_generic_missions = yes
+			# country_event = { id = EDG_flavor_TUR_mission.24 }
+
+			# country_event = { id = EDG_flavor_TTS.25 }
+			# if = {
+			# 	limit = {
+			# 		is_part_of_hre = yes
+			# 		is_elector = no
+			# 		is_emperor = no
+			# 	}
+			# 	emperor = {
+			# 		add_opinion = {
+			# 			who = root
+			# 			modifier = opinion_left_empire
+			# 		}
+			# 	}
+			# 	set_in_empire = no
+			# 	emperor = {
+			# 		country_event = { id = hre_event.5 }
+			# 	}
+			# }
+			# if = {
+			# 	limit = {
+			# 		NOT = { government_rank = 3 }
+			# 	}
+			# 	hidden_effect = {
+			# 		set_in_empire = no
+			# 	}
+			# 	set_government_rank = 3
+			# }
+			# change_tag = IT1
+			# #this is so that a tier 1 reform is always selected, preventing the user from just never selecting one and enjoying loads of absolutism
+			
+			# italy_region = {
+			# 	limit = {
+			# 		NOT = { owned_by = ROOT }
+			# 	}
+			# 	add_permanent_claim = ROOT
+			# }
+			# if = {
+			# 	limit = { has_custom_ideas = no }
+			# 	country_event = { id = ideagroups.1 } #Swap Ideas
+			# } 
+			# swap_non_generic_missions = yes
+			# set_country_flag = formed_IT1_flag
+
+
+
+
+
+
+
+
+
+
+			# restore_country_name = yes
+			# if = {
+			# 	limit = {
+			# 		is_part_of_hre = yes
+			# 		is_elector = no
+			# 		is_emperor = no
+			# 	}
+			# 	emperor = {
+			# 		add_opinion = {
+			# 			who = root
+			# 			modifier = opinion_left_empire
+			# 		}
+			# 	}
+			# 	set_in_empire = no
+			# 	emperor = {
+			# 		country_event = { id = hre_event.5 }
+			# 	}
+			# }
+			# if = {
+			# 	limit = {
+			# 		NOT = { government_rank = 2 }
+			# 	}
+			# 	hidden_effect = {
+			# 		set_in_empire = no
+			# 	}
+			# 	set_government_rank = 2
+			# }
+			# change_tag = ITA
+			# #this is so that a tier 1 reform is always selected, preventing the user from just never selecting one and enjoying loads of absolutism
+			# if = {
+			# 	limit = {
+			# 		NOT = { has_reform_on_level = 0 }
+			# 	}
+			# 	add_government_reform = signoria_reform
+			# }
+			# italy_region = {
+			# 	limit = {
+			# 		NOT = { owned_by = ROOT }
+			# 	}
+			# 	add_permanent_claim = ITA
+			# }
+			# add_prestige_or_monarch_power = { amount = 25}
+			# ITA = {
+			# 	set_capital = 118
+			# }
+			# if = {
+			# 	limit = { has_custom_ideas = no }
+			# 	country_event = { id = ideagroups.1 } #Swap Ideas
+			# } 
+			# swap_non_generic_missions = yes
+			# set_country_flag = formed_italy_flag
+			# if = {
+			# 	limit = {
+			# 		has_government_mechanic = EDG_GEN_george_house_mechanic
+			# 	}
+			# 	clear_global_event_target = EDG_St_George_House_Target
+			# 	save_global_event_target_as = EDG_St_George_House_Target
+			# }
+
+
+
+# Form Britannia
+			# if = {
+			# 	limit = {
+			# 		has_country_flag = EDG_SCO_mission_2_10_modifier_flag
+			# 	}
+			# 	custom_tooltip = EDG_SCO_mission_2_10_decision_tt
+			# }
+			# 236 = {
+			# 	move_capital_effect = yes
+			# }
+			# change_tag = BTA
+			# restore_country_name = yes
+			# swap_non_generic_missions = yes
+			# remove_non_electors_emperors_from_empire_effect = yes
+			# if = {
+			# 	limit = {
+			# 		NOT = { government_rank = 2 }
+			# 	}
+			# 	set_government_rank = 2
+			# }
+			# british_isles_region = {
+			# 	limit = {
+			# 		NOT = { owned_by = ROOT }
+			# 	}
+			# 	add_permanent_claim = Root
+			# }
+			# add_prestige_or_monarch_power = { amount = 25}
+			# add_country_modifier = {
+			# 	name = "centralization_modifier"
+			# 	duration = 7300
+			# }
+			# set_country_flag = EDG_formed_britannia_flag
+			# if = {
+			# 	limit = {
+			# 		mission_completed = conquer_scotland
+			# 		has_dlc = "Rule Britannia"
+			# 	}
+			# 	369 = {
+			# 		add_permanent_claim = Root
+			# 	}
+			# 	1978 = {
+			# 		add_permanent_claim = Root
+			# 	}
+			# 	1979 = {
+			# 		add_permanent_claim = Root
+			# 	}
+			# 	370 = { add_claim = Root }
+			# 	371 = { add_claim = Root }
+			# }
+			# if = {
+			# 	limit = {
+			# 		mission_completed = eng_rb_spice_islands
+			# 		has_dlc = "Rule Britannia"
+			# 	}
+			# 	west_bengal_area = {
+			# 		limit = {
+			# 			NOT = { is_core = ROOT }
+			# 			NOT = { owned_by = ROOT }
+			# 		}
+			# 		add_permanent_claim = Root
+			# 	}
+			# }
+			# if = {
+			# 	limit = { 
+			# 		has_custom_ideas = no
+			# 		NOT = { has_idea_group = BTA_ideas }
+			# 	}
+			# 	country_event = { id = ideagroups.1 } #Swap Ideas
+			# }
+			# swap_non_generic_missions = yes
+
+# Form FWF
+			# hidden_effect = {
+			# 	set_country_flag = EDG_FOI_FWF_nations_flag
+			# }
+			# if = {
+			# 	limit = { 
+			# 		any_country = {
+			# 			capital_scope = {
+			# 				OR = {
+			# 					superregion = europe_superregion
+			# 					superregion = eastern_europe_superregion
+			# 				}
+			# 			}
+			# 			OR = {
+			# 				has_reform = EDG_Citizen_Army_Government
+			# 				has_reform = EDG_ROS_Citizen_Government
+			# 				has_reform = peasants_republic
+			# 				is_revolutionary_republic_trigger = yes
+			# 				AND = {
+			# 					NOT = {
+			# 						tag = root
+			# 					}
+			# 					government = UCI_commune
+			# 				}
+			# 			}
+			# 		}
+			# 	}
+			# 	custom_tooltip = EDG_FOI_FWF_nations.tt
+			# 	hidden_effect = {
+			# 		every_country = {
+			# 			limit = {
+			# 				capital_scope = {
+			# 					OR = {
+			# 						superregion = europe_superregion
+			# 						superregion = eastern_europe_superregion
+			# 					}
+			# 				}
+			# 				is_subject = no
+			# 				OR = {
+			# 					has_reform = EDG_Citizen_Army_Government
+			# 					has_reform = EDG_ROS_Citizen_Government
+			# 					has_reform = peasants_republic
+			# 					is_revolutionary_republic_trigger = yes
+			# 				}
+			# 			}
+			# 			country_event = {
+			# 				id = EDG_FWFEvents.1
+			# 			}
+			# 		}
+			# 	}
+			# }
+			# hidden_effect = {
+			# 	every_subject_country = {
+			# 		root = {
+			# 			inherit = prev
+			# 		}
+			# 	}
+			# }
+			# country_event = {
+			# 	id = EDG_FWFEvents.0
+			# }
+
+			country_event = { id = EDG_flavor_FYM_mission.50 }
+
+			custom_tooltip = EDG_SPACE_TT
+			set_country_flag = EDG_FYM_disaster_mission_3_6_flag
+			custom_tooltip = EDG_FYM_disaster_mission_3_6_flag_tt
+				remove_country_modifier = EDG_FYM_1444_decline_modifier
+				swap_non_generic_missions = yes

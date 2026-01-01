@@ -1,0 +1,140 @@
+﻿l_english:
+
+EDG_BAH_exploison_1:0 "Deccan Religious Strife"
+desc_EDG_BAH_exploison_1:0 "Superficially, the religious conflicts have ended, but the religious tensions stemming from the long-standing campaigns against the Hindu states of the Deccan have long been unmanageable. It only takes a spark to ignite the powder keg."
+
+EDG_BAH_exploison_1_event.2:0 "Understood."
+
+EDG_BAH_exploison_1_end_tool:0 "Complete all event chains, reunify the Deccan once more, gain control over the representatives of each religion, and become the protector of all religions in the Indian region. This will end the disaster."
+EDG_BAH_exploison_1_event_9_tooltip:0 "When we form Dravida, some Buddhist wonders can be activated."
+
+EDG_BAH_exploison_1_event.1.t:0 "Deccan Religious Strife"
+EDG_BAH_exploison_1_event.1.d:0 "Severe religious strife has erupted in the Deccan. We must prepare to purge the rebels, appease the governors in various regions, and address the undercurrents of separatist forces in the southern territories we have conquered. Superficially, the religious conflicts have ended, but the religious tensions stemming from the long-standing campaigns against the Hindu states of the Deccan have long been unmanageable. It only takes a spark to ignite the powder keg.\n"Honorable Padishah, rumors of rebellion are spreading in the southern lands. The southern governors hope to dispatch troops for support, but this may be a premeditated revolt. Our great Padishah Ahmad swept across the entire Deccan with overwhelming force, breaking a century of division. However, the price of rapid expansion is the inability to quell the anger of various factions. Only our upper class is Shia, while the common people are predominantly Hindus with a small number of Buddhists. Their dissatisfaction with our rule has long been brewing. We should respect the customs of each sect, control the influential clergy of each faith, and even shape the great Padishah into a saint for each religion. This will allow us to better govern the peoples of all faiths.""
+EDG_BAH_exploison_1_event.1.a:0 "Severe religious strife has erupted in the Deccan. Can she survive this crisis?"
+
+EDG_BAH_exploison_1_event.2.t:0 "Ended? It Has Ended!"
+EDG_BAH_exploison_1_event.2.d:0 "Honorable Padishah, Chakravartin, Kshatrapati, now the leaders of each religion are firmly under our control. You are now the protector and guardian of the three major religious forces in the Indian region.\nThe Deccan religious turmoil has ended. The rebels have been beheaded, and the princes of the former Deccan states are now completely under control. The entire Deccan is now yours alone."
+EDG_BAH_exploison_1_event.2.a:0 "Finally, it is over."
+
+EDG_BAH_exploison_1_event.3.t:0 "Rebellion of the Southern States"
+EDG_BAH_exploison_1_event.3.d:0 "The rumors of rebellion have become reality. The separatist forces in the south have long united, and the governorates in the southern lands have fallen. Padishah, we must suppress them. Furthermore, new rumors suggest rebel movements are even being traced in the Mysore and Keladi governorates. Padishah, please dispatch reinforcements."
+EDG_BAH_exploison_1_event.3.a:0 "Ignore them for now"
+EDG_BAH_exploison_1_event.3.b:0 "Suppress them all"
+
+EDG_BAH_exploison_1_event.4.t:0 "Uprising of the Remnant Mysore Forces"
+EDG_BAH_exploison_1_event.4.d:0 "In the deep mountains, remnants of the old Mysore nobility are still hiding. They are contacting local separatists, planning to incite rebellion."
+EDG_BAH_exploison_1_event.4.a:0 "We are powerless"
+EDG_BAH_exploison_1_event.4.b:0 "Full map clearing, annoying!"
+
+EDG_BAH_exploison_1_event.5.t:0 "Rebellion of the Keladi Governor"
+EDG_BAH_exploison_1_event.5.d:0 "Not long ago, the Governor of Keladi pledged allegiance to us, and we granted him wealth, beauties, and even land. It seems leniency is not advisable."
+EDG_BAH_exploison_1_event.5.a:0 "How detestable"
+EDG_BAH_exploison_1_event.5.b:0 "Wretched traitor, drag him here. I will behead him myself."
+
+EDG_BAH_exploison_1_event.6.t:0 "Independence of the Vijayanagara Rajas"
+EDG_BAH_exploison_1_event.6.d:0 "Many Vijayanagara Rajas who were once subjugated or even purged—it seems the purges were insufficient. Now they harbor delusions of restoring their former glory."
+EDG_BAH_exploison_1_event.6.a:0 "What did you say?"
+EDG_BAH_exploison_1_event.6.b:0 "It seems we were still too lenient."
+
+EDG_BAH_exploison_1_event.7.t:0 "Great Victory"
+EDG_BAH_exploison_1_event.7.d:0 "Great victory from the southern front! One rebel army has been suppressed."
+EDG_BAH_exploison_1_event.7.a:0 "The southern states have been annihilated"
+EDG_BAH_exploison_1_event.7.b:0 "The Mysore rebel forces have been purged"
+EDG_BAH_exploison_1_event.7.c:0 "The Governor of Keladi has been beheaded"
+EDG_BAH_exploison_1_event.7.e:0 "Vijayanagara has become history"
+
+EDG_BAH_exploison_1_event.8.t:0 "Rumors of Governor Rebellion"
+EDG_BAH_exploison_1_event.8.d:0 "We hear whispers of rebellion brewing in the southern provinces. The surrounding four provinces may already be stirring. Now we should appease each governor to stabilize the current situation."
+EDG_BAH_exploison_1_event.8.a:0 "Grant them autonomy"
+EDG_BAH_exploison_1_event.8.b:0 "How dare they defy heaven's order!"
+EDG_BAH_exploison_1_event.8.c:0 "Absolute loyalty"
+
+EDG_BAH_exploison_1_event.9.t:0 "Control the Buddhist Followers"
+EDG_BAH_exploison_1_event.9.d:0 "We should control the Buddhist leadership, have them serve us. This will allow better control over the Buddhist populace at the grassroots level and have them acclaim me as the Chakravartin."
+EDG_BAH_exploison_1_event.9.a:0 "I am the Chakravartin"
+
+EDG_BAH_exploison_1_event.10.t:0 "Control the Hindu Followers"
+EDG_BAH_exploison_1_event.10.d:0 "We should control the Hindu leadership, have them serve us. This will allow better control over the Hindu populace at the grassroots level and have them acclaim me as the Kshatrapati."
+EDG_BAH_exploison_1_event.10.a:0 "I am the Kshatrapati"
+
+EDG_BAH_exploison_1_event.11.t:0 "Supreme Power"
+EDG_BAH_exploison_1_event.11.d:0 "Now we have completely gained control over the Hindu and Buddhist leadership. The entire Deccan will finally return to peace."
+EDG_BAH_exploison_1_event.11.a:0 "Master of the Deccan"
+
+EDG_BAH_exploison_1_event.12.t:0 "Hindu Rebels"
+EDG_BAH_exploison_1_event.12.d:0 "In times of turmoil, there are always opportunists seeking chances."
+EDG_BAH_exploison_1_event.12.a:0 "Suppress them"
+
+EDG_BAH_exploison_1_event.13.t:0 "Usurper Rebels"
+EDG_BAH_exploison_1_event.13.d:0 "In times of turmoil, there are always opportunists seeking chances."
+EDG_BAH_exploison_1_event.13.a:0 "Suppress them"
+
+EDG_BAH_exploison_1_event.14.t:0 "Usurper Rebels"
+EDG_BAH_exploison_1_event.14.d:0 "In times of turmoil, there are always opportunists seeking chances."
+EDG_BAH_exploison_1_event.14.a:0 "Suppress them"
+
+EDG_BAH_exploison_1_event.15.t:0 "Hindu Rebels"
+EDG_BAH_exploison_1_event.15.d:0 "In times of turmoil, there are always opportunists seeking chances."
+EDG_BAH_exploison_1_event.15.a:0 "Suppress them"
+
+EDG_BAH_exploison_1_event.16.t:0 "Hindu Rebels"
+EDG_BAH_exploison_1_event.16.d:0 "In times of turmoil, there are always opportunists seeking chances."
+EDG_BAH_exploison_1_event.16.a:0 "Suppress them"
+
+EDG_BAH_exploison_1_event.17.t:0 "Noble Rebels"
+EDG_BAH_exploison_1_event.17.d:0 "In times of turmoil, there are always opportunists seeking chances."
+EDG_BAH_exploison_1_event.17.a:0 "Suppress them"
+
+EDG_BAH_exploison_1_event.18.t:0 "Noble Rebels"
+EDG_BAH_exploison_1_event.18.d:0 "In times of turmoil, there are always opportunists seeking chances."
+EDG_BAH_exploison_1_event.18.a:0 "Suppress them"
+
+EDG_BAH_exploison_1_event.19.t:0 "Support from Other Governors"
+EDG_BAH_exploison_1_event.19.d:0 "During the turmoil, loyal governors have provided us with support, helping us through this difficult time."
+EDG_BAH_exploison_1_event.19.a:0 "Reinforcements have arrived"
+
+EDG_BAH_exploison_1_event.20.t:0 "Great Victory over the Southern States"
+EDG_BAH_exploison_1_event.20.d:0 "The four southern provinces that rebelled first have now been annihilated by our armies."
+EDG_BAH_exploison_1_event.20.a:0 "The southern states have been annihilated"
+
+EDG_BAH_exploison_1_event.21.t:0 "Great Victory over the Mysore Rebellion"
+EDG_BAH_exploison_1_event.21.d:0 "The rebel forces hiding in the mountains can no longer even enter them."
+EDG_BAH_exploison_1_event.21.a:0 "The Mysore rebel forces have been purged"
+
+EDG_BAH_exploison_1_event.22.t:0 "Great Victory at Keladi"
+EDG_BAH_exploison_1_event.22.d:0 "The governor who once submitted has now submitted again, but this time I will hang his head above the governor's mansion."
+EDG_BAH_exploison_1_event.22.a:0 "The Governor of Keladi has been beheaded"
+
+EDG_BAH_exploison_1_event.23.t:0 "Great Victory over Vijayanagara"
+EDG_BAH_exploison_1_event.23.d:0 "Now the princes and nobles of Vijayanagara have been slaughtered. Let them remain only in the history books."
+EDG_BAH_exploison_1_event.23.a:0 "Vijayanagara has become history"
+
+
+
+
+EDG_BAH_exploison_2:0 "The Collapse of the Deccan Empire"
+desc_EDG_BAH_exploison_2:0 "No nation has ever completely conquered every inch of India. Now the Deccan Empire has done it. But what is the cost?\nComplete missions related to the India disasters to end this disaster."
+
+EDG_BAH_exploison_1_event.24.t:0 "The Collapse of the Deccan Empire"
+EDG_BAH_exploison_1_event.24.d:0 "No nation has ever completely conquered every inch of India. Now the Deccan Empire has done it. But what is the cost?\n\nIt seems like fate, a shackle bestowed by heaven, preventing India from unification. This is the graveyard of empires; every nation that attempts to unify India will ultimately disintegrate. Can you break this so-called fate?\n\nThe multitude and complexity of Indian ethnicities have led to irreconcilable conflicts. Now, various kings are rising, attempting to establish their own states.\n\nComplete missions related to the India disasters to end this disaster."
+EDG_BAH_exploison_1_event.24.a:0 "The Collapse of the Deccan Empire"
+
+EDG_BAH_exploison_1_event.25.t:0 "Independence of the Hindustani States"
+EDG_BAH_exploison_1_event.25.d:0 "The Hindustan region was long ago conquered by foreign Turks and Persians. Now, the remaining old forces are raising their banners and joining the ranks of rebellion."
+EDG_BAH_exploison_1_event.25.a:0 "Let it be"
+EDG_BAH_exploison_1_event.25.b:0 "What? What do they think they're doing?"
+
+EDG_BAH_exploison_1_event.26.t:0 "Independence of the Western Indian States"
+EDG_BAH_exploison_1_event.26.d:0 "Western India still harbors many Rajput nobles who feigned submission to us. Now, with domestic rebellious voices growing louder, they have taken up arms and occupied many governorates.\n\nSindhi rebels, incited by the Khorasanis, have declared independence and united with former Gujarati nobles to rise in rebellion."
+EDG_BAH_exploison_1_event.26.a:0 "We are powerless"
+EDG_BAH_exploison_1_event.26.b:0 "What did you say? Say that again."
+
+EDG_BAH_exploison_1_event.27.t:0 "Independence of the Bengali States"
+EDG_BAH_exploison_1_event.27.d:0 "Odisha separatists have long been hiding in the rainforests. They have united with Bengali princes to rebel. The distant Governor of Assam has lost contact and is likely already occupied by rebels."
+EDG_BAH_exploison_1_event.27.a:0 "Remain indifferent"
+EDG_BAH_exploison_1_event.27.b:0 "Are they mad, or am I?"
+
+EDG_BAH_exploison_1_event.28.t:0 "India Shall Be Unified"
+EDG_BAH_exploison_1_event.28.d:0 "No nation has ever completely conquered every inch of India. Now, once again, the Deccan Empire has brought India under its control. This is the Mandate of Heaven for the Deccan. The long-slumbering tiger awakens; it is the time of the hunt. Our swords point to distant horizons, conquering the stars and seas."
+EDG_BAH_exploison_1_event.28.a:0 "India Shall Be Unified"
+

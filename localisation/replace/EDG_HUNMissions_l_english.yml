@@ -1,0 +1,138 @@
+﻿l_english:
+EDG_HUN_mission_1_1_title:0 "The Croatian Succession"
+EDG_HUN_mission_1_1_desc:0 "Since the signing of the Pacta Conventa in 1102, the Kingdom of Croatia has been united with us under a personal union. To secure the legacy of Duke Bela Pišimir firmly in our grasp, we should seek closer integration into a real union or otherwise strengthen the ties between our realms."
+
+EDG_HUN_mission_1_3_title:0 "Preserve Bosnia"
+EDG_HUN_mission_1_3_desc:0 "Bosnia's days of maneuvering between Rome and Constantinople are over; its local church shall now be led directly by the Cardinal of Pest. The weak King of Bosnia cannot protect his people from the pillaging Turks, the bellicose Bulgarians, or even the nearby Lord of Herzegovina. Let us preserve them by becoming their rightful sovereign."
+EDG_HUN_mission_1_3.subject.tt:0 "If §YBOS§Y[BOS.GetName]§! is our §Ysubject§!"
+EDG_HUN_mission_1_3.ser.tt:0 "If §YSER§Y[SER.GetName]§!§T exists and is independent§! when completing the mission."
+
+EDG_HUN_mission_1_5_title:0 "March into Bulgaria"
+EDG_HUN_mission_1_5_desc:0 "The Bulgarian warlords, by oppressing their people in the frenzied wars of recent years, have achieved astonishing successes right under our noses, even arrogantly claiming the laurels of Rome. Yet their conquests are unstable; the shadows of the past still hover over the Balkans, yearning to break free from the Bulgar yoke. The Bulgars have long been a thorn in our side. Let us become the Bulgar-Slayers of a new age, liberate the peoples of the Balkans, and conquer the descendants of Simeon the Great."
+EDG_HUN_mission_1_5.effect.tt:0 "The estate privilege §Y'Powerful Magnates'§! will provide an additional §G-40%§! subject liberty desire."
+
+EDG_HUN_mission_1_7_title:0 "Distant Fires"
+EDG_HUN_mission_1_7_desc:0 "With the sons of Osman slaughtered by us and the remnants of the Sultanate of Rum dissolved, our armies stand unrivaled. Let the unbelievers of Anatolia, Mesopotamia, and lands beyond feel the fires of Magyar warfare—a great conquest that will make their petty fortresses tremble. None in the Near East shall oppose us, for we shall establish a mounted empire reigning over the Levant!"
+EDG_HUN_mission_1_7.effect.tt:0 "Gains a §Y'Force Subjugation'§! Casus Belli against all independent nations whose §Tcapital§! is in the §YLevant§! region."
+
+EDG_HUN_mission_1_8_title:0 "Fund the Monasteries"
+EDG_HUN_mission_1_8_desc:0 "Founded in 1250 by the Blessed Eusebius of Esztergom, the Order of Saint Paul the First Hermit has held significant influence within the Kingdom of Hungary, even extending into neighboring realms. Providing funds to ensure their goodwill towards the state would be a sound investment."
+
+EDG_HUN_mission_1_10_title:0 "Blood of the Magyars"
+EDG_HUN_mission_1_10_desc:0 ""Arise! Arise! Hussars beneath the White Knight!\n\nDust rises, darkening the eastern skies.\n\nBridles jingle, war horns cry!\n\nForward, people of the Magyars, march on high!\n\nShake your lances, beat your shields round,\n\nDraw your swords, stain the yellow sand with blood, 'til the sun rebounds!\n\nTo the fray! To the fray! Onward, far and nigh!""
+
+EDG_HUN_mission_1_12_title:0 "Found the Black Army"
+EDG_HUN_mission_1_12_desc:0 "The Kingdom of Hungary, surrounded by powerful neighbors, has always required a strong military. In past wars, most forces provided by our nobles needed mercenaries to fill the gaps. As professional soldiers, these mercenaries often adapt faster to new weapons and tactics and engage in regular drills. By now, some have served us for many years, yet in peacetime, they resort to banditry for livelihood. Inspired by the writings of Caesar, our King contemplates establishing a permanent mercenary corps. Offering them a stable, permanent income would surely steer them away from plunder, granting us an unprecedentedly mighty and glorious force—provided our treasury can withstand it..."
+EDG_HUN_mission_1_13_title:0 "The Black Legion"
+EDG_HUN_mission_1_13_desc:0 "The Black Army has become a force recognized throughout the world. Formidable on the battlefield, they strike fear into the hearts of our enemies and have repeatedly safeguarded our independence. We must not halt midway; we must further institutionalize it, ensure its superiority, and make it a source of national pride and an unparalleled military power."
+
+EDG_HUN_mission_2_2_title:0 "Mastering Wallachia"
+EDG_HUN_mission_2_2_desc:0 "Since Vlad II of Wallachia ascended the throne, terrifying rumors of him being a vampire have spread throughout the Carpathians. However, these are undoubtedly baseless tales. We cannot allow Wallachia's military frontier to become another's sphere of influence, enabling it to maneuver between us and them. It is time to intervene and put an end to the Draculesti tyranny once and for all, so that the people of Romania may also bask in the glory of the Holy Crown of Saint Stephen."
+EDG_HUN_mission_2_2.subject.tt:0 "If §YWAL§Y[WAL.GetName]§! is our §Ysubject§!"
+
+EDG_HUN_mission_2_4_title:0 "Crush Serbia"
+EDG_HUN_mission_2_4_desc:0 "Serbia once built a vast empire after the Battle of Sofia, but now, following the Bulgarian wars, they are hanging by a thread, their glory faded. The crown of Stefan has been tarnished. We should ensure that the descendants of Nemanjić are also illuminated by our radiance, restoring their former strength and opening a new chapter of their power—as princes subject to the Holy Crown of Saint Stephen."
+EDG_HUN_mission_2_4.subject.tt:0 "If §YBUL§Y[BUL.GetName]§!§T exists and is independent§! when completing the mission."
+EDG_HUN_mission_2_4.subject_2.tt:0 "If §YBU1§Y[BU1.GetName]§!§T exists and is independent§! when completing the mission."
+
+EDG_HUN_mission_2_6_title:0 "Control Macedonia"
+EDG_HUN_mission_2_6_desc:0 "The Turkish marauders have occupied the Balkan Peninsula for far too long; their days of enslaving the Greeks are numbered. It is time to drive them from our southern territories all the way to the Aegean frontier, incorporating the wealthy coastline of Thessaloniki and the valiant people of Macedonia into our kingdom, thereby establishing our Balkan hegemony!"
+
+EDG_HUN_mission_2_9_title:0 "Unify the Faith"
+EDG_HUN_mission_2_9_desc:0 "Hungary is home to many of different faiths, where Latin and Greek rites converge, and the influences of Rome and Constantinople clash. As rulers of the Catholic faith, the people of our newly conquered lands are predominantly Orthodox. In any case, we will not allow religious differences to divide our nation. Let us clarify our religious policies and make timely adjustments."
+
+EDG_HUN_mission_2_11_title:0 "Noble Obligations"
+EDG_HUN_mission_2_11_desc:0 "Our nation was built on horseback; nobles can only earn merit and promotion through military service. Magyar hunters swept across Europe like the wind, destroying one enemy after another. Let us continue to promote the Magyar martial traditions, constantly encouraging nobles to join the army, forming new military organizations, granting our forces greater power, and bringing utter ruin to all who oppose us!"
+EDG_HUN_mission_2_11.effect.tt:0 "Enables the §YOrder of the Dragon§! local organization.\n"
+
+EDG_HUN_mission_2_12_title:0 "The Order of the Dragon"
+EDG_HUN_mission_2_12_desc:0 "Founded by our former monarch, Sigismund of the House of Luxembourg, the Order of the Dragon has become a vital component in our defense against foreign invasion. The order now requires significant expansion so that its members can contribute substantially to our campaigns against pagans, heretics, and even internal enemies."
+
+EDG_HUN_mission_2_14_title:0 "Towards Pluralism"
+EDG_HUN_mission_2_14_desc:0 "Our conquests have brought vast lands inhabited by many different peoples under our rule. Although ethnic diversity has not caused significant trouble so far, the nascent enlightened concept of the nation-state is slowly redefining what constitutes a nation, and a major threat of rebellion against our rule follows. To maintain the integrity of our empire, we must introduce a set of reforms to modernize our government system and ensure that all peoples living under our rule are fully represented and enjoy welfare."
+
+EDG_HUN_mission_3_1_title:0 "Time Waits for No One"
+EDG_HUN_mission_3_1_desc:0 "If Bohemia is the jewel of the Holy Roman Empire, then Hungary is the crown guarding that jewel. However, the disastrous Crusade of Varna changed everything. The heir of the great Sigismund fell in battle, and Hungary was severely weakened. The nobles have grown estranged from the Emperor and are no longer willing to be remotely controlled by the court in Prague. Regent János Hunyadi has become the uncrowned king of the Apostolic Kingdom and will eventually part ways with the Empire. The times are calling, the eve of war has arrived. As soon as the great Sigismund passes, we shall usher in our own era. Time waits for no one; the Magyars recognize only power!"
+EDG_HUN_mission_3_1.wal.tt:0 "If §YWAL§Y[WAL.GetName]§!§T exists and is independent§! when completing the mission."
+EDG_HUN_mission_3_1.MOL.tt:0 "If §YMOL§Y[MOL.GetName]§!§T exists and is independent§! when completing the mission."
+
+EDG_HUN_mission_3_2_title:0 "Stabilize the Subjects"
+EDG_HUN_mission_3_2_desc:0 "Due to Emperor Sigismund's prolonged absence from Hungary, he had to entrust state affairs to the great nobles, severely damaging Hungary's centralization and causing decades of stagnation, effectively fragmenting the country among the magnates. With our own independence achieved, we must stabilize these great nobles and firmly grasp all the Lands of the Holy Crown of Saint Stephen."
+EDG_HUN_mission_3_2.bos.tt:0 "If §YBOS§Y[BOS.GetName]§!§T exists and is independent§! when completing the mission."
+
+EDG_HUN_mission_3_3_title:0 "Scourge of Europe"
+EDG_HUN_mission_3_3_desc:0 "Now is the time to unite the various lands and stand against the vile Turks who seek our annihilation. In our offensive, we represent all of Christendom. Just as a sword must be tempered by fire, our resolve has been forged under the pressure of upheaval. Secure the borders and consolidate our territories. We shall not yield easily."
+EDG_HUN_mission_3_3.effect.tt:0 "§OCrown Authority§! will now §Greduce§! §Ysubject liberty desire§!"
+
+EDG_HUN_mission_3_5_title:0 "Advance the Front"
+EDG_HUN_mission_3_5_desc:0 "The great Queen of Cities—Constantinople—is suffering destruction and desecration at the hands of barbarians. As defenders of the true faith and the bulwark of Christendom, we should advance our front, march on Constantinople, liberate her from the yoke of the infidels, and fulfill the promise made to her centuries ago—to protect her once more."
+
+EDG_HUN_mission_3_7_title:0 "Bulwark of Christendom"
+EDG_HUN_mission_3_7_desc:0 "As the vanguard of Christendom's defense against the threat of Anatolian pagans, we are called the Bulwark of Christendom. By demonstrating our ability to resist the infidels, this title can be proven worthy of its name."
+
+EDG_HUN_mission_3_8_title:0 "A Robust Economy"
+EDG_HUN_mission_3_8_desc:0 "Our ability to become a great power depends on whether we can extract every drop of wealth from our lands while surrounded by formidable enemies on all sides. Let us reform our finances, expand our revenues, and recover from the shadow of Varna."
+
+EDG_HUN_mission_3_9_title:0 "Bibliotheca Corviniana"
+EDG_HUN_mission_3_9_desc:0 "By the grace of our Lord, the enlightened rule of our King has led to significant advancements in our country in fields such as science, art, and culture, making us the first nation outside Italy to embrace the Renaissance. With the revival of classical knowledge and its impetus to our scientists and philosophers, establishing a museum that can serve as a repository of European knowledge and continuing this endeavor will greatly benefit us."
+
+EDG_HUN_mission_3_10_title:0 "Universitas Istropolitana"
+EDG_HUN_mission_3_10_desc:0 "Institutions of higher learning are key to achieving great progress. Although we had universities in the past, present-day Hungary lacks institutions of higher education. Let us concentrate our resources to establish a new center in Pressburg, making it a pillar of knowledge and progress for Hungary and indeed for all of Central and Eastern Europe, thereby deepening our understanding in fields such as politics and military affairs."
+
+EDG_HUN_mission_3_11_title:0 "The Center of Eastern Arts and Culture"
+EDG_HUN_mission_3_11_desc:0 "We have successfully initiated a true revolution of knowledge and education in Hungary, establishing it as the center of Eastern arts and culture, and our distinguished ruler is hailed as a patron of arts and sciences. But if we wish to maintain this status, we must ensure that Hungary's future rulers receive a well-rounded education in multiple disciplines, so that their extensive knowledge can guide Hungary to an even higher standing."
+
+EDG_HUN_mission_3_13_title:0 "Centralizing Reforms"
+EDG_HUN_mission_3_13_desc:0 "The state of governance in Hungary has long been without true stability; countless illustrious dynasties have fought fiercely for the Holy Crown of Saint Stephen, and numerous princes have fragmented the nation for personal gain. To consolidate the hard-won fruits of independence and remain unwavering in the face of any obstacle, the estates system must be reorganized, reforms must be implemented, and a new federation uniting the various lands shall be established."
+EDG_HUN_mission_3_13.effect.tt:0 "§GLowers§! the required §TAdministrative Technology§! level to form @H06§Y[H06.GetName]§!"
+
+EDG_HUN_mission_4_2_title:0 "Invade Moldavia"
+EDG_HUN_mission_4_2_desc:0 "Moldavia has changed hands countless times, beyond reckoning. Their princes still exert every effort to appease their neighbors, whether it be the ambitious Bulgarians, the rising Ruthenians, or even the restless sons of Osman. However, our claim to it is evidently the most legitimate. Let us end their petty games and bring it firmly into our sphere of influence."
+EDG_HUN_mission_4_2.subject.tt:0 "If §YMOL§Y[MOL.GetName]§! is our §Ysubject§!"
+
+EDG_HUN_mission_4_4_title:0 "The Crown of Saint Wenceslas"
+EDG_HUN_mission_4_4_desc:0 "Sigismund of the House of Luxembourg once ruled the vast territories of both Bohemia and Hungary, which also grants us a legitimate claim to the Czech lands. This land now lies desolate in the aftermath of the Hussite Wars and wars of succession. If we can take up Sigismund's legacy, bring the Bohemian lands under our rule, and be crowned with the Crown of Saint Wenceslas, we can undoubtedly restore her former strength and prosperity, and make our own Crown of Saint Stephen shine even more brilliantly."
+
+EDG_HUN_mission_4_6_title:0 "The New Visegrád Alliance"
+EDG_HUN_mission_4_6_desc:0 "In 1335, King Charles I of the House of Anjou convened a congress at Visegrád, forming a steadfast alliance with Poland and Bohemia, thereby establishing a deep friendship. Today, we have once again united the descendants of Čech and Lech under the Magyar banner, with the crowns of Saint Wenceslas and Bolesław shining brightly under the protection of the Crown of Saint Stephen. Let us establish a new Visegrád Alliance, make our sovereignty supreme, and let the alliance endure until the seas run dry and the rocks crumble."
+EDG_HUN_mission_4_6.pol.tt:0 "If §YPOL§Y[POL.GetName]§! is our §Ysubject§!"
+
+EDG_HUN_mission_4_9_title:0 "Metropolis of Buda"
+EDG_HUN_mission_4_9_desc:0 "Buda is one of the three major cities of Hungary, representing our capital and seat of government. Therefore, it is the heart and key of our nation. We must never allow its splendor to be overshadowed by neighboring Vienna and Prague. Let us devote our sweat and toil to ensure its magnificence shines as brightly as day."
+
+EDG_HUN_mission_4_11_title:0 "Fertile Pannonian Soil"
+EDG_HUN_mission_4_11_desc:0 "A nation's strength cannot be sustained without economic self-sufficiency. The vast Pannonian Plain is ideal for agriculture and animal husbandry. If we wish to become a true great power on the European stage, our agriculture must be able to support our growing population and supply our armies. Let us develop the fertile black soil of Pannonia, construct buildings, allow our people to live and work in peace and contentment here, and make us the granary of all Europe."
+
+EDG_HUN_mission_4_12_title:0 "Establish a Judicial System"
+EDG_HUN_mission_4_12_desc:0 "Times are changing. The Renaissance and humanism arose from Italy, and this wind of change has now reached our land. Let us revise the legal codes, establish a new judicial system, and integrate the lands of the various crowns, making the governance of our government impregnable."
+
+EDG_HUN_mission_4_14_title:0 "Secure the Borders"
+EDG_HUN_mission_4_14_desc:0 "In recent years, Bulgarians, Rus', and Turks have all attempted to extend their influence into the heart of Europe. Our southeastern border lacks natural defenses, giving us almost no advantage in terms of protection. Further strengthening our military frontier should be a top priority."
+EDG_HUN_mission_4_14.effect.tt:0 "Up to §Y5§! provinces meeting the §Ymission conditions§! gain the following effects"
+
+EDG_HUN_mission_5_1_title:0 "Resolve the Succession"
+EDG_HUN_mission_5_1_desc:0 "The failure of the Crusade of Varna shattered Sigismund's authority in Hungary. The Magyars were no longer willing to submit to foreign rulers, so Regent Hunyadi was entrusted with the perilous task, defending against imminent threats and being crowned King. However, the Habsburgs have long coveted our throne. To consolidate our hard-won independence, we must resolve the succession issue once and for all."
+
+EDG_HUN_mission_5_3_title:0 "Fall of the Old Alliance"
+EDG_HUN_mission_5_3_desc:0 "Louis the Great of the House of Anjou once united Hungary and Poland under a single crown in a personal union, and though they eventually parted ways, we were once the closest of allies. Yet with the failure in Rumelia, the once mighty Kingdom of Poland has fractured, its former court weakened, Hussite banners rising from the ruins, presumptuous old nobles eyeing the fate of the White Eagle, and dazed princes retreating to their corners. This might be a perfect opportunity for us to intervene—before Magyar might, the descendants of Čech can only bow their heads."
+EDG_HUN_mission_5_3.effect.tt:0 "Gains a §Y'Force Subjugation'§! Casus Belli against all independent nations whose §Tcapital§! is in the §YPoland§! region."
+
+EDG_HUN_mission_5_5_title:0 "Władysław's Legacy"
+EDG_HUN_mission_5_5_desc:0 "Fading embers glimmer as the land of the White Eagle's children mourns its fallen king; the fall of Władysław III still affects the nation to this day. For the peace of our north and to make our own crown shine more brilliantly, let us take up Władysław's legacy, rebuild the Kingdom of Poland, and personally crown ourselves with the Crown of Bolesław."
+
+EDG_HUN_mission_5_7_title:0 "The Road Home"
+EDG_HUN_mission_5_7_desc:0 "Deep within our ancient history lies the legend of Etelköz—the land where rivers converge by the fateful Black Sea. There, our ancestors watered their horses by the riverbanks until we continued the great journey to our present homeland. Now, we have the strength to reclaim our ancestral lands from the descendants of Rurik and the fierce Tatars of the steppes. Let us make the long road home, let our horses thrive once more. Our ancestors will smile upon us."
+
+EDG_HUN_mission_5_8_title:0 "Expand the Mint"
+EDG_HUN_mission_5_8_desc:0 "The mining towns of Upper Hungary have always been a stable source of income for our country, but our current reliance on foreign coinage has left us at the mercy of Italian merchants in most commercial dealings. Let us improve the coin-striking techniques of the Royal Mint to ensure our Ducats are of the highest quality, so they may flood the European markets and resolve our current economic disorder."
+
+EDG_HUN_mission_5_10_title:0 "Develop the Free Royal Towns"
+EDG_HUN_mission_5_10_desc:0 "Granting privileges to towns to foster their development is a long-standing tradition in Hungary. Let us support the rights of the Free Royal Towns, grant them greater autonomy, allowing them to develop more rapidly without crown intervention, making them the most important towns in Hungary, in the hope of attracting more foreign merchants and craftsmen to settle."
+
+EDG_HUN_mission_5_12_title:0 "Found Budapest"
+EDG_HUN_mission_5_12_desc:0 "A strong nation needs a strong capital—one that embodies its power, splendor, and glory. We shall merge the three towns of Buda, Óbuda, and Pest into Budapest—a capital grand enough to make the metropolises of Western powers pale in comparison."
+
+EDG_HUN_mission_5_13_title:0 "Carpathian Bulwark"
+EDG_HUN_mission_5_13_desc:0 "The towering Carpathian Mountains and the rushing Danube River outline the natural borders of our federation, yet this natural defense still has several gaps. Let us consolidate the defense systems established by Regent János in Temes and Tolna, strengthening our border fortresses."
+
+

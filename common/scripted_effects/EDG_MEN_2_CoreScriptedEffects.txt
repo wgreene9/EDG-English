@@ -1,6 +1,6 @@
 EDG_MEN_BYZ_new_ruler = {
 	define_ruler = {
-		dynasty = "巴列奥略"
+		dynasty = "Palaiologos"
 		age = 40
 		claim = 95
 	}	

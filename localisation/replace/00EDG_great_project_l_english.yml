@@ -360,7 +360,7 @@ EDG_Topkapi_Sarayi_Muzesi:0 "Topkapi Palace"
 EDG_Grand_Sarakirio_Palace:0 "Grand Sarakirio Palace"
 EDG_TUR_ven_doges_palace:0 "Pasha's Palace"
 
-palace_of_the_popes:0 "Papal Palace of the Catholic Church"
+palace_of_the_popes:0 "Palace of the Catholic Popes" # Papal Palace of the Catholic Church
 
 #Lotharingia
 EDG_Aachen_Lotharingia_Palace:0 "Aachen Grand Palace of the Holy Father"

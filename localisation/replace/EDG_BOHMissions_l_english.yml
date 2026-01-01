@@ -1,0 +1,214 @@
+﻿l_english:
+EDG_BOH_mission_1_3_title:0 "Pacify the Nobility"
+EDG_BOH_mission_1_3_desc:0 ""
+EDG_BOH_Sigismund_live.tt:0 "§YSigismund Has Not Yet Passed§!"
+
+EDG_BOH_mission_2_2_title:0 "War's Aftermath"
+EDG_BOH_mission_2_2_desc:0 ""
+
+EDG_BOH_mission_3_1_title:0 "Empire's Twilight"
+EDG_BOH_mission_3_1_desc:0 ""
+
+EDG_BOH_mission_3_3_title:0 "Final Preparations"
+EDG_BOH_mission_3_3_desc:0 ""
+EDG_BOH_mission_3_3.mei.tt:0 "If @MEI§Y[MEI.GetName]§! has at least §Y190§! opinion of us"
+EDG_BOH_mission_3_3.mei.keep.tt:0 "@MEI§Y[MEI.GetName]§! will §Ynot declare independence§! after §YSigismund's Demise§!"
+EDG_BOH_mission_3_3.h07.tt:0 "If @H07§Y[H07.GetName]§! has at least §Y190§! opinion of us"
+EDG_BOH_mission_3_3.h07.keep.tt:0 "@H07§Y[H07.GetName]§! will §Ynot declare independence§! after §YSigismund's Demise§!"
+EDG_BOH_mission_3_3.dip.tt:0 "If we have at least §Y4§! §TDiplomatic Reputation§!"
+
+EDG_BOH_mission_3_4_title:0 "Last Rites"
+EDG_BOH_mission_3_4_desc:0 ""
+EDG_BOH_mission_3_4.effect.tt:0 "§RA storm is brewing...§!"
+
+EDG_BOH_mission_4_2_title:0 "Hussite Embers"
+EDG_BOH_mission_4_2_desc:0 ""
+
+EDG_BOH_mission_5_5_title:0 "Stabilize the Realm"
+EDG_BOH_mission_5_5_desc:0 ""
+EDG_BOH_mission_5_5.effect.tt:0 "§YSigismund's Demise§! no longer reduces §YStability§!"
+
+EDG_BOH_mission_hussites_1_1_title:0 "Seize the Cities"
+EDG_BOH_mission_hussites_1_1_desc:0 ""
+EDG_BOH_mission_hussites_1_1.effect.tt:0 "All provinces §Ymeeting the mission requirements§! gain the following modifiers and effects"
+
+EDG_BOH_mission_hussites_1_2_title:0 "West Slavic Frontier"
+EDG_BOH_mission_hussites_1_2_desc:0 ""
+
+EDG_BOH_mission_hussites_1_3_title:0 "From Kraków"
+EDG_BOH_mission_hussites_1_3_desc:0 ""
+
+EDG_BOH_mission_hussites_1_7_title:0 "Gunpowder Supply"
+EDG_BOH_mission_hussites_1_7_desc:0 ""
+
+EDG_BOH_mission_hussites_1_8_title:0 "Cannon Founding Industry"
+EDG_BOH_mission_hussites_1_8_desc:0 ""
+
+EDG_BOH_mission_hussites_1_10_title:0 "Handicraft Development"
+EDG_BOH_mission_hussites_1_10_desc:0 ""
+
+EDG_BOH_mission_hussites_1_11_title:0 "Linen Weaving"
+EDG_BOH_mission_hussites_1_11_desc:0 ""
+
+EDG_BOH_mission_hussites_1_13_title:0 "Guild Reforms"
+EDG_BOH_mission_hussites_1_13_desc:0 ""
+
+EDG_BOH_mission_hussites_1_15_title:0 "Administrative Adaptation"
+EDG_BOH_mission_hussites_1_15_desc:0 ""
+
+EDG_BOH_mission_hussites_2_1_title:0 "Liberate Silesia"
+EDG_BOH_mission_hussites_2_1_desc:0 ""
+EDG_BOH_mission_hussites_2_1.effect.tt:0 "Gain §Ycores§! on provinces in the §YSilesia§! region with the §YHussite§! religion"
+
+EDG_BOH_mission_hussites_2_3_title:0 "To Stargard"
+EDG_BOH_mission_hussites_2_3_desc:0 ""
+
+EDG_BOH_mission_hussites_2_4_title:0 "Light of Kralovec"
+EDG_BOH_mission_hussites_2_4_desc:0 ""
+
+EDG_BOH_mission_hussites_2_6_title:0 "Embrace the Orthodox"
+EDG_BOH_mission_hussites_2_6_desc:0 ""
+
+EDG_BOH_mission_hussites_2_8_title:0 "Arquebus Training"
+EDG_BOH_mission_hussites_2_8_desc:0 ""
+
+EDG_BOH_mission_hussites_2_9_title:0 "Field Artillery"
+EDG_BOH_mission_hussites_2_9_desc:0 ""
+
+EDG_BOH_mission_hussites_2_11_title:0 "Crystal Capital"
+EDG_BOH_mission_hussites_2_11_desc:0 ""
+
+EDG_BOH_mission_hussites_2_12_title:0 "Silesian Industrial Zone"
+EDG_BOH_mission_hussites_2_12_desc:0 ""
+
+EDG_BOH_mission_hussites_2_14_title:0 "National Narrative"
+EDG_BOH_mission_hussites_2_14_desc:0 ""
+
+EDG_BOH_mission_hussites_3_1_title:0 "War Returns"
+EDG_BOH_mission_hussites_3_1_desc:0 ""
+
+EDG_BOH_mission_hussites_3_4_title:0 "Point of Divergence"
+EDG_BOH_mission_hussites_3_4_desc:0 ""
+EDG_BOH_mission_hussites_3_4.trigger.tt:0 "The §YTaborites§! Have Been Revived"
+
+EDG_BOH_mission_hussites_3_5_title:0 "Council of Reconciliation"
+EDG_BOH_mission_hussites_3_5_desc:0 ""
+
+EDG_BOH_mission_hussites_3_6_title:0 "Reform the Moderates"
+EDG_BOH_mission_hussites_3_6_desc:0 ""
+
+EDG_BOH_mission_hussites_3_7_title:0 "Organize the Militia"
+EDG_BOH_mission_hussites_3_7_desc:0 ""
+
+EDG_BOH_mission_hussites_3_10_title:0 "Wagenburg Warfare"
+EDG_BOH_mission_hussites_3_10_desc:0 ""
+
+EDG_BOH_mission_hussites_3_11_title:0 "Self-Sufficient Agriculture"
+EDG_BOH_mission_hussites_3_11_desc:0 ""
+
+EDG_BOH_mission_hussites_3_12_title:0 "Czech Industrial Zone"
+EDG_BOH_mission_hussites_3_12_desc:0 ""
+
+EDG_BOH_mission_hussites_3_13_title:0 "Prague University"
+EDG_BOH_mission_hussites_3_13_desc:0 ""
+
+EDG_BOH_mission_hussites_3_14_title:0 "Education for All"
+EDG_BOH_mission_hussites_3_14_desc:0 ""
+
+EDG_BOH_mission_hussites_3_15_title:0 "Bohemian Rhapsody"
+EDG_BOH_mission_hussites_3_15_desc:0 ""
+
+EDG_BOH_mission_hussites_3_16_title:0 "Kingdom of Heaven on Earth"
+EDG_BOH_mission_hussites_3_16_desc:0 ""
+
+EDG_BOH_mission_hussites_4_1_title:0 "Bring Moravia Home"
+EDG_BOH_mission_hussites_4_1_desc:0 ""
+EDG_BOH_mission_hussites_4_1.mva.tt:0 "If @MVA§Y[MVA.GetName]§! exists and §Yis our subject§!"
+
+EDG_BOH_mission_hussites_4_3_title:0 "From Bavaria"
+EDG_BOH_mission_hussites_4_3_desc:0 ""
+
+EDG_BOH_mission_hussites_4_4_title:0 "Pannonian Fertile Land"
+EDG_BOH_mission_hussites_4_4_desc:0 ""
+
+EDG_BOH_mission_hussites_4_6_title:0 "A Third Option"
+EDG_BOH_mission_hussites_4_6_desc:0 ""
+
+EDG_BOH_mission_hussites_4_8_title:0 "Coordinated Tactics"
+EDG_BOH_mission_hussites_4_8_desc:0 ""
+
+EDG_BOH_mission_hussites_4_9_title:0 "Moving Castles"
+EDG_BOH_mission_hussites_4_9_desc:0 ""
+
+EDG_BOH_mission_hussites_4_11_title:0 "City of Gold"
+EDG_BOH_mission_hussites_4_11_desc:0 ""
+
+EDG_BOH_mission_hussites_4_12_title:0 "Slovak Industrial Zone"
+EDG_BOH_mission_hussites_4_12_desc:0 ""
+
+EDG_BOH_mission_hussites_4_14_title:0 "Religious Function"
+EDG_BOH_mission_hussites_4_14_desc:0 ""
+
+EDG_BOH_mission_hussites_5_1_title:0 "Seek Support"
+EDG_BOH_mission_hussites_5_1_desc:0 ""
+EDG_BOH_mission_hussites_5_1.nobles.tt:0 "If the §YNobility§! estate's loyalty is at least §Y60§!"
+EDG_BOH_mission_hussites_5_1.church.tt:0 "If the §YClergy§! estate's loyalty is at least §Y60§!"
+EDG_BOH_mission_hussites_5_1.burghers.tt:0 "If the §YBurghers§! estate's loyalty is at least §Y60§!"
+EDG_BOH_mission_hussites_5_1.EDG_peasants.tt:0 "If the §YPeasantry§! estate's loyalty is at least §Y60§!"
+EDG_BOH_mission_hussites_5_1.production_income.tt:0 "Gain §Y5§! years of §TProduction Income§! in provinces of the §YBohemia§! and §YErzgebirge§! regions"
+
+EDG_BOH_mission_hussites_5_2_title:0 "Carpathian Barrier"
+EDG_BOH_mission_hussites_5_2_desc:0 ""
+
+EDG_BOH_mission_hussites_5_3_title:0 "To Slovakia"
+EDG_BOH_mission_hussites_5_3_desc:0 ""
+
+EDG_BOH_mission_hussites_5_7_title:0 "Military Engineering"
+EDG_BOH_mission_hussites_5_7_desc:0 ""
+
+EDG_BOH_mission_hussites_5_8_title:0 "Khotyn Military Ordinance"
+EDG_BOH_mission_hussites_5_8_desc:0 ""
+
+EDG_BOH_mission_hussites_5_10_title:0 "Precious Metal Mining"
+EDG_BOH_mission_hussites_5_10_desc:0 ""
+
+EDG_BOH_mission_hussites_5_11_title:0 "Iron and Copper Extraction"
+EDG_BOH_mission_hussites_5_11_desc:0 ""
+
+EDG_BOH_mission_hussites_5_13_title:0 "Mining Regulations"
+EDG_BOH_mission_hussites_5_13_desc:0 ""
+
+EDG_BOH_mission_hussites_5_15_title:0 "Integrated Agriculture and Industry"
+EDG_BOH_mission_hussites_5_15_desc:0 ""
+
+EDG_BOH_mission_tapol_1_18_title:0 "Upon the Danube"
+EDG_BOH_mission_tapol_1_18_desc:0 ""
+
+EDG_BOH_mission_tapol_1_20_title:0 "Swabian Judgment"
+EDG_BOH_mission_tapol_1_20_desc:0 ""
+
+EDG_BOH_mission_hussites_2_19_title:0 "Heart of the Rhine"
+EDG_BOH_mission_hussites_2_19_desc:0 ""
+
+EDG_BOH_mission_tapol_3_17_title:0 "War of the Chalice"
+EDG_BOH_mission_tapol_3_17_desc:0 ""
+
+EDG_BOH_mission_tapol_3_18_title:0 "Beyond the Ore Mountains"
+EDG_BOH_mission_tapol_3_18_desc:0 ""
+
+EDG_BOH_mission_tapol_3_20_title:0 "The Final Piece"
+EDG_BOH_mission_tapol_3_20_desc:0 ""
+
+EDG_BOH_mission_tapol_3_21_title:0 "Millennial Kingdom"
+EDG_BOH_mission_tapol_3_21_desc:0 ""
+
+EDG_BOH_mission_tapol_4_19_title:0 "Journey to the Weser"
+EDG_BOH_mission_tapol_4_19_desc:0 ""
+
+EDG_BOH_mission_tapol_5_18_title:0 "Below the Elbe"
+EDG_BOH_mission_tapol_5_18_desc:0 ""
+
+EDG_BOH_mission_tapol_5_20_title:0 "Flanders Ultimatum"
+EDG_BOH_mission_tapol_5_20_desc:0 ""
+
+

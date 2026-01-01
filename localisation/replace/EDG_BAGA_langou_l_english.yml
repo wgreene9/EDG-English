@@ -1,0 +1,39 @@
+﻿l_english:
+EDG_HZB_rev_disater_1_t: "The Elamite Revolution"
+EDG_HZB_rev_disater_1_d: "Since its founding, the Ilkhanate has relied on Persians. Even now, our court is filled with a large number of Persians. However, with our governance over Egypt and India, our small court has gradually seen the emergence of more people from other ethnicities. The Persians have grown jealous, believing that without them, the current [Root.GetName] would not exist. First, one Persian went on strike, then Persians in the court, and finally, this fire spread across the entire Persian region. The purpose gradually escalated from the initial struggle for favor to questioning the legitimacy of Mongol rule."
+EDG_HZB_rev_disater_1a: "A great change is coming."
+EDG_HZB_rev_disater_1a_modifier: "The Elamite Revolution"
+
+EDG_HZB_rev_disater_2_t: "Persian Rebellion"
+EDG_HZB_rev_disater_2_d: "A group of Persian traitors has raised the banner of opposition!"
+EDG_HZB_rev_disater_2a: "Crush them!"
+EDG_HZB_rev_disater_2b: "Manpower, I have plenty!"
+
+EDG_HZB_rev_disater_3_t: "Military Mutiny"
+EDG_HZB_rev_disater_3_d: "Most of our army is composed of Persians, with Mongols only serving as overseers. Now, in a time of national crisis, they have taken the initiative to cause trouble. The military demands higher pay, or they will refuse to suppress the rebels—after all, those were once their compatriots."
+EDG_HZB_rev_disater_3a: "These are mine, those are also mine. Yours? Doesn't exist."
+EDG_HZB_rev_disater_3b: "I understand the principle—you have to add money."
+EDG_HZB_rev_disater_3a_modifier: "Military Mutiny"
+EDG_HZB_rev_disater_3b_modifier: "Higher Pay"
+
+EDG_HZB_rev_disater_4_t: "Mahdis Rise Everywhere"
+EDG_HZB_rev_disater_4_d: "Under the banner of resisting the Mongols, many have declared themselves Mahdis and rebelled against us. They must be killed."
+EDG_HZB_rev_disater_4a: "Sweet. Are Mahdis like grass? Watch our warhorses devour you all!"
+EDG_HZB_rev_disater_4a_modifier: "Mahdi Rebellion"
+
+EDG_HZB_rev_disater_5_t: "General Strike"
+EDG_HZB_rev_disater_5_d: "Due to the recent dire situation in Persia, some peasants have declared they will refuse to pay taxes to the empire. They claim they will not supply bread to enemies who slaughter their own people."
+EDG_HZB_rev_disater_5a: "I don't eat bread."
+EDG_HZB_rev_disater_5b: "Still too well-fed."
+EDG_HZB_rev_disater_5a_modifier: "Work Stoppage and Production Halt"
+EDG_HZB_rev_disater_5b_tt: "§YThis event will keep triggering until we stop eating bread.§!\n"
+
+EDG_HZB_rev_disater_6_t: "Hollow Victory"
+EDG_HZB_rev_disater_6_d: "The civil war has died down. Although we crushed the rebels, we also exposed our own weakness and incompetence. An even more thorny future and conflicts await us..."
+EDG_HZB_rev_disater_6a: "Oh, a victory for nothing."
+EDG_HZB_rev_disater_6a_modifier: "Hollow Victory"
+
+EDG_HZB_rev_disater_7_t: "Great Victory and More"
+EDG_HZB_rev_disater_7_d: "The feeble rebels were utterly pathetic, and defeating them required no effort at all. After this battle, no one dares challenge our authority anymore."
+EDG_HZB_rev_disater_7a: "Could do it with one hand tied."
+EDG_HZB_rev_disater_7b_modifier: "Authority Established"

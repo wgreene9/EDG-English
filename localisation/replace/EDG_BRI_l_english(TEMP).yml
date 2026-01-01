@@ -1,0 +1,1164 @@
+﻿l_english:
+mechanic_EDG_enable_estate_edg_Interracial_ability:0 "Enable §Y'Foreigners'§! Estate"
+mechanic_EDG_enable_estate_edg_Interracial_ability_yes:0 "Enable §Y'Foreigners'§! Estate"
+
+
+EDG_string_start_BRI:0 ""
+
+EDG_SPACE_TT:0 " "
+FA2:0 "Bretagne"
+# FR3:0 "Gaul"
+FA2_ADJ:0 "Breton"
+# FR3_ADJ:0 "Gallic"
+BRETAGNE:"Bretagne"
+BRETAGNE_ADJ:"Breton"
+#While English "Brittany" should technically be 布列塔尼亚 and French should be 布列塔尼, the localization uses French translations. To highlight the difference, we've swapped the English and French renditions here.
+
+EDG_Gallic_autocratic_monarchy:0 "Gallic Autocratic Monarchy"
+EDG_Gallic_parliament_monarchy:0 "Gallic Parliamentary Monarchy"
+EDG_Gallic_parliament_monarchy_desc:0 "Gaul is rooted in the traditional culture of the Celtic Gauls, where the monarch is regarded as God's representative, holding ultimate authority over executive, legislative, and judicial decisions while firmly controlling military power. The Prime Minister and civil officials are appointed by the monarch, and the noble parliament cannot restrain the monarch's power."
+EDG_Gallic_autocratic_monarchy_desc:0 "Gaul's power structure is built upon traditional Celtic Gallic culture. While the monarch serves as national symbol with elevated status, power is not concentrated solely in their hands. The parliament consists of representatives elected from various regions, primarily from emerging Gallic noble families well-versed in ancient customs and laws. This parliament deliberates on major affairs and formulates legislation, holding particular decision-making authority regarding matters of national tradition such as land and religious rites. The monarch controls military and foreign affairs, though key decisions require consultation with the parliament."
+
+EDG_French_feudal_NEW_system:0 "Reorganize the French Feudal System"  
+EDG_French_hierarchical_new_monarchy:0 "Reorganize the French Hierarchical Monarchy"  
+EDG_BRI_Rennes_Law:0 "Edict of Rennes"  
+EDG_BRI_Rejecting_old_bureaucrats:0 "Reject the Old Bureaucrats"  
+EDG_BRI_Integrate_local_government:0 "Integrate Local Governments"  
+EDG_BRI_Vichitory_Army:0 "Vercingetorix's Warband"  
+EDG_BRI_Integrate_cavalry:0 "Integrate the Ordinance Cavalry"  
+EDG_BRI_Seanchus:0 "Reform the Brehon Laws"  
+EDG_BRI_tuath:0 "Establish the Tuaths"  
+EDG_BRI_Prosecutor_Office:0 "Royal Prosecutor's Office"  
+EDG_Gallic_national_spirit:0 "Gallic National Spirit"  
+EDG_Gallic_Gallic_monarchy:0 "Gallic Royal Authority"  
+EDG_Gallic_tuath_supreme:0 "Tuath Supremacy"  
+
+EDG_Gallic_Gallic_monarchy_desc:0 "In Gaul, the monarch always comes first, wielding supreme authority. Some foreigners refer to our ruler as the 'Sun King'."
+EDG_Gallic_tuath_supreme_desc:0 "The Tuath is our national assembly, holding supreme legislative power and standing above all other state institutions. It is known as the 'Parliament Sovereign'."
+EDG_French_feudal_NEW_system_desc:0 "We have overthrown the old king and placed the crown of France upon our own head. The current monarch shows greater respect for the rights of the nobility and rules with a gentler hand."
+EDG_French_hierarchical_new_monarchy_desc:0 "After accomplishing the dynastic change in the Kingdom of France, we further reformed the hierarchical monarchy. The Estates-General now serves the state under the monarch's manipulation."
+EDG_BRI_Rennes_Law_desc:0 "Francis I of Brittany promulgated the Edict of Rennes, designed to regulate the relationship between French and the Celtic-influenced Breton language."
+EDG_BRI_Rejecting_old_bureaucrats_desc:0 "We shall expel non-Celtic speaking nobles from newly conquered territories, including the French, Normans, and Anglo-Saxons."
+EDG_BRI_Integrate_local_government_desc:0 "Despite our Celticization policies, we still accept foreigners as government officials and noble members. Rulers who speak French, Norman, or English may still cooperate with us."
+EDG_BRI_Vichitory_Army_desc:0 "Vercingetorix, son of the Arverni chieftain, led the Gallic people in their final attempt to expel the invading Caesar and his armies during the Gallic Wars. To honor him, we have established a warband bearing his name, gathering the mightiest warriors of our realm."
+EDG_BRI_Integrate_cavalry_desc:0 "The French king's Ordinance Cavalry is divided into 15 companies, each consisting of 100 lances. Each lance comprises 1 heavy knight, 2 mounted archers, 1 light cavalryman, and 2 non-combatant squires - totaling 9,000 men across all companies, with 6,000 being combat personnel. After years of reforms, the French compagnie d'ordonnance system has gradually perfected itself, and we shall now integrate this institution."
+EDG_BRI_Seanchus_desc:0 "The Brehon Laws constitute a traditional Celtic legal system. Their existence for nearly three millennia stands as testament to the sense of honor among the people they governed. These laws are 'laws of users' - that is to say, they derive their authority from public consensus, expressing the moral force of the people under their jurisdiction. This moral force represents the principle of integrity that permeates ancient legal and wisdom texts. A person's promise must be honored. As user-based laws, the Brehon Laws cannot be altered without public approval. Therefore, any amendments to existing laws or creation of new ones can only be achieved through open forums during assemblies. Thus, while certain individuals may campaign for specific laws, it requires a majority vote among the 'free' men to enact legislation. Truly, the Brehon Laws embody government of the people, by the people, and for the people."
+EDG_BRI_tuath_desc:0 "The 'Tuath' (tuath) is composed of all free landholders, professionals, and craftsmen. Historically, this institution served as the enforcer of laws. Annually, members of the Tuath would gather to determine all common policies, declare war or make peace with other Tuaths, and elect or depose their 'king'. Notably, no one was bound to a particular Tuath - individuals could freely (and frequently) leave one Tuath to join a rival one. Thus, each Tuath functioned as a voluntary association formed by the landed properties of its willing members, capable of maintaining law and order through an intricate system of sureties. Today, we have adopted the Tuath as our national assembly."
+EDG_BRI_Prosecutor_Office_desc:0 "The monarch shall appoint the most capable prosecutors to oversee the nation's economy, rigorously combating corruption and malfeasance."
+EDG_Gallic_national_spirit_desc:0 "We have taken the revival of the Gallic nation as our mission and ultimate goal. Both monarch and subjects take pride in their Gallic identity, with the entire state and people willingly devoting their strength to this purpose."
+
+EDG_Northern_Parliament:0 "Northern Parliament"
+EDG_Northern_Parliament_desc:0 "As our conquest of the British Isles progresses, numerous British affairs require attention. To truly understand what the people desire, we shall establish a special parliament in the north to govern these territories."
+
+### Possible cause of CTD
+FA2_ideas:0 "French Ideas"
+FA2_ideas_start:0 "French Traditions"
+FA2_ideas_bonus:0 "French Ambitions"
+EDG_FA2_1:0 "Successors of the Capetians"
+EDG_FA2_2:0 "Horn of Charge"
+EDG_FA2_3:0 "Establish the Estates-General"
+EDG_FA2_4:0 "Compagnies d'Ordonnance"
+EDG_FA2_5:0 "French Language"
+EDG_FA2_6:0 "Expand Natural Borders"
+EDG_FA2_7:0 "Académie Francaise" #Académie Française
+### Possible cause of CTD
+EDG_FA2_1_desc:0 "We have defeated the Capetian dynasty and taken their place as Kings of France."
+EDG_FA2_2_desc:0 "The French are the most valiant on the battlefield. When our charge horn sounds, countless warriors surge forth like a tide to break enemy lines."
+EDG_FA2_3_desc:0 "Our Estates-General effectively represents the needs of nobles, clergy, and burghers. More importantly, our monarch can subtly manipulate the assembly to redirect domestic tensions."
+EDG_FA2_4_desc:0 "The French king's compagnies d'ordonnance consist of 15 companies, each containing 100 lances. Each lance comprises 1 heavy knight, 2 mounted archers, 1 light cavalryman, and 2 non-combatant squires - totaling 9,000 men across all companies, with 6,000 being combat personnel."
+EDG_FA2_5_desc:0 "French is the language of European courts, and we are recognized as the cultural center of Europe."
+EDG_FA2_6_desc:0 "Our 'natural borders' serve less as a defensive strategy and more as an offensive one. We shall continuously expand our frontiers, planting the fleur-de-lis upon every corner of the world."
+EDG_FA2_7_desc:0 "In 1661, following Cardinal Mazarin's will, his entire fortune was used to establish an academy housing 60 notable converts from various faiths after the Thirty Years' War and Franco-Spanish War. Initially named the 'Academy of Four Regions' (Artois, Alsace, Catalonia, and Roussillon - border regions with differing faiths), the institution was completed in 1688 opposite the Louvre. In 1805, Napoleon I ordered the merger of the French Academy into this Four Regions Academy."
+
+FR3_ideas:0 "Gallic Ideas"
+FR3_ideas_start:0 "Gallic Traditions"
+FR3_ideas_bonus:0 "Gallic Ambitions"
+EDG_FR3_1:0 "Gallic Rebirth"
+EDG_FR3_2:0 "De-Frankification"
+EDG_FR3_3:0 "Ancestral Tales"
+EDG_FR3_4:0 "Gallic Renaissance"
+EDG_FR3_5:0 "Commentaries on Gaul"
+EDG_FR3_6:0 "Masters of the Wild Hunt"
+EDG_FR3_7:0 "Germanic Wars"
+EDG_FR3_1_desc:0 "When blades clashed and warhorns sounded, when our legions marched forth and the very heavens trembled - then did our cunning stratagems break the enemy, claiming Paris the glorious. Thus began our mighty enterprise: the reforging of ancient Gaul. Once-faded splendor now shines anew, our renown echoing far and wide. Remember the trials of pathfinding and conquest; marvel at the brilliance that restored our ancestral lands. With spirits indomitable and deeds immortal, our mountains and rivers bear witness as history forever records our triumphs. Beneath sun and moon alike, generations shall sing praises of our virtue. The banner of Gaul soars once more to the firmament; our ancient glory reborn writes new sagas."
+EDG_FR3_2_desc:0 "For centuries we Gauls suffered - conquered by Romans, ruled by Franks, assimilated by Latins - until our cultural identity was all but lost. Now we shall reawaken the Gallic spirit slumbering in our people's hearts. To revive Gallic culture, we must first purge Frankish influence - or rather, subsume it into our own."
+EDG_FR3_3_desc:0 "Ancient Gaul produced countless heroes, and our rich epic traditions record our ancestors' glorious deeds. These tales shall provide abundant material for our artistic creations and diplomatic propaganda."
+EDG_FR3_4_desc:0 "The Renaissance's influence has gradually spread to Gallic lands. We shall embrace these progressive ideas, letting humanism's radiance flow across Gaul's territories."
+EDG_FR3_5_desc:0 "In the past, we were conquered by the Romans - Caesar placed his yoke upon our necks. But now, we are the conquerors. We shall write new Commentaries on Gaul, conquering the lands of other peoples."
+EDG_FR3_6_desc:0 "During the Gallic Revival, the Wild Hunt has grown increasingly popular. Both nobles and commoners eagerly participate in these wilderness hunting expeditions, pursuing fresh game and valuable pelts."
+EDG_FR3_7_desc:0 "We are eternal rivals with the Germanic tribes to the east. Only by annihilating them completely can we ensure Gaul's security."
+
+
+FA2_BRI_ideas:0 "Breton-French Ideas"
+FA2_BRI_ideas_start:0 "Breton-French Traditions"
+FA2_BRI_ideas_bonus:0 "Breton-French Ambitions"
+
+estate_privileges_and_agendas_events_EDG_nouvelle_name:0 "Proposal for the New Army"
+EST_VAL_carolean_percentage_LOY:0 "Percentage of New Army in Land Forces"
+mechanic_EDG_estate_edg_nouvelle_enable_ability:0 "Enable §YNew Army§! Estate"
+mechanic_EDG_estate_edg_nouvelle_enable_ability_yes:0 "Enable §YNew Army§! Estate"
+estate_edg_nouvelle:0 "New Army"
+estate_edg_nouvelle_name:0 "New Army"
+edg_nouvelle_loyalty_modifier:0 "New Army Loyalty"
+edg_nouvelle_influence_modifier:0 "New Army Influence"
+edg_nouvelle_privilege_slots:0 "New Army Privilege Slots"
+estate_edg_nouvelle_desc:0 "This military estate was established by the crown as a counterbalance to traditional military factions. Its ranks are typically filled by foreigners, ethnic minorities, and even heathens - individuals wholly unconnected to domestic power structures. Trained by the state into elite warriors, they serve as standing troops and royal guards, playing a vital role in our military affairs. Due to their unique position, this estate also wields considerable political influence."
+
+estate_edg_nouvelle_ownership:0 "New Army Land Grant Rights"
+estate_edg_Interracial_ownership:0 "Foreigners' Land Grant Rights"
+
+EDG_estate_nouvelle_enlist_the_carolean:0 "Enlist New Army Troops"
+EDG_estate_nouvelle_enlist_the_carolean_desc:0 ""
+
+EDG_estate_nouvelle_privilege_rigorous_training:0 "Rigorous New Army Training"
+EDG_estate_nouvelle_privilege_rigorous_training_desc:0 ""
+EDG_estate_nouvelle_privilege_rigorous_training_modifier:0 "Rigorous New Army Training"
+
+EDG_estate_nouvelle_privilege_War_allowance:0 "New Army War Allowance"
+EDG_estate_nouvelle_privilege_War_allowance_desc:0 ""
+EDG_estate_nouvelle_privilege_War_allowance_modifier:0 "New Army War Allowance"
+
+EDG_estate_nouvelle_privilege_Allocate_military_fiefdoms:0 "Allocate Military Fiefs"
+EDG_estate_nouvelle_privilege_Allocate_military_fiefdoms_desc:0 ""
+
+EDG_estate_nouvelle_privilege_Improve_equipment_quality:0 "Improve New Army Equipment Quality"
+EDG_estate_nouvelle_privilege_Improve_equipment_quality_desc:0 ""
+EDG_estate_nouvelle_privilege_Improve_equipment_quality_modifier:0 "Improved New Army Equipment Quality"
+
+EDG_estate_nouvelle_privilege_Strengthen_military_discipline:0 "Strengthen New Army Discipline"
+EDG_estate_nouvelle_privilege_Strengthen_military_discipline_desc:0 ""
+EDG_estate_nouvelle_privilege_Strengthen_military_discipline_modifier:0 "Strengthened New Army Discipline"
+
+EDG_estate_nouvelle_privilege_loyalty:0 "Absolute Loyalty"
+EDG_estate_nouvelle_privilege_Allocate_Fortress:0 "Allocate Fortresses"
+EDG_estate_nouvelle_privilege_Increase_Army_Allowance:0 "Increase Army Allowance"
+EDG_estate_nouvelle_privilege_Promote_professional_military_officers:0 "Promote Professional Officers"
+EDG_estate_nouvelle_privilege_Practice_Act:0 "Drill Act"
+EDG_estate_nouvelle_privilege_Military_research_funding:0 "Military Research Funding"
+EDG_estate_nouvelle_privilege_leader_land_shock:0 "Officer Training: Shock"
+EDG_estate_nouvelle_privilege_leader_land_manuever:0 "Officer Training: Maneuver"
+EDG_estate_nouvelle_privilege_leader_land_fire:0 "Officer Training: Fire"
+EDG_estate_nouvelle_privilege_leader_siege:0 "Officer Training: Siege"
+EDG_estate_nouvelle_advisor_in_court:0 "New Army Royal Advisor"
+
+
+ EDG_estate_nouvelle_privilege_loyalty_desc:0 ""
+ EDG_estate_nouvelle_privilege_Allocate_Fortress_desc:0 ""
+ EDG_estate_nouvelle_privilege_Increase_Army_Allowance_desc:0 ""
+ EDG_estate_nouvelle_privilege_Promote_professional_military_officers_desc:0 ""
+ EDG_estate_nouvelle_privilege_Practice_Act_desc:0 ""
+ EDG_estate_nouvelle_privilege_Military_research_funding_desc:0 ""
+ EDG_estate_nouvelle_privilege_leader_land_shock_desc:0 ""
+ EDG_estate_nouvelle_privilege_leader_land_manuever_desc:0 ""
+ EDG_estate_nouvelle_privilege_leader_land_fire_desc:0 ""
+ EDG_estate_nouvelle_privilege_leader_siege_desc:0 ""
+ EDG_estate_nouvelle_advisor_in_court_desc:0 ""
+
+EDG_estate_nouvelle_privilege_autonomy:0 "Tolerate New Army Political Influence"
+EDG_estate_nouvelle_privilege_land:0 "Grant New Army Estates"
+ EDG_estate_nouvelle_privilege_autonomy_desc:0 ""
+ EDG_estate_nouvelle_privilege_land_desc:0 ""
+
+EST_VAL_culture_group_MINORITY:0 "Provinces with foreign culture groups exist"
+EST_VAL_RULED_BY_culture_group_MINORITY:0 "Non-state religion is dominant"
+EST_VAL_Interracial_PEACE_LOYALTY:0 "Not at war with foreign nations"
+estate_edg_Interracial:0 "Foreigners"
+estate_edg_Interracial_name:0 "Foreigners"
+edg_Interracial_loyalty_modifier:0 "Foreigners Loyalty"
+edg_Interracial_influence_modifier:0 "Foreigners Influence"
+edg_Interracial_privilege_slots:0 "Foreigners Privilege Slots"
+estate_edg_Interracial_desc:0 "This estate represents those ethnic groups within our borders that differ from the mainstream culture. In our nationalist state, these foreigners hold a unique position - we may choose to tolerate them or suppress them."
+
+EDG_estate_Interracial_land_rights:0 "Foreigners' Land Rights"
+EDG_estate_Interracial_privilege_land:0 "Grant Land Rights to Foreigners"
+EDG_estate_Interracial_Foreigners_in_the_court:0 "Foreigners in the Royal Court"
+EDG_estate_Interracial_Encourage_autonomy:0 "Encourage Autonomy"
+EDG_estate_Interracial_Enlightened_diplomacy:0 "Enlightened Diplomacy"
+EDG_estate_Interracial_Expand_commercial_ports:0 "Expand Open Trading Ports"
+EDG_estate_Interracial_ideas:0 "Tolerance and Openness"
+EDG_estate_Interracial_Expand_autonomous_communities:0 "Expand Foreigners' Autonomous Communities"
+EDG_estate_Interracial_Commercial_franchise_rights:0 "Foreigners' Commercial Franchise Rights"
+EDG_estate_Interracial_army_force:0 "Recruit Foreigners into the Army"
+EDG_estate_Interracial_tax_force:0 "Increase Foreigners' Taxation"
+EDG_estate_Interracial_trade_goods_force:0 "Foreigners' Corvée Labor"
+EDG_estate_Interracial_advisor_in_the_court:0 "Appoint Foreign Advisors to the Council"
+
+ EDG_estate_Interracial_land_rights_desc:0 ""
+ EDG_estate_Interracial_privilege_land_desc:0 ""
+ EDG_estate_Interracial_Foreigners_in_the_court_desc:0 ""
+ EDG_estate_Interracial_Encourage_autonomy_desc:0 ""
+ EDG_estate_Interracial_Enlightened_diplomacy_desc:0 ""
+ EDG_estate_Interracial_Expand_commercial_ports_desc:0 ""
+ EDG_estate_Interracial_ideas_desc:0 ""
+ EDG_estate_Interracial_Expand_autonomous_communities_desc:0 ""
+ EDG_estate_Interracial_Commercial_franchise_rights_desc:0 ""
+ EDG_estate_Interracial_army_force_desc:0 ""
+ EDG_estate_Interracial_tax_force_desc:0 ""
+ EDG_estate_Interracial_trade_goods_force_desc:0 ""
+ EDG_estate_Interracial_advisor_in_the_court_desc:0 ""
+
+
+
+EDG_estate_Interracial_province_effect_tooltip:0 "All our provinces with §Yforeign culture groups§! will receive the following modifiers:"
+EDG_estate_Interracial_province_revoke_effect_tooltip:0 "All our provinces with §Yforeign culture groups§! will lose the following modifiers:"
+
+EDG_estate_Interracial_Expand_autonomous_communities_province_modifier:0 "Expanded Foreigners' Autonomous Communities"
+EDG_estate_Interracial_Commercial_franchise_rights_province_modifier:0 "Foreigners' Commercial Franchise Rights"
+EDG_estate_Interracial_army_force_province_modifier:0 "Foreigner Recruitment"
+EDG_estate_Interracial_tax_force_province_modifier:0 "Increased Foreigner Taxation"
+EDG_estate_Interracial_trade_goods_force_province_modifier:0 "Foreigners' Corvée Labor"
+
+EDG_mission_BRI_2_2_trigger_tooltip:0 "We have hired an advisor of §Y[Root.Culture.GetName]§! culture"
+EDG_flavor_BRI_mission_1_a_flag_tt:0 "§YJeanne§! has decided to restore §Opast glories§!, finding a middle ground between French and Celtic - @FR3§YGaul§!.\n\nThis will strengthen §YCeltic§! tendencies, leading us down the path to form @FR3§YGaul§!.\n"
+EDG_flavor_BRI_mission_2_a_flag_tt:0 "§YJeanne§! has decided to continue her father's legacy by pursuing §MFrankification§!.\n\nThis will strengthen §YFrench§! tendencies, leading us down the path to form @FA2§YFrance§!.\n"
+DD_BRI_choose_branch_tt1: "Unlocks the '§MForked Paths§!' interface where we must choose between '§YCelticization§!' or '§YFrankification§!'.\n§g(If not displayed, please check mod compatibility)§!\n"
+
+EDG_BRI_EDG_mission_BRI_2_3_opinion:0 "Integrate into the French Cultural Sphere"
+EDG_mission_FRA_1_6_opinion:0 "Promote Celtic Culture"
+
+EDG_BRI_gaelic_tt_yes:0 "If we belong to the §YCeltic§! culture group:"
+EDG_BRI_french_tt_yes:0 "If we belong to the §YFrench§! culture group:"
+
+EDG_BRI_integrate_French_flag_tt:0 "Provinces of §YFrench§! culture group will gradually §Jconvert§! to §YCeltic§! culture group.\n"
+
+EDG_mission_BRI_1_9_culture_tt:0 "Provinces of §YBritish§! culture group under our rule will begin §Jconverting§! to §YCeltic§! culture group.\n"
+EDG_mission_BRI_1_10_culture_tt:0 "§YScottish§! culture will transform into §YAlban§! culture.\n"
+
+EDG_mission_BRI_1_9_STRONG_MERCHANTS:0 "Control the English Channel"
+
+EDG_Northern_Parliament_enable_flag:0 "Unlocked the 'Northern Parliament of England' Government Reform"
+EDG_Northern_Parliament_enable_flag_tt:0 "Unlocks §MGovernment Reform§! §Y'Northern Parliament'§! with the following effects:"
+EDG_mission_BRI_2_7_flag_modifier:0 "Breton-speaking Court"
+EDG_mission_BRI_2_7_a_modifier: "French-speaking Court"
+EDG_mission_BRI_2_9_tt:0 "Qualifying provinces owned by us and our subjects will gain the following effects:"
+EDG_mission_BRI_2_11_tt:0 "All future provinces of §YCeltic§! culture group will receive the following modifiers:"
+
+EDG_BRI_elder_holy_order:0 "Magistrate Council"
+EDG_BRI_elder_holy_order_desc:0 "The fundamental structure of ancient Celtic society consisted of extended families and clans within specific territorial boundaries, governed by kings or high chieftains. By around the 1st century BCE, some Celtic peoples - particularly in Gaul - saw the rise of elected 'magistrates' as nominal regional administrators, while actual decision-making power rested with the 'Magistrate Council' that these magistrates nominally led."
+EDG_BRI_elder_holy_order_localization:0 "Establish §YMagistrate Council§!"
+EDG_BRI_elder_holy_order_localization_short:0 "Magistrate Council"
+EDG_BRI_elder_holy_order_localization_full:0 "Magistrate Council"
+EDG_BRI_elder_holy_order_enable_flag_tt:0 "Unlocks the local institution '§YMagistrate Council§!'.\n"
+
+
+EDG_BRI_Vincentella_holy_order:0 "Order of Vercingetorix"
+EDG_BRI_Vincentella_holy_order_desc:0 "Vercingetorix, son of the Arverni chieftain, led the Gauls in their final attempt to expel the invading Caesar and his armies during the Gallic Wars. His name means 'King of Warriors' in Celtic, and he possessed the rare combination of strategic acumen and political vision among Gauls. Recognizing that Gallic disunity would lead to defeat against Rome, he spent years uniting various tribes to form a united front. Through his efforts, over a hundred tribes from central and northern Gaul came together unprecedentedly to fight for a common cause: 'Free Gaul'. The Gauls have always revered Vercingetorix as a national hero, establishing a knightly order in his name."
+EDG_BRI_Vincentella_holy_order_localization:0 "Establish the §YOrder of Vercingetorix§!"
+EDG_BRI_Vincentella_holy_order_localization_short:0 "Order of Vercingetorix"
+EDG_BRI_Vincentella_holy_order_localization_full:0 "Order of Vercingetorix"
+EDG_BRI_Vincentella_holy_order_enable_flag_tt:0 "Unlocks the local institution '§YOrder of Vercingetorix§!'.\n"
+
+EDG_BRI_procuratorate_holy_order:0 "Royal Procuratorate"
+EDG_BRI_procuratorate_holy_order_desc:0 "The monarch shall appoint the most capable procurators to oversee the nation's economy, rigorously combating corruption and malfeasance."
+EDG_BRI_procuratorate_holy_order_localization:0 "Establish the §YRoyal Procuratorate§!"
+EDG_BRI_procuratorate_holy_order_localization_short:0 "Royal Procuratorate"
+EDG_BRI_procuratorate_holy_order_localization_full:0 "Royal Procuratorate"
+EDG_BRI_procuratorate_holy_order_enable_flag_tt:0 "Unlocks the local institution '§YRoyal Procuratorate§!'.\n"
+
+EDG_mission_BRI_3_2_tt:0 "All allies will §Gmutually§! gain §G20§! §YFavors§! and §YTrust§! with us.\n"
+EDG_BRI_change_subject_culture_dip_action_enable_flag_tt:0 "We will unlock the diplomatic action '§YPromote Cultural Acceptance§!', allowing us to forcibly change the §Gprimary culture§! of our §Msubjects§! to our own §Mprimary culture§!.\n"
+
+EDG_BRI_change_subject_culture_dip_action:0 "Promote Cultural Assimilation"
+EDG_BRI_change_subject_culture_dip_action_title:0 "Promote Cultural Assimilation"
+EDG_BRI_change_subject_culture_dip_action_desc:0 "We will forcibly change their §Gprimary culture§! to match our §Mprimary culture§!. This will also change the culture of their ruler, consort, heir, and capital, costing us §G50§!£dip£"
+EDG_BRI_change_subject_culture_dip_action_tooltip:0 "We will forcibly change their §Gprimary culture§! to match our §Mprimary culture§!. This will also change the culture of their ruler, consort, heir, and capital, costing us §G50§!£dip£"
+EDG_BRI_change_subject_culture_dip_action_alert_tooltip:0 "Promote Cultural Assimilation"
+EDG_BRI_change_subject_culture_dip_action_dialog:0 "They will convert to our primary culture."
+
+DIPLO_OPPINION_100_base:0 "Base Willingness"
+EDG_mission_BRI_3_5_trigger_tt:0 "All §Yappanage§! subjects have liberty desire below §G30.0%§!"
+
+EDG_flavor_BRI_mission_0_a_opinion:0 "Support Gilles"
+EDG_flavor_BRI_mission_0_b_opinion:0 "Support Gilles"
+
+
+EDG_MISSION_BRI_France_development_flag_tt:0 "When §Gdeveloping§! provinces in the §YFrench§! region, there is a §G25.0%§! chance to gain 1 additional point in the corresponding development category."
+EDG_MISSION_BRI_France_conquer_flag_tt:0 "Henceforth, when acquiring new provinces in the §YFrench§! region, those provinces will receive the following modifiers:"
+
+EDG_mission_BRI_4_2_ttt: "The §YParisian Nights§! event chain in France has concluded"
+EDG_BRI_in_gongyitongmeng_decision_enable_tt:0 "§Y[Root.GetName]§! will join the §MCommonweal Alliance§! and unlock the decision '§YCommonweal Alliance War§!'.\n- This decision can be enacted when we are a §Ysubject§! of @FRAFrance or have joined the §MCommonweal Alliance§!.\n- This decision will drag all nations in the §YCommonweal Alliance§! into a §Rwar§! against @FRA§YFrance§!.\n"
+EDG_BRI_in_gongyitongmeng_flag:0 "Has joined the Commonweal Alliance"
+EDG_mission_BRI_4_2_tt:0 "We will gain §G20§! mutual §YTrust§! with each qualifying §Yappanage§!, these nations will be brought into the §YCommonweal Alliance§! and provide us §G25§!£mil£"
+EDG_mission_BRI_4_3_tt:0 "We will gain §G20§! mutual §YTrust§! with each qualifying §Ynation§!, these nations will be brought into the §YCommonweal Alliance§! and provide us §G25§!£mil£"
+EDG_BRI_in_gongyitongmeng_decision_title:0 "Declare Commonweal Alliance War"
+EDG_BRI_in_gongyitongmeng_decision_desc:0 "As leader of the Commonweal Alliance, we shall declare war on France!"
+EDG_BRI_in_gongyitongmeng_flag_tt:0 "We will join the §YCommonweal Alliance§!. [From.GetName] may lead us to declare war on @FRAFrance.\n- We can leave the alliance via decision.\n- When [From.GetName] uses the decision to declare war on @FRAFrance, we will be forced to join the Commonweal Alliance War."
+EDG_BRI_quite_gongyitongmeng_decision_tt:0 "We will withdraw from the §YCommonweal Alliance§!"
+EDG_BRI_quite_gongyitongmeng_decision_title:0 "Leave Commonweal Alliance"
+EDG_BRI_quite_gongyitongmeng_decision_desc:0 "The Commonweal Alliance has no future - we must pledge loyalty to the French King."
+
+EDG_gongyitongmeng_war_WAR_NAME:0 "$ORDER$ Commonweal Alliance War"
+
+EDG_gongyitongmeng_war:0 "§YCommonweal Alliance War§!"
+EDG_gongyitongmeng_war_desc:0 "We shall resist the tyranny of the French King."
+
+cb_EDG_gongyitongmeng_war:0 "§YCommonweal Alliance War§!"
+cb_EDG_gongyitongmeng_war_desc:0 "We shall resist the tyranny of the French King."
+
+EDG_FRA_Natural_boundaries_conquer_war:0 "§YEndless Frontiers§!"
+EDG_FRA_Natural_boundaries_conquer_war_desc:0 "We shall be permitted to seize all provinces from our European neighbors."
+
+cb_EDG_FRA_Natural_boundaries_conquer_war:0 "§YEndless Frontiers§!"
+cb_EDG_FRA_Natural_boundaries_conquer_war_desc:0 "Their borders connect with ours, threatening our national security - we must conquer them too!"
+
+cb_EDG_FRA_Natural_boundaries_conquer_war_enable_flag_tt:0 "We will unlock the '§YEndless Frontiers§!' casus belli.\nThis CB can be used against all §YEuropean neighbor§! nations. Effects of this CB:\n-§RUnavailable§! during §RDisasters§!\n-§YAggressive Expansion Impact§!: §G90.0%§!\n-§YPrestige from Battles§!: §G100.0%§!\n-§YProvince Warscore Cost§!: §G90.0%§!\n"
+
+EDG_flavor_BRI_mission_5_a_opinion:0 "Swear Fealty to Us"
+EDG_flavor_BRI_mission_6_a_opinion:0 "Join Commonweal Alliance"
+EDG_flavor_BRI_mission_6_b_opinion:0 "Refuse Commonweal Alliance"
+
+EDG_mission_BRI_3_10_STRONG_MERCHANTS:0 "Porto Whaling Industry"
+EDG_mission_BRI_3_10_a_tt_yes:0 "If we have §Yhighest trade power§! in Sevilla node"
+EDG_mission_BRI_3_9_tt_2:0 "Qualifying provinces with §Yforts§! will have them §Gupgraded§!.\n"
+
+
+EDG_mission_BRI_4_11_a_tt_yes:0 "If we are @PAP§YCatholic§!:"
+EDG_mission_BRI_4_11_b_tt_yes:0 "If we are §Rnot§! @PAP§YCatholic§!:"
+
+EDG_mission_BRI_5_2_tt:0 "Every province we or our subjects own in §YFrance§! will provide §G5§! §Yprestige§!, with excess prestige converted into corresponding monarch points.\n"
+
+EDG_mission_BRI_5_3_tt:0 "Remove all §Raggressive expansion§! opinion modifiers from nations whose capitals are located in §YFrance§!."
+EDG_mission_BRI_5_6_STRONG_MERCHANTS:0 "Bordeaux Whalers"
+
+merc__EDG_BRI_Xide_Knights_enable_flag_tt:0 "We will be able to hire the §YKnights of El Cid§! mercenary company at §G60%§! of normal mercenary cost, with the following modifiers: Discipline: §G+10.0%§!\n"
+merc__EDG_BRI_Xide_Knights:0 "§YKnights of El Cid§!"
+
+EDG_mission_BRI_5_16_decision_global_flag_tt:0 "Unlocks the §Y'Host Samhain Festival'§! decision, which provides bonuses based on ruler's military skill."
+
+EDG_theologian_provide_1_tolerance_own_trigger_modifier:0 "Theologian Advisor"
+
+EDG_mission_BRI_5_16_decision_title:0 "Host Samhain Festival"
+EDG_mission_BRI_5_16_decision_desc:0 "Just as the shortening days mark the beginning of the new year, and sunset marks the start of a new day, the annual Samhain festival begins on the evening of October 31st. The Celts would light crop offerings as sacrifices, and as they danced around the bonfires, the season of the sun would end and Samhain would commence. The Celts believed that on the night of October 31st, the Lord of Death would return to the mortal world with spirits, seeking replacements. Therefore, they lit torches and burned animals as offerings to the Lord of Death. They also disguised themselves in costumes made from animal heads and pelts, making strange noises so the Lord of Death wouldn't recognize them and they could avoid calamity."
+
+EDG_mission_BRI_1_24_STRONG_MERCHANTS:0 "Bay of Biscay Fisheries"
+EDG_mission_BRI_1_24_change_price_tt:0 "Whaling Boom"
+EDG_mission_BRI_1_25_tt_yes:0 "If we have a §Ylevel 3§! §YMerchant Advisor§!"
+EDG_mission_BRI_1_25_province_modifier:0 "Channel Toll"
+EDG_mission_BRI_2_17_decision_enable_flag_tt:0 "Unlocks the §Y'Convene Wild Hunt Gathering'§! decision, which can increase our §YRuler's§! §YMilitary Skill§!."
+EDG_mission_BRI_2_17_decision_tt:0 "The Wild Hunt Gathering can only be convened once every §Y10 years§! during each ruler's reign."
+EDG_mission_BRI_2_17_decision_title:0 "Convene Wild Hunt Gathering"
+EDG_mission_BRI_2_17_decision_desc:0 "Wilderness hunting is a vital skill of our people, and we must carry forward this traditional practice."
+
+EDG_flavor_BRI_mission_10_tt:0 "Within each §Ycycle§!, each option provided by this event can only be selected §Yonce§!.\nAfter selecting all available options, we will enter a new cycle and all choices will §Yreset§!."
+
+EDG_flavor_BRI_mission_10_enalbe_flag_tt:0 "We will unlock the §YSword of Gaul§! event, which triggers whenever a §Ynew ruler§! ascends to the throne.\n- Within each §Ycycle§!, each option can only be selected §Yonce§!.\n- After selecting all options, we enter a new cycle and all choices will §Yreset§!.\n"
+
+EDG_mission_BRI_2_24_tt:0 "All nations with capitals in the §YLow Countries§! that are our §Msubjects§!, §Gallies§!, or have §G100§! relations with us can provide us workforce, which will add §G1§! base production to random provinces we own and grant:"
+EDG_mission_BRI_2_25_tt:0 "§G20§! points of §Gbase production§! development will be randomly distributed among provinces in the §YFrench§! region.\n\nOur qualifying provinces in §YFrance§! will receive the following modifiers:"
+
+EDG_mission_BRI_3_16_tt_yes:0 "If we complete the mission through §Ysponsoring Jean Bureau§!"
+EDG_estate_edg_nouvelle_enable_flag_tt:0 "Unlocks the §Y'New Army'§! estate"
+
+
+EDG_BRI_march:0 "Marquisate"
+EDG_BRI_march_title:0 "Marquisate"
+EDG_BRI_march_title_plural:0 "Marquisates"
+EDG_BRI_march_long_desc:0 "Marquisates §Ydo not use diplomatic relations§! but do not provide force limit contribution, while retaining all other attributes of §YMarches§!."
+EDG_BRI_march_is_our:0 "$NAME|Y$ is our Marquisate"
+EDG_BRI_march_state_action:0 "Demand to Become Marquisate"
+EDG_BRI_march_state_action_title:0 "Demand to Become Marquisate"
+EDG_BRI_march_state_action_desc:0 "Demand to Become Marquisate"
+EDG_BRI_march_state_action_tooltip:0 "Demand to Become Marquisate"
+EDG_BRI_march_state_action_alert_tooltip:0 "Demand to Become Marquisate"
+EDG_Transforming_into_EDG_EDG_BRI_march_action_enable_flag_tt:0 "Unlocks diplomatic action §Y'Promote to March'§!\nWe can promote §YMarches§! and §YVassals§! to §YMarquisates§!.\nMarquisates §Ydo not use diplomatic relations§! but do not provide force limit contribution, while retaining all other attributes of §YMarches§!."
+
+EDG_Transforming_into_EDG_EDG_BRI_march_action:0 "Promote to Marquisate"
+EDG_Transforming_into_EDG_EDG_BRI_march_action_title:0 "Promote to Marquisate"
+EDG_Transforming_into_EDG_EDG_BRI_march_action_desc:0 "We will appoint them as our §YMarquisate§!. Marquisates §Ydo not use diplomatic relations§! but do not provide force limit contribution, while retaining all other attributes of §YMarches§!."
+EDG_Transforming_into_EDG_EDG_BRI_march_action_tooltip:0 "We will appoint them as our §YMarquisate§!. Marquisates §Ydo not use diplomatic relations§! but do not provide force limit contribution, while retaining all other attributes of §YMarches§!."
+EDG_Transforming_into_EDG_EDG_BRI_march_action_alert_tooltip:0 "Promote to Marquisate"
+EDG_Transforming_into_EDG_EDG_BRI_march_action_dialog:0 "They have promoted us to their §YMarquisate§!."
+
+
+EDG_mission_BRI_3_19_flag_tt:0 "All our current and future §YMarquisate§! subjects will receive the following bonuses:"
+EDG_building_give_marketplace_or_upgrate_effect_tt:0 "If no §YMarketplace§! is present, construct one. If a §YMarketplace§! or similar building exists, §Yupgrade§! it. If a §YStock Exchange§! already exists, gain §G2§! £production£ §Ybase production§!."
+EDG_mission_BRI_3_23_tt:0 "All qualifying provinces we own will gain §M1§! point of §Ybase production§! and receive the following modifiers:"
+EDG_mission_BRI_4_22_tt:0 "Every province we own with a §YCathedral§! will provide §G10§!£adm£ and §G2§! §Yprestige§!."
+EDG_mission_BRI_4_23_tt:0 "Every qualifying §YWine§!-producing province we own will gain §G2§! points of §Ybase production§! and receive the following modifiers:"
+EDG_mission_BRI_4_25_tt:0 "Every qualifying §YIron§!-producing province we own will gain §G2§! points of §Ybase production§! and receive the following modifiers:"
+
+merc__EDG_French_Imperial_Cavalry_tt:0 "We will be able to hire the §YFrench Compagnie d'Ordonnance§! mercenary company at a §G75.0%§! discount, with the following modifiers:\nMorale Damage: §G+10.0%§!\nDiscipline: §G+10.0%§!\n"
+merc__EDG_French_Imperial_Cavalry:0 "§MFrench Compagnie d'Ordonnance§!"
+
+EDG_mission_BRI_5_21_catholic_tt_yes:0 "If we follow the §YCatholic§! faith"
+EDG_mission_BRI_5_21_protestant_tt_yes:0 "If we follow the §YProtestant§! faith"
+EDG_mission_BRI_5_21_reformed_tt_yes:0 "If we follow the §YReformed§! faith"
+EDG_mission_BRI_5_21_other_tt_yes:0 "If we follow §Yother religions§!"
+
+EDG_mission_BRI_4_13_tt:0 "All qualifying provinces owned by us and our subjects will receive the following modifiers:"
+
+EDG_FR3_ADM_faction:0 "French Faction"
+EDG_FR3_DIP_faction:0 "British Faction"
+EDG_FR3_MIL_faction:0 "Gallic Faction"
+
+EDG_FR3_ADM_faction_influence:0 "French Faction Influence"
+EDG_FR3_DIP_faction_influence:0 "British Faction Influence"
+EDG_FR3_MIL_faction_influence:0 "Gallic Faction Influence"
+
+EDG_FR3_ADM_faction_FACTION_DESC:0 "The French Faction is primarily supported by traditional French nobility, focusing on internal affairs of the Gallic Empire. They believe a stable and prosperous domestic environment is the foundation of imperial strength.\n§YThis faction's influence grows when we have high stability and are at peace.§!"
+
+EDG_FR3_DIP_faction_FACTION_DESC:0 "The British Faction includes many foreign technocrats. During Gaul's early founding, many of these bureaucrats came from Britain, hence the name 'British Faction'. They view diplomacy as crucial for imperial development, emphasizing negotiations and treaties to safeguard imperial interests.\n§YThis faction's influence grows when we have high Diplomatic Reputation.§!"
+
+EDG_FR3_MIL_faction_FACTION_DESC:0 "The Gallic Faction firmly believes military power is the empire's fundamental safeguard. They focus on military training and continuous improvement of weaponry. Mostly composed of brave generals and soldiers, they maintain that strong military deterrence and conquests can acquire more land and resources to expand the empire.\n§YThis faction's influence grows when we have high army tradition or are at war.§!"
+
+EDG_FR3_Monarchy_interactions_1_tt:0 "All provinces we own with §YGallic§! culture will receive the following effects:"
+EDG_FR3_Monarchy_interactions_2_tt:0 "All nations with §YGallic§! as primary culture will gain §G50§! opinion of us and provide us §G0.1§! years of §Yincome§!."
+
+ability_EDG_FR3_Monarchy_ability:0 "§YGallic Fervor§!"
+ability_EDG_FR3_Monarchy_ability_yes:0 "§YGallic Fervor§!"
+EDG_FR3_Monarchy_ability:0 "Gallic Fervor"
+EDG_FR3_Monarchy_ability_yes:0 "Gallic Fervor"
+EDG_FR3_Monarchy_power:0 "§YGallic Fervor§!"
+EDG_FR3_Monarchy_power_desc:0 "Monthly §YGallic Fervor§! points are affected by:\n- Power Projection (up to §G+0.1§!)\n- Prestige (up to §G+0.1§!)\n- Absolutism (up to §G+0.1§!)\n- Legitimacy (up to §G+0.1§!)\n- Being a Great Power §G+0.05§!\n- Corruption (up to §R-0.1§!)"
+monthly_EDG_FR3_Monarchy_power_desc:0 "Monthly §YGallic Fervor§! points"
+monthly_EDG_FR3_Monarchy_power:0 "Monthly §YGallic Fervor§! points"
+EDG_FR3_Monarchy_interactions_1:0 "Host Festivities"
+EDG_FR3_Monarchy_interactions_2:0 "Conduct International Trade"
+EDG_FR3_Monarchy_interactions_3:0 "Recruit Gallic New Army"
+EDG_FR3_Monarchy_interactions_1_desc:0 ""
+EDG_FR3_Monarchy_interactions_2_desc:0 ""
+EDG_FR3_Monarchy_interactions_3_desc:0 ""
+
+EDG_mission_BRI_2_23_flag_trigger_modifier:0 "Treasury Reserve"
+
+
+# OA Rewards
+EDG_on_general_recruited_provide_1_army_tradition_flag_tt:0 "When recruiting a new §YArmy General§!, we will gain §G1§! additional §YArmy Tradition§!"
+EDG_on_general_recruited_provide_1_manpower_flag_tt:0 "When recruiting a new §YArmy General§!, we will gain §G1000§!£icon_manpower£\n"
+EDG_on_province_religion_converted_provide_local_autonomy_flag_tt:0 "When completing §Mmissionary work§!, the province will have §G25.0%§! less §YLocal Autonomy§!.\n"
+EDG_on_province_religion_converted_provide_add_prestige_or_monarch_power_flag_tt:0 "When completing missionary work in a province, we will gain §M1§! additional §YPrestige§!, with each point of overflow prestige converted into £adm£, £dip£ and £mil£\n"
+
+EDG_on_main_war_won_provide_add_army_tradition_flag_tt:0 "When winning a §Ymajor war§!, we will gain §G5§! §YArmy Tradition§!.\n"
+EDG_on_loan_repaid_add_dip_power_flag_tt:0 "When repaying a §Yloan§!, we will gain §G1§!£dip£ §Ydiplomatic power§!.\n"
+EDG_on_pre_mil_advisor_fired_add_mil_power_flag_tt:0 "When dismissing an active §YMilitary Advisor§!, we will permanently gain a skill level 3 §YDrillmaster§!.\n"
+EDG_on_new_age_add_100_power_flag_tt:0 "When entering a new §YAge§!, we will gain §G300§! points each of £adm£, £dip£, and £mil£\n"
+EDG_on_adm_exploited_add_1_base_development_back_flag_tt:0 "When §Yexploiting development§!, we have a §G50.0%§! chance to not lose base tax in the province.\n"
+EDG_on_raze_add_20_treasury_flag_tt:0 "When §Yrazing provinces§!, we have a §G20.0%§! chance to gain an additional §G20§!£icon_gold£\n"
+EDG_on_concentrate_development_add_5_nationalism_flag_tt:0 "When §Yconcentrating development§!, the affected provinces will lose §G5§! years of §YSeparatism§!."
+EDG_on_tech_taken_add_25_power_flag_tt:0 "When §Yadvancing technology§!, we will gain §G25§! points each of £adm£, £dip£, and £mil£\n"
+EDG_on_mil_tech_taken_add_10_army_tradition_flag_tt:0 "When §Yadvancing military technology§!, we will gain §G10§! §YArmy Tradition§!.\n"
+
+EDG_BRI_war_with_heretic_provide_5_land_morale_trigger_modifier_flag_tt:0 "When at war with §Yheretics§! and §Yheathens§!, we gain the following modifiers:\nLand Morale: §G+5.0%§!\nTrue Faith Province Manpower: §G+5.0%§!\n"
+EDG_BRI_war_with_heretic_provide_5_land_morale_trigger_modifier:0 "Holy War Tradition"
+
+on_province_religion_converted_provide_3_church_loyalty_flag_tt:0 "When completing §Ymissionary work§! in a province, the §Y[Root.GetClergyName]§! estate will gain §G3§! points of §GLoyalty§!.\n"
+EDG_theologian_provide_1_tolerance_own_flag_tt:0 "When §Yhiring an advisor§!, we gain §G+1.00§! Tolerance of the True Faith for §G10§! years. §g(Does not stack)§!\n"
+EDG_mission_BRI_4_7_modifier: "Advisor Bonus"
+
+EDG_on_mil_tech_taken_PROVIDE_10_army_tradition_flag_tt:0 "When upgrading §YMilitary Technology§!, we gain §G10§! §YArmy Tradition§!.\n"
+EDG_every_now_and_forever_fort_get_the_modifier_flag_tt:0 "All provinces we currently own or will capture from others that contain §YForts§! (§Rexcluding§! provinces where we build new forts ourselves) will gain the following modifiers:"
+EDG_mission_BRI_1_21_flag_tt:0 "All provinces we currently own or will acquire that produce §YWine§! will gain the following modifiers:"
+EDG_mission_BRI_1_23_tt:0 "Each qualifying province we own will provide §G1§! §YNavy Tradition§! and §G10§!£dip£\n"
+
+EDG_on_main_war_won_provide_25_mil_power_flag_tt:0 "When winning a §Ymajor war§!, we gain §G25§!£mil£\n"
+
+# Modifiers
+
+EDG_172_province_modifier:0 "Ramparts of Nantes"
+EDG_mission_BRI_2_2_modifier:0 "Court Cultural Struggle"
+EDG_mission_BRI_2_3_modifier:0 "Celticization Reforms"
+EDG_mission_BRI_2_3_modifier_DD: "French Diplomacy"
+EDG_mission_BRI_1_6_a_modifier:0 "Promotion of French Culture"
+EDG_mission_BRI_1_6_b_modifier:0 "Gallic Fervor"
+EDG_mission_BRI_2_1_modifier:0 "Gilles de Rais' Military Reforms"
+EDG_mission_BRI_2_6_a_modifier:0 "Integration of French Fiefdoms"
+EDG_mission_BRI_2_6_b_modifier:0 "Revenge for French Invasion"
+EDG_mission_BRI_2_7_modifier:0 "One Nation, One Language"
+EDG_mission_BRI_2_9_province_modifier:0 "Forest Reclamation"
+desc_EDG_mission_BRI_2_9_province_modifier: "You need not weep anymore, for I have come."
+EDG_mission_BRI_2_11_province_modifier:0 "Celtica's Prosperity"
+desc_EDG_mission_BRI_2_11_province_modifier: "Once, now, and forever, this shall be a blessed land - Celtica."
+EDG_mission_BRI_2_11_modifier2: "Linking the Past"
+EDG_mission_BRI_3_2_modifier:0 "Alliance Webs"
+EDG_flavor_BRI_mission_0_modifier:0 "Gilles de Rais"
+EDG_BRI_elder_holy_order_mark_province_modifier:0 "Magistrate Council Established"
+EDG_BRI_Vincentella_holy_order_mark_province_modifier:0 "Order of Vercingetorix Established"
+EDG_flavor_BRI_mission_province_modifier:0 "Wallonian March"
+EDG_mission_BRI_3_6_modifier_a:0 "Surpassing the Carolingians"
+EDG_mission_BRI_3_6_modifier_b:0 "Gallic March"
+EDG_mission_BRI_3_8_modifier:0 "Restore the Shattered Crown"
+EDG_MISSION_BRI_France_conquer_province_modifier:0 "Reconquest of Gaul"
+EDG_mission_BRI_3_9_province_modifier:0 "Pyrenean Defense Line"
+EDG_mission_BRI_3_10_province_modifier:0 "Porto Commercial Hub"
+EDG_mission_BRI_3_12_modifier_a:0 "French-Speaking Emperor"
+EDG_mission_BRI_3_12_modifier_b:0 "Gallic Sovereign"
+EDG_mission_BRI_4_6_modifier_a:0 "Restore French King's Authority"
+EDG_mission_BRI_4_6_modifier_b:0 "Revive Gallic Values"
+EDG_mission_BRI_4_10_modifier:0 "Legacy of Toledo Campaign"
+EDG_flavor_BRI_mission_7_a_modifier:0 "Toledo Administrative Reforms"
+EDG_mission_BRI_4_11_modifier_a:0 "Triumph of Reconquista"
+EDG_mission_BRI_4_11_modifier_b:0 "Triumph of Reconquista"
+EDG_mission_BRI_5_3_modifier:0 "Great Feudal Lords"
+EDG_mission_BRI_5_6_modifier_a:0 "Reconquest of Aquitaine"
+EDG_mission_BRI_5_6_modifier_b:0 "Footsteps of Gaul"
+EDG_mission_BRI_5_10_modifier:0 "Reconquest of Valencia"
+EDG_flavor_BRI_mission_9_ruler_modifier_1:0 "Samhain Festival Celebration I"
+EDG_flavor_BRI_mission_9_ruler_modifier_2:0 "Samhain Festival Celebration II"
+EDG_flavor_BRI_mission_9_ruler_modifier_3:0 "Samhain Festival Celebration III"
+EDG_mission_BRI_1_19_province_modifier:0 "Military Colony System"
+EDG_mission_BRI_1_21_province_modifier:0 "Advanced Winemaking Techniques"
+desc_EDG_mission_BRI_1_21_province_modifier: "Thanks to our excellent craftsmanship, these wines sell well."
+EDG_mission_BRI_1_23_modifier:0 "Naval Logistics"
+EDG_mission_BRI_1_24_province_modifier:0 "Bay of Biscay Fisheries"
+EDG_mission_BRI_1_25_modifier:0 "Mastery of the Gallic Channel"
+EDG_mission_BRI_2_17_modifier:0 "National Wild Hunt Tradition"
+EDG_mission_BRI_2_17_decision_in_10_years_modifier:0 "This Ruler Has Held Wild Hunt Gathering Within 10 Years"
+EDG_flavor_BRI_mission_10_a_ruler_modifier:0 "Sword of Gaul: Brave Heart"
+EDG_flavor_BRI_mission_10_b_ruler_modifier:0 "Sword of Gaul: Cold Warrior"
+EDG_flavor_BRI_mission_10_c_ruler_modifier:0 "Sword of Gaul: Elite Mercenaries"
+EDG_flavor_BRI_mission_10_d_ruler_modifier:0 "Sword of Gaul: Elite Mercenaries"
+EDG_mission_BRI_2_19_modifier:0 "Dominance Over Europe"
+EDG_mission_BRI_2_20_modifier:0 "Impregnable Defense"
+EDG_mission_BRI_2_21_province_modifier:0 "Artichokes & Faience"
+EDG_mission_BRI_2_22_province_modifier:0 "Flourishing Quatre-Villes"
+EDG_mission_BRI_2_23_modifier:0 "Sound Fiscal Management"
+EDG_mission_BRI_2_24_modifier:0 "Labor Importation"
+EDG_flavor_BRI_mission_12_a_province_modifier:0 "Importation of Skilled Labor"
+EDG_mission_BRI_2_25_province_modifier:0 "Advanced French Urbanization"
+EDG_flavor_BRI_mission_13_a_modifier:0 "Patronage of Jean Bureau"
+EDG_mission_BRI_3_17_modifier:0 "Newly Established Army"
+EDG_mission_BRI_3_18_modifier:0 "Prince of the March"
+EDG_mission_BRI_3_19_modifier:0 "Strengthened March"
+EDG_mission_BRI_3_21_modifier:0 "Communal Petition"
+EDG_mission_BRI_3_23_province_modifier:0 "Developed Agrarian Economy"
+EDG_mission_BRI_4_17_modifier:0 "Bayonet & Musketry Drills"
+EDG_mission_BRI_4_18_modifier:0 "Establishment of Tercios"
+EDG_mission_BRI_4_19_modifier:0 "Military Elite Class"
+EDG_mission_BRI_4_20_modifier:0 "Royal War Council"
+
+EDG_mission_BRI_4_21_modifier:0 "Religious Devotion I"
+EDG_mission_BRI_4_22_modifier:0 "Religious Devotion II"
+EDG_mission_BRI_4_23_province_modifier:0 "Grand Abbey Vineyard"
+EDG_mission_BRI_4_24_province_modifier:0 "Auvergne Steel"
+EDG_mission_BRI_4_25_province_modifier:0 "World Ironworking Center"
+EDG_mission_BRI_5_21_modifier_a:0 "Defender of the Papacy"
+EDG_mission_BRI_5_21_modifier_b:0 "Voice of Luther"
+EDG_mission_BRI_5_21_modifier_c:0 "Heart of Reformation"
+EDG_mission_BRI_5_21_modifier_d:0 "Winds of Reform"
+EDG_flavor_BRI_mission_15_a_province_modifier:0 "Pearl of Nantes"
+EDG_flavor_BRI_mission_15_b_province_modifier:0 "City at Land's End"
+EDG_flavor_BRI_mission_15_c_province_modifier:0 "Finistère Port"
+EDG_flavor_BRI_mission_15_d_province_modifier:0 "Vannetais Borough"
+EDG_flavor_BRI_mission_15_e_province_modifier:0 "Loyalty of the Quatre-Villes"
+EDG_flavor_BRI_mission_15_f_province_modifier:0 "Pearl of the Seine"
+EDG_mission_BRI_5_24_modifier:0 "Gallic Renaissance"
+EDG_mission_BRI_5_25_modifier:0 "Nation of Arts"
+EDG_flavor_BRI_mission_17_a_modifier:0 "Overwhelming Military Might"
+EDG_flavor_BRI_mission_17_b_modifier:0 "Diplomatic Virtuosity"
+EDG_mission_BRI_2_13_modifier_a:0 "French Campaign"
+EDG_mission_BRI_2_13_modifier_b:0 "Gallic Eastern Expedition"
+EDG_mission_BRI_4_13_province_modifier:0 "Alpine Defense Line"
+EDG_mission_BRI_5_13_modifier:0 "Algiers Overseas Province"
+EDG_FR3_Monarchy_interactions_2_modifier:0 "Expanded International Commerce"
+EDG_FR3_Monarchy_interactions_3_modifier:0 "Recruitment of Gallic New Army"
+EDG_flavor_BRI_mission_21_modifier:0 "Unifier of Celtica"
+
+
+EDG_flavor_BRI_mission.0.title:0 "The Marshal and Brittany"
+EDG_flavor_BRI_mission.0.desc:0 "During the Hussite Wars, Gilles de Montmorency-Rais was dispatched by the French king as a military commander to Bohemia to join the crusade against the Hussites. Through military strategy and political maneuvering, and with the help of Richard III, he seized the Duchy of Brittany.\n\nDuring the Hussite Crusade, he fought alongside the Maid of Bohemia (Joan of Arc) and repeatedly assisted this maiden from Orleans in shining on the battlefield. Their excellent tactical coordination enabled the crusaders to capture twelve fortresses within six months, completely reversing the Catholic disadvantage in Bohemia since Sigismund's intervention.\n\nAfter the Siege of Prague, Gilles de Montmorency-Rais returned to France to continue serving the king. His performances in the Bohemian Crusade, the French succession wars, and the Low Countries Wars earned him the title of Marshal of France. He produced a moth-eaten parchment documenting his family's marital ties to the Montfort faction during the 1341 Breton War of Succession, thus establishing his legal claim. But to become a duke, claims alone were insufficient. Gilles mortgaged his estate at Croisilles in the Loire Valley and Breton loyalties to Richard III in exchange for French military support. The following March, he led troops along the Vilaine River to raid Nantes. When defenders retreated to the keep, Gilles ordered dead warhorses thrown into the moat while scaling ladders were erected for round-the-clock assaults, ultimately succeeding in burning the northwest tower and capturing Nantes.\n\nIn February 1430, Gilles stationed 8,000 French troops in Angers under the pretext of suppressing Breton pirates. He secretly contacted Nantes nobles, promising to preserve their privileges. On the night of March 7th, ten modified fishing boats carrying daredevils drifted downriver, using Greek fire to ignite ships in the harbor. Amid the towering flames, the garrison's deputy opened a side gate. When the remaining six hundred defenders took refuge in the Ducal Castle of Brittany, Gilles ordered century-old oaks felled to build trebuchets while sappers tunneled to place gunpowder under the walls. At dawn on March 15th, the northwest tower collapsed in chain explosions, the defending commander fell into the moat and died, and Rennes fell to Gilles.\n\nAfter successively capturing Nantes and Rennes, Brittany submitted to Gilles, with other lords swiftly following suit. Gilles posted proclamations in churches announcing the restoration of Brittany's pre-1341 Estates-General traditions to secure clerical support. Simultaneously, he promised five-year salt tax exemptions for cities like Rennes and Vannes, winning burgher allegiance.\n\nIn May 1430 when Gilles received the ducal crown at Rennes Cathedral, he deliberately used an ancient 13th-century crown exhumed from John V's tomb, anointed by the Archbishop of Rouen - this act completely dispelled inheritance disputes. But Gilles' rule wasn't flawless, as suspected former Dreux loyalists spread rumors of his Satan worship and black magic studies.\n\nYet Gilles' Bohemian experience left him struggling with self-doubt for the rest of his life. He saw clergy wielding butcher knives, witnessed holy crusaders committing atrocities against innocents, and watched people of different faiths slaughter each other. Sin and massacre - in his early life he had been a devout yet straightforward knight, but his later years were consumed by self-doubt. He bid farewell to his zealous comrade Joan, returning to France with inexplicable feelings toward heretics - or perhaps the misguided."
+EDG_flavor_BRI_mission.0.a:0 "We still have a long way to go."
+
+
+EDG_flavor_BRI_mission.1.title:0 "Courtly Cultural Identity"
+EDG_flavor_BRI_mission.1.desc:0 "The region of Brittany was once home to Celtic peoples in ancient times, sharing close historical ties with the Celts of the British Isles. The Breton language also belongs to the Celtic family, sharing similar linguistic structures and vocabulary with Welsh and Scottish Gaelic.\n\nSome Bretons consider themselves descendants of Celtic Gauls, an identity rooted in pride for their national history and culture. By emphasizing their Celtic heritage, they seek to preserve Brittany's distinctiveness and independence. At the same time, as cultural exchanges between Brittany and other French regions intensified over time, French language, literature, art, and religion gradually spread to Brittany, profoundly influencing local culture. Thus there also exists a faction of Bretons who maintain a French cultural identity.\n\nNow, as Europe enters the Renaissance period amid continuous social and political transformations, Brittany too is affected by these great changes. Within our court, the Celtic faction and French faction stand in opposition, their conflicting visions of cultural identity having reached an irreconcilable point where we must make a choice."
+EDG_flavor_BRI_mission.1.a:0 "[Root.Monarch.GetName] will make the right decision."
+EDG_flavor_BRI_mission.1.b:0 "I've always been French."
+EDG_flavor_BRI_mission.1.c: "[Root.Monarch.GetName] overrides all opposition to promote Francization."
+EDG_flavor_BRI_mission.1.c_tt: "§Y[Root.GetName]§!'s future depends on the §Mfuture§! event chain.\n\nThere is no doubt that §Y[Root.Monarch.GetName]§!, currently supported by France, favors §MFrancization§!.\n"
+
+DD_BRI_1_desc_normal: "The old Marshal, who single-mindedly pursued Francization, has passed away, leaving behind [Root.Monarch.GetName], who is full of doubts about the world. A group of radical Breton nobles have gathered at the palace gates, petitioning the [Root.Monarch.GetTitle] to return to Breton traditions." #Frenchification?
+DD_BRI_1_desc_rangna: "The heinous François has been executed, but the Celtic reforms he introduced remain. The Bretons are discontent with France's covetous gaze, yet as the successor to the old Marshal, how will [Root.Monarch.GetName] choose between the aspirations of the Breton people and the legacy of their father?"
+
+EDG_flavor_BRI_mission.2.title:0 "The New French King"
+EDG_flavor_BRI_mission.2.desc:0 "The League of the Public Weal, this formidable alliance spearheaded by [Root.GetName], swept across the land like a black storm, marshaling the forces of the French king's vassals and foreign powers alike as it marched upon Paris.\n\nParis, that great city symbolizing French glory, trembled before the league's iron tide. As the allied armies flooded through the city gates like an unstoppable wave, the terrified citizens hid in their homes. And Notre-Dame de Paris, this sacred edifice, would bear witness to a coronation that would overturn the old order.\n\nThe leader of the [Root.GetName] duchy, [Root.Monarch.GetName], clad in resplendent armor, entered Notre-Dame amidst a host of followers. Beneath the towering vaults hung an air of solemn tension. The clergy, holding sacred vessels with trepidation, could only yield to this overwhelming force.\n\nWhen the heavy crown was slowly placed upon [Root.Monarch.GetName]'s head, [Root.Monarch.GetSheHe] became the new King of France and Lord of Gaul. In that moment, it seemed the very destiny of France had been rewritten. Though the nobles harbored their own schemes, they all knelt in homage before this display of military might. Their acclamations echoed through Notre-Dame's hall like a symphony of changing power.\n\nThis new monarch stood before the high altar, gazing down at the kneeling nobility, heart swelling with boundless ambition. [Root.Monarch.GetName] knew that from this moment onward, [Root.Monarch.GetSheHe] would write [Root.Monarch.GetHerHis] own chapter in French history. And Paris, this great city, would become the new seat of power. Yet [Root.Monarch.GetSheHe] also understood the undercurrents swirling beneath the nobles' homage - the road ahead would be fraught with thorns. But in this moment, bathed in Notre-Dame's sacred light, [Root.Monarch.GetSheHe] stood supreme, [Root.Monarch.GetHerHis] figure like a beacon in the night, guiding this transformed realm toward an uncertain destiny."
+EDG_flavor_BRI_mission.2.a:0 "Hail the new monarch!"
+EDG_flavor_BRI_mission.2.b:0 ""
+
+EDG_flavor_BRI_mission.3.title:0 "Establishing the Wallonian March"
+EDG_flavor_BRI_mission.3.desc:0 "With [Root.GetName] having seized Wallonia and Champagne, a new order is about to be established in these lands. [Root.Monarch.GetName] stands upon this newly conquered territory, gazing toward the Holy Roman Empire in the east with vigilant determination in [Root.Monarch.GetHerHis] eyes. Though Wallonia has been subdued, the threat from the Holy Roman Empire persists. Should we fail to establish an effective defensive system, the Empire may return to invade our Wallonian territories. [Root.Monarch.GetName]'s generals propose establishing a march in Wallonia - constructing fortresses and imposing military obligations on local peasants - to secure [Root.GetName]'s eastern frontier."
+EDG_flavor_BRI_mission.3.a:0 "We must secure our borders."
+EDG_flavor_BRI_mission.3.b:0 "I care more about taxation."
+
+EDG_flavor_BRI_mission.4.title:0 "The Future of Brittany"
+EDG_flavor_BRI_mission.4.desc:0 "The Duchy of Brittany has maintained its independence for centuries, but as the French king consolidates his power, the Crown of the Fleur-de-Lis grows ever stronger. The French monarch has long coveted Breton lands, and without establishing more lasting friendly relations, he may well cast aside old courtesies and declare war on us. However, thanks to [Root.Monarch.GetName]'s good relations with the French king, His Majesty is willing to preserve Brittany's feudal privileges if [Root.Monarch.GetName] submits. [Root.Monarch.GetName] now stands at a historic crossroads - should [Root.Monarch.GetSheHe] swear fealty to France, or continue maintaining Brittany's precarious independence?"
+EDG_flavor_BRI_mission.4.a:0 "We shall pledge our loyalty to the King of France."
+EDG_flavor_BRI_mission.4.b:0 "Brittany must preserve its independence."
+
+EDG_flavor_BRI_mission.5.title:0 "The Fealty of Brittany"
+EDG_flavor_BRI_mission.5.desc:0 "[From.GetName]'s [From.Monarch.GetName] has sent us a letter expressing [From.Monarch.GetHerHis] willingness to swear fealty to [Root.Monarch.GetName] and become our vassal."
+EDG_flavor_BRI_mission.5.a:0 "We shall fulfill our obligations as liege."
+EDG_flavor_BRI_mission.5.b:0 "The time is not yet right."
+
+EDG_flavor_BRI_mission.6.title:0 "[From.GetName] Invites Us to Join the League of the Public Weal"
+EDG_flavor_BRI_mission.6.desc:0 "The French king's centralization efforts have made the French crown increasingly powerful, threatening not only the interests of French nobles but also those of France's neighbors. Therefore, [From.GetName] has formed the League of the Public Weal and invited us to join them in opposing France."
+EDG_flavor_BRI_mission.6.a:0 "We must defend our rights by force of arms."
+EDG_flavor_BRI_mission.6.b:0 "We should not oppose the French king."
+
+EDG_flavor_BRI_mission.7.title:0 "Toledo Administration"
+EDG_flavor_BRI_mission.7.desc:0 "Drawing upon the original administrative system of the Spanish Kingdom, [Root.GetName] has begun reforming the governance of these newly acquired territories. In the ancient castle of Toledo, [Root.Monarch.GetName]'s advisors gather around a massive oak table, their solemn faces illuminated by flickering candlelight. They unroll parchment after parchment documenting Spain's old administrative rules, yet [Root.Monarch.GetName]'s eyes gleam with new plans. [Root.Monarch.GetName] elaborates a new bureaucratic system where the old nobility will be excluded from power structures, replaced by royal bureaucrats appointed by [Root.Monarch.GetName] - new judges, tax collectors, and governors who will assume their positions."
+EDG_flavor_BRI_mission.7.a:0 "Make it so."
+EDG_flavor_BRI_mission.7.b:0 "This will harm many interests."
+
+EDG_flavor_BRI_mission.8.title:0 "Relocating Barcelona's Glass Industry"
+EDG_flavor_BRI_mission.8.desc:0 "Barcelona has long been renowned for its exquisite glassmaking industry. The city's master glassworkers, with their generations of refined craftsmanship, produce works of unparalleled beauty - whether splendid glass vessels or delicate decorative panes, all shine with the unique brilliance of Mediterranean pearls.\n\n[Root.Monarch.GetName], with discerning vision, recognizes the tremendous value of Barcelona's glass industry. [Root.Monarch.GetSheHe] proposes to uproot the entire glassmaking establishment from Barcelona and transplant it to the capital of the Gallic Empire."
+EDG_flavor_BRI_mission.8.a:0 "Our capital has greater need of this industry."
+EDG_flavor_BRI_mission.8.b:0 "Simply impose a special tax on them instead."
+
+EDG_flavor_BRI_mission.9.title:0 "Samhain Festival"
+EDG_flavor_BRI_mission.9.desc:0 "Samhain was the New Year of the ancient Celts. Meaning 'summer's end,' it typically occurred in late October when the weather turned cold. At its core, Samhain was a celebration of all things significant during this seasonal transition. On the festival morning, clergy distributed still-burning embers from the sacred bonfire to each household to kindle new kitchen fires. These flames served to keep homes warm and ward off evil spirits, as this time was believed to be when the veil between worlds grew thin. People lit torches and sacrificed animals as offerings to the Lord of Death. They disguised themselves in animal heads and pelts while making strange noises to avoid being recognized by death spirits - the origin of today's Halloween masquerades. After that night, spirits returned to the Otherworld and peace was restored."
+EDG_flavor_BRI_mission.9.a:0 "Let the celebrations begin!"
+EDG_flavor_BRI_mission.9.b:0 ""
+
+EDG_flavor_BRI_mission.10.title:0 "The Sword of Gaul"
+EDG_flavor_BRI_mission.10.desc:0 "On the day [Root.Monarch.GetName] received the crown, [Root.Monarch.GetSheHe] understood [Root.Monarch.GetHerHis] destiny - to stand as a mighty ruler who would lead [Root.Monarch.GetName]'s armies, expand [Root.Monarch.GetName]'s domains, and become the exemplar for all warriors. Clearly, the Sword of Gaul must firmly grasp both military and political authority, and [Root.Monarch.GetName]'s understanding of warfare would prove crucial for the realm's martial affairs."
+EDG_flavor_BRI_mission.10.a:0 "True strength comes from a courageous heart."
+EDG_flavor_BRI_mission.10.b:0 "We are the most ruthless warriors."
+EDG_flavor_BRI_mission.10.c:0 "Mercenaries are always the most eager for war."
+EDG_flavor_BRI_mission.10.d:0 "The battlefield is ruled by skilled military scholars."
+
+EDG_flavor_BRI_mission.11.title:0 "Export of Labor"
+EDG_flavor_BRI_mission.11.desc:0 "[From.GetName] faces a shortage of skilled textile workers, with their cities offering high wages to attract weavers. Meanwhile, our nation possesses a considerable number of textile workers. Many of our domestic weavers are leaving our lands for opportunities in [From.GetName]."
+EDG_flavor_BRI_mission.11.a:0 "Let them go."
+EDG_flavor_BRI_mission.11.b:0 "This must be prohibited immediately."
+EDG_flavor_BRI_mission.11_tt: "§RUnfortunately, we don't have enough workers either.§!\n"
+
+EDG_flavor_BRI_mission.12.title:0 "Workers From [From.GetName]"
+EDG_flavor_BRI_mission.12.desc:0 "We are experiencing a shortage of skilled textile labor, with many of our cities spending substantial sums to recruit weavers. This has attracted textile workers from the Low Countries. A group of textile workers from [From.GetName] has arrived in our realm, hoping to settle within our borders."
+EDG_flavor_BRI_mission.12.a:0 "Welcome them with open arms!"
+EDG_flavor_BRI_mission.12.b:0 ""
+
+EDG_flavor_BRI_mission.13.title:0 "Sponsor Jean Bureau"
+EDG_flavor_BRI_mission.13.desc:0 "Jean Bureau, the renowned French general, began his career as a lawyer in Paris where contemporaries called him 'a perfectionist with a mathematical mind' and 'an imaginative engineer who maximizes primitive weapons' potential.' After discovering artillery, he abandoned law to serve the French king. Bureau's meticulous early studies of cannonry enabled his repeated battlefield successes. Recently, he has embarked on new research to develop more practical artillery and is seeking additional patronage. Having formed a friendship with [Root.Monarch.GetName] during wartime, Bureau has written requesting investment, offering to send some of his newly developed artillery to [Root.GetName] in return."
+EDG_flavor_BRI_mission.13.a:0 "We need his research."
+EDG_flavor_BRI_mission.13.b:0 "This is unnecessary."
+
+EDG_flavor_BRI_mission.14.title:0 "The Three Cathedrals"
+EDG_flavor_BRI_mission.14.desc:0 "Brittany boasts three great cathedrals, revered by devout pilgrims both domestic and foreign.\n\nCount Alan Canhiart, father of the first Breton Duke from the House of Cornouaille, established the Abbey of Sainte-Croix in Quimper - a magnificent Romanesque cathedral.\n\nNotre-Dame de Kreisker dominates Léon's ecclesiastical landscape with Brittany's tallest church spire, serving as a renowned coastal navigation landmark.\n\nThe Nantes Cathedral stands as our most beautiful Gothic church, long regarded as the jewel in Brittany's crown.\n\nThese three cathedrals enjoy international fame and attract countless Christian pilgrims, providing substantial funds and donations. Our clergy wish to invest these resources in maintenance and enhancements to make these sacred structures even more magnificent."
+EDG_flavor_BRI_mission.14.a:0 "Make them grander."
+EDG_flavor_BRI_mission.14.b:0 "This is unnecessary."
+
+EDG_flavor_BRI_mission.15.title:0 "The Royal Capital"
+EDG_flavor_BRI_mission.15.desc:0 "As the new monarch, [Root.Monarch.GetName] stands at a historic crossroads - the selection of a suitable capital.\n\nThe old capital of Nantes carries the profound historical legacy and glorious memories of the Duchy of Brittany. Having witnessed the rise and fall of generations of dukes, it holds deep sentimental value for the people. Its ancient architecture and familiar streets bear witness to [Root.Monarch.GetName]'s formative years. Establishing the capital here would quickly stabilize the realm and appease tradition-minded nobles and commoners alike.\n\nRennes, this vibrant city, demonstrates boundless potential for development. Situated at a crucial transportation hub with bustling trade routes, its emerging mercantile class thrives. Moving the capital to Rennes would harness its economic advantages to propel the kingdom toward prosperity, attracting talent and infusing the nation with fresh vitality.\n\nAs for Paris - the former heart of France - it possesses unparalleled political influence and cultural prestige. This symbol of supreme authority would let [Root.Monarch.GetName] proclaim the Breton dynasty's legitimacy to all Europe while better integrating former French resources to achieve true unification.\n\n[Root.Monarch.GetName] ponders deeply, each option representing a different future. [Root.Monarch.GetHerHis] decision will profoundly shape this newborn kingdom's destiny."
+EDG_flavor_BRI_mission.15.a:0 "[172.GetName] will always be the best choice."
+EDG_flavor_BRI_mission.15.b:0 "[169.GetName] holds the greatest value."
+EDG_flavor_BRI_mission.15.c:0 "We should gaze toward the sea."
+EDG_flavor_BRI_mission.15.d:0 "We choose [171.GetName]."
+EDG_flavor_BRI_mission.15.e:0 "[4384.GetName] symbolizes the future."
+EDG_flavor_BRI_mission.15.f:0 "We shall follow French kings and establish our capital at [183.GetName]."
+
+EDG_flavor_BRI_mission.16.title:0 "[Root.GetName]'s Hegemony"
+EDG_flavor_BRI_mission.16.desc:0 "In years past, Brittany was but a minor duchy huddled in France's northwestern corner. Yet within mere decades, we stormed Paris, defeated the French king, crushed Lorraine, then sent our cavalry southward - sweeping through Aquitaine and the Kingdom of Arles with unstoppable force. Thus was all France united beneath Breton banners, and [Root.GetName] emerged radiant as our new name.\n\nThe [Root.GetName] of today is no petty state confined to Brittany, but rather one of Western Europe's mightiest powers, having unified the entire French realm. [Root.Monarch.GetName] stands atop towering battlements, [Root.Monarch.GetHerHis] cloak billowing in the wind. [Root.Monarch.GetSheHe] gazes beyond the Pyrenees' snowy peaks across the Channel's vast waves, envisioning the Rhine's prosperity. Ambition burns like fire in [Root.Monarch.GetHerHis] heart - to lead valiant warriors across these natural barriers and spread [Root.Monarch.GetHerHis] glory across every inch of Western Europe. The entire court is swept up in this fervor, as if already seeing the grand tapestry of conquests to come."
+EDG_flavor_BRI_mission.16.a:0 "[Root.GetName] shall march onward."
+EDG_flavor_BRI_mission.16.b:0 ""
+
+EDG_flavor_BRI_mission.17.title:0 "The Great Power Across the Rhine"
+EDG_flavor_BRI_mission.17.desc:0 "In the shadowy depths of history, the turbulent 15th century wrote the legendary prologue for the Duchy of Brittany. When the vast lands of France were torn by strife, Brittany awoke like a mighty lion. On battlefields where steel flashed in deadly dance, the duchy's warriors broke through French king's defenses with fearless valor - their war cries shaking the heavens, making Paris tremble before its new masters. [Root.GetName] was reborn, and the world saw a new dawn.\n\nAfter both Iberia and the British Isles bowed to [Root.GetName]'s banners, [Root.GetName]'s armies turned toward their most ancient foe - crossing the Rhine into German lands. The Rhine, that peacefully flowing witness of centuries, now became the prologue to a storm of war. [Root.GetName]'s troops, their armor gleaming coldly, advanced like a black tide across the river. Their banners snapped in the wind like death's summons. The thunder of hooves shattered Germany's tranquility as grim tension filled the Holy Roman Emperor's halls. The Emperor sat dark-faced upon his high throne while German princes whispered in fearful clusters. In their castles, pale-faced nobles debated countermeasures, while on the frontier, the Gallic Empire's standards already danced triumphantly in the wind - heralding the tempest about to sweep this ancient continent."
+EDG_flavor_BRI_mission.17.a:0 "Let the storm rage even fiercer!"
+EDG_flavor_BRI_mission.17.b:0 "We should adopt a more moderate approach."
+
+EDG_flavor_BRI_mission.18.title:0 "King of Arles"
+EDG_flavor_BRI_mission.18.desc:0 "The Occitan armies had come like a black tide seeking to consume all before them. Yet [Root.Monarch.GetName]'s fearless troops struck like lightning through the gloom, driving straight for the enemy's heart. On the battlefield, war cries shook the heavens as [Root.Monarch.GetName] led the charge - [Root.Monarch.GetHerHis] agile, formidable figure wielding [Root.Monarch.GetHerHis] sword in deadly rhythm while Arles' soldiers fell like wheat before the scythe, their blood staining the earth.\n\nBeneath fluttering banners of victory, the [Root.Monarch.GetTitle] pressed onward, setting sights on distant Aix-en-Provence. Our forces advanced like a tempest, swiftly overrunning all Provence. In Aix, that opulent palace which had witnessed centuries of splendor and intrigue, now burned to ashes beneath the [Root.Monarch.GetTitle]'s wrath. The roaring flames illuminated [Root.Monarch.GetName]'s face as all France would come to know - who truly ruled these lands."
+EDG_flavor_BRI_mission.18.a:0 "The South returns to Paris' embrace!"
+EDG_flavor_BRI_mission.18.b:0 ""
+
+EDG_flavor_BRI_mission.19.title:0 "Homage to El Cid"
+EDG_flavor_BRI_mission.19.desc:0 "[Root.Monarch.GetName] paused in the square where El Cid once walked, [Root.Monarch.GetHerHis] footsteps slowing. Visions of the legendary warrior's deeds - golden-armored cavalry sweeping across the land - seemed to materialize before [Root.Monarch.GetHerHis] eyes. Yet in the sunset's glow, the ruins burned crimson. Distant fires still smoldered, their black smoke coiling upward.\n\nStanding motionless, [Root.Monarch.GetName] felt profound contemplation. The heroes of old were gone, and now a new conqueror stood upon this land. History's wheel turned relentlessly, crushing past glories and dreams, leaving only devastation and endless remembrance to whisper old tales through the ages. 'El Cid, you composed epic poetry here - now this land lies beneath my feet.' The [Root.Monarch.GetTitle], clad in gleaming armor with cold, proud bearing, entered this smoke-filled city of sorrow. [Root.Monarch.GetHerHis] falcon-sharp gaze swept across broken walls as [Root.Monarch.GetSheHe] murmured words torn apart by the wind. Kneeling, [Root.Monarch.GetName] touched the cold stones with complex emotions - respect for the legendary hero, yet irrepressible ambition. 'El Cid, your legend once illuminated this land like stars. But I shall surpass you!' The [Root.Monarch.GetTitle]'s low voice carried unshakable resolve.\n\nThe breeze stirred [Root.Monarch.GetHerHis] cloak as sunset painted [Root.Monarch.GetHerHis] figure - a silhouette of soaring ambition. In this conquered Valencia, new dreams burned like the day's last fiery light before nightfall."
+EDG_flavor_BRI_mission.19.a:0 "Thus indeed should a great man be."
+EDG_flavor_BRI_mission.19.b:0 ""
+
+
+EDG_flavor_BRI_mission.20.title:0 "The Homeland Reclaimed"
+EDG_flavor_BRI_mission.20.desc:0 "London in those days was a place of both splendor and shadows - Anglo nobles carousing in feasts, Norman knights parading on horseback, Danish merchants bustling through markets. Then came the stormclouds of change as [Root.GetName]'s armies swept in with fearless valor, seeking not just land but the restoration of Gallic glory. Beneath Gaul's iron-shod hooves, foreign rulers were cast out amid flashing blades and righteous fury. Saxon pride evaporated like morning dew, Norman war cries drowned by clashing steel, Danish haggling silenced forever.\n\nAs blood stained the earth, London was shattered only to be reforged as a Gallic capital. From the flames emerged rebirth - Celtic towns and guilds springing up amid reconstructed stone dwellings, their very stones humming with belonging. 'O glorious past! I have returned for thee.' [Root.Monarch.GetName] gazed from high battlements at the starlit sky, [Root.Monarch.GetHerHis] soul yearning. Yet with passing time came understanding - though heroic songs ring loud, fate is fleeting, while the blood and tears etched into history remain eternal truth. Gradually [Root.Monarch.GetHerHis] eyes revealed a longing for reconciliation, hoping all strife might be soothed by time's gentle currents. The Gallic dream was no phantom - this dynasty's rise like dawn's first light. But what face would it show this newborn land in years to come?"
+EDG_flavor_BRI_mission.20.a:0 "After a thousand years, I return at last!"
+EDG_flavor_BRI_mission.20.b:0 "Mercy can heal all wounds."
+EDG_flavor_BRI_mission_20_b_tt:0 "Provinces in the §YBritish§! culture group gain:"
+DD_BRI_20b_modifier: "Integrated England"
+DD_BRI_20a_modifier: "Integrated England"
+desc_DD_BRI_20a_modifier: "The English must be assimilated into our culture and our systems."
+
+EDG_flavor_BRI_mission.21.title:0 "Celtic Unification"
+EDG_flavor_BRI_mission.21.desc:0 "In those distant, ancient days, [Root.GetName] basked in glorious sunlight as its armies swept across the sea like a tempest toward Britain's mysterious shores. The fleet advanced like great serpents of the deep, tearing through the ocean's calm with fearless fervor. The Gallic royalty, bearing the Celtic name, seemed to herald a new age dawning.\n\nEnglish castles bowed beneath splendid banners, Welsh mountains dimmed before proud conquest, Scottish soldiers fought to their last breath vowing to defend their honor - yet all ultimately yielded to Gaul's sharp blades. Ireland's green earth finally returned to Gallic hands as Celtic songs echoed through the valleys like birdsong, resonating through all creation. As years flowed by, the peoples of four nations lived together on this land - fathers and sons, mothers and daughters - sharing harvest joys and winter hardships alike. History's wheel rolled across this soil, leaving countless footprints.\n\n[Root.GetName]'s elegance and courage bore rich fruit under [Root.Monarch.GetName]'s rule, as [Root.Monarch.GetSheHe] was crowned Emperor of the Celts."
+EDG_flavor_BRI_mission.21.a:0 "[Root.Monarch.GetSheHe] is the greatest of all Celts."
+EDG_flavor_BRI_mission.21.b:0 ""
+
+EDG_flavor_BRI_mission.22.title:0 "Expulsion of the Moors"
+EDG_flavor_BRI_mission.22.desc:0 "In ages past, Andalusia - that land bathed in brilliant sunlight where golden olive trees swayed and lush silks fluttered - fell under Muslim rule. The Moors coiled through its lands like the serpent Fuxi, as its former glory gradually faded in time's relentless flow.\n\nToday, Andalusia finally rests in [Root.GetName]'s grasp, its soil stained crimson like blooming poppies. [Root.GetName]'s warriors broke through enemy lines like storm-driven waves crashing ashore. [Root.Monarch.GetName] carved [Root.Monarch.GetHerHis] path through steel and flesh, driving back the Muslims as the radiant light of faith and ideals shone beside the battlefield. Victorious cheers merged into a triumphant hymn echoing across the skies. Yet in those smoke-filled lands, does anyone still quietly mourn what was lost? With the Moors expelled, their former splendor has vanished from these ancestral lands, the wind sighing softly as it carries away souls wandering through history. The Muslims now huddle in shadows, their fate resting in [Root.Monarch.GetName]'s hands."
+EDG_flavor_BRI_mission.22.a:0 "Let these heathens depart."
+EDG_flavor_BRI_mission.22.b:0 "We should remain tolerant."
+EDG_flavor_BRI_mission_22_a_tt:0 "All §YIberian§! provinces with §GMuslim§! religion owned by us or our subjects will gain the following effects:"
+
+EDG_flavor_BRI_mission.23.title:0 "The Italian Wars"
+EDG_flavor_BRI_mission.23.desc:0 "Time's relentless tide, like an endless surge of war, has swallowed countless innocent souls. Now [Root.GetName] stands resolute upon history's stage, waving banners of conquest across Italy's beautiful lands, where blood and tears weave a dazzling yet sorrowful tapestry.\n\nThe midsummer sun filters through olive branches, dappling Florence's streets - that flower-bright city where art and wealth converge. Yet beneath this prosperous surface lurks endless strife and shadow. [Root.GetName]'s knights don their armor like tireless lions advancing upon this fair land. War horns sound in the distance, vibrating in every heart as [Root.GetName]'s armies cross the Alps with sword and glory, descending like tigers upon war-torn soil. The howling wind and snapping banners seem the very earth singing their triumph, striking terror into Italian hearts."
+EDG_flavor_BRI_mission.23.a:0 "Let the fires burn brighter still!"
+EDG_flavor_BRI_mission.23.b:0 ""
+
+EDG_flavor_BRI_mission.24.title:0 "The Supreme Sovereign of the West"
+EDG_flavor_BRI_mission.24.desc:0 "The imperial star of [Root.GetName] rises majestically like a blazing sun - illuminating Iberia's indomitable coasts, conquering Britain's majestic peaks, crossing Italy's radiant sunlight, and dancing with Germany's boundless forests. The [Root.GetName] Emperor sits tall upon an exquisitely carved throne like a towering snow-capped mountain overlooking all beneath.\n\nUpon this throne, majesty and radiance intertwine as golden veils shimmer brilliantly in sunlight. The Emperor's eyes resemble deep lakes - serene yet peerless - reflecting the world's myriad vistas through towering palace windows. [Root.Monarch.GetName]'s hand gently caresses the gem-encrusted crown like stroking celestial stars, both mysterious and elegant.\n\nAmbassadors enter the hall one by one with reverent hearts. The Iberian delegate, draped in luxurious cloaks, wears an expression of nervous excitement, their heartbeat almost audible in this solemn atmosphere. Nearby, the British envoy proclaims in resonant tones: 'Great Supreme Sovereign of the West, you are our shared beacon - may glory and prosperity ever follow you!'\n\nAs waves of homage continue, the air fills with fragrant spices and floral scents as if all creation offers tribute. The Italian ambassador's passionate recitations flow like spring snow upon eastern winds, while the German representative's steadfast voice declares unwavering loyalty to the [Root.GetName] Empire, standing tall like pines in winter gales.\n\nThe Emperor smiles faintly, blending solemn authority with profound inner peace. Standing upon this throne like the boundless cosmos, [Root.Monarch.GetSheHe] senses countless souls calling out. In this moment transcending time and space, [Root.Monarch.GetSheHe] is not just the West's supreme ruler, but a symbol of unity and peace.\n\nAt this breathtaking juncture, the [Root.GetName] Emperor gazes upon these reverent ambassadors, thoughts soaring like an eagle among stars. [Root.Monarch.GetSheHe] knows [Root.Monarch.GetHerHis] reign shall birth new glories and future hopes."
+EDG_flavor_BRI_mission.24.a:0 "Yet our empire knows no bounds."
+EDG_flavor_BRI_mission.24.b:0 ""
+
+EDG_flavor_BRI_mission.25.title:0 "Gilles and Joan"
+EDG_flavor_BRI_mission.25.desc:0 "In that earth-rending war, Baron Gilles de Rais was like a steel blade tempered by both God and devil. Born in the blood-tinged dawn of Champtocé Castle, he inherited his bloodstained family crest at eleven, learning to armor his broken heart under his grandfather's iron rule. When the Lorraine shepherdess Joan arrived at Wenceslaus V's camp with divine golden edicts, this notoriously brutal French crusader was building battle honors with corpses from gallows - until the king's scepter pointed to that coarse-clad maiden. 'I would follow your sacred soul with the Mass of my heart,' Gilles whispered as he knelt.\n\nWhen Joan's white banner pierced Sigismund's trebuchet lines, Gilles led heavy cavalry to cut off Hussite retreats, his devastating rear charge scattering enemies across Bohemia in blood-soaked victories. They shared hardened bread on horseback and read Revelations by campfires. Come spring, the Baron entered Nantes Castle in eagle-feather cloaks, where the Breton ducal throne still bore defenders' blood and celebratory wine stains. Eight thousand French veterans stood arrayed behind him, armor glinting on the Loire: 'This authority belongs to your angel-blessed soul,' he'd sometimes murmur to Joan at drunken feasts, 'I remain ever your blade for God's work.'\n\nFor ten years Gilles moved between two crowns as legend. Some knew him as the iron-fisted Duke who crushed Breton rebels with black magic, others as the simple man who sent yearly letters to a Bohemian maiden. But the object of his affection had vowed herself wholly to God, while the hellscapes he witnessed in Bohemia waged eternal war with his soul's foundations on stormy nights.\n\nWhen the war ended in pouring rain outside Prague, with Sigismund's last forces surrendering their swords, Gilles stood apart in twilight's glow at the victory feast, cup raised toward the maiden at its center. The wine shimmered strangely in fading light - turbid as his struggling faith.\n\nNow gazing from Nantes Castle's new towers, Gilles watches white calla lilies bloom in meadows below. From beneath his armor, he produces a battered wooden crucifix. 'I was no Roland,' he smiles at dim stars as his scepter slips loose, 'but at least I outdid La Hire.' Yet his fervent heart wars with his devout soul - longing to declare his love like a cavalry charge, though knowing her answer, still tormented by Bohemia's wailing dead."
+EDG_flavor_BRI_mission.25.a:0 "Let her know my heart."
+EDG_flavor_BRI_mission.25.b:0 "No, she may lead me to God, but cannot confess for me."
+EDG_flavor_BRI_mission_25_a_tt:0 "§Y[Root.Monarch.GetName]§! will send a letter to §YJoan§!.\n"
+EDG_flavor_BRI_mission.25.b_tt: "Only an emotionally stable §Y[Root.Monarch.GetName]§! can make §Ybetter judgments§!.\n"
+
+EDG_flavor_BRI_mission.26.title:0 "Joan's Reply"
+EDG_flavor_BRI_mission.26.desc:0 "My dear Gilles,\n\nYour letter lies before me, its words like searing flames that scorch my heart. I know each character I write may wound that precious heart of yours, yet I must speak truthfully.\n\nDo you remember our first meeting? In the campaign tent, you radiated the battlefield's fierce aura like Mars descended. And I, bearing what I believed was God's mission, crashed into your world - thus did fate intertwine us. Through years of shared battles and countless storms of steel, those precious moments have become indelible marks upon my life. Amidst this war-torn land and endless smoke of war, my heart and soul cannot escape your shadow. Those determined, burning eyes of yours gave me immeasurable courage on the battlefield. Behind every charge was your selfless support, a comradeship beyond words.\n\nWhen I read your passionate words, my heart was pierced as by a blade. Gilles, my beloved comrade, your sincere and fervent love moves me yet fills me with helplessness. But I must apologize - my heart, my soul, my entire being was long since consecrated to Almighty God. My life is vowed to the Father's work, leaving no room for else. I cannot return your affection, for I must follow my soul's calling.\n\nGilles, I'm deeply grateful for your love. Your sincerity shines like stars illuminating my earthly journey. Yet I must cruelly say I cannot reciprocate as you hope. This decision tortures me as if pierced by countless needles. I hate that my refusal will wound you, yet I cannot betray my conscience. I pray you understand. Your courage and passion will forever be heroic in my heart. Though our paths diverge, may our souls meet again in God's time. Whatever comes, I'll cherish our memories - you are my life's radiant light, never forgotten.\n\nForgive my inability to return your love. Let us carry this belated understanding forward in service to our faith. You are so brave, steadfast - a truly righteous and kind knight. I know your heart weeps for Bohemia's people; you're not the cold-blooded sinner you believe yourself to be. I trust you'll find true happiness with someone who can walk beside you. Though we may disagree, I believe your light won't dim - you'll find your own path to serve God.\n\nFinally, may God bless you with peace and prosperity through all storms.\n\n- Joan"
+EDG_flavor_BRI_mission.26.a:0 "\"May our Merciful Lord guide both our souls.\""
+EDG_flavor_BRI_mission.26.b:0 ""
+EDG_flavor_BRI_mission_26_a_tt:0 "§Y[Root.Monarch.GetName]§! is heartbroken, and must seek solace elsewhere.\n"
+
+EDG_flavor_BRI_mission.27.title:0 "A Certain Woman"
+EDG_flavor_BRI_mission.27.desc:0 "After Joan's rejection, Gilles plunged deeper into confusion and despair. While he accepted the reality, he couldn't face the sinner within - that butcher of Bohemia. This anguish stabbed his heart like a blade. Once standing beside the saintly maiden, he convinced himself he fought for faith; now bereft of his guiding moon, Joan's closing words only deepened his guilt. He felt like a lone star fading in the night sky. Seeking solace in wine brought no relief. That evening on the castle balcony, the wind stirred his silken robes as moonlight fell upon - but never into - his hollow heart.\n\nAs doubt consumed him, his young chief military advisor Charlotte interrupted like a gentle breeze: 'My Lord, they've arrested someone accused of witchcraft in town - your judgment is required.' Though disinterested, Gilles agreed to preside. In the tribunal's flickering candlelight, his gaze fixed on the prisoner and his heart lurched. The handsome face, weary yet sorrowful, clearly belonged to a woman disguised as a man. 'Your name?' 'François.' 'No, mademoiselle, your real name.' '...Francesca, Francesca Prelati.'\n\n'Why are you accused of witchcraft?' Gilles asked calmly, studying this Joan-like figure.\n\nFrancesca lifted her head with sudden resolve. 'I only sought to guide those in need, but was mistaken for a witch. My divinations harmed none - only offered hope.'"
+EDG_flavor_BRI_mission.27.a:0 "\"I pity your plight, but as you're homeless, I'd have you as my maid. You'll want for nothing.\""
+EDG_flavor_BRI_mission.27.b:0 "\"She's innocent - release her.\""
+EDG_flavor_BRI_mission.27.c:0 "\"What a cunning witch.\""
+EDG_flavor_BRI_mission_27_a_tt:0 "This event chain will continue as long as §Y[Root.Monarch.GetName]§! lives, and we'll see its conclusion.\n"
+EDG_flavor_BRI_mission_27_b_tt:0 "This event chain will end.\n"
+
+EDG_flavor_BRI_mission.28.title:0 "Kindred Spirits"
+EDG_flavor_BRI_mission.28.desc:0 "Deeply moved by Francesca Prelati's plight, Gilles ultimately chose to keep her as his maid at the castle. As days passed, their relationship grew increasingly intimate. Despite their difference in station, her wisdom and kindness gradually won Gilles over. They shared many joyful hours together - conversing by candlelight, exchanging dreams and troubles. Not only was Francesca as beautiful as Joan, she was also cultured and refined. Her laughter, like spring blossoms, slowly drew Gilles from his loneliness. Time with her felt dreamlike, his happiest days, making him forget religious conflicts, Joan, everything.\n\nUnder starlit skies, Nantes Castle stood with shifting shadows as night winds whispered endless emotions. Within these grand walls, Gilles found no peace. That familiar graceful figure before him wasn't Joan, yet represented not just an echo of past love but new happiness. When she approached like a songbird, his heart raced uncontrollably. His gaze lingered on her every smile, as if time stood still. Gathering courage, he murmured: 'I think of you constantly, wishing to share all my joys and sorrows. Her words still haunt me - do you understand?' Her voice, like morning dew, answered all his longing: 'She abandoned you, but you're my everything.' Francesca clasped his neck, passionately kissing his cheek. 'Forget her, Gilles. You don't yearn for her - you repent past sins. You're no sinner, just another of God's lost sheep.'\n\nBeneath gentle moonlight, they walked under starry skies, quietly enjoying each other's company. In their hearts, love flowed like ocean tides - sometimes calm, sometimes turbulent, but never ceasing.\n\nThat starry night, their passion became irresistible. Exchanging vows and kisses, all troubles seemed to vanish. Soon after, Francesca became pregnant, bringing Gilles immense joy. Then next morning, news spread of the Duchess' death - drowned mysteriously in her bath. Yet the Duke urgently announced his impending marriage to Francesca."
+EDG_flavor_BRI_mission.28.a:0 "\"Nothing shall stop me.\""
+EDG_flavor_BRI_mission.28.b:0 ""
+
+EDG_flavor_BRI_mission.29.title:0 "The Vanished Woman"
+EDG_flavor_BRI_mission.29.desc:0 "Time flowed silently onward, and gradually Francesca Prelati's figure became a familiar sight in the castle corridors - like warm sunlight piercing Gilles' shadowed heart. Her laughter echoed through kitchens like clear morning bells, sometimes drawing his gaze, sometimes brushing past his heart like a gentle breeze. Until one day, her belly gently swelled - both a miracle of life and fate's cruel epitome.\n\n'I shall weave you a dream,' Gilles whispered in her ear, his warm hand resting on that rounded curve, brimming with anticipation and tenderness. It was a season of waiting - the winding river clearing, seasonal flowers mingling their scents - yet the weight in his heart remained. But happiness proved fleeting. A sudden storm descended like a great black net over their lives. As Francesca's labor began, stars seemed blotted out by merciless clouds, the air thick with unknown fears.\n\nWhen darkness fell, Gilles' heart sank with it. Powerless, he could only keep anxious vigil by her bed, listening to her agonized cries. At dawn's first light, an infant's wail made his heart leap - this symbol of new life - yet tears of joy couldn't mask his terror. Francesca's body, having battled death itself, lay frighteningly fragile. Propped weakly on pillows, her eyes grew dimmer while the newborn basked in sunlight, offering fragile hope.\n\nBy midnight, all had left Francesca to rest. But come morning... she was gone."
+EDG_flavor_BRI_mission.29.a:0 "\"Where is she? WHERE IS SHE?!\""
+EDG_flavor_BRI_mission.29.b:0 ""
+
+EDG_flavor_BRI_mission.30.title:0 "Little Jeanne"
+EDG_flavor_BRI_mission.30.desc:0 "Gilles dispatched all available forces, yet none could find his wife Francesca Prelati. Cavalrymen returned dejectedly to report their failure.\n\nHow was this possible?!\n\nHe couldn't believe his Francesca had simply vanished into thin air - where could a weakened woman fresh from childbirth go?\n\nEven his most capable minister, Chief Military Advisor Charlotte, was at a loss. Grief-stricken, Gilles held the nameless infant Francesca had borne him late into the night.\n\nHe reflected on the two most important women in his life: first Joan, whose name was Jeanne; then his vanished wife Francesca. He'd loved yet lost them both - he couldn't lose his daughter too. He must protect her more fiercely than he'd guarded either. Whether from reconciliation with the past, resentment of the present, or hope for the future, the old Marshal of France named his newborn daughter -"
+EDG_flavor_BRI_mission.30.a:0 "\"Your name shall be Jeanne.\""
+EDG_flavor_BRI_mission.30.b:0 ""
+EDG_personality_BRI_white_rangna:0 "White Jeanne"
+EDG_personality_BRI_white_rangna_desc:0 "Gilles married a woman of unknown origin named Francesca Prelati, who bore him a daughter before mysteriously vanishing. After Francesca's disappearance, Gilles named the infant Jeanne. Following Gilles' assassination, the orphaned Jeanne endured a tragic childhood under the cruel regency of Charlotte. Yet despite these hardships, she never abandoned her faith in God or hope for a better life - a quality that would define her reign and earn her the epithet 'White Jeanne'."
+EDG_personality_BRI_white_rangna_die_desc: "The great White Jeanne has passed away. We will miss her..."
+
+EDG_personality_BRI_white_rangna2:0 "White Jeanne"
+EDG_personality_BRI_white_rangna2_desc:0 "Gilles married a woman of unknown origin named Francesca Prelati, who bore him a daughter before mysteriously vanishing. After Francesca's disappearance, Gilles named the infant Jeanne. Despite being gravely injured during the coup, Gilles did everything in his power to give Jeanne the best. Jeanne enjoyed a happy childhood and received an excellent education. She is full of hope for the future and empathizes deeply with the people, earning her the name 'White Jeanne' among them."
+EDG_personality_BRI_white_rangna2_die_desc: "The great White Jeanne has passed away. We will miss her..."
+
+EDG_flavor_BRI_mission.31.title:0 "Charlotte's Conspiracy"
+EDG_flavor_BRI_mission.31.desc:0 "In the Breton wilderness beneath the darkening sky, stars flickered like unextinguished hopes before dawn. The joyous laughter of Duke Gilles de Rais and his family echoed through a manor outside Retz, candlelight gently illuminating the ornate dining table. For one night, the ducal family knew perfect happiness - yet such bliss proves ever fleeting.\n\nAs merriment filled the halls, young Jeanne de Rais spotted soldiers encircling the estate. Gilles rushed out to confront them, only to freeze at a familiar face among the troops.\n\n'Charlotte? Why are you here?' Gilles paled, never imagining his closest friend and chief military advisor would lead armed men against his family.\n\n'Your incompetent rule ends tonight, Gilles!' Charlotte roared. 'You usurping traitor - you and your kin shall perish here! What right has a mere warrior, some petty baron of Nantes, to rule Brittany? You even lay with Satan's witch! I, Charlotte de Dreux, am Brittany's rightful ruler!'\n\nAt Charlotte's command, flames engulfed the manor. Gilles watched his family perish, unable to comprehend how betrayal had corroded their bond. The tragedy struck like sudden tempest, scattering happiness to ashes. As fire and smoke consumed all, seeds of hatred took root in darkness - Death itself seeming to claim their souls' keys.\n\nIn desperation, Gilles hid his children - including little Jeanne - beneath an unlit fireplace, barricading it with iron furnishings. As he placed the final piece, a burning beam crushed his spine. With dying breath, he gazed at Jeanne and whispered indistinct words she would never forget."
+EDG_flavor_BRI_mission.31.a:0 "\"Live on, my child.\""
+EDG_flavor_BRI_mission.31.b:0 "Fortunately, Gilles had a backup plan. Reinforcements from France arrived just in time."
+EDG_flavor_BRI_mission.31.b_tt: "Though gravely wounded, §YGilles§! survives.\n"
+EDG_flavor_BRI_mission.31.b_modifier: "Severely Wounded"
+
+EDG_flavor_BRI_mission.32.title:0 "Hope"
+EDG_flavor_BRI_mission.32.desc:0 "Charlotte de Dreux had executed his conspiracy perfectly.\n\nAt dawn the next day, [Root.GetName]'s ministers found Charlotte seated upon the ducal throne instead of their lord Gilles. Charlotte announced the death of Duke Gilles' family and proclaimed himself Brittany's rightful ruler. The courtiers glanced nervously at armed guards lining the hall, exchanging fearful looks.\n\n'The House of Retz still has an heir!'\n\nAll eyes turned to the palace entrance where a servant rushed in carrying a ten-year-old girl - unconscious but alive. This maid had found young Jeanne amidst the manor's smoldering ruins, miraculously unharmed though buried beneath debris. Charlotte stared at the child, shock and fury warring within him. By Breton succession laws, Jeanne was now the duchy's rightful ruler.\n\nThree days later when Jeanne awoke, she found Breton nobles at her bedside - and Charlotte entering with weapons still at his belt. The military strongman now controlled all armed forces. To accuse him meant certain death. Terrified of provoking a coup, Jeanne claimed to remember nothing of that fatal night. Charlotte forced her to appoint him Regent of Brittany. The girl burned with hatred toward her father's murderer, yet remained powerless."
+EDG_flavor_BRI_mission.32.a:0 "\"Father, someday I will have my vengeance.\""
+
+EDG_flavor_BRI_mission.33.title:0 "Little Jeanne's Gift"
+EDG_flavor_BRI_mission.33.desc:0 "Little Jeanne, daughter of Gilles and Francesca Prelati, had reached five years of age. With golden hair like sunlight and deep blue eyes resembling tranquil lakes, her bright intelligence shone through. One day, a foreign envoy arrived with complex diplomatic documents. To everyone's astonishment, young Jeanne approached and began reading fluently - not just pronouncing perfectly, but explaining the content with clarity. The envoy gaped, unable to believe such linguistic mastery in one so small. Unbeknownst to all, Jeanne had pestered court scholars to teach her various languages, absorbing their essence through remarkable memory and comprehension.\n\nHer mathematical gifts proved even more extraordinary. When the treasurer struggled with labyrinthine accounts, Jeanne bounded over, eyes alight at the columns of figures. Seizing a quill, she rapidly calculated, soon balancing the books while identifying several errors. The treasurer stood dumbfounded as if witnessing a miracle.\n\nNews of Jeanne's talents spread through the duchy, with people calling her a heaven-sent prodigy. Duke Gilles swelled with pride, yet understood the responsibility such gifts entailed."
+EDG_flavor_BRI_mission.33.a:0 "We await her greatness."
+EDG_flavor_BRI_mission.33.b:0 ""
+
+EDG_flavor_BRI_mission.34.title:0 "A Witch?"
+EDG_flavor_BRI_mission.34.desc:0 "Despite the years, Gilles could never forget that woman - Francesca Prelati, Joan's lookalike, his former wife and mother of little Jeanne. She had vanished as if never existing, leaving only endless sorrow... and their daughter.\n\nHe thought Francesca had disappeared forever, until one day Jeanne came running in tears, clutching a journal. Puzzled, Gilles took it - then recoiled seeing the cover: 'Francesca Prelati.'\n\nJeanne had found it hidden beneath her mother's old bed. Within lay evil runes and horrifying passages:\n\n'Between these rotting parchment folds whisper dark incantations of old. The moon hangs black as ink, night's shroud smothering the earth. In ancient graveyards I dig through cursed soil where bones and rot smell like Hell's first breath. My black cat cowers yet glows with infernal power.'\n\n'At midnight's twelfth toll, I don black robes entering the ruined chapel. Candles flicker, casting demonic shadows. Upon the altar lie twisted roots and dried bat wings - offerings to my Lord Satan. Blood drips from my fingers onto runes, igniting emerald flames - beacons to the abyss.'\n\n'The stars align wrong, heralding the forbidden hour. I chant archaic spells, words unknowable yet brimming with annihilation. The wind howls through trembling windows like tormented spirits. Satan's shadow manifests - cloven hooves, horns, sulfur stench - his gaze burning through my soul.'\n\n'I beg my Lord for vengeance's power. His voice like the void's roar grants dominion over life and death. Thus I mix viper venom with infant hair in a skull chalice. Each stir summons darker energies.'\n\n'By false dawn I depart bearing cursed artifacts. My heart overflows with hatred and dark devotion. This journal shall record every demonic pact, every spell of ruin, until the world drowns in darkness and Satan's glory smothers all light...'\n\nGilles recognized Francesca's handwriting. Had his wife been a Satanist heretic? A true witch behind kind words? Was Francesca Prelati Satan's avatar? Grief turned to rage - he'd fathered a child with this creature! 'Away!' He kicked Jeanne aside, her arm scraping the table's edge. Immediately regretting his outburst, Gilles gathered his weeping daughter, sobbing uncontrollably."
+EDG_flavor_BRI_mission.34.a:0 "\"Let us forget her...\""
+EDG_flavor_BRI_mission.34.b:0 ""
+
+EDG_flavor_BRI_mission.35.title:0 "The Secret Friend"
+EDG_flavor_BRI_mission.35.desc:0 "Sunlight streamed through stained glass into the grand hall, yet eleven-year-old Jeanne felt utterly alone. Her regent Charlotte - her family's murderer - still controlled Brittany. Though not mistreated and given ducal comforts, Jeanne remained isolated in a gilded cage, forbidden contact with others.\n\nOne day in the castle gardens, childish laughter led Jeanne to a girl her age chasing butterflies. This was Emma, a servant's daughter with sun-kissed skin and eyes bright with simple joy. Though initially nervous around the young duchess, Jeanne's warm smile soon put her at ease. They played among flowerbeds, sharing secrets - Jeanne confessing how courtly etiquette suffocated her, while Emma described bustling markets and street performers beyond castle walls.\n\nThereafter they became inseparable. Emma would sneak Jeanne past watchful eyes to taste town life's freedom, while Jeanne shared beloved books, teaching Emma to read. With her companion, Jeanne's gilded prison no longer felt so bleak. Emma became sunlight piercing Jeanne's shadows, illuminating both their childhoods."
+EDG_flavor_BRI_mission.35.a:0 "\"We'll be friends forever!\""
+EDG_flavor_BRI_mission.35.b:0 ""
+EDG_BRI_black_rangna_live_tt:0 "As long as §YJeanne§! lives, this event chain will continue.\n"
+
+EDG_flavor_BRI_mission.36.title:0 "Walls Have Ears"
+EDG_flavor_BRI_mission.36.desc:0 "She dreamed of Charlotte's blood-smeared face turning toward her, clutching her father's severed head which he flung at her - warm blood splashing across her face as chains held her paralyzed. Step by step Charlotte approached, pressing a rusted saw against her neck. Then - crunch by terrible crunch - he sawed through her flesh.\n\nJeanne awoke drenched in sweat.\nThis wasn't the first such nightmare. Charlotte had become her living horror - her family's murderer, her jailer, her puppet-master!\n\nUnable to bear it longer, Jeanne confided everything to Emma. Dragging her friend into the bedchamber, Jeanne bolted the door. 'He's the killer!' she sobbed after recounting the truth, tears streaming. They talked for hours, Emma comforting her that it was just a bad dream. But the true nightmare was coming.\n\nBANG!\n\nThe door smashed open. There stood Charlotte, veins bulging. 'Seize this bastard whelp,' he growled, pointing at Emma. Armored guards wrenched her up; when she struggled, an iron-gauntleted backhand sent teeth flying onto Jeanne's face. Charlotte loomed over the cowering duchess. 'Your Grace shouldn't play with vermin,' he spat. 'But fret not - I'll dispose of this treasonous bitch properly.'"
+EDG_flavor_BRI_mission.36.a:0 "\"What are you doing, Charlotte?!\""
+EDG_flavor_BRI_mission.36.b:0 ""
+
+EDG_flavor_BRI_mission.37.title:0 "The Torture Chamber"
+EDG_flavor_BRI_mission.37.desc:0 "That day, as Jeanne dined, Charlotte's soldiers stormed the hall and dragged her away. Through winding corridors and staircases they descended to a secret black chamber beneath the castle - a place even Jeanne never knew existed.\n\nIn the darkness they arrived at a cell. By flickering torchlight, Jeanne saw a frail figure bound to an X-shaped cross in the corner. Her tears welled as she recognized - \n\nEmma. Her dearest friend. Arrested by Charlotte for hearing Jeanne's secrets. Now unconscious, head lolled to one side, gagged with filthy rags. Jeanne couldn't fathom how this girl her age endured such torment. Her vision blurred as she bit her lip and clenched trembling fists.\n\n[...Content omitted...]\n\nFinally, only two sounds remained in the cell: the dripping of blood, and Jeanne's broken sobs."
+ EDG_flavor_BRI_mission.37.a:0 "......"
+ EDG_flavor_BRI_mission.37.b:0 ""
+EDG_flavor_BRI_mission_black_rangna_adm_tt:0 "Jeanne has become more §Yastute§!, improving her administrative skills."
+EDG_flavor_BRI_mission_black_rangna_dip_tt:0 "Jeanne has become more §Yarticulate§!, improving her diplomatic skills."
+EDG_flavor_BRI_mission_black_rangna_mil_tt:0 "Jeanne has become more §Yresilient§!, improving her military skills."
+
+EDG_flavor_BRI_mission.38.title:0 "Léo de Rennes"
+EDG_flavor_BRI_mission.38.desc:0 "Léo, scion of House de Rennes and heir to the County of Rennes, shared endless conversations and lessons with young Jeanne. They played and studied together in the castle halls.\n\nOne summer afternoon, thunder rumbled as they played beneath the eaves. A faint chirping led them to a fallen fledgling jay. Jeanne cradled the bird with tearful eyes: 'It's hurt! What do we do?' Léo puffed his chest: 'We'll care for it!' They rushed inside for soft cloths and herbs - Léo tenderly dressing its wounds while Jeanne stroked its feathers. When the healed bird finally flew free under clearing skies, they shared a joyful smile.\n\nWinter brought snow blanketing Brittany. Léo excitedly dragged Jeanne outside to build a snowman with stone eyes and carrot nose. A sudden gust sent Jeanne tumbling into a snowdrift. 'Don't be scared!' Léo cried, stretching flat to pull her out. Though shaken, Jeanne laughed at Léo's worried face.\n\n'See? I keep my promises, my little jay.'"
+EDG_flavor_BRI_mission.38.a:0 "\"Thank you, Léo.\""
+EDG_flavor_BRI_mission.38.b:0 ""
+
+EDG_flavor_BRI_mission.39.title:0 "All Good Things Must End"
+EDG_flavor_BRI_mission.39.desc:0 "Léo de Rennes and Gilles' youngest daughter Jeanne grew up together as closest friends. But the day came when a messenger brought news of Léo's father's death - the Count of Rennes was gone. Now Léo himself must assume the title and leave Jeanne behind.\n\nOn their final morning, Léo stood resplendent in comital robes that couldn't mask his sorrow. Beside him, Jeanne wore simple mourning dress, equally heartbroken. Dawn's light fell upon them, powerless against their gloom. Léo approached as if dragging weights, gently taking Jeanne's trembling hands - vessels for all their unspoken pain.\n\n'Jeanne, I...' Léo's voice cracked, words failing him. She looked up with reddened eyes, tears held back by sheer will. 'I know. Your duties call you home.' Léo gazed into eyes brimming with love and resignation. 'Who knows when we'll meet again - but my heart remains here with you.' Jeanne forced a smile. 'Be well - rule wisely as count.'\n\nAttendants discreetly withdrew as morning breezes played with Jeanne's hair. Léo couldn't resist tucking one stray lock behind her ear, touch lingering.\n\nThen came the horses' impatient whinnies. With one last look, Léo released her hands and mounted up. From his saddle, he saw Jeanne still standing alone - so small against the castle stones."
+EDG_flavor_BRI_mission.39.a:0 "\"We'll meet again.\""
+EDG_flavor_BRI_mission.39.b:0 ""
+
+EDG_flavor_BRI_mission.40.title:0 "\"I've Returned, My Little Jay.\""
+EDG_flavor_BRI_mission.40.desc:0 "That morning dawned bright and clear. Jeanne stood atop the garden terrace, maintaining her facade of strength as she gazed toward the horizon. As she turned to leave, her eyes fell upon the old snowdrift - the very pit where Léo de Rennes had pulled her to safety years ago. Léo... how she longed to see him again. Her gloves creaked in her clenched fist. He would never return, and she might not live long enough to see him - her coming-of-age approached, and Charlotte would never permit her to rule. Visions of Emma's flayed corpse haunted her. The temptation to end her own life grew overwhelming as she numbly approached the pit's edge.\n\nThen - hurried footsteps behind her, and a strong hand seized her wrist.\n\n'What are doing, my lady?' The voice was unmistakably male, hauntingly familiar. Jeanne whirled around - their eyes met - her pupils dilating in shock.\n\nThat silhouette... the very one who'd saved her from this pit long ago.\n\n'I've returned, my little jay.'"
+EDG_flavor_BRI_mission.40.a:0 "\"Does he still wish to save me?\""
+EDG_flavor_BRI_mission.40.b:0 ""
+
+EDG_flavor_BRI_mission.41.title:0 "The Opportunity"
+EDG_flavor_BRI_mission.41.desc:0 "After Emma's brutal death, Jeanne had scoured the castle for a truly secret place - finally discovering a hidden cave behind the garden waterfall. There she brought Léo de Rennes, revealing Charlotte's atrocities.\n\n'That such a beast wears human skin!' Léo struck the cavern wall in fury. 'He named me his chamberlain - the shame burns me!' \n\n'My majority approaches,' Jeanne wept, 'but he'll never let me live to rule. Will you help me?'\n\n'The honor would be mine, my lady. I'll resign at once, raise Rennes' levies, and storm Nantes to free you!'\n\n'No - as his trusted chamberlain, you must stay. Win his confidence. I have a plan requiring no armies.'\n\n'Your will commands me, my little jay.'"
+EDG_flavor_BRI_mission.41.a:0 "\"Then our plan is thus...\""
+EDG_flavor_BRI_mission.41.b:0 ""
+
+EDG_flavor_BRI_mission.42.title:0 "The Coming of Age"
+EDG_flavor_BRI_mission.42.desc:0 "Recently, Jeanne had conveyed her intent to abdicate to Charlotte de Dreux - promising to formally surrender the Breton crown to him on her majority day in exchange for her life. Pleased, Charlotte prepared extensively for what was publicly announced as Jeanne's coming-of-age ceremony, but secretly planned as his own coronation.\n\nOn the appointed day, Charlotte processed toward the palace in full regalia. The road from barracks to throne room bristled with guards - infantry to the left, cavalry to the right. Léo de Rennes, having served diligently as Chamberlain to earn Charlotte's trust, walked armored before him. Many in Charlotte's guard owed their positions to Léo's recommendations. Inside the great hall, Jeanne stood holding Brittany's crown, awaiting the usurper.\n\nAs Charlotte reached the dais, Jeanne raised the crown high, drawing all eyes. Seeing Léo's hand settle on his sword-hilt, she cried out:"
+EDG_flavor_BRI_mission.42.a:0 "\"Guards, to arms!\""
+EDG_flavor_BRI_mission.42.b:0 "\"But Charlotte was prepared.\""
+
+EDG_flavor_BRI_mission.43.title:0 "Regicide"
+EDG_flavor_BRI_mission.43.desc:0 "Before the echo faded, Léo's blade flashed - severing Charlotte's unarmored neck in one stroke. The usurper's head tumbled across marble floors, blood blooming like crimson flowers where it fell. Courtiers and guards stood paralyzed, time itself seeming to freeze. Before Charlotte's men could react, Léo's handpicked guards encircled the dais, shielding Jeanne and Léo. The remaining witnesses stood dumbstruck, exchanging bewildered glances."
+EDG_flavor_BRI_mission.43.a:0 "\"With Charlotte dead, the rest shall be spared!\""
+
+EDG_flavor_BRI_mission.433.title:0 "The Doll Bride"
+EDG_flavor_BRI_mission.433.desc:0 "Thud... thud-thud.\n\nHeavy footsteps echoed down the corridor before halting at the chamber door. The oaken portal creaked open as maids silently withdrew, leaving only the visitor and 'myself' within.\n\nEven without looking up from the vanity mirror, 'I' knew who stood behind me.\n\n'How beautiful, Jeanne.' That rich voice coiled around my bare shoulders like a serpent, constricting my withered heart and dying soul. Calloused hands - more accustomed to sword grips - seized my swan-like neck, tilting my chin upward to face the mirror. 'My bride, behold yourself - exquisite as a... doll.'\n\nThe silvered glass reflected a bridal-clad maiden, her head jerked upward like a marionette. The white veil slipped askew from her expressionless face. Delicate lace at her throat lay crumpled under masculine fingers. Ah... at last I understood - this violated, trembling doll was me.\n\nCharlotte's left hand encircled my waist, forcing another tremulous glance that burned his hateful visage into my eyes. His right hand caressed my alabaster cheek before plunging into platinum hair, lifting golden strands to his nose. 'You'll be Brittany's bride, my dear.' His lover's whisper mocked my lifeless eyes as they watched my lips tremble."
+EDG_flavor_BRI_mission.433.a:0 "The man plucked the white lily from his lapel, fastening it to the doll's golden tresses."
+EDG_flavor_BRI_mission_433a_tt: "Thus did §YCharlotte§! consolidate his regime, overturning all §YFrancization policies§! to return @BRI §MBrittany§! to its §YCeltic roots§!.\n"
+
+EDG_flavor_BRI_mission.44.title:0 "The Reckoning"
+EDG_flavor_BRI_mission.44.desc:0 "Crown in hand, Jeanne stood resolute - pale yet unwavering, her gaze locking with Léo's in silent understanding. He stood like a war-god incarnate, bloodied sword radiating valor.\n\nThe hall held its breath until Jeanne stepped forward, voice ringing clear: 'Charlotte's tyranny ends with his deserved fate. Today marks Brittany's rebirth!' Murmurs swelled into roaring cheers of 'Long live Queen Jeanne!'\n\nDays later, golden sunlight bathed the coronation. Jeanne processed in solemn black robes toward the throne - her 'Black Jeanne' epithet born from this dark regalia. Léo followed in full armor, eyes fixed on her with devotion.\n\nAs Jeanne assumed Brittany's throne, the crowd erupted. Surveying her people, she rose and approached kneeling Léo, taking his hand with tear-bright eyes: 'Without you, neither I nor Brittany would stand here today. You were my light in darkness, my strength's wellspring.'\n\nLéo looked up, gaze burning with conviction."
+EDG_flavor_BRI_mission.44.a:0 "\"For you, my little jay.\""
+EDG_flavor_BRI_mission.44.b:0 ""
+EDG_flavor_BRI_mission.44.a_tt: "As daughter of a §MFrench Marshal§!, how will §YJeanne§! shape @BRI §YBrittany's§! future?\n"
+
+EDG_flavor_BRI_mission.45.title:0 "Charlotte's Tyranny"
+EDG_flavor_BRI_mission.45.desc:0 "Our regent Charlotte has grown deeply unpopular, cruelly raising taxes on peasants and artisans to line his own pockets, funding his extravagant lifestyle while the people suffer."
+EDG_flavor_BRI_mission.45.a:0 "\"With such corrupt ministers, what can I do?\""
+EDG_flavor_BRI_mission.45.b:0 ""
+
+EDG_flavor_BRI_mission.46.title:0 "Celticization"
+EDG_flavor_BRI_mission.46.desc:0 "Another region has embraced Celtic culture, completing our cultural assimilation of the area."
+EDG_flavor_BRI_mission.46.a:0 "\"Excellent.\""
+EDG_flavor_BRI_mission.46.b:0 ""
+
+EDG_flavor_BRI_mission.47.title:0 "Gallic Monarchy"
+EDG_flavor_BRI_mission.47.desc:0 "Having reestablished the Gallic Kingdom, our new realm requires its own power structure."
+EDG_flavor_BRI_mission.47.a:0 "\"The King's authority shall be absolute.\""
+EDG_flavor_BRI_mission.47.b:0 "\"We should restore Gallic traditions.\""
+
+EDG_flavor_BRI_mission.48.title:0 "White Jeanne and Gaul"
+EDG_flavor_BRI_mission.48.desc:0 "Our Queen, White Jeanne, was raised with Celtic traditions yet inherited her father's French aspirations. Between these, she forged a compromise - Gaul. She proclaimed all Frenchmen should become Gauls, aiming to assimilate the entire French cultural sphere. Despite enduring great hardships, she never lost her optimism nor treated her people cruelly."
+EDG_flavor_BRI_mission.48.a:0 "\"For [Root.GetName], I give myself willingly.\""
+EDG_flavor_BRI_mission.48.b:0 "\"This is too extreme.\""
+EDG_flavor_BRI_mission_48_a_tt:0 "Each '§YCelticization§!' event may additionally convert one §YFrench§! culture province. §g(If eligible provinces exist)§!\n"
+
+EDG_flavor_BRI_mission.49.title:0 "Daughter of a Witch?"
+EDG_flavor_BRI_mission.49.desc:0 "[Root.Monarch.GetName] found solace in her mother's return, finally meeting the woman who bore her. Their nightly conversations brought joy, but recently, vile rumors have spread like plague through the streets - whispers that her mother Francesca Prelati was a Satanic witch, and [Root.Monarch.GetName] herself a monstrous offspring of darkness. The rumors stem from Francesca's mysterious disappearance after childbirth and the alleged discovery of her black magic journal - which Jeanne herself had found and given to her father Gilles. Though knowing some truth behind these claims, Jeanne burns with rage at such slander against her mother. Both Francesca and $Consort$ try comforting her, arguing the accusations lack proof, but their words do little to quell her fury - especially when guards deliver a list of the rumor-mongers."
+EDG_flavor_BRI_mission.49.a:0 "\"I'll make them regret this...\""
+EDG_flavor_BRI_mission.49.b:0 "\"The wise mind stays silent.\""
+
+EDG_flavor_BRI_mission.50.title:0 "Dealing with Rumormongers"
+EDG_flavor_BRI_mission.50.desc:0 "With a mere wave of her hand, she consigned them to the dungeons. She wouldn't become another Charlotte - not for her father's memory, nor her family's sake. Jeanne recalled her tormented father wrestling with faith and sin, those brief happy moments with her family, and Léo who pulled her from despair. These memories stayed her hand from executing common folk. After all..."
+EDG_flavor_BRI_mission.50.a:0 "\"We are but lost sheep.\""
+EDG_flavor_BRI_mission.50.b:0 ""
+EDG_flavor_BRI_mission_50_a_ruler_modifier: "Touched by Grace"
+
+EDG_flavor_BRI_mission.51.title:0 "The Woman in Black"
+EDG_flavor_BRI_mission.51.desc:0 "One day, a mysterious black-cloaked woman sought audience with Jeanne, claiming knowledge about her mother. With trepidation, Jeanne received her. The stranger spoke in a hoarse whisper:\n\n'Your Majesty, do you remember your mother's face?'\n\n'Of course not,' Jeanne bristled. 'She left when I was born. How could I?'\n\n'So it seems, Majesty.' The woman lowered her hood, revealing a wrinkled face of about fifty winters."
+EDG_flavor_BRI_mission.51.a:0 "\"Then who are you?\""
+EDG_flavor_BRI_mission.51.b:0 ""
+
+EDG_flavor_BRI_mission.52.title:0 "The Response"
+EDG_flavor_BRI_mission.52.desc:0 "\"Who I am matters not, Your Majesty,\" she answered slowly. \"I could be anyone - whom you wish to see, or dread to see; whom you love, or despise. I am insignificant. What matters is - do you seek your mother's truth?\""
+EDG_flavor_BRI_mission.52.a:0 "\"Can you give me answers?\""
+EDG_flavor_BRI_mission.52.b:0 "\"No. I hate her and everything about her.\""
+
+EDG_flavor_BRI_mission.53.title:0 "As You Wish"
+EDG_flavor_BRI_mission.53.desc:0 "\"Is this truly your will?\" The woman's face fell with sorrow.\n\n\"Yes, be gone.\"\n\n\"As you command. Farewell, my dear Majesty.\""
+EDG_flavor_BRI_mission.53.a:0 "\"Farewell forever.\""
+EDG_flavor_BRI_mission.53.b:0 ""
+
+EDG_flavor_BRI_mission.54.title:0 "The Truth?"
+EDG_flavor_BRI_mission.54.desc:0 "Fifty years past, the King of Navarre sired a bastard daughter with a Gascon peasant - like all his illegitimate offspring, this unnamed girl was hidden away. Trained by his spymaster Skvensen as a tool for interfering in southern France, she was taught witchcraft, divination and dark arts by an imprisoned sorceress to disguise their covert operations.\n\nIn that cell, the witch taught her literacy while jailers forced her to copy Satanic prayers as future evidence. Page after page she transcribed until it formed a journal. Though also a prisoner, the witch grew fond of her, naming her Francesca and sharing her surname. 'Obey and survive,' the witch urged, 'freedom will come.'\n\nThe witch spoke true. One night, cultists stormed the prison - the witch's followers who freed their mistress. She convinced Francesca to flee with her, hoping to pass on her knowledge. But Francesca refused the dark path, escaping alone into the night.\n\nNow free yet destitute, Francesca wandered as a fortune-teller, avoiding the black arts she'd learned. Her travels led to Nantes where she met the Duke of Brittany. Their marriage and daughter brought happiness - until the witch reappeared on her birthing bed, emerging from shadows with enchanted powders.\n\nFrancesca awoke imprisoned in the cult's stronghold. For twenty-five years the witch tried turning her to Satan's service, but she resisted."
+EDG_flavor_BRI_mission.54.a:0 "\"Is she alive? Where is she now?\""
+EDG_flavor_BRI_mission.54.b:0 ""
+
+EDG_flavor_BRI_mission.55.title:0 "Revelation"
+EDG_flavor_BRI_mission.55.desc:0 "The witch nodded.\n\n\"Would you love me once more, my child?\""
+EDG_flavor_BRI_mission.55.a:0 "\"I'll always love you, Mother.\""
+EDG_flavor_BRI_mission.55.b:0 "\"Seize this impostor!\""
+
+# EDG_flavor_BRI_mission.56.title:0 "The Great Celtic Church?"
+# EDG_flavor_BRI_mission.56.desc:0 "Gaul's rise is undeniable - from French backwater to continental powerhouse. Our people swell with national pride, fueling military triumphs and ideological distinction. Now Britain stirs with radical clergy advocating a Celtic Church, where local sovereigns - not some distant Latin Pope - lead their faithful. Such consolidation of spiritual authority intrigues [Root.Monarch.GetName] greatly."
+# EDG_flavor_BRI_mission.56.a:0 "\"This is our destiny.\""
+# EDG_flavor_BRI_mission.56.b:0 "\"This path has no return.\""
+# EDG_flavor_BRI_mission_56_a_tt:0 "All provinces of §YGaulish§! culture will convert to the §YGreat Celtic Church§!"
+
+EDG_mission_BRI_1_2_title:0 "Trilingual Dictionary"
+EDG_mission_BRI_1_2_desc:0 "Language is the essence of a people. The evolution of vocabulary, traditions and customs through time proves the resilience of our nation. Brittany requires a dictionary written in Latin, French and Breton to govern our diverse subjects."
+
+EDG_mission_BRI_1_4_title:0 "Official Language"
+EDG_mission_BRI_1_4_desc:0 "Brittany must establish an official language for government administration and official documents."
+
+EDG_mission_BRI_1_6_title:0 "Cultural Identity" # Promote Cultural Identity
+EDG_mission_BRI_1_6_desc:0 "Despite our greatness, many nations and peoples remain unaware of Brittany's prominence. Let them understand and respect us."
+
+EDG_mission_BRI_1_9_title:0 "Reunion with the Britons"
+EDG_mission_BRI_1_9_desc:0 "A millennium ago, the wicked Anglo-Saxons invaded Britain, driving out the Britons. We are descendants of those who crossed the sea, and now we have finally returned to our ancestral lands."
+
+EDG_mission_BRI_1_10_title:0 "Echo of the Gaels"
+EDG_mission_BRI_1_10_desc:0 "Though some claim the northern Gaels are not truly Celtic brethren, we know better - like us, they are this land's chosen children. Why not invite them to join our cause?"
+
+EDG_mission_BRI_1_13_title:0 "Crossing the Rhine"
+EDG_mission_BRI_1_13_desc:0 "Scholars argue the Rhine is our natural border. True enough - a millennium ago, Celtic ancestors shared these lands with Germanic tribes."
+
+EDG_mission_BRI_1_14_title:0 "Invasion of Alemannia"
+EDG_mission_BRI_1_14_desc:0 "Our great forebears came to Gaul fleeing Germanic invasions. Now it's our turn to invade Alemannia."
+
+EDG_mission_BRI_1_16_title:0 "Revive the Gallic Spirit"
+EDG_mission_BRI_1_16_desc:0 "Arise, O Gauls, and reclaim your glory!"
+
+EDG_mission_BRI_1_17_title:0 "The Spirit of Vercingetorix"
+EDG_mission_BRI_1_17_desc:0 "Vercingetorix, son of the Arverni chieftain, led the Gallic people in their final stand against Caesar's invading forces. His name means 'King of Warriors' in Celtic. Possessing rare political acumen among Gauls, he understood unity was their only hope against Rome. For years he negotiated with dozens of tribes, forging an unprecedented alliance across central and northern Gaul - hundreds of tribes united under one banner: 'Free Gaul.'"
+
+EDG_mission_BRI_1_19_title:0 "Forts and Colonies" # Forts and Military Colonies
+EDG_mission_BRI_1_19_desc:0 "Here we shall plant a fortress, there establish a military settlement..."
+
+EDG_mission_BRI_1_21_title:0 "Land of Wine"
+EDG_mission_BRI_1_21_desc:0 "Let our bouquet conquer the world!"
+
+EDG_mission_BRI_1_23_title:0 "Naval Logistics"
+EDG_mission_BRI_1_23_desc:0 "Our navy requires extensive logistical support while sailing the seas."
+
+EDG_mission_BRI_1_24_title:0 "Navarrese Whalers"
+EDG_mission_BRI_1_24_desc:0 "The Navarrese are both fond of and exceptionally skilled at whaling - professional work should be left to professionals."
+
+EDG_mission_BRI_1_25_title:0 "Gallic Channel"
+EDG_mission_BRI_1_25_desc:0 "The French call this strait 'La Manche.' I say it should now be called the Gallic Channel - how else shall we proclaim our greatness?"
+
+EDG_mission_BRI_2_1_title:0 "The New Army"
+EDG_mission_BRI_2_1_desc:0 "With Gilles newly arrived and the borrowed French troops returned home, it's time to raise a new fighting force."
+
+EDG_mission_BRI_2_2_title:0 "Court Intrigues"
+EDG_mission_BRI_2_2_desc:0 "The Breton court echoes daily with competing voices and arguments - it's time to silence them all for a while."
+
+EDG_mission_BRI_2_3_title:0 "Promote Mother Tongue" # Establish Official Language
+EDG_mission_BRI_2_3_desc:0 "The official language shall be the tongue of our people - whether Latin, Breton, or French matters not."
+
+EDG_mission_BRI_2_4_title:0 "The French Question"
+EDG_mission_BRI_2_4_desc:0 "Good heavens, our country is full of Frenchmen - hardly surprising!"
+
+EDG_mission_BRI_2_6_title:0 "Appanage Integration"
+EDG_mission_BRI_2_6_desc:0 "The French kings never succeeded in integrating the appanages - likely we won't either. A military lesson seems necessary."
+
+EDG_mission_BRI_2_7_title:0 "One Nation, One Language"
+EDG_mission_BRI_2_7_desc:0 "A single nation requires a single tongue."
+
+EDG_mission_BRI_2_9_title:0 "Liberate Ireland"
+EDG_mission_BRI_2_9_desc:0 "First ravaged by Vikings, then invaded by the French - Ireland lies in ruins. We come not for war, but for peace."
+
+EDG_mission_BRI_2_11_title:0 "Unify Celtica"
+EDG_mission_BRI_2_11_desc:0 "All lands where Celts dwell shall be called Celtica. We come for the welfare of all Celtic peoples."
+
+EDG_mission_BRI_2_13_title:0 "Cross the Matterhorn"
+EDG_mission_BRI_2_13_desc:0 "The Matterhorn stands tallest among Alpine peaks - and we shall conquer her too!"
+
+EDG_mission_BRI_2_14_title:0 "Dance of Vienna"
+EDG_mission_BRI_2_14_desc:0 "Let Vienna dance with abandon!"
+
+EDG_mission_BRI_2_17_title:0 "Wild Hunt Gathering"
+EDG_mission_BRI_2_17_desc:0 "The Wild Hunt Gathering is a traditional Gallic event for tribal bonding and recreational hunting."
+
+EDG_mission_BRI_2_18_title:0 "A Valiant People"
+EDG_mission_BRI_2_18_desc:0 "We stand resolute, unwavering in our cultural traditions - truly a valiant people."
+
+EDG_mission_BRI_2_19_title:0 "Pinnacle of Europe"
+EDG_mission_BRI_2_19_desc:0 "We can proudly declare that the Bretons now stand atop Europe!"
+
+EDG_mission_BRI_2_20_title:0 "Never to Fall"
+EDG_mission_BRI_2_20_desc:0 "Build more forts, and we shall never fall."
+
+EDG_mission_BRI_2_21_title:0 "Artichokes and Faience"
+EDG_mission_BRI_2_21_desc:0 "We must strongly support our nation's excellent veteran artisans."
+
+EDG_mission_BRI_2_22_title:0 "Quatre-Villes and Peoples"
+EDG_mission_BRI_2_22_desc:0 "When it comes to urban development, more is always better."
+
+EDG_mission_BRI_2_23_title:0 "Treasury Reserves"
+EDG_mission_BRI_2_23_desc:0 "Maintaining full state coffers at all times is crucial."
+
+EDG_mission_BRI_2_24_title:0 "Labor Importation"
+EDG_mission_BRI_2_24_desc:0 "Alas, our population is too small - let's invite some Lowlanders to join us."
+
+EDG_mission_BRI_2_25_title:0 "Urbanization"
+EDG_mission_BRI_2_25_desc:0 "Urbanization is an inevitable tide of progress."
+
+EDG_mission_BRI_3_2_title:0 "Alliance Webs"
+EDG_mission_BRI_3_2_desc:0 "In these turbulent times in France, if we wish to survive we must weave alliance webs to overcome stronger foes."
+
+EDG_mission_BRI_3_4_title:0 "March on Paris"
+EDG_mission_BRI_3_4_desc:0 "Indeed, the simplest solution is to strike straight at Paris."
+
+EDG_mission_BRI_3_5_title:0 "A New Era"
+EDG_mission_BRI_3_5_desc:0 "With the decline of old France and our rise, a new era has begun on French soil."
+
+EDG_mission_BRI_3_6_title:0 "Eastern Marches"
+EDG_mission_BRI_3_6_desc:0 "The east is our first line of defense against the Empire - of utmost importance."
+
+EDG_mission_BRI_3_8_title:0 "Mend the Broken Crown"
+EDG_mission_BRI_3_8_desc:0 "Once there was a great kingdom here, shattered by time. Now we shall restore it and reforge its glory!"
+
+EDG_mission_BRI_3_9_title:0 "Cross the Pyrenees"
+EDG_mission_BRI_3_9_desc:0 "Everyone wants to cross the Pyrenees these days."
+
+EDG_mission_BRI_3_10_title:0 "Masters of Porto"
+EDG_mission_BRI_3_10_desc:0 "Porto is a vital Iberian port - we really must control her."
+
+EDG_mission_BRI_3_12_title:0 "Boundless Frontiers"
+EDG_mission_BRI_3_12_desc:0 "Like our Celtic ancestors a thousand years ago, we go where we please! The horizon is limitless, and so are our borders!"
+
+EDG_mission_BRI_3_13_title:0 "Cross the Meuse"
+EDG_mission_BRI_3_13_desc:0 "The Lowlanders' time is running short."
+
+EDG_mission_BRI_3_14_title:0 "Flood Frisia"
+EDG_mission_BRI_3_14_desc:0 "Frisia lies low, and its peasants are unruly. A good flooding might teach them proper manners."
+
+EDG_mission_BRI_3_15_title:0 "Augustus of the West"
+EDG_mission_BRI_3_15_desc:0 "O glorious Rome! Where Caesar once conquered Gaul, now Gaul conquers Rome - let us carve our triumphs in stone!"
+
+EDG_mission_BRI_3_16_title:0 "New Art of War"
+EDG_mission_BRI_3_16_desc:0 "The times are changing, my lord."
+
+EDG_mission_BRI_3_17_title:0 "Raise the New Army"
+EDG_mission_BRI_3_17_desc:0 "A new standing army is crucial - this is Europe's military progress."
+
+EDG_mission_BRI_3_18_title:0 "Rennes Martial Academy" #Rennes Military Academy
+EDG_mission_BRI_3_18_desc:0 "Military academies are vital for training officer candidates - we must build several properly."
+
+EDG_mission_BRI_3_19_title:0 "Establish the Marquisate"
+EDG_mission_BRI_3_19_desc:0 "The Marquisate is our new strategic system - led by an excellent, obedient general wholly devoted to the motherland."
+
+EDG_mission_BRI_3_21_title:0 "Social Petition"
+EDG_mission_BRI_3_21_desc:0 "Our citizens willingly contribute to the state, voluntarily surrendering their incomes."
+
+EDG_mission_BRI_3_23_title:0 "Agricultural Development"
+EDG_mission_BRI_3_23_desc:0 "Agriculture is the nation's foundation - the more the better."
+
+EDG_mission_BRI_3_25_title:0 "Fires of Industry"
+EDG_mission_BRI_3_25_desc:0 "Factories - the more the better."
+
+EDG_mission_BRI_4_1_title:0 "The New Duke"
+EDG_mission_BRI_4_1_desc:0 "Thanks to the French king's aid, Gilles has seized the Duchy of Brittany. Now it's time to repay the favor."
+
+EDG_mission_BRI_4_2_title:0 "Ripples Unsettled"
+EDG_mission_BRI_4_2_desc:0 "Uneasy news from Paris - a bloody coup is unfolding. We must see if we can seize this opportunity."
+
+EDG_mission_BRI_4_3_title:0 "Diplomatic Maneuvering"
+EDG_mission_BRI_4_3_desc:0 "Our allies within France alone are insufficient - we must seek worthy foreign allies to aid our cause."
+EDG_mission_BRI_4_3_modifier_DD: "The Diplomat"
+
+EDG_mission_BRI_4_4_title:0 "Royalist Vanguard"
+EDG_mission_BRI_4_4_desc:0 "Alas, the French king must have been misled by treacherous advisors to entertain such fanciful notions of weakening the appanages. We must hasten to Paris to reason with him."
+
+EDG_mission_BRI_4_6_title:0 "Raid on Aix"
+EDG_mission_BRI_4_6_desc:0 "Aix stands as one of the wealthiest southern cities - we must strike immediately."
+
+EDG_mission_BRI_4_7_title:0 "Unify France"
+EDG_mission_BRI_4_7_desc:0 "France is great, and in our hands she shall become greater still."
+
+EDG_mission_BRI_4_9_title:0 "Impregnable Stronghold"
+EDG_mission_BRI_4_9_desc:0 "Heavens! This is our frontline against the enemy - build forts quickly!"
+EDG_mission_BRI_4_9_tt2: "Unlocks decision to §JCelticize§! the regions of §YGalicia§!, §YCastile§!, §YNorthern Castile§!, and §YLeón§!.\n"
+DD_BRI_celtic_north_iberea_title: "£adm£§YCelticize§! Iberia"
+DD_BRI_celtic_north_iberea_desc: "Through encouragement and re-education, we can make Celtic culture flow through this land once more."
+
+EDG_mission_BRI_4_10_title:0 "Conquer Toledo"
+EDG_mission_BRI_4_10_desc:0 "Iberians? Kill them all."
+
+EDG_mission_BRI_4_11_title:0 "Dismantle Al-Andalus"
+EDG_mission_BRI_4_11_desc:0 "Moorish remnants? Kill them all."
+
+EDG_mission_BRI_4_13_title:0 "Cross the Alps"
+EDG_mission_BRI_4_13_desc:0 "Swiss mountains so tall? Kill them all."
+
+EDG_mission_BRI_4_14_title:0 "Italian Wars"
+EDG_mission_BRI_4_14_desc:0 "Italy so rich? Kill them all."
+
+EDG_mission_BRI_4_17_title:0 "Bayonets & Musketry"
+EDG_mission_BRI_4_17_desc:0 "Our tactics are invincible."
+
+EDG_mission_BRI_4_18_title:0 "Latin Tercio"
+EDG_mission_BRI_4_18_desc:0 "Spanish squares? Not even worth comparing."
+
+EDG_mission_BRI_4_19_title:0 "Military Elite Class"
+EDG_mission_BRI_4_19_desc:0 "Serve the nation well? Rewards will flow."
+
+EDG_mission_BRI_4_20_title:0 "Royal War Council"
+EDG_mission_BRI_4_20_desc:0 "More people in meetings! The longer leaders talk, the more useful it becomes."
+
+EDG_mission_BRI_4_21_title:0 "Triple Cathedrals"
+EDG_mission_BRI_4_21_desc:0 "Churches improve health. Build more."
+
+EDG_mission_BRI_4_22_title:0 "Gallic Primate"
+EDG_mission_BRI_4_22_desc:0 "The Papacy must obey. Find a compliant Archbishop."
+
+EDG_mission_BRI_4_23_title:0 "Monastic Vineyards"
+EDG_mission_BRI_4_23_desc:0 "Not profiting from this would be inhuman. I'll make this wine myself."
+
+EDG_mission_BRI_4_24_title:0 "Auvergne Steel"
+EDG_mission_BRI_4_24_desc:0 "Damn, that's good steel."
+
+EDG_mission_BRI_4_25_title:0 "World Smelting Hub" # World Smelting Center
+EDG_mission_BRI_4_25_desc:0 "Damn, that's a lot of steel."
+
+EDG_mission_BRI_5_2_title:0 "Nibble at the Lords"
+EDG_mission_BRI_5_2_desc:0 "Feudal lords? Kill them all."
+
+EDG_mission_BRI_5_3_title:0 "The Root Problem"
+EDG_mission_BRI_5_3_desc:0 "Kill kill kill kill kill."
+
+EDG_mission_BRI_5_6_title:0 "Reclaim Aquitaine"
+EDG_mission_BRI_5_6_desc:0 "Aquitaine? Kill."
+
+EDG_mission_BRI_5_9_title:0 "Charlemagne's Southern March"
+EDG_mission_BRI_5_9_desc:0 "Brittany strikes."
+
+EDG_mission_BRI_5_10_title:0 "Reconquer Valencia"
+EDG_mission_BRI_5_10_desc:0 "Valencia? Kill."
+
+EDG_mission_BRI_5_13_title:0 "Cross Gibraltar"
+EDG_mission_BRI_5_13_desc:0 "North Africa? Kill."
+
+EDG_mission_BRI_5_14_title:0 "Algiers Province"
+EDG_mission_BRI_5_14_desc:0 "Sand. So much sand."
+
+EDG_mission_BRI_5_16_title:0 "Compagnies d'Ordonnance" # Recruit Ordinance Cavalry
+EDG_mission_BRI_5_16_desc:0 "Ordinance cavalry - effective and plentiful."
+
+EDG_mission_BRI_5_17_title:0 "Train Musketeers"
+EDG_mission_BRI_5_17_desc:0 "Wow, musketeers! So cool, so cool!"
+
+EDG_mission_BRI_5_19_title:0 "Swiss Centuria"
+EDG_mission_BRI_5_19_desc:0 "Military drills - salute!"
+
+EDG_mission_BRI_5_21_title:0 "Winds of Reform"
+EDG_mission_BRI_5_21_desc:0 "How did our government become this rotten? Reforms are overdue."
+
+EDG_mission_BRI_5_23_title:0 "Royal Capital"
+EDG_mission_BRI_5_23_desc:0 "Our capital must be the most splendid city."
+
+EDG_mission_BRI_5_24_title:0 "The Renaissance"
+EDG_mission_BRI_5_24_desc:0 "The winds of Renaissance finally reach Brittany."
+
+EDG_mission_BRI_5_25_title:0 "Nation of Arts"
+EDG_mission_BRI_5_25_desc:0 "We Bretons understand art best."
+
+
+
+DD_mission_BRI_2_4_modifier: "French Ambition"
+EDG_mission_BRI_2_4_tt: "All provinces of §YFrench§! culture group under our rule lose §G10§! years of separatism.\n"
+EDG_mission_BRI_3_14_tt: "The §YLow Countries§! region will begin §Gconverting§! to §YBelgic§! culture.\n"
+EDG_mission_BRI_3_14_modifier: "Integration of Lowland Merchants"
+EDG_mission_BRI_3_16_modifier: "Artillery Advancements"
+EDG_mission_BRI_4_2_tt2: "§Y[Root.GetName]§! will join the §MCommonweal Alliance§! and unlock the '§YCommonweal Alliance War§!' decision, allowing us to declare war on @FRA§YFrance§!.\n"
+EDG_mission_BRI_4_2_modifier: "Can Two Commanders Share One Realm?"
+
+EDG_flavor_BRI_mission.100.title: "Night of Fate"
+EDG_flavor_BRI_mission.100.desc: "Many years later, Gilles might recall that fateful night. The witch kneeling before him under the moonlight. Though the memory has faded, the faint scent of jasmine remains vivid - that nightmare fragrance haunting him daily, pulling him back to that ominous moonlit night. In his mind's eye, her smooth, neatly arranged hair seems to shimmer, her indistinct face bearing an intoxicating beauty, revealing a mysterious, enchanting smile.\n\nHe wonders - had he spared that witch, would everything be different? Might he have had a happier family? Those soul-piercing, pitiful eyes, like pools of starlight, brimming with clear yet burning tears. Her eyes were magic mirrors that still appear hauntingly before him, reflecting his younger self. Fate once laid a path before him, yet he chose another winding road into the distance."
+EDG_flavor_BRI_mission.100.a: "All is past now."
+
+EDG_mission_BRI_2_19_tt: "Larger than §MArmy Size§! of all European nations"
+
+EDG_flavor_BRI_mission.101.title: "Wedding of the Century"
+EDG_flavor_BRI_mission.101.desc: "In $YEAR$, Duke [BRI.Monarch.GetName] of Brittany decided to seek a holy union with King [FRA.Monarch.GetName] of France, tightly binding the two royal houses through marriage. Reportedly driven by fear of a French invasion, [BRI.Monarch.GetName] chose to sacrifice themselves to secure Brittany's independent development for the next fifty years. The cost? Merely that [BRI.Monarch.GetName] would spend the rest of their life in Paris. If this could save Brittany, they were willing to pay the price.\n\nOn that day, the streets of Paris were packed. People gathered to catch a glimpse of the new Queen Mother of France, said to be as beautiful as a celestial being. Nobility from across Europe flocked to the Château de Langeais to witness the couple. [FRA.Monarch.GetName] had specially commissioned artists from Italy to furnish and adorn the castle with the most fashionable Renaissance-style furniture and decorations. As God's servant solemnly recited the vows, only one question remained."
+EDG_flavor_BRI_mission.101.a: "I do."
+EDG_flavor_BRI_mission.101.b: "I don't!"

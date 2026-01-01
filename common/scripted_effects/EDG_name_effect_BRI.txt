@@ -1,8 +1,8 @@
 
 EDG_flavor_BRI_mission_28_a_consert_effect = {
 	define_consort = {
-		name = "让娜"
-		dynasty = "法拉"
+		name = "Jeanne"
+		dynasty = "Fara" # 法拉
 		adm = 2
 		dip = 4
 		mil = 1
@@ -12,8 +12,8 @@ EDG_flavor_BRI_mission_28_a_consert_effect = {
 }
 EDG_flavor_BRI_mission_30_a_heir_effect = {
 	define_heir = {
-		name = "让娜"
-		dynasty = "德 蒙莫朗西-雷斯"
+		name = "Jeanne"
+		dynasty = "de Montmorency-Rais"
 		claim = 95
 		adm = 3
 		dip = 3
@@ -25,8 +25,8 @@ EDG_flavor_BRI_mission_30_a_heir_effect = {
 }
 EDG_flavor_BRI_mission_31_a_heir_effect = {
 	define_heir = {
-		name = "让娜"
-		dynasty = "德 蒙莫朗西-雷斯"
+		name = "Jeanne"
+		dynasty = "de Montmorency-Rais"
 		claim = 95
 		adm = 4
 		dip = 4
@@ -38,7 +38,7 @@ EDG_flavor_BRI_mission_31_a_heir_effect = {
 }
 EDG_flavor_BRI_mission_31_a_regency_effect = {
 	define_ruler = {
-		name = "弗朗索瓦 德 德勒"
+		name = "François de Dreux"
 		adm = 3
 		dip = 4
 		mil = 4       
@@ -49,8 +49,8 @@ EDG_flavor_BRI_mission_31_a_regency_effect = {
 }
 EDG_flavor_BRI_mission_44_a_consert_effect = {
 	define_consort = {
-		name = "莱奥"
-		dynasty = "德 雷恩"
+		name = "Léo"
+		dynasty = "de Rennes"
 		adm = 4
 		dip = 4
 		mil = 6

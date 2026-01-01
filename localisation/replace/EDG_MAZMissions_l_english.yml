@@ -1,0 +1,135 @@
+﻿l_english:
+EDG_POL_mission_1_2_title:0 "Rectify the Mistake"
+EDG_POL_mission_1_2_desc:0 "In 1410, Poland and Lithuania joined forces to defeat the Teutonic Order at the Battle of Grunwald, forcing the invaders to retreat to the Baltic coast. Yet, the Crusaders still covet our lands. Let us show no more mercy and thoroughly eradicate the Teutonic resistance."
+
+EDG_POL_mission_1_5_title:0 "The Shield and the Spear"
+EDG_POL_mission_1_5_desc:0 "The Magyars of Hungary have sweated blood and tears resisting the invasion of heathens, but they lack comrades who fight shoulder to shoulder. We should unite the forces of Catholicism and bring God's shield and spear to the mortal realm."
+EDG_POL_mission_1_5.effect.tt:0 "All"
+
+EDG_POL_mission_1_7_title:0 "Connect to the Adriatic Sea"
+EDG_POL_mission_1_7_desc:0 "The South Slavs faced their doom amidst quarrels. Their resilient hearts have shielded them, allowing a breath of survival in times of peril. We shall provide sanctuary for the remnants of our kindred brothers."
+
+EDG_POL_mission_1_9_title:0 "Rein in the Nobility"
+EDG_POL_mission_1_9_desc:0 "The Szlachta controls vast tracts of land within the country and have even begun demanding more political privileges. We must either yield for now, satisfying their ever-growing desires, or sternly refuse, curbing their insatiable ambitions."
+
+EDG_POL_mission_1_10_title:0 "The Great Sejm"
+EDG_POL_mission_1_10_desc:0 "The Great Sejm is the unique deliberative institution of the Kingdom of Poland, providing significant assistance to the flexible operation of domestic politics. Let us further strengthen the role of the Sejm to advance government work."
+
+EDG_POL_mission_1_12_title:0 "The Art of Assent"
+EDG_POL_mission_1_12_desc:0 "Before ascending the throne, the Polish King must sign a pacta conventa, acknowledging the authority of the Great Sejm and the laws of the Commonwealth, which indirectly reinforces the political voice of the nobility. If we do not wish to become puppets in the hands of the Szlachta, we must utilize power and wisdom to reform the existing political system."
+
+EDG_POL_mission_1_14_title:0 "The Polish Plains"
+EDG_POL_mission_1_14_desc:0 "Most of our country lies on the low North European Plain. The flat terrain provides excellent space for urban development. Let us concentrate resources and begin developing the Plains Kingdom."
+EDG_POL_mission_1_14.effect.tt:0 "§YAll provinces§! fulfilling the mission conditions gain the following §Geffects§!"
+
+EDG_POL_mission_1_15_title:0 "Revitalize Kraków"
+EDG_POL_mission_1_15_desc:0 "Lesser Poland is the heartland of the Polish-Lithuanian Commonwealth, concentrating our great architecture and well-functioning cities. We should encourage the production of light industry in Kraków to keep the empire's economy pulsating."
+
+EDG_POL_mission_2_3_title:0 "Secure the Baltic"
+EDG_POL_mission_2_3_desc:0 "The prosperous Baltic trade provides ample funds for the bishoprics and knightly orders, but their weak armies make them like children carrying gold through a bustling marketplace. Poland cannot allow powerful enemies to seize these natural benefits. We should strike first."
+
+EDG_POL_mission_2_6_title:0 "Czechia and Slovakia"
+EDG_POL_mission_2_6_desc:0 "The trend of unlimited German expansion has been dismantled by the brave Polish people. The West Slavic nations are moving towards unity under our leadership. Let us set aside past grievances and together embrace the future of the West Slavs."
+EDG_POL_mission_2_6.effect.tt:0 "All provinces under our rule with the §Tculture group§! §YWest Slavic§! gain the §Yfollowing effects§!"
+
+EDG_POL_mission_2_10_title:0 "Land Redistribution"
+EDG_POL_mission_2_10_desc:0 "Polish lands are concentrated in the hands of the magnates. Their monopoly on resources is detrimental to the development of the national economy. We should begin redistributing existing lands, supporting emerging nobles, and encouraging the restoration of production. This will bring more benefits to our crown."
+
+EDG_POL_mission_2_11_title:0 "The Latifundium"
+EDG_POL_mission_2_11_desc:0 "Investments in the serfdom-based manorial system have proven fruitful. They have significantly increased agricultural output and brought substantial profits. We should further improve the development of townships and rural areas, raise the living standards of peasants, and further promote Poland's prosperity."
+EDG_POL_mission_2_11.effect.tt:0 "§Y3§! provinces §Yfulfilling the mission conditions§! gain the §Yfollowing effects§!"
+
+EDG_POL_mission_2_13_title:0 "The Golden Liberty"
+EDG_POL_mission_2_13_desc:0 "As the role of the Szlachta in Polish national life grows increasingly significant, calls for political reform are also rising. The leadership of Poland-Lithuania stands at a crossroads of destiny. Let us decide the future of the Commonwealth's governance."
+
+EDG_POL_mission_2_15_title:0 "Develop Eastern Poland"
+EDG_POL_mission_2_15_desc:0 "Poland's vast pastures provide space for livestock production, resulting in large quantities of wool stockpiled in warehouses and markets. We should not rest on the laurels of primary industry. Let us advance wool processing technology to earn more funds with higher value-added products."
+EDG_POL_mission_2_15.effect.tt:0 "All provinces under our rule with the §Ttrade good§! §YCloth§! gain §G1§! base production"
+
+EDG_POL_mission_2_16_title:0 "Revitalize the Countryside"
+EDG_POL_mission_2_16_desc:0 "The diligent and honest peasants are the foundation of Poland's development and survival, providing the empire with a continuous stream of wealth and manpower. We should continue to reclaim pastures, build more manors, and provide farmers with a better living environment."
+EDG_POL_mission_2_16.effect.tt:0 "All provinces under our rule with the §Ttrade good§! §YLivestock§! are converted to §YGrain§!"
+
+EDG_POL_mission_3_1_title:0 "Resurgence"
+EDG_POL_mission_3_1_desc:0 "Poland has been reborn amidst the war-torn lands of Eastern Europe. With God's blessings, the sacred Kingdom is invincible. We shall lead the Slavic peoples to glory."
+
+EDG_POL_mission_3_2_title:0 "The Warsaw Pact"
+EDG_POL_mission_3_2_desc:0 "Poland and Lithuania have a sweet past. The marriage of Princess Jadwiga and Grand Duke Jogaila once made us as close as family. Times have changed, and fate brings the lovers together again. Let us forget the brief estrangement and face the storms of Europe hand in hand."
+EDG_POL_mission_3_2.effect.tt:0 "Receive §Ydifferent rewards§! based on the §Ydifferent completion conditions§! of the mission!"
+
+EDG_POL_mission_3_4_title:0 "Path Through the Gloom"
+EDG_POL_mission_3_4_desc:0 "At last, we are no longer confined to a corner. The Polish people need no longer live in fear. Now, let us go further, guide the scattered West Slavic peoples, and bring the Gospel to other peoples of the world shrouded in gloom."
+EDG_POL_mission_3_4.effect.tt:0 "Forming @PLC §Y[PLC.GetName]§! no longer requires a specific §YAdministrative Technology§! level"
+
+EDG_POL_mission_3_5_title:0 "Reclaim Silesia"
+EDG_POL_mission_3_5_desc:0 "Silesia is the ancestral territory of the Piast dynasty. The Bohemians, who have forgotten their origins, violated the Polish homeland under the protection of the German Emperor. Let us retake the western frontier of the Slavs."
+
+EDG_POL_mission_3_7_title:0 "Reach the Aegean Sea"
+EDG_POL_mission_3_7_desc:0 "The cannons of conquerors have shattered the tranquility of the Aegean Sea. The Greeks, persecuted by foreign races, are homeless. We shall liberate this peaceful land."
+
+EDG_POL_mission_3_8_title:0 "Intermarium Federation"
+EDG_POL_mission_3_8_desc:0 "With more and more lands incorporated into Poland's domain, the West Slavic peoples will never again be coerced by anyone. However, the world is unpredictable. The empire must continuously expand its living space to endure forever in these chaotic times. We will remember the humiliations suffered in our weakness and never cease our steps towards strength."
+
+EDG_POL_mission_3_9_title:0 "Military Tradition"
+EDG_POL_mission_3_9_desc:0 "We will not forget how Poland grew from a minor duchy into a great power that stands firm. Emphasizing military tradition not only helps build a powerful army but can also spark a cultural trend of bravery and patriotism across the nation."
+
+EDG_POL_mission_3_11_title:0 "National Ethos"
+EDG_POL_mission_3_11_desc:0 "The concept of 'West Slavic' has always been vague, with surrounding peoples attempting to confuse the identity of our kin. As Poland has become a great power dominating the continent, we should also strengthen our own development, using greater achievements to enhance West Slavic national identity."
+
+EDG_POL_mission_3_12_title:0 "Promote Sarmatism"
+EDG_POL_mission_3_12_desc:0 "The nobility of Poland-Lithuania have recently given rise to a unique cultural trend. It is poetic, imbued with a strong legendary aura, glorifies past victories of the Polish military, and promotes a culture of noble democracy on horseback. Let us foster this novel way of life within our country to strengthen the Commonwealth's cohesion."
+
+EDG_POL_mission_3_14_title:0 "The Iron Triangle"
+EDG_POL_mission_3_14_desc:0 "The ancient Greek philosopher Plato proposed an idealized state, believing that power should be shared among philosophers, soldiers, and kings. Today, the political system of the Polish-Lithuanian Commonwealth coincides with this sage's thought. The learned scholars, the loyal nobility, and the supreme emperor—the iron triangle at the center of power will lead the Commonwealth to victory."
+
+EDG_POL_mission_3_15_title:0 "Adorn the Baltic"
+EDG_POL_mission_3_15_desc:0 "Gdańsk is a vital shipping and trade hub on the Baltic coast. Its unique geographical advantage makes it one of the most watched focal points in Eastern European politics, military affairs, and diplomacy. Now that we control this Baltic pearl, we can further use it to boast of the Slavic victory in the West."
+
+EDG_POL_mission_3_17_title:0 "Breadbasket of Europe"
+EDG_POL_mission_3_17_desc:0 "For centuries, the empire's agricultural production, relying on the distinctive manorial system, has achieved flourishing development. We have achieved an undeniable trade surplus in grain exports. Let us further invest in and promote our proud agriculture, making the Polish-Lithuanian Commonwealth the breadbasket of Europe."
+
+EDG_POL_mission_4_3_title:0 "Gallop Across the Great Steppe"
+EDG_POL_mission_4_3_desc:0 "Nomadic peoples have acted with impunity on the vast grasslands of Eastern Europe, frequently harassing our eastern frontiers. But Polish cavalry has now embarked on the path of conquest. From now on, the roles of attacker and defender are reversed."
+
+EDG_POL_mission_4_6_title:0 "Land of Warring Kings"
+EDG_POL_mission_4_6_desc:0 "Arrogant adventurers have set God's lands ablaze with war, and the glory of the great empire is defiled by petty schemers. Let us march into the fragmented Balkans, and in God's name, repel the usurpers who falsely claim the prestige of Eastern Rome."
+
+EDG_POL_mission_4_10_title:0 "Disseminate New Ideas"
+EDG_POL_mission_4_10_desc:0 "As Renaissance thought gradually spreads across Poland, we have reaped the benefits of intellectual innovation in all walks of life. Let us continue to promote new ideas and further invest in Poland's future."
+
+EDG_POL_mission_4_11_title:0 "Governance Act"
+EDG_POL_mission_4_11_desc:0 "The local nobility of the Polish-Lithuanian Commonwealth deeply influences court decrees, making it difficult for us to amend existing laws and policies. We should utilize the emperor's superior political acumen to implement sweeping reforms, strengthening the authority of Commonwealth law."
+
+EDG_POL_mission_4_13_title:0 "Royal Authority"
+EDG_POL_mission_4_13_desc:0 "The monarch's authority comes not only from God's grace but also directly from his popularity among the people. We must emphasize the education of royal family members, enabling them to better wield the power of the Polish-Lithuanian Commonwealth."
+
+EDG_POL_mission_4_15_title:0 "Nourish the Dnieper Banks"
+EDG_POL_mission_4_15_desc:0 "The mother river of Ukraine once gave rise to the prosperous Amber Road, but the land that has only just found peace no longer enjoys its past splendor. As more capable rulers, we know well the wonders this land holds. Kievan Rus' shall be reborn in the hands of the Polish-Lithuanian Commonwealth."
+
+EDG_POL_mission_4_16_title:0 "Construct Roads"
+EDG_POL_mission_4_16_desc:0 "Previous regimes struggled to deeply govern the unruly peoples of the great steppe. We should learn from the effective methods of nomadic rulers and vigorously build roads in the Ruthenian regions, thoroughly integrating Eastern Europe into the empire's administrative map."
+
+EDG_POL_mission_5_2_title:0 "The Southern Frontier"
+EDG_POL_mission_5_2_desc:0 "Kievan Rus' in the south has descended into civil war, with no one able to reclaim the Ruthenian legacy. As the victor of Poland's succession turmoil, let us teach them the value of unity."
+
+EDG_POL_mission_5_5_title:0 "Gateway to the Balkans"
+EDG_POL_mission_5_5_desc:0 "The Turks threaten the people of Romania. The weak principalities teeter before their savage swords, but fortunately, Poland will offer them refuge. We shall open the path to the Balkans."
+
+EDG_POL_mission_5_7_title:0 "Control the Bosphorus"
+EDG_POL_mission_5_7_desc:0 "Constantinople, the pearl of the Mediterranean, is back in our hands. The crown of the Eastern Empire belongs only to the virtuous. As the new master of Rome's legacy, we shall provide this weighty history with a fitting resolution."
+
+EDG_POL_mission_5_9_title:0 "Polish Renaissance"
+EDG_POL_mission_5_9_desc:0 "The intellectual trend of using the past to illuminate the present has begun to spread from Italy, with thinkers bringing a fresh social ethos. Poland must not lag behind. Let us welcome the Renaissance with open arms."
+
+EDG_POL_mission_5_10_title:0 "University of Kraków"
+EDG_POL_mission_5_10_desc:0 "The University of Kraków was founded in 1364 by King Casimir III. It is Poland's first university and one of the oldest in Europe. In the not-too-distant future, this most important scientific center in Central Europe will provide Poland and even Europe with many outstanding talents."
+
+EDG_POL_mission_5_12_title:0 "Education Act"
+EDG_POL_mission_5_12_desc:0 "The success of the University of Kraków has provided an excellent model for the national education movement. We should further promote the spread of education to cultivate more scholars for Poland."
+
+EDG_POL_mission_5_14_title:0 "Ruthenian Plains"
+EDG_POL_mission_5_14_desc:0 "Kievan Rus' possesses soil so fertile it is the envy of all, but years of warfare and conflict have destroyed Ruthenia's manors. Let us concentrate our resources and begin developing the Eastern European steppe."
+
+EDG_POL_mission_5_15_title:0 "Invest in Kyiv"
+EDG_POL_mission_5_15_desc:0 "The 'Mother of Russian Cities' contains the wisdom and efforts of the East Slavs. We should continue the construction of the imperial city, making Kievan Rus' the eastern pearl of the Polish-Lithuanian Commonwealth."
+

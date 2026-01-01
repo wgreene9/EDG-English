@@ -1,6 +1,6 @@
 EDG_SWI_define_siw_ruler = {
 	define_ruler = {
-		name = "诺亚·胡·马库斯"
+		name = "Noah Hu Markus"
 		age = 25
 		adm = 3
 		dip = 4
@@ -8,7 +8,7 @@ EDG_SWI_define_siw_ruler = {
 	}
 	set_ruler_flag = EDG_SWI_noah_hu_marcus
 	define_advisor = {
-		name = "胡天意"
+		name = "Hu Tianyi"
 		skill = 1
 		culture = jianghuai
 		type = reformer

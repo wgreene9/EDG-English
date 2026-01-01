@@ -1,0 +1,21 @@
+﻿l_english:
+EDG_BRA_march:0 "Margraviate" # Frontier Fief
+EDG_BRA_march_title:0 "Margraviate"
+EDG_BRA_march_title_plural:0 "Margraviates"
+EDG_BRA_march_long_desc:0 "§YMargraviate§! is a special type of vassal. It enables all normal vassal and garrison territory mechanics and interactions. However, it has the following characteristics:\n—Does not occupy a diplomatic relation slot\n—Does not join overlord's wars\n—Cannot be annexed\n—Does not provide land force limit to the overlord\n—Pays substantial tribute to the overlord"
+EDG_BRA_march_is_our:0 "$NAME|Y$ is one of our §MMargraviates§!"
+
+EDG_BRA_march_action:0 "Transform into a Margraviate"
+EDG_BRA_march_action_title:0 "Transform into a Margraviate"
+EDG_BRA_march_action_desc:0 "Transform into a Margraviate. §YMargraviate§! is a special type of vassal. It enables all normal vassal and garrison territory mechanics and interactions. However, it has the following characteristics:\n—Does not occupy a diplomatic relation slot\n—Does not join overlord's wars\n—Cannot be annexed\n—Does not provide land force limit to the overlord\n—Pays substantial tribute to the overlord"
+EDG_BRA_march_action_tooltip:0 "Transform into a Margraviate"
+EDG_BRA_march_action_alert_tooltip:0 "Transform into a Margraviate"
+
+EDG_BRA_march_invite_action:0 "Invite to Become a Margraviate"
+EDG_BRA_march_invite_action_title:0 "Invite to Become a Margraviate"
+EDG_BRA_march_invite_action_desc:0 "Invite to become a Margraviate. §YMargraviate§! is a special type of vassal. It enables all normal vassal and garrison territory mechanics and interactions. However, it has the following characteristics:\n—Does not occupy a diplomatic relation slot\n—Does not join overlord's wars\n—Cannot be annexed\n—Does not provide land force limit to the overlord\n—Pays substantial tribute to the overlord"
+EDG_BRA_march_invite_action_tooltip:0 "Invite to Become a Margraviate"
+EDG_BRA_march_invite_action_alert_tooltip:0 "Invite to Become a Margraviate"
+
+EDG_entry_DIPLO_DIG_HRE_COUNTRY_freecity:0 "Is a Free City"
+EDG_entry_DIPLO_DIG_is_in_trade_league:0 "Is in a Trade League"
