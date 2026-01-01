@@ -135,11 +135,11 @@ desc_EDG_FOI_UCI_production_production_boom:0 ""
 
 
 EDG_FRA_GUI_big_shield_tooltip:0 "As King of the Franks, we possess initial abilities and can advance Frankish Kingdom reforms by acquiring §TFrankish Authority§! to gain more capabilities."
-EDG_FRA_GUI_ability_1_tooltip:0 "£adm£§YFeudal System§!\nWe will be able to unlock the §MRoyal Fief§! and §MPrivileged Fief§! subject types."
+EDG_FRA_GUI_ability_1_tooltip:0 "£adm£§YFeudal System§!\nWe will be able to unlock the §MRoyal Appanage§! and §MPrivileged Appanage§! subject types."
 EDG_FRA_GUI_ability_2_tooltip:0 "£adm£§YNatural Borders§!\nWe will be able to unlock a series of decisions and content related to §MEstablish Natural Borders§!, allowing us to trigger various modifiers and events."
 EDG_FRA_GUI_ability_3_tooltip:0 "£adm£§YFrench Protectorate§!\nWe will be able to unlock the §MFrench Protectorate§! subject type. This subject type will provide us with tribute and force limit, and will actively join our wars, but each §MFrench Protectorate§! will cause us §M-0.25§! yearly prestige."
 EDG_FRA_GUI_ability_4_tooltip:0 "£adm£§YNational Army§!\nWe will be able to unlock a series of decisions and content related to §MReform the National Army§!, allowing us to trigger various modifiers and events."
-EDG_FRA_GUI_ability_5_tooltip:0 "£adm£§YDynastic Politics§!\nEach §MRoyal Fief§! and §MPrivileged Fief§! will provide us with a §M10%§! chance to gain an heir, and we can designate the heir of a §MRoyal Fief§! as our crown prince."
+EDG_FRA_GUI_ability_5_tooltip:0 "£adm£§YDynastic Politics§!\nEach §MRoyal Appanage§! and §MPrivileged Appanage§! will provide us with a §M10%§! chance to gain an heir, and we can designate the heir of a §MRoyal Fief§! as our crown prince."
 EDG_FRA_GUI_ability_6_tooltip:0 "£adm£§YFrench National Spirit§!\nWe will be able to shape the §YFrench National Spirit§! through completing missions, which will provide certain modifiers for us and all countries in the §MFrench§! culture group."
 EDG_FRA_GUI_ability_7_tooltip:0 "£adm£§YCultural Assimilation§!\nWe and other countries in the §MFrench§! culture group will gradually integrate the cultures of provinces in the §MLatin§!, §MIberian§!, §MGermanic§!, and §MBritish§! culture groups into the §MFrench§! culture group."
 EDG_FRA_GUI_ability_8_tooltip:0 "£adm£§YContinental Alliance§!\nWe will be able to establish §MContinental Ally§! type subjects. This subject type will have very low liberty desire, can be called into war using favors, and can provide us with specific bonuses."

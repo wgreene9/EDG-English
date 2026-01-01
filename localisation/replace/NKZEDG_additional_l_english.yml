@@ -5,8 +5,8 @@ ireland_province_group:"Ireland"
 #trigger_tooltip
 NKZEDG_eng_british_subject_tt:"All §YBritish§! region subjects have liberty desire below §Y10.00%§!"
 NKZEDG_eng_french_subject_tt:"All §YFrench§! region subjects have liberty desire below §Y10.00%§!"
-NKZEDG_eng_no_french_appanage_tt:"No vassals are §MFormer French Noble Appanages under English Rule§!"
-NKZEDG_eng_french_appanage_trigger_tt:"All §MFormer French Noble Appanages under English Rule§!:\n    [Root.NKZEDG_eng_french_appanage_opinion]\n    [Root.NKZEDG_eng_french_appanage_dynasty]\n    [Root.NKZEDG_eng_french_appanage_liberty_desire]"
+NKZEDG_eng_no_french_appanage_tt:"No vassals are §MFormer French Appanage§!"
+NKZEDG_eng_french_appanage_trigger_tt:"All §MFormer French Appanages§!:\n    [Root.NKZEDG_eng_french_appanage_opinion]\n    [Root.NKZEDG_eng_french_appanage_dynasty]\n    [Root.NKZEDG_eng_french_appanage_liberty_desire]"
 NKZEDG_eng_religion_mission_trigger_tt:"This mission's completion depends on choices made during the §YReligious Dilemma§!"
 NKZEDG_eng_only_religion_trigger_tt:"This mission can only be completed as a §YCatholic§! or §YAnglican§! nation"
 

@@ -1,1 +1,1 @@
-capital = "Kruevac"
+capital = "Kruševac"

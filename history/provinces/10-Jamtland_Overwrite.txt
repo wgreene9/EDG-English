@@ -1,1 +1,1 @@
-capital = "Frsn"
+capital = "Frösön"
