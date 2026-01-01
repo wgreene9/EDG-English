@@ -436,5 +436,5 @@ EDG_SHY_mission_5_37_desc:0 "Countless protracted wars have forged our invincibl
 EDG_SHY_mission_5_37.effect.tt:0 "Unlock the §Ymount§! "War Bear" for the §TGuard Corps§!.\n"
 
 EDG_SHY_mission_5_39_title:0 "Entrance to the Desolate Ground"
-EDG_SHY_mission_5_39_desc:0 "We turn time back to the past, allowing fragmented history to be retold in our hands.\n\nThe great wheel of history rolls ever onward; all streams, great and small, converge into the abyss.\n\nProud glories and regretful memories are all buried with the next restart, never to be continued again."
+EDG_SHY_mission_5_39_desc:0 "We turn time back to the past, allowing fragmented history to be retold in our hands.\n\nThe great wheel of history rolls ever onward; all streams, great and small, converge into the desolate ground.\n\nProud glories and regretful memories are all buried with the next restart, never to be continued again." # abyss
 EDG_SHY_mission_5_39.effect.tt:0 "Gain §Tcores§! on §Yall provinces in the world§! and §Yinherit§! all §Tsubject states§!.\n"

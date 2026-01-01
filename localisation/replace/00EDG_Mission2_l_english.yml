@@ -300,11 +300,11 @@ EDG_FYM_vassal_province_provide_merchant_flag_tt:0 "When the development of our 
 EDG_FYM_vassal_province_provide_merchant_modifier:0 "Large Province"
 
 # Black Sheep
-mission_TBR_3_1_trigger_tooltip:0 "§YJahān Shāh§! has returned."
+mission_TBR_3_1_trigger_tooltip:0 "§YJahan Shah§! has returned."
 mission_TBR_3_3_tt:0 "We will gain §Yclaims§! on all provinces under the rule of @ARL Safavid."
 
-EDG_flavor_TBR_0_a_ruler_flag_tt_yes:0 "£yes£Our ruler is §YJahān Shāh§!"
-EDG_flavor_TBR_0_a_ruler_flag_tt_no:0 "£no£Our ruler is §YJahān Shāh§!"
+EDG_flavor_TBR_0_a_ruler_flag_tt_yes:0 "£yes£Our ruler is §YJahan Shah§!"
+EDG_flavor_TBR_0_a_ruler_flag_tt_no:0 "£no£Our ruler is §YJahan Shah§!"
 
 mission_TBR_5_1_a_tt_yes:0 "£yes£If we have §Y3§! §Ylevel 2§! advisors in our court, then"
 mission_TBR_5_1_a_tt_no:0 "£no£If we have §Y3§! §Ylevel 2§! advisors in our court, then"
@@ -341,7 +341,7 @@ EDG_MISSION_GSR_2_2_a_tt_no:0 "£no£If we complete the mission by §Rinsulting�
 EDG_MISSION_GSR_2_2_b_tt_yes:0 "£yes£If we complete the mission by means other than §Rinsulting§! the Pope"
 EDG_MISSION_GSR_2_2_b_tt_no:0 "£no£If we complete the mission by means other than §Rinsulting§! the Pope"
 
-EDG_flavor_GSR_mission_3_flag_trigger_tooltip:0 "The event §YReturn of the Obilić§! has occurred."
+EDG_flavor_GSR_mission_3_flag_trigger_tooltip:0 "The event §YReturn of the Obilic§! has occurred."
 
 EDG_MISSION_GSR_1_2_flag_tt:0 "We will unlock several §YTürkmen mercenary companies§! from §YAnatolia§!, §Mregardless of culture and owned provinces§!."
 

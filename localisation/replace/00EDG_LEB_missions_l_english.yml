@@ -16,7 +16,7 @@ EDG_LEB_1_11_title:0 "Emirate of Sicily"
 EDG_LEB_1_11_desc:0 "The island of Sicily in the Mediterranean was once continuously controlled by Arab forces for centuries. Later, the island was reconquered by Christians, but it remains a crucial stepping stone for the conquest of Italy. Our navy can launch raids on the Italian coast from Sicily and ultimately threaten Rome—the heart of Western Christianity."
 
 EDG_LEB_2_2_title:0 "Welcoming Refugees" # Welcoming Egyptian Refugees
-EDG_LEB_2_2_desc:0 "The internal strife of the Sāhada Dynasty has led to a large influx of refugees into Lebanon. We welcome them and pledge to reclaim their homeland."
+EDG_LEB_2_2_desc:0 "The internal strife of the Sahada Dynasty has led to a large influx of refugees into Lebanon. We welcome them and pledge to reclaim their homeland."
 
 EDG_LEB_2_4_title:0 "Securing the Holy City"
 EDG_LEB_2_4_desc:0 "Conquering Jerusalem is an essential step to bolster the influence of the Ibadis. Since its conquest by the Rashidun Caliphate's armies in 637, the city has endured much turmoil and been the target of many infidel Crusades. Today, the city is back in our hands."
@@ -38,11 +38,11 @@ EDG_LEB_2_11_title:0 "Revenge on the Crusaders" # Revenge Against the Crusaders
 EDG_LEB_2_11_desc:0 "The nine Crusades in history were undeniably acts of barbaric aggression. Tyrants plundered our lands in the name of faith. Today, the Caliph will once again follow the path of Muslim predecessors in their conquest of France. This time, the power of Allah will be supreme."
 
 EDG_LEB_3_1_title:0 "Declaration of Independence"
-EDG_LEB_3_1_desc:0 "The decline of the Sāhada is inevitable. The people of Lebanon and even the Syrian states should not be dragged into the mire of Sāhada's collapse."
-EDG_flavorLEB_mission.8_tt:0 "§GEvent Foreshadowing:§!\n@LEB Lebanon, @DMA Damascus, and @FAD Fadl will gain independence from @FYM Sāhada. We will increase our military technology by one level and gain some temporary powerful modifiers."
+EDG_LEB_3_1_desc:0 "The decline of the Sahada is inevitable. The people of Lebanon and even the Syrian states should not be dragged into the mire of Sahada's collapse."
+EDG_flavorLEB_mission.8_tt:0 "§GEvent Foreshadowing:§!\n@LEB Lebanon, @DMA Damascus, and @FAD Fadl will gain independence from @FYM Sahada. We will increase our military technology by one level and gain some temporary powerful modifiers."
 
 EDG_LEB_3_3_title:0 "The Syrian Alliance"
-EDG_LEB_3_3_desc:0 "Lebanon, Damascus, and Fadl are nations that gained independence after the Bahri Mamluk Sultanate lost control of the Syrian region. In this critical moment of Sāhada's collapse, the three states will form an unbreakable alliance to resist the aggression of Turkic marauders and the resurgence of the Mamluks."
+EDG_LEB_3_3_desc:0 "Lebanon, Damascus, and Fadl are nations that gained independence after the Bahri Mamluk Sultanate lost control of the Syrian region. In this critical moment of Sahada's collapse, the three states will form an unbreakable alliance to resist the aggression of Turkic marauders and the resurgence of the Mamluks."
 EDG_flavorLEB_mission.2_tt:0 "§GEvent Foreshadowing:§!\n@DMA Damascus and @FAD Fadl will choose whether to become our allies."
 
 EDG_LEB_3_4_title:0 "Religion in the Alliance" # Religious Issues Within the Alliance

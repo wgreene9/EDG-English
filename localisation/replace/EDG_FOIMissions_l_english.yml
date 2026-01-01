@@ -30,7 +30,7 @@ FOI_SPA_5_3_title:0 "Purify Iberia"
 FOI_SPA_5_3_desc:0 "\nO Lord most high,\nWith Christ's grace nigh,\nIberian land,\nBy blessing spanned.\n\nKnights wield the blade,\nKings' banners displayed,\nSeven centuries' strife,\nEnds in holy life.\n\nDispel the night, break the chain,\nReclaim the mountains and plain,\nWhere iron hooves tread,\nThe Cross stands ahead.\n\nPraise the Lord's name, cleanse the strife's blight,\nEvery inch of soil restored to the light,\nThe long night returns to its destined flight.\n\nGlory and praise to the Lamb on the throne,\nA new heaven, new earth, the Temple's light shone."
  
 FOI_ADU_1_3_title:0 "The Flames of Al-Andalus"
-FOI_ADU_1_3_desc:0 "Al-Andalus is burning. Unending warfare scorches all who bear arms. From Jabal Ṭāriq to the Basque lands, from Galicia to Catalonia, I see the Horseman of Death on the march."
+FOI_ADU_1_3_desc:0 "Al-Andalus is burning. Unending warfare scorches all who bear arms. From Jabal Ṭariq to the Basque lands, from Galicia to Catalonia, I see the Horseman of Death on the march."
 FOI_ADU_2_2_title:0 "Unite the Taifas"
 FOI_ADU_2_2_desc:0 "Excessive fragmentation of power is a dagger plunged into the heart of Muslim dynasties. The loss of Iberia from the hands of the former caliphate was precisely due to the disunity among the Taifa lords, yet we still require the aid of this legacy today."
 FOI_ADU_2_2.tt:0 "Each eligible ally will grant us §G100§!£adm£, §G100§!£dip£, §G100§!£mil£"
@@ -125,7 +125,7 @@ FOI_ADU_9_3_title:0 "Gold Mines of [2754.GetName]" # Exploit the Gold Mine of [2
 FOI_ADU_9_3_desc:0 "Look, it's gold! Glittering, so much that even the sight of it stirs restlessness within."
 
 FOI_ADU_10_3_title:0 "National Identity"
-FOI_ADU_10_3_desc:0 "The vast peninsula has always faced one issue: its exceedingly fragmented peoples. From the Andalusians at the foot of Jabal Ṭāriq to the Basques in the Pyrenees, different languages and cultures fill this land. If we are to stand united, we must have a shared identity!"
+FOI_ADU_10_3_desc:0 "The vast peninsula has always faced one issue: its exceedingly fragmented peoples. From the Andalusians at the foot of Jabal Ṭariq to the Basques in the Pyrenees, different languages and cultures fill this land. If we are to stand united, we must have a shared identity!"
 FOI_ADU_10_3.tt:0 "All provinces we and our subjects own within the §YIberia region§! will be §Rvery slowly§! assimilated into the §YAndalusian§! culture. This process is estimated to take §Y150§! years."
 
 FOI_ADU_11_3_title:0 "The Rebirth of Al-Andalus"

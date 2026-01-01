@@ -8,7 +8,7 @@ EDG_FYM_disaster_mission_1_4_desc:0 "The Malik War has devastated the prosperity
 EDG_FYM_disaster_mission_2_1_title:0 "The Edifice Crumbles"
 EDG_FYM_disaster_mission_2_1_desc:0 "The rapid expansion of the Sahada Dynasty has sown the bitter seeds of today's chaos, with intricate political factions casting covetous eyes on the sacred authority. The Yemeni Eagle will not have its wings broken by the raging storm; the [Root.Monarch.GetTitle] will employ thunderous measures to salvage the declining empire."
 
-EDG_FYM_disaster_mission_2_2_title:0 "Divide the Asadāt"
+EDG_FYM_disaster_mission_2_2_title:0 "Divide the Asadat"
 EDG_FYM_disaster_mission_2_2_desc:0 "The time-tested feudal warriors of Egypt are no longer as united as before, and the Mamluk leader Burji cannot recreate the formidable authority of yesteryears. Let us find any excuse to expel these super-soldiers from [361.GetName]."
 
 EDG_FYM_disaster_mission_2_3_title:0 "Stabilize Egypt"
@@ -198,8 +198,8 @@ EDG_FYM_mission_3_11_desc:0 "The Apostle Peter, a disciple of the Prophet Isa, d
 EDG_FYM_mission_3_12_title:0 "Destroy Latium"
 EDG_FYM_mission_3_12_desc:0 "Latium, the region Christians call Italy, the core of the former Roman Empire, a land for which countless self-proclaimed 'successors of Rome' have bled themselves dry in contention, has now become yet another province prostrating itself at the feet of Sahada's [Root.Monarch.GetTitle], singing his praises. No further words are needed; the Shadow of Allah upon the earth has once again fallen over the infidels."
 
-EDG_FYM_mission_3_14_title:0 "Bilād Fāris"
-EDG_FYM_mission_3_14_desc:0 "We have long referred to Iran as 'Bilād Fāris'—the 'Greater Fars.' This land is both the ancestral home of Persian empires like the Achaemenids and the domain where mounted conquerors such as the Ilkhanate left their mark. To govern this region, even a power as great as ours must elevate more loyalists, hoping to inscribe a glorious page in the 'Shahnameh'."
+EDG_FYM_mission_3_14_title:0 "Bilad Faris"
+EDG_FYM_mission_3_14_desc:0 "We have long referred to Iran as 'Bilad Faris'—the 'Greater Fars.' This land is both the ancestral home of Persian empires like the Achaemenids and the domain where mounted conquerors such as the Ilkhanate left their mark. To govern this region, even a power as great as ours must elevate more loyalists, hoping to inscribe a glorious page in the 'Shahnameh'."
 
 EDG_FYM_mission_3_15_title:0 "The Sword of Rajasthan"
 EDG_FYM_mission_3_15_desc:0 "The name 'Rajput' is derived from Sanskrit, meaning 'descendant of royalty.' They are former conquerors who converted to Hinduism, fanatical defenders of Indian civilization, who have brought countless troubles to previous Islamic conquerors. However, before Sahada, they too shall ultimately become yet more 'fuel' for the empire."
@@ -297,8 +297,8 @@ EDG_FYM_mission_4_26_desc:0 "Since the passing of the Prophet Muhammad, Islam ha
 EDG_FYM_mission_4_28_title:0 "The Nomoi's Balance"
 EDG_FYM_mission_4_28_desc:0 "To balance the Mamluks, the Yemeni Emirs, and the Bedouin tribes, the Sahada Dynasty has long imported mercenaries of Greek origin from both sides of the Aegean Sea. These immigrants, who have established autonomous communities of varying sizes in Egypt known as 'Emilia' (Nomoi), are also called 'Nomoi.' They maintain a high degree of personal dependence on the [Root.Monarch.GetTitle], resulting in unwavering loyalty to the Sahada Dynasty, and have thus become a tool for the [Root.Monarch.GetTitle] to counterbalance the domestic military elite."
 
-EDG_FYM_mission_4_29_title:0 "The Loyalty of the Asadāt"
-EDG_FYM_mission_4_29_desc:0 "The Mamluks primarily draw their manpower from white slaves of the northern Black Sea and Caucasian regions. These pagan slaves were either offered as tribute to the Sultan by eastern provinces or purchased directly by the Sultan. Indoctrinated with Islamic teachings and loyalty to their master from childhood, they were enrolled in specialized military training after the age of fourteen. The commander of the Royal Mamluks is called the 'Atabeg,' while the Mamluk warriors are known as the 'Asadāt' (originally meaning the Egyptian god of fertility and war), referring to the former as father. We must control these elite warriors with absolute authority to avoid a tragedy akin to that of the Ayyubid Dynasty."
+EDG_FYM_mission_4_29_title:0 "The Loyalty of the Asadat"
+EDG_FYM_mission_4_29_desc:0 "The Mamluks primarily draw their manpower from white slaves of the northern Black Sea and Caucasian regions. These pagan slaves were either offered as tribute to the Sultan by eastern provinces or purchased directly by the Sultan. Indoctrinated with Islamic teachings and loyalty to their master from childhood, they were enrolled in specialized military training after the age of fourteen. The commander of the Royal Mamluks is called the 'Atabeg,' while the Mamluk warriors are known as the 'Asadat' (originally meaning the Egyptian god of fertility and war), referring to the former as father. We must control these elite warriors with absolute authority to avoid a tragedy akin to that of the Ayyubid Dynasty."
 
 EDG_FYM_mission_4_31_title:0 "Revive the Ghulams"
 EDG_FYM_mission_4_31_desc:0 "Ghulams are a type of military unit originating from Caucasian slave soldiers, who were typically former Christians. They are well-trained, well-equipped, and highly proficient with firearms, constituting an indispensable part of the military strength of Iranian warlords and even serving as the origin of the present Mamluk system. Now, to balance and caution the Mamluk class, we might as well revive this ancient military group in the Persian region."
