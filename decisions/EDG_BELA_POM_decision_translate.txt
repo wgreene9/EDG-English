@@ -1,0 +1,363 @@
+country_decisions = {
+	EDG_BELA_POM_KSB_northrus_trade_city_decision_2 = {#搬迁诺夫哥罗德
+		potential = {
+			has_country_flag = EDG_BELA_POM_events_59B_flag
+		}
+		allow = {
+			adm_power_cost = 50
+			mil_power_cost = 50
+			310 = {
+				owned_by = root
+				base_tax = 6
+				base_production = 6
+				base_manpower = 6
+				or = {
+					has_owner_accepted_culture = yes
+					has_owner_culture = yes
+				}
+			}
+			33 = {
+				or = {
+					has_owner_accepted_culture = yes
+					has_owner_culture = yes
+				}
+			}
+		}
+		effect = {
+			clr_country_flag = EDG_BELA_POM_events_59B_flag
+			adm_power_cost = 50
+			mil_power_cost = 50
+			310 = {
+				add_base_tax = -5
+				add_base_production = -5
+				add_base_manpower = -5
+			}
+			33 = {
+				add_base_tax = 4
+				add_base_production = 4
+				add_base_manpower = 4
+				change_province_name = "Nevsky" # Neva
+				rename_capital = "Nevsky"
+				if = {
+					limit = { NOT = { province_has_center_of_trade_of_level = 3 } }
+					add_center_of_trade_level = 1
+				}
+				add_permanent_province_modifier = {
+					name = EDG_BELA_POM_KSB_northrus_trade_city_province_modifer
+					duration = -1
+				}
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+		ai_importance = 1
+	}
+	EDG_BELA_POM_KSB_northrus_trade_city_decision_3 = {#建立涅夫斯克
+		potential = {
+			has_country_flag = EDG_BELA_POM_events_59C_flag
+		}
+		allow = {
+			is_core = 33
+			is_at_war = no
+			33 = {
+				is_state = yes
+			}
+			years_of_income = 0.5
+			adm_power_cost = 30
+			dip_power_cost = 30
+			mil_power_cost = 30
+		}
+		effect = {
+			clr_country_flag = EDG_BELA_POM_events_59C_flag
+			adm_power_cost = 30
+			dip_power_cost = 30
+			mil_power_cost = 30
+			33 = {
+				change_province_name = "Nevsky"
+				rename_capital = "Nevsky"
+				add_base_tax = 3
+				add_base_production = 3
+				add_base_manpower = 3
+				change_culture = ROOT
+				if = {
+					limit = { NOT = { province_has_center_of_trade_of_level = 3 } }
+					add_center_of_trade_level = 1
+				}
+				add_permanent_province_modifier = {
+					name = EDG_BELA_POM_KSB_northrus_trade_city_province_modifer
+					duration = -1
+				}
+			}
+			add_years_of_income = -0.5
+		}
+		ai_will_do = {
+			factor = 1
+		}
+		ai_importance = 1
+		#记得写一个附属事件
+	}
+	EDG_BELA_POM_KSB_marriage_decision_piast = {#格里芬-皮亚斯特王朝联姻
+		potential = {
+			has_country_flag = EDG_BELA_POM_marriage_mechanic_flag
+		}
+		allow = {
+			custom_trigger_tooltip = { #已解锁格里芬-皮亚斯特王朝联姻
+				tooltip = EDG_BELA_POM_KSB_marriage_decision_piast_trigger_tt
+				has_country_flag = EDG_BELA_POM_marriage_mechanic_flag_piast_flag
+			}
+			has_regency = no
+			has_consort = no
+			is_at_war = no
+			dynasty = "格里芬"
+		}
+		effect = {
+			set_country_flag = has_EDG_BELA_POM_KSB_marriage_decision_piast_flag
+			add_ruler_modifier = {
+				name = EDG_BELA_POM_KSB_marriage_piast_modifier
+				duration = 7300
+			}
+			custom_tooltip = EDG_BELA_POM_KSB_marriage_decision_piast_effect_tt
+			#所有我们或属国控制下的波兰和西里西亚文化省份：
+			tooltip = {
+				add_permanent_province_modifier = {
+					name = EDG_BELA_POM_KSB_marriage_province_modifier
+					duration = 3650
+				}
+			}
+			hidden_effect = {
+				every_province = {
+					limit = {
+						country_or_non_sovereign_subject_holds = root
+						or = {
+							culture = polish
+							culture = schlesian
+						}
+					}
+					add_permanent_province_modifier = {
+						name = EDG_BELA_POM_KSB_marriage_province_modifier
+						duration = 3650
+					}
+				}
+			}
+			country_event = {
+				id = EDG_BELA_POM_events.83
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+		ai_importance = 1
+		color = {
+			160 30 170
+		}
+	}
+	EDG_BELA_POM_KSB_marriage_decision_premysl = {#格里芬-普舍美斯王朝联姻
+		potential = {
+			has_country_flag = EDG_BELA_POM_marriage_mechanic_flag
+		}
+		allow = {
+			custom_trigger_tooltip = { #已解锁格里芬-普舍美斯王朝联姻
+				tooltip = EDG_BELA_POM_KSB_marriage_decision_premysl_trigger_tt
+				has_country_flag = EDG_BELA_POM_marriage_mechanic_flag_premysl_flag
+			}
+			has_regency = no
+			has_consort = no
+			is_at_war = no
+			dynasty = "格里芬"
+		}
+		effect = {
+			set_country_flag = has_EDG_BELA_POM_KSB_marriage_decision_premysl_flag
+			add_ruler_modifier = {
+				name = EDG_BELA_POM_KSB_marriage_premysl_modifier
+				duration = 7300
+			}
+			custom_tooltip = EDG_BELA_POM_KSB_marriage_decision_premysl_effect_tt
+			#所有我们或属国控制下的捷克文化省份：
+			tooltip = {
+				add_permanent_province_modifier = {
+					name = EDG_BELA_POM_KSB_marriage_province_modifier
+					duration = 3650
+				}
+			}
+			hidden_effect = {
+				every_province = {
+					limit = {
+						country_or_non_sovereign_subject_holds = root
+						culture = czech
+					}
+					add_permanent_province_modifier = {
+						name = EDG_BELA_POM_KSB_marriage_province_modifier
+						duration = 3650
+					}
+				}
+			}
+			country_event = {
+				id = EDG_BELA_POM_events.83
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+		ai_importance = 1
+		color = {
+			160 30 170
+		}
+	}
+	EDG_BELA_POM_KSB_marriage_decision_rurikovich = {#格里芬-留里克王朝联姻
+		potential = {
+			has_country_flag = EDG_BELA_POM_marriage_mechanic_flag
+		}
+		allow = {
+			custom_trigger_tooltip = { #已解锁格里芬-留里克王朝联姻
+				tooltip = EDG_BELA_POM_KSB_marriage_decision_rurikovich_trigger_tt
+				has_country_flag = EDG_BELA_POM_marriage_mechanic_flag_rurikovich_flag
+			}
+			has_regency = no
+			has_consort = no
+			is_at_war = no
+			dynasty = "格里芬"
+		}
+		effect = {
+			set_country_flag = has_EDG_BELA_POM_KSB_marriage_decision_rurikovich_flag
+			add_ruler_modifier = {
+				name = EDG_BELA_POM_KSB_marriage_rurikovich_modifier
+				duration = 7300
+			}
+			custom_tooltip = EDG_BELA_POM_KSB_marriage_decision_rurikovich_effect_tt
+			#所有我们或属国控制下的东斯拉夫文化省份：
+			tooltip = {
+				add_permanent_province_modifier = {
+					name = EDG_BELA_POM_KSB_marriage_province_modifier
+					duration = 3650
+				}
+			}
+			hidden_effect = {
+				every_province = {
+					limit = {
+						country_or_non_sovereign_subject_holds = root
+						culture_group = east_slavic
+					}
+					add_permanent_province_modifier = {
+						name = EDG_BELA_POM_KSB_marriage_province_modifier
+						duration = 3650
+					}
+				}
+			}
+			country_event = {
+				id = EDG_BELA_POM_events.83
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+		ai_importance = 1
+		color = {
+			160 30 170
+		}
+	}
+	EDG_BELA_POM_KSB_marriage_decision_sisman = {#格里芬-希什曼王朝联姻
+		potential = {
+			has_country_flag = EDG_BELA_POM_marriage_mechanic_flag
+		}
+		allow = {
+			custom_trigger_tooltip = { #已解锁格里芬-希什曼王朝联姻
+				tooltip = EDG_BELA_POM_KSB_marriage_decision_sisman_trigger_tt
+				has_country_flag = EDG_BELA_POM_marriage_mechanic_flag_sisman_flag
+			}
+			has_regency = no
+			has_consort = no
+			is_at_war = no
+			dynasty = "格里芬"
+		}
+		effect = {
+			set_country_flag = has_EDG_BELA_POM_KSB_marriage_decision_sisman_flag
+			add_ruler_modifier = {
+				name = EDG_BELA_POM_KSB_marriage_sisman_modifier
+				duration = 7300
+			}
+			custom_tooltip = EDG_BELA_POM_KSB_marriage_decision_sisman_effect_tt
+			#所有我们或属国控制下的保加利亚文化省份：
+			tooltip = {
+				add_permanent_province_modifier = {
+					name = EDG_BELA_POM_KSB_marriage_province_modifier
+					duration = 3650
+				}
+			}
+			hidden_effect = {
+				every_province = {
+					limit = {
+						country_or_non_sovereign_subject_holds = root
+						culture = bulgarian
+					}
+					add_permanent_province_modifier = {
+						name = EDG_BELA_POM_KSB_marriage_province_modifier
+						duration = 3650
+					}
+				}
+			}
+			country_event = {
+				id = EDG_BELA_POM_events.83
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+		ai_importance = 1
+		color = {
+			160 30 170
+		}
+	}
+	EDG_BELA_POM_KSB_marriage_decision_nemanya = {#格里芬-尼曼雅王朝联姻
+		potential = {
+			has_country_flag = EDG_BELA_POM_marriage_mechanic_flag
+		}
+		allow = {
+			custom_trigger_tooltip = { #已解锁格里芬-尼曼雅王朝联姻
+				tooltip = EDG_BELA_POM_KSB_marriage_decision_nemanya_trigger_tt
+				has_country_flag = EDG_BELA_POM_marriage_mechanic_flag_nemanya_flag
+			}
+			has_regency = no
+			has_consort = no
+			is_at_war = no
+			dynasty = "格里芬"
+		}
+		effect = {
+			set_country_flag = has_EDG_BELA_POM_KSB_marriage_decision_nemanya_flag
+			add_ruler_modifier = {
+				name = EDG_BELA_POM_KSB_marriage_nemanya_modifier
+				duration = 7300
+			}
+			custom_tooltip = EDG_BELA_POM_KSB_marriage_decision_nemanya_effect_tt
+			#所有我们或属国控制下的塞尔维亚文化省份：
+			tooltip = {
+				add_permanent_province_modifier = {
+					name = EDG_BELA_POM_KSB_marriage_province_modifier
+					duration = 3650
+				}
+			}
+			hidden_effect = {
+				every_province = {
+					limit = {
+						country_or_non_sovereign_subject_holds = root
+						culture = serbian
+					}
+					add_permanent_province_modifier = {
+						name = EDG_BELA_POM_KSB_marriage_province_modifier
+						duration = 3650
+					}
+				}
+			}
+			country_event = {
+				id = EDG_BELA_POM_events.83
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+		ai_importance = 1
+		color = {
+			160 30 170
+		}
+	}
+}

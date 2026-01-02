@@ -1,0 +1,150 @@
+country_decisions = {
+
+
+	EDG_SCO_decision_1 = {#迁都伦敦
+		major = yes
+		potential = {
+			OR = {
+				primary_culture = EDG_gaelic_scottish
+				primary_culture = EDG_gaelic_english
+				culture_group = british
+			}
+			NOT = {
+			  capital = 236
+			}
+			NOT = { has_country_flag = EDG_SCO_decision_1_flag }
+			normal_or_historical_nations = yes
+			OR = {
+			  ai = no
+			  is_playing_custom_nation = no
+			}
+		}
+		allow = {
+			is_at_war = no
+			OR = {
+				primary_culture = EDG_gaelic_scottish
+				primary_culture = EDG_gaelic_english
+				culture_group = british
+			}
+			236 = {
+			  is_state = yes
+			}
+			owns = 236
+			adm_power = 100
+		}
+		effect = {
+			add_adm_power = -100
+			set_country_flag = EDG_SCO_decision_1_flag
+			add_stability = 1
+			add_core = 236
+			236 = {
+			  move_capital_effect = yes
+			  change_culture = ROOT
+			  change_religion = ROOT
+			  change_province_name = "Londinium"
+			  rename_capital = "Londinium"
+			}
+			if = {
+			  limit = {
+				NOT = {
+				  has_global_flag = EDG_236_restored
+				}
+			  }
+			  236 = {
+				add_base_tax = 1
+				add_base_production = 2
+				add_base_manpower = 1
+			  }
+			  set_global_flag = EDG_236_restored
+			}
+			
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	EDG_SCO_decision_2 = {#陪都洛锡安
+		major = yes
+		potential = {
+			OR = {
+				primary_culture = EDG_gaelic_scottish
+				primary_culture = EDG_gaelic_english
+				culture_group = british
+			}
+			NOT = {
+			  capital = 248
+			}
+			owns = 248
+			NOT = { has_country_flag = EDG_SCO_decision_2_flag }
+			normal_or_historical_nations = yes
+			OR = {
+			  ai = no
+			  is_playing_custom_nation = no
+			}
+		}
+		allow = {
+			is_at_war = no
+			OR = {
+				primary_culture = EDG_gaelic_scottish
+				primary_culture = EDG_gaelic_english
+				culture_group = british
+			}
+			248 = {
+			  is_state = yes
+			}
+			owns = 248
+			adm_power = 100
+		}
+		effect = {
+			add_adm_power = -100
+			set_country_flag = EDG_SCO_decision_2_flag
+			248 = {
+				add_province_modifier = {
+					name = "EDG_SCO_decision_2_modifier"
+					duration = -1
+				}
+			}
+			
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	EDG_SCO_decision_3 = {#笼络新凯尔特
+		major = yes
+		potential = {
+			culture_group = gaelic
+			any_country = {
+				has_country_flag = EDG_flavorNIR_1_flag
+				ai = yes
+			}
+			NOT = { has_country_flag = EDG_SCO_decision_3_flag }
+			normal_or_historical_nations = yes
+			exists = NIR
+		}
+		allow = {
+			is_at_war = no
+			culture_group = gaelic
+			is_great_power = yes
+			NIR = {
+				has_opinion = {
+					who = ROOT
+					value = 150
+				}
+				NOT = { total_development = 300 }
+			}
+		}
+		effect = {
+			custom_tooltip = EDG_SCO_decision_3_tt
+			set_country_flag = EDG_SCO_decision_3_flag
+			add_dip_power = -100
+			NIR = {
+				country_event = { id = EDG_flavorNIR.3 }
+			}
+			
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

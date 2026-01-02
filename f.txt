@@ -415,7 +415,9 @@
 			# country_event = { id = EDG_flavor_FYM_mission.50 }
 
 			# custom_tooltip = EDG_SPACE_TT
-			set_country_flag = EDG_FYM_disaster_mission_3_6_flag
-			custom_tooltip = EDG_FYM_disaster_mission_3_6_flag_tt
-				remove_country_modifier = EDG_FYM_1444_decline_modifier
-				swap_non_generic_missions = yes
+			# set_country_flag = EDG_FYM_disaster_mission_3_6_flag
+			# custom_tooltip = EDG_FYM_disaster_mission_3_6_flag_tt
+			# 	remove_country_modifier = EDG_FYM_1444_decline_modifier
+			# 	swap_non_generic_missions = yes
+
+			change_tag = TUR
