@@ -117,7 +117,7 @@ EDG_CWN_city_cluster_order_short:0 "Urban Cluster"
 EDG_CWN_city_cluster_TT:0 "Requires 1 point of City Governance Experience. Current: §Y[Root.EDG_HER_CITY_EX_var.GetValue]§!."
 EDG_CWN_city_cluster_2_TT:0 "Lose 1 point of City Governance Experience. Current: §Y[Root.EDG_HER_CITY_EX_var.GetValue]§!."
 
-estate_edg_CWN_new_army_name:0 "新军"
+estate_edg_CWN_new_army_name:0 "New Army"
 
 EDG_CWN_Caledonia_from_peasants:0 "Enhanced Training"
 EDG_CWN_Caledonia_from_peasants_desc:0 ""

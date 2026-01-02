@@ -38,7 +38,7 @@ EDG_ROS_MIL_faction_influence:0 "Kiev Faction Influence"
 EDG_ROS_DIP_faction_influence:0 "Novgorod Faction Influence"
 EDG_ROS_ADM_faction_influence:0 "Moscow Faction Influence"
 
-EDG_ROS_MIL_faction_FACTION_DESC:0 "The Kiev Faction is the most revolutionary faction within the Russian Republic. They represent the interests of the broad peasantry and artisans,渴望liberating their compatriots and consolidating and expanding their own interests through military action. §YBeing at war or having high army tradition will increase this faction's influence§!"
+EDG_ROS_MIL_faction_FACTION_DESC:0 "The Kiev Faction is the most revolutionary faction within the Russian Republic. They represent the interests of the broad peasantry and artisans, eagerly liberating their compatriots and consolidating and expanding their own interests through military action. §YBeing at war or having high army tradition will increase this faction's influence§!"
 EDG_ROS_DIP_faction_FACTION_DESC:0 "The Novgorod Faction represents the interests of the merchant class within the country. They are generally detached from production, possess certain social resources but lack sufficient voice, and have economic power that cannot be translated into political power. §YHigh navy tradition and overextension will increase this faction's influence§!"
 EDG_ROS_ADM_faction_FACTION_DESC:0 "The Moscow Faction is the most conservative faction within the Republic. The vast bureaucracy forms the core of the Moscow Faction. They advocate for expanding bureaucratic privileges and hindering other social strata from accessing power. §YHigh stability will increase this faction's influence§!"
     

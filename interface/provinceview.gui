@@ -1889,6 +1889,21 @@ guiTypes = {
                 scripted = yes
                 clicksound = click
             }
+			#BAV
+			guiButtonType = {
+                name = "EDG_BAV_GUI_build_beer_factory_button"
+                position = { x = 193 y = 520 }
+                quadTextureSprite ="EDG_BAV_GUI_build_beer_factory_button"
+                scripted = yes
+                clicksound = click
+            }
+			guiButtonType = {
+				name = "EDG_BAV_GUI_change_goods_to_grain_button"
+				position = { x = 193 y = 520 }
+				quadTextureSprite ="EDG_BAV_GUI_change_goods_to_grain_button"
+				scripted = yes
+				clicksound = click
+			}
 
 			#TODO make a nice button
 			guiButtonType = {

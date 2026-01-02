@@ -104,9 +104,9 @@ EDG_per_mission_4_11_local_modifier_desc:0 "Guided by the right policies, the de
 EDG_per_mission_5_12_local_modifier:0 "Qanat System"
 EDG_per_mission_5_12_local_modifier_desc:0 "The region's qanat system is self-sustaining, ensuring local economic stability and development."
 
-EDG_IBR_MSL_Shadhili_invite_modifier:0 "『Order』Appointment of the Shadhili Order"
-EDG_IBR_MSL_Qadiri_invite_modifier:0 "『Order』Appointment of the Qadiri Order"
-EDG_IBR_MSL_Aissawa_invite_modifier:0 "『Order』Appointment of the Aissawa Order"
+EDG_IBR_MSL_Shadhili_invite_modifier:0 "Order: Appointment of the Shadhili Order"
+EDG_IBR_MSL_Qadiri_invite_modifier:0 "Order: Appointment of the Qadiri Order"
+EDG_IBR_MSL_Aissawa_invite_modifier:0 "Order: Appointment of the Aissawa Order"
 EDG_IBR_MSL_Shadhili_invite_modifier_desc:0 "The Shadhili Order is a Sufi order founded in Morocco. They focus on the pursuit of intellectual achievements, including the creation of literary works and poetry."
 EDG_IBR_MSL_Qadiri_invite_modifier_desc:0 "The Qadiri Order was founded in Iran. It is a Sufi order organization with a relatively wide spread, resulting in different forms and structures around the world."
 EDG_IBR_MSL_Aissawa_invite_modifier_desc:0 "The Aissawa Order is a relatively young Sufi order. Its legacy of poems and prayers has evolved into ritual forms accompanied by music and dance."

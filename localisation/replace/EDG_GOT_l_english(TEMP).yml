@@ -119,7 +119,7 @@ EDG_got_scare_fleet_desc:0 "Europe's seas shall know their true masters again. W
 
 EDG_got_pirate_economy.tt:0 "Each province with the §YPirate Black Cove§! modifier grants §Y50§!¤ and §Y1k§!£icon_sailors£ yearly"
 
-got_pirate_raid_the_baltics_tt1: "When declaring war, the target gains §YAfraid of One's Shadow』§! for §Y1§! year with these effects:\nDefensiveness: §R-25.0%§!\nForeign Spy Detection: §R-25.0%§!\n\nWe gain:"
+got_pirate_raid_the_baltics_tt1: "When declaring war, the target gains §Y'Afraid of One's Shadow'§! for §Y1§! year with these effects:\nDefensiveness: §R-25.0%§!\nForeign Spy Detection: §R-25.0%§!\n\nWe gain:"
 
 got_pirate_raid_the_baltics.tt: "Enables CB §YPirate Raid§\n\nIf declaring with §YPirate Raid§!, neither side may call allies for §Y2§! years.\n\nEnables peace term §YPlunder Provinces§!, letting us sack all occupied provinces (losing up to §R3§! development), converting each lost development into §G10§!£allmana£ and §G20§!£icon_gold£.\n"
 

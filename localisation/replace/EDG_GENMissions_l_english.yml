@@ -15,7 +15,7 @@ EDG_GEN_mission_2_3.effect.tt:0 "Sign §Ttruces§! of §G5§! years with all §Y
 
 EDG_GEN_mission_2_5_title:0 "Tit for Tat"
 EDG_GEN_mission_2_5_desc:0 "In 1443, the Despot of Morea, Theodoros III, took advantage of the chaos to occupy Genoa's Aegean stronghold, almost completely eradicating our influence in the Eastern Mediterranean. Such despicable tactics are not theirs alone to use.\n\nArta, a legacy of the Fourth Crusade, survives in the seams between Turks, Byzantines, Bulgarians, and Serbs. They too seek stability and a firm foothold in the Balkans. We only need to give a slight push, inciting conflict between them and Morea, making our action to reclaim the Aegean base much easier."
-EDG_GEN_mission_2_5.event.tt:0 "If @EP0 §Y[EP0.GetName]§! has 75 opinion of us and we have a §G30§! §Yspy network§! in @MOE §Y[MOE.GetName]§!, the event §T「A Deal」§! will trigger.\n"
+EDG_GEN_mission_2_5.event.tt:0 "If @EP0 §Y[EP0.GetName]§! has 75 opinion of us and we have a §G30§! §Yspy network§! in @MOE §Y[MOE.GetName]§!, the event §T'A Deal'§! will trigger.\n"
 EDG_GEN_mission_2_5.effect.tt:0 "The next time we declare war on @MOE §Y[MOE.GetName]§! with the §Yreconquest§! casus belli, neither side can §Tcall allies§! into the war. §YWe have this one and only chance.§!\n"
 
 EDG_GEN_mission_2_7_title:0 "Gold and Silver"
@@ -43,7 +43,7 @@ EDG_GEN_mission_4_3_desc:0 "Although those behemoths may have little interest in
 
 EDG_GEN_mission_4_5_title:0 "Eye for an Eye"
 EDG_GEN_mission_4_5_desc:0 "During the First Ligurian Rebellion, Nikephoros and Theodoros of the Doukas family led troops to occupy the Republic of Genoa's territories along the Black Sea coast, causing us to completely lose our trade in the Black Sea region.\n\nThe Kaffa base in the Black Sea is one of Genoa's most important trading posts in the east. Furthermore, Theodoros is wary of his neighbors, the Doukas family. Therefore, we can draft an agreement to no longer pursue Theodoros' occupation of the former colony, in exchange for his military assistance in helping us recapture Kaffa."
-EDG_GEN_mission_4_5.event.tt:0 "If @FEO §Y[FEO.GetName]§! has 75 opinion of us and we have a §G30§! §Yspy network§! in @AZO §Y[AZO.GetName]§!, the event §T「A Transaction」§! will trigger.\n"
+EDG_GEN_mission_4_5.event.tt:0 "If @FEO §Y[FEO.GetName]§! has 75 opinion of us and we have a §G30§! §Yspy network§! in @AZO §Y[AZO.GetName]§!, the event §T'A Transaction'§! will trigger.\n"
 EDG_GEN_mission_4_5.effect.tt:0 "The next time we declare war on @AZO §Y[AZO.GetName]§! with the §Yreconquest§! casus belli, neither side can §Tcall allies§! into the war. §YWe have this one and only chance.§!\n"
 
 EDG_GEN_mission_4_7_title:0 "Across the Aegean"
@@ -62,7 +62,7 @@ EDG_GEN_mission_5_8.effect.tt:0 "Receive §Ydifferent§! §Trewards§! based on 
 
 EDG_GEN_mission_a_1_1_title:0 "New Grudges, Old Hatreds"
 EDG_GEN_mission_a_1_1_desc:0 "The House of Savoy was driven out during the rebellion of those Cathar mobs, yet fate did not allow its demise. The 1437 Genoese military coup brought the House of Savoy back onto the stage of history. With domestic issues resolved, it is time to settle old scores with those heretics who occupied the family's ancestral lands."
-EDG_GEN_mission_a_1_1.effect.tt:0 "Gain §Tcores§! on all §Tcore§! §Yprovinces§! of @SAV §Y[SAV.GetName]§!\n\nUnlock §Ydecision§! 「Reclaim the Legacy of @SAV §Y[SAV.GetName]§!」\nUnlock §Ydecision§! 「Protect @SZO §Y[SZO.GetName]§!」\n"
+EDG_GEN_mission_a_1_1.effect.tt:0 "Gain §Tcores§! on all §Tcore§! §Yprovinces§! of @SAV §Y[SAV.GetName]§!\n\nUnlock §Ydecision§! 'Reclaim the Legacy of @SAV §Y[SAV.GetName]§!'\nUnlock §Ydecision§! 'Protect @SZO §Y[SZO.GetName]§!'\n"
 
 EDG_GEN_mission_a_1_2_title:0 "Across the Mountains"
 EDG_GEN_mission_a_1_2_desc:0 "Even the Alps cannot stop everything. The Savoyard homeland must be reclaimed!"
@@ -79,7 +79,7 @@ EDG_GEN_mission_a_1_7_desc:0 "The griffin, one of Genoa's oldest symbols, has al
 
 EDG_GEN_mission_a_1_9_title:0 "Stirring Clouds and Waves"
 EDG_GEN_mission_a_1_9_desc:0 "Naval warfare is more brutal than on land. We must begin to prioritize this aspect, establishing dedicated naval arsenals to enhance fleet strength and protect the seas belonging to Genoa."
-EDG_GEN_mission_a_1_9.effect.tt:0 "Unlock §Ynaval doctrine§! 「§TGenoese Arsenal§!」"
+EDG_GEN_mission_a_1_9.effect.tt:0 "Unlock §Ynaval doctrine§! '§TGenoese Arsenal§!'"
 
 EDG_GEN_mission_a_2_2_title:0 "Return to Turin"
 EDG_GEN_mission_a_2_2_desc:0 "Turin, serving as the Cathar bridgehead into Italy, has been engaged in childish squabbles with the transformed Duchy of Savoy, unaware that this farce has already concluded."
@@ -104,7 +104,7 @@ EDG_GEN_mission_c_3.condition.tt:0 "The §YSecond Ligurian Uprising§! disaster 
 
 EDG_GEN_mission_c_3_2_title:0 "Casa di San Giorgio"
 EDG_GEN_mission_c_3_2_desc:0 "As the Bank of Saint George's credit operations continue to expand, the previous operating model is increasingly inadequate. We should establish an effective central bank to coordinate the overall situation."
-EDG_GEN_mission_c_3_2.effect.tt:0 "Unlock §Ygovernment reform§! 「§TCentral Bank§!」\n\n§TOperational Efficiency§! will now provide a §Gadministrative capacity§! bonus\n"
+EDG_GEN_mission_c_3_2.effect.tt:0 "Unlock §Ygovernment reform§! '§TCentral Bank§!'\n\n§TOperational Efficiency§! will now provide a §Gadministrative capacity§! bonus\n"
 
 EDG_GEN_mission_c_3_3_title:0 "Biding Our Time"
 EDG_GEN_mission_c_3_3_desc:0 "We have always been watching the situation in Lombardy. This behemoth has caused us considerable trouble in the past, and now all we need to do is wait."
@@ -174,24 +174,24 @@ EDG_GEN_mission_a_5_10.effect.tt:0 "§TArmy professionalism§! modifiers can now
 
 EDG_GEN_mission_b_1_2_title:0 "Holy Commerce"
 EDG_GEN_mission_b_1_2_desc:0 "In the past, commerce was almost always conducted alongside religious activities. As papal authority continues to wane, religion is no longer strongly bound to commerce. We must reconsider our business model."
-EDG_GEN_mission_b.conditon.tt:0 "The §Yconditions§! for this mission depend on the choice made in the event §T「Commercial Expansion」§!"
+EDG_GEN_mission_b.conditon.tt:0 "The §Yconditions§! for this mission depend on the choice made in the event §T'Commercial Expansion'§!"
 
 EDG_GEN_mission_b_1_5_title:0 "Blazing Flames"
 EDG_GEN_mission_b_1_5_desc:0 "The raging flames in Iberia present even greater commercial opportunities. Regardless of the reason, we stand to gain enormous profits from it."
 EDG_GEN_mission_b_1_5.tt.condition:0 "§YIs the Unifier of Iberia§!"
 EDG_GEN_mission_b_1_5.effect.tt:0 "After the §Yunification of Iberia§! by the following countries, we will be able to obtain §Ttrade privileges§! in §YIberia§!\n"
 EDG_GEN_mission_b_1_5.bouns.tt:0 "This §Ymission reward§! depends on the §Tdifferent§! §Ycompletion conditions§!\n"
-EDG_GEN_mission_b.bouns.tt:0 "This §Ymission reward§! depends on the choice made in the event §T「Commercial Expansion」§!\n"
+EDG_GEN_mission_b.bouns.tt:0 "This §Ymission reward§! depends on the choice made in the event §T'Commercial Expansion'§!\n"
 EDG_GEN_special_commercial_privileges:0 "Commercial Privileges"
 EDG_GEN_mission_b_1_5.effect_1.tt:0 "As long as we maintain an §Talliance§! with the §Yfollowing country§!, both sides will receive certain §Ybonuses§!\n"
 
 EDG_GEN_mission_b_1_6_title:0 "The Blood of El Cid"
 EDG_GEN_mission_b_1_6_desc:0 "Rodrigo Díaz de Vivar, known as El Cid, the Champion of Spain. An immortal figure in the Spanish epic Cantar de Mio Cid, he served as a vassal to Alfonso VI of Castile but was exiled by the king in 1081. For many years, he fought for Spain and the Moors against their enemies. Due to his loyalty to the king, he was recalled and favored, becoming the Protector and ruler of Valencia. In 1099, El Cid tragically died from an arrow wound in a war at Valencia, and his remains were buried there. We shall reclaim the city of Valencia so that the faithful may pay their respects."
-EDG_GEN_mission_b_1_6.effect.tt:0 "Unlock §Ydecision§! 「Purchase §Y[226.GetName]§!」\nUnlock §Ydecision§! 「Purchase §Y[1751.GetName]§!」"
+EDG_GEN_mission_b_1_6.effect.tt:0 "Unlock §Ydecision§! 'Purchase §Y[226.GetName]§!'\nUnlock §Ydecision§! 'Purchase §Y[1751.GetName]§!'"
 
 EDG_GEN_mission_b_1_7_title:0 "Trade-in for the New"
 EDG_GEN_mission_b_1_7_desc:0 "Genoa's shipbuilding technology was once leading the way, but various setbacks have now left us far behind our neighbors. Therefore, we need to begin learning more advanced shipbuilding techniques and start refitting our existing vessels to pave the way for our future commercial and naval activities."
-EDG_GEN_mission_b_1_7.effect.tt:0 "Refit all §Ytrade ships§! docked in the province of §Y[101.GetName]§! into §Ycaravels§!\n\nUnlock §Ydecisions§! related to 「§YShip Refitting§!」\n"
+EDG_GEN_mission_b_1_7.effect.tt:0 "Refit all §Ytrade ships§! docked in the province of §Y[101.GetName]§! into §Ycaravels§!\n\nUnlock §Ydecisions§! related to '§YShip Refitting§!'\n"
 
 EDG_GEN_mission_b_1_9_title:0 "Financial Reform"
 EDG_GEN_mission_b_1_9_desc:0 "Past wars with Venice forced Genoa to shift towards the financial sector, which also presented new opportunities. Now we possess highly mature financial services and a banking system. If we begin further perfecting these services, it will grant us an even greater economic advantage."
@@ -199,7 +199,7 @@ EDG_GEN_mission_b_1_9.effect.tt:0 "§TOperational Efficiency§! will now provide
 
 EDG_GEN_mission_b_1_10_title:0 "The State of Profit"
 EDG_GEN_mission_b_1_10_desc:0 "Profit is the merchant's first principle and the foundation of Genoa's current glory. Beneath our ruthless and unassailable diplomatic demeanor, everything before us can be measured in money."
-EDG_GEN_mission_b_1_10.effect.tt:0 "Unlock §Ydiplomatic action§! 「§TAcquire Country§!」\nAllows us to §Yspend a certain amount§! of ¤ to acquire the §Yentire territory§! of the target country and gain §Tautonomous cores§!\n\nGrant all countries whose §Ycapital§! is located in the §YLevant§! and §YNorthern Africa§! subcontinents the §Teligibility§! to use the §YCasa di San Giorgio§!\n"
+EDG_GEN_mission_b_1_10.effect.tt:0 "Unlock §Ydiplomatic action§! '§TAcquire Country§!'\nAllows us to §Yspend a certain amount§! of ¤ to acquire the §Yentire territory§! of the target country and gain §Tautonomous cores§!\n\nGrant all countries whose §Ycapital§! is located in the §YLevant§! and §YNorthern Africa§! subcontinents the §Teligibility§! to use the §YCasa di San Giorgio§!\n"
 
 EDG_GEN_mission_b_2_3_title:0 "Stephen's Legacy"
 EDG_GEN_mission_b_2_3_desc:0 "The Children's Crusade initiated by Stephen presents us with new commercial opportunities. Profiting in the name of holy war would be an excellent chance, though we do not reject other methods to secure our gains."
@@ -207,12 +207,12 @@ EDG_GEN_mission_b_2_3.effect.tt:0 "As long as we maintain an §Talliance§! with
 
 EDG_GEN_mission_b_2_4_title:0 "Levantine Counterattack"
 EDG_GEN_mission_b_2_4_desc:0 "Since the fall of the Kingdom of Jerusalem, Catholicism has not set foot in the Levant again. But before our iron fleet and army, the Holy City is restored. Considering releasing this sacred kingdom will open up more commercial opportunities for us."
-EDG_GEN_mission_b_2_4.effect.tt:0 "Unlock §Ydecision§! 「Reestablish @KOJ §Y[KOJ.GetName]§!」\n"
+EDG_GEN_mission_b_2_4.effect.tt:0 "Unlock §Ydecision§! 'Reestablish @KOJ §Y[KOJ.GetName]§!'\n"
 
 EDG_GEN_mission_b_2_7_title:0 "Alexandria's Vespers"
 EDG_GEN_mission_b_2_7_desc:0 "Alexandria, as a famous port in North Africa, has long competed with us for the trade routes of Eastern imports and exports. With it under our control, Eastern trade will be entirely in our hands."
-EDG_GEN_mission_b_2_7.effect.tt:0 "Unlock §Ydecision§! 「Construct the §YSuez Canal§!」\n"
-EDG_GEN_mission_b_2_7.effect_1.tt:0 "Unlock §Ydecision§! 「Purchase §Y[4316.GetName]§!」\nUnlock §Ydecision§! 「Purchase §Y[2315.GetName]§!」\n"
+EDG_GEN_mission_b_2_7.effect.tt:0 "Unlock §Ydecision§! 'Construct the §YSuez Canal§!'\n"
+EDG_GEN_mission_b_2_7.effect_1.tt:0 "Unlock §Ydecision§! 'Purchase §Y[4316.GetName]§!'\nUnlock §Ydecision§! 'Purchase §Y[2315.GetName]§!'\n"
 
 EDG_GEN_mission_b_2_8_title:0 "Discard the Past"
 EDG_GEN_mission_b_2_8_desc:0 "Genoa may have had a glorious past, but more often, it was plagued by constant military defeats and failures. Before embracing change, we must cast aside those past failures to create a hopeful future."
@@ -233,7 +233,7 @@ EDG_GEN_mission_b_4_6_desc:0 "The Balkans have long been a focal point of our co
 
 EDG_GEN_mission_b_4_8_title:0 "Create the Future"
 EDG_GEN_mission_b_4_8_desc:0 "Past trading methods are no longer applicable. We must discard the old ways to create the future."
-EDG_GEN_mission_b_4_8.effec.tt:0 "Unlock §Yburgher§! privilege 「Amity Act」"
+EDG_GEN_mission_b_4_8.effec.tt:0 "Unlock §Yburgher§! privilege 'Amity Act'"
 
 EDG_GEN_mission_b_4_10_title:0 "Recast the Glory"
 EDG_GEN_mission_b_4_10_desc:0 "Genoa once dominated the entire Mediterranean after defeating Pisa. Now, we shall recast that past glory. A stronger commercial empire will once again rule its seas!"

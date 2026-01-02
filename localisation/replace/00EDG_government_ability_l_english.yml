@@ -393,8 +393,8 @@ mechanic_EDG_HZB_estate_ability_yes:0 "Enables the §YIlkhanate§! estate mechan
 mechanic_EDG_TUR_gaomen_ability:0 "Enables the Ottoman Empire §YSublime Porte (Gaomen)§! mechanism, located in the government interface (if not displayed, please disable your other MODs)"
 mechanic_EDG_TUR_gaomen_ability_yes:0 "Enables the Ottoman Empire §YSublime Porte (Gaomen)§! mechanism, located in the government interface (if not displayed, please disable your other MODs)"
 
-mechanic_EDG_enable_estate_edg_Paladin_ability:0 "Enables the §YPaladin§! estate"
-mechanic_EDG_enable_estate_edg_Paladin_ability_yes:0 "Enables the §YPaladin§! estate"
+mechanic_EDG_enable_estate_edg_paladin_ability:0 "Enables the §YPaladin§! estate"
+mechanic_EDG_enable_estate_edg_paladin_ability_yes:0 "Enables the §YPaladin§! estate"
 
     celestial_empire_altaic_assimilated:0 ""
     celestial_empire_baltic_assimilated:0 ""

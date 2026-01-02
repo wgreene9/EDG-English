@@ -1,0 +1,87 @@
+EDG_GEN_enable_george_house_dip_trigger = {
+	knows_country = from
+	from = {
+		knows_country = root
+	}
+	custom_trigger_tooltip = {
+		tooltip = EDG_GEN_main_surface_button_2.conditon.tt
+		NOT = {
+			has_country_flag = EDG_GEN_blocked_account_flag
+		}
+	}
+	NOT = {
+		has_country_modifier = EDG_GEN_debt_default
+	}
+	OR = {
+		capital_scope = {
+			superregion = europe_superregion
+		}
+		capital_scope = {
+			superregion = eastern_europe_superregion
+		}
+		custom_trigger_tooltip = {
+			tooltip = EDG_GEN_enable_use_bank.tt
+			has_country_flag = EDG_GEN_enable_use_bank
+		}
+	}
+	from = {
+		is_bankrupt = no
+		NOT = {
+			is_rival = root
+		}
+		NOT = {
+			war_with = from
+		}
+	}
+}
+EDG_GEN_enable_george_house_decision_potential_trigger = {
+	OR = {
+		has_country_flag = EDG_GEN_enable_use_bank
+		capital_scope = {
+			superregion = europe_superregion
+		}
+		capital_scope = {
+			superregion = eastern_europe_superregion
+		}
+	}
+	has_saved_global_event_target = EDG_St_George_House_Target
+	event_target:EDG_St_George_House_Target = {
+		has_government_mechanic = EDG_GEN_george_house_mechanic
+	}
+	NOT = {
+		tag = event_target:EDG_St_George_House_Target
+	}
+	NOT = {
+		OR = {
+			has_reform = FOI_UCI_union_commune_of_iberian
+			has_reform = FOI_FWF_forward_front
+		}
+	}
+}
+EDG_GEN_enable_george_house_decision_allow_trigger = {
+	custom_trigger_tooltip = {
+		tooltip = EDG_GEN_main_surface_button_2.conditon.tt
+		NOT = {
+			has_country_flag = EDG_GEN_blocked_account_flag
+		}
+	}
+	NOT = {
+		has_country_modifier = EDG_GEN_debt_default
+	}
+	event_target:EDG_St_George_House_Target = {
+		NOT = {
+			is_rival = root
+		}
+		is_bankrupt = no
+		num_of_cities = 1
+	}
+}
+EDG_GEN_custom_gui_trigger = {
+	from = {
+		has_government_mechanic = EDG_GEN_george_house_mechanic
+		has_country_flag = EDG_GEN_open_main_surface_flag
+	}
+	NOT = {
+		tag = from
+	}
+}

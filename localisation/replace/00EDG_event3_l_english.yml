@@ -46,15 +46,15 @@ EDG_flavorENG_mission.16.bb:0 "We have more important matters to attend to."
 flavor_brapru.EVTNAME1:0 "Palace on Spree Island"
 
 
-EDG_flavorAEL.101.title:0 "阿尔勒流亡者"
-EDG_flavorAEL.101.desc:0 "阿尔勒王国与法兰西王国之间的大规模战争导致了阿尔勒王国境内大量的人口流失，一些逃兵和失去了领地的流浪骑士不堪战争的侵扰，来到了我们的领地上。他们或许违背了封建义务，但如今的他们对我们具有利用价值。"
-EDG_flavorAEL.101.aa:0 "欢迎他们的到来。"
-EDG_flavorAEL.101.bb:0 "敲诈他们一笔。"
+EDG_flavorAEL.101.title:0 "Arlesian Exiles"
+EDG_flavorAEL.101.desc:0 "The large-scale war between the Kingdom of Arles and the Kingdom of France has led to a significant population loss within the Kingdom of Arles. Some deserters and landless wandering knights, unable to bear the ravages of war, have arrived in our territories. They may have breached their feudal obligations, but they now hold value for us."
+EDG_flavorAEL.101.aa:0 "Welcome their arrival."
+EDG_flavorAEL.101.bb:0 "Extort a sum from them."
 
-EDG_flavorAEL.102.title:0 "阿尔勒-意大利战争"
-EDG_flavorAEL.102.desc:0 "随着阿尔勒王国涉足意大利战争，意大利的战火再一次如燎原烈火般蔓延开来。富饶且发达的意大利经受蹂躏，许多抱有美满理想的艺术家逃离了自己的家园，并来到了我们的土地上，希望我们能够庇护他。"
-EDG_flavorAEL.102.aa:0 "我们欢迎他！"
-EDG_flavorAEL.102.bb:0 "他身上一定有价值不菲的财物。"
+EDG_flavorAEL.102.title:0 "Arles-Italian War"
+EDG_flavorAEL.102.desc:0 "With the Kingdom of Arles involving itself in the Italian wars, the flames of war have once again spread across Italy like a wildfire. The rich and developed lands of Italy are being ravaged, and many artists with lofty ideals have fled their homes and come to our land, hoping we will grant them refuge."
+EDG_flavorAEL.102.aa:0 "We welcome him!"
+EDG_flavorAEL.102.bb:0 "He must possess valuables of considerable worth."
 
 EDG_flavor_BUL.101.title:0 "Refugees from Bulgaria"
 EDG_flavor_BUL.101.desc:0 "The harsh military service system of the Bulgarian Empire has brought great suffering to its people. Many who could no longer endure the tyranny of the Bulgarian Empire chose to flee their homeland. After traversing mountains, rivers, and seas, they have finally arrived on our lands, hoping we will grant them sanctuary."
@@ -592,8 +592,8 @@ NYAB_KAZ_106_desc:0 "Bäzmir, son of Kort, led his tribe far north to escape the
 NYAB_KAZ_106a:0 "The Bulgars are destined for greatness."
 NYAB_KAZ_106b:0 ""
 
-NYAB_KAZ_107_title:0 "Nawrūz Temür"
-NYAB_KAZ_107_desc:0 "Nawrūz Temür is a nephew of [Root.Monarch.GetName]. He was born clutching a blood clot and, despite his youth, possesses the most composed mind and exceptional military skill. His reputation spreads widely throughout the [Root.GovernmentName]. Although not [Root.Monarch.GetName]'s biological son, [Root.Monarch.GetName] treats him as his own and even wishes to name him as his heir."
+NYAB_KAZ_107_title:0 "Nawruz Temür"
+NYAB_KAZ_107_desc:0 "Nawruz Temür is a nephew of [Root.Monarch.GetName]. He was born clutching a blood clot and, despite his youth, possesses the most composed mind and exceptional military skill. His reputation spreads widely throughout the [Root.GovernmentName]. Although not [Root.Monarch.GetName]'s biological son, [Root.Monarch.GetName] treats him as his own and even wishes to name him as his heir."
 NYAB_KAZ_107a:0 "He is worthy to rule the [Root.GetName] [Root.GovernmentName]."
 NYAB_KAZ_107b:0 "We have another candidate in mind."
 
@@ -796,7 +796,7 @@ EDG_flavor_TUR_Sulaiman_reform_tt:0 "This event is part of the §YSuleiman Refor
 EDG_flavor_TUR_Sulaiman_reform_better_tt:0 "This event §Gbenefits§! the progress of the §YSuleiman Reforms§!."
 EDG_flavor_TUR_Sulaiman_reform_worse_tt:0 "This event §Rhinders§! the progress of the §YSuleiman Reforms§!."
 EDG_flavor_TUR.28.title:0 "Kanuni Sultan"
-EDG_flavor_TUR.28.desc:0 "Within Turkey, the [Root.Monarch.GetTitle] is known as 'Kanuni Sultan Suleiman.' The highest law of the empire is the Sharia, or Islamic law, the supreme code of Islam, which the Sultan has no authority to alter. However, the Ottoman Empire also had another legal system known as 'Kanun' or secular law, formulated based on the Sultan's personal will, covering criminal law, land ownership law, tax law, and more. Suleiman collected all verdicts issued by the nine Sultans before him, removed duplicate judgments for similar cases, selected those he deemed correct from contradictory judgments, and promulgated a new, unified legal code, which naturally avoided contradicting the fundamental laws of Islam. Suleiman's reforms to the legal system were aimed at adapting to the empire's rapid development and received the support of the Grand Mufti, Mehmed Ebussuud El-İmadi."
+EDG_flavor_TUR.28.desc:0 "Within Turkey, the [Root.Monarch.GetTitle] is known as 'Kanuni Sultan Suleiman.' The highest law of the empire is the Sharia, or Islamic law, the supreme code of Islam, which the Sultan has no authority to alter. However, the Ottoman Empire also had another legal system known as 'Kanun' or secular law, formulated based on the Sultan's personal will, covering criminal law, land ownership law, tax law, and more. Suleiman collected all verdicts issued by the nine Sultans before him, removed duplicate judgments for similar cases, selected those he deemed correct from contradictory judgments, and promulgated a new, unified legal code, which naturally avoided contradicting the fundamental laws of Islam. Suleiman's reforms to the legal system were aimed at adapting to the empire's rapid development and received the support of the Grand Mufti, Mehmed Ebussuud El-Imadi."
 EDG_flavor_TUR.28.a:0 "Praise the [Root.Monarch.GetTitle]."
 EDG_flavor_TUR.28.b:0 ""
 

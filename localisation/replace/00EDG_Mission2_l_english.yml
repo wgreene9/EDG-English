@@ -218,7 +218,7 @@ EDG_FYM_mission_3_19_tt:0 "§G[358.GetName]§!, §G[362.GetName]§!, and §G[363
 EDG_FYM_mission_3_23_tt:0 "All provinces in §YEgypt§! that have a §YWorkshop§! will gain the following modifier:"
 
 EDG_FYM_Alawite_or_resist_trigger_tt:0 "[Root.GetName]'s state religion is §YAlawite§! or has §Rsuppressed§! the §YAlawites§! in an event."
-EDG_estate_Caledonia_enlist_the_mamluks_provide_army_tradition_flag_tt:0 "The §Y[Root.Get精英军团Name]§! estate privilege §YEnlist the Mamluk Corps§! will additionally provide §G+1§! §YYearly Army Tradition§!"
+EDG_estate_Caledonia_enlist_the_mamluks_provide_army_tradition_flag_tt:0 "The §YMamluk§! estate privilege §YEnlist the Mamluk Corps§! will additionally provide §G+1§! §YYearly Army Tradition§!" # [Root.Get精英军团Name] $estate_edg_caledonia$
 
 can_seize_crownland_to_estates_targeted_flag_tt:0 "In the estate interaction §YSeize Crown Land§!, we can seize land from a specified estate."
 
@@ -792,8 +792,8 @@ EDG_flavor_LOT_mission_15_a_power_projection:0 "Against the Holy Roman Empire"
 
 EDG_mission_LOT_2_4_tt:0 "Each province we own that belongs to the §YGermanic§! culture group but is not part of the £icon_EDG_icon_hre_emperor£ §YHoly Roman Empire§! will provide us with:\n-§M1§! point of §Gprestige§!\n-§M2§! points of £mil£ military power!"
 
-MAY_upgrade_privilege_of_burghers_flag_tt:0 "The §Y'[Root.Get市民Name]'§! estate privilege §M'Sell Crown Land to the [Root.Get市民Name]'§! additionally provides the following modifier:\n-§MDiplomatic Technology Cost§!:§G-10%§!"
-EDG_mission_LOT_2_7_flag_tt:0 "Unlocks the §Y'[Root.Get市民Name]'§! estate privilege §M'Great Charter'§!, which can be upgraded in subsequent missions."
+MAY_upgrade_privilege_of_burghers_flag_tt:0 "The §Y'[Root.GetBurghersName]'§! estate privilege §M'Sell Crown Land to the [Root.GetBurghersName]'§! additionally provides the following modifier:\n-§MDiplomatic Technology Cost§!:§G-10%§!"
+EDG_mission_LOT_2_7_flag_tt:0 "Unlocks the §Y'[Root.GetBurghersName]'§! estate privilege §M'Great Charter'§!, which can be upgraded in subsequent missions."
 
 EDG_mission_LOT_2_7_a_tt_yes:0 "£yes£If @FLA Flanders is our §Ysubject§!, then"
 EDG_mission_LOT_2_7_a_tt_no:0 "£no£If @FLA Flanders is our §Ysubject§!, then"
@@ -937,7 +937,7 @@ EDG_form_coalition_Need_75_ae_flag_tt:0 "Countries that have not yet formed a §
 EDG_mission_LOT_1_29_a_tt_yes:0 "£yes£If any province we own has the province modifier §G'Potato Propagation'§! (obtained via the §Y'Columbian Exchange'§! event chain), then\nAll provinces under our rule producing §G'Grain'§! will gain this modifier, i.e.,"
 EDG_mission_LOT_1_29_a_tt_no:0 "£no£If any province we own has the province modifier §G'Potato Propagation'§! (obtained via the §Y'Columbian Exchange'§! event chain), then\nAll provinces under our rule producing §G'Grain'§! will gain this modifier, i.e.,"
 
-EDG_mission_LOT_1_30_flag_tt:0 "Unlocks the privilege §Y'Conscription Duty'§!. This privilege can be granted to either the §M'[Root.Get贵族Name]'§! (Nobility) or the §M'[Root.Get市民Name]'§! (Burghers) estate, but only to one of them."
+EDG_mission_LOT_1_30_flag_tt:0 "Unlocks the privilege §Y'Conscription Duty'§!. This privilege can be granted to either the §M'[Root.GetNobilityName]'§! or the §M'[Root.GetBurghersName]'§! estate, but only to one of them."
 
 EDG_mission_LOT_1_33_a_tt_yes:0 "£yes£If our §Y'Military Technology'§! is at least §Mlevel 6§! but lower than §Mlevel 8§!, then we will gain §G5%§! §YArist Professionalism§!."
 EDG_mission_LOT_1_33_a_tt_no:0 "£no£If our §Y'Military Technology'§! is at least §Mlevel 6§! but lower than §Mlevel 8§!, then we will gain §G5%§! §YArist Professionalism§!."
@@ -949,7 +949,7 @@ EDG_mission_LOT_1_34_trigger_tooltip:0 "All countries with their capital in §YE
 
 EDG_on_mil_tech_taken_add_1_mil_flag_tt:0 "When we §Yincrease military technology§!, our §Yruler§! will gain §M1§! point of §Ymilitary skill§!, §Gonce per ruler§!."
 
-estate_edg_Paladin_privilege_26_enable_flag_tt:0 "Unlocks the §Y'Paladin'§! estate privilege §G'Paladin Musketeer Regiment'§!. Granting this privilege will provide the following effect:"
+estate_edg_paladin_privilege_26_enable_flag_tt:0 "Unlocks the §Y'Paladin'§! estate privilege §G'Paladin Musketeer Regiment'§!. Granting this privilege will provide the following effect:"
 
 EDG_mission_LOT_2_15_STRONG_MERCHANTS:0 "Our Strait"
 EDG_OrientalPalace_enable_flag:0 "Unlocked the Great Project 'Oriental Palace' without conditions."
@@ -1214,7 +1214,7 @@ EDG_mission_LOT_4_20_trigger_tooltip_3:0 "Has a §Yheretic or heathen§! advisor
 
 EDG_mission_LOT_4_34_province_modifier_2:0 "Imperial Central Artillery Academy"
 
-TIM_upgrade_patronage_of_arts_privilege:0 "Strengthen the §Y'[Root.Get市民Name]'§! estate privilege §Y'Patronage of the Arts'§!, which will additionally provide §Y+0.5 Yearly Prosperity§!."
+TIM_upgrade_patronage_of_arts_privilege:0 "Strengthen the §Y'[Root.GetBurghersName]'§! estate privilege §Y'Patronage of the Arts'§!, which will additionally provide §Y+0.5 Yearly Prosperity§!."
 
 EDG_mission_LOT_5_17_a_tt_yes:0 "£yes£If the religion of Constantinople is §YOrthodox§!"
 EDG_mission_LOT_5_17_a_tt_no:0 "£no£If the religion of Constantinople is §YOrthodox§!"

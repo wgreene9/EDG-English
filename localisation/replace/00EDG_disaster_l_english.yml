@@ -1,6 +1,6 @@
 ﻿l_english:
-dark_arrive:0 "The Darkness Arrives§R「Punitive」§!"
-EDG_FOI_UCI_ember_war:0 "Ember War§R「Punitive」§!"
+dark_arrive:0 "The Darkness Arrives §R(Punitive)§!"
+EDG_FOI_UCI_ember_war:0 "Ember War §R(Punitive)§!"
 
 #Volhynia
 
@@ -59,7 +59,7 @@ EDG_generic_civil_war.2.c:0 "They too are part of the people."
  
  #Turkey
 had_EDG_TUR_competely_reform:0 "Implemented Comprehensive Reforms"
-EDG_TUR_decline:0 "The Collapse of the Turkish Empire§R「Punitive」§!"
+EDG_TUR_decline:0 "The Collapse of the Turkish Empire §R(Punitive)§!"
 
 EDG_TUR_decline.1.t:0 "The Decline of the Turkish Empire"
 EDG_TUR_decline.1.d:0 "From the 17th to the 19th century, the Empire of the Turks continued to decline, sinking into prolonged stagnation—even referred to by historians as an age of failure. During this period, Turkish technology remained persistently backward, the empire mired in corruption and class rigidity, while local powers swelled and domestic contradictions sharpened. The internal contradictions of the empire have now fully surfaced, tearing apart the façade of Turkish strength. All domestic classes and foreign powers have become aware of the empire's decline, resulting in even greater negative repercussions. The military has completely recognized the incompetence of the state and its officers, and regional governors feel at ease ignoring central commands. Unless effective reforms are implemented, the empire's decline will become irreversible following the eruption of domestic conflicts."
@@ -366,7 +366,7 @@ EDG_SMO_disasters_2_event.11.b:0 "Extraordinary times call for extraordinary mea
  EDG_SMO_disasters_2_event.13.b:0 ""
  #Grey Rat War
 EDG_SMO_disasters_3_event_end_modifier_1:0 "End of the Grey Rat War"
-EDG_SMO_disasters_3:0 "Grey Rat War§R「Punitive」§!"
+EDG_SMO_disasters_3:0 "Grey Rat War §R(Punitive)§!"
 
 EDG_SMO_disasters_3_event.1.t:0 "Grey Rat War"
 EDG_SMO_disasters_3_event.1.d:0 "In recent years, the republic's economy has continued to grow, yet perplexingly, the incomes of the vast majority of citizens have not increased. Villages across the land suffer from severe economic crisis, with soaring prices and persistently high food costs—unseen even after the fall of the Yuri military junta. The collective farm system became nominal long ago; masses of peasants have reverted to being poor tenants and hired laborers, while numerous bureaucrats, leveraging resource monopolies, have acquired tens of thousands of acres of land. Many vagrants sarcastically remark that placing a sign reading 'Collective Farm' inside would soon starve most rats to death, the rest fleeing.\n\nGovernment-distributed relief supplies have solved nothing. Many bureaucrats seal off distribution sites, barring the poor from entry. Multitudes of impoverished people still live daily on the brink of starvation; relief supplies scarcely reach the lower strata, instead making the rich more comfortable, while the poor survive only by scavenging rotten meat from the thresholds of the powerful. The enormous wealth gap sharpens social contradictions daily. Many begin to feel their status within the republic is truly as low as rats, with bureaucrats unwilling even to glance down while crushing them.\n\nMany bureaucrats fail to realize what changes such bottom-up discontent might provoke. In $YEAR$, a massive uprising erupted. The rebels, ragged yet furious, denounce the elites for treating them as grey rats, naming this rebellion the 'Grey Rat War.'"
@@ -515,7 +515,7 @@ opinion_EDG_FKN_vassal_to_HAB:0 "Franconian Succession Issue"
 EDG_Romanian_War_of_Independence:0 "Romanian War of Independence"
 had_EDG_Romanian_War_of_Independence_flag:0 "Mihai's Uprising Has Occurred"
 EDG_Romanian_War_of_Independence.1.t:0 "Mihai's Uprising"
-EDG_Romanian_War_of_Independence.1.d:0 "Mihai was born into a family called Pătrașcu. Records of his childhood and early adulthood are scarce, and historians often debate whether he was the illegitimate son of Wallachian Voivode 'the Good' Pătrașcu. Pătrașcu was a descendant of the Drăculești line of the Basarab family, from which the Vlad lineage also originated. Some believe Mihai claimed this to legitimize his rule. His mother, Teodora Cantacuzino, was a member of the Cantacuzino family, a noble family in Wallachia and Moldavia, said to be descended from the Byzantine Emperor John VI Kantakouzenos.\n\nMihai was the Ban of Craiova in Wallachia. He may not have been born of high nobility, but he possessed steadfast and brave qualities, outstanding talent, and a sincere patriotic heart. At that time, Mihai's master, Voivode Alexandru, was loyal to [Root.GetAdjective], flattering and pandering to his suzerain. To meet the needs of [Root.GetAdjective], he brutally oppressed the Romanian people. Romania at that time was in dire straits, with people exchanging children to eat. Mihai harbored extreme disgust for his master, Voivode Alexandru. In $YEAR$, Mihai killed Voivode Alexandru, raised the banner of righteousness, and demanded the overthrow of the [Root.GetAdjective] rulers in Romania to achieve national independence."
+EDG_Romanian_War_of_Independence.1.d:0 "Mihai was born into a family called Patrașcu. Records of his childhood and early adulthood are scarce, and historians often debate whether he was the illegitimate son of Wallachian Voivode 'the Good' Patrașcu. Patrașcu was a descendant of the Draculești line of the Basarab family, from which the Vlad lineage also originated. Some believe Mihai claimed this to legitimize his rule. His mother, Teodora Cantacuzino, was a member of the Cantacuzino family, a noble family in Wallachia and Moldavia, said to be descended from the Byzantine Emperor John VI Kantakouzenos.\n\nMihai was the Ban of Craiova in Wallachia. He may not have been born of high nobility, but he possessed steadfast and brave qualities, outstanding talent, and a sincere patriotic heart. At that time, Mihai's master, Voivode Alexandru, was loyal to [Root.GetAdjective], flattering and pandering to his suzerain. To meet the needs of [Root.GetAdjective], he brutally oppressed the Romanian people. Romania at that time was in dire straits, with people exchanging children to eat. Mihai harbored extreme disgust for his master, Voivode Alexandru. In $YEAR$, Mihai killed Voivode Alexandru, raised the banner of righteousness, and demanded the overthrow of the [Root.GetAdjective] rulers in Romania to achieve national independence."
 EDG_Romanian_War_of_Independence.1.a:0 "Strangle them in the cradle."
 
 EDG_Romanian_War_of_Independence.2.t:0 "Romanians Rebel Against [Root.GetAdjective]"
@@ -534,7 +534,7 @@ EDG_Romanian_War_of_Independence_great_modifier:0 "Independent Romania"
 
 #War of the Austrian Succession
 EDG_War_of_Austrian_Succession_event_1_a_tt:0 "All provinces with §YAustrian§! culture will gain the following modifiers:"
-EDG_War_of_Austrian_Succession:0 "War of the Austrian Succession§R「Punitive」§!"
+EDG_War_of_Austrian_Succession:0 "War of the Austrian Succession §R(Punitive)§!"
 EDG_War_of_Austrian_Succession_event.1.t:0 "War of the Austrian Succession"
 EDG_War_of_Austrian_Succession_event.1.d:0 "No one welcomes an uninvited guest of unknown origin, especially when this unrelated acquaintance seeks to make a grand display in your home. When the Habsburgs lost their ancestral seat of Habichtsburg, they certainly did not foresee that Vienna, the pearl of the Danube, would become their possession today. However, the native Austrian nobility view with suspicion this Count of Württemberg who transformed into their liege lord. The Habsburg dynasty overturned Austrian order merely through a marriage contract, frightening many great families of Austria. Nobles from Vienna to Linz have complaints about their new lord. On one hand, the arrival of the Habsburg dynasty shattered Austria's hard-won political balance over centuries; forces from Swabia are bound to challenge the local power of Austrian nobles. On the other hand, there are various slanders and defamations against Frederick III, whether regarding governance or personal conduct—these whispers about the new duke undoubtedly portray him negatively. Among them, some ambitious lords have already planned to use force during this interregnum to teach this count who the true master of Austria is."
 EDG_War_of_Austrian_Succession_event.1.a:0 "Victory will ultimately be ours."
@@ -554,7 +554,7 @@ EDG_War_of_Austrian_Succession_event.3.b:0 "Give them whatever they want."
 
 
 #The Division of the Habsburg Monarchy:0 ""
-EDG_HAB_Empire_division:0 "The Division of the Habsburg Monarchy§R「Punitive」§!"
+EDG_HAB_Empire_division:0 "The Division of the Habsburg Monarchy §R(Punitive)§!"
 EDG_HAB_Empire_division_defeat_value:0 "Defeated Habsburg Monarchy Separatists"
 EDG_HAB_Empire_division_2_a_1_tt:0 "Because we achieved control over the monarchy through §Yfirm§! means, we will gain the following modifiers:"
 EDG_HAB_Empire_division_2_a_2_tt:0 "Because we chose §Ycompromise§! during the monarchy's division, we will be unable to obtain related gains."
@@ -578,7 +578,7 @@ EDG_HAB_Empire_division.3.b:0 "If Heaven wills rain, let them go."
 
 #War of the Hungarian Succession:0 ""
 EDG_War_of_Hungary_Succession_end_flag:0 "The War of the Hungarian Succession Has Ended"
-EDG_War_of_Hungary_Succession:0 "War of the Hungarian Succession§R「Punitive」§!"
+EDG_War_of_Hungary_Succession:0 "War of the Hungarian Succession §R(Punitive)§!"
 
 EDG_War_of_Hungary_Succession_event.1.t:0 "War of the Hungarian Succession"
 EDG_War_of_Hungary_Succession_event.1.d:0 "After the death of the great Sigismund, the Habsburg dynasty ultimately inherited his legacy, extending the Holy Roman Empire's influence into the Kingdom of Hungary. The rising Habsburg dynasty sought to expand its control over Hungary, provoking discontent among many Hungarian magnates, especially as numerous great Hungarian estates were reclaimed under direct royal authority, causing Hungarian nobles and the central Habsburg authority to drift further apart. Eventually, a Hungarian noble openly attacked Habsburg sovereignty in Hungary during the Hungarian Diet, denying the dynasty's legitimacy, and gained support from many Hungarian nobles opposed to the Habsburgs. These Hungarian nobles returned to their domains, raised armies, and proclaimed their own supported king—undoubtedly, a new war of succession was about to erupt."
@@ -592,9 +592,9 @@ EDG_War_of_Hungary_Succession_event.2.a:0 "Long live [Root.Monarch.GetTitle] [Ro
 
 
 #War of the Bohemian Succession
-EDG_War_of_Bohemian_Succession:0 "War of the Bohemian Succession§R「Punitive」§!"
+EDG_War_of_Bohemian_Succession:0 "War of the Bohemian Succession §R(Punitive)§!"
 EDG_War_of_Bohemian_Succession_event.1.t:0 "War of the Bohemian Succession"
-EDG_War_of_Bohemian_Succession_event.1.d:0 "The Hussites of Bohemia, after repeated imperial suppressions, have gradually declined, yet this extreme heresy is still secretly adhered to by certain high-ranking nobles. These nobles covertly use their influence to interfere with Bohemian governance, attempting to revive Bohemian Hussitism. Among them, the most notorious is undoubtedly George of Poděbrady. He seized the opportunity to become regent during the imperial interregnum, controlled the government, and ultimately became the illegitimate King of Bohemia. Now, a new local noble family has bribed most Bohemian nobles and seeks to become a second George of Poděbrady, inciting a great Bohemian noble rebellion to shake Habsburg rule and become master of Bohemia. This is undoubtedly a significant challenge for the Habsburg dynasty."
+EDG_War_of_Bohemian_Succession_event.1.d:0 "The Hussites of Bohemia, after repeated imperial suppressions, have gradually declined, yet this extreme heresy is still secretly adhered to by certain high-ranking nobles. These nobles covertly use their influence to interfere with Bohemian governance, attempting to revive Bohemian Hussitism. Among them, the most notorious is undoubtedly George of Podebrady. He seized the opportunity to become regent during the imperial interregnum, controlled the government, and ultimately became the illegitimate King of Bohemia. Now, a new local noble family has bribed most Bohemian nobles and seeks to become a second George of Podebrady, inciting a great Bohemian noble rebellion to shake Habsburg rule and become master of Bohemia. This is undoubtedly a significant challenge for the Habsburg dynasty."
 EDG_War_of_Bohemian_Succession_event.1.a:0 "Where does our future lie?"
 EDG_War_of_Bohemian_Succession_event_1_a_tt:0 "§RWar of the Bohemian Succession§! will break out, lasting §Y5§! years or until @BOH Bohemia gains independence."
 
@@ -860,7 +860,7 @@ EDG_LIT_civil_war.3.a:0 "They are doomed to fail!"
 
 
 #Nomadic Regime Division
-EDG_Nomadic_division:0 "Nomadic Regime Division§R「Punitive」§!"
+EDG_Nomadic_division:0 "Nomadic Regime Division §R(Punitive)§!"
 
 #The Collapse of the Indian Empire
 EDG_India_division:0 "Collapse of the Indian Empire"
@@ -1138,7 +1138,7 @@ EDG_FYM_vassal_war.1.bb:0 ""
 EDG_FYM_vassal_war.1.bb:0 ""
 
 EDG_FYM_vassal_war.2.title:0 "End of Provincial Rebellion"
-EDG_FYM_vassal_war.2.desc:0 "As horns sounded, imperial armies tore through the darkness of local fragmentation like dawn's first light, charging enemy forces with fearless momentum. Those once-mighty governors, before this surging iron cavalry, resembled straw in the wind, instantly swallowed in blood and storm. Their soldiers scattered like birds and beasts; former governorates turned to forgotten rubble.\n\nDespite scorching sun lashing, dust veiling skies, [Root.Monarch.GetName] and his guard advanced through漫天沙尘. Finally, they reached the rippling Jordan River. The day's decisive battle was vast, its ferocity enough to stir even the most rational poet's passion. But once the Persian governor knelt at the [Root.Monarch.GetTitle]'s feet, time would prove the empire never collapses."
+EDG_FYM_vassal_war.2.desc:0 "As horns sounded, imperial armies tore through the darkness of local fragmentation like dawn's first light, charging enemy forces with fearless momentum. Those once-mighty governors, before this surging iron cavalry, resembled straw in the wind, instantly swallowed in blood and storm. Their soldiers scattered like birds and beasts; former governorates turned to forgotten rubble.\n\nDespite scorching sun lashing, dust veiling skies, [Root.Monarch.GetName] and his guard advanced through the swirling sands. Finally, they reached the rippling Jordan River. The day's decisive battle was vast, its ferocity enough to stir even the most rational poet's passion. But once the Persian governor knelt at the [Root.Monarch.GetTitle]'s feet, time would prove the empire never collapses."
 EDG_FYM_vassal_war.2.aa:0 "Sahada's territory knows no end."
 EDG_FYM_vassal_war.2.bb:0 ""
 

@@ -12,35 +12,35 @@ Rom = {
 			local_governing_cost = -0.1
 		}
 		male_names = {
-			"亚诺罗"
-			"阿尔菲"
-			"彼得"
-			"亚历山大"
-			"维克托"
-			"伊凡"
-			"阿列克谢"
-			"乔治"
-			"安德烈"
-			"米希"
-			"尼古拉"
+			"Yanorò" # János
+			"Alfie" # Alfi
+			"Peter"
+			"Alexander"
+			"Victor"
+			"Ivan"
+			"Alexei"
+			"George"
+			"Andrei"
+			"Michy" # Misi
+			"Nikolai"
 		}
 		female_names = {
-			"阿加莎"
-			"叶卡捷琳娜"
-			"凯瑟琳"
-			"伊丽莎白"
-			"安娜"
-			"玛丽亚"
-			"海伦"
+			"Agatha"
+			"Yekaterina"
+			"Catherine"
+			"Elizabeth"
+			"Anna"
+			"Maria"
+			"Helena"
 		}
 		dynasty_names = {
-			"托尔斯泰"
-			"图罗夫"
-			"柳拜"
-			"法焦尔"
-			"拉夫罗夫"
-			"纳雷什金"
-			"罗曼诺夫"
+			"Tolstoy"
+			"Turov"
+			"Lyubai" # often "Lyubov" or "Lyuba" for given names
+			"Fazhior"
+			"Lavrov"
+			"Naryshkin"
+			"Romanov"
 		}
 	}
 	EDG_rom_rus_culture = {
@@ -54,35 +54,35 @@ Rom = {
 			local_governing_cost = -0.1
 		}
 		male_names = {
-			"亚诺罗"
-			"阿尔菲"
-			"彼得"
-			"亚历山大"
-			"维克托"
-			"伊凡"
-			"阿列克谢"
-			"乔治"
-			"安德烈"
-			"米希"
-			"尼古拉"
+			"Yanorò" # János
+			"Alfie" # Alfi
+			"Peter"
+			"Alexander"
+			"Victor"
+			"Ivan"
+			"Alexei"
+			"George"
+			"Andrei"
+			"Michy" # Misi
+			"Nikolai"
 		}
 		female_names = {
-			"阿加莎"
-			"叶卡捷琳娜"
-			"凯瑟琳"
-			"伊丽莎白"
-			"安娜"
-			"玛丽亚"
-			"海伦"
+			"Agatha"
+			"Yekaterina"
+			"Catherine"
+			"Elizabeth"
+			"Anna"
+			"Maria"
+			"Helena"
 		}
 		dynasty_names = {
-			"托尔斯泰"
-			"图罗夫"
-			"柳拜"
-			"法焦尔"
-			"拉夫罗夫"
-			"纳雷什金"
-			"罗曼诺夫"
+			"Tolstoy"
+			"Turov"
+			"Lyubai" # often "Lyubov" or "Lyuba" for given names
+			"Fazhior"
+			"Lavrov"
+			"Naryshkin"
+			"Romanov"
 		}
 	}
 }

@@ -424,7 +424,7 @@ EDG_SHY_mission_5_31_desc:0 "One night, the Great Khan had a peculiar dream. He 
 EDG_SHY_mission_5_31.effect.tt:0 "§GRemove§! all §Rrebels§! from §Yall provinces§! under our rule.\n\n§GImmediately reduce§! unrest in §Yall provinces§! under our rule by §G50§!.\n\nIncrease §Ystability§! to §Y3§!.\n"
 
 EDG_SHY_mission_5_33_title:0 "Walker of the World"
-EDG_SHY_mission_5_33_desc:0 "The children of Eternal Heaven forever hold the curious heart of a child. The steeds beneath them lead the nomadic peoples to every corner of the world. The激昂的战吼 (fierce war cry) and the low throat singing penetrate lands both conquered and unconquered. We have already left our footprints in the annals of all civilizations."
+EDG_SHY_mission_5_33_desc:0 "The children of Eternal Heaven forever hold the curious heart of a child. The steeds beneath them lead the nomadic peoples to every corner of the world. The fierce war cry and the low throat singing penetrate lands both conquered and unconquered. We have already left our footprints in the annals of all civilizations."
 EDG_SHY_mission_5_33.trigger.tt:0 "We directly own §Y5§! provinces on every §Ysubcontinent§! in the §YOld World§!.\n"
 EDG_SHY_mission_5_33.effect.tt:0 "§GRemove§! all §Rrebels§! from §Yall provinces§! under our rule.\n\n§GImmediately reduce§! unrest in §Yall provinces§! under our rule by §G50§! and separatism by §G20§! years.\n\nIncrease §Ystability§! to §Y3§!.\n"
 

@@ -1,6 +1,6 @@
 ﻿l_english:
 
-Special Units
+# Special Units
 HUSSARS_NAME:0 "$HOME$ $NUM$th Winged Hussars"
 MODIFIER_HAS_HUSSARS:0 "Enables recruitment of Winged Hussars"
 HUSSARS_CANT_HAVE:0 "Your country cannot recruit Winged Hussars."

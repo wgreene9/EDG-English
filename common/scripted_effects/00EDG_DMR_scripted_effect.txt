@@ -1,7 +1,7 @@
 EDG_DMR_yanoro_enable = {
 	define_ruler = {
-		name = "亚诺罗「驾驭者」"
-		dynasty = "法焦尔"
+		name = "Yanorò 'the Master'" # 亚诺罗「驾驭者」 法焦尔
+		dynasty = "Fazhior" # Fagioli? Fajiao? Fagyor?
 		adm = 6
 		dip = 5
 		mil = 6
@@ -15,8 +15,8 @@ EDG_DMR_yanoro_enable = {
 
 EDG_DMR_andre_enable = {
 	define_ruler = {
-		name = "安德烈「归乡行者」"
-		dynasty = "法焦尔"
+		name = "Andre 'the Homecomer'"
+		dynasty = "Fazhior"
 		adm = 5
 		dip = 6
 		mil = 6
@@ -30,8 +30,8 @@ EDG_DMR_andre_enable = {
 
 EDG_DMR_michy_enable = {
 	define_ruler = {
-		name = "米希「逆反者」"
-		dynasty = "法焦尔"
+		name = "Michy 'the Rebel'"
+		dynasty = "Fazhior"
 		adm = 3
 		dip = 4
 		mil = 4
@@ -44,8 +44,8 @@ EDG_DMR_michy_enable = {
 
 EDG_DMR_alfie_enable = {
 	define_ruler = {
-		name = "阿尔菲「继业行者」"
-		dynasty = "法焦尔"
+		name = "Alfie 'the Successor'"
+		dynasty = "Fazhior"
 		adm = 6
 		dip = 6
 		mil = 5

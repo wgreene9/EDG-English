@@ -1,14 +1,14 @@
 EDG_DMR_rename_effect_1 = {
-	change_province_name = "罗斯格勒"
-	rename_capital = "罗斯格勒"
+	change_province_name = "Rosgler" # 罗斯格勒 33 Neva
+	rename_capital = "Rosgler"
 }
 
 EDG_DMR_rename_effect_2 = {
-	change_province_name = "罗姆格勒"
-	rename_capital = "罗姆格勒"
+	change_province_name = "Romgler" # 罗姆格勒 33 Neva
+	rename_capital = "Romgler"
 }
 
 EDG_DMR_rename_effect_3 = {
-	change_province_name = "伏尔加格勒"
-	rename_capital = "伏尔加格勒"
+	change_province_name = "Volgograd" # 伏尔加格勒 2418 Pokrovsk
+	rename_capital = "Volgograd"
 }

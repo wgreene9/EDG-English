@@ -13,7 +13,7 @@ NKZEDG_eng_only_religion_trigger_tt:"This mission can only be completed as a §Y
 #localisation_key
 NKZEDG_eng_french_appanage_opinion_no_key:"£no£Opinion of §Y[Root.GetName]§! is at least §Y150§!"
 NKZEDG_eng_french_appanage_opinion_yes_key:"£yes£Opinion of §Y[Root.GetName]§! is at least §Y150§!"
-NKZEDG_eng_french_appanage_dynasty_no_key:"£no£Ruling dynasty is 「§Y[Root.Monarch.Dynasty.GetName]§!」"
-NKZEDG_eng_french_appanage_dynasty_yes_key:"£yes£Ruling dynasty is 「§Y[Root.Monarch.Dynasty.GetName]§!」"
+NKZEDG_eng_french_appanage_dynasty_no_key:"£no£Ruling dynasty is §Y[Root.Monarch.Dynasty.GetName]§!"
+NKZEDG_eng_french_appanage_dynasty_yes_key:"£yes£Ruling dynasty is §Y[Root.Monarch.Dynasty.GetName]§!"
 NKZEDG_eng_french_appanage_liberty_desire_no_key:"£no£Liberty desire below §Y10.00%§!"
 NKZEDG_eng_french_appanage_liberty_desire_yes_key:"£yes£Liberty desire below §Y10.00%§!"

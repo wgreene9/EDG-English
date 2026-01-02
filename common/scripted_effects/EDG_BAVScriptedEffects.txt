@@ -1,0 +1,306 @@
+EDG_BAV_startup_effect = {
+	hidden_effect = {
+		add_country_modifier = {
+			name = EDG_BAV_bavarian_ambition_modifier
+			duration = -1
+		}
+		if = {
+			limit = {
+				ai = no
+				WUR = {
+					ai = yes
+				}
+			}
+			WUR = {
+				set_ai_attitude = {
+					attitude = attitude_hostile
+					who = ROOT
+				}
+			}
+			every_country = {
+				limit = {
+					OR = {
+						tag = BOH
+						tag = H02
+						tag = HUN
+					}
+				}
+				set_ai_attitude = {
+					attitude = attitude_friendly
+					who = WUR
+				}
+				remove_historical_rival = WUR
+				add_historical_friend = WUR
+				add_opinion = {
+					who = WUR
+					modifier = EDG_BAV_emperor_opinion_modifier
+				}
+				WUR = {
+					set_ai_attitude = {
+						attitude = attitude_friendly
+						who = PREV
+					}
+					remove_historical_rival = PREV
+					add_historical_friend = PREV
+					add_opinion = {
+						who = PREV
+						modifier = EDG_BAV_emperor_opinion_modifier
+					}
+				}
+			}
+		}
+	}
+}
+
+EDG_BAV_create_subject_effect = {
+	create_subject = {
+		who = $who$
+		subject_type = EDG_BAV_Wittelsbach_Territories
+	}
+	hidden_effect = {
+		$who$ = {
+			if = {
+				limit = {
+					NOT = {
+						government = monarchy
+					}
+				}
+				change_government = monarchy
+			}
+			add_government_reform = EDG_BAV_wittelsbach_subject
+		}
+	}
+}
+
+EDG_BAV_annex_subject_effect = {
+	hidden_effect = {
+		$who$ = {
+			if = {
+				limit = {
+					is_variable_equal = {
+						which = EDG_BAV_compliance_variable
+						value = 1
+					}
+				}
+				every_owned_province = {
+					add_permanent_province_modifier = {
+						name = EDG_BAV_subject_compliance_province_modifier_1
+						duration = 3650
+					}
+				}
+			}
+			else_if = {
+				limit = {
+					is_variable_equal = {
+						which = EDG_BAV_compliance_variable
+						value = 2
+					}
+				}
+				every_owned_province = {
+					add_permanent_province_modifier = {
+						name = EDG_BAV_subject_compliance_province_modifier_2
+						duration = 3650
+					}
+				}
+			}
+			else_if = {
+				limit = {
+					is_variable_equal = {
+						which = EDG_BAV_compliance_variable
+						value = 3
+					}
+				}
+				every_owned_province = {
+					add_permanent_province_modifier = {
+						name = EDG_BAV_subject_compliance_province_modifier_3
+						duration = 3650
+					}
+				}
+			}
+			else_if = {
+				limit = {
+					is_variable_equal = {
+						which = EDG_BAV_compliance_variable
+						value = 4
+					}
+				}
+				every_owned_province = {
+					add_permanent_province_modifier = {
+						name = EDG_BAV_subject_compliance_province_modifier_4
+						duration = 3650
+					}
+				}
+			}
+		}
+	}
+	inherit = $who$
+}
+
+EDG_BAV_add_permanent_claims_effect = {
+	custom_tooltip = EDG_BAV_add_permanent_claims_effect_tt
+	hidden_effect = {
+		every_neighbor_province = {
+			limit = {
+				EDG_BAV_is_german_province_trigger = yes
+				NOT = {
+					country_or_non_sovereign_subject_holds = ROOT
+				}
+			}
+			area = {
+				add_permanent_claim = ROOT
+			}
+		}
+		every_subject_country = {
+			every_neighbor_province = {
+				limit = {
+					EDG_BAV_is_german_province_trigger = yes
+					NOT = {
+						country_or_non_sovereign_subject_holds = ROOT
+					}
+				}
+				area = {
+					add_permanent_claim = ROOT
+				}
+			}
+		}
+	}
+}
+
+EDG_BAV_remove_beer_factory_modifier_effect = {
+	remove_province_modifier = EDG_BAV_beer_factory_modifier_1
+	remove_province_modifier = EDG_BAV_beer_factory_modifier_2
+	remove_province_modifier = EDG_BAV_beer_factory_modifier_3
+	remove_province_modifier = EDG_BAV_beer_factory_modifier_4
+	remove_province_modifier = EDG_BAV_beer_factory_modifier_5
+	remove_province_modifier = EDG_BAV_beer_factory_modifier_6
+}
+
+EDG_BAV_religious_congress_button_effect = {
+	if = {
+		limit = {
+			NOT = {
+				has_government_attribute = EDG_BAV_establish_religious_agency_attribute
+			}
+		}
+		add_papal_influence = -25
+	}
+	add_country_modifier = {
+		name = EDG_BAV_GUI_religious_congress_$religion$_button_$level$_modifier
+		duration = 1825
+	}
+}
+
+EDG_BAV_create_wolfgang_heir_effect = {
+	define_heir = {
+		age = 8
+		dynasty = "von Wittelsbach"
+		name = "Wolfgang"
+		adm = 2
+		dip = 0
+		mil = 5
+		claim = 0
+		block_disinherit = yes
+	}
+}
+
+EDG_BAV_create_alois_monarch_effect = {
+	define_ruler = {
+		dynasty = "von Wittelsbach"
+		name = "Alois I 'the Minstrel'"
+		culture = bavarian
+		adm = 6
+		dip = 5
+		mil = 4
+		min_age = 22
+		max_age = 25
+		claim = 100
+	}
+	define_consort = {
+		dynasty = "Visconti"
+		name = "Maria"
+		country_of_origin = MLO
+		culture = lombard
+		adm = 3
+		dip = 3
+		mil = 2
+		age = 20
+	}
+	define_heir = {
+		dynasty = "von Wittelsbach"
+		adm = 5
+		dip = 4
+		mil = 3
+		age = 1
+		claim = 100
+	}
+}
+
+EDG_BAV_create_wolfgang_leader_effect = {
+	define_general = {
+		name = "Wolfgang von Wittelsbach"
+		fire = 4
+		shock = 5
+		manuever = 3
+		siege = 6
+	}
+}
+
+EDG_BAV_create_martin_luther_advisor_effect = {
+	define_advisor = {
+		type = theologian
+		name = "Martin Luther"
+		religion = protestant
+		skill = 5
+		cost_multiplier = 0.25
+	}
+}
+
+EDG_BAV_create_friedrich_monarch_effect = {
+	define_ruler = {
+		dynasty = "von Wittelsbach"
+		name = "Friedrich V 'the Winter King'"
+		culture = bavarian
+		adm = 6
+		dip = 4
+		mil = 2
+		min_age = 22
+		max_age = 25
+		claim = 100
+	}
+}
+
+EDG_BAV_create_dominikus_advisor_effect = {
+	define_advisor = {
+		type = artist
+		name = "Dominikus Zimmermann"
+		skill = 4
+		cost_multiplier = 0.25
+	}
+}
+
+EDG_BAV_create_asam_advisor_effect = {
+	define_advisor = {
+		type = artist
+		name = "Asam Brothers" # Cosmas Damian Asam and Egid Quirin Asam
+		skill = 4
+		cost_multiplier = 0.25
+	}
+}
+
+EDG_BAV_create_hans_advisor_effect = {
+	define_advisor = {
+		type = artist
+		name = "Hans Burgkmair"
+		skill = 4
+		cost_multiplier = 0.25
+	}
+}
+
+EDG_BAV_create_albrecht_advisor_effect = {
+	define_advisor = {
+		type = artist
+		name = "Albrecht Altdorfer"
+		skill = 4
+		cost_multiplier = 0.25
+	}
+}
