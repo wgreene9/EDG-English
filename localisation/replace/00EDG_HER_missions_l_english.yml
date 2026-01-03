@@ -124,7 +124,7 @@ EDG_HER_5_6_title:0 "Unsheathe the Blade"
 EDG_HER_5_6_desc:0 "The time for forbearance has been long enough. As challengers for British hegemony, we are prepared for battle."
 EDG_HER_5_6_tt:0 "Win 5 battles"
 
-EDG_HER_5_8_title:0 "Ambition of the Golden Lion"
+EDG_HER_5_8_title:0 "Golden Lion's Ambition" # Ambition of the Golden Lion
 EDG_HER_5_8_desc:0 "Victory! The royal authority of Scotland's Golden Lion is ended by the Commonwealth at this moment. The entire British Isles shall ultimately be ours."
 EDG_HER_mission_5_8_a_yes:0 "£yes£Meets the war score condition"
 EDG_HER_mission_5_8_a_no:0 "£no£Meets the war score condition"

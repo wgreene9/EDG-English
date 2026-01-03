@@ -1,3 +1,11 @@
+government = monarchy
+add_government_reform = principality
+government_rank = 1
+primary_culture = russian
+religion = orthodox
+technology_group = eastern
+capital = 294
+fixed_capital = 294
 1398.11.1 = {
   monarch = {
     name = "Mikhail II"  # Mikhail II

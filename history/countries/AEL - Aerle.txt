@@ -1,3 +1,14 @@
+government = monarchy
+add_government_reform = EDG_Catharism_Court
+government_rank = 2
+primary_culture = occitain
+religion = EDG_catharism
+technology_group = western
+capital = 201	# Toulouse
+historical_friend = CAT
+historical_friend = PIT
+fixed_capital = 201 # Cannot move capital away from this province & no power cost to move to it
+
 1403.11.6 = {
   monarch = {
     name = "- Hugues I"

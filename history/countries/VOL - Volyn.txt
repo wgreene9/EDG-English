@@ -1,3 +1,13 @@
+government = monarchy
+add_government_reform = EDG_zemsky_sobor
+government_rank = 1
+primary_culture = ruthenian
+religion = orthodox
+technology_group = eastern
+historical_rival = CHR
+historical_rival = ZAZ
+capital = 279
+national_focus = MIL
 1442.5.19 = {
   monarch = {
     name =   "Ivan II 'the Great'"  # Ivan II

@@ -1,3 +1,18 @@
+government = monarchy
+add_government_reform = EDG_venice_monarchy_reform
+government_rank = 1
+mercantilism = 25
+primary_culture = venetian
+religion = catholic
+add_accepted_culture = greek
+add_accepted_culture = dalmatian
+technology_group = western
+capital = 112
+fixed_capital = 112
+historical_friend = KNI
+national_focus = DIP
+add_army_professionalism = 0.05
+radd_epublican_tradition= -50
 1380.1.1 = { leader = {	name = "Carlo Zeno"	type = admiral	fire = 3	shock = 3	manuever = 4	siege = 0	death_date = 1404.1.1 } }
 
 1382.1.1 = {

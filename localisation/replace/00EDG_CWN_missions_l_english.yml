@@ -1,5 +1,5 @@
 ﻿l_english:
-EDG_CWN_1_2_title:0 "Advance the Education Campaign"
+EDG_CWN_1_2_title:0 "Advancing Education" # Advance the Education Campaign
 EDG_CWN_1_2_desc:0 "Literacy is vital for the health of a nation aspiring to modernity. Church-led schools must be established in every parish, and all Commonwealth citizens must acquire basic knowledge of Latin, law, and the arts."
 EDG_CWN_1_2_TT:0 "Increases the tier of eligible University-class wonders by §G1§! level."
 
@@ -24,7 +24,7 @@ EDG_CWN_2_4_title:0 "Unity in Diversity"
 EDG_CWN_2_4_desc:0 "If we wish to become the sole beacon shining on the lightless sea, we should proclaim that all are welcome in [Root.GetName], regardless of faith or culture."
 EDG_CWN_2_4_TT:0 "The §R Twilight Era§! disaster event: §YCrisis of Faith§! will no longer occur."
 
-EDG_CWN_3_1_title:0 "Enhance Continental Exchange"
+EDG_CWN_3_1_title:0 "Continental Exchange" # Enhance Continental Exchange
 EDG_CWN_3_1_desc:0 "We must establish a foothold on the European continent, not remain excluded from the European order."
 
 EDG_CWN_3_2_title:0 "Bridge Divides"
@@ -44,7 +44,7 @@ EDG_CWN_3_5_TT:0 "§G Event Preview:§!\nThe §R Twilight Era§! disaster will n
 EDG_CWN_4_1_title:0 "Build a New Homeland"
 EDG_CWN_4_1_desc:0 "The fertile lands of the New World can bring a bright future to the Commonwealth. The development of the New World will become a key strategy for the Commonwealth's growth."
 
-EDG_CWN_4_2_title:0 "Peaceful Coexistence with the Natives"
+EDG_CWN_4_2_title:0 "Peaceful Coexistence" # Peaceful Coexistence with the Natives
 EDG_CWN_4_2_desc:0 "The reason for our success in Britain is that we always respect everyone's interests, and this holds true in the New World as well."
 EDG_CWN_4_2_TT:0 "Allows us to diplomatically transform North American nations into our Commonwealth Autonomous Regions.\n\nWhile maintaining the Native Coexistence policy, the Clergy Estate privilege: Establish Missionary Activities in the New World grants §T+20 Annual Colonist Growth§!."
 
@@ -57,7 +57,7 @@ EDG_CWN_4_4_trigger_TT:0 "Requires 3 points of British World Influence. Current:
 EDG_CWN_4_4_TT:0 "Unlocks the decision: E Pluribus Unum, allowing us to integrate nations in the Thirteen Colonies region into our British Legal Zone as @USA America."
 EDG_CWN_4_4_effect_TT:0 "Lose 3 points of British World Influence. Current: §Y[Root.EDG_CWN_world_var.GetValue]§!."
 
-EDG_CWN_5_2_title:0 "Establish Contact with Neo-Celtic Nations"
+EDG_CWN_5_2_title:0 "Contact with Neo-Celtics" # Establish Contact with Neo-Celtic Nations
 EDG_CWN_5_2_desc:0 "Irish refugees displaced by Britain's various conflicts have established their own nations in the New World. With Ireland now once again a loyal member of the British Commonwealth, what of this outpost in the new world?"
 EDG_CWN_5_2_TT:0 "§G Event Preview:§!\n@NIR will become our §YCommonwealth Autonomous Region§!."
 
@@ -104,7 +104,7 @@ EDG_CWN_3_8_title:0 "Curb Corruption"
 EDG_CWN_3_8_desc:0 "Unmanaged prosperity can become a breeding ground for corruption and vice. If this is perceived as miserliness, it's because some fail to realize that combating this evil is the very essence of governance."
 EDG_CWN_3_8_TT:0 "When §TCommonwealth Prosperity§! reaches its maximum, provides us with §G-0.1§! Yearly Corruption, and provides new options for the §R Twilight Era§! disaster event chain §YRotten at the Core§!."
 
-EDG_CWN_4_6_title:0 "Expand the Commonwealth Navy"
+EDG_CWN_4_6_title:0 "Expand the British Navy" # Expand the Commonwealth Navy
 EDG_CWN_4_6_desc:0 "The naval forces we currently maintain are merely levied from the citizenry—slow to mobilize and expensive to boot. We must establish a standing navy to defend the isles from foreign invasion and secure the Commonwealth's future."
 
 EDG_CWN_4_7_title:0 "Shipwright Guilds"
@@ -116,7 +116,7 @@ EDG_CWN_4_8_desc:0 "The threat of piracy plagues every coast of Europe, often be
 EDG_CWN_4_8_trigger_TT:0 "Every country with a port in the Western Europe subcontinent has a navy smaller than ours."
 EDG_CWN_4_8_TT:0 "Each of our §YBritish Legal Zone§! and §YCommonwealth Chartered Trading Company§! subjects provides §T1§! §YFlagship Capacity§!.\n\nGrants the modifier §TPort City§! to §Y5§! random British port provinces we own."
 
-EDG_CWN_4_9_title:0 "Commonwealth Marines"
+EDG_CWN_4_9_title:0 "British Marines" # Commonwealth Marines
 EDG_CWN_4_9_desc:0 "Our nation's intimate connection with the sea has shaped our forces. We must establish the Commonwealth Marines to protect the Commonwealth's overseas interests."
 EDG_CWN_4_9_TT:0 "Each of our §YBritish Legal Zone§! subjects provides §T5%§! §YInfantry Combat Ability§!."
 
@@ -124,7 +124,7 @@ EDG_CWN_5_5_title:0 "Homeland Security"
 EDG_CWN_5_5_desc:0 "Mercia's turbulent history of invasion has made us place great importance on homeland security. The Commonwealth's order must be maintained by the Commonwealth's own military."
 EDG_CWN_5_5_TT:0 "Unlocks the §TNational Defense Matters§! series of decisions."
 
-EDG_CWN_5_6_title:0 "Expand the Commonwealth Army"
+EDG_CWN_5_6_title:0 "Expand the British Army" # Expand the Commonwealth Army
 EDG_CWN_5_6_desc:0 "Under the threat of internal and external wars, it is only fitting that we establish a standing army to defend [Root.GetName] from enemy invasion."
 
 EDG_CWN_5_8_title:0 "Redcoats"
@@ -171,10 +171,10 @@ EDG_CWN_3_11_title:0 "Nourish the People"
 EDG_CWN_3_11_desc:0 "In [Root.GetName], no man, woman, or child shall die of hunger. Let us provide bread for all!"
 EDG_CWN_3_11_TT:0 "Expanding infrastructure in §YGrain§! or §YLivestock§! provinces grants the modifiers §YEncourage Agriculture§! or §YCow Factory§!."
 
-EDG_CWN_3_12_title:0 "Secure the Agricultural Population"
+EDG_CWN_3_12_title:0 "Secure the Agriculture" # Secure the Agricultural Population
 EDG_CWN_3_12_desc:0 "The Commonwealth's wool exports and textile industry have developed rapidly. Rising wool prices have spurred the landed gentry's demand for grazing land. We must act before they drive our farmers from their fields like pitiful nomadic barbarians."
 
-EDG_CWN_3_13_title:0 "Abolish the Feudal Manorial System"
+EDG_CWN_3_13_title:0 "End Manorial System" # Abolish the Feudal Manorial System
 EDG_CWN_3_13_desc:0 "With the success of economic reforms, money has completely replaced the barter system of the old peasantry in rural life. Urban expansion and commercial development have gradually stripped the nobility of their monopoly on land, with feudal tenant contracts being replaced by rent agreements. Let us continue the reforms and completely abolish the feudal manorial system."
 EDG_CWN_3_13_TT:0 "Unlocks the §OPeasantry§! estate. Most of the Peasant estate's privileges are initially §Runavailable§!; completing the 'Stable Production' mission unlocks them."
 
@@ -235,7 +235,7 @@ EDG_CWN_1_17_effect_2_TT_no:0 "£no£ Complete the mission by conquering @SWE Sw
 EDG_CWN_1_17_effect_3_TT_yes:0 "£yes£ Complete the mission by conquering independent @NOR Norway."
 EDG_CWN_1_17_effect_3_TT_no:0 "£no£ Complete the mission by conquering independent @NOR Norway."
 
-EDG_CWN_1_18_title:0 "Neutralize the North Sea Threat"
+EDG_CWN_1_18_title:0 "Neutralize the North Sea" # Neutralize the North Sea Threat
 EDG_CWN_1_18_desc:0 "The shameless Nordic incursions into Britain are now history. We shall command the North!"
 EDG_CWN_1_18_TT:0 "Unlocks decision: Scandinavian Legal Zone, releasing @SCA as our British Legal Zone."
 EDG_CWN_1_18_B_TT: "Gain claims on the Baltic Sea coast."
@@ -266,7 +266,7 @@ EDG_CWN_2_16_effect_2_TT_no:0 "£no£ Complete the mission by allying Low Countr
 EDG_CWN_2_16_sub_TT:0 "Allows us to diplomatically transform nations in the §TLow Countries§! region into our §OCommonwealth Autonomous Regions§!"
  
 
-EDG_CWN_2_17_title:0 "Control the Hanseatic League"
+EDG_CWN_2_17_title:0 "Control the Hansa" # Control the Hanseatic League
 EDG_CWN_2_17_desc:0 "As our greatest commercial rival, the Hanseatic League, sheltered by the Holy Roman Empire, grows increasingly arrogant and overbearing. We must act to restrain them."
 
 EDG_CWN_2_19_title:0 "On the Banks of the Elbe"
@@ -332,13 +332,13 @@ EDG_CWN_3_26_TT:0 "Each of our §YBritish Legal Zone§! subjects provides §T1§
 EDG_CWN_3_26_yes_TT:0 "£yes£ We have 5 points of British World Influence."
 EDG_CWN_3_26_no_TT:0 "£no£ We have 5 points of British World Influence."
 
-EDG_CWN_3_28_title:0 "Advance into the Indian Interior"
+EDG_CWN_3_28_title:0 "Into the Indian Interior" # Advance into the Indian Interior
 EDG_CWN_3_28_desc:0 "The interior regions of India are renowned worldwide for producing profitable minerals and rare gems, but the Indians' efficiency is woefully low."
 
 EDG_CWN_3_30_title:0 "Rule the Waves"
 EDG_CWN_3_30_desc:0 "Our navy is our strength; the sea is our home. To rule the waves from our isles is our calling; to dominate the world with naval supremacy is our destiny!"
 
-EDG_CWN_4_16_title:0 "Great Britain and Little Britain"
+EDG_CWN_4_16_title:0 "Great Britain & Little Britain" # Great Britain and Little Britain
 EDG_CWN_4_16_desc:0 "Since the reign of William the Conqueror, Brittany has had intricate ties with [Root.GetName]. The time has come for it to return to the fold of the Commonwealth."
 EDG_CWN_4_16_TT:0 "Random §T5§! provinces we own gain the modifier §TFrench Community§!."
 
@@ -374,7 +374,7 @@ EDG_CWN_4_27_desc:0 "Sailors, with the courage characteristic of true Britons, a
 EDG_CWN_4_28_title:0 "Colonize the Spice Islands"
 EDG_CWN_4_28_desc:0 "In the farthest reaches of the world lies a place producing wondrous spices, exquisite garments, and exotic women. For the benefit of Commonwealth society, we should establish a foothold here."
 
-EDG_CWN_4_29_title:0 "Unify the Malay Archipelago"
+EDG_CWN_4_29_title:0 "Unify Malay Archipelago" # Unify the Malay Archipelago
 EDG_CWN_4_29_desc:0 "Our nation's trade within the Malay Archipelago is flourishing. However, as long as our political control over the region does not match our economic control, commercial security remains threatened. To protect regional prosperity and national interests, we must control as much of the East Indies as possible."
 EDG_CWN_4_28_TT:0 "Unlocks a decision allowing us to create the Malaya Company."
 
@@ -387,14 +387,14 @@ EDG_CWN_5_18_desc:0 "The westernmost point of the Mediterranean is the Strait of
 EDG_CWN_5_18_TT:0 "Unlocks the Iberian March decision."
 EDG_CWN_5_18_effect_tt:0 "Unlocks decision: @USP Reorganize Iberian Colonial Operations, reclaiming all overseas provinces from the Spanish Union."
 
-EDG_CWN_5_20_title:0 "Expand the Sphere of Influence"
+EDG_CWN_5_20_title:0 "Expand Sphere of Influence" # Expand the Sphere of Influence
 EDG_CWN_5_20_desc:0 "After securing the Strait of Gibraltar, our influence will extend further into the Mediterranean."
 EDG_CWN_5_20_TT:0 "Gain claims on all coastal provinces of the Mediterranean Sea."
 
 EDG_CWN_5_23_title:0 "Reach the Ivory Coast"
 EDG_CWN_5_23_desc:0 "The Ivory Coast is a crucial hub for goods across all of Africa. We should establish a foothold there so our European competitors cannot lay hands on those goods."
 
-EDG_CWN_5_25_title:0 "Circumnavigate Africa"
+EDG_CWN_5_25_title:0 "Round the Cape" # Circumnavigate Africa
 EDG_CWN_5_25_desc:0 "Beyond the Cape of Good Hope, what great world awaits us?"
 
 EDG_CWN_5_28_title:0 "Terra Australis"

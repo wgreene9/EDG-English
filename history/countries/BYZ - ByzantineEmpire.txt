@@ -1,3 +1,14 @@
+government = monarchy
+add_government_reform = EDG_Byzantium_old_government
+government_rank = 3
+primary_culture = greek
+religion = orthodox
+technology_group = eastern
+historical_rival = TUR
+capital = 151
+fixed_capital = 151
+
+
 1443.10.31 = {
   monarch = {
     name = "Andronikos V"  # Konstantinos XI

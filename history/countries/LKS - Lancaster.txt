@@ -1,3 +1,12 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 25
+technology_group = western
+primary_culture = EDG_culture_Northumbria
+religion = catholic
+capital = 236
+
 1429.11.6 = {
   monarch = {
     name = "Henry III"

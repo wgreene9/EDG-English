@@ -26,7 +26,7 @@ EDG_BTA_mission_1_25_desc:0 "Whether to safeguard trade in the North Sea and Nor
 EDG_BTA_mission_1_27_title:0 "Naval Rank System"
 EDG_BTA_mission_1_27_desc:0 "Although we have established a naval framework and created a National Admiralty for its administration, the promotion of naval officers and the assessment of individual command capability remain highly disordered. Therefore, we should institute a comprehensive naval rank system to facilitate the selection and cultivation of talent."
 
-EDG_BTA_mission_1_28_title:0 "Maritime Military Department"
+EDG_BTA_mission_1_28_title:0 "Maritime Department" # Maritime Military Department
 EDG_BTA_mission_1_28_desc:0 "Many of our early vessels were simply converted from merchant ships or other civilian craft, resulting in a navy of highly uneven quality. We must establish a Maritime Military Department, dedicated to building a true system of warships, so that we may gain the upper hand in engagements with the enemy."
 
 EDG_BTA_mission_1_30_title:0 "Naval Regulations"
@@ -86,7 +86,7 @@ EDG_BTA_mission_2_22_desc:0 "The theory that 'a continent must exist in the worl
 EDG_BTA_mission_2_23_title:0 "Pacific Foothold"
 EDG_BTA_mission_2_23_desc:0 "Many years have passed since we discovered Indonesia and Australia, where we have since built vast colonies. Beyond bringing immense trade revenue, our colonial ventures in Indonesia and Australia have secured our firm grip on the western shores of the Pacific."
 
-EDG_BTA_mission_2_26_title:0 "Unshackle the Printing Industry"
+EDG_BTA_mission_2_26_title:0 "Unshackle the Printing Press" # Unshackle the Printing Industry
 EDG_BTA_mission_2_26_desc:0 "The printing industry has long served as the state's mouthpiece, producing extensive propaganda for the machinery of government. In the past, our restrictions on the industry have been too tight. We should inject fresh vitality into printing, allowing it to operate more efficiently and ultimately bring new vigor and dynamism to the people."
 
 EDG_BTA_mission_2_27_title:0 "University of Oxford"
@@ -98,7 +98,7 @@ EDG_BTA_mission_2_29_desc:0 "The University of Cambridge originated from violent
 EDG_BTA_mission_2_30_title:0 "Education Movement"
 EDG_BTA_mission_2_30_desc:0 "As our nation's economy achieves significant progress, an educational modernization project known as the 'Education Movement' is also in full swing, receiving strong support from our Parliament. It is believed that before long, our country will be built into a modern educational powerhouse."
 
-EDG_BTA_mission_2_31_title:0 "Modern Education System"
+EDG_BTA_mission_2_31_title:0 "Modern Education" # Modern Education System
 EDG_BTA_mission_2_31_desc:0 "Our nation's education system was born from chance—first from the whims of Henry II which led to Oxford, and then from an accidental armed conflict which led to Cambridge. However, today we have turned it into an inevitability. Europe's, and indeed the world's, first modern education system has been established. Our nation's education leads the world."
 
 EDG_BTA_mission_2_33_title:0 "British Handicrafts"
@@ -140,7 +140,7 @@ EDG_BTA_mission_3_21_desc:0 "As the West India Company gradually establishes its
 EDG_BTA_mission_3_22_title:0 "Controlling the Sikhs"
 EDG_BTA_mission_3_22_desc:0 "In the northwestern reaches of India resides a people of peculiar faith who call themselves Sikhs. We have no interest in, nor concern for, their beliefs, but their location sits squarely on the vital transit routes to Central Asia. To better control Central Asia, it is time we turned our attention to them."
 
-EDG_BTA_mission_3_24_title:0 "The Empire on Which the Sun Never Sets"
+EDG_BTA_mission_3_24_title:0 "Where the Sun Never Sets" # The Empire on Which the Sun Never Sets
 EDG_BTA_mission_3_24_desc:0 "From California on the eastern shores of the Pacific to Burma east of India, the sun never sets on Britain. Our colonies span the globe, and our trade ships sail every ocean of the Earth. This is our era, the era of the Britons."
 
 EDG_BTA_mission_3_26_title:0 "Bail Act"
@@ -152,7 +152,7 @@ EDG_BTA_mission_3_28_desc:0 "For far too long, some nobles have lacked reverence
 EDG_BTA_mission_3_29_title:0 "The Game of Thrones"
 EDG_BTA_mission_3_29_desc:0 "'The King's behavior has become truly intolerable lately—a full forty thousand pounds! We drew forty thousand pounds from the treasury, just to bury his wife!' 'Ah, but what can we do? We are all but His Majesty's subjects.' 'I tell you, as long as old William remains in the Prime Minister's seat, he shall not succeed!'"
 
-EDG_BTA_mission_3_31_title:0 "God's Plenipotentiary on Earth"
+EDG_BTA_mission_3_31_title:0 "God's Plenipotentiary" # God's Plenipotentiary on Earth
 EDG_BTA_mission_3_31_desc:0 "The royal prerogative of the English King has expanded dramatically over the past century. The King brazenly levies taxes on nobles and entrepreneurs to fund his vanity projects and, under various pretexts, solicits donations and sells titles. As Britain grows increasingly chaotic, more and more people are beginning to question the King's position."
 
 EDG_BTA_mission_3_32_title:0 "The Bill of Rights"
@@ -167,7 +167,7 @@ EDG_BTA_mission_3_36_desc:0 "Our nation's ironworking industry has developed rap
 EDG_BTA_mission_3_37_title:0 "West Midlands Economy"
 EDG_BTA_mission_3_37_desc:0 "Located in the central region of our nation, the West Midlands serves as a vital bridge connecting England, Scotland, and Ireland. We can develop the economy of the West Midlands to integrate the various parts of our nation, which were divided for millennia, thereby facilitating the overall economic development of our country."
 
-EDG_BTA_mission_3_38_title:0 "Cornwall's Great Copper Mine"
+EDG_BTA_mission_3_38_title:0 "Cornwall's Great Mines" # Cornwall's Great Copper Mine
 EDG_BTA_mission_3_38_desc:0 "Copper deposits in the Cornwall region were first discovered as early as the era of Celtic tribes. Now, with advancements in our new blasting technology and the application of steam engines, Cornwall's tin and copper mines can be exploited on a large scale, providing us with more industrial raw materials."
 
 EDG_BTA_mission_4_11_title:0 "Monopolize Dyes"
@@ -236,10 +236,10 @@ EDG_BTA_mission_4_35_desc:0 "With the vigorous development of our industrializat
 EDG_BTA_mission_4_36_title:0 "Naval Infrastructure"
 EDG_BTA_mission_4_36_desc:0 "During the medieval period, nations often neglected naval infrastructure. However, with our continuous technological advancement and improvements in naval technology, it is necessary for us to enhance our naval infrastructure. We must upgrade the overall standard of our ports to accommodate more modern vessels."
 
-EDG_BTA_mission_4_37_title:0 "Portsmouth Royal Dockyard"
+EDG_BTA_mission_4_37_title:0 "Portsmouth Dockyard" # Portsmouth Royal Dockyard
 EDG_BTA_mission_4_37_desc:0 "Portsmouth, a natural fine harbor of our nation, possesses superior geographical conditions. We should make use of this location. We can establish the Portsmouth Royal Dockyard to berth our naval vessels, thereby developing our navy."
 
-EDG_BTA_mission_4_38_title:0 "Modern Shipbuilding Industry"
+EDG_BTA_mission_4_38_title:0 "Modern Shipbuilding" # Modern Shipbuilding Industry
 EDG_BTA_mission_4_38_desc:0 "With the continuous improvement of our naval infrastructure, the capacity and production efficiency of our ships have seen remarkable progress. We can say that we have established a first-class naval construction system."
 
 EDG_BTA_mission_5_11_title:0 "Dazzling Brilliance"
@@ -287,10 +287,10 @@ EDG_BTA_mission_5_30_desc:0 "Our nation's army is now undoubtedly one of the mos
 EDG_BTA_mission_5_33_title:0 "Livestock and Beasts"
 EDG_BTA_mission_5_33_desc:0 "With the vigorous development of our industrialization, our nation has achieved significant progress. Among these, our livestock production has greatly increased. Vast quantities of livestock products are transported across the nation, substantially raising the standard of living and well-being of our people."
 
-EDG_BTA_mission_5_34_title:0 "British Woolens and Cottons"
+EDG_BTA_mission_5_34_title:0 "Woolens and Cottons" # British Woolens and Cottons
 EDG_BTA_mission_5_34_desc:0 "With the vigorous development of our industrialization, our nation has achieved significant progress. Among these, our cloth trade has greatly increased. Vast quantities of cloth are transported across the nation, substantially raising the standard of living and well-being of our people."
 
-EDG_BTA_mission_5_35_title:0 "Modern Copper Alchemists"
+EDG_BTA_mission_5_35_title:0 "Copper Alchemists" # Modern Copper Alchemists
 EDG_BTA_mission_5_35_desc:0 "With the vigorous development of our industrialization, our nation has achieved significant progress. Among these, our copper production has greatly increased. Vast quantities of copper products are transported across the nation, substantially raising the standard of living and well-being of our people."
 
 EDG_BTA_mission_5_36_title:0 "Naval Hegemony"
@@ -299,7 +299,7 @@ EDG_BTA_mission_5_36_desc:0 "Now, the strength of our navy is undoubtedly the fo
 EDG_BTA_mission_5_37_title:0 "Plymouth Naval Base"
 EDG_BTA_mission_5_37_desc:0 "Plymouth, a natural fine harbor of our nation, possesses superior geographical conditions. We should make use of this location. We can establish the Plymouth Naval Base to berth our naval vessels, thereby developing our navy."
 
-EDG_BTA_mission_5_38_title:0 "Gloucester Shipbuilding Center"
+EDG_BTA_mission_5_38_title:0 "Gloucester Shipbuilding" # Gloucester Shipbuilding Center
 EDG_BTA_mission_5_38_desc:0 "Gloucester, a natural fine harbor of our nation, possesses superior geographical conditions. We should make use of this location. We can establish the Gloucester Shipbuilding Center to construct our naval vessels, thereby developing our navy."
 
 

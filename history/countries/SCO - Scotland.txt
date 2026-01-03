@@ -1,3 +1,13 @@
+government = monarchy
+add_government_reform = EDG_SCO_Crown
+#add_government_reform = EDG_Ireland_admiralty
+#add_government_reform = EDG_BTA_Parliament
+#add_government_reform = EDG_ENG_Conscription_system
+primary_culture = scottish
+add_accepted_culture = highland_scottish
+religion = catholic
+technology_group = western
+capital = 248
 1437.2.20 = {
   monarch = {
     name = "Alexander IV"  # James II

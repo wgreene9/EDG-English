@@ -1,3 +1,11 @@
+government = republic
+add_government_reform = peasants_republic
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = sardinian
+capital = 1247
+
 1436.4.15 = {
   monarch = {
     name = "Ernestu"  # Ernestu

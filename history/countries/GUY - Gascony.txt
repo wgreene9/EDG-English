@@ -1,3 +1,12 @@
+government = monarchy
+add_government_reform = EDG_grand_duchy_reform
+government_rank = 1
+technology_group = western
+primary_culture = gascon
+add_accepted_culture = cosmopolitan_french
+religion = EDG_catharism
+capital = 174 	# Bordeaux
+
 1444.1.6 = {
   monarch = {
     name = "Philippe V"

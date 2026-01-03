@@ -1,3 +1,11 @@
+government = monarchy
+add_government_reform = EDG_Union_Parliament
+government_rank = 2
+technology_group = western
+primary_culture = welsh
+religion = catholic
+capital = 241	# Gwynedd
+
 1402.11.11 = {
   monarch = {
     name = "Owain" # 欧文

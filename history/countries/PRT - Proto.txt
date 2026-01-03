@@ -1,3 +1,12 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = portugese
+religion = catholic
+government_rank = 2
+technology_group = western
+capital = 231
+add_army_professionalism = 0.05
+national_focus = DIP
 1385.1.1 = {
 	monarch = {
 		name = "João I"

@@ -5,3 +5,6 @@ has_dip_advisor_4_tooltip:0 "Has a level 4 Diplomatic Advisor"
 has_mil_advisor_5_tooltip:0 "Has a level 5 Military Advisor"
 has_adm_advisor_5_tooltip:0 "Has a level 5 Administrative Advisor"
 has_dip_advisor_5_tooltip:0 "Has a level 5 Diplomatic Advisor"
+
+cultural_event.13.d:0 "Our subjects have taken to telling tales and legends about an old $COUNTRY_ADJ$ $MONARCHTITLE$. The legend says that in $COUNTRY$'s darkest hour, he will return to our nation, and deliver it from evil. Regardless of the truth in that statement, we could use this in our propaganda."
+commission_epic_to_monarch_desc:0 "Our subjects have taken to telling tales and legends about an old $COUNTRY_ADJ$ $MONARCHTITLE$. The legend says that in $COUNTRY$'s darkest hour, he will return to our nation, and deliver it from evil. Regardless of the truth in that statement, we could use this in our propaganda."

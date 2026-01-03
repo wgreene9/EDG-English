@@ -1,3 +1,14 @@
+government = monarchy
+add_government_reform = EDG_Denomination
+primary_culture = andalucian
+religion = sunni
+technology_group = muslim
+capital = 218
+government_rank = 2
+religious_school = maliki_school
+
+
+
 1442.1.1 = {
   leader = {
     name = "Qasim Hafsid"

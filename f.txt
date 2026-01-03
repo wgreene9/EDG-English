@@ -420,4 +420,9 @@
 			# 	remove_country_modifier = EDG_FYM_1444_decline_modifier
 			# 	swap_non_generic_missions = yes
 
-			change_tag = TUR
+			# change_tag = TUR
+
+
+				set_country_flag = EDG_HER_mission_9_a_flag
+				set_country_flag = EDG_HER_mission_9_b_flag
+				set_country_flag = EDG_HER_mission_9_c_flag
