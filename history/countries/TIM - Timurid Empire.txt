@@ -1,3 +1,25 @@
+technology_group = nomad_group
+primary_culture = uzbehk
+religion = sunni
+government = monarchy
+add_government_reform = EDG_TIM_Gurkani
+government_rank = 2
+capital = 454
+historical_rival = SHY
+historical_rival = DLH
+historical_friend = GOL
+religious_school = hanafi_school
+set_estate_privilege = estate_burghers_patronage_of_the_arts
+set_estate_privilege = estate_EDG_TIM_yasa
+add_piety = -0.5
+change_estate_land_share = {
+  estate = estate_church
+  share = -10
+}
+change_estate_land_share = {
+  estate = estate_burghers
+  share = 10
+}
 1370.1.1 = {
 	monarch = {
 		name = "Timur"
@@ -37,7 +59,7 @@
 }
 
 1409.1.1 = {
-	capital = 446
+	capital = 454
 	monarch = {
 		name = "Shah Rukh"
 		birth_date = 1377.8.20
@@ -233,7 +255,13 @@
 		leader = {	name = "Bâbur"	type = general	fire = 5	shock = 5	manuever = 3	siege = 1 }
 	}
 }
-
+1507.7.1 = {
+  government = monarchy
+  add_government_reform = autocracy_reform
+  primary_culture = afghani
+  capital = 451
+  technology_group = muslim
+}
 1508.3.6 = {
 	heir = {
 		name = "Muhammad"
@@ -246,4 +274,11 @@
 		dip = 2
 		mil = 3
 	}
+}
+1525.1.1 = {
+  add_accepted_culture = panjabi
+}
+1526.4.21 = {
+  capital = 454
+  primary_culture = uzbehk
 }

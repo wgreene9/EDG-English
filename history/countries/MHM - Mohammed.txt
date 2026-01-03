@@ -1,3 +1,28 @@
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+primary_culture = turkish
+add_accepted_culture = greek
+religion = sunni
+technology_group = ottoman
+historical_rival = AKK
+historical_rival = KAR
+capital = 149
+national_focus = MIL
+add_army_professionalism = 0.15
+religious_school = hanafi_school
+change_estate_land_share = {
+  estate = estate_church
+  share = 10
+}
+change_estate_land_share = {
+  estate = estate_nobles
+  share = -10
+}
+change_estate_land_share = {
+  estate = estate_dhimmi
+  share = -10
+}
 1299.1.1 = {
   monarch = {
     name = "Osman I"  #
@@ -10,7 +35,7 @@
 }
 1326.1.1 = {
   monarch = {
-    name = "奥尔汗 I"  #
+    name = "Orhan I"  #
     dynasty = "Osmanoglu"  # Osmanoglu
     birth_date = 1285.3.30
     adm = 6
