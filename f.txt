@@ -448,3 +448,9 @@
 				# set_country_flag = EDG_HER_mission_9_a_flag
 				# set_country_flag = EDG_HER_mission_9_b_flag
 				# set_country_flag = EDG_HER_mission_9_c_flag
+
+			# set_country_flag = EDG_DMR_MARKET_enable_flag
+			# change_variable = {
+			# 	which = EDG_DMR_money_value
+			# 	value = 1
+			# }
