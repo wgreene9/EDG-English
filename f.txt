@@ -96,6 +96,8 @@
 			# set_country_flag = EDG_MISSION_GSR_formal_unlock_flag
 			# swap_non_generic_missions = yes
 
+
+
 			# change_tag = LPL
 			# on_change_tag_effect = yes
 			# restore_country_name = yes
@@ -131,10 +133,20 @@
 			# 	}
 			# }
 
+
+
+
+
+
 			# country_event = {
 			# 	id = EDG_AK2_event.23
 			# }
 			# set_country_flag = EDG_AK2_C1_3_decisions_flag
+			# swap_non_generic_missions = yes
+
+
+
+
 
 			# change_tag = BU1
 			# set_country_flag = had_EDG_BUL_decision_form_BU1_flag
@@ -156,6 +168,11 @@
 			# custom_tooltip = EDG_SPACE_TT
 			# add_government_reform = EDG_GREAT_Bulgaria_tsardom_government
 
+
+
+
+
+
 			# set_country_flag = EDG_Mission_TUR_conquest_1_end_flag
 			# set_country_flag = EDG_Mission_TUR_conquest_2_flag
 			# country_event = { id = EDG_flavor_TUR_mission.7 }
@@ -165,6 +182,11 @@
 			# set_country_flag = EDG_Mission_TUR_conquest_3_flag
 			# swap_non_generic_missions = yes
 			# country_event = { id = EDG_flavor_TUR_mission.24 }
+
+
+
+
+
 
 			# country_event = { id = EDG_flavor_TTS.25 }
 			# if = {
@@ -423,6 +445,6 @@
 			# change_tag = TUR
 
 
-				set_country_flag = EDG_HER_mission_9_a_flag
-				set_country_flag = EDG_HER_mission_9_b_flag
-				set_country_flag = EDG_HER_mission_9_c_flag
+				# set_country_flag = EDG_HER_mission_9_a_flag
+				# set_country_flag = EDG_HER_mission_9_b_flag
+				# set_country_flag = EDG_HER_mission_9_c_flag

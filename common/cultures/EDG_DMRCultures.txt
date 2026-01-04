@@ -37,7 +37,7 @@ Rom = {
 			"Tolstoy"
 			"Turov"
 			"Lyubai" # often "Lyubov" or "Lyuba" for given names
-			"Fazhior"
+			"Fátyol" # Fazhior
 			"Lavrov"
 			"Naryshkin"
 			"Romanov"
@@ -79,7 +79,7 @@ Rom = {
 			"Tolstoy"
 			"Turov"
 			"Lyubai" # often "Lyubov" or "Lyuba" for given names
-			"Fazhior"
+			"Fátyol" # Fazhior
 			"Lavrov"
 			"Naryshkin"
 			"Romanov"

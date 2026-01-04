@@ -1,11 +1,11 @@
 ﻿l_english:
-EDG_MISSION_ITA_1_25_title:0 "Expanding Administrative Institutions"
+EDG_MISSION_ITA_1_25_title:0 "Expanding Institutions" # Expanding Administrative Institutions
 EDG_MISSION_ITA_1_25_desc:0 "With the establishment of a new political order in Italy, we must expand our administrative institutions to meet practical demands."
 
 EDG_MISSION_ITA_1_27_title:0 "Perfecting the Judicial System"
 EDG_MISSION_ITA_1_27_desc:0 "The judicial system of the old order has been rendered obsolete by the times. A prosperous and modern Italy must have a brand new, advanced judicial system to maintain the stability of our society."
 
-EDG_MISSION_ITA_1_28_title:0 "Establishing an Administrative Center"
+EDG_MISSION_ITA_1_28_title:0 "Administrative Center" # Establishing an Administrative Center
 EDG_MISSION_ITA_1_28_desc:0 "Italy was once politically fragmented. Now that we have unified Italy, what we must do is strengthen Italian centralism."
 
 EDG_MISSION_ITA_2_26_title:0 "Healing the Wounds"
@@ -32,7 +32,7 @@ EDG_MISSION_ITA_4_25_desc:0 "With the economic development of the Italian region
 EDG_MISSION_ITA_4_27_title:0 "Capitalist Economy"
 EDG_MISSION_ITA_4_27_desc:0 "The capitalist economy was ultimately established following the Industrial Revolution, as handicraft workshops transitioned to large-scale machine industry. The Age of Discovery at the end of the 15th century and the subsequent opening of colonies expanded the sales market manifold, accelerating the transformation from handicrafts to manufactory-based production."
 
-EDG_MISSION_ITA_4_28_title:0 "Improving Production Methods"
+EDG_MISSION_ITA_4_28_title:0 "Improving Production" # Improving Production Methods
 EDG_MISSION_ITA_4_28_desc:0 "The production methods of the feudal era were backward and inefficient. Abolishing serfdom and forced labor is not only a need for the liberation of humanity but also a necessity for economic development."
 
 EDG_MISSION_ITA_4_29_title:0 "Italian Urbanization"

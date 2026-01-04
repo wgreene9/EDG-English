@@ -14,7 +14,7 @@ EDG_TTS_2_mission_1_16_desc:0 "Tunis is one of the vital trading hubs of North A
 EDG_TTS_2_mission_1_17_title:0 "The Province of Africa"
 EDG_TTS_2_mission_1_17_desc:0 "With our control over the regions surrounding Tunis and the Maghreb, the entirety of the African coast will fall into our hands. As we occupy the greater part of North Africa, our control over its trade can grow by orders of magnitude, while also striking fear into the hearts of the Muslim infidels."
 
-EDG_TTS_2_mission_1_21_title:0 "The Brown-Booted Army"
+EDG_TTS_2_mission_1_21_title:0 "Brown-Booted Army" # The Brown-Booted Army
 EDG_TTS_2_mission_1_21_desc:0 "During the medieval period, the quality of our troops was uneven, and their equipment varied greatly in standard, severely hindering unified training and command. With the advancement of our modernization, our forces can now march in unified brown boots, with synchronized steps, heads held high and chests out, advancing proudly forward."
 
 EDG_TTS_2_mission_1_23_title:0 "Magnani Reforms"
@@ -68,7 +68,7 @@ EDG_TTS_2_mission_3_19_desc:0 "With the full unification of the Germanic territo
 EDG_TTS_2_mission_3_21_title:0 "The Education Movement"
 EDG_TTS_2_mission_3_21_desc:0 "'The Education Movement was a 16th-century Italian initiative aimed at modernizing and improving local education. Under its banner, a series of comprehensive educational infrastructure projects were undertaken. Schools at various levels sprang up, and excellent teachers were recruited from across Europe. These measures made Italy one of the nations with the highest educational standards in Europe at the time.' — The Cambridge History of Italy, Volume V"
 
-EDG_TTS_2_mission_3_23_title:0 "The Printing Press and National Modernization"
+EDG_TTS_2_mission_3_23_title:0 "National Modernization" # The Printing Press and National Modernization
 EDG_TTS_2_mission_3_23_desc:0 "The widespread application of the printing press has been a great boon to our nation's publishing industry. Hymnals, newspapers, and novels are being produced in an endless stream. Our nation's literature and arts have begun to flourish, with a variety of works emerging in abundance. Government efficiency has also multiplied several times over."
 
 EDG_TTS_2_mission_4_11_title:0 "The Province of Thrace"
@@ -98,7 +98,7 @@ EDG_TTS_2_mission_4_22_desc:0 "With the further growth of our navy, we can proud
 EDG_TTS_2_mission_4_24_title:0 "Public Culture"
 EDG_TTS_2_mission_4_24_desc:0 "With the gradual advancement of Italy's cultural industry, we are progressively forming a complete public culture with distinct Italian characteristics. This culture represents our people; it truly unites our populace. Italians are connected by a shared cultural bond."
 
-EDG_TTS_2_mission_5_12_title:0 "The Province of Illyricum and Pannonia"
+EDG_TTS_2_mission_5_12_title:0 "Illyricum and Pannonia" # The Province of Illyricum and Pannonia
 EDG_TTS_2_mission_5_12_desc:0 "The Praetorian Prefecture of Illyricum and Pannonia was the institution through which the old Roman Empire exercised control over the Balkans, comprising two subordinate dioceses: the Diocese of Illyricum and the Diocese of Pannonia. With our complete control over the Balkans, we can re-establish this prefecture."
 
 EDG_TTS_2_mission_5_13_title:0 "New Natural Frontiers"
