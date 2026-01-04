@@ -109,7 +109,7 @@ country_decisions = {
 			has_regency = no
 			has_consort = no
 			is_at_war = no
-			dynasty = "格里芬"
+			dynasty = "Gryf"
 		}
 		effect = {
 			set_country_flag = has_EDG_BELA_POM_KSB_marriage_decision_piast_flag
@@ -164,7 +164,7 @@ country_decisions = {
 			has_regency = no
 			has_consort = no
 			is_at_war = no
-			dynasty = "格里芬"
+			dynasty = "Gryf"
 		}
 		effect = {
 			set_country_flag = has_EDG_BELA_POM_KSB_marriage_decision_premysl_flag
@@ -216,7 +216,7 @@ country_decisions = {
 			has_regency = no
 			has_consort = no
 			is_at_war = no
-			dynasty = "格里芬"
+			dynasty = "Gryf"
 		}
 		effect = {
 			set_country_flag = has_EDG_BELA_POM_KSB_marriage_decision_rurikovich_flag
@@ -268,7 +268,7 @@ country_decisions = {
 			has_regency = no
 			has_consort = no
 			is_at_war = no
-			dynasty = "格里芬"
+			dynasty = "Gryf"
 		}
 		effect = {
 			set_country_flag = has_EDG_BELA_POM_KSB_marriage_decision_sisman_flag
@@ -320,7 +320,7 @@ country_decisions = {
 			has_regency = no
 			has_consort = no
 			is_at_war = no
-			dynasty = "格里芬"
+			dynasty = "Gryf"
 		}
 		effect = {
 			set_country_flag = has_EDG_BELA_POM_KSB_marriage_decision_nemanya_flag

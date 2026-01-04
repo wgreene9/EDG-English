@@ -1,0 +1,2074 @@
+namespace = EDG_DMR_flavor
+country_event = {
+	id = EDG_DMR_flavor.1
+	title = EDG_DMR_flavor.1.t
+	desc = EDG_DMR_flavor.1.d
+	picture = SIEGE_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.1.aa
+		custom_tooltip = EDG_DMR_flavor.1.tt
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.2
+	title = EDG_DMR_flavor.2.t
+	desc = EDG_DMR_flavor.2.d
+	picture = SIEGE_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.2.aa
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.3
+	title = EDG_DMR_flavor.3.t
+	desc = EDG_DMR_flavor.3.d
+	picture = SIEGE_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.3.aa
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.4
+	title = EDG_DMR_flavor.4.t
+	desc = EDG_DMR_flavor.4.d
+	picture = SEJM_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.4.aa
+		add_stability = -3
+		capital_scope = {
+			spawn_rebels = {
+				type = anti_tax_rebels
+				size = 2
+			}
+		}
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.5
+	title = EDG_DMR_flavor.5.t
+	desc = EDG_DMR_flavor.5.d
+	picture = BATTLE_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	immediate = {
+		hidden_effect = {
+			set_country_flag = EDG_DMR_gipsy_uprising_end_flag
+		}
+	}
+	trigger = {
+		ai = no
+	}
+	option = {
+		name = EDG_DMR_flavor.5.aa
+		1941 = {
+			add_core = DMR
+		}
+		ROOT = {
+			release = DMR
+		}
+		switch_tag = DMR
+		DMR = {
+			add_government_reform = EDG_DMR_domria_government_1
+			EDG_DMR_yanoro_enable = yes
+			declare_war_with_cb = {
+				casus_belli = cb_annex
+				who = TOV
+			}
+			define_ruler_to_general = {
+				fire = 4
+				shock = 6
+				manuever = 4
+				siege = 4
+			}
+			add_manpower = 10
+			add_treasury = 100
+			change_primary_culture = EDG_rom_culture
+			add_country_modifier = {
+				name = EDG_DMR_enemy
+				duration = 9125
+			}
+			1941 = {
+				infantry = prev
+				infantry = prev
+				infantry = prev
+				infantry = prev
+				infantry = prev
+				infantry = prev
+				cavalry = prev
+				cavalry = prev
+			}
+		}
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.6
+	title = EDG_DMR_flavor.6.t
+	desc = EDG_DMR_flavor.6.d
+	picture = ASSASSINATION_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.6.aa
+		add_country_modifier = {
+			name = EDG_DMR_rise
+			duration = 9125
+		}
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.7
+	title = EDG_DMR_flavor.7.t
+	desc = EDG_DMR_flavor.7.d
+	picture = BAD_WITH_MONARCH_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.page
+		hidden_effect = {
+			country_event = { id = EDG_DMR_flavor.700 }
+		}
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.700
+	title = EDG_DMR_flavor.7.t
+	desc = EDG_DMR_flavor.700.d
+	picture = BAD_WITH_MONARCH_eventPicture
+	# fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.7.aa
+		add_splendor = 800
+		add_prestige_or_monarch_power = {
+			amount = 100
+		}
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.8
+	title = EDG_DMR_flavor.8.t
+	desc = EDG_DMR_flavor.8.d
+	picture = BATTLE_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.page
+		hidden_effect = {
+			country_event = { id = EDG_DMR_flavor.800 }
+		}
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.800
+	title = EDG_DMR_flavor.8.t
+	desc = EDG_DMR_flavor.800.d
+	picture = BATTLE_eventPicture
+	# fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.8.aa
+		add_splendor = 800
+		add_prestige_or_monarch_power = {
+			amount = 100
+		}
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.9
+	title = EDG_DMR_flavor.9.t
+	desc = EDG_DMR_flavor.9.d
+	picture = RELIGIOUS_TURMOIL_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.9.aa
+		add_treasury = -10
+		add_manpower = -1
+		set_global_flag = EDG_DMR_coming_flag
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.10
+	title = EDG_DMR_flavor.10.t
+	desc = EDG_DMR_flavor.10.d
+	picture = RELIGIOUS_TURMOIL_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.10.aa
+		country_event = {
+			id = EDG_DMR_flavor.11
+		}
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.11
+	title = EDG_DMR_flavor.11.t
+	desc = EDG_DMR_flavor.11.d
+	picture = REVOLUTION_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.11.aa
+		country_event = {
+			id = EDG_DMR_flavor.11
+			days = 365
+		}
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.12
+	title = EDG_DMR_flavor.12.t
+	desc = EDG_DMR_flavor.12.d
+	picture = SMUGGLERS_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.12.aa
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.13
+	title = EDG_DMR_flavor.13.t
+	desc = EDG_DMR_flavor.13.d
+	picture = TOURNAMENT_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.13.aa
+		country_event = {
+			id = EDG_DMR_flavor.14
+		}
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.14
+	title = EDG_DMR_flavor.14.t
+	desc = EDG_DMR_flavor.14.d
+	picture = STREET_SPEECH_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.14.aa
+		define_ruler = {
+			dynasty = ROOT
+			culture = ROOT
+			religion = ROOT
+			age = 20
+			claim = 95
+		}
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.15
+	title = EDG_DMR_flavor.15.t
+	desc = EDG_DMR_flavor.15.d
+	picture = CONQUEST_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.15.aa
+		add_dip_power = 50
+		add_country_modifier = {
+			name = EDG_DMR_coexist_with_judas
+			duration = -1
+		}
+		set_global_flag = jewish_event_triggered
+	}
+	option = {
+		name = EDG_DMR_flavor.15.bb
+		add_treasury = 500
+		add_country_modifier = {
+			name = EDG_DMR_reject_judas
+			duration = -1
+		}
+		set_global_flag = jewish_event_triggered
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.16
+	title = EDG_DMR_flavor.16.t
+	desc = EDG_DMR_flavor.16.d
+	picture = RELIGIOUS_WARS_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.16.aa
+		define_ruler = {
+			dynasty = ROOT
+			culture = ROOT
+			religion = ROOT
+			age = 20
+			claim = 95
+		}
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.17
+	title = EDG_DMR_flavor.17.t
+	desc = EDG_DMR_flavor.17.d
+	picture = CITY_VIEW_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.page
+		hidden_effect = {
+			country_event = { id = EDG_DMR_flavor.1700 }
+		}
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.1700
+	title = EDG_DMR_flavor.17.t
+	desc = EDG_DMR_flavor.1700.d
+	picture = CITY_VIEW_eventPicture
+	# fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.17.aa
+		country_event = {
+			id = EDG_DMR_flavor.18
+			days = 180
+		}
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.18
+	title = EDG_DMR_flavor.18.t
+	desc = EDG_DMR_flavor.18.d
+	picture = ST_PETERS_CHURCH_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.18.aa
+		define_ruler = {
+			adm = 6
+			dip = 6
+			mil = 6
+			dynasty = ROOT
+			culture = ROOT
+			religion = ROOT
+			age = 20
+			claim = 95
+		}
+		set_global_flag = EDG_DMR_emperor_passed_event
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.19
+	title = EDG_DMR_flavor.19.t
+	desc = EDG_DMR_flavor.19.d
+	picture = COMET_SIGHTED_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.page
+		hidden_effect = {
+			country_event = { id = EDG_DMR_flavor.1900 }
+		}
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.1900
+	title = EDG_DMR_flavor.19.t
+	desc = EDG_DMR_flavor.1900.d
+	picture = COMET_SIGHTED_eventPicture
+	# fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.19.aa
+		custom_tooltip = EDG_DMR_flavor.19.tt
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.20
+	title = EDG_DMR_flavor.20.t
+	desc = EDG_DMR_flavor.20.d
+	picture = ST_PETERS_CHURCH_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.20.aa
+		add_splendor = 800
+		add_prestige_or_monarch_power = {
+			amount = 100
+		}
+		add_corruption = -2
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.21
+	title = EDG_DMR_flavor.21.t
+	desc = EDG_DMR_flavor.21.d
+	picture = hellas_dependence_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	immediate = {
+		hidden_effect = {
+			ROOT = {
+				release = FA2
+			}
+			france_region = {
+				cede_province = FA2
+				add_core = FA2
+			}
+			FA2 = {
+				add_army_tradition = 100
+				EDG_DMR_infantry_60_effects = YES
+				override_country_name = EDG_DMR_home_name_1
+				add_manpower = 200
+				add_treasury = 50000
+				add_country_modifier = {
+					name = EDG_DMR_exploison_2_modifier
+					duration = 3650
+				}
+			}
+		}
+	}
+	option = {
+		name = EDG_DMR_flavor.21.aa
+		add_prestige = -50
+	}
+	option = {
+		name = EDG_DMR_flavor.21.bb
+		declare_war_with_cb = {
+			who = FA2
+			casus_belli = cb_annex
+		}
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.22
+	title = EDG_DMR_flavor.22.t
+	desc = EDG_DMR_flavor.22.d
+	picture = 15_Trade_Company_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	immediate = {
+		hidden_effect = {
+			ROOT = {
+				release = LT2
+			}
+			iberia_region = {
+				cede_province = LT2
+				add_core = LT2
+			}
+			LT2 = {
+				add_army_tradition = 100
+				EDG_DMR_infantry_60_effects = YES
+				override_country_name = EDG_DMR_home_name_2
+				add_manpower = 200
+				add_treasury = 50000
+				add_country_modifier = {
+					name = EDG_DMR_exploison_2_modifier
+					duration = 3650
+				}
+			}
+		}
+	}
+	option = {
+		name = EDG_DMR_flavor.22.aa
+		add_prestige = -50
+	}
+	option = {
+		name = EDG_DMR_flavor.22.bb
+		declare_war_with_cb = {
+			who = LT2
+			casus_belli = cb_annex
+		}
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.23
+	title = EDG_DMR_flavor.23.t
+	desc = EDG_DMR_flavor.23.d
+	picture = hellas_dependence_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	immediate = {
+		hidden_effect = {
+			ROOT = {
+				release = IT1
+			}
+			italy_region = {
+				cede_province = IT1
+				add_core = IT1
+			}
+			IT1 = {
+				add_army_tradition = 100
+				EDG_DMR_infantry_60_effects = YES
+				add_manpower = 200
+				add_treasury = 50000
+				add_country_modifier = {
+					name = EDG_DMR_exploison_2_modifier
+					duration = 3650
+				}
+			}
+		}
+	}
+	option = {
+		name = EDG_DMR_flavor.23.aa
+		add_prestige = -50
+	}
+	option = {
+		name = EDG_DMR_flavor.23.bb
+		declare_war_with_cb = {
+			who = IT1
+			casus_belli = cb_annex
+		}
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.24
+	title = EDG_DMR_flavor.24.t
+	desc = EDG_DMR_flavor.24.d
+	picture = 15_Trade_Company_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	immediate = {
+		hidden_effect = {
+			ROOT = {
+				release = EN1
+			}
+			british_isles_region = {
+				cede_province = EN1
+				add_core = EN1
+			}
+			EN1 = {
+				add_army_tradition = 100
+				EDG_DMR_infantry_60_effects = YES
+				override_country_name = EDG_DMR_home_name_3
+				add_manpower = 200
+				add_treasury = 50000
+				add_country_modifier = {
+					name = EDG_DMR_exploison_2_modifier
+					duration = 3650
+				}
+			}
+		}
+	}
+	option = {
+		name = EDG_DMR_flavor.24.aa
+		add_prestige = -50
+	}
+	option = {
+		name = EDG_DMR_flavor.24.bb
+		declare_war_with_cb = {
+			who = EN1
+			casus_belli = cb_annex
+		}
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.25
+	title = EDG_DMR_flavor.25.t
+	desc = EDG_DMR_flavor.25.d
+	picture = hellas_dependence_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	immediate = {
+		hidden_effect = {
+			ROOT = {
+				release = NED
+			}
+			low_countries_region = {
+				cede_province = NED
+				add_core = NED
+			}
+			NED = {
+				add_army_tradition = 100
+				EDG_DMR_infantry_60_effects = YES
+				add_manpower = 200
+				add_treasury = 50000
+				add_country_modifier = {
+					name = EDG_DMR_exploison_2_modifier
+					duration = 3650
+				}
+			}
+		}
+	}
+	option = {
+		name = EDG_DMR_flavor.25.aa
+		add_prestige = -50
+	}
+	option = {
+		name = EDG_DMR_flavor.25.bb
+		declare_war_with_cb = {
+			who = NED
+			casus_belli = cb_annex
+		}
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.26
+	title = EDG_DMR_flavor.26.t
+	desc = EDG_DMR_flavor.26.d
+	picture = EDG_EVENT_PICTURE_HAB_1
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.26.aa
+		add_country_modifier = {
+			name = EDG_DMR_palace
+			duration = -1
+		}
+		inherit = FA2
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.27
+	title = EDG_DMR_flavor.27.t
+	desc = EDG_DMR_flavor.27.d
+	picture = RELIGIOUS_WARS_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.27.aa
+		add_country_modifier = {
+			name = EDG_DMR_sword_broke
+			duration = -1
+		}
+		inherit = EN1
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.28
+	title = EDG_DMR_flavor.28.t
+	desc = EDG_DMR_flavor.28.d
+	picture = BUCCANEERS_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.28.aa
+		add_country_modifier = {
+			name = EDG_DMR_ice_fall
+			duration = -1
+		}
+		inherit = LT2
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.29
+	title = EDG_DMR_flavor.29.t
+	desc = EDG_DMR_flavor.29.d
+	picture = ST_PETERS_CHURCH_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.29.aa
+		add_country_modifier = {
+			name = EDG_DMR_musi
+			duration = -1
+		}
+		inherit = IT1
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.30
+	title = EDG_DMR_flavor.30.t
+	desc = EDG_DMR_flavor.30.d
+	picture = VILLAGE_BURNING_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.30.aa
+		add_country_modifier = {
+			name = EDG_DMR_sea
+			duration = -1
+		}
+		inherit = NED
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.31
+	title = EDG_DMR_flavor.31.t
+	desc = EDG_DMR_flavor.31.d
+	picture = VILLAGE_BURNING_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		country_event = {
+			id = EDG_DMR_flavor.35
+		}
+		set_country_flag = EDG_DMR_diaspora_disaster_start_flag
+		name = EDG_DMR_flavor.31.aa
+		add_stability = -6
+		add_prestige = -100
+		add_legitimacy = -100
+		random_owned_province = {
+			spawn_rebels = {
+				type = pretender_rebels
+				size = 2
+			}
+		}
+		random_owned_province = {
+			spawn_rebels = {
+				type = pretender_rebels
+				size = 2
+			}
+		}
+		random_owned_province = {
+			spawn_rebels = {
+				type = pretender_rebels
+				size = 2
+			}
+		}
+		random_owned_province = {
+			spawn_rebels = {
+				type = pretender_rebels
+				size = 2
+			}
+		}
+		random_owned_province = {
+			spawn_rebels = {
+				type = pretender_rebels
+				size = 2
+			}
+		}
+		random_owned_province = {
+			spawn_rebels = {
+				type = pretender_rebels
+				size = 2
+			}
+		}
+		random_owned_province = {
+			spawn_rebels = {
+				type = pretender_rebels
+				size = 2
+			}
+		}
+		random_owned_province = {
+			spawn_rebels = {
+				type = pretender_rebels
+				size = 2
+			}
+		}
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.32
+	title = EDG_DMR_flavor.32.t
+	desc = EDG_DMR_flavor.32.d
+	picture = VILLAGE_BURNING_eventPicture
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.32.aa
+		random_owned_province = {
+			spawn_rebels = {
+				type = nationalist_rebels
+				size = 2
+			}
+		}
+		random_owned_province = {
+			spawn_rebels = {
+				type = nationalist_rebels
+				size = 2
+			}
+		}
+		random_owned_province = {
+			spawn_rebels = {
+				type = nationalist_rebels
+				size = 2
+			}
+		}
+		random_owned_province = {
+			spawn_rebels = {
+				type = nationalist_rebels
+				size = 2
+			}
+		}
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.33
+	title = EDG_DMR_flavor.33.t
+	desc = EDG_DMR_flavor.33.d
+	picture = VILLAGE_BURNING_eventPicture
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.33.aa
+		random_owned_province = {
+			spawn_rebels = {
+				type = catholic_rebels
+				size = 2
+			}
+		}
+		random_owned_province = {
+			spawn_rebels = {
+				type = catholic_rebels
+				size = 2
+			}
+		}
+		random_owned_province = {
+			spawn_rebels = {
+				type = catholic_rebels
+				size = 2
+			}
+		}
+		random_owned_province = {
+			spawn_rebels = {
+				type = catholic_rebels
+				size = 2
+			}
+		}
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.34
+	title = EDG_DMR_flavor.34.t
+	desc = EDG_DMR_flavor.34.d
+	picture = VILLAGE_BURNING_eventPicture
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.34.aa
+		random_owned_province = {
+			spawn_rebels = {
+				type = particularist_rebels
+				size = 2
+			}
+		}
+		random_owned_province = {
+			spawn_rebels = {
+				type = particularist_rebels
+				size = 2
+			}
+		}
+		random_owned_province = {
+			spawn_rebels = {
+				type = particularist_rebels
+				size = 2
+			}
+		}
+		random_owned_province = {
+			spawn_rebels = {
+				type = particularist_rebels
+				size = 2
+			}
+		}
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.35
+	title = EDG_DMR_flavor.35.t
+	desc = EDG_DMR_flavor.35.d
+	picture = ST_PETERS_CHURCH_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.35.aa
+		country_event = {
+			id = EDG_DMR_flavor.36
+		}
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.36
+	title = EDG_DMR_flavor.36.t
+	desc = EDG_DMR_flavor.36.d
+	picture = CIVIL_WAR_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.36.aa
+		add_country_modifier = {
+			name = EDG_DMR_stand_up
+			duration = -1
+		}
+		country_event = {
+			id = EDG_DMR_flavor.37
+		}
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.37
+	title = EDG_DMR_flavor.37.t
+	desc = EDG_DMR_flavor.37.d
+	picture = VILLAGE_BURNING_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.37.aa
+		add_prestige_or_monarch_power = {
+			amount = 100
+		}
+		add_adm_power = 200
+		add_dip_power = 200
+		add_mil_power = 200
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.38
+	title = EDG_DMR_flavor.38.t
+	desc = EDG_DMR_flavor.38.d
+	picture = ACCUSATION_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	immediate = {
+		hidden_effect = {
+			ROOT = {
+				release = HAB
+			}
+			south_german_region = {
+				cede_province = HAB
+				add_core = HAB
+			}
+			HAB = {
+				add_army_tradition = 100
+				EDG_BAH_infantry_50_effects = YES
+				add_manpower = 200
+				add_treasury = 50000
+				add_country_modifier = {
+					name = EDG_BAH_exploison_2_modifier
+					duration = 3650
+				}
+			}
+		}
+	}
+	option = {
+		name = EDG_DMR_flavor.38.aa
+		declare_war_with_cb = {
+			who = HAB
+			casus_belli = cb_annex
+		}
+		country_event = {
+			id = EDG_DMR_flavor.39
+			days = 50
+		}
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.39
+	title = EDG_DMR_flavor.39.t
+	desc = EDG_DMR_flavor.39.d
+	picture = COMET_SIGHTED_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.39.aa
+		add_prestige_or_monarch_power = {
+			amount = 100
+		}
+		add_adm_power = 200
+		add_dip_power = 200
+		add_mil_power = 200
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.40
+	title = EDG_DMR_flavor.40.t
+	desc = EDG_DMR_flavor.40.d
+	picture = DIPLOMACY_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.40.aa
+		add_prestige_or_monarch_power = {
+			amount = 100
+		}
+		add_adm_power = 200
+		add_dip_power = 200
+		add_mil_power = 200
+		inherit = HAB
+		country_event = {
+			id = EDG_DMR_flavor.41
+		}
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.41
+	title = EDG_DMR_flavor.41.t
+	desc = EDG_DMR_flavor.41.d
+	picture = CIVIL_WAR_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.41.aa
+		add_government_reform = EDG_DMR_parliament_7
+		country_event = {
+			id = EDG_DMR_flavor.42
+			days = 90
+		}
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.42
+	title = EDG_DMR_flavor.42.t
+	desc = EDG_DMR_flavor.42.d
+	picture = SIEGE_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.42.aa
+		add_country_modifier = {
+			name = EDG_DMR_peace
+			duration = -1
+		}
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.43
+	title = EDG_DMR_flavor.43.t
+	desc = EDG_DMR_flavor.43.d
+	picture = SIEGE_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.43.aa
+		add_country_modifier = {
+			name = EDG_DMR_rule_again
+			duration = -1
+		}
+		EDG_DMR_andre_enable = yes
+		add_prestige_or_monarch_power = {
+			amount = 100
+		}
+		add_adm_power = 200
+		add_dip_power = 200
+		add_mil_power = 200
+		add_stability = 6
+		add_legitimacy = 100
+		set_country_flag = EDG_DMR_diaspora_disaster_end_flag
+		clr_country_flag = EDG_DMR_diaspora_disaster_start_flag
+		country_event = {
+			id = EDG_DMR_play.19
+			days = 1825
+		}
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.44
+	title = EDG_DMR_flavor.44.t
+	desc = EDG_DMR_flavor.44.d
+	picture = CITY_VIEW_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.44.aa
+		country_event = {
+			id = EDG_DMR_flavor.45
+			days = 30
+		}
+		EDG_DMR_michy_enable = yes
+		random_owned_province = {
+			spawn_rebels = {
+				type = pretender_rebels
+				size = 2
+			}
+		}
+		random_owned_province = {
+			spawn_rebels = {
+				type = pretender_rebels
+				size = 2
+			}
+		}
+		random_owned_province = {
+			spawn_rebels = {
+				type = pretender_rebels
+				size = 2
+			}
+		}
+		random_owned_province = {
+			spawn_rebels = {
+				type = pretender_rebels
+				size = 2
+			}
+		}
+		random_owned_province = {
+			spawn_rebels = {
+				type = pretender_rebels
+				size = 2
+			}
+		}
+		random_owned_province = {
+			spawn_rebels = {
+				type = pretender_rebels
+				size = 2
+			}
+		}
+		set_country_flag = EDG_DMR_civil_war_start_flag
+		every_rival_country = {
+			declare_war_with_cb = {
+				who = DMR
+				casus_belli = cb_annex
+			}
+		}
+		HAB = {
+			declare_war_with_cb = {
+				who = DMR
+				casus_belli = cb_annex
+			}
+		}
+		every_ally = {
+			break_alliance = DMR
+		}
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.45
+	title = EDG_DMR_flavor.45.t
+	desc = EDG_DMR_flavor.45.d
+	picture = CORRUPTION_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.45.aa
+		country_event = {
+			id = EDG_DMR_flavor.47
+			days = 10
+		}
+		add_country_modifier = {
+			name = EDG_DMR_move
+			duration = 1825
+		}
+		country_event = {
+			id = EDG_DMR_flavor.46
+			days = 50
+		}
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.46
+	title = EDG_DMR_flavor.46.t
+	desc = EDG_DMR_flavor.46.d
+	picture = RELIGIOUS_TURMOIL_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	immediate = {
+		hidden_effect = {
+			every_heretic_province = {
+				cede_province = TOV
+				add_core = TOV
+			}
+			capital_scope = {
+				cede_province = TOV
+				add_core = TOV
+			}
+			ROOT = {
+				release = TOV
+			}
+			TOV = {
+				add_army_tradition = 100
+				EDG_DMR_infantry_60_effects = YES
+				add_manpower = 200
+				add_treasury = 50000
+				add_country_modifier = {
+					name = EDG_DMR_exploison_2_modifier
+					duration = 3650
+				}
+			}
+		}
+	}
+	option = {
+		name = EDG_DMR_flavor.46.aa
+		TOV = {
+			declare_war_with_cb = {
+				who = DMR
+				casus_belli = cb_annex
+			}
+		}
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.47
+	title = EDG_DMR_flavor.47.t
+	desc = EDG_DMR_flavor.47.d
+	picture = CITY_VIEW_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.47.aa
+		country_event = {
+			id = EDG_DMR_flavor.48
+			days = 10
+		}
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.48
+	title = EDG_DMR_flavor.48.t
+	desc = EDG_DMR_flavor.48.d
+	picture = THEATRE_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.page
+		hidden_effect = {
+			country_event = { id = EDG_DMR_flavor.4800 }
+		}
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.4800
+	title = EDG_DMR_flavor.48.t
+	desc = EDG_DMR_flavor.4800.d
+	picture = THEATRE_eventPicture
+	# fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.48.aa
+		country_event = {
+			id = EDG_DMR_flavor.49
+			days = 2
+		}
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.49
+	title = EDG_DMR_flavor.49.t
+	desc = EDG_DMR_flavor.49.d
+	picture = PRAYING_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.49.aa
+		country_event = {
+			id = EDG_DMR_flavor.50
+			days = 1
+		}
+		add_legitimacy = 50
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.50
+	title = EDG_DMR_flavor.50.t
+	desc = EDG_DMR_flavor.50.d
+	picture = EUROPEAN_REFUGEES_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.50.aa
+		add_legitimacy = 100
+		create_alliance = FRA
+		FRA = {
+			join_all_defensive_wars_of = DMR
+		}
+		set_country_flag = EDG_DMR_reaction_flag
+		capital_scope = {
+			infantry = DMR
+			infantry = DMR
+			infantry = DMR
+			infantry = DMR
+			infantry = DMR
+			infantry = DMR
+			infantry = DMR
+			infantry = DMR
+			infantry = DMR
+			infantry = DMR
+			infantry = DMR
+			infantry = DMR
+			infantry = DMR
+			infantry = DMR
+			infantry = DMR
+			infantry = DMR
+			infantry = DMR
+			infantry = DMR
+			infantry = DMR
+			infantry = DMR
+		}
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.51
+	title = EDG_DMR_flavor.51.t
+	desc = EDG_DMR_flavor.51.d
+	picture = CITY_VIEW_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.51.aa
+		add_country_modifier = {
+			name = EDG_DMR_real_king
+			duration = -1
+		}
+		set_country_flag = EDG_DMR_civil_war_end_flag
+		clr_country_flag = EDG_DMR_civil_war_start_flag
+		clr_country_flag = EDG_DMR_reaction_flag
+		kill_ruler = yes
+		EDG_DMR_alfie_enable = yes
+		add_stability = 6
+		add_legitimacy = 50
+		every_rival_country = {
+			white_peace = DMR
+		}
+		HAB = {
+			white_peace = DMR
+		}
+		country_event = {
+			id = EDG_DMR_flavor.52
+			days = 1825
+		}
+		country_event = {
+			id = EDG_DMR_play.18
+			days = 3650
+		}
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.52
+	title = EDG_DMR_flavor.52.t
+	desc = EDG_DMR_flavor.52.d
+	picture = CITY_VIEW_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.52.aa
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.53
+	title = EDG_DMR_flavor.53.t
+	desc = EDG_DMR_flavor.53.d
+	picture = ST_PETERS_CHURCH_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.53.aa
+		add_country_modifier = {
+			name = EDG_DMR_nov
+			duration = 9125
+		}
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.54
+	title = EDG_DMR_flavor.54.t
+	desc = EDG_DMR_flavor.54.d
+	picture = FEAST_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.54.aa
+		country_event = {
+			id = EDG_DMR_flavor.55
+		}
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.55
+	title = EDG_DMR_flavor.55.t
+	desc = EDG_DMR_flavor.55.d
+	picture = EXPLORERS_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.55.aa
+		add_country_modifier = {
+			name = EDG_DMR_card_crash
+		}
+		add_country_modifier = {
+			name = EDG_DMR_imagination
+		}
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.56
+	title = EDG_DMR_flavor.56.t
+	desc = EDG_DMR_flavor.56.d
+	picture = COUNTRY_COLLAPSE_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.56.aa
+		add_stability = -6
+		add_prestige = -200
+		add_legitimacy = -100
+		random_owned_area = {
+			spawn_rebels = {
+				type = pretender_rebels
+				size = 1.5
+			}
+		}
+		random_owned_area = {
+			spawn_rebels = {
+				type = pretender_rebels
+				size = 1.5
+			}
+		}
+		country_event = {
+			id = EDG_DMR_flavor.57
+			days = 200
+		}
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.57
+	title = EDG_DMR_flavor.57.t
+	desc = EDG_DMR_flavor.57.d
+	picture = CIVIL_WAR_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.57.aa
+		custom_tooltip = EDG_DMR_card_1_tt
+		random_owned_area = {
+			spawn_rebels = {
+				type = nationalist_rebels
+				size = 1.5
+			}
+		}
+		random_owned_area = {
+			spawn_rebels = {
+				type = nationalist_rebels
+				size = 1.5
+			}
+		}
+		country_event = {
+			id = EDG_DMR_flavor.58
+			days = 100
+		}
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.58
+	title = EDG_DMR_flavor.58.t
+	desc = EDG_DMR_flavor.58.d
+	picture = EXPLORERS_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.58.aa
+		custom_tooltip = EDG_DMR_card_2_tt
+		random_owned_area = {
+			spawn_rebels = {
+				type = nationalist_rebels
+				size = 1.5
+			}
+		}
+		capital_scope = {
+			spawn_rebels = {
+				type = noble_rebels
+				size = 1.5
+			}
+		}
+		capital_scope = {
+			add_devastation = 100
+		}
+		country_event = {
+			id = EDG_DMR_flavor.59
+			days = 100
+		}
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.59
+	title = EDG_DMR_flavor.59.t
+	desc = EDG_DMR_flavor.59.d
+	picture = RELIGION_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.59.aa
+		custom_tooltip = EDG_DMR_card_3_tt
+		random_owned_area = {
+			spawn_rebels = {
+				type = catholic_rebels
+				size = 1.5
+			}
+		}
+		random_owned_area = {
+			spawn_rebels = {
+				type = catholic_rebels
+				size = 1.5
+			}
+		}
+		add_church_power = -200
+		country_event = {
+			id = EDG_DMR_flavor.60
+			days = 100
+		}
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.60
+	title = EDG_DMR_flavor.60.t
+	desc = EDG_DMR_flavor.60.d
+	picture = DEBATE_REPUBLICAN_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.60.aa
+		custom_tooltip = EDG_DMR_card_4_tt
+		random_owned_area = {
+			spawn_rebels = {
+				type = noble_rebels
+				size = 1.5
+			}
+		}
+		random_owned_area = {
+			spawn_rebels = {
+				type = noble_rebels
+				size = 1.5
+			}
+		}
+		add_legitimacy = -25
+		country_event = {
+			id = EDG_DMR_flavor.61
+			days = 100
+		}
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.61
+	title = EDG_DMR_flavor.61.t
+	desc = EDG_DMR_flavor.61.d
+	picture = BAD_WITH_MONARCH_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.61.aa
+		custom_tooltip = EDG_DMR_card_5_tt
+		random_owned_area = {
+			spawn_rebels = {
+				type = noble_rebels
+				size = 1.5
+			}
+		}
+		random_owned_area = {
+			spawn_rebels = {
+				type = noble_rebels
+				size = 1.5
+			}
+		}
+		add_legitimacy = -25
+		country_event = {
+			id = EDG_DMR_flavor.62
+			days = 100
+		}
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.62
+	title = EDG_DMR_flavor.62.t
+	desc = EDG_DMR_flavor.62.d
+	picture = RELIGION_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.62.aa
+		custom_tooltip = EDG_DMR_card_6_tt
+		random_owned_area = {
+			spawn_rebels = {
+				type = catholic_rebels
+				size = 1.5
+			}
+		}
+		random_owned_area = {
+			spawn_rebels = {
+				type = catholic_rebels
+				size = 1.5
+			}
+		}
+		add_church_power = -200
+		country_event = {
+			id = EDG_DMR_flavor.63
+			days = 100
+		}
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.63
+	title = EDG_DMR_flavor.63.t
+	desc = EDG_DMR_flavor.63.d
+	picture = CULTURE_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.63.aa
+		custom_tooltip = EDG_DMR_card_7_tt
+		random_owned_area = {
+			spawn_rebels = {
+				type = particularist_rebels
+				size = 1.5
+			}
+		}
+		random_owned_area = {
+			spawn_rebels = {
+				type = particularist_rebels
+				size = 1.5
+			}
+		}
+		add_legitimacy = -25
+		country_event = {
+			id = EDG_DMR_flavor.64
+			days = 100
+		}
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.64
+	title = EDG_DMR_flavor.64.t
+	desc = EDG_DMR_flavor.64.d
+	picture = ENCOMIENDA_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.64.aa
+		custom_tooltip = EDG_DMR_card_8_tt
+		random_owned_area = {
+			spawn_rebels = {
+				type = paticularist_rebels
+				size = 1.5
+			}
+		}
+		random_owned_area = {
+			spawn_rebels = {
+				type = paticularist_rebels
+				size = 1.5
+			}
+		}
+		add_legitimacy = -25
+		add_inflation = 20
+		country_event = {
+			id = EDG_DMR_flavor.65
+			days = 100
+		}
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.65
+	title = EDG_DMR_flavor.65.t
+	desc = EDG_DMR_flavor.65.d
+	picture = ECONOMY_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.65.aa
+		custom_tooltip = EDG_DMR_card_9_tt
+		random_owned_area = {
+			spawn_rebels = {
+				type = paticularist_rebels
+				size = 1.5
+			}
+		}
+		random_owned_area = {
+			spawn_rebels = {
+				type = paticularist_rebels
+				size = 1.5
+			}
+		}
+		add_legitimacy = -25
+		add_inflation = 20
+		country_event = {
+			id = EDG_DMR_flavor.66
+			days = 100
+		}
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.66
+	title = EDG_DMR_flavor.66.t
+	desc = EDG_DMR_flavor.66.d
+	picture = CULTURE_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.66.aa
+		custom_tooltip = EDG_DMR_card_10_tt
+		random_owned_area = {
+			spawn_rebels = {
+				type = paticularist_rebels
+				size = 1.5
+			}
+		}
+		random_owned_area = {
+			spawn_rebels = {
+				type = paticularist_rebels
+				size = 1.5
+			}
+		}
+		add_years_of_income = -0.8
+		country_event = {
+			id = EDG_DMR_flavor.67
+			days = 100
+		}
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.67
+	title = EDG_DMR_flavor.67.t
+	desc = EDG_DMR_flavor.67.d
+	picture = BAD_WITH_MONARCH_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.67.aa
+		custom_tooltip = EDG_DMR_card_11_tt
+		random_owned_area = {
+			spawn_rebels = {
+				type = paticularist_rebels
+				size = 1.5
+			}
+		}
+		random_owned_area = {
+			spawn_rebels = {
+				type = paticularist_rebels
+				size = 1.5
+			}
+		}
+		add_legitimacy = -25
+		country_event = {
+			id = EDG_DMR_flavor.68
+			days = 100
+		}
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.68
+	title = EDG_DMR_flavor.68.t
+	desc = EDG_DMR_flavor.68.d
+	picture = HORDE_ON_HORSEBACK_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.68.aa
+		custom_tooltip = EDG_DMR_card_12_tt
+		random_owned_area = {
+			spawn_rebels = {
+				type = paticularist_rebels
+				size = 1.5
+			}
+		}
+		random_owned_area = {
+			spawn_rebels = {
+				type = paticularist_rebels
+				size = 1.5
+			}
+		}
+		destroy_great_project = {
+			type = parthenon
+		}
+		add_legitimacy = -20
+		country_event = {
+			id = EDG_DMR_flavor.69
+			days = 100
+		}
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.69
+	title = EDG_DMR_flavor.69.t
+	desc = EDG_DMR_flavor.69.d
+	picture = FAMINE_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.69.aa
+		custom_tooltip = EDG_DMR_card_13_tt
+		random_owned_area = {
+			spawn_rebels = {
+				type = paticularist_rebels
+				size = 1.5
+			}
+		}
+		random_owned_area = {
+			spawn_rebels = {
+				type = paticularist_rebels
+				size = 1.5
+			}
+		}
+		country_event = {
+			id = EDG_DMR_flavor.70
+			days = 100
+		}
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.70
+	title = EDG_DMR_flavor.70.t
+	desc = EDG_DMR_flavor.70.d
+	picture = TRADEGOODS_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.70.aa
+		custom_tooltip = EDG_DMR_card_14_tt
+		random_owned_area = {
+			spawn_rebels = {
+				type = noble_rebels
+				size = 1.5
+			}
+		}
+		random_owned_area = {
+			spawn_rebels = {
+				type = noble_rebels
+				size = 1.5
+			}
+		}
+		country_event = {
+			id = EDG_DMR_flavor.71
+			days = 100
+		}
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.71
+	title = EDG_DMR_flavor.71.t
+	desc = EDG_DMR_flavor.71.d
+	picture = CORRUPTION_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.71.aa
+		custom_tooltip = EDG_DMR_card_15_tt
+		random_owned_area = {
+			spawn_rebels = {
+				type = paticularist_rebels
+				size = 1.5
+			}
+		}
+		random_owned_area = {
+			spawn_rebels = {
+				type = paticularist_rebels
+				size = 1.5
+			}
+		}
+		country_event = {
+			id = EDG_DMR_flavor.72
+			days = 100
+		}
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.72
+	title = EDG_DMR_flavor.72.t
+	desc = EDG_DMR_flavor.72.d
+	picture = PORTUGUESE_MERCHANTS_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.72.aa
+		custom_tooltip = EDG_DMR_card_16_tt
+		destroy_great_project = {
+			type = EDG_Galata_Tower
+		}
+		random_owned_area = {
+			spawn_rebels = {
+				type = paticularist_rebels
+				size = 1.5
+			}
+		}
+		random_owned_area = {
+			spawn_rebels = {
+				type = paticularist_rebels
+				size = 1.5
+			}
+		}
+		country_event = {
+			id = EDG_DMR_flavor.73
+			days = 100
+		}
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.73
+	title = EDG_DMR_flavor.73.t
+	desc = EDG_DMR_flavor.73.d
+	picture = MILITARY_CAMP_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.73.aa
+		custom_tooltip = EDG_DMR_card_17_tt
+		add_stability = 3
+		add_prestige = 100
+		add_legitimacy = 50
+		add_years_of_income = 3
+		country_event = {
+			id = EDG_DMR_flavor.74
+			days = 100
+		}
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.74
+	title = EDG_DMR_flavor.74.t
+	desc = EDG_DMR_flavor.74.d
+	picture = SMUGGLERS_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.74.aa
+		custom_tooltip = EDG_DMR_card_18_tt
+		random_owned_area = {
+			spawn_rebels = {
+				type = noble_rebels
+				size = 1.5
+			}
+		}
+		random_owned_area = {
+			spawn_rebels = {
+				type = noble_rebels
+				size = 1.5
+			}
+		}
+		country_event = {
+			id = EDG_DMR_flavor.75
+			days = 100
+		}
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.75
+	title = EDG_DMR_flavor.75.t
+	desc = EDG_DMR_flavor.75.d
+	picture = WAR_OF_THE_ROSES_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.75.aa
+		custom_tooltip = EDG_DMR_card_19_tt
+		random_owned_area = {
+			spawn_rebels = {
+				type = noble_rebels
+				size = 1.5
+			}
+		}
+		random_owned_area = {
+			spawn_rebels = {
+				type = noble_rebels
+				size = 1.5
+			}
+		}
+		every_owned_province = {
+			add_devastation = 25
+		}
+		country_event = {
+			id = EDG_DMR_flavor.76
+			days = 200
+		}
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.76
+	title = EDG_DMR_flavor.76.t
+	desc = EDG_DMR_flavor.76.d
+	picture = WAR_OF_THE_ROSES_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.76.aa
+		custom_tooltip = EDG_DMR_card_20_tt
+		every_neighbor_country = {
+			limit = {
+				is_lesser_in_union = no
+				is_subject = no
+			}
+			declare_war_with_cb = {
+				who = DMR
+				casus_belli = cb_annex
+			}
+		}
+		country_event = {
+			id = EDG_DMR_flavor.77
+			days = 600
+		}
+	}
+}
+
+country_event = {
+	id = EDG_DMR_flavor.77
+	title = EDG_DMR_flavor.77.t
+	desc = EDG_DMR_flavor.77.d
+	picture = WAR_OF_THE_ROSES_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = EDG_DMR_flavor.77.aa
+		custom_tooltip = EDG_DMR_card_21_tt
+		every_neighbor_country = {
+			white_peace = DMR
+		}
+		country_event = {
+			id = EDG_DMR_play.2
+			days = 10
+		}
+	}
+}
