@@ -1,0 +1,595 @@
+﻿l_english:
+EDG_BAV_1_1_2_title: "By the River Regen"
+EDG_BAV_1_1_2_desc: "The waters of the Regen River flow through the city, bringing with them the oaths of the Empire, the clamor of trade routes, and the pride of the Free City. Regensburg, relying on its status as an Imperial City, has repeatedly used its privileges as a shield. However, to unite the territories of Bavaria seamlessly and ensure that taxes and military service are no longer divided by city walls, this riverside city must understand: freedom is not an excuse for lawlessness but a grace granted within order. We will employ both covenants and pressure to steer Regensburg's fate back onto Bavaria's course."
+EDG_BAV_1_1_2_1_yes: "£yes£If we complete the mission via §YPurchase§!, the following effects occur:"
+EDG_BAV_1_1_2_1_no: "£no£If we complete the mission via §YPurchase§!, the following effects occur:"
+EDG_BAV_1_1_2_2_yes: "£yes£If we have at least §Y3§! subjects whose primary culture is §YBavarian§!, the following effects occur:\nAll subjects whose primary culture is §YBavarian§! gain §G1§! base tax in their §Ycapital§!.\nEach subject whose primary culture is §YBavarian§! provides us with §G50§!£icon_EDG_cash£"
+EDG_BAV_1_1_2_2_no: "£no£If we have at least §Y3§! subjects whose primary culture is §YBavarian§!, the following effects occur:\nAll subjects whose primary culture is §YBavarian§! gain §G1§! base tax in their §Ycapital§!.\nEach subject whose primary culture is §YBavarian§! provides us with §G50§!£icon_EDG_cash£"
+EDG_BAV_1_1_4_title: "Restoring Order"
+EDG_BAV_1_1_4_desc: "The price of unification is a torn land and a weary people. Now that the strife among princes has ceased, the battle banners shall return to the armory. Let the law take root again in marketplaces and villages, let taxes and corvée be regularized, let roads run clear and bandits vanish. Only under order can Bavaria's wounds heal, and the newly risen Duchy will declare its stability and strength to the Empire through peace and discipline."
+EDG_BAV_1_1_4_1: "Each province meeting the mission conditions provides us with §G25§! §Yadministrative power§! and §G5§! §Yprestige§!."
+EDG_BAV_1_1_4_2: "A random §Y3§! provinces meeting the mission conditions receive a §Glevel§! of §Ytax building§!."
+EDG_BAV_1_1_6_title: "The Diet of Regensburg"
+EDG_BAV_1_1_6_desc: "The bells of Regensburg once again summon the princes of the Empire to gather by the Danube. The Pope, in the name of faith, urges the Diet to adjudicate the 'Euchite' dispute, attempting to grasp the order and judiciary of the Holy Roman Empire into Rome's hand. Yet the rights of the princes are not vassals to the pastoral staff: before the Empire's traditions and legal principles, even the Holy See should know its bounds. Let us weave alliances in the halls and corridors of the Diet, awaken the princes' vigilance for autonomy, and turn this assembly, held in the name of judgment, into a declaration to defend the Empire's authority against Papal interference."
+EDG_BAV_1_1_6_1: "The Imperial Incident §YThe Diet of Regensburg§! is ongoing or has concluded"
+EDG_BAV_1_1_6_2_yes: "£yes£If §YThe Diet of Regensburg§! is ongoing, the following effects occur:\nImperial princes are more likely to choose '§YThings are not as bad as the Pope thinks§!'.\nWhen the result of §YThe Diet of Regensburg§! is '§YThings are not as bad as the Pope thinks§!', the modifier we gain is §Gextended§! until the end of the §YAge of Discovery§!."
+EDG_BAV_1_1_6_2_no: "£no£If §YThe Diet of Regensburg§! is ongoing, the following effects occur:\nImperial princes are more likely to choose '§YThings are not as bad as the Pope thinks§!'.\nWhen the result of §YThe Diet of Regensburg§! is '§YThings are not as bad as the Pope thinks§!', the modifier we gain is §Gextended§! until the end of the §YAge of Discovery§!."
+EDG_BAV_1_1_6_3_yes: "£yes£If §YThe Diet of Regensburg§! has concluded with the result '§YWe must uphold the leadership of the Catholic Church§!', the following effects occur:"
+EDG_BAV_1_1_6_3_no: "£no£If §YThe Diet of Regensburg§! has concluded with the result '§YWe must uphold the leadership of the Catholic Church§!', the following effects occur:"
+EDG_BAV_1_1_6_4_yes: "£yes£If §YThe Diet of Regensburg§! has concluded with the result '§YThings are not as bad as the Pope thinks§!', the following effects occur:\nThe §YArtists§! estate gains §G5%§! §Yloyalty equilibrium§! for §Y10§! years."
+EDG_BAV_1_1_6_4_no: "£no£If §YThe Diet of Regensburg§! has concluded with the result '§YThings are not as bad as the Pope thinks§!', the following effects occur:\nThe §YArtists§! estate gains §G5%§! §Yloyalty equilibrium§! for §Y10§! years."
+EDG_BAV_1_2_3_title: "Aid in Times of Need"
+EDG_BAV_1_2_3_desc: "The banners of Landshut have crossed the Isar and the Danube, with Munich, Ingolstadt, Regensburg, and Salzburg all falling into hand. Yet conquest is merely the beginning: if treated only with iron and taxes, the newly acquired lands are but borrowed flames on a snowy night. Now is the time to placate hearts with pardons and benefactions, to reform old laws, to comfort guilds and churches, so that these cities understand—what the Wittelsbachs bring is not merely a change of liege, but order and protection that can be relied upon."
+EDG_BAV_1_2_3_1: "Has improved relations with that country by at least §G75§! via §YImprove Relations§!"
+EDG_BAV_1_2_3_2: "All subjects meeting the mission conditions lose §G-25.0%§! §Yliberty desire§! and have their relationship modifiers towards us for §RAggressive Expansion§! and §RForced Union§! §Gcleared§!."
+EDG_BAV_1_2_3_3: "Now, the §YNobility§! estate privilege '§YA Strong Ducal House§!' additionally provides §G+50.0%§! §Yvassal force contribution§!."
+EDG_BAV_1_2_3_4: "Now, establishing a §YRoyal Marriage§! with a subject will add the §GHistorical Friends§! relation between both parties. Subjects already in a §YRoyal Marriage§! will also gain this effect."
+EDG_BAV_1_2_5_title: "The Renaissance"
+EDG_BAV_1_2_5_desc: "A new wind blowing from the southern slopes of the Alps, carrying echoes of antiquity and sparks of craftsmanship, is quietly transforming the princely courts of Germany. If Bavaria is willing to use scholarship and ingenuity as tinder, towns and academies as forges, then more than just frescoes and domes will be renewed—our authority too will be clothed in the garments of reason and brilliance, carving out a new era amidst the shadows of the old world."
+EDG_BAV_1_2_5_1: ""
+EDG_BAV_1_2_5_2_yes: "£yes£If we are currently in a §YGolden Era§!, the following effects occur:"
+EDG_BAV_1_2_5_2_no: "£no£If we are currently in a §YGolden Era§!, the following effects occur:"
+EDG_BAV_1_2_5_3_yes: "£yes£If our ruler is §YAlois§!, the following effects occur:"
+EDG_BAV_1_2_5_3_no: "£no£If our ruler is §YAlois§!, the following effects occur:"
+
+EDG_BAV_1_3_1_title: "The Path to Unification"
+EDG_BAV_1_3_1_desc: "Mountains and river valleys have divided Bavaria into countless fiefs and old grudges, yet under the same banner a unified will can also converge. If we are to survive and rise amidst the rivalries of the Imperial princes, we must end internal strife, consolidate authority, and let decrees from Munich reach every corner. Unification is not the work of a single day, but a path that must be taken—from now on, Bavaria shall speak with one voice."
+EDG_BAV_1_3_1_1: "The event '§YThe Bavarian Succession§!' has occurred"
+EDG_BAV_1_3_1_2: "Unlocks a §Ydecision§! allowing us, during a §YPersonal Union§! war with @UBV §YMunich§! or @ING §YIngolstadt§!, to pay a certain cost for an §YUnconditional Peace§! with the non-war leader."
+EDG_BAV_1_3_1_3: "Unlocks a §Ydecision§! allowing us to purchase the Free City of @REG §YRegensburg§! from the §YEmperor§!."
+EDG_BAV_1_3_1_4: "Unlocks a §Ydecision§! allowing us to purchase the Bishopric of @SLZ §YSalzburg§! from the §YPope§!."
+EDG_BAV_1_3_1_5: "Now, the §YNobility§! estate privilege '§YExpanded Levies§!' additionally provides up to §G+15.0%§! §YNational Manpower Modifier§!. This modifier is proportional to the estate's §YLoyalty§! and reaches its maximum when estate §YLoyalty§! is at §G100%§!."
+EDG_BAV_1_3_1_6: "The time has come to decide the fate of @UBV §YMunich§! and @ING §YIngolstadt§!."
+
+EDG_BAV_1_3_2_title: "Dust Settles"
+EDG_BAV_1_3_2_desc: "Strife has its end. The disputes of old, the rifts of fiefs, and the schemes of princes all fall silent under the judgment of iron and seal. When the dust settles, what remains is not merely victory or defeat, but order—new laws will replace the old compromises. Bavaria will no longer be swayed by the winds; it shall become the storm itself."
+EDG_BAV_1_3_2_1: "Now, when increasing §YProvince Development§! for subjects whose primary culture is §YBavarian§!, additionally reduce §G-5.00%§! §YLiberty Desire§!."
+EDG_BAV_1_3_2_2: "Unlocks a §Ydecision§! allowing us to spend a certain cost to claim the overlordship of @PSS §YPassau§!."
+EDG_BAV_1_3_2_3: "Now, the §YNobility§! estate privilege '§YA Strong Ducal House§!' additionally provides §G+25.0%§! §YVassal Force Contribution§! and §G+10.0%§! §YVassal Income§!."
+
+EDG_BAV_1_3_4_title: "A New Beginning"
+EDG_BAV_1_3_4_desc: "War and upheaval have taken grain, coin, and hearts, leaving behind barren fields and empty workshops. Now that the fog has lifted, we must reorganize tax registers and towns, repair roads and bridges, so that merchants once again travel between the Danube and the Isar. A new beginning is not a disgrace, but the first cornerstone of a new order—let Bavaria recast its prosperity upon the ruins."
+EDG_BAV_1_3_4_1: "Randomly assigns §G10§! points of §YDevelopment§! to provinces in the regions of §YEastern Bavaria§!, §YLower Bavaria§!, and §YUpper Bavaria§! owned by us or our subjects."
+EDG_BAV_1_3_4_2: "Now, when increasing §YDevelopment§! in provinces owned by us or our subjects, the corresponding State gains §G+5.00%§! §YProsperity§!."
+
+EDG_BAV_1_3_6_title: "@BAV §YBavaria§!, United as One" # @BAV §YBavaria§!, Unified and Strong
+EDG_BAV_1_3_6_desc: "From the old patchwork of fiefdoms to a united territory, we have gathered the shards of many states with patience and resolve, forging numerous banners into one. Today's Bavaria is no longer a frontier prince easily manipulated within the Empire, but a unified and powerful state: the law holds its authority, the army its discipline, the treasury and markets their pulse. Let the princes and monarchs remember this—Bavaria has risen and will write its own destiny with one voice."
+EDG_BAV_1_3_6_1: "Unlocks a set of §Ydecisions§! allowing us to release the special subject §MWittelsbach Holdings§! in the German region."
+EDG_BAV_1_3_6_2: "Now, the §YBurghers§! estate privilege '§YPatronage of the Arts§!' additionally provides §G+0.50§! §YMonthly Global Prosperity§!."
+EDG_BAV_1_3_6_3: "We will gain enhanced §MBavarian Ideas§!."
+EDG_BAV_1_3_6_4: "We will gain a §YDual Mission Tree§!, allowing us to switch between the §OLand of Beer§! mission tree and the §MLand of the Arts§! mission tree."
+
+EDG_BAV_1_4_3_title: "Seize Victory from the Fire" # Snatching Victory from the Fire
+EDG_BAV_1_4_3_desc: "Once the banners of Bavaria unite as one, they are no longer merely the family squabbles by the Isar River, but a declaration potent enough to shake the internal balance of the Empire. The princes whisper in the diets and courts: today's boundaries of Bavarian expansion may tomorrow become their own lands and privileges. We have reached into the blazing furnace—to snatch the chestnut of victory from these flames of vigilance and jealousy, we must defend our newborn unity with alliances, political maneuvering, and an iron will."
+EDG_BAV_1_4_3_1: "Has improved relations with that country by at least §G50§! via §YImprove Relations§!"
+EDG_BAV_1_4_3_2: "All §YImperial Princes§! have their §RAggressive Expansion§! opinion towards us §Greduced§! by 10."
+
+EDG_BAV_1_4_5_title: "The Final Preparations"
+EDG_BAV_1_4_5_desc: "Princes watch from all sides, wolves peer from the shadows; yet our banners are already mustered on the banks of the Isar. Even if the §YEmperor§! harbors doubts and fears, he cannot deny that @BAV §YBavaria's§! claim is lawful and beyond reproach. Now, the longswords remain sheathed, but the final preparations have begun—we will bring the dispute to the halls of the §YImperial Diet§!, using oaths and legal codes as our blades, paving the way for the impending choice."
+EDG_BAV_1_4_5_1_yes: "Though the §YEmperor§! is loath to see our rise, our indisputable claim over @BAV §YBavaria§! leaves him unable to refuse outright. He has no choice but to consent to submitting the matter to the §YImperial Diet§! for a vote."
+EDG_BAV_1_4_5_1_no: "We must still await the §YEmperor's§! reply..."
+
+EDG_BAV_1_5_2_title: "The Prelate's Downfall"
+EDG_BAV_1_5_2_desc: "The Archbishop of Salzburg once carved out his own state with altar and seal, maneuvering within and without the Empire like a blade. Yet the mountains and valleys of Bavaria tolerate no perpetual hindrance: whether bound by covenant, or pressured by tariffs and garrisons, this city of salt and bells must finally understand—the crosier may guide souls, but it shall no longer command the fate of the borderlands. Henceforth, the bishop's mitre dims, and Salzburg's power shall be tethered to our reins."
+EDG_BAV_1_5_2_1_yes: "£yes£If we complete the mission via §YPurchase§!, the following effects occur:"
+EDG_BAV_1_5_2_1_no: "£no£If we complete the mission via §YPurchase§!, the following effects occur:"
+EDG_BAV_1_5_2_2_yes: "£yes£If we have at least §Y3§! subjects whose primary culture is §YBavarian§!, the following effects occur:\nAll subjects whose primary culture is §YBavarian§! gain §G1§! base manpower in their §Ycapital§!.\nEach subject whose primary culture is §YBavarian§! provides us with §G50§!£icon_EDG_cash£"
+EDG_BAV_1_5_2_2_no: "£no£If we have at least §Y3§! subjects whose primary culture is §YBavarian§!, the following effects occur:\nAll subjects whose primary culture is §YBavarian§! gain §G1§! base manpower in their §Ycapital§!.\nEach subject whose primary culture is §YBavarian§! provides us with §G50§!£icon_EDG_cash£"
+
+EDG_BAV_1_5_4_title: "The Dagger Unsheathed"
+EDG_BAV_1_5_4_desc: "Now that Sigismund has passed, the shackles once maintained by his authority and prestige have loosened. The various branches of the Bavarian bloodline should no longer be trapped by titles and fears—the work of unification must be concluded by our own hands. Now, the documents are prepared, the oaths sworn. It is time to present the proclamation of unity to the new Emperor: let the Imperial princes know this is not mere words, but the beginning of blades drawn and dust about to settle."
+EDG_BAV_1_5_4_1: "Has improved relations with the §YEmperor§! by at least §G50§! via §YImprove Relations§!"
+EDG_BAV_1_5_4_2: "§YSigismund§! is advanced in years and likely not long for this world. He no longer has the strength to make any statement regarding our unification efforts. We must still wait for the old Emperor's passing."
+EDG_BAV_1_5_4_3: "A proclamation of unity from @BAV §YBavaria§! will be delivered to [Emperor.Capital.GetName]."
+
+EDG_BAV_1_5_6_title: "A Lost Euchite Paradise" # A Lost Paradise for the Euchites
+EDG_BAV_1_5_6_desc: "The scepter of the Archmarshal and Elector of Saxony is likewise shrouded in the shadows and mercies of faith. There, people whisper their prayers, evading the scrutiny of the altar—and their ruler has chosen silent acquiescence, much as we have done in Bavaria.\n\nIf heretical supplications can find refuge in the lands of both our realms, then perhaps our acquaintance with Saxony need not be solely of edicts and swords. Let our shared transgression become a shared language: outside the gaze of the Holy Roman Empire, we shall carve out a lost paradise for the Euchites, and in exchange, gain deeper religious understanding and political resonance."
+EDG_BAV_1_5_6_1: "@SAX §YSaxony§! will find it §Yeasier§! to complete the mission '§MThe Sivechen Edict§!'.\n\nWhen @SAX §YSaxony§! completes the mission '§MReligious Migrants§!', we will gain the modifier '§YA 'Lost Paradise' for the Euchites§!'."
+
+EDG_BAV_2_1_2_title: "Hour of Peril"
+EDG_BAV_2_1_2_desc: ""
+EDG_BAV_2_1_2_1: "Each estate meeting the mission conditions provides us with §G100§!£icon_EDG_cash£ and §G25§! §Yadministrative power§!. If the estate's §YInfluence§! also reaches §Y60§!, the amount is doubled."
+EDG_BAV_2_1_2_2: "Unlocks the §YArtists§! estate privilege '§YHeretic Conscription Act§!', allowing us, in all provinces with §YHeretic§! religion under our rule, to exchange a penalty of §R-10.0%§! §YLocal Tax Modifier§! for benefits of §G-10.0%§! §YLocal Recruitment Time§! and §G-10.0%§! §YLocal Recruitment Cost§!.\n\nThis estate privilege can only be used during the disaster '§RRequiem§!'. After completing the mission '§YAmidst the Ruins, Rekindle Hope§!', this restriction is removed."
+
+EDG_BAV_2_2_1_title: "State of Emergency"
+EDG_BAV_2_2_1_desc: ""
+EDG_BAV_2_2_1_1: "Unlocks a §Ydiplomatic action§! allowing us to request aid from §YAllies§! whose status is §YGreat Power§!.\n\nThis action has a 10-year cooldown and can only be used during the disaster '§RRequiem§!'. After completing the mission '§YAmidst the Ruins, Rekindle Hope§!', this restriction is removed."
+
+EDG_BAV_2_2_3_title: "The Council of [4708.GetName]"
+EDG_BAV_2_2_3_desc: ""
+EDG_BAV_2_2_3_1: "Unlocks the §YArtists§! estate privilege '§YFree Preaching Rights§!', allowing us to sign a secret agreement with the §YEuchites§!' followers. The §YEuchite§! religion will §Yspread§! in provinces owned by us and our subjects."
+EDG_BAV_2_2_3_2: "A random §Y1§! owned §YFort§! province currently occupied by §YRebels§! will be §Greclaimed§! under our control."
+
+EDG_BAV_2_3_2_title: "A Lifeline"
+EDG_BAV_2_3_2_desc: ""
+EDG_BAV_2_3_2_1: "Each country meeting the mission conditions provides us with §G5000§!£icon_manpower£ and §G25§! §Ydiplomatic power§!. If the other country is a §YGreat Power§!, the amount is doubled."
+EDG_BAV_2_3_2_2: "Unlocks two §Ydecisions§! allowing us to spend a certain amount of £dip£ §Ydiplomatic power§! to negotiate separate peaces with @BOH §YBohemia§! and @HUN §YHungary§! respectively in this §Rwar§!."
+EDG_BAV_2_3_2_3: "Now, the §YArtists§! estate privilege '§YInternational Artistic Exchange§!' will additionally provide §G+2§! §YDiplomatic Relations§!.\n\nThis benefit is only active during the disaster '§RRequiem§!'. After completing the mission '§YAmidst the Ruins, Rekindle Hope§!', this restriction is removed."
+
+EDG_BAV_2_3_4_title: "Amidst the Ruins, Rekindle Hope"
+EDG_BAV_2_3_4_desc: ""
+EDG_BAV_2_3_4_1: "Some of the benefits from the mission tree above can be retained after the disaster '§RRequiem§!' ends."
+EDG_BAV_2_3_4_2: "Now, each §MWittelsbach Holdings§! with a §YTotal Development§! exceeding §Y150§! provides us with §Y+0.5§! §YHeretic Tolerance§!."
+
+EDG_BAV_2_4_1_title: "The Inevitable Clash"
+EDG_BAV_2_4_1_desc: ""
+EDG_BAV_2_4_1_1: "Unlocks a one-time §Ydecision§! allowing us to spend a certain amount of §YMonarch Power§! to grant temporary bonuses to all §YAllies§! fighting alongside us in the §Ywar§!.\n\nThis decision can only be used during the disaster '§RRequiem§!'. After completing the mission '§YAmidst the Ruins, Rekindle Hope§!', this restriction is removed."
+
+EDG_BAV_2_4_3_title: "The [4760.GetName] Line"
+EDG_BAV_2_4_3_desc: ""
+EDG_BAV_2_4_3_1: "All provinces meeting the mission conditions receive an upgrade to their §YFort§! building."
+EDG_BAV_2_4_3_2: "A random §Y1§! owned §YFort§! province currently occupied by §YEnemy Troops§! will be §Greclaimed§! under our control."
+
+EDG_BAV_2_5_2_title: "Every Inch of Ground"
+EDG_BAV_2_5_2_desc: ""
+EDG_BAV_2_5_2_1: "Each province meeting the mission conditions gains §G-5% Local Revolt Risk§! and provides us with §G25§! §Ymilitary power§!. If the province's religion is a §YHeretic§! religion, the amount is doubled."
+EDG_BAV_2_5_2_2: "Now, winning a §YBattle§! will reduce §YWar Exhaustion§! by §G-0.5§!.\n\nThis benefit is only active during the disaster '§RRequiem§!'. After completing the mission '§YAmidst the Ruins, Rekindle Hope§!', this restriction is removed."
+
+EDG_BAV_3_1_7_title: "Pacifying Swabia"
+EDG_BAV_3_1_7_desc: "Between the northern slopes of the Alps and the headwaters of the Danube, Swabia's towns and knightly families once prided themselves on their freedom. Now, we shall reorganize this land of strife under Bavaria's banner, ensuring its mountain passes and river valleys are no longer fractured by princely feuds, but become the backbone of a unified Southern Germany."
+EDG_BAV_3_1_7_1: "The §YGerman Region§! will unlock additional §MMercenaries§!."
+
+EDG_BAV_3_1_8_title: "Mourning Baden"
+EDG_BAV_3_1_8_desc: "Where the shadows of the Black Forest mingle with the golden light of the Rhine, Baden guards the gateway to the west. To shield Bavaria's territories from the storms of the western frontier, we must establish a firm boundary here: using castles and passes to secure the vital routes of the Rhine."
+EDG_BAV_3_1_8_1: "This §MWonder§! level §Gwill not§! decrease due to a change in §YProvince Owner§!."
+EDG_BAV_3_1_8_1_yes: "£yes£If the province of §YBaden§! is held by us or our subjects, the following effects occur:"
+EDG_BAV_3_1_8_1_no: "£no£If the province of §YBaden§! is held by us or our subjects, the following effects occur:"
+EDG_BAV_3_1_8_2_yes: "£yes£If we have adopted §YEspionage Ideas§!, the following effects occur:"
+EDG_BAV_3_1_8_2_no: "£no£If we have adopted §YEspionage Ideas§!, the following effects occur:"
+EDG_BAV_3_1_8_3_yes: "£yes£If we have adopted §YMercenary Ideas§!, the following effects occur:"
+EDG_BAV_3_1_8_3_no: "£no£If we have adopted §YMercenary Ideas§!, the following effects occur:"
+
+EDG_BAV_3_1_9_title: "Amidst the Alps"
+EDG_BAV_3_1_9_desc: "Amidst the mountains, bells and pikes echo together. Switzerland, with its militias and pacts, has resisted the will of the Empire and its princes. If we are to cross the Alps and gain control over the passes and the source of mercenaries, we must make these highlands acknowledge a higher order—securing the submission of the peaks with iron and oaths."
+EDG_BAV_3_1_9_1: "A random §Y3§! provinces in the §YSwiss§! or §YRomandy§! regions owned by us or our subjects, with §YMountain§! terrain, will have the following effect:"
+
+EDG_BAV_3_1_10_title: "The Old Inheritance"
+EDG_BAV_3_1_10_desc: "The Netherlands were once ruled by the House of Wittelsbach, their trading posts and canals scattered across the Low Countries. If we can reclaim this inheritance, Bavaria's banners will fly by the North Sea, channeling wealth and influence into the heart of Germany."
+EDG_BAV_3_1_10_1_yes: "£yes£If we complete the mission via §YConquest§!, the following effects occur:"
+EDG_BAV_3_1_10_1_no: "£no£If we complete the mission via §YConquest§!, the following effects occur:"
+EDG_BAV_3_1_10_2_yes: "£yes£If we complete the mission via §YDiplomacy§!, the following effects occur:"
+EDG_BAV_3_1_10_2_no: "£no£If we complete the mission via §YDiplomacy§!, the following effects occur:"
+EDG_BAV_3_1_10_3: "@HOL §YHolland§! will decide whether to invite a royal member from the §YWittelsbach§! house to rule their lands.\nIf they §Gagree§!, they will become our §MWittelsbach Holdings§!.\nThe AI will only choose §Gagree§! if they are not a §YGreat Power§!."
+EDG_BAV_3_1_10_4: "Allows the release of @NED §YNetherlands§! as our §MWittelsbach Holdings§!."
+EDG_BAV_3_1_10_5: "Unlocks a §Ydecision§! allowing us to Germanize provinces of the §YFrench§! culture group in the §YLow Countries§! region into the §YWallonian§! culture."
+
+EDG_BAV_3_2_7_title: "The Salian Bier"
+EDG_BAV_3_2_7_desc: "Franconia's vineyards and cathedrals bear witness to the ancient heart of Germany, yet have long been entangled with fragmented authority. We shall reweave these broken crowns and banners, bringing peace and prosperity to the banks of the Main under a single law."
+EDG_BAV_3_2_7_1_yes: "£yes£If @FKN §YFranconia§! does not exist, then @FKN §YFranconia§! will lose all its §Ycores§!."
+EDG_BAV_3_2_7_1_no: "£no£If @FKN §YFranconia§! does not exist, then @FKN §YFranconia§! will lose all its §Ycores§!."
+EDG_BAV_3_2_7_2_yes: "£yes£If @FKN §YFranconia§! is our §Ysubject§!, the following effects occur:"
+EDG_BAV_3_2_7_2_no: "£no£If @FKN §YFranconia§! is our §Ysubject§!, the following effects occur:"
+EDG_BAV_3_2_7_3: "Now, §MWittelsbach Holdings§! with a Development exceeding §Y250§! will no longer occupy a diplomatic relations slot."
+
+EDG_BAV_3_2_8_title: "Dealing with the Palatinate" # Dealing with the Electorate Palatine
+EDG_BAV_3_2_8_desc: "The court on the Upper Rhine and the honor of the Electorate are one of the focal points of Imperial power. To elevate Bavaria's prestige to the Imperial halls, a new chapter must be written in the Palatinate: seizing this land is to reach out and touch the balance of the Empire."
+EDG_BAV_3_2_8_1: "Unlocks a §YDiplomatic Action§! allowing us to spend a certain amount of §YLiberty Desire§! to request a transfer of §YMonarch Power§! from one of our §MWittelsbach Holdings§! to us."
+EDG_BAV_3_2_8_2: "Unlocks the §YArtists§! estate privilege '§YHold Art Exhibitions in §!§MFamily Holdings§!', allowing us to exchange §R+15.0%§! §YSubject Liberty Desire§! for §G-33.0%§! §YStability Cost Modifier§!."
+
+EDG_BAV_3_2_9_title: "Invasion of Frankfurt"
+EDG_BAV_3_2_9_desc: "Frankfurt's markets and coronation route are where gold coins and crowns converge. To master this city is to grasp the pulse of the Empire: let our banners fly among the trading posts and halls, directing wealth and prestige to Bavaria's service."
+EDG_BAV_3_2_9_1: "A random §Y3§! §YGerman§! provinces owned by us or our subjects, without a §YTrade Center§!, will gain a Level 1 §YTrade Center§!."
+EDG_BAV_3_2_9_2_yes: "£yes£If the event '§YThe Frankfurt Book Fair§!' has not yet occurred, the country that owns the province of §YFrankfurt§! (either us or our subject) receives the following effect:"
+EDG_BAV_3_2_9_2_no: "£no£If the event '§YThe Frankfurt Book Fair§!' has not yet occurred, the country that owns the province of §YFrankfurt§! (either us or our subject) receives the following effect:"
+
+EDG_BAV_3_3_7_title: "Burying the Habsburgs"
+EDG_BAV_3_3_7_desc: "The Habsburgs by the Danube once wove a cage from lands and marriage alliances, causing the states of Southern Germany to gasp in their shadow. Now, we shall dispel this shadow—establishing a new power between Vienna and the Alps, ensuring the fate of the South is no longer written by others."
+EDG_BAV_3_3_7_1_yes: "£yes£If the province of §YInnthal§! is held by us or our subjects, the following effects occur:"
+EDG_BAV_3_3_7_1_no: "£no£If the province of §YInnthal§! is held by us or our subjects, the following effects occur:"
+EDG_BAV_3_3_7_2_yes: "£yes£If @HAB §YAustria§! (HAB) does not exist, then @HAB §YAustria§! (HAB) will lose all its §Ycores§!."
+EDG_BAV_3_3_7_2_no: "£no£If @HAB §YAustria§! (HAB) does not exist, then @HAB §YAustria§! (HAB) will lose all its §Ycores§!."
+
+EDG_BAV_3_3_8_title: "Echoes of Prague"
+EDG_BAV_3_3_8_desc: "The Crown of Bohemia and the flames of Hussitism have rendered this land both rich and unruly. To secure peace in the Empire's east, we must cross the mountain ridges and forests, bringing Prague's bell towers under our order, silencing the old divisions."
+EDG_BAV_3_3_8_1_yes: "£yes£If the province of §YPrague§! is held by us or our subjects, and its religion is §YHussite§!, the following effects occur:"
+EDG_BAV_3_3_8_1_no: "£no£If the province of §YPrague§! is held by us or our subjects, and its religion is §YHussite§!, the following effects occur:"
+EDG_BAV_3_3_8_2_yes: "£yes£If the province of §YPrague§! is held by us or our subjects, and its religion is not §YHussite§!, the following effects occur:"
+EDG_BAV_3_3_8_2_no: "£no£If the province of §YPrague§! is held by us or our subjects, and its religion is not §YHussite§!, the following effects occur:"
+EDG_BAV_3_3_8_3: "Now, we will be able to use some of the §MHussite§! §Mmechanics§!."
+
+EDG_BAV_3_3_9_title: "March on Meißen"
+EDG_BAV_3_3_9_desc: "The mines and workshops along the upper Elbe give birth to formidable wealth and manpower. Meißen's fine craftsmanship and silver mines are enough to sustain a nation's armies. To seize this place is to add a hard gear to Bavaria's war machine, ensuring our ambitions never lack coin or steel."
+EDG_BAV_3_3_9_1: "Now, the §YNobility§! estate privilege '§YNoble Officer Corps§!' additionally provides §G-10.0%§! §YLeader Cost§! and §G5.0%§! §YMovement Speed§!."
+
+EDG_BAV_3_3_10_title: "From the Alps to the Sea" # From the Alps to the North Sea, Our 'Empire'
+EDG_BAV_3_3_10_desc: ""
+EDG_BAV_3_3_10_1: "Now, our §MWittelsbach Holdings§! can grant us certain §Gbonuses§! when they own all provinces given by their §Ydecisions§!. These §Gbonuses§! will be converted into our §Ypermanent modifiers§! upon our subsequent §MAnnexation§! of said subject."
+EDG_BAV_3_3_10_2: "The territory of @GER §YGermany§! is now entirely under our control, but this §Rcomes at a cost§!."
+
+EDG_BAV_3_4_7_title: "Defeating the Archmarshal"
+EDG_BAV_3_4_7_desc: "Saxony is the epicenter of princely power and religious storms, where universities and churches, electors and armies vie for influence. If we are to become the arbiter of German disputes, we must humble Saxony's banner, turning its prestige and military might into our foundation."
+EDG_BAV_3_4_7_1_yes: "£yes£If we have adopted §YEspionage Ideas§!, the following effects occur:\nNow, each level of the diplomatic advisor §YSpymaster§! provides us with §G+5.0%§! §YSiege Ability§!."
+EDG_BAV_3_4_7_1_no: "£no£If we have adopted §YEspionage Ideas§!, the following effects occur:\nNow, each level of the diplomatic advisor §YSpymaster§! provides us with §G+5.0%§! §YSiege Ability§!."
+EDG_BAV_3_4_7_2_yes: "£yes£If we have adopted §YMercenary Ideas§!, the following effects occur:\nNow, each level of the military advisor §YMercenary Captain§! provides us with §G+1.0%§! §YMercenary Discipline§!."
+EDG_BAV_3_4_7_2_no: "£no£If we have adopted §YMercenary Ideas§!, the following effects occur:\nNow, each level of the military advisor §YMercenary Captain§! provides us with §G+1.0%§! §YMercenary Discipline§!."
+
+EDG_BAV_3_4_8_title: "Elegy for the IJssel"
+EDG_BAV_3_4_8_desc: "The western plains and fortresses connect the Rhine to the North Sea; Westphalia is both a frontier and a corridor. Controlling this region severs enemy reinforcements and trade routes, turning the western border into a shield wall, forever securing Bavaria's territories from flank attacks."
+EDG_BAV_3_4_8_1_yes: "£yes£If @H04 §YUpper IJssel§! does not exist, then @H04 §YUpper IJssel§! will lose all its §Ycores§!."
+EDG_BAV_3_4_8_1_no: "£no£If @H04 §YUpper IJssel§! does not exist, then @H04 §YUpper IJssel§! will lose all its §Ycores§!."
+EDG_BAV_3_4_8_2: "Now, the §YClergy§! estate privilege '§YFund Theological Studies§!' additionally provides §G+2.0§! §YHeretic Tolerance§! and §G+30§! §YRelations with Heretic Nations§!."
+EDG_BAV_3_4_8_3: "Now, the §YArtists§! estate privilege '§YGrant Academic Freedom§!' additionally provides §G-5.0%§! §YTechnology Cost§!."
+
+EDG_BAV_3_4_9_title: "Marching into the Rhineland"
+EDG_BAV_3_4_9_desc: "The river ports, tariffs, and ecclesiastical holdings of the Rhineland form one of the Empire's richest arteries. We shall advance along the Rhine, unifying scattered rights and tolls under a single hand—ensuring this great river no longer nourishes division, but becomes the long river of our wealth and influence."
+EDG_BAV_3_4_9_1: "Now, the §YBurghers§! estate privilege '§YFree Enterprise§!' additionally provides §G+10.0%§! §YTrade Efficiency§! and §G+5.0%§! §YBurghers Loyalty Equilibrium§!."
+EDG_BAV_3_4_9_2_yes: "£yes£If we or our subjects own §Yall§! provinces in the §YNorthern Rhine§! and §YLower Rhineland§! regions, and all these provinces have a §YTrade§! building, the following effects occur:"
+EDG_BAV_3_4_9_2_no: "£no£If we or our subjects own §Yall§! provinces in the §YNorthern Rhine§! and §YLower Rhineland§! regions, and all these provinces have a §YTrade§! building, the following effects occur:"
+
+EDG_BAV_3_5_7_title: "Winter in Berlin"
+EDG_BAV_3_5_7_desc: "From sandy plains and forests to the line of border castles, Brandenburg is known for its tenacity and is the key to the northeast. If Bavaria's gaze is to extend beyond central Germany, we must seize this keyhole—planting our banner on the frontier, opening the way to a broader stage."
+EDG_BAV_3_5_7_1_yes: "£yes£If @H03 §YNordmark§! is our §Ysubject§!, the following effects occur:"
+EDG_BAV_3_5_7_1_no: "£no£If @H03 §YNordmark§! is our §Ysubject§!, the following effects occur:"
+EDG_BAV_3_5_7_2: "Now, our §MWittelsbach Holdings§! will receive §G-10.0%§! §YLand Maintenance Modifier§! during §Ywartime§!."
+
+EDG_BAV_3_5_8_title: "Dismantling the Hansa" # Dismantling the Hanseatic League
+EDG_BAV_3_5_8_desc: "Hanseatic merchant ships ply the North and Baltic Seas, their wealth based not on crowns but on contracts and ports. To make German maritime trade serve a single nation, these free cities must acknowledge our sovereignty: unifying tariffs and fleets under one command, directing trade routes to serve our statecraft."
+EDG_BAV_3_5_8_1: "Now, the §YBurghers§! estate privilege '§YLoans from Burghers§!' will no longer reduce §YMercantilism§! and additionally provides §G+2§! §YEstate Loans§!."
+EDG_BAV_3_5_8_2: "Now, each time we repay an installment of a §YLoan§! (note: not per loan), we gain §G+2.0%§! §YBurghers Loyalty§! and reduce §YInflation§! by §G-0.2%§!."
+
+EDG_BAV_3_5_9_title: "Securing the North" # Securing the Northern Border
+EDG_BAV_3_5_9_desc: "At the Baltic's wind-swept straits, Schleswig-Holstein connects Scandinavia and Germany; its inlets and harbors determine the fate of northern trade and navies. By seizing this place, we can grasp the key to the straits—making the northern tides serve Bavaria's purposes."
+EDG_BAV_3_5_9_1: "[Root.GetName] gains §G5§! §YEarly Carracks§! in the province of §Y[1775.GetName]§!."
+EDG_BAV_3_5_9_1_yes: "£yes£If the province of §Y[1775.GetName]§! is held by us or our subjects, the following effects occur:"
+EDG_BAV_3_5_9_1_no: "£no£If the province of §Y[1775.GetName]§! is held by us or our subjects, the following effects occur:"
+EDG_BAV_3_5_9_2: "Now, the §MWittelsbach Holdings§! subject interaction '§YEnable Steer Trade§!' §Gno longer increases§! §YSubject Liberty Desire§!."
+
+EDG_BAV_3_5_10_title: "The Slavic Question"
+EDG_BAV_3_5_10_desc: "The lands of the Slavic peoples stretch across the Eastern European plains, a crossroads of cultures and faiths. To ensure the stability of our rule, we must properly manage these diverse ethnic relations, balancing power and integration, to avoid division and conflict."
+EDG_BAV_3_5_10_1: "Allows the release of @POL §YPoland§! as our §MWittelsbach Holdings§!."
+EDG_BAV_3_5_10_2: "Unlocks a §Ydecision§! allowing us to Germanize provinces of the §YWest Slavic§! culture group in the §YGerman§! region into the §YBohemian§! culture."
+EDG_BAV_3_5_10_3_yes: "£yes£If we complete the mission via §YBuilding Tax Buildings§!, the following effects occur:"
+EDG_BAV_3_5_10_3_no: "£no£If we complete the mission via §YBuilding Tax Buildings§!, the following effects occur:"
+EDG_BAV_3_5_10_4_yes: "£yes£If we complete the mission via §YChanging Province Culture§!, the following effects occur:"
+EDG_BAV_3_5_10_4_no: "£no£If we complete the mission via §YChanging Province Culture§!, the following effects occur:"
+
+EDG_BAV_4_1_11_title: "§ODeveloping the German Forests§!"
+EDG_BAV_4_1_11_desc: "From the Black Forest to the Bavarian Woodlands, Germany's beams, charcoal, and ship planks all originate here. If we can measure with decrees, clear with axes, and connect valleys with roads, the silent forests will transform into royal gold coins and thriving towns."
+EDG_BAV_4_1_11_1: "All provinces meeting the mission conditions receive the following effect:"
+EDG_BAV_4_1_11_2: "Each province meeting the mission conditions provides us with §G+0.2§! times its §YAnnual Income§!."
+
+EDG_BAV_4_1_13_title: "§OEndless Grains§!"
+EDG_BAV_4_1_13_desc: "Grains are the bone of beer and the lifeblood of the people. We shall ensure the land no longer yields to famine and blight: by constructing canals, practicing crop rotation, establishing granaries and markets, so that bread and malt flow like an unending river, feeding the army and fueling prosperity alike."
+EDG_BAV_4_1_13_1: "Immediately §Gremove§! the §YLocal Production Efficiency Penalty§! modifier from all provinces."
+EDG_BAV_4_1_13_2: "Now, the negative §Yeffects§! and §Yduration§! of the §YLocal Production Efficiency Penalty§! caused by the province interaction '§OEncourage Grain Production§!' are §Ghalved§!."
+
+EDG_BAV_4_1_15_title: "§OWorld Center of Production§!" # The Center of World Production
+EDG_BAV_4_1_15_desc: "Workshops forge not only goods but national power. Let malt, fire, and craftsmanship converge within the same city—taxes, manpower, and wealth will grow with each expansion, making our production the axis upon which other states depend."
+EDG_BAV_4_1_15_1: "Now, when increasing §YBase Production§! in provinces with the §OBeer Factory§! modifier, there is an additional chance to randomly gain either §G+1§! §YBase Tax§! or §YBase Manpower§!."
+EDG_BAV_4_1_15_2_yes: "£yes£If we have completed the @BAV §YBavaria§! mission '§YMarching into the Rhineland§!', the following effects occur:\nUnlock the Age Ability '§YRhineland Development§!'."
+EDG_BAV_4_1_15_2_no: "£no£If we have completed the @BAV §YBavaria§! mission '§YMarching into the Rhineland§!', the following effects occur:\nUnlock the Age Ability '§YRhineland Development§!'."
+EDG_BAV_4_1_15_3_yes: "£yes£If we have completed the @GER §YGermany§! mission '§YPartition of Poland§!', the following effects occur:\nUnlock the Age Ability '§YPolish Crown§!'."
+EDG_BAV_4_1_15_3_no: "£no£If we have completed the @GER §YGermany§! mission '§YPartition of Poland§!', the following effects occur:\nUnlock the Age Ability '§YPolish Crown§!'."
+
+EDG_BAV_4_2_12_title: "§OCultivating Farmlands§!" # Cultivating Fertile Farmlands
+EDG_BAV_4_2_12_desc: "Fertile soil should not lie idle between field ridges and wastelands. We shall tame the plains with reclamation and irrigation, protect the harvests with order and diligence; when farmland is developed to its utmost, abundance will become the eternal foundation of the state."
+EDG_BAV_4_2_12_1: "All §YFarmlands§! provinces held by us or our subjects receive the following effect:"
+EDG_BAV_4_2_12_2: "All §YFarmlands§! provinces held by us or our subjects, when their §YBase Production§! reaches §Y12§!, gain a permanent §G+100.0%§! §YLocal Production Efficiency§!."
+EDG_BAV_4_2_12_3: "Adds the §YDiligent§! trait to our ruler. If their trait slots are full, grants an equivalent ruler modifier instead."
+
+EDG_BAV_4_2_14_title: "§OPromoting Beer Culture§!"
+EDG_BAV_4_2_14_desc: "Beer is not merely a beverage; it is Bavaria's calling card and its oath. Bring its aroma across the sea to new ports, let festivals and caravans spread our fame—using grain as the bond, the cup as the covenant, and drawing wealth on the wind with our sails."
+EDG_BAV_4_2_14_1: "Now, the province interaction '§OBuild Beer Factory§!' can also be used in §MColonial Provinces§!."
+EDG_BAV_4_2_14_2: "Now, other countries may also trigger the event '§YOktoberfest§!', giving us the opportunity to sell them §OBeer§! in exchange for §Gsubstantial income§!."
+EDG_BAV_4_2_14_3: "Now, every §Y10§! uses of the diplomatic action '§OExpand Grain Trade§!' will grant §Gone year§!'s worth of §YIncome§!."
+EDG_BAV_4_2_14_4: "During the current ruler's reign, has used the §YDiplomatic Action§! '§OExpand Grain Trade§!' on at least §Y5§! different countries."
+
+EDG_BAV_4_3_11_title: "§OFoster Wheat Production§!" # Fostering the Wheat Industry Chain
+EDG_BAV_4_3_11_desc: "A single grain of wheat can feed a city and sustain an entire industry. We shall interlink fields, mills, granaries, and markets: grain will no longer be scattered tribute but a chain that drives the machinery of the state."
+EDG_BAV_4_3_11_1: "Wheat Industry Chain"
+EDG_BAV_4_3_11_2: "All provinces producing §YGrain§! held by us or our subjects, when their §YBase Production§! reaches §Y12§!, gain a permanent §G+1§! §YGoods Produced§!."
+EDG_BAV_4_3_11_3: "Unlocks a §YProvince Interaction§! that allows us, at the cost of a short-term §RProduction Efficiency Penalty§!, to change the trade goods of all provinces within a §YState§! to §YGrain§!."
+
+EDG_BAV_4_3_13_title: "§ORefining the Process§!" # Refining the Production Process
+EDG_BAV_4_3_13_desc: "A true great power applies precision and rules even to brewing. We shall refine the arts of malting, fermentation, and storage, making each barrel clearer, more stable, and more valuable; when craftsmanship becomes institutionalized, even rebellion will quieten amidst the aroma of beer."
+EDG_BAV_4_3_13_1: "We will spend §Ra substantial amount of money§! to initiate an §YEvent Chain§!, allowing us to improve the yield and quality of §OBeer Factories§! by refining brewing techniques. It is estimated that upon full completion of the §YEvent Chain§!:\n- §OBeer Factories§! will §Gincrease§! §YLocal Production Efficiency§!.\n- §OBeer Factories§! will §Gincrease§! §YProvince Trade Power§!.\n- §OBeer Factories§! will §Greduce§! §YProvince Revolt Risk§!."
+EDG_BAV_4_3_13_2: "Now, for every §Y25§! §OBeer Factories§! we own, we gain §G+1§! §YMerchant§!."
+
+EDG_BAV_4_3_15_title: "§OThe Illustrious Land of Beer§!" # The World-Renowned Land of Beer
+EDG_BAV_4_3_15_desc: "When fields never wither and factories never sleep, Bavaria ceases to be merely one among princes and becomes the throne of beer. Let the world bow before our steins—all lands of grain shall be incorporated into the order of this hegemony."
+EDG_BAV_4_3_15_1: "Now, the province interaction '§OEncourage Grain Production§!' will §Gnot§! cause a §YProduction Efficiency Penalty§!."
+EDG_BAV_4_3_15_2: "Now, the province interaction '§OBuild Beer Factory§!' will additionally grant the local province §G+5§! §YBase Production§!."
+EDG_BAV_4_3_15_3: "Unlocks a §YCasus Belli§!:\n- §YAggressive Expansion§!: 100%\n- §YPrestige§!: 125%\n- §YWar Score Cost§!: 75%\nAllows the following §YWar Goals§!:\n- Any region where a province produces §YGrain§!."
+EDG_BAV_4_3_15_4: "Beer Hegemony"
+
+EDG_BAV_4_4_12_title: "§OConstructing Breweries§!" # Constructing Brewing Factories
+EDG_BAV_4_4_12_desc: "The difference between rural workshops and large-scale brewing lies in engineering and discipline. On foundations of water sources, storage, and masonry, we shall build specialized brewing factories: freeing production from the whims of seasons, letting wealth flow continuously like wort."
+EDG_BAV_4_4_12_1_yes: "£yes£If we have at least §G+50.0%§! §YGoods Produced Modifier§!, the following effects occur:"
+EDG_BAV_4_4_12_1_no: "£no£If we have at least §G+50.0%§! §YGoods Produced Modifier§!, the following effects occur:"
+EDG_BAV_4_4_12_2: "Unlocks a §YProvince Interaction§! allowing us to construct §OBeer Factories§! in provinces owned by us or our subjects. This interaction is located below the building menu."
+EDG_BAV_4_4_12_3: "Adds the §YGreat Engineer§! trait to our ruler. If their trait slots are full, grants an equivalent ruler modifier instead."
+
+EDG_BAV_4_4_14_title: "§OBrewing Technology§!" # Enhancing Brewing Technology
+EDG_BAV_4_4_14_desc: "Technology is another form of conquest. By improving equipment, standardizing recipes, mastering temperature control and transportation, we will extract the utmost value from every barrel of beer—when the trade of beer converges like rivers into the ocean, the world will witness our rise on the balance sheets."
+EDG_BAV_4_4_14_1: "Now, §OBeer Factories§! will provide §G+100.0%§! §YTrade Value Modifier§!."
+EDG_BAV_4_4_14_2_yes: "Executes effects based on the number of provinces with the §OBeer Factory§! modifier owned by us and our subjects:\n\n£yes£Own §Y50§! §OBeer Factories§!, the following effects occur:\nAll provinces with the §OBeer Factory§! modifier gain §G+1§! §YBase Production§!."
+EDG_BAV_4_4_14_2_no: "Executes effects based on the number of provinces with the §OBeer Factory§! modifier owned by us and our subjects:\n\n£no£Own §Y50§! §OBeer Factories§!, the following effects occur:\nAll provinces with the §OBeer Factory§! modifier gain §G+1§! §YBase Production§!."
+EDG_BAV_4_4_14_3_yes: "£yes£Own §Y75§! §OBeer Factories§!, the following effects occur:\nEach province with the §OBeer Factory§! modifier provides us with §G+0.2§! times its §YAnnual Production Income§!."
+EDG_BAV_4_4_14_3_no: "£no£Own §Y75§! §OBeer Factories§!, the following effects occur:\nEach province with the §OBeer Factory§! modifier provides us with §G+0.2§! times its §YAnnual Production Income§!."
+EDG_BAV_4_4_14_4_yes: "£yes£Own §Y100§! §OBeer Factories§!, the following effects occur:"
+EDG_BAV_4_4_14_4_no: "£no£Own §Y100§! §OBeer Factories§!, the following effects occur:"
+
+EDG_BAV_4_5_11_title: "§OProduction and Infrastructure§!" # Investing in Production and Infrastructure
+EDG_BAV_4_5_11_desc: "Roads, bridges, canals, and granaries are the true lifeblood of an empire. We shall use investment to drive workshops and towns, ensuring development is no longer piecemeal but converges into a tide through planning: every expansion becomes a leap in national power."
+EDG_BAV_4_5_11_1: "Unlocks the State Edict '§YGerman Infrastructure Development§!'."
+EDG_BAV_4_5_11_2: "All provinces owned by us or our subjects that have any §YManufactory§!, when their §YBase Production§! reaches §Y12§!, gain a permanent §G+25.0%§! §YGoods Produced Modifier§!."
+EDG_BAV_4_5_11_3: "Now, when increasing §YDevelopment§! in a province with the '§YGerman Infrastructure Development§!' edict active, we gain §G5§! §YPrestige§!. Any excess §YPrestige§! is converted into §YMonarch Power§!."
+
+EDG_BAV_4_5_13_title: "§OEnact the Beer Purity Law§!" # Enacting the 'Beer Purity Law'
+EDG_BAV_4_5_13_desc: "Only rules can ensure lasting prosperity. Enact the 'Beer Purity Law' to safeguard quality and reputation with legislation: let every stein of beer be worthy of Bavaria's name, and let our merchants conquer markets with standards, not swords."
+EDG_BAV_4_5_13_1: "Unlocks two §YDecisions§!, allowing us to §YIncrease§! or §YDecrease§! the production standards of §OBeer Factories§!, choosing between short-term profits and long-term benefits."
+EDG_BAV_4_5_13_2: "Now, when we actively §YEmbrace an Institution§!, all provinces owned by us and our subjects with the §OBeer Factory§! modifier will have the following effect:"
+EDG_BAV_4_5_13_3: "Every province owned by us and our subjects with the §OBeer Factory§! modifier provides us with §G+1§! §YMercantilism§!."
+
+EDG_BAV_4_5_15_title: "§OHeart of the Economy§!" # The Heart of the Global Economy
+EDG_BAV_4_5_15_desc: "When the shipping lanes of wealth and the numbers on ledgers all revolve around us, the world will acknowledge: this is not the territory of a frontier prince, but the beating heart of the global economy. Trade and production resonate here in harmony, and the nation's power will become immortal as a result."
+EDG_BAV_4_5_15_1: "Now, §OBeer Factories§! provide §G+1.0%§! §YGlobal Trade Power§!."
+EDG_BAV_4_5_15_2: "Now, §OBeer Factories§! provide §G+0.5%§! §YProduction Efficiency§!."
+
+EDG_BAV_5_1_11_title: "§MCompulsory Education§!" # Implementing Compulsory Education
+EDG_BAV_5_1_11_desc: "Swords can seize cities, but only letters can shape a people. For Bavaria to stand undefeated amidst the Empire's myriad princes, learning must step out of monasteries and courts into every town and classroom. With decrees as the lamp and teachers as the torch, let our people master writing, arithmetic, and reasoning; the ink sown today will transform into tomorrow's national power and glory."
+EDG_BAV_5_1_11_1: "A random §Y5§! owned provinces with a development of at least §Y20§! receive the following effect:"
+EDG_BAV_5_1_11_2: "Now, as long as there is a country in the §YItalian§! region with an opinion of us greater than §G150§!, we can send our §YHeir§! to §YItaly§! for study. During this period, a series of §MHeir Education Events§! will be triggered until the heir comes of age, is disinherited, or dies."
+EDG_BAV_5_1_11_3: "Now, when we actively §YEmbrace an Institution§!, we can choose to gain a §Gtechnology§! §Gupgrade§! for one category."
+
+EDG_BAV_5_1_13_title: "§MThe Court Gallery§!" # The Court Gallery Collection
+EDG_BAV_5_1_13_desc: "For royal authority to endure, it relies not only on walls and tax registers but on memory and symbols. Let the court gallery house the brushes of masters, congealing victories, piety, and family glory into colors that never fade. Let visiting envoys read our majesty between the frames—Bavaria can rule not only land but also the aesthetics and imagination of the age."
+EDG_BAV_5_1_13_1: "Unlocks an §YEvent Chain§! allowing us, during each ruler's reign, to spend §MArt Treasures§! to commission a domestic §MArtist§! to create an §MArtwork§! for us.\n\nThe creation takes time. Upon completion, we will receive certain §Gbonuses§!, whose strength depends on our §YPrestige§!, §YLegitimacy§!, and the §YArtists' Estate Loyalty§!."
+EDG_BAV_5_1_13_2: "Now, when we actively §YAdopt a Technology§!, we gain §G+10§! §MArt Treasures§!."
+
+EDG_BAV_5_1_15_title: "§MArt Capital of Europe§!" # The Art Capital of Europe
+EDG_BAV_5_1_15_desc: "From Italian workshops to Imperial courts, the sparks of art await a true capital to crown them. Let Munich's halls echo with debate and hymns, let sculpture, painting, and architecture become extensions of the state's will. Henceforth, when people speak of Europe's fashion and exemplars, they will also utter our name—not as a frontier prince, but as the capital of art."
+EDG_BAV_5_1_15_1: "Now, upon completion of the State Action '§YCentralize State§!', it will refund §Gall§! §YGovernment Reform Progress§! and §Ghalf§! of the §YAdministrative Power§! spent."
+EDG_BAV_5_1_15_2: "Now, the §YArtists§! estate privilege '§YInvite to the Council of Advisors§!' provides §Gdouble§! the §YReform Progress Growth§!."
+
+EDG_BAV_5_2_12_title: "§MBaroque Art§!"
+EDG_BAV_5_2_12_desc: "When faith tears communities apart, art becomes the sharpest declaration. Baroque responds to strife with light, shadow, and domes: it can defend the altar's solemnity and display the grandeur of order to the doubter. Let churches and palaces speak the same language—amidst awe and reverence, Bavaria's authority and faith will be etched into stone and gold leaf."
+EDG_BAV_5_2_12_1_yes: "£yes£If any province owned by us or our subjects is §YProtestant§!, the following effects occur:\nThe §YArtists§! estate privilege '§YIssue Building Ordinances§!' additionally provides §G-10.0%§! §YConstruction Cost§!."
+EDG_BAV_5_2_12_1_no: "£no£If any province owned by us or our subjects is §YProtestant§!, the following effects occur:\nThe §YArtists§! estate privilege '§YIssue Building Ordinances§!' additionally provides §G-10.0%§! §YConstruction Cost§!."
+EDG_BAV_5_2_12_2_yes: "£yes£If @PAP §YPapal States§! is our §Ysubject§! or does not own the province of §YRome§!, the following effects occur:\nThe §YArtists§! estate privilege '§YBlock Papal Intervention in Domestic Affairs§!' will §Gno longer reduce§! §YYearly Papal Influence§!."
+EDG_BAV_5_2_12_2_no: "£no£If @PAP §YPapal States§! is our §Ysubject§! or does not own the province of §YRome§!, the following effects occur:\nThe §YArtists§! estate privilege '§YBlock Papal Intervention in Domestic Affairs§!' will §Gno longer reduce§! §YYearly Papal Influence§!."
+EDG_BAV_5_2_12_3_yes: "£yes£If we are the §YHoly Roman Emperor§!, the following effects occur:"
+EDG_BAV_5_2_12_3_no: "£no£If we are the §YHoly Roman Emperor§!, the following effects occur:"
+
+EDG_BAV_5_2_14_title: "§MThe Hymns of Munich§!"
+EDG_BAV_5_2_14_desc: "A hymn can cross walls, a melody can sway hearts. If the storm of the age thrusts reformers onto the stage, we can also let their voices resound beneath Munich's domes: as a spark for debate or a bridge for reconciliation. Let music become our diplomacy and edification, teaching divided souls to coexist within the same song."
+EDG_BAV_5_2_14_1: "If given the opportunity, §YMartin Luther§! will be invited to the court in §YMunich§!. At that point, we may choose §YMartin Luther§! as our §YAdvisor§!. As long as §YMartin Luther§! remains in our service, we will gain §G+2.0§! §YHeretic Tolerance§!."
+EDG_BAV_5_2_14_2: "Now, the following §YGovernment Interactions§! are enhanced:\n- '§MAcquire Art Treasures§!' yields §Gdouble§! the §MArt Treasures§!.\n- '§MHost Art Exhibition§!' grants all §YHeretic Provinces§! an additional §G1§! random §YDevelopment§!.\n- '§MPromote Artistic Exchange§!' makes each §YHeretic§! province additionally provide §G0.01§! §MArt Treasures§! monthly."
+
+EDG_BAV_5_3_11_title: "§MPromoting Humanism§!"
+EDG_BAV_5_3_11_desc: "The borders of the Empire can be drawn by treaties, but the borders of the human heart can only be expanded through tolerance. Promoting humanism is not a sign of weak concession, but of confident governance: letting diverse languages, customs, and faiths find their place within the framework of law. Thus, loyalty will no longer rely on fear, and the state will possess a deeper, more stable cohesion."
+EDG_BAV_5_3_11_1_yes: "£yes£If we complete the mission via the §YIdea Group§! method, the following effects occur:\nAs long as we still possess all §YHumanist Ideas§!, we gain §G+0.1§! §MMonthly Art Treasures§!."
+EDG_BAV_5_3_11_1_no: "£no£If we complete the mission via the §YIdea Group§! method, the following effects occur:\nAs long as we still possess all §YHumanist Ideas§!, we gain §G+0.1§! §MMonthly Art Treasures§!."
+EDG_BAV_5_3_11_2_yes: "£yes£If we complete the mission via the §YTolerance§! method, the following effects occur:\nAs long as our §YHeretic Tolerance§! remains at least §Y8§!, we gain §G+0.1§! §MMonthly Art Treasures§!."
+EDG_BAV_5_3_11_2_no: "£no£If we complete the mission via the §YTolerance§! method, the following effects occur:\nAs long as our §YHeretic Tolerance§! remains at least §Y8§!, we gain §G+0.1§! §MMonthly Art Treasures§!."
+EDG_BAV_5_3_11_3: "Now, §MArt Treasures§! can provide up to §G+20.0%§! §YAll Estates Loyalty Equilibrium§!."
+
+EDG_BAV_5_3_13_title: "§MConstructing Nymphenburg§!" # Constructing Nymphenburg Palace
+EDG_BAV_5_3_13_desc: "Nymphenburg is more than a palace; it is the calling card the Wittelsbachs present to the world. Let gardens and waterways reflect the order of the royal house, let domes and galleries bear the family's ambition. The stones stack not merely beauty, but a declaration of an era: the heart of Bavaria deserves to be called the Empire's jewel."
+EDG_BAV_5_3_13_1: "Now, the Wonder '§YNymphenburg§!' provides additional §Gbonuses§!."
+EDG_BAV_5_3_13_2: "Now, §MArt Treasures§! can provide up to §Y+20.0%§! §YAll Estates Influence§!."
+
+EDG_BAV_5_3_15_title: "§MWittelsbach Golden Age§!" # The Wittelsbach Golden Age
+EDG_BAV_5_3_15_desc: "When scholarship, craftsmanship, and ceremony bloom together on the same soil, a dynasty's Golden Age is no longer an accident. We shall guard prosperity with institutions and adorn authority with art, making the name Wittelsbach resound in both court and marketplace. May future generations look back upon this time, remembering not only the expansion of territory but also the pinnacle of civilization."
+EDG_BAV_5_3_15_1: "Now, when the event '§YGolden Age§!' occurs, it will additionally reset the current or a previous §YGolden Age§!."
+EDG_BAV_5_3_15_2: "Now, §MArt Treasures§! can provide up to §G-10.0%§! §YGoverning Cost§!."
+EDG_BAV_5_3_15_3: "Now, upon the succession of a new monarch, §MArt Treasures§! will no longer reset to §Y0§! but will instead be set to the §Ysum of the new ruler's three skills multiplied by 2§!."
+
+EDG_BAV_5_4_12_title: "§MComposing Royal Music§!"
+EDG_BAV_5_4_12_desc: "Royal authority requires cannon salutes to announce it, but also musical scores to inscribe it. Let court composers create melodies for the dynasty, lending solemn voice to celebrations, victories, and mourning. Music does not appear on maps, yet it can reach deep into the memory of every subject—when the melody plays, Bavaria's unity and honor are sung along."
+EDG_BAV_5_4_12_1: "Unlocks an §YEvent§! allowing us, during each ruler's reign, to spend §MArt Treasures§! to appoint a number of §MCourt Composers§!, providing us with certain §Gbonuses§!."
+EDG_BAV_5_4_12_2: "Unlocks a series of §YEvents§! allowing us to permanently gain §G+1§! §MCourt Composers§! §Ycapacity§! upon acquiring certain key provinces in §YEurope§!."
+
+EDG_BAV_5_4_14_title: "§MThe German Rococo§!"
+EDG_BAV_5_4_14_desc: "If Baroque is a solemn oath, Rococo is the ease after victory. With lighter lines and more intricate ornamentation, let churches and mansions spread across the German lands like white-crested waves. Let the principalities understand: the center of fashion need not be on the Rhine, nor in Vienna—it can also be born from our hands."
+EDG_BAV_5_4_14_1_yes: "£yes£If the province of §YWürzburg§! meets the mission conditions, the following effects occur in §YWürzburg§!:"
+EDG_BAV_5_4_14_1_no: "£no£If the province of §YWürzburg§! meets the mission conditions, the following effects occur in §YWürzburg§!:"
+EDG_BAV_5_4_14_2_yes: "£yes£If the province of §YWasserburg§! meets the mission conditions, the following effects occur in §YWasserburg§!:"
+EDG_BAV_5_4_14_2_no: "£no£If the province of §YWasserburg§! meets the mission conditions, the following effects occur in §YWasserburg§!:"
+EDG_BAV_5_4_14_3_yes: "£yes£If the province of §YMemmingen§! meets the mission conditions, the following effects occur in §YMemmingen§!:"
+EDG_BAV_5_4_14_3_no: "£no£If the province of §YMemmingen§! meets the mission conditions, the following effects occur in §YMemmingen§!:"
+EDG_BAV_5_4_14_4_yes: "£yes£If the province of §YStyria§! meets the mission conditions, the following effects occur in §YStyria§!:"
+EDG_BAV_5_4_14_4_no: "£no£If the province of §YStyria§! meets the mission conditions, the following effects occur in §YStyria§!:"
+
+EDG_BAV_5_5_11_title: "§MPatronizing Master Painters§!"
+EDG_BAV_5_5_11_desc: "A master's brush can keep a battle from ending and a monarch from fading into silence. Patronizing painting is not a vain extravagance but a transformation of authority into the visible: within frescoes and portraits, order is depicted, loyalty is taught, and enmity is awed. Let Bavaria's image be meticulously crafted, as sturdy as armor and as enduring as an icon."
+EDG_BAV_5_5_11_1: "Now, each level of the administrative advisor §YArtist§! provides us with §G-1.0%§! §YNational Unrest§!."
+EDG_BAV_5_5_11_2: "Now, for every §YLevel 5§! advisor we employ, we gain §G+0.10§! §MMonthly Art Treasures§!."
+EDG_BAV_5_5_11_3: "Now, switching §YNational Focus§! will immediately grant §G50§! corresponding type of §YMonarch Power§!."
+
+EDG_BAV_5_5_13_title: "§MCrown Adorned by Gems§!" # Gems Adorning the Crown
+EDG_BAV_5_5_13_desc: "A crown's radiance comes from countless tiny, brilliant refractions. Gather rarities, reward artisans, assemble works from foreign lands, making our court the destination for treasures. Let each piece tell a story: of distant trade, of the spoils of victory, of a dynasty's unwillingness to be forgotten."
+EDG_BAV_5_5_13_1: "Now, the government interactions '§MAcquire Art Treasures§!', '§MHost Art Exhibition§!', and '§MPromote Artistic Exchange§!' cost §Ghalf§! as much."
+
+EDG_BAV_5_5_15_title: "§MImmortal Treasures§!"
+EDG_BAV_5_5_15_desc: "One day, swords will dull, walls will crumble, and even the grandest decrees will be replaced by new systems; only true treasures can traverse the centuries. Transform our collections, exhibitions, and exchanges into an immortal legacy, ensuring Bavaria is remembered in future annals not only as a great power but as a treasury of civilization. To be immortalized for ages relies not only on conquest, but on creation."
+EDG_BAV_5_5_15_1: "Now, the following §YGovernment Interactions§! are enhanced:\n- '§MAcquire Art Treasures§!' additionally provides §G+25§! §YPrestige§!.\n- '§MHost Art Exhibition§!' additionally §Gclears§! all §YDevastation§! in §YHeretic Provinces§!.\n- '§MPromote Artistic Exchange§!' makes each §YHeretic§! province additionally provide §G0.5%§! random §YEstate Loyalty§!."
+
+EDG_BAV_6_1_3_title: "A Matter of Urgency"
+EDG_BAV_6_1_3_desc: ""
+EDG_BAV_6_1_3_1: "Now, the diplomatic action '£icon_manpower£§MRequest Aid§!' §Gno longer requires§! the ally to be a §YGreat Power§!."
+
+EDG_BAV_6_1_5_title: "Learning from Past Mistakes"
+EDG_BAV_6_1_5_desc: ""
+EDG_BAV_6_1_5_1: "Now, the diplomatic action '£liberty_icon£§MIncrease Compliance§!' will raise §YCompliance§! by §Gtwo levels§! at once."
+
+EDG_BAV_6_2_2_title: "Undercurrents"
+EDG_BAV_6_2_2_desc: ""
+EDG_BAV_6_2_2_1: "Now, all non-§YCatholic§! provinces under a §Rrebel§! §MWittelsbach Holdings§! will provide §Ggreatly reduced§! §YTax§! to their owner."
+
+EDG_BAV_6_2_4_title: "A Rallying Cry"
+EDG_BAV_6_2_4_desc: ""
+EDG_BAV_6_2_4_1: "Now, all non-§YCatholic§! provinces under a §Rrebel§! §MWittelsbach Holdings§! will provide §Ggreatly reduced§! §YProduction§! to their owner."
+
+EDG_BAV_6_2_6_title: "Besieged on All Sides"
+EDG_BAV_6_2_6_desc: ""
+EDG_BAV_6_2_6_1: "Now, all non-§YCatholic§! provinces under a §Rrebel§! §MWittelsbach Holdings§! will provide §Ggreatly reduced§! §YManpower§! to their owner."
+
+EDG_BAV_6_3_1_title: "The Darkest Hour"
+EDG_BAV_6_3_1_desc: ""
+EDG_BAV_6_3_1_1_yes: "£yes£If we are the §YHoly Roman Emperor§!, the following effects occur:"
+EDG_BAV_6_3_1_1_no: "£no£If we are the §YHoly Roman Emperor§!, the following effects occur:"
+EDG_BAV_6_3_1_2_yes: "£yes£If the §YHoly Roman Empire§! has been dismantled, the following effects occur:"
+EDG_BAV_6_3_1_2_no: "£no£If the §YHoly Roman Empire§! has been dismantled, the following effects occur:"
+EDG_BAV_6_3_1_2: "Until the disaster '§RThe Night of Blood§!' ends"
+EDG_BAV_6_3_1_3: ""
+
+EDG_BAV_6_3_3_title: "Reining in at the Precipice"
+EDG_BAV_6_3_3_desc: ""
+EDG_BAV_6_3_3_1: "Now, it is time for the §YPartition Inheritance Law§! to exit the stage of history."
+
+EDG_BAV_6_3_5_title: "Mending the Fold After Losing Sheep"
+EDG_BAV_6_3_5_desc: ""
+EDG_BAV_6_3_5_1: "§MYour choices during the 'Requiem' disaster affect the outcome of this mission.§!"
+EDG_BAV_6_3_5_2: "§RYour Majesty the Troubadour's cruelty and ruthlessness have filled the princes of the family with dread. Their fear of becoming the next Wolfgang outweighs their loyalty to you, leaving you with no choice but to force their permanent submission once more.§!\n\nWhen these countries declare war on us in this way, you can only end the war through §Ymanual peace negotiations§!."
+EDG_BAV_6_3_5_3: "§GAlthough your inheritance law reform was quite radical, the voices of opposition were almost completely suppressed by the princes loyal to you, thus avoiding a greater crisis.§!"
+
+EDG_BAV_6_3_7_title: "Seeing the Light Again"
+EDG_BAV_6_3_7_desc: ""
+EDG_BAV_6_3_7_1: "Has §Yoccupied§! the §Ycapital§! of all §Rrebel§! §MWittelsbach Holdings§! and achieved at least §Y80%§! war score against each."
+EDG_BAV_6_3_7_2: "All §Yeligible§! countries will be §Mannexed§! by us."
+
+EDG_BAV_6_4_2_title: "Fire in the Rear"
+EDG_BAV_6_4_2_desc: ""
+EDG_BAV_6_4_2_1: "A random §YFort§! province owned by a §Rrebel§! §MWittelsbach Holdings§! §Gloses§! its §YFort§! building."
+
+EDG_BAV_6_4_4_title: "Step by Step"
+EDG_BAV_6_4_4_desc: ""
+EDG_BAV_6_4_4_1: "Now, §YStorming§! a §YFort§! province belonging to a §Rrebel§! §MWittelsbach Holdings§! will temporarily §Ggreatly reduce§! that province's §YDefensiveness§!."
+
+EDG_BAV_6_4_6_title: "Crushing Blow"
+EDG_BAV_6_4_6_desc: ""
+EDG_BAV_6_4_6_1: "Now, a §Rrebel§! §MWittelsbach Holdings§! that goes §YBankrupt§! will §Gsurrender unconditionally§!, transferring §Ycontrol§! of all its provinces to us."
+
+EDG_BAV_6_5_3_title: "§YStarving the Enemy§!"
+EDG_BAV_6_5_3_desc: ""
+EDG_BAV_6_5_3_1: "Now, the frequency at which §Rrebel§! §MWittelsbach Holdings§! generate §YReinforcements§! is §Ghalved§!."
+
+EDG_BAV_6_5_5_title: "§YPulling the Rug from Under Them§!"
+EDG_BAV_6_5_5_desc: ""
+EDG_BAV_6_5_5_1: "This mission is §Mcrucial§! for ending the disaster '§RThe Night of Blood§!' Please prioritize it!"
+EDG_BAV_6_5_5_2: "Now, §Rrebel§! §MWittelsbach Holdings§! will §Gno longer generate§! §YReinforcements§!."
+
+EDG_BAV_8_1_33_title: "The Other Side of the Mediterranean"
+EDG_BAV_8_1_33_desc: ""
+EDG_BAV_8_1_33_1: "Now, the following §YGovernment Interactions§! are enhanced:\n- '§MAcquire Art Treasures§!' additionally increases §G+5.0%§! §YAll Estates Loyalty§!."
+
+EDG_BAV_8_1_34_title: "Down the Nile"
+EDG_BAV_8_1_34_desc: ""
+EDG_BAV_8_1_34_1: "Now, §MArt Treasures§! at maximum will provide §G+2§! §YYearly Absolutism§!."
+
+EDG_BAV_8_1_35_title: "[Root.GetName]'s Ivory Coast"
+EDG_BAV_8_1_35_desc: ""
+EDG_BAV_8_1_35_1: "Now, the following §YGovernment Interactions§! are enhanced:\n- '§MHost Art Exhibition§!' grants §G+5.0%§! §YMissionary Strength vs Heretics§! for §Y5§! years."
+
+EDG_BAV_8_1_36_title: "The Call of the Cape"
+EDG_BAV_8_1_36_desc: ""
+EDG_BAV_8_1_36_1: "Now, §MArt Treasures§! at maximum will provide §G-10.0%§! §YProvince War Score Cost§!."
+
+EDG_BAV_8_1_37_title: "The Cloves of Zanzibar"
+EDG_BAV_8_1_37_desc: ""
+EDG_BAV_8_1_37_1: "The diplomatic action '£icon_EDG_cash£§OSell Beer§!' will §Gno longer reduce§! §YPrestige§!."
+
+EDG_BAV_8_1_39_title: "German East Indies"
+EDG_BAV_8_1_39_desc: ""
+EDG_BAV_8_1_39_1: "Now, the §YArtists§! estate privilege '§YLevy Religious Freedom Tax§!' §Gno longer reduces§! §YArtists' Loyalty§!."
+
+EDG_BAV_8_2_34_title: "The Holy City of Jerusalem"
+EDG_BAV_8_2_34_desc: ""
+EDG_BAV_8_2_34_1: "Now, the §YArtists§! estate privilege '§YBlock Papal Intervention in Domestic Affairs§!' §Gno longer reduces§! §YClergy Loyalty§!."
+
+EDG_BAV_8_2_35_title: "Kingdoms in the Yellow Sand"
+EDG_BAV_8_2_35_desc: ""
+EDG_BAV_8_2_35_1: "Now, §MArt Treasures§! at maximum will provide §G+25.0%§! §YMaximum Absolutism§!."
+
+EDG_BAV_8_2_36_title: "Reaching Sindh"
+EDG_BAV_8_2_36_desc: ""
+EDG_BAV_8_2_36_1: "Now, §Ycapturing§! a §YFort§! will cause its §Yowner§! to gain §G+2§! §YWar Exhaustion§!."
+
+EDG_BAV_8_2_37_title: "The Deccan Presidency"
+EDG_BAV_8_2_37_desc: ""
+EDG_BAV_8_2_38_title: "The Strait of Malacca"
+EDG_BAV_8_2_38_desc: ""
+EDG_BAV_8_2_38_1: "Now, the following §YGovernment Interactions§! are enhanced:\n- '§MHost Art Exhibition§!' additionally increases §G+5.0%§! §YAll Estates Loyalty§!."
+
+EDG_BAV_8_2_39_title: "Colonizing the Philippines"
+EDG_BAV_8_2_39_desc: ""
+EDG_BAV_8_2_39_1: "The diplomatic action '£icon_EDG_BAV_Wittelsbach_Territories£§MReclaim Family Holdings§!' will be more likely to be §Gaccepted§! outright."
+
+EDG_BAV_8_3_32_title: "Beyond the Horizon"
+EDG_BAV_8_3_32_desc: ""
+EDG_BAV_8_3_32_1: "All modifiers granted by the §YGerman World Conquest§! mission tree that are still active will become §Gpermanent modifiers§!."
+
+EDG_BAV_8_3_33_title: "The Fall of the Ottomans"
+EDG_BAV_8_3_33_desc: ""
+EDG_BAV_8_3_33_1: "Now, §MArt Treasures§! at maximum will provide §G+5.0%§! §YAdministrative Efficiency§!."
+
+EDG_BAV_8_3_34_title: "Sweeping Across the Iranian Plateau"
+EDG_BAV_8_3_34_desc: ""
+EDG_BAV_8_3_34_1: "Now, §YConcentrate Development§! will additionally transfer §G+1§! random §YDevelopment§! to the capital without loss."
+
+EDG_BAV_8_3_35_title: "Into the Heartland"
+EDG_BAV_8_3_35_desc: ""
+EDG_BAV_8_3_35_1: "Now, §YExploit Development§! will grant the corresponding §G+5§! §YMonarch Power§!."
+
+EDG_BAV_8_3_36_title: "The Gates of Delhi"
+EDG_BAV_8_3_36_desc: ""
+EDG_BAV_8_3_36_1: "Now, the following §YGovernment Interactions§! are enhanced:\n- '§MHost Art Exhibition§!' additionally removes §Gall§! §YWar Exhaustion§!."
+
+EDG_BAV_8_3_37_title: "Pacifying Burma"
+EDG_BAV_8_3_37_desc: ""
+EDG_BAV_8_3_37_1: "Now, the following §YGovernment Interactions§! are enhanced:\n- '§MPromote Artistic Exchange§!' additionally increases §G+5.0%§! §YAll Estates Loyalty§!."
+
+EDG_BAV_8_3_38_title: "The Indochinese Peninsula"
+EDG_BAV_8_3_38_desc: ""
+EDG_BAV_8_3_38_1: "Now, constructing an §OBeer Factory§! in a §YCoastal§! province that has a §YNaval§! building but no §YTrade Center§! will additionally §Ggrant§! a Level 1 §YTrade Center§!."
+
+EDG_BAV_8_3_39_title: "The Land of the Rising Sun"
+EDG_BAV_8_3_39_desc: ""
+EDG_BAV_8_3_39_1: "Now, §YAnnexing§! a country by any means will grant §G+25§! to all categories of §YMonarch Power§!."
+
+EDG_BAV_8_3_40_title: "The Gate to Oblivion"
+EDG_BAV_8_3_40_desc: ""
+EDG_BAV_8_3_40_1: "The great wheel of history rolls ever onward, and we finally step through the gate to oblivion..."
+
+EDG_BAV_8_4_34_title: "Wolves on the Steppe"
+EDG_BAV_8_4_34_desc: ""
+EDG_BAV_8_4_34_1: "The diplomatic action '£adm££dip££mil£§MSeize Monarch Power§!' will change from a §Yglobal cooldown§! to a §Gseparate cooldown§! for each subject."
+
+EDG_BAV_8_4_35_title: "Across the Caucasus"
+EDG_BAV_8_4_35_desc: ""
+EDG_BAV_8_4_35_1: "Now, the cost of the province interaction '§OEncourage Grain Production§!' is §Ghalved§!."
+
+EDG_BAV_8_4_36_title: "All the Way to Bengal"
+EDG_BAV_8_4_36_desc: ""
+EDG_BAV_8_4_36_1: "Now, the following §YGovernment Interactions§! are enhanced:\n- '§MPromote Artistic Exchange§!' additionally grants §G-2.5%§! §YAll Power Costs§! for §Y5§! years."
+
+EDG_BAV_8_4_37_title: "The Peak of the Himalayas"
+EDG_BAV_8_4_37_desc: ""
+EDG_BAV_8_4_37_1: "Now, §MArt Treasures§! at maximum will provide §G+10§! §YMaximum Absolutism§!."
+
+EDG_BAV_8_4_38_title: "The Starting Point of the Silk Road"
+EDG_BAV_8_4_38_desc: ""
+EDG_BAV_8_4_39_title: "The Tip of the Peninsula"
+EDG_BAV_8_4_39_desc: ""
+EDG_BAV_8_4_39_1: "Now, §MArt Treasures§! at maximum will provide §G-10.0%§! §YDevelopment Cost§!."
+
+EDG_BAV_8_5_33_title: "Push Eastward!"
+EDG_BAV_8_5_33_desc: ""
+EDG_BAV_8_5_33_1: "The usage cap for the diplomatic action '£icon_production_in_text£§OExpand Grain Trade§!' is §Gincreased§! to §Y20§!."
+
+EDG_BAV_8_5_34_title: "The Fall of Rus"
+EDG_BAV_8_5_34_desc: ""
+EDG_BAV_8_5_35_title: "The Land of Extreme Cold"
+EDG_BAV_8_5_35_desc: ""
+EDG_BAV_8_5_35_1: "Now, the following §YGovernment Interactions§! are enhanced:\n- '§MAcquire Art Treasures§!' additionally grants §G+1§! §YMonthly Administrative Power§! for §Y5§! years."
+
+EDG_BAV_8_5_36_title: "The Great Khan's Funeral"
+EDG_BAV_8_5_36_desc: ""
+EDG_BAV_8_5_36_1: "Now, §Ycapturing§! a §YCapital§! will cause its §Yowner§! to lose §YStability§!."
+
+EDG_BAV_8_5_37_title: "Surpassing Temüjin"
+EDG_BAV_8_5_37_desc: ""
+EDG_BAV_8_5_39_title: "Conquering Manchuria"
+EDG_BAV_8_5_39_desc: ""
+EDG_BAV_8_5_39_1: "Now, the province interaction '§OBuild Beer Factory§!' will cause the province to gain §G+100.0%§! §YProsperity§!."

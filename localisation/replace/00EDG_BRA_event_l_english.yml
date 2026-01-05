@@ -57,10 +57,10 @@ EDG_flavorBRA_mission.8.d:0 "The ancient Holy Roman Empire, having existed in Eu
 EDG_flavorBRA_mission.8.a:0 "Take up arms, defend the homeland!"
 EDG_flavorBRA_mission_8_tt:0 "The Hohenzollern family declares war on us using §YHohenzollern Hegemony§! as the §Ycasus belli§!. In this war, both we and the opposing side are §Runable to call allies§!.\nIf we suffer a §Ywar score§! loss reaching §R90§!, we will be subjected to a §Rforced peace§! by §YBrandenburg-Prussia§! and cede all provinces located in the North German and South German regions, except those with Swiss and Austrian culture."
 
-EDG_flavorBRA_mission.9.t:0 "The End of the Prayermen"
-EDG_flavorBRA_mission.9.d:0 "The Prayermen differ from the Hussites; to the Hussites, they too are heretics. The Prayermen naively believed we were merely sheltering heretics opposing Catholicism, unaware that we had already reached a secret agreement with the Hussites. However, the Prayermen's act of misleading the Duke of Saxony alone proves their depravity. This gives us an opportunity to play the villain!"
-EDG_flavorBRA_mission.9.a:0 "Eradicate the Prayermen!"
-EDG_flavorBRA_mission_9_tt:0 "The faith in all §YPrayermen§! provinces under our rule will change to §RHussite§!, and §Ruprisings§! by large numbers of religious rebels will occur. \n\n A §YHussite Reformation Center§! will be generated in §YLüneburg§!. \n\n "
+EDG_flavorBRA_mission.9.t:0 "The End of the Euchites"
+EDG_flavorBRA_mission.9.d:0 "The Euchites differ from the Hussites; to the Hussites, they too are heretics. The Euchites naively believed we were merely sheltering heretics opposing Catholicism, unaware that we had already reached a secret agreement with the Hussites. However, the Euchites' act of misleading the Duke of Saxony alone proves their depravity. This gives us an opportunity to play the villain!"
+EDG_flavorBRA_mission.9.a:0 "Eradicate the Euchites!"
+EDG_flavorBRA_mission_9_tt:0 "The faith in all §YEuchite§! provinces under our rule will change to §RHussite§!, and §Ruprisings§! by large numbers of religious rebels will occur. \n\n A §YHussite Reformation Center§! will be generated in §YLüneburg§!. \n\n "
 
 EDG_flavorBRA_mission.10.t:0 "The Ducal Crown of Franconia"
 EDG_flavorBRA_mission.10.d:0 "Decades ago, we struggled bitterly in this treacherous region, never attaining the status we desired. We once fancied ourselves the true heirs of Franconia, yet were treated as mere pawns by families like the Habsburgs, deemed unfit for the main stage, only granted limited assistance—so much so that we spent our entire fortune and pleaded earnestly just to gain Habsburg favor. Now, we return to Franconia. The nobles of this region no longer have the chance to ignore us; instead, they will respectfully present the crown. Amidst flowers and applause, [Root.Monarch.GetName] reclaims what was once dreamed of: the ducal crown of the Duchy of Franconia! And Franconia itself!"
