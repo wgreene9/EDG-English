@@ -44,7 +44,7 @@ EDG_flavorBRA_mission.6.d:0 "The House of Welf, its fame long-lasting within the
 EDG_flavorBRA_mission.6.a:0 "With the incompetent Grand Marshal of Saxony gone, we shall become the Empire's firmest pillar."
 EDG_flavorBRA_mission.6.b:0 "No time to mourn the House of Welf; next to take the stage is the Hohenzollern with blades unsheathed."
 EDG_flavorBRA_mission_6_tt_1:0 "Unlocks §Ydecision§!: §MRequest to Become an Imperial Garrison Territory§!"
-EDG_flavorBRA_mission_6_tt_2:0 "§Y[Root.GetAdjective]§! gains permanent claims on all provinces with §YWestphalian§!, §YRhenish§!, and §YFrisian§! culture."
+EDG_flavorBRA_mission_6_tt_2:0 "§Y[Root.GetName]§! gains permanent claims on all provinces with §YWestphalian§!, §YRhenish§!, and §YFrisian§! culture."
 EDG_flavorBRA_mission_6_tt_3:0 "§MDecision Preview§!: \n Requesting to become an §YImperial Garrison Territory§! will grant the following rewards:"
 
 EDG_flavorBRA_mission.7.t:0 "War with the Emperor"

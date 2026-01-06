@@ -53,19 +53,19 @@ EDG_FRA_Request_to_become_FRA_vassal_State_dialog:0 "As the §YKing of France§!
 
 call_EDG_vassal_into_wars:0 "Call Subject into Wars"
 call_EDG_vassal_into_wars_title:0 "Call Subject into Wars"
-call_EDG_vassal_into_wars_desc:0 "Spend §R20§! favors to call §Y[From.GetName]§! into all of §Y[Root.GetAdjective]§!'s wars. If we only call §Y[From.GetName]§! into defensive wars, the cost is reduced by §Y10§!."
+call_EDG_vassal_into_wars_desc:0 "Spend §R20§! favors to call §Y[From.GetName]§! into all of §Y[Root.GetName]§!'s wars. If we only call §Y[From.GetName]§! into defensive wars, the cost is reduced by §Y10§!."
 call_EDG_vassal_into_wars_tooltip:0 "Use our favors with the target nation to call them into our wars."
 call_EDG_vassal_into_wars_dialog:0 "They spend §R20§! favors to call us into all of their wars. If they only call us into defensive wars, the cost is reduced by §Y10§!."
 
 call_EDG_Chinese_vassal_into_wars:0 "Call Military Governor (Fanzhen) into Wars"
 call_EDG_Chinese_vassal_into_wars_title:0 "Call Military Governor (Fanzhen) into Wars"
-call_EDG_Chinese_vassal_into_wars_desc:0 "Spend §R20§! favors to call §Y[From.GetName]§! into all of §Y[Root.GetAdjective]§!'s wars. If we only call §Y[From.GetName]§! into defensive wars, the cost is reduced by §Y10§!. In any case, their liberty desire will increase by §R20§!."
+call_EDG_Chinese_vassal_into_wars_desc:0 "Spend §R20§! favors to call §Y[From.GetName]§! into all of §Y[Root.GetName]§!'s wars. If we only call §Y[From.GetName]§! into defensive wars, the cost is reduced by §Y10§!. In any case, their liberty desire will increase by §R20§!."
 call_EDG_Chinese_vassal_into_wars_tooltip:0 "Use our favors with the target nation to call them into our wars, and increase their liberty desire."
 call_EDG_Chinese_vassal_into_wars_dialog:0 "They spend §R20§! favors to call us into all of their wars. If they only call us into defensive wars, the cost is reduced by §Y10§!. In any case, our liberty desire will increase by §R20§!."
 
 call_EDG_disobedient_vassal_into_wars:0 "Call Subject into Wars"
 call_EDG_disobedient_vassal_into_wars_title:0 "Call Subject into Wars"
-call_EDG_disobedient_vassal_into_wars_desc:0 "Spend §R20§! favors to call §Y[From.GetName]§! into all of §Y[Root.GetAdjective]§!'s wars. If we only call §Y[From.GetName]§! into defensive wars, the cost is reduced by §Y10§!. In any case, their liberty desire will increase by §R20§!."
+call_EDG_disobedient_vassal_into_wars_desc:0 "Spend §R20§! favors to call §Y[From.GetName]§! into all of §Y[Root.GetName]§!'s wars. If we only call §Y[From.GetName]§! into defensive wars, the cost is reduced by §Y10§!. In any case, their liberty desire will increase by §R20§!."
 call_EDG_disobedient_vassal_into_wars_tooltip:0 "Use our favors with the target nation to call them into our wars, and increase their liberty desire."
 call_EDG_disobedient_vassal_into_wars_dialog:0 "They spend §R20§! favors to call us into all of their wars. If they only call us into defensive wars, the cost is reduced by §Y10§!. In any case, our liberty desire will increase by §R20§!."
 

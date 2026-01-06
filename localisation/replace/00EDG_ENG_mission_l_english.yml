@@ -134,7 +134,7 @@ EDG_ENG_mission_1_2_a_yes_tt:0 "£yes£If we choose to deny the Duke of Normandy
 EDG_ENG_mission_1_2_a_no_tt:0 "£no£If we choose to deny the Duke of Normandy's right of succession, then:"
 EDG_ENG_mission_1_2_b_yes_tt:0 "£yes£If we choose to establish the Duke of Normandy as the heir, then:"
 EDG_ENG_mission_1_2_b_no_tt:0 "£no£If we choose to establish the Duke of Normandy as the heir, then:"
-EDG_ENG_mission_1_2_tt_1:0 "§Y[Root.GetAdjective]§! gains permanent claims on all provinces owned by §YFrance§! and its §YNon-Tributary Subjects§!."
+EDG_ENG_mission_1_2_tt_1:0 "§Y[Root.GetName]§! gains permanent claims on all provinces owned by §YFrance§! and its §YNon-Tributary Subjects§!."
 EDG_ENG_mission_1_2_unlock_decision_1_tt:0 "Unlock §YDecision§!: §MUrgently Fortify the Calais Stronghold§!"
 EDG_ENG_mission_1_2_unlock_decision_2_tt:0 "Unlock §YDecision§!: §MDeploy the Royal Shadow Guard to Secure the Beachhead§!"
 EDG_ENG_mission_1_2_unlock_decision_3_tt:0 "Unlock §YDecision§!: §MFund the French Public Weal Alliance§!"

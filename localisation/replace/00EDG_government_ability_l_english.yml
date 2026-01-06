@@ -671,7 +671,7 @@ EDG_flavorFRA_mission.26.d:0 "Due to the highly centralist tendencies of the [Ro
 EDG_flavorFRA_mission.26.a:0 "How dare they!"
 
 EDG_flavorFRA_mission.27.t:0 "Separatism of the Provincial Faction"
-EDG_flavorFRA_mission.27.d:0 "As the Provincial Faction gained dominance within [Root.GetAdjective], the control of [Root.Monarch.GetTitle] [Root.Monarch.GetName] over the provinces gradually weakened, and many ambitious separatists have now revealed their claws."
+EDG_flavorFRA_mission.27.d:0 "As the Provincial Faction gained dominance within [Root.GetName], the control of [Root.Monarch.GetTitle] [Root.Monarch.GetName] over the provinces gradually weakened, and many ambitious separatists have now revealed their claws."
 EDG_flavorFRA_mission.27.a:0 "How dare they!"
 
 

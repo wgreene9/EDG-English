@@ -1,5 +1,5 @@
 ﻿l_english:  
-EDG_disables_estate_burghers_tooltip:0 "[Root.GetAdjective] will disable the $YBurghers$! estate."
+EDG_disables_estate_burghers_tooltip:0 "[Root.GetName] will disable the $YBurghers$! estate."
 
 EDG_estate_opinion_happy_modifier_tt:0 "Satisfied"
 EDG_estate_opinion_unhappy_modifier_tt:0 "Dissatisfied"

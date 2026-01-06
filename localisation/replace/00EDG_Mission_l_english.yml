@@ -9,7 +9,7 @@ EDG_nobles_50_loyalty_tooltip:0 "If the §YNobility§! have at least §Y50§!% �
 EDG_church_50_loyalty_tooltip:0 "If the §YClergy§! have at least §Y50§!% §YLoyalty§!, then"
 IBR_conflict_end_flag_tooltip:0 "If the §YConflict in Iberia§! is not yet ended, then"
 diplomatic_reputation_2_tooltip:0 "If §YDiplomatic Reputation§! is at least §Y2§!, then"
-EDG_AEL_mission_2_7_tooltip:0 "If the §YFrance§! region is owned by [Root.GetAdjective] or its non-tributary subjects and has converted to §YCatharism§!, then"
+EDG_AEL_mission_2_7_tooltip:0 "If the §YFrance§! region is owned by [Root.GetName] or its non-tributary subjects and has converted to §YCatharism§!, then"
 EDG_AEL_mission_3_3_tooltip:0 "If §YCapua§! has converted to §YCatharism§!, then"
 EDG_AEL_mission_4_3_tooltip:0 "If §YAvignon§! is owned by @AVI §YAvignon§!, then"
 EDG_capital_scope_foth_building_yes_tooltip:0 "If §Y$CAPITAL_CITY$§! has a §YFortification Building§!, then"
@@ -461,7 +461,7 @@ EDG_gc_cas_spa_incans_two_desc:0 "The treasures in the mountains of Peru make al
 EDG_gc_cas_spa_army_ready_title:0 "Prepare for the Reconquista"
 EDG_gc_cas_spa_army_ready_desc:0 "For too long, we have failed in our duty to protect the people of Iberia. It is time to prepare to unite them under a single banner."
 EDG_gc_cas_spa_reconquista_one_title:0 "Reconquer Andalusia"
-EDG_gc_cas_spa_reconquista_one_desc:0 "The Moors have enjoyed our tolerance for centuries. Expel them and reclaim Andalusia in the name of [Root.GetAdjective]."
+EDG_gc_cas_spa_reconquista_one_desc:0 "The Moors have enjoyed our tolerance for centuries. Expel them and reclaim Andalusia in the name of [Root.GetName]."
 EDG_gc_cas_spa_reconquista_two_title:0 "Reclaim Portugal"
 EDG_gc_cas_spa_reconquista_two_desc:0 "All Spanish states should belong to us, including our former neighbor, Portugal. Strip them of their titles and return their sovereignty to [Root.GetName]."
 EDG_gc_cas_spa_reconquista_three_title:0 "Claim Aragon"
@@ -1019,7 +1019,7 @@ gra_rival_portuguese_fleet_title:0 "Moorish Naval Development"
     
     
 EDG_adu_1_6_title_desc:0 "About nine thousand years ago, ancient Mexicans domesticated maize and spurred an agricultural revolution, leading to the formation of many civilizations. These civilizations developed cities, architecture, astronomical studies, mathematics, and armies. Famous civilizations such as the Olmec, Teotihuacan, Aztec, and Maya, the native peoples maintained dominance in the Mexican region for thousands of years. As for the future, naturally, it will be our rule."
-EDG_adu_mission_1_15_desc:0 "Córdoba, the world capital of [Root.GetAdjective], 'She is the bride of Al-Andalus, her elegance charming enough to attract all eyes. The Sultan's great army has forged for her a crown of glory, poets have gathered pearls from the ocean of language to craft her beautiful necklace, scientists have woven the brocade of knowledge as her splendid attire, master artists and skilled craftsmen have adorned her with exquisite and graceful embellishments.' Our capital, Córdoba, is Europe's premier and most virtuous capital, indisputably.\n\nBut in the traditional European view, there is another radiant city in Eastern Europe that can rival our Córdoba—Constantinople in Thrace."
+EDG_adu_mission_1_15_desc:0 "Córdoba, the world capital of [Root.GetName], 'She is the bride of Al-Andalus, her elegance charming enough to attract all eyes. The Sultan's great army has forged for her a crown of glory, poets have gathered pearls from the ocean of language to craft her beautiful necklace, scientists have woven the brocade of knowledge as her splendid attire, master artists and skilled craftsmen have adorned her with exquisite and graceful embellishments.' Our capital, Córdoba, is Europe's premier and most virtuous capital, indisputably.\n\nBut in the traditional European view, there is another radiant city in Eastern Europe that can rival our Córdoba—Constantinople in Thrace."
 EDG_adu_mission_1_17_desc:0 "In 1071, the Seljuks achieved a stunning victory against the Byzantine army at Manzikert in present-day Turkey, turning most of Anatolia into Turkish-occupied territory. Around the same time, they successfully seized Jerusalem from the Muslim rulers of Egypt. These two major events shocked the Byzantines, the Papacy, and Europeans, ultimately triggering the Crusades that lasted for over two hundred years.\n\nAlthough the Seljuk Turks eventually regained control of Palestine, their strength was depleted by continuous warfare against the Crusades. Moreover, they were threatened by the activities of their opponents. Internally, Sufi mysticism became highly prevalent, ushering Islam into a period of introspection. It was during this era of exhaustion and weakness that they abruptly collapsed under the Mongol invasions. Baghdad fell to the invaders in 1258, and the Turkmen empire disappeared.\n\nIn the early 14th century, Muslim peoples from Anatolia united under the rule of Sultan Osman I, proudly calling themselves 'Turks' or 'Ottomans' in the name of honor. The Turks launched holy wars to crush the Byzantine Empire, waging campaigns in the Balkan Peninsula and Greece surrounding Constantinople. Since then, the Turks have played an extremely important role in West Asia, renowned for their martial prowess, once campaigning north and south to establish a powerful empire. But now, the Turkish Sultans and pseudo-caliphs have bowed before our military might, offering water and earth in tribute, paying homage to Córdoba. We have become their Caliph."
 
     
@@ -1140,7 +1140,7 @@ EDG_ARL_special_Mission_3_7_tt:0 "Gain cores on all provinces with §YAzerbaijan
 EDG_ARL_special_Mission_3_9_tt_1:0 "Gain cores on all provinces in the §YPersia§! region"
 EDG_ARL_special_Mission_3_9_tt_2:0 "All provinces following the state religion will gain the following bonus"
 EDG_ARL_special_Mission_4_7_tt:0 "Gain cores on all provinces of §YPersian§! or §YAzerbaijani§! culture that follow the §YShia§! faith"
-EDG_flavorARL_7_tt:0 "For every province on the map with §YPersian§! or §YAzerbaijani§! culture following the §YShia§! faith, §Y[Root.GetAdjective]§! gains §Y25§! ducats and §Y1000§! manpower"
+EDG_flavorARL_7_tt:0 "For every province on the map with §YPersian§! or §YAzerbaijani§! culture following the §YShia§! faith, §Y[Root.GetName]§! gains §Y25§! ducats and §Y1000§! manpower"
 allow_country_cb_EDG_WG_superiority_PER_unification_flag_tt:0 "We will be allowed to use the §YPersian Unification War§! casus belli"
 
 EDG_EDG_flavorARL_1_flag:0 "Rise of Ismail"
@@ -1394,8 +1394,8 @@ EDG_TTS_mission_5_9_tt_no:0 "£no£If we have the strongest trade power in the �
 EDG_TTS_2_mission_2_13_tt_yes:0 "£yes£If we have any advisor belonging to the §YFrench§! culture group, then"
 EDG_TTS_2_mission_2_13_tt_no:0 "£no£If we have any advisor belonging to the §YFrench§! culture group, then"
 
-EDG_TTS_2_mission_4_11_tt_yes:0 "£yes£If there are §Y20§! provinces in the §YBalkans§! region owned by [Root.GetAdjective] or [Root.GetAdjective]'s non-tributary subjects, then"
-EDG_TTS_2_mission_4_11_tt_no:0 "£no£If there are §Y20§! provinces in the §YBalkans§! region owned by [Root.GetAdjective] or [Root.GetAdjective]'s non-tributary subjects, then"
+EDG_TTS_2_mission_4_11_tt_yes:0 "£yes£If there are §Y20§! provinces in the §YBalkans§! region owned by [Root.GetName] or [Root.GetName]'s non-tributary subjects, then"
+EDG_TTS_2_mission_4_11_tt_no:0 "£no£If there are §Y20§! provinces in the §YBalkans§! region owned by [Root.GetName] or [Root.GetName]'s non-tributary subjects, then"
 
 EDG_TTS_mission_2_6_tt_yes:0 "£yes£If, when completing the mission, our Stability is §Y3§! and the Nobility's loyalty is §Y50§!, then"
 EDG_TTS_mission_2_6_tt_no:0 "£no£If, when completing the mission, our Stability is §Y3§! and the Nobility's loyalty is §Y50§!, then"
@@ -1409,7 +1409,7 @@ EDG_TTS_2_mission_3_16_effect_tt:0 "If they agree to our request, we will be abl
 
 EDG_TTS_raising_mission_modifier_tt_yes:0 "£yes£If we still have the national modifier §YNew Roman Era§!, then"
 EDG_TTS_raising_mission_modifier_tt_no:0 "£no£If we still have the national modifier §YNew Roman Era§!, then"
-EDG_add_or_extend_TTS_raising_mission_modifier_25_years_effect_tt:0 "The duration of the national modifier §YNew Roman Era§! for §Y[Root.GetAdjective]§! will be reset to §Y50 years§!."
+EDG_add_or_extend_TTS_raising_mission_modifier_25_years_effect_tt:0 "The duration of the national modifier §YNew Roman Era§! for §Y[Root.GetName]§! will be reset to §Y50 years§!."
 
 EDG_TTS_2_mission_3_17_tt_yes:0 "£yes£If @HAB §YAustria§! does not exist or the Emperor's opinion of us is below §Y100§!, then"
 EDG_TTS_2_mission_3_17_tt_no:0 "£no£If @HAB §YAustria§! does not exist or the Emperor's opinion of us is below §Y100§!, then"
@@ -1503,7 +1503,7 @@ NYGX_LER_7a:0 "We shall surpass Vseslav!"
 NYGX_LER_7b:0 "He is merely a Rus', unworthy of our veneration."
 
 NYGX_LER_8_t:0 "Commonwealth by Divine Mandate"
-NYGX_LER_8_d:0 "Since the Hussite Polish nobles of Sandomierz founded [Root.GetAdjective], the strength of [Root.GetAdjective] has grown, having successively conquered territories such as Prussia and Moldavia, as well as the resilient Grand Duchy of Lithuania. The Lithuanians are tough and resolute. Although conquered, they still preserve their own culture and traditions, even relying on their own resources and political power to secure a place within the system of [Root.GetAdjective].\n\nAfter the political situation stabilized, a Polish nobleman proposed a bold motion. At a private gathering, he suggested to guests from Lithuania whether the two states could form a commonwealth to enhance cooperation and interaction between them.\n\nThe attending nobles were all shocked upon hearing this proposal; silence, rather than uproar, persisted the longest in the hall. Finally, a young Lithuanian noble expressed his opinion. He believed this proposal was very meaningful, as it could promote economic and cultural exchange between the two countries while also strengthening their ability to resist surrounding powers. He believed that if a Sacred Polish-Lithuanian Commonwealth could be established, the federal system would help enhance the strength and status of both nations, enabling them to face challenges together in the future years and welcome a brighter future.\n\nHowever, some held different views, believing that historical issues and geopolitical contradictions between the two countries made genuine cooperation difficult. Nevertheless, many considered the proposal worth trying, especially since both Poland and Lithuania were in unstable periods requiring more support and joint action."
+NYGX_LER_8_d:0 "Since the Hussite Polish nobles of Sandomierz founded [Root.GetName], the strength of [Root.GetName] has grown, having successively conquered territories such as Prussia and Moldavia, as well as the resilient Grand Duchy of Lithuania. The Lithuanians are tough and resolute. Although conquered, they still preserve their own culture and traditions, even relying on their own resources and political power to secure a place within the system of [Root.GetName].\n\nAfter the political situation stabilized, a Polish nobleman proposed a bold motion. At a private gathering, he suggested to guests from Lithuania whether the two states could form a commonwealth to enhance cooperation and interaction between them.\n\nThe attending nobles were all shocked upon hearing this proposal; silence, rather than uproar, persisted the longest in the hall. Finally, a young Lithuanian noble expressed his opinion. He believed this proposal was very meaningful, as it could promote economic and cultural exchange between the two countries while also strengthening their ability to resist surrounding powers. He believed that if a Sacred Polish-Lithuanian Commonwealth could be established, the federal system would help enhance the strength and status of both nations, enabling them to face challenges together in the future years and welcome a brighter future.\n\nHowever, some held different views, believing that historical issues and geopolitical contradictions between the two countries made genuine cooperation difficult. Nevertheless, many considered the proposal worth trying, especially since both Poland and Lithuania were in unstable periods requiring more support and joint action."
 NYGX_LER_8a:0 "Establish the Sacred Polish-Lithuanian Commonwealth!"
 NYGX_LER_8b:0 "A bit exaggerated."
 
@@ -1846,8 +1846,8 @@ EDG_flavorMRK_6_global_flag:0 "Moors Fleeing South"
 has_EDG_MRK_civil_war_2_event_success_flag:0 "Victor of the Seven Mahdis' War"
 
 #Ruthenia
-EDG_UKR_mission_5_7_tt_yes:0 "£yes£If, at the time of mission completion, the entire §YBaltic Sea§! coastline is owned by §Y[Root.GetAdjective]§! or its §Ysubjects§!, then"
-EDG_UKR_mission_5_7_tt_no:0 "£no£If, at the time of mission completion, the entire §YBaltic Sea§! coastline is owned by §Y[Root.GetAdjective]§! or its §Ysubjects§!, then"
+EDG_UKR_mission_5_7_tt_yes:0 "£yes£If, at the time of mission completion, the entire §YBaltic Sea§! coastline is owned by §Y[Root.GetName]§! or its §Ysubjects§!, then"
+EDG_UKR_mission_5_7_tt_no:0 "£no£If, at the time of mission completion, the entire §YBaltic Sea§! coastline is owned by §Y[Root.GetName]§! or its §Ysubjects§!, then"
 
 EDG_UKR_mission_5_8_tt_yes:0 "£yes£If we own §M10§! provinces of §YSwedish§! culture, then"
 EDG_UKR_mission_5_8_tt_no:0 "£no£If we own §M10§! provinces of §YSwedish§! culture, then"
@@ -2729,7 +2729,7 @@ EDG_flavorBRA_mission.7.b:0 "We have other options."
 
 #General
 EDG_give_all_the_province_the_modifier_tt:0 "All §Yeligible§! provinces will receive the following modifier:"
-EDG_lost_all_core_effect_tt:0 "[Root.GetAdjective] will lose all §Ycores§! in foreign nations."
+EDG_lost_all_core_effect_tt:0 "[Root.GetName] will lose all §Ycores§! in foreign nations."
 EDG_give_all_manufactories_province_the_modifier_tt:0 "All provinces with §Yany manufactory§! will receive the following modifier:"
 EDG_give_all_university_province_the_modifier_tt:0 "All provinces with a §YUniversity§! will receive the following modifier:"
 

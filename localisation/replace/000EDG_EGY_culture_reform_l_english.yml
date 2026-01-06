@@ -2,7 +2,7 @@
 EDG_EGY_reform_NOM_influence_tooltip:0 "Influence of §YGreeks§! will increase"
 EDG_EGY_reform_COP_influence_tooltip:0 "Influence of §YCopts§! will increase"
 EDG_EGY_REFORM_BEGIN_flag:0 "§YPolitical Reforms in Egypt§!"
-EDG_flavorMAM_1.tooltip:0 "§YPolitical Reforms in Egypt§! are initiated. §Y[Root.GetAdjective]§! will unlock decisions and events to introduce other factions into the government."
+EDG_flavorMAM_1.tooltip:0 "§YPolitical Reforms in Egypt§! are initiated. §Y[Root.GetName]§! will unlock decisions and events to introduce other factions into the government."
 
 EDG_EGY_reform_NOM_trigger_tooltip:0 "Influence of §YGreeks§! has increased 3 times"
 EDG_EGY_reform_COP_trigger_tooltip:0 "Influence of §YCopts§! has increased 3 times"
@@ -55,7 +55,7 @@ EDG_flavorEGY_reform.5.t:0 "Debate"
 EDG_flavorEGY_reform.5.d:0 "As Greeks and Copts gain increasing political influence, conflicts between them have inevitably arisen. One morning, while the [Root.Monarch.GetTitle] was inspecting the city, they witnessed a Greek officer and a Coptic bishop arguing over which people was superior. Their heated exchange drew a crowd of onlookers, and the dispute showed no sign of abating until they noticed the arrival of the [Root.Monarch.GetTitle]. They humbly bowed and begged [Root.Monarch.GetName] for forgiveness. The [Root.Monarch.GetTitle] [Root.Monarch.GetName] clearly also wished to offer some perspective on the matter."
 EDG_flavorEGY_reform.5.a:0 "The Greeks are naturally superior."
 EDG_flavorEGY_reform.5.b:0 "The [Root.Monarch.GetTitle] favors the Copts more."
-EDG_flavorEGY_reform.5.c:0 "You are both merely servants of the [Root.GetAdjective]!"
+EDG_flavorEGY_reform.5.c:0 "You are both merely servants of the [Root.GetName]!"
 
 EDG_flavorEGY_reform.6.t:0 "Illustrated Books and Hymns"
 EDG_flavorEGY_reform.6.d:0 "Master Zayd from the Hejaz is not a fervent Muslim. He appreciates Greek rhetoric and is well-versed in Persian poetry. More importantly, he is an exceptional artist, skilled in creating exquisite illustrated books and composing elegant, polished verses with refined rhetoric. Recently, some [Root.GetAdjective] officers brought Master Zayd to the court of the [Root.Monarch.GetTitle], recommending him to create works for the ruler. Master Zayd proposed that he is willing to serve any group, even the Orthodox Greeks, as long as the [Root.Monarch.GetTitle] tells him where his talents should be directed."

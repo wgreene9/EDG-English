@@ -1,0 +1,75 @@
+spriteTypes = {
+	spriteType = {
+        name = "GFX_great_project_EDG_LMU_Munchen"
+        texturefile = "gfx/interface/great_projects/EDG_LMU_Munchen.dds"
+    }
+	spriteType = {
+		name = "GFX_EDG_BAV_beer_factory"
+		texturefile = "gfx//interface//buildings//manufactory_plantations.tga"
+		loadType = "INGAME"
+	}
+	spriteType = {
+		name = "EDG_BAV_GUI_build_beer_factory_button"
+		texturefile = "gfx/interface/EDG_GUI/EDG_BAV_GUI_build_beer_factory_button.dds"
+	}
+	spriteType = {
+		name = "EDG_BAV_GUI_change_goods_to_grain_button"
+		texturefile = "gfx/interface/EDG_GUI/EDG_BAV_GUI_change_goods_to_grain_button.dds"
+	}
+	spriteType = {
+		name = "EDG_BAV_government_power_bg"
+		texturefile = "gfx/interface/government_mechanics/EDG_BAV_government_power_bg.dds"
+		loadType = "INGAME"
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "EDG_BAV_government_power_interaction_1"
+		texturefile = "gfx/interface/government_mechanics/EDG_BAV_government_power_interaction_1.dds"
+	}
+	spriteType = {
+		name = "EDG_BAV_government_power_interaction_2"
+		texturefile = "gfx/interface/government_mechanics/EDG_BAV_government_power_interaction_2.dds"
+	}
+	spriteType = {
+		name = "EDG_BAV_government_power_interaction_3"
+		texturefile = "gfx/interface/government_mechanics/EDG_BAV_government_power_interaction_3.dds"
+	}
+	spriteType = {
+		name = "GFX_disaster_EDG_BAV_religion_disaster"
+		texturefile = "gfx/interface/disasters/EDG_DXG_religion_disaster.dds"
+		noOfFrames = 3
+		loadType = "INGAME"
+	}
+    spriteType = {
+		name = "GFX_disaster_EDG_BAV_subject_disaster"
+		texturefile = "gfx/interface/disasters/EDG_DXG_subject_disaster.dds"
+		noOfFrames = 3
+		loadType = "INGAME"
+	}
+	spriteType = {
+		name = "GFX_disaster_EDG_BAV_dynasty_disaster"
+		texturefile = "gfx/interface/disasters/pol_struggle_for_royal_power_disaster.dds"
+		noOfFrames = 3
+		loadType = "INGAME"
+	}
+	spriteType = {
+		name = "GFX_icon_EDG_BAV_Wittelsbach_Territories"
+		texturefile = "gfx/interface/subject_types/EDG_BAV_Wittelsbach_Territories.dds"
+	}
+	spriteType = {
+		name = "GFX_icon_EDG_BAV_Wittelsbach_Territories_lead"
+		texturefile = "gfx/interface/subject_types/EDG_BAV_Wittelsbach_Territories_lead.dds"
+	}
+	spriteType = {
+		name = "GFX_icon_EDG_BAV_Wittelsbach_Territories_am"
+		texturefile = "gfx/interface/subject_types/EDG_BAV_Wittelsbach_Territories_am.dds"
+	}
+	spriteType = {
+		name = "government_reform_BAV_1"
+		texturefile = "gfx/interface/government_reform_icons/BAV_1.dds"
+	}
+	spriteType = {
+		name = "EDG_BAV_GUI_religious_congress_bg"
+		texturefile = "gfx/interface/EDG_BAV_GUI_religious_congress_bg.dds"
+	}
+}
