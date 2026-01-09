@@ -125,7 +125,7 @@ EDG_AVE_mission_3_28_title:0 "Extending Our Influence"
 EDG_AVE_mission_3_28_desc:0 "The rule of the Capetian dynasty was not without value; their failures provide more lessons for the Plantagenet dynasty. We should occupy the richest territories, bolster population and treasury, develop production and commerce; moreover, we must expand our branches abroad, win over old vassals, and plant our lineage in newly absorbed states; most importantly, we must build an unmatched army, for only the long sword can defend the empire's glory."
 
 EDG_AVE_mission_3_30_title:0 "The Vision of a Great Union" # The Vision of a Great Community
-EDG_AVE_mission_3_30_desc:0 "Our territory has surpassed the borders of the Western Roman Empire; our vassals are spread across the world. The Plantagenet dynasty is no longer confined to a single imperial title. Since the successors of previous kings know only clinging to remnants, let us establish a new polity—the European Community, a union of nations under the absolute control of the House of Plantagenet. Now, raise your glasses, cheer, celebrate the birth of the European Community. We shall forever enjoy the golden age of the Plantagenets, until the end of time!"
+EDG_AVE_mission_3_30_desc:0 "Our territory has surpassed the borders of the Western Roman Empire; our vassals are spread across the world. The Plantagenet dynasty is no longer confined to a single imperial title. Since the successors of previous kings know only clinging to remnants, let us establish a new polity—Europa, a union of nations under the absolute control of the House of Plantagenet. Now, raise your glasses, cheer, celebrate the birth of Europa. We shall forever enjoy the golden age of the Plantagenets, until the end of time!" # the European Community
 
 EDG_AVE_mission_3_31_title:0 "Master of the Western Sea" # Master of the Western Mediterranean
 EDG_AVE_mission_3_31_desc:0 "As the Plantagenet dynasty's influence expands across Iberia, France, Italy, and North Africa, we have become the undisputed master of the Western Mediterranean. Ports bustle with merchant ships; thousands of vessels guard the seas. The trade and navy of the Plantagenet dynasty shall be unmatched in the world!"
@@ -349,9 +349,9 @@ EDG_AVE_mission_3_26_tt_2:0 "If we still possess the §Gtimed modifier§! '§YCr
 EDG_AVE_mission_3_28_tt_1:0 "For each §MEnglish Personal Union§! we have, it will provide us with the following effects:"
 EDG_AVE_mission_3_28_event_preview:0 "§MEvent Preview§!:\nThis event allows the selection of a §YParagon of the House of Plantagenet§! to convert into a §Gpermanent modifier§!. This event triggers once every ten years."
 
-EDG_AVE_European_Community_name:0 "European Community"
-EDG_AVE_European_Community_name_ADJ:0 "European Community"
-EDG_AVE_mission_3_30_tt_1:0 "Regardless of whether we have ever entered or are currently in a §YGolden Age§!, from now on, we shall §Galways enjoy§! all the modifiers brought by a §YGolden Age§! until the end of the world. Rejoice! This is the Golden Age of the European Community!"
+EDG_AVE_European_Community_name:0 "Europa" # European Community
+EDG_AVE_European_Community_name_ADJ:0 "European" # European Community
+EDG_AVE_mission_3_30_tt_1:0 "Regardless of whether we have ever entered or are currently in a §YGolden Age§!, from now on, we shall §Galways enjoy§! all the modifiers brought by a §YGolden Age§! until the end of the world. Rejoice! This is the Golden Age of Europa!" # the European Community
 
 EDG_AVE_mission_4_24_tt_2:0 "The §YGuyenne§! and §YGascogne§! regions will each gain the following province modifier:"
 EDG_AVE_mission_4_24_event_preview:0 "§MEvent Preview§!:\nThis event allows the selection of a §YPlantagenet Paragon§! of a past Plantagenet king or sage to convert into a §Gpermanent modifier§!. This event triggers once every ten years."

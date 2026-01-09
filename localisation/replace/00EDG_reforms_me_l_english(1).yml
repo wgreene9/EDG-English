@@ -160,7 +160,7 @@ EDG_Catharism_Court_desc:0 "The doctrines of Catharism were steered by the Duke 
 EDG_Russian_Empire_government:0 "Russian Empire"
 EDG_Russian_Empire_government_desc:0 "From the moment of its founding, our state was destined to rule over all Rus' people. We shall gather all East Slavs under our banner and implement absolute authoritarianism to achieve this."
 
-EDG_CAT_oligarchy_reform:0 "Democratic Republican United Provinces"
+EDG_CAT_oligarchy_reform:0 "Democratic United Provinces" # Republican
 EDG_CAT_oligarchy_reform_desc:0 "The light of truth has illuminated our land. In accordance with the egalitarian principles of our faith, our state is divided into several equal provinces. Each province has the power to elect its own governor, and the national leader is elected from among these local governors."
 
 EDG_kingdom_of_castille_and_leon:0 "Crown of León-Castile"

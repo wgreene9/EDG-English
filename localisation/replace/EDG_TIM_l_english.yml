@@ -1143,19 +1143,20 @@ EDG_TIM_rename_to_hui_title:0 "Adopt §YGreat Hui§! as the Country Name"
 EDG_TIM_rename_to_hui_desc:0 ""
 EDG_TIM_rename_to_mu_title:0 "Adopt §YGreat Mu§! as the Country Name"
 EDG_TIM_rename_to_mu_desc:0 ""
-EDG_TIM_bribe_badaxsan_title:0 "Shah Rukh's Succession Crisis: Bribe @BDX the Mir of Badakhshan"
+# Shah Rukh's Succession Crisis
+EDG_TIM_bribe_badaxsan_title:0 "Succession Crisis: Bribe the Mir of @BDX Badakhshan"
 EDG_TIM_bribe_badaxsan_desc:0 ""
-EDG_TIM_bribe_khiva_title:0 "Shah Rukh's Succession Crisis: Win Over @KHI Babur"
+EDG_TIM_bribe_khiva_title:0 "Succession Crisis: Win Over @KHI Babur"
 EDG_TIM_bribe_khiva_desc:0 ""
-EDG_TIM_promise_loyalty_title:0 "Shah Rukh's Succession Crisis: Promise Rewards to Ulugh Beg's Loyalists"
+EDG_TIM_promise_loyalty_title:0 "Succession Crisis: Promise Rewards to Loyalists" # Promise Rewards to Ulugh Beg's Loyalists
 EDG_TIM_promise_loyalty_desc:0 ""
 EDG_TIM_promise_loyalty_tooltip:0 "§YLoyalists will demand fulfillment of promises after the succession crisis ends.§!"
-EDG_TIM_purge_opposition_title:0 "Shah Rukh's Succession Crisis: Purge Ala al-Dawla's Faction"
+EDG_TIM_purge_opposition_title:0 "Succession Crisis: Purge Ala al-Dawla's Faction"
 EDG_TIM_purge_opposition_desc:0 ""
-EDG_TIM_send_envoy_to_golden_horde_title:0 "Shah Rukh's Succession Crisis: Send Envoy to @GOL the Ulus of Jochi"
+EDG_TIM_send_envoy_to_golden_horde_title:0 "Succession Crisis: Envoy to the @GOL Ulus of Jochi"
 EDG_TIM_send_envoy_to_golden_horde_desc:0 ""
 EDG_TIM_send_envoy_tooltip:0 "§YMaintain §Ghigh relations§! with the target nation to improve the chance of their agreement.§!"
-EDG_TIM_send_envoy_to_chagatai_title:0 "Shah Rukh's Succession Crisis: Send Envoy to @CHG the Eastern Chagatai Ulus"
+EDG_TIM_send_envoy_to_chagatai_title:0 "Succession Crisis: Envoy to @CHG Chagatai Ulus"
 EDG_TIM_send_envoy_to_chagatai_desc:0 ""
 EDG_TIM_missionary_by_sword_title:0 "Missionary by the Sword"
 EDG_TIM_missionary_by_sword_desc:0 ""
@@ -1725,8 +1726,8 @@ EDG_TIM_skull_vessel_of_abs_no_tt:0 "£no£@ABS§gSkull of the False Caliph§!"
 EDG_TIM_make_caliph_skull_vessel_tt:0 "Behead the §YFalse Caliph§! and fashion the skull into a §Rskull vessel§!."
 EDG_TIM_skull_vessel_of_byz_yes_tt:0 "£yes£@BYZ§GSkull of the Roman Emperor§!" # Rûmi
 EDG_TIM_skull_vessel_of_byz_no_tt:0 "£no£@BYZ§gSkull of the Roman Emperor§!" # Rûmi
-EDG_TIM_skull_vessel_of_bul_yes_tt:0 "£yes£@BU1§GSkull of the Bulgarian Tsar§!" # Rûmi Emperor
-EDG_TIM_skull_vessel_of_bul_no_tt:0 "£no£@BU1§gSkull of the Bulgarian Tsar§!" # Rûmi Emperor
+EDG_TIM_skull_vessel_of_bul_yes_tt:0 "£yes£@BU1§GSkull of the Roman Tsar§!" # Rûmi Emperor
+EDG_TIM_skull_vessel_of_bul_no_tt:0 "£no£@BU1§gSkull of the Roman Tsar§!" # Rûmi Emperor
 EDG_TIM_skull_vessel_of_tur_yes_tt:0 "£yes£@TUR§GSkull of the Rûmi Padishah§!" # Rûmi Emperor
 EDG_TIM_skull_vessel_of_tur_no_tt:0 "£no£@TUR§gSkull of the Rûmi Padishah§!" # Rûmi Emperor
 EDG_TIM_make_rum_skull_vessel_tt:0 "Behead the §YRûmi Emperor§! and fashion the skull into a §Rskull vessel§!."

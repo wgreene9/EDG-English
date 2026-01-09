@@ -8,7 +8,7 @@ EDG_flavorDEBUG_MODE_2_a_tt:0 "The 'Entrance to the Desolate Ground' development
 EDG_flavorDEBUG_MODE.2.b:0 "I disagree."
 EDG_flavorDEBUG_MODE_2_b_tt:0 "Understood."
 
-EDG_DEBUG_decision_remove_tags_title:0 "Thanos Snap" # Neutron Sweep
+EDG_DEBUG_decision_remove_tags_title:0 "Decolonize to Increase Game Performance" # Neutron Sweep/Thanos Snap
 EDG_DEBUG_decision_remove_tags_desc:0 "At the community's request, we present this decision to Thanos snap the entire Old World. If you believe certain regions are causing game lag, you may choose to decolonize them.\n\nNote: This decision is provided solely to fulfill community demands. You assume full responsibility for any consequences of Thanos snapping—the development team is not liable for your actions."
 
 EDG_flavorDEBUG_MODE.8.t:0 "Thanos Snap" # # Neutron Sweep

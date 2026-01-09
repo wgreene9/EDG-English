@@ -17,8 +17,8 @@ EDG_game_rule_1_2_common_title:0 "Disabled"
 EDG_game_rule_1_2_common_desc:0 "§YAI§! will not receive buffs, but §YConquistadors§! granted by events remain active."
 EDG_game_rule_1_2_great_title:0 "§YGreat Conqueror§!"
 EDG_game_rule_1_2_great_desc:0 "§YAI§! rulers can obtain the §YGreat Conqueror§! trait and receive §Gsignificant bonuses§!."
-EDG_game_rule_1_2_epic_title:0 "§OEpic Conqueror§!"
-EDG_game_rule_1_2_epic_desc:0 "§YAI§! rulers can obtain the §OEpic Conqueror§! trait and receive §Tmassive bonuses§!."
+EDG_game_rule_1_2_epic_title:0 "§OMythical Conqueror§!" # Epic Conqueror
+EDG_game_rule_1_2_epic_desc:0 "§YAI§! rulers can obtain the §OMythical Conqueror§! trait and receive §Tmassive bonuses§!." # Epic Conqueror
 EDG_game_rule_1_2_right.tt:0 "Increase Difficulty"
 EDG_game_rule_1_2_left.tt:0 "Decrease Difficulty"
 

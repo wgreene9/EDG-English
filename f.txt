@@ -454,6 +454,7 @@
 			# 	which = EDG_DMR_money_value
 			# 	value = 1
 			# }
+			# swap_non_generic_missions = yes
 
 set_country_flag = EDG_BAV_GUI_religious_congress_Catholic_button_flag
 			change_tag = BAV
