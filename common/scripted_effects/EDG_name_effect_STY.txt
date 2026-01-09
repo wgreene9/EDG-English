@@ -2,7 +2,7 @@
 EDG_flavor_H02_mission_1_a_effect = {
 	define_heir = {
 		name = "Heinrich"
-		dynasty = "von ZÃ¤hringen"
+		dynasty = "von Zähringen"
 		claim = 95
 		adm = 3
 		dip = 3

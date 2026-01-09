@@ -107,8 +107,8 @@ mission_TABEDGmission.6.B.ct:0 "Ultimatum from Mazandaran"
 mission_TABEDGmission.6.B.txt:0 "With the resurgence of Mazandaran, as stated in their message, we can only choose between voluntary submission or forced subjugation. What should we do?"
 mission_EDGTABmission.6.B.yes:0 "We should not let blood soak this land - let us submit"
 mission_EDGTABmission.6.B.no:0 "Submission is possible, but this land will only bow to those capable of conquering us"
-mission_EDGTABmission.398.PER:0 "Without a doubt, we have completely become Muslims, whether we are willing or not, whether the people are willing or not"
-mission_EDGTABmission.398.ERS:0 "Prepare to reclaim our faith and embrace the teachings of Zoroaster; but before that, we need to clean up some garbage"
+mission_EDGTABmission.398.PER:0 "Without a doubt, we have completely become Muslims, whether we are willing or not" # , whether the people are willing or not
+mission_EDGTABmission.398.ERS:0 "Prepare to reclaim the teachings of Zoroaster; but first, we need to clean up some garbage" # Prepare to reclaim our faith and embrace the teachings of Zoroaster; but before that, we need to clean up some garbage
 
 maybe_perform_sacrifice_be_found:0 "Our community activities may be discovered"
 estate_church_suspicion:0 "Suspicion of the Ulema"

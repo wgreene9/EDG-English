@@ -130,13 +130,13 @@ EDG_FYM_disaster_mission_4_4_tt:0 "All provinces in our realm producing §YSlave
 EDG_FYM_disaster_mission_4_4_flag_tt:0 "The disaster event §RPiety Brings Calamity§! for the §YMalik War§! will no longer occur."
 EDG_FYM_disaster_mission_5_2_flag_tt:0 "The disaster event §RFourteen Sheikhs§! for the §YMalik War§! will no longer occur."
 
-EDG_FYM_disaster_mission_1_4_a_tt_yes:0 "£yes£If the loyalty of the §YUlama§! is at least §G40§! and the loyalty of the §YEmirs§! is below §G40§!, then"
-EDG_FYM_disaster_mission_1_4_b_tt_yes:0 "£yes£If the loyalty of the §YEmirs§! is at least §G40§! and the loyalty of the §YUlama§! is below §G40§!, then"
-EDG_FYM_disaster_mission_1_4_c_tt_yes:0 "£yes£If the loyalty of both the §YEmirs§! and the §YUlama§! is at least §G40§!, then"
+EDG_FYM_disaster_mission_1_4_a_tt_yes:0 "£yes£If the loyalty of the §YUlema§! is at least §G40§! and the loyalty of the §YEmirs§! is below §G40§!, then"
+EDG_FYM_disaster_mission_1_4_b_tt_yes:0 "£yes£If the loyalty of the §YEmirs§! is at least §G40§! and the loyalty of the §YUlema§! is below §G40§!, then"
+EDG_FYM_disaster_mission_1_4_c_tt_yes:0 "£yes£If the loyalty of both the §YEmirs§! and the §YUlema§! is at least §G40§!, then"
 
-EDG_FYM_disaster_mission_1_4_a_tt_no:0 "£no£If the loyalty of the §YUlama§! is at least §G40§! and the loyalty of the §YEmirs§! is below §G40§!, then"
-EDG_FYM_disaster_mission_1_4_b_tt_no:0 "£no£If the loyalty of the §YEmirs§! is at least §G40§! and the loyalty of the §YUlama§! is below §G40§!, then"
-EDG_FYM_disaster_mission_1_4_c_tt_no:0 "£no£If the loyalty of both the §YEmirs§! and the §YUlama§! is at least §G40§!, then"
+EDG_FYM_disaster_mission_1_4_a_tt_no:0 "£no£If the loyalty of the §YUlema§! is at least §G40§! and the loyalty of the §YEmirs§! is below §G40§!, then"
+EDG_FYM_disaster_mission_1_4_b_tt_no:0 "£no£If the loyalty of the §YEmirs§! is at least §G40§! and the loyalty of the §YUlema§! is below §G40§!, then"
+EDG_FYM_disaster_mission_1_4_c_tt_no:0 "£no£If the loyalty of both the §YEmirs§! and the §YUlema§! is at least §G40§!, then"
 
 EDG_FYM_disaster_mission_2_3_flag_tt:0 "We will clear the §Tprovince modifier§!: §YDuplicitous Officials§! from all provinces in our realm, and the §Trelated events§! will §Yno longer occur§!."
 EDG_FYM_disaster_mission_4_3_flag_tt:0 "We will remove the §Tnational modifier§!: §YExempt Subjects from This Year's Tribute§!, and the §TIsolationism in Syria§! event will §Yno longer occur§!."
@@ -604,8 +604,8 @@ EDG_Mission_TUR_conquest_2_mission_1_2_b_tt_no:0 "£no£If there are no province
 
 EDG_Mission_TUR_conquest_2_mission_1_9_tt:0 "All countries with their capital in §YIberia§! will have §M50§! points each of §Yadministrative§!, §Ydiplomatic§!, and §Ymilitary power§! looted by us and gain the following modifier:"
 
-EDG_Mission_TUR_conquest_2_mission_2_3_flag_tt:0 "The Ulama estate privilege §YAllah Authorizes the Padishah§! will additionally grant §M0.5§! §Yyearly prestige§! and §M1§! §Ydiplomatic reputation§!."
-EDG_Mission_TUR_conquest_2_mission_2_3_tt:0 "All provinces under the rule of us or our subjects located in the §YPersian§! subcontinent that follow the §YShia§! faith will increase our §GUlama loyalty§! by §M1%§! and gain the following modifier:"
+EDG_Mission_TUR_conquest_2_mission_2_3_flag_tt:0 "The Ulema estate privilege §YAllah Authorizes the Padishah§! will additionally grant §M0.5§! §Yyearly prestige§! and §M1§! §Ydiplomatic reputation§!."
+EDG_Mission_TUR_conquest_2_mission_2_3_tt:0 "All provinces under the rule of us or our subjects located in the §YPersian§! subcontinent that follow the §YShia§! faith will increase our §GUlema loyalty§! by §M1%§! and gain the following modifier:"
 
 EDG_Mission_TUR_conquest_2_mission_2_5_tt:0 "All provinces under the rule of us or our subjects belonging to the §YAltai§! culture group will provide us with §M5§! points of £mil£ military power."
 
