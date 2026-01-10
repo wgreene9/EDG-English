@@ -32,8 +32,8 @@ desc_EDG_catharism_aspect_6:0 "Catharism holds a dualistic faith, tracing its or
 EDG_catharism_aspect_7:0 "Preach Commandments"
 desc_EDG_catharism_aspect_7:0 "Catharism advocates non-violence, regards sexuality and reproduction as evil, and promotes asceticism. Their followers are divided into two categories: the 'Perfecti' and ordinary believers. The 'Perfecti' must strictly observe regulations such as fasting, abstinence, refraining from lying, and avoiding oaths. Ordinary believers are not required to adhere to ascetic rules; they only need to receive spiritual baptism, live ordinary lives, and are not obligated to follow strict religious codes. However, they must fully respect the 'Perfecti' and completely obey their commands. The 'Perfecti' are considered true believers who, after prolonged trials, receive baptism—a ritual involving the laying on of hands to impart the Holy Spirit. After receiving baptism, they must embrace poverty and chastity, live communally, and practice asceticism. Besides conducting worship services and preaching, the 'Perfecti' also engage in charitable relief and educational work, such as establishing schools. If a 'Perfectus' later fails to maintain the standards of a spiritually baptized individual, they must undergo re-baptism by the Holy Spirit, which involves voluntary termination through starvation or suffocation, leading to a forced death."
 
-EDG_catharism_aspect_1_tt:0 "Seize §Y3%§! §YLand§! from §YClergy§!. §YNational Tax Modifier +10%§! and §YMonthly Autonomy -0.05%§! for §Y15 years§!."
-EDG_catharism_aspect_2_tt:0 "Gain §Y50 £adm£§!. §YIdea Cost -10%§! and §YMissionary Strength +1§! for §Y15 years§!."
+EDG_catharism_aspect_1_tt:0 "Seize §Y3%§! §YLand§! from §YClergy§!. §YNational Tax Modifier +10%§! and §YMonthly Autonomy -0.05§! for §Y15 years§!."
+EDG_catharism_aspect_2_tt:0 "Gain §Y50 £adm£§!. §YIdea Cost -10%§! and §YMissionary Strength +1%§! for §Y15 years§!."
 EDG_catharism_aspect_3_tt:0 "Gain §Y50 £mil£§!. §YLand Morale +10%§! and §YWarscore Cost vs. Other Religions -10%§! for §Y15 years§!."
 EDG_catharism_aspect_4_tt:0 "Gain §Y50 £dip£§!. §YMissionary Strength vs. Heretics +1%§! and §YReligious Unity +25%§! for §Y15 years§!."
 EDG_catharism_aspect_5_tt:0 "§YInstitution Spread +25%§! and §YPossible Advisors +2§! for §Y15 years§!. A Cathar province gains §Y1 Production§!." # random
@@ -48,13 +48,21 @@ EDG_catharism_aspect_7_tt:0 "§YTolerance of the True Faith +2§! and §YYearly 
 # EDG_catharism_aspect_6_tt:0 "Gain modifier: §YManpower Recovery Speed +15%§! for §Y15 years§!. Additionally, if your ruler dies during this period, stability will not decrease."
 # EDG_catharism_aspect_7_tt:0 "Gain modifiers: §YTolerance of the True Faith +2§! and §YYearly Corruption -0.05§! for §Y15 years§!."
 
-EDG_catharism_aspect_1_tt_ing:0 "§MActive:§! Confiscated §Y3%§! of §YEstate Lands§! from the §YClergy Estate§!, and gained §YNational Tax Modifier +10%§! and §YMonthly Autonomy -0.05%§! for §Y15 years§!."
-EDG_catharism_aspect_2_tt_ing:0 "§MActive:§! Gained §Y50 Administrative Power§!. Gained modifiers: §YIdea Cost -10%§! and §YMissionary Strength +1§! for §Y15 years§!."
-EDG_catharism_aspect_3_tt_ing:0 "§MActive:§! Gained §Y50 Military Power§!. Gained modifiers: §YLand Morale +10%§! and §YWarscore Cost vs. Other Religions -10%§! for §Y15 years§!."
-EDG_catharism_aspect_4_tt_ing:0 "§MActive:§! Gained §Y50 Diplomatic Power§!. Gained modifiers: §YMissionary Strength vs. Heretics +1%§! and §YReligious Unity +25%§! for §Y15 years§!."
-EDG_catharism_aspect_5_tt_ing:0 "§MActive:§! Gained modifiers: §YInstitution Spread +25%§! and §YPossible Advisors +2§! for §Y15 years§!. A random state religion province gained §Y1 Production§!."
-EDG_catharism_aspect_6_tt_ing:0 "§MActive:§! Gained modifier: §YManpower Recovery Speed +15%§! for §Y15 years§!. Additionally, if your ruler dies during this period, stability will not decrease."
-EDG_catharism_aspect_7_tt_ing:0 "§MActive:§! Gained modifiers: §YTolerance of the True Faith +2§! and §YYearly Corruption -0.05§! for §Y15 years§!."
+EDG_catharism_aspect_1_tt_ing:0 "§MActive:§! Seize §Y3%§! §YLand§! from §YClergy§!. §YTax Modifier +10%§! and §YMonthly Autonomy -0.05§! for §Y15 years§!." # National Tax Modifier
+EDG_catharism_aspect_2_tt_ing:0 "§MActive:§! Gain §Y50 £adm£§!. §YIdea Cost -10%§! and §YMissionary Strength +1%§! for §Y15 years§!."
+EDG_catharism_aspect_3_tt_ing:0 "§MActive:§! Gain §Y50 £mil£§!. §YLand Morale +10%§! and §YWarscore Cost vs. Other Religions -10%§! for §Y15 years§!"
+EDG_catharism_aspect_4_tt_ing:0 "§MActive:§! Gain §Y50 £dip£§!. §YMissionary Strength vs. Heretics +1%§! and §YReligious Unity +25%§! for §Y15 years§!"
+EDG_catharism_aspect_5_tt_ing:0 "§MActive:§! §YInstitution Spread +25%§! and §YPossible Advisors +2§! for §Y15 years§!. Gain §Y1 Base Production§!."
+EDG_catharism_aspect_6_tt_ing:0 "§MActive:§! §YManpower Recovery Speed +15%§! and §YNo stability loss on ruler's death§! for §Y15 years§!."
+EDG_catharism_aspect_7_tt_ing:0 "§MActive:§! §YTolerance of the True Faith +2§! and §YYearly Corruption -0.05§! for §Y15 years§!."
+
+# EDG_catharism_aspect_1_tt_ing:0 "§MActive:§! Confiscated §Y3%§! of §YEstate Lands§! from the §YClergy Estate§!, and gained §YNational Tax Modifier +10%§! and §YMonthly Autonomy -0.05%§! for §Y15 years§!."
+# EDG_catharism_aspect_2_tt_ing:0 "§MActive:§! Gained §Y50 Administrative Power§!. Gained modifiers: §YIdea Cost -10%§! and §YMissionary Strength +1§! for §Y15 years§!."
+# EDG_catharism_aspect_3_tt_ing:0 "§MActive:§! Gained §Y50 Military Power§!. Gained modifiers: §YLand Morale +10%§! and §YWarscore Cost vs. Other Religions -10%§! for §Y15 years§!."
+# EDG_catharism_aspect_4_tt_ing:0 "§MActive:§! Gained §Y50 Diplomatic Power§!. Gained modifiers: §YMissionary Strength vs. Heretics +1%§! and §YReligious Unity +25%§! for §Y15 years§!."
+# EDG_catharism_aspect_5_tt_ing:0 "§MActive:§! Gained modifiers: §YInstitution Spread +25%§! and §YPossible Advisors +2§! for §Y15 years§!. A random state religion province gained §Y1 Production§!."
+# EDG_catharism_aspect_6_tt_ing:0 "§MActive:§! Gained modifier: §YManpower Recovery Speed +15%§! for §Y15 years§!. Additionally, if your ruler dies during this period, stability will not decrease."
+# EDG_catharism_aspect_7_tt_ing:0 "§MActive:§! Gained modifiers: §YTolerance of the True Faith +2§! and §YYearly Corruption -0.05§! for §Y15 years§!."
 
 EDG_catharism_aspect_1_modifier:0 "Confiscate Church Assets"
 EDG_catharism_aspect_2_modifier:0 "Preach Christology"
