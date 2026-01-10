@@ -1,5 +1,5 @@
 ﻿l_english:
-EDG_mission_PIT_1_1_title:0 "§MThe Diplomatic Path§!"
+EDG_mission_PIT_1_1_title:0 "§MDiplomatic Path§!" # The Diplomatic Path
 EDG_mission_PIT_1_1_desc:0 "We are 'heretics', without a doubt. On one hand, our Cathar faith leaves us isolated in Northern Italy, the heartland of Catholicism; on the other hand, it also means we can form an alliance with the Kingdom of Arles to the west. But the Occitanians of Arles... are they truly trustworthy? Perhaps..."
 
 EDG_mission_PIT_1_2_title:0 "§MReliance on the Court§!"
@@ -26,7 +26,7 @@ EDG_mission_PIT_2_2_desc:0 "Even though the Occitanians share our faith, they ar
 EDG_mission_PIT_2_4_title:0 "§YMilitary Independence§!"
 EDG_mission_PIT_2_4_desc:0 "Mercenaries, city guards, skirmishers... the wars of Northern Italy have given birth to countless military models, but what Piedmont needs most is an army truly of its own."
 
-EDG_mission_PIT_2_5_title:0 "§YDeepening Military Reforms§!"
+EDG_mission_PIT_2_5_title:0 "§YDeepening Reforms§!" # Deepening Military Reforms
 EDG_mission_PIT_2_5_desc:0 "Swords, spears, and halberds are but cold weapons; it is living men who truly wield them. There is no inherent superiority among weapons, but the minds that command them are clearly distinguished."
 
 EDG_mission_PIT_2_6_title:0 "§YThe Allobroges Legion§!"
@@ -44,7 +44,7 @@ EDG_mission_PIT_2_9_desc:0 "A key aspect of the Renaissance lies in the construc
 EDG_mission_PIT_2_10_title:0 "Educational Reforms"
 EDG_mission_PIT_2_10_desc:0 "The Renaissance is the vanguard of thought, and education is the driving force behind the Renaissance. When ideas burst forth, the guidance of teachers is also indispensable."
 
-EDG_mission_PIT_3_1_title:0 "Establishing the National Defense Force"
+EDG_mission_PIT_3_1_title:0 "The National Defense Force" # Establishing the National Defense Force
 EDG_mission_PIT_3_1_desc:0 "As one of the states of Northern Italy, mercenaries hold significant sway within our lands as well, but our Cathar faith has rendered all this to naught. Now, if we wish to defend Piedmont, we can only rely on ourselves."
 
 EDG_mission_PIT_3_2_title:0 "Inevitable Confrontation"

@@ -69,7 +69,7 @@ EDG_HSA_hanseatic_free_city_desc:0 ""
 EDG_HSA_trade_city_count:0 "Number of Authorizable §THanseatic Cities§!"
 EDG_HSA_trading_post_count:0 "Number of Constructible §THanseatic Kontors§!"
 
-EDG_HSA_invitation_trading_city_title:0 "Invite to Join the §YHanseatic League§!"
+EDG_HSA_invitation_trading_city_title:0 "Invite to the §YHanseatic League§!" # Invite to Join the §YHanseatic League§!
 EDG_HSA_invitation_trading_city_desc:0 "We will invite this country to join the §YHanseatic League§!, becoming a §THanseatic City§! under our leadership."
 EDG_HSA_invitation_trading_city_tooltip:0 "The target country will become our §THanseatic City§!"
 EDG_HSA_invitation_trading_city_alert_tooltip:0 "An §YInvitation§! to join the §YHanseatic League§!"
@@ -119,7 +119,7 @@ EDG_HSA_check_variable_title:0 "Check the Number of §YAuthorizable Cities§! as
 EDG_HSA_check_variable_desc:0 ""
 EDG_HSA_check_variable.tt:0 "[EDG_HSA_trade_city_count.GetName]: [EDG_HSA_trade_city_count.GetValue]\n[EDG_HSA_trading_post_count.GetName]: [EDG_HSA_trading_post_count.GetValue]"
 
-EDG_HSA_BIG_FREE_CITY:0 "Imperial Chartered Großfreie Stadt (Great Free City)"
+EDG_HSA_BIG_FREE_CITY:0 "Imperial Großfreie Stadt" # Imperial Chartered Großfreie Stadt (Great Free City)
 EDG_HSA_FREE_CITY_NAME:0 "Hanseatic League Free City"
 
 EDG_GER_GERMAN_CONFEDERATION:0 "German Federal Republic"

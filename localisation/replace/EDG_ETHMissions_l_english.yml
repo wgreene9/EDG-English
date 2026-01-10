@@ -84,7 +84,7 @@ EDG_ETH_mission_3_5.effect.tt:0 "All §YMuslim§! nations §Ysouth§! of @ETH§Y
 EDG_ETH_mission_3_7_title:0 "Surpassing Former Glory"
 EDG_ETH_mission_3_7_desc:0 "Our ancestors' empire may have fallen, but its legacy lives on within us. Therefore, the power we now possess allows us not only to rebuild the empire that was once destroyed but also to surpass it!"
 
-EDG_ETH_mission_3_8_title:0 "Follow the River Downstream"
+EDG_ETH_mission_3_8_title:0 "Follow the River Down" # Follow the River Downstream
 EDG_ETH_mission_3_8_desc:0 "Our kingdom was once the great Aksumite Empire, stretching from the Dongola Desert to the coast of Mocha in Yemen. However, circumstances took a drastic turn after Queen Gudit and her Semien warriors sacked Aksum and brought the Aksumite dynasty to an end. Not long after, the empire fractured into several tribal states. In the past, we were preoccupied with wars against the Sultanate of Ifat in the southeast and unable to focus on the north. The Sahada dynasty, which controlled vast territories in Arabia, took control of Egypt in 1380, ousting the Mamluks and becoming the Great Maliks of Egypt. Since the death of Nasir I in 1391, the Sahada dynasty has faced continuous rebellion and turmoil. Now, their complete collapse is only a matter of time, presenting us with a perfect opportunity to restore our northern borders. With our internal issues gradually being resolved, we can finally turn our attention to the Nubian region above us and begin the work of reclaiming Aksum's legacy!"
 EDG_ETH_mission_3_8.event.tt:0 "If @ALO§Y[ALO.GetName]§! and @MAK§Y[MAK.GetName]§! exist, have an §Yopinion§! of us of at least §G100§!, and are under our §Yguarantee of independence§!, event §T'Northern Tribes'§! will trigger.\n"
 

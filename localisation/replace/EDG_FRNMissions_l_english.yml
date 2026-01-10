@@ -98,11 +98,11 @@ EDG_FRN_mission_4_7.effect.tt:0 "Unlock §YConstruction Permissions§! for §JVe
 
 EDG_FRN_mission_4_8_title:0 "Mastery"
 EDG_FRN_mission_4_8_desc:0 ""
-EDG_FRN_mission_4_8.effect.tt:0 "Unlock §YConstruction Permissions§! for §O Gold§! tier commissions.\n\n§YWonder Commission§! construction time §G-10%§!"
+EDG_FRN_mission_4_8.effect.tt:0 "Unlock §YConstruction Permissions§! for §OGold§! tier commissions.\n\n§YWonder Commission§! construction time §G-10%§!"
 
 EDG_FRN_mission_4_10_title:0 "Engineering Academy" # National Engineering Academy
 EDG_FRN_mission_4_10_desc:0 ""
-EDG_FRN_mission_4_10.effect.tt:0 "§GCompleting a Commission§! will now grant §YInnovativeness§! points based on the §YCommission Tier§!: §Y2§!, §Y4§!, §Y6§!, §Y8§! points respectively.\n\nImmediately activate the §T Professional§! idea group.\n\nThe government interaction §YResearch Technology§! now provides §YAdditional Effects§!."
+EDG_FRN_mission_4_10.effect.tt:0 "§GCompleting a Commission§! will now grant §YInnovativeness§! points based on the §YCommission Tier§!: §Y2§!, §Y4§!, §Y6§!, §Y8§! points respectively.\n\nImmediately activate the §TProfessional§! idea group.\n\nThe government interaction §YResearch Technology§! now provides §YAdditional Effects§!."
 
 EDG_FRN_mission_4_11_title:0 "Chief Engineer"
 EDG_FRN_mission_4_11_desc:0 ""
@@ -114,7 +114,7 @@ EDG_FRN_mission_5_7.effect.tt:0 "Unlock §YConstruction Permissions§! for §TAz
 
 EDG_FRN_mission_5_8_title:0 "Unrivaled"
 EDG_FRN_mission_5_8_desc:0 ""
-EDG_FRN_mission_5_8.effect.tt:0 "Unlock §YConstruction Permissions§! for §V Legendary§! tier commissions.\n\n§YWonder Commission§! construction time §G-10%§!"
+EDG_FRN_mission_5_8.effect.tt:0 "Unlock §YConstruction Permissions§! for §VLegendary§! tier commissions.\n\n§YWonder Commission§! construction time §G-10%§!"
 
 EDG_FRN_mission_5_9_title:0 "Unprecedented and Unmatched"
 EDG_FRN_mission_5_9_desc:0 ""

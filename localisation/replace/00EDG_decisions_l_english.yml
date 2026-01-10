@@ -206,10 +206,10 @@ EDG_BTA_economic_problem_2_enable_decision_desc:0 "The flourishing commercial ac
 EDG_BTA_War_of_heresy_enable_decision_desc:0 "The 'Holy Trinity' is the core doctrine of Greater Kelticism, based on the Christian theory of the Trinity, and provides a profound theoretical foundation for consolidating domestic monarchical absolutism."
 EDG_BTA_civil_war_enable_decision_desc:0 "The elective monarchy is not perfect. There will always be rulers who attempt to find and exploit its weaknesses, seeking to make the throne hereditary... This is highly dangerous. If we allow the flaws of the elective monarchy to persist, they will ultimately endanger the state."
 
-EDG_BTA_economic_problem_1_enable_decision_tt:0 "The disaster §YUncontrolled Enclosure Movement§! will begin its progress.\n§RPlease ensure you have§!§Tprepared§!§R or have already §!§Tmanually saved§!."
-EDG_BTA_economic_problem_2_enable_decision_tt:0 "The disaster §YCurrency Crisis§! will begin its progress.\n§RPlease ensure you have§!§Tprepared§!§R or have already §!§Tmanually saved§!."
-EDG_BTA_War_of_heresy_enable_decision_tt:0 "The disaster §YHeresy War of Holy Trinity§! will begin its progress.\n§RPlease ensure you have§!§Tprepared§!§R or have already §!§Tmanually saved§!."
-EDG_BTA_civil_war_enable_decision_tt:0 "The disaster §YCollapse of the Elective Monarchy§! will begin its progress.\n§RPlease ensure you have§!§Tprepared§!§R or have already §!§Tmanually saved§!."
+EDG_BTA_economic_problem_1_enable_decision_tt:0 "The disaster §YUncontrolled Enclosure Movement§! will begin its progress.\n§RPlease ensure you have§!§Tprepared§! §Ror have already§! §Tmanually saved§!."
+EDG_BTA_economic_problem_2_enable_decision_tt:0 "The disaster §YCurrency Crisis§! will begin its progress.\n§RPlease ensure you have§!§Tprepared§! §Ror have already§! §Tmanually saved§!."
+EDG_BTA_War_of_heresy_enable_decision_tt:0 "The disaster §YHeresy War of Holy Trinity§! will begin its progress.\n§RPlease ensure you have§!§Tprepared§! §Ror have already§! §Tmanually saved§!."
+EDG_BTA_civil_war_enable_decision_tt:0 "The disaster §YCollapse of the Elective Monarchy§! will begin its progress.\n§RPlease ensure you have§!§Tprepared§! §Ror have already§! §Tmanually saved§!."
 
 EDG_BTA_economic_problem_1_enable_decision_modifier:0 "Liberalized Land Transactions"
 EDG_BTA_economic_problem_2_enable_decision_modifier:0 "Liberalized Financial Activities"

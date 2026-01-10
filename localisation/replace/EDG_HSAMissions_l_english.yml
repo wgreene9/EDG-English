@@ -3,7 +3,7 @@ EDG_HSA_mission_3_1_title:0 "Eagle Banner Flies High" # The Eagle Banner Flies H
 EDG_HSA_mission_3_1_desc:0 "The recruitment system established by the Hanseatic League conscripts all robust sons of peasants from across the League. To protect the Republic, to protect the member states, to protect the people within our borders, forward march, young men of Lübeck!"
 
 EDG_HSA_mission_3_1.effect.tt:0 "Each §TTrade League Member§! will grant us §Y10§!¤ and §Y10§!£adm££dip££mil£\n"
-EDG_HSA_mission_3_1.get_claim.effect.tt:0 "Gain §YPermanent Claims§! on all §YCoastal Provinces§! in the §YTrade Nodes§! of §YLübeck§!, §YThe Baltic§!, and §YNovgorod§! that possess a §YRiver Estuary§! or §YTrade Center§!.\n"
+EDG_HSA_mission_3_1.get_claim.effect.tt:0 "Gain §YPermanent Claims§! on all §YCoastal Provinces§! in the §YTrade Nodes§! of §YLübeck§!, §YBaltic Sea§!, and §YNovgorod§! that possess a §YRiver Estuary§! or §YTrade Center§!.\n"
 EDG_HSA_mission_3_1.add_modifier.effect.tt:0 "The following §YModifier§! will be §YEnhanced§! based on the number of §TTrade League Members§!, reaching its §YFinal Reward§! when the §TTrade League§! has §Y6§! members.\n"
 EDG_HSA_mission_3_1.get_modifier.effect.tt:0 "When we are the §YLeader§! of a §TTrade League§!, we will receive a §YModifier§! and §YOther Rewards§!.\n\nThis §YModifier§! will be §YEnhanced§! based on the number of §TTrade League Members§!, reaching its §YFinal Reward§! when the §TTrade League§! has §Y6§! members.\n"
 
@@ -64,17 +64,17 @@ EDG_HSA_mission_1_2_title:0 "Defend the Salt Route"
 EDG_HSA_mission_1_2_desc:0 "The fish trade across the Øresund and the Danish peninsula is indeed important. However, ensuring salt production on our southern border and cooperating with Hamburg will yield even greater returns."
 EDG_HSA_mission_1_2.sax.condition.tt:0 "Gained at least §G75§! relations improvement with @SAX§Y[SAX.GetName]§! through §YImprove Relations§!"
 EDG_HSA_mission_1_2.hsa.condition.tt:0 "Gained at least §G75§! relations improvement with @HSA§Y[HSA.GetName]§! through §YImprove Relations§!"
-EDG_HSA_mission_1_2.event.effect.tt:0 "When completing the mission via §YDiplomatic Means§!, event §T"The Treaty of Lauenburg"§! will trigger.\n"
+EDG_HSA_mission_1_2.event.effect.tt:0 "When completing the mission via §YDiplomatic Means§!, event §T'The Treaty of Lauenburg'§! will trigger.\n"
 EDG_HSA_mission_1_2.effect.tt:0 "If @HAM§YHamburg§! has at least §Y160§! opinion of us when we complete this mission, all §TTrade League Members§! will receive rewards of §GDevelopment Cost Reduction§! based on the §YNumber of Members§!, reaching the §YFinal Reward§! when the §TTrade League§! has §Y6§! members.\n"
 
 EDG_HSA_mission_1_4_title:0 "Flow of Trade"
 EDG_HSA_mission_1_4_desc:0 "To our west, the territories around the Weser Valley suffer from weak governance. Let us intervene in local politics and save the people from their incompetent and inefficient rulers."
-EDG_HSA_mission_1_4.add_center.effect.tt:0 "If @BRE§Y[BRE.GetName]§! is a member of the §THanseatic League§! and owns province §Y[1874.GetName]§!, then upgrade the §YTrade Center§! in §Y[1874.GetName]§! and add the modifier §Y"§THanseatic League§! Trading Post"§!\n"
-EDG_HSA_mission_1_4.add_modifier.effect.tt:0 "If @FRN§Y[FRN.GetName]§! is a member of the §THanseatic League§! and owns province §Y[1876.GetName]§!, then §Y[1876.GetName]§! will gain the modifier §T"Hanseatic Major Trading Hub"§!\n"
+EDG_HSA_mission_1_4.add_center.effect.tt:0 "If @BRE§Y[BRE.GetName]§! is a member of the §THanseatic League§! and owns province §Y[1874.GetName]§!, then upgrade the §YTrade Center§! in §Y[1874.GetName]§! and add the modifier §Y'§THanseatic League§! Trading Post'§!\n"
+EDG_HSA_mission_1_4.add_modifier.effect.tt:0 "If @FRN§Y[FRN.GetName]§! is a member of the §THanseatic League§! and owns province §Y[1876.GetName]§!, then §Y[1876.GetName]§! will gain the modifier §T'Hanseatic Major Trading Hub'§!\n"
 
 EDG_HSA_mission_2_6_title:0 "Pen and Paper"
 EDG_HSA_mission_2_6_desc:0 "Some matters need not always be resolved with violence. What can be settled on paper need not consume further resources."
-EDG_HSA_mission_2_6.effect.tt:0 "Each §YActive§! §Y"§THanseatic League§! Trading Post"§! will grant us §G48§!¤ at the start of the year."
+EDG_HSA_mission_2_6.effect.tt:0 "Each §YActive§! §Y'§THanseatic League§! Trading Post'§! will grant us §G48§!¤ at the start of the year."
 EDG_HSA_mission_2_6.condition.tt:0 "Not a member of the §YHoly Roman Empire§!"
 
 EDG_HSA_mission_1_7_title:0 "Expand the Old Town"
@@ -95,12 +95,12 @@ EDG_HSA_mission_1_15_desc:0 ""
 
 EDG_HSA_mission_2_2_title:0 "Reclaim Mecklenburg"
 EDG_HSA_mission_2_2_desc:0 "The region of Mecklenburg has long been carved up by various princes. To ensure our own security and expand the influence of the Hanseatic League, we must occupy these coastal lands east of the city."
-EDG_HSA_mission_2_2.effect.tt:0 "If we have already completed the mission §T"Promulgate the Lübeck Code"§!, then gain additional §YBonuses§! in each province within the §YMecklenburg§! region.\n"
+EDG_HSA_mission_2_2.effect.tt:0 "If we have already completed the mission §T'Promulgate the Lübeck Code'§!, then gain additional §YBonuses§! in each province within the §YMecklenburg§! region.\n"
 
 EDG_HSA_mission_2_3_title:0 "Along the Coastline"
 EDG_HSA_mission_2_3_desc:0 "Along the Pomeranian coast, many notorious privateers have found havens for their illicit activities. We cannot allow these pests to continue crossing the Baltic Sea to plunder our hard-earned wealth."
 EDG_HSA_mission_2_3.effect.tt:0 "If, at the time of §YMission Completion§!, we have at least §Y50%§! §TTrade Power§! in the §YLübeck§! trade node, then the following modifier becomes a §TPermanent Modifier§!.\n"
-EDG_HSA_mission_2_3.add_modifier.effect.tt:0 "If we complete the mission via diplomatic means, provinces §Y[47.GetName]§! and §Y[1858.GetName]§! will both gain the modifier §Y"§THanseatic League§! Trading Post"§!\n"
+EDG_HSA_mission_2_3.add_modifier.effect.tt:0 "If we complete the mission via diplomatic means, provinces §Y[47.GetName]§! and §Y[1858.GetName]§! will both gain the modifier §Y'§THanseatic League§! Trading Post'§!\n"
 
 EDG_HSA_mission_1_5_title:0 "Security Guarantees"
 EDG_HSA_mission_1_5_desc:0 "The Hanseatic League is not yet strong enough. We must seek reliable allies and expand the League's cities to ensure the effective protection of the entire alliance."
@@ -126,11 +126,11 @@ EDG_HSA_mission_2_15_desc:0 ""
 
 EDG_HSA_mission_4_2_title:0 "Reclaim Visby"
 EDG_HSA_mission_4_2_desc:0 "The island of Gotland, historically known as Visby, once hosted an important Hanseatic office. Reasserting our claim over this land will positively impact our trade competitiveness in the Baltic Sea."
-EDG_HSA_mission_4_2.effect.tt:0 "If @GOT§Y[GOT.GetName]§! exists and is in our §TTrade League§!, event §T"The Hanseatic Town of Visby"§! will trigger.\n"
+EDG_HSA_mission_4_2.efffect.tt:0 "If @GOT§Y[GOT.GetName]§! exists and is in our §TTrade League§!, event §T'The Hanseatic Town of Visby'§! will trigger.\n"
 
 EDG_HSA_mission_4_3_title:0 "Receive the Port of Danzig"
 EDG_HSA_mission_4_3_desc:0 "Danzig is perhaps the most important city in the eastern Baltic. Our merchants once held vast wealth in its banks; reestablishing a firm foothold there will surely improve our financial standing."
-EDG_HSA_mission_4_3.effect.tt:0 "If @DNZ§Y[DNZ.GetName]§! does not exist and we own province §Y[43.GetName]§!, event §T"The Prussian Confederation of Danzig"§! will trigger.\n"
+EDG_HSA_mission_4_3.effect.tt:0 "If @DNZ§Y[DNZ.GetName]§! does not exist and we own province §Y[43.GetName]§!, event §T'The Prussian Confederation of Danzig'§! will trigger.\n"
 
 EDG_HSA_mission_5_5_title:0 "Ensure Security"
 EDG_HSA_mission_5_5_desc:0 "If diplomacy is our guarantee of safety, then the only thing that can truly secure our safety is our own military."

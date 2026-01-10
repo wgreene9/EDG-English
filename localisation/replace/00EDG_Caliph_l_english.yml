@@ -58,7 +58,7 @@ EDG_sunni_Caliph_GUI_big_shield_tooltip:0 "[EDG_sunni_Caliph_target.GetNameEDG_s
 
 GetNameEDG_sunni_Caliph_GUI_big_shield_tooltip_self:0 "§Y[EDG_sunni_Caliph_target.Monarch.GetName]§! is the §YSunni Caliph§!"
 GetNameEDG_sunni_Caliph_GUI_big_shield_tooltip_regency:0 "§Y[EDG_sunni_Caliph_target.Monarch.GetName]§! controls the §YSunni Caliph§!"
-GetNameEDG_sunni_Caliph_GUI_big_shield_tooltip_die:0 "The §YSunni Caliphate§! is Extinct\n\n-The §YSunni Caliph§! must be of the §YSunni§! faith.\n-If you are §YSunni§!, you can become the §YSunni Caliph§! by completing a §YMission§! or the §Y"One God, One State" Decision§!, which grants the §M"Unification of Islam"§! modifier.\n-If the §YAbbasid Caliphate§! exists and is §YSunni§!, they will have priority in becoming the §YSunni Caliph§!.\n-For the vast majority of nations, there is no other way to restore the §YSunni Caliphate§!."
+GetNameEDG_sunni_Caliph_GUI_big_shield_tooltip_die:0 "The §YSunni Caliphate§! is Extinct\n\n-The §YSunni Caliph§! must be of the §YSunni§! faith.\n-If you are §YSunni§!, you can become the §YSunni Caliph§! by completing a §YMission§! or the §Y"One God, One State" Decision§!, which grants the §M'Unification of Islam'§! modifier.\n-If the §YAbbasid Caliphate§! exists and is §YSunni§!, they will have priority in becoming the §YSunni Caliph§!.\n-For the vast majority of nations, there is no other way to restore the §YSunni Caliphate§!."
 
 EDG_sunni_Caliph_authority_var:0 "§YCaliphal Authority§!"
 EDG_sunni_Caliph_authority_bg_tt:0 "Current §YCaliphal Authority§! is §Y[EDG_sunni_Caliph_target.EDG_sunni_Caliph_authority_var.GetValue]§!"
@@ -122,7 +122,7 @@ EDG_shiite_Caliph_GUI_big_shield_tooltip:0 "[EDG_shiite_Caliph_target.GetNameEDG
 
 GetNameEDG_shiite_Caliph_GUI_big_shield_tooltip_self:0 "§Y[EDG_shiite_Caliph_target.Monarch.GetName]§! is the §YShia Caliph§!"
 GetNameEDG_shiite_Caliph_GUI_big_shield_tooltip_regency:0 "§Y[EDG_shiite_Caliph_target.Monarch.GetName]§! controls the §YShia Caliph§!"
-GetNameEDG_shiite_Caliph_GUI_big_shield_tooltip_die:0 "The §YShia Caliphate§! is Extinct\n\n-The §YShia Caliph§! must be of the §YShia§! faith.\n-If you are §YShia§!, you can become the §YShia Caliph§! by completing a §YMission§! or the §Y"One God, One State" Decision§!, which grants the §M"Unification of Islam"§! modifier.\n-If the §YFatimid Caliphate§! exists and is §YShia§!, they will have priority in becoming the §YShia Caliph§!.\n-For the vast majority of nations, there is no other way to restore the §YShia Caliphate§!.\n-The §YFatimid Caliphate§! is designed to become extinct in most gameplay scenarios; please do not attempt to preserve it arbitrarily."
+GetNameEDG_shiite_Caliph_GUI_big_shield_tooltip_die:0 "The §YShia Caliphate§! is Extinct\n\n-The §YShia Caliph§! must be of the §YShia§! faith.\n-If you are §YShia§!, you can become the §YShia Caliph§! by completing a §YMission§! or the §Y"One God, One State" Decision§!, which grants the §M'Unification of Islam'§! modifier.\n-If the §YFatimid Caliphate§! exists and is §YShia§!, they will have priority in becoming the §YShia Caliph§!.\n-For the vast majority of nations, there is no other way to restore the §YShia Caliphate§!.\n-The §YFatimid Caliphate§! is designed to become extinct in most gameplay scenarios; please do not attempt to preserve it arbitrarily."
 
 EDG_shiite_Caliph_authority_var:0 "§YCaliphal Authority§!"
 EDG_shiite_Caliph_authority_bg_tt:0 "Current §YCaliphal Authority§! is §Y[EDG_shiite_Caliph_target.EDG_shiite_Caliph_authority_var.GetValue]§!"

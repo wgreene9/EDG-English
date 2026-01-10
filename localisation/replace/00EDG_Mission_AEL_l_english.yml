@@ -104,7 +104,7 @@ EDG_AEL_mission_3_14_desc:0 "Given the continuous development of our nation's ec
 EDG_AEL_mission_3_15_title:0 "Arles National Bank"
 EDG_AEL_mission_3_15_desc:0 "As our nation's finance and trade gradually develop, it is necessary for us to systematically and institutionally incorporate our banking sector into a regulatory framework. To this end, we should establish the Arles National Bank to manage the nation's financial affairs."
 
-EDG_AEL_mission_3_16_title:0 "Frankish Financial System"
+EDG_AEL_mission_3_16_title:0 "Frankish Finances" # Frankish Financial System
 EDG_AEL_mission_3_16_desc:0 "With our trade hegemony in Europe gradually established, our merchants are found along the coasts of the Mediterranean, the Bay of Biscay, the North Sea, the Baltic Sea, and even the Black Sea and the Caspian Sea. Merchant ships dot the seas like islands, forming a vital lifeline for our nation. The Frankish trade and financial system has now supplanted that of Venice, Genoa, and others, nourishing the very flesh and bone of all Europe."
 
 EDG_AEL_mission_3_18_title:0 "Absolute Monarchy"
@@ -128,7 +128,7 @@ EDG_AEL_mission_4_5_desc:0 "The Holy Roman Emperor's control over the Empire has
 EDG_AEL_mission_4_6_title:0 "Defender of the Faith"
 EDG_AEL_mission_4_6_desc:0 "The great King, the great Pope, and the great Church protect every subject bathed in the True Faith. We have shown the world the unprecedented unity of our order, and we have shown the world the true glory of God. Without a doubt, the defender of our faith is our great King."
 
-EDG_AEL_mission_4_7_title:0 "Quash Catholic Authority" # Dismantle Catholic Authority
+EDG_AEL_mission_4_7_title:0 "End Catholic Authority" # Dismantle Catholic Authority
 EDG_AEL_mission_4_7_desc:0 "Since the First Council, the Bishop of Rome has gradually usurped a status not rightfully his. The so-called Pope in Rome is merely a skin the Bishop of Rome has draped over himself. As our faith expands, it is time to tear away the disguise of the false pope."
 
 EDG_AEL_mission_4_8_title:0 "Dissolve the Roman Curia"
@@ -146,7 +146,7 @@ EDG_AEL_mission_4_11_desc:0 "The factory production in the Savoy region has long
 EDG_AEL_mission_4_13_title:0 "The Genoa Office"
 EDG_AEL_mission_4_13_desc:0 "Since the days of the Republic of Genoa, Genoa has always been the most prosperous area in the Mediterranean. With our stabilization of the situation in Genoa, it is necessary for us to establish a unified office here to manage local trade affairs."
 
-EDG_AEL_mission_4_15_title:0 "Modern Industrial Management"
+EDG_AEL_mission_4_15_title:0 "Modern Management" # Modern Industrial Management
 EDG_AEL_mission_4_15_desc:0 "As large-scale factory production flourishes across our nation, we have gradually established an efficient system of modern industrial management. Our nation's level of industrialization now significantly leads the world."
 
 EDG_AEL_mission_4_17_title:0 "The Royal Cabinet"
@@ -170,7 +170,7 @@ EDG_AEL_mission_5_5_desc:0 "Although we have gradually undertaken purification a
 EDG_AEL_mission_5_7_title:0 "Strengthen Church Control"
 EDG_AEL_mission_5_7_desc:0 "Before our great army reaches Rome, we must ensure that everything is absolutely secure. To this end, we must increase the clergy's loyalty to our nation. Only after ensuring a firm grip on the Church can we proceed with our next steps."
 
-EDG_AEL_mission_5_10_title:0 "The Secular and the Religious" # Leaders of the Secular and Religious Worlds
+EDG_AEL_mission_5_10_title:0 "The Secular and Religious" # Leaders of the Secular and Religious Worlds
 EDG_AEL_mission_5_10_desc:0 "We are already the leaders of the Cathar world and the secular Cathar Holy Roman Emperor. It is an inevitable requirement to permanently hold the positions of both religious leader and secular lord in our hands."
  
 EDG_AEL_mission_5_12_title:0 "Montpellier Textile Industry"

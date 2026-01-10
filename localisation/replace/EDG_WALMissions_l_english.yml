@@ -13,14 +13,14 @@ EDG_WAL_mission_1_5_title:0 "The Tragedy of Transylvania"
 EDG_WAL_mission_1_5_desc:0 "Transylvania, a sweet feast of flesh, destined to be devoured by Wallachia. This is its deserved end. The Hungarians cannot protect this land, and we have no patience for its people to slowly accept their new ruler. Let the wails here echo through the mountains and fields. The blood upon the stakes will ensure they kneel, trembling only under fear."
 EDG_WAL_mission_1_5.effect.tt:0 "§TDevelopment§! in all §Ymission province areas§! is §Rreduced to its minimum§!. For every §Y1§! point of §TDevelopment§! lost, we gain §G25§!¤\n"
 
-EDG_WAL_mission_1_7_title:0 "Gallop Across the Hungarian Plain"
+EDG_WAL_mission_1_7_title:0 "Gallop Across the Plain" # Gallop Across the Hungarian Plain
 EDG_WAL_mission_1_7_desc:0 "The conquest of Transylvania means the Hungarian Plain is like a naked woman stripped of her garments, ours to violate and trample at will. Gallop forth! The Voivode shall crush the defenses in the heart of every soul here. Bathe and drink deep the sweetness of the Hungarian Plain!"
 EDG_WAL_mission_1_7.effect.tt:0 "Gain a casus belli for §Yannexation§! against the owner of §Y[134.GetName]§!\n"
 
 EDG_WAL_mission_1_8_title:0 "The Siege of Vienna"
 EDG_WAL_mission_1_8_desc:0 "Vienna, a vital city of the Holy Roman Empire and the capital of Austria. The current Holy Roman Emperor views Vienna as paramount, turning a blind eye to the Voivode's threat, believing Wallachia still poses no danger to the Empire. Then let us besiege it! Storm it! Destroy it! Let this city tremble before the Voivode's terror, let every life weep under the shadow of darkness. Set Vienna ablaze, and let the Holy Roman Empire hear the prelude to despair's arrival."
 
-EDG_WAL_mission_1_9_title:0 "The False Dynasty Unworthy of Rome's Name"
+EDG_WAL_mission_1_9_title:0 "Unworthy of Rome's Name" # The False Dynasty Unworthy of Rome's Name
 EDG_WAL_mission_1_9_desc:0 "The Holy Roman Empire is neither holy, nor Roman, nor an empire. Yet this clownish existence proclaims itself the heir to Rome's glory. The base blood of the Germans seems to forever taint the noble lineage of the Romans. How can such a false dynasty be fit to exist in this world, a mere ape wearing a crown?"
 EDG_WAL_mission_1_9.effect.tt:0 "Gain a casus belli for §Yannexation§! against §Yall nations§! with their §Ycapital§! located in the §YSouth Germany§! region for §G20§! years\n"
 
@@ -50,7 +50,7 @@ EDG_WAL_mission_2_7.effect.tt:0 "Unlocks the §YDecision§! 'Coronation of the G
 EDG_WAL_mission_2_11_title:0 "The Mircea Plan"
 EDG_WAL_mission_2_11_desc:0 "The Mircea Plan was proposed by Mircea Skobai to Vlad III. He astutely outlined the importance of intelligence and pioneered the term 'Vila', one of the earliest origins of the word 'spy' in Europe. Mircea crafted a unique system of governance tailored for Vlad, this cruel ruler, and is considered the Voivode Dracula's most loyal servant."
 
-EDG_WAL_mission_2_12_title:0 "The Spider Awaiting its Prey"
+EDG_WAL_mission_2_12_title:0 "The Spider Awaits its Prey" # The Spider Awaiting its Prey
 EDG_WAL_mission_2_12_desc:0 "The spider, ever deliberate and precise, hunts its target with elegance. It often represents great threat and terror. This heralds the second phase of the Mircea Plan: like the precise and elegant spider, harvesting every foolish prey that believes itself safe from death in the web. Through exquisite intelligence capabilities and mobilization, it maximizes the fear imprinted upon the enemy's complacent ruler when faced with death."
 EDG_WAL_mission_2_12.effect.tt:0 "§YAssassinating Rulers§! will additionally §Greduce§! the §YStability§! of the target nation.\n"
 
@@ -64,7 +64,7 @@ EDG_WAL_mission_3_1_desc:0 "I come to wager, I come to play, I come to win. I le
 EDG_WAL_mission_3_2_title:0 "The Impaler Voivode"
 EDG_WAL_mission_3_2_desc:0 "The Voivode of Wallachia, Dracula, later revered as the Great Voivode. His legend is known to all, his bloodshed understood by none. Strict enforcement of law is insufficient to describe him. Not only did he use impalement on Turkish captives, but also frequently upon his own nobility and commoners. He would nail people onto sharpened stakes, spending his days enjoying their wails as if listening to a most exquisite ballad. Voivode Dracula is thus called by all, with trembling voices, by his epithet: 'The Impaler.'"
 
-EDG_WAL_mission_3_3_title:0 "Bloodthirst Turned to Lament"
+EDG_WAL_mission_3_3_title:0 "Bloodthirst into Lament" # Bloodthirst Turned to Lament
 EDG_WAL_mission_3_3_desc:0 "Sensing the weakness of Wallachian rule, a claimant to the principality has returned. Vlad III, Voivode Dracula, the so-called Son of the Dragon, is bloodthirsty and cruel. His arrival was marked by the grim and terrifying impalement of ambassadors sent to negotiate with him, a clear sign he will unleash immense violence upon any who oppose his reign."
 
 EDG_WAL_mission_3_4_title:0 "A Fleeting Flame"
@@ -74,7 +74,7 @@ EDG_WAL_mission_3_5_title:0 "A March of Torch-Flames"
 EDG_WAL_mission_3_5_desc:0 "The lands of Bulgaria are filled with the footprints of the Wallachian army. Just as where the Great Voivode passes, dark fires are lit. Marching upon these flames, they return to the night."
 EDG_WAL_mission_3_5.effect.tt:0 "All §Yprovinces§! we §Yoccupy§! with §TCulture§! of §TBulgarian§! will be §Gceded§! to us\n"
 
-EDG_WAL_mission_3_6_title:0 "Leaving Nothing in Its Wake"
+EDG_WAL_mission_3_6_title:0 "Leave Nothing in Its Wake" # Leaving Nothing in Its Wake
 EDG_WAL_mission_3_6_desc:0 "Peacefully taking control of this region only brings endless resistance. The Great Voivode's ambitions are plain to see. Wallachia's time should not be wasted on these lambs awaiting slaughter. Let the heart-wrenching, piercing wails echo from the mountains to the sea! Only then will they kneel and beg us for deliverance."
 EDG_WAL_mission_3_6.effect.tt:0 "§TDevelopment§! in all §Ymission province areas§! is §Rreduced to its minimum§!. For every §Y1§! point of §TDevelopment§! lost, we gain §G25§!¤\n"
 
@@ -100,21 +100,21 @@ EDG_WAL_mission_3_14_title:0 "The 'Perfect' Nation"
 EDG_WAL_mission_3_14_desc:0 "Endless torment, a lightless future, silent stillness, an unending reign. Everything is so 'splendid' and 'desirable.' In this nation, the world is condensed into a corner. Those who dwell here utter no complaints, worry not about unemployment, nor consider themselves idle. They sing, 'from the depths of their hearts,' time and again, of the Great Voivode's eternal, imperishable rule. All will huddle together for warmth, welcoming the future. If this is not a perfect nation, then what country could possibly deserve the title?"
 EDG_WAL_mission_3_14.effect.tt:0 "§RBrutality§! will §Greduce§! §TProvince Governing Cost§!\n\n§GLowers§! the required §TAdministrative Technology§! level to form @H06§Y[H06.GetName]§!\n"
 
-EDG_WAL_mission_4_2_title:0 "Challenging the White-Cloaked One"
+EDG_WAL_mission_4_2_title:0 "Challenge the White-Cloak" # Challenging the White-Cloaked One
 EDG_WAL_mission_4_2_desc:0 "'A thousand troops, ten thousand horses, all avoid the white cloak'—this is the ultimate description of the Hungarian famed commander, Hunyadi. Hunyadi's influence permeated the entire Kingdom of Hungary and radiated outward. Yet now, Hunyadi is being pressured by Hungarian nobles to relinquish his power. If he were to lean into the embrace of the Holy Roman Empire, it might become even harder for us to devour this sumptuous cake. Perhaps we should increase our threats against Hungary, forcing the Hungarian nobility to support Hunyadi in an attempt to maintain security and preserve Hungary's independence, which would also make it easier for us to feast upon this fine meat."
 EDG_WAL_mission_4_2.effect.tt:0 "In §Ythis war§!, both we and @HUN§Y[HUN.GetName]§! are §Runable§! to §TCall in Allies§! to join the war\n"
 
 EDG_WAL_mission_4_3_title:0 "The Vigil of Cârlan"
 EDG_WAL_mission_4_3_desc:0 "Cârlan, a hero of the 12th-century Principality of Wallachia in its struggle against the Hungarians, once fought one against a hundred and succeeded in slaying King Kalkanra III of Hungary. Wallachia today has long been silent, unable to find a powerful symbol to lead us. With the reconstruction of the Order of the Dragon, Wallachia's national identity also requires a new emblem to shape it. Cârlan—his gaze eternally watches over this land, and he shall become the guiding light for Wallachia's future."
 
-EDG_WAL_mission_4_4_title:0 "Seeking Death or Clinging to Life"
+EDG_WAL_mission_4_4_title:0 "Seek Death or Cling to Life" # Seeking Death or Clinging to Life
 EDG_WAL_mission_4_4_desc:0 "With defeat after defeat suffered by the enemy, the Great Voivode watches the burning ruins with unsettling calm. The Voivode's loyal soldiers are invincible. Countless rebel chiefs and enemy leaders have been impaled upon stakes, their hearts pierced, letting out one final, blood-curdling shriek as the points emerge from their backs. Those forced to witness this spectacle of life-seeking death and this horrifying tragedy have but one thought in their minds: a swift death, rather than endless suffering until their blood runs dry. In the hearts of countless souls, to escape such a fate of torment, they must voluntarily—though under duress—join the Voivode's ranks and shed their blood for him!"
 EDG_WAL_mission_4_4.effect.tt:0 "Each of the three types of §YDevelopment§! in every province we §Yoccupy§! provides us with §G5§! of the corresponding §YMonarch Power§!\n\nAfter §Ywinning a battle§!, immediately recruit §YInfantry§! equal to §G20%§! of the §TMen Lost§! in that battle in that §Yprovince§!. If this is less than §G1k§!, it will be added to the §YManpower Reserve§! instead.\n"
 
-EDG_WAL_mission_4_6_title:0 "A Long-Awaited Reunion"
+EDG_WAL_mission_4_6_title:0 "Long-Awaited Reunion" # A Long-Awaited Reunion
 EDG_WAL_mission_4_6_desc:0 "The unstable factors in the Ruthenian region have long caused its exiles to flee in all directions. Many claimant princes and nobles, unwilling to accept a fate of defeat, have fled south to Wallachia. This is undoubtedly a ready-made pretext to draw our swords. It is not merely a chance encounter, but more like a long-awaited reunion."
 
-EDG_WAL_mission_4_7_title:0 "The Urgency of the Closed Blade"
+EDG_WAL_mission_4_7_title:0 "Urgency of the Closed Blade" # The Urgency of the Closed Blade
 EDG_WAL_mission_4_7_desc:0 "With the enemy in retreat, our armies advance with unstoppable force. The enemy is terrified; their ruler has fled in panic, and the remaining leadership has indicated they will agree to some reasonable demands from Wallachia. Now the scythe's blade is closed and held against their neck. The urgent matter at hand is how to handle the outcome of this war."
 
 EDG_WAL_mission_4_11_title:0 "The Silver Accord"
@@ -134,7 +134,7 @@ EDG_WAL_mission_5_1_title:0 "Under the Yoke of Power"
 EDG_WAL_mission_5_1_desc:0 "In the Balkans, this tumultuous, scheming, and perpetually war-torn region, no power has achieved eternal rule here for nearly the past few centuries. Wallachia's previous rulers also swayed like reeds, attaching themselves to whichever strongman dominated the Balkans. But now, Wallachia will reaffirm its ambitions. Through military force and terror, in its own way, it shall rule this 'powder keg.'"
 EDG_WAL_mission_5_1.effect.tt:0 "Whenever a province's §RDevelopment§! is §RExploited§!, that province will receive a §G20§!-year §Ymodifier§! based on the §Ytype of exploitation§!.\n"
 
-EDG_WAL_mission_5_2_title:0 "Reestablish the Order of the Dragon"
+EDG_WAL_mission_5_2_title:0 "Restore Order of the Dragon" # Reestablish the Order of the Dragon
 EDG_WAL_mission_5_2_desc:0 "The Order of the Dragon was founded to drive the Turks beyond the borders of Christendom, but now it has fallen into severe decline. The defeat at Varna and the fragmentation of the Ottoman Empire have rendered the Order's purpose obscure. Now, we must rally and unite once more, advancing under the banner of the Order of the Dragon!"
 EDG_WAL_mission_5_2.effect.tt:0 "Unlocks the §YMercenary§! 'Order of the Dragon'\n"
 

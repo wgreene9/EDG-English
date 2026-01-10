@@ -111,7 +111,7 @@ ABN_ideas_7_desc:0 ""
  EDG_string_start_IRE:0 ""
 
 EDG_in_ireland_region.tt:0 "Located in the §YIreland§! region"
-EDG_remove_religious_zeal_at_conv_effect.tt:0 "Removes the modifier §T"Religious Zeal"§! from all provinces we own with §Yheretical or heathen religions§!.\n"
+EDG_remove_religious_zeal_at_conv_effect.tt:0 "Removes the modifier §T'Religious Zeal'§! from all provinces we own with §Yheretical or heathen religions§!.\n"
 merc_EDG_IRE_fianna:0 "§TOrder of the Fianna§!"
 
 EDG_bard_loyalty_modifier:0 "Bard Loyalty"

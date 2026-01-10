@@ -22,24 +22,24 @@ EDG_CWN_2_3_TT:0 "Using Papal Influence bonuses can grant §YBritish World Influ
 
 EDG_CWN_2_4_title:0 "Unity in Diversity"
 EDG_CWN_2_4_desc:0 "If we wish to become the sole beacon shining on the lightless sea, we should proclaim that all are welcome in [Root.GetName], regardless of faith or culture."
-EDG_CWN_2_4_TT:0 "The §R Twilight Era§! disaster event: §YCrisis of Faith§! will no longer occur."
+EDG_CWN_2_4_TT:0 "The §RTwilight Era§! disaster event: §YCrisis of Faith§! will no longer occur."
 
 EDG_CWN_3_1_title:0 "Continental Exchange" # Enhance Continental Exchange
 EDG_CWN_3_1_desc:0 "We must establish a foothold on the European continent, not remain excluded from the European order."
 
 EDG_CWN_3_2_title:0 "Bridge Divides"
 EDG_CWN_3_2_desc:0 "Cultural conflict arising from the Commonwealth's vast territories is inevitable. We need to bridge these divides and forge an order belonging to the Commonwealth."
-EDG_CWN_3_2_TT:0 "When §T Commonwealth Prosperity§! reaches its maximum, provides us with §G-10%§! Cost for Promoting Cultural Acceptance."
+EDG_CWN_3_2_TT:0 "When §TCommonwealth Prosperity§! reaches its maximum, provides us with §G-10%§! Cost for Promoting Cultural Acceptance."
 
 EDG_CWN_3_4_title:0 "Beacon of Liberty"
 EDG_CWN_3_4_desc:0 "Our mission is accomplished when the great British Commonwealth is universally regarded as the world's center of thought and culture."
 EDG_CWN_3_4_trigger_TT:0 "Requires 5 points of British World Influence. Current: §Y[Root.EDG_CWN_world_var.GetValue]§!."
 EDG_CWN_3_4_effect_TT:0 "Lose 5 points of British World Influence. Current: §Y[Root.EDG_CWN_world_var.GetValue]§!."
-EDG_CWN_3_4_TT:0 "Unlocks Tier 4 Government Reform: Beacon of Liberty.\n\nThe §R Twilight Era§! disaster event: §YThe Kingmakers§! will no longer occur."
+EDG_CWN_3_4_TT:0 "Unlocks Tier 4 Government Reform: Beacon of Liberty.\n\nThe §RTwilight Era§! disaster event: §YThe Kingmakers§! will no longer occur."
 
 EDG_CWN_3_5_title:0 "Home is the Sailor"
 EDG_CWN_3_5_desc:0 "Britons are free. We pour our passion into the sea and scatter our sweat across every land of the world. Explore the world, young Britons, for the future belongs to you!"
-EDG_CWN_3_5_TT:0 "§G Event Preview:§!\nThe §R Twilight Era§! disaster will no longer occur."
+EDG_CWN_3_5_TT:0 "§GEvent Preview:§!\nThe §RTwilight Era§! disaster will no longer occur."
 
 EDG_CWN_4_1_title:0 "Build a New Homeland"
 EDG_CWN_4_1_desc:0 "The fertile lands of the New World can bring a bright future to the Commonwealth. The development of the New World will become a key strategy for the Commonwealth's growth."
@@ -59,7 +59,7 @@ EDG_CWN_4_4_effect_TT:0 "Lose 3 points of British World Influence. Current: §Y[
 
 EDG_CWN_5_2_title:0 "Contact with Neo-Celtics" # Establish Contact with Neo-Celtic Nations
 EDG_CWN_5_2_desc:0 "Irish refugees displaced by Britain's various conflicts have established their own nations in the New World. With Ireland now once again a loyal member of the British Commonwealth, what of this outpost in the new world?"
-EDG_CWN_5_2_TT:0 "§G Event Preview:§!\n@NIR will become our §YCommonwealth Autonomous Region§!."
+EDG_CWN_5_2_TT:0 "§GEvent Preview:§!\n@NIR will become our §YCommonwealth Autonomous Region§!."
 
 EDG_CWN_5_3_title:0 "Song of Sons and Daughters"
 EDG_CWN_5_3_desc:0 "Creating peace, building the future—this is our song of sons and daughters."
@@ -75,7 +75,7 @@ EDG_CWN_1_6_desc:0 "We must increase revenue and reduce expenditure by all neces
 
 EDG_CWN_1_8_title:0 "Market Regulation"
 EDG_CWN_1_8_desc:0 "To safeguard the Commonwealth's order and peace, the markets should be regulated by the federal government."
-EDG_CWN_1_8_TT:0 "The privilege §YAttract Investment§! no longer increases §YCorruption§!, §YBurgher Influence§!, or §YAbolutism§!. Provides new options for the §R Twilight Era§! disaster event chain §YRotten at the Core§!."
+EDG_CWN_1_8_TT:0 "The privilege §YAttract Investment§! no longer increases §YCorruption§!, §YBurgher Influence§!, or §YAbolutism§!. Provides new options for the §RTwilight Era§! disaster event chain §YRotten at the Core§!."
 
 EDG_CWN_2_6_title:0 "Guild Financing"
 EDG_CWN_2_6_desc:0 "The guilds are the lifeblood of our economy. We must make the necessary adjustments to ensure they receive exclusive patronage throughout the Commonwealth."
@@ -85,7 +85,7 @@ EDG_CWN_2_7_desc:0 "Ensuring wealth remains our nation's foremost priority. Let 
 
 EDG_CWN_2_8_title:0 "Guild Inspection"
 EDG_CWN_2_8_desc:0 "The expanding power of the guilds is not entirely beneficial for the development of Commonwealth manufacturing. To prevent them from becoming a cancerous monopoly over the Commonwealth's industries, we need to dispatch inspectors to supervise them."
-EDG_CWN_2_8_TT:0 "The privilege §YGuild Financing§! no longer increases §YCorruption§!, §YBurgher Influence§!, or §YAbolutism§!. Provides new options for the §R Twilight Era§! disaster event chain §YRotten at the Core§!."
+EDG_CWN_2_8_TT:0 "The privilege §YGuild Financing§! no longer increases §YCorruption§!, §YBurgher Influence§!, or §YAbolutism§!. Provides new options for the §RTwilight Era§! disaster event chain §YRotten at the Core§!."
 
 EDG_CWN_2_9_title:0 "World Trade Center"
 EDG_CWN_2_9_desc:0 "Wherever our gaze falls, unimaginable opportunities for wealth abound. Our market is the center of world trade."
@@ -98,11 +98,11 @@ EDG_CWN_3_6_desc:0 "We need to consolidate our position in the North Sea through
 
 EDG_CWN_3_7_title:0 "Crack Down on Piracy"
 EDG_CWN_3_7_desc:0 "Maddened pirates are hindering the trade order of the British Commonwealth. It's time to strike them a decisive blow!"
-EDG_CWN_3_7_TT:0 "The §R Twilight Era§! disaster event: §YAge of Pirates§! will no longer occur."
+EDG_CWN_3_7_TT:0 "The §RTwilight Era§! disaster event: §YAge of Pirates§! will no longer occur."
 
 EDG_CWN_3_8_title:0 "Curb Corruption"
 EDG_CWN_3_8_desc:0 "Unmanaged prosperity can become a breeding ground for corruption and vice. If this is perceived as miserliness, it's because some fail to realize that combating this evil is the very essence of governance."
-EDG_CWN_3_8_TT:0 "When §TCommonwealth Prosperity§! reaches its maximum, provides us with §G-0.1§! Yearly Corruption, and provides new options for the §R Twilight Era§! disaster event chain §YRotten at the Core§!."
+EDG_CWN_3_8_TT:0 "When §TCommonwealth Prosperity§! reaches its maximum, provides us with §G-0.1§! Yearly Corruption, and provides new options for the §RTwilight Era§! disaster event chain §YRotten at the Core§!."
 
 EDG_CWN_4_6_title:0 "Expand the British Navy" # Expand the Commonwealth Navy
 EDG_CWN_4_6_desc:0 "The naval forces we currently maintain are merely levied from the citizenry—slow to mobilize and expensive to boot. We must establish a standing navy to defend the isles from foreign invasion and secure the Commonwealth's future."
@@ -201,7 +201,7 @@ EDG_CWN_4_12_TT:0 "Provinces we own in §YIreland§! will gain §Y1§! §GBase P
 
 EDG_CWN_4_14_title:0 "Aid for Ireland"
 EDG_CWN_4_14_desc:0 "The Great Famine has severely struck Ireland, where arable land is insufficient. We must act before it deals a devastating blow to the Commonwealth."
-EDG_CWN_4_14_a_TT:0 "§G Event Preview:§!\nFulfill our promise in the Verdant Pact to protect all afflicted Irish people."
+EDG_CWN_4_14_a_TT:0 "§GEvent Preview:§!\nFulfill our promise in the Verdant Pact to protect all afflicted Irish people."
 EDG_CWN_4_14_b_TT:0 "All provinces in the Ireland region gain §R+50§! Local Autonomy, §R20§! years of Separatism, and §R-2§! Development."
 
 EDG_CWN_4_15_title:0 "The Emerald March"

@@ -1,8 +1,9 @@
 ﻿l_english:
 FA2:0 "Bretagne"
 FA2_ADJ:0 "Breton"
+FA3:0 "Gallia"
 
-EDG_gaelic_scottish:0 "Greater Scottish"
+EDG_gaelic_scottish:0 "Alban" # Greater Scottish
 EDG_gaelic_english:0 "Anglian"
 EDG_culture_East_Anglia:0 "East Saxon"
 EDG_culture_Northumbria:0 "Northumbrian"

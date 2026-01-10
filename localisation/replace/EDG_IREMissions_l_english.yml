@@ -15,25 +15,25 @@ EDG_IRE_mission_remove_core.effect.tt:0 "Removes §Tcores§! from all §Yother c
 
 EDG_IRE_mission_3_4_title:0 "Estranged Hearts"
 EDG_IRE_mission_3_4_desc:0 "The Kingdom of Scotland and the Kingdom of Ireland share a deep historical connection, yet they have ultimately come to this point. Long-standing conflicts make it impossible for us to treat them as brothers anymore. Although our strength still falls below that of the Kingdoms of Scotland and England, they will certainly not easily conquer Ireland again! Considering our capital's proximity to the front lines, we must contemplate either relocating the capital or fortifying it."
-EDG_IRE_mission_3_4.condition.tt:0 "When §Y[4121.GetName]§! is the §Tcapital§! of @IRE§Y[Root.GetName]§!, the event §T"Ulster Conference"§! will be triggered.\n"
+EDG_IRE_mission_3_4.condition.tt:0 "When §Y[4121.GetName]§! is the §Tcapital§! of @IRE§Y[Root.GetName]§!, the event §T'Ulster Conference'§! will be triggered.\n"
 EDG_IRE_mission_3_4_fort.effect.tt:0 "If §Y[4378.GetName]§! has a §Tfort§! and §Y[4121.GetName]§! does not, then the fort in the province of §Y[4378.GetName]§! will be §Tmoved§! to §Y[4121.GetName]§!.\n"
 
 EDG_IRE_mission_3_5_title:0 "A Risky Gambit"
 EDG_IRE_mission_3_5_desc:0 "Defeating the Kingdom of Scotland head-on is an extremely difficult task, yet the predicament we face leaves us no room to seek other methods. Only a proactive offensive can break the current deadlock!"
-EDG_IRE_mission_3_5.condition.tt:0 "The §Yadditional conditions§! for this mission depend on the choice we made in the event §T"Union of Leinster"§!."
-EDG_IRE_mission_3_5_event.effect.tt:0 "When @SCO§Y[SCO.GetName]§! exists, the event §T"Crossing the Irish Sea"§! will be triggered.\n"
+EDG_IRE_mission_3_5.condition.tt:0 "The §Yadditional conditions§! for this mission depend on the choice we made in the event §T'Union of Leinster'§!."
+EDG_IRE_mission_3_5_event.effect.tt:0 "When @SCO§Y[SCO.GetName]§! exists, the event §T'Crossing the Irish Sea'§! will be triggered.\n"
 
 EDG_IRE_mission_3_7_title:0 "Aria of Fortitude"
 EDG_IRE_mission_3_7_desc:0 "Initial victory in war does not mean we can let our guard down. Steadily advancing into the heartland of Albion is the wisest course of action."
 
 EDG_IRE_mission_3_6_title:0 "Melody of the Organ" # Resonant Melody of the Organ
 EDG_IRE_mission_3_6_desc:0 "A resounding and sweeping victory! We have defeated the Scots. Now it is our turn to play our own tune!"
-EDG_IRE_mission_3_6.event.effect.tt:0 "When @SCO§Y[SCO.GetName]§! §Tdoes not exist§! and we own the province §Y[248.GetName]§!, the event §T"The Crown of Scotland"§! will be triggered.\n"
+EDG_IRE_mission_3_6.event.effect.tt:0 "When @SCO§Y[SCO.GetName]§! §Tdoes not exist§! and we own the province §Y[248.GetName]§!, the event §T'The Crown of Scotland'§! will be triggered.\n"
 EDG_IRE_mission_3_6.give_cb_annex.effect.tt:0 "When @ENG§Y[ENG.GetName]§! exists, we will gain a §TConquest§! casus belli against @ENG§Y[ENG.GetName]§!.\n"
 
 EDG_IRE_mission_3_8_title:0 "Finale of the Rhapsody"
 EDG_IRE_mission_3_8_desc:0 "The era of the Anglo-Saxons has come to a definitive end. Now there is only us—the Ard Rí of Ireland is the sole King of Albion!"
-EDG_IRE_mission_3_8.event.tt:0 "When @ENG§Y[ENG.GetName]§! §Tdoes not exist§! and we own province §Y[236.GetName]§!, the event §T"The Crown of England"§! will be triggered.\n"
+EDG_IRE_mission_3_8.event.tt:0 "When @ENG§Y[ENG.GetName]§! §Tdoes not exist§! and we own province §Y[236.GetName]§!, the event §T'The Crown of England'§! will be triggered.\n"
 
 EDG_IRE_mission_3_9_title:0 "The Emerald Isle"
 EDG_IRE_mission_3_9_desc:0 "The Emerald Isle, the jewel beneath Albion, shall continue to shine and glimmer under our rule, radiating with vibrant life in the ages to come..."
@@ -41,8 +41,8 @@ EDG_IRE_mission_3_9_desc:0 "The Emerald Isle, the jewel beneath Albion, shall co
 EDG_IRE_mission_3_10_title:0 "Playing Albion's Tune"
 EDG_IRE_mission_3_10_desc:0 "From a struggle for survival to unifying the entire archipelago, our grand achievements are destined to be sung by bards for millennia to come. Let us play loud and high, celebrating the archipelago's rebirth with the most fervent festivities, as the organ resounds with its most elegant and ancient name—Albion!"
 EDG_IRE_mission_3_10.effect.tt:0 "Forming @ABN§Y[ABN.GetName]§! §Yno longer requires§! a specific §TAdministrative Technology§! level.\n"
-EDG_IRE_mission_3_10.new.effect.tt:0 "Because we §Ysimultaneously possess§! the modifiers §T'The Crown of Scotland'§!, §T'The Crown of England'§!, and §T'The Crown of Ireland'§!, when forming @ABN§Y[ABN.GetName]§!, we will trigger the event §T"Union of Ulster"§!.\n"
-EDG_IRE_mission_3_10.event.effect.tt:0 "Upon completing this mission, if we §Ysimultaneously possess§! the modifiers §T'The Crown of Scotland'§!, §T'The Crown of England'§!, and §T'The Crown of Ireland'§!, then when forming @ABN§Y[ABN.GetName]§!, the event §T"Union of Ulster"§! will be triggered.\n"
+EDG_IRE_mission_3_10.new.effect.tt:0 "Because we §Ysimultaneously possess§! the modifiers §T'The Crown of Scotland'§!, §T'The Crown of England'§!, and §T'The Crown of Ireland'§!, when forming @ABN§Y[ABN.GetName]§!, we will trigger the event §T'Union of Ulster'§!.\n"
+EDG_IRE_mission_3_10.event.effect.tt:0 "Upon completing this mission, if we §Ysimultaneously possess§! the modifiers §T'The Crown of Scotland'§!, §T'The Crown of England'§!, and §T'The Crown of Ireland'§!, then when forming @ABN§Y[ABN.GetName]§!, the event §T'Union of Ulster'§! will be triggered.\n"
 
 
 EDG_IRE_mission_1_1_title:0 "Sounds from the Other Shore"
@@ -61,11 +61,11 @@ EDG_IRE_mission_1_4.effect.tt:0 "We will be able to hire a §Yspecial mercenary�
 
 EDG_IRE_mission_1_7_title:0 "Heroic Hymn"
 EDG_IRE_mission_1_7_desc:0 "Let us loudly sing the praises of those brave and fearless heroes! It is they who have led the armies of Ireland to new victories!"
-EDG_IRE_mission_1_7.effect.tt:0 "If we have §Ycompleted§! the mission §T"Past and Future"§!, the §Tculture§! in the §YWessex§! region will be converted to §YCornish§! and gain §Y1§! §Tbase manpower§!.\n"
+EDG_IRE_mission_1_7.effect.tt:0 "If we have §Ycompleted§! the mission §T'Past and Future'§!, the §Tculture§! in the §YWessex§! region will be converted to §YCornish§! and gain §Y1§! §Tbase manpower§!.\n"
 
 EDG_IRE_mission_1_9_title:0 "Reclaiming the Old Dream"
 EDG_IRE_mission_1_9_desc:0 "Let us rekindle the old dream within the hearts of the people. Carrying the fervent hopes of a nation, let us reclaim the glory we once lost and stride toward the future!"
-EDG_IRE_mission_1_9.event.effect.tt:0 "When @BRI§YBrittany§! is our §Ysubject§!, the event §T"Great Britain and Lesser Britain"§! will be triggered.\n"
+EDG_IRE_mission_1_9.event.effect.tt:0 "When @BRI§YBrittany§! is our §Ysubject§!, the event §T'Great Britain and Lesser Britain'§! will be triggered.\n"
 
 EDG_IRE_mission_5_1_title:0 "Heart of the Forest"
 EDG_IRE_mission_5_1_desc:0 "The resources of the Irish peninsula are not abundant. We must make full use of the limited resources on this not-so-prosperous island, and what we have most of is the seemingly endless expanse of timber."
@@ -80,7 +80,7 @@ EDG_IRE_mission_5_4_desc:0 "Our navy is not as powerful as those of Scotland and
 
 EDG_IRE_mission_5_7_title:0 "Sonata of Swiftness"
 EDG_IRE_mission_5_7_desc:0 "Riding on this surge of morale, we should continue advancing into every corner of Albion, sweeping away those feeble enemies with overwhelming force!"
-EDG_IRE_mission_5_7.vassal_effect.tt:0 "When we complete this mission through §Ydiplomatic means§!, all §YEnglish Free Cities§! and @NFK§Y[NFK.GetName]§! will trigger the event §T"Autonomy Accord"§!, allowing us to §Tpeacefully vassalize§! the aforementioned nations.\n\nWhen we complete this mission through §Yconquest means§!, the event §T"The Lollard Commission"§! will be triggered.\n"
+EDG_IRE_mission_5_7.vassal_effect.tt:0 "When we complete this mission through §Ydiplomatic means§!, all §YEnglish Free Cities§! and @NFK§Y[NFK.GetName]§! will trigger the event §T'Autonomy Accord'§!, allowing us to §Tpeacefully vassalize§! the aforementioned nations.\n\nWhen we complete this mission through §Yconquest means§!, the event §T'The Lollard Commission'§! will be triggered.\n"
 
 EDG_IRE_mission_5_9_title:0 "Follow the Heart"
 EDG_IRE_mission_5_9_desc:0 "Let us follow the people's choice, paving the way forward. Regardless of faith, Ireland will step into the future accompanied by the sound of music."
@@ -95,7 +95,7 @@ EDG_IRE_mission_4_2_desc:0 "Agriculture is the cornerstone for developing everyt
 
 EDG_IRE_mission_4_6_title:0 "Tides of Ships and Waves"
 EDG_IRE_mission_4_6_desc:0 "After defeating Scotland, our fishing industry can expand northward without further concern for their harassment."
-EDG_IRE_mission_4_6.event.effect.tt:0 "When @NOR§Y[NOR.GetName]§! owns the province §Y[369.GetName]§!, the event §T"Purchase of Orkney"§! will be triggered!"
+EDG_IRE_mission_4_6.event.effect.tt:0 "When @NOR§Y[NOR.GetName]§! owns the province §Y[369.GetName]§!, the event §T'Purchase of Orkney'§! will be triggered!"
 
 EDG_IRE_mission_4_8_title:0 "Tradition and Reform"
 EDG_IRE_mission_4_8_desc:0 "The introduction of Christianity transformed Ireland from a tribal era towards feudalism. Yet, over time, even conservative elements of Hibernian Christianity have recognized the corruption behind the Roman Curia. In this new age, we must make our own choice."
@@ -113,17 +113,17 @@ EDG_IRE_mission_2_2.eng.condition.tt:0 "Has gained at least §T50§! relations i
 
 EDG_IRE_mission_2_3_title:0 "Alliance of Interest"
 EDG_IRE_mission_2_3_desc:0 "An unstable triangular alliance has thus formed across the seas. Although interests may lead to a series of betrayals and abandonments within the pact, they can also quickly unite any available forces."
-EDG_IRE_mission_2_3.effect.tt:0 "When we are simultaneously in an §Talliance§! with both @WLS§YWales§! and @BRI§YBrittany§!, the event §T"Union of Leinster"§! will be triggered.\n"
+EDG_IRE_mission_2_3.effect.tt:0 "When we are simultaneously in an §Talliance§! with both @WLS§YWales§! and @BRI§YBrittany§!, the event §T'Union of Leinster'§! will be triggered.\n"
 EDG_IRE_mission_2_3_break_effect.tt:0 "If @SCO§YScotland§! is in an §Talliance§! with either @WLS§YWales§! or @BRI§YBrittany§!, remove the §Talliance§! between @SCO§YScotland§! and @WLS§YWales§! or @BRI§YBrittany§!.\n"
 
 EDG_IRE_mission_2_6_title:0 "Dance of the Broken Mold" # Dance of Breaking the Mold
 EDG_IRE_mission_2_6_desc:0 "We have already proven ourselves to others; Scotland is not invincible. Now it is their turn to prove themselves!"
-EDG_IRE_mission_2_6.condition.tt:0 "The §Yadditional conditions§! for this mission depend on the choice we made in the event §T"Union of Leinster"§!."
-EDG_IRE_mission_2_6.effect.tt:0 "After triggering the event §T"Union of Leinster"§!, if @WLS§YWales§! or @BRI§YBrittany§! exists, is a §Ysovereign state§!, and is in an §Talliance§! with us, the event §T"Terms of the Union"§! will be triggered.\n"
+EDG_IRE_mission_2_6.condition.tt:0 "The §Yadditional conditions§! for this mission depend on the choice we made in the event §T'Union of Leinster'§!."
+EDG_IRE_mission_2_6.effect.tt:0 "After triggering the event §T'Union of Leinster'§!, if @WLS§YWales§! or @BRI§YBrittany§! exists, is a §Ysovereign state§!, and is in an §Talliance§! with us, the event §T'Terms of the Union'§! will be triggered.\n"
 
 EDG_IRE_mission_2_8_title:0 "Past and Future"
 EDG_IRE_mission_2_8_desc:0 "In the past, Celtic footprints spread across all of Europe, with some even reaching the Anatolian peninsula. Now, the Celts scattered across various lands are few and far between, either relegated to corners or vanished entirely. Perhaps we need a transformation to reawaken in our people the glory of our past."
-EDG_IRE_mission_2_8.event.effect.tt:0 "When Scotland does not exist, the event §T"Greater Celticism"§! will be triggered.\n"
+EDG_IRE_mission_2_8.event.effect.tt:0 "When Scotland does not exist, the event §T'Greater Celticism'§! will be triggered.\n"
 
 EDG_IRE_mission_2_10_title:0 "Portraying Greater Celtica"
 EDG_IRE_mission_2_10_desc:0 "The future is a blank canvas, Ireland is the painter, and the various legends and honors of the past will be depicted by us in the future."

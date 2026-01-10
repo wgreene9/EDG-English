@@ -635,7 +635,7 @@ EDG_BDX_enable_dynamic_war_title:0 "Enable §ODynamic War§!"
 EDG_BDX_enable_dynamic_war_desc:0 ""
 EDG_BDX_disable_dynamic_war_title:0 "Disable §ODynamic War§!"
 EDG_BDX_disable_dynamic_war_desc:0 ""
-EDG_BDX_rename_to_argead_title:0 "Adopt Dynastic Name §YArgead§! as the Country Name" # Adopt the Dynastic Name §YArgead§! as the Country Name
+EDG_BDX_rename_to_argead_title:0 "Adopt Dynastic Name §YArgead§! as Country Name" # Adopt the Dynastic Name §YArgead§! as the Country Name
 EDG_BDX_rename_to_argead_desc:0 ""
 EDG_BDX_rename_to_great_xia_title:0 "Adopt §YDaxia§! as the Country Name"
 EDG_BDX_rename_to_great_xia_desc:0 ""

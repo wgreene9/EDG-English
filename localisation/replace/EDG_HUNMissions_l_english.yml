@@ -5,7 +5,7 @@ EDG_HUN_mission_1_1_desc:0 "Since the signing of the Pacta Conventa in 1102, the
 EDG_HUN_mission_1_3_title:0 "Preserve Bosnia"
 EDG_HUN_mission_1_3_desc:0 "Bosnia's days of maneuvering between Rome and Constantinople are over; its local church shall now be led directly by the Cardinal of Pest. The weak King of Bosnia cannot protect his people from the pillaging Turks, the bellicose Bulgarians, or even the nearby Lord of Herzegovina. Let us preserve them by becoming their rightful sovereign."
 EDG_HUN_mission_1_3.subject.tt:0 "If §YBOS§Y[BOS.GetName]§! is our §Ysubject§!"
-EDG_HUN_mission_1_3.ser.tt:0 "If §YSER§Y[SER.GetName]§!§T exists and is independent§! when completing the mission."
+EDG_HUN_mission_1_3.ser.tt:0 "If §YSER§Y[SER.GetName]§! §Texists and is independent§! when completing the mission."
 
 EDG_HUN_mission_1_5_title:0 "March into Bulgaria"
 EDG_HUN_mission_1_5_desc:0 "The Bulgarian warlords, by oppressing their people in the frenzied wars of recent years, have achieved astonishing successes right under our noses, even arrogantly claiming the laurels of Rome. Yet their conquests are unstable; the shadows of the past still hover over the Balkans, yearning to break free from the Bulgar yoke. The Bulgars have long been a thorn in our side. Let us become the Bulgar-Slayers of a new age, liberate the peoples of the Balkans, and conquer the descendants of Simeon the Great."
@@ -32,8 +32,8 @@ EDG_HUN_mission_2_2.subject.tt:0 "If §YWAL§Y[WAL.GetName]§! is our §Ysubject
 
 EDG_HUN_mission_2_4_title:0 "Crush Serbia"
 EDG_HUN_mission_2_4_desc:0 "Serbia once built a vast empire after the Battle of Sofia, but now, following the Bulgarian wars, they are hanging by a thread, their glory faded. The crown of Stefan has been tarnished. We should ensure that the descendants of Nemanjic are also illuminated by our radiance, restoring their former strength and opening a new chapter of their power—as princes subject to the Holy Crown of Saint Stephen."
-EDG_HUN_mission_2_4.subject.tt:0 "If §YBUL§Y[BUL.GetName]§!§T exists and is independent§! when completing the mission."
-EDG_HUN_mission_2_4.subject_2.tt:0 "If §YBU1§Y[BU1.GetName]§!§T exists and is independent§! when completing the mission."
+EDG_HUN_mission_2_4.subject.tt:0 "If §YBUL§Y[BUL.GetName]§! §Texists and is independent§! when completing the mission."
+EDG_HUN_mission_2_4.subject_2.tt:0 "If §YBU1§Y[BU1.GetName]§! §Texists and is independent§! when completing the mission."
 
 EDG_HUN_mission_2_6_title:0 "Control Macedonia"
 EDG_HUN_mission_2_6_desc:0 "The Turkish marauders have occupied the Balkan Peninsula for far too long; their days of enslaving the Greeks are numbered. It is time to drive them from our southern territories all the way to the Aegean frontier, incorporating the wealthy coastline of Thessaloniki and the valiant people of Macedonia into our kingdom, thereby establishing our Balkan hegemony!"
@@ -53,12 +53,12 @@ EDG_HUN_mission_2_14_desc:0 "Our conquests have brought vast lands inhabited by 
 
 EDG_HUN_mission_3_1_title:0 "Time Waits for No One"
 EDG_HUN_mission_3_1_desc:0 "If Bohemia is the jewel of the Holy Roman Empire, then Hungary is the crown guarding that jewel. However, the disastrous Crusade of Varna changed everything. The heir of the great Sigismund fell in battle, and Hungary was severely weakened. The nobles have grown estranged from the Emperor and are no longer willing to be remotely controlled by the court in Prague. Regent János Hunyadi has become the uncrowned king of the Apostolic Kingdom and will eventually part ways with the Empire. The times are calling, the eve of war has arrived. As soon as the great Sigismund passes, we shall usher in our own era. Time waits for no one; the Magyars recognize only power!"
-EDG_HUN_mission_3_1.wal.tt:0 "If §YWAL§Y[WAL.GetName]§!§T exists and is independent§! when completing the mission."
-EDG_HUN_mission_3_1.MOL.tt:0 "If §YMOL§Y[MOL.GetName]§!§T exists and is independent§! when completing the mission."
+EDG_HUN_mission_3_1.wal.tt:0 "If §YWAL§Y[WAL.GetName]§! §Texists and is independent§! when completing the mission."
+EDG_HUN_mission_3_1.MOL.tt:0 "If §YMOL§Y[MOL.GetName]§! §Texists and is independent§! when completing the mission."
 
 EDG_HUN_mission_3_2_title:0 "Stabilize the Subjects"
 EDG_HUN_mission_3_2_desc:0 "Due to Emperor Sigismund's prolonged absence from Hungary, he had to entrust state affairs to the great nobles, severely damaging Hungary's centralization and causing decades of stagnation, effectively fragmenting the country among the magnates. With our own independence achieved, we must stabilize these great nobles and firmly grasp all the Lands of the Holy Crown of Saint Stephen."
-EDG_HUN_mission_3_2.bos.tt:0 "If §YBOS§Y[BOS.GetName]§!§T exists and is independent§! when completing the mission."
+EDG_HUN_mission_3_2.bos.tt:0 "If §YBOS§Y[BOS.GetName]§! §Texists and is independent§! when completing the mission."
 
 EDG_HUN_mission_3_3_title:0 "Scourge of Europe"
 EDG_HUN_mission_3_3_desc:0 "Now is the time to unite the various lands and stand against the vile Turks who seek our annihilation. In our offensive, we represent all of Christendom. Just as a sword must be tempered by fire, our resolve has been forged under the pressure of upheaval. Secure the borders and consolidate our territories. We shall not yield easily."

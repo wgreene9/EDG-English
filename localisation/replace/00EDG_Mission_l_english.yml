@@ -1219,8 +1219,8 @@ EDG_SCO_mission_4_2_no_tooltip:0 "£no£If our relations with Ireland reach 150,
 EDG_SCO_mission_5_3_yes_tooltip:0 "£yes£If we own all of Ireland, Ireland will lose 30 Separatism; otherwise, we will gain a Level 2 Subject Representative advisor and a diplomatic modifier"
 EDG_SCO_mission_5_3_no_tooltip:0 "£no£If we own all of Ireland, Ireland will lose 30 Separatism; otherwise, we will gain a Level 2 Subject Representative advisor and a diplomatic modifier"
 
-EDG_flavorSCO_mission_9_a_tooltip:0 "All provinces and states of §YScottish§! culture will transform into §YGreater Scottish§! culture. §YGreater Scottish§! culture will belong to the Celtic culture group instead of the British culture group. Simultaneously, provinces in the §YBritish§! culture group will begin gradually transforming into §YGreater Scottish§! or Celtic cultures. This will strengthen our Celtic nationalism.\n\nWe will gain the opportunity to convert to §YGreater Celticism§! at an appropriate time."
-EDG_SCO_mission_5_8_tooltip:0 "All provinces with Greater Scottish culture will gain the following effect"
+EDG_flavorSCO_mission_9_a_tooltip:0 "All provinces and states of §YScottish§! culture will transform into §YAlban§! culture. §YAlban§! culture will belong to the Celtic culture group instead of the British culture group. Simultaneously, provinces in the §YBritish§! culture group will begin gradually transforming into §YAlban§! or Celtic cultures. This will strengthen our Celtic nationalism.\n\nWe will gain the opportunity to convert to §YGreater Celticism§! at an appropriate time."
+EDG_SCO_mission_5_8_tooltip:0 "All provinces with Alban culture will gain the following effect"
 EDG_SCO_mission_5_9_tooltip:0 "All provinces in the Celtic culture group will gain the following effect"
 
 EDG_SCO_mission_2_7_yes_tooltip:0 "£yes£If our Mercantilism reaches §Y20§!, then"
@@ -1918,7 +1918,7 @@ EDG_BUL_decision_form_BU1_tt:0 "We will need to choose our §Ynational path§!: 
 
 EDG_flavor_BUL_1_flag:0 "Bulgarian War of Independence"
 
-EDG_BUL_empire_roma_flag_tt:0 "We will enable the §Mmission tree§! and §Mnational ideas§! for the §YSuccessor of Rome§! path.\nWe will be able to claim the historical territories of the §MRoman Empire§!, conduct §YImperial Reconquest§!, and §!restore the Five Patriarchates§!.\n\n§YAuthor-recommended path§!"
+EDG_BUL_empire_roma_flag_tt:0 "We will enable the §Mmission tree§! and §Mnational ideas§! for the §YSuccessor of Rome§! path.\nWe will be able to claim the historical territories of the §MRoman Empire§!, conduct §YImperial Reconquest§!, and §Yrestore the Five Patriarchates§!.\n\n§YAuthor-recommended path§!"
 EDG_BUL_empire_slavic_flag_tt:0 "We will enable the §Mmission tree§! and §Mnational ideas§! for the §YGreater Slavic State§! path.\nWe will gain claims including those on §Mall Slavic peoples§! and conduct §YSlavic Invasions§!."
 EDG_BUL_empire_decline_end_flag:0 "The §YGrey Army Ascendancy§! disaster has ended"
 EDG_BUL_empire_roma_flag:0 "Successor of Rome"
@@ -2508,10 +2508,10 @@ EDG_mission_PIT_2_2_flag_tt:0 "We will choose a §Ymilitary path§!, which will 
 EDG_flavorPIT_2_a_flag_tt:0 "We will choose the §YNational Army§! military path, improving the quality of our regular forces.\nThis will permanently alter the §Mconditions§! and §Mrewards§! of our subsequent mission tree."
 EDG_flavorPIT_2_b_flag_tt:0 "We will choose the §YMercenary Army§! military path, improving the quality of our mercenary forces.\nThis will permanently alter the §Mconditions§! and §Mrewards§! of our subsequent mission tree."
 
-EDG_mission_PIT_2_5_a_tt_yes:0 "£yes£If we chose the §YNational Army§! path, then the national modifier §Y"Military Doctrine: Rely on the National Army"§! will be upgraded to the following effect:"
-EDG_mission_PIT_2_5_a_tt_no:0 "£no£If we chose the §YNational Army§! path, then the national modifier §Y"Military Doctrine: Rely on the National Army"§! will be upgraded to the following effect:"
-EDG_mission_PIT_2_5_b_tt_yes:0 "£yes£If we chose the §YMercenary Army§! path, then the national modifier §Y"Military Doctrine: Rely on Mercenaries"§! will be upgraded to the following effect:"
-EDG_mission_PIT_2_5_b_tt_no:0 "£no£If we chose the §YMercenary Army§! path, then the national modifier §Y"Military Doctrine: Rely on Mercenaries"§! will be upgraded to the following effect:"
+EDG_mission_PIT_2_5_a_tt_yes:0 "£yes£If we chose the §YNational Army§! path, then the national modifier §Y'Military Doctrine: Rely on the National Army'§! will be upgraded to the following effect:"
+EDG_mission_PIT_2_5_a_tt_no:0 "£no£If we chose the §YNational Army§! path, then the national modifier §Y'Military Doctrine: Rely on the National Army'§! will be upgraded to the following effect:"
+EDG_mission_PIT_2_5_b_tt_yes:0 "£yes£If we chose the §YMercenary Army§! path, then the national modifier §Y'Military Doctrine: Rely on Mercenaries'§! will be upgraded to the following effect:"
+EDG_mission_PIT_2_5_b_tt_no:0 "£no£If we chose the §YMercenary Army§! path, then the national modifier §Y'Military Doctrine: Rely on Mercenaries'§! will be upgraded to the following effect:"
 
 EDG_mission_PIT_2_5_trigger_tooltip:0 "The completion conditions and rewards for this mission depend on the §Ymilitary path§! we have chosen."
 
@@ -2542,11 +2542,11 @@ EDG_flavorPIT_13_a_opinion_modifier:0 "Shattering the Roman Yoke"
 EDG_mission_PIT_5_6_modifier_trigger_tt:0 "Until we end the war with @PAP §Ythe Papal State§!"
 EDG_mission_PIT_5_6_tt:0 "After completing this mission, whenever we are at war with @PAP §Ythe Papal State§!, we will gain the following modifier:"
 
-EDG_mission_PIT_1_8_flag_tt:0 "The event §Y"Public Library"§! will continuously occur in provinces of our §Yculture group§!."
+EDG_mission_PIT_1_8_flag_tt:0 "The event §Y'Public Library'§! will continuously occur in provinces of our §Yculture group§!."
 
 EDG_flavorPIT_14_a_tt:0 "This event will keep occurring until all provinces of our §Yculture group§! have this modifier."
 
-EDG_mission_PIT_2_9_tt:0 "All provinces with the modifier §Y"Public Library"§! will gain the following effect:"
+EDG_mission_PIT_2_9_tt:0 "All provinces with the modifier §Y'Public Library'§! will gain the following effect:"
 
 EDG_mission_PIT_1_3_flag_tt:0 "We will unlock a series of §Yreform the government§! decisions, allowing us to reform from a §Mrepublic§! into a §Ytheocracy§!.\nAs the reforms progress, we will face a §Rdisaster§!, and only after the §Rdisaster§! ends can we complete the government reform."
 
@@ -2602,8 +2602,8 @@ EDG_mission_SAX_army_decision_flemish_flag_tt:0 "Unlocks a special decision allo
 EDG_mission_SAX_army_decision_frisian_flag_tt:0 "Unlocks a special decision allowing us to establish a more comprehensive conscription system in §YFrisia§!."
 
 EDG_flavorSAX_6_a_flag_tt:0 "Before the emergence of §MProtestantism§!, we will be able to attract foreign §YEuchite§! believers to our lands. They will settle in our country and may even influence the §Ydominant faith§! of our provinces."
-EDG_flavorSAX_1_6_tt:0 "All provinces under our rule that do not follow §YPrayerism§! will receive the following effects:"
-EDG_flavorSAX_1_6_tt_2:0 "The §YEuchite§! settlement event will randomly expand a §YEuchite Community§! in a province, producing the following specific effects:\n-If the province does not follow §YPrayerism§! and does not have a §GSmall Euchite Community§!, add a §GSmall Euchite Community§!.\n-If the province has a §GSmall Euchite Community§! and its development is below 7, the province's religion converts to §YPrayerism§!; otherwise, add a §GMedium Euchite Community§!.\n-If the province has a §GMedium Euchite Community§! and its development is below 13, the province's religion converts to §YPrayerism§!; otherwise, add a §GLarge Euchite Community§!.\n-If the province has a §GLarge Euchite Community§!, the province's religion converts to §YPrayerism§!.\n-Additionally, provinces under our rule that follow §YPrayerism§! will have an additional event to gain §Gdevelopment§!."
+EDG_flavorSAX_1_6_tt:0 "All provinces under our rule that do not follow §YEuchitism§! will receive the following effects:"
+EDG_flavorSAX_1_6_tt_2:0 "The §YEuchite§! settlement event will randomly expand a §YEuchite Community§! in a province, producing the following specific effects:\n-If the province does not follow §YEuchitism§! and does not have a §GSmall Euchite Community§!, add a §GSmall Euchite Community§!.\n-If the province has a §GSmall Euchite Community§! and its development is below 7, the province's religion converts to §YEuchitism§!; otherwise, add a §GMedium Euchite Community§!.\n-If the province has a §GMedium Euchite Community§! and its development is below 13, the province's religion converts to §YEuchitism§!; otherwise, add a §GLarge Euchite Community§!.\n-If the province has a §GLarge Euchite Community§!, the province's religion converts to §YEuchitism§!.\n-Additionally, provinces under our rule that follow §YEuchitism§! will have an additional event to gain §Gdevelopment§!."
 
 EDG_flavorSAX_7_c_effect_tt:0 "No more §YEuchite§! believers will immigrate to our country.\n\nAll §YEuchite Communities§! within our lands will be disbanded."
 
@@ -2847,17 +2847,17 @@ EDG_on_mil_exploited_reduce_FYM_corruption_flag_tt:0 "When we exploit a province
 can_sell_crownland_to_estates_targeted_flag_tt:0 "We will be able to sell §Ycrownland§! to §Yspecified estates§!."
 can_seize_crownland_to_estates_targeted_flag_tt:0 "We will be able to seize land from §Yspecified estates§!."
 
-EDG_RandomEvents_unable_poor_uniforms_flag_tt:0 "The negative event §Y"Poor Uniforms"§! will no longer occur."
-EDG_RandomEvents_unable_Temporary_insanity_of_Monarch_flag_tt:0 "The negative event §Y"Temporary Insanity of the Monarch"§! will no longer occur."
-EDG_RandomEvents_unable_Scandal_at_the_Court_flag_tt:0 "The negative event §Y"Scandal at the Court"§! will no longer occur."
-EDG_RandomEvents_unable_Wave_of_obscurantism_flag_tt:0 "The negative event §Y"Wave of Obscurantism"§! will no longer occur."
-EDG_RandomEvents_always_Diplomatic_move_flag_tt:0 "The event §Y"Diplomatic Move"§! no longer requires the ruler's diplomatic skill to be §M4§!."
-EDG_RandomEvents_unable_Poor_government_policies_flag_tt:0 "The negative event §Y"Poor Government Policies"§! will no longer occur."
-EDG_RandomEvents_unable_Unhappiness_among_the_merchants_flag_tt:0 "The negative event §Y"Unhappiness Among the Merchants"§! will no longer occur."
-EDG_RandomEvents_unable_Political_Crisis_flag_tt:0 "The negative event §Y"Political Crisis"§! will no longer occur."
-EDG_RandomEvents_unable_Corruption_flag_tt:0 "The negative event §Y"Rampant Corruption"§! will no longer occur."
-EDG_RandomEvents_unable_Nobles_flag_tt:0 "The negative event §Y"Nobles Demand Privileges"§! will no longer occur."
-EDG_RandomEvents_unable_Trading_Company_Disaster_flag_tt:0 "The negative event §Y"Trading Company Bankruptcy"§! will no longer occur."
+EDG_RandomEvents_unable_poor_uniforms_flag_tt:0 "The negative event §Y'Poor Uniforms'§! will no longer occur."
+EDG_RandomEvents_unable_Temporary_insanity_of_Monarch_flag_tt:0 "The negative event §Y'Temporary Insanity of the Monarch'§! will no longer occur."
+EDG_RandomEvents_unable_Scandal_at_the_Court_flag_tt:0 "The negative event §Y'Scandal at the Court'§! will no longer occur."
+EDG_RandomEvents_unable_Wave_of_obscurantism_flag_tt:0 "The negative event §Y'Wave of Obscurantism'§! will no longer occur."
+EDG_RandomEvents_always_Diplomatic_move_flag_tt:0 "The event §Y'Diplomatic Move'§! no longer requires the ruler's diplomatic skill to be §M4§!."
+EDG_RandomEvents_unable_Poor_government_policies_flag_tt:0 "The negative event §Y'Poor Government Policies'§! will no longer occur."
+EDG_RandomEvents_unable_Unhappiness_among_the_merchants_flag_tt:0 "The negative event §Y'Unhappiness Among the Merchants'§! will no longer occur."
+EDG_RandomEvents_unable_Political_Crisis_flag_tt:0 "The negative event §Y'Political Crisis'§! will no longer occur."
+EDG_RandomEvents_unable_Corruption_flag_tt:0 "The negative event §Y'Rampant Corruption'§! will no longer occur."
+EDG_RandomEvents_unable_Nobles_flag_tt:0 "The negative event §Y'Nobles Demand Privileges'§! will no longer occur."
+EDG_RandomEvents_unable_Trading_Company_Disaster_flag_tt:0 "The negative event §Y'Trading Company Bankruptcy'§! will no longer occur."
 EDG_RandomEvents_unable_Nobles_ally_with_foreign_power_flag_tt:0 "The negative event §Y'Nobles Ally with Foreign Power'§! will no longer occur."
 EDG_RandomEvents_unable_Assassination_flag_tt:0 "The negative event §Y'Assassination of Nobles'§! will no longer occur."
 EDG_RandomEvents_unable_Nobles_demand_increased_pensions_flag_tt:0 "The negative event §Y'Nobles Demand Increased Pensions'§! will no longer occur."
