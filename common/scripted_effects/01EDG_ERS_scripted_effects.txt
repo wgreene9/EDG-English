@@ -339,9 +339,9 @@ EDG_lose_ERS_region_core_effect = {
 	}
 }
 EDG_ERS_india_effect = {
-    1616 = { change_province_name = "Hindug?e ?beban" }
-    1633 = { change_province_name = "Var?mandig?e ?beban" }
-    1641 = { change_province_name = "Hindug?e And?rod" }
-    1624 = { change_province_name = "Hindug?e And?rod" }
-    1620 = { change_province_name = "Var?mandig?e ?beban" }
+    1616 = { change_province_name = "Hindug-e Abeban" }
+    1633 = { change_province_name = "Varamandig-e Abeban" }
+    1641 = { change_province_name = "Hindug-e Andarod" }
+    1624 = { change_province_name = "Hindug-e Andarod" }
+    1620 = { change_province_name = "Varamandig-e Abeban" }
 }

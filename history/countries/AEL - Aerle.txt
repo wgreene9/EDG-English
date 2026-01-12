@@ -56,7 +56,7 @@ fixed_capital = 201 # Cannot move capital away from this province & no power cos
 }
 1444.1.1 = {
   leader = {
-    name = "Florian de GÃ©henne"  # John Talbot
+    name = "Florian de Géhenne"  # John Talbot
     type = general
     fire = 4
     shock = 2

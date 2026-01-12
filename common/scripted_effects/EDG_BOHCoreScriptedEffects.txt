@@ -17,7 +17,7 @@ EDG_define_hussite_bishop = {
 	}
 	custom_tooltip = EDG_SPACE_TT
 	define_advisor = {
-		name = "Jakub Hlavá?ek"
+		name = "Jakub Hlavácek" # Hlavá?ek
 		type = EDG_tabor_bishop
 		skill = 5
 		cost_multiplier = 0.5

@@ -83,7 +83,7 @@ EDG_LEB_4_6_title:0 "Cedars and Crescent"
 EDG_LEB_4_6_desc:0 "Lebanon is known as the 'Land of Cedars,' with a deep connection to these trees. The pharaohs' ships of ancient Egypt, the Temple of Solomon in Jerusalem, even the thrones of Roman emperors were crafted from Lebanese cedar wood. Now, beneath these cedars and upon this fertile soil, a new Republic is rising, our blades as sharp as the crescent moon."
 EDG_flavorLEB_mission.5_tt:0 "§GEvent Foreshadowing:§!\nForm the nation @M06 Crescent Alliance and unlock the diplomatic interaction to export grain."
 
-EDG_LEB_5_3_title:0 "North Against the White Sheep" # Northern Expedition Against the Aq Qoyunlu
+EDG_LEB_5_3_title:0 "North Against the Aq Qoyunlu" # Northern Expedition Against the Aq Qoyunlu White Sheep
 EDG_LEB_5_3_desc:0 "The ambitious Aq Qoyunlu tribe to the north is a threat. Before their blades fall upon us, we should seize the opportunity to strike first."
 EDG_flavorLEB_mission.6_tt:0 "§GEvent Foreshadowing:§!\nDeclare war on the Aq Qoyunlu with an annexation casus belli.\n\n§YMission conditions and rewards will change if the Aq Qoyunlu lose Aleppo.§!"
 
@@ -163,7 +163,7 @@ EDG_LEB_2_19_title:0 "Republican Guard"
 EDG_LEB_2_19_desc:0 "The Mamluk system was built upon the foul slave trade and bloody rule, yet it has left a valuable legacy of warfare for the Republic. By reorganizing and incorporating the former Mamluks, they will become our loyal Republican Guard."
 EDG_LEB_mission_2_19_tt:0 "Unlock the privilege for the Emir estate to recruit Mamluks."
 
-EDG_LEB_2_21_title:0 "Establish Republican Military Authority"
+EDG_LEB_2_21_title:0 "A Republican Military" # Establish Republican Military Authority
 EDG_LEB_2_21_desc:0 "A prosperous empire requires a powerful military for its protection. After a long period of reform, we have established a military authority belonging to the Republic."
 
 EDG_LEB_2_22_title:0 "Cultivate the Nile Delta"
@@ -232,7 +232,7 @@ EDG_LEB_4_18_desc:0 "Many Arabs also reside in this rich strategic crossroads. L
 EDG_LEB_4_19_title:0 "Between Two Seas"
 EDG_LEB_4_19_desc:0 "The maritime trade between the Indian Ocean and the Mediterranean brought immense wealth to the rise of the Arab empires. As the successor to the Caliphate, the Republic should safeguard this hard-earned prosperity."
 
-EDG_LEB_4_21_title:0 "Establish Republican Trade Authority"
+EDG_LEB_4_21_title:0 "Republican Trade Authority" # Establish Republican Trade Authority
 EDG_LEB_4_21_desc:0 "The Republic's strength has once again stabilized trade in the Eastern Mediterranean. With the Gulf Arabs rejoining the Republic, the Eastern trade routes they preserved during the tumultuous times now hold our precious wealth. We will rebuild Arab influence in world trade."
 EDG_LEB_4_21_tt:0 "Enable the §YMaritime Silk Road§! event group."
 
@@ -248,7 +248,7 @@ EDG_LEB_4_24_title:0 "Creating Prosperity" # Create Prosperity with Our Hands
 EDG_LEB_4_24_desc:0 "The Arabian Peninsula lacks the favorable environment of other regions; wealth always stems from our hard work. The diligent people of the Republic will create prosperity with their own hands."
 EDG_LEB_4_24_tt:0 "When §TSource Power§! reaches its maximum, provides us with §G-5% All Power Costs§!"
 
-EDG_LEB_5_13_title:0 "Safeguard the Pilgrimage Route"
+EDG_LEB_5_13_title:0 "Safeguard the Pilgrimage" # Safeguard the Pilgrimage Route
 EDG_LEB_5_13_desc:0 "Every year, thousands of Muslims travel to Mecca to fulfill their pilgrimage obligation. It is our duty to protect them from any harm. Failure to uphold this responsibility may bring consequences."
 
 EDG_LEB_5_15_title:0 "Spirit of the Hajj"
@@ -258,7 +258,7 @@ EDG_LEB_5_18_title:0 "Basra Trade"
 EDG_LEB_5_18_desc:0 "The trade revenue from the markets of Basra will surely be a valuable addition to our treasury!"
 EDG_LEB_5_18_tt:0 "Enable the §YCultural Borderlands§! event group."
 
-EDG_LEB_5_20_title:0 "Complete the Republic's Lifeline"
+EDG_LEB_5_20_title:0 "The Republic's Lifeline" # Complete the Republic's Lifeline
 EDG_LEB_5_20_desc:0 "The land separating the Red Sea and the Mediterranean has inspired our advisors with an engineering project. By connecting the two seas, our ships can navigate between them with much greater ease."
 
 EDG_LEB_5_21_title:0 "Beginning in Fertile Land"

@@ -1,14 +1,14 @@
 ﻿l_english:
-EDG_ERS_mission_2_2_1_title:0 "Indian Mountains Front"
+EDG_ERS_mission_2_2_1_title:0 "Indian Mountains" # Indian Mountains Front
 EDG_ERS_mission_2_2_1_desc:0 ""
 
-EDG_ERS_mission_2_4_1_title:0 "Advance Along the Indian Ocean"
+EDG_ERS_mission_2_4_1_title:0 "Advance Along the Ocean" # Advance Along the Indian Ocean
 EDG_ERS_mission_2_4_1_desc:0 ""
 
 EDG_ERS_mission_2_5_1_title:0 "The Wealth of Gujarat"
 EDG_ERS_mission_2_5_1_desc:0 ""
 
-EDG_ERS_mission_2_6_1_title:0 "Reignite the Sacred Fire of Damman"
+EDG_ERS_mission_2_6_1_title:0 "Reignite the Atash Behram" # Reignite the Sacred Fire of Damman
 EDG_ERS_mission_2_6_1_desc:0 ""
 
 EDG_ERS_mission_2_8_1_title:0 "Seize Burma"
@@ -17,13 +17,13 @@ EDG_ERS_mission_2_8_1_desc:0 ""
 EDG_ERS_mission_2_10_1_title:0 "Our East Indian Wealth"
 EDG_ERS_mission_2_10_1_desc:0 ""
 
-EDG_ERS_mission_2_1_1_title:0 "Cross the Khorasan Mountains"
+EDG_ERS_mission_2_1_1_title:0 "Cross Khorasan" # Cross the Khorasan Mountains
 EDG_ERS_mission_2_1_1_desc:0 ""
 
 EDG_ERS_mission_2_2_2_title:0 "The End of the Delhi Sultanate"
 EDG_ERS_mission_2_2_2_desc:0 ""
 
-EDG_ERS_mission_2_3_1_title:0 "Push into the Indian Heartland"
+EDG_ERS_mission_2_3_1_title:0 "Push into the Heartland" # Push into the Indian Heartland
 EDG_ERS_mission_2_3_1_desc:0 ""
 
 EDG_ERS_mission_2_4_2_title:0 "Seize Northern India"
@@ -38,13 +38,13 @@ EDG_ERS_mission_2_6_2_desc:0 ""
 EDG_ERS_mission_2_8_2_title:0 "Convert the East Indies"
 EDG_ERS_mission_2_8_2_desc:0 ""
 
-EDG_ERS_mission_2_9_1_title:0 "The Spices of the East Indies and the Philippines"
+EDG_ERS_mission_2_9_1_title:0 "The Spices of the East Indies" # The Spices of the East Indies and the Philippines
 EDG_ERS_mission_2_9_1_desc:0 ""
 
 EDG_ERS_mission_2_7_1_title:0 "Control the Indian Ocean"
 EDG_ERS_mission_2_7_1_desc:0 ""
 
-EDG_ERS_mission_2_11_1_title:0 "Shahanshah of the Indian Ocean"
+EDG_ERS_mission_2_11_1_title:0 "Indian Ocean Shahanshah" # Shahanshah of the Indian Ocean
 EDG_ERS_mission_2_11_1_desc:0 ""
 
 EDG_ERS_mission_2_1_2_title:0 "Cross the Gulf of Aden"
@@ -59,16 +59,16 @@ EDG_ERS_mission_2_3_2_desc:0 ""
 EDG_ERS_mission_2_4_3_title:0 "Islam in the Horn of Africa"
 EDG_ERS_mission_2_4_3_desc:0 ""
 
-EDG_ERS_mission_2_5_3_title:0 "End Axum"
+EDG_ERS_mission_2_5_3_title:0 "End Aksum" # End Axum
 EDG_ERS_mission_2_5_3_desc:0 ""
 
-EDG_ERS_mission_2_6_3_title:0 "Shahanshah of the Horn of Africa"
+EDG_ERS_mission_2_6_3_title:0 "Shahanshah of the Horn" # Shahanshah of the Horn of Africa
 EDG_ERS_mission_2_6_3_desc:0 ""
 
 EDG_ERS_mission_2_8_3_title:0 "The Ivory of East Africa"
 EDG_ERS_mission_2_8_3_desc:0 ""
 
-EDG_ERS_mission_2_9_2_title:0 "The Ivory of East Africa and the Gems of South Africa"
+EDG_ERS_mission_2_9_2_title:0 "Ivory and Gemstones" # The Ivory of East Africa and the Gems of South Africa
 EDG_ERS_mission_2_9_2_desc:0 ""
 
 EDG_ERS_mission_2_2_4_title:0 "Gulf of Aden Defense Line"
@@ -77,8 +77,8 @@ EDG_ERS_mission_2_2_4_desc:0 ""
 EDG_ERS_mission_2_4_4_title:0 "Convert the Bedouin Tribes"
 EDG_ERS_mission_2_4_4_desc:0 ""
 
-EDG_ERS_mission_2_8_4_title:0 "Seize Madagascar and the Indian Ocean Islands"
+EDG_ERS_mission_2_8_4_title:0 "Madagascar and the Islands" # Seize Madagascar and the Indian Ocean Islands
 EDG_ERS_mission_2_8_4_desc:0 ""
 
-EDG_ERS_mission_2_10_2_title:0 "Our East and South African Wealth"
+EDG_ERS_mission_2_10_2_title:0 "East and South African Wealth" # Our East and South African Wealth
 EDG_ERS_mission_2_10_2_desc:0 ""
