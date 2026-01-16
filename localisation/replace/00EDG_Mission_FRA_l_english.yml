@@ -137,7 +137,7 @@ EDG_mission_FRA_2_35_desc:0 "Since Columbus discovered the New World, our influe
 EDG_mission_FRA_3_2_title:0 "Duchy of Aquitaine"
 EDG_mission_FRA_3_2_desc:0 "Since the rise of the Cathars in southern France, Aquitaine broke free from the control of the Kingdom of England and has long maneuvered between France and the Kingdom of Arles. We should end the independent status of the Duchy of Aquitaine and integrate it into our domain."
 
-EDG_mission_FRA_3_3_title:0 "3rd Albigensian Crusade" #  # Third Albigensian Crusade
+EDG_mission_FRA_3_3_title:0 "Albigensian Crusade" #  # Third Albigensian Crusade
 EDG_mission_FRA_3_3_desc:0 "The failures of the two Albigensian Crusades cast an ominous shadow over the Holy See of Saint Peter, but France's defeat cannot continue. We must shatter the royal court of the Cathars."
 
 EDG_mission_FRA_3_4_title:0 "Holy See of Rome"
@@ -173,7 +173,7 @@ EDG_mission_FRA_3_16_desc:0 "Our longstanding friendship with Scotland has endur
 EDG_mission_FRA_3_18_title:0 "Confront the Empire"
 EDG_mission_FRA_3_18_desc:0 "The Holy Roman Empire is the greatest obstacle and persistent stumbling block to French expansion. We must either abolish the Empire to pave the way for our ambitions or bring it under French control."
 
-EDG_mission_FRA_3_20_title:0 "Shatter Imperial Borders"
+EDG_mission_FRA_3_20_title:0 "Breach the Borderlands" # Shatter Imperial Borders
 EDG_mission_FRA_3_20_desc:0 "The so-called borders of the Holy Roman Empire to the east are nothing but a joke, neither solid nor guarded by warriors as excellent as our soldiers. Their frontier defenses will soon turn to dust before the might of the French army."
 
 EDG_mission_FRA_3_22_title:0 "Gaulish Proclamation"

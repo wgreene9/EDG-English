@@ -2141,17 +2141,17 @@ EDG_flavorFRA_mission_trade_POWER:0 "French Trade Expansion"
 had_EDG_FRA_decision_0_flag_tt:0 "The §YLeague of the Public Weal§! will be disbanded, and the government reform §YTether of the Public Weal Alliance§! will be revoked." # Pacification of the League of the Public Weal
 EDG_FRA_decision_0_enable_tt:0 "Allows us to enact the decision §YDisband the League of the Public Weal§!, which will disband the §YLeague of the Public Weal§! and revoke the government reform §YTether of the Public Weal Alliance§!." # Pacification of the League of the Public Weal
 
-EDG_fra_lapdog_reward_cambrai_tt_yes:0 "£yes£If this mission is completed in cooperation with @PAP the Papal State, then\nthe province located in §YVenice§! will be ceded to @PAP the Papal State."
-EDG_fra_lapdog_reward_cambrai_tt_no:0 "£no£If this mission is completed in cooperation with @PAP the Papal State, then\nthe province located in §YVenice§! will be ceded to @PAP the Papal State."
+EDG_fra_lapdog_reward_cambrai_tt_yes:0 "£yes£If this mission is completed in cooperation with @PAP the Papal State, then\nAll provinces in the §YVenetia§! area will be ceded to @PAP the Papal State."
+EDG_fra_lapdog_reward_cambrai_tt_no:0 "£no£If this mission is completed in cooperation with @PAP the Papal State, then\nAll provinces in the §YVenetia§! area will be ceded to @PAP the Papal State."
 
-EDG_fra_if_lapdog_reward_tt_yes:0 "£yes£If we complete this mission after §Mcoordinating§! with the §YHoly See§!, then\nthe province located in §YLombardy§! will be ceded to @PAP the Papal State."
-EDG_fra_if_lapdog_reward_tt_no:0 "£no£If we complete this mission after §Mcoordinating§! with the §YHoly See§!, then\nthe province located in §YLombardy§! will be ceded to @PAP the Papal State."
+EDG_fra_if_lapdog_reward_tt_yes:0 "£yes£If we complete this mission after §Mcoordinating§! with the §YHoly See§!, then\nAll provinces in the §YLombardy§! area will be ceded to @PAP the Papal State."
+EDG_fra_if_lapdog_reward_tt_no:0 "£no£If we complete this mission after §Mcoordinating§! with the §YHoly See§!, then\nAll provinces in the §YLombardy§! area will be ceded to @PAP the Papal State."
 
-EDG_mission_FRA_3_5_tt_yes:0 "£yes£If we complete this mission after §Mcoordinating§! with the §YHoly See§!, then\nthe province located in §YLiguria§! will be ceded to @PAP the Papal State."
-EDG_mission_FRA_3_5_tt_no:0 "£no£If we complete this mission after §Mcoordinating§! with the §YHoly See§!, then\nthe province located in §YLiguria§! will be ceded to @PAP the Papal State."
+EDG_mission_FRA_3_5_tt_yes:0 "£yes£If we complete this mission after §Mcoordinating§! with the §YHoly See§!, then\nAll provinces in the §YLiguria§! area will be ceded to @PAP the Papal State."
+EDG_mission_FRA_3_5_tt_no:0 "£no£If we complete this mission after §Mcoordinating§! with the §YHoly See§!, then\nAll provinces in the §YLiguria§! area will be ceded to @PAP the Papal State."
 
-EDG_fra_cede_northern_italy_to_pope_coronation_and_tt_yes:0 "£yes£If we complete this mission after §Mcoordinating§! with the §YHoly See§!, then\nthe Pope will §Ycrown§! our next ruler, granting them the following special bonuses during their reign:"
-EDG_fra_cede_northern_italy_to_pope_coronation_and_tt_no:0 "£no£If we complete this mission after §Mcoordinating§! with the §YHoly See§!, then\nthe Pope will §Ycrown§! our next ruler, granting them the following special bonuses during their reign:"
+EDG_fra_cede_northern_italy_to_pope_coronation_and_tt_yes:0 "£yes£If we complete this mission after §Mcoordinating§! with the §YHoly See§!, then\nThe Pope will §Ycrown§! our next ruler, granting them the following special bonuses during their reign:"
+EDG_fra_cede_northern_italy_to_pope_coronation_and_tt_no:0 "£no£If we complete this mission after §Mcoordinating§! with the §YHoly See§!, then\nThe Pope will §Ycrown§! our next ruler, granting them the following special bonuses during their reign:"
 
 EDG_fra_alternatively_gain_following_evolving_reward_tt_yes:0 "£yes£Otherwise, we will receive the following §Mgradually increasing§! rewards"
 EDG_fra_alternatively_gain_following_evolving_reward_tt_no:0 "£no£Otherwise, we will receive the following §Mgradually increasing§! rewards"
@@ -2216,7 +2216,7 @@ EDG_mission_FRA_5_2_tt:0 "All our §YAppanages§! will lose §M10§! liberty des
 EDG_mission_FRA_5_2_province_87_tt_yes:0 "£yes£If province §MCalais§! is under our §Mcontrol§!, then"
 EDG_mission_FRA_5_2_province_87_tt_no:0 "£no£If province §MCalais§! is under our §Mcontrol§!, then"
 
-EDG_mission_FRA_3_3_tt:0 "[Root.GetName] and all subjects of §YOc§! culture will receive the following modifier:"
+EDG_mission_FRA_3_3_tt:0 "[Root.GetName] and all subjects of §YOccitan§! culture will receive the following modifier:"
 
 EDG_mission_FRA_3_3_tt_yes:0 "£yes£If we are Catholic and [201.GetName] belongs to our subject, then a §YCatholic§! missionary center will be established there."
 EDG_mission_FRA_3_3_tt_no:0 "£no£If we are Catholic and [201.GetName] belongs to our subject, then a §YCatholic§! missionary center will be established there."

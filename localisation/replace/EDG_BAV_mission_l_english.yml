@@ -89,7 +89,7 @@ EDG_BAV_1_5_6_1: "@SAX §YSaxony§! will find it §Yeasier§! to complete the mi
 EDG_BAV_2_1_2_title: "Hour of Peril"
 EDG_BAV_2_1_2_desc: ""
 EDG_BAV_2_1_2_1: "Each estate meeting the mission conditions provides us with §G100§!£icon_EDG_cash£ and §G25§! §Yadministrative power§!. If the estate's §YInfluence§! also reaches §Y60§!, the amount is doubled."
-EDG_BAV_2_1_2_2: "Unlocks the §YArtists§! estate privilege '§YHeretic Conscription Act§!', allowing us, in all provinces with §YHeretic§! religion under our rule, to exchange a penalty of §R-10.0%§! §YLocal Tax Modifier§! for benefits of §G-10.0%§! §YLocal Recruitment Time§! and §G-10.0%§! §YLocal Recruitment Cost§!.\n\nThis estate privilege can only be used during the disaster '§RRequiem§!'. After completing the mission '§YAmidst the Ruins, Rekindle Hope§!', this restriction is removed."
+EDG_BAV_2_1_2_2: "Unlocks the §YArtists§! estate privilege '§YHeretic Conscription Act§!', allowing us, in all provinces with §YHeretic§! religion under our rule, to exchange a penalty of §R-10.0%§! §YLocal Tax Modifier§! for benefits of §G-90.0%§! §YLocal Recruitment Time§! and §G-25.0%§! §YLocal Recruitment Cost§!.\n\nThis estate privilege can only be used during the disaster '§RRequiem§!'. After completing the mission '§YAmidst the Ruins, Rekindle Hope§!', this restriction is removed."
 
 EDG_BAV_2_2_1_title: "State of Emergency"
 EDG_BAV_2_2_1_desc: ""
@@ -194,7 +194,8 @@ EDG_BAV_3_3_9_1: "Now, the §YNobility§! estate privilege '§YNoble Officer Cor
 EDG_BAV_3_3_10_title: "From the Alps to the Sea" # From the Alps to the North Sea, Our 'Empire'
 EDG_BAV_3_3_10_desc: ""
 EDG_BAV_3_3_10_1: "Now, our §MWittelsbach Holdings§! can grant us certain §Gbonuses§! when they own all provinces given by their §Ydecisions§!. These §Gbonuses§! will be converted into our §Ypermanent modifiers§! upon our subsequent §MAnnexation§! of said subject."
-EDG_BAV_3_3_10_2: "The territory of @GER §YGermany§! is now entirely under our control, but this §Rcomes at a cost§!."
+EDG_BAV_3_3_10_2: "The territory of @GER §YGermany§! is now entirely under our control, but this §Rcomes at a cost§!.\n\nCompleting this mission will irreversibly initiate the event chain for the disaster '§RThe Night of Blood§!'. Please ensure you have read the author's notes for this disaster before proceeding!"
+EDG_BAV_3_3_10_3: "Dark clouds gather over the sky of the Munich Residenz..."
 
 EDG_BAV_3_4_7_title: "Defeating the Archmarshal"
 EDG_BAV_3_4_7_desc: "Saxony is the epicenter of princely power and religious storms, where universities and churches, electors and armies vie for influence. If we are to become the arbiter of German disputes, we must humble Saxony's banner, turning its prestige and military might into our foundation."
@@ -232,7 +233,7 @@ EDG_BAV_3_5_9_desc: "At the Baltic's wind-swept straits, Schleswig-Holstein conn
 EDG_BAV_3_5_9_1: "[Root.GetName] gains §G5§! §YEarly Carracks§! in the province of §Y[1775.GetName]§!."
 EDG_BAV_3_5_9_1_yes: "£yes£If the province of §Y[1775.GetName]§! is held by us or our subjects, the following effects occur:"
 EDG_BAV_3_5_9_1_no: "£no£If the province of §Y[1775.GetName]§! is held by us or our subjects, the following effects occur:"
-EDG_BAV_3_5_9_2: "Now, the §MWittelsbach Holdings§! subject interaction '§YEnable Steer Trade§!' §Gno longer increases§! §YSubject Liberty Desire§!."
+EDG_BAV_3_5_9_2: "Now, the §MWittelsbach Holdings§! subject interaction '§YEnable Steer Trade§!' §Gno longer increases§! §YSubject Liberty Desire§!. (Takes Effect on Next Month Tick)"
 
 EDG_BAV_3_5_10_title: "The Slavic Question"
 EDG_BAV_3_5_10_desc: "The lands of the Slavic peoples stretch across the Eastern European plains, a crossroads of cultures and faiths. To ensure the stability of our rule, we must properly manage these diverse ethnic relations, balancing power and integration, to avoid division and conflict."
@@ -313,7 +314,7 @@ EDG_BAV_4_5_11_title: "§OProduction and Infrastructure§!" # Investing in Produ
 EDG_BAV_4_5_11_desc: "Roads, bridges, canals, and granaries are the true lifeblood of an empire. We shall use investment to drive workshops and towns, ensuring development is no longer piecemeal but converges into a tide through planning: every expansion becomes a leap in national power."
 EDG_BAV_4_5_11_1: "Unlocks the State Edict '§YGerman Infrastructure Development§!'."
 EDG_BAV_4_5_11_2: "All provinces owned by us or our subjects that have any §YManufactory§!, when their §YBase Production§! reaches §Y12§!, gain a permanent §G+25.0%§! §YGoods Produced Modifier§!."
-EDG_BAV_4_5_11_3: "Now, when increasing §YDevelopment§! in a province with the '§YGerman Infrastructure Development§!' edict active, we gain §G5§! §YPrestige§!. Any excess §YPrestige§! is converted into §YMonarch Power§!."
+EDG_BAV_4_5_11_3: "Now, when increasing §YDevelopment§! in a province with the '§YGerman Infrastructure Development§!' edict active and at least §Y20§! development, we gain §G5§! §YPrestige§!. Any excess §YPrestige§! is converted into §YMonarch Power§!."
 
 EDG_BAV_4_5_13_title: "§OEnact the Beer Purity Law§!" # Enacting the 'Beer Purity Law'
 EDG_BAV_4_5_13_desc: "Only rules can ensure lasting prosperity. Enact the 'Beer Purity Law' to safeguard quality and reputation with legislation: let every stein of beer be worthy of Bavaria's name, and let our merchants conquer markets with standards, not swords."
@@ -407,11 +408,13 @@ EDG_BAV_5_5_15_1: "Now, the following §YGovernment Interactions§! are enhanced
 
 EDG_BAV_6_1_3_title: "A Matter of Urgency"
 EDG_BAV_6_1_3_desc: ""
-EDG_BAV_6_1_3_1: "Now, the diplomatic action '£icon_manpower£§MRequest Aid§!' §Gno longer requires§! the ally to be a §YGreat Power§!."
+EDG_BAV_6_1_3_1: "Unlocks a §YDecision§! allowing us to spend £icon_EDG_cash£ to reduce §YWar Exhaustion§!."
+EDG_BAV_6_1_3_2: "Now, the diplomatic action '£icon_manpower£§MRequest Aid§!' §Gno longer requires§! the ally to be a §YGreat Power§!."
 
 EDG_BAV_6_1_5_title: "Learning from Past Mistakes"
 EDG_BAV_6_1_5_desc: ""
-EDG_BAV_6_1_5_1: "Now, the diplomatic action '£liberty_icon£§MIncrease Compliance§!' will raise §YCompliance§! by §Gtwo levels§! at once."
+EDG_BAV_6_1_5_1: "All §Rrebel§! §MWittelsbach Family Holdings§! immediately have their §YCompliance§! raised by §Gtwo levels§!."
+EDG_BAV_6_1_5_2: "Now, the diplomatic action '£liberty_icon£§MIncrease Compliance§!' will raise §YCompliance§! by §Gtwo levels§! at once."
 
 EDG_BAV_6_2_2_title: "Undercurrents"
 EDG_BAV_6_2_2_desc: ""
@@ -457,18 +460,18 @@ EDG_BAV_6_4_4_title: "Step by Step"
 EDG_BAV_6_4_4_desc: ""
 EDG_BAV_6_4_4_1: "Now, §YStorming§! a §YFort§! province belonging to a §Rrebel§! §MWittelsbach Holdings§! will temporarily §Ggreatly reduce§! that province's §YDefensiveness§!."
 
-EDG_BAV_6_4_6_title: "Crushing Blow"
+EDG_BAV_6_4_6_title: "§YCrushing Blow§!"
 EDG_BAV_6_4_6_desc: ""
-EDG_BAV_6_4_6_1: "Now, a §Rrebel§! §MWittelsbach Holdings§! that goes §YBankrupt§! will §Gsurrender unconditionally§!, transferring §Ycontrol§! of all its provinces to us."
+EDG_BAV_6_4_6_1: "Now, a §Rrebel§! §MWittelsbach Holdings§! that goes §YBankrupt§! will §Gsurrender unconditionally§!, transferring §Ycontrol§! of all its provinces to us and disbanding all its §Yarmies§!."
 
 EDG_BAV_6_5_3_title: "§YStarving the Enemy§!"
 EDG_BAV_6_5_3_desc: ""
-EDG_BAV_6_5_3_1: "Now, the frequency at which §Rrebel§! §MWittelsbach Holdings§! generate §YReinforcements§! is §Ghalved§!."
+EDG_BAV_6_5_3_1: "Now, the frequency at which §Rrebel§! §MWittelsbach Holdings§! generate §Yarmies§! is §Ghalved§!." # Reinforcements
 
 EDG_BAV_6_5_5_title: "§YPulling the Rug from Under Them§!"
 EDG_BAV_6_5_5_desc: ""
 EDG_BAV_6_5_5_1: "This mission is §Mcrucial§! for ending the disaster '§RThe Night of Blood§!' Please prioritize it!"
-EDG_BAV_6_5_5_2: "Now, §Rrebel§! §MWittelsbach Holdings§! will §Gno longer generate§! §YReinforcements§!."
+EDG_BAV_6_5_5_2: "Now, §Rrebel§! §MWittelsbach Holdings§! will §Gno longer generate§! §Yarmies§!." # Reinforcements
 
 EDG_BAV_8_1_33_title: "The Other Side of the Mediterranean"
 EDG_BAV_8_1_33_desc: ""
@@ -562,7 +565,7 @@ EDG_BAV_8_4_35_1: "Now, the cost of the province interaction '§OEncourage Grain
 
 EDG_BAV_8_4_36_title: "All the Way to Bengal"
 EDG_BAV_8_4_36_desc: ""
-EDG_BAV_8_4_36_1: "Now, the following §YGovernment Interactions§! are enhanced:\n- '§MPromote Artistic Exchange§!' additionally grants §G-2.5%§! §YAll Power Costs§! for §Y5§! years."
+EDG_BAV_8_4_36_1: "Now, the following §YGovernment Interactions§! are enhanced:\n- '§MPromote Artistic Exchange§!' additionally grants §G-5.0%§! §YAll Power Costs§! for §Y5§! years."
 
 EDG_BAV_8_4_37_title: "The Peak of the Himalayas"
 EDG_BAV_8_4_37_desc: ""

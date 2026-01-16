@@ -1613,3 +1613,9 @@ EDG_mission_LOT_core_Italian_decision_title:0 "Establish Cores in §YItaly§!"
 
 EDG_mission_LOT_core_German_decision_tt:0 "We will establish a core in a random province owned by §Mour subjects§! in §YGermany§!.\nThis means we have established more effective rule over the area; they will not §Rrebel via 'Great Lament'§! against us."
 EDG_mission_LOT_core_Italian_decision_tt:0 "We will establish a core in a random province owned by §Mour subjects§! in §YItaly§!.\nThis means we have established more effective rule over the area; they will not §Rrebel via 'Great Lament'§! against us."
+
+EDG_mission_LOT_2_26_flag_decision_title:0 "Host a Masquerade Ball"
+EDG_mission_LOT_2_26_flag_decision_desc:0 "You shall not know who I am."
+
+EDG_LOT_culture_decision_hidden_title:0 "@LOT£dip£ §GEnable§!/§MDisable§! Cultural Assimilation"
+EDG_LOT_culture_decision_hidden_desc:0 "We can decide for ourselves whether to proceed with cultural assimilation."

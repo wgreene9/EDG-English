@@ -507,13 +507,19 @@ defined_text = {
     }
   }
   text = {
+    localisation_key = EDG_string_start_BAV
+    trigger = {
+      EDG_BAV_is_bavarian_country_trigger = yes
+    }
+  }  
+  text = {
     localisation_key = EDG_string_start_HER
     trigger = {
       dominant_culture = EDG_culture_mercia
     }
   }  
   text = {
-    localisation_key = EDG_string_start_AK2 #çº¢ç¾
+    localisation_key = EDG_string_start_AK2
     trigger = {
       tag = AK2
     }
@@ -717,14 +723,14 @@ defined_text = {
     trigger = {
       OR = {
         tag = SCO
-        #tag = ENG  #å å»è±æ ¼å°
+        #tag = ENG
       }
     }
   }
   text = {
     localisation_key = EDG_string_start_ENG
     trigger = {
-        tag = ENG  #å å¥è±æ ¼å°å¼å±è¯´æ
+        tag = ENG
     }
   }
   text = {
@@ -1248,13 +1254,13 @@ defined_text = {
     }
   }
   text = {
-    localisation_key = EDG_string_start_BRA #åå°ç»å ¡æ°å¢
+    localisation_key = EDG_string_start_BRA
     trigger = {
       tag = BRA
     }
   }
-  text = {#å»é¢
-    localisation_key = EDG_string_start_KNI #å»é¢éªå£«å¢
+  text = {
+    localisation_key = EDG_string_start_KNI
     trigger = {
       tag = KNI
     }
