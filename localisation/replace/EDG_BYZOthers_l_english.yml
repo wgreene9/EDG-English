@@ -243,19 +243,19 @@ EDG_BYZ_constantinople_build_slot_var_3:0 "Inner Districts"
 EDG_BYZ_constantinople_build_slot_var_4:0 "Acropolis"
 
  
- EDG_BYZ_total_build_var_text:0 "Total Building Slots"
+ EDG_BYZ_total_build_var_text:0 "Total Slots" # Total Building Slots
  EDG_BYZ_total_build_var_value:0 "§Y[Root.GetTotalBuildVar]§!"
  EDG_BYZ_total_build_var_1:0 "[EDG_BYZ_constantinople_1_slot_var.GetValue]"
  EDG_BYZ_total_build_var_2:0 "[EDG_BYZ_constantinople_2_slot_var.GetValue]"
  EDG_BYZ_total_build_var_3:0 "[EDG_BYZ_constantinople_3_slot_var.GetValue]"
  EDG_BYZ_total_build_var_4:0 "[EDG_BYZ_constantinople_4_slot_var.GetValue]"
- EDG_BYZ_leisure_build_var_text:0 "Available Building Slots"
+ EDG_BYZ_leisure_build_var_text:0 "Available Slots" # Available Building Slots
  EDG_BYZ_leisure_build_var_value:0 "§G[Root.GetLeisureBuildVar]§!"
  EDG_BYZ_leisure_build_var_1:0 "[EDG_BYZ_constantinople_1_slot_leisure_var.GetValue]"
  EDG_BYZ_leisure_build_var_2:0 "[EDG_BYZ_constantinople_2_slot_leisure_var.GetValue]"
  EDG_BYZ_leisure_build_var_3:0 "[EDG_BYZ_constantinople_3_slot_leisure_var.GetValue]"
  EDG_BYZ_leisure_build_var_4:0 "[EDG_BYZ_constantinople_4_slot_leisure_var.GetValue]"
- EDG_BYZ_use_build_var_text:0 "Used Building Slots"
+ EDG_BYZ_use_build_var_text:0 "Used Slots" # Used Building Slots
  EDG_BYZ_use_build_var_value:0 "§R[Root.GetUseBuildVar]§!"
  EDG_BYZ_use_build_var_1:0 "[EDG_BYZ_constantinople_1_slot_use_var.GetValue]"
  EDG_BYZ_use_build_var_2:0 "[EDG_BYZ_constantinople_2_slot_use_var.GetValue]"
@@ -403,7 +403,7 @@ EDG_BYZ_negotiate_with_geo.effect.tt:0 "If @GEO §Y[GEO.GetName]§! agrees to ou
 EDG_BYZ_negotiate_with_geo_desc:0 "The Kingdom of Georgia was founded in 978 by Bagrat III and grew into a formidable power in the Caucasus during the 11th and 12th centuries. However, it suffered greatly from the Mongol and Timurid invasions, and the recent succession crisis further weakened the kingdom. To make matters worse, recent Turkic incursions have forced its territories to shrink and retreat into the mountains. Although relations between the Empire and the Kingdom of Georgia were not particularly friendly in the past, if we extend a helping hand when they need it most, they are unlikely to refuse our goodwill—though one could also call it taking advantage of their plight."
 EDG_BYZ_conquer_two_river_title:0 "@BYZ Advance to the Two Rivers"
 EDG_BYZ_conquer_two_river_desc:0 "The cradle of civilization, Mesopotamia, is surrounded by powerful enemies and lacks natural defenses. Let us ensure that no other great powers besides us can meddle here; others have no say in this region!"
-EDG_BYZ_constantinople_action_1_title:0 "@BYZ Expand §Y[151.GetName]§! Districts"
+EDG_BYZ_constantinople_action_1_title:0 "@BYZ Expand §Y[151.GetName]§!'s Districts"
 EDG_BYZ_constantinople_action_1_desc:0 ""
 EDG_BYZ_constantinople_action_2_title:0 "@BYZ Restore §YForum of Theodosius§!"
 EDG_BYZ_constantinople_action_2_desc:0 ""

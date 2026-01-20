@@ -7685,11 +7685,11 @@ guiTypes = {
 
 				instantTextBoxType = {
 					name = "EDG_BYZ_constantinople_build_slot_title"
-					position = { x= 115 y = 28 }
+					position = { x= 105 y = 28 } # x= 115
 					font = "vic_22"
 					borderSize = {x = 0 y = 0}
 					text = ""
-					maxWidth = 115
+					maxWidth = 136 # 115
 					maxHeight = 50
 					format = center
 					alwaystransparent = yes	
