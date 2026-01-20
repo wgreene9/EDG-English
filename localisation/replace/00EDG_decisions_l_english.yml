@@ -2,7 +2,7 @@
 
 EDG_DEBUG_decision_zhuyishixiang_title:0 "View §YMod Announcements§!"
 EDG_DEBUG_decision_zhuyishixiang_desc:0 "In case you missed something."
-EDG_DEBUG_decision_zhuyishixiang_tt:0 "Trigger event §YEntrance to the Desolate Ground Mod Announcements§!\n\nBelow are the §Yauthors§! for various countries.\n\n-§YLazy Dog (Saphira)§!\n@AKK Aq Qoyunlu @GOL Golden Horde @FYM Sahada @FRA France @ARL Safavids @MLO Lombardy @AEL Arles @SCO Scotland @SAX Saxony @LIT Lithuania @HZB Hazaraspids @VOL Volhynia @BUL Bulgaria @MRK Almohads @ZAZ Zaporozhie @BRI Brittany @PIT Piedmont @GSR Greater Serbia @TBR Tabriz (@QAR Qara Qoyunlu) @WUR Württemberg (@HAB Austria) @H02 Austria (@STY Styria) @MHM Rumelia (@TUR Ottomans) @CBI Calabria (@NAP Naples)\n\n-§YWuyan Infinite§!\n@RIG Riga @SWI Switzerland @SWE Sweden @GEN Genoa @SHY Uzbek @BYZ Eastern Rome @MOS Muscovy @HSA Lübeck @GOT Gotland @H04 Overijssel @WAL Wallachia @MAZ Mazovia @FRN Frankfurt @CAT Catalonia @SMO Smolensk @TEU Teutonic Order @ETH Ethiopia @ASU Asturias (@SPA Spain) @BDH Batalyaws (@ADU Andalusia)\n\n-§YPallascat (ErMao)§!\n@VEN Venice @BRA Brandenburg @ORM Hormuz @ENG England (@AVE Frangleterre)\n\n-§YMao Mei (DaMao)§!\n@SMI Sápmi @TVE Tver @WOL Wolgast\n\n-§YNewYoung§!\n@KAZ Kazan @CDC Tunisia @LER Sandomierz\n\n-§YGuild Master§!\n@H07 Weimar @SUG Smyrna\n\n-§YGuan Muhua§!\n@AK2 Qizil Qoyunlu @BAH Bahmanis @FEO Theodoro\n\n-§YEastern Empire Grand Pal (Huanghuang)§!\n@LEB Lebanon @MEN Mentese @KNI Knights Hospitaller @LST Leicester (@HER Mercian Municipality)\n\n-§YBellaCiao§!\n@TIM Timurid @BDX Badakhshan\n\n-§YSun Never Sets§!\n@HOL Netherlands @TOV Turov @MAM Mamluks\n\n-§YReims§!\n@TAB Mazandaran\n\nTranslation by §YNolexios§!"
+EDG_DEBUG_decision_zhuyishixiang_tt:0 "Trigger event §YEntrance to the Desolate Ground Mod Announcements§!\n\nBelow are the §Yauthors§! for various countries.\n\n-§YLazy Dog (Saphira)§!\n@AKK Aq Qoyunlu @GOL Golden Horde @FYM Sahada @FRA France @ARL Safavids @MLO Lombardy @AEL Arles @SCO Scotland @SAX Saxony @LIT Lithuania @HZB Hazaraspids @VOL Volhynia @BUL Bulgaria @MRK Almohads @ZAZ Zaporozhie @BRI Brittany @PIT Piedmont @GSR Greater Serbia @TBR Tabriz (@QAR Qara Qoyunlu) @WUR Württemberg (@HAB Austria) @H02 Austria (@STY Styria) @MHM Rumelia (@TUR Ottomans) @CBI Calabria (@NAP Naples)\n\n-§YWuyan Infinite§!\n@RIG Riga @SWI Switzerland @SWE Sweden @GEN Genoa @SHY Uzbek @BYZ Eastern Rome @MOS Muscovy @HSA Lübeck @GOT Gotland @H04 Overijssel @WAL Wallachia @MAZ Mazovia @FRN Frankfurt @CAT Catalonia @SMO Smolensk @TEU Teutonic Order @ETH Ethiopia @ASU Asturias (@SPA Spain) @BDH Batalyaws (@ADU Andalusia)\n\n-§YPallascat (ErMao)§!\n@VEN Venice @BRA Brandenburg @ORM Hormuz @ENG England (@AVE Frangleterre)\n\n-§YMao Mei (DaMao)§!\n@SMI Sápmi @TVE Tver @WOL Wolgast\n\n-§YNewYoung§!\n@KAZ Kazan @CDC Tunisia @LER Sandomierz\n\n-§YGuild Master§!\n@H07 Weimar @SUG Smyrna\n\n-§YGuan Muhua§!\n@AK2 Qizil Qoyunlu @BAH Bahmanis @FEO Theodoro\n\n-§YEastern Empire Grand Pal (Huanghuang)§!\n@LEB Lebanon @MEN Mentese @KNI Knights Hospitaller @LST Leicester (@HER Mercian Municipality)\n\n-§YBellaCiao§!\n@TIM Timurid @BDX Badakhshan\n\n-§YSun Never Sets§!\n@HOL Netherlands @TOV Turov @MAM Mamluks\n\n-§YReims§!\n@TAB Mazandaran\n\n-§YDanxiaogu QAQ§!\n@LBV Landshut (@BAV Bavaria)\n\nTranslation by §YNolexios§!"
 # EDG_DEBUG_decision_zhuyishixiang_tt:0 "Trigger event §YEntrance to the Desolate Ground Mod Announcements§!\n\nBelow are the §Yauthors§! for various countries. Players can use this entry to report bugs in the mod's communication group.\n-§YLazy Dog§!\n@AKK Aq Qoyunlu\n@GOL Golden Horde\n@FYM Shahada\n@FRA France\n@ARL Safavids\n@MLO Lombardy\n@AEL Arles\n@SCO Scotland\n@SAX Saxony\n@LIT Lithuania\n@HZB Hazaraspids\n@VOL Volhynia\n@BUL Bulgaria\n@MRK Almohads\n@ZAZ Zaporozhie\n@BRI Brittany\n@PIT Piedmont\n@GSR Greater Serbia\n@TBR Tabriz (@QAR Qara Qoyunlu)\n@WUR Württemberg (@HAB Austria)\n@H02 Austria (@STY Styria)\n@MHM Rumelia (@TUR Ottomans)\n@CBI Calabria (@NAP Naples)\n\n-§YSilent§!\n@RIG Riga\n@SWI Switzerland\n@SWE Sweden\n@GEN Genoa\n@SHY Uzbek\n@BYZ Eastern Empire\n@MOS Muscovy\n@HSA Lübeck\n@GOT Gotland\n@H04 Overijssel\n@WAL Wallachia\n@MAZ Masovia\n@FRN Frankfurt\n@CAT Catalonia\n@SMO Smolensk\n@TEU Teutonic Order\n@ETH Ethiopia\n@ASU Asturias (@SPA Spain)\n@BDH Badajoz (@ADU Andalusia)\n\n-§YPallascat (Second Cat)§!\n@VEN Venice\n@BRA Brandenburg\n@ORM Hormuz\n@ENG England (@AVE Frangleterre)\n\n-§YMao Mei (First Cat)§!\n@SMI Sápmi\n@TVE Tver\n@WOL Wolgast\n\n-§YNewNew§!\n@KAZ Kazan\n@CDC Tunisia\n@LER Sandomierz\n\n-§YGuild Master§!\n@H07 Weimar\n@SUG Smyrna\n\n-§YGuan Muhua§!\n@AK2 Qizil Qoyunlu\n@BAH Bahmanis\n@FEO Theodoro\n\n-§YEmpire Eastern Grand Pal (Huanghuang)§!\n@LEB Lebanon\n@MEN Mentese\n@KNI Knights Hospitaller\n@LST Leicester (@HER Mercian Municipality)\n\n-§YBellaCiao§!\n@TIM Timurid\n@BDX Badakhshan\n\n-§YSun Never Sets§!\n@HOL Netherlands\n@TOV Turov\n@MAM Mamluks\n\n-§YReims§!\n@TAB Mazandaran"
 
 EDG_DEBUG_decision_price_revolution_title:0 "Disable §YPrice Revolution§!"
@@ -658,7 +658,7 @@ NYGX_CDC_25_d:0 "We are already the emperor of Crusader states. To proclaim our 
 NYGX_CDC_25h:0 "Maintain the status quo."
 NYGX_CDC_25a:0 "Restore our original country name."
 NYGX_CDC_25b:0 "Kingdom of God"
-NYGX_CDC_25c:0 "Overseas Empire"
+NYGX_CDC_25c:0 "Outremer Empire" # Overseas Empire
 NYGX_CDC_25e:0 "Jerusalem"
 NYGX_CDC_25f:0 "Crusader State"
 NYGX_CDC_25g:0 "Africa"
@@ -666,7 +666,7 @@ NYGX_CDC_25i:0 "We are... the Southern Roman Empire!"
 NYGX_CDC_25j:0 "We are... the Holy Southern Roman Empire!"
 
 NYGX_CDC_25b_name:0 "Kingdom of God"
-NYGX_CDC_25c_name:0 "Overseas Empire"
+NYGX_CDC_25c_name:0 "Outremer Empire" # Overseas Empire
 NYGX_CDC_25e_name:0 "Jerusalem"
 NYGX_CDC_25f_name:0 "Crusader State"
 NYGX_CDC_25g_name:0 "Africa"
@@ -674,7 +674,7 @@ NYGX_CDC_25i_name:0 "Roman Empire"
 NYGX_CDC_25j_name:0 "Holy Southern Roman Empire"
 
 NYGX_CDC_25b_name_ADJ:0 "Kingdom of God"
-NYGX_CDC_25c_name_ADJ:0 "Overseas Empire"
+NYGX_CDC_25c_name_ADJ:0 "Outremer Empire" # Overseas Empire
 NYGX_CDC_25e_name_ADJ:0 "Jerusalem"
 NYGX_CDC_25f_name_ADJ:0 "Crusader State"
 NYGX_CDC_25g_name_ADJ:0 "Africa"
@@ -1619,3 +1619,6 @@ EDG_mission_LOT_2_26_flag_decision_desc:0 "You shall not know who I am."
 
 EDG_LOT_culture_decision_hidden_title:0 "@LOT£dip£ §GEnable§!/§MDisable§! Cultural Assimilation"
 EDG_LOT_culture_decision_hidden_desc:0 "We can decide for ourselves whether to proceed with cultural assimilation."
+
+EDG_mission_LOT_move_captial_to_1878_decision_title:0 "@LOT Move Capital to Aachen"
+EDG_mission_LOT_move_captial_to_1878_decision_desc:0 "We will return to Charlemagne's imperial capital."

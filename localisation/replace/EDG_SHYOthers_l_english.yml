@@ -302,7 +302,7 @@ EDG_SHY_khanate_of_bukhara_desc:0 ""
 EDG_SHY_khanate_of_uzbeg:0 "Özbeg Khanate"
 EDG_SHY_khanate_of_uzbeg_desc:0 ""
 
-EDG_SHY_civil_war:0 "The Raging Storm"
+EDG_SHY_civil_war:0 "Gathering Storm" # The Raging Storm
 EDG_SHY_civil_war_can_end.tt:0 "§YThe collapse is not over yet§!"
 
 po_EDG_SHY_get_ship:0 "§TIncorporate Navy§!"

@@ -763,8 +763,8 @@ rig_make_war_plans_title:0 "@RIG Plan a War"
 rig_make_war_plans_desc:0 "Due to our unique administrative and military system, we cannot declare war on enemies hastily. We must prepare thoroughly to initiate a war."
 rig_make_war_plans_cd.tt:0 "We can only initiate a war plan every §Y3§! years!"
 
-rig_start_great_campaign_title:0 "@RIG §YLaunch Great Campaign§!"
-rig_start_great_campaign_desc:0 ""
+rig_start_grate_campaign_title:0 "@RIG §YLaunch Great Campaign§!"
+rig_start_grate_campaign_desc:0 ""
 rig_great_campaign_cd_flag.tt:0 "We can only initiate a §YGreat Campaign§! every §Y5§! years!"
 
 rig_stop_all_war_project_title:0 "@RIG §YTerminate All War Plans§!"
@@ -794,9 +794,9 @@ rig_check_vassal_property_title:0 "@RIG View Bonuses Granted by Subjects"
 rig_check_vassal_property_desc:0 "This decision displays the various bonuses granted to §YRiga§! by different types of §Ysubjects§!, helping to understand their impact on Riga."
 rig_check_vassal_property.tt:0 "All §Ybishopric§! subjects of Riga (except §TOverseas Bishoprics§!) grant the overlord the following modifiers:\n§R-0.5§! yearly prestige\n§G+0.5§! yearly papal influence\n\n§YClick the decision to expand the explanatory event§!\n\nEach §GRigan Chartered Trade Zone§! grants the overlord the following modifiers:\n§G+2%§! trade efficiency\n§G+1%§! trade steering\n§G+12§! yearly tax income\n§G+2%§! production efficiency\n§G+1%§! global goods produced\n\nEach §YEpiscopal Administrative Region§! grants the overlord the following modifiers:\n§G+15%§! production efficiency\n§G+5%§! land force limit modifier\n§R-15%§! tax income\n§R-15%§! national manpower\n§R-15%§! trade efficiency\n\nEach §MEpiscopal Economic Region§! grants the overlord the following modifiers:\n§G+0.3§! global goods produced modifier\n§G+2%§! global goods produced\n§G+10%§! national manpower\n§G+10%§! tax income\n§G+1§! merchant\n§R-15%§! global trade power\n§R-10%§! production efficiency\n\nEach §REpiscopal Military District§! grants the overlord the following modifiers:\n§G+5%§! national manpower\n§R-15%§! land force limit modifier\n§R-10%§! tax income\n\nEach §OKnightly Order§! grants the overlord the following modifiers:\n§G+0.25%§! yearly army professionalism\n§G+10%§! defensiveness\n§R+10%§! land maintenance modifier\n§R-24§! yearly tax income\n\nEach §TOverseas Bishopric§! grants the overlord the following modifiers:\n§G+3§! merchant\n§G+25%§! global trade power\n§R-25%§! national manpower\n§R-25%§! national sailors\n\n"
 
-rig_declare_war_with_all_world_title:0 "@RIG §YHeavenly Offensive§!"
-rig_declare_war_with_all_world_desc:0 "All traditional wars will pale before our great objective. To achieve our ultimate goal, this method of war is necessary!"
-rig_declare_war_with_all_world_tooltip:0 "§YWe will declare war on all nations not allied with us§!"
+rig_declar_war_with_all_world_title:0 "@RIG §YHeavenly Offensive§!"
+rig_declar_war_with_all_world_desc:0 "All traditional wars will pale before our great objective. To achieve our ultimate goal, this method of war is necessary!"
+rig_declar_war_with_all_world_tooltip:0 "§YWe will declare war on all nations not allied with us§!"
 
 rig_construction_EDG_Ruins_Gate_title:0 "@RIG Construct §YEntrance to the Desolate Ground§!"
 rig_construction_EDG_Ruins_Gate_desc:0 ""

@@ -5,7 +5,7 @@ EDG_SHY_mission_1_2.effect_1.tt:0 "All provinces under our rule with §Y§TNogai
 EDG_SHY_mission_1_2.effect_2.tt:0 "We will §Tsuppress§! the Nogai tribes by force. §RThis will lead to the fragmentation of the Khanate!§!\n"
 EDG_SHY_mission_1_2.effect.tt:0 "The §Ymission reward§! will be determined based on the §Tmethod§! used to §Ycomplete the task§!\n"
 
-EDG_SHY_mission_1_4_title:0 "Complementary Strengths"
+EDG_SHY_mission_1_4_title:0 "Harmonious Strengths" # Complementary Strengths
 EDG_SHY_mission_1_4_desc:0 "Battles against the Muslims have yielded novel gains for us Özbegs. Our vision has transcended the confines of the steppe. To conquer all distant lands, we should fully absorb the experiences of other cultures."
 EDG_SHY_enable_change_tech_group:0 "§GAllows§! us to acquire a new §Ttechnology group§! through the §Ymission tree§!\n\nWe can now §Yswitch§! to §Tother technology groups§! via a special interaction in the §Ymilitary interface§!\n"
 
@@ -18,7 +18,7 @@ EDG_SHY_mission_1_6_desc:0 "The lands north of the great steppe have long been s
 EDG_SHY_mission_1_8_title:0 "Cleanse the Remnants"
 EDG_SHY_mission_1_8_desc:0 "The various petty scoundrels scattered across the Eastern European steppe are solely preoccupied with squabbling over the wealth of the Golden Horde, forgetting the grace and authority bestowed upon them by the Great Khan. We shall reclaim the legacy of our brethren and punish the audacious thieves who covet the divine instruments of power."
 
-EDG_SHY_mission_1_10_title:0 "Atop the Mountain Ranges"
+EDG_SHY_mission_1_10_title:0 "Atop the Caucasus" # Atop the Mountain Ranges
 EDG_SHY_mission_1_10_desc:0 "The winding, folded mountains of the Caucasus provide natural refuge for tribes that resist royal authority. Yet, the Great Khan's cannons shall tear open their havens of ignoble survival. As the banners of the Özbeg Khanate are planted upon every peak, the experience of conquering these mountains will render all natural fortifications utterly insignificant."
 EDG_SHY_mission_1_10.effect.tt:0 "Now, using §Tartillery bombardment§! during a §Ysiege§! will additionally increase the province's §Ysiege progress§! by §G10%§!\n"
 
@@ -32,7 +32,7 @@ EDG_SHY_mission_1_14_desc:0 "The Dutch eke out an existence amidst the predatory
 EDG_SHY_mission_1_16_title:0 "The Land of Flowing Wealth"
 EDG_SHY_mission_1_16_desc:0 "All conquerors from the steppe yearn to plunder the riches of India, but the harsh, humid environment of these lands is unfavorable for the advance of the Mongol cavalry. Let us make thorough preparations and lay claim to the ambition of India."
 
-EDG_SHY_mission_1_18_title:0 "Unhindered by Natural Barriers"
+EDG_SHY_mission_1_18_title:0 "Unhindered by Mountains" # Unhindered by Natural Barriers
 EDG_SHY_mission_1_18_desc:0 "With the mountainous regions of Afghanistan fallen beneath the iron hooves of the Great Khan, the defenseless plains of South Asia lie just ahead. Let us press forward in one continuous thrust, toppling the feeble city defenses of the Sultans."
 
 EDG_SHY_mission_1_20_title:0 "Gain a Foothold"
@@ -53,7 +53,7 @@ EDG_SHY_mission_1_28_title:0 "Shake Heaven and Earth"
 EDG_SHY_mission_1_28_desc:0 "The influence of the Özbeg Khanate continues to expand in South Asia, and India's unique concepts of warfare are profoundly shaping our forces. Let us further absorb the military experience of this ancient southern civilization to forge an army that strikes awe into the heavens."
 EDG_SHY_mission_1_28.effect.tt:0 "Unlocks the §Ymount§! 'War Elephant' for the §TGuard Corps§!\n"
 
-EDG_SHY_mission_1_30_title:0 "The Other Half of the Legacy"
+EDG_SHY_mission_1_30_title:0 "Legacy of the Other Half" # The Other Half of the Legacy
 EDG_SHY_mission_1_30_desc:0 "The defiant Eastern Chagatai have broken free from the Great Khan's control, seeking to split the ancestral heritage. The Özbeg Khanate shall reclaim their ill-gotten gains that violate ancestral teachings and unite the children of the great steppe."
 EDG_SHY_mission_1_30.effect.tt:0 "Annex @CHG §Y[CHG.GetName]§!\n"
 
@@ -72,7 +72,7 @@ EDG_SHY_mission_2_2_title:0 "Left Arm"
 EDG_SHY_mission_2_2_desc:0 "The Kazakhs cannot be counted as loyal subjects of the Khanate. Their wolfish ambition awaits a moment of the Great Khan's weakness. We shall extract the resources of the eastern steppe."
 EDG_SHY_mission_2_2.effect.tt:0 "All provinces under our rule with §Tculture§! §YKazakh§! gain §R+50%§! autonomy\n"
 
-EDG_SHY_mission_2_4_title:0 "Strengths and Flaws Intertwined"
+EDG_SHY_mission_2_4_title:0 "Strengths and Flaws" # Strengths and Flaws Intertwined
 EDG_SHY_mission_2_4_desc:0 "Our ancestors bestowed upon the steppe warriors invincible courage, yet the military concepts of other civilizations are also worthy of study. Let us continuously absorb the combat experience of the conquered to forge the world's most advanced army."
 EDG_SHY_mission_2_4.trigger.tt:0 "We have §Yunlocked§! §Yat least 4§! available §Ttechnology groups§!\n"
 EDG_SHY_mission_2_4.effect.tt:0 "We will receive additional, §Yvarying§! §Ymilitary bonuses§! based on the §Ttechnology groups§! adopted§!\n\nUnlock a §Ypanel§! in the §Ymilitary interface§! that §Gallows§! us to customize the §TGuard Corps§! via this panel.\n\nThrough §Ymissions§!, we will §Gunlock§! more equipment options for §Ycustomization§! and §Yenhance§! the effects of existing §Yequipment§!.\n"
@@ -109,7 +109,7 @@ EDG_SHY_mission_2_22_title:0 "From the Yellow Sands"
 EDG_SHY_mission_2_22_desc:0 "The peninsula's nomads migrate across the deserts to survive, sharing many similarities with us. Under the tolerant rule of the Özbeg Khanate, the Arabs will no longer need to worry about division and conflict, and we can also absorb the strengths of the Muslims."
 EDG_SHY_enable_tech_group_maghrib:0 "§GAllows§! us to switch our §Ttechnology group§! to §YMaghrebi§!\n"
 
-EDG_SHY_mission_2_24_title:0 "A Thousand Leagues of Yellow Sand"
+EDG_SHY_mission_2_24_title:0 "1,000 Leagues of Yellow Sand" # A Thousand Leagues of Yellow Sand
 EDG_SHY_mission_2_24_desc:0 "The scorching, barren interior of Africa has deterred indigenous paths of development, but the Great Khan's brave pioneers will not stop here. Let us march into the vast Sahara Desert and explore the world deeper to the south."
 EDG_SHY_enable_build_pasture_in_savannah:0 "Now §Gallows§! us to §Ybuild pastures§! via the §Ydecision§! 'Establish New Pasture' in provinces with §Tterrain§! of §YSavannah§! or §YCoast§!.\n"
 
@@ -153,7 +153,7 @@ EDG_SHY_mission_3_4.effect.tt:0 "Inherit §Tcores§! on all §Ycore provinces§!
 EDG_SHY_mission_3_4.effect_1.tt:0 "If @KHI §Y[KHI.GetName]§! is our §Ysubject§!, we will §Rspend§! a certain amount of §Ymanpower§! £icon_manpower£ to §Tinherit§! them.\n"
 EDG_SHY_mission_3_4.effect_2.tt:0 "If @KOK §Y[KOK.GetName]§! is our §Ysubject§!, we will §Rspend§! a certain amount of §Ymanpower§! £icon_manpower£ to §Tinherit§! them.\n"
 
-EDG_SHY_mission_3_5_title:0 "Ten Thousand Horses Galloping"
+EDG_SHY_mission_3_5_title:0 "10,000 Horses Galloping" # Ten Thousand Horses Galloping
 EDG_SHY_mission_3_5_desc:0 "People say the Mongol army was a massive, undisciplined rabble, relying solely on numerical superiority to defeat its enemies, but they are wrong. Ever since Genghis Khan unified a divided people into an invincible military organization, the Özbeg Khanate has once again realized the people's long-held wish. Now, the Mongol warhorses yearn for vaster pastures, and the steppe warriors crave to conquer even more distant frontiers. Let us claim the path of the conquerors!"
 EDG_SHY_great_expedition.tt:0 "We will gain a §Ypowerful modifier§! lasting §Y10§! years. During this modifier's duration, we will §Gignore overextension penalties§! but significantly §Rincrease core creation cost§!.\n\nThis modifier can be §Yextended§! by completing §Tspecific missions§!. If §Rinterrupted§!, it §Rcannot be regained§!.\n\nIf we complete the §Tfinal objective§! while this §Ymodifier is active§!, it will §Gautomatically pillage§! all our §Ynon-core provinces§! in the §YEastern Europe§! and §YWestern Europe§! subcontinents once, while granting province §Tcores§!.\n"
 EDG_SHY_great_expedition_near_east.tt:0 "We will gain a §Ypowerful modifier§! lasting §Y10§! years. During this modifier's duration, we will §Gignore overextension penalties§! but significantly §Rincrease core creation cost§!.\n\nThis modifier can be §Yextended§! by completing §Tspecific missions§!. If §Rinterrupted§!, it §Rcannot be regained§!.\n\nIf we complete the §Tfinal objective§! while this §Ymodifier is active§!, it will §Gautomatically pillage§! all our §Ynon-core provinces§! in the §YLevant§! subcontinent once, while granting province §Tcores§!.\n"
@@ -232,11 +232,11 @@ EDG_SHY_mission_3_23_title:0 "The Lamps Are Dying"
 EDG_SHY_mission_3_23_desc:0 "The Khanate's territory covers all of Egypt, like dark clouds blotting out the earth. Submissive priests worship the Great Khan as the new Pharaoh. The silent stillness accompanying the Mongol army's conquest has smothered the ancient land."
 EDG_SHY_mission_3_23.effect.tt:0 "All provinces under our rule in the §YEgypt§! region with §Tdevelopment§! above §Y10§! will gain the following modifier:\n"
 
-EDG_SHY_mission_3_24_title:0 "Iron Hooves Trample Through"
+EDG_SHY_mission_3_24_title:0 "Iron Hooves Trample" # Iron Hooves Trample Through
 EDG_SHY_mission_3_24_desc:0 "In Konstantiniyye, we heard a story of a Greek who spent his entire life yet never reached the dreamt-of Okeanos. Now, with all the southern shores of the Mediterranean incorporated into the Khanate's domain, we have arrived at the edge of the world."
 EDG_SHY_mission_3_24.effect.tt:0 "Every §YMediterranean coastal§! province we own will §Gimmediately grant§! us §Y50§! sailors.\n"
 
-EDG_SHY_mission_3_25_title:0 "Sweep Along the Grand Trunk Road"
+EDG_SHY_mission_3_25_title:0 "Along the Grand Trunk" # Sweep Along the Grand Trunk Road
 EDG_SHY_mission_3_25_desc:0 "South Asian conquerors often become engrossed in the privileges of their own enjoyment, failing to consolidate control over more lands. Yet, the path of the Khanate's conquest shall not end here. The Great Khan's cavalry shall gallop freely along the Grand Trunk Road of North India, eliminating all foreign kingdoms that refuse to submit."
 EDG_SHY_mission_3_25.effect.tt:0 "Gain §Tautonomous cores§! on all provinces we own in the §YHindustan§! region.\n\nGain a §YSubjugation§! casus belli lasting §G5§! years against all §Yindependent nations§! with their §Tcapital§! located on the §YIndian subcontinent§!.\n"
 EDG_SHY_mission_3_25.event.tt:0 "All §Yindependent nations§! with their §Tcapital§! located on the §YIndian§! subcontinent will trigger the following event:\n"
@@ -247,7 +247,7 @@ EDG_SHY_mission_3_26_desc:0 "The situation in North India has long been one of c
 EDG_SHY_mission_3_27_title:0 "Sack Bengal"
 EDG_SHY_mission_3_27_desc:0 "The favorable subtropical natural conditions provide Bengal with abundant produce. Their skilled weavers can create precious handicrafts. As barbaric victors, it is only right that we plunder Bengal's wealth to our heart's content."
 
-EDG_SHY_mission_3_28_title:0 "Rule the Indian Subcontinent"
+EDG_SHY_mission_3_28_title:0 "Rule Over India" # Rule the Indian Subcontinent
 EDG_SHY_mission_3_28_desc:0 "In South Asia, different regimes and faiths rise and fall in struggle and compromise. Even the wisest ruler would be helpless before the complex terrain and vast populations. But warriors from the steppe will not rely on outdated governance methods. The Great Khan's authority, like a hungry wolf eyeing lambs, intimidates subjects in all directions. Amidst the flames of plunder and the cold, hard bows, the Indian subcontinent shall submit to the Khanate's rule for a long time to come."
 EDG_SHY_mission_3_28.effect.tt:0 "§GExpedition objective achieved! Earn additional rewards!§!\n\n§OPillage§! all §Ynon-core§! and §Runpillaged§! provinces under our rule on the §YIndian§! subcontinent, and gain province §Tcores§!.\n\nThe following modifier will become a §Ypermanent modifier§!:\n"
 
@@ -260,7 +260,7 @@ EDG_SHY_mission_3_30_desc:0 "The ancient legacy of the Chinese Empire has lured 
 EDG_SHY_mission_3_31_title:0 "Swim Against the Current"
 EDG_SHY_mission_3_31_desc:0 "The weak Yuan dynasty gave the people false hope, allowing them to fantasize that the steppe conquerors had sheathed their curved blades. Yet the Great Khan's army will shatter the delusions of the ambitious. For the restless forces of the East, only destruction awaits once more."
 
-EDG_SHY_mission_3_32_title:0 "The Jade Gate Pass, Sighing in the Wind"
+EDG_SHY_mission_3_32_title:0 "Jade Gate Pass Sighs in Wind" # The Jade Gate Pass, Sighing in the Wind
 EDG_SHY_mission_3_32_desc:0 "The rulers of the Central Plains dynasties relied on constructing endless fortifications to repel invasions. But how can dilapidated, crumbling walls stop the Great Khan's brave and skilled cavalry? The warriors of the steppe ride the gale through the passes; the lords within have lost their final barrier."
 
 EDG_SHY_mission_3_33_title:0 "Return to the Central Plains"
@@ -274,7 +274,7 @@ EDG_SHY_mission_3_34.effect.tt:0 "Unlock the §Tprovince interaction§! "Settle 
 EDG_SHY_mission_3_35_title:0 "Tribal Nobility"
 EDG_SHY_mission_3_35_desc:0 "As plundered wealth and land are continuously distributed within the Khanate, those with the greatest military achievements and contributions among the tribes have amassed considerable capital. It is time to further delineate the strata of the Khanate."
 
-EDG_SHY_mission_3_36_title:0 "The Issue of Khan's Succession"
+EDG_SHY_mission_3_36_title:0 "The Khan's Succession" # The Issue of Khan's Succession
 EDG_SHY_mission_3_36_desc:0 "In the past, only the toughest could lead the mounted princes, but this is detrimental to the Khanate's stability and continuity. We should leverage the Khan's unprecedented achievements and prestige to reform the outdated laws of succession."
 
 EDG_SHY_mission_3_37_title:0 "Adopt Feudal Institutions"
@@ -325,7 +325,7 @@ EDG_SHY_mission_4_17_desc:0 "The rugged southern mountains prevent the steppe wa
 EDG_SHY_unlock_armor_3.tt:0 "Unlock the §Yarmor§! "Full Body Armor" for the §TGuard Corps§!\n"
 EDG_SHY_improve_armor_3_modifer.tt:0 "Improve the performance of the §TGuard Corps§! armor "§YFull Body Armor§!"\n"
 
-EDG_SHY_mission_4_19_title:0 "Integrate Iranian Mercenaries"
+EDG_SHY_mission_4_19_title:0 "Iranian Mercenaries" # Integrate Iranian Mercenaries
 EDG_SHY_mission_4_19_desc:0 "Persia's protracted wars have forged a corps of seasoned veterans, most hailing from local clans or religious groups. To ensure the Khanate's long-term stability and to further enhance our military doctrine, we should integrate these battle-hardened Iranian mercenaries."
 EDG_SHY_enable_tech_group_iran:0 "§GAllows§! us to switch our §Ttechnology group§! to §YIranian§!.\n"
 EDG_SHY_enable_build_pasture_in_mountain:0 "Now §Gallows§! us to §Ybuild pastures§! via the §Ydecision§! 'Establish New Pasture' in provinces with §Tterrain§! of §YMountain§!, §YHills§!, or §YHighlands§!.\n"
@@ -357,11 +357,11 @@ EDG_SHY_mission_4_33_desc:0 "Continuous warfare has accelerated technological ch
 EDG_SHY_mission_4_33.effect.tt:0 "Unlock the §Yprimary weapon§! "Musket" for the §TGuard Corps§!.\n\nUnlock the §Ysecondary weapon§! "Pistol" for the §TGuard Corps§!.\n"
 EDG_SHY_enable_build_pasture_in_farmlands:0 "Now §Gallows§! us to §Ybuild pastures§! via the §Ydecision§! 'Establish New Pasture' in provinces with §Tterrain§! of §YFarmlands§!.\n"
 
-EDG_SHY_mission_4_35_title:0 "Flames Ignite the Four Borders"
+EDG_SHY_mission_4_35_title:0 "Flames Ignite the Borders" # Flames Ignite the Four Borders
 EDG_SHY_mission_4_35_desc:0 "Mongol conquests have always been accompanied by plunder and slaughter, but the world has misunderstood our well-intentioned efforts. Backward nations must always consider the enemy's interests, while an advanced nomadic power solves problems from a holistic perspective. For the Khanate's more distant future, the Great Khan has ingeniously invented more efficient methods of plunder."
 EDG_SHY_mission_4_35.effect.tt:0 "Unlock the §Yprovince interaction§! "Pillage Province," allowing us to §Tpillage§! provinces we do not §Yown§! but have §Yoccupied§!.\n\nUnlock a §Ybutton§! in the §Yeconomics panel§! that allows us to perform §TPillage Province§! on §Yall eligible provinces§! at once.\n"
 
-EDG_SHY_mission_4_37_title:0 "Sweep Across the Eight Directions"
+EDG_SHY_mission_4_37_title:0 "Sweep in Eight Directions" # Sweep Across the Eight Directions
 EDG_SHY_mission_4_37_desc:0 "In the past, those who surrendered voluntarily received the Great Khan's mercy; only cities that resisted to the death were razed to the ground. Experience has proven that such mercy only emboldens the rebellious ambitions of the schemers. Let us be impartial and direct the flames of plunder to all lands already controlled and those soon to be conquered."
 EDG_SHY_mission_4_37.effect.tt:0 "We will be able to perform the §Yprovince interaction§! "Pillage Province" in §Ysubject provinces§!. §YEach point of development reduced§! will increase the subject's §Yliberty desire§! by §R5%§!.\n\n§RThe aforementioned §Yprovince interaction§! is only available for subjects of §Tsubject type§! §YVassal§!!§!\n"
 
@@ -380,7 +380,7 @@ EDG_SHY_mission_5_5_title:0 "Grassroots Governance"
 EDG_SHY_mission_5_5_desc:0 "As more territories submit to the Great Khan's rule, the old religious policies can no longer meet the needs of pacifying the populace. Let us learn the Muslims' unique methods of administration to govern the newly conquered peoples."
 EDG_SHY_mission_5_5.effect.tt:0 "All provinces §Ymeeting the mission conditions§! gain §G2§! §Tbase tax§!.\n"
 
-EDG_SHY_mission_5_7_title:0 "Freedom Under the Great Khan"
+EDG_SHY_mission_5_7_title:0 "Great Khan's Freedom" # Freedom Under the Great Khan
 EDG_SHY_mission_5_7_desc:0 "The steppe's territory is so vast that we cannot hear the prayers of the infidels. As long as they are willing to pay more taxes under the Khanate's rule, the Great Khan will not mind which deity they worship."
 EDG_SHY_mission_5_7.effect.tt:0 "§TPillaging§! a province with a §Ychurch§! building now provides an additional §G10§! ¤; if it is a §Ycathedral§!, the §Gprofit doubles§!.\n"
 
@@ -428,13 +428,13 @@ EDG_SHY_mission_5_33_desc:0 "The children of Eternal Heaven forever hold the cur
 EDG_SHY_mission_5_33.trigger.tt:0 "We directly own §Y5§! provinces on every §Ysubcontinent§! in the §YOld World§!.\n"
 EDG_SHY_mission_5_33.effect.tt:0 "§GRemove§! all §Rrebels§! from §Yall provinces§! under our rule.\n\n§GImmediately reduce§! unrest in §Yall provinces§! under our rule by §G50§! and separatism by §G20§! years.\n\nIncrease §Ystability§! to §Y3§!.\n"
 
-EDG_SHY_mission_5_35_title:0 "Regular Military Exercises"
+EDG_SHY_mission_5_35_title:0 "Military Exercises" # Regular Military Exercises
 EDG_SHY_mission_5_35_desc:0 "The warriors of the steppe can never halt the march of conquest; the children of Eternal Heaven crave blood and slaughter. Let us hold regular military exercises to make ample preparations for the true wars to come."
 
 EDG_SHY_mission_5_37_title:0 "War Games"
 EDG_SHY_mission_5_37_desc:0 "Countless protracted wars have forged our invincible cavalry. The warriors of the steppe fear no enemy, not even time itself. Let us train an even more elite Guard Corps, seizing more victories for the Great Khan with curved blades and longbows."
 EDG_SHY_mission_5_37.effect.tt:0 "Unlock the §Ymount§! "War Bear" for the §TGuard Corps§!.\n"
 
-EDG_SHY_mission_5_39_title:0 "Entrance to the Desolate Ground"
+EDG_SHY_mission_5_39_title:0 "The Desolate Ground" # Entrance to the Desolate Ground
 EDG_SHY_mission_5_39_desc:0 "We turn time back to the past, allowing fragmented history to be retold in our hands.\n\nThe great wheel of history rolls ever onward; all streams, great and small, converge into the desolate ground.\n\nProud glories and regretful memories are all buried with the next restart, never to be continued again." # abyss
 EDG_SHY_mission_5_39.effect.tt:0 "Gain §Tcores§! on §Yall provinces in the world§! and §Yinherit§! all §Tsubject states§!.\n"

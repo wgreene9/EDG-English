@@ -899,8 +899,8 @@ EDG_AEL_mission_1_5_tt:0 "All eligible provinces will gain the following modifie
 EDG_mission_LOT_1_21_flag_tt:0 "Unlocks the Great Project §YAachen Palatine Chapel§! and its exclusive §Gconstruction mechanic§!.\nAllows us to §Rloot§! specific Great Projects to §Yrenovate the Aachen Palace§!."
 
 EDG_mission_LOT_1_20_a_flag_decision_title:0 "@LOT Impose Taxes on the Nobility"
-EDG_mission_LOT_1_20_a_flag_decision_desc:0 "@LOT Share Power with the Nobility"
-EDG_mission_LOT_1_20_b_flag_decision_title:0 "We have the nobility firmly under our control; they must obey us."
+EDG_mission_LOT_1_20_a_flag_decision_desc:0 "We have the nobility firmly under our control; they must obey us."
+EDG_mission_LOT_1_20_b_flag_decision_title:0 "@LOT Share Power with the Nobility"
 EDG_mission_LOT_1_20_b_flag_decision_desc:0 "The nobility is our crucial ally; we must defer to them."
 
 EDG_mission_LOT_1_22_a_tt_yes:0 "£yes£If we complete the mission by §Ysatisfying the nobility§!, then"

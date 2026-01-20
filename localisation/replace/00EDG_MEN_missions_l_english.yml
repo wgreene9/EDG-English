@@ -29,8 +29,8 @@ EDG_MEN_mission_2_2_tt_1:0 "§GEvent Preview:§!\n§TAnnex§! Smyrna"
 EDG_MEN_mission_2_2_b_yes:0 "£yes£@SUG Smyrna does not exist"
 EDG_MEN_mission_2_2_b_no:0 "£no£@SUG Smyrna does not exist"
 EDG_MEN_mission_2_2_tt_2:0 "§GEvent Preview:§!\nDeclare war on Smyrna with §G'Conquest'§! as the casus belli"
-EDG_MEN_mission_2_2_c_yes:0 "£yes£@SUG Smyrna views us as an enemy"
-EDG_MEN_mission_2_2_c_no:0 "£no£@SUG Smyrna views us as an enemy"
+EDG_MEN_mission_2_2_c_yes:0 "£yes£@SUG Smyrna is our rival" # Smyrna views us as an enemy
+EDG_MEN_mission_2_2_c_no:0 "£no£@SUG Smyrna is our rival"
 
 EDG_MEN_2_4_title:0 "Trade with a Sword"
 EDG_MEN_2_4_desc:0 "The Akhi Brotherhood does not shun trading with infidels. Exploited for their trade value by the Ottomans for years, their longstanding grievances make them a sharp blade we can wield against the Ottoman states."

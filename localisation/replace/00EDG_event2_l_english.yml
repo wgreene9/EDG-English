@@ -46,7 +46,7 @@ EDG_DLC_check_event_3_a_tt:0 "§YProactively delete§! the §YChina subcontinent
 EDG_DLC_check_event_3_c_tt:0 "Due to changes in the §Yreal-world environment§! and §Ydevelopment philosophy§!, the development team no longer considers creating China region content to avoid unnecessary complications."
 
 EDG_DLC_check_event.3.title:0 "Bian Bian Tells a Story"
-EDG_DLC_check_event.3.desc:0 "A poet from Uzbekistan has arrived at our court, calling himself 'Thin Bian Bian'—some refer to him as 'Instructor Bian'. [Root.Monarch.GetName] is quite intrigued by the novel tales he shares."
+EDG_DLC_check_event.3.desc:0 "A poet from Uzbekistan has arrived at our court, calling himself 'Shou Bian Bian'—some refer to him as 'Instructor Bian'. [Root.Monarch.GetName] is quite intrigued by the novel tales he shares." # Thin Bian Bian
 EDG_DLC_check_event.3.aa:0 "Fascinating."
 EDG_DLC_check_event.3.bb:0 "What do you mean by 'accidentally bankrupting the nation during the Golden Age'?"
 EDG_DLC_check_event.3.cc:0 "What does 'the economic situation is stable and improving' mean?"
