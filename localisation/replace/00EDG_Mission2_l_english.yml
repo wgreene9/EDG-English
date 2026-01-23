@@ -531,8 +531,8 @@ EDG_TUR_Kapikulu_we_need_land_tt:0 "We need to expend §M1§! unit of §YTimar E
 
 EDG_MISSION_TUR_reform_3_15_flag_tt:0 "Allows us to invest Timar Estates into the §Y'New Army'§! within the §Y'Kapikulu'§! mechanic.\n\nIncreases the §YTimar Estates§! held by the §Y'New Army'§! by §M1§! unit."
 
-EDG_TUR_Kapikulu_decree_button_1_unlock_flag_tt:0 "Unlocks the §Y'Kapikulu'§! §M'military decree'§! §Y'Increase Janissary Subsidies'§!"
-EDG_TUR_Kapikulu_decree_button_2_unlock_flag_tt:0 "Unlocks the §Y'Kapikulu'§! §M'military decree'§! §Y'Review the Janissaries'§!"
+EDG_TUR_Kapikulu_decree_button_1_unlock_flag_tt:0 "Unlocks the §YKapikulu§! §MMilitary Decree§!: §Y'Increase Janissary Subsidies'§!"
+EDG_TUR_Kapikulu_decree_button_2_unlock_flag_tt:0 "Unlocks the §YKapikulu§! §MMilitary Decree§!: §Y'Audit the Janissaries'§!"
 
 EDG_MISSION_TUR_reform_1_12_tt:0 "All provinces with an established §YBektashi Order§! will gain the following effect:"
 

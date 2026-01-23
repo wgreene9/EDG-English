@@ -2,7 +2,7 @@
 EDG_SPACE_TT:0 " "
 edg_all_our_subject_get_the_modifier_tt:0 "All of our §Ysubjects§! will gain the following modifier:"
 #Economic Structure Mission Tree
-ME_ADD_PRESTIGE_OR_MONARCHPOWER:0 "For every §Y1§! point of Prestige above the limit, §Y1§! point £adm£, §Y1§! point £dip£, and §Y1§! point £mil£ will be gained automatically.\n\n"
+ME_ADD_PRESTIGE_OR_MONARCHPOWER:0 "All the excess Prestige will be converted into each type of §YMonarch Power§!.\n\n" # For every §Y1§! point of Prestige above the limit, §Y1§! point £adm£, §Y1§! point £dip£, and §Y1§! point £mil£ will be gained automatically.\n\n
 INCOME_FROM_TEMPLES_DESC:0 "Income from Temples and Cathedrals"
 change_10_temple_to_cathedral_tooltip:0 "Convert 10 §YChurches§! into §YCathedrals§!"
 EDG_nobles_50_loyalty_tooltip:0 "If the §YNobility§! have at least §Y50§!% §YLoyalty§!, then"

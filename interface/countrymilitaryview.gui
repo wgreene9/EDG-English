@@ -1167,7 +1167,7 @@ guiTypes = {
 			#军事法令
 			guiButtonType = {
 				name = "EDG_TUR_Kapikulu_decree_button_1"
-				buttonText = "EDG_TUR_Kapikulu_decree_button_1_tt"
+				buttonText = "EDG_TUR_Kapikulu_decree_button_1_t"
 				position = { x = 1070 y = 200 }
 				quadTextureSprite ="GFX_EDG_little_decree_button"
 				Orientation = "UPPER_LEFT"
@@ -1186,7 +1186,7 @@ guiTypes = {
 			}
 			guiButtonType = {
 				name = "EDG_TUR_Kapikulu_decree_button_2"
-				buttonText = "EDG_TUR_Kapikulu_decree_button_2_tt"
+				buttonText = "EDG_TUR_Kapikulu_decree_button_2_t"
 				position = { x = 1070 y = 227 }
 				quadTextureSprite ="GFX_EDG_little_decree_button"
 				Orientation = "UPPER_LEFT"
@@ -1205,7 +1205,7 @@ guiTypes = {
 			}
 			guiButtonType = {
 				name = "EDG_TUR_Kapikulu_decree_button_3"
-				buttonText = "EDG_TUR_Kapikulu_decree_button_3_tt"
+				buttonText = "EDG_TUR_Kapikulu_decree_button_3_t"
 				position = { x = 1070 y = 254 }
 				quadTextureSprite ="GFX_EDG_little_decree_button"
 				Orientation = "UPPER_LEFT"
@@ -1224,7 +1224,7 @@ guiTypes = {
 			}
 			guiButtonType = {
 				name = "EDG_TUR_Kapikulu_decree_button_4"
-				buttonText = "EDG_TUR_Kapikulu_decree_button_4_tt"
+				buttonText = "EDG_TUR_Kapikulu_decree_button_4_t"
 				position = { x = 1070 y = 281 }
 				quadTextureSprite ="GFX_EDG_little_decree_button"
 				Orientation = "UPPER_LEFT"
@@ -1243,7 +1243,7 @@ guiTypes = {
 			}
 			guiButtonType = {
 				name = "EDG_TUR_Kapikulu_decree_button_5"
-				buttonText = "EDG_TUR_Kapikulu_decree_button_5_tt"
+				buttonText = "EDG_TUR_Kapikulu_decree_button_5_t"
 				position = { x = 1070 y = 308 }
 				quadTextureSprite ="GFX_EDG_little_decree_button"
 				Orientation = "UPPER_LEFT"
@@ -1262,7 +1262,7 @@ guiTypes = {
 			}
 			guiButtonType = {
 				name = "EDG_TUR_Kapikulu_decree_button_6"
-				buttonText = "EDG_TUR_Kapikulu_decree_button_6_tt"
+				buttonText = "EDG_TUR_Kapikulu_decree_button_6_t"
 				position = { x = 1070 y = 335 }
 				quadTextureSprite ="GFX_EDG_little_decree_button"
 				Orientation = "UPPER_LEFT"
@@ -1281,7 +1281,7 @@ guiTypes = {
 			}
 			guiButtonType = {
 				name = "EDG_TUR_Kapikulu_decree_button_7"
-				buttonText = "EDG_TUR_Kapikulu_decree_button_7_tt"
+				buttonText = "EDG_TUR_Kapikulu_decree_button_7_t"
 				position = { x = 1070 y = 364 }
 				quadTextureSprite ="GFX_EDG_little_decree_button"
 				Orientation = "UPPER_LEFT"
@@ -1300,7 +1300,7 @@ guiTypes = {
 			}
 			guiButtonType = {
 				name = "EDG_TUR_Kapikulu_decree_button_8"
-				buttonText = "EDG_TUR_Kapikulu_decree_button_8_tt"
+				buttonText = "EDG_TUR_Kapikulu_decree_button_8_t"
 				position = { x = 1070 y = 392 }
 				quadTextureSprite ="GFX_EDG_little_decree_button"
 				Orientation = "UPPER_LEFT"
@@ -1319,7 +1319,7 @@ guiTypes = {
 			}
 			guiButtonType = {
 				name = "EDG_TUR_Kapikulu_decree_button_9"
-				buttonText = "EDG_TUR_Kapikulu_decree_button_9_tt"
+				buttonText = "EDG_TUR_Kapikulu_decree_button_9_t"
 				position = { x = 1070 y = 420 }
 				quadTextureSprite ="GFX_EDG_little_decree_button"
 				Orientation = "UPPER_LEFT"
@@ -1338,7 +1338,7 @@ guiTypes = {
 			}
 			guiButtonType = {
 				name = "EDG_TUR_Kapikulu_decree_button_10"
-				buttonText = "EDG_TUR_Kapikulu_decree_button_10_tt"
+				buttonText = "EDG_TUR_Kapikulu_decree_button_10_t"
 				position = { x = 1070 y = 448 }
 				quadTextureSprite ="GFX_EDG_little_decree_button"
 				Orientation = "UPPER_LEFT"
@@ -1357,7 +1357,7 @@ guiTypes = {
 			}
 			guiButtonType = {
 				name = "EDG_TUR_Kapikulu_decree_button_11"
-				buttonText = "EDG_TUR_Kapikulu_decree_button_11_tt"
+				buttonText = "EDG_TUR_Kapikulu_decree_button_11_t"
 				position = { x = 1070 y = 476 }
 				quadTextureSprite ="GFX_EDG_little_decree_button"
 				Orientation = "UPPER_LEFT"
@@ -1376,7 +1376,7 @@ guiTypes = {
 			}
 			guiButtonType = {
 				name = "EDG_TUR_Kapikulu_decree_button_12"
-				buttonText = "EDG_TUR_Kapikulu_decree_button_12_tt"
+				buttonText = "EDG_TUR_Kapikulu_decree_button_12_t"
 				position = { x = 1070 y = 504 }
 				quadTextureSprite ="GFX_EDG_little_decree_button"
 				Orientation = "UPPER_LEFT"

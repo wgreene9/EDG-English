@@ -523,9 +523,15 @@
 
 # CAT = { remove_country_modifier = bankruptcy }
 # set_country_flag = let_alliance_join_war_flag
-clr_country_flag = let_alliance_join_war_yes_flag
+# clr_country_flag = let_alliance_join_war_yes_flag
 				# capital_scope = {
 				# 	large_cast_bronze_mortar = ROOT
 				# 	large_cast_bronze_mortar = ROOT
 				# 	large_cast_bronze_mortar = ROOT
 				# }
+
+			# set_country_flag = EDG_TUR_Kapikulu_enable_flag
+			# change_variable = {
+			# 	which = EDG_TUR_Kapikulu_land_value
+			# 	value = 1
+			# }

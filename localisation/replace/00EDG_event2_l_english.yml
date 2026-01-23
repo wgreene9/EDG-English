@@ -1660,10 +1660,10 @@ EDG_flavorFRA.13.a:0 "The straying of the past two centuries cannot hinder Occit
 EDG_flavorFRA_13_a_tt:0 "@AEL Arles will be dismembered. The released states and former dependencies will become @FRA §YFrench§! §Mfiefs§!, with the type of fief depending on France's prior choices."
 po_FRA_to_AEL_Crusades_opinion:0 "Granted Us Fiefs"
 
-EDG_flavorFRA.14.t:0 ""
-EDG_flavorFRA.14.d:0 ""
-EDG_flavorFRA.14.a:0 ""
-EDG_flavorFRA.14.b:0 ""
+# EDG_flavorFRA.14.t:0 ""
+# EDG_flavorFRA.14.d:0 ""
+# EDG_flavorFRA.14.a:0 ""
+# EDG_flavorFRA.14.b:0 ""
 
 EDG_flavorFRA.14.t:0 "The Italian Wars and the French Renaissance"
 EDG_flavorFRA.14.d:0 "Although Petrarch, the foremost figure of the early Italian Renaissance and a Florentine poet, had exerted significant influence in France as early as the late 14th century, the French Renaissance movement only began to take shape towards the end of the 15th century, with its full flourishing not occurring until the 16th century. This 'lag' in the emergence of the Renaissance in France was primarily due to the fact that capitalist development in France at the time still trailed behind Italy, and the necessary social conditions were not yet mature.\n\nThe French expeditions into Italy greatly accelerated the development of the French Renaissance. The French who followed the 'knightly king' across the Alps discovered with astonishment a new world on the other side: magnificent cities built with various marbles, grand piazzas, palaces rivaling those of the Orient, and golden-domed churches...\n\nSimultaneously, the new urban lifestyles and immense wealth of the Italian cities filled these Frenchmen with envy. Although the French ultimately gained no lasting territorial conquests in Italy during the decades-long Italian Wars, the vast quantities of Italian Renaissance artworks and books plundered during the conflicts opened the eyes of their countrymen back home, thereby significantly promoting the spread of humanist thought in France."
