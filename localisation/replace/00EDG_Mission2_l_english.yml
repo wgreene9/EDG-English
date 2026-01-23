@@ -102,12 +102,12 @@ EDG_KAZ_mission_5_1_a_tt:0 "If we complete the mission by meeting §Yany of the 
 EDG_KAZ_mission_5_1_b_tt:0 "Otherwise, we will gain the following effects:"
 
 EDG_mission_KAZ_1_1_tribal_ability_flag_tt:0 "The §YRecruit Tribal Emir§! interaction of the §YFeudalized Ulus§! government mechanic will additionally grant §Y-2§! §YWar Exhaustion§!"
-EDG_mission_KAZ_1_2_tribal_ability_flag_tt:0 "The §YRecruit Tribal Emir§! interaction of the §YFeudalized Ulus§! government mechanic will additionally grant §Y10§! §YArist Tradition§!"
+EDG_mission_KAZ_1_2_tribal_ability_flag_tt:0 "The §YRecruit Tribal Emir§! interaction of the §YFeudalized Ulus§! government mechanic will additionally grant §Y10§! §YArmy Tradition§!"
 
-EDG_mission_KAZ_2_1_tribal_ability_flag_tt:0 "The §YTribal Military Exercises§! interaction of the §YFeudalized Ulus§! government mechanic will additionally grant §Y10§! §YArist Tradition§!"
+EDG_mission_KAZ_2_1_tribal_ability_flag_tt:0 "The §YTribal Military Exercises§! interaction of the §YFeudalized Ulus§! government mechanic will additionally grant §Y10§! §YArmy Tradition§!"
 EDG_mission_KAZ_2_3_tribal_ability_flag_tt:0 "The §YTribal Military Exercises§! interaction of the §YFeudalized Ulus§! government mechanic will additionally provide a §YCavalry Commander§! advisor"
 
-EDG_mission_KAZ_3_1_tribal_ability_flag_tt:0 "The §YCall for Jihad§! interaction of the §YFeudalized Ulus§! government mechanic will additionally grant §Y10§! §YArist Tradition§!"
+EDG_mission_KAZ_3_1_tribal_ability_flag_tt:0 "The §YCall for Jihad§! interaction of the §YFeudalized Ulus§! government mechanic will additionally grant §Y10§! §YArmy Tradition§!"
 
 
 EDG_FYM_civil_war_happening_trigger_tt:0 "@FYM is experiencing the disaster §RMalik War§!"
@@ -389,7 +389,7 @@ EDG_MISSION_GSR_formal_3_9_flag_tt:0 "Our government ability §YIntegrate Vassal
 
 EDG_MISSION_GSR_formal_3_16_tt:0 "The three minor abilities under our government ability §YImperial Administration§! will be unlocked."
 
-EDG_MISSION_GSR_formal_1_17_flag_tt:0 "Our government ability §YRecruit Fief Cavalry§! will additionally grant us §M10 points§! of seized §YArist Tradition§!."
+EDG_MISSION_GSR_formal_1_17_flag_tt:0 "Our government ability §YRecruit Fief Cavalry§! will additionally grant us §M10 points§! of seized §YArmy Tradition§!."
 EDG_MISSION_GSR_formal_5_17_flag_tt:0 "Our government ability §YRecruit Fief Cavalry§! will additionally grant us §M10 points§! of seized §YNavy Tradition§!."
 
 EDG_MISSION_GSR_formal_4_17_tt:0 "One of our random provinces §Ywith a level 3 Trade Center§! will gain the following modifier:"
@@ -459,7 +459,7 @@ EDG_MISSION_GSR_formal_4_7_government_flag_tt:0 "Our government ability §YImper
 EDG_MISSION_GSR_formal_3_8_government_flag_tt:0 "Our government ability §YImperial Administration§! will additionally grant us a §YGlobal Trade Power§! bonus, increasing up to a maximum of §M33%§!."
 EDG_MISSION_GSR_formal_1_4_government_flag_tt:0 "Our government ability §YImperial Administration§! will additionally grant us a §YDiplomatic Reputation§! bonus, increasing up to a maximum of §M+3§!."
 EDG_MISSION_GSR_formal_5_4_government_flag_tt:0 "Our government ability §YImperial Administration§! will additionally grant us a §YMissionary Strength vs Heretics§! bonus, increasing up to a maximum of §M+3§!."
-EDG_MISSION_GSR_formal_1_10_government_flag_tt:0 "Our government ability §YImperial Administration§! will additionally grant us an §YArist Morale§! bonus, increasing up to a maximum of §M15%§!."
+EDG_MISSION_GSR_formal_1_10_government_flag_tt:0 "Our government ability §YImperial Administration§! will additionally grant us an §YArmy Morale§! bonus, increasing up to a maximum of §M15%§!."
 
 
 #Ottomans
@@ -480,8 +480,8 @@ tur_subjugate_romania_TRA:0 "If §YTransylvania§! is our §Ysubject§!, they wi
 
 EDG_Mission_TUR_conquest_1_mission_2_2_tt:0 "For the next §Y50 years§!, our rulers will be more likely to gain the §YSiege Master§! ruler trait."
 
-EDG_Mission_TUR_conquest_1_mission_2_7_a_tt_yes:0 "£yes£If no country with its capital in §YEurope§! has a larger §YArist§! size than ours, then"
-EDG_Mission_TUR_conquest_1_mission_2_7_a_tt_no:0 "£no£If no country with its capital in §YEurope§! has a larger §YArist§! size than ours, then"
+EDG_Mission_TUR_conquest_1_mission_2_7_a_tt_yes:0 "£yes£If no country with its capital in §YEurope§! has a larger §YArmy§! size than ours, then"
+EDG_Mission_TUR_conquest_1_mission_2_7_a_tt_no:0 "£no£If no country with its capital in §YEurope§! has a larger §YArmy§! size than ours, then"
 
 EDG_Mission_TUR_conquest_1_mission_1_2_tt:0 "All core provinces of the @EP0 §YArta§! Principality under our rule will lose §G10§! points of §Mseparatism§!."
 
@@ -649,13 +649,13 @@ EDG_Mission_TUR_conquest_2_mission_4_3_tt:0 "All §Yeligible§! provinces will g
 EDG_TUR_400_trade_power:0 "Monopoly of the Persian Gulf"
 EDG_Mission_TUR_conquest_2_mission_4_5_tt:0 "Each province in the §YBlack Sea Steppe§! owned by us or our subjects will provide us with one §YCossack Cavalry§! unit."
 
-EDG_Mission_TUR_conquest_2_mission_4_8_flag_tt:0 "The government ability §YRecruit Infidel Recruits§! will additionally provide us with §M5§! points of §YArist Tradition§!."
+EDG_Mission_TUR_conquest_2_mission_4_8_flag_tt:0 "The government ability §YRecruit Infidel Recruits§! will additionally provide us with §M5§! points of §YArmy Tradition§!."
 EDG_Mission_TUR_conquest_2_mission_4_9_flag_tt:0 "The government ability §YRecruit Infidel Recruits§! will additionally provide §MYenicheri§! with their §Yexclusive modifier§!."
 EDG_Mission_TUR_conquest_2_mission_5_9_flag_tt:0 "The government ability §YAppoint Local Pashas§! will additionally reduce the independence desire of one of our subjects by §M20%§!."
 EDG_Mission_TUR_conquest_2_mission_5_8_flag_tt:0 "The government ability §YAppoint Local Pashas§! will additionally provide us with §M50§! points of §Ysplendor§!."
 
 EDG_Mission_TUR_conquest_2_mission_5_5_tt:0 "All our existing subjects belonging to the §YTatar§! culture group will gain the following modifier:"
-EDG_Mission_TUR_conquest_2_mission_5_5_tt_2:0 "All provinces belonging to the §YTatar§! culture group owned by us or our subjects will provide us with §M1§! point of §YArist Tradition§!."
+EDG_Mission_TUR_conquest_2_mission_5_5_tt_2:0 "All provinces belonging to the §YTatar§! culture group owned by us or our subjects will provide us with §M1§! point of §YArmy Tradition§!."
 EDG_Mission_TUR_conquest_2_mission_5_3_tt:0 "All provinces with §YGeorgian§! culture owned by us or our subjects will produce the following effect:"
 EDG_Mission_TUR_conquest_2_mission_5_1_tt:0 "All provinces in the §YCaucasus§! region owned by us or our subjects with §Yunrest§! below 1 will provide us with §M5§! points of £adm£ administrative power and reduce §Mcorruption§! by §M0.5§!:"
 
@@ -805,7 +805,7 @@ EDG_mission_LOT_2_7_c_tt_yes:0 "£yes£If our §Yhome trade node§! is §Mthe En
 EDG_mission_LOT_2_7_c_tt_no:0 "£no£If our §Yhome trade node§! is §Mthe English Channel§!, then"
 EDG_mission_LOT_2_7_c_tt_yes_STRONG_MERCHANTS:0 "Rule the Dutch Coast"
 
-EDG_mission_LOT_2_8_a_tt:0 "Each province we own with the province modifier §G'Military Production: Weapon Manufacturing'§! will provide us with §M0.5%§! §YArist Professionalism§!."
+EDG_mission_LOT_2_8_a_tt:0 "Each province we own with the province modifier §G'Military Production: Weapon Manufacturing'§! will provide us with §M0.5%§! §YArmy Professionalism§!."
 
 EDG_mission_LOT_2_8_B_flag_tt:0 "The §YClergy§! estate privilege §Y'Guardian of the Catholic Church'§! will additionally grant the following modifier:\n-§M+1§! §Gmissionary strength§!"
 
@@ -864,8 +864,8 @@ EDG_mission_LOT_4_20_a_tt_no:0 "£no£If we chose to support the literati in the
 
 EDG_mission_LOT_5_2_flag_tt:0 "During the §Y'Age of Discovery'§!, recruiting an army general will grant us §G5§! points of §Mprestige§!. Excess prestige will be converted into monarch power."
 
-EDG_mission_LOT_5_3_a_tt_yes:0 "£yes£If we still have the national modifier §Y'Land of Knights'§!, then its duration will be reset to §M20§! years, and it will additionally grant §M5%§! §GArist Morale Modifier§!."
-EDG_mission_LOT_5_3_a_tt_no:0 "£no£If we still have the national modifier §Y'Land of Knights'§!, then its duration will be reset to §M20§! years, and it will additionally grant §M5%§! §GArist Morale Modifier§!."
+EDG_mission_LOT_5_3_a_tt_yes:0 "£yes£If we still have the national modifier §Y'Land of Knights'§!, then its duration will be reset to §M20§! years, and it will additionally grant §M5%§! §GArmy Morale Modifier§!."
+EDG_mission_LOT_5_3_a_tt_no:0 "£no£If we still have the national modifier §Y'Land of Knights'§!, then its duration will be reset to §M20§! years, and it will additionally grant §M5%§! §GArmy Morale Modifier§!."
 
 EDG_mission_LOT_5_3_ENG_TT_YES:0 "£yes£If we are §Yallies§! with @ENG England, then"
 EDG_mission_LOT_5_3_ENG_TT_NO:0 "£no£If we are §Yallies§! with @ENG England, then"
@@ -888,8 +888,8 @@ EDG_mission_LOT_3_5_b_flag:0 "Relevant mission completed."
 
 EDG_mission_LOT_1_19_tt:0 "We will gain a modifier that reduces §Mminimum autonomy§!, offsetting the negative modifier from the government reform §Y'Frankish Feudal System'§!, until we no longer adopt the §Y'Frankish Feudal System'§! government reform.\n\nAll provinces we own of the §GGermanic§! culture group will gain the following province modifier:"
 
-EDG_mission_LOT_1_20_a_tt_yes:0 "£yes£If we complete the mission by adopting the government reform §G'Restrict Noble Power'§! or eliminating the nobility, then\n\nThe §Ygovernment interaction§! §MPromote Paladin§! will additionally provide us with §M+5§! §YArist Tradition§!.\n\nUnlocks the decision: §Y'Impose Taxes on the Nobility'§!, which allows us to gain money and bonuses during wartime."
-EDG_mission_LOT_1_20_a_tt_no:0 "£no£If we complete the mission by adopting the government reform §G'Restrict Noble Power'§! or eliminating the nobility, then\n\nThe §Ygovernment interaction§! §MPromote Paladin§! will additionally provide us with §M+5§! §YArist Tradition§!.\n\nUnlocks the decision: §Y'Impose Taxes on the Nobility'§!, which allows us to gain money and bonuses during wartime."
+EDG_mission_LOT_1_20_a_tt_yes:0 "£yes£If we complete the mission by adopting the government reform §G'Restrict Noble Power'§! or eliminating the nobility, then\n\nThe §Ygovernment interaction§! §MPromote Paladin§! will additionally provide us with §M+5§! §YArmy Tradition§!.\n\nUnlocks the decision: §Y'Impose Taxes on the Nobility'§!, which allows us to gain money and bonuses during wartime."
+EDG_mission_LOT_1_20_a_tt_no:0 "£no£If we complete the mission by adopting the government reform §G'Restrict Noble Power'§! or eliminating the nobility, then\n\nThe §Ygovernment interaction§! §MPromote Paladin§! will additionally provide us with §M+5§! §YArmy Tradition§!.\n\nUnlocks the decision: §Y'Impose Taxes on the Nobility'§!, which allows us to gain money and bonuses during wartime."
 
 EDG_mission_LOT_1_20_b_tt_yes:0 "£yes£If we complete the mission by adopting the government reform §G'Strengthen Noble Power'§!, then\n\nThe §Ygovernment interaction§! §MPromote Paladin§! will additionally provide us with §M+10§! §YNobility Loyalty§!.\n\nUnlocks the decision: §Y'Share Power with the Nobility'§!, which allows us to increase the nobility's §Gloyalty§! and §Yinfluence§!."
 EDG_mission_LOT_1_20_b_tt_no:0 "£no£If we complete the mission by adopting the government reform §G'Strengthen Noble Power'§!, then\n\nThe §Ygovernment interaction§! §MPromote Paladin§! will additionally provide us with §M+10§! §YNobility Loyalty§!.\n\nUnlocks the decision: §Y'Share Power with the Nobility'§!, which allows us to increase the nobility's §Gloyalty§! and §Yinfluence§!."
@@ -939,11 +939,11 @@ EDG_mission_LOT_1_29_a_tt_no:0 "£no£If any province we own has the province mo
 
 EDG_mission_LOT_1_30_flag_tt:0 "Unlocks the privilege §Y'Conscription Duty'§!. This privilege can be granted to either the §M'[Root.GetNobilityName]'§! or the §M'[Root.GetBurghersName]'§! estate, but only to one of them."
 
-EDG_mission_LOT_1_33_a_tt_yes:0 "£yes£If our §Y'Military Technology'§! is at least §Mlevel 6§! but lower than §Mlevel 8§!, then we will gain §G5%§! §YArist Professionalism§!."
-EDG_mission_LOT_1_33_a_tt_no:0 "£no£If our §Y'Military Technology'§! is at least §Mlevel 6§! but lower than §Mlevel 8§!, then we will gain §G5%§! §YArist Professionalism§!."
+EDG_mission_LOT_1_33_a_tt_yes:0 "£yes£If our §Y'Military Technology'§! is at least §Mlevel 6§! but lower than §Mlevel 8§!, then we will gain §G5%§! §YArmy Professionalism§!."
+EDG_mission_LOT_1_33_a_tt_no:0 "£no£If our §Y'Military Technology'§! is at least §Mlevel 6§! but lower than §Mlevel 8§!, then we will gain §G5%§! §YArmy Professionalism§!."
 
-EDG_mission_LOT_1_33_b_tt_yes:0 "£yes£If our §Y'Military Technology'§! is at least §Mlevel 8§!, then we will gain §G10%§! §YArist Professionalism§!."
-EDG_mission_LOT_1_33_b_tt_no:0 "£no£If our §Y'Military Technology'§! is at least §Mlevel 8§!, then we will gain §G10%§! §YArist Professionalism§!."
+EDG_mission_LOT_1_33_b_tt_yes:0 "£yes£If our §Y'Military Technology'§! is at least §Mlevel 8§!, then we will gain §G10%§! §YArmy Professionalism§!."
+EDG_mission_LOT_1_33_b_tt_no:0 "£no£If our §Y'Military Technology'§! is at least §Mlevel 8§!, then we will gain §G10%§! §YArmy Professionalism§!."
 
 EDG_mission_LOT_1_34_trigger_tooltip:0 "All countries with their capital in §YEurope§! meet the following conditions:\n- Their §Gmilitary technology§! is §Mlower§! than ours.\n- Their §Garmy size§! is §Msmaller§! than ours."
 
@@ -1052,7 +1052,7 @@ EDG_mission_LOT_4_6_a_flag_tt:0 "Unlocks the diplomatic action §Y'Issue an Impe
 EDG_mission_LOT_4_6_opinion:0 "Control the Three Archbishoprics"
 
 EDG_mission_LOT_4_8_flag_Tt:0 "We can unlock the §Y'Mercenary Idea Group'§! without having completed Lotharingia's three special idea groups."
-EDG_mission_LOT_4_8_b_tt:0 "Each province we own with the province modifier §G'Military Production: Weapon Manufacturing'§! will provide us with §M1§! point of §YArist Tradition§!."
+EDG_mission_LOT_4_8_b_tt:0 "Each province we own with the province modifier §G'Military Production: Weapon Manufacturing'§! will provide us with §M1§! point of §YArmy Tradition§!."
 
 EDG_mission_LOT_4_10_a_tt_yes:0 "£yes£If we complete the mission by §Mconquering§! the §YNordmark§! region or making it a §Msubject§!, then"
 EDG_mission_LOT_4_10_a_tt_no:0 "£no£If we complete the mission by §Mconquering§! the §YNordmark§! region or making it a §Msubject§!, then"
@@ -1144,8 +1144,8 @@ EDG_mission_LOT_5_6_flag_tt:0 "As long as the £icon_EDG_icon_hre_emperor£ §YH
 EDG_mission_LOT_5_6_flag_trigger_modifier:0 "Invasion of the Empire"
 EDG_mission_LOT_5_7_flag_trigger_modifier:0 "Invasion of the Empire"
 
-EDG_mission_LOT_5_6_b_tt_yes:0 "£yes£If any §Ycore provinces§! of @FKN Franconia are owned by us or our subjects, then we will additionally gain §G+20§! §MArist Tradition§!."
-EDG_mission_LOT_5_6_b_tt_no:0 "£no£If any §Ycore provinces§! of @FKN Franconia are owned by us or our subjects, then we will additionally gain §G+20§! §MArist Tradition§!."
+EDG_mission_LOT_5_6_b_tt_yes:0 "£yes£If any §Ycore provinces§! of @FKN Franconia are owned by us or our subjects, then we will additionally gain §G+20§! §MArmy Tradition§!."
+EDG_mission_LOT_5_6_b_tt_no:0 "£no£If any §Ycore provinces§! of @FKN Franconia are owned by us or our subjects, then we will additionally gain §G+20§! §MArmy Tradition§!."
 EDG_mission_LOT_5_6_c_tt_yes:0 "£yes£If any §Ycore provinces§! of @WUR Württemberg or @HAB Austria are owned by us or our subjects, then we will additionally gain §G+10§! §Mpower projection§!."
 EDG_mission_LOT_5_6_c_tt_no:0 "£no£If any §Ycore provinces§! of @WUR Württemberg or @HAB Austria are owned by us or our subjects, then we will additionally gain §G+10§! §Mpower projection§!."
 
