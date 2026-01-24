@@ -860,7 +860,7 @@ EDG_LIT_civil_war.3.a:0 "They are doomed to fail!"
 
 
 #Nomadic Regime Division
-EDG_Nomadic_division:0 "Nomadic Regime Division §R(Punitive)§!"
+EDG_Nomadic_division:0 "Collapse of the Nomadic Regime §R(Punitive)§!" # Nomadic Regime Division
 
 #The Collapse of the Indian Empire
 EDG_India_division:0 "Collapse of the Indian Empire"

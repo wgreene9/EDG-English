@@ -1,0 +1,932 @@
+namespace = EDG_HER_mission
+country_event = {
+	#事件，夜莺深锁金笼
+	id = EDG_HER_mission.1
+	title = EDG_HER_mission.1.t
+	desc = EDG_HER_mission.1.d
+	picture = CIVIL_WAR_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	option = {
+		name = EDG_HER_mission.1.a		#给予金雀花家族最后的体面
+		add_years_of_income = 1
+		white_peace = ENG
+		add_historical_friend = ENG
+		ENG = {
+			if = {
+				limit = {
+					war_with = FRA
+				}
+				white_peace = FRA
+			}
+			capital_scope = {
+				add_base_manpower = -2
+				add_base_production = -2
+				add_base_tax = -2
+			}
+			west_midlands_area = {
+				limit = {
+					country_or_non_sovereign_subject_holds = ENG
+				}
+				remove_core = ENG
+				cede_province = HER
+				add_core = HER
+			}
+			home_counties_area = {
+				limit = {
+					country_or_non_sovereign_subject_holds = ENG
+				}
+				remove_core = ENG
+				cede_province = HER
+				add_core = HER
+			}
+			release_all_subjects = yes
+			release_all_possible_countries = yes
+			hidden_effect = {
+				override_country_name = EDG_LEB_ENG_HOTM_name				#改名威塞克斯
+			}
+			add_historical_friend = ROOT
+		}
+		create_subject = {
+			subject_type = EDG_HER_gong_subject_type			#联邦自治区
+			subject = ENG
+		}
+		if = {
+			limit = {
+				exists = LKS
+			}
+			create_subject = {
+				subject_type = EDG_HER_gong_subject_type
+				subject = LKS
+			}
+		}
+		if = {
+			limit = {
+				exists = KOI
+			}
+			create_subject = {
+				subject_type = EDG_HER_gong_subject_type
+				subject = KOI
+			}
+		}
+		if = {
+			limit = {
+				exists = CRN
+			}
+			create_subject = {
+				subject_type = EDG_HER_gong_subject_type
+				subject = CRN
+			}
+		}
+		custom_tooltip = EDG_HER_mission_1_TT		#为所有麦西亚文化省份加1全部发展度
+		hidden_effect = {
+			every_owned_province = {
+				limit = {
+					culture = EDG_culture_mercia
+				}
+				add_base_tax = 1
+				add_base_production = 1
+				add_base_manpower = 1
+			}
+		}
+	}
+	option = {
+		name = EDG_HER_mission.1.b		#不列颠不欢迎你们，法兰西的孽种！
+		add_years_of_income = 1
+		white_peace = ENG
+		british_isles_region = {
+			limit = {
+				country_or_non_sovereign_subject_holds = ENG
+			}
+			remove_core = ENG
+			cede_province = HER
+		}
+	}
+}
+
+country_event = {
+	#事件，与龙共舞
+	id = EDG_HER_mission.2
+	title = EDG_HER_mission.2.t
+	desc = EDG_HER_mission.2.d
+	picture = TOURNAMENT_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	option = {
+		name = EDG_HER_mission.2.a		#我们受够了争斗，是时候停下了
+		create_subject = {
+			subject_type = EDG_HER_gong_subject_type			#联邦自治区
+			subject = WLS
+		}
+		custom_tooltip = EDG_SPACE_TT
+		add_accepted_culture_or_dip_power = {
+			culture = welsh
+		}
+		add_country_modifier = {
+			name = EDG_HER_WLS_modifier			#与龙共舞
+			duration = -1
+		}
+	}
+}
+
+country_event = {
+	#事件，新秩序
+	id = EDG_HER_mission.3
+	title = EDG_HER_mission.3.t
+	desc = EDG_HER_mission.3.d
+	picture = ADVISOR_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	option = {
+		name = EDG_HER_mission.3.a		#我们因共同的目标而相聚，因彼此的信任而前行。
+		add_splendor = 100
+		if = {
+			limit = {
+				has_country_flag = EDG_HER_mission_1_1_a_c_flag
+			}
+			create_subject = {
+				subject_type = EDG_HER_gong_subject_type				#联邦自治区
+				subject = NFK
+			}
+			custom_tooltip = EDG_HER_mission_3_A_TT			#解锁决议：聆听罗拉德派诉求
+			set_country_flag = EDG_HER_mission_3_A_flag
+		}
+		if = {
+			limit = {
+				has_country_flag = EDG_HER_mission_1_1_b_c_flag
+			}
+			create_subject = {
+				subject_type = EDG_HER_gong_subject_type				#联邦自治区
+				subject = YRK
+			}
+			add_prestige_or_monarch_power = {
+				amount = 20
+			}
+		}
+		if = {
+			limit = {
+				has_country_flag = EDG_HER_mission_1_1_c_c_flag
+			}
+			custom_tooltip = EDG_HER_mission_3_B_TT			#为凯尔特法案增加友善的选项
+			set_country_flag = EDG_HER_mission_3_B_flag
+		}
+		add_country_modifier = {
+			name = EDG_HER_mission_3_modifier			#友谊即魔法
+			duration = -1
+		}
+	}
+}
+
+country_event = {
+	#事件，自治市同盟的尝试
+	id = EDG_HER_mission.4
+	title = EDG_HER_mission.4.t
+	desc = EDG_HER_mission.4.d
+	picture = ADVISOR_eventPicture
+	major = yes
+	is_triggered_only = yes
+	fire_only_once = yes
+	option = {
+		name = EDG_HER_mission.4.a		#每一个伟大的故事，都有一个微不足道的开始。
+		trigger = {
+			tag = LST
+		}
+		add_historical_friend = DOS
+		add_historical_friend = DBY
+		join_trade_league = DBY
+		join_trade_league = DOS
+		DOS = {
+			add_historical_friend = DBY
+			add_historical_friend = LST
+			create_alliance = DBY
+			create_alliance = LST
+			remove_rival = DBY
+			remove_rival = LST
+			set_ai_attitude = {
+				attitude = attitude_friendly
+				who = ROOT
+			}
+			complete_mission = EDG_HER_3_1
+		}
+		DBY = {
+			add_historical_friend = DOS
+			add_historical_friend = LST
+			create_alliance = DOS
+			create_alliance = LST
+			remove_rival = LST
+			remove_rival = DOS
+			set_ai_attitude = {
+				attitude = attitude_friendly
+				who = ROOT
+			}
+			complete_mission = EDG_HER_3_1
+		}
+		remove_government_reform = EDG_English_Autonomous_City
+		add_government_reform = EDG_HER_prime_Autonomous_city		#自治市领袖
+		EDG_HER_republic_level_up = YES
+		hidden_effect = {
+			set_variable = {
+				which = EDG_HER_CITY_EX_var
+				value = 0
+			}
+		}
+	}
+	option = {
+		name = EDG_HER_mission.4.a		#每一个伟大的故事，都有一个微不足道的开始。
+		trigger = {
+			tag = DBY
+		}
+		add_historical_friend = DOS
+		add_historical_friend = LST
+		join_trade_league = LST
+		join_trade_league = DOS
+		DOS = {
+			add_historical_friend = DBY
+			add_historical_friend = LST
+			create_alliance = DBY
+			create_alliance = LST
+			remove_rival = DBY
+			remove_rival = LST
+			set_ai_attitude = {
+				attitude = attitude_friendly
+				who = ROOT
+			}
+			join_trade_league = ROOT
+			complete_mission = EDG_HER_3_1
+		}
+		LST = {
+			add_historical_friend = DBY
+			add_historical_friend = DOS
+			create_alliance = DBY
+			create_alliance = DOS
+			remove_rival = DBY
+			remove_rival = DOS
+			set_ai_attitude = {
+				attitude = attitude_friendly
+				who = ROOT
+			}
+			join_trade_league = ROOT
+			complete_mission = EDG_HER_3_1
+		}
+		remove_government_reform = EDG_English_Autonomous_City
+		add_government_reform = EDG_HER_prime_Autonomous_city		#自治市领袖
+		EDG_HER_republic_level_up = YES
+		hidden_effect = {
+			set_variable = {
+				which = EDG_HER_CITY_EX_var
+				value = 0
+			}
+		}
+	}
+	option = {
+		name = EDG_HER_mission.4.a		#每一个伟大的故事，都有一个微不足道的开始。
+		trigger = {
+			tag = DOS
+		}
+		add_historical_friend = LST
+		add_historical_friend = DBY
+		join_trade_league = DBY
+		join_trade_league = LST
+		LST = {
+			add_historical_friend = DBY
+			add_historical_friend = DOS
+			create_alliance = DBY
+			create_alliance = DOS
+			remove_rival = DBY
+			remove_rival = DOS
+			set_ai_attitude = {
+				attitude = attitude_friendly
+				who = ROOT
+			}
+			join_trade_league = ROOT
+			complete_mission = EDG_HER_3_1
+		}
+		DBY = {
+			add_historical_friend = DOS
+			add_historical_friend = LST
+			create_alliance = DOS
+			create_alliance = LST
+			remove_rival = LST
+			remove_rival = DOS
+			set_ai_attitude = {
+				attitude = attitude_friendly
+				who = ROOT
+			}
+			join_trade_league = ROOT
+			complete_mission = EDG_HER_3_1
+		}
+		remove_government_reform = EDG_English_Autonomous_City
+		add_government_reform = EDG_HER_prime_Autonomous_city		#自治市领袖
+		EDG_HER_republic_level_up = YES
+		hidden_effect = {
+			set_variable = {
+				which = EDG_HER_CITY_EX_var
+				value = 0
+			}
+		}
+	}
+}
+
+country_event = {
+	#事件，一体化自治市同盟
+	id = EDG_HER_mission.5
+	title = EDG_HER_mission.5.t
+	desc = EDG_HER_mission.5.d
+	picture = ADVISOR_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	option = {
+		name = EDG_HER_mission.5.a		#是时候更进一步了
+		trigger = {
+			tag = DBY
+		}
+		create_subject = {
+			subject_type = vassal
+			subject = LST
+		}
+		create_subject = {
+			subject_type = vassal
+			subject = DOS
+		}
+		capital_scope = {
+			add_base_manpower = 1
+			add_base_production = 1
+			add_base_tax = 1
+		}
+		set_country_flag = EDG_HER_mission_5_flag
+		EDG_HER_republic_level_up = YES
+	}
+	option = {
+		name = EDG_HER_mission.5.a		#是时候更进一步了
+		trigger = {
+			tag = DOS
+		}
+		create_subject = {
+			subject_type = vassal
+			subject = LST
+		}
+		create_subject = {
+			subject_type = vassal
+			subject = DBY
+		}
+		capital_scope = {
+			add_base_manpower = 1
+			add_base_production = 1
+			add_base_tax = 1
+		}
+		set_country_flag = EDG_HER_mission_5_flag
+		EDG_HER_republic_level_up = YES
+	}
+	option = {
+		name = EDG_HER_mission.5.a		#是时候更进一步了
+		trigger = {
+			tag = LST
+		}
+		create_subject = {
+			subject_type = vassal
+			subject = DBY
+		}
+		create_subject = {
+			subject_type = vassal
+			subject = DOS
+		}
+		capital_scope = {
+			add_base_manpower = 1
+			add_base_production = 1
+			add_base_tax = 1
+		}
+		set_country_flag = EDG_HER_mission_5_flag
+		EDG_HER_republic_level_up = YES
+	}
+}
+
+country_event = {
+	#事件，再造新邦
+	id = EDG_HER_mission.6
+	title = EDG_HER_mission.6.t
+	desc = EDG_HER_mission.6.d
+	picture = CORRUPTION_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	immediate = { save_global_event_target_as = edg_formertag_cwn }
+	option = {
+		name = EDG_HER_mission.5.a		#是时候更进一步了
+		trigger = {
+			tag = LST
+		}
+		inherit = DBY
+		inherit = DOS
+		change_tag = HER
+		add_adm_power = 100
+		add_dip_power = 100
+		add_mil_power = 100
+		add_prestige_or_monarch_power = {
+			amount = 20
+		}
+		add_treasury = 100
+		add_manpower = 5
+		remove_government_reform = EDG_HER_prime_Autonomous_city
+		add_government_reform = EDG_US_HER
+		set_government_rank = 2
+		243 = {
+			add_province_modifier = {
+				name = EDG_HER_2_2_modifier				#港口城
+				duration = -1
+			}
+		}
+		1861 = {
+			add_province_modifier = {
+				name = EDG_HER_4_2_modifier				#生产中心
+				duration = -1
+			}
+		}
+		east_midlands_area = {
+			add_province_modifier = {
+				name = EDG_HER_3_6_modifier
+				duration = -1
+			}
+		}
+		if = {
+			limit = {
+				has_country_flag = EDG_HER_mission_1_1_a_c_flag
+			}
+			hidden_effect = {
+				NFK = {
+					add_historical_friend = root
+				}
+			}
+		}
+		if = {
+			limit = {
+				has_country_flag = EDG_HER_mission_1_1_b_c_flag
+			}
+			hidden_effect = {
+				YRK = {
+					add_historical_friend = root
+				}
+			}
+		}
+		if = {
+			limit = {
+				has_country_flag = EDG_HER_mission_1_1_c_c_flag
+			}
+			hidden_effect = {
+				WLS = {
+					add_historical_friend = root
+				}
+			}
+		}
+	}
+	option = {
+		name = EDG_HER_mission.5.a		#是时候更进一步了
+		trigger = {
+			tag = DOS
+		}
+		inherit = DBY
+		inherit = LST
+		change_tag = HER
+		add_adm_power = 100
+		add_dip_power = 100
+		add_mil_power = 100
+		add_prestige_or_monarch_power = {
+			amount = 20
+		}
+		add_treasury = 100
+		add_manpower = 5
+		remove_government_reform = EDG_HER_prime_Autonomous_city
+		add_government_reform = EDG_US_HER
+		set_government_rank = 2
+		4376 = {
+			add_province_modifier = {
+				name = EDG_HER_3_2_modifier				#大学城
+				duration = -1
+			}
+		}
+		1861 = {
+			add_province_modifier = {
+				name = EDG_HER_4_2_modifier				#生产中心
+				duration = -1
+			}
+		}
+		243 = {
+			add_province_modifier = {
+				name = EDG_HER_2_2_modifier				#港口城
+				duration = -1
+			}
+		}
+		if = {
+			limit = {
+				has_country_flag = EDG_HER_mission_1_1_a_c_flag
+			}
+			hidden_effect = {
+				NFK = {
+					add_historical_friend = root
+				}
+			}
+		}
+		if = {
+			limit = {
+				has_country_flag = EDG_HER_mission_1_1_b_c_flag
+			}
+			hidden_effect = {
+				YRK = {
+					add_historical_friend = root
+				}
+			}
+		}
+		if = {
+			limit = {
+				has_country_flag = EDG_HER_mission_1_1_c_c_flag
+			}
+			hidden_effect = {
+				WLS = {
+					add_historical_friend = root
+				}
+			}
+		}
+	}
+	option = {
+		name = EDG_HER_mission.5.a		#是时候更进一步了
+		trigger = {
+			tag = DBY
+		}
+		inherit = LST
+		inherit = DOS
+		change_tag = HER
+		add_adm_power = 100
+		add_dip_power = 100
+		add_mil_power = 100
+		add_prestige_or_monarch_power = {
+			amount = 20
+		}
+		add_treasury = 100
+		add_manpower = 5
+		remove_government_reform = EDG_HER_prime_Autonomous_city
+		add_government_reform = EDG_US_HER
+		set_government_rank = 2
+		4376 = {
+			add_province_modifier = {
+				name = EDG_HER_3_2_modifier				#大学城
+				duration = -1
+			}
+		}
+		if = {
+			limit = {
+				has_country_flag = EDG_HER_mission_1_1_a_c_flag
+			}
+			hidden_effect = {
+				NFK = {
+					add_historical_friend = root
+				}
+			}
+		}
+		if = {
+			limit = {
+				has_country_flag = EDG_HER_mission_1_1_b_c_flag
+			}
+			hidden_effect = {
+				YRK = {
+					add_historical_friend = root
+				}
+			}
+		}
+		if = {
+			limit = {
+				has_country_flag = EDG_HER_mission_1_1_c_c_flag
+			}
+			hidden_effect = {
+				WLS = {
+					add_historical_friend = root
+				}
+			}
+		}
+	}
+}
+
+country_event = {
+	#事件，凯尔特法案
+	id = EDG_HER_mission.7
+	title = EDG_HER_mission.7.t
+	desc = EDG_HER_mission.7.d
+	picture = MERCHANTS_TALKING_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	option = {
+		trigger = {
+			has_country_flag = EDG_HER_mission_3_B_flag
+		}
+		name = EDG_HER_mission.7.a		#不列颠的土地很大，容得下凯尔特人
+		set_country_flag = EDG_HER_3_7_yes_flag
+		add_country_modifier = {
+			name = EDG_HER_mission_7a_modifier			#不列颠民族和解
+			duration = 7300
+		}
+		custom_tooltip = EDG_HER_3_7_yes_TT		#若选择此项，我们在与@IRE爱尔兰的战斗中可通过一项决议将其肢解
+	}
+	option = {
+		name = EDG_HER_mission.7.b		#蛮族始终是蛮族
+		set_country_flag = EDG_HER_3_7_no_flag
+		add_mil_power = 100
+		add_country_modifier = {
+			name = EDG_ENG_mission_2_18_modifier_a
+			duration = 7300
+		}
+	}
+}
+
+country_event = {
+	#事件，苍翠条约
+	id = EDG_HER_mission.8
+	title = EDG_HER_mission.8.t
+	desc = EDG_HER_mission.8.d
+	picture = MERCHANTS_TALKING_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	option = {
+		name = EDG_HER_mission.8.a		#把过往的恩怨下酒，敬我们的友谊
+		add_country_modifier = {
+			name = EDG_HER_3_8_modifier #翠玉誓言
+			duration = -1
+		}
+		add_accepted_culture_or_dip_power = {
+			culture = irish
+		}		
+		capital_scope = {
+			add_base_production = 1
+			add_province_modifier = {
+				name = EDG_HER_mission_8_modifier				#凯尔特人社区
+				duration = -1
+			}
+		}
+		every_country = {
+			limit = {
+				culture = irish
+				is_subject_of = root
+			}
+			country_event = {
+				id = EDG_HER_mission.100				#敬我们的友谊
+				days = 3
+			}
+		}
+	}
+}
+
+country_event = {
+	#事件，不列颠统一进程
+	id = EDG_HER_mission.9
+	title = EDG_HER_mission.9.t
+	desc = EDG_HER_mission.9.d
+	major = yes
+	picture = MERCHANTS_TALKING_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	option = {
+		name = EDG_HER_mission.9.a		#诸王的时代已经远去，不列颠将迎来新生
+		set_country_flag = EDG_HER_mission_9_flag
+		custom_tooltip = EDG_HER_mission_9_TT		#解锁一系列集权决议
+		add_splendor = 100
+		EDG_HER_republic_level_up = YES
+		add_country_modifier = {
+			name = EDG_HER_mission_9_modifier #统一进行时
+			duration = -1
+		}
+	}
+}
+
+country_event = {
+	#事件，使命召唤
+	id = EDG_HER_mission.10
+	title = EDG_HER_mission.10.t
+	desc = EDG_HER_mission.10.d
+	major = yes
+	picture = CONQUEST_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	option = {
+		name = EDG_HER_mission.10.a		#在苏格兰悔改之前，我们的长城需要有人守望
+		create_march = NOL
+		hidden_effect = {
+			NOL = {
+				change_government = theocracy
+				add_government_reform = monastic_order_reform
+				override_country_name = EDG_LEB_NOL_HOTM_name				#哈德良骑士团	
+			}
+		}
+	}
+}
+
+country_event = {
+	#事件，命运之石
+	id = EDG_HER_mission.11
+	title = EDG_HER_mission.11.t
+	desc = EDG_HER_mission.11.d
+	major = yes
+	picture = WAR_OF_THE_ROSES_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	option = {
+		name = EDG_HER_mission.11.a		#这即为苏格兰的命运
+		trigger = {
+			has_country_flag = EDG_HER_3_7_yes_flag
+		}
+		white_peace = SCO
+		add_historical_friend = SCO
+		SCO = {
+			release_all_subjects = yes
+			# release_all_possible_countries = yes
+			add_historical_friend = ROOT
+		}
+		create_subject = {
+			subject_type = EDG_HER_gong_subject_type
+			subject = SCO
+		}
+		custom_tooltip = EDG_SPACE_TT
+		add_country_modifier = {
+			name = EDG_ENG_mission_4_7_modifier
+			duration = -1
+		}
+		custom_tooltip = EDG_SPACE_TT
+		add_accepted_culture_or_dip_power = {
+			culture = scottish
+		}
+		custom_tooltip = EDG_SPACE_TT
+		custom_tooltip = EDG_flavorENG_mission_6_tt_2
+		add_country_modifier = {
+			name = EDG_ENG_mission_5_7_modifier
+			duration = -1
+		}
+		custom_tooltip = EDG_SPACE_TT
+		add_accepted_culture_or_dip_power = {
+			culture = highland_scottish
+		}
+		custom_tooltip = EDG_flavorENG_mission_6_tt_2
+		custom_tooltip = EDG_SPACE_TT
+		if = {
+			limit = {
+				exists = LOI
+			}
+			create_subject = {
+				subject_type = EDG_HER_gong_subject_type
+				subject = LOI
+			}
+		}
+		if = {
+			limit = {
+				exists = HSC
+			}
+			create_subject = {
+				subject_type = EDG_HER_gong_subject_type
+				subject = HSC
+			}
+		}
+		if = {
+			limit = {
+				exists = KOI
+			}
+			create_subject = {
+				subject_type = EDG_HER_gong_subject_type
+				subject = KOI
+			}
+		}
+	}
+	option = {
+		name = EDG_HER_mission.11.a		#这即为苏格兰的命运
+		trigger = {
+			has_country_flag = EDG_HER_3_7_no_flag
+		}
+		white_peace = SCO
+		british_isles_region = {
+			limit = {
+				country_or_non_sovereign_subject_holds = SCO
+			}
+			remove_core = SCO
+			cede_province = HER
+		}
+	}
+}
+
+country_event = {
+	#事件，建立不列颠认同
+	id = EDG_HER_mission.12
+	title = EDG_HER_mission.12.t
+	desc = EDG_HER_mission.12.d
+	major = yes
+	picture = WAR_OF_THE_ROSES_eventPicture
+	is_triggered_only = yes
+	option = {
+		name = EDG_HER_mission.12.a		#我们亲如一家
+		trigger = {
+			NOT = {
+				accepted_culture = EDG_Anglia_gaelic				#盎格鲁凯尔特
+			}
+		}
+		add_country_modifier = {
+			name = gbr_unified_british_isles_culture
+			duration = -1
+		}
+		add_accepted_culture = EDG_Anglia_gaelic
+		custom_tooltip = EDG_HER_mission_12_TT
+		hidden_effect = {
+			every_owned_province = {
+				limit = {
+					region = british_isles_region
+					religion = EDG_Celtic_Church
+				}
+				add_province_modifier = {
+					name = EDG_HER_Lollards_modifier
+					duration = -1
+				}
+			}
+			country_event = {
+				id = EDG_HER_mission.12
+				days = 365
+			}
+		}
+	}
+	option = {
+		name = EDG_HER_mission.12.a		#
+		trigger = {
+			accepted_culture = EDG_Anglia_gaelic
+			num_of_owned_provinces_with = {
+				culture_group = gaelic
+				value = 1
+			}
+		}
+		custom_tooltip = ""
+		custom_tooltip = EDG_HER_mission_12_2_tt
+		hidden_effect = {
+			random_owned_province = {
+				limit = {
+					culture_group = gaelic
+				}
+				change_culture = EDG_Anglia_gaelic
+				add_province_modifier = {
+					name = EDG_HER_mission_8_modifier
+					duration = -1
+				}
+			}
+			random_owned_province = {
+				limit = {
+					NOT = {
+						culture_group = gaelic
+					}
+					NOT = {
+						culture = EDG_Anglia_gaelic
+					}
+					NOT = {
+						has_province_modifier = EDG_HER_mission_8_modifier
+					}
+					NOT = {
+						has_province_modifier = EDG_CWN_big_modifier
+					}
+				}
+				add_province_modifier = {
+					name = EDG_HER_mission_8_modifier
+					duration = -1
+				}
+			}
+			country_event = {
+				id = EDG_HER_mission.12
+				days = 365
+			}
+		}
+	}
+	option = {
+		name = EDG_HER_mission.12.a		#
+		trigger = {
+			accepted_culture = EDG_Anglia_gaelic
+			NOT = {
+				num_of_owned_provinces_with = {
+					culture_group = gaelic
+					value = 1
+				}
+			}
+		}
+		add_dip_power = 100
+	}
+}
+
+#任务延申
+country_event = {
+	#事件，敬我们的友谊
+	id = EDG_HER_mission.100
+	title = EDG_HER_mission.100.t
+	desc = EDG_HER_mission.100.d
+	major = yes
+	picture = WAR_OF_THE_ROSES_eventPicture
+	is_triggered_only = yes
+	option = {
+		name = EDG_HER_mission.100.t		#啊，好高兴啊
+		capital_scope = {
+			add_random_development = 1
+		}
+		HER = {
+			add_trust = {
+				who = root
+				value = 10
+				mutual = yes
+			}
+			add_historical_friend = root
+		}
+	}
+}

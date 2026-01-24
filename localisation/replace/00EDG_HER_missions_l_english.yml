@@ -57,7 +57,7 @@ EDG_HER_2_10_trigger_TT:0 "The navy size of any country with a port on the Engli
 
 EDG_HER_3_1_title:0 "League of Autonomy"
 EDG_HER_3_1_desc:0 "England's boroughs are fervently attempting to emulate the Free Cities of the Holy Roman Empire. Merchants have established their own governments to control key transit points, gold and silver flow through the hands of traders, and cities have become thoroughfares for the countryside. However, England was never an absurd or fragile state. To preserve our liberties, we must unite. We shall make every king on this island understand that the rights of the boroughs are inviolable!"
-EDG_HER_3_1_tt:0 "§GEvent Preview:§!\nForm an alliance with other §YMercia Boroughs§! and become the §TLeague Leader§!. The §TLeague Leader§! can spend §YCity Governance Experience§! to receive rewards or complete missions.\n\nCompleting this mission will automatically cause other boroughs to complete it but not receive rewards."
+EDG_HER_3_1_tt:0 "§GEvent Preview:§!\nForm an alliance with other §YMercian Boroughs§! and become the §TLeague Leader§!. The §TLeague Leader§! can spend §YCity Governance Experience§! to receive rewards or complete missions.\n\nCompleting this mission will automatically cause other boroughs to complete it but not receive rewards."
 
 EDG_HER_3_2_title:0 "University of Leicester"
 EDG_HER_3_2_desc:0 "The entire city of Leicester is encircled by ancient Roman walls, possessing rich historical depth and cultural atmosphere. With convenient transportation extending in all directions, it serves as the educational center for the League of Cities, continuously supplying high-quality talent."
@@ -68,7 +68,7 @@ EDG_HER_3_3_desc:0 "The various boroughs are united by interest but lack laws to
 EDG_HER_3_5_title:0 "Shared Destiny"
 EDG_HER_3_5_desc:0 "The League of Cities must be unified. Only through solidarity can it survive in a Britain teeming with powerful contenders."
 EDG_HER_3_5_trigger_TT:0 "Requires §Y3§! points of §YCity Governance Experience§!, currently at §Y[Root.EDG_HER_CITY_EX_var.GetValue]§!."
-EDG_HER_3_5_tt:0 "§GEvent Preview:§!\nMakes other Mercia Boroughs into vassals and unlocks decisions related to league integration."
+EDG_HER_3_5_tt:0 "§GEvent Preview:§!\nMakes other Mercian Boroughs into vassals and unlocks decisions related to league integration."
 EDG_HER_3_5_effect_TT:0 "Lose §Y3§! points of §YCity Governance Experience§!, currently at §Y[Root.EDG_HER_CITY_EX_var.GetValue]§!."
 
 EDG_HER_3_6_title:0 "Forge a New Realm"

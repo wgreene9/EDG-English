@@ -12,3 +12,11 @@ commission_epic_to_monarch_desc:0 "Our subjects have taken to telling tales and 
 # Yasna:0 "Yasna"
 # Haoma:0 "Haoma"
 NO:0 "Nevermind"
+
+edg_revert_formertag.1.t: "Color of the [Root.GetName]"
+edg_revert_formertag.1.d: "This event allows us to revert to the original color of our former tag."
+edg_revert_formertag.1.aa: "Mercia is the heart and soul of the Commonwealth"
+edg_revert_formertag.1.a: "We must embrace our heritage"
+edg_revert_formertag.1.b: "No thanks"
+
+estate_EDG_bard_disseminate_epic.tt: "Grants access to the §TDisseminate Epic§! mechanic located in the diplomacy interface."

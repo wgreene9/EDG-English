@@ -535,3 +535,10 @@
 			# 	which = EDG_TUR_Kapikulu_land_value
 			# 	value = 1
 			# }
+
+			enable_estate_effect = {
+				estate = estate_EDG_bard
+			}
+			custom_tooltip = EDG_MEN_1_21_tt
+			set_country_flag = EDG_MEN_1_21_flag
+			set_country_flag = EDG_MEN_open_window_flag

@@ -567,7 +567,7 @@ EDG_personality_Backer_desc:0 "Ardeshir I - not the one who overthrew Parthian r
 TAB_missions_task_A_yes:0 "£yes£When we own core province §YIsfahan§! and §YHazaraspids§! does not exist, we will gain the following §Ymodifiers§!"
 EDG_TAB_Shiraz_revitalize:0 "Shiraz Restoration"
 EDG_TAB_Amore_rise:0 "Amol's Prosperity"
-mission_EGDTABmission_47_txt_2:0 "All cultures under our rule belonging to §TTransoxiana, Fergana, Khotan§! will convert to §PSogdian within the Iranian culture group§!"
+mission_EGDTABmission_47_txt_2:0 "All cultures under our rule belonging to the §TTransoxiana, Ferghana, Khuttalan, and Merv§! areas will convert to §PSogdian§! within the §PIranian culture group§!"
 EDG_TAB_mission_3_1_1_txt:0 "£yes£If we have §Gmilitary technology level 4§! when completing this mission, we will receive §Y3 artillery units§! in our capital."
 EDG_TAB_mission_3_1_2_txt:0 "£no£If we have §Gmilitary technology level 4§! when completing this mission, we will receive §Y3 artillery units§! in our capital."
 EDG_TAB_Preaching_to_foreign_tribes_holy_order_localization_full:0 "Covert Doctrine Propagation"

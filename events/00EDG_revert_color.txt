@@ -1,0 +1,47 @@
+namespace = edg_revert_formertag
+
+#Color of Former Tag
+country_event = {
+	id = edg_revert_formertag.1
+	title = edg_revert_formertag.1.t
+	desc = edg_revert_formertag.1.d
+	picture = GOOD_WITH_MONARCH_eventPicture
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = edg_revert_formertag.1.aa
+		trigger = {
+			tag = CWN
+		}
+		ai_chance = { factor = 0 }
+		set_country_flag = has_overriden_color_flag
+		# British Commonwealth
+		change_country_color = {
+			country = HER
+		}
+		clear_global_event_target = edg_formertag_cwn
+	}
+
+	option = {
+		name = edg_revert_formertag.1.a
+		ai_chance = { factor = 0 }
+		set_country_flag = has_overriden_color_flag
+		# British Commonwealth
+		if = {
+			limit = {
+				tag = CWN
+			}
+			change_country_color = {
+				country = event_target:edg_formertag_cwn
+			}
+			clear_global_event_target = edg_formertag_cwn
+		}
+	}
+
+	option = {
+		name = edg_revert_formertag.1.b
+		ai_chance = { factor = 100 }
+    clear_global_event_target = edg_formertag_cwn
+	}
+}

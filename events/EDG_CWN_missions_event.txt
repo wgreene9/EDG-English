@@ -1,0 +1,779 @@
+country_event = {
+	#事件，不列颠新生
+	id = EDG_CWN_mission.1
+	title = EDG_CWN_mission.1.t
+	desc = EDG_CWN_mission.1.d
+	picture = TOURNAMENT_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	option = {
+		name = EDG_CWN_mission.1.a		#统治吧，不列颠尼亚！
+		remove_country_modifier = EDG_HER_mission_9_modifier
+		change_tag = CWN
+		remove_government_reform = EDG_US_HER
+		add_government_reform = EDG_US_CWN
+		swap_non_generic_missions = yes
+		on_change_tag_effect = yes
+		if = {
+			limit = {
+				has_custom_ideas = no
+			}
+			country_event = {
+				id = ideagroups.1
+			}
+			#Swap Ideas
+		}
+		hidden_effect = {
+			country_event = {
+				id = edg_revert_formertag.1
+			}
+			set_variable = {
+				which = EDG_CWN_world_var
+				value = 0
+			}
+			set_variable = {
+				which = EDG_CWN_twilight_var
+				value = 0
+			}
+		}
+	}
+}
+
+country_event = {
+	#事件，信仰之道
+	id = EDG_CWN_mission.2
+	title = EDG_CWN_mission.2.t
+	desc = EDG_CWN_mission.2.d
+	picture = TOURNAMENT_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	option = {
+		name = EDG_CWN_mission.2.a		#救赎之道就在其中
+		add_country_modifier = {
+			name = EDG_CWN_event_1_modifier			#宗教冲突
+			duration = 3650
+		}
+		set_country_flag = EDG_CWN_mission_2_event_flag
+		custom_tooltip = EDG_CWN_mission_2_event_TT		# 在任何属于我们的省份传教完成时，为当地添加修正生机勃勃的本地教会
+	}
+}
+
+country_event = {
+	#事件，海色
+	id = EDG_CWN_mission.3
+	title = EDG_CWN_mission.3.t
+	desc = EDG_CWN_mission.3.d
+	picture = TOURNAMENT_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	option = {
+		name = EDG_CWN_mission.3.a		#启航，直至一切消失于大海之色
+		add_prestige = 20
+		add_country_modifier = {
+			name = EDG_MEN_RUM_modifieer
+			duration = -1
+		}
+		set_country_flag = EDG_CWN_mission_3_event_flag
+		custom_tooltip = EDG_CWN_mission_3_event_TT		# 灾难暮光时代将不再发生
+		if = {
+			limit = {
+				has_had_golden_age = yes
+			}
+			reset_golden_age = yes
+		}
+		else_if = {
+			limit = {
+				in_golden_age = yes
+			}
+			extend_golden_age = 600
+		}
+		custom_tooltip = ""
+		custom_tooltip = pol_if_used_ge_rest_else_30_years_extension_tt
+	}
+}
+
+country_event = {
+	#事件，游子当归
+	id = EDG_CWN_mission.4
+	title = EDG_CWN_mission.4.t
+	desc = EDG_CWN_mission.4.d
+	picture = TOURNAMENT_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	option = {
+		name = EDG_CWN_mission.4.a		#回来吧，听听故土的琴声
+		# custom_tooltip = EDG_SCO_decision_3_tt
+		# set_country_flag = EDG_SCO_decision_3_flag
+		# NIR = {
+		# 	country_event = {
+		# 		id = EDG_flavorNIR.3
+		# 	}
+		# }
+		create_subject = {
+			subject_type = EDG_HER_gong_subject_type
+			subject = NIR
+		}
+	}
+}
+
+country_event = {
+	#事件，履行誓言
+	id = EDG_CWN_mission.5
+	title = EDG_CWN_mission.5.t
+	desc = EDG_CWN_mission.5.d
+	picture = TOURNAMENT_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	option = {
+		name = EDG_CWN_mission.5.a		#做我们该做的事
+		add_treasury = -1000
+		custom_tooltip = EDG_CWN_mission_5_TT		#所有爱尔兰区域省份获得永久修正§Y领地赞歌§!
+		hidden_effect = {
+			every_owned_province = {
+				limit = {
+					OR = {
+						area = munster_area
+						area = connacht_area
+						area = leinster_area
+						area = ulster_area
+					}
+				}
+				add_province_modifier = {
+					name = EDG_KNI_mission_1_2_modifier
+					duration = -1
+				}
+			}
+		}
+	}
+}
+
+country_event = {
+	#事件，加入联邦
+	id = EDG_CWN_mission.6
+	title = EDG_CWN_mission.6.t
+	desc = EDG_CWN_mission.6.d
+	picture = TOURNAMENT_eventPicture
+	is_triggered_only = yes
+	major = yes
+	fire_only_once = yes
+	option = {
+		name = EDG_CWN_mission.6.a		#联邦确实是更好的选择
+		CWN = {
+			create_subject = {
+				subject_type = EDG_HER_gong_subject_type				#联邦自治区
+				subject = BRI
+			}
+		}
+		add_historical_friend = CWN
+		CWN = {
+			add_historical_friend = ROOT
+		}
+	}
+	option = {
+		name = EDG_flavorKNI_mission.1.b
+		ai_chance = {
+			factor = 0
+		}
+	}
+}
+
+country_event = {
+	#事件，联邦与帝国的抉择
+	id = EDG_CWN_mission.7
+	title = EDG_CWN_mission.7.t
+	desc = EDG_CWN_mission.7.d
+	picture = TOURNAMENT_eventPicture
+	is_triggered_only = yes
+	major = yes
+	option = {
+		name = EDG_CWN_mission.6.a		#联邦确实是更好的选择
+		CWN = {
+			create_subject = {
+				subject_type = EDG_HER_gong_subject_type				#联邦自治区
+				subject = ROOT
+			}
+		}
+		add_historical_friend = CWN
+		CWN = {
+			add_historical_friend = ROOT
+		}
+		every_owned_province = {
+			if = {
+				limit = {
+					owned_by = root
+				}
+				set_in_empire = no
+			}
+		}
+	}
+	option = {
+		name = EDG_flavorKNI_mission.1.b
+		ai_chance = {
+			factor = 0
+		}
+	}
+}
+
+country_event = {
+	#事件,联邦东印度公司
+	id = EDG_CWN_mission.8
+	title = EDG_CWN_mission.8.t
+	desc = EDG_CWN_mission.8.d
+	picture = TOURNAMENT_eventPicture
+	is_triggered_only = yes
+	major = yes
+	fire_only_once = yes
+	option = {
+		name = flavor_gbr.10.a
+		custom_tooltip = flavor_gbr.10.a.tt
+		hidden_effect = {
+			every_owned_province = {
+				limit = {
+					superregion = india_superregion
+				}
+				add_core = EIC
+				if = {
+					limit = {
+						is_core = ROOT
+					}
+					remove_core = ROOT
+				}
+			}
+			release = EIC
+			create_subject = {
+				subject_type = EDG_CWN_enterprise
+				who = EIC
+			}
+			EIC = {
+				change_government = republic
+				add_government_reform = trade_company_government
+				change_religion = ROOT
+				change_primary_culture = ROOT
+				define_ruler = {
+					name = "Thomas"
+					dynasty = "Smythe"
+					change_adm = 3
+					change_dip = 3
+					change_mil = 3
+					max_age = 50
+					min_age = 30
+				}
+				add_adm_power = 100
+				add_dip_power = 100
+				add_mil_power = 100
+				add_treasury = 200
+				set_prestige_to_zero = yes
+				add_republican_tradition = 100
+			}
+		}
+		coromandel_region = {
+			limit = {
+				NOT = {
+					is_core = EIC
+				}
+				NOT = {
+					is_permanent_claim = EIC
+				}
+			}
+			add_permanent_claim = EIC
+		}
+		malabar_area = {
+			limit = {
+				NOT = {
+					is_core = EIC
+				}
+				NOT = {
+					is_permanent_claim = EIC
+				}
+			}
+			add_permanent_claim = EIC
+		}
+		kanara_area = {
+			limit = {
+				NOT = {
+					is_core = EIC
+				}
+				NOT = {
+					is_permanent_claim = EIC
+				}
+			}
+			add_permanent_claim = EIC
+		}
+		mysore_area = {
+			limit = {
+				NOT = {
+					is_core = EIC
+				}
+				NOT = {
+					is_permanent_claim = EIC
+				}
+			}
+			add_permanent_claim = EIC
+		}
+		rayalaseema_area = {
+			limit = {
+				NOT = {
+					is_core = EIC
+				}
+				NOT = {
+					is_permanent_claim = EIC
+				}
+			}
+			add_permanent_claim = EIC
+		}
+		raichur_doab_area = {
+			limit = {
+				NOT = {
+					is_core = EIC
+				}
+				NOT = {
+					is_permanent_claim = EIC
+				}
+			}
+			add_permanent_claim = EIC
+		}
+		konkan_area = {
+			limit = {
+				NOT = {
+					is_core = EIC
+				}
+				NOT = {
+					is_permanent_claim = EIC
+				}
+			}
+			add_permanent_claim = EIC
+		}
+		orissa_area = {
+			limit = {
+				NOT = {
+					is_core = EIC
+				}
+				NOT = {
+					is_permanent_claim = EIC
+				}
+			}
+			add_permanent_claim = EIC
+		}
+		west_bengal_area = {
+			limit = {
+				NOT = {
+					is_core = EIC
+				}
+				NOT = {
+					is_permanent_claim = EIC
+				}
+			}
+			add_permanent_claim = EIC
+		}
+		east_bengal_area = {
+			limit = {
+				NOT = {
+					is_core = EIC
+				}
+				NOT = {
+					is_permanent_claim = EIC
+				}
+			}
+			add_permanent_claim = EIC
+		}
+		tapti_area = {
+			limit = {
+				NOT = {
+					is_core = EIC
+				}
+				NOT = {
+					is_permanent_claim = EIC
+				}
+			}
+			add_permanent_claim = EIC
+		}
+		ahmedabad_area = {
+			limit = {
+				NOT = {
+					is_core = EIC
+				}
+				NOT = {
+					is_permanent_claim = EIC
+				}
+			}
+			add_permanent_claim = EIC
+		}
+		saurashtra_area = {
+			limit = {
+				NOT = {
+					is_core = EIC
+				}
+				NOT = {
+					is_permanent_claim = EIC
+				}
+			}
+			add_permanent_claim = EIC
+		}
+		ai_chance = {
+			factor = 1
+		}
+	}
+	#We do not need such enterprise on foreign ground
+	option = {
+		name = flavor_gbr.10.b
+		coromandel_region = {
+			limit = {
+				NOT = {
+					is_core = ROOT
+				}
+				NOT = {
+					is_permanent_claim = ROOT
+				}
+			}
+			add_permanent_claim = ROOT
+		}
+		malabar_area = {
+			limit = {
+				NOT = {
+					is_core = ROOT
+				}
+				NOT = {
+					is_permanent_claim = ROOT
+				}
+			}
+			add_permanent_claim = ROOT
+		}
+		kanara_area = {
+			limit = {
+				NOT = {
+					is_core = ROOT
+				}
+				NOT = {
+					is_permanent_claim = ROOT
+				}
+			}
+			add_permanent_claim = ROOT
+		}
+		mysore_area = {
+			limit = {
+				NOT = {
+					is_core = ROOT
+				}
+				NOT = {
+					is_permanent_claim = ROOT
+				}
+			}
+			add_permanent_claim = ROOT
+		}
+		rayalaseema_area = {
+			limit = {
+				NOT = {
+					is_core = ROOT
+				}
+				NOT = {
+					is_permanent_claim = ROOT
+				}
+			}
+			add_permanent_claim = ROOT
+		}
+		raichur_doab_area = {
+			limit = {
+				NOT = {
+					is_core = ROOT
+				}
+				NOT = {
+					is_permanent_claim = ROOT
+				}
+			}
+			add_permanent_claim = ROOT
+		}
+		konkan_area = {
+			limit = {
+				NOT = {
+					is_core = ROOT
+				}
+				NOT = {
+					is_permanent_claim = ROOT
+				}
+			}
+			add_permanent_claim = ROOT
+		}
+		orissa_area = {
+			limit = {
+				NOT = {
+					is_core = ROOT
+				}
+				NOT = {
+					is_permanent_claim = ROOT
+				}
+			}
+			add_permanent_claim = ROOT
+		}
+		west_bengal_area = {
+			limit = {
+				NOT = {
+					is_core = ROOT
+				}
+				NOT = {
+					is_permanent_claim = ROOT
+				}
+			}
+			add_permanent_claim = ROOT
+		}
+		east_bengal_area = {
+			limit = {
+				NOT = {
+					is_core = ROOT
+				}
+				NOT = {
+					is_permanent_claim = ROOT
+				}
+			}
+			add_permanent_claim = ROOT
+		}
+		tapti_area = {
+			limit = {
+				NOT = {
+					is_core = ROOT
+				}
+				NOT = {
+					is_permanent_claim = ROOT
+				}
+			}
+			add_permanent_claim = ROOT
+		}
+		ahmedabad_area = {
+			limit = {
+				NOT = {
+					is_core = ROOT
+				}
+				NOT = {
+					is_permanent_claim = ROOT
+				}
+			}
+			add_permanent_claim = ROOT
+		}
+		saurashtra_area = {
+			limit = {
+				NOT = {
+					is_core = ROOT
+				}
+				NOT = {
+					is_permanent_claim = ROOT
+				}
+			}
+			add_permanent_claim = ROOT
+		}
+		ai_chance = {
+			factor = 1
+		}
+	}
+	#Play as the East India Company
+	option = {
+		name = flavor_gbr.10.c
+		trigger = {
+			ai = no
+		}
+		custom_tooltip = flavor_gbr.10.a.tt
+		hidden_effect = {
+			every_owned_province = {
+				limit = {
+					superregion = india_superregion
+				}
+				add_core = EIC
+				if = {
+					limit = {
+						is_core = ROOT
+					}
+					remove_core = ROOT
+				}
+			}
+			release = EIC
+			create_subject = {
+				subject_type = EDG_CWN_enterprise
+				who = EIC
+			}
+			EIC = {
+				change_government = republic
+				add_government_reform = trade_company_government
+				change_religion = ROOT
+				change_primary_culture = ROOT
+				define_ruler = {
+					name = "Thomas"
+					dynasty = "Smythe"
+					change_adm = 3
+					change_dip = 3
+					change_mil = 3
+					max_age = 50
+					min_age = 30
+				}
+				add_adm_power = 100
+				add_dip_power = 100
+				add_mil_power = 100
+				add_treasury = 200
+				set_prestige_to_zero = yes
+				add_republican_tradition = 100
+			}
+			coromandel_region = {
+				limit = {
+					NOT = {
+						is_core = EIC
+					}
+					NOT = {
+						is_permanent_claim = EIC
+					}
+				}
+				add_permanent_claim = EIC
+			}
+			malabar_area = {
+				limit = {
+					NOT = {
+						is_core = EIC
+					}
+					NOT = {
+						is_permanent_claim = EIC
+					}
+				}
+				add_permanent_claim = EIC
+			}
+			kanara_area = {
+				limit = {
+					NOT = {
+						is_core = EIC
+					}
+					NOT = {
+						is_permanent_claim = EIC
+					}
+				}
+				add_permanent_claim = EIC
+			}
+			mysore_area = {
+				limit = {
+					NOT = {
+						is_core = EIC
+					}
+					NOT = {
+						is_permanent_claim = EIC
+					}
+				}
+				add_permanent_claim = EIC
+			}
+			rayalaseema_area = {
+				limit = {
+					NOT = {
+						is_core = EIC
+					}
+					NOT = {
+						is_permanent_claim = EIC
+					}
+				}
+				add_permanent_claim = EIC
+			}
+			raichur_doab_area = {
+				limit = {
+					NOT = {
+						is_core = EIC
+					}
+					NOT = {
+						is_permanent_claim = EIC
+					}
+				}
+				add_permanent_claim = EIC
+			}
+			konkan_area = {
+				limit = {
+					NOT = {
+						is_core = EIC
+					}
+					NOT = {
+						is_permanent_claim = EIC
+					}
+				}
+				add_permanent_claim = EIC
+			}
+			orissa_area = {
+				limit = {
+					NOT = {
+						is_core = EIC
+					}
+					NOT = {
+						is_permanent_claim = EIC
+					}
+				}
+				add_permanent_claim = EIC
+			}
+			west_bengal_area = {
+				limit = {
+					NOT = {
+						is_core = EIC
+					}
+					NOT = {
+						is_permanent_claim = EIC
+					}
+				}
+				add_permanent_claim = EIC
+			}
+			east_bengal_area = {
+				limit = {
+					NOT = {
+						is_core = EIC
+					}
+					NOT = {
+						is_permanent_claim = EIC
+					}
+				}
+				add_permanent_claim = EIC
+			}
+			tapti_area = {
+				limit = {
+					NOT = {
+						is_core = EIC
+					}
+					NOT = {
+						is_permanent_claim = EIC
+					}
+				}
+				add_permanent_claim = EIC
+			}
+			ahmedabad_area = {
+				limit = {
+					NOT = {
+						is_core = EIC
+					}
+					NOT = {
+						is_permanent_claim = EIC
+					}
+				}
+				add_permanent_claim = EIC
+			}
+			saurashtra_area = {
+				limit = {
+					NOT = {
+						is_core = EIC
+					}
+					NOT = {
+						is_permanent_claim = EIC
+					}
+				}
+				add_permanent_claim = EIC
+			}
+		}
+		switch_tag = EIC
+		ai_chance = {
+			factor = 0
+		}
+	}
+}
+
+country_event = {
+	#事件，昂撒枷锁
+	id = EDG_CWN_mission.9
+	title = EDG_CWN_mission.9.t
+	desc = EDG_CWN_mission.9.d
+	picture = TOURNAMENT_eventPicture
+	is_triggered_only = yes
+	major = yes
+	fire_only_once = yes
+	option = {
+		name = EDG_CWN_mission.9.a		#我们战胜了一个不列颠，确失败于另一个
+        ROOT = {
+			release_all_subjects = yes
+			release_all_possible_countries = yes
+		}
+	}
+}
