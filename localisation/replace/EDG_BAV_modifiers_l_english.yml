@@ -146,7 +146,7 @@ EDG_BAV_recently_has_changed_goods_to_grain_modifier_1: "Production Downturn"
 EDG_BAV_recently_has_changed_goods_to_grain_modifier_2: "Production Downturn"
 
 EDG_BAV_humanist_modifier: "Completed §YHumanist Ideas§!"
-EDG_BAV_tolerance_modifier: "Heretic Tolerance at least '§Y8§!'"
+EDG_BAV_tolerance_modifier: "Tolerance of Heretics at least '§Y8§!'"
 EDG_BAV_has_level_5_adm_advisor_modifier: "Has a §YLevel 5§! '§YAdministrative Advisor§!'"
 EDG_BAV_has_level_5_dip_advisor_modifier: "Has a §YLevel 5§! '§YDiplomatic Advisor§!'"
 EDG_BAV_has_level_5_mil_advisor_modifier: "Has a §YLevel 5§! '§YMilitary Advisor§!'"

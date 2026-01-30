@@ -88,12 +88,12 @@ EDG_BAV_1_5_6_1: "@SAX §YSaxony§! will find it §Yeasier§! to complete the mi
 
 EDG_BAV_2_1_2_title: "Hour of Peril"
 EDG_BAV_2_1_2_desc: ""
-EDG_BAV_2_1_2_1: "Each estate meeting the mission conditions provides us with §G100§!£icon_EDG_cash£ and §G25§! §Yadministrative power§!. If the estate's §YInfluence§! also reaches §Y60§!, the amount is doubled."
-EDG_BAV_2_1_2_2: "Unlocks the §YArtists§! estate privilege '§YHeretic Conscription Act§!', allowing us, in all provinces with §YHeretic§! religion under our rule, to exchange a penalty of §R-10.0%§! §YLocal Tax Modifier§! for benefits of §G-90.0%§! §YLocal Recruitment Time§! and §G-25.0%§! §YLocal Recruitment Cost§!.\n\nThis estate privilege can only be used during the disaster '§RRequiem§!'. After completing the mission '§YAmidst the Ruins, Rekindle Hope§!', this restriction is removed."
+EDG_BAV_2_1_2_1: "Each estate meeting the mission conditions provides us with §G100§!£icon_EDG_cash£and §G25§! §Yadministrative power§!. If the estate's §YInfluence§! also reaches §Y60§!, the amount is doubled."
+EDG_BAV_2_1_2_2: "Unlocks the §YArtists§! estate privilege '§YHeretic Conscription Act§!', allowing us, in all provinces with §YHeretic§! religion under our rule, to exchange a penalty of §R-10.0%§! §YLocal Tax Modifier§! for benefits of §G-90.0%§! §YLocal Recruitment Time§! and §G-25.0%§! §YLocal Recruitment Cost§!.\n\nThis estate privilege can only be used during the disaster '§RRequiem§!'. After completing the mission '§YAmidst Ruin, Rekindle Hope§!', this restriction is removed."
 
 EDG_BAV_2_2_1_title: "State of Emergency"
 EDG_BAV_2_2_1_desc: ""
-EDG_BAV_2_2_1_1: "Unlocks a §Ydiplomatic action§! allowing us to request aid from §YAllies§! whose status is §YGreat Power§!.\n\nThis action has a 10-year cooldown and can only be used during the disaster '§RRequiem§!'. After completing the mission '§YAmidst the Ruins, Rekindle Hope§!', this restriction is removed."
+EDG_BAV_2_2_1_1: "Unlocks a §Ydiplomatic action§! allowing us to request aid from §YAllies§! whose status is §YGreat Power§!.\n\nThis action has a 10-year cooldown and can only be used during the disaster '§RRequiem§!'. After completing the mission '§YAmidst Ruin, Rekindle Hope§!', this restriction is removed."
 
 EDG_BAV_2_2_3_title: "The Council of [4708.GetName]"
 EDG_BAV_2_2_3_desc: ""
@@ -104,16 +104,16 @@ EDG_BAV_2_3_2_title: "A Lifeline"
 EDG_BAV_2_3_2_desc: ""
 EDG_BAV_2_3_2_1: "Each country meeting the mission conditions provides us with §G5000§!£icon_manpower£ and §G25§! §Ydiplomatic power§!. If the other country is a §YGreat Power§!, the amount is doubled."
 EDG_BAV_2_3_2_2: "Unlocks two §Ydecisions§! allowing us to spend a certain amount of £dip£ §Ydiplomatic power§! to negotiate separate peaces with @BOH §YBohemia§! and @HUN §YHungary§! respectively in this §Rwar§!."
-EDG_BAV_2_3_2_3: "Now, the §YArtists§! estate privilege '§YInternational Artistic Exchange§!' will additionally provide §G+2§! §YDiplomatic Relations§!.\n\nThis benefit is only active during the disaster '§RRequiem§!'. After completing the mission '§YAmidst the Ruins, Rekindle Hope§!', this restriction is removed."
+EDG_BAV_2_3_2_3: "Now, the §YArtists§! estate privilege '§YInternational Artistic Exchange§!' will additionally provide §G+2§! §YDiplomatic Relations§!.\n\nThis benefit is only active during the disaster '§RRequiem§!'. After completing the mission '§YAmidst Ruin, Rekindle Hope§!', this restriction is removed."
 
-EDG_BAV_2_3_4_title: "Amidst the Ruins, Rekindle Hope"
+EDG_BAV_2_3_4_title: "Amidst Ruin, Rekindle Hope" # Amidst the Ruins, Rekindle Hope
 EDG_BAV_2_3_4_desc: ""
 EDG_BAV_2_3_4_1: "Some of the benefits from the mission tree above can be retained after the disaster '§RRequiem§!' ends."
-EDG_BAV_2_3_4_2: "Now, each §MWittelsbach Holdings§! with a §YTotal Development§! exceeding §Y150§! provides us with §Y+0.5§! §YHeretic Tolerance§!."
+EDG_BAV_2_3_4_2: "Now, each §MWittelsbach Holding§! with a §YTotal Development§! exceeding §Y150§! provides us with §G+0.5§! §YTolerance of Heretics§!."
 
 EDG_BAV_2_4_1_title: "The Inevitable Clash"
 EDG_BAV_2_4_1_desc: ""
-EDG_BAV_2_4_1_1: "Unlocks a one-time §Ydecision§! allowing us to spend a certain amount of §YMonarch Power§! to grant temporary bonuses to all §YAllies§! fighting alongside us in the §Ywar§!.\n\nThis decision can only be used during the disaster '§RRequiem§!'. After completing the mission '§YAmidst the Ruins, Rekindle Hope§!', this restriction is removed."
+EDG_BAV_2_4_1_1: "Unlocks a one-time §Ydecision§! allowing us to spend a certain amount of §YMonarch Power§! to grant temporary bonuses to all §YAllies§! fighting alongside us in the §Ywar§!.\n\nThis decision can only be used during the disaster '§RRequiem§!'. After completing the mission '§YAmidst Ruin, Rekindle Hope§!', this restriction is removed."
 
 EDG_BAV_2_4_3_title: "The [4760.GetName] Line"
 EDG_BAV_2_4_3_desc: ""
@@ -123,7 +123,7 @@ EDG_BAV_2_4_3_2: "A random §Y1§! owned §YFort§! province currently occupied 
 EDG_BAV_2_5_2_title: "Every Inch of Ground"
 EDG_BAV_2_5_2_desc: ""
 EDG_BAV_2_5_2_1: "Each province meeting the mission conditions gains §G-5% Local Revolt Risk§! and provides us with §G25§! §Ymilitary power§!. If the province's religion is a §YHeretic§! religion, the amount is doubled."
-EDG_BAV_2_5_2_2: "Now, winning a §YBattle§! will reduce §YWar Exhaustion§! by §G-0.5§!.\n\nThis benefit is only active during the disaster '§RRequiem§!'. After completing the mission '§YAmidst the Ruins, Rekindle Hope§!', this restriction is removed."
+EDG_BAV_2_5_2_2: "Now, winning a §YBattle§! will reduce §YWar Exhaustion§! by §G-0.5§!.\n\nThis benefit is only active during the disaster '§RRequiem§!'. After completing the mission '§YAmidst Ruin, Rekindle Hope§!', this restriction is removed."
 
 EDG_BAV_3_1_7_title: "Pacifying Swabia"
 EDG_BAV_3_1_7_desc: "Between the northern slopes of the Alps and the headwaters of the Danube, Swabia's towns and knightly families once prided themselves on their freedom. Now, we shall reorganize this land of strife under Bavaria's banner, ensuring its mountain passes and river valleys are no longer fractured by princely feuds, but become the backbone of a unified Southern Germany."
@@ -150,7 +150,7 @@ EDG_BAV_3_1_10_1_no: "£no£If we complete the mission via §YConquest§!, the f
 EDG_BAV_3_1_10_2_yes: "£yes£If we complete the mission via §YDiplomacy§!, the following effects occur:"
 EDG_BAV_3_1_10_2_no: "£no£If we complete the mission via §YDiplomacy§!, the following effects occur:"
 EDG_BAV_3_1_10_3: "@HOL §YHolland§! will decide whether to invite a royal member from the §YWittelsbach§! house to rule their lands.\nIf they §Gagree§!, they will become our §MWittelsbach Holdings§!.\nThe AI will only choose §Gagree§! if they are not a §YGreat Power§!."
-EDG_BAV_3_1_10_4: "Allows the release of @NED §YNetherlands§! as our §MWittelsbach Holdings§!."
+EDG_BAV_3_1_10_4: "Allows the release of @NED §YNetherlands§! as our §MWittelsbach Holding§!."
 EDG_BAV_3_1_10_5: "Unlocks a §Ydecision§! allowing us to Germanize provinces of the §YFrench§! culture group in the §YLow Countries§! region into the §YWallonian§! culture."
 
 EDG_BAV_3_2_7_title: "The Salian Bier"
@@ -208,7 +208,7 @@ EDG_BAV_3_4_8_title: "Elegy for the IJssel"
 EDG_BAV_3_4_8_desc: "The western plains and fortresses connect the Rhine to the North Sea; Westphalia is both a frontier and a corridor. Controlling this region severs enemy reinforcements and trade routes, turning the western border into a shield wall, forever securing Bavaria's territories from flank attacks."
 EDG_BAV_3_4_8_1_yes: "£yes£If @H04 §YUpper IJssel§! does not exist, then @H04 §YUpper IJssel§! will lose all its §Ycores§!."
 EDG_BAV_3_4_8_1_no: "£no£If @H04 §YUpper IJssel§! does not exist, then @H04 §YUpper IJssel§! will lose all its §Ycores§!."
-EDG_BAV_3_4_8_2: "Now, the §YClergy§! estate privilege '§YFund Theological Studies§!' additionally provides §G+2.0§! §YHeretic Tolerance§! and §G+30§! §YRelations with Heretic Nations§!."
+EDG_BAV_3_4_8_2: "Now, the §YClergy§! estate privilege '§YFund Theological Studies§!' additionally provides §G+2.0§! §YTolerance of Heretics§! and §G+30§! §YRelations with Heretic Nations§!."
 EDG_BAV_3_4_8_3: "Now, the §YArtists§! estate privilege '§YGrant Academic Freedom§!' additionally provides §G-5.0%§! §YTechnology Cost§!."
 
 EDG_BAV_3_4_9_title: "Marching into the Rhineland"
@@ -237,7 +237,7 @@ EDG_BAV_3_5_9_2: "Now, the §MWittelsbach Holdings§! subject interaction '§YEn
 
 EDG_BAV_3_5_10_title: "The Slavic Question"
 EDG_BAV_3_5_10_desc: "The lands of the Slavic peoples stretch across the Eastern European plains, a crossroads of cultures and faiths. To ensure the stability of our rule, we must properly manage these diverse ethnic relations, balancing power and integration, to avoid division and conflict."
-EDG_BAV_3_5_10_1: "Allows the release of @POL §YPoland§! as our §MWittelsbach Holdings§!."
+EDG_BAV_3_5_10_1: "Allows the release of @POL §YPoland§! as our §MWittelsbach Holding§!."
 EDG_BAV_3_5_10_2: "Unlocks a §Ydecision§! allowing us to Germanize provinces of the §YWest Slavic§! culture group in the §YGerman§! region into the §YBohemian§! culture."
 EDG_BAV_3_5_10_3_yes: "£yes£If we complete the mission via §YBuilding Tax Buildings§!, the following effects occur:"
 EDG_BAV_3_5_10_3_no: "£no£If we complete the mission via §YBuilding Tax Buildings§!, the following effects occur:"
@@ -354,15 +354,15 @@ EDG_BAV_5_2_12_3_no: "£no£If we are the §YHoly Roman Emperor§!, the followin
 
 EDG_BAV_5_2_14_title: "§MThe Hymns of Munich§!"
 EDG_BAV_5_2_14_desc: "A hymn can cross walls, a melody can sway hearts. If the storm of the age thrusts reformers onto the stage, we can also let their voices resound beneath Munich's domes: as a spark for debate or a bridge for reconciliation. Let music become our diplomacy and edification, teaching divided souls to coexist within the same song."
-EDG_BAV_5_2_14_1: "If given the opportunity, §YMartin Luther§! will be invited to the court in §YMunich§!. At that point, we may choose §YMartin Luther§! as our §YAdvisor§!. As long as §YMartin Luther§! remains in our service, we will gain §G+2.0§! §YHeretic Tolerance§!."
+EDG_BAV_5_2_14_1: "If given the opportunity, §YMartin Luther§! will be invited to the court in §YMunich§!. At that point, we may choose §YMartin Luther§! as our §YAdvisor§!. As long as §YMartin Luther§! remains in our service, we will gain §G+2.0§! §YTolerance of Heretics§!."
 EDG_BAV_5_2_14_2: "Now, the following §YGovernment Interactions§! are enhanced:\n- '§MAcquire Art Treasures§!' yields §Gdouble§! the §MArt Treasures§!.\n- '§MHost Art Exhibition§!' grants all §YHeretic Provinces§! an additional §G1§! random §YDevelopment§!.\n- '§MPromote Artistic Exchange§!' makes each §YHeretic§! province additionally provide §G0.01§! §MArt Treasures§! monthly."
 
 EDG_BAV_5_3_11_title: "§MPromoting Humanism§!"
 EDG_BAV_5_3_11_desc: "The borders of the Empire can be drawn by treaties, but the borders of the human heart can only be expanded through tolerance. Promoting humanism is not a sign of weak concession, but of confident governance: letting diverse languages, customs, and faiths find their place within the framework of law. Thus, loyalty will no longer rely on fear, and the state will possess a deeper, more stable cohesion."
 EDG_BAV_5_3_11_1_yes: "£yes£If we complete the mission via the §YIdea Group§! method, the following effects occur:\nAs long as we still possess all §YHumanist Ideas§!, we gain §G+0.1§! §MMonthly Art Treasures§!."
 EDG_BAV_5_3_11_1_no: "£no£If we complete the mission via the §YIdea Group§! method, the following effects occur:\nAs long as we still possess all §YHumanist Ideas§!, we gain §G+0.1§! §MMonthly Art Treasures§!."
-EDG_BAV_5_3_11_2_yes: "£yes£If we complete the mission via the §YTolerance§! method, the following effects occur:\nAs long as our §YHeretic Tolerance§! remains at least §Y8§!, we gain §G+0.1§! §MMonthly Art Treasures§!."
-EDG_BAV_5_3_11_2_no: "£no£If we complete the mission via the §YTolerance§! method, the following effects occur:\nAs long as our §YHeretic Tolerance§! remains at least §Y8§!, we gain §G+0.1§! §MMonthly Art Treasures§!."
+EDG_BAV_5_3_11_2_yes: "£yes£If we complete the mission via the §YTolerance§! method, the following effects occur:\nAs long as our §YTolerance of Heretics§! remains at least §Y8§!, we gain §G+0.1§! §MMonthly Art Treasures§!."
+EDG_BAV_5_3_11_2_no: "£no£If we complete the mission via the §YTolerance§! method, the following effects occur:\nAs long as our §YTolerance of Heretics§! remains at least §Y8§!, we gain §G+0.1§! §MMonthly Art Treasures§!."
 EDG_BAV_5_3_11_3: "Now, §MArt Treasures§! can provide up to §G+20.0%§! §YAll Estates Loyalty Equilibrium§!."
 
 EDG_BAV_5_3_13_title: "§MConstructing Nymphenburg§!" # Constructing Nymphenburg Palace

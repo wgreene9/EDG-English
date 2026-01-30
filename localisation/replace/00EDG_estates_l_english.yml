@@ -232,8 +232,8 @@ estate_EDG_Minister_of_General_Affairs_privilege_desc:0 "The head of the Ministr
 estate_EDG_Theatines_privilege:0 "Theatines"
 estate_EDG_Theatines_privilege_desc:0 "As a response to 16th-century Catholic reform, the Theatines established their own communities throughout the Italian peninsula, particularly in the more traditionally faithful South. These communities, sworn to poverty, obedience, and chastity, will receive papal blessing and attain influential and dominant positions locally."
 
-estate_EDG_Alawite_tolerance_privilege_effect_tooltip:0 "All §MAlawite§! provinces under our rule will receive the following modifiers:\nLocal Religious Unity Contribution§!: §G-100%§!\nLocal Missionary Strength: §R-100%§!\nLocal Heretic Tolerance§!: §G+3%§!"
-estate_EDG_Alawite_tolerance_privilege_revoke_effect_tooltip:0 "All §MAlawite§! provinces under our rule will lose the following modifiers:\nLocal Religious Unity Contribution§!: §M-100%§!\nLocal Missionary Strength§!: §M-100%§!\nLocal Heretic Tolerance§!: §M+3%§!"
+estate_EDG_Alawite_tolerance_privilege_effect_tooltip:0 "All §MAlawite§! provinces under our rule will receive the following modifiers:\nLocal Religious Unity Contribution§!: §G-100%§!\nLocal Missionary Strength: §R-100%§!\nLocal Tolerance of Heretics§!: §G+3%§!"
+estate_EDG_Alawite_tolerance_privilege_revoke_effect_tooltip:0 "All §MAlawite§! provinces under our rule will lose the following modifiers:\nLocal Religious Unity Contribution§!: §M-100%§!\nLocal Missionary Strength§!: §M-100%§!\nLocal Tolerance of Heretics§!: §M+3%§!"
 EDG_Alawite_tolerance_guaranteed_autonomy_mod:0 "Cooperation with the Alawites"
 EDG_Alawite_tolerance_guaranteed_autonomy_mod_desc:0 "We are cooperating with the Alawites, which protects our local interests."
 estate_EDG_Alawite_tolerance_privilege_enable_flag_tt:0 "Enable the §MCooperation with the Alawites§! Privilege"

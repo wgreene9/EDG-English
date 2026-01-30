@@ -1560,7 +1560,7 @@ estate_EDG_TIM_chaghatai_warriors_desc:0 ""
 estate_EDG_TIM_chaghatai_warriors_tt:0 "Allows recruitment of §YKheshig§! in provinces of the §YAltaic§! culture group. Each province under our rule belonging to the §YAltaic§! culture group provides §G+0.5%§! to available Kheshig recruitment. (Kheshig can be recruited in the state interface of a province.)"
 estate_EDG_TIM_convergence_of_islam_and_confucianism:0 "Convergence of Islam and Confucianism"
 estate_EDG_TIM_convergence_of_islam_and_confucianism_desc:0 ""
-estate_EDG_TIM_convergence_of_islam_and_confucianism_tt:0 "All §YConfucian§! provinces under our rule gain:\nLocal Missionary Strength: §R-100.0%§!\nLocal Religious Unity Contribution: §Y-100.0%§!\nLocal Heretic Tolerance: §G+3.00§!"
+estate_EDG_TIM_convergence_of_islam_and_confucianism_tt:0 "All §YConfucian§! provinces under our rule gain:\nLocal Missionary Strength: §R-100.0%§!\nLocal Religious Unity Contribution: §Y-100.0%§!\nLocal Tolerance of Heretics: §G+3.00§!"
 
 #disasters
 EDG_TIM_shah_rukh_succession_crisis:0 "Shah Rukh's Succession Crisis"

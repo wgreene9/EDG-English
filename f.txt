@@ -456,69 +456,69 @@
 			# }
 			# swap_non_generic_missions = yes
 
-# set_country_flag = EDG_BAV_GUI_religious_congress_Catholic_button_flag
-# 			change_tag = BAV
-# 			on_change_tag_effect = yes
-# 			restore_country_name_effect = yes
-# 			if = {
-# 				limit = {
-# 					overlord_of = UBV
-# 				}
-# 				inherit = UBV
-# 			}
-# 			if = {
-# 				limit = {
-# 					overlord_of = ING
-# 				}
-# 				inherit = ING
-# 			}
-# 			if = {
-# 				limit = {
-# 					overlord_of = PSS
-# 				}
-# 				inherit = PSS
-# 			}
-# 			if = {
-# 				limit = {
-# 					overlord_of = REG
-# 				}
-# 				inherit = REG
-# 			}
-# 			if = {
-# 				limit = {
-# 					overlord_of = SLZ
-# 				}
-# 				inherit = SLZ
-# 			}
-# 			add_prestige = 25
-# 			set_capital = 65
-# 			65 = {
-# 				add_base_tax = 2
-# 			}
-# 			set_country_flag = formed_bavaria_flag
-# 			add_country_modifier = {
-# 				name = centralization_modifier
-# 				duration = 7300
-# 			}
-# 			EDG_BAV_add_permanent_claims_effect = yes
-# 			custom_tooltip = EDG_SPACE_TT
-# 			custom_tooltip = EDG_BAV_1_3_6_1
-# 			set_country_flag = EDG_BAV_1_3_6_flag
-# 			custom_tooltip = EDG_SPACE_TT
-# 			custom_tooltip = EDG_BAV_1_3_6_3
-# 			set_country_flag = EDG_BAV_has_enhanced_bav_ideas_flag
-# 			swap_free_idea_group = yes
-# 			custom_tooltip = EDG_SPACE_TT
-# 			custom_tooltip = EDG_BAV_1_3_6_4
-# 			swap_non_generic_missions = yes
-# 			custom_tooltip = EDG_SPACE_TT
-# 			add_country_modifier = {
-# 				name = "EDG_BAV_1_3_6_modifier"
-# 				duration = -1
-# 			}
-# 			country_event = {
-# 				id = EDG_BAV_event.9
-# 			}
+set_country_flag = EDG_BAV_GUI_religious_congress_Catholic_button_flag
+			change_tag = BAV
+			on_change_tag_effect = yes
+			restore_country_name_effect = yes
+			if = {
+				limit = {
+					overlord_of = UBV
+				}
+				inherit = UBV
+			}
+			if = {
+				limit = {
+					overlord_of = ING
+				}
+				inherit = ING
+			}
+			if = {
+				limit = {
+					overlord_of = PSS
+				}
+				inherit = PSS
+			}
+			if = {
+				limit = {
+					overlord_of = REG
+				}
+				inherit = REG
+			}
+			if = {
+				limit = {
+					overlord_of = SLZ
+				}
+				inherit = SLZ
+			}
+			add_prestige = 25
+			set_capital = 65
+			65 = {
+				add_base_tax = 2
+			}
+			set_country_flag = formed_bavaria_flag
+			add_country_modifier = {
+				name = centralization_modifier
+				duration = 7300
+			}
+			EDG_BAV_add_permanent_claims_effect = yes
+			custom_tooltip = EDG_SPACE_TT
+			custom_tooltip = EDG_BAV_1_3_6_1
+			set_country_flag = EDG_BAV_1_3_6_flag
+			custom_tooltip = EDG_SPACE_TT
+			custom_tooltip = EDG_BAV_1_3_6_3
+			set_country_flag = EDG_BAV_has_enhanced_bav_ideas_flag
+			swap_free_idea_group = yes
+			custom_tooltip = EDG_SPACE_TT
+			custom_tooltip = EDG_BAV_1_3_6_4
+			swap_non_generic_missions = yes
+			custom_tooltip = EDG_SPACE_TT
+			add_country_modifier = {
+				name = "EDG_BAV_1_3_6_modifier"
+				duration = -1
+			}
+			country_event = {
+				id = EDG_BAV_event.9
+			}
 
 
 # CAT = { remove_country_modifier = bankruptcy }
@@ -536,9 +536,9 @@
 			# 	value = 1
 			# }
 
-			enable_estate_effect = {
-				estate = estate_EDG_bard
-			}
-			custom_tooltip = EDG_MEN_1_21_tt
-			set_country_flag = EDG_MEN_1_21_flag
-			set_country_flag = EDG_MEN_open_window_flag
+			# enable_estate_effect = {
+			# 	estate = estate_EDG_bard
+			# }
+			# custom_tooltip = EDG_MEN_1_21_tt
+			# set_country_flag = EDG_MEN_1_21_flag
+			# set_country_flag = EDG_MEN_open_window_flag

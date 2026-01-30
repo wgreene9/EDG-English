@@ -187,7 +187,7 @@ EDG_BAV_compliance_4_tt: "§MCooperative§!"
 EDG_BAV_compliance_5_tt: "§GSubmissive§!"
 
 EDG_BAV_heretic_cb: "§RPurge Heretics§!"
-EDG_BAV_heretic_war_name: "§R$FIRST_NAME$'s War to Purge the $SECOND_NAME$ Heretics§!"
+EDG_BAV_heretic_war_name: "§R$FIRST_NAME$'s War to Purge the $SECOND_NAME$n Heretics§!"
 
 EDG_BAV_independence_cb: "§RIndependence§!"
 EDG_BAV_independence_war_name: "§R$FIRST_NAME$'s War of Independence§!"
@@ -466,22 +466,22 @@ EDG_BAV_hussite_decision_5_desc: ""
 EDG_BAV_hussite_decision_6_title: "@[Root.GetTag] £icon_EDG_hussite_icon£ Appoint Porta-Hussite Commanders"
 EDG_BAV_hussite_decision_6_desc: ""
 
-EDG_BAV_adminitrative_reform_1_title: "@[Root.GetTag] §MAdministrative Circle Reform§! Level 1: '§YGentry Co-Governance§!'"
+EDG_BAV_adminitrative_reform_1_title: "@[Root.GetTag] §MReform§! I: §YGentry Co-Governance§!" # @[Root.GetTag] §MAdministrative Circle Reform§! Level 1: '§YGentry Co-Governance§!'
 EDG_BAV_adminitrative_reform_1_desc: ""
 
-EDG_BAV_adminitrative_reform_2_title: "@[Root.GetTag] §MAdministrative Circle Reform§! Level 2: '§YCircuit and Prefecture Administration§!'"
+EDG_BAV_adminitrative_reform_2_title: "@[Root.GetTag] §MReform§! II: §YPrefecture Administration§!" # Circuit and Prefecture
 EDG_BAV_adminitrative_reform_2_desc: ""
 
-EDG_BAV_adminitrative_reform_3_title: "@[Root.GetTag] §MAdministrative Circle Reform§! Level 3: '§YSalt and Iron Revenues§!'"
+EDG_BAV_adminitrative_reform_3_title: "@[Root.GetTag] §MReform§! III: §YSalt and Iron Revenues§!"
 EDG_BAV_adminitrative_reform_3_desc: ""
 
-EDG_BAV_adminitrative_reform_4_title: "@[Root.GetTag] §MAdministrative Circle Reform§! Level 4: '§YMilitary Garrison Reorganization§!'"
+EDG_BAV_adminitrative_reform_4_title: "@[Root.GetTag] §MReform§! IV: §YMilitary Garrison Reorganization§!"
 EDG_BAV_adminitrative_reform_4_desc: ""
 
-EDG_BAV_adminitrative_reform_5_title: "@[Root.GetTag] §MAdministrative Circle Reform§! Level 5: '§YProvincial System Governance§!'"
+EDG_BAV_adminitrative_reform_5_title: "@[Root.GetTag] §MReform§! V: §YProvincial System Governance§!"
 EDG_BAV_adminitrative_reform_5_desc: ""
 
-EDG_BAV_adminitrative_reform_6_title: "@[Root.GetTag] §MAdministrative Circle Reform§! Level 6: '§YGrand Council Supervision§!'"
+EDG_BAV_adminitrative_reform_6_title: "@[Root.GetTag] §MReform§! VI: §YGrand Council Supervision§!"
 EDG_BAV_adminitrative_reform_6_desc: ""
 
 EDG_BAV_milan_treaty_title: "@BAV-@[Root.GetTag] §YMilan Treaty§!"

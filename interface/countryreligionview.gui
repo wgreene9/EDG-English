@@ -3458,7 +3458,8 @@ guiTypes = {
 		{
 			name ="deity_item_icon"
 			spriteType = "GFX_hindu_deities_strip"
-			position = { x= 5 y = -4 }
+			# position = { x= 5 y = -4 }
+			position = { x= 35 y = -4 } # fixed
 		}
 		
 		instantTextBoxType = {
@@ -3467,7 +3468,8 @@ guiTypes = {
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
 			text = "DeityName"	
-			maxWidth = 32
+			# maxWidth = 32
+			maxWidth = 82 # fixed
 			maxHeight = 24
 			Orientation = "UPPER_LEFT"
 			format = left
@@ -3475,7 +3477,8 @@ guiTypes = {
 		
 		instantTextBoxType = {
 			name = "deity_item_effect"
-			position = { x = 58 y = -2 }
+			# position = { x = 58 y = -2 }
+			position = { x = 88 y = -2 } # fixed
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}
 			text = "DeityEffect"	
