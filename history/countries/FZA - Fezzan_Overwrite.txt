@@ -1,6 +1,6 @@
 1440.1.1 = {
 	monarch = {
-		name = "AbdÃ»lazzÃ¢"
+		name = "Abdûlazzâ"
 		dynasty = "Banu Sulaym"
 		adm = 0
 		dip = 0
@@ -9,7 +9,7 @@
 }
 1480.1.1 = {
 	monarch = {
-		name = "AbdÃ»lazzÃ¢ II"
+		name = "Abdûlazzâ II"
 		dynasty = "Banu Sulaym"
 		adm = 1
 		dip = 0
@@ -18,7 +18,7 @@
 }
 1520.1.1 = {
 	monarch = {
-		name = "AbdÃ»lazzÃ¢ III"
+		name = "Abdûlazzâ III"
 		dynasty = "Banu Sulaym"
 		adm = 1
 		dip = 0

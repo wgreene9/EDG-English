@@ -126,17 +126,17 @@ EDG_EMP_Revoke_Mint_Privilege_action_title:0 "£icon_EDG_icon_hre_emperor£Revok
 EDG_EMP_Revoke_Mint_Privilege_action_desc:0 "£icon_EDG_icon_hre_emperor£We will revoke their Minting Privilege. This will lower their opinion of us and strip them of their economic benefits."
 EDG_EMP_Revoke_Mint_Privilege_action_tooltip:0 "£icon_EDG_icon_hre_emperor£We will deprive them of their Minting Privilege."
 
-EDG_EMP_Appoint_Generalissimo_action:0 "£icon_EDG_icon_hre_emperor£Appoint Imperial Generalissimo"
-EDG_EMP_Appoint_Generalissimo_action_title:0 "£icon_EDG_icon_hre_emperor£Appoint Imperial Generalissimo"
-EDG_EMP_Appoint_Generalissimo_action_desc:0 "£icon_EDG_icon_hre_emperor£We propose to appoint their ruler as Imperial Generalissimo. If they §Yaccept§!, they will gain military benefits, improve their opinion of us, and we will lose §Y5§! Imperial Authority."
-EDG_EMP_Appoint_Generalissimo_action_tooltip:0 "£icon_EDG_icon_hre_emperor£We propose to appoint their ruler as Imperial Generalissimo."
-EDG_EMP_Appoint_Generalissimo_action_dialog:0 "£icon_EDG_icon_hre_emperor£They propose to appoint our ruler as Imperial Generalissimo. If we §Yaccept§!, we will gain military benefits, improve our opinion of them, and they will lose §Y5§! Imperial Authority."
+EDG_EMP_Appoint_Generalissimo_action:0 "£icon_EDG_icon_hre_emperor£Appoint Imperial Marshal" # Generalissimo
+EDG_EMP_Appoint_Generalissimo_action_title:0 "£icon_EDG_icon_hre_emperor£Appoint Imperial Marshal" # Generalissimo
+EDG_EMP_Appoint_Generalissimo_action_desc:0 "£icon_EDG_icon_hre_emperor£We propose to appoint their ruler as Imperial Marshal. If they §Yaccept§!, they will gain military benefits, improve their opinion of us, and we will lose §Y5§! Imperial Authority." # Generalissimo
+EDG_EMP_Appoint_Generalissimo_action_tooltip:0 "£icon_EDG_icon_hre_emperor£We propose to appoint their ruler as Imperial Marshal." # Generalissimo
+EDG_EMP_Appoint_Generalissimo_action_dialog:0 "£icon_EDG_icon_hre_emperor£They propose to appoint our ruler as Imperial Marshal. If we §Yaccept§!, we will gain military benefits, improve our opinion of them, and they will lose §Y5§! Imperial Authority." # Generalissimo
 
 
-EDG_EMP_Revoke_Generalissimo_action:0 "£icon_EDG_icon_hre_emperor£Dismiss Imperial Generalissimo"
-EDG_EMP_Revoke_Generalissimo_action_title:0 "£icon_EDG_icon_hre_emperor£Dismiss Imperial Generalissimo"
-EDG_EMP_Revoke_Generalissimo_action_desc:0 "£icon_EDG_icon_hre_emperor£We will no longer appoint them as our Imperial Generalissimo. This will lower their opinion of us and strip them of their military benefits."
-EDG_EMP_Revoke_Generalissimo_action_tooltip:0 "£icon_EDG_icon_hre_emperor£They will no longer be our Imperial Generalissimo."
+EDG_EMP_Revoke_Generalissimo_action:0 "£icon_EDG_icon_hre_emperor£Dismiss Imperial Marshal" # Generalissimo
+EDG_EMP_Revoke_Generalissimo_action_title:0 "£icon_EDG_icon_hre_emperor£Dismiss Imperial Marshal" # Generalissimo
+EDG_EMP_Revoke_Generalissimo_action_desc:0 "£icon_EDG_icon_hre_emperor£We will no longer appoint them as our Imperial Marshal. This will lower their opinion of us and strip them of their military benefits." # Generalissimo
+EDG_EMP_Revoke_Generalissimo_action_tooltip:0 "£icon_EDG_icon_hre_emperor£They will no longer be our Imperial Marshal." # Generalissimo
 
 EDG_EMP_Appoint_Marquis_Imperial_Circle_action:0 "£icon_EDG_icon_hre_emperor£Appoint Imperial Circle Director"
 EDG_EMP_Appoint_Marquis_Imperial_Circle_action_title:0 "£icon_EDG_icon_hre_emperor£Appoint Imperial Circle Director"

@@ -204,7 +204,7 @@ EDG_H04_mission_3_31_desc:0 "Our trade ventures in the Far East are flourishing,
 
 EDG_H04_mission_4_2_title:0 "The Treaty of Westphalia"
 EDG_H04_mission_4_2_desc:0 "The three small states of South Westphalia have long been friendly with us—the Elector of Westphalia. Over the years, we have exerted influence on them through the Kingdom's second center—the Prince-Bishopric of Münster, and the envoys of IJssel have become indispensable within their governments. Today, let us gather in Westphalia, sign a treaty, and fully unite the people of Westphalia under the banner of peace and prosperity."
-EDG_H04_mission_4_2.effect.tt:0 "Completing the mission through §Tdiplomatic means§! will cause the §Yowner§! of the corresponding provinces to become our §YHoly Roman Empire Junior Partner§!"
+EDG_H04_mission_4_2.effect.tt:0 "Completing the mission through §Tdiplomatic means§! will cause the §Yowner§! of the corresponding provinces to become our §YHoly Roman Vassal State§!" # Holy Roman Empire Junior Partner
 
 EDG_H04_mission_4_3_title:0 "Confront the Carolingians"
 EDG_H04_mission_4_3_desc:0 "The kingdom of Lothair still occupies the western part of the Empire, seizing bishoprics such as Trier and Cologne, and important cities of the Low Countries and the Rhineland, severely damaging the Empire's prestige. As the Viceroy of Frisia on the Empire's western border, with accumulated grievances old and new, we must confront the last Carolingian dynasty, defend the imperial frontier, and sweep the false Middle Francia into the dustbin of history."
@@ -221,12 +221,12 @@ EDG_H04_mission_4_7.effect.tt:0 "Our §Tallies§! will gain certain §Ymilitary 
 
 EDG_H04_mission_4_9_title:0 "Weaving the Web"
 EDG_H04_mission_4_9_desc:0 "Through our relentless efforts, the court of [Root.GetName] has meticulously woven a diplomatic network within the Empire, a vast web centered on the Gerulfingen court. [Root.GetCapitalName] has become the new heart of the Empire, where Electors, junior partners, and representatives of free cities come to pay homage to the Emperor, adding color to our banquets. Here, we sign charters, expand the Emperor's influence, and establish more free cities belonging solely to the Emperor—this is an era of prosperity for the entire Empire."
-EDG_H04_mission_4_9.effect.tt:0 "Each §YHoly Roman Empire Junior Partner§! will §G+1%§! Imperial Authority"
+EDG_H04_mission_4_9.effect.tt:0 "Each §YHoly Roman Vassal State§! will grant §G+0.01§! monthly Imperial Authority" # Holy Roman Empire Junior Partner
 
 EDG_H04_mission_4_10_title:0 "Next, Attack the Alliances" # Next, Attack Alliances
 EDG_H04_mission_4_10_desc:0 "Our national military may not be outstanding, but relying on the military coalition we have built with our allies, the banner of [Root.GetName] still advances triumphantly on the battlefield. We and our allies each play our part; we provide assistance to our allies, and they serve as our sharpest spears. This excellent form of alliance makes us invincible and adds glory to our court."
 EDG_H04_mission_4_10.effect_1.tt:0 "All countries on the §Ysame side of a war§! as us will gain certain §Tmilitary bonuses§!"
-EDG_H04_mission_4_10.effect_2.tt:0 "Each of our §Tallies§! will §G+0.05§! monthly §OSplendor§!, up to a maximum of §Y20§!"
+EDG_H04_mission_4_10.effect_2.tt:0 "Each of our §Tallies§! will grant §G+0.05§! monthly §OSplendor§!, up to a maximum of §Y20§!"
 
 EDG_H04_mission_4_11_title:0 "Willem II's Ambition"
 EDG_H04_mission_4_11_desc:0 "In 1245, Pope Innocent IV deposed Frederick II of the House of Hohenstaufen, then installed Henry Raspe of Thuringia as the anti-king. However, after a victory, the 'Illustrious' Henry died from severe injuries and illness. Subsequently, under the nomination of the Pope and the ecclesiastical Electors, Willem II of the House of Gerulfingen took on the heavy responsibility of opposing the Emperor, leaving a lasting influence in the Rhineland. Now we have surpassed the Hohenstaufens to become the most illustrious dynasty within the Empire; Willem II's ambition has been realized. Under the vast diplomatic system we have woven, the Empire shall prosper forever."

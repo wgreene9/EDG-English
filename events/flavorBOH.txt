@@ -73,7 +73,7 @@ country_event = {
     }
     change_religion = hussite
     define_ruler = {
-      name = "JirÃ­"  # JirÃƒÂ­
+      name = "Jirí"  # Jir?­
       dynasty = "z Podebrad"  # z Podebrad
       adm = 5
       dip = 4
@@ -143,7 +143,7 @@ country_event = {
       remove_heir = {}
     }
     define_ruler = {
-      name = "JirÃ­"  # JirÃƒÂ­
+      name = "Jirí"  # Jir?­
       dynasty = "z Podebrad"  # z Podebrad
       adm = 5
       dip = 4
@@ -195,7 +195,7 @@ country_event = {
       spawn_rebels = {
         type = pretender_rebels
         size = 1
-        leader = "JirÃ­"  # JirÃƒÂ­
+        leader = "Jirí"  # Jir?­
         leader_dynasty = "z Podebrad"  # z Podebrad
       }
     }
@@ -258,7 +258,7 @@ country_event = {
       spawn_rebels = {
         type = pretender_rebels
         size = 10
-        leader = "JirÃ­"  # JirÃƒÂ­
+        leader = "Jirí"  # Jir?­
       }
     }
     random_owned_province = {
@@ -1233,7 +1233,7 @@ country_event = {
 		ai_chance = { factor = 50 }
 		define_advisor = {
 			type = philosopher
-			name = "Jan Amos KomenskÃƒÂ½"
+			name = "Jan Amos Komenskı" # Komensk?
 			culture = czech
 			religion = hussite
 			discount = yes
@@ -1256,7 +1256,7 @@ country_event = {
 	}
 }
 
-#JiÃƒÂ¸ÃƒÂ­ Melantrich z Aventina
+#Ji???­ Melantrich z Aventina
 country_event = {
 	id = flavor_boh.21
 	title = flavor_boh.21.t
@@ -1284,7 +1284,7 @@ country_event = {
 		ai_chance = { factor = 10 }
 		define_advisor = {
 			type = philosopher
-			name = "JirÃƒÂ­ Melantrich z Aventina"
+			name = "Jirí Melantrich z Aventina"
 			culture = czech
 			religion = hussite
 			discount = yes

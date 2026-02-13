@@ -25,7 +25,7 @@ EDG_Religious_piety_2_modifier_desc:0 "We are committed to waging holy wars agai
 EDG_Religious_piety_3_modifier:0 "Improved Preaching System"
 EDG_Religious_piety_3_modifier_desc:0 "We have reformed the existing missionary system. Our missionary activities are now more efficient and fruitful."
 
-EDG_Religious_piety_4_modifier:0 "Call to Jihad"
+EDG_Religious_piety_4_modifier:0 "Call to Holy War" # Jihad
 EDG_Religious_piety_4_modifier_desc:0 "We will launch holy war offensives against religious enemies and conduct extensive, profound domestic propaganda during this period."
 
 EDG_Religious_piety_5_modifier:0 "Acts of Religious Tolerance"
@@ -2047,7 +2047,7 @@ EDG_HRE_decision_emperor_Eliminate_catharism_modifier:0 "Successful Albigensian 
 EDG_HRE_decision_emperor_Eliminate_Hussites_modifier:0 "End of the Hussite Wars"
 EDG_EMP_Confer_title_Marquis_modifier:0 "Imperial Marquis"
 EDG_EMP_Grant_Mint_Privilege_modifier:0 "Imperial Minting Privilege"
-EDG_EMP_Appoint_Generalissimo_action_modifier:0 "Imperial Generalissimo"
+EDG_EMP_Appoint_Generalissimo_action_modifier:0 "Imperial Field Marshal" # Generalissimo
 EDG_EMP_Appoint_Marquis_Imperial_Circle_action_modifier:0 "Imperial Circle Marquis"
 EDG_EMP_Appoint_order_officer_action_modifier:0 "Appointment of Imperial Order Officer"
 EDG_EMP_Appoint_Castle_Manager_action_modifier:0 "Appointment of Castle Steward"
@@ -2194,20 +2194,20 @@ EDG_mission_SAX_3_6_modifier:0 "Expansion of Imperial Territories"
 EDG_mission_SAX_3_7_modifier:0 "Invasion of Gaul"
 EDG_mission_SAX_3_9_modifier:0 "Conquest of the Kingdom of France"
 EDG_mission_SAX_3_10_modifier:0 "Restoration of Charlemagne's Empire"
-EDG_mission_SAX_3_13_modifier:0 "Imperial Generalissimo's Decree"
+EDG_mission_SAX_3_13_modifier:0 "Imperial Marshal's Decree" # Generalissimo
 EDG_mission_SAX_3_15_modifier:0 "Imperial Military Leader"
-EDG_SAX_Monarchy_interactions_1_modifier:0 "Drilling the Generalissimo's Retinue Army"
+EDG_SAX_Monarchy_interactions_1_modifier:0 "Drilling the Marshal's Retinue Army" # Generalissimo
 EDG_SAX_Monarchy_interactions_2_modifier:0 "Expansion of the Vassal Recruitment System"
 EDG_SAX_Monarchy_interactions_3_modifier:0 "Enrichment of the Feudal Noble Officer Corps"
 EDG_mission_SAX_4_1_modifier1:0 "Confronting the Emperor"
 EDG_mission_SAX_4_1_modifier2:0 "Imperial Military Advisor to the Emperor"
 EDG_mission_SAX_4_1_modifier3:0 "Authority of the Emperor"
 EDG_mission_SAX_4_1_modifier4:0 "German Military Power"
-EDG_flavorSAX_9_a_modifier:0 "Support of the Imperial Generalissimo"
-EDG_flavorSAX_9_b_modifier:0 "Generalissimo's Dictatorship"
-EDG_mission_SAX_4_2_flag_modifier:0 "Imperial Government Recruits Generalissimo's Personal Guard"
+EDG_flavorSAX_9_a_modifier:0 "Support of the Imperial Marshal" # Generalissimo
+EDG_flavorSAX_9_b_modifier:0 "Grand Marshal's Dictatorship" # Generalissimo
+EDG_mission_SAX_4_2_flag_modifier:0 "Imperial Government Recruits Marshal's Personal Guard" # Generalissimo
 EDG_mission_SAX_5_2_flag_modifier:0 "Imperial Common Contribution Tax Maintains the Leader's Guard"
-EDG_mission_SAX_5_3_flag_modifier:0 "Permanent Generalissimo Shogunate"
+EDG_mission_SAX_5_3_flag_modifier:0 "Permanent Imperial Marshalcy" # Permanent Generalissimo Shogunate
 EDG_mission_SAX_4_5_modifier1:0 "Strangling the German Peasant Uprising Movement"
 EDG_mission_SAX_4_5_modifier2:0 "Resistance Against the Emperor"
 EDG_mission_SAX_4_7_modifier:0 "Dissolution of the Swiss Confederation"
@@ -2219,7 +2219,7 @@ EDG_mission_SAX_4_11_modifier:0 "General Staff"
 EDG_mission_SAX_5_5_modifier:0 "Legacy of the Franconian War"
 EDG_mission_SAX_5_6_province_modifier:0 "Bavarian Beer Tax"
 EDG_mission_SAX_5_7_province_modifier:0 "Shield of Christ"
-EDG_mission_SAX_5_10_modifier_2:0 "Formation of the Generalissimo's Guard"
+EDG_mission_SAX_5_10_modifier_2:0 "Formation of the Marshal's Guard" # Generalissimo
 EDG_mission_SAX_5_10_modifier:0 "Military Privy Council"
 EDG_mission_SAX_5_11_modifier:0 "Saxon Gendarmerie Corps"
 EDG_mission_SAX_5_11_modifier_2:0 "Expansion of the Saxon Gendarmerie Corps"

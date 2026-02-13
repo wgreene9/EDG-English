@@ -32,15 +32,15 @@ EDG_plunder_war_desc:0 "Gain war score through naval superiority"
 EDG_PLUNDER_WAR_NAME:0 "$ORDER$$FIRST$'s §YRaid War§! against $SECOND_NAME$"
 po_EDG_plunder_war_trophies_count:0 "Number of Provinces Plundered"
 
-EDG_GOT_scare_fleet_reform:0 "Terror Fleet"
+EDG_GOT_scare_fleet_reform:0 "Dread Fleet"
 EDG_GOT_scare_fleet_reform_desc:0 "Upon the Seven Seas, no ship that sights our black flag remains unshaken. Our pirate fleet has become the very embodiment of terror across the oceans!"
 
-DDF:0 "Terror Fleet"
+DDF:0 "Dread Fleet"
 DDF_ADJ:0 ""
 
-DDF_ideas:0 "Terror Fleet Ideas"
-DDF_ideas_bonus:0 "Terror Fleet Ambition"
-DDF_ideas_start:0 "Terror Fleet Traditions"
+DDF_ideas:0 "Dread Fleet Ideas"
+DDF_ideas_bonus:0 "Dread Fleet Ambition"
+DDF_ideas_start:0 "Dread Fleet Traditions"
 DDF_ideas_1:0 "Hoist the Sails!"
 DDF_ideas_1_desc:0 ""
 DDF_ideas_2:0 "We Are the Deep"
@@ -76,7 +76,7 @@ EDG_GOT_share_the_spoils:0 "Share the Spoils"
 EDG_GOT_share_the_spoils_desc:0 "Wealth should sometimes be shared with the crew, so they'll serve us with even greater loyalty."
 EDG_GOT_invite_the_legendary_pirate:0 "Rising Notoriety"
 EDG_GOT_invite_the_legendary_pirate_desc:0 "The fearsome reputation of our beloved Grand Captain [Root.Monarch.GetName] spreads far and wide!\nIt's time to build his personal pirate ship!"
-EDG_GOT_invite_the_legendary_pirate.tt:0 "A §YLegendary Pirate§! will join with his §YPirate Ship§! as leader of @DDF §YTerror Fleet§!!\n\nThe §YLegendary Pirate§! will have lower §YAdministrative§! points but higher §YDiplomatic§! and §YMilitary§! points"
+EDG_GOT_invite_the_legendary_pirate.tt:0 "A §YLegendary Pirate§! will join with his §YPirate Ship§! as leader of the @DDF §YDread Fleet§!!\n\nThe §YLegendary Pirate§! will have lower §YAdministrative§! points but higher §YDiplomatic§! and §YMilitary§! points"
 
 EDG_GOT_look_for_treasure_modifier:0 "Seeking New Targets"
 EDG_GOT_assemble_fleet_modifier:0 "Assemble Raiding Fleet"
@@ -121,7 +121,7 @@ EDG_got_pirate_economy.tt:0 "Each province with the §YPirate Black Cove§! modi
 
 got_pirate_raid_the_baltics_tt1: "When declaring war, the target gains §Y'Afraid of One's Shadow'§! for §Y1§! year with these effects:\nDefensiveness: §R-25.0%§!\nForeign Spy Detection: §R-25.0%§!\n\nWe gain:"
 
-got_pirate_raid_the_baltics.tt: "Enables CB §YPirate Raid§\n\nIf declaring with §YPirate Raid§!, neither side may call allies for §Y2§! years.\n\nEnables peace term §YPlunder Provinces§!, letting us sack all occupied provinces (losing up to §R3§! development), converting each lost development into §G10§!£allmana£ and §G20§!£icon_gold£.\n"
+got_pirate_raid_the_baltics.tt: "Enables the §YPirate Raid§ Casus Belli\n\nIf declaring with §YPirate Raid§!, neither side may call allies for §Y2§! years.\n\nEnables peace term §YPlunder Provinces§!, letting us sack all occupied provinces (losing up to §R3§! development), converting each lost development into §G10§!£allmana£ and §G20§!£icon_gold£.\n"
 
 EDG_got_pirate_economy_ttt: "Plundered §Y40§! provinces. (Current: §G[Root.raid_times_var.GetValue]§!)"
 EDG_got_robin_hood_ttt: "Plundered §Y200§! provinces. (Current: §G[Root.raid_times_var.GetValue]§!)"

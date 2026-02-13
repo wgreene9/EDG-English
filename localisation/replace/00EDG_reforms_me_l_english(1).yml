@@ -1013,11 +1013,11 @@ EDG_Regent_of_Ilkhan_reform_desc:0 "Although the Ilkhanate has effectively colla
 EDG_Cathar_Church_reform:0 "Cathar Holy Court"
 EDG_Cathar_Church_reform_desc:0 "Rampant democracy and blind autonomy cost the republic dearly. The Cathar clergy made immense efforts to restore national order. The clergy believed that to thoroughly purify the republic, an internal revolution was necessary. They implemented a series of reforms: establishing Cathar communes autonomously managed by believers, integrating religious organizations with secular institutions, and forming elite troops for religious defense. Ultimately, a more mature government was established on this land; the old inefficient polity was abolished, and a new regime led by the clergy rose."
 
-EDG_SAX_Generalissimo_reform:0 "Imperial Generalissimo"
-EDG_SAX_Generalissimo_reform_desc:0 "According to the empire's long-standing tradition, we hold the office of Imperial Generalissimo, a title granting us additional imperial privileges, especially in the military domain."
+EDG_SAX_Generalissimo_reform:0 "Imperial Grand Marshalcy" # Generalissimo
+EDG_SAX_Generalissimo_reform_desc:0 "According to the empire's long-standing tradition, we hold the office of Imperial Marshal, a title granting us additional imperial privileges, especially in the military domain." # Generalissimo
 
 EDG_SAX_Generalissimo_reform_2:0 "German Military Leader"
-EDG_SAX_Generalissimo_reform_2_desc:0 "Germania has faced too many threats and challenges. We must unite, especially under the leadership of the Imperial Generalissimo, to achieve the revival and rise of Germania."
+EDG_SAX_Generalissimo_reform_2_desc:0 "Germania has faced too many threats and challenges. We must unite, especially under the leadership of the Imperial Marshal, to achieve the revival and rise of Germania." # Generalissimo
 
 EDG_LIT_grand_duchy_reform_1:0 "Grand Duchy of Lithuania"
 EDG_LIT_grand_duchy_reform_1_desc:0 "The threat posed by Christian knightly orders to the pagan Baltic tribes drove the formation of monarchical states in the region. Under external threats, Lithuanians and Samogitians engaged in political-military cooperation. Formal recognition of military security and other common interests led to the establishment of the Grand Duchy of Lithuania."

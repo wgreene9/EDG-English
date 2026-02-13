@@ -1,0 +1,1314 @@
+namespace = EDG_flavorSCO
+normal_or_historical_nations = yes
+country_event = {#1WâR∑VÅúØeá^≤bœÇ<hpQ
+  id = EDG_flavorSCO.0
+  title = "EDG_flavorSCO.0.t"
+  desc = "EDG_flavorSCO.0.d"
+  picture = DIPLOMACY_eventPicture
+  fire_only_once = yes
+  is_triggered_only = yes
+  trigger = {
+    NOT = { is_year = 1450 }
+    tag = SCO
+  }
+  mean_time_to_happen = {
+  }
+  immediate = {
+  }
+  option = {
+    name = "EDG_flavorSCO.0.a"
+    ai_chance = {
+      factor = 100
+    }
+    add_prestige_or_monarch_power = { amount = 10 }
+    add_adm_power = 25
+    add_dip_power = 25
+    add_mil_power = 25
+    add_country_modifier = {
+      name = "EDG_modifier_SCO_0_modifier"
+      duration = 9125
+    }
+  }
+}
+country_event = {
+  id = EDG_flavorSCO.1
+  title = "EDG_flavorSCO.1.t"
+  desc = "EDG_flavorSCO.1.d"
+  picture = GOOD_WITH_MONARCH_eventPicture
+  fire_only_once = yes
+  is_triggered_only = yes
+  trigger = {
+  }
+  immediate = {
+  
+  }
+  mean_time_to_happen = {
+    months = 12
+  }
+  
+  option = {
+    name = "EDG_flavorSCO.1.a"
+    ai_chance = {
+      factor = 20
+    }
+    add_adm_power = 100
+    add_dip_power = 100
+    add_mil_power = 100
+    add_prestige_or_monarch_power = { amount = 25}
+    random_owned_province = {
+      limit = {
+        is_capital = no
+      }
+      spawn_rebels = {
+        type = noble_rebels
+        size = 1
+      }
+    }
+  }
+  option = {
+    name = "EDG_flavorSCO.1.b"
+    ai_chance = {
+      factor = 5
+    }
+	add_stability = 1
+  }
+}
+
+
+country_event = {
+  id = EDG_flavorSCO.2
+  title = "EDG_flavorSCO.2.t"
+  desc = "EDG_flavorSCO.2.d"
+  picture = COURT_eventPicture
+  fire_only_once = yes
+  is_triggered_only = yes
+  major = yes
+  trigger = {
+  }
+  mean_time_to_happen = {
+  }
+  
+  option = {
+    name = "EDG_flavorSCO.2.a"
+    ai_chance = {
+      factor = 100
+    }
+	  add_stability = 1
+    add_prestige_or_monarch_power = { amount = 10 }
+    capital_scope = {
+      infantry = SCO
+      infantry = SCO
+      infantry = SCO
+      infantry = SCO
+      cavalry = SCO
+      cavalry = SCO
+      cavalry = SCO
+      cavalry = SCO
+      cavalry = SCO
+      cavalry = SCO
+      cavalry = SCO
+      cavalry = SCO
+    }
+    declare_war_with_cb = {
+      who = ENG
+      casus_belli = cb_annex
+    }
+    add_country_modifier = {
+      name = "EDG_modifier_SCO_raise"
+      duration = 1825
+    }
+  }
+  option = {
+    name = "EDG_flavorSCO.2.b"
+    ai_chance = {
+      factor = 5
+    }
+    add_prestige = -10
+  }
+}
+
+
+country_event = {#˙ãÓh=OpQ’lHh
+  id = EDG_flavorSCO.3
+  title = "EDG_flavorSCO.3.t"
+  desc = "EDG_flavorSCO.3.d"
+  picture = COURT_eventPicture
+  fire_only_once = yes
+  #major = yes
+  is_triggered_only = yes
+  trigger = {
+      is_year = 1466
+      OR = {
+        tag = SCO
+        tag = BTA
+        was_tag = SCO
+      }
+      stability = 2
+  }
+  mean_time_to_happen = {
+  }
+  
+  option = {
+    name = "EDG_flavorSCO.3.a"
+    ai_chance = {
+      factor = 100
+    }
+    add_country_modifier = {
+      name = "EDG_flavorSCO_3_modifier"
+      duration = 3650
+    }
+    add_prestige_or_monarch_power = { amount = 10 }
+    add_adm_power = 50
+    add_dip_power = 50
+    add_mil_power = 50
+    change_estate_land_share = {
+      estate = all
+      share = -10
+    }
+  }
+}
+
+
+country_event = {#˝V∂RwmõQËêÑvbÀz
+  id = EDG_flavorSCO.4
+  title = "EDG_flavorSCO.4.t"
+  desc = "EDG_flavorSCO.4.d"
+  picture = ADVISOR_eventPicture
+  fire_only_once = yes
+  is_triggered_only = yes
+  trigger = {
+    is_year = 1477
+    NOT = { is_year = 1485 }
+    OR = {
+      tag = SCO
+      tag = BTA
+      was_tag = SCO
+    }
+  }
+  mean_time_to_happen = {
+  }
+  
+  option = {
+    name = "EDG_flavorSCO.4.a"
+    ai_chance = {
+      factor = 100
+    }
+    add_prestige_or_monarch_power = { amount = 10 }
+    add_navy_tradition = 10
+    add_dip_power = 50
+  }
+}
+country_event = {#÷vS∫NÑv=ec
+  id = EDG_flavorSCO.5
+  title = "EDG_flavorSCO.5.t"
+  desc = "EDG_flavorSCO.5.d"
+  picture = LIBERUM_VETO_eventPicture
+  fire_only_once = yes
+  is_triggered_only = yes
+  trigger = {
+    is_year = 1490
+    NOT = { is_year = 1500 }
+    OR = {
+      tag = SCO
+      tag = BTA
+      was_tag = SCO
+    }
+  }
+  mean_time_to_happen = {
+  }
+  
+  option = {
+    name = "EDG_flavorSCO.5.a"
+    ai_chance = {
+      factor = 100
+    }
+    add_prestige_or_monarch_power = { amount = 10 }
+    add_stability = 1
+    add_adm_power = 50
+    add_country_modifier = {
+      name = "expansionist_country"
+      duration = 9125 #25 years
+    }
+  }
+}
+country_event = {#$YEAR$t^hQSO'Y5çœeÆãO
+  id = EDG_flavorSCO.6
+  title = "EDG_flavorSCO.6.t"
+  desc = "EDG_flavorSCO.6.d"
+  picture = DIPLOMACY_eventPicture
+  fire_only_once = yes
+  is_triggered_only = yes
+  trigger = {
+    is_year = 1513
+    NOT = { is_year = 1520 }
+    OR = {
+      tag = SCO
+      tag = BTA
+      was_tag = SCO
+    }
+    army_tradition = 50
+  }
+  mean_time_to_happen = {
+  }
+  
+  option = {
+    name = "EDG_flavorSCO.6.a"
+    ai_chance = {
+      factor = 100
+    }
+    add_prestige_or_monarch_power = { amount = 10 }
+    add_army_tradition = 10
+    add_mil_power = 50
+    add_country_modifier = {
+      name = "EDG_flavorSCO_6_modifier"
+      duration = 3650
+    }
+  }
+}
+country_event = {#m!ïâRŒW^Ñvib.V
+  id = EDG_flavorSCO.7
+  title = "EDG_flavorSCO.7.t"
+  desc = "EDG_flavorSCO.7.d"
+  picture = CITY_VIEW_eventPicture
+  fire_only_once = yes
+  is_triggered_only = yes
+  trigger = {
+    is_year = 1533
+    NOT = { is_year = 1540 }
+    OR = {
+      tag = SCO
+      tag = BTA
+      was_tag = SCO
+    }
+    stability = 1
+    owns = 248
+  }
+  mean_time_to_happen = {
+  }
+  
+  option = {
+    name = "EDG_flavorSCO.7.a"
+    ai_chance = {
+      factor = 100
+    }
+    add_adm_power = 25
+    add_dip_power = 25
+    add_mil_power = 25
+    add_country_modifier = {
+      name = "growing_economy"
+      duration = 9125 #25 years
+    }
+  }
+  option = {
+    name = "EDG_flavorSCO.7.b"
+    ai_chance = {
+      factor = 100
+    }
+    add_prestige_or_monarch_power = { amount = 10 }
+    add_treasury = -104.19
+    define_advisor = {
+      type = treasurer
+      skill = 3
+      cost_multiplier = 0.25
+      culture = ROOT
+    }
+    248 = {
+      add_base_tax = 1
+      add_base_production = 2
+      add_base_mil = 1
+      add_province_modifier = {
+        name = ave_prosperous_metropolis
+        duration = -1
+      }
+    }
+  }
+}
+country_event = {#m!ïâRãs†Q
+  id = EDG_flavorSCO.8
+  title = "EDG_flavorSCO.8.t"
+  desc = "EDG_flavorSCO.8.d"
+  picture = GOOD_WITH_MONARCH_eventPicture
+  fire_only_once = yes
+  is_triggered_only = yes
+  trigger = {
+    is_year = 1560
+    NOT = { is_year = 1570 }
+    OR = {
+      tag = SCO
+      tag = BTA
+      was_tag = SCO
+    }
+    prestige = 25
+  }
+  mean_time_to_happen = {
+  }
+  
+  option = {
+    name = "EDG_flavorSCO.8.a"
+    ai_chance = {
+      factor = 100
+    }
+    add_treasury = -208.33
+    add_prestige_or_monarch_power = { amount = 15 }
+    add_stability = 1
+    add_adm_power = 25
+    add_dip_power = 25
+    add_mil_power = 25
+    add_country_modifier = {
+      name = "imperial_ambition"
+      duration = 9125
+    }
+  }
+  option = {
+    name = "EDG_flavorSCO.8.b"
+    ai_chance = {
+      factor = 0
+    }
+    add_prestige = -5
+  }
+}
+country_event = {#0œÇ<hpQπeä◊ã∆ñ0
+  id = EDG_flavorSCO.9
+  title = "EDG_flavorSCO.9.t"
+  desc = "EDG_flavorSCO.9.d"
+  picture = BIG_BOOK_eventPicture
+  fire_only_once = yes
+  is_triggered_only = yes
+  trigger = {
+    is_year = 1786
+    NOT = { is_year = 1796 }
+    OR = {
+      tag = SCO
+      tag = BTA
+      was_tag = SCO
+    }
+  }
+  mean_time_to_happen = {
+  }
+  
+  option = {
+    name = "EDG_flavorSCO.9.a"
+    ai_chance = {
+      factor = 100
+    }
+    add_prestige_or_monarch_power = { amount = 20 }
+    add_dip_power = 25
+  }
+}
+country_event = {#TçKQFU‚V
+  id = EDG_flavorSCO.11
+  title = "EDG_flavorSCO.11.t"
+  desc = "EDG_flavorSCO.11.d"
+  picture = COURT_eventPicture
+  fire_only_once = yes
+  is_triggered_only = yes
+  trigger = {
+    OR = {
+      tag = SCO
+      tag = BTA
+      was_tag = SCO
+    }
+    45 = {
+      is_strongest_trade_power = ROOT
+    }
+  }
+  mean_time_to_happen = {
+  }
+  
+  option = {
+    name = "EDG_flavorSCO.11.a"
+    ai_chance = {
+      factor = 100
+    }
+    add_prestige_or_monarch_power = { amount = 10 }
+    add_dip_power = 25
+    define_advisor = {
+      type = trader
+      skill = 3
+      cost_multiplier = 0.25
+      culture = ROOT
+    }
+    45 = {
+      add_trade_modifier = {
+        who = ROOT
+        duration = 9125
+        power = 25
+        key = EDG_KEY_Trade_expansion
+      }
+    }
+    add_country_modifier = {
+      name = "EDG_flavorSCO_11_modifier"
+      duration = 9125
+    }
+  }
+}
+country_event = {#TÜ⁄ãÑvNWyr=O˜ñ'YINYe
+  id = EDG_flavorSCO.12
+  title = "EDG_flavorSCO.12.t"
+  desc = "EDG_flavorSCO.12.d"
+  picture = PRAYING_eventPicture
+  fire_only_once = yes
+  is_triggered_only = yes
+  trigger = {
+    is_year = 1499
+    NOT = { is_year = 1510 }
+    OR = {
+      tag = SCO
+      tag = BTA
+      was_tag = SCO
+    }
+    owns = 235
+  }
+  mean_time_to_happen = {
+  }
+  
+  option = {
+    name = "EDG_flavorSCO.12.a"
+    ai_chance = {
+      factor = 100
+    }
+    add_prestige_or_monarch_power = { amount = 10 }
+    add_adm_power = 25
+    define_advisor = {
+      type = theologian
+      skill = 3
+      cost_multiplier = 0.25
+      culture = ROOT
+    }
+  }
+}
+country_event = {#åÇ∑VôÑ ØeæR^X
+  id = EDG_flavorSCO.13
+  title = "EDG_flavorSCO.13.t"
+  desc = "EDG_flavorSCO.13.d"
+  picture = WESTERNISATION_eventPicture
+  fire_only_once = yes
+  is_triggered_only = yes
+  trigger = {
+    is_year = 1572
+    NOT = { is_year = 1599 }
+    EDG_BTA_country_trigger = yes
+  }
+  mean_time_to_happen = {
+  }
+  
+  option = {
+    name = "EDG_flavorSCO.13.a"
+    ai_chance = {
+      factor = 100
+    }
+    add_prestige_or_monarch_power = { amount = 10 }
+    define_advisor = {
+      type = philosopher
+      skill = 3
+      cost_multiplier = 0.25
+      culture = ROOT
+    }
+  }
+  option = {
+    name = "EDG_flavorSCO.13.b"
+    ai_chance = {
+      factor = 100
+    }
+    add_adm_power = 50
+  }
+}
+country_event = {#KQÃëØeXbV Øe˛VöNyr
+  id = EDG_flavorSCO.14
+  title = "EDG_flavorSCO.14.t"
+  desc = "EDG_flavorSCO.14.d"
+  picture = WESTERNISATION_eventPicture
+  fire_only_once = yes
+  is_triggered_only = yes
+  trigger = {
+    is_year = 1520
+    NOT = { is_year = 1599 }
+    OR = {
+      tag = SCO
+      tag = BTA
+      was_tag = SCO
+    }
+  }
+  mean_time_to_happen = {
+  }
+  
+  option = {
+    name = "EDG_flavorSCO.14.a"
+    ai_chance = {
+      factor = 100
+    }
+    add_mil_power = 50
+    define_advisor = {
+      name = "Christopher Stuart"
+      type = army_reformer
+      skill = 3
+      cost_multiplier = 0.25
+      culture = ROOT
+    }
+  }
+  option = {
+    name = "EDG_flavorSCO.14.b"
+    ai_chance = {
+      factor = 100
+    }
+    add_army_tradition = 15
+    define_general = {
+      name = "Christopher Stuart"
+      type = general
+      fire = 5
+      shock = 4
+      manuever = 3
+      siege = 2
+    }
+  }
+}
+country_event = {#tÂg Øe˛VöNyr
+  id = EDG_flavorSCO.15
+  title = "EDG_flavorSCO.15.t"
+  desc = "EDG_flavorSCO.15.d"
+  picture = ADVISOR_eventPicture
+  fire_only_once = yes
+  is_triggered_only = yes
+  trigger = {
+    is_year = 1611
+    NOT = { is_year = 1622 }
+    OR = {
+      tag = SCO
+      tag = BTA
+      was_tag = SCO
+    }
+  }
+  mean_time_to_happen = {
+  }
+  
+  option = {
+    name = "EDG_flavorSCO.15.a"
+    ai_chance = {
+      factor = 100
+    }
+    add_mil_power = 50
+    define_advisor = {
+      name = "Richard Stuart"
+      type = economist
+      skill = 3
+      cost_multiplier = 0.25
+      culture = ROOT
+    }
+  }
+}
+country_event = {#ZSÎXÑv–cÆã
+  id = EDG_flavorSCO.16
+  title = "EDG_flavorSCO.16.t"
+  desc = "EDG_flavorSCO.16.d"
+  picture = DIPLOMACY_eventPicture
+  fire_only_once = yes
+  is_triggered_only = yes
+  trigger = {
+    NOT = { is_year = 1500 }
+    is_year = 1447 
+    tag = SCO
+    WLS = {
+      has_heir = no
+    }
+  }
+  mean_time_to_happen = {
+  }
+  
+  option = {
+    name = "EDG_flavorSCO.16.a"
+    ai_chance = {
+      factor = 100
+    }
+    WLS = {
+      define_heir = {
+        dynasty = ROOT
+        claim = 95
+        max_random_adm = 5
+        max_random_dip = 4
+        max_random_mil = 5
+        change_dip = 2
+        change_adm = 2
+        change_mil = 2
+      }
+      add_historical_friend = SCO
+    }
+    add_historical_friend = WLS
+  }
+  option = {
+    name = "EDG_flavorSCO.16.b"
+    ai_chance = {
+      factor = 100
+    }
+    add_dip_power = 25
+  }
+}
+country_event = {#ﬂÑ±Çˆe„N
+  id = EDG_flavorSCO.17
+  title = "EDG_flavorSCO.17.t"
+  desc = "EDG_flavorSCO.17.d"
+  picture = DIPLOMACY_eventPicture
+  fire_only_once = yes
+  is_triggered_only = yes
+  trigger = {
+    NOT = { is_year = 1500 }
+    OR = {
+      tag = SCO
+      tag = BTA
+    }
+    monthly_adm = 10
+    monthly_income = 50
+    stability = 2
+    prestige = 25
+  }
+  mean_time_to_happen = {
+  }
+  
+  option = {
+    name = "EDG_flavorSCO.17.a"
+    ai_chance = {
+      factor = 100
+    }
+    add_adm_power = 50
+    add_country_modifier = {
+      name = "EDG_flavorSCO_17_modifier"
+      duration = 9125
+    }
+  }
+}
+country_event = {#Z…^ ó†RØe
+  id = EDG_flavorSCO.18
+  title = "EDG_flavorSCO.18.t"
+  desc = "EDG_flavorSCO.18.d"
+  picture = DIPLOMACY_eventPicture
+  fire_only_once = yes
+  is_triggered_only = yes
+  trigger = {
+    NOT = { is_year = 1750 }
+    is_year = 1724
+    OR = {
+      tag = GBR
+      tag = BTA
+    }
+  }
+  mean_time_to_happen = {
+  }
+  
+  option = {
+    name = "EDG_flavorSCO.18.a"
+    ai_chance = {
+      factor = 100
+    }
+    add_prestige_or_monarch_power = { amount = 10 }
+    define_advisor = {
+      name = "William Hogarth"
+      type = artist
+      skill = 3
+      cost_multiplier = 0.25
+      culture = ROOT
+    }
+  }
+}
+country_event = {#ÂgSØe óNS∑V
+  id = EDG_flavorSCO.20
+  title = "EDG_flavorSCO.20.t"
+  desc = "EDG_flavorSCO.20.d"
+  picture = DIPLOMACY_eventPicture
+  fire_only_once = yes
+  is_triggered_only = yes
+  trigger = {
+    NOT = { is_year = 1624 }
+    is_year = 1536
+    OR = {
+      tag = ENG
+      tag = GBR
+      tag = BTA
+    }
+  }
+  mean_time_to_happen = {
+    months = 360
+  }
+  
+  
+  option = {#©ã÷NeQIN¢g∆Rbñ0
+    name = "EDG_flavorSCO.20.a"
+    ai_chance = {
+      factor = 100
+    }
+    add_government_power = {
+      mechanic_type = EDG_BTA_parliament_vs_monarchy_mechanic
+      power_type = EDG_BTA_governmental_power
+      value = 2.5
+    }
+    add_dip_power = 50
+    define_advisor = {
+      name = "Charles Howard"
+      type = naval_reformer
+      skill = 3
+      cost_multiplier = 0.25
+      culture = ROOT
+    }
+  }
+  option = {#©ã÷Nc%c0Çñ0
+    name = "EDG_flavorSCO.20.b"
+    ai_chance = {
+      factor = 100
+    }
+    add_navy_tradition = 15
+    define_admiral = {
+      name = "Charles Howard"
+      shock = 4
+      fire = 5
+      manuever = 5
+      siege = 3
+    }
+  
+  }
+}
+country_event = {#¶u ó—ëØe
+  id = EDG_flavorSCO.21
+  title = "EDG_flavorSCO.21.t"
+  desc = "EDG_flavorSCO.21.d"
+  picture = ADVISOR_eventPicture
+  fire_only_once = yes
+  is_triggered_only = yes
+  trigger = {
+    NOT = { is_year = 1595 }
+    is_year = 1532
+    OR = {
+      tag = ENG
+      tag = GBR
+      tag = BTA
+    }
+  }
+  mean_time_to_happen = {
+    months = 120
+  }
+  
+  option = {#©ã÷NÕdc9eió0
+    name = "EDG_flavorSCO.21.a"
+    ai_chance = {
+      factor = 100
+    }
+    custom_tooltip = EDG_flavorSCO_21_tt
+    add_dip_power = 50
+    define_advisor = {
+      name = "¶u ó—ëØe"
+      type = naval_reformer
+      skill = 3
+      cost_multiplier = 0.25
+      culture = ROOT
+    }
+  }
+  option = {#0ÇñMb=f÷Nî^ÂãÖVÑv0Wπe0
+    name = "EDG_flavorSCO.21.b"
+    ai_chance = {
+      factor = 2
+    }
+    add_navy_tradition = 15
+    define_admiral = {
+      name = "¶u ó—ëØe"
+      shock = 5
+      fire = 4
+      manuever = 4
+      siege = 4
+    }
+  
+  }
+}
+country_event = {#âRN<S ÙTæRò
+  id = EDG_flavorSCO.19
+  title = "EDG_flavorSCO.19.t"
+  desc = "EDG_flavorSCO.19.d"
+  picture = DIPLOMACY_eventPicture
+  fire_only_once = yes
+  is_triggered_only = yes
+  trigger = {
+    NOT = { is_year = 1570 }
+    is_year = 1561
+    OR = {
+      tag = ENG
+      tag = GBR
+      tag = BTA
+    }
+  }
+  mean_time_to_happen = {
+  }
+  
+  option = {#bÏNóVqöê÷N0
+    name = "EDG_flavorSCO.19.a"
+    ai_chance = {
+      factor = 100
+    }
+    add_prestige = -10
+    add_adm_power = -25
+    add_dip_power = -25
+    add_mil_power = -25
+  }
+  option = {#÷N=fYHNO¿yÑv∫NMb0
+    name = "EDG_flavorSCO.19.b"
+    ai_chance = {
+      factor = 100
+    }
+    custom_tooltip = EDG_flavorSCO_19_tt
+    add_prestige_or_monarch_power = { amount = 10 }
+    add_adm_power = 100
+    add_dip_power = 100
+    add_mil_power = 100
+    hidden_effect = {
+      country_event = { id = EDG_flavorSCO.22 days = 10 }
+    }
+  }
+}
+country_event = {#qSiñÑv0Reg
+  id = EDG_flavorSCO.22
+  title = "EDG_flavorSCO.22.t"
+  desc = "EDG_flavorSCO.22.d"
+  picture = DEATH_OF_HEIR_eventPicture
+  fire_only_once = yes
+  is_triggered_only = yes
+  #major = yes
+  trigger = {
+  }
+  mean_time_to_happen = {
+  }
+  
+  option = {#÷N=f*NÂãâkÑv:R¢Rˇ
+    name = "EDG_flavorSCO.22.a"
+    ai_chance = {
+      factor = 100
+    }
+    kill_ruler = yes
+    add_prestige = -25
+    add_adm_power = -200
+    add_dip_power = -200
+    add_mil_power = -200
+  }
+}
+country_event = {#ó—ëØe9eió
+  id = EDG_flavorSCO.23
+  title = "EDG_flavorSCO.23.t"
+  desc = "EDG_flavorSCO.23.d"
+  picture = HARBOUR_eventPicture
+  fire_only_once = yes
+  is_triggered_only = yes
+  trigger = {
+  }
+  mean_time_to_happen = {
+  }
+  
+  option = {#bÏN8l‹èÔSÂN·O˚Nó—ëØe0
+    name = "EDG_flavorSCO.23.a"
+    ai_chance = {
+      factor = 100
+    }
+    add_government_power = {
+      mechanic_type = EDG_BTA_parliament_vs_monarchy_mechanic
+      power_type = EDG_BTA_governmental_power
+      value = 2.5
+    }
+    add_prestige_or_monarch_power = { amount = 25 }
+    add_dip_power = 200
+    add_navy_tradition = 10
+    add_government_power = {
+      mechanic_type = EDG_naval_professionalism_mechanic
+      power_type = EDG_naval_professionalism
+      value = 5
+    }
+  }
+}
+
+country_event = {#—ë0W˝V∂RñôÅOÆã
+  id = EDG_flavorSCO.24
+  title = "EDG_flavorSCO.24.t"
+  desc = "EDG_flavorSCO.24.d"
+  picture = DIPLOMACY_eventPicture
+  fire_only_once = yes
+  is_triggered_only = yes
+  #major = yes
+  trigger = {
+    is_year = 1510
+    NOT = { is_year = 1530 }
+    OR = {
+      tag = SCO
+      tag = BTA
+      tag = ENG
+      tag = GBR
+    }
+    is_great_power = yes
+    prestige = 50
+  }
+  mean_time_to_happen = {
+    months = 60
+  }
+  
+  option = {#bÏNSO=f˝VEñÇSÑvIN“â0
+    name = "EDG_flavorSCO.24.a"
+    ai_chance = {
+      factor = 100
+    }
+    add_treasury = -507.22
+    add_prestige_or_monarch_power = { amount = 25 }
+    add_dip_power = 100
+  }
+  
+  option = {#Ÿè*Y±Ç±îÜN0
+    name = "EDG_flavorSCO.24.b"
+    ai_chance = {
+      factor = 1
+    }
+    add_prestige = -5
+  }
+}
+country_event = {#XblöØe ÉlSâ
+  id = EDG_flavorSCO.25
+  title = "EDG_flavorSCO.25.t"
+  desc = "EDG_flavorSCO.25.d"
+  picture = ADVISOR_eventPicture
+  fire_only_once = yes
+  is_triggered_only = yes
+  #major = yes
+  trigger = {
+    is_year = 1499
+    NOT = { is_year = 1530 }
+    OR = {
+      tag = SCO
+      tag = BTA
+      tag = ENG
+      tag = GBR
+    }
+    is_great_power = yes
+    prestige = 50
+  }
+  mean_time_to_happen = {
+    months = 60
+  }
+  
+  option = {#©ã÷N€èLà9eió0
+    name = "EDG_flavorSCO.25.a"
+    ai_chance = {
+      factor = 100
+    }
+    custom_tooltip = EDG_flavorSCO_25_tt
+    set_country_flag = EDG_flavorSCO_25_flag
+    add_treasury = -327.24
+    add_prestige_or_monarch_power = { amount = 10 }
+    add_adm_power = -50
+    add_dip_power = -50
+    define_advisor = {
+      name = "Thomas Wolsey"
+      type = reformer
+      skill = 3
+      cost_multiplier = 0.25
+      culture = ROOT
+    }
+
+  }
+  
+  option = {#t^âè∫Nî^SVÅéûR0W0
+    name = "EDG_flavorSCO.25.b"
+    ai_chance = {
+      factor = 1
+    }
+    add_prestige = -5
+  }
+}
+country_event = {#ÉlSâLà?e9eió
+  id = EDG_flavorSCO.26
+  title = "EDG_flavorSCO.26.t"
+  desc = "EDG_flavorSCO.26.d"
+  picture = WESTERNISATION_eventPicture
+  fire_only_once = yes
+  #is_triggered_only = yes
+  #major = yes
+  trigger = {
+    has_country_flag = EDG_flavorSCO_25_flag
+  }
+  mean_time_to_happen = {
+    months = 60
+  }
+  
+  option = {#bÏN1SÂwSêÉlSâ˝wLà0
+    name = "EDG_flavorSCO.26.a"
+    ai_chance = {
+      factor = 100
+    }
+    add_government_power = {
+      mechanic_type = EDG_BTA_parliament_vs_monarchy_mechanic
+      power_type = EDG_BTA_governmental_power
+      value = 2.5
+    }
+    add_treasury = 500
+    add_prestige_or_monarch_power = { amount = 10 }
+    change_government_reform_progress = 25
+    add_adm_power = 100
+    add_country_modifier = {
+      name = "EDG_flavorSCO_26_modifier"
+      duration = 9125
+    }
+  }
+  
+}
+country_event = {#ÉlSâ¯S’l9eió
+  id = EDG_flavorSCO.27
+  title = "EDG_flavorSCO.27.t"
+  desc = "EDG_flavorSCO.27.d"
+  picture = WESTERNISATION_eventPicture
+  fire_only_once = yes
+  #is_triggered_only = yes
+  #major = yes
+  trigger = {
+    has_country_flag = EDG_flavorSCO_25_flag
+  }
+  mean_time_to_happen = {
+    months = 70
+  }
+  
+  option = {#wmOf≥ln0
+    name = "EDG_flavorSCO.27.a"
+    ai_chance = {
+      factor = 100
+    }
+    add_government_power = {
+      mechanic_type = EDG_BTA_parliament_vs_monarchy_mechanic
+      power_type = EDG_BTA_governmental_power
+      value = 2.5
+    }
+    add_stability = 1
+    add_prestige_or_monarch_power = { amount = 10 }
+    change_government_reform_progress = 25
+    add_dip_power = 100
+    add_country_modifier = {
+      name = "EDG_flavorSCO_27_modifier"
+      duration = 9125
+    }
+  }
+  
+}
+
+country_event = {#XblöØe KQ&OZS
+  id = EDG_flavorSCO.28
+  title = "EDG_flavorSCO.28.t"
+  desc = "EDG_flavorSCO.28.d"
+  picture = ADVISOR_eventPicture
+  fire_only_once = yes
+  #is_triggered_only = yes
+  #major = yes
+  trigger = {
+    is_year = 1534
+    NOT = { is_year = 1560 }
+    OR = {
+      tag = SCO
+      tag = BTA
+      tag = ENG
+      tag = GBR
+    }
+    is_great_power = yes
+    prestige = 50
+  }
+  mean_time_to_happen = {
+    months = 60
+  }
+  
+  option = {#bÏNSV6qÅâ©ã÷N9eió0
+    name = "EDG_flavorSCO.28.a"
+    ai_chance = {
+      factor = 100
+    }
+    custom_tooltip = EDG_flavorSCO_28_tt
+    set_country_flag = EDG_flavorSCO_28_flag
+    add_treasury = -447.77
+    add_prestige_or_monarch_power = { amount = 10 }
+    add_adm_power = -50
+    define_advisor = {
+      name = "Thomas Cromwell"
+      type = reformer
+      skill = 3
+      cost_multiplier = 0.25
+      culture = ROOT
+    }
+
+  }
+}
+  
+country_event = {#KQ&OZS0ç?e9eió
+id = EDG_flavorSCO.29
+title = "EDG_flavorSCO.28.t"
+desc = "EDG_flavorSCO.28.d"
+picture = WESTERNISATION_eventPicture
+fire_only_once = yes
+#is_triggered_only = yes
+#major = yes
+trigger = {
+  has_country_flag = EDG_flavorSCO_28_flag
+}
+mean_time_to_happen = {
+  months = 60
+}
+
+option = {#büRÑv>N™c0
+  name = "EDG_flavorSCO.29.a"
+  ai_chance = {
+    factor = 100
+  }
+  add_government_power = {
+    mechanic_type = EDG_BTA_parliament_vs_monarchy_mechanic
+    power_type = EDG_BTA_governmental_power
+    value = 2.5
+  }
+  add_treasury = 800
+  add_prestige_or_monarch_power = { amount = 10 }
+  add_adm_power = 100
+  add_church_power = 100
+  add_patriarch_authority = 0.1
+  add_country_modifier = {
+    name = "EDG_flavorSCO_29_modifier"
+    duration = 9125
+  }
+ }
+}
+
+country_event = {#°l6eÓOSêO0çµN
+id = EDG_flavorSCO.30
+title = "EDG_flavorSCO.30.t"
+desc = "EDG_flavorSCO.30.d"
+picture = RELIGIOUS_TURMOIL_eventPicture
+fire_only_once = yes
+#is_triggered_only = yes
+#major = yes
+trigger = {
+  has_country_flag = EDG_flavorSCO_28_flag
+  NOT = { religion = catholic } 
+}
+mean_time_to_happen = {
+  months = 60
+}
+
+option = {#gÑv±îˇ
+  name = "EDG_flavorSCO.30.a"
+  ai_chance = {
+    factor = 100
+  }
+  add_government_power = {
+    mechanic_type = EDG_BTA_parliament_vs_monarchy_mechanic
+    power_type = EDG_BTA_governmental_power
+    value = 2.5
+  }
+  add_treasury = 1000
+  add_prestige_or_monarch_power = { amount = 10 }
+  add_adm_power = 100
+  add_church_power = 100
+  add_patriarch_authority = 0.1
+ }
+}
+
+country_event = {#0)YÔçÜSz0
+id = EDG_flavorSCO.31
+title = "EDG_flavorSCO.31.t"
+desc = "EDG_flavorSCO.31.d"
+picture = BIG_BOOK_eventPicture
+fire_only_once = yes
+#is_triggered_only = yes
+#major = yes
+trigger = {
+  is_year = 1600
+  NOT = { is_year = 1700 }
+  OR = {
+    tag = BTA
+    tag = GBR
+  }
+}
+mean_time_to_happen = {
+  months = 60
+}
+
+option = {#YãYÑvjO¡T0
+  name = "EDG_flavorSCO.31.a"
+  ai_chance = {
+    factor = 100
+  }
+  add_prestige_or_monarch_power = { amount = 10 }
+  add_adm_power = 25
+  add_dip_power = 25
+ }
+}
+
+country_event = {#jgågPRRë
+id = EDG_flavorSCO.32
+title = "EDG_flavorSCO.32.t"
+desc = "EDG_flavorSCO.32.d"
+picture = FEAST_eventPicture
+fire_only_once = yes
+#is_triggered_only = yes
+major = yes
+trigger = {
+  dip_tech = 17
+  owns = 236
+}
+mean_time_to_happen = {
+  months = 60
+}
+
+option = {#nôRëNƒâÉˇ≤N∫N2NLàÍl0
+  name = "EDG_flavorSCO.32.a"
+  ai_chance = {
+    factor = 100
+  }
+  add_adm_power = 25
+  add_dip_power = 25
+  change_price = {
+    trade_goods = wine
+    key = EDG_flavorSCO_32_price_tt
+    value = 0.25
+    duration = 18250
+  }
+
+ }
+}
+
+country_event = {#mQ1Wag’lHh
+id = EDG_flavorSCO.33
+title = "EDG_flavorSCO.33.t"
+desc = "EDG_flavorSCO.33.d"
+picture = RELIGIOUS_TURMOIL_eventPicture
+fire_only_once = yes
+#is_triggered_only = yes
+#major = yes
+trigger = {
+  is_year = 1520
+  NOT = { is_year = 1540 }
+  OR = {
+    tag = BTA
+    tag = GBR
+  }
+  NOT = { religion = catholic } 
+}
+mean_time_to_happen = {
+  months = 60
+}
+
+option = {#ü^dñmQ1Wag’lHh0
+  name = "EDG_flavorSCO.33.a"
+  ai_chance = {
+    factor = 100
+  }
+  add_adm_power = 100
+  add_dip_power = 100
+  add_country_modifier = {
+    name = "EDG_flavorSCO_33_modifier_a"
+    duration = 9125
+  }
+
+ }
+ option = {#†R:VmQ1Wag’lHh0
+   name = "EDG_flavorSCO.33.b"
+   ai_chance = {
+     factor = 100
+   }
+   add_mil_power = 100
+   add_country_modifier = {
+     name = "EDG_flavorSCO_33_modifier_b"
+     duration = 9125
+   }
+ 
+  }
+}

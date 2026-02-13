@@ -1001,7 +1001,7 @@ EDG_HRE_decision_protect_peasant_tt:0 "£icon_EDG_icon_hre_member£This decision
 EDG_appeal_to_be_Generalissimo_decision_title:0 "£icon_EDG_icon_hre_member£Request Emperor to Appoint Imperial Field Marshal"
 EDG_appeal_to_be_Generalissimo_decision_desc:0 "According to Imperial tradition, we should become the Imperial Field Marshal, assisting the Emperor in defending the Empire."
 
-EDG_Generalissimo_ask_be_alliance_to_EMP_decision_title:0 "£icon_EDG_icon_hre_member£'Imperial Field Marshal' Requests Alliance with the Emperor"
+EDG_Generalissimo_ask_be_alliance_to_EMP_decision_title:0 "£icon_EDG_icon_hre_member£Imperial Marshal: Request Alliance with the Emperor"
 EDG_Generalissimo_ask_be_alliance_to_EMP_decision_desc:0 "Within the Holy Roman Empire, the relationship between the Emperor and the Field Marshal should be close. The Emperor appoints the Field Marshal and grants certain privileges, while the Field Marshal stands with the Emperor, aiding in the defense of the Empire."
 
 EDG_EMP_ask_be_alliance_to_Generalissimo_decision_title:0 "£icon_EDG_icon_hre_member£Request Alliance with the Field Marshal" # Emperor Requests Alliance with the Field Marshal
@@ -1158,16 +1158,16 @@ EDG_HRE_decision_Generalissimo_require_city_give_cash_tt:0 "Each §YFree City§!
 
 EDG_HRE_decision_Generalissimo_require_emp_give_manpower_tt:0 "If they §Yagree§!, then"
 
-EDG_HRE_decision_Generalissimo_require_emp_give_manpower_title:0 "£icon_EDG_icon_hre_member£'Imperial Field Marshal' Requests Imperial Authorization for Conscription"
+EDG_HRE_decision_Generalissimo_require_emp_give_manpower_title:0 "£icon_EDG_icon_hre_member£Imperial Marshal: Request Conscription Authorization"
 EDG_HRE_decision_Generalissimo_require_emp_give_manpower_desc:0 "As Imperial Field Marshal, to better assist the Emperor in defending the Empire, we require more resources."
 
-EDG_HRE_decision_Generalissimo_require_emp_give_cash_title:0 "£icon_EDG_icon_hre_member£'Imperial Field Marshal' Requests Imperial Authorization for War Taxes"
+EDG_HRE_decision_Generalissimo_require_emp_give_cash_title:0 "£icon_EDG_icon_hre_member£Imperial Marshal: Request Imperial War Taxes"
 EDG_HRE_decision_Generalissimo_require_emp_give_cash_desc:0 "As Imperial Field Marshal, to better assist the Emperor in defending the Empire, we require more resources."
 
-EDG_HRE_decision_Generalissimo_require_city_give_manpower_title:0 "£icon_EDG_icon_hre_member£'Imperial Field Marshal' Recruits Troops from Free Cities"
+EDG_HRE_decision_Generalissimo_require_city_give_manpower_title:0 "£icon_EDG_icon_hre_member£Imperial Marshal: Recruit from Free Cities"
 EDG_HRE_decision_Generalissimo_require_city_give_manpower_desc:0 "As Imperial Field Marshal, to better assist the Emperor in defending the Empire, we require more resources."
 
-EDG_HRE_decision_Generalissimo_require_city_give_cash_title:0 "£icon_EDG_icon_hre_member£'Imperial Field Marshal' Levies War Taxes on Free Cities"
+EDG_HRE_decision_Generalissimo_require_city_give_cash_title:0 "£icon_EDG_icon_hre_member£Imperial Marshal: Levy War Taxes on Free Cities"
 EDG_HRE_decision_Generalissimo_require_city_give_cash_desc:0 "As Imperial Field Marshal, to better assist the Emperor in defending the Empire, we require more resources."
 
 EDG_SAX_Generalissimo_dicision_value:0 "Number of Times §YImperial Field Marshal§! Decisions Have Been Used"

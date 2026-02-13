@@ -17,13 +17,13 @@ EDG_mission_GER_1_24_desc:0 "We have formally unified Germany, but we have yet t
 EDG_mission_GER_2_17_title:0 "Imperial Coast"
 EDG_mission_GER_2_17_desc:0 "The Baltic Sea is destined to become the Empire's inland sea, and the Baltic peoples must become our subjects."
 
-EDG_mission_GER_2_18_title:0 "Unite the Germanic Peoples"
+EDG_mission_GER_2_18_title:0 "Unite All Germans" # Unite the Germanic Peoples
 EDG_mission_GER_2_18_desc:0 "We have ample reason to believe that the Scandinavian Peninsula is the homeland of the Germanic peoples. Today, there are large populations of North Germanic people on the Scandinavian Peninsula, and we need to bring them under our rule."
 
 EDG_mission_GER_2_19_title:0 "A Place in the Sun"
 EDG_mission_GER_2_19_desc:0 "Although Germany missed the era of colonialism, our current strength gives us ample qualification to seize a place in the sun!"
 
-EDG_mission_GER_2_22_title:0 "Modern Agricultural Economy"
+EDG_mission_GER_2_22_title:0 "Modern Agriculture" # Modern Agricultural Economy
 EDG_mission_GER_2_22_desc:0 "The medieval economic model of serfdom and feudal manors must be ended. We will establish a more efficient modern agricultural economic system to produce more food and support a larger population."
 
 EDG_mission_GER_2_23_title:0 "Land Reform"
@@ -44,7 +44,7 @@ EDG_mission_GER_3_19_desc:0 "Germany needs its own colonies. After conquering Ib
 EDG_mission_GER_3_20_title:0 "German Sun Never Sets"
 EDG_mission_GER_3_20_desc:0 "Today's Germany is already the world's greatest nation. We are the rulers of all Europe and possess vast colonies; the sun never sets on German lands."
 
-EDG_mission_GER_3_21_title:0 "German Industrialization"
+EDG_mission_GER_3_21_title:0 "Industrialize Germany" # German Industrialization
 EDG_mission_GER_3_21_desc:0 "Industrial development is a prominent feature of German industrialization, but industrialization should not be narrowly understood as merely industrial growth. Industrialization is the core of modernization—the process of transforming a traditional agricultural society into a modern industrial one. Achieving industrialization is a long and arduous process, requiring substantial investment of resources and capital."
 
 EDG_mission_GER_3_22_title:0 "Reichsmark"
@@ -62,7 +62,7 @@ EDG_mission_GER_3_25_desc:0 "We have already built a modern state, achieving unp
 EDG_mission_GER_4_17_title:0 "Avenge Fontenoy"
 EDG_mission_GER_4_17_desc:0 "The defeat at Fontenoy remains fresh in our memory. Avenging ourselves on France, destroying French power, has become an inevitable requirement for the great Germany to realize its grand ambitions."
 
-EDG_mission_GER_4_18_title:0 "The Heart of the Mediterranean"
+EDG_mission_GER_4_18_title:0 "Heart of the Mediterranean" # The Heart of the Mediterranean
 EDG_mission_GER_4_18_desc:0 "Sicily holds significant strategic value. If we can seize the lands of Trinacria, we will dominate the Mediterranean, greatly benefiting our maritime rule."
 
 EDG_mission_GER_4_19_title:0 "Annex the Balkans"
@@ -71,7 +71,7 @@ EDG_mission_GER_4_19_desc:0 "The peoples of the Balkans have never submitted to 
 EDG_mission_GER_4_22_title:0 "Public Culture"
 EDG_mission_GER_4_22_desc:0 "Promoting education will allow us to better propagate nationalist ideology. We will assimilate foreign subjects into Germans; as long as they speak German, we will not lose local control."
 
-EDG_mission_GER_4_23_title:0 "German Higher Education"
+EDG_mission_GER_4_23_title:0 "Higher Education" # German Higher Education
 EDG_mission_GER_4_23_desc:0 "German universities will be among the world's finest. We will establish a group of higher education institutions with the greatest research and practical capabilities, making us Europe's most culturally developed nation."
 
 EDG_mission_GER_5_17_title:0 "Partition Poland"
