@@ -644,8 +644,8 @@ estate_rig_knightage_armed_escort_desc:0 ""
 estate_rig_invite_the_knights_for_guidance:0 "Invite Knightly Orders for Guidance"
 estate_rig_invite_the_knights_for_guidance_desc:0 ""
 
-estate_rig_enlist_the_knights:0 "Recruit Knights from the Orders"
-estate_rig_enlist_the_knights_desc:0 ""
+estate_rig_enlist_the_knighs:0 "Recruit Knights from the Orders"
+estate_rig_enlist_the_knighs_desc:0 ""
 
 merc_rig_TEU_knight:0 "Teutonic Order"
 merc_rig_LIV_knight:0 "Livonian Order"

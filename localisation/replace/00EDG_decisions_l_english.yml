@@ -1470,7 +1470,7 @@ EDG_LOT_vassal_decision_special_effect_free_dipslot_tt:0 "§YCrown Lands§! rele
 
 EDG_LOT_vassal_decision_POM_title:0 "@LOT£dip£ Establish Marquisate: @POM[POM.GetName]"
 EDG_LOT_vassal_decision_PRU_title:0 "@LOT£dip£ Establish Marquisate: @PRU[PRU.GetName]"
-EDG_LOT_vassal_decision_SAX_title:0 "@LOT£dip£ Establish Marquisate: [SAX.GetName]"
+EDG_LOT_vassal_decision_SAX_title:0 "@LOT£dip£ Establish Marquisate: @SAX[SAX.GetName]"
 EDG_LOT_vassal_decision_WES_title:0 "@LOT£dip£ Establish Marquisate: @WES[WES.GetName]"
 EDG_LOT_vassal_decision_HES_title:0 "@LOT£dip£ Establish Marquisate: @HES[HES.GetName]"
 EDG_LOT_vassal_decision_H03_title:0 "@LOT£dip£ Establish Marquisate: @H03[H03.GetName]"

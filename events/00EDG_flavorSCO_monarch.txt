@@ -1,0 +1,598 @@
+namespace = EDG_flavorSCO_monarch
+normal_or_historical_nations = yes
+
+country_event = {#选王大会
+	id = EDG_flavorSCO_monarch.1
+	title = "EDG_flavorSCO_monarch.1.t"
+	desc = "EDG_flavorSCO_monarch.1.d"
+	picture = GOOD_WITH_MONARCH_eventPicture
+	is_triggered_only = yes
+	trigger = { 
+		NOT = { has_country_flag = in_EDG_flavorSCO_monarch_1_flag }
+		has_government_attribute = EDG_SCO_Crown_ability
+	}
+	mean_time_to_happen = {
+	}
+	immediate = {
+		hidden_effect = {
+			add_stability = -1
+			set_country_flag = in_EDG_flavorSCO_monarch_1_flag
+			if = {
+				limit = {
+					any_owned_province = {
+						is_capital = no
+						is_state = yes
+						culture = ROOT
+						religion = ROOT
+					}
+				}
+				random_owned_province = {
+					limit = { 
+						is_capital = no
+						is_state = yes
+						culture = ROOT
+						religion = ROOT
+					}
+					save_event_target_as = EDG_national_noble_province
+				}
+			}
+			if = {
+				limit = {
+					any_owned_province = {
+						is_capital = no
+						is_state = yes
+					}
+				}
+				random_owned_province = {
+					limit = { 
+						is_capital = no
+						is_state = yes
+					}
+					save_event_target_as = EDG_local_noble_province
+				}
+			}
+			if = {
+				limit = {
+					any_owned_province = {
+						is_capital = no
+						is_state = yes
+						culture_group = scandinavian
+					}
+				}
+				random_owned_province = {
+					limit = { 
+						is_capital = no
+						is_state = yes
+						culture_group = scandinavian
+					}
+					save_event_target_as = EDG_scandinavian_country_noble
+				}
+			}
+		}
+	}
+  
+	option = { #布鲁斯王朝的继承者拥有最勇敢的心。
+		name = "EDG_flavorSCO_monarch.1.a"
+		ai_chance = {
+			factor = 1
+		}
+		if = {
+			limit = {
+				has_country_modifier = EDG_flavorSCO_monarch_1_a
+			}
+			custom_tooltip = EDG_flavorSCO_monarch_1_Reelection
+			hidden_effect = {
+				add_government_power = {
+					mechanic_type = EDG_BTA_parliament_vs_monarchy_mechanic
+					power_type = EDG_BTA_governmental_power
+					value = 2.5
+				}
+			}
+		}
+		if = {
+			limit = {
+				has_country_flag = EDG_SCO_mission_3_9_modifier_flag
+			}
+			add_mil_power = 75
+		}
+		else = {
+			add_mil_power = 50
+		}
+		add_prestige_or_monarch_power = { amount = 10 }
+		add_faction_influence = {
+			faction = EDG_SCO_MIL_faction
+			influence = 25
+		}
+		
+		define_ruler = {
+			change_mil = 1
+			max_random_adm = 6
+			max_random_dip = 6
+			max_random_mil = 6
+			claim = 100
+			culture = ROOT
+			religion = ROOT
+			dynasty = "Bruce"
+		}
+		add_ruler_modifier = {
+			name = EDG_flavorSCO_monarch_1_a
+			duration = -1
+		}
+	}
+	option = { #巴里奥尔家族最为可靠。
+		name = "EDG_flavorSCO_monarch.1.b"
+		ai_chance = {
+			factor = 1
+		}
+		if = {
+			limit = {
+				has_country_modifier = EDG_flavorSCO_monarch_1_b
+			}
+			custom_tooltip = EDG_flavorSCO_monarch_1_Reelection
+			hidden_effect = {
+				add_government_power = {
+					mechanic_type = EDG_BTA_parliament_vs_monarchy_mechanic
+					power_type = EDG_BTA_governmental_power
+					value = 2.5
+				}
+			}
+		}
+		if = {
+			limit = {
+				has_country_flag = EDG_SCO_mission_3_9_modifier_flag
+			}
+			add_adm_power = 75
+		}
+		else = {
+			add_adm_power = 50
+		}
+		add_prestige_or_monarch_power = { amount = 10 }
+		add_faction_influence = {
+			faction = EDG_SCO_ADM_faction
+			influence = 25
+		}
+		define_ruler = {
+			change_adm = 1
+			max_random_adm = 6
+			max_random_dip = 6
+			max_random_mil = 6
+			claim = 100
+			culture = ROOT
+			religion = ROOT
+			dynasty = "Balliol"
+		}
+		add_ruler_modifier = {
+			name = EDG_flavorSCO_monarch_1_b
+			duration = -1
+		}
+	}
+	option = { #德 乌姆弗拉维尔家族一直受到支持。
+		name = "EDG_flavorSCO_monarch.1.c"
+		ai_chance = {
+			factor = 1
+		}
+		if = {
+			limit = {
+				has_country_modifier = EDG_flavorSCO_monarch_1_c
+			}
+			custom_tooltip = EDG_flavorSCO_monarch_1_Reelection
+			hidden_effect = {
+				add_government_power = {
+					mechanic_type = EDG_BTA_parliament_vs_monarchy_mechanic
+					power_type = EDG_BTA_governmental_power
+					value = 2.5
+				}
+			}
+		}
+		if = {
+			limit = {
+				has_country_flag = EDG_SCO_mission_3_9_modifier_flag
+			}
+			add_dip_power = 75
+		}
+		else = {
+			add_dip_power = 50
+		}
+		add_prestige_or_monarch_power = { amount = 10 }
+		add_faction_influence = {
+			faction = EDG_SCO_DIP_faction
+			influence = 25
+		}
+		define_ruler = {
+			max_random_dip = 1
+			claim = 95
+			culture = ROOT
+			religion = ROOT
+			dynasty = "de Umfraville"
+		}
+		add_ruler_modifier = {
+			name = EDG_flavorSCO_monarch_1_c
+			duration = -1
+		}
+	}
+	option = { #斯图亚特家族也颇受瞩目。
+		name = "EDG_flavorSCO_monarch.1.h"
+		ai_chance = {
+			factor = 1
+		}
+		if = {
+			limit = {
+				has_country_modifier = EDG_flavorSCO_monarch_1_h
+			}
+			custom_tooltip = EDG_flavorSCO_monarch_1_Reelection
+			hidden_effect = {
+				add_government_power = {
+					mechanic_type = EDG_BTA_parliament_vs_monarchy_mechanic
+					power_type = EDG_BTA_governmental_power
+					value = 2.5
+				}
+			}
+		}
+		if = {
+			limit = {
+				has_country_flag = EDG_SCO_mission_3_9_modifier_flag
+			}
+			add_adm_power = 15
+			add_dip_power = 15
+			add_mil_power = 15
+		}
+		else = {
+			add_adm_power = 25
+			add_dip_power = 25
+			add_mil_power = 25
+		}
+		add_prestige_or_monarch_power = { amount = 10 }
+		define_ruler = {
+			max_random_adm = 5 
+			max_random_dip = 5
+			max_random_mil = 5
+			claim = 95
+			culture = ROOT
+			religion = ROOT
+			dynasty = "Stuart"
+		}
+		add_ruler_modifier = {
+			name = EDG_flavorSCO_monarch_1_h
+			duration = -1
+		}
+	}
+	option = { #一名出色的本民族勋阀贵族将会胜出。
+		name = "EDG_flavorSCO_monarch.1.e"
+		ai_chance = {
+			factor = 1
+		}
+		if = {
+			limit = {
+				has_country_modifier = EDG_flavorSCO_monarch_1_e
+			}
+			custom_tooltip = EDG_flavorSCO_monarch_1_Reelection
+			hidden_effect = {
+				add_government_power = {
+					mechanic_type = EDG_BTA_parliament_vs_monarchy_mechanic
+					power_type = EDG_BTA_governmental_power
+					value = 2.5
+				}
+			}
+		}
+		add_estate_loyalty = {
+			estate = estate_nobles
+			loyalty = 10
+		}
+		define_ruler = {
+			change_adm = -1
+			change_dip = -1
+			change_mil = 3
+			max_random_adm = 4
+			max_random_dip = 4
+			max_random_mil = 6
+			claim = 95
+			culture = ROOT
+			religion = ROOT
+			culture = event_target:EDG_national_noble_province
+		}
+		add_ruler_modifier = {
+			name = EDG_flavorSCO_monarch_1_e
+			duration = -1
+		}
+	}
+	option = { #我们会选举一位苏格兰的本国贵族。
+		name = "EDG_flavorSCO_monarch.1.j"
+		ai_chance = {
+			factor = 1
+		}
+		if = {
+			limit = {
+				has_country_modifier = EDG_flavorSCO_monarch_1_j
+			}
+			custom_tooltip = EDG_flavorSCO_monarch_1_Reelection
+			hidden_effect = {
+				add_government_power = {
+					mechanic_type = EDG_BTA_parliament_vs_monarchy_mechanic
+					power_type = EDG_BTA_governmental_power
+					value = 2.5
+				}
+			}
+		}
+		add_estate_loyalty = {
+			estate = estate_nobles
+			loyalty = 10
+		}
+		define_ruler = {
+			max_random_adm = 5
+			max_random_dip = 5
+			max_random_mil = 5
+			claim = 95
+			culture = ROOT
+			religion = ROOT
+			culture = event_target:EDG_local_noble_province
+		}
+		add_ruler_modifier = {
+			name = EDG_flavorSCO_monarch_1_j
+			duration = -1
+		}
+	}
+	option = { #我们的盟友会为我们提供支持。
+		name = "EDG_flavorSCO_monarch.1.i"
+		ai_chance = {
+			factor = 1
+		}
+		trigger = {
+			always = no
+			any_country = {
+				is_neighbor_of = ROOT
+				government = monarchy
+				has_regency = no
+				religion_group = ROOT
+				alliance_with = ROOT
+			}
+		}
+		if = {
+			limit = {
+				has_country_modifier = EDG_flavorSCO_monarch_1_i
+			}
+			custom_tooltip = EDG_flavorSCO_monarch_1_Reelection
+			hidden_effect = {
+				add_government_power = {
+					mechanic_type = EDG_BTA_parliament_vs_monarchy_mechanic
+					power_type = EDG_BTA_governmental_power
+					value = 2.5
+				}
+			}
+		}
+		trigger = {
+			any_neighbor_country = {
+				government = monarchy
+				has_regency = no
+				religion_group = ROOT
+				alliance_with = ROOT
+			}
+		}
+		random_neighbor_country = { 
+			limit = {
+				government = monarchy
+				has_regency = no
+				religion_group = ROOT
+				alliance_with = ROOT
+			}
+			ROOT = { 
+				define_ruler = { 
+					change_dip = 1
+					max_random_adm = 4
+					max_random_dip = 5
+					max_random_mil = 5
+					claim = 75
+					dynasty = PREV 
+					culture = PREV
+				} 
+			}
+			add_prestige = 5
+			add_opinion = { who = ROOT modifier = EDG_flavorSCO_monarch_opinion }
+		}
+		add_ruler_modifier = {
+			name = EDG_flavorSCO_monarch_1_i
+			duration = -1
+		}
+	}
+	option = { #一位邻国的王室成员。
+		name = "EDG_flavorSCO_monarch.1.f"
+		ai_chance = {
+			factor = 1
+		}
+		trigger = {
+			any_neighbor_country = {
+				religion_group = ROOT
+				government = monarchy
+				has_regency = no
+			}
+		}
+		if = {
+			limit = {
+				has_country_modifier = EDG_flavorSCO_monarch_1_f
+			}
+			custom_tooltip = EDG_flavorSCO_monarch_1_Reelection
+			hidden_effect = {
+				add_government_power = {
+					mechanic_type = EDG_BTA_parliament_vs_monarchy_mechanic
+					power_type = EDG_BTA_governmental_power
+					value = 2.5
+				}
+			}
+		}
+		define_ruler = {
+			change_dip = 1
+			max_random_adm = 4
+			max_random_dip = 5
+			max_random_mil = 5
+			claim = 75
+			culture = event_target:EDG_random_country_noble
+			religion = event_target:EDG_random_country_noble
+			dynasty = event_target:EDG_random_country_noble
+			culture = event_target:EDG_random_country_noble
+		}
+		random_neighbor_country = { 
+			limit = {
+				government = monarchy
+				has_regency = no
+				religion_group = ROOT
+			}
+			ROOT = { 
+				define_ruler = { 
+					change_dip = 1
+					max_random_adm = 4
+					max_random_dip = 5
+					max_random_mil = 5
+					claim = 75
+					dynasty = PREV 
+					culture = PREV
+				} 
+			}
+			add_prestige = 5
+			add_opinion = { who = ROOT modifier = EDG_flavorSCO_monarch_opinion }
+		}
+		add_ruler_modifier = {
+			name = EDG_flavorSCO_monarch_1_f
+			duration = -1
+		}
+	}
+	option = { #我们选择北海的挪威人。
+		name = "EDG_flavorSCO_monarch.1.g"
+		ai_chance = {
+			factor = 1
+		}
+		trigger = {
+			has_country_flag = EDG_SCO_mission_1_7_modifier_flag
+			OR = {
+				any_neighbor_country = {
+					government = monarchy
+					has_regency = no
+					religion_group = ROOT
+					culture_group = scandinavian
+				}
+				any_owned_province = {
+					is_capital = no
+					is_state = yes
+					culture_group = scandinavian
+				}
+			}
+		}
+		if = {
+			limit = {
+				has_country_modifier = EDG_flavorSCO_monarch_1_g
+			}
+			custom_tooltip = EDG_flavorSCO_monarch_1_Reelection
+			hidden_effect = {
+				add_government_power = {
+					mechanic_type = EDG_BTA_parliament_vs_monarchy_mechanic
+					power_type = EDG_BTA_governmental_power
+					value = 2.5
+				}
+			}
+		}
+		if = {
+			limit = {
+				any_neighbor_country = {
+					government = monarchy
+					has_regency = no
+					religion_group = ROOT
+					culture_group = scandinavian
+				}
+			}
+			random_neighbor_country = { 
+				limit = {
+					government = monarchy
+					has_regency = no
+					religion_group = ROOT
+					culture_group = scandinavian
+				}
+				ROOT = { 
+					define_ruler = { 
+						change_adm = -1
+						change_dip = -1
+						change_mil = 2
+						max_random_adm = 4
+						max_random_dip = 4
+						max_random_mil = 6
+						claim = 75
+						dynasty = PREV 
+						culture = PREV
+					} 
+				}
+				add_prestige = 5
+				add_opinion = { who = ROOT modifier = EDG_flavorSCO_monarch_opinion }
+			}
+		}
+		else = {
+			define_ruler = {
+				change_adm = -1
+				change_dip = -1
+				change_mil = 2
+				max_random_adm = 4
+				max_random_dip = 4
+				max_random_mil = 6
+				claim = 75
+				culture = event_target:EDG_scandinavian_country_noble
+				religion = event_target:EDG_scandinavian_country_noble
+				dynasty = event_target:EDG_scandinavian_country_noble
+				culture = event_target:EDG_scandinavian_country_noble
+			}
+			event_target:EDG_scandinavian_country_noble = {
+				add_prestige = 5
+				add_opinion = {
+					who = ROOT
+					modifier = EDG_flavorSCO_monarch_opinion
+				}
+			}
+		}
+		add_ruler_modifier = {
+			name = EDG_flavorSCO_monarch_1_g
+			duration = -1
+		}
+	}
+	
+	option = { #法兰西王室的候选人。
+		name = "EDG_flavorSCO_monarch.1.h"
+		ai_chance = {
+			factor = 100
+		}
+		trigger = {
+			has_country_flag = EDG_mission_FRA_3_15_crown_flag
+			FRA = {
+				marriage_with = ROOT
+				alliance_with = ROOT
+				government = monarchy
+				has_regency = no
+			}
+		}
+		if = {
+			limit = {
+				has_country_modifier = EDG_flavorSCO_monarch_1_f
+			}
+			custom_tooltip = EDG_flavorSCO_monarch_1_Reelection
+			hidden_effect = {
+				add_government_power = {
+					mechanic_type = EDG_BTA_parliament_vs_monarchy_mechanic
+					power_type = EDG_BTA_governmental_power
+					value = 2.5
+				}
+			}
+		}
+		define_ruler = {
+			change_dip = 1
+			claim = 75
+			culture = FRA
+			religion = FRA
+			dynasty = "Capet"
+		}
+		FRA = {
+			add_prestige_or_monarch_power = { amount = 20 }
+			add_opinion = { who = ROOT modifier = EDG_flavorSCO_monarch_opinion }
+		}
+		add_ruler_modifier = {
+			name = EDG_flavorSCO_monarch_1_f
+			duration = -1
+		}
+	}
+	after = {
+		clr_country_flag = in_EDG_flavorSCO_monarch_1_flag
+	}
+}

@@ -1414,7 +1414,7 @@ EDG_Streltsy_1_modifier:0 "Increased Streltsy Stipends"
 EDG_Streltsy_2_modifier:0 "Enhanced Streltsy Training"
 
 #Bulgaria
-EDG_flavor_BUL_1_modifier:0 "Tsar Constantine IV"
+EDG_flavor_BUL_1_modifer:0 "Tsar Constantine IV"
 EDG_MISSION_BUL_1_4_province_modifier:0 "Albanian Military Tradition"
 EDG_MISSION_BUL_1_4_modifier:0 "Acceptance of Albanians"
 EDG_MISSION_BUL_3_4_modifier:0 "Integration of Serbia"
@@ -1430,7 +1430,7 @@ EDG_flavor_BUL_2_modifier:0 "Warring with the False Empire"
 
 
 #Bulgaria
-EDG_flavor_BUL_1_modifier:0 "Tsar Constantine IV"
+EDG_flavor_BUL_1_modifer:0 "Tsar Constantine IV"
 EDG_MISSION_BUL_1_4_province_modifier:0 "Albanian Military Tradition"
 EDG_MISSION_BUL_1_4_modifier:0 "Acceptance of Albanians"
 EDG_MISSION_BUL_3_4_modifier:0 "Integration of Serbia"
@@ -1966,7 +1966,7 @@ EDG_flavorPIT_4_b_modifier:0 "Defending Home and Country"
 EDG_flavorPIT_5_a_province_modifier:0 "Venaria Palace"
 EDG_mission_PIT_2_9_modifier:0 "Public Culture"
 EDG_mission_PIT_2_10_modifier:0 "Educational Reforms"
-EDG_mission_PIT_3_1_modifier:0 "Military Preparation"
+EDG_mission_PIT_3_1_modifer:0 "Military Preparation"
 EDG_flavorPIT_7_a_modifier:0 "Support of the Republicans"
 EDG_flavorPIT_8_a_modifier:0 "Commercial Cooperation with the Rehena Family"
 EDG_flavorPIT_9_a_modifier:0 "Support of the Rehena-Genoa Family"
