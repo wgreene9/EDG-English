@@ -303,12 +303,12 @@ EDG_BAV_4_4_12_3: "Adds the §YGreat Engineer§! trait to our ruler. If their tr
 EDG_BAV_4_4_14_title: "§OBrewing Technology§!" # Enhancing Brewing Technology
 EDG_BAV_4_4_14_desc: "Technology is another form of conquest. By improving equipment, standardizing recipes, mastering temperature control and transportation, we will extract the utmost value from every barrel of beer—when the trade of beer converges like rivers into the ocean, the world will witness our rise on the balance sheets."
 EDG_BAV_4_4_14_1: "Now, §OBeer Factories§! will provide §G+100.0%§! §YTrade Value Modifier§!."
-EDG_BAV_4_4_14_2_yes: "Executes effects based on the number of provinces with the §OBeer Factory§! modifier owned by us and our subjects:\n\n£yes£Own §Y50§! §OBeer Factories§!, the following effects occur:\nAll provinces with the §OBeer Factory§! modifier gain §G+1§! §YBase Production§!."
-EDG_BAV_4_4_14_2_no: "Executes effects based on the number of provinces with the §OBeer Factory§! modifier owned by us and our subjects:\n\n£no£Own §Y50§! §OBeer Factories§!, the following effects occur:\nAll provinces with the §OBeer Factory§! modifier gain §G+1§! §YBase Production§!."
-EDG_BAV_4_4_14_3_yes: "£yes£Own §Y75§! §OBeer Factories§!, the following effects occur:\nEach province with the §OBeer Factory§! modifier provides us with §G+0.2§! times its §YAnnual Production Income§!."
-EDG_BAV_4_4_14_3_no: "£no£Own §Y75§! §OBeer Factories§!, the following effects occur:\nEach province with the §OBeer Factory§! modifier provides us with §G+0.2§! times its §YAnnual Production Income§!."
-EDG_BAV_4_4_14_4_yes: "£yes£Own §Y100§! §OBeer Factories§!, the following effects occur:"
-EDG_BAV_4_4_14_4_no: "£no£Own §Y100§! §OBeer Factories§!, the following effects occur:"
+EDG_BAV_4_4_14_2_yes: "Executes effects based on the number of provinces with the §OBeer Factory§! modifier owned by us and our subjects:\n\n£yes£Own §Y30§! §OBeer Factories§!, the following effects occur:\nAll provinces with the §OBeer Factory§! modifier gain §G+1§! §YBase Production§!."
+EDG_BAV_4_4_14_2_no: "Executes effects based on the number of provinces with the §OBeer Factory§! modifier owned by us and our subjects:\n\n£no£Own §Y30§! §OBeer Factories§!, the following effects occur:\nAll provinces with the §OBeer Factory§! modifier gain §G+1§! §YBase Production§!."
+EDG_BAV_4_4_14_3_yes: "£yes£Own §Y40§! §OBeer Factories§!, the following effects occur:\nEach province with the §OBeer Factory§! modifier provides us with §G+0.2§! times its §YAnnual Production Income§!."
+EDG_BAV_4_4_14_3_no: "£no£Own §Y40§! §OBeer Factories§!, the following effects occur:\nEach province with the §OBeer Factory§! modifier provides us with §G+0.2§! times its §YAnnual Production Income§!."
+EDG_BAV_4_4_14_4_yes: "£yes£Own §Y50§! §OBeer Factories§!, the following effects occur:"
+EDG_BAV_4_4_14_4_no: "£no£Own §Y50§! §OBeer Factories§!, the following effects occur:"
 
 EDG_BAV_4_5_11_title: "§OProduction and Infrastructure§!" # Investing in Production and Infrastructure
 EDG_BAV_4_5_11_desc: "Roads, bridges, canals, and granaries are the true lifeblood of an empire. We shall use investment to drive workshops and towns, ensuring development is no longer piecemeal but converges into a tide through planning: every expansion becomes a leap in national power."
