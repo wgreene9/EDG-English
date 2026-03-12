@@ -10,8 +10,8 @@
 }
 1435.9.18 = {
   heir = {
-    name = "Yahy√¢"  # Yahy√¢
-    monarch_name = "Yahy√¢ III"  # Yahy√¢ III
+    name = "Yahy‚"  # Yahy‚
+    monarch_name = "Yahy‚ III"  # Yahy‚ III
     dynasty = "Fatimid"  # Hafsid
     birth_date = 1435.9.18
     death_date = 1489.1.1
