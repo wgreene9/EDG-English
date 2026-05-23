@@ -28,6 +28,7 @@ EDG_AK2_decree_trigger_modifier_tt:0 "Has §Rnot§! recently issued a §YImperia
 EDG_refom_num_var:0 "Number of Reforms"
 EDG_power_num_var:0 "Available Reinforcement Points"
 
+EDG_AK2_decree_trigger_modifier:0 "Recently issued a §YState Edict§!"
 EDG_IR1_decree_select_1:0 "§bExpand Infrastructure§!"
 EDG_IR1_decree_select_2:0 "§bSponsor Iranian Arts§!"
 EDG_IR1_decree_select_3:0 "§bPromote Military Talent§!"

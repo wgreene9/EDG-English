@@ -40,6 +40,9 @@ country_decisions = {
 		effect = {
 			add_treasury = -150
 			random_province = {
+				limit = {
+					owned_by = DMR
+				}
 				add_building = courthouse
 				add_province_modifier = {
 					name = EDG_DMR_LIFA
@@ -175,7 +178,6 @@ country_decisions = {
 				area = norrland_area
 				area = finland_area
 				area = bothnia_area
-				area = gotaland_area
 				area = vastra_gotaland_area
 			}
 			OR = {
@@ -207,10 +209,9 @@ country_decisions = {
 						area = norrland_area
 						area = finland_area
 						area = bothnia_area
-						area = gotaland_area
 						area = vastra_gotaland_area
 					}
-					value = 26
+					value = 18
 				}
 			}
 		}
@@ -228,7 +229,7 @@ country_decisions = {
 							area = gotaland_area
 							area = vastra_gotaland_area
 						}
-						value = 26
+						value = 18
 					}
 				}
 				country_event = {
@@ -236,7 +237,7 @@ country_decisions = {
 				}
 			}
 			tooltip = {
-				add_dip_power = -200
+				add_dip_power = -100
 				svealand_area = {
 					limit = {
 						country_or_non_sovereign_subject_holds = FROM
@@ -495,351 +496,6 @@ country_decisions = {
 			custom_tooltip = EDG_DMR_EBW_CITY_TT
 		}
 	}
-	EDG_DMR_QINGJIAO_decision_1 = {
-		color = {
-			128
-			0
-			128
-		}
-		major = yes
-		potential = {
-			tag = DMR
-			has_country_flag = EDG_DMR_EBW_ZHANHOU_DECISION_FLAG
-			exists = ITA
-		}
-		allow = {
-			years_of_income = 0.5
-			years_of_manpower = 0.5
-			not = {
-				has_country_modifier = EDG_DMR_1_years_modifier_1
-			}
-		}
-		ai_will_do = {
-			factor = 0
-		}
-		effect = {
-			add_years_of_income = -0.33
-			add_yearly_manpower = -0.5
-			ITA = {
-				italy_region = {
-					add_nationalism = -10
-					add_local_autonomy = -10
-				}
-				add_liberty_desire = -15
-			}
-			hidden_effect = {
-				add_country_modifier = {
-					name = EDG_DMR_1_years_modifier_1
-					duration = 365
-				}
-			}
-			custom_tooltip = EDG_DMR_YINAIN_TT
-		}
-	}
-	EDG_DMR_QINGJIAO_decision_2 = {
-		color = {
-			128
-			0
-			128
-		}
-		major = yes
-		potential = {
-			tag = DMR
-			has_country_flag = EDG_DMR_EBW_ZHANHOU_DECISION_FLAG
-			exists = USP
-		}
-		allow = {
-			years_of_income = 0.5
-			years_of_manpower = 0.5
-			not = {
-				has_country_modifier = EDG_DMR_1_years_modifier_2
-			}
-		}
-		ai_will_do = {
-			factor = 0
-		}
-		effect = {
-			add_years_of_income = -0.33
-			add_yearly_manpower = -0.5
-			USP = {
-				iberia_region = {
-					add_nationalism = -10
-					add_local_autonomy = -10
-				}
-				add_liberty_desire = -15
-			}
-			hidden_effect = {
-				add_country_modifier = {
-					name = EDG_DMR_1_years_modifier_2
-					duration = 365
-				}
-			}
-			custom_tooltip = EDG_DMR_YINAIN_TT
-		}
-	}
-	EDG_DMR_QINGJIAO_decision_3 = {
-		color = {
-			128
-			0
-			128
-		}
-		major = yes
-		potential = {
-			tag = DMR
-			has_country_flag = EDG_DMR_EBW_ZHANHOU_DECISION_FLAG
-			exists = NED
-		}
-		allow = {
-			years_of_income = 0.5
-			years_of_manpower = 0.5
-			not = {
-				has_country_modifier = EDG_DMR_1_years_modifier_3
-			}
-		}
-		ai_will_do = {
-			factor = 0
-		}
-		effect = {
-			add_years_of_income = -0.33
-			add_yearly_manpower = -0.5
-			NED = {
-				low_countries_region = {
-					add_nationalism = -10
-					add_local_autonomy = -10
-				}
-				add_liberty_desire = -15
-			}
-			hidden_effect = {
-				add_country_modifier = {
-					name = EDG_DMR_1_years_modifier_3
-					duration = 365
-				}
-			}
-			custom_tooltip = EDG_DMR_YINAIN_TT
-		}
-	}
-	EDG_DMR_QINGJIAO_decision_4 = {
-		color = {
-			128
-			0
-			128
-		}
-		major = yes
-		potential = {
-			tag = DMR
-			has_country_flag = EDG_DMR_EBW_ZHANHOU_DECISION_FLAG
-			exists = FRA
-		}
-		allow = {
-			years_of_income = 0.5
-			years_of_manpower = 0.5
-			not = {
-				has_country_modifier = EDG_DMR_1_years_modifier_4
-			}
-		}
-		ai_will_do = {
-			factor = 0
-		}
-		effect = {
-			add_years_of_income = -0.33
-			add_yearly_manpower = -0.5
-			FRA = {
-				france_region = {
-					add_nationalism = -10
-					add_local_autonomy = -10
-				}
-				add_liberty_desire = -15
-			}
-			hidden_effect = {
-				add_country_modifier = {
-					name = EDG_DMR_1_years_modifier_4
-					duration = 365
-				}
-			}
-			custom_tooltip = EDG_DMR_YINAIN_TT
-		}
-	}
-	EDG_DMR_QINGJIAO_decision_5 = {
-		color = {
-			128
-			0
-			128
-		}
-		major = yes
-		potential = {
-			tag = DMR
-			has_country_flag = EDG_DMR_EBW_ZHANHOU_DECISION_FLAG
-			exists = BTA
-		}
-		allow = {
-			years_of_income = 0.5
-			years_of_manpower = 0.5
-			not = {
-				has_country_modifier = EDG_DMR_1_years_modifier_5
-			}
-		}
-		ai_will_do = {
-			factor = 0
-		}
-		effect = {
-			add_years_of_income = -0.33
-			add_yearly_manpower = -0.5
-			BTA = {
-				british_isles_region = {
-					add_nationalism = -10
-					add_local_autonomy = -10
-				}
-				add_liberty_desire = -15
-			}
-			hidden_effect = {
-				add_country_modifier = {
-					name = EDG_DMR_1_years_modifier_5
-					duration = 365
-				}
-			}
-			custom_tooltip = EDG_DMR_YINAIN_TT
-		}
-	}
-	EDG_DMR_PD_decision_1 = {
-		color = {
-			128
-			0
-			128
-		}
-		major = yes
-		potential = {
-			tag = DMR
-			has_country_flag = EDG_DMR_EBW_ZHANHOU_DECISION_FLAG
-			exists = ITA
-		}
-		allow = {
-			NOT = {
-				ITA = {
-					italy_region = {
-						nationalism = 1
-					}
-				}
-			}
-		}
-		ai_will_do = {
-			factor = 0
-		}
-		effect = {
-			inherit = ITA
-		}
-	}
-	EDG_DMR_PD_decision_2 = {
-		color = {
-			128
-			0
-			128
-		}
-		major = yes
-		potential = {
-			tag = DMR
-			has_country_flag = EDG_DMR_EBW_ZHANHOU_DECISION_FLAG
-			exists = USP
-		}
-		allow = {
-			NOT = {
-				USP = {
-					iberia_region = {
-						nationalism = 1
-					}
-				}
-			}
-		}
-		ai_will_do = {
-			factor = 0
-		}
-		effect = {
-			inherit = USP
-		}
-	}
-	EDG_DMR_PD_decision_3 = {
-		color = {
-			128
-			0
-			128
-		}
-		major = yes
-		potential = {
-			tag = DMR
-			has_country_flag = EDG_DMR_EBW_ZHANHOU_DECISION_FLAG
-			exists = NED
-		}
-		allow = {
-			NOT = {
-				NED = {
-					low_countries_region = {
-						nationalism = 1
-					}
-				}
-			}
-		}
-		ai_will_do = {
-			factor = 0
-		}
-		effect = {
-			inherit = NED
-		}
-	}
-	EDG_DMR_PD_decision_4 = {
-		color = {
-			128
-			0
-			128
-		}
-		major = yes
-		potential = {
-			tag = DMR
-			has_country_flag = EDG_DMR_EBW_ZHANHOU_DECISION_FLAG
-			exists = FRA
-		}
-		allow = {
-			NOT = {
-				FRA = {
-					france_region = {
-						nationalism = 1
-					}
-				}
-			}
-		}
-		ai_will_do = {
-			factor = 0
-		}
-		effect = {
-			inherit = FRA
-		}
-	}
-	EDG_DMR_PD_decision_5 = {
-		color = {
-			128
-			0
-			128
-		}
-		major = yes
-		potential = {
-			tag = DMR
-			has_country_flag = EDG_DMR_EBW_ZHANHOU_DECISION_FLAG
-			exists = BTA
-		}
-		allow = {
-			NOT = {
-				BTA = {
-					british_isles_region = {
-						nationalism = 1
-					}
-				}
-			}
-		}
-		ai_will_do = {
-			factor = 0
-		}
-		effect = {
-			inherit = BTA
-		}
-	}
 	EDG_DMR_hide_cultural_assimilation_events = {
 		color = {
 			0
@@ -1046,6 +702,303 @@ country_decisions = {
 				name = EDG_DMR_MARKET_get_decision_in_5_years_modifier
 				duration = 1825
 				hidden = yes
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	EDG_DMR_EBW_LISIBEN_DECISION = {
+		major = yes
+		color = {
+			235
+			38
+			38
+		}
+		potential = {
+			tag = DMR
+			has_country_flag = EDG_DMR_EBW_DECISION_ENABLE
+			not = {
+				has_country_flag = EDG_DMR_EBW_LISIBEN_DECISION_FLAG
+			}
+		}
+		allow = {
+			OR = {
+				227 = {
+					controlled_by = DMR
+				}
+				227 = {
+					owned_by = DMR
+				}
+			}
+		}
+		effect = {
+			country_event = {
+				id = EDG_DMR_play.39
+			}
+			set_country_flag = EDG_DMR_EBW_LISIBEN_DECISION_FLAG
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	EDG_DMR_EBW_LUNDUN_DECISION = {
+		major = yes
+		color = {
+			235
+			38
+			38
+		}
+		potential = {
+			tag = DMR
+			has_country_flag = EDG_DMR_EBW_DECISION_ENABLE
+			not = {
+				has_country_flag = EDG_DMR_EBW_LUNDUN_DECISION_FLAG
+			}
+		}
+		allow = {
+			OR = {
+				236 = {
+					controlled_by = DMR
+				}
+				236 = {
+					owned_by = DMR
+				}
+			}
+		}
+		effect = {
+			country_event = {
+				id = EDG_DMR_play.45
+			}
+			set_country_flag = EDG_DMR_EBW_LUNDUN_DECISION_FLAG
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	EDG_DMR_EBW_BALI_DECISION = {
+		major = yes
+		color = {
+			235
+			38
+			38
+		}
+		potential = {
+			tag = DMR
+			has_country_flag = EDG_DMR_EBW_DECISION_ENABLE
+			not = {
+				has_country_flag = EDG_DMR_EBW_BALI_DECISION_FLAG
+			}
+		}
+		allow = {
+			OR = {
+				183 = {
+					controlled_by = DMR
+				}
+				183 = {
+					owned_by = DMR
+				}
+			}
+		}
+		effect = {
+			country_event = {
+				id = EDG_DMR_play.44
+			}
+			set_country_flag = EDG_DMR_EBW_BALI_DECISION_FLAG
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	EDG_DMR_EBW_MADELI_DECISION = {
+		major = yes
+		color = {
+			235
+			38
+			38
+		}
+		potential = {
+			tag = DMR
+			has_country_flag = EDG_DMR_EBW_DECISION_ENABLE
+			not = {
+				has_country_flag = EDG_DMR_EBW_MADELI_DECISION_FLAG
+			}
+		}
+		allow = {
+			OR = {
+				217 = {
+					controlled_by = DMR
+				}
+				217 = {
+					owned_by = DMR
+				}
+			}
+		}
+		effect = {
+			country_event = {
+				id = EDG_DMR_play.40
+			}
+			set_country_flag = EDG_DMR_EBW_MADELI_DECISION_FLAG
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	EDG_DMR_EBW_AIKESI_DECISION = {
+		major = yes
+		color = {
+			235
+			38
+			38
+		}
+		potential = {
+			tag = DMR
+			has_country_flag = EDG_DMR_EBW_DECISION_ENABLE
+			not = {
+				has_country_flag = EDG_DMR_EBW_AIKESI_DECISION_FLAG
+			}
+		}
+		allow = {
+			OR = {
+				201 = {
+					controlled_by = DMR
+				}
+				201 = {
+					owned_by = DMR
+				}
+			}
+		}
+		effect = {
+			country_event = {
+				id = EDG_DMR_play.42
+			}
+			set_country_flag = EDG_DMR_EBW_AIKESI_DECISION_FLAG
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	EDG_DMR_EBW_MILAN_DECISION = {
+		major = yes
+		color = {
+			235
+			38
+			38
+		}
+		potential = {
+			tag = DMR
+			has_country_flag = EDG_DMR_EBW_DECISION_ENABLE
+			not = {
+				has_country_flag = EDG_DMR_EBW_MILAN_DECISION_FLAG
+			}
+		}
+		allow = {
+			OR = {
+				104 = {
+					controlled_by = DMR
+				}
+				104 = {
+					owned_by = DMR
+				}
+			}
+		}
+		effect = {
+			country_event = {
+				id = EDG_DMR_play.41
+			}
+			set_country_flag = EDG_DMR_EBW_MILAN_DECISION_FLAG
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	EDG_DMR_EBW_LUOMA_DECISION = {
+		major = yes
+		color = {
+			235
+			38
+			38
+		}
+		potential = {
+			tag = DMR
+			has_country_flag = EDG_DMR_EBW_DECISION_ENABLE
+			not = {
+				has_country_flag = EDG_DMR_EBW_LUOMA_DECISION_FLAG
+			}
+		}
+		allow = {
+			OR = {
+				118 = {
+					controlled_by = DMR
+				}
+				118 = {
+					owned_by = DMR
+				}
+			}
+		}
+		effect = {
+			country_event = {
+				id = EDG_DMR_play.43
+			}
+			set_country_flag = EDG_DMR_EBW_LUOMA_DECISION_FLAG
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	EDG_EBW_START_DECISION = {
+		major = yes
+		color = {
+			96
+			109
+			255
+		}
+		potential = {
+			tag = DMR
+			or = {
+				NOT = {
+					any_country = {
+						is_emperor = yes
+					}
+				}
+				all_elector = {
+					truce_with = DMR
+				}
+			}
+		}
+		allow = {
+			army_size = 200
+		}
+		effect = {
+			country_event = {
+				id = EDG_DMR_play.27
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	EDG_baoweiwangshenluo_START_DECISION = {
+		major = yes
+		color = {
+			96
+			109
+			255
+		}
+		potential = {
+			tag = DMR
+			mission_completed = EDG_DMR_1_13
+			mission_completed = EDG_DMR_2_13
+			mission_completed = EDG_DMR_3_13
+			mission_completed = EDG_DMR_4_13
+			mission_completed = EDG_DMR_5_13
+		}
+		allow = {
+			army_size = 100
+		}
+		effect = {
+			country_event = {
+				id = EDG_DMR_play.31
 			}
 		}
 		ai_will_do = {

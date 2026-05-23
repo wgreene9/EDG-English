@@ -1,0 +1,978 @@
+namespace = EDG_BELA_POM_events
+country_event = { #狮鹫战争
+	id = EDG_BELA_POM_events.18
+	title = EDG_BELA_POM_events.18.t
+	desc = EDG_BELA_POM_events.18.d
+	picture = CONQUEST_eventPicture
+	is_triggered_only = yes
+
+	immediate = {
+		hidden_effect = {
+			#add_stability = -3
+            #add_prestige = -30
+            #add_legitimacy = -50
+			#every_owned_province = {
+			#	add_local_autonomy = 10
+			#}
+			set_country_flag = has_EDG_POM_gryf_civil_war_flag
+		}
+	}
+
+	option = { #
+		name = EDG_BELA_POM_events.18A
+		ai_chance = {
+			factor = 10
+		}
+		add_stability = -1
+		set_country_flag = EDG_BELA_POM_gryf_war_wol_flag
+		define_ruler = {
+			name = "Erik"
+			dynasty = "von Wolgast"
+			age = 31
+		}
+		if = {
+			limit = {
+				1858 = {#2994
+					is_core = root
+					owned_by = root
+				}
+			}
+			1858 = {
+				spawn_rebels = {
+					type = pretender_rebels
+					size = 4
+					win = yes
+					leader = "Boguslaw"
+					leader_dynasty = "von Stettin"
+				}
+				add_permanent_province_modifier = {#省份支持斯德丁派
+					name = EDG_POM_gryf_civil_war_province_support_ste_province_modifier
+					duration = 3650
+				}
+			}
+		}
+		else = {
+			random_owned_province = {
+				limit = {
+					is_capital = no
+					is_core = root
+					or = {
+						area = hinter_pommern_area
+						area = vorpommern_area
+					}
+				}
+				spawn_rebels = {
+					type = pretender_rebels
+					size = 4
+					win = yes
+					leader = "Boguslaw"
+					leader_dynasty = "von Stettin"
+				}
+				add_permanent_province_modifier = {#省份支持斯德丁派
+					name = EDG_POM_gryf_civil_war_province_support_ste_province_modifier
+					duration = 3650
+				}
+			}
+		}
+		hidden_effect = {
+			every_owned_province = {
+				limit = {
+					not = {
+						has_province_modifier = EDG_POM_gryf_civil_war_province_support_ste_province_modifier
+					}
+					is_capital = no
+				}
+				province_event = {
+					id = EDG_BELA_POM_events.20 #派系省份
+				}
+			}
+		}
+		custom_tooltip = EDG_BELA_POM_events_18_A_tt
+	}
+	option = { #
+		name = EDG_BELA_POM_events.18B
+		ai_chance = {
+			factor = 10
+		}
+		add_stability = -3
+		set_country_flag = EDG_BELA_POM_gryf_war_ste_flag
+		define_ruler = {
+			name = "Boguslaw"
+			dynasty = "von Stettin"
+			age = 28
+		}
+		if = {
+			limit = {
+				1858 = {#2994
+					is_core = root
+					owned_by = root
+				}
+			}
+			set_capital = 1858
+		}
+		if = {
+			limit = {
+				2994 = {#
+					is_core = root
+					owned_by = root
+				}
+			}
+			2994 = {
+				spawn_rebels = {
+					type = pretender_rebels
+					size = 4
+					win = yes
+					leader = "Erik"
+					leader_dynasty = "von Wolgast"
+				}
+				add_permanent_province_modifier = {#省份支持沃尔加斯特派
+					name = EDG_POM_gryf_civil_war_province_support_wol_province_modifier
+					duration = 3650
+				}
+			}
+		}
+		else = {
+			random_owned_province = {
+				limit = {
+					is_capital = no
+					is_core = root
+					or = {
+						area = hinter_pommern_area
+						area = vorpommern_area
+					}
+				}
+				spawn_rebels = {
+					type = pretender_rebels
+					size = 4
+					win = yes
+					leader = "Erik"
+					leader_dynasty = "von Wolgast"
+				}
+				add_permanent_province_modifier = {#省份支持沃尔加斯特派
+					name = EDG_POM_gryf_civil_war_province_support_wol_province_modifier
+					duration = 3650
+				}
+			}
+		}
+		hidden_effect = {
+			every_owned_province = {
+				limit = {
+					not = {
+						has_province_modifier = EDG_POM_gryf_civil_war_province_support_wol_province_modifier
+					}
+					is_capital = no
+				}
+				province_event = {
+					id = EDG_BELA_POM_events.20 #派系省份
+				}
+			}
+		}
+		custom_tooltip = EDG_BELA_POM_events_18_B_tt
+	}
+	#after = {
+		#set_country_flag = EDG_BELA_POM_events_18_flag
+	#}
+}
+country_event = { #狮鹫战争的结束
+	id = EDG_BELA_POM_events.19
+	title = EDG_BELA_POM_events.19.t
+	desc = EDG_BELA_POM_events.19.d
+	picture = GOOD_WITH_MONARCH_eventPicture
+	is_triggered_only = yes
+	#hidden = yes
+
+	immediate = {
+		hidden_effect = {
+			set_country_flag = had_EDG_POM_gryf_civil_war_flag
+		}
+	}
+
+	option = { #格里芬家族归于一统！
+		name = EDG_BELA_POM_events.19A
+		add_stability = 2
+		trigger = {
+			has_country_flag = EDG_BELA_POM_gryf_war_wol_flag
+		}
+		add_country_modifier = {
+			name = EDG_BELA_POM_first_gryf_modifier
+			duration = -1
+		}
+		custom_tooltip = EDG_BELA_POM_events_19_A_tt
+		if = {
+			limit = {
+				has_reform = EDG_pomeranian_principality_reform
+			}
+			add_government_reform = EDG_united_pomeranian_principality_reform
+		}
+		hidden_effect = {
+			set_dynasty = "Gryf"
+		}
+		ai_chance = {
+			factor = 10
+		}
+	}
+	option = { #格里芬家族团结一致！
+		name = EDG_BELA_POM_events.19B
+		add_stability = 2
+		trigger = {
+			has_country_flag = EDG_BELA_POM_gryf_war_ste_flag
+		}
+		add_country_modifier = {
+			name = EDG_BELA_POM_unite_gryf_modifier
+			duration = -1
+		}
+		custom_tooltip = EDG_BELA_POM_events_19_B_tt
+		if = {
+			limit = {
+				has_reform = EDG_pomeranian_principality_reform
+			}
+			add_government_reform = EDG_united_pomeranian_principality_reform
+		}
+		hidden_effect = {
+			set_dynasty = "Gryf"
+		}
+		ai_chance = {
+			factor = 10
+		}
+	}
+	after = {
+		hidden_effect = {
+			if = {
+				limit = {
+					has_country_flag = EDG_BELA_POM_gryf_war_wol_flag
+				}
+				clr_country_flag = EDG_BELA_POM_gryf_war_wol_flag
+			}
+			if = {
+				limit = {
+					has_country_flag = EDG_BELA_POM_gryf_war_ste_flag
+				}
+				clr_country_flag = EDG_BELA_POM_gryf_war_ste_flag
+			}
+			if = {
+				limit = {
+					any_province = {
+						has_province_modifier = EDG_POM_gryf_civil_war_province_support_ste_province_modifier
+					}
+				}
+				every_province = {
+					limit = {
+						has_province_modifier = EDG_POM_gryf_civil_war_province_support_ste_province_modifier
+					}
+					remove_province_modifier = EDG_POM_gryf_civil_war_province_support_ste_province_modifier
+				}
+			}
+			if = {
+				limit = {
+					any_province = {
+						has_province_modifier = EDG_POM_gryf_civil_war_province_support_wol_province_modifier
+					}
+				}
+				every_province = {
+					limit = {
+						has_province_modifier = EDG_POM_gryf_civil_war_province_support_wol_province_modifier
+					}
+					remove_province_modifier = EDG_POM_gryf_civil_war_province_support_wol_province_modifier
+				}
+			}
+		}
+		#if = {
+		#	limit = {
+		#		check_variable = {
+		#			which = EDG_BELA_POM_gryf_first_var
+		#			value = 100
+		#		}
+		#	}
+		#	country_event = {
+		#		id = EDG_BELA_POM_events.24
+		#	}
+		#}
+		#if = {
+		#	limit = {
+		#		check_variable = {
+		#			which = EDG_BELA_POM_gryf_unite_var
+		#			value = 100
+		#		}
+		#	}
+		#	country_event = {
+		#		id = EDG_BELA_POM_events.23
+		#	}
+		#}
+	}
+}
+country_event = { #沃尔加斯特派夺取权力
+	id = EDG_BELA_POM_events.21
+	title = EDG_BELA_POM_events.21.t
+	desc = EDG_BELA_POM_events.21.d
+	picture = CONQUEST_eventPicture
+	is_triggered_only = yes
+
+	trigger = {
+		tag = WOL
+		has_disaster = EDG_POM_gryf_civil_war
+		#EDG_BELA_POM_wol_dynasty_trigger = yes
+		#always = no
+		dynasty = "von Wolgast"
+	}
+
+	immediate = {
+		#hidden_effect = {
+			#set_country_flag = EDG_BELA_POM_events_21_flag
+		#}
+		hidden_effect = {
+			if = {
+				limit = {
+					not = {
+						has_country_flag = EDG_BELA_POM_gryf_war_wol_flag
+					}
+				}
+				set_country_flag = EDG_BELA_POM_gryf_war_wol_flag
+			}
+			if = {
+				limit = {
+					has_country_flag = EDG_BELA_POM_gryf_war_ste_flag
+				}
+				clr_country_flag = EDG_BELA_POM_gryf_war_ste_flag
+			}
+		}
+	}
+	#trigger = {
+		#or = {
+		#	check_variable = {
+		#		which = EDG_BELA_POM_primogeniture_var
+		#		value = 5
+		#	}
+		#	check_variable = {
+		#		which = EDG_BELA_POM_split_inheritance_var
+		#		value = 5
+		#	}
+		#}
+		#stability = 0
+		#not = {
+		#	has_country_flag = EDG_BELA_POM_events_21_flag
+		#}
+	#}
+
+	option = { #优势在我！
+		name = EDG_BELA_POM_events.21A
+		hidden_effect = {
+			if = {
+				limit = {
+					has_country_flag = EDG_BELA_POM_gryf_war_wol_flag
+					any_province = {
+						has_province_modifier = EDG_POM_gryf_civil_war_province_support_wol_province_modifier
+					}
+				}
+				every_owned_province = {
+					limit = {
+						not = {
+							has_province_modifier = EDG_POM_gryf_civil_war_province_support_wol_province_modifier
+						}
+					}
+					add_permanent_province_modifier = {
+						name = EDG_POM_gryf_civil_war_province_support_ste_province_modifier
+						duration = 3650
+					}
+				}
+				every_province = {
+					limit = {
+						has_province_modifier = EDG_POM_gryf_civil_war_province_support_wol_province_modifier
+					}
+					remove_province_modifier = EDG_POM_gryf_civil_war_province_support_wol_province_modifier
+				}
+			}
+		}
+		#if = {
+			#limit = {
+			#	check_variable = {
+			#		which = EDG_BELA_POM_primogeniture_var
+			#		value = 25
+			#	}
+			#}
+			#set_variable = {
+			#	which = EDG_BELA_POM_primogeniture_var
+			#	value = 0
+			#}
+			#set_variable = {
+			#	which = EDG_BELA_POM_split_inheritance_var
+			#	value = 5
+			#}
+			#clr_country_flag = EDG_BELA_POM_events_21_flag
+			#clr_country_flag = EDG_BELA_POM_EDG_BELA_POM_primogeniture_var_decision_flag
+			#set_country_flag = EDG_BELA_POM_EDG_BELA_POM_split_inheritance_var_decision_flag
+			#custom_tooltip = EDG_BELA_POM_events_21_A_tt
+		#}
+		#else = {
+			#random_owned_province = {
+			#	spawn_rebels = {
+			#		size = 3
+			#	}
+			#}
+			#random_owned_province = {
+			#	spawn_rebels = {
+			#		size = 2
+			#	}
+			#}
+		#}
+		ai_chance = {
+			factor = 10
+		}
+	}
+	#option = { #唯有先王之子可为王，毋庸置疑！
+		#name = EDG_BELA_POM_events.21B
+		#trigger = {
+		#	always = no
+		#}
+		#if = {
+			#limit = {
+			#	check_variable = {
+			#		which = EDG_BELA_POM_split_inheritance_var
+			#		value = 25
+			#	}
+			#}
+			#set_variable = {
+			#	which = EDG_BELA_POM_primogeniture_var
+			#	value = 5
+			#}
+			#set_variable = {
+			#	which = EDG_BELA_POM_split_inheritance_var
+			#	value = 0
+			#}
+			#clr_country_flag = EDG_BELA_POM_events_21_flag
+			#clr_country_flag = EDG_BELA_POM_EDG_BELA_POM_split_inheritance_var_decision_flag
+			#set_country_flag = EDG_BELA_POM_EDG_BELA_POM_primogeniture_var_decision_flag
+			#custom_tooltip = EDG_BELA_POM_events_21_B_tt
+		#}
+		#else = {
+			#random_owned_province = {
+			#	spawn_rebels = {
+			#		size = 3
+			#	}
+			#}
+			#random_owned_province = {
+			#	spawn_rebels = {
+			#		size = 2
+			#	}
+			#}
+		#}
+		#ai_chance = {
+		#	factor = 10
+		#}
+	#}
+	#after = {
+	#}
+}
+country_event = { #斯德丁派夺取权力
+	id = EDG_BELA_POM_events.22
+	title = EDG_BELA_POM_events.22.t
+	desc = EDG_BELA_POM_events.22.d
+	picture = CONQUEST_eventPicture
+	is_triggered_only = yes
+
+	trigger = {
+		tag = WOL
+		has_disaster = EDG_POM_gryf_civil_war
+		#EDG_BELA_POM_ste_dynasty_trigger = yes
+		#always = no
+		dynasty = "von Stettin"
+	}
+
+	immediate = {
+		#hidden_effect = {
+			#if = {
+			#	limit = {
+			#		not = {
+			#			stability = 0
+			#		}
+			#	}
+			#	random_list = {
+			#		25 = {
+			#			add_stability = 1
+			#		}
+			#		25 = {
+			#			if = {
+			#				limit = {
+			#					legitimacy = 75
+			#				}
+			#				add_stability = 1
+			#			}
+			#			else = {
+			#			}
+			#		}
+			#		50 = {
+			#		}
+			#	}
+			#}
+		#}
+		hidden_effect = {
+			if = {
+				limit = {
+					not = {
+						has_country_flag = EDG_BELA_POM_gryf_war_ste_flag
+					}
+				}
+				set_country_flag = EDG_BELA_POM_gryf_war_ste_flag
+			}
+			if = {
+				limit = {
+					has_country_flag = EDG_BELA_POM_gryf_war_wol_flag
+				}
+				clr_country_flag = EDG_BELA_POM_gryf_war_wol_flag
+			}
+		}
+	}
+
+	option = { #
+		name = EDG_BELA_POM_events.22A
+		#if = {
+			#limit = {
+			#	has_country_modifier = EDG_BELA_POM_gryf_unite_var_modifier
+			#	not = {
+			#		check_variable = {
+			#			which = EDG_BELA_POM_gryf_unite_var
+			#			value = 100
+			#		}
+			#	}
+			#}
+			#change_variable = {
+			#	which = EDG_BELA_POM_gryf_unite_var
+			#	value = 1
+			#}
+		#}
+		#if = {
+			#limit = {
+			#	has_country_modifier = EDG_BELA_POM_gryf_first_var_modifier
+			#	not = {
+			#		check_variable = {
+			#			which = EDG_BELA_POM_gryf_first_var
+			#			value = 100
+			#		}
+			#	}
+			#}
+			#change_variable = {
+			#	which = EDG_BELA_POM_gryf_first_var
+			#	value = 1
+			#}
+		#}
+		#if = {
+			#limit = {
+			#	has_country_flag = EDG_BELA_POM_EDG_BELA_POM_split_inheritance_var_decision_flag
+			#	not = {
+			#		check_variable = {
+			#			which = EDG_BELA_POM_split_inheritance_var
+			#			value = 50
+			#		}
+			#	}
+			#}
+			#change_variable = {
+			#	which = EDG_BELA_POM_split_inheritance_var
+			#	value = 1
+			#}
+		#}
+		#if = {
+			#limit = {
+			#	has_country_flag = EDG_BELA_POM_EDG_BELA_POM_primogeniture_var_decision_flag
+			#	not = {
+			#		check_variable = {
+			#			which = EDG_BELA_POM_primogeniture_var
+			#			value = 50
+			#		}
+			#	}
+			#}
+			#change_variable = {
+			#	which = EDG_BELA_POM_primogeniture_var
+			#	value = 1
+			#}
+		#}
+		hidden_effect = {
+			if = {
+				limit = {
+					has_country_flag = EDG_BELA_POM_gryf_war_ste_flag
+					any_province = {
+						has_province_modifier = EDG_POM_gryf_civil_war_province_support_ste_province_modifier
+					}
+				}
+				every_owned_province = {
+					limit = {
+						not = {
+							has_province_modifier = EDG_POM_gryf_civil_war_province_support_ste_province_modifier
+						}
+					}
+					add_permanent_province_modifier = {
+						name = EDG_POM_gryf_civil_war_province_support_wol_province_modifier
+						duration = 3650
+					}
+				}
+				every_province = {
+					limit = {
+						has_province_modifier = EDG_POM_gryf_civil_war_province_support_ste_province_modifier
+					}
+					remove_province_modifier = EDG_POM_gryf_civil_war_province_support_ste_province_modifier
+				}
+			}
+		}
+		ai_chance = {
+			factor = 10
+		}
+	}
+	#after = {
+	#}
+}
+country_event = { #反对派卷土重来
+	id = EDG_BELA_POM_events.24
+	title = EDG_BELA_POM_events.24.t
+	desc = EDG_BELA_POM_events.24.d
+	picture = CIVIL_WAR_eventPicture
+	is_triggered_only = yes
+	trigger = {
+		has_disaster = EDG_POM_gryf_civil_war
+		not = {
+			has_spawned_rebels = pretender_rebels
+		}
+		if = {
+			limit = {
+				has_country_flag = EDG_BELA_POM_gryf_war_wol_flag
+			}
+			dynasty = "von Wolgast"
+		}
+		if = {
+			limit = {
+				has_country_flag = EDG_BELA_POM_gryf_war_ste_flag
+			}
+			dynasty = "von Stettin"
+		}
+		
+	}
+	immediate = {
+		hidden_effect = {
+			if = {
+				limit = {
+					has_country_flag = EDG_BELA_POM_gryf_war_wol_flag
+				}
+				random_owned_province = {
+					limit = {
+						has_province_modifier = EDG_POM_gryf_civil_war_province_support_ste_province_modifier
+					}
+					remove_province_modifier = EDG_POM_gryf_civil_war_province_support_ste_province_modifier
+					spawn_rebels = {
+						type = pretender_rebels
+						size = 3
+						win = yes
+						#leader = "Boguslaw"
+						leader_dynasty = "von Stettin"
+					}
+				}
+			}
+			if = {
+				limit = {
+					has_country_flag = EDG_BELA_POM_gryf_war_ste_flag
+				}
+				random_owned_province = {
+					limit = {
+						has_province_modifier = EDG_POM_gryf_civil_war_province_support_wol_province_modifier
+					}
+					remove_province_modifier = EDG_POM_gryf_civil_war_province_support_wol_province_modifier
+					spawn_rebels = {
+						type = pretender_rebels
+						size = 3
+						win = yes
+						#leader = "Erik"
+						leader_dynasty = "von Wolgast"
+					}
+				}
+			}
+		}
+	}
+
+	option = { #
+		name = EDG_BELA_POM_events.24A
+		ai_chance = {
+			factor = 10
+		}
+		#if = {
+			#limit = {
+			#	has_reform = EDG_pomeranian_principality_reform
+			#}
+			#add_government_reform = EDG_united_pomeranian_principality_reform
+		#}
+		#add_country_modifier = {
+			#name = EDG_BELA_POM_first_gryf_modifier
+			#duration = -1
+		#}
+		#add_stability = 1
+		#change_adm = 1
+		#change_dip = 1
+		#change_mil = 1
+		#if = {
+			#limit = {
+			#	not = {
+			#		has_country_flag = EDG_BELA_POM_queli_faan_decision_flag
+			#	}
+			#}
+			#if = {
+			#	limit = {
+			#		has_country_modifier = EDG_BELA_POM_pyjcr_decision_modifier
+			#		
+			#	}
+			#	remove_country_modifier = EDG_BELA_POM_pyjcr_decision_modifier
+			#}
+			#if = {
+			#	limit = {
+			#		has_country_modifier = EDG_BELA_POM_pwjcr_decision_modifier
+			#		
+			#	}
+			#	remove_country_modifier = EDG_BELA_POM_pwjcr_decision_modifier
+			#}
+			#if = {
+			#	limit = {
+			#		has_country_modifier = EDG_BELA_POM_nbjc_decision_modifier
+			#		
+			#	}
+			#	remove_country_modifier = EDG_BELA_POM_nbjc_decision_modifier
+			#}
+			#if = {
+			#	limit = {
+			#		has_country_modifier = EDG_BELA_POM_qzgx_decision_modifier
+			#		
+			#	}
+			#	remove_country_modifier = EDG_BELA_POM_qzgx_decision_modifier
+			#}
+		#}
+		#if = {
+			#limit = {
+			#	has_country_modifier = EDG_BELA_POM_gryf_unite_var_modifier
+			#}
+			#remove_country_modifier = EDG_BELA_POM_gryf_unite_var_modifier
+		#}
+		#if = {
+			#limit = {
+			#	has_country_modifier = EDG_BELA_POM_gryf_first_var_modifier
+			#}
+			#remove_country_modifier = EDG_BELA_POM_gryf_first_var_modifier
+		#}	
+	}
+	#after = {
+	#}
+}
+country_event = { #波美拉尼亚的安娜
+	id = EDG_BELA_POM_events.30
+	title = EDG_BELA_POM_events.30.t
+	desc = EDG_BELA_POM_events.30.d
+	picture = HEIR_AND_FOREIGN_ADVISOR_eventPicture
+	fire_only_once = yes
+	mean_time_to_happen = {
+		months = 90
+	}
+
+	immediate = {
+	}
+
+	trigger = {
+		tag = WOL
+		#is_female = no
+		has_heir = no
+		ruler_age = 45
+		current_age = age_of_discovery
+		#has_country_modifier = EDG_BELA_POM_WOL_inheir_modifier_1
+	}
+
+	option = { #
+		name = EDG_BELA_POM_events.30A
+		#remove_country_modifier = EDG_BELA_POM_WOL_inheir_modifier_1
+		define_heir = {
+			dynasty = "Gryf"
+			name = "Anna"
+			monarch_name = "Anna Kroj" # or Kroi
+			age = 15
+			adm = 5
+			dip = 4
+			mil = 5
+			claim = 15
+			female = yes
+		}
+		add_stability = -1
+		add_estate_loyalty = {
+			estate = all
+			loyalty = -20
+		}
+		ai_chance = {
+			factor = 10
+		}
+	}
+	option = { #
+		name = EDG_BELA_POM_events.30B
+		add_prestige = 10
+		add_legitimacy = 5
+		ai_chance = {
+			factor = 5
+		}
+	}
+	after = {
+	}
+}
+country_event = { #才女索菲娅
+	id = EDG_BELA_POM_events.50
+	title = EDG_BELA_POM_events.50.t
+	desc = EDG_BELA_POM_events.50.d
+	picture = ADVISOR_eventPicture
+	fire_only_once = yes
+	mean_time_to_happen = {
+		months = 12
+	}
+	trigger = {
+		or = {
+			primary_culture = pommeranian
+			primary_culture = EDG_BELA_kashubia
+		}
+		is_year = 1500
+		not = {
+			is_year = 1750
+		}
+	}
+
+	immediate = {
+	}
+
+	option = { #将她征召为宫廷顾问。
+		name = EDG_BELA_POM_events.50A
+		define_advisor = {
+			type = philosopher
+			name = "Sophia Augusta Frederica"
+			location = 1858
+			skill = 5
+			culture = root
+			religion = root
+			cost_multiplier = 0.25
+			female = yes
+		}
+		ai_chance = {
+			factor = 10
+		}
+	}
+	option = { #或许可以来一段美妙的联姻。
+		name = EDG_BELA_POM_events.50B
+		define_advisor = {
+			type = philosopher
+			name = "Sophia Augusta Frederica"
+			location = 1858
+			skill = 5
+			culture = root
+			religion = root
+			cost_multiplier = 0.1
+			female = yes
+		}
+		define_consort = {
+			name = "Sophia"
+			dynasty = "Gryf"
+			adm = 6
+			dip = 6
+			mil = 6
+			female = yes
+		}
+		define_heir = {
+			adm = 5
+			dip = 5
+			mil = 5
+			claim = 100
+		}
+		trigger = {
+			not = {
+				ruler_age = 40
+			}
+			has_consort = no
+		}
+		change_adm = 1
+		change_dip = 1
+		change_mil = 1
+		ai_chance = {
+			factor = 10
+		}
+	}
+	after = {
+	}
+}
+country_event = { #王室联姻
+	id = EDG_BELA_POM_events.83
+	title = EDG_BELA_POM_events.83.t
+	desc = EDG_BELA_POM_events.83.d
+	picture = SEJM_eventPicture
+	is_triggered_only = yes
+
+	immediate = {
+	}
+
+	option = { #
+		name = EDG_BELA_POM_events.83A
+		trigger = {
+			has_country_flag = has_EDG_BELA_POM_KSB_marriage_decision_piast_flag
+		}
+		define_consort = {
+			dynasty = "Piast"
+			culture = polish
+		}
+		ai_chance = {
+			factor = 10
+		}
+	}
+	option = {
+		name = EDG_BELA_POM_events.83B
+		trigger = {
+			has_country_flag = has_EDG_BELA_POM_KSB_marriage_decision_premysl_flag
+		}
+		define_consort = {
+			dynasty = "Premysl"
+			culture = czech
+		}
+		ai_chance = {
+			factor = 10
+		}
+	}
+	option = {
+		name = EDG_BELA_POM_events.83C
+		trigger = {
+			has_country_flag = has_EDG_BELA_POM_KSB_marriage_decision_rurikovich_flag
+		}
+		define_consort = {
+			dynasty = "Rurikovich"
+			culture = ruthenian
+		}
+		ai_chance = {
+			factor = 10
+		}
+	}
+	option = {
+		name = EDG_BELA_POM_events.83E
+		trigger = {
+			has_country_flag = has_EDG_BELA_POM_KSB_marriage_decision_sisman_flag
+		}
+		define_consort = {
+			dynasty = "Sisman"
+			culture = bulgarian
+		}
+		ai_chance = {
+			factor = 10
+		}
+	}
+	option = {
+		name = EDG_BELA_POM_events.83F
+		trigger = {
+			has_country_flag = has_EDG_BELA_POM_KSB_marriage_decision_nemanya_flag
+		}
+		define_consort = {
+			dynasty = "Nemanya"
+			culture = serbian
+		}
+		ai_chance = {
+			factor = 10
+		}
+	}
+	after = {
+		hidden_effect = {
+			clr_country_flag = has_EDG_BELA_POM_KSB_marriage_decision_piast_flag
+			clr_country_flag = has_EDG_BELA_POM_KSB_marriage_decision_premysl_flag
+			clr_country_flag = has_EDG_BELA_POM_KSB_marriage_decision_rurikovich_flag
+			clr_country_flag = has_EDG_BELA_POM_KSB_marriage_decision_sisman_flag
+			clr_country_flag = has_EDG_BELA_POM_KSB_marriage_decision_nemanya_flag
+		}
+	}
+}

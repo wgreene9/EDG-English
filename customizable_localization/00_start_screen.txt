@@ -1614,6 +1614,27 @@ defined_text = {
     }
   }
   text = {
+    localisation_key = EDG_string_start_POM
+    trigger = {
+      OR = {
+        tag = WOL
+        tag = STE
+      }
+      NOT = {
+        is_year = 1450
+      }
+    }
+  }
+  text = {
+    localisation_key = EDG_string_start_TVE
+    trigger = {
+      tag = TVE
+      NOT = {
+        is_year = 1450
+      }
+    }
+  }
+  text = {
     localisation_key = string_start_tag_north_india
     trigger = {
       capital_scope = {

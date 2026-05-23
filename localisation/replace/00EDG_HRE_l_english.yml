@@ -600,7 +600,7 @@ incident_EDG_Imperial_Turkey_tax_event.2.a:0 "Empire members must stand together
 incident_EDG_Imperial_Turkey_tax_event.2.b:0 "We dare not defy the Emperor."
 incident_EDG_Imperial_Turkey_tax_event.2.c:0 "Fighting the Turks is the Emperor’s duty."
 incident_EDG_Imperial_Turkey_tax_event.2.e:0 "We are tax-exempt princes."
-incident_EDG_Imperial_Turkey_tax_event_2_a_tt:0 "We will hand over §M1§! + §Y10%§! of our §Myearly income§! to the Emperor."
+incident_EDG_Imperial_Turkey_tax_event_2_a_tt:0 "We will hand over §Y10%§! of our §Myearly income§! to the Emperor." # We will hand over §M1§! + §Y10%§! of our §Myearly income§! to the Emperor.
 
 incident_EDG_Imperial_Turkey_tax_event.3.t:0 "Nature of the Turkish Tax Changes"
 incident_EDG_Imperial_Turkey_tax_event.3.d:0 "As the power of the Turks wanes, the Empire no longer faces a Turkish threat. However, the Turkish Tax bill has not been repealed. The Emperor can still levy the Turkish Tax under various pretexts, but having lost its justification, future collections of the Turkish Tax will inevitably provoke dissatisfaction among the princes."

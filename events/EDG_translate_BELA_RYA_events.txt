@@ -1,0 +1,56 @@
+
+namespace = EDG_RYA_events
+
+country_event = { #费奥多尔·奥列戈维奇
+	id = EDG_RYA_events.104
+	title = EDG_RYA_events.104t
+	desc = EDG_RYA_events.104d
+	picture = SEJM_eventPicture
+
+	is_triggered_only = yes
+
+	trigger = {
+		tag = RYA
+		always = no
+	}
+
+	option = { #就是他了！
+		name = "EDG_RYA_events.104A"
+		remove_country_modifier = EDG_RYA_events_101_modifier
+		#define_ruler = {
+		#	name = "(梁赞波雅尔卫彻)"
+		#	dynasty = "奥列戈维奇"
+		#	adm = 0
+    	#	dip = 0
+   		#	mil = 0
+		#}
+		define_ruler = {
+			name = "Fyodor 'the Shrewd'"
+			dynasty = "Olegovich"
+			age = 17
+			change_adm = 2
+			change_dip = 2
+			change_mil = 2
+		}
+		clear_scripted_personalities = yes
+		#add_ruler_personality = embezzler_personality
+  		#add_ruler_personality = craven_personality
+  		#add_ruler_personality = greedy_personality
+		add_ruler_personality = reformist_personality
+		add_ruler_personality = tolerant_personality
+		add_ruler_personality = careful_personality
+		ai_chance = {
+			factor = 1
+		}
+		#add_country_modifier = {
+		#	name = EDG_RYA_events_104_modifier
+		#	duration = -1
+		#}
+		#hidden_effect = {
+		#	set_variable = {
+		#		which = EDG_rya_rerise_1_var #梁赞王权重建进度
+		#		value = 0
+		#	}
+		#}
+	}
+}
