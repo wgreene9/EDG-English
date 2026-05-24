@@ -104,7 +104,7 @@
 00EDG_IR1_B3_3_title:0 "Public Education"
 00EDG_IR1_B3_3_desc:0 ""
 
-00EDG_IR1_C3_1_title:0 "Repair Dilapidated Roads"
+00EDG_IR1_C3_1_title:0 "Repair Ruined Roads" # Repair Dilapidated Roads
 00EDG_IR1_C3_1_desc:0 ""
 
 00EDG_IR1_C3_2_title:0 "Iranian Nation Building"
@@ -116,7 +116,7 @@
 00EDG_IR1_D3_2_title:0 "Qanat System"
 00EDG_IR1_D3_2_desc:0 ""
 
-00EDG_IR1_D3_3_title:0 "Heavenly Kingdom on the Plateau"
+00EDG_IR1_D3_3_title:0 "Paradise on the Plateau" # Heavenly Kingdom on the Plateau
 00EDG_IR1_D3_3_desc:0 ""
 
 00EDG_IR1_E3_1_title:0 "Iranian Architecture"

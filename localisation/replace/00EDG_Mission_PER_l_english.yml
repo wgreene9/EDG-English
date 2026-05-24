@@ -53,10 +53,10 @@ EDG_Mission_PER_2_25_desc:0 "Few topics provoke as much division as matters of f
 EDG_Mission_PER_2_27_title:0 "Shadow of Allah on Earth"
 EDG_Mission_PER_2_27_desc:0 "Islam has been divided for a long time. Infidels occupy cities that were once our holy sites, and heretics ensure our brethren remain separated. If we truly wish to inherit the Caliphate, we must prove our capability, unifying Islam under the great rule of our [Root.Monarch.GetTitle]."
 
-EDG_Mission_PER_3_13_title:0 "Repair Dilapidated Roads"
+EDG_Mission_PER_3_13_title:0 "Repair Ruined Roads" # Repair Dilapidated Roads
 EDG_Mission_PER_3_13_desc:0 "Although Persia has been embroiled in centuries of warfare, it still retains much infrastructure that is hundreds of years old. We will reclaim this legacy of our ancestors, rebuild it, expand it, and bring greater benefits to our people."
 
-EDG_Mission_PER_3_14_title:0 "Iranian Nation-Building"
+EDG_Mission_PER_3_14_title:0 "Iranian Nation Building"
 EDG_Mission_PER_3_14_desc:0 "We will initiate a new wave of economic construction in the Iranian region. We shall become the most economically prosperous nation, and both the Iranian state and its people will greatly benefit."
 
 EDG_Mission_PER_3_16_title:0 "Control the Qizilbash"
@@ -80,7 +80,7 @@ EDG_Mission_PER_3_24_desc:0 "Iran has long been affected by religious divisions.
 EDG_Mission_PER_3_26_title:0 "Sword of Faith"
 EDG_Mission_PER_3_26_desc:0 "We shall become the blade of Allah, eradicating all those who do not follow the true faith."
 
-EDG_Mission_PER_4_12_title:0 "Revitalize the Iranian Population"
+EDG_Mission_PER_4_12_title:0 "Revive Iran's Population" # Revitalize the Iranian Population
 EDG_Mission_PER_4_12_desc:0 "The Persian people have suffered greatly during the years of incessant warfare, and the population of Persia has likewise been devastated. As we bring stability to this land, we should attempt to revitalize the Iranian population. Of course, this cannot be accomplished in one or a few generations; it will be a great struggle, a different kind of great battle."
 
 EDG_Mission_PER_4_14_title:0 "Qanat System"

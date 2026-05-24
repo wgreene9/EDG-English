@@ -2951,9 +2951,9 @@ guiTypes = {
 			scripted = yes
 		}
 	#标题
-		instantTextBoxType = {#标题1
+		instantTextBoxType = {#标题1 (Daqin/Iranian)
 			name = "EDG_IR1_overlord_1_text_bg_1"
-			position = { x= 330 y = 110 }
+			position = { x= 285 y = 110 } # x= 330
 			font = "vic_29"
 			borderSize = {x = 0 y = 0}
 			maxWidth = 300
@@ -2961,9 +2961,9 @@ guiTypes = {
 		    format = left
 		    scripted = yes
 		}
-		instantTextBoxType = {#标题2
+		instantTextBoxType = {#标题2 (Iran-Maha/Nestorian)
 			name = "EDG_IR1_overlord_1_text_bg_2"
-			position = { x= 305 y = 110 }
+			position = { x= 275 y = 110 } # x= 305 (270 ideal for Iran-Maha)
 			font = "vic_29"
 			borderSize = {x = 0 y = 0}
 			maxWidth = 300
@@ -2971,9 +2971,9 @@ guiTypes = {
 		    format = left
 		    scripted = yes
 		}
-		instantTextBoxType = {#标题3
+		instantTextBoxType = {#标题3 (Beth Nahrain)
 			name = "EDG_IR1_overlord_1_text_bg_3"
-			position = { x= 295 y = 110 }
+			position = { x= 255 y = 110 } # x= 295
 			font = "vic_29"
 			borderSize = {x = 0 y = 0}
 			maxWidth = 300
@@ -2983,7 +2983,7 @@ guiTypes = {
 		}
 		instantTextBoxType = {#国事诏书
 			name = "EDG_IR1_reform_1_text_bg"
-			position = { x= 110 y = 365 }
+			position = { x= 85 y = 365 } # x= 110
 			font = "vic_29"
 			borderSize = {x = 0 y = 0}
 			maxWidth = 150
@@ -2993,10 +2993,10 @@ guiTypes = {
 		}
 		instantTextBoxType = {#帝国革新
 			name = "EDG_IR1_reform_2_text_bg"
-			position = { x= 570 y = 365 }
+			position = { x= 535 y = 365 } # x= 570
 			font = "vic_29"
 			borderSize = {x = 0 y = 0}
-			maxWidth = 150
+			maxWidth = 158 # 150
 			maxHeight = 32
 		    format = left
 		    scripted = yes
