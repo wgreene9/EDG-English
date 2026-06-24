@@ -1,0 +1,82 @@
+EDG_FDM_scale_of_imam_disaster_release_ABS_effect = {
+	EDG_FDM_scale_of_imam_disaster_release_country_effect = {
+		tag = ABS
+		region = mashriq_region
+	}
+	ABS = {
+		save_global_event_target_as = EDG_sunni_Caliph_target
+		define_ruler = {
+			culture = al_misr_arabic
+			dynasty = "Abbasid"
+			adm = 6
+			dip = 6
+			mil = 6
+			min_age = 15
+			max_age = 30
+			male = yes
+		}
+		add_ruler_personality = EDG_mythical_conqueror_personality
+		add_country_modifier = {
+			name = EDG_FDMEvents_28_modifier
+			duration = 730
+		}
+		hidden_effect = {
+			add_government_reform = EDG_caliph_reform
+			if = {
+				limit = {
+					NOT = {
+						has_country_flag = EDG_sunni_Caliph_authority_var_started_flag
+					}
+				}
+				set_country_flag = EDG_sunni_Caliph_authority_var_started_flag
+				set_variable = {
+					which = EDG_sunni_Caliph_authority_var
+					value = 50
+				}
+			}
+			capital_scope = {
+				for = {
+					amount = 125
+					effect = "
+							infantry = PREV
+						"
+				}
+			}
+			add_ruler_personality = EDG_mythical_conqueror_personality
+			add_ruler_modifier = {
+				name = EDG_mythical_conqueror_modifier
+				duration = -1
+			}
+		}
+	}
+}
+
+EDG_FDM_scale_of_imam_disaster_release_country_effect = {
+	hidden_effect = {
+		every_province = {
+			remove_core = $tag$
+		}
+		$region$ = {
+			add_core = $tag$
+		}
+	}
+	release = $tag$
+	$tag$ = {
+		declare_war_with_cb = {
+			casus_belli = EDG_BAV_independence_cb
+			who = ROOT
+		}
+	}
+	hidden_effect = {
+		$tag$ = {
+			capital_scope = {
+				for = {
+					amount = 75
+					effect = "
+						infantry = PREV
+					"
+				}
+			}
+		}
+	}
+}

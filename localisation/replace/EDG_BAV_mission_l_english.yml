@@ -473,7 +473,7 @@ EDG_BAV_6_5_5_desc: ""
 EDG_BAV_6_5_5_1: "This mission is §Mcrucial§! for ending the disaster '§RThe Night of Blood§!' Please prioritize it!"
 EDG_BAV_6_5_5_2: "Now, §Rrebel§! §MWittelsbach Holdings§! will §Gno longer generate§! §Yarmies§!." # Reinforcements
 
-EDG_BAV_8_1_33_title: "The Other Side of the Mediterranean"
+EDG_BAV_8_1_33_title: "Across the Mediterranean" # The Other Side of the Mediterranean
 EDG_BAV_8_1_33_desc: ""
 EDG_BAV_8_1_33_1: "Now, the following §YGovernment Interactions§! are enhanced:\n- '§MAcquire Art Treasures§!' additionally increases §G+5.0%§! §YAll Estates Loyalty§!."
 
@@ -527,7 +527,7 @@ EDG_BAV_8_3_33_title: "The Fall of the Ottomans"
 EDG_BAV_8_3_33_desc: ""
 EDG_BAV_8_3_33_1: "Now, §MArt Treasures§! at maximum will provide §G+5.0%§! §YAdministrative Efficiency§!."
 
-EDG_BAV_8_3_34_title: "Sweeping Across the Iranian Plateau"
+EDG_BAV_8_3_34_title: "Sweeping the Iranian Plateau" # Sweeping Across the Iranian Plateau
 EDG_BAV_8_3_34_desc: ""
 EDG_BAV_8_3_34_1: "Now, §YConcentrate Development§! will additionally transfer §G+1§! random §YDevelopment§! to the capital without loss."
 
@@ -543,7 +543,7 @@ EDG_BAV_8_3_37_title: "Pacifying Burma"
 EDG_BAV_8_3_37_desc: ""
 EDG_BAV_8_3_37_1: "Now, the following §YGovernment Interactions§! are enhanced:\n- '§MPromote Artistic Exchange§!' additionally increases §G+5.0%§! §YAll Estates Loyalty§!."
 
-EDG_BAV_8_3_38_title: "The Indochinese Peninsula"
+EDG_BAV_8_3_38_title: "Indochinese Peninsula" # The Indochinese Peninsula
 EDG_BAV_8_3_38_desc: ""
 EDG_BAV_8_3_38_1: "Now, constructing an §OBeer Factory§! in a §YCoastal§! province that has a §YNaval§! building but no §YTrade Center§! will additionally §Ggrant§! a Level 1 §YTrade Center§!."
 
@@ -551,9 +551,9 @@ EDG_BAV_8_3_39_title: "The Land of the Rising Sun"
 EDG_BAV_8_3_39_desc: ""
 EDG_BAV_8_3_39_1: "Now, §YAnnexing§! a country by any means will grant §G+25§! to all categories of §YMonarch Power§!."
 
-EDG_BAV_8_3_40_title: "The Gate to Oblivion"
+EDG_BAV_8_3_40_title: "The Desolate Ground" # The Gate to Oblivion
 EDG_BAV_8_3_40_desc: ""
-EDG_BAV_8_3_40_1: "The great wheel of history rolls ever onward, and we finally step through the gate to oblivion..."
+EDG_BAV_8_3_40_1: "The great wheel of history rolls ever onward, and we finally enter the desolate ground..." # step through the gate to oblivion
 
 EDG_BAV_8_4_34_title: "Wolves on the Steppe"
 EDG_BAV_8_4_34_desc: ""
@@ -571,7 +571,7 @@ EDG_BAV_8_4_37_title: "The Peak of the Himalayas"
 EDG_BAV_8_4_37_desc: ""
 EDG_BAV_8_4_37_1: "Now, §MArt Treasures§! at maximum will provide §G+10§! §YMaximum Absolutism§!."
 
-EDG_BAV_8_4_38_title: "The Starting Point of the Silk Road"
+EDG_BAV_8_4_38_title: "The Start of the Silk Road" # The Starting Point of the Silk Road
 EDG_BAV_8_4_38_desc: ""
 EDG_BAV_8_4_39_title: "The Tip of the Peninsula"
 EDG_BAV_8_4_39_desc: ""

@@ -667,6 +667,12 @@ defined_text = {
     }
   }
   text = {
+    localisation_key = EDG_string_start_RIG
+    trigger = {
+      tag = RIG
+    }
+  }
+  text = {
     localisation_key = EDG_string_start_MRK
     trigger = {
       OR = {

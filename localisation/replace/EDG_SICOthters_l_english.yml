@@ -1,0 +1,823 @@
+﻿l_english:
+#Disaster
+EDG_SIC_civil_war_1:0 "Embers of Kings in Chaos"
+EDG_SIC_civil_war_1_end_tt:0 "We have ended §TEmbers of Kings in Chaos§! through missions."
+EDG_SIC_AI_CANT_DECLARE_WARS_BEFORE_DISASTER:0 "§RDeclaring war is forbidden before the Sicilian disaster ends!§!"
+EDG_SIC_share_with_Fatimid_tt:0 "We will share critical intelligence with our allies."
+unlock_EDG_SIC_Hellas_disaster_mercs_tt:0 ""
+EDG_SIC_0_2_2_1_title:0 "@SIC Support Local Merchants"
+EDG_SIC_0_2_2_2_title:0 "@VEN Appease the Venetians"
+
+#Age
+EDG_SIC_Complete_obj_humiliate_rival_tt:0 "Age objective §Y'Humiliate Rival'§! will be considered completed."
+
+#Missions
+EDG_SIC_allow_form_syracusae_tt:0 "Unlock decision: @GRE§T Form the Syracusan Republic§!"
+EDG_SIC_Hellenic_path_tt:0 "If we have chosen the §TRepublican§! path,"
+EDG_SIC_Latin_path_tt:0 "If we have chosen the §TMonarchist§! path,"
+EDG_SIC_stirred_up_disaster_tt:0 "§RDisaster triggered via decision already!§!"
+EDG_SIC_mission_end_civil_war_1_tt:0 "§RThe disaster§! §TEmbers of Kings in Chaos§! §Rwill be ended!§!"
+EDG_SIC_Killed_APU_tt:0 "If we have already annexed @APU§YApulia§! via event,"
+EDG_SIC_won_rival_bonus_1_tt:0 "Winning a war against a §Rhistorical rival§! will grant §Y50§! £adm£."
+EDG_SIC_won_rival_bonus_2_tt:0 "Winning a war against a §Rhistorical rival§! will grant §Y50§! £dip£."
+EDG_SIC_won_rival_bonus_3_tt:0 "Winning a war against a §Rhistorical rival§! will grant §Y50§! £mil£."
+EDG_SIC_won_rival_bonus_4_tt:0 "Winning a war against a §Rhistorical rival§! will grant §Y10§! power projection."
+EDG_SIC_against_rival_bonus_tt:0 "While at war with a §Rhistorical rival§!, we will gain certain §Ymilitary bonuses§!."
+EDG_SIC_mission_0_2_2.trigger.tt:0 "Have gained at least §T50§! opinion improvement with @VEN§Y[VEN.GetName]§! through §YImprove Relations§!"
+EDG_GRE_DISTRIBUTE_IN_MOREA_TT:0 "Distribute §G6§! £dip£ and §G6§! £mil£ to provinces under @MOE§T[MOE.GetName]§!."
+EDG_GRE_primitive_guns_tt:0 "\nDue to their size and archaic design, Syracusan artillery may only be used in siege warfare."
+unlock_EDG_GRE_Revenge_on_Latins_flag_tt:0 "When seizing provinces of the §GLatin§! culture group, they will gain the modifier §R@GRE Revenge of the Greeks§!. As long as this modifier remains, upon completing §Yconversion§! we will gain a §Gprovince core§! for our autonomous territory."
+EDG_GRE_distribute_10_base_tax_among_greek_provinces_tt:0 "Provinces with §TGreek§! culture under our rule will gain a total of §T10§! base tax."
+EDG_GRE_Remove_Latin_Crusaders_tt:0 "Cores of @EP0@EPI@GK1§YLatin Crusaders§! will be §Rerased§!"
+EDG_GRE_Rejuvenate_Magna_Graecia_tt:0 "Provinces with §YNeapolitan§! and §YSicilian§! culture under our rule will convert to §TSyracusan§! culture."
+EDG_GRE_Byzantium_Hussars_tt:0 "Recruit §Y10 units§T of §TCataphract Cavalry§! for us in §YByzantion§!"
+EDG_GRE_3_5_tooltip:0 "Our £icon_ideas£§YNational Ideas§! will be §Tenhanced§!."
+EDG_GRE_back_home_still_available_tt: "If the national modifier §T'Longing for Home'§! has not yet expired,"
+
+unlock_estate_EDG_GRE_Elysium_Dream_tt:0 "Unlock §TCitizen§! privilege: §TDream of Elysium§!"
+EDG_GRE_permanent_powerprojection_tt:0 "This power projection is §Ypermanent§!."
+unlock_estate_EDG_GRE_Illyrian_Hussars_tt:0 "Unlock §TParochoi§! privilege: §TIllyrian Hussar Regiments§!"
+EDG_GRE_DISTRIBUTE_IN_AZOV_TT:0 "Distribute §G6§! £dip£ and §G6§! £mil£ to provinces under @AZO§T[AZO.GetName]§!."
+unlock_EDG_GRE_Cimmerian_agriculture_descion_tt:0 "Unlock decision: @GRE§TRevival of Black Sea Agriculture§!"
+EDG_GRE_MISSION_AREA:0 "All provinces required by §Tmission objectives§!:"
+EDG_GRE_Alexandaria_Tower_equivalent_tt:0 "Regardless of whether we directly own the §YGreat Project§! §MAlexandria Lighthouse§!, we will gain the §Gmodifier§! effect equivalent to its §YMajestic§! tier."
+unlock_EDG_GRE_descion_Suez_Cannal_tt:0 "Unlock decision: @GRE§TConstruct the Ptolemaic Canal§!"
+EDG_GRE_Aegyptos_is_our_subject_tt:0 "If @NOM§T[NOM.GetName]§! is our §Msubject§!,"
+EDG_GRE_Azov_is_our_subject_tt:0 "If @AZO§T[AZO.GetName]§! is our §Msubject§!,"
+EDG_GRE_Bactria_is_our_subject_tt:0 "If @BAC§T[BAC.GetName]§! is our §Msubject§!,"
+EDG_GRE_Landsia_is_our_subject_tt:0 "If @ERS§T[Sassanids]§! is our §Msubject§!,"
+EDG_GRE_Morea_is_our_subject_tt:0 "If @MOE§T[MOE.GetName]§! is our §Msubject§!,"
+EDG_GRE_Smyrna_is_our_subject_tt:0 "If @SUG§T[SUG.GetName]§! is our §Msubject§!,"
+EDG_GRE_Bosprus_Bonus_tt:0 "As long as @AZO§T[AZO.GetName]§! remains our £icon_EDG_Hellenic_alliance£§Tallied§!, we gain an additional §G1§! §Ymerchant§!."
+EDG_GRE_Sparta_Bonus_tt:0 "As long as @MOE§T[MOE.GetName]§! remains our £icon_EDG_Hellenic_alliance£§Tallied§!, we gain an additional §G-1%§! §Yarmy tradition decay§!."
+EDG_GRE_Aegyptus_Bonus_tt:0 "As long as @NOM§T[NOM.GetName]§! remains our £icon_EDG_Hellenic_alliance£§Tallied§!, we gain an additional §G10%§! §Ygoods produced modifier§!."
+EDG_GRE_Bactria_Bonus_tt:0 "As long as @BAC§T[BAC.GetName]§! remains our £icon_EDG_Hellenic_alliance£§Tallied§!, we gain an additional §G-25%§! §Ygreat project construction time§!."
+EDG_GRE_Landsia_Bonus_tt:0 "As long as @ERS§T[Sassanids]§! remains our £icon_EDG_Hellenic_alliance£§Tallied§!, we gain an additional §G-10%§! §Yfire damage taken§!."
+unlock_EDG_GRE_descion_Landsia_Silk_tt:0 "Unlock decision: @GRE§TDevelop Caspian Carpets§!"
+unlock_EDG_GRE_descion_Pannonian_Methorian_tt:0 "Unlock decision: @RMN§TEstablish the Pannonian March§!"
+unlock_EDG_GRE_descion_Rhipaion_Methorian_tt:0 "Unlock decision: @SWI§TEstablish the Rhipaean March§!"
+EDG_GRE_gift_of_Mithras_still_available_tt:0 "If the national modifier §T'Gift of Mithras'§! has not yet expired,"
+EDG_GRE_Bibliotheca_Corviniana_equivalent_tt:0 "Regardless of whether we directly own the §YGreat Project§! §MBibliotheca Corviniana§!, we will gain the §Gmodifier§! effect equivalent to its §YMajestic§! tier."
+EDG_GRE_ARL_dead_tt:0 "If @ARL§G[ARL.GetName]§! or @PER§G[PER.GetName]§! (formed by [ARL.GetName]) does not exist:"
+EDG_GRE_ARL_is_dead_tt:0 "The event §YChild of Destiny Ismail§! will no longer occur."
+allow_EDG_GRE_unlock_Landsia_GreatProjects_tt:0 "@GRE§T[GRE.GetName]§! will be permitted to use certain §YPersian wonders§!."
+unlock_EDG_GRE_Revenge_on_Turkeys_flag_tt:0 "When seizing provinces of the §GTurkish§! culture group, they will gain the modifier §R@GRE Revenge for Manzikert§!. As long as this modifier remains, when §Yexploiting§! development, there is a chance the province will convert to §YAsiatic§! culture and §YOrthodox§! faith, and we will gain an additional 25 £cash£."
+
+#Ideas
+Syracusae_ideas:0 "Syracusan Ideas"
+Syracusae_ideas_bonus:0 "Syracusan Ambition"
+Syracusae_ideas_start:0 "Syracusan Traditions"
+Syracusae_plus_ideas:0 "Syracusan Ideas"
+Syracusae_plus_ideas_bonus:0 "Syracusan Ambition"
+Syracusae_plus_ideas_start:0 "Syracusan Traditions"
+Syracusae_Military_Government:0 "Syracusan Military Government"
+Syracusae_Military_Government_desc:0 "After the "Syracusan War of Independence," Theodoulos Vatatzes thwarted the restoration conspiracies of the Angelos royal house and the Catholics. Yet he did not crown himself and follow the old Roman path, but instead chose to reach an accord with the magnates, establishing a united military government. He actively revived Greek traditions, cast off Roman influence, and rebuilt the Syracusan Republic on the shores of Trinacria."
+Syracusae_rejuvenation_of_civilization:0 "Rejuvenation of Civilisation"
+Syracusae_rejuvenation_of_civilization_desc:0 "The catastrophe of 1204 nearly dragged the Orthodox world and Greek civilisation into utter ruin, yet by God's grace, we have endured. The ashes of ancient Greek wisdom have been rekindled on the shores of Syracuse. We take up the scrolls of Plato, recite the epics of Homer, restore the theatres of Syracuse, rebuild the columns of Corinth, refurbish the academies of Athens, and reorganise the battle arrays of Macedon. An ancient and vibrant civilisation is reviving—stronger than at any point in its history."
+Syracusae_control_the_Ecumenical_Patriarch:0 "Protector of the Ecumenical Patriarch"
+Syracusae_control_the_Ecumenical_Patriarch_desc:0 "The Bishop of Constantinople, the Ecumenical Patriarch—spiritual leader of the Greek world—had long been controlled by the Roman emperors, reduced to a mere tool of the Basileus rather than holding his due station. But Syracuse has liberated Byzantion; the Greek Patriarch is no longer shadowed by Romans or infidels. The Lord Protector is his new guardian."
+Syracusae_Come_form_Syracusae:0 "From Athens to Syracuse"
+Syracusae_Come_form_Syracusae_desc:0 "Plato made three voyages to Syracuse, all ending in bitter failure. The newborn Syracuse was once little more than a coalition of aristocratic interests, teetering on the brink of military tyranny. Yet through the efforts of successive Lord Protectors, we have proven to the world that the tyrant's oppression is but a bygone dream. The ideal that the ancient philosopher confined to his dialogues has now taken shape in the morning light of the Mediterranean, drawing its first true breath in law codes and councils. From Athens, to Syracuse—the unfulfilled shore that Plato sought now stands before us."
+Syracusae_Meagali_Idea:0 "The Great Ideal"
+Syracusae_Meagali_Idea_desc:0 "Before the Romans usurped our heritage and demeaned our culture, the Greek nation wielded even greater influence over the civilised world than Rome—far beyond our own borders. From the Pillars of Hercules to India, from the Scythian steppe to the ends of the Nile, Syracuse must realise the Great Ideal of its founding father Theodoulos: to restore the Hellenic world once more and soar together toward a glorious tomorrow."
+Syracusae_Greek_Fire_Revolution:0 "Greek Fire Revolution"
+Syracusae_Greek_Fire_Revolution_desc:0 "Greek civilisation is built upon the sea and ships. From ancient Hellas to the Eastern Roman Empire, our mighty fleets have won us countless honours. To restore the vast Hellenic world from the Atlantic to the Indian Ocean, a powerful navy is indispensable—and to overcome the centuries of decline since the 1204 catastrophe, a technological revolution is imperative. "Greek Fire," that once-fearsome naval weapon, shall soon re-enter the stage of war in a new guise."
+Syracusae_Second_Hellenistic_Age:0 "The Second Hellenistic Age"
+Syracusae_Second_Hellenistic_Age_desc:0 "The First Hellenistic Age spanned from Alexander the Great's eastern campaign (334 BC) to Rome's absorption of the last Hellenistic kingdom—Ptolemaic Egypt (30 BC). During this era, Greek classical civilisation deeply intermingled with the native cultures of Western Asia and North Africa, giving rise to a transregional cultural sphere with Greek as the lingua franca and Greek-style cities as its nodes—a richly hybrid civilisation that produced pioneering achievements in politics, science, art, and religion. Now, once again under powerful military leadership, the Greek nation has vanquished all its foes and stands at the dawn of a Second Hellenistic Age!"
+
+Syracusae_Hellenic_Military_Government:0 "Hellenic Military Government"
+Syracusae_Hellenic_Military_Government_desc:0 "After the "Syracusan War of Independence," Theodoulos Vatatzes reached an accord with the magnates, establishing a united military government. He actively revived Greek traditions, cast off Roman influence, and rebuilt the Syracusan Republic on the shores of Trinacria—an act that profoundly shaped the history of our nation and the world. Now, the military government has liberated the entire Greek world. We are no longer merely the "Military Government of Syracuse," but the "Military Government of All Greeks." The discipline of the Dorians, the wisdom of the Ionians, and the valour of the Macedonians are all at the Republic's service."
+
+Syracusae_Restore_World:0 "Rebuilding the World"
+Syracusae_Restore_World_desc:0 "In the eyes of many, the Syracusan War of Independence is already a thing of the past; the catastrophe of 1204 is a wound two centuries old; and the memory of Corinth sown with salt and Archimedes falling beneath the sword seems to belong to another age. Now, the Republic's fleet sails into Byzantion; the merchant ships of the Corinthian guild bustle in and out of the port of Thessaloniki; Syracusan scholars work day and night in the Library of Athens, collating ancient manuscripts. We were once brought to the brink of ruin, yet by God's great grace we have rebuilt the Greek world, healed the wounds accumulated over millennia, and stand more prosperous, flourishing, and magnificent than at any time in history."
+
+Syracusae_control_the_Ecumenical_Patriarch_plus:0 "The Holy Church Authorises the Republic"
+Syracusae_control_the_Ecumenical_Patriarch_plus_desc:0 "The old Roman emperors were powerless to protect the Orthodox Church before the shadows of infidels and blasphemers—but the Syracusan Lord Protector can, and the warriors of Greece can. With Byzantion liberated by the Republic, the Ecumenical Patriarch no longer bows to the sceptre of the Basileus, but offers his blessing to this Republic established by Greeks and for Greeks. The Holy Church recognises the Syracusan Republic as the lawful defender of the Orthodox faith and the temporal leader of all Greeks. In return, the Republic guarantees the Church's independence and dignity: the Patriarch may convoke ecumenical councils, appoint bishops, and participate in all matters of faith. This is not the Roman Emperor lording over the Church, nor the Catholic heretics' Church lording over the state—it is the Cross and the blue-and-white banner bearing mutual witness, a sacred covenant between the Holy Church and the Syracusan Republic."
+
+Syracusae_Come_form_Syracusae_plus:0 "From Athens to Syracuse"
+Syracusae_Come_form_Syracusae_plus_desc:0 "Plato made three voyages to Syracuse, all ending in bitter failure. The newborn Syracuse was once little more than a coalition of aristocratic interests, teetering on the brink of military tyranny. Yet through the efforts of successive Lord Protectors, we have proven to the world that the tyrant's oppression is but a bygone dream. The ideal that the ancient philosopher confined to his dialogues has now taken shape in the morning light of the Mediterranean, drawing its first true breath in law codes and councils. From Athens, to Syracuse—the unfulfilled shore that Plato sought now stands before us."
+
+Syracusae_Meagali_Idea_plus:0 "The Great Ideal"
+Syracusae_Meagali_Idea_plus_desc:0 "Before the Romans usurped our heritage and demeaned our culture, the Greek nation wielded even greater influence over the civilised world than Rome—far beyond our own borders. From the Pillars of Hercules to India, from the Scythian steppe to the ends of the Nile, Syracuse must realise the Great Ideal of its founding father Theodoulos: to restore the Hellenic world once more and soar together toward a glorious tomorrow."
+
+Syracusae_Greek_Fire_Revolution_plus:0 "Greek Fire Revolution"
+Syracusae_Greek_Fire_Revolution_plus_desc:0 "Greek civilisation is built upon the sea and ships. From ancient Hellas to the Eastern Roman Empire, our mighty fleets have won us countless honours. To restore the vast Hellenic world from the Atlantic to the Indian Ocean, a powerful navy is indispensable—and to overcome the centuries of decline since the 1204 catastrophe, a technological revolution is imperative. "Greek Fire," that once-fearsome naval weapon, shall soon re-enter the stage of war in a new guise."
+
+Syracusae_Second_Hellenistic_Age_plus:0 "The Second Hellenistic Age"
+Syracusae_Second_Hellenistic_Age_plus_desc:0 "The First Hellenistic Age spanned from Alexander the Great's eastern campaign (334 BC) to Rome's absorption of the last Hellenistic kingdom—Ptolemaic Egypt (30 BC). During this era, Greek classical civilisation deeply intermingled with the native cultures of Western Asia and North Africa, giving rise to a transregional cultural sphere with Greek as the lingua franca and Greek-style cities as its nodes—a richly hybrid civilisation that produced pioneering achievements in politics, science, art, and religion. Now, once again under powerful military leadership, the Greek nation has vanquished all its foes and stands at the dawn of a Second Hellenistic Age!"
+
+Hohenstaufen_ideas:0 "Hohenstaufen Sicilian Ideas"
+Hohenstaufen_ideas_bonus:0 "The Eternal Legend of the Hohenstaufen"
+Hohenstaufen_ideas_start:0 "Hohenstaufen Sicilian Traditions"
+Hohenstaufen_eagle_of_Malta:0 "The Hawk of Malta"
+Hohenstaufen_eagle_of_Malta_desc:0 "The essence of three civilisations—Greek, Germanic, and Latin—has forged our sovereign, Frederick "Stellette," into greatness.\nHis longsword is sharp, his spear keen, his helm bright and gleaming, his silver shield reflecting the boundless starry firmament.\nHe is the lone star of the Staufen, the black hawk of Malta, the sovereign of a new age."
+Hohenstaufen_Barbarossa_ambition:0 "Barbarossa's Ambition"
+Hohenstaufen_Barbarossa_ambition_desc:0 "The great Hohenstaufen Emperor Frederick "Barbarossa" rose from Swabia, was crowned Emperor of the Romans, and seized the crowns of Germany, Italy, and Burgundy, fighting all his life for Christ and the Empire. The memory he left behind still inspires our soldiers and generals—our soldiers yearn for greater battles, our generals envy his martial and holy prowess, and all are willing to devote their lives to realising his unfinished ambition."
+Hohenstaufen_Kaiserreich:0 "Caesar of Italy and Germany"
+Hohenstaufen_Kaiserreich_desc:0 "To rule all Italy and Germany—the unfinished work of the first two Fredericks—now rests firmly in the hands of the third Frederick. A new, true Roman Empire has returned to the world. The glory of Caesar now covers all Italy and Germany, and indeed the entire West. Europe has entered a new age—the Hohenstaufen's "Iron Century.""
+Hohenstaufen_University_of_Fredrich:0 "Frederick University"
+Hohenstaufen_University_of_Fredrich_desc:0 "During his reign, Frederick II founded Sicily's first university, established a school of poetry, and drew upon the wisdom of the Arabic and Greek worlds, making Sicily the first gleam of the "pre-Renaissance dawn." What a nation needs most is always talent. Let the third Frederick take up the torch from Frederick II and expand his legacy into a university system for Sicily."
+Hohenstaufen_Norman_ammiratus:0 "Norman Grand Admiral"
+Hohenstaufen_Norman_ammiratus_desc:0 "King Roger II of Sicily established the first Grand Admiral in history, reforming the naval system and thereby laying the foundation for Norman hegemony.\n\nTrinacria lies at the heart of the Mediterranean. If Sicily is to become a great European power, learning from the Normans' example and reforming the navy as Roger did will be an unavoidable path."
+Hohenstaufen_Papal_controller:0 "Protector of the Triple Crown"
+Hohenstaufen_Papal_controller_desc:0 "The great struggle between the House of Hohenstaufen and the decadent Roman Curia has at last come to an end. We have taken control of the heart of the universal Church, enabling us to make grand plans for the salvation of Catholic civilisation. Meanwhile, the Holy See need no longer be troubled by worldly affairs, and may retire to the monasteries of Malta to devote itself to the study of the scriptures and contribute to the reform of the Catholic Church—truly a solution that benefits both sides."
+Hohenstaufen_the_Constitutions_of_Melfi:0 "The New Constitutions of Melfi"
+Hohenstaufen_the_Constitutions_of_Melfi_desc:0 "In 1231, Frederick II promulgated the Constitutions of Melfi, embodying his vision of a centralised state and mercantilist policy. Now, facing the dawn of a new age, we should stand on the shoulders of this giant, revise the Constitutions of Melfi, and further promote absolute royal authority and centralisation."
+
+Angelos_ideas:0 "Angelos New Roman Ideas"
+Angelos_ideas_bonus:0 "Angelos New Roman Ambition"
+Angelos_ideas_start:0 "Angelos New Roman Traditions"
+Angelos_Porphyrogennetos:0 "Born in the Purple"
+Angelos_Porphyrogennetos_desc:0 "We are Romans. Our sovereign is a Porphyrogennetos, the rightful heir to the Eastern Empire; our dynasty is the legitimate ruling house of Constantinople. All the nations of Europe shall admire our imperial majesty."
+Angelos_Issac_reforms:0 "Isaac's Fiscal Reforms"
+Angelos_Issac_reforms_desc:0 "The Sicilian civil war left behind a devastated realm—within, the newly subjugated Latins were restless; without, the Pope and Venice pressed hard. Isaac V carried out a series of fiscal reforms to ensure the Sicilian state machinery could function properly and that his ambitions might be realised."
+Angelos_Roman_league:0 "The Roman League Charter"
+Angelos_Roman_league_desc:0 "A Sicily beset by internal and external troubles cannot sustain the Angelos dynasty's Roman dream. Why not, then, consolidate our strength, rally all who admire Rome to our cause, and promise them rewards—so long as they pledge their loyalty?"
+Angelos_Learn_from_the_west:0 "Learning from Western Institutions"
+Angelos_Learn_from_the_west_desc:0 "As the legitimate dynasty of the Eastern Empire, no one knows better than we how utterly decrepit the Byzantine bureaucratic machinery is. Our New Roman court flourishes in the West; we may invite Western counsellors, merchants, and bureaucrats to further enhance our administrative capacity and maintain a stable bureaucracy."
+Angelos_Romance_Hellen_friendship:0 "Romance-Hellenic Brotherhood"
+Angelos_Romance_Hellen_friendship_desc:0 "Cooperation with the Germans is, in the end, merely feigned diplomacy; friendship with our Romance brothers can bring the greatest benefit to the Empire. The Romance peoples possess a more advanced civilisation than the Germans, stronger armies, more glorious royal houses—and, like us, are more faithful to Rome and the Supreme Pontiff."
+Angelos_decentralization:0 "Regional Decentralisation"
+Angelos_decentralization_desc:0 "For centuries since the Fourth Crusade, the Empire's territories have been fragmented to an unprecedented degree. Though we have largely restored the imperial frontiers, local autonomy has become a tradition—and the great men who helped us achieve reunification are unwilling to yield their power. Very well, then—let us delegate authority to the provinces. Provided, of course, that they pledge their very hearts to New Rome."
+Angelos_Imperator:0 "Caesar of East and West"
+Angelos_Imperator_desc:0 "The Germans call themselves heirs of Rome, yet plainly they are not. New Rome rises like a phoenix from the ashes, marching toward its glorious destiny, proclaiming the supreme authority of the Caesar of East and West. The soul of the Angelos breaks forth from the ruins, quietly savouring the glory of the universal Empire."
+
+EDG_Ducate_ideas:0 "Greek Theme Ideas"
+EDG_Ducate_ideas_bonus:0 "Greek Theme Ambition"
+EDG_Ducate_ideas_start:0 "Greek Theme Traditions"
+EDG_Ducate_1:0 "Border Legions"
+EDG_Ducate_2:0 "Greek Bureaucracy"
+EDG_Ducate_3:0 "Servants of Syracusae"
+EDG_Ducate_4:0 "Mounting the World on Horseback"
+EDG_Ducate_5:0 "Hellenisation"
+EDG_Ducate_6:0 "Orthodox Zeal"
+EDG_Ducate_7:0 "The Peace of Syracuse"
+EDG_Ducate_1_desc:0 "The Akritai were originally border guards established by the Eastern Empire to defend the Asian frontiers. They built fortresses in the mountains, set up checkpoints on vital routes, relayed enemy movements by beacon, and guarded the Greek villages behind them with spears and crossbows. In the 9th and 10th centuries, the Akritai were integrated into the regular military system, enjoying land tax exemptions, shares of booty, and border autonomy. After the Seljuk invasions and the feckless rule of the Palaiologoi, the Akritai system gradually decayed. Now, the Greek military government has revived the Akritai system once more, to restore the frontiers of civilisation."
+EDG_Ducate_2_desc:0 "The bureaucrats of the themes are directly appointed by Syracusae—the most experienced administrative corps in the civilised world. This Greek bureaucratic system, inherited from the Eastern Empire and reformed by the Republic, is undoubtedly efficient and incorruptible."
+EDG_Ducate_3_desc:0 "The existence of the themes is not to share power with the Protectorate Council, but to enable the Lord Protector of Syracusae to better control the provinces. The generals of the themes govern by the grace of the Father of the Fatherland, strengthening the rule of the Archon over all lands."
+EDG_Ducate_4_desc:0 "We follow the invincible Lord Protector, believing that he shall mount his steed and conquer the world, fulfilling the unfinished prophecy of Alexander the Great. We keep pace with his conquest of the globe, ready to shed our last drop of blood and brave any fire for his cause."
+EDG_Ducate_5_desc:0 "The influence of Greek civilisation once stretched from Iberia in the west to the Indus Valley in the east, yet now it has withdrawn to a corner of the Aegean. To realise the "Great Ideal" of the Father of the Greeks, the themes are not merely a branch of the central government, but sowers of Greek civilisation—actively promoting assimilation in the provinces, absorbing the beneficial values of local cultures, and integrating them into the Greek world."
+EDG_Ducate_6_desc:0 "The spiritual world of today's Greeks is built upon the foundations of Orthodox civilisation, and the Syracusans' fervour for Orthodoxy has deeply influenced us as well. Faith binds soldiers from diverse regions together as brothers, inspiring them to hold fast on frontiers beset by pagans on every side. The monasteries serve simultaneously as hospitals, granaries, and beacon towers; the monks grasp both the Bible and the sword, forming the most resilient backbone of the themes."
+EDG_Ducate_7_desc:0 "We live under the protection of the Greek Federation, enjoying a long and stable peace. The Lord Protector of Syracusae has reformed the finances, restored tax order, disciplined the military, built infrastructure, promoted the Greek language, and codified Greek law—bringing peace and order to the Hellenic world. Contemporaries call this the "Peace of Syracuse.""
+
+#Idea Groups
+EDG_Firepower_basic_ideas:0 "Firepower Ideas"
+EDG_Firepower_basic_ideas_start:0 "Firepower Ideas Ambition"
+EDG_Firepower_basic_ideas_bonus:0 "Complete Firepower Ideas"
+EDG_Firepower_basic_ideas_1:0 "Standing Army Reform"
+EDG_Firepower_basic_ideas_2:0 "Royal Artillery Academy"
+EDG_Firepower_basic_ideas_3:0 "The Bronze Age"
+EDG_Firepower_basic_ideas_4:0 "Fire of the Sea"
+EDG_Firepower_basic_ideas_5:0 "Independent Field Artillery"
+EDG_Firepower_basic_ideas_6:0 "Linear Maneuver and Combined Tactics"
+EDG_Firepower_basic_ideas_7:0 "Grand Battery Tactics"
+EDG_Firepower_basic_ideas_1_desc:0 "The standing army is a product of social productive forces reaching a certain stage of development—a regular active-duty military force maintained in peacetime by a state or political entity. Standing armies typically adopt unified organisational structures, standardised equipment, specific rank systems, uniform clothing, specialised insignia and symbols, systematic training and education, and strict regulations to maintain high combat effectiveness and readiness. Moving toward a standing army is an essential path of military reform, marking the state's commitment of greater resources to the army and laying the foundation for the development of new weaponry."
+EDG_Firepower_basic_ideas_2_desc:0 "The Royal Artillery Academy is one of the nation's most important military institutions. Founded in the 15th century, it was the earliest professional military education academy for training artillery officers in our country, later becoming the pre-appointment educational institution for the entire artillery corps. Each year, the Academy selects talented young recruits; those admitted study all knowledge related to military logistics, troop deployment, and the construction of siege engines."
+EDG_Firepower_basic_ideas_3_desc:0 "The period from 1450 to 1540 is known as Europe's "Second Bronze Age," when nations vied to cast bronze cannon barrels on a scale and across regions unprecedented before or since. A classification system for artillery gradually took shape: long-barrelled guns for range, shorter cannons for power, and mortars for high-angle trajectory. The Greek mathematician Nikolaos Krinis discovered that projectiles achieve maximum range when fired at a 45-degree angle in a vacuum, laying the theoretical foundation for artillery science. In this era, the state standardised calibres and established an artillery ranking system, making artillery a permanent branch of the military."
+EDG_Firepower_basic_ideas_4_desc:0 "Greek Fire is an ancient weapon passed down from the Eastern Roman Empire. Its formula, based on petroleum mixed with sulphur, resin, and pitch, was projected through bronze siphons and could burn continuously on water. Now, driven by the needs of war, Greek craftsmen have combined the ancient Greek Fire with Eastern gunpowder and saltpetre, giving rise to even more devastating explosive weapons—potent tools for destroying enemy supplies, burning provisions, and breaching fortified cities."
+EDG_Firepower_basic_ideas_5_desc:0 "Gustavus Adolphus was a renowned military reformer who granted artillery unprecedented mobility. His core idea was to enable artillery to keep pace with the main army: by lightening the barrels, shortening their length, and reducing powder charges, he created "leather cannons" that could be pulled by just two men or one horse, and 3-pounder "regimental guns" that served as "mobile firing points" accompanying infantry charges. He elevated artillery from a "support" role to an independent branch on par with infantry and cavalry, establishing dedicated command structures and training standards, granting it independent tactical status."
+EDG_Firepower_basic_ideas_6_desc:0 "Gustavus Adolphus pioneered the lightening of artillery, using leather barrels and lighter carriages to enable cannons to manoeuvre alongside infantry. He abolished cumbersome siege guns in favour of standardised 3-pounder, 6-pounder, and 12-pounder regimental guns, coordinating artillery with infantry and cavalry. In the age of linear tactics, artillery was deployed at the centre of the battle line, using crossfire to tear apart enemy formations. The tactical core was to distribute artillery in pairs, moving with the line of advance to provide fire support—achieving combined arms coordination among infantry, cavalry, and artillery."
+EDG_Firepower_basic_ideas_7_desc:0 "Napoleon Bonaparte, himself an artillery officer, brought artillery tactics to their zenith on the battlefield. He pioneered "Grand Battery" tactics—concentrating hundreds of guns to deliver devastating bombardment against a single enemy flank at the decisive point, then plunging in cavalry and infantry columns once the enemy formation wavered. He established a dedicated "Artillery Reserve" under the direct command of the sovereign, ensuring overwhelming firepower at the critical moment of battle."
+
+EDG_Firepower_Act_0:0 "Gunpowder Regulation Act"
+EDG_Firepower_Act_1:0 "Military-Industrial System Act"
+EDG_Firepower_Act_2:0 "Gunboat Diplomacy Act"
+EDG_Firepower_Act_3:0 "Divine Punishment Flames"
+EDG_Firepower_Act_4:0 "Carpet Bombardment"
+EDG_Firepower_Act_5:0 "Sword of the Fire Abyss"
+EDG_Firepower_Act_6:0 "World Empire"
+EDG_Firepower_Act_7:0 "The People's Artillery"
+EDG_Firepower_Act_8:0 "New Order Reforms"
+EDG_Firepower_Act_9:0 "Royal Institute of Fortifications, Artillery, and Design"
+EDG_Firepower_Act_10:0 "Naryad Corps"
+EDG_Firepower_Act_11:0 "The Liechtenstein System"
+EDG_Firepower_Act_12:0 "The Path to Victory"
+EDG_Firepower_Act_13:0 "Purification Ordinance"
+
+EDG_Firepower_Act_0_desc:0 "Gunpowder is the lifeblood of the state's armies, and the fuse of social unrest. Nationalise saltpetre mines, sulphur mines, and powder mills—standardise the formula, standardise stockpiles, standardise issuance. Every barrel of powder has a serial number; every cannonball is registered in the ledgers. The seal of the Regulatory Bureau is stamped on the shell casings, and also upon the throat of rebellion. The treasury swells through monopoly, society finds stability through control."
+EDG_Firepower_Act_1_desc:0 "Casting cannons requires copper and tin; making powder requires saltpetre; transport requires wagons and horses. From mines to workshops, from workshops to ports, from ports to the front—through a series of efforts, our country has established a complete military-industrial chain, capable of autonomously converting raw materials into firepower. Every cannon barrel bears the mark of the miner's sweat, the craftsman's skill, and the merchant's capital. When military industry thrives, all industries thrive; when all industries thrive, the treasury overflows."
+EDG_Firepower_Act_2_desc:0 "Behind diplomatic rhetoric lie the gun barrels protruding from warship gunports. Warships armed with heavy cannons patrol the high seas. Whenever trade disputes or territorial conflicts arise, the thunder of naval guns is the most concise language of negotiation. Peace comes from deterrence; concessions are born of fear. Enemies dread the muzzles; allies respect the power. The day the gunboats arrive is the day negotiations begin."
+EDG_Firepower_Act_3_desc:0 "Clergy consecrate the artillery; soldiers inscribe the will of faith upon the shells. Sacred mission grants war its legitimacy; flames become the blade that punishes the enemy. Every roar is a judgment upon the blasphemers; every explosion is a manifestation of divine wrath. Where the holy banner points, the fire follows; where faith endures, the flames never die."
+EDG_Firepower_Act_4_desc:0 "Concentrate all artillery at the decisive point, expend ammunition without regard to cost, alter the course of a battle in an instant, and tear open the enemy's line with thunderous force. Integrate army field artillery into the assault echelons, expending ammunition without counting the cost in offensive operations. When the density of the barrage exceeds the enemy's endurance, walls crack, formations shatter, and defences collapse as ruin descends from above. First blast, then charge—leave no survivors; scourge the ground with fire, leaving nothing alive. Overwhelming fire itself is the trumpet of the assault."
+EDG_Firepower_Act_5_desc:0 "The Fire Abyss is the afterlife punishment repeatedly described in the Quran for the disbelieving, the wicked, and the unjust—a place consumed by all-devouring flames, filled with scalding water, toxic winds, and unremitting torment, the ultimate abyss for those cast out from God's mercy. The Prophet Muhammad (peace be upon him) bestowed upon Ali the legendary sword Zulfiqar, which in just wars represents the sacred power of judgment to defend the true path and strike the rebellious enemy into the Fire Abyss. Yet when believers, driven by selfish desires or factional strife, turn their blades—meant for external foes—upon their own brethren, that sword twists from an instrument of Jihad into a "guide to punishment" that drags the wielder himself into the Fire Abyss. Now, the jurists hold that Allah has granted the Sword of the Fire Abyss to our Caliph, impelling our state toward a new Jihad and the unification of Dar al-Islam."
+EDG_Firepower_Act_6_desc:0 "The bow-chasers of expeditionary fleets point toward uncharted coastlines. Artillery is used not only to bombard native fortresses, but also to assert sovereignty and drive out competitors. Colonies take root under the protection of gun batteries; trading posts flourish within range of naval guns. Every cannon roar is a signal that the frontier of civilisation is expanding outward."
+EDG_Firepower_Act_7_desc:0 "Our artillery units possess not only the most advanced weapons, but also the most advanced ideas and concepts, employing the most advanced tactics. All artillerists come from the free citizenry; they fight not for feudal lords great or small, but single-mindedly for their peasant brethren—truly the people's artillery."
+EDG_Firepower_Act_8_desc:0 "To curb the rising momentum of rival states, Padishah Selim III resolved to begin with the military, training a new-model army to replace the Empire's janissary corps. He procured a shipment of rifles and Western-style artillery, and invited foreign military advisors to train the new troops. Selim III established a new standing army loyal to the monarch. He founded various new military schools—for the army, the navy, and others—and hired foreign instructors to teach. To accommodate the work of the foreign advisors, he also established several military academies with instruction in foreign languages, each with a newly built library stocked mostly with foreign books."
+EDG_Firepower_Act_9_desc:0 "Cannon fire tears down the walls of the old age; fortifications withstand the tides of the new. To safeguard the crown's overseas interests, the monarchs of Iberia, from the unification onward, have eagerly recruited Europe's finest military engineers, founding in Lisbon this Royal Institute that combines mathematics, cartography, fortification, and artillery science. Here, noble scions and common geniuses alike study Vauban-style defences, ballistic calculations, and coastal battery design. It is these graduates who have kept bastion after bastion standing through countless sieges, and who have let Iberian artillery roar with the peninsula's fury in every volley."
+EDG_Firepower_Act_10_desc:0 "To advance the Tsardom's imperial ambitions, Ivan the "Terrible" greatly strengthened centralisation and pushed military reforms. He established the "Naryad"—meaning "dispatch" or "detachment"—a mission-oriented temporary artillery unit, not a fixed establishment but a provisional formation assembled according to specific operational needs. Personnel were mainly drawn from gunners and early arquebusiers. The Naryad Corps became synonymous with heavy firepower in its time, rendering outstanding service in breaching fortifications, and its operational model laid the foundations for the subsequent regularisation of Russian artillery."
+EDG_Firepower_Act_11_desc:0 "In response to the severe artillery deficiencies exposed during the War of the Austrian Succession, Prince Liechtenstein was commissioned to undertake a comprehensive reform of the Imperial Artillery. He personally developed and popularised an elevation screw-adjustment mechanism for gun barrels, greatly improving rate of fire and accuracy; and abolished the dangerous practice of loading loose powder in the open, replacing it with safer and more efficient cartridge bags. Through the "Liechtenstein System," he established new standards for Austria in weapon manufacturing, ammunition supply, and personnel training, elevating the Imperial Artillery to become the "most powerful tool" among Europe's military powers."
+EDG_Firepower_Act_12_desc:0 "The coat of arms of the House of Lancaster is a red rose—yet to cast such a rose requires enough blood, and blood is born of war.\n\nForge our legend with the enemy's blood; proclaim our victory with the enemy's blood. Before absolute firepower, the path to victory lies wide open!"
+EDG_Firepower_Act_13_desc:0 "The knights of the Blessed Virgin rally beneath the banner of holy war. In the name of the Immaculate Conception, the Crusaders wash away the sins of the blasphemers. Guided by Saint Peter and the Archbishop of Riga, we shall teach the unbelievers with the sacred compassion of Our Lady, and impart to them the doctrine of Christ."
+
+#Country Names 
+EDG_SIC_Syracusae_name:0 "Syracuse"
+EDG_SIC_Syracusae_name_ADJ:0 "Syracusan"
+
+EDG_SIC_Italia_name:0 "Itaniyah"
+EDG_SIC_Italia_name_ADJ:0 "Itaniyan"
+
+EDG_SIC_Hellas_name:0 "Greece"
+EDG_SIC_Hellas_name_ADJ:0 "Greek"
+
+EDG_SIC_Hohenstaufen_name:0 "Two Sicilies"
+EDG_SIC_Hohenstaufen_name_ADJ:0 "Sicilian"
+
+EDG_SIC_Roma_name:0 "Romania"
+EDG_SIC_Roma_name_ADJ:0 "Roman"
+
+EDG_LKS_Landsia_name:0 "Landsia"
+EDG_LKS_Landsia_name_ADJ:0 "Landsian"
+
+EDG_BEIHAI_name:0 "Pig Emperor of the North Sea"
+EDG_BEIHAI_name_ADJ:0 "Pig"
+
+GK3:0 "Bosporus"
+GK3_ADJ:0 "Thematic"
+
+GK5:0 "Sparta"
+GK5_ADJ:0 "Thematic"
+
+EDG_Meroes_name:0 "Meroë"
+EDG_Meroes_name_ADJ:0 "Meroitic"
+
+EDG_Elysium_name:0 "Elysium"
+EDG_Elysium_name_ADJ:0 "Overseas"
+
+EDG_Pannonia_name:0 "Pannonia"
+EDG_Pannonia_name_ADJ:0 "March"
+
+EDG_Dacia_name:0 "Dacia"
+EDG_Dacia_name_ADJ:0 "March"
+
+GK4:0 "New Syracuse"
+GK4_ADJ:0 "Overseas"
+
+GK6:0 "Rhipaeon"
+GK6_ADJ:0 "March"
+
+GK7:0 "Bactria"
+GK7_ADJ:0 "Thematic"
+
+GK8:0 "Parthia"
+GK8_ADJ:0 "Thematic"
+
+GK9:0 "Golden Cape"
+GK9_ADJ:0 "Thematic"
+
+G10:0 "Western Rome"
+G10_ADJ:0 "Roman"
+
+G11:0 "Aegyptos"
+G11_ADJ:0 "Egyptian"
+
+G12:0 "Magna Graecia"
+G12_ADJ:0 "Magna Graecian"
+
+G13:0 "Colchis"
+G13_ADJ:0 "Colchian"
+
+#Factions
+EDG_SIC_MIL_faction:0 "Germanic Faction"
+EDG_SIC_MIL_faction_influence:0 "Germanic Faction Influence"
+EDG_SIC_MIL_faction_FACTION_DESC:0 "The Germanic Faction originated from the "Mountain Folk" guard formed by Frederick of Malta. Adhering to the Catholic faith with loyalty and resilience, they form the core of the state's military might, controlling the army and leading campaigns with martial prowess.\n§YInfluence grows when we have high army tradition or are at war.§!"
+
+EDG_SIC_ADM_faction:0 "Roman Faction"
+EDG_SIC_ADM_faction_influence:0 "Roman Faction Influence"
+EDG_SIC_ADM_faction_FACTION_DESC:0 "The Roman Faction—also known as the Greek Faction—traces its origins to the Greek bureaucrats whom Isaac Angelos brought to Sicily. With a long history in the Eastern Empire, they are renowned for their administrative excellence.\n§YInfluence grows when we have high stability and are at peace.§!"
+
+EDG_SIC_DIP_faction:0 "Latin Faction"
+EDG_SIC_DIP_faction_influence:0 "Latin Faction Influence"
+EDG_SIC_DIP_faction_FACTION_DESC:0 "The Latin Faction represents the native powers of Italia. Long positioned between several great powers, they have honed their skills in diplomacy and trade, playing a pivotal role in our foreign strategy and commercial policy.\n§YInfluence grows when we have high diplomatic reputation.§!"
+
+EDG_Syracusae_MIL_faction:0 "Macedonian Faction"
+EDG_Syracusae_MIL_faction_influence:0 "Macedonian Faction Influence"
+EDG_Syracusae_MIL_faction_FACTION_DESC:0 "The Macedonian Faction is chiefly composed of federal military elites who graduated from the Macedonian Military Academy, founded by the founding father Theodoulos Vatatzes. They serve directly under the Archon, dominate the war council, and form Syracuse's war party.\n§YInfluence grows when we have high army tradition or are at war.§!"
+
+EDG_Syracusae_ADM_faction:0 "Antiochene Faction"
+EDG_Syracusae_ADM_faction_influence:0 "Antiochene Faction Influence"
+EDG_Syracusae_ADM_faction_FACTION_DESC:0 "The Antiochene Faction is held to have been founded by Marshal Gibran, an Antiochene who converted from Islam to Orthodoxy. Inheriting his political legacy, they focus on domestic governance, administrative integration, uniting diverse peoples and faiths, and promoting Orthodox belief and a new Hellenic identity.\n§YInfluence grows when we have high stability and are at peace.§!"
+
+#Culture
+EDG_Hellenic_group:"Hellenic"
+EDG_Syracusae:"Syracusan"
+EDG_Aegean:"Aegean"
+EDG_Carthage:"New Syracusan"
+EDG_Seleucia:"Seleucid"
+EDG_Cyrenaica:"Cyrenaican"
+EDG_Ptolemia:"Aegyptian"
+EDG_Italia:"Italiote"
+EDG_Asia:"Asiatic"
+EDG_Persis:"Persian"
+EDG_Bosporus:"Bosporan"
+EDG_Scythia:"Scythian"
+EDG_Caucasia:"Colchian"
+EDG_Gedrosia:"Gedrosian"
+EDG_Bactria:"Bactrian"
+EDG_Elysium:"Elysian"
+EDG_Illyria:"Illyrian"
+EDG_Thrace:"Thracian"
+EDG_massalia:"Massalian"
+EDG_Keltike:"Celtic"
+EDG_Elybirge:"Elybirgian"
+EDG_Arabia:"Arabian"
+EDG_Auomatia:"Ethiopian"
+EDG_Meroes:"Meroitic"
+EDG_Pannonia:"Pannonian"
+EDG_Methorion:"Methorian"
+EDG_Hellas:"Hellenic"
+EDG_Malaike: "Malaic"
+
+#Subjects
+EDG_Hellenic_alliance:0 "§MAlly§!"
+EDG_Hellenic_alliance_title:0 "§MAlly§!"
+EDG_Hellenic_alliance_title_plural:0 "§MAllies§!"
+EDG_Hellenic_alliance_long_desc:0 "£icon_EDG_Hellenic_alliance£ §TAllies§! are special subjects of @GRE§TSyracuse§!, occupying a diplomatic relation slot and providing army bonuses. £icon_EDG_Hellenic_alliance£ §TAllies§! are akin to marches but do not grant a base force limit contribution and can be annexed.\n\nCertain £icon_EDG_Hellenic_alliance£ §TAllies§! grant §Yadditional bonuses§! to their overlord under specific conditions."
+EDG_Hellenic_alliance_is_our:0 "$NAME|Y$ is one of our §MAllies§!"
+EDG_Hellenic_alliance_subject_Basic:0 "§THellenic Ally§!"
+
+EDG_GRE_Overseas_Territory:0 "§MOverseas Territory§!"
+EDG_GRE_Overseas_Territory_title:0 "§MOverseas Territory§!"
+EDG_GRE_Overseas_Territory_title_plural:0 "§MOverseas Territories§!"
+EDG_GRE_Overseas_Territory_long_desc:0 "£icon_EDG_GRE_Overseas_Territory£ §TOverseas Territories§! are special subjects of @GRE§TSyracuse§!, occupying no diplomatic relation slot and functioning similarly to colonies, with unique interactions available in the subject interface.\n\n§T£icon_EDG_GRE_Overseas_Territory£ Overseas Territories§! can only be established via missions."
+EDG_GRE_Overseas_Territory_is_our:0 "$NAME|Y$ is one of our §MOverseas Territories§!"
+EDG_GRE_Overseas_Territory_subject_Basic:0 "§TThe Blessed Land§!"
+
+EDG_Hellenic_Methorion:0 "§MMarch§!"
+EDG_Hellenic_Methorion_title:0 "§MMarch§!"
+EDG_Hellenic_Methorion_title_plural:0 "§MMarches§!"
+EDG_Hellenic_Methorion_long_desc:0 "£icon_EDG_Hellenic_Methorion£ §TMarches§! are special subjects of @GRE§TSyracuse§!, established only via decision, occupying no diplomatic relation slot and treated almost as direct territories of Syracuse. Through decisions to develop and expand £icon_EDG_Hellenic_Methorion£ §TMarches§!, they shall serve as bulwarks against foreign foes."
+EDG_Hellenic_Methorion_is_our:0 "$NAME|Y$ is one of our §MMarches§!"
+EDG_Hellenic_Methorion_subject_Basic:0 "§TGarrison Duty§"
+
+#Opinion Modifiers
+EDG_SIC_Hellenic_alliance_opinion:0 "Ally"
+EDG_SIC_GRE_Overseas_Territory_opinion:0 "Overseas Territory"
+EDG_SIC_GRE_ourhome_opinion:0 "Homeland"
+EDG_Hellenic_Methorion_subject_opinion:0 "Bulwark of Civilisation"
+EDG_Hellenic_Methorion_overlord_opinion:0 "Central Government"
+EDG_SIC_supported_MOE_opinion:0 "Supported Our Independence"
+EDG_SIC_rebel_against_BYZ_opinion:0 "Opposed Constantinople"
+EDG_SIC_betrayed_Fatimid_opinion:0 "Betrayed Our Oath"
+EDG_SIC_Trinacria_Coveter_opinion:0 "Covets Trinacria"
+EDG_SIC_Sicily_betrayal_opinion:0 "Usurped Our Homeland"
+EDG_SIC_Andreas_Legacy_opinion:0 "Andrea's Legacy"
+EDG_SIC_Angelos_Betrayal_opinion:0 "Betrayed the Angelos Dynasty"
+EDG_GRE_support_Noms_opinion:0 "Provided Mercenary Services"
+EDG_SIC_supported_sicily_opinion:0 "Supported Us"
+EDG_SIC_Fatimid_made_a_deal_opinion:0 "A Deal Was Made"
+ 
+#Casus Belli
+EDG_WG_APU_Crusade_against_SIC:0 "§OSicilian Crusade§!"
+EDG_WG_APU_Crusade_against_SIC_desc:0 "Our goal is to assert hegemony and restore the Kingdom of Sicily."
+cb_EDG_WG_APU_Crusade_against_SIC:0 "§OSicilian Crusade§!"
+cb_EDG_WG_APU_Crusade_against_SIC_desc:0 "We are the heirs of Roger II—we shall reunite the Two Sicilies once more!"
+EDG_APULIA_SICILY_CRUSADE_WAR_NAME:0 "§OSicilian Crusade§!"
+
+EDG_WG_GRE_unification:0 "§T@GRE Greek War§!"
+EDG_WG_GRE_unification_desc:0 "Our goal is to assert hegemony and achieve the reunification of the Greek world."
+EDG_WG_GRE_unification_prov_desc:0 "All provinces belonging to the §THellenic§! culture group or the §PByzantine§! culture group"
+cb_EDG_WG_GRE_unification:0 "§TGreek War§!"
+cb_EDG_WG_GRE_unification_desc:0 "We are the nation entrusted with the mission to restore Greece."
+cb_EDG_WG_GRE_war_enable_flag_tt:0 "We will unlock the §T@GRE Greek War§! casus belli.\n- This casus belli allows us to demand all provinces belonging to the §THellenic§! culture group or the §PByzantine§! culture group, and grants territorial cores on occupied provinces."
+
+EDG_WG_GRE_East_Conquest:0 "§TConquest of the East§!"
+EDG_WG_GRE_East_Conquest_desc:0 "Our goal is to assert hegemony and complete the unfinished work of Alexander the Great!"
+EDG_WG_GRE_East_Conquest_prov_desc:0 "All provinces in the §YChina§!, §YIndia§!, §YTartary§!, §YFar East§!, or §YEast Indies§! subcontinents"
+cb_EDG_WG_GRE_East_Conquest:0 "§TConquest of the East§!"
+cb_EDG_WG_GRE_East_Conquest_desc:0 "We are the heirs of Alexander the Great, and shall build a realm greater than the Macedonian Empire."
+
+EDG_WG_Orthodox_Divine_War:0 "§THoly War§!"
+EDG_WG_Orthodox_Divine_War_desc:0 "We are the sword and shield of the Orthodox Church—under the banner of Christ, we shall trample all foes."
+cb_EDG_WG_Orthodox_Divine_War:0 "§THoly War§!"
+cb_EDG_WG_Orthodox_Divine_War_desc:0 "As the sword and shield of the Orthodox Church, we may wage holy war against infidels and false believers."
+
+#Power Projection
+EDG_GRE_Reunify_Hellas:0 "§TReunited the Homeland§! (Permanent)"
+EDG_GRE_Alexandar:0 "§TTrue Heir of Alexander§! (Permanent)"
+EDG_SIC_Unify_Sicily:0 "§TUnited the Two Sicilies§! (Permanent)"
+
+#Mercenaries
+EDG_SIC_Hellas_disaster_mercs_1:0 "§TSyracusan National Salvation Army§!"
+EDG_SIC_Hellas_disaster_mercs_2:0 "§TPalermitan Pacification Army§!"
+EDG_SIC_Hellas_disaster_mercs_3:0 "§TMessinian National Guard§!"
+EDG_GRE_Hetairoi:0 "§TCompanion Cavalry§!"
+EDG_Sicilian_Guard:0 "§TMountain Folk Guard§!"
+EDG_GRE_Argyraspides:0 "§TSilver Shield Phalanx§!"
+EDG_GRE_Akritas:0 "§TDigenis War Band§!"
+EDG_GRE_Marine_Corps:0 "§TGreek Marine Corps§!"
+EDG_GRE_Lord_Protector_Guards:0 "§TLord Protector's Guard§!"
+EDG_GRE_Elysium_Expedeition:0 "§TElysian Expeditionary Force§!"
+EDG_GRE_Musketeers:0 "§TSyracusan First Musketeer Regiment§!"
+EDG_GRE_Gaul_Company:0 "§TGallic Warriors Company§!"
+EDG_GRE_Italia_Company:0 "§TItaliote Independent Battalion§!"
+EDG_GRE_Carthago_Crusaders:0 "§TNew Syracusan Paladins§!"
+EDG_GRE_Iberian_Tercio:0 "§TElybirgian Tercio§!"
+EDG_GRE_Illyria_Hussars:0 "§TIllyrian Hussars§!"
+EDG_GRE_Nile_Noms:0 "§TNile Nomarch Elite§!"
+EDG_GRE_Selucia_Company:0 "§TSeleucid Combined Corps§!"
+EDG_GRE_Parthia_Company:0 "§TParthian Light Cavalry§!"
+EDG_GRE_Persian_Greek:0 "§TPersian Greeks§!"
+EDG_GRE_Indian_Security_Company:0 "§TIndian Security Corps§!"
+EDG_GRE_Scythian_Calvary:0 "§TScythian Riders§!"
+EDG_GRE_Bactrian_Company:0 "§TBactrian Princely Guard§!"
+EDG_GRE_Swiss_Gurad:0 "§TElite Rhipaean Guard§!"
+EDG_GRE_BEIHAIZHUSHEN_Company:0 "§TNorth Sea Gods Mercenary Company§!"
+EDG_GRE_LANCE_Company:0 "§TLandsia's Ponies§!"
+EDG_GRE_Paocai_Company:0 "§TInvincible Paocai Brigade§!"
+
+#Colonies
+EDG_GRE_Thule:0 "Thule"
+EDG_GRE_Thule_ADJ:0 "Thulean"
+EDG_GRE_Borealia:0 "Borealia"
+EDG_GRE_Borealia_ADJ:0 "Boreal"
+EDG_GRE_Elysium:0 "Elysium"
+EDG_GRE_Elysium_ADJ:0 "Elysian"
+EDG_GRE_Antigone:0 "Antigone"
+EDG_GRE_Antigone_ADJ:0 "Antigonean"
+EDG_GRE_Hesperidia:0 "Hesperidia"
+EDG_GRE_Hesperidia_ADJ:0 "Hesperidian"
+EDG_GRE_Nova_Laconia:0 "New Laconia"
+EDG_GRE_Nova_Laconia_ADJ:0 "New Laconian"
+EDG_GRE_Nova_Aegean:0 "New Aegean Isles"
+EDG_GRE_Nova_Aegean_ADJ:0 "New Aegean"
+EDG_GRE_Arcadia:0 "Arcadia"
+EDG_GRE_Arcadia_ADJ:0 "Arcadian"
+EDG_GRE_Nova_Olympus:0 "New Olympus"
+EDG_GRE_Nova_Olympus_ADJ:0 "New Olympian"
+EDG_GRE_Argyrea:0 "Argyrea"
+EDG_GRE_Argyrea_ADJ:0 "Argyrean"
+EDG_GRE_Nova_Phoenicia:0 "New Phoenicia"
+EDG_GRE_Nova_Phoenicia_ADJ:0 "New Phoenician"
+EDG_GRE_Antipodia:0 "Antipodia"
+EDG_GRE_Antipodia_ADJ:0 "Antipodean"
+
+#Traits
+EDG_personality_Grand_LordProtector:0 "Grand Lord Protector"
+EDG_personality_Grand_LordProtector_desc:0 "Theodoulos Vatatzes sprang from a cadet branch of the Laskaris lineage, rose through the military ranks, and distinguished himself in the army by his early thirties. After the death of the Sicilian Emperor Isaac IV, he seized power, deposed the feeble young emperor, and—with the backing of the great houses—established the Republic. In the face of Latin invasions, plots between the deposed emperor and Catholic remnants, Theodoulos defeated every enemy, winning national independence and renewal for the Syracusans. Now, he stands ready to lead Syracuse—a nation both ancient and newborn—toward an even greater destiny."
+EDG_personality_Grand_LordProtector_die_desc:0 "Theodoulos Vatatzes was the proudest son of Greece. He rebuilt the Syracusan state, saved Orthodox civilisation, revived the republican traditions of the Greek world, and—taking up the mantle of Alexander the Great—launched a new conquest that heralded the Second Hellenistic Age. His tenure in office was flawless, worthy of the title Grand Lord Protector bestowed by the Protectorate Council and all the Greek people. He steered the Syracusan ark, the Noah's vessel of the Greeks, toward distant horizons—undoubtedly the most divinely gifted and martial leader in our nation's history. At this moment, the breath of every Greek is suspended in mourning for his loss."
+
+EDG_personality_LordProtector:0 "Lord Protector"
+EDG_personality_LordProtector_desc:0 "This ruler is virtuous in character, resolute in spirit, and exceptional in ability—elected by the Protectorate Council and all the Greek people as the Federal Archon, invested with the same title of "Lord Protector" as the founding father Theodoulos Vatatzes, and sworn to lead the Republic steadily forward along the path of the ancients."
+EDG_personality_LordProtector_die_desc:0 "His achievements and virtue are fondly remembered by all who knew him; his deeds shall be recorded in the annals of world history; his bier shall be carried by the Greek people into the Pantheon of Athens."
+
+EDG_personality_Therios:0 "Therios "the Ephesian""
+EDG_personality_Therios_desc:0 "Therios Papas was born into a political family in Ephesus, a house that had long held power in the Republic of Smyrna. He received an excellent education, travelling widely along the Aegean coast, even to Pontus and Sicily, to study music, political theory, and philosophy. Born of noble lineage yet never accustomed to ease, he was upright, incorruptible, far-sighted, eloquent, resolute, calm, dignified, and approachable to the common people. He rose to prominence on Smyrna's political stage at a young age, and was appointed Archon of Smyrna in the face of the advancing Turks. He wholeheartedly embraced the Greek nationalism envisioned by the Lord Protector Theodoulos, and pledged his life to that cause. After the Protector departed this world, Therios was elected the new Archon. Compared to Theodoulos, he was more reserved and contemplative, focusing on administrative reform and domestic development—often compared to the ancient Athenian statesman Pericles."
+EDG_personality_Therios_die_desc:0 ""
+
+EDG_personality_Andreas:0 "Andreas "Antigonus""
+EDG_personality_Andreas_desc:0 "Andreas Gibran was born in a small village outside Antioch. Nearly all his fellow villagers were descendants of Orthodox Christians who had been forced to convert to Islam under duress. Thus, when the federal army approached Antioch, they welcomed the imperial troops with food and drink. It was at this moment that Andreas joined the Syracusan army. From his very first campaigns, he displayed astonishing military talent, rising from the ranks through repeated feats of valour to become commander of the Seleucid Theme. With the Republic's deliberate encouragement, he became a model for former infidels and foreigners, rallying a vast constituency that had long stood outside Syracuse's mainstream political stage. Some of his political adversaries call him "Antigonus"—after the Diadoch warlord who nearly united the Hellenistic world. Though he personally preferred to compare himself to Alexander the Great, his magnanimity led him to accept the epithet; in one speech, he even declared his ambition to surpass Antigonus and rebuild the Hellenistic world."
+EDG_personality_Andreas_die_desc:0 ""
+
+EDG_personality_Ignatios:0 "Ignatios "the Saint""
+EDG_personality_Ignatios_desc:0 "Ignatios was a virtuous and humble priest, born in the province of Western Colchis. He rose from a lowly clerical post to become abbot of the Glat Monastery, and later entered politics, where he gathered a circle of like-minded individuals through his natural gifts, playing a key role in the Federal-Concordat agreement with the Holy Church. Amid the political storms of the Federation, the military government—under pressure—put forward Ignatios, who had never served in the military, as Archon. While his character was beyond reproach, his profound piety, his inexperience in wielding power, and especially his naïve understanding of the military, left many wondering where he would lead the nation..."
+EDG_personality_Ignatios_die_desc:0 ""
+
+EDG_personality_Sotirios:0 "Sotirios "Mithridates""
+EDG_personality_Sotirios_desc:0 "Sotirios Komnenos was said to be a scion of the Komnenian dynasty, born into a military family in the province of Pontus. His ancestors had won the epithet "Mithridates" for their role in a revolt that captured the city during the Trebizond campaign. Upon coming of age, Sotirios joined the Federal Defence Forces, serving in the Asian Theme, the Aegyptus Special Region, the Bactrian March, the Indian front, and even spending time in the Elysian territories—his career was immaculate. At the time of the Federal upheaval, Sotirios had been recalled to Syracusae as commander of the Lord Protector's Guard. He swiftly brought the chaos under control, won the trust of both the military and the bureaucracy, and was subsequently elected Lord Protector. Leading his armies into the field, he quickly pacified the disorder. His very name—derived from Christ's title "Saviour"—carried profound pious resonance, and truly, like his namesake, he saved the storm-tossed ship of Syracuse."
+EDG_personality_Sotirios_die_desc:0 ""
+
+EDG_personality_Constantinus:0 "Constantinus "the Lawgiver""
+EDG_personality_Constantinus_desc:0 "Constantinus Athenios was born into a common family in Attica. He served long years in the Federal Defence Forces, and after his discharge became an administrator, rising to Chief of the Cabinet during the government of Sotirios. By the time Constantinus took office, the Federal administrative machinery was in dire need of reform; the new era's structure had shifted far from the days of Theodoulos and Therios. Thus, he actively responded to the demands of the age, carrying out a comprehensive overhaul of the Federal administrative apparatus and bureaucracy. If Sotirios's martial achievements bore comparison to "Restorer of the World" Aurelian, then Constantinus's civil governance surpassed even Emperor Justinian the Great. He reshaped the Greek spirit and gave the Greek state a living soul."
+EDG_personality_Constantinus_die_desc:0 ""
+
+#Leader Traits
+edg_sic_grand_lordprotector_personality:0 "§TGrand Lord Protector§!"
+desc_edg_sic_grand_lordprotector_personality:0 "This commander is the leader elected by the Protectorate Council and all the Syracusan people. Under his command, we have marched from victory to victory."
+edg_sic_grand_lordprotector_personality_die_desc:1 "Before he took up arms, the Greek world still languished under the yoke of foreign peoples; when he passed, all of Greece flourished united beneath the eagle banner of Syracuse."
+
+edg_gre_sword_of_alexandar_personality:0 "§TSword of Alexander§!"
+desc_edg_gre_sword_of_alexandar_personality:0 "This commander is held to be the heir of Alexander the Great, renowned for swift conquests and merciless, fiery offensives."
+edg_gre_sword_of_alexandar_personality_die_desc:1 "The vast domains he won for the Greek nation shall never be forgotten by any citizen."
+
+#Flagships
+EDG_GRE_mass_load_greek_fire:0 "§T@GRE Mass Greek Fire Loadout§!"
+EDG_GRE_mass_load_greek_fire_desc:0 "Long before the enemy can take notice, the powerful naval guns of our fleet will have already poured their fire upon their feeble vessels by the most effective means."
+
+#Naval Doctrines
+EDG_GRE_greek_fire_fleet:0 "§TGreek Fire Fleet§!"
+EDG_GRE_greek_fire_fleet_desc:0 "Greek Fire is a liquid incendiary compound, primarily used in naval warfare. Its base component is petroleum, mixed with sulphur and other substances, enabling it to burn continuously on water and be extremely difficult to extinguish. It is the unique naval art of our fleet."
+
+#Great Projects
+EDG_GREs_FRA_culture_trigger_tt:0 "Is of §THellenised§! §YFrench§! culture"
+EDG_GREs_PER_culture_trigger_tt:0 "Is of §THellenised§! §YIranian§! culture"
+EDG_GREs_IBR_culture_trigger_tt:0 "Is of §THellenised§! §YIberian§! culture"
+EDG_GREs_ITA_culture_trigger_tt:0 "Is of §THellenised§! §YLatin§! culture"
+EDG_GREs_EGY_culture_trigger_tt:0 "Is of §THellenised§! §YLevantine§! culture"
+EDG_Orthodox_Restore_the_Pentarchy_tt:0 "The §TPentarchy§! has been restored."
+EDG_GRE_unlock_Landsia_GreatProjects_tt:0 "Certain §TPersian wonders§! have been unlocked."
+
+#Characters
+EDG_GRE_Glasorvsky_effect_tt:0 "A Rus' ambassador will arrive at our court."
+EDG_Konstantinos_name:0 "Konstantinos"
+
+#Estates
+EDG_Syracusae_estate_burghers_name:0 "Citizens"
+EDG_Syracusae_estate_burghers_desc:0 "The concept of "Citizen" originated during the Syracusan War of Independence and, with the rise of Greek nationalism, was established by the Protectorate Council as the legal subject status of the Republic. Bound to the state through shared national identity, Citizens enjoy specific rights—equality, political participation, personal liberty, and socio-economic and cultural entitlements—while bearing corresponding duties: obedience to the law, military service, and taxation. Above all, they owe the Federation their highest political loyalty."
+
+estate_EDG_GRE_Hellenic_Nationalism:0 "§TGreek Nationalism§!"
+estate_EDG_GRE_Hellenic_Nationalism_desc:0 "Nationalism is an ideology and social movement that places the nation at the centre of political life, emphasising national identity, loyalty, and solidarity, and typically pursuing national autonomy, unification, or independence. Greek nationalism emerged from the Syracusan War of Independence, drawing upon the dual heritage of ancient Greek civilisation (democracy, philosophy, art) and Orthodox tradition to construct a narrative of "continuity.""
+estate_EDG_GRE_Hellenic_Nationalism_tt:0 "All provinces under our rule with the §THellenic§! §Tculture group§! will gain:"
+EDG_GRE_Hellenic_Nationalism_modifier:0 "Greek Nationalism"
+EDG_GRE_Hellenic_Nationalism_modifier_desc:"§TLet me climb the cliffs of Sounion,\nThat I may hear the whispers passing between us,\nAnd sing my swan-song before I die;\nI want no slave's country for my own—\nBreak that Samian wine-cup now!§!"
+
+estate_EDG_GRE_Elysium_Dream:0 "§TDream of Elysium§!"
+estate_EDG_GRE_Elysium_Dream_desc:0 "You are not destined to die in horse-pasturing Argos,\nNor there to receive the end of your fate.\nThe gods shall send you to the Elysian Plain,\nTo the ends of the earth, to golden-haired Rhadamanthys—\nWhere life is easiest, where mortals need no toil,\nNo snow, no winter rain, no long months of cold,\nBut ever the warm west wind that Oceanus sends,\nGently soothing all heroes who have grown old."
+
+EDG_SIC_estate_interracial_name:0 "Greeks"
+EDG_SIC_estate_interracial_desc:0 "The Greeks are among Sicily's most ancient civilisational memories. As early as three thousand years ago, they crossed the seas, weathered the winds, and founded city-states, planting olive branches and philosophical thought in the island's fertile soil. Though Romans, Saracens, and Normans followed in turn, the Greeks remained a vital force in Trinacria. From the "Sicilian Vespers" to the "Palermo Incident," the Greeks ruled Sicily for nearly two hundred years, gradually merging with the local population to form a distinctive Greco-Sicilian culture. Greek immigrants brought their language, architecture, and legal traditions, serving as physicians, astrologers, tax officials, and diplomatic interpreters, infusing the court with Byzantine administrative wisdom, while their maritime expertise became key to the kingdom's control over Mediterranean trade routes. Even with the return of the Hohenstaufen royal house, they remain an indispensable part of the realm."
+
+estate_EDG_SIC_interracial_Girko_Community:0 "§OGriko Community§!"
+estate_EDG_SIC_interracial_Girko_Community_desc:0 "The "Griko Community" originally referred to the Greek-speaking cultural groups of southern Italy. As early as the 8th century BC, the Greeks founded numerous colonial cities in what was then called "Magna Graecia" in present-day southern Italy—Syracuse, Taranto, Croton, and others. During the Byzantine period, Greek culture gradually revived in the south under Constantinople's rule. Though the Normans later came to rule the Two Sicilies, they did not eradicate the flourishing Greek communities. To this day, we have restored Catholic rule in Sicily without confronting the Greeks head-on, choosing instead cooperation and inclusion. Under our dynasty, the air and sunlight belong equally to all."
+
+estate_EDG_SIC_interracial_Girko_Community_tt:0 "All provinces under our rule located in §OSouthern Italy§! or with the §OByzantine§! §Oculture group§! will gain:"
+EDG_SIC_interracial_Girko_Community_modifier:0 "Griko Community"
+EDG_SIC_interracial_Girko_Community_modifier_desc:"§OI give the Greeks their due honour,\nNor do I strip the Latins of their wealth,\nShield in hand,\nI protect both sides,\nAnd let neither win unjustly.§!"
+
+EDG_Syracusae_estate_interracial_name:0 "Parochoi"
+EDG_Syracusae_estate_interracial_desc:0 "The Parochoi (Perioikoi)—"borderland citizens"—is the collective term for the non-Greek free population incorporated into the Syracusan Republic during its expansion. They come from newly conquered territories or the Federation's margins (initially Italia and Anatolia, later Persia and Iberia), retaining a degree of local autonomy and engaging in commerce, industry, and auxiliary military service, while often excluded from core political power. Their personal liberty is protected by imperial law, and their property rights are equal to those of Greek citizens; they enjoy broad self-governance in local affairs. All this comes at the cost of two obligations: paying higher land and trade taxes than citizens, and providing auxiliary troops proportionally in wartime. Yet this boundary is not fixed. As the state continues to expand, it is foreseeable that ever more Parochoi will ultimately embrace the identity of "Greek Citizen.""
+
+estate_EDG_SIC_interracial_Mercenary:0 "§TEstablish Integrated Legions§!"
+estate_EDG_SIC_interracial_Mercenary_desc:0 "The Greek world has only just recovered from the brink of collapse; our people need rest and cannot support large-scale warfare for the Republic. Thus, Lord Protector Theodoulos concluded that we could learn from the military organisation of the Hellenistic states, which also suffered from population shortages: with Greek soldiers as the core, we would widely adopt local military traditions and raise integrated legions from foreign troops."
+estate_EDG_SIC_interracial_Mercenary_tt:0 "We will unlock a series of §TIntegrated Legions§! upon completing certain conquest missions."
+
+estate_EDG_SIC_interracial_Generals:0 "§TPromote Foreign Generals§!"
+estate_EDG_SIC_interracial_Generals_desc:0 "Since the time of the founding father Theodoulos, the martial tradition has gradually revived among the Greek people. The ancient Greeks honoured the strong and valued ability far above birthplace and bloodline. We should continue this glorious tradition, prioritising merit and welcoming the capable."
+estate_EDG_SIC_interracial_Generals_tt:0 "§YRecruiting a general§! will now increase §TParochoi§! loyalty by §Y5 points§!."
+
+estate_EDG_SIC_interracial_Marshal:0 "§TAppoint Grand Marshal§!"
+estate_EDG_SIC_interracial_Marshal_desc:0 "The Archon serves simultaneously as leader of the Federal Government, the Protectorate Council, and the National Defence Forces, with a heavy burden of affairs. Perhaps we could promote a capable figure from the military to share the Archon's responsibilities."
+
+estate_EDG_GRE_Illyrian_Hussars:0 "§TIllyrian Dragoon Regiments§!"
+estate_EDG_GRE_Illyrian_Hussars_desc:0 "Though the concept of light cavalry formations originated in ancient Rome, it is generally held that the Balkan Hussars first appeared on the historical stage as auxiliary troops of the Eastern Empire, recruited primarily from the Serbian territories under imperial control in the 10th and 11th centuries. Even after Rome's fall, this tradition continued, further refined and perfected over the following centuries, eventually giving rise to the present Illyrian Dragoon Regiments."
+
+EDG_Syracusae_estate_cossacks_name:0 "Rus' People"
+EDG_Syracusae_estate_cossacks_desc:0 "The East Slavs originated along the Dnieper River, thriving on the East European Plain, and later merged with the Varangians to form the present Rus' people. From the Baptism of Rus' onward, they gradually integrated into the Orthodox world under Greek leadership, forging an indissoluble bond with us: the Rus' regard the Greeks as elder brothers; the Cyrillic script was created by Greek missionaries; Slavic liturgy was translated directly from Greek, sharing the same sacramental validity. The Greeks, in turn, see the Rus' as close friends; both share the memory of a "suffering people" under foreign rule, maintaining close ties through the Route from the Varangians to the Greeks. This "brotherly peoples" relationship, forged under a common faith, transcends mere cultural exchange and lies at the heart of Orthodox civilisation's inner vitality and dynamism."
+
+estate_EDG_GRE_restore_Varangian_Route:0 "§TRestore the Route from the Varangians to the Greeks§!"
+estate_EDG_GRE_restore_Varangian_Route_desc:0 "The Route from the Varangians to the Greeks was a transnational waterborne trade network connecting Scandinavia, Eastern Europe, and the Greek world. It underpinned the economic foundations of Kievan Rus', facilitated the Christianisation of Rus' civilisation, and profoundly shaped the historical trajectory of Eastern Europe. After the 13th century, multiple factors—the rise of the Latin Republics, the fragmentation of Kievan Rus', the collapse of the Roman Empire, and the Mongol invasions—led to the decline of the route, severing the connection between Greeks and Rus' for a time. Now that both our peoples have slowly recovered, it is time to reopen the Route."
+
+estate_EDG_GRE_establish_embassy_in_Russia:0 "§TEstablish an Embassy in Rus'§!"
+estate_EDG_GRE_establish_embassy_in_Russia_desc:0 "The importance of the Route from the Varangians to the Greeks is growing daily, and exchanges between the Greek and Rus' peoples have become ever more frequent and close. Some diplomats wish to travel to Rus' to establish an embassy in our name, thereby strengthening relations between our two countries. Our friends have gladly accepted this proposal and have sent their own diplomats in return."
+
+estate_EDG_GRE_study_Siberian_Frontiers:0 "§TAbsorb Rus' Frontier Settlers§!"
+estate_EDG_GRE_study_Siberian_Frontiers_desc:0 "The Siberian frontier settlers were armed colonial groups that emerged after the unification of Rus', led by Cossack explorers and driven by the Rus' state's support. Through conquest, fort-building, and fur trade, they brought Siberia into the Rus' fold and shaped the region's Slavisation and economic structure. The Greeks share the Rus' love of exploration, having embarked on their own great voyages as early as antiquity—though with the passage of time, that memory has grown faint. But no matter: our friends will help us relive those pioneering days."
+
+estate_EDG_GRE_joint_military_drill:0 "§TGreco-Rus' Military Integration§!"
+estate_EDG_GRE_joint_military_drill_desc:0 "The Streltsy were a standing infantry force created and developed by Rus' monarchs during the mid-15th century civil wars, characterised by fire-armed tactics and a closed communal life combining military and commercial-industrial functions. They were established with the support of the minor and middle nobility who championed unification and centralisation. Divided into two main branches—the capital troops, responsible for Kremlin defence, guard duty, and firefighting; and the municipal troops, garrisoning towns across the realm for border defence and local tasks—their tactics relied on defensive formations, employing volley fire and rotating reloading techniques, earning them the reputation of "movable fortresses." Syracuse is a martial state, eager to learn from the military traditions of all nations and adapt them to our own system. Let us conduct a military exchange with our Rus' brothers and learn their craft."
+
+estate_EDG_GRE_Vodka:0 "§TIntroduce Rus' Spirits§!"
+estate_EDG_GRE_Vodka_desc:0 "Vodka is a transparent distilled liquor that originated in Rus' in recent times. Initially circulating in small quantities among monasteries and nobles as a medicine or "water of life," it gradually spread, leading to widespread private distilling among the common folk, becoming a winter staple for warmth and a festive drink. As the Rus' unification progressed and royal power strengthened, Ivan the Terrible established the first "Royal Taverns"; subsequent tsars made vodka production and sale a pillar of state finance under a strict monopoly. Our citizens have also shown keen interest in this spirit beloved by the Rus'. Whether for fiscal reasons or to please the populace, the Lord Protector may consider introducing this special craft."
+
+estate_EDG_GRE_Vodka_tt:0 "\n§TGrain-producing provinces under our rule will adopt vodka production.§!\n"
+estate_EDG_GRE_Vodka_INCOME_DESC:0 "From the production of §YAlcohol§! and §YGrain§!"
+
+estate_EDG_GRE_Russian_absolutism:0 "§TStudy Rus' Absolutism§!"
+estate_EDG_GRE_Russian_absolutism_desc:0 "Rus' absolutism originated from Mongol rule concepts, germinating in the long night after the fall of Kievan Rus', tempered through the Rus' unification wars, and strengthened by Mikhail III and Ivan the Terrible. Its core is the absolute and sacred inviolability of the Tsar's power, with the state exercising total control over society, economy, and ideology, combined with a distinct centralised political tradition of expansionist drive and messianic mission. In an age when central governments are seizing absolute power from other forces, that the Lord Protector may devote himself undistractedly to building the nation, it would serve us well to study the Rus' model."
+ 
+EDG_Syracusae_estate_nobles_name:0 "Magnates"
+EDG_Syracusae_estate_nobles_desc:0 "In the old Eastern Roman Empire—especially in the provinces—magnates were the local elite classes who wielded real power through land wealth, military resources, family networks, or bureaucratic status. They stood between the central imperial authority and the common populace, serving both as pillars of imperial rule and potential sources of centrifugal force. As a militarised state born from the remnants of the Eastern Roman successor states, we must learn from past lessons and not overlook these Greek magnates who command military resources."
+
+estate_EDG_GRE_balance_between_the_Porphyra:0 "§TBalance the§! §PPorphyrogenitoi§!"
+estate_EDG_GRE_balance_between_the_Porphyra_desc:0 "The so-called "Porphyrogenitoi" families are the most exceptional among the Greek magnates. Through long and repeated intermarriage with the Roman imperial house—especially with members "born in the Purple"—they have deeply integrated into the imperial blood network, using this to monopolise high offices, control vast lands and private armed forces, and thus exert dominant influence over imperial politics. They are not merely military or landed aristocrats, but a privileged group whose legitimacy and political capital derive from "Porphyrogenite blood"—the ultimate product of the Roman Empire's fusion of dynastic kinship politics with the bureaucratic-military system. The great magnates maintain deeply intertwined interests within the Republic. To ensure the unity of the military government, we should cede some benefits and rally the great Porphyrogenite houses."
+
+estate_EDG_GRE_control_Doukas:0 "§TControl the§! §PPorphyrogenitoi§! §T: Doukas§!"
+estate_EDG_GRE_control_Doukas_desc:0 "The Doukas dynasty (1059–1078) was a short-lived mid-Byzantine dynasty of bureaucratic-aristocratic origin, which suffered the catastrophic defeat at Manzikert during its reign. Yet through subsequent support of and long intermarriage with the Komnenian dynasty, the Doukas family retained considerable influence. In 1443, when Roman Emperor Andronikos V ascended the throne, Nikephoros Doukas held substantial power within the Empire. Aware that he might be targeted by the Emperor and that he could not defeat him militarily, he secretly transferred the imperial troops loyal to him and invaded Genoese territories on the Black Sea, establishing the Despotate of Azov. Now the Doukas family has submitted to the Federation; their power networks and political resources shall henceforth serve the cause of the Greek nation, rather than a tottering regime."
+
+estate_EDG_GRE_control_Komnenos:0 "§TControl the§! §PPorphyrogenitoi§! §T: Komnenos§!"
+estate_EDG_GRE_control_Komnenos_desc:0 "The Komnenian dynasty (1081–1185) was Rome's last revival dynasty, which rebuilt central authority through military-aristocratic alliances. Its innovative thematic reforms and family-network rule briefly revived the Empire, yet its over-reliance on the aristocracy and its feuds with the West sowed long-term strife. After the 1204 catastrophe, the Komnenoi established the Empire of Trebizond, eking out an existence on the Black Sea coast. By the 14th century, the indolent Grand Komnenoi spent their days in revelry, until the Afshar Turks besieged their golden fortress. Jolted awake, they fled with their treasures aboard ships, abandoning their city and subjects—but many vessels, including that of the cowardly Komnenian emperor laden with the accumulated wealth of his predecessors, were swallowed by the rolling waves of the Black Sea. Now the last scions of the Komnenoi have been found by the Federation; their former power networks and political resources shall henceforth serve the cause of the Greek nation, rather than a ridiculous memory."
+
+estate_EDG_GRE_control_Palaiologos:0 "§TControl the§! §PPorphyrogenitoi§! §T: Palaiologos§!"
+estate_EDG_GRE_control_Palaiologos_desc:0 "The Palaiologan dynasty—Rome's last imperial house—ruled during the Empire's long funeral. Though they restored the Empire in 1261, Rome had been reduced to a minor state, and the dynasty was repeatedly torn apart by devastating civil wars and religious strife, unable to hold back the advance of Slavs and Turks, eventually bowing to foreign domination. Now the Palaiologoi have submitted to the Federation; their power networks and political resources shall henceforth serve the cause of the Greek nation, rather than a fragile ideal."
+
+estate_EDG_GRE_control_Angelos:0 "§TControl the§! §PPorphyrogenitoi§! §T: Angelos§!"
+estate_EDG_GRE_control_Angelos_desc:0 "The Angelos dynasty (1185–1204) was a short-lived house that rose to power through blood ties after the Komnenian decline. During its reign, the imperial capital fell, and the Empire fractured into multiple Greek and Latin states. In 1411, the military aristocracy led by Michael Angelos launched a rebellion; though defeated by Manuel II, Michael led his forces westward across the sea, secured the support of the Republic of Venice, and conquered Sicily—then still shackled by civil war—establishing an Orthodox Greek kingdom. In 1443, the great Lord Protector Theodoulos deposed the Angelos dynasty and founded the state led by the Protectorate Council—the predecessor of our Syracuse. The Angelos house is now firmly under the Federation's control; their power networks and political resources shall henceforth serve the cause of the Greek nation, rather than an unattainable dream."
+
+estate_EDG_GRE_control_Laskaris:0 "§TControl the§! §PPorphyrogenitoi§! §T: Laskaris§!"
+estate_EDG_GRE_control_Laskaris_desc:0 "The Laskaris dynasty (1204–1261) established the Empire of Nicaea—a Roman successor state—in the aftermath of the 1204 catastrophe. By preserving Orthodox Greek culture in desperate times and organising resistance against Latin rule, they laid the foundation for the recovery of the capital. Though ultimately supplanted by Michael Palaiologos, the Laskaris family continued to serve the Basileus within the Empire. In early 1444, Andronikos V appointed Theodore Laskaris as Despot of the Morea, but with support from Venice and Sicily, he eventually rebelled, declared himself Basileus, and set himself against Andronikos. Now the Laskaris family has agreed to the deepest cooperation with the Republic; their power networks and political resources shall henceforth serve the cause of the Greek nation, rather than an evanescent ambition."
+
+estate_EDG_GRE_control_Vatatzes:0 "§TControl the§! §PPorphyrogenitoi§! §T: Vatatzes§!"
+estate_EDG_GRE_control_Vatatzes_desc:0 "The Vatatzes dynasty (1222–1261) actually ruled the Empire of Nicaea, inheriting the Laskaris regime through marriage. They pursued prudent economic policies, developed agriculture and trade, and accumulated strength for restoration. Under John III, the state reached its zenith, effectively laying the foundation for the East Roman restoration. In 1443, the Lord Protector Theodoulos—himself of the Vatatzes house—ushered in a new era of Greek history, taking firm control of the family. Their power networks and political resources shall henceforth serve the cause of the Greek nation, rather than a decrepit empire."
+
+estate_EDG_GRE_control_Sassanid:0 "§TControl the§! §PPorphyrogenitoi§! §T: Sassanid§!"
+estate_EDG_GRE_control_Sassanid_desc:0 "The Sassanid dynasty (224–651) was the Iranian Empire that coexisted and vied with Rome for 400 years. Its administrative system was highly centralised, with notable achievements in art, architecture, and scholarship, reviving traditional Persian culture—a continuation of Greek civilisation's classical rival. Yet it was eventually conquered by the Saracens. A millennium has sufficed to wash away much; old enmities are but passing clouds. Now the last Sassanid scions have attached themselves closely to the Federation; their power networks and political resources shall henceforth serve the cause of the Greek nation, rather than a fatuous goal."
+
+estate_EDG_GRE_control_Ryurik:0 "§TControl the§! §PPorphyrogenitoi§! §T: Ryurikid§!"
+estate_EDG_GRE_control_Ryurik_desc:0 "The Ryurikid dynasty—the founding house of Rus'—with six centuries of rule, has become a national symbol. From Oleg to Saint Vladimir, from Yaroslav to Mikhail III, the Ryurikids have grown ever closer to the Greek and Orthodox world. As civilisation and faith revive after the great calamities, Greece and Rus' have become increasingly inseparable. Now, some powerful Ryurikid princes have settled in the Federation, establishing a new magnate house of considerable political weight. Their power networks and political resources shall henceforth serve the cause of the Greek nation, rather than a fledgling civilisation."
+
+EDG_Syracusae_estate_qizilbash_name:0 "Royal Companions"
+EDG_Syracusae_estate_qizilbash_desc:0 ""
+
+EDG_Syracusae_estate_ghulams_name:0 "Frontier Folk"
+EDG_Syracusae_estate_ghulams_desc:0 ""
+
+EDG_Syracusae_estate_nomadic_tribes_name:0 "Nomads"
+EDG_Syracusae_estate_nomadic_tribes_desc:0 ""
+
+#Institutes
+EDG_SIC_Girko_guild:0 "§TCorinthian Guild§!"
+EDG_SIC_Girko_guild_desc:0 "The Corinthian Guild is a merchant association founded by Italiote-Greeks (the so-called "Griko") in Venetia during the latter half of the 15th century. The merchants named it after Syracuse's mother city—Corinth, renowned for its commerce and seafaring. Favoured by the Federation's rulers and drawing on lessons learned from the Latin Republics, the Guild grew rapidly. By the early 16th century, its trade network spanned the entire Mediterranean and even reached into the New World."
+EDG_SIC_Girko_guild_localization:0 "Establish the §TCorinthian Guild§!"
+EDG_SIC_Girko_guild_localization_short:0 "Corinthian Guild"
+EDG_SIC_Girko_guild_localization_full:0 "Corinthian Guild"
+EDG_SIC_Girko_guild_enable_flag_tt:0 "Unlock the local organisation '§TCorinthian Guild§!'.\n"
+
+EDG_SIC_Macedonia_Academy:0 "§TMacedonian Academy§!"
+EDG_SIC_Macedonia_Academy_desc:0 "The Macedonian Academy was founded in Thessaloniki in 1453. Its first rector and founder was the Syracusan founding father Theodoulos Vatatzes. It was established to educate common young men, focusing on military skills, cultural cultivation, and religious instruction, aiming to produce a corps of pillars of the Federation who remained free of magnate influence and loyal to the Lord Protector."
+EDG_SIC_Macedonia_Academy_localization:0 "Establish the §TMacedonian Academy§!"
+EDG_SIC_Macedonia_Academy_localization_short:0 "Macedonian Academy"
+EDG_SIC_Macedonia_Academy_localization_full:0 "Macedonian Academy"
+EDG_SIC_Macedonia_Academy_enable_flag_tt:0 "Unlock the local organisation '§TMacedonian Academy§!'.\n"
+
+EDG_SIC_Academeia:0 "§TSyracusan Academy§!"
+EDG_SIC_Academeia_desc:0 "The Syracusan Academy was founded by the renowned scholar Gemistus Pletho, a staunch champion of Greek culture, Orthodox tradition, and Platonic philosophy. The Athenian philosopher Plato once sailed thrice to Syracuse in hopes of realising his ideal republic. Now that the centre of the Greek world has shifted from Athens to Syracusae, his long-cherished wish shall be fulfilled by Syracusan scholars."
+EDG_SIC_Academeia_localization:0 "Establish the §TSyracusan Academy§!"
+EDG_SIC_Academeia_localization_short:0 "Syracusan Academy"
+EDG_SIC_Academeia_localization_full:0 "Syracusan Academy"
+EDG_SIC_Academeia_enable_flag_tt:0 "Unlock the local organisation '§TSyracusan Academy§!'.\n"
+
+#Decisions
+EDG_SIC_decision_view_tips_title:0 "@SIC§TView Gameplay Tips§!"
+EDG_SIC_decision_view_tips_desc:0 "We may always use this decision to view @SIC§GSicily§! gameplay tips."
+EDG_SIC_decision_stir_up_ashes_of_kings_title:0 "@SIC§TEmbers of Kings in Chaos§!"
+EDG_SIC_decision_stir_up_ashes_of_kings_desc:0 "Use this decision to begin the @GRE§TGreek§! route gameplay for @SIC§GSicily§!."
+
+EDG_SIC_decision_disaster_bonus_sicily_title:0 "The Lord Protector's Wartime Address"
+EDG_SIC_decision_disaster_bonus_sicily_desc:0 "Our cause is just, and our path is bright."
+
+EDG_SIC_decision_disaster_bonus_fatimid_title:0 "The Imam's Wartime Address"
+EDG_SIC_decision_disaster_bonus_fatimid_desc:0 "Our cause is just, and our path is bright."
+
+EDG_SIC_decision_ambush_capua_title:0 "Raid @PUA Capua"
+EDG_SIC_decision_ambush_capua_desc:0 "The Duke of @PUA Capua is brutal by nature, and his subjects have suffered long. We should seize this opportunity to capture Capua swiftly; Naples will surely surrender at the mere sight of our advance."
+unlock_EDG_SIC_decision_ambush_capua_tt:0 "Unlock decision: §TRaid @PUA Capua§!"
+EDG_SIC_ambush_capua_decision_tt:0 "We will stealthily cross the §YStrait of Messina§! at the cost of two regiments.\n\n§RNote§!: Using mercenaries to execute this decision will convert them into regular troops."
+
+EDG_SIC_decision_ambush_calabria_title:0 "Raid @CBI Calabria"
+EDG_SIC_decision_ambush_calabria_desc:0 "The Duke of @CBI Calabria is sharp and resolute—a formidable foe. We must cut his supply lines and strike directly at his stronghold."
+unlcok_EDG_SIC_decision_ambush_calabria_tt:0 "Unlock decision: §TRaid @CBI Calabria§!"
+
+EDG_SIC_decision_ambush_genoa_title:0 "Raid @GEN Genoa"
+EDG_SIC_decision_ambush_genoa_desc:0 "The capture of the @GEN Genoese duke and the mutiny of his army have left the state utterly defenceless. We should seize this golden opportunity to march straight for Liguria."
+EDG_SIC_decision_ambush_aegean_title:0 "@CRT Wrath of the Aegean"
+EDG_SIC_decision_ambush_aegean_desc:0 "Since the Fourth Crusade, the unjust rule of the Latins has persisted for over two hundred years across the Aegean isles. Yet the Greeks have never been tamed. If we can spare the resources to offer help, the local Greeks will rise up of their own accord and drive out their Venetian lords."
+EDG_SIC_decision_ambush_corfu_title:0 "@CEP Corfu Incident"
+EDG_SIC_decision_ambush_corfu_desc:0 "@CEP Corfu is the Republic of Venice's bridgehead into the Greek world, and also the obstacle barring our entry into the Adriatic. Fortunately, its people are Greek compatriots resentful of Latin rule. With but a gentle push, they will open for us the gates to Venice's heartland."
+EDG_GRE_decision_Player_Form_Syracusae_title:0 "@GRE Form the Syracusan Republic."
+EDG_GRE_decision_Player_Form_Syracusae_desc:0 "\"If not today, then surely tomorrow!\"\n\nSoar high, Dorian eagle!"
+
+EDG_GRE_decision_see_province_group_title:0 "@GREView §THellenic§! Province Group"
+EDG_GRE_decision_see_province_group_desc:0 "This is an auxiliary decision for viewing purposes only."
+EDG_GRE_for_viewing_only_tt:0 "§TThis decision is for viewing only.§!"
+
+EDG_GRE_decision_rename_to_Hellas_title:0 "@GREChange Country Name to §TGreece§!"
+EDG_GRE_decision_rename_to_Hellas_desc:0 "The exiles of Corinth from two thousand years ago have returned to their homeland."
+
+EDG_GRE_decision_restore_Varangian_Route_title:0 "@GRERestore the Route from the Varangians to the Greeks"
+EDG_GRE_decision_restore_Varangian_Route_desc:0 "The Route from the Varangians to the Greeks was a vital trade artery between the Greeks and the Rus'. Severed by centuries of decline and war, it is now time to restore this ancient commercial path."
+EDG_GRE_Varangian_Route_Nodes_Controlled_tt:0 "Our nation controls the right of passage through the §Tkey nodes of the Route from the Varangians to the Greeks§! §g(provinces highlighted by the decision)§!"
+unlock_estate_EDG_GRE_restore_Varangian_Route_tt:0 "Unlock §TRus' People§! privilege: §TRestore the Route from the Varangians to the Greeks§!"
+EDG_GRE_Varangian_Routes_Trade:0 "@GRE§TRestorer of the Route from the Varangians to the Greeks§!"
+
+EDG_GRE_decision_Russian_Embassy_title:0 "@GREDispatch Embassy to Rus'"
+EDG_GRE_decision_Russian_Embassy_desc:0 "As Syracusan-Rus' cooperation grows ever closer, some officials propose that our two countries establish permanent embassies in each other's capitals as a testament to our mutual friendship."
+unlock_estate_EDG_GRE_establish_embassy_in_Russia_tt:0 "Unlock §TRus' People§! privilege: §TEstablish an Embassy in Rus'§!"
+EDG_GRE_Russian_Alliance_add_trust_tt:0 "Our §TRus' ally§! will gain §Tmutually§! §T10§! §Yfavour§! and §Ytrust§! with us."
+
+EDG_GRE_decision_study_Siberian_Frontiers_title:0 "@GREExchange Frontier Settlement Experiences"
+EDG_GRE_decision_study_Siberian_Frontiers_desc:0 "While our expedition teams are busily launching the Elysian exploration movement, our Rus' allies are also pushing forward with frontier settlement in the icy wilderness of Siberia. Perhaps we can exchange exploration experiences to accelerate our colonial efforts."
+unlock_estate_EDG_GRE_study_Siberian_Frontiers_tt:0 "Unlock §TRus' People§! privilege: §TAbsorb Rus' Frontier Settlers§!"
+
+EDG_GRE_decision_study_Vodka_title:0 "@GREIntroduce New Distilling Techniques"
+EDG_GRE_decision_study_Vodka_desc:0 "The rulers of Rus' have established a monopoly on a distilled spirit called vodka, reaping great profits through its production and distribution. Wine is an old hero—the more we drink, the bolder we become. We shall not stand on ceremony."
+unlock_estate_EDG_GRE_Vodka_tt:0 "Unlock §TRus' People§! privilege: §TIntroduce Rus' Spirits§!"
+
+EDG_GRE_decision_study_streltsy_title:0 "@GREAdopt the Streltsy System"
+EDG_GRE_decision_study_streltsy_desc:0 "The Streltsy are a unique Rus' military branch whose organisation and tactics offer valuable lessons for us. Some military advisors and generals have proposed that the Lord Protector conduct a military exchange with our Rus' allies to learn from the Streltsy system."
+unlock_estate_EDG_GRE_joint_military_drill_tt:0 "Unlock §TRus' People§! privilege: §TGreco-Rus' Military Integration§!"
+EDG_GRE_decision_streltsy_commanders_capital_tt:0 "15 units of §TStreltsy Infantry§! will be raised in our capital."
+
+EDG_GRE_decision_study_Russian_absolutism_title:0 "@GREEmulate Rus' Absolutism"
+EDG_GRE_decision_study_Russian_absolutism_desc:0 "The Rus' have developed the ideology of absolutism, and this age belongs to the absolute authority of the ruler. To ensure the Lord Protector's commands are better enforced, we should learn from them without hesitation."
+unlock_estate_EDG_GRE_Russian_absolutism_tt:0 "Unlock §TRus' People§! privilege: §TStudy Rus' Absolutism§!"
+
+EDG_GRE_decision_befriend_Morea_title:0 "@MOECultivate Relations with §TMorea§!"
+EDG_GRE_decision_befriend_Morea_desc:0 "In 1443, Andronikos V entrusted Theodore Laskaris with the defence of the Morea, appointing him Despot. Yet Theodore secretly secured the support of Venice and Sicily, rebelled against Andronikos, declared himself Basileus as Theodore III, and openly opposed Constantinople. Sicily and the Despotate of Morea share the same stance—opposition to the Constantinopolitan regime and the Latins. More importantly, Theodore's Laskaris house and the Lord Protector's Vatatzes house both spring from the Nicaean imperial line, bound by blood; the Lord Protector is in fact his cousin-uncle. Our two nations are natural allies and should unite."
+
+EDG_GRE_decision_Contact_Smyrna_title:0 "@SUGCultivate Relations with §TSmyrna§!"
+EDG_GRE_decision_Contact_Smyrna_desc:0 "In the Anatolian homeland ravaged by the Turkish wolves, a single Greek state still survives—the Republic of Smyrna. Abandoned by Constantinople, they, like us, refuse to obey the pseudo-emperor in Thrace, standing alone against the infidel. In the past, Sicily, with its eyes fixed on the Roman throne, overlooked these brothers of our own flesh. Now, we who hold Greek glory dearer should unite with her."
+
+EDG_GRE_decision_Form_Syracusae_title:0 "@GREForm Syracuse"
+EDG_GRE_decision_Form_Syracusae_desc:0 "\"If not today, then surely tomorrow!\"\n\nSoar high, Dorian eagle!"
+
+EDG_GRE_decision_support_NOM_title:0 "@NOMSupport the §TNomes§!"
+EDG_GRE_decision_support_NOM_desc:0 "After the collapse of the Sahada dynasty, Mamluk warlords once again dominated the Near Eastern order. The Malik of Egypt, determined to learn from past lessons, sought to curb Mamluk power and established multiple military districts across the realm called "Nomes," whose military governors were Greek officers directly appointed by the sovereign. Since the Arab invasions, Greek influence in Egypt had never been so high. We must seize this opportunity to support our Greek brethren in Egypt in securing greater gains."
+
+EDG_GRE_decision_vassalize_Morea_title:0 "@MOEBlood of the Dorians"
+EDG_GRE_decision_vassalize_Morea_desc:0 "The ancient Greeks were not a single people, but were divided into four main tribes (or dialect groups). This division was based primarily on the ancient Greek dialects they spoke and the genealogies of Hellen's four sons in myth. Among them, the Dorians—descendants of Dorus—were renowned for valour, strict discipline, and a militarised society. Syracuse's mother cities, Corinth and Sparta, both belonged to the Dorian tribe. The long river of history once buried the ancient Greek world, but now the time has come: both Trinacria and Lacedaemon have broken free from Roman rule, and both are even governed by the Laskaris lineage. Thus, the peoples of our two nations agree that Syracuse and Morea must stand united against any potential threat."
+
+EDG_GRE_decision_vassalize_Smyrna_title:0 "@SUGWatch of Ephesus"
+EDG_GRE_decision_vassalize_Smyrna_desc:0 "Ephesus, located on the western coast of Asia Minor, was one of the twelve Ionian cities, said to have been founded by the Athenian prince Androclus. King Croesus of Lydia donated funds to build the Temple of Artemis, making it one of the Seven Wonders of the Ancient World. After Alexander the Great's eastern campaign, Ephesus was ruled by his successors. In 133 BC, the city was incorporated into Rome and became the capital of the province of Asia, with a population of over 200,000 and magnificent buildings such as the Library of Celsus. The Apostle Paul preached here for three years; the Apostle John spent his later years here, and the Virgin Mary is also said to have lived out her old age nearby. The Third Ecumenical Council was convened here in AD 431. Yet ancient Ephesus had long since decayed and been abandoned over the centuries. Beside the ruins of old Ephesus, a group of Greeks abandoned by the Roman Empire established a "New Ephesus"—the Republic of Smyrna. Now, the onslaught of the Turks has placed it in grave danger. We must protect the Smyrnans and ensure the safety of our Greek brethren."
+
+EDG_GRE_descion_Suez_Cannal_title:0 "@GREConstruct the §TPtolemaic Canal§!"
+EDG_GRE_descion_Suez_Cannal_desc:0 "The canal connecting the Mediterranean and the Red Sea dates back to the 12th Dynasty of ancient Egypt. Senusret II and III (whose names are the origin of the word "Suez") first excavated a canal from the Gulf of Suez to the Nile in an attempt to link the Red Sea and the Mediterranean, but without success. In 600 BC, Pharaoh Necho II restarted the project, only to suspend it due to war. Under Greek rule, in 270 BC, Pharaoh Ptolemy II reopened the canal and added locks, but after a thousand years, the Ptolemaic Canal was abandoned due to silt accumulation. In recent decades, the Venetians attempted to negotiate with the Sahada dynasty—which controlled Egypt and Syria—to build a canal, but the talks ended in discord. Now, with Syracuse backing the Nomarch military government's control over Egypt, the reopening of the Ptolemaic Canal has finally been placed on the Protectorate Council's agenda. After careful deliberation and survey, the Lord Protector has decided to revive the Ptolemaic Canal between Clysma and Bubastis, connecting the Mediterranean and the Red Sea at a stroke."
+
+EDG_GRE_descion_Cimmerian_agriculture_title:0 "@AZORevival of Black Sea Agriculture"
+EDG_GRE_descion_Cimmerian_agriculture_desc:0 "In classical times, the local grain production of Greek city-states such as Athens could no longer feed their entire populations. The Black Sea's northern shores—such as the Dnieper basin and the Tauric Peninsula—where the Cimmerians had once practised extensive farming, were transformed by Greek intensive techniques into the "breadbasket" of the ancient Greek world. The grain (mainly wheat) exported from here fed the citizens of Athens and other city-states, sustaining the prosperity of the Hellenic world. Agricultural prosperity is vital to any nation. Today, after centuries of nomadic raids and pillage, the farmlands along the Black Sea coast lie abandoned and sparsely populated. We must revive Black Sea agriculture in time to ensure the Republic's food security."
+
+EDG_GRE_decision_vassalize_Azov_title:0 "@AZODream of Tauris"
+EDG_GRE_decision_vassalize_Azov_desc:0 "In 1443, upon the accession of Roman Emperor Andronikos V, Nikephoros Doukas held considerable power within the Empire. Yet he knew he might be targeted by the Basileus and that he could not defeat the young and accomplished Andronikos militarily. He therefore secretly transferred the troops loyal to him, joined forces with a mercenary company and the Gothic rulers of Theodoros, and seized Genoese territories on the Black Sea coast—thus reviving the Bosporan Kingdom in Tauris. With the fall of the Eastern Empire and the rise of Greek national consciousness, the Doukas family ultimately abandoned their pursuit of the imperial throne. We should seize this opportunity to extend an offer of union to them."
+
+EDG_GRE_descion_Landsia_Silk_title:0 "@GREDevelop Caspian Industries"
+EDG_GRE_descion_Landsia_Silk_desc:0 "As a key node on the ancient Silk Road, the Caspian coastal region has long been a hub of trade, where diverse artistic styles and weaving techniques converged. Among them, Tabaristan was renowned as the centre of Persian carpet production. Due to prolonged fragmentation and war, the carpet industry has contracted and declined. To ensure the prosperity of our Persian territories, the Lord Protector has resolved to help the Iranians revive this traditional craft."
+
+EDG_GRE_descion_Pannonian_Methorian_title:0 "Establish the @RMN Pannonian March"
+EDG_GRE_descion_Pannonian_Methorian_desc:0 "The Danube is the northern bulwark of Greek civilisation. The local Magyars and Dacians detest their German rulers. Let us exploit this sentiment to support them in establishing an @RMN Pannonian March to guard our frontiers."
+
+EDG_GRE_descion_Rhipaion_Methorian_title:0 "Establish the @GK6 Rhipaean March"
+EDG_GRE_descion_Rhipaion_Methorian_desc:0 "The Alps are the western bulwark of Greek civilisation. The local Swiss detest their German rulers. Let us exploit this sentiment to support them in establishing a @GK6 March to guard our frontiers."
+
+EDG_GRE_descion_recontrol_Nicaea_title:0 "@GK2Return to Nicaea"
+EDG_GRE_descion_recontrol_Nicaea_desc:0 "Glorious Nicaea, great Nicaea, beautiful Nicaea—the cradle of the Greek awakening, the foundation of the Laskarid emperors. After nearly two centuries of Ottoman Turkish occupation, she has at last returned to the hands of the descendants of John III."
+
+EDG_GRE_descion_vassalize_Egypt_title:0 "@NOMUnite with the Nomarch Military Government"
+EDG_GRE_descion_vassalize_Egypt_desc:0 "With our nation's vigorous support, the Greeks have once again secured a foothold in Aegyptus, establishing a military government akin to our own. The Protectorate Council unanimously agrees that the time has come to reap what we have sown. The Lord Protector shall dispatch a request for union to our southern brethren."
+
+#Titles
+EDG_GRE_LORDPROTECTOR:0 "Lord Protector"
+EDG_GRE_GRAND_LORDPROTECTOR:0 "Grand Lord Protector"
+EDG_GRE_GREAT_LORDPROTECTOR:0 "Great Lord Protector"
+
+#Province Groups
+Hellas_province_group:"§T@GRE Hellenic World§!"
+
+#Modifiers
+EDG_SIC_Fatimid_integrate_sicily_modifier:0 "Integrating Sicily"
+desc_EDG_SIC_Fatimid_integrate_sicily_modifier:0 "Seizing Sicily and absorbing it in an instant."
+EDG_SIC_loyal_Sicily_modifier:0 "Kalbid Autonomous Region"
+desc_EDG_SIC_loyal_Sicily_modifier:0 "§TTo be a dog of His Majesty the Fatimid Caliph is the greatest honour I could ever wish for!§!"
+EDG_SIC_Reforms_of_Issac:0 "Reforms of Isaac IV"
+desc_EDG_SIC_Reforms_of_Issac:0 "Emperor Isaac IV, of martial and sagacious brilliance, was a sovereign of a generation... yet his years were cut short, and his noble aspirations unfulfilled—how sorrowful!"
+EDG_SIC_Inner_Troubles:0 "§RRule Crisis§!"
+desc_EDG_SIC_Inner_Troubles:0 "\"When rulers quarrel and factions arise, they cease to be guardians of the city and become its greatest bane. For they hold power, and their discord brings far greater calamity than that of the common people.\""
+EDG_SIC_intervene_sicily_civil_war_modifier:0 "Intervening in the Two Sicilies Civil War"
+desc_EDG_SIC_intervene_sicily_civil_war_modifier:0 "We shall ensure that we reap the greatest benefit from the Two Sicilies civil war."
+EDG_SIC_Fatimid_Support_modifier:0 "Fatimid Wartime Aid"
+desc_EDG_SIC_Fatimid_Support_modifier:0 "The debt of gratitude to the timid mushroom can never be fully repaid."
+EDG_SIC_PUA_lose_capital_modifier:0 "Capital Lost"
+desc_EDG_SIC_PUA_lose_capital_modifier:0 "All is lost..."
+EDG_SIC_rebuild_country_modifier:0 "Rebuilding the Nation"
+desc_EDG_SIC_rebuild_country_modifier:0 "TODO"
+EDG_SIC_end_disasters_modifier:0 "Dawn of Revival"
+desc_EDG_SIC_end_disasters_modifier:0 "TODO"
+EDG_GRE_back_home:0 "Longing for Home"
+desc_EDG_GRE_back_home:0 "§T\"Even if I have only heard of my homeland Ithaca—that land of hills and verdant groves—I would be willing to die at once.\"§!"
+EDG_GRE_Byzantium_province_modifier:0 "The Second Heart of the Greek World"
+desc_EDG_GRE_Byzantium_province_modifier:0 "§TByzantion, you sit amidst Poseidon's pastures,\n\nGolden shoals are your eternal crown.\n\nYou guard the throat of the Black Sea,\n\nAnd every ship that returns safely pours libations to your name.§!"
+EDG_GRE_Athen_province_modifier:0 "§TClassical City§!"
+desc_EDG_GRE_Athen_province_modifier:0 "§TMay this city-state forever flourish,\n\nMay she share in Zeus's justice in war,\n\nMay the gods bless this land,\n\nAnd make it the glory of the Greeks.§!"
+EDG_GRE_Kill_Arta_modifier:0 "§RVengeful Fury§!"
+desc_EDG_GRE_Kill_Arta_modifier:0 "§RNot out of greed for their land, nor thirst for their wealth—but because the feet of the Latins have defiled the City of God, and we must wash every bloodstained stone with fire.§!"
+EDG_GRE_reconquer_North_Epirus_modifier:0 "§TGreece Will Not Forget§!"
+desc_EDG_GRE_reconquer_North_Epirus_modifier:0 "§TWe shall not forget it,\n\nNorthern Epirus of Greece,\n\nWe have helped her regain her freedom.§!"
+EDG_GRE_Thessaly_Stud_Farm_modifier:0 "Thessalian Horse Ranch"
+desc_EDG_GRE_Thessaly_Stud_Farm_modifier:0 "§GOn the plains of Pharsalos,\n\nHorses race like the wind,\n\nTheir manes gleaming in the sunlight,\n\nLike the shimmer of the Peneios.§!"
+EDG_GRE_raise_Thessaly_warhorse:0 "Thessalian Warhorses"
+desc_EDG_GRE_raise_Thessaly_warhorse:0 "\"These horses are the most beautiful and majestic, whiter than snow, running swift as a whirlwind—the finest steeds of dawn and sunlight.\""
+
+EDG_GRE_Elysium_fund:0 "Elysian Exploration Fund"
+desc_EDG_GRE_Elysium_fund:0 "Wow, someone actually reads the description?"
+EDG_GRE_Rejuvenate_Magna_Graecia:0 "Rebirth of Magna Graecia"
+desc_EDG_GRE_Rejuvenate_Magna_Graecia:0 "§TWhere shoals of fish shimmer like silver coins,\n\nWhere harbours curve like crescent moons,\n\nThere lies the table of the Cumaeans,\n\nThere lie the pastures Apollo has bestowed.§!"
+EDG_GRE_Banish_Latin_Republics:0 "Abolish the Latin Republics"
+EDG_GRE_expel_crusaders:0 "Destroy the Crusaders"
+desc_EDG_GRE_expel_crusaders:0 "§RMay their memory perish forever in the Eastern churches,\n\nUntil they return what they have stolen and repent what they have defiled—\n\nBut who can return a city that has been burned?§!"
+EDG_GRE_Hellenic_Revenge_on_Latin_modifier:0 "§R@GRE Revenge of the Greeks§!"
+desc_EDG_GRE_Hellenic_Revenge_on_Latin_modifier:0 "Our Greek bones are flint—with every strike, we spark new §Rflames§!. When the §Rflames spread across the land§!, those who once trampled us with their feet will run with their own feet, because our §Rflames§! will overtake them."
+EDG_GRE_Destroy_Nova_Rome:0 "Empire Falls"
+desc_EDG_GRE_Destroy_Nova_Rome:0 "They ruled for a millennium in the name of Rome; we have ended that millennium in the name of Greece."
+EDG_GRE_Save_Hellas:0 "§TSaving Greece§!"
+desc_EDG_GRE_Save_Hellas:0 "Time flows, cycles turn—at last, Greece is ours once more."
+EDG_GRE_Bulgarian_Butcher:0 "Butcher of Odrysia"
+desc_EDG_GRE_Bulgarian_Butcher:0 "§RYou ask why the mountains are so silent?\n\nBecause fourteen thousand tongues can no longer answer.\n\nYou ask why the river runs so red?\n\nBecause the blood from the Bulgars' eye sockets has dyed the source of the Aemos.§!"
+EDG_GRE_Stick_to_True_Faith: "Pure Faith"
+desc_EDG_GRE_Stick_to_True_Faith: "...Yet perhaps this is not the optimal path."
+EDG_GRE_gift_of_Mithras:0 "Gift of Mithras"
+desc_EDG_GRE_gift_of_Mithras:0 "To Mithras, the unutterable,\nLord of the Sun, Keeper of Covenants.\n\nThe names of the gods can be translated,\nBut your name,\nWe whisper only in the caves."
+EDG_GRE_Ducate_of_pontus_modifier: "Pontic Theme"
+desc_EDG_GRE_Ducate_of_pontus_modifier:0 "Pontus is the midpoint of the world—\n\nNot East, not West,\n\nThe place where winds from every direction blow,\n\nAnd where winds from every direction cannot be bothered to linger."
+EDG_GRE_NOM_Ducate:0 "Aegyptian Theme"
+desc_EDG_GRE_NOM_Ducate:0 "Rise, Nomes!"
+EDG_GRE_MOE_Ducate:0 "Peloponnesian Theme"
+desc_EDG_GRE_MOE_Ducate:0 "Rise, Spartans!"
+EDG_GRE_AZO_Ducate:0 "Black Sea Theme"
+desc_EDG_GRE_AZO_Ducate:0 "Rise, Taurians!"
+EDG_GRE_BAC_Ducate:0 "Bactrian Theme"
+desc_EDG_GRE_BAC_Ducate:0 "Rise, Bactrians!"
+EDG_GRE_TAB_Ducate:0 "Hyrcanian Theme"
+desc_EDG_GRE_TAB_Ducate:0 "Rise, Mazandaranis!"
+EDG_GRE_Supprot_Noms:0 "Supporting the Nomes"
+desc_EDG_GRE_Supprot_Noms:0 "\"The Malik's guard includes many men from Greece. They are called 'Juruji'—archers, swordsmen, and craftsmen who know how to make Greek Fire. They do not speak Arabic, do not intermarry with the locals, and live in a quarter outside Cairo called 'Little Byzantion.' Their church is small, yet it keeps the Greek rites.\""
+EDG_GRE_Alexandar_Diadoch:0 "Successor"
+desc_EDG_GRE_Alexandar_Diadoch:0 "\"When I left, I carried nothing; when I returned, I carried nothing—except what the people of this land were willing to give me.\""
+EDG_GRE_Philhellenism:0 "Philhellenism"
+desc_EDG_GRE_Philhellenism:0 "The name "Greek" no longer belongs to a race, but to a kind of intellect. Those who receive our education are more worthy of the name "Greek" than those who merely share our blood.\n\nIf someone asks: who is the true Greek? My answer is: those who love Greece.\n\nWherever they were born, whatever language their fathers spoke—so long as they are willing to learn our culture, emulate our institutions, and follow our gods, they are our brethren.\n\nAnd if some among them can also take up arms and fight the barbarians alongside us—those men deserve to be carved upon the most glorious stone."

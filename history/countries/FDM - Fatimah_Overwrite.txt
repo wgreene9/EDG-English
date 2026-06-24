@@ -1,23 +1,23 @@
 1435.9.18 = {
-  monarch = {
-    name = "Ibrahim Hussein II"  # 'Uthman
-    dynasty = "Fatimid"  # Hafsid
-    birth_date = 1410.9.18
-    adm = 2
-    dip = 3
-    mil = 0
-  }
-}
-1435.9.18 = {
-  heir = {
-    name = "Yahyâ"  # Yahyâ
-    monarch_name = "Yahyâ III"  # Yahyâ III
-    dynasty = "Fatimid"  # Hafsid
-    birth_date = 1435.9.18
-    death_date = 1489.1.1
-    claim = 95
-    adm = 3
-    dip = 3
-    mil = 4
-  }
+	monarch = {
+		name = "Ibrahim Hussein II"
+		dynasty = "Fatimid"
+		birth_date = 1410.9.18
+		adm = 2
+		dip = 3
+		mil = 0
+	}
+	set_ruler_flag = EDG_FDM_Fatima_initial_ruler_flag
+	heir = {
+		name = "Yahyâ"
+		monarch_name = "Yahyâ III 'Irren'" # al?Far?d / Eren
+		dynasty = "Fatimid"
+		birth_date = 1435.9.18
+		death_date = 1489.1.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+	set_heir_flag = EDG_FDM_Fatima_initial_heir_flag
 }

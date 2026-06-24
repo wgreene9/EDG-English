@@ -1,0 +1,52 @@
+﻿l_english:
+EDG_SIC_0_1_1_title:0 "Appeasing the Citizens"
+EDG_SIC_0_1_1_desc:0 "Sicily is a nascent state. Under the rule of Emperor Angelos, the economy—suppressed for over a century by the Genoese tyrants—began to revive. A new burgher class has arisen and gradually become a vital part of the Sicilian state. They possess considerable wealth, yet lack commensurate political standing. If we guarantee their political rights, we can undoubtedly win them over to our side."
+
+EDG_SIC_0_1_5_title:0 "Breaking the Longsword"
+EDG_SIC_0_1_5_desc:0 "After being driven from their homeland by the blazing fires of the Cathar persecution in Occitania, the House of Savoy was reduced to wandering mercenary nobles, eventually drifting to the Republic of Genoa. In 1266, the Genoese mercenary captain Andrea di Savoia instigated the Sicilian Vespers War, overthrowing the Hohenstaufen dynasty and styling himself tyrant—thus beginning Genoa's century-long rule over Sicily. It was not until Isaac III's invasion in 1411 that the Genoese were finally expelled from Syracusan soil.\n\nIn 1437, the fates of both the Genoese Republic and the House of Savoy were rewritten: the Savoyards seized control of the Republic, transforming it into a mercenary kingdom, and attempted to encroach upon Sicilian territory amid the chaos. Yet any clear-sighted observer can see that the Savoyards, beset by internal and external troubles, are merely paper tigers. Let us break the mercenary lord's longsword and bring the Ligurian coast under our rule."
+
+EDG_SIC_0_2_1_title:0 "Holy Banners Aflutter"
+EDG_SIC_0_2_1_desc:0 "Sicily is a state founded by Greek immigrants of the Orthodox faith, yet due to the long rule of Genoese mercenary tyrants, it failed to organise a local church to govern the faithful. Not until Michael Angelos's expedition overthrew the Genoese was a church established—one that answered to the "Emperor of Sicily" rather than the Ecumenical Patriarch. The church now remains ambivalent between the Angelos and the Laskaris factions. We must put an end to this vacillation."
+
+EDG_SIC_0_2_2_title:0 "Golden Lion's Spread Wings" # The Golden Lion Spreads Its Wings
+EDG_SIC_0_2_2_desc:0 "In 1411, Michael Angelos, having lost a political struggle in the Eastern Empire, fled to Italy and became the son-in-law of the Duke of Venice. With his remarkable oratory and daring, Michael borrowed mercenaries from Venice and successfully seized the throne of Trinacria, granting Venice extensive trade privileges in return. After Theodoulos of the Laskaris line deposed the emperor and abolished many of the inherited privileges, Sicilian-Venetian relations steadily deteriorated. The Dandolo monarchy now teeters under the attacks of the Council of Ten and the Ziani family, while Sicily herself stands at a historical crossroads. Both sides await an opportunity to reshape the current situation."
+
+EDG_SIC_0_2_5_title:0 "Raid on the Pearl"
+EDG_SIC_0_2_5_desc:0 "The House of San Vessellino of Capua seized the Neapolitan region after the collapse of the Neapolitan kingdom. With the wealth of their fief, they became favourites of the Pope of Rome and maintained close ties with the Kingdom of Arles and the Republic of Venice. The Dukes of Capua grew increasingly arrogant; greedy by nature, they exacted heavy levies on their lands to satisfy their extravagant lifestyles, grinding their subjects into misery. Let us exploit their arrogance, seize the pearl of Naples, and teach them a lesson."
+
+EDG_SIC_0_3_1_title:0 "Securing the Army"
+EDG_SIC_0_3_1_desc:0 "Under the reforms of Emperor Isaac IV, Sicily established a standing army composed of Greeks. After the emperor's untimely death, the army came under the joint command of Theodoulos Vatatzes and Leo Nosati. The army is the foundation of the state. In the face of the coming storm, whoever secures the loyalty of the army will gain the upper hand."
+
+EDG_SIC_0_3_2_title:0 "The Silent Isle"
+EDG_SIC_0_3_2_desc:0 "Drunkards on the docks of [125.GetName] knock over their wine jugs, amber liquid crawling toward the sea. The Tyrrhenian Sea spreads all its waves into muted satin. Candles in the monastery weep for no reason; gargoyle wings begin to grow warm. Moonlight is casting every alley into bright fuses of powder. And the clock bell of the cathedral at twelve o'clock is caught between the teeth of God and the Devil."
+
+EDG_SIC_0_3_3_title:0 "Heaven's Dense Shadow"
+EDG_SIC_0_3_3_desc:0 "The scent of vengeance draws ever nearer. The battle lines have been drawn; the legions stand arrayed once more, march forward, deploy in order. Gripping their swords and spears, they chant vows of the blessed land as they rush to the battlefield: civil war has come.\n\n— The die is cast."
+
+EDG_SIC_0_3_4_title:0 "Shoot Down the Rising Sun" # Shooting Down the Rising Sun
+EDG_SIC_0_3_4_desc:0 "If I cannot save Sicily from her enemies... then let her burn in glory!"
+
+EDG_SIC_0_3_5_title:0 "A Noble Death"
+EDG_SIC_0_3_5_desc:0 "The hollow glory of their ancestors drove the Duke of Apulia to stir up this unjust war, inflicting suffering upon the Sicilians. Yet the Greeks shall not sit idle—we will crush the Hauteville army in open battle and make the proud regret ever waging this war."
+
+EDG_SIC_0_3_6_title:0 "Dust Settles, Dew Yet to Dry" # Dust Settles,\nDew Not Yet Dried
+EDG_SIC_0_3_6_desc:0 "All those who coveted Sicily's soil descended like vultures—some for fame, some for ambition, others by chance—each seeking to seize the crown of Trinacria. Yet their efforts were all in vain. The Sicilian eagle has turned into a blaze of righteous fire, consuming these unjust men. Trinacria has cast off its fetters and taken its rightful place beneath the sun. We honour the fallen, and we praise our leader. Eagle, soar high on the ideals of our newborn homeland."
+
+EDG_SIC_0_3_7_title:0 "After the Night,\nA New Dawn"
+EDG_SIC_0_3_7_desc:0 "\n\nA new banner flies above [Root.GetCapitalName]; the waves crash against the rocks, sweeping sand and stone into the deep sea. From [121.GetName] to [126.GetName], from [4736.GetName] to [122.GetName], the eagle circles high, and the bells toll long and far.\n\nOver a hundred years later, when the vesper bells once again ring out over Sicily, the old sun sinks beneath the blue waves—and peace and prosperity at last return to this storm-worn land."
+
+EDG_SIC_0_4_1_title:0 "Echoes from the Mountains"
+EDG_SIC_0_4_1_desc:0 "After the War of the Vespers, the Catholics lost their rule over Trinacria—over a century has passed since then. Neither the Genoese tyrants nor the Angelos emperors brought light to the Catholics. Driven by the exclusion of Greek immigrants and government suppression, those who had once been the mainstream of Sicily were forced to retreat into the mountains. The oppressed will one day rise in defiance; before civil war erupts, we must ensure that they do not rise against us."
+
+EDG_SIC_0_4_2_title:0 "Black Eagle's Low Murmur" # The Black Eagle's Low Murmur
+EDG_SIC_0_4_2_desc:0 "From the eagle banner of Germany to the crown of Lombardy, from the bloodstained longsword of Sicily to the fresh olive branch of Jerusalem—the Hohenstaufen falcon, bearing the sceptre of earthly power, circles above the lands of the Romans, chanting the epics of the two Fredericks. Though the eagle banner ultimately fell to the vesper bells of Sicily, and the Pope's curses twisted like vines around Manfred's throne, the Hohenstaufen bloodline had long since hidden itself among the mountains and islands. Now, a third Frederick bears the honour of his house and throws himself into the blazing fires of Sicily without hesitation—and we must command the direction of that fire."
+
+EDG_SIC_0_4_5_title:0 "Crossing the Strait"
+EDG_SIC_0_4_5_desc:0 "Calabria faces Sicily across the sea. The dukes of Aquavia have long ruled with vigour, nursing ambitions to dominate Trinacria. Yet we shall end their ambition, cross the Strait of Messina, and unite Magna Graecia."
+
+EDG_SIC_0_5_1_title:0 "Steadfast Magnates"
+EDG_SIC_0_5_1_desc:0 "For the sake of political balance, Isaac IV had brought in numerous magnate families from the Greek world and entrusted them with high office. Yet after the emperor's sudden death, Sicily fell into a power vacuum. Theodoulos Vatatzes of the Laskaris lineage used his official position to swiftly seize control of the military and thereby manipulate politics. He then deposed the young emperor Isaac V and established a republican system. But the other magnates did not immediately submit—they, too, were ambitious and cast covetous eyes upon the Protector's seat. To increase our chances in the coming storm, we must secure the support of the magnates."
+
+EDG_SIC_0_5_5_title:0 "Audience with the Holy See"
+EDG_SIC_0_5_5_desc:0 "The stalemated war in the Two Sicilies has drawn the attention of the Roman See. Undoubtedly, the Vatican has no desire to see a reunified and hostile Neapolitan Norman kingdom at its doorstep, yet winning its backing for our cause will not be easy. After negotiations between the parties, we are to hold a conference at the Lateran Palace to discuss post-war governance."
+

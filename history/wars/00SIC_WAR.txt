@@ -1,0 +1,14 @@
+name = "War for the Roman Throne"
+war_goal = {
+	type = take_capital
+  casus_belli = cb_annex
+}
+1442.12.1 = {
+  add_attacker = SIC
+  add_defender = BYZ
+}
+
+1443.2.1 = {
+	rem_attacker = SIC
+	rem_defender = BYZ
+}
